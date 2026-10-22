@@ -35,6 +35,95 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-09'
+version_history:
+  file: regulamento-ue-2015-640.versoes.json
+  count: 7
+  source_lastmod: '2026-08-09'
+  versions:
+  - date: '2015-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-02-26'
+    amending: eu:celex:32019R0133:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/133 DA COMISSÃO de 28 de janeiro de 2019; REGULAMENTO DE EXECUÇÃO (UE)
+      2020/1159 DA COMISSÃO de 5 de agosto de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2021/97 DA COMISSÃO de 28 de janeiro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto e âmbito de aplicação
+    - Adita ANEXO I
+    - Adita PARTE 26
+    - Adita ESPECIFICAÇÕES DE AERONAVEGABILIDADE ADICIONAIS PARA AS OPERAÇÕES
+    - Adita SUBPARTE A
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita SUBPARTE B
+    - Adita GRANDES AVIÕES
+    - Adita SUBPARTE C — GRANDES HELICÓPTEROS
+    - Adita Apêndice I
+    - Adita Lista dos modelos de avião não sujeitos a determinadas disposições do anexo I (parte 26)
+    - Adita ANEXO II
+    - Suprime Artigo 1.º — Âmbito de aplicação
+  - date: '2022-09-09'
+    amending: eu:celex:32022R1254:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1254 DA COMISSÃO de 19 de julho de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera ESPECIFICAÇÕES DE AERONAVEGABILIDADE ADICIONAIS PARA AS OPERAÇÕES
+    - Altera GRANDES AVIÕES
+    - Altera SUBPARTE C — GRANDES HELICÓPTEROS
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2023-08-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera GRANDES AVIÕES
+    - Altera Lista dos modelos de avião não sujeitos a determinadas disposições do anexo I (parte 26)
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita SUBPARTE C
+    - Adita HELICÓPTEROS
+    - Adita Apêndice 1
+    - Suprime SUBPARTE C — GRANDES HELICÓPTEROS
+    - Suprime Apêndice I
+  - date: '2024-08-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera GRANDES AVIÕES
+    - Altera HELICÓPTEROS
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2024-12-22'
+    amending: eu:celex:32024R2954:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2954 DA COMISSÃO de 29 de novembro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera ESPECIFICAÇÕES DE AERONAVEGABILIDADE ADICIONAIS PARA AS OPERAÇÕES
+    - Altera DISPOSIÇÕES GERAIS
+    - Altera HELICÓPTEROS
+    - Altera Lista dos modelos de avião não sujeitos a determinadas disposições do anexo I (parte 26)
+    - Altera ANEXO II
+    - Altera Notas
+    - Adita SUBPARTE B — AVIÕES
+    - Suprime Artigo 3.º — Especificações de aeronavegabilidade adicionais para um determinado tipo de operação
+    - Suprime SUBPARTE B
+    - Suprime GRANDES AVIÕES
+  - date: '2026-08-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera HELICÓPTEROS
+    - Altera ANEXO II
+    - Altera Notas
 identifiers:
   celex: 32015R0640
   eli: http://data.europa.eu/eli/reg/2015/640/oj
@@ -49,7 +138,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/523b4733-ea4f-11e4-892c-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/3bd13277-69a2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0640-20260809
-  retrieved_at: '2026-10-22T03:17:41Z'
+  retrieved_at: '2026-10-22T16:40:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T03:03:20.704+02:00'
 integrity:
@@ -58,9 +147,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:41Z'
-  notes: Texto consolidado 02015R0640-20260809.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:40:43Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2015-640.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -116,33 +205,19 @@ relationships:
   source: null
 article_structure:
   article_count: 5
-  section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:41Z'
+  checked_at: '2026-10-22T16:40:43Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2015/640 da Comissão, de 23 de abril de 2015
-
-> 02015R0640 — PT — 09.08.2026 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0133) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/133 DA COMISSÃO de 28 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0133) — L 25 — 14 — 29.1.2019
-- [►M2](http://publications.europa.eu/resource/celex/32020R1159) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1159 DA COMISSÃO de 5 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1159) — L 257 — 14 — 6.8.2020
-- [►M3](http://publications.europa.eu/resource/celex/32021R0097) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/97 DA COMISSÃO de 28 de janeiro de 2021](http://publications.europa.eu/resource/celex/32021R0097) — L 31 — 208 — 29.1.2021
-- [►M4](http://publications.europa.eu/resource/celex/32022R1254) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1254 DA COMISSÃO de 19 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1254) — L 191 — 47 — 20.7.2022
-- [►M5](http://publications.europa.eu/resource/celex/32024R2954) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2954 DA COMISSÃO de 29 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2954) — L 2954 — 1 — 2.12.2024
-
-## REGULAMENTO (UE) 2015/640 DA COMISSÃO
 
 de 23 de abril de 2015
 

@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-11-17'
+version_history:
+  file: diretiva-ue-2016-801.versoes.json
+  count: 1
+  source_lastmod: '2021-11-17'
+  versions:
+  - date: '2021-11-17'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32016L0801
   eli: http://data.europa.eu/eli/dir/2016/801/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/65b80366-1ede-11e6-86d0-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016L0801-20211117
-  retrieved_at: '2026-10-22T02:38:44Z'
+  retrieved_at: '2026-10-22T16:49:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-05T18:06:07.129+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:44Z'
-  notes: Texto consolidado 02016L0801-20211117.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:49:38Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2016-801.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -270,29 +279,20 @@ relationships:
   source: null
 article_structure:
   article_count: 43
-  section_count: 25
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 26
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:44Z'
-  warnings: []
+  checked_at: '2026-10-22T16:49:38Z'
+  warnings:
+  - '02016L0801-20160521: versão indisponível (Sem expressão na língua por para CELEX 02016L0801-20160521.)'
   errors: []
 ---
 
 # Diretiva (UE) 2016/801 do Parlamento Europeu e do Conselho, de 11 de maio de 2016
-
-> 02016L0801 — PT — 17.11.2021 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021L1883) — [DIRETIVA (UE) 2021/1883 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de outubro de 2021](http://publications.europa.eu/resource/celex/32021L1883) — L 382 — 1 — 28.10.2021
-
-## DIRETIVA (UE) 2016/801 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de maio de 2016
 

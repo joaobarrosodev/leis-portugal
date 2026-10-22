@@ -34,6 +34,48 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-01'
+version_history:
+  file: regulamento-ue-2015-1368.versoes.json
+  count: 2
+  source_lastmod: '2023-01-01'
+  versions:
+  - date: '2021-02-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime DISPOSIÇÕES INTRODUTÓRIAS
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Ano apícola
+    - Suprime CAPÍTULO 2
+    - Suprime PROGRAMAS APÍCOLAS
+    - Suprime Artigo 3.º — Notificação dos programas apícolas
+    - Suprime Artigo 4.º — Conteúdo dos programas apícolas
+    - Suprime Artigo 5.º — Aprovação dos programas apícolas
+    - Suprime Artigo 6.º — Alterações dos programas apícolas
+    - Suprime CAPÍTULO 3
+    - Suprime CONTRIBUIÇÃO DA UNIÃO
+    - Suprime Artigo 7.º — Elegibilidade das despesas e pagamentos
+    - Suprime CAPÍTULO 4
+    - Suprime ACOMPANHAMENTO E CONTROLOS
+    - Suprime Artigo 8.º — Controlos
+    - Suprime Artigo 9.º — Pagamentos indevidos e sanções
+    - Suprime CAPÍTULO 5
+    - Suprime REGRAS RELATIVAS ÀS NOTIFICAÇÕES E PUBLICAÇÃO
+    - Suprime Artigo 10.º — Relatório anual de execução
+    - Suprime Artigo 11.º — Data da notificação do número de colmeias
+    - Suprime Artigo 12.º — Regras aplicáveis às notificações
+    - Suprime Artigo 13.º — Publicação de dados agregados
+    - Suprime CAPÍTULO 6
+    - Suprime DISPOSIÇÃO FINAL
+    - Suprime Artigo 14.º — Entrada em vigor
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32015R1368
   eli: http://data.europa.eu/eli/reg_impl/2015/1368/oj
@@ -48,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/52514c24-3d91-11e5-9f5a-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/67e27d96-9d7e-11ed-b508-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R1368-20230101
-  retrieved_at: '2026-10-22T02:45:57Z'
+  retrieved_at: '2026-10-22T16:41:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-11T23:48:18.713+02:00'
 integrity:
@@ -57,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:57Z'
-  notes: Texto consolidado 02015R1368-20230101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:41:10Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2015-1368.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -147,16 +189,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:57Z'
+  checked_at: '2026-10-22T16:41:10Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02015R1368-20150808: versão indisponível (Sem expressão na língua por para CELEX 02015R1368-20150808.)'
   errors: []
 ---
 

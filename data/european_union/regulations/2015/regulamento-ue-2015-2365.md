@@ -43,6 +43,56 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: regulamento-ue-2015-2365.versoes.json
+  count: 3
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2015-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-08-12'
+    amending: eu:celex:32019R0463:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/463 DA COMISSÃO de 30 de janeiro de 2019; REGULAMENTO (UE) 2021/23 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 16 de dezembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Obrigação de notificação e de salvaguarda no que respeita às OFVM
+    - Altera Artigo 12.º — Transparência e disponibilidade dos dados conservados nos repositórios de transações
+    - Altera Artigo 15.º — Reutilização de instrumentos financeiros recebidos no âmbito de um acordo de garantia
+    - Altera Artigo 19.º — Equivalência e reconhecimento dos repositórios de transações
+    - Altera Artigo 22.º — Sanções e outras medidas administrativas
+    - Altera Artigo 26.º — Publicação de decisões
+    - Altera Artigo 31.º — Procedimento de comité
+    - Altera Artigo 32.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 33.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Secção A – Informações a prestar nos relatórios semestrais e anuais dos OICVM e nos relatórios anuais dos FIA
+    - 'Adita Dados gerais:'
+    - 'Adita Dados relativos à concentração:'
+    - 'Adita Dados agregados sobre as operações para cada tipo de OFVM e de swaps de retorno total a discriminar em função
+      das seguintes categorias:'
+    - 'Adita Dados relativos à reutilização das garantias:'
+    - Adita Guarda das garantias recebidas pelo organismo de investimento coletivo no âmbito das OFVM e dos swaps de retorno
+      total
+    - Adita Guarda das garantias concedidas pelo organismo de investimento coletivo no âmbito das OFVM e dos swaps de retorno
+      total
+    - 'Adita Secção B – Informações a incluir no prospeto dos OICVM e na divulgação de informações aos investidores dos FIA:'
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Obrigação de notificação e de salvaguarda no que respeita às OFVM
+    - Altera Artigo 12.º — Transparência e disponibilidade dos dados conservados nos repositórios de transações
+    - Altera Artigo 31.º — Procedimento de comité
+    - Altera Artigo 32.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Notas
+    - Adita Artigo 32.º-A — Acessibilidade da informação no ponto de acesso único europeu
 identifiers:
   celex: 32015R2365
   eli: http://data.europa.eu/eli/reg/2015/2365/oj
@@ -57,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b73101cd-a953-11e5-b528-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/087de906-c57c-11ee-95d9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R2365-20240109
-  retrieved_at: '2026-10-22T02:48:42Z'
+  retrieved_at: '2026-10-22T16:41:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-13T01:25:18.618+02:00'
 integrity:
@@ -66,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:42Z'
-  notes: Texto consolidado 02015R2365-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:41:21Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2015-2365.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -249,31 +299,20 @@ relationships:
   date: '2019-12-06'
 article_structure:
   article_count: 34
-  section_count: 29
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 30
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:42Z'
-  warnings: []
+  checked_at: '2026-10-22T16:41:21Z'
+  warnings:
+  - '02015R2365-20191101: versão indisponível (Sem expressão na língua por para CELEX 02015R2365-20191101.)'
   errors: []
 ---
 
 # Regulamento (UE) 2015/2365 do Parlamento Europeu e do Conselho de 25 de novembro de 2015
-
-> 02015R2365 — PT — 09.01.2024 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0463) — [REGULAMENTO DELEGADO (UE) 2019/463 DA COMISSÃO de 30 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0463) — L 80 — 16 — 22.3.2019
-- [►M2](http://publications.europa.eu/resource/celex/32021R0023) — [REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0023) — L 22 — 1 — 22.1.2021
-- [►M3](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L — 1 — 20.12.2023
-
-## REGULAMENTO (UE) 2015/2365 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de novembro de 2015
 

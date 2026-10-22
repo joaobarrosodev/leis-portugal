@@ -36,6 +36,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-12-24'
+version_history:
+  file: regulamento-ue-2015-1017.versoes.json
+  count: 3
+  source_lastmod: '2025-12-24'
+  versions:
+  - date: '2017-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32021R0523:por
+    amending_title: REGULAMENTO (UE) 2021/523 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de março de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Requisitos aplicáveis à utilização da garantia da UE
+    - Altera Artigo 12.º — Fundo de garantia da UE
+    - Altera Artigo 13.º — Financiamento do fundo de garantia a partir do orçamento geral da União
+    - Altera Artigo 21.º — Medidas antifraude
+    - Altera Artigo 22.º — Atividades excluídas e jurisdições não cooperantes
+    - Altera Repartição do orçamento
+    - Altera 2. Contrapartes elegíveis, tipos de projetos e instrumentos
+    - Altera 6. Formas de investimento
+    - Altera 8. Diversificação setorial e geográfica
+    - Altera Notas
+    - Adita Artigo 11.º-A — Combinação da carteira do FEIE com outras carteiras
+    - Suprime a) Concentração setorial
+    - Suprime b) Concentração geográfica
+  - date: '2025-12-24'
+    amending: eu:celex:32025R2005:por
+    amending_title: REGULAMENTO (UE) 2025/2005 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Governação do FEIE
+    - Altera Artigo 9.º — Requisitos aplicáveis à utilização da garantia da UE
+    - Altera Artigo 12.º — Fundo de garantia da UE
+    - Altera Artigo 13.º — Financiamento do fundo de garantia a partir do orçamento geral da União
+    - Altera Artigo 16.º — Apresentação de relatórios e prestação de contas
+    - Altera Artigo 21.º — Medidas antifraude
+    - Altera Artigo 22.º — Atividades excluídas e jurisdições não cooperantes
+    - Altera Repartição do orçamento
+    - Altera 2. Contrapartes elegíveis, tipos de projetos e instrumentos
+    - Altera 6. Formas de investimento
+    - Altera Notas
+    - Adita Artigo 11.º-A
+    - Adita Combinações
+    - Suprime Artigo 11.º-A — Combinação da carteira do FEIE com outras carteiras
 identifiers:
   celex: 32015R1017
   eli: http://data.europa.eu/eli/reg/2015/1017/oj
@@ -50,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4e00d188-1fbb-11e5-a342-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/4f612dcb-1cd0-11f1-8c3a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R1017-20251224
-  retrieved_at: '2026-10-22T03:17:43Z'
+  retrieved_at: '2026-10-22T16:41:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T02:44:42.280+02:00'
 integrity:
@@ -59,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:43Z'
-  notes: Texto consolidado 02015R1017-20251224.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:41:00Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2015-1017.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -199,31 +245,20 @@ relationships:
   date: '2018-02-24'
 article_structure:
   article_count: 26
-  section_count: 33
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 35
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:43Z'
-  warnings: []
+  checked_at: '2026-10-22T16:41:00Z'
+  warnings:
+  - '02015R1017-20150701: versão indisponível (Sem expressão na língua por para CELEX 02015R1017-20150701.)'
   errors: []
 ---
 
 # Regulamento (UE) 2015/1017 do Parlamento Europeu e do Conselho de 25 de junho de 2015
-
-> 02015R1017 — PT — 24.12.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R2396) — [REGULAMENTO (UE) 2017/2396 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2396) — L 345 — 34 — 27.12.2017
-- [►M2](http://publications.europa.eu/resource/celex/32021R0523) — [REGULAMENTO (UE) 2021/523 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de março de 2021](http://publications.europa.eu/resource/celex/32021R0523) — L 107 — 30 — 26.3.2021
-- [►M3](http://publications.europa.eu/resource/celex/32025R2005) — [REGULAMENTO (UE) 2025/2005 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2005) — L 2005 — 1 — 23.12.2025
-
-## REGULAMENTO (UE) 2015/1017 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de junho de 2015
 

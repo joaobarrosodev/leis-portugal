@@ -35,6 +35,67 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-06-19'
+version_history:
+  file: regulamento-ue-2014-1062.versoes.json
+  count: 4
+  source_lastmod: '2022-06-19'
+  versions:
+  - date: '2014-10-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-05-09'
+    amending: eu:celex:32017R0698:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2017/698 DA COMISSÃO de 3 de fevereiro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Aceitação dos pedidos
+    - Altera Artigo 6.º — Avaliação dos pedidos
+    - Altera Artigo 14.º — Assunção das funções de participante
+    - Altera Artigo 17.º — Procedimento de notificação
+    - Altera Artigo 20.º — Decisões da Comissão sobre substâncias que deixaram de ser apoiadas no âmbito do programa de análise
+    - Altera Notas
+    - Adita COMBINAÇÕES SUBSTÂNCIA/TIPO DE PRODUTO INCLUÍDAS NO PROGRAMA DE ANÁLISE EM 3 DE FEVEREIRO DE 2017
+    - Adita Combinações substância ativa/tipo de produto apoiadas em 3 de fevereiro de 2017, com exclusão de quaisquer outros
+      nanomateriais que não os expressamente referidos nas entradas 1017, 1019 e 1023
+    - Suprime COMBINAÇÕES SUBSTÂNCIA/TIPO DE PRODUTO INCLUÍDAS NO PROGRAMA DE ANÁLISE EM 4 DE AGOSTO DE 2014
+    - Suprime PARTE 1
+    - Suprime Combinações substância ativa/tipo de produto apoiadas em 4 de agosto de 2014, com exclusão de quaisquer outros
+      nanomateriais que não os expressamente referidos nas entradas 1017 e 1019.
+    - Suprime PARTE 2
+    - Suprime Combinações substância ativa/tipo de produto não apoiadas em 4 de agosto de 2014
+  - date: '2019-03-30'
+    amending: eu:celex:32019R0157:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/157 DA COMISSÃO de 6 de novembro de 2018; REGULAMENTO DELEGADO (UE) 2019/227
+      DA COMISSÃO de 28 de novembro de 2018
+    changes:
+    - Altera Artigo 4.º — Aceitação dos pedidos
+    - Altera Artigo 6.º — Avaliação dos pedidos
+    - Altera Notas
+    - Adita Artigo 6.º-A — Pedidos para os quais a autoridade competente do Reino Unido era a autoridade competente de avaliação
+      antes de 30 de março de 2019
+    - Adita COMBINAÇÕES SUBSTÂNCIA/TIPO DE PRODUTO INCLUÍDAS NO PROGRAMA DE ANÁLISE EM 6 DE NOVEMBRO DE 2018
+    - Adita Combinações substância ativa/tipo de produto apoiadas em 6 de novembro de 2018, com exclusão de quaisquer outros
+      nanomateriais que não os expressamente referidos nas entradas 1017 e 1023 e com exclusão de qualquer geração in situ
+      da substância ativa, exceto quando explicitamente mencionado com referência ao(s) precursor(es) apoiado(s).
+    - Suprime COMBINAÇÕES SUBSTÂNCIA/TIPO DE PRODUTO INCLUÍDAS NO PROGRAMA DE ANÁLISE EM 3 DE FEVEREIRO DE 2017
+    - Suprime Combinações substância ativa/tipo de produto apoiadas em 3 de fevereiro de 2017, com exclusão de quaisquer outros
+      nanomateriais que não os expressamente referidos nas entradas 1017, 1019 e 1023
+  - date: '2022-06-19'
+    amending: eu:celex:32022R0825:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/825 DA COMISSÃO de 17 de março de 2022
+    changes:
+    - Altera Artigo 4.º — Aceitação dos pedidos
+    - Altera Artigo 6.º — Avaliação dos pedidos
+    - Altera Notas
+    - Adita COMBINAÇÕES SUBSTÂNCIA/TIPO DE PRODUTO INCLUÍDAS NO PROGRAMA DE ANÁLISE EM 17 DE MARÇO DE 2022
+    - Adita Combinações substância ativa/tipo de produto apoiadas em 17 de março de 2022, com exclusão de quaisquer outros
+      nanomateriais que não o expressamente referido na entrada 1017 e com exclusão de qualquer geração in situ da substância
+      ativa, exceto quando explicitamente mencionado com referência ao(s) precursor(es) apoiado(s)
+    - Suprime COMBINAÇÕES SUBSTÂNCIA/TIPO DE PRODUTO INCLUÍDAS NO PROGRAMA DE ANÁLISE EM 6 DE NOVEMBRO DE 2018
+    - Suprime Combinações substância ativa/tipo de produto apoiadas em 6 de novembro de 2018, com exclusão de quaisquer outros
+      nanomateriais que não os expressamente referidos nas entradas 1017 e 1023 e com exclusão de qualquer geração in situ
+      da substância ativa, exceto quando explicitamente mencionado com referência ao(s) precursor(es) apoiado(s).
 identifiers:
   celex: 32014R1062
   eli: http://data.europa.eu/eli/reg_del/2014/1062/oj
@@ -49,7 +110,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/266b7ea4-5042-11e4-a0cb-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/5b36d3e0-f19a-11ec-a534-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R1062-20220619
-  retrieved_at: '2026-10-22T03:17:25Z'
+  retrieved_at: '2026-10-22T16:37:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T07:45:19.734+02:00'
 integrity:
@@ -58,9 +119,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:25Z'
-  notes: Texto consolidado 02014R1062-20220619.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:37:36Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2014-1062.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -169,36 +230,19 @@ relationships:
   date: '2013-06-26'
 article_structure:
   article_count: 25
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:25Z'
+  checked_at: '2026-10-22T16:37:36Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) n. °1062/2014 da Comissão, de 4 de agosto de 2014
-
-> 02014R1062 — PT — 19.06.2022 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R0698) — [REGULAMENTO DELEGADO (UE) 2017/698 DA COMISSÃO de 3 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0698) — L 103 — 1 — 19.4.2017
-- [M2](http://publications.europa.eu/resource/celex/32019R0157) — [REGULAMENTO DELEGADO (UE) 2019/157 DA COMISSÃO de 6 de novembro de 2018](http://publications.europa.eu/resource/celex/32019R0157) — L 31 — 1 — 1.2.2019
-- [►M3](http://publications.europa.eu/resource/celex/32019R0227) — [REGULAMENTO DELEGADO (UE) 2019/227 DA COMISSÃO de 28 de novembro de 2018](http://publications.europa.eu/resource/celex/32019R0227) — L 37 — 1 — 8.2.2019
-- [►M4](http://publications.europa.eu/resource/celex/32022R0825) — [REGULAMENTO DELEGADO (UE) 2022/825 DA COMISSÃO de 17 de março de 2022](http://publications.europa.eu/resource/celex/32022R0825) — L 147 — 3 — 30.5.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R1062R%2801%29) — [Rectificação, JO L 198, 28.7.2015, p. 28 (1062/2014)](http://publications.europa.eu/resource/celex/32014R1062R%2801%29)
-
-## REGULAMENTO DELEGADO (UE) N.º 1062/2014 DA COMISSÃO
 
 de 4 de agosto de 2014
 

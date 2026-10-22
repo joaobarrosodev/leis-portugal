@@ -36,6 +36,83 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-12-29'
+version_history:
+  file: regulamento-ue-2014-641.versoes.json
+  count: 3
+  source_lastmod: '2022-12-29'
+  versions:
+  - date: '2014-06-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-04-18'
+    amending: eu:celex:32018R0557:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/557 DA COMISSÃO de 9 de abril de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento
+      com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013
+    - Altera Artigo 10.º — Procedimento de notificação e avaliação das práticas previstas nos compromissos específicos ou
+      regimes de certificação
+    - Altera Artigo 15.º — Notificações relativas à flexibilidade entre pilares
+    - Altera Artigo 19.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 16.º-A — Notificação do aumento do limite máximo fixado para o regime de pagamento único por superfície
+      a que se refere o artigo 36.º, n.º 4, do Regulamento (UE) n.º 1307/2013
+  - date: '2022-12-29'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime ÂMBITO DE APLICAÇÃO E PRINCÍPIOS GERAIS
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Princípios gerais
+    - Suprime CAPÍTULO 2
+    - Suprime REGIME DE PAGAMENTO DE BASE
+    - Suprime SECÇÃO 1
+    - Suprime Primeira atribuição dos direitos ao pagamento
+    - Suprime Artigo 3.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de
+      arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013
+    - Suprime Artigo 4.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de
+      arrendamento com uma cláusula conforme com o artigo 20.º do Regulamento Delegado (UE) n.º 639/2014
+    - Suprime Artigo 5.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de
+      arrendamento com uma cláusula conforme com o artigo 21.º do Regulamento Delegado (UE) n.º 639/2014.
+    - Suprime Artigo 6.º — Valor dos direitos ao pagamento no caso de herança
+    - Suprime SECÇÃO 2
+    - Suprime Ativação e transferência de direitos ao pagamento
+    - Suprime Artigo 7.º — Ativação dos direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento
+      com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013 ou com os artigos 20.º e 21.º
+      do Regulamento Delegado (UE) n.º 639/2014
+    - Suprime Artigo 8.º — Notificações de transferência
+    - Suprime SECÇÃO 3
+    - Suprime Reservas nacionais ou regionais
+    - Suprime Artigo 9.º — Reversão para a reserva nacional ou regional
+    - Suprime CAPÍTULO 3
+    - Suprime ECOLOGIZAÇÃO
+    - Suprime Artigo 10.º — Procedimento de notificação e avaliação das práticas previstas nos compromissos específicos ou
+      regimes de certificação
+    - Suprime Artigo 11.º — Limites para a manutenção da superfície ocupada por prados permanentes em termos absolutos
+    - Suprime CAPÍTULO 4
+    - Suprime APOIO ASSOCIADO
+    - Suprime Apoio associado voluntário
+    - Suprime Artigo 12.º — Procedimento de apreciação e aprovação das decisões referidas no artigo 55.º, n.º 1, do Regulamento
+      (UE) n.º 1307/2013
+    - Suprime Pagamento específico para o algodão
+    - Suprime Artigo 13.º — Processo de autorização das terras e variedades
+    - Suprime Artigo 14.º — Notificações aos produtores
+    - Suprime CAPÍTULO 5
+    - Suprime NORMAS APLICÁVEIS À NOTIFICAÇÃO
+    - Suprime Artigo 15.º — Notificações relativas à flexibilidade entre pilares
+    - Suprime Artigo 16.º — Notificação sobre o aumento do limite máximo do regime de pagamento de base a que se refere o
+      artigo 22.º, n.^os^ 2 e 3, do Regulamento (UE) n.º 1307/2013
+    - Suprime Artigo 16.º-A — Notificação do aumento do limite máximo fixado para o regime de pagamento único por superfície
+      a que se refere o artigo 36.º, n.º 4, do Regulamento (UE) n.º 1307/2013
+    - Suprime Artigo 17.º — Afetações financeiras ao abrigo do pagamento redistributivo, do pagamento para zonas com condicionantes
+      naturais e do pagamento aos jovens agricultores
+    - Suprime Artigo 18.º — Aplicação do Regulamento (CE) n.º 792/2009
+    - Suprime CAPÍTULO 6
+    - Suprime DISPOSIÇÕES FINAIS
 identifiers:
   celex: 32014R0641
   eli: http://data.europa.eu/eli/reg_impl/2014/641/oj
@@ -50,7 +127,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/c9087d2b-9d73-11ed-b508-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0641-20221229
-  retrieved_at: '2026-10-22T03:00:25Z'
+  retrieved_at: '2026-10-22T16:35:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T07:05:18.777+02:00'
 integrity:
@@ -59,9 +136,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:25Z'
-  notes: Texto consolidado 02014R0641-20221229.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:35:14Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2014-641.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -124,16 +201,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:25Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:35:14Z'
+  warnings: []
   errors: []
 ---
 

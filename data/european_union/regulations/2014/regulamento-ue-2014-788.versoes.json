@@ -1,0 +1,483 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014R0788:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0788-20140808",
+ "dre_path": null,
+ "source_lastmod": "2014-08-08",
+ "versions": [
+  {
+   "date": "2014-07-19",
+   "future": false,
+   "celex": "32014R0788",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ff6ad577a7298320",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "a5076ad3751cc5b9",
+    "ffb6ad1b8b1630bb",
+    "f0f8c960bfdbce9b",
+    "443d8b7c33705a05",
+    "55e608ff346442db",
+    "4a5c8a90c5d73395",
+    "36e89f3f60eec224",
+    "759c8476356ed38c",
+    "8e9f4151a6a7dda9",
+    "3f15f578f5638eb3",
+    "aa0cd7697115c32e",
+    "1e7a0903d2eed348",
+    "f01f6a1f7a833f9d",
+    "2dd190970eb2c094",
+    "5b83cb1a699fff71",
+    "1ecfc79da3f1ac7f",
+    "3a2293c837b31c16",
+    "69da8127b74f755c",
+    "5179efa737370f3d",
+    "c617ba50cd12853c",
+    "5abf4af8d28e0f4b",
+    "09381efa7bd5a9bc",
+    "c6bbcadb3ca441f5",
+    "fd9faacf231584f0",
+    "729cdfe79e2e783a",
+    "b7e6b3c3a86c2c0a",
+    "f62468bcbcbe2700",
+    "8958b041fabdc942",
+    "59b2c9d85c2b29bd",
+    "cfcf71e2e5329512",
+    "309f84e5a9572033",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "78398f5044e5a9b4",
+    "d9262b2f738f1066",
+    "18f0fab49b090458"
+   ]
+  },
+  {
+   "date": "2014-08-08",
+   "future": false,
+   "celex": "02014R0788-20140808",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Determinação das infrações",
+    "Altera Artigo 6.º — Avaliação das consequências das infrações",
+    "Altera Artigo 21.º — Cobrança das coimas e sanções pecuniárias",
+    "Altera Artigo 27.º — Entrada em vigor",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "8dfc1339e92fc9e0",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "a5076ad3751cc5b9",
+    "0e71539bad356934",
+    "f0f8c960bfdbce9b",
+    "443d8b7c33705a05",
+    "7dfe21bc1fb0c3c9",
+    "4a5c8a90c5d73395",
+    "36e89f3f60eec224",
+    "a03676c01f074502",
+    "8e9f4151a6a7dda9",
+    "3f15f578f5638eb3",
+    "aa0cd7697115c32e",
+    "1e7a0903d2eed348",
+    "f01f6a1f7a833f9d",
+    "2dd190970eb2c094",
+    "5b83cb1a699fff71",
+    "1ecfc79da3f1ac7f",
+    "3a2293c837b31c16",
+    "69da8127b74f755c",
+    "5179efa737370f3d",
+    "c617ba50cd12853c",
+    "5abf4af8d28e0f4b",
+    "09381efa7bd5a9bc",
+    "c6bbcadb3ca441f5",
+    "fd9faacf231584f0",
+    "729cdfe79e2e783a",
+    "b7e6b3c3a86c2c0a",
+    "bacf223d6f8c6e9b",
+    "8958b041fabdc942",
+    "59b2c9d85c2b29bd",
+    "cfcf71e2e5329512",
+    "309f84e5a9572033",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "78398f5044e5a9b4",
+    "8f452700143e1b3a",
+    "d99374b843cb8214"
+   ]
+  }
+ ],
+ "fragments": {
+  "ff6ad577a7298320": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de julho de 2014\n\nque estabelece regras circunstanciadas para a aplicação de coimas e sanções pecuniárias temporárias e a retirada do reconhecimento a organizações de vistoria e inspeção de navios nos termos dos artigos 6.º e 7.º do Regulamento (CE) n.º 391/2009 do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 391/2009 do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativo às regras comuns para as organizações de vistoria e inspeção de navios [([^1])](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2014214PT.01001201-E0001), nomeadamente o artigo 14.º, n.º 2,\n\nConsiderando o seguinte:\n\n(1) Os artigos 6.º e 7.º do Regulamento (CE) n.º 391/2009 habilitam a Comissão a aplicar coimas e sanções pecuniárias temporárias a organizações reconhecidas, definidas no artigo 2.º do regulamento, ou a retirar-lhes o reconhecimento, a fim de assegurar a observância dos critérios e obrigações estabelecidos no regulamento com o claro objetivo de remover qualquer ameaça potencial à segurança ou ao ambiente.\n\n(2) No interesse da transparência, importa estabelecer, em conformidade com o artigo 14.º, n.º 2, do Regulamento (CE) n.º 391/2009, normas de procedimento detalhadas para a tomada de decisões, bem como a metodologia a utilizar pela Comissão no cálculo das coimas e sanções pecuniárias temporárias, para que as organizações reconhecidas deles tenham conhecimento antecipado, e os critérios específicos para a Comissão avaliar a gravidade do caso e a extensão das suas implicações para a segurança ou para a proteção do ambiente.\n\n(3) Com a introdução das coimas e sanções pecuniárias temporárias, a Comissão passa a ter ao seu dispor um meio suplementar de reagir, de forma mais matizada, flexível e gradativa por comparação com a retirada do reconhecimento, à violação das disposições do Regulamento (CE) n.º 391/2009 por organizações reconhecidas.\n\n(4) As sanções pecuniárias temporárias devem ser eficazes em assegurar a pronta e devida correção de qualquer infração de obrigações ou requisitos estabelecidos no Regulamento (CE) n.º 391/2009. Esse regulamento habilita, assim, a Comissão a aplicar tais sanções a organizações reconhecidas que não tomem as medidas preventivas ou corretivas exigidas pela Comissão, após um lapso de tempo razoável e até que a organização tome as medidas exigidas. Caso seja necessário à luz das circunstâncias, o montante diário das sanções pode ser aumentado progressivamente de forma a refletir a urgência das medidas.\n\n(5) O cálculo das coimas e sanções pecuniárias temporárias em percentagem do volume de negócios da organização, tendo em conta o limite máximo estabelecido em conformidade com o Regulamento (CE) n.º 391/2009, constitui um método simples de assegurar que as coimas e sanções serão dissuasivas e proporcionais à gravidade do caso e à capacidade económica da organização, atendendo à dimensão diversa das organizações reconhecidas.\n\n(6) A aplicação do limite máximo para o montante agregado máximo das coimas e sanções pecuniárias temporárias deve ser claramente definida tendo em consideração as diferentes circunstâncias, no interesse da transparência e da segurança jurídica. Pelos mesmos motivos, importa igualmente definir a metodologia de cálculo, para cada organização reconhecida, do volume de negócios médio total nos três exercícios anteriores correspondente às atividades abrangidas pelo Regulamento (CE) n.º 391/2009.\n\n(7) Convém que as decisões de retirada do reconhecimento a organizações reconhecidas, com base nas condições estabelecidas no artigo 7.º, n.º 1, do Regulamento (CE) n.º 391/2009, tenham em conta os fatores relacionados com o objetivo global de monitorização das operações e do desempenho geral das organizações reconhecidas, incluindo a eficácia das coimas e sanções pecuniárias temporárias já aplicadas por infrações reiteradas e graves do regulamento.\n\n(8) Convém definir um procedimento específico para a Comissão, por iniciativa própria ou a pedido de um ou mais Estados-Membros, retirar o reconhecimento a uma organização ao abrigo do Regulamento (CE) n.º 391/2009, à luz das competências da Comissão para avaliar organizações reconhecidas e aplicar coimas e sanções pecuniárias temporárias mediante os procedimentos conexos estabelecidos no presente regulamento.\n\n(9) Importa que as decisões de aplicação de coimas ou sanções pecuniárias temporárias ou de retirada do reconhecimento, tomadas ao abrigo do presente regulamento, se fundamentem exclusivamente nos motivos a respeito dos quais as organizações reconhecidas interessadas tenham tido a oportunidade de formular as suas observações.\n\n(10) O presente regulamento respeita os direitos fundamentais e observa os princípios consagrados na Carta dos Direitos Fundamentais da União Europeia, nomeadamente o direito de defesa, o princípio da confidencialidade e o princípio *ne bis in idem*, de acordo com os princípios gerais do direito e com a jurisprudência do Tribunal de Justiça da União Europeia.\n\n(11) As decisões de aplicação de coimas ou sanções pecuniárias temporárias, tomadas ao abrigo do presente regulamento, devem ser executadas em conformidade com o artigo 299.º do Tratado sobre o Funcionamento da União Europeia e são passíveis de revisão pelo Tribunal de Justiça da União Europeia.\n\n(12) Para assegurar a equidade e a segurança jurídica na condução dos procedimentos, é necessário definir regras pormenorizadas para o cálculo dos prazos a fixar pela Comissão no decurso do procedimento, bem como dos prazos de prescrição a respeitar pela Comissão para efeitos da aplicação e cobrança de coimas e sanções pecuniárias temporárias, tendo em conta igualmente a data de entrada em vigor do Regulamento (CE) n.º 391/2009.\n\n(13) A aplicação do presente regulamento requer a cooperação eficaz dos Estados-Membros interessados, da Comissão e da Agência Europeia da Segurança Marítima. É necessário, portanto, precisar os direitos e obrigações de cada parte no quadro dos procedimentos previstos no presente regulamento, a fim de assegurar a eficácia dos processos de investigação, decisão e acompanhamento, em conformidade com os artigos 6.º e 7.º do Regulamento (CE) n.º 391/2009.\n\n(14) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2014214PT.01001201-E0002),\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "a5076ad3751cc5b9": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece as regras de execução dos artigos 6.º e 7.º do Regulamento (CE) n.º 391/2009 pela Comissão.\n\nO presente regulamento define os critérios de determinação do montante das coimas e sanções pecuniárias temporárias e o procedimento para decidir da aplicação de coimas ou sanções pecuniárias temporárias ou da retirada do reconhecimento a organizações reconhecidas por iniciativa da Comissão ou a pedido de Estados-Membros."
+  },
+  "ffb6ad1b8b1630bb": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as definições constantes do artigo 2.º do Regulamento (CE) n.º 391/2009.\n\nÉ também aplicável a seguinte definição:\n\n«Estado-Membro interessado»: qualquer Estado-Membro que tenha confiado a uma organização reconhecida a inspeção, vistoria e certificação de navios da sua bandeira para efeitos da aplicação das convenções internacionais, em conformidade com a Diretiva 2009/15/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa às regras comuns para as organizações de vistoria e inspeção de navios e para as atividades relevantes das administrações marítimas [([^3])](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2014214PT.01001201-E0003), designadamente o Estado-Membro que requereu à Comissão o reconhecimento da organização em causa ao abrigo do artigo 3.º do Regulamento (CE) n.º 391/2009."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "443d8b7c33705a05": {
+   "fragment_id": "COIMAS E SANÇÕES PECUNIÁRIAS TEMPORÁRIAS",
+   "type": "divisao",
+   "heading": "COIMAS E SANÇÕES PECUNIÁRIAS TEMPORÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COIMAS E SANÇÕES PECUNIÁRIAS TEMPORÁRIAS"
+  },
+  "55e608ff346442db": {
+   "fragment_id": "Artigo 3.º — Determinação das infrações",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Determinação das infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Determinação das infrações\n\n1. A Comissão determina que há infração, nos termos do artigo 6.º, n.º 1, do Regulamento (CE) n.º 391/2009, quando:\n\na) o incumprimento grave ou reiterado, por uma organização reconhecida, de um dos critérios mínimos estabelecidos no anexo I do Regulamento (CE) n.º 391/2009 ou das suas obrigações nos termos do artigo 8.º, n.º 4, ou dos artigos 9.º, 10.º ou 11.º do referido regulamento revela deficiências graves na estrutura, nos sistemas, nos procedimentos ou nos controlos internos da organização;\n\nb) a deterioração do desempenho de uma organização reconhecida, tendo em conta o disposto na Decisão (CE) n.º 2009/491 da Comissão [([^4])](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2014214PT.01001201-E0004), revela deficiências graves na estrutura, nos sistemas, nos procedimentos ou nos controlos internos da organização;\n\nc) uma organização reconhecida prestou deliberadamente informações incorretas, incompletas ou enganadoras à Comissão no decurso da sua avaliação ou obstruiu de outra forma essa avaliação.\n\n2. No quadro dos procedimentos de infração no âmbito do presente regulamento, o ónus da prova de existência de infração recai sobre a Comissão."
+  },
+  "4a5c8a90c5d73395": {
+   "fragment_id": "Artigo 4.º — Cálculo das coimas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Cálculo das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cálculo das coimas\n\n1. A cada infração determinada com base no artigo 6.º, n.º 1, do Regulamento (CE) n.º 391/2009 é aplicada inicialmente uma coima de base correspondente a 0,6 % do volume de negócios da organização reconhecida, determinado em conformidade com o artigo 9.º.\n\n2. Para o cálculo da coima aplicável a cada infração, a coima de base a que se refere o n.º 1 é agravada ou reduzida consoante a gravidade e as consequências da infração, nomeadamente a extensão das suas implicações para a segurança ou para a proteção do ambiente, em conformidade com os artigos 5.º e 6.º respetivamente.\n\n3. O montante máximo de cada coima individual não ultrapassará 1,8 % do volume de negócios médio total da organização reconhecida.\n\n4. Se um ato ou omissão da organização reconhecida constituir a base única de duas ou mais infrações nos termos do artigo 6.º, n.º 1, alínea a), do Regulamento (CE) n.º 391/2009, determinadas à luz do artigo 3.º, n.º 1, alínea a), do presente regulamento, a coima concomitante será a mais elevada das coimas individuais calculadas para as infrações subjacentes.\n\n5. A coima total aplicada a uma organização reconhecida no âmbito de uma só decisão será a soma de todas as coimas individuais resultantes da aplicação dos n.^os^ 1 a 4 do presente artigo, sem prejuízo do limite máximo previsto no artigo 6.º, n.º 3, do Regulamento (CE) n.º 391/2009 e determinado conforme disposto no artigo 8.º do presente regulamento."
+  },
+  "36e89f3f60eec224": {
+   "fragment_id": "Artigo 5.º — Avaliação da gravidade das infrações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Avaliação da gravidade das infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação da gravidade das infrações\n\nAo avaliar a gravidade da infração, a Comissão atende às circunstâncias agravantes e atenuantes, nomeadamente:\n\na) a circunstância de a organização ter agido com negligência ou dolo;\n\nb) o número de atos ou omissões da organização que prefiguram a infração;\n\nc) a circunstância de a infração afetar escritórios ou zonas específicos ou toda a organização;\n\nd) a recorrência dos atos ou omissões da organização que prefiguram a infração;\n\ne) a duração da infração;\n\nf) a deturpação do estado real dos navios ou a inclusão de informações incorretas ou enganadoras nos certificados e nos documentos de conformidade emitidos pela organização;\n\ng) as sanções, coimas inclusive, anteriormente aplicadas à organização;\n\nh) a circunstância de a infração resultar de entendimento entre organizações reconhecidas ou de prática concertada, cujo objeto ou efeito consiste na violação dos critérios e obrigações estabelecidos no Regulamento (CE) n.º 391/2009;\n\ni) a diligência e cooperação da organização no apuramento dos atos ou omissões relevantes, bem como na determinação das infrações pela Comissão."
+  },
+  "759c8476356ed38c": {
+   "fragment_id": "Artigo 6.º — Avaliação das consequências das infrações",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Avaliação das consequências das infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação das consequências das infrações\n\nAo avaliar as consequências de uma infração, nomeadamente a extensão das suas implicações para a segurança ou para a proteção do ambiente, a Comissão atende às circunstâncias agravantes e atenuantes, nomeadamente:\n\na) a natureza e a extensão das deficiências que afetam efetiva ou potencialmente a frota certificada pela organização e que, em resultado da infração, esta não detetou ou não podia detetar ou cuja retificação em tempo útil não exigiu ou não podia exigir, tendo em conta, nomeadamente, os critérios para a detenção de um navio definidos no anexo X da Diretiva 2009/16/CE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2014214PT.01001201-E0005) relativa à inspeção de navios pelo Estado do porto;\n\nb) a proporção da frota certificada pela organização efetiva ou potencialmente afetada;\n\nc) outras circunstâncias que constituam riscos identificáveis específicos, designadamente o tipo dos navios efetiva ou potencialmente afetados."
+  },
+  "8e9f4151a6a7dda9": {
+   "fragment_id": "Artigo 7.º — Sanções pecuniárias temporárias",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Sanções pecuniárias temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sanções pecuniárias temporárias\n\n1. Sem prejuízo das coimas aplicadas nos termos do artigo 3.º, a Comissão poderá aplicar à organização em causa as sanções pecuniárias temporárias a que se refere o artigo 6.º, n.º 2, do Regulamento (CE) n.º 391/2009, a fim de assegurar que são tomadas as medidas preventivas e corretivas exigidas pela Comissão no quadro da avaliação da organização reconhecida.\n\n2. Na decisão de aplicação de coimas nos termos do artigo 3.º, a Comissão poderá igualmente estabelecer sanções pecuniárias temporárias a aplicar à organização reconhecida se, e enquanto, esta não tomar as medidas corretivas ou incorrer em atrasos injustificados na cessação da infração.\n\n3. A decisão de aplicação de sanções pecuniárias temporárias estabelece o prazo em que a organização reconhecida terá de dar cumprimento à medida exigida.\n\n4. As sanções pecuniárias temporárias são aplicáveis do dia seguinte ao termo do prazo estipulado em conformidade com o n.º 3 ao dia em que a medida corretiva adequada for tomada pela organização, desde que a Comissão a considere satisfatória.\n\n5. O montante de base diário da sanção pecuniária temporária aplicável a cada infração corresponde a 0,0033 % do volume de negócios médio total da organização reconhecida, calculado de acordo com o artigo 9.º. Para efeitos do cálculo do montante da sanção aplicável a cada infração, o montante de base é ajustado em função da gravidade da infração e tendo em conta a extensão das suas implicações para a segurança ou para a proteção do ambiente, em conformidade com os artigos 5.º e 6.º.\n\n6. À luz das circunstâncias, e vista nomeadamente a urgência da medida corretiva a tomar pela organização, a Comissão poderá decidir aumentar o montante diário da sanção pecuniária temporária até aos seguintes limites:\n\na) 0,005 % do volume de negócios médio total da organização reconhecida, calculado de acordo com o artigo 9.º, do 121.º ao 300.º dia a contar do termo do prazo estipulado nos termos do n.º 3, se a organização exceder esse prazo em mais de 120 dias;\n\nb) 0,01 % do volume de negócios médio total da organização reconhecida, calculado de acordo com o artigo 9.º, desde o 301.º dia a contar do termo do prazo estipulado nos termos do n.º 3, se a organização exceder esse prazo em mais de 300 dias.\n\n7. O montante total das sanções pecuniárias temporárias aplicadas nos termos do presente artigo, individualmente ou em conjunto com coimas, não excederá o limite máximo previsto no artigo 6.º, n.º 3, do Regulamento (CE) n.º 391/2009 e determinado conforme disposto no artigo 8.º do presente regulamento."
+  },
+  "3f15f578f5638eb3": {
+   "fragment_id": "Artigo 8.º — Determinação do montante agregado máximo das coimas e sanções pecuniárias temporárias",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Determinação do montante agregado máximo das coimas e sanções pecuniárias temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Determinação do montante agregado máximo das coimas e sanções pecuniárias temporárias\n\nO montante agregado máximo das coimas e sanções pecuniárias temporárias aplicadas a organizações reconhecidas, previsto no artigo 6.º, n.º 3, do Regulamento (CE) n.º 391/2009, é determinado do seguinte modo:\n\na) O montante agregado das coimas aplicadas a uma organização reconhecida, nos termos do artigo 4.º, no decurso de um exercício, tendo em conta a data da decisão de aplicação de coimas ou, havendo mais de uma decisão, a data da primeira decisão que aplica coimas à organização, não excederá 5 % do volume de negócios médio total da organização, calculado de acordo com o artigo 9.º;\n\nb) O montante agregado das coimas aplicadas a uma organização reconhecida, nos termos do artigo 4.º, no decurso de um exercício, determinado de acordo com o n.º 1, e das sanções pecuniárias temporárias impostas nas mesmas decisões, nos termos do artigo 7.º, n.º 2, e agravadas até que a organização tome as medidas corretivas adequadas, não excederá 5 % do volume de negócios médio total da organização, calculado de acordo com o artigo 9.º. Sem prejuízo do artigo 21.º, a cobrança pela Comissão das sanções pecuniárias temporárias não excederá o limite de 5 %;\n\nc) O montante agregado das sanções pecuniárias temporárias aplicadas nos termos do artigo 7.º, n.º 1, a uma organização reconhecida, e agravadas até que a organização tome as medidas preventivas ou corretivas adequadas, não excederá 5 % do volume de negócios médio total da organização, calculado de acordo com o artigo 9.º. Sem prejuízo do artigo 21.º, a cobrança pela Comissão das sanções pecuniárias temporárias não excederá o limite de 5 %."
+  },
+  "aa0cd7697115c32e": {
+   "fragment_id": "Artigo 9.º — Cálculo do volume de negócios",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Cálculo do volume de negócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cálculo do volume de negócios\n\n1. Para os fins do presente regulamento, o volume de negócios médio total da organização reconhecida corresponde a um terço do valor que se obtém somando o volume de negócios agregado, da entidade-mãe titular do reconhecimento e das entidades jurídicas englobadas nesse reconhecimento no final de cada exercício, dos três exercícios precedentes à decisão da Comissão.\n\n2. Tratando-se de um grupo com contas consolidadas certificadas, o volume de negócios a que se refere o n.º 1 corresponde, no que respeita à entidade-mãe e às entidades jurídicas do grupo englobadas no reconhecimento no final de cada exercício, aos rendimentos consolidados das referidas entidades.\n\n3. Para efeitos dos n.^os^ 1 e 2, consideram-se apenas as atividades abrangidas pelo Regulamento (CE) n.º 391/2009."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "f01f6a1f7a833f9d": {
+   "fragment_id": "RETIRADA DO RECONHECIMENTO",
+   "type": "divisao",
+   "heading": "RETIRADA DO RECONHECIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RETIRADA DO RECONHECIMENTO"
+  },
+  "2dd190970eb2c094": {
+   "fragment_id": "Artigo 10.º — Retirada do reconhecimento",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Retirada do reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Retirada do reconhecimento\n\n1. Por iniciativa própria ou a pedido de um Estado-Membro, a Comissão poderá adotar uma decisão de retirada do reconhecimento a uma organização, nos casos a que se referem as alíneas a) a e) do n.º 1 do artigo 7.º do Regulamento (CE) n.º 391/2009.\n\n2. Para determinar se o incumprimento, ou deficiência, reiterado e grave constitui uma ameaça inaceitável à segurança ou ao ambiente, de acordo com o artigo 7.º, n.º 1, alíneas a) e b), do Regulamento (CE) n.º 391/2009, considerar-se-ão os elementos seguintes:\n\na) as informações e as circunstâncias referidas no artigo 7.º, n.º 2, do Regulamento (CE) n.º 391/2009, particularmente à luz das circunstâncias referidas nos artigos 5.º e 6.º do presente regulamento;\n\nb) os critérios e, se for o caso, os limiares definidos na Decisão 2009/491/CE da Comissão.\n\n3. Quando as coimas e sanções pecuniárias temporárias aplicadas a uma organização reconhecida atingem o limite máximo determinado em conformidade com o artigo 6.º, n.º 3, do Regulamento (CE) n.º 391/2009 e a organização reconhecida não toma as medidas corretivas adequadas, a Comissão poderá considerar que essa sanção não satisfez a finalidade de eliminar as ameaças potenciais à segurança ou ao ambiente."
+  },
+  "5b83cb1a699fff71": {
+   "fragment_id": "Artigo 11.º — Procedimento de retirada do reconhecimento a pedido de um Estado-Membro",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento de retirada do reconhecimento a pedido de um Estado-Membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento de retirada do reconhecimento a pedido de um Estado-Membro\n\n1. Um Estado-Membro que solicite à Comissão que retire o reconhecimento a uma organização, nos termos do artigo 7.º, n.º 3, do Regulamento (CE) n.º 391/2009, deve fazer o pedido por escrito.\n\n2. O Estado-Membro requerente deve fundamentar o seu pedido pormenorizadamente e fazendo referência, quando se justifique, aos critérios e circunstâncias enunciados, respetivamente, no n.º 1 e no n.º 2 do artigo 7.º do Regulamento (CE) n.º 391/2009, bem como às circunstâncias enunciadas no artigo 10.º, n.^os^ 2 e 3, do presente regulamento.\n\n3. O Estado-Membro requerente deve apresentar à Comissão todas as provas documentais necessárias para fundamentar o pedido, devidamente classificadas e numeradas.\n\n4. A Comissão acusa por escrito a receção do pedido do Estado-Membro.\n\n5. Se considerar serem necessárias informações, esclarecimentos ou provas adicionais para tomar uma decisão, a Comissão informa o Estado-Membro requerente e convida-o a completar o seu pedido conforme adequado, num prazo definido, que não será inferior a quatro semanas. O pedido do Estado-Membro é considerado incompleto até que todas as informações necessárias tenham sido prestadas.\n\n6. No prazo de um ano após a receção do pedido completo, e se concluir que o pedido é justificado, a Comissão endereça uma declaração de objeções à organização em causa, nos termos do artigo 12.º, com vista à retirada do seu reconhecimento ao abrigo do presente regulamento. Neste caso, o Estado-Membro requerente beneficiará do tratamento e dos direitos de Estado-Membro interessado, de acordo com o disposto no capítulo IV do presente regulamento.\n\nSe, no mesmo prazo, concluir que o pedido é injustificado, a Comissão comunica essa conclusão ao Estado-Membro requerente, expondo os seus fundamentos e convidando o Estado-Membro a apresentar as suas observações num prazo definido, que não será inferior a três meses. No prazo de seis meses após a receção das observações, a Comissão confirmará que o pedido é injustificado, ou emitirá uma declaração de objeções em conformidade com o primeiro parágrafo.\n\n7. Se concluir que o pedido do Estado-Membro é injustificado, ou continua incompleto após o termo do prazo referido no n.º 5, a Comissão poderá optar por incorporar, na íntegra ou parcialmente, o pedido e as provas que o acompanham na avaliação da organização reconhecida efetuada em conformidade com o artigo 8.º do Regulamento (CE) n.º 391/2009.\n\n8. A Comissão informará anualmente o COSS dos pedidos de retirada de reconhecimentos apresentados pelos Estados-Membros e dos procedimentos conexos em curso."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "3a2293c837b31c16": {
+   "fragment_id": "DISPOSIÇÕES COMUNS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES COMUNS"
+  },
+  "69da8127b74f755c": {
+   "fragment_id": "Artigo 12.º — Declaração de objeções",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Declaração de objeções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Declaração de objeções\n\n1. Se considerar que há motivos para aplicar a uma organização reconhecida uma coima ou sanções pecuniárias temporárias, nos termos do artigo 6.º do Regulamento (CE) n.º 391/2009, ou para lhe retirar o reconhecimento, nos termos do artigo 7.º do mesmo regulamento, a Comissão endereça uma declaração de objeções à organização e notifica os Estados-Membros interessados.\n\n2. A declaração de objeções incluirá:\n\na) a descrição pormenorizada dos atos e omissões da organização reconhecida, incluindo a descrição dos factos relevantes e a identificação das disposições do Regulamento (CE) n.º 391/2009 que a Comissão considera terem sido infringidas pela organização;\n\nb) a indicação das provas em que se baseiam as conclusões relevantes, nomeadamente pela referência aos relatórios de inspeção, relatórios de avaliação ou outros documentos pertinentes anteriormente endereçados à organização pela Comissão ou pela Agência Europeia da Segurança Marítima agindo em nome da Comissão;\n\nc) o aviso de que a Comissão poderá aplicar coimas ou sanções pecuniárias temporárias ou retirar o reconhecimento, em conformidade com os artigos 6.º ou 7.º do Regulamento (CE) n.º 391/2009.\n\n3. Ao notificar a declaração de objeções, a Comissão convida a organização reconhecida e os Estados-Membros interessados a apresentarem observações por escrito num prazo definido, que não será, em caso algum, inferior a seis semanas a contar da data de receção da declaração. A Comissão não está obrigada a atender a pedidos recebidos após o termo do prazo mencionado, sem prejuízo do disposto no artigo 24.º, n.º 4.\n\n4. A notificação da declaração de objeções não suspende a avaliação da organização reconhecida. A Comissão poderá decidir a qualquer momento, anteriormente à adoção da decisão de aplicação de uma coima ou de sanções pecuniárias temporárias ou de retirada do reconhecimento nos termos do presente regulamento, efetuar inspeções adicionais aos escritórios e instalações da organização, visitar navios por ela certificados ou requerer-lhe por escrito que apresente informações adicionais a respeito do cumprimento dos critérios e obrigações estabelecidos no Regulamento (CE) n.º 391/2009.\n\n5. A Comissão poderá alterar a qualquer momento, anteriormente à adoção da decisão de aplicação de uma coima ou de sanções pecuniárias temporárias ou de retirada do reconhecimento nos termos do presente regulamento, a sua avaliação da organização reconhecida. Se a nova avaliação for diferente da que originou a declaração de objeções, por terem sido apurados factos novos ou determinadas novas infrações ou circunstâncias novas relativas à gravidade de uma infração ou das suas consequências para a segurança ou o ambiente, a Comissão emite uma nova declaração de objeções."
+  },
+  "5179efa737370f3d": {
+   "fragment_id": "Artigo 13.º — Pedidos de informação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Pedidos de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pedidos de informação\n\nA fim de esclarecer os factos para efeitos do artigo 12.º, a Comissão poderá requerer por escrito à organização reconhecida que lhe apresente explicações, oralmente ou por escrito, elementos concretos ou documentos específicos, num prazo definido, que não será, em caso algum, inferior a quatro semanas. Nesse caso, a Comissão informa a organização reconhecida das sanções pecuniárias temporárias e das coimas que lhe poderão ser aplicadas caso não dê seguimento ao pedido, incorra em atraso injustificado na prestação das informações ou forneça à Comissão informações deliberadamente incorretas, incompletas ou enganadoras."
+  },
+  "c617ba50cd12853c": {
+   "fragment_id": "Artigo 14.º — Audição",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Audição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Audição\n\n1. A pedido da organização reconhecida a que foi endereçada uma declaração de objeções, a Comissão facultar-lhe-á a oportunidade de apresentar os seus argumentos numa audição.\n\n2. A Comissão convidará as autoridades competentes dos Estados-Membros interessados a assistirem à audição e poderá, por iniciativa própria ou a pedido de Estados-Membros interessados, convidar a assistirem outras pessoas com interesse legítimo no caso em apreço. A Comissão poderá optar por ser assessorada pela Agência Europeia da Segurança Marítima.\n\n3. As pessoas singulares e as pessoas coletivas de direito privado convidadas a assistir devem comparecer em pessoa ou fazer-se representar por mandatários ou representantes legais. Os Estados-Membros devem ser representados por funcionários seus.\n\n4. A audição não é pública. Cada pessoa convidada a assistir será ouvida separadamente ou na presença de outras pessoas convidadas, atendendo ao interesse legítimo da organização reconhecida e de outras partes na proteção dos respetivos segredos comerciais e outras informações confidenciais.\n\n5. As declarações prestadas pelas pessoas ouvidas serão registadas. O registo será facultado, contra pedido, às pessoas que assistiram à audição e aos Estados-Membros interessados."
+  },
+  "5abf4af8d28e0f4b": {
+   "fragment_id": "Artigo 15.º — Sanções pecuniárias temporárias por não cooperação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Sanções pecuniárias temporárias por não cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sanções pecuniárias temporárias por não cooperação\n\n1. Se tencionar adotar uma decisão de aplicação de sanções pecuniárias temporárias, nos termos do artigo 7.º, n.º 1, a uma organização reconhecida que não tomou as medidas preventivas ou corretivas exigidas pela Comissão, ou incorre em atraso injustificado na tomada dessas medidas, a Comissão notifica previamente por escrito a organização em causa.\n\n2. A notificação efetuada pela Comissão em conformidade com o n.º 1 fará referência à medida preventiva ou corretiva específica que a organização reconhecida não tomou e aos correspondentes elementos de prova e informará a organização das sanções pecuniárias temporárias que a Comissão pondera aplicar.\n\n3. A Comissão define o prazo em que a organização reconhecida lhe pode apresentar observações por escrito. A Comissão não está obrigada a atender a observações escritas recebidas após o termo desse prazo."
+  },
+  "09381efa7bd5a9bc": {
+   "fragment_id": "Artigo 16.º — Acesso ao processo",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Acesso ao processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acesso ao processo\n\n1. A pedido da organização reconhecida a que foi endereçada uma declaração de objeções, a Comissão facultar-lhe-á acesso ao processo que contém os documentos e outros elementos de prova relativos à alegada infração compilados pela Comissão.\n\n2. A Comissão define a data e adota as disposições práticas para o acesso da organização reconhecida ao processo, acesso que poderá ser concedido apenas por via eletrónica.\n\n3. A Comissão facultará à organização reconhecida, contra pedido, a relação dos documentos constantes do processo.\n\n4. A organização reconhecida tem direito a aceder aos documentos e informações contidos no processo. Ao conceder o acesso, a Comissão terá na devida consideração os segredos comerciais, as informações confidenciais ou a natureza interna de documentos emitidos por ela própria ou pela Agência Europeia da Segurança Marítima.\n\n5. Para efeitos do n.º 4, os documentos internos da Comissão e da Agência Europeia da Segurança Marítima poderão incluir:\n\na) documentos, ou suas partes, relativos a deliberações internas da Comissão ou dos seus serviços e da Agência, inclusive os pareceres e as recomendações da Agência dirigidos à Comissão;\n\nb) documentos, ou suas partes, que fazem parte da correspondência trocada entre a Comissão e a Agência ou entre a Comissão e os Estados-Membros."
+  },
+  "c6bbcadb3ca441f5": {
+   "fragment_id": "Artigo 17.º — Representação legal",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Representação legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Representação legal\n\nA organização reconhecida tem direito a representação legal em todas as fases dos procedimentos no âmbito do presente regulamento."
+  },
+  "fd9faacf231584f0": {
+   "fragment_id": "Artigo 18.º — Confidencialidade, segredo profissional e direito a guardar silêncio",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Confidencialidade, segredo profissional e direito a guardar silêncio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Confidencialidade, segredo profissional e direito a guardar silêncio\n\n1. Os procedimentos do âmbito do presente regulamento respeitarão os princípios da confidencialidade e do segredo profissional.\n\n2. A Comissão, a Agência Europeia da Segurança Marítima e as autoridades dos Estados-Membros interessados, bem como os seus funcionários e agentes e outras pessoas que trabalhem sob sua supervisão, não podem divulgar informações que obtenham ou troquem no quadro do presente regulamento e que estejam abrangidas pelo dever de segredo profissional e confidencialidade.\n\n3. Qualquer organização reconhecida ou outra pessoa que apresente informações ou observações, nos termos do presente regulamento, deve identificar claramente as matérias consideradas confidenciais, justificando porque o são, e facultar uma versão não-confidencial na data definida pela Comissão.\n\n4. A Comissão poderá igualmente requerer à organização reconhecida e a outras partes interessadas que identifiquem as partes de um relatório, da declaração de objeções ou da decisão da Comissão que, na sua perspetiva, contêm segredos comerciais.\n\n5. Na falta da identificação a que se referem os n.^os^ 3 e 4, a Comissão poderá presumir que os documentos ou observações em causa não contêm informações confidenciais.\n\n6. Sem prejuízo do artigo 9.º do Regulamento (CE) n.º 391/2009, as organizações reconhecidas têm direito a guardar silêncio em situações em que estariam em regra obrigadas a dar respostas e estas pudessem implicar a admissão da existência de infração da sua parte."
+  },
+  "729cdfe79e2e783a": {
+   "fragment_id": "Artigo 19.º — Decisões",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Decisões\n\n1. As decisões de aplicação de coimas ou sanções pecuniárias temporárias ou de retirada do reconhecimento, nos termos do presente regulamento, fundamentar-se-ão exclusivamente nos motivos em relação aos quais as organizações reconhecidas em causa puderam apresentar observações.\n\n2. As decisões de aplicação de coimas ou sanções pecuniárias temporárias e a determinação do montante apropriado atenderão aos princípios de eficácia, proporcionalidade e dissuasão.\n\n3. Ao tomar medidas nos termos do presente regulamento e determinar a gravidade dos atos ou omissões de apreço e das suas consequências para a segurança e o ambiente, a Comissão terá em conta as medidas nacionais já tomadas, com base nos mesmos factos, contra a organização reconhecida, nomeadamente no caso de a organização já ter sido objeto de processos judiciais ou de execução.\n\n4. Os atos ou omissões da organização reconhecida com base nos quais se tomaram medidas nos termos do presente regulamento não serão objeto de medidas adicionais. Poderão, contudo, ser tidos em consideração em decisões subsequentes adotadas nos termos do presente regulamento, com vista a apurar se há reincidência.\n\n5. A Comissão adota as decisões de aplicação de sanções pecuniárias temporárias ou de coimas e sanções pecuniárias temporárias mediante o procedimento previsto no artigo 12.º, n.º 2, do Regulamento (CE) n.º 391/2009.\n\n6. A Comissão adota as decisões de retirada do reconhecimento a organizações reconhecidas mediante o procedimento previsto no artigo 12.º, n.º 3, do Regulamento (CE) n.º 391/2009."
+  },
+  "b7e6b3c3a86c2c0a": {
+   "fragment_id": "Artigo 20.º — Recurso judicial, notificação e publicação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Recurso judicial, notificação e publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Recurso judicial, notificação e publicação\n\n1. A Comissão informa a organização reconhecida das vias de recurso judicial ao seu dispor.\n\n2. A Comissão notifica a sua decisão à Agência Europeia da Segurança Marítima e aos Estados-Membros, para informação.\n\n3. Nos casos em que se justifique, nomeadamente por motivos de segurança ou de proteção do ambiente, a Comissão poderá publicar a sua decisão. Ao publicar os elementos da decisão ou informar os Estados-Membros, a Comissão terá em consideração os interesses legítimos da organização reconhecida e de outras pessoas interessadas."
+  },
+  "f62468bcbcbe2700": {
+   "fragment_id": "Artigo 21.º — Cobrança das coimas e sanções pecuniárias",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Cobrança das coimas e sanções pecuniárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cobrança das coimas e sanções pecuniárias\n\nA Comissão procede à cobrança das coimas e das sanções pecuniárias emitindo uma ordem de cobrança e uma nota de débito, endereçadas à organização reconhecida em causa, em conformidade com os artigos 78.º a 80.º e o artigo 83.º do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2014214PT.01001201-E0006) e os artigos 80.º a 92.º do Regulamento Delegado (UE) n.º 1268/2012 da Comissão [([^7])](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2014214PT.01001201-E0007)."
+  },
+  "8958b041fabdc942": {
+   "fragment_id": "Artigo 22.º — Prazos de prescrição para efeitos da aplicação de coimas e sanções pecuniárias temporárias",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Prazos de prescrição para efeitos da aplicação de coimas e sanções pecuniárias temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Prazos de prescrição para efeitos da aplicação de coimas e sanções pecuniárias temporárias\n\n1. O direito da Comissão de aplicar coimas e/ou sanções pecuniárias temporárias a uma organização reconhecida, nos termos do presente regulamento, caduca transcorridos cinco anos da data do ato ou omissão que prefigura a infração determinada à luz do artigo 3.º. Contudo, tratando-se de atos ou omissões continuados ou reiterados que prefigurem uma infração, o prazo de prescrição começa a decorrer no dia em que cessa o ato ou omissão.\n\nO direito da Comissão de aplicar sanções pecuniárias temporárias a uma organização reconhecida, nos termos do artigo 15.º, caduca transcorridos três anos da data do ato ou omissão em relação ao qual a Comissão exigiu a tomada de medidas preventivas ou corretivas adequadas.\n\n2. Toda e qualquer medida tomada pela Comissão ou pela Agência Europeia da Segurança Marítima para efeitos da avaliação de um ato ou omissão da organização reconhecida, ou do procedimento de infração conexo, suspende o prazo de prescrição estabelecido no n.º 1. A suspensão produz efeitos a partir da data em que a medida da Comissão ou da Agência for notificada à organização reconhecida.\n\n3. Com cada suspensão reinicia-se a contagem do prazo de prescrição. Este não excederá, todavia, um período igual ao dobro do prazo inicial, exceto nos casos em que a prescrição for suspensa nos termos do n.º 4.\n\n4. O prazo de prescrição para feitos da aplicação de sanções pecuniárias temporárias será suspenso por toda a duração dos processos que estejam pendentes no Tribunal de Justiça da União Europeia a respeito da decisão da Comissão."
+  },
+  "59b2c9d85c2b29bd": {
+   "fragment_id": "Artigo 23.º — Prazos de prescrição para efeitos da cobrança de coimas e sanções pecuniárias temporárias",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Prazos de prescrição para efeitos da cobrança de coimas e sanções pecuniárias temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Prazos de prescrição para efeitos da cobrança de coimas e sanções pecuniárias temporárias\n\n1. O direito de iniciar o processo de cobrança de coimas e/ou sanções pecuniárias temporárias caduca transcorrido um ano da data em que a decisão tomada nos termos do artigo 19.º se tornar definitiva.\n\n2. Toda e qualquer medida tomada pela Comissão, ou por um Estado-Membro a pedido da Comissão, com a finalidade de executar coimas e/ou sanções pecuniárias temporárias suspende o prazo de prescrição a que se refere o n.º 1.\n\n3. Com cada suspensão reinicia-se a contagem do prazo de prescrição.\n\n4. Os prazos de prescrição a que se referem os n.^os^ 1 e 2 serão suspensos enquanto:\n\na) decorrer o prazo de pagamento;\n\nb) a execução da cobrança estiver suspensa por decisão do Tribunal de Justiça da União Europeia."
+  },
+  "cfcf71e2e5329512": {
+   "fragment_id": "Artigo 24.º — Aplicação dos prazos",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Aplicação dos prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Aplicação dos prazos\n\n1. Os prazos previstos no presente regulamento começam a decorrer no dia seguinte à receção ou à entrega em mão da comunicação da Comissão.\n\n2. Tratando-se de uma comunicação endereçada à Comissão, considerar-se-á cumprido o prazo aplicável se a comunicação tiver sido enviada por correio registado antes de expirado esse prazo.\n\n3. Na definição dos prazos, a Comissão terá em consideração tanto o direito a um procedimento regular como as circunstâncias específicas de cada procedimento decisório no âmbito do presente regulamento.\n\n4. Os prazos poderão ser prorrogados caso se justifique, mediante pedido fundamentado apresentado antes do termo do prazo original."
+  },
+  "309f84e5a9572033": {
+   "fragment_id": "Artigo 25.º — Cooperação com as autoridades nacionais competentes",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Cooperação com as autoridades nacionais competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cooperação com as autoridades nacionais competentes\n\nAs informações prestadas pelas autoridades nacionais competentes em resposta a um pedido da Comissão serão utilizadas pela Comissão exclusivamente para os fins seguintes:\n\na) a execução das tarefas que lhe estão cometidas no âmbito do reconhecimento e da supervisão das organizações reconhecidas nos termos do Regulamento (CE) n.º 391/2009.\n\nb) a produção de prova para efeitos da tomada de decisões ao abrigo do presente regulamento, sem prejuízo do disposto nos artigos 16.º e 18.º."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "78398f5044e5a9b4": {
+   "fragment_id": "Artigo 26.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Aplicação\n\nOs factos anteriores à entrada em vigor do Regulamento (CE) n.º 391/2009 não dão azo à tomada de medidas ao abrigo do presente regulamento."
+  },
+  "d9262b2f738f1066": {
+   "fragment_id": "Artigo 27.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 18 de julho de 2014.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "18f0fab49b090458": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2014214PT.01001201-E0001) [JO L 131 de 28.5.2009, p. 11](http://publications.europa.eu/resource/oj/JOL_2009_131_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2014214PT.01001201-E0002) [JO L 324 de 29.11.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_324_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2014214PT.01001201-E0003) [JO L 131 de 28.5.2009, p. 47](http://publications.europa.eu/resource/oj/JOL_2009_131_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2014214PT.01001201-E0004) [JO L 162 de 25.6.2009, p. 6](http://publications.europa.eu/resource/oj/JOL_2009_162_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2014214PT.01001201-E0005) [JO L 131 de 28.5.2009, p. 57](http://publications.europa.eu/resource/oj/JOL_2009_131_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2014214PT.01001201-E0006) [JO L 298 de 26.10.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_298_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2014214PT.01001201-E0007) [JO L 362 de 31.12.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_362_R_TOC)."
+  },
+  "8dfc1339e92fc9e0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de julho de 2014\n\nque estabelece regras circunstanciadas para a aplicação de coimas e sanções pecuniárias temporárias e a retirada do reconhecimento a organizações de vistoria e inspeção de navios nos termos dos artigos 6.º e 7.º do Regulamento (CE) n.º 391/2009 do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 391/2009 do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativo às regras comuns para as organizações de vistoria e inspeção de navios ([^1^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#E0001)), nomeadamente o artigo 14.º, n.º 2,\n\n(1) Os artigos 6.º e 7.º do Regulamento (CE) n.º 391/2009 habilitam a Comissão a aplicar coimas e sanções pecuniárias temporárias a organizações reconhecidas, definidas no artigo 2.º do regulamento, ou a retirar-lhes o reconhecimento, a fim de assegurar a observância dos critérios e obrigações estabelecidos no regulamento com o claro objetivo de remover qualquer ameaça potencial à segurança ou ao ambiente.\n\n(2) No interesse da transparência, importa estabelecer, em conformidade com o artigo 14.º, n.º 2, do Regulamento (CE) n.º 391/2009, normas de procedimento detalhadas para a tomada de decisões, bem como a metodologia a utilizar pela Comissão no cálculo das coimas e sanções pecuniárias temporárias, para que as organizações reconhecidas deles tenham conhecimento antecipado, e os critérios específicos para a Comissão avaliar a gravidade do caso e a extensão das suas implicações para a segurança ou para a proteção do ambiente.\n\n(3) Com a introdução das coimas e sanções pecuniárias temporárias, a Comissão passa a ter ao seu dispor um meio suplementar de reagir, de forma mais matizada, flexível e gradativa por comparação com a retirada do reconhecimento, à violação das disposições do Regulamento (CE) n.º 391/2009 por organizações reconhecidas.\n\n(4) As sanções pecuniárias temporárias devem ser eficazes em assegurar a pronta e devida correção de qualquer infração de obrigações ou requisitos estabelecidos no Regulamento (CE) n.º 391/2009. Esse regulamento habilita, assim, a Comissão a aplicar tais sanções a organizações reconhecidas que não tomem as medidas preventivas ou corretivas exigidas pela Comissão, após um lapso de tempo razoável e até que a organização tome as medidas exigidas. Caso seja necessário à luz das circunstâncias, o montante diário das sanções pode ser aumentado progressivamente de forma a refletir a urgência das medidas.\n\n(5) O cálculo das coimas e sanções pecuniárias temporárias em percentagem do volume de negócios da organização, tendo em conta o limite máximo estabelecido em conformidade com o Regulamento (CE) n.º 391/2009, constitui um método simples de assegurar que as coimas e sanções serão dissuasivas e proporcionais à gravidade do caso e à capacidade económica da organização, atendendo à dimensão diversa das organizações reconhecidas.\n\n(6) A aplicação do limite máximo para o montante agregado máximo das coimas e sanções pecuniárias temporárias deve ser claramente definida tendo em consideração as diferentes circunstâncias, no interesse da transparência e da segurança jurídica. Pelos mesmos motivos, importa igualmente definir a metodologia de cálculo, para cada organização reconhecida, do volume de negócios médio total nos três exercícios anteriores correspondente às atividades abrangidas pelo Regulamento (CE) n.º 391/2009.\n\n(7) Convém que as decisões de retirada do reconhecimento a organizações reconhecidas, com base nas condições estabelecidas no artigo 7.º, n.º 1, do Regulamento (CE) n.º 391/2009, tenham em conta os fatores relacionados com o objetivo global de monitorização das operações e do desempenho geral das organizações reconhecidas, incluindo a eficácia das coimas e sanções pecuniárias temporárias já aplicadas por infrações reiteradas e graves do regulamento.\n\n(8) Convém definir um procedimento específico para a Comissão, por iniciativa própria ou a pedido de um ou mais Estados-Membros, retirar o reconhecimento a uma organização ao abrigo do Regulamento (CE) n.º 391/2009, à luz das competências da Comissão para avaliar organizações reconhecidas e aplicar coimas e sanções pecuniárias temporárias mediante os procedimentos conexos estabelecidos no presente regulamento.\n\n(9) Importa que as decisões de aplicação de coimas ou sanções pecuniárias temporárias ou de retirada do reconhecimento, tomadas ao abrigo do presente regulamento, se fundamentem exclusivamente nos motivos a respeito dos quais as organizações reconhecidas interessadas tenham tido a oportunidade de formular as suas observações.\n\n(10) O presente regulamento respeita os direitos fundamentais e observa os princípios consagrados na Carta dos Direitos Fundamentais da União Europeia, nomeadamente o direito de defesa, o princípio da confidencialidade e o princípio *ne bis in idem*, de acordo com os princípios gerais do direito e com a jurisprudência do Tribunal de Justiça da União Europeia.\n\n(11) As decisões de aplicação de coimas ou sanções pecuniárias temporárias, tomadas ao abrigo do presente regulamento, devem ser executadas em conformidade com o artigo 299.º do Tratado sobre o Funcionamento da União Europeia e são passíveis de revisão pelo Tribunal de Justiça da União Europeia.\n\n(12) Para assegurar a equidade e a segurança jurídica na condução dos procedimentos, é necessário definir regras pormenorizadas para o cálculo dos prazos a fixar pela Comissão no decurso do procedimento, bem como dos prazos de prescrição a respeitar pela Comissão para efeitos da aplicação e cobrança de coimas e sanções pecuniárias temporárias, tendo em conta igualmente a data de entrada em vigor do Regulamento (CE) n.º 391/2009.\n\n(13) A aplicação do presente regulamento requer a cooperação eficaz dos Estados-Membros interessados, da Comissão e da Agência Europeia da Segurança Marítima. É necessário, portanto, precisar os direitos e obrigações de cada parte no quadro dos procedimentos previstos no presente regulamento, a fim de assegurar a eficácia dos processos de investigação, decisão e acompanhamento, em conformidade com os artigos 6.º e 7.º do Regulamento (CE) n.º 391/2009.\n\n(14) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#E0002)),\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "0e71539bad356934": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as definições constantes do artigo 2.º do Regulamento (CE) n.º 391/2009.\n\nÉ também aplicável a seguinte definição:\n\n«Estado-Membro interessado»: qualquer Estado-Membro que tenha confiado a uma organização reconhecida a inspeção, vistoria e certificação de navios da sua bandeira para efeitos da aplicação das convenções internacionais, em conformidade com a Diretiva 2009/15/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa às regras comuns para as organizações de vistoria e inspeção de navios e para as atividades relevantes das administrações marítimas ([^3^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#E0003)), designadamente o Estado-Membro que requereu à Comissão o reconhecimento da organização em causa ao abrigo do artigo 3.º do Regulamento (CE) n.º 391/2009."
+  },
+  "7dfe21bc1fb0c3c9": {
+   "fragment_id": "Artigo 3.º — Determinação das infrações",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Determinação das infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Determinação das infrações\n\n1. A Comissão determina que há infração, nos termos do artigo 6.º, n.º 1, do Regulamento (CE) n.º 391/2009, quando:\n\na) o incumprimento grave ou reiterado, por uma organização reconhecida, de um dos critérios mínimos estabelecidos no anexo I do Regulamento (CE) n.º 391/2009 ou das suas obrigações nos termos do artigo 8.º, n.º 4, ou dos artigos 9.º, 10.º ou 11.º do referido regulamento revela deficiências graves na estrutura, nos sistemas, nos procedimentos ou nos controlos internos da organização;\n\nb) a deterioração do desempenho de uma organização reconhecida, tendo em conta o disposto na Decisão (CE) n.º 2009/491 da Comissão ([^4^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#E0004)), revela deficiências graves na estrutura, nos sistemas, nos procedimentos ou nos controlos internos da organização;\n\nc) uma organização reconhecida prestou deliberadamente informações incorretas, incompletas ou enganadoras à Comissão no decurso da sua avaliação ou obstruiu de outra forma essa avaliação.\n\n2. No quadro dos procedimentos de infração no âmbito do presente regulamento, o ónus da prova de existência de infração recai sobre a Comissão."
+  },
+  "a03676c01f074502": {
+   "fragment_id": "Artigo 6.º — Avaliação das consequências das infrações",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Avaliação das consequências das infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação das consequências das infrações\n\nAo avaliar as consequências de uma infração, nomeadamente a extensão das suas implicações para a segurança ou para a proteção do ambiente, a Comissão atende às circunstâncias agravantes e atenuantes, nomeadamente:\n\na) a natureza e a extensão das deficiências que afetam efetiva ou potencialmente a frota certificada pela organização e que, em resultado da infração, esta não detetou ou não podia detetar ou cuja retificação em tempo útil não exigiu ou não podia exigir, tendo em conta, nomeadamente, os critérios para a detenção de um navio definidos no anexo X da Diretiva 2009/16/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#E0005)) relativa à inspeção de navios pelo Estado do porto;\n\nb) a proporção da frota certificada pela organização efetiva ou potencialmente afetada;\n\nc) outras circunstâncias que constituam riscos identificáveis específicos, designadamente o tipo dos navios efetiva ou potencialmente afetados."
+  },
+  "bacf223d6f8c6e9b": {
+   "fragment_id": "Artigo 21.º — Cobrança das coimas e sanções pecuniárias",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Cobrança das coimas e sanções pecuniárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cobrança das coimas e sanções pecuniárias\n\nA Comissão procede à cobrança das coimas e das sanções pecuniárias emitindo uma ordem de cobrança e uma nota de débito, endereçadas à organização reconhecida em causa, em conformidade com os artigos 78.º a 80.º e o artigo 83.º do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#E0006)) e os artigos 80.º a 92.º do Regulamento Delegado (UE) n.º 1268/2012 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#E0007))."
+  },
+  "8f452700143e1b3a": {
+   "fragment_id": "Artigo 27.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "d99374b843cb8214": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#src.E0001)) JO L 131 de 28.5.2009, p. 11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#src.E0002)) JO L 324 de 29.11.2002, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#src.E0003)) JO L 131 de 28.5.2009, p. 47.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#src.E0004)) JO L 162 de 25.6.2009, p. 6.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#src.E0005)) JO L 131 de 28.5.2009, p. 57.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#src.E0006)) JO L 298 de 26.10.2012, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1#src.E0007)) JO L 362 de 31.12.2012, p. 1."
+  }
+ }
+}

@@ -36,6 +36,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-17'
+version_history:
+  file: regulamento-ue-2015-1018.versoes.json
+  count: 2
+  source_lastmod: '2026-08-17'
+  versions:
+  - date: '2022-01-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-08-17'
+    amending: eu:celex:32026R1821:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1821 DA COMISSÃO de 27 de julho de 2026
+    changes:
+    - Altera 1. OPERAÇÕES AÉREAS
+    - Altera 2. OCORRÊNCIAS TÉCNICAS
+    - Altera 4. EMERGÊNCIAS E OUTRAS SITUAÇÕES CRÍTICAS
+    - Altera 5. AMBIENTE EXTERNO E METEOROLOGIA
+    - Altera 6. SEGURANÇA
+    - Altera OCORRÊNCIAS RELACIONADAS COM AS CONDIÇÕES TÉCNICAS, A MANUTENÇÃO E A REPARAÇÃO DA AERONAVE
+    - Altera 2. PROJETO
+    - Altera 3. MANUTENÇÃO E GESTÃO DA AERONAVEGABILIDADE PERMANENTE
+    - Altera 1. OCORRÊNCIAS RELACIONADAS COM AS AERONAVES
+    - Altera 3. OUTRAS OCORRÊNCIAS
+    - Altera 1. GESTÃO DA SEGURANÇA DO AERÓDROMO
+    - Altera 2. ASSISTÊNCIA EM ESCALA A AERONAVES
+    - Altera 2. PLANADORES
+    - Altera 3. VEÍCULOS MAIS LEVES QUE O AR (BALÕES E DIRIGÍVEIS)
+    - Altera Notas
+    - Adita OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DA AERONAVE TRIPULADA
+    - Adita 1.1. Preparação do voo
+    - Adita 1.2. Preparação da aeronave
+    - Adita 1.3. Descolagem e aterragem
+    - Adita 1.4. Qualquer fase do voo
+    - Adita 1.5. Outros tipos de ocorrências
+    - Adita 2.1. Estrutura e sistemas
+    - Adita 2.2. Propulsão (incluindo motores, hélices e sistemas de rotor) e unidades auxiliares de potência (APU)
+    - Adita 3. INTERAÇÃO COM OS SERVIÇOS DE NAVEGAÇÃO AÉREA (ANS) E A GESTÃO DO TRÁFEGO AÉREO (ATM)
+    - Adita 2. DEGRADAÇÃO OU PERDA TOTAL DE SERVIÇOS OU FUNÇÕES
+    - Adita 1.1. Ocorrências relacionadas com aeronaves e obstáculos
+    - Adita 1.2. Degradação ou perda total de serviços ou funções
+    - Adita 1.3. Outras ocorrências
+    - Adita 2.1. Ocorrências relacionadas com as aeronaves e os aeródromos
+    - Adita 2.2. Degradação ou perda total de serviços ou funções
+    - Adita 2.3. Ocorrências específicas da assistência em escala
+    - Adita OCORRÊNCIAS RELACIONADAS COM AERONAVES TRIPULADAS QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, INCLUINDO OS PLANADORES
+      E OS VEÍCULOS MAIS LEVES QUE O AR
+    - Adita 1. AERONAVES TRIPULADAS QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, EXCLUINDO PLANADORES E VEÍCULOS MAIS LEVES
+      QUE O AR
+    - Adita 1.1. Operações aéreas
+    - Adita 1.2. Ocorrências técnicas
+    - Adita 1.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo
+    - Adita 1.4. Emergências e outras situações críticas
+    - Adita 1.5. Ambiente externo e meteorologia
+    - Adita 1.6. Segurança da informação
+    - Adita 1.7. Ocorrências relacionadas com o espaço «U»
 identifiers:
   celex: 32015R1018
   eli: http://data.europa.eu/eli/reg_impl/2015/1018/oj
@@ -50,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/af7123c1-1ef0-11e5-a342-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R1018-20260817
-  retrieved_at: '2026-10-22T03:00:34Z'
+  retrieved_at: '2026-10-22T16:41:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-11T23:33:18.334+02:00'
 integrity:
@@ -59,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:34Z'
-  notes: Texto consolidado 02015R1018-20260817.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:41:05Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2015-1018.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -124,30 +179,20 @@ relationships:
   date: '2022-12-15'
 article_structure:
   article_count: 2
-  section_count: 76
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 77
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:34Z'
-  warnings: []
+  checked_at: '2026-10-22T16:41:05Z'
+  warnings:
+  - '02015R1018-20150630: versão indisponível (Sem expressão na língua por para CELEX 02015R1018-20150630.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2015/1018 da Comissão, de 29 de junho de 2015
-
-> 02015R1018 — PT — 17.08.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32022R0003) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/3 DA COMISSÃO de 4 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0003) — L 1 — 3 — 5.1.2022
-- [►M2](http://publications.europa.eu/resource/celex/32026R1821) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1821 DA COMISSÃO de 27 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1821) — L 1821 — 1 — 28.7.2026
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2015/1018 DA COMISSÃO
 
 de 29 de junho de 2015
 

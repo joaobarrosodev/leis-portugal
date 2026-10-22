@@ -34,6 +34,90 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-24'
+version_history:
+  file: decisao-ue-2016-610.versoes.json
+  count: 9
+  source_lastmod: '2026-07-24'
+  versions:
+  - date: '2016-04-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-06-08'
+    amending: eu:celex:32017D0971:por
+    amending_title: DECISÃO (UE) 2017/971 DO CONSELHO de 8 de junho de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Nomeação do Comandante da Missão da UE
+    - Altera Artigo 3.º — Designação do quartel-general da UE
+    - Altera Artigo 5.º — Controlo político e direção estratégica
+    - Altera Artigo 6.º — Direção militar
+    - Altera Artigo 7.º — Coerência da resposta e da coordenação da União
+    - Altera Artigo 8.º — Participação de Estados terceiros
+    - Altera Artigo 12.º — Comunicação de informações
+    - Altera Artigo 13.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2018-07-30'
+    amending: eu:celex:32018D1082:por
+    amending_title: DECISÃO (PESC) 2018/1082 DO CONSELHO de 30 de julho de 2018
+    changes:
+    - Altera Artigo 1.º — Missão
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 12.º — Comunicação de informações
+    - Altera Artigo 13.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2020-07-30'
+    amending: eu:celex:32018D1941:por
+    amending_title: DECISÃO (PESC) 2018/1941 DO CONSELHO de 10 de dezembro de 2018; DECISÃO (PESC) 2020/1133 DO CONSELHO de
+      30 de julho de 2020
+    changes:
+    - Altera Artigo 1.º — Missão
+    - Altera Artigo 7.º — Coerência da resposta e da coordenação da União
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 12.º — Comunicação de informações
+    - Altera Artigo 13.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2022-07-28'
+    amending: eu:celex:32022D1334:por
+    amending_title: DECISÃO (PESC) 2022/1334 DO CONSELHO de 28 de julho de 2022
+    changes:
+    - Altera Artigo 1.º — Missão
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 12.º — Comunicação de informações
+    - Altera Artigo 13.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2023-08-03'
+    amending: eu:celex:32023D1600:por
+    amending_title: DECISÃO (PESC) 2023/1600 DO CONSELHO de 3 de agosto de 2023
+    changes:
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 12.º — Comunicação de informações
+    - Altera Artigo 13.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2024-09-06'
+    amending: eu:celex:32024D2396:por
+    amending_title: DECISÃO (PESC) 2024/2396 DO CONSELHO de 6 de setembro de 2024
+    changes:
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 12.º — Comunicação de informações
+    - Altera Artigo 13.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2025-07-08'
+    amending: eu:celex:32025D1341:por
+    amending_title: DECISÃO (PESC) 2025/1341 DO CONSELHO de 8 de julho de 2025
+    changes:
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 12.º — Comunicação de informações
+    - Altera Artigo 13.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2026-07-24'
+    amending: eu:celex:32026D1856:por
+    amending_title: DECISÃO (PESC) 2026/1856 DO CONSELHO de 24 de julho de 2026
+    changes:
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 12.º — Comunicação de informações
+    - Altera Artigo 13.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
 identifiers:
   celex: 32016D0610
   eli: http://data.europa.eu/eli/dec/2016/610/oj
@@ -48,7 +132,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/130586d5-06c2-11e6-b713-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/2605e124-a0da-11f1-b25c-01aa75ed71a1.0002.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016D0610-20260724
-  retrieved_at: '2026-10-22T02:43:21Z'
+  retrieved_at: '2026-10-22T16:49:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T14:38:16.435+01:00'
 integrity:
@@ -57,9 +141,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:21Z'
-  notes: Texto consolidado 02016D0610-20260724.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:49:00Z'
+  notes: 9 versão(ões); histórico completo em decisao-ue-2016-610.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -195,37 +279,19 @@ relationships:
   date: '2017-10-04'
 article_structure:
   article_count: 13
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:21Z'
+  checked_at: '2026-10-22T16:49:00Z'
   warnings: []
   errors: []
 ---
 
 # Decisão (PESC) 2016/610 do Conselho, de 19 de abril de 2016
-
-> 02016D0610 — PT — 24.07.2026 — 009.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017D0971) — [DECISÃO (UE) 2017/971 DO CONSELHO de 8 de junho de 2017](http://publications.europa.eu/resource/celex/32017D0971) — L 146 — 133 — 9.6.2017
-- [►M2](http://publications.europa.eu/resource/celex/32018D1082) — [DECISÃO (PESC) 2018/1082 DO CONSELHO de 30 de julho de 2018](http://publications.europa.eu/resource/celex/32018D1082) — L 194 — 140 — 31.7.2018
-- [►M3](http://publications.europa.eu/resource/celex/32018D1941) — [DECISÃO (PESC) 2018/1941 DO CONSELHO de 10 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018D1941) — L 314 — 54 — 11.12.2018
-- [►M4](http://publications.europa.eu/resource/celex/32020D1133) — [DECISÃO (PESC) 2020/1133 DO CONSELHO de 30 de julho de 2020](http://publications.europa.eu/resource/celex/32020D1133) — L 247 — 22 — 31.7.2020
-- [►M5](http://publications.europa.eu/resource/celex/32022D1334) — [DECISÃO (PESC) 2022/1334 DO CONSELHO de 28 de julho de 2022](http://publications.europa.eu/resource/celex/32022D1334) — L 201 — 27 — 1.8.2022
-- [►M6](http://publications.europa.eu/resource/celex/32023D1600) — [DECISÃO (PESC) 2023/1600 DO CONSELHO de 3 de agosto de 2023](http://publications.europa.eu/resource/celex/32023D1600) — L 196 — 35 — 4.8.2023
-- [►M7](http://publications.europa.eu/resource/celex/32024D2396) — [DECISÃO (PESC) 2024/2396 DO CONSELHO de 6 de setembro de 2024](http://publications.europa.eu/resource/celex/32024D2396) — L 2396 — 1 — 6.9.2024
-- [►M8](http://publications.europa.eu/resource/celex/32025D1341) — [DECISÃO (PESC) 2025/1341 DO CONSELHO de 8 de julho de 2025](http://publications.europa.eu/resource/celex/32025D1341) — L 1341 — 1 — 9.7.2025
-- [►M9](http://publications.europa.eu/resource/celex/32026D1856) — [DECISÃO (PESC) 2026/1856 DO CONSELHO de 24 de julho de 2026](http://publications.europa.eu/resource/celex/32026D1856) — L 1856 — 1 — 27.7.2026
-
-## DECISÃO (PESC) 2016/610 DO CONSELHO
 
 de 19 de abril de 2016
 

@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-07-30'
+version_history:
+  file: regulamento-ue-2014-1253.versoes.json
+  count: 1
+  source_lastmod: '2020-07-30'
+  versions:
+  - date: '2020-07-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32014R1253
   eli: http://data.europa.eu/eli/reg/2014/1253/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a65efd48-747b-11e4-b593-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/5d9ca2a9-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R1253-20200730
-  retrieved_at: '2026-10-22T03:17:27Z'
+  retrieved_at: '2026-10-22T16:37:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-16T09:17:40.805+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:27Z'
-  notes: Texto consolidado 02014R1253-20200730.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:37:47Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2014-1253.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -137,30 +146,21 @@ relationships:
   date: '2019-04-03'
 article_structure:
   article_count: 9
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:27Z'
-  warnings: []
+  checked_at: '2026-10-22T16:37:47Z'
+  warnings:
+  - '02014R1253-20141125: versão indisponível (Sem expressão na língua por para CELEX 02014R1253-20141125.)'
+  - '02014R1253-20170109: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1253/2014 da Comissão, de 7 de julho de 2014
-
-> 02014R1253 — PT — 30.07.2020 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R2282) — [REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2282) — L 346 — 51 — 20.12.2016
-- [M2](http://publications.europa.eu/resource/celex/32020R1000) — [REGULAMENTO (UE) 2020/1000 DA COMISSÃO de 9 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1000) — L 221 — 105 — 10.7.2020
-
-## REGULAMENTO (UE) N.º 1253/2014 DA COMISSÃO
 
 de 7 de julho de 2014
 

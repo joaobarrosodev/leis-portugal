@@ -37,6 +37,108 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-01'
+version_history:
+  file: regulamento-ue-2014-640.versoes.json
+  count: 4
+  source_lastmod: '2023-01-01'
+  versions:
+  - date: '2016-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32017R0723:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2017/723 DA COMISSÃO de 16 de fevereiro de 2017; REGULAMENTO DELEGADO (UE) 2021/841
+      DA COMISSÃO de 19 de fevereiro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Identificação das parcelas agrícolas
+    - Altera Artigo 9.º — Determinação de superfícies quando a parcela agrícola contém elementos paisagísticos e árvores
+    - Altera Artigo 12.º — Derrogação para a data final para a apresentação e a notificação
+    - Altera Artigo 13.º — Apresentação tardia
+    - Altera Artigo 19.º — Sanções administrativas por sobredeclaração
+    - Altera Artigo 20.º — Sanções administrativas relativas ao pagamento específico para o algodão
+    - Altera Artigo 22.º — Princípios gerais
+    - Altera Artigo 23.º — Base de cálculo do pagamento por práticas agrícolas benéficas para o clima e o ambiente relativamente
+      aos hectares elegíveis declarados no âmbito do regime de pagamento de base ou do regime de pagamento único por superfície
+    - Altera Artigo 24.º — Redução do pagamento por ecologização em caso de incumprimento da diversificação das culturas
+    - Altera Artigo 26.º — Redução do pagamento por ecologização em caso de incumprimento das disposições sobre superfícies
+      de interesse ecológico
+    - Altera Artigo 30.º — Base de cálculo
+    - Altera Artigo 37.º — Obrigações referentes às pastagens permanentes
+    - Altera Artigo 43.º — Revogação
+    - Altera Notas
+    - Adita Artigo 31.º — Sanções administrativas relativas a animais ao abrigo dos regimes de ajuda «animai s» ou das medidas
+      de apoio «animai s»
+    - Suprime Artigo 31.º — Sanções administrativas relativas a animais declarados ao abrigo dos regimes de ajuda «animai»
+      ou das medidas de apoio «animais»
+  - date: '2021-09-03'
+    amending: eu:celex:32021R1418:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1418 DA COMISSÃO de 23 de junho de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Identificação das parcelas agrícolas
+    - Altera Artigo 9.º — Determinação de superfícies quando a parcela agrícola contém elementos paisagísticos e árvores
+    - Altera Artigo 12.º — Derrogação para a data final para a apresentação e a notificação
+    - Altera Artigo 13.º — Apresentação tardia
+    - Altera Artigo 19.º — Sanções administrativas por sobredeclaração
+    - Altera Artigo 20.º — Sanções administrativas relativas ao pagamento específico para o algodão
+    - Altera Artigo 31.º — Sanções administrativas relativas a animais ao abrigo dos regimes de ajuda «animai s» ou das medidas
+      de apoio «animai s»
+    - Altera Artigo 37.º — Obrigações referentes às pastagens permanentes
+    - Altera Artigo 43.º — Revogação
+    - Altera Notas
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Aplicação de sanções penais
+    - Suprime Artigo 4.º — Força maior e circunstâncias excecionais
+    - Suprime TÍTULO II
+    - Suprime SISTEMA INTEGRADO DE GESTÃO E DE CONTROLO
+    - Suprime CAPÍTULO I
+    - Suprime REQUISITOS DOS SISTEMAS
+    - Suprime Artigo 5.º — Identificação das parcelas agrícolas
+    - Suprime Artigo 6.º — Avaliação da qualidade do sistema de identificação das parcelas agrícolas
+    - Suprime Artigo 7.º — Identificação e registo dos direitos ao pagamento
+    - Suprime Artigo 8.º — Identificação dos beneficiários
+    - Suprime CAPÍTULO II
+    - Suprime PARCELAS AGRÍCOLAS COM ELEMENTOS PAISAGÍSTICOS E ÁRVORES
+    - Suprime Artigo 9.º — Determinação de superfícies quando a parcela agrícola contém elementos paisagísticos e árvores
+    - Suprime Artigo 10.º — Sistema proporcional aplicável aos prados permanentes com elementos paisagísticos e árvores
+    - Suprime CAPÍTULO III
+    - Suprime PEDIDOS DE AJUDA E PEDIDOS DE PAGAMENTO
+    - Suprime Artigo 11.º — Pedido único
+    - Suprime Artigo 12.º — Derrogação para a data final para a apresentação e a notificação
+    - Suprime Artigo 13.º — Apresentação tardia
+    - Suprime Artigo 14.º — Apresentação tardia de pedidos de direitos ao pagamento
+    - Suprime CAPÍTULO IV
+    - Suprime CÁLCULO DA AJUDA E SANÇÕES ADMINISTRATIVAS RELACIONADAS COM REGIMES DE PAGAMENTOS DIRETOS E MEDIDAS DE DESENVOLVIMENTO
+      RURAL NO ÂMBITO DO SISTEMA INTEGRADO
+    - Suprime SECÇÃO 1
+    - Suprime Normas gerais
+    - Suprime Artigo 15.º — Exceções à aplicação de sanções administrativas
+    - Suprime Artigo 15.º-A — Limite individual ou limite máximo
+    - Suprime Artigo 16.º — Omissão de superfícies
+    - Suprime SECÇÃO 2
+    - Suprime Regimes de ajuda «superfícies», exceto pagamento por práticas agrícolas benéficas para o clima e o ambiente,
+      e medidas de apoio «superfícies»
+    - Suprime Artigo 17.º — Princípios gerais
+    - Suprime Artigo 18.º — Base de cálculo dos pagamentos por superfície
+    - Suprime Artigo 19.º — Sanções administrativas por sobredeclaração
+    - Suprime Artigo 19.º-A — Sanções administrativas por sobredeclaração de superfícies para efeitos do regime de pagamento
+      de base, do regime de pagamento único por superfície, do pagamento redistributivo, do regime para os jovens agricultores,
+      do pagamento para zonas com condicionantes naturais, do regime para a pequena agricultura, dos pagamentos a título da
+      rede Natura 2000 e da Diretiva-Quadro Água e dos pagamentos a favor de zonas sujeitas a condicionantes naturais ou outras
+      condicionantes específicas
+    - Suprime Artigo 20.º — Sanções administrativas relativas ao pagamento específico para o algodão
+    - Suprime Artigo 21.º — Sanções administrativas incidentes nos pagamentos para os jovens agricultores ao abrigo do título
+      III, capítulo V, do Regulamento (UE) n.º 1307/2013, exceto por sobredeclaração de superfícies
 identifiers:
   celex: 32014R0640
   eli: http://data.europa.eu/eli/reg_del/2014/640/oj
@@ -51,7 +153,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/32f3f10e-f84b-11e3-831f-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/db741db0-9bfb-11ed-b508-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0640-20230101
-  retrieved_at: '2026-10-22T02:34:48Z'
+  retrieved_at: '2026-10-22T16:35:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T23:09:48.333+02:00'
 integrity:
@@ -60,9 +162,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:48Z'
-  notes: Texto consolidado 02014R0640-20230101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:35:11Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2014-640.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -545,16 +647,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:48Z'
+  checked_at: '2026-10-22T16:35:11Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02014R0640-20140620: versão indisponível (Sem expressão na língua por para CELEX 02014R0640-20140620.)'
   errors: []
 ---
 

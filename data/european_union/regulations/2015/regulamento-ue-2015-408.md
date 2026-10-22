@@ -34,7 +34,26 @@ version:
   kind: consolidated
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
-  consolidation_date: '2025-07-01'
+  consolidation_date: '2020-10-07'
+version_history:
+  file: regulamento-ue-2015-408.versoes.json
+  count: 3
+  source_lastmod: '2025-07-01'
+  versions:
+  - date: '2017-12-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-08-01'
+    amending: eu:celex:32019R1085:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/1085 DA COMISSÃO de 25 de junho de 2019
+    changes:
+    - Altera ANEXO
+  - date: '2020-10-07'
+    amending: eu:celex:32020R1295:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1295 DA COMISSÃO de 16 de setembro de 2020
+    changes:
+    - Altera ANEXO
 identifiers:
   celex: 32015R0408
   eli: http://data.europa.eu/eli/reg_impl/2015/408/oj
@@ -48,19 +67,19 @@ source:
   official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32015R0408
   metadata_url: http://publications.europa.eu/resource/cellar/6588b17a-c885-11e4-bbe1-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/958b0f76-66f3-11f0-bf4e-01aa75ed71a1.0020.02/DOC_1
-  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0408-20250701
-  retrieved_at: '2026-10-22T03:17:39Z'
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0408-20201007
+  retrieved_at: '2026-10-22T16:40:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T02:36:18.213+02:00'
 integrity:
-  source_sha256: 972cee1a9bb441d62e1a6e4228ce064c9eea6e6185cad6f1f8c32f5e9554a0a3
+  source_sha256: fa2c6f74d5da985260f455fd07e3715899b5f27cb056791db639d9fc8404daba
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:39Z'
-  notes: Texto consolidado 02015R0408-20250701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:40:36Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2015-408.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -162,40 +181,19 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:39Z'
-  warnings: []
+  checked_at: '2026-10-22T16:40:36Z'
+  warnings:
+  - '02015R0408-20150312: versão indisponível (Sem expressão na língua por para CELEX 02015R0408-20150312.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2015/408 da Comissão, de 11 de março de 2015
-
-> 02015R0408 — PT — 01.07.2025 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32017R2065) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/2065 DA COMISSÃO de 13 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2065) — L 295 — 40 — 14.11.2017
-- [►M2](http://publications.europa.eu/resource/celex/32019R1085) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1085 DA COMISSÃO de 25 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1085) — L 171 — 110 — 26.6.2019
-- [►M3](http://publications.europa.eu/resource/celex/32020R1295) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1295 DA COMISSÃO de 16 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1295) — L 303 — 18 — 17.9.2020
-- [►M4](http://publications.europa.eu/resource/celex/32021R1177) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1177 DA COMISSÃO de 16 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1177) — L 256 — 60 — 19.7.2021
-- [►M5](http://publications.europa.eu/resource/celex/32022R0043) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/43 DA COMISSÃO de 13 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0043) — L 9 — 7 — 14.1.2022
-- [►M6](http://publications.europa.eu/resource/celex/32022R1252) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1252 DA COMISSÃO de 19 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1252) — L 191 — 41 — 20.7.2022
-- [►M7](http://publications.europa.eu/resource/celex/32023R1436) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1436 DA COMISSÃO de 10 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1436) — L 176 — 10 — 11.7.2023
-- [►M8](http://publications.europa.eu/resource/celex/32024R1749) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1749 DA COMISSÃO de 24 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1749) — L 1749 — 1 — 25.6.2024
-- [►M9](http://publications.europa.eu/resource/celex/32024R2806) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2806 DA COMISSÃO de 31 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2806) — L 2806 — 1 — 4.11.2024
-- [►M10](http://publications.europa.eu/resource/celex/32025R0808) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/808 DA COMISSÃO de 5 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0808) — L 808 — 1 — 6.5.2025
-- [►M11](http://publications.europa.eu/resource/celex/32025R0833) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/833 DA COMISSÃO de 5 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0833) — L 833 — 1 — 6.5.2025
-- [►M12](http://publications.europa.eu/resource/celex/32025R0910) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/910 DA COMISSÃO de 20 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0910) — L 910 — 1 — 21.5.2025
-- [►M13](http://publications.europa.eu/resource/celex/32025R1152) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1152 DA COMISSÃO de 11 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1152) — L 1152 — 1 — 12.6.2025
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2015/408 DA COMISSÃO
 
 de 11 de março de 2015
 

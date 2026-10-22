@@ -35,6 +35,43 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-10-23'
+version_history:
+  file: diretiva-ue-2016-798.versoes.json
+  count: 3
+  source_lastmod: '2020-10-23'
+  versions:
+  - date: '2016-05-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-05-28'
+    amending: eu:celex:32020L0700:por
+    amending_title: DIRETIVA (UE) 2020/700 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de
+      maio de 2020
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 8.º — Regras nacionais no domínio da segurança
+    - Altera Artigo 9.º — Sistemas de gestão da segurança
+    - Altera Artigo 10.º — Certificado de segurança único
+    - Altera Artigo 14.º — Manutenção dos veículos
+    - Altera Artigo 27.º — Exercício da delegação
+    - Altera Artigo 31.º — Disposições transitórias
+    - Altera Artigo 33.º — Transposição
+    - Altera Artigo 34.º — Revogação
+    - Altera Notas
+    - Adita Artigo 6.º-A — Ajustamento dos MCS aos prazos revistos
+    - Adita Artigo 27.º-A — Procedimento de urgência
+  - date: '2020-10-23'
+    amending: eu:celex:32020R1530:por
+    amending_title: REGULAMENTO (UE) 2020/1530 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de outubro de 2020
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 8.º — Regras nacionais no domínio da segurança
+    - Altera Artigo 9.º — Sistemas de gestão da segurança
+    - Altera Artigo 10.º — Certificado de segurança único
+    - Altera Artigo 14.º — Manutenção dos veículos
+    - Altera Artigo 16.º — Atribuições
+    - Altera Notas
 identifiers:
   celex: 32016L0798
   eli: http://data.europa.eu/eli/dir/2016/798/oj
@@ -49,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b24c5e2e-22d0-11e6-86d0-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/bf3fbd1a-2360-11eb-b57e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016L0798-20201023
-  retrieved_at: '2026-10-22T02:41:49Z'
+  retrieved_at: '2026-10-22T16:49:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T19:27:16.693+01:00'
 integrity:
@@ -58,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:49Z'
-  notes: Texto consolidado 02016L0798-20201023.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:49:35Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2016-798.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -258,35 +295,19 @@ relationships:
   source: null
 article_structure:
   article_count: 38
-  section_count: 41
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 42
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:49Z'
+  checked_at: '2026-10-22T16:49:35Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2016/798 do Parlamento Europeu e do Conselho, de 11 de maio de 2016
-
-> 02016L0798 — PT — 23.10.2020 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020L0700) — [DIRETIVA (UE) 2020/700 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de maio de 2020](http://publications.europa.eu/resource/celex/32020L0700) — L 165 — 27 — 27.5.2020
-- [►M2](http://publications.europa.eu/resource/celex/32020R1530) — [REGULAMENTO (UE) 2020/1530 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1530) — L 352 — 1 — 22.10.2020
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32016L0798R%2801%29) — [Rectificação, JO L 059, 7.3.2017, p. 41 (2016/798)](http://publications.europa.eu/resource/celex/32016L0798R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32016L0798R%2805%29) — [Rectificação, JO L 317, 9.12.2019, p. 114 (2016/798)](http://publications.europa.eu/resource/celex/32016L0798R%2805%29)
-
-## DIRETIVA (UE) 2016/798 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de maio de 2016
 

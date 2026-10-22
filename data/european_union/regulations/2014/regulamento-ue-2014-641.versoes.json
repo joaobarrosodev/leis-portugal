@@ -1,0 +1,576 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014R0641:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0641-20221229",
+ "dre_path": null,
+ "source_lastmod": "2022-12-29",
+ "versions": [
+  {
+   "date": "2014-06-20",
+   "future": false,
+   "celex": "32014R0641",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "054ae0c2495f4c56",
+    "f6c2eb219fe1b284",
+    "b5fc96d7a06da07d",
+    "988d70e1422b8974",
+    "2d6294659c9286a9",
+    "8a6992ea3c104fd1",
+    "63279562ade80cd8",
+    "9b406af514eb9164",
+    "b819d2437c59afb6",
+    "620dc9f1fafc1b30",
+    "99cebca0a6f86a42",
+    "1b81fa4ec41c3ad9",
+    "3b6645c39237629d",
+    "c42c0c2b3cabd519",
+    "edf99a0995e1a11a",
+    "ac5decc6d0dcca5a",
+    "e55f56fe371adbb7",
+    "ac8387eef8dd0a6f",
+    "88e9f05b18499e10",
+    "ab6aa6790f0cc937",
+    "a3b195c08c38f795",
+    "e939f13fac784a6c",
+    "5dd07b5c57471643",
+    "c848a988ee7b5d3e",
+    "6cc3b57c1b453c93",
+    "ec4b6f60c2bb02c0",
+    "9b406af514eb9164",
+    "3cfb5a891ee1c5f3",
+    "cf4f80285122edcb",
+    "c42c0c2b3cabd519",
+    "fea86e11821dd71a",
+    "6754deffdcbc8504",
+    "927e2dd65ca14c6c",
+    "ba538fa7b6eb44e8",
+    "168993ae517037c5",
+    "cd9bf03eadec71cf",
+    "7cc6c75607728c33",
+    "94d51f5c6d3ea027",
+    "1b8c68e83a5ddd39",
+    "47858455157b62ca",
+    "dde9cf53e9ae6c9a",
+    "e4cbed333e22d724",
+    "1f67c7e6ca83cc9e"
+   ]
+  },
+  {
+   "date": "2018-04-18",
+   "future": false,
+   "celex": "02014R0641-20180418",
+   "acts": [
+    {
+     "id": "eu:celex:32018R0557:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2018/557 DA COMISSÃO de 9 de abril de 2018",
+     "published": null,
+     "celex": "32018R0557"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013",
+    "Altera Artigo 10.º — Procedimento de notificação e avaliação das práticas previstas nos compromissos específicos ou regimes de certificação",
+    "Altera Artigo 15.º — Notificações relativas à flexibilidade entre pilares",
+    "Altera Artigo 19.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita Artigo 16.º-A — Notificação do aumento do limite máximo fixado para o regime de pagamento único por superfície a que se refere o artigo 36.º, n.º 4, do Regulamento (UE) n.º 1307/2013"
+   ],
+   "fragments": [
+    "b47e357c98662f3c",
+    "f6c2eb219fe1b284",
+    "b5fc96d7a06da07d",
+    "988d70e1422b8974",
+    "2d6294659c9286a9",
+    "8a6992ea3c104fd1",
+    "63279562ade80cd8",
+    "9b406af514eb9164",
+    "b819d2437c59afb6",
+    "f4dd85b6c3e91a66",
+    "99cebca0a6f86a42",
+    "1b81fa4ec41c3ad9",
+    "3b6645c39237629d",
+    "c42c0c2b3cabd519",
+    "edf99a0995e1a11a",
+    "ac5decc6d0dcca5a",
+    "e55f56fe371adbb7",
+    "ac8387eef8dd0a6f",
+    "88e9f05b18499e10",
+    "ab6aa6790f0cc937",
+    "a3b195c08c38f795",
+    "e939f13fac784a6c",
+    "bfe2af672c2feb3a",
+    "c848a988ee7b5d3e",
+    "6cc3b57c1b453c93",
+    "ec4b6f60c2bb02c0",
+    "9b406af514eb9164",
+    "3cfb5a891ee1c5f3",
+    "cf4f80285122edcb",
+    "c42c0c2b3cabd519",
+    "fea86e11821dd71a",
+    "6754deffdcbc8504",
+    "927e2dd65ca14c6c",
+    "ba538fa7b6eb44e8",
+    "168993ae517037c5",
+    "3157c3d074b8e03c",
+    "7cc6c75607728c33",
+    "1477c1011dda958a",
+    "94d51f5c6d3ea027",
+    "1b8c68e83a5ddd39",
+    "47858455157b62ca",
+    "dde9cf53e9ae6c9a",
+    "26bb572c7bea4ea9",
+    "2f3188c3d3666d32"
+   ]
+  },
+  {
+   "date": "2022-12-29",
+   "future": false,
+   "celex": "02014R0641-20221229",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO 1",
+    "Suprime ÂMBITO DE APLICAÇÃO E PRINCÍPIOS GERAIS",
+    "Suprime Artigo 1.º — Âmbito de aplicação",
+    "Suprime Artigo 2.º — Princípios gerais",
+    "Suprime CAPÍTULO 2",
+    "Suprime REGIME DE PAGAMENTO DE BASE",
+    "Suprime SECÇÃO 1",
+    "Suprime Primeira atribuição dos direitos ao pagamento",
+    "Suprime Artigo 3.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013",
+    "Suprime Artigo 4.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 20.º do Regulamento Delegado (UE) n.º 639/2014",
+    "Suprime Artigo 5.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 21.º do Regulamento Delegado (UE) n.º 639/2014.",
+    "Suprime Artigo 6.º — Valor dos direitos ao pagamento no caso de herança",
+    "Suprime SECÇÃO 2",
+    "Suprime Ativação e transferência de direitos ao pagamento",
+    "Suprime Artigo 7.º — Ativação dos direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013 ou com os artigos 20.º e 21.º do Regulamento Delegado (UE) n.º 639/2014",
+    "Suprime Artigo 8.º — Notificações de transferência",
+    "Suprime SECÇÃO 3",
+    "Suprime Reservas nacionais ou regionais",
+    "Suprime Artigo 9.º — Reversão para a reserva nacional ou regional",
+    "Suprime CAPÍTULO 3",
+    "Suprime ECOLOGIZAÇÃO",
+    "Suprime Artigo 10.º — Procedimento de notificação e avaliação das práticas previstas nos compromissos específicos ou regimes de certificação",
+    "Suprime Artigo 11.º — Limites para a manutenção da superfície ocupada por prados permanentes em termos absolutos",
+    "Suprime CAPÍTULO 4",
+    "Suprime APOIO ASSOCIADO",
+    "Suprime Apoio associado voluntário",
+    "Suprime Artigo 12.º — Procedimento de apreciação e aprovação das decisões referidas no artigo 55.º, n.º 1, do Regulamento (UE) n.º 1307/2013",
+    "Suprime Pagamento específico para o algodão",
+    "Suprime Artigo 13.º — Processo de autorização das terras e variedades",
+    "Suprime Artigo 14.º — Notificações aos produtores",
+    "Suprime CAPÍTULO 5",
+    "Suprime NORMAS APLICÁVEIS À NOTIFICAÇÃO",
+    "Suprime Artigo 15.º — Notificações relativas à flexibilidade entre pilares",
+    "Suprime Artigo 16.º — Notificação sobre o aumento do limite máximo do regime de pagamento de base a que se refere o artigo 22.º, n.^os^ 2 e 3, do Regulamento (UE) n.º 1307/2013",
+    "Suprime Artigo 16.º-A — Notificação do aumento do limite máximo fixado para o regime de pagamento único por superfície a que se refere o artigo 36.º, n.º 4, do Regulamento (UE) n.º 1307/2013",
+    "Suprime Artigo 17.º — Afetações financeiras ao abrigo do pagamento redistributivo, do pagamento para zonas com condicionantes naturais e do pagamento aos jovens agricultores",
+    "Suprime Artigo 18.º — Aplicação do Regulamento (CE) n.º 792/2009",
+    "Suprime CAPÍTULO 6",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 19.º — Entrada em vigor e aplicação",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "d501c7fcc21de134"
+   ]
+  }
+ ],
+ "fragments": {
+  "054ae0c2495f4c56": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de junho de 2014\n\nque fixa as normas de execução do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, que estabelece regras para os pagamentos diretos aos agricultores ao abrigo de regimes de apoio no âmbito da política agrícola comum\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece regras para os pagamentos diretos aos agricultores ao abrigo de regimes de apoio no âmbito da política agrícola comum e que revoga o Regulamento (CE) n.º 637/2008 do Conselho e o Regulamento (CE) n.º 73/2009 [([^1])](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2014181PT.01007401-E0001) do Conselho, nomeadamente o artigo 24.º, n.º 11, o artigo 31.º, n.º 2, o artigo 34.º, n.º 5, o artigo 39.º, n.º 4, o artigo 43.º, n.º 13, o artigo 45.º, n.º 7, o artigo 55.º, n.º 2, o artigo 57.º, n.º 4, e o artigo 67.º, n.º 3,\n\nConsiderando o seguinte:\n\n(1) O artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013 e os artigos 20.º e 21.º do Regulamento Delegado (UE) n.º 639/2014 [([^2])](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2014181PT.01007401-E0002) estabelecem que os agricultores, mediante contrato assinado, podem transferir o direito de pagamento a atribuir ou o direito de receber direitos ao pagamento, em caso de venda ou arrendamento da sua exploração. Devem ser estabelecidas normas para essas circunstâncias específicas, nomeadamente no que respeita à atribuição de direitos ao pagamento nesses casos.\n\n(2) Para efeitos do artigo 25.º, n.º 2, do artigo 26.º e do artigo 40.º, n.^os^ 2 e 3, do Regulamento (UE) n.º 1307/2013, é necessário estabelecer regras para o cálculo do valor dos direitos ao pagamento a atribuir em caso de transferência de uma exploração por herança a outro agricultor que tencione dar continuidade à atividade agrícola nessa exploração, tendo ele próprio direito a que lhe sejam atribuídos direitos ao pagamento no primeiro ano de aplicação do regime de pagamento de base.\n\n(3) Para uma boa gestão do regime de pagamento de base, importa estabelecer regras para a notificação da transferência de direitos ao pagamento pelos agricultores às autoridades nacionais.\n\n(4) Tendo em vista a reposição da reserva nacional ou regional dos direitos ao pagamento não utilizados em conformidade com o artigo 31.º, n.º 1, alíneas a) e b), do Regulamento (UE) n.º 1307/2013, é necessário fixar uma data após a qual os direitos não utilizados, incluindo os direitos ao pagamento que não foram ativados ou que, de outra forma, não dão origem a pagamentos, revertam para a reserva.\n\n(5) O artigo 43.º do Regulamento (UE) n.º 1307/2013 prevê a possibilidade de os Estados-Membros decidirem aplicar compromissos específicos ou regimes de certificação como práticas equivalentes benéficas para o clima e o ambiente. A fim de assegurar uma avaliação atempada e eficaz das práticas previstas nesses compromissos ou regimes de certificação, importa estabelecer as normas aplicáveis ao procedimento de notificação e a avaliação pela Comissão.\n\n(6) Nos termos do artigo 45.º, n.º 3, segundo parágrafo, do Regulamento (UE) n.º 1307/2013, não se aplica nenhuma obrigação individual de reconversão a nível da exploração se, em termos absolutos, a superfície ocupada por prados permanentes for mantida dentro de certos limites. Importa, pois, fixar esses limites.\n\n(7) Nos termos do artigo 55.º, n.º 1, do Regulamento (UE) n.º 1307/2013, as decisões referidas no artigo 53.º, n.^os^ 4 e 6, alínea a), do mesmo regulamento estão sujeitas a aprovação da Comissão. Por conseguinte, há que estabelecer as normas aplicáveis ao procedimento de avaliação e aprovação pela Comissão.\n\n(8) Por força do artigo 57.º, n.º 4, do Regulamento (UE) n.º 1307/2013, a Comissão adota as normas aplicáveis ao processo de autorização das terras e variedades para efeitos do pagamento específico para o algodão. Em conformidade com o princípio da subsidiariedade, essas normas devem fixar a data-limite para a conclusão desse processo, incumbindo aos Estados-Membros a definição em pormenor das normas processuais.\n\n(9) Importa definir as informações sobre essa autorização que os Estados-Membros devem comunicar aos produtores. A fim de assegurar que os produtores são informados em tempo útil, importa fixar uma data-limite para o envio dessas comunicações.\n\n(10) Para efeitos do controlo da correta aplicação das normas referentes à flexibilidade entre os vários pilares, estabelecidas no Regulamento (UE) n.º 1307/2013, é necessário estabelecer determinadas obrigações de notificação sobre as informações a incluir pelos Estados-Membros nas decisões que tomarem em conformidade com o artigo 14.º do referido regulamento.\n\n(11) Para efeitos da definição dos limites financeiros, estabelecidos em conformidade com o Regulamento (UE) n.º 1307/2013, e de verificação do cumprimentos dos mesmos, é necessário especificar determinadas obrigações de notificação, nomeadamente em matéria de informação a comunicar pelos Estados-Membros sobre as suas decisões, nos termos do artigo 22.^o,^ n.^os^ 2 e 3, do artigo 42.º, n.º 1, do artigo 49.º, n.º 1, e do artigo 51.º, n.º 1, do mesmo regulamento.\n\n(12) Por razões de eficiência, é conveniente estabelecer que as notificações nos termos do Regulamento (UE) n.º 1307/2013, do Regulamento Delegado (UE) n.º 639/2014 e do presente regulamento devem ser comunicadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2014181PT.01007401-E0003).\n\n(13) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Pagamentos Diretos,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "b5fc96d7a06da07d": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO E PRINCÍPIOS GERAIS",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO E PRINCÍPIOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO E PRINCÍPIOS GERAIS"
+  },
+  "988d70e1422b8974": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente regulamento estabelece as normas de execução do Regulamento (UE) n.º 1307/2013, em matéria de:\n\na) Disposições gerais relativas aos pagamentos diretos;\n\nb) Regime de pagamento de base;\n\nc) Pagamento para os agricultores que observam práticas agrícolas benéficas para o clima e o ambiente;\n\nd) Apoio associado voluntário;\n\ne) Pagamento específico para o algodão;\n\nf) Notificações a efetuar pelos Estados-Membros."
+  },
+  "2d6294659c9286a9": {
+   "fragment_id": "Artigo 2.º — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios gerais\n\nOs Estados-Membros devem aplicar o presente regulamento de acordo com critérios objetivos, e de modo a assegurar a igualdade de tratamento dos agricultores e a evitar distorções do mercado e da concorrência, promovendo ao mesmo tempo uma gestão sustentável dos recursos naturais e ações climáticas."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "63279562ade80cd8": {
+   "fragment_id": "REGIME DE PAGAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "REGIME DE PAGAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGIME DE PAGAMENTO DE BASE"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "b819d2437c59afb6": {
+   "fragment_id": "Primeira atribuição dos direitos ao pagamento",
+   "type": "divisao",
+   "heading": "Primeira atribuição dos direitos ao pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Primeira atribuição dos direitos ao pagamento"
+  },
+  "620dc9f1fafc1b30": {
+   "fragment_id": "Artigo 3.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013\n\nEm caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013, o pedido de atribuição de direitos ao pagamento deve apresentado pelo comprador ou pelo arrendatário, respetivamente. O pedido deve conter os seguintes elementos:\n\na) Dados específicos sobre um contrato de venda ou de arrendamento, designadamente a cláusula contratual e/ou, quando exigido pelo Estado-Membro, uma cópia do contrato;\n\nb) Dados de identificação do agricultor que transferiu para o comprador ou arrendatário o direito de receber direitos ao pagamento, incluindo, se disponível, o número de identificação único do beneficiário, referido no artigo 8.º do Regulamento Delegado (UE) n.º 640/2014 [([^4])](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2014181PT.01007401-E0004).\n\nAlém disso, os Estados-Membros devem exigir ao comprador ou ao arrendatário todas as informações que lhes permitam verificar o cumprimento do artigo 60.º do Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2014181PT.01007401-E0005)."
+  },
+  "99cebca0a6f86a42": {
+   "fragment_id": "Artigo 4.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 20.º do Regulamento Delegado (UE) n.º 639/2014",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 20.º do Regulamento Delegado (UE) n.º 639/2014",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 20.º do Regulamento Delegado (UE) n.º 639/2014\n\n1. Em caso de celebração de contrato de venda com uma cláusula contratual conforme com o artigo 20.º do Regulamento Delegado (UE) n.º 639/2014, o pedido de atribuição de direitos ao pagamento sujeitos a essa cláusula deve ser apresentado pelo vendedor. O pedido deve conter os seguintes elementos:\n\na) Discriminação do contrato de venda, incluindo a cláusula contratual e/ou, se exigido pelo Estado-Membro, uma cópia do contrato de venda;\n\nb) O número de hectares elegíveis sujeitos a essa cláusula contratual;\n\nc) Identificação pormenorizada do agricultor para quem é efetuada a transferência ao abrigo da dita cláusula, incluindo, se disponível, o número de identificação único do beneficiário, referido no artigo 8.º do Regulamento Delegado (UE) n.º 640/2014.\n\n2. Um Estado-Membro pode autorizar o comprador a apresentar em nome do vendedor o pedido de atribuição dos direitos ao pagamento. Nesse caso, o Estado-Membro deve verificar se o vendedor autorizou o comprador a apresentar o pedido."
+  },
+  "1b81fa4ec41c3ad9": {
+   "fragment_id": "Artigo 5.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 21.º do Regulamento Delegado (UE) n.º 639/2014.",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 21.º do Regulamento Delegado (UE) n.º 639/2014.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 21.º do Regulamento Delegado (UE) n.º 639/2014.\n\n1. Em caso de celebração de contrato de arrendamento com uma cláusula conforme com o artigo 21.º do Regulamento Delegado (UE) n.º 639/2014, o pedido de atribuição de direitos ao pagamento sujeitos a essa cláusula deve ser apresentado pelo arrendatário. O pedido deve incluir os seguintes elementos:\n\na) Discriminação do contrato de arrendamento, incluindo a cláusula contratual e/ou, se exigido pelo Estado-Membro, uma cópia do contrato de arrendamento;\n\nb) O número de hectares elegíveis sujeitos a essa cláusula contratual;\n\nc) Identificação pormenorizada do agricultor para quem é efetuada a transferência ao abrigo da dita cláusula, incluindo, se disponível, o número de identificação único do beneficiário, referido no artigo 8.º do Regulamento Delegado (UE) n.º 640/2014.\n\n2. O Estado-Membro pode permitir que o senhorio apresente o pedido de atribuição dos direitos ao pagamento em nome do arrendatário. Nesse caso, o Estado-Membro verificará se o arrendatário autorizou o senhorio a apresentar o pedido."
+  },
+  "3b6645c39237629d": {
+   "fragment_id": "Artigo 6.º — Valor dos direitos ao pagamento no caso de herança",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Valor dos direitos ao pagamento no caso de herança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Valor dos direitos ao pagamento no caso de herança\n\n1. Nos Estados-Membros que aplicam o artigo 25.º, n.º 2, do Regulamento (UE) n.º 1307/2013, o valor dos direitos ao pagamento a estabelecer em conformidade com o artigo 26.º do Regulamento (UE) n.º 1307/2013 cujos titulares sejam agricultores com direito a que lhe sejam atribuídos direitos ao pagamento em ao abrigo do artigo 24.º do referido regulamento, para além de um direito a receber direitos ao pagamento ao abrigo do artigo 14.º, n.º 1, do Regulamento Delegado (UE) n.º 639/2014, deve ser calculado tendo em conta o somatório dos dados de 2014 correspondentes à sua exploração inicial e à exploração herdada, ou a parte da exploração herdada.\n\n2. Nos Estados-Membros que aplicam o artigo 40.º, n.º 2, do Regulamento (UE) n.º 1307/2013, o valor dos seu direitos ao pagamento a estabelecer em conformidade com o artigo 40.º, n.º 3, do Regulamento (UE) n.º 1307/2013 cujos titulares sejam agricultores com direito a que lhe sejam atribuídos direitos ao pagamento ao abrigo do artigo 39.º desse regulamento, para além de um direito a receber direitos ao pagamento ao abrigo do artigo 14.º, n.º 1, do Regulamento Delegado (UE) n.º 639/2014, deve basear-se no somatório dos dados do ano em causa, referentes à sua exploração inicial e à exploração herdada, ou a parte da exploração herdada."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "edf99a0995e1a11a": {
+   "fragment_id": "Ativação e transferência de direitos ao pagamento",
+   "type": "divisao",
+   "heading": "Ativação e transferência de direitos ao pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ativação e transferência de direitos ao pagamento"
+  },
+  "ac5decc6d0dcca5a": {
+   "fragment_id": "Artigo 7.º — Ativação dos direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013 ou com os artigos 20.º e 21.º do Regulamento Delegado (UE) n.º 639/2014",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Ativação dos direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013 ou com os artigos 20.º e 21.º do Regulamento Delegado (UE) n.º 639/2014",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ativação dos direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013 ou com os artigos 20.º e 21.º do Regulamento Delegado (UE) n.º 639/2014\n\n1. Em caso de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013, o primeiro pedido de pagamento do comprador ou locatário a título do regime de pagamento de base deve ser apresentado no ano do pedido de atribuição de direitos ao pagamento a que se refere o artigo 3.º do presente regulamento.\n\n2. Em caso de celebração de contrato com uma cláusula conforme com o artigo 20.º do Regulamento Delegado (UE) n.º 639/2014, no seu primeiro pedido de pagamento, a título do regime de pagamento de base, o comprador deve prestar informações pormenorizadas sobre o contrato de venda, com indicação da cláusula contratual pertinente e/ou, se o Estado-Membro o exigir, uma cópia do contrato de venda. Os pedidos devem ser apresentados no ano do pedido de atribuição de direitos ao pagamento a que se refere o artigo 4.º do presente regulamento.\n\n3. Em caso de celebração de contrato com uma cláusula conforme com o artigo 21.º do Regulamento Delegado (UE) n.º 639/2014, no seu primeiro pedido de pagamento, a título do regime de pagamento de base, o arrendatário deve prestar informações pormenorizadas sobre o contrato de arrendamento, com indicação da cláusula contratual pertinente e/ou, se o Estado-Membro o exigir, uma cópia do contrato de arrendamento. Os pedidos devem ser apresentados no ano do pedido de atribuição de direitos ao pagamento a que se refere o artigo 5.º do presente regulamento."
+  },
+  "e55f56fe371adbb7": {
+   "fragment_id": "Artigo 8.º — Notificações de transferência",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Notificações de transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Notificações de transferência\n\n1. No caso de transferência, em conformidade com o disposto no artigo 34.º do Regulamento (UE) n.º 1307/2013, quem transfere deve notificar da transferência a autoridade competente, num prazo a fixar pelo Estado-Membro.\n\n2. A transferência deve efetuar-se como indicado na notificação, salvo se a autoridade competente levantar objeções à mesma. A autoridade competente só pode levantar objeções a uma transferência se esta não for conforme com o disposto no Regulamento (UE) n.º 1307/2013, no Regulamento Delegado (UE) n.º 639/2014 e no presente regulamento. A autoridade competente deve notificar a sua objeção, o mais rapidamente possível, a quem transfere."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "88e9f05b18499e10": {
+   "fragment_id": "Reservas nacionais ou regionais",
+   "type": "divisao",
+   "heading": "Reservas nacionais ou regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reservas nacionais ou regionais"
+  },
+  "ab6aa6790f0cc937": {
+   "fragment_id": "Artigo 9.º — Reversão para a reserva nacional ou regional",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Reversão para a reserva nacional ou regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reversão para a reserva nacional ou regional\n\n1. Para efeitos do disposto no artigo 31.º, n.º 1, alíneas a) e b), do Regulamento (UE) n.º 1307/2013, salvo em caso de força maior ou em circunstâncias excecionais, os direitos ao pagamento não utilizados consideram-se revertidos a favor da reserva nacional ou regional a partir do dia seguinte à data-limite fixada pela Comissão, com fundamento no artigo 78.º, alínea b), do Regulamento (UE) n.º 1306/2013, para alteração do pedido único no âmbito do regime de pagamento de base no ano civil em que expira o período fixado no artigo 31.º, n.º 1, alíneas a) e b), do Regulamento (UE) n.º 1307/2013.\n\n2. Os Estados-Membros que apliquem as reservas nacionais em conformidade com o disposto no artigo 30.º, n.º 2, do Regulamento (UE) n.º 1307/2013, devem cumprir as normas relativas à reversão dos direitos ao pagamento não utilizados a nível regional."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "e939f13fac784a6c": {
+   "fragment_id": "ECOLOGIZAÇÃO",
+   "type": "divisao",
+   "heading": "ECOLOGIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ECOLOGIZAÇÃO"
+  },
+  "5dd07b5c57471643": {
+   "fragment_id": "Artigo 10.º — Procedimento de notificação e avaliação das práticas previstas nos compromissos específicos ou regimes de certificação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Procedimento de notificação e avaliação das práticas previstas nos compromissos específicos ou regimes de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento de notificação e avaliação das práticas previstas nos compromissos específicos ou regimes de certificação\n\n1. As notificações referidas no artigo 43.º, n.º 8, do Regulamento (UE) n.º 1307/2013, devem ser efetuadas até 1 de agosto de 2014 se o pedido for feito em 2015, ou até 1 de julho do ano anterior ao ano do pedido, se este tiver sido apresentado depois de 2015.\n\nAs notificações podem ser alteradas uma vez por ano, desde que tal seja comunicado à Comissão até 1 de julho do ano anterior do pedido de alteração.\n\n2. Relativamente aos compromissos referidos no artigo 43.º, n.º 3, alínea a), do Regulamento (UE) n.º 1307/2013, as notificações à Comissão devem descrever claramente as práticas abrangidas pelo compromisso, e indicar as práticas, a que se refere o artigo 43.º, n.º 2, do mesmo regulamento, que são equivalentes e por que práticas equivalentes enumeradas no anexo IX daquele regulamento são consideradas abrangidas. As notificações devem incluir uma referência aos compromissos pertinentes assumidos no âmbito do programa de desenvolvimento rural apresentado à Comissão nos termos do artigo 10.º, n.º 1, do Regulamento (UE) n.º 1305/2013 do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2014181PT.01007401-E0006), ou aprovados pela Comissão nos termos do artigo 18.º, n.º 4.º do Regulamento (CE) n.º 1698/2005 do Conselho [([^7])](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2014181PT.01007401-E0007).\n\n3. Relativamente aos regimes de certificação referidos no artigo 43.º, n.º 3, alínea b), do Regulamento (UE) n.º 1307/2013, as notificações à Comissão devem descrever claramente as práticas abrangidas pelo sistema de certificação, e indicar as práticas, a que se refere o artigo 43.º, n.º 2, do mesmo regulamento, que são equivalentes e por que práticas equivalentes enumeradas no anexo IX do referido regulamento são consideradas abrangidas.\n\n4. Se a avaliação realizada pela Comissão concluir que as práticas notificadas, previstas nos compromissos específicos ou sistemas de certificação, não são abrangidas pela lista do anexo IX do Regulamento (UE) n.º 1307/2013, a Comissão informa do facto o Estado-Membro no prazo de três meses após a receção da notificação. O Estado-Membro pode comunicar informações suplementares no prazo de um mês a contar da receção das informações da Comissão. O ato de execução previsto no artigo 43.º, n.º 8, segundo parágrafo, do Regulamento (UE) n.º 1307/2013, deve ser adotado no prazo de sete meses após a receção da notificação inicial."
+  },
+  "c848a988ee7b5d3e": {
+   "fragment_id": "Artigo 11.º — Limites para a manutenção da superfície ocupada por prados permanentes em termos absolutos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Limites para a manutenção da superfície ocupada por prados permanentes em termos absolutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Limites para a manutenção da superfície ocupada por prados permanentes em termos absolutos\n\nOs limites a utilizar para efeitos da avaliação da manutenção de prados permanentes, em termos absolutos, a que se refere o artigo 45.º, n.º 3, segundo parágrafo, do Regulamento (UE) n.º 1307/2013, devem corresponder a uma redução máxima de 0,5 % das superfícies de prados permanentes, estabelecida em conformidade com o artigo 45.º, n.º 2, alínea a), do mesmo regulamento."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "ec4b6f60c2bb02c0": {
+   "fragment_id": "APOIO ASSOCIADO",
+   "type": "divisao",
+   "heading": "APOIO ASSOCIADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### APOIO ASSOCIADO"
+  },
+  "3cfb5a891ee1c5f3": {
+   "fragment_id": "Apoio associado voluntário",
+   "type": "divisao",
+   "heading": "Apoio associado voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Apoio associado voluntário"
+  },
+  "cf4f80285122edcb": {
+   "fragment_id": "Artigo 12.º — Procedimento de apreciação e aprovação das decisões referidas no artigo 55.º, n.º 1, do Regulamento (UE) n.º 1307/2013",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Procedimento de apreciação e aprovação das decisões referidas no artigo 55.º, n.º 1, do Regulamento (UE) n.º 1307/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento de apreciação e aprovação das decisões referidas no artigo 55.º, n.º 1, do Regulamento (UE) n.º 1307/2013\n\nA Comissão aprecia as decisões, a que se refere o artigo 55.º, n.º 1, do Regulamento (UE) n.º 1307/2013, em função da sua conformidade com esse regulamento, em especial no que diz respeito à demonstração de uma das necessidades estabelecidas no artigo 55.º, n.º 1, e com o Regulamento Delegado (UE) n.º 639/2014.\n\nSe a Comissão considerar que as informações prestadas por um Estado-Membro não permitem concluir que as condições referidas no primeiro parágrafo estão preenchidas, pedirá ao Estado-Membro lhe comunique informações complementares ou que reveja a sua decisão.\n\nA Comissão adota um ato de execução que aprove ou rejeite a decisão de um Estado-Membro no prazo de quatro meses a contar da receção de todas as informações exigidas."
+  },
+  "fea86e11821dd71a": {
+   "fragment_id": "Pagamento específico para o algodão",
+   "type": "divisao",
+   "heading": "Pagamento específico para o algodão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Pagamento específico para o algodão"
+  },
+  "6754deffdcbc8504": {
+   "fragment_id": "Artigo 13.º — Processo de autorização das terras e variedades",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Processo de autorização das terras e variedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Processo de autorização das terras e variedades\n\nO processo de autorização de terras e variedades para efeitos do pagamento específico para o algodão previsto no artigo 57.º do Regulamento (UE) n.º 1307/2013 deve estar concluído até 31 de janeiro de cada ano para a época de sementeira do ano em causa."
+  },
+  "927e2dd65ca14c6c": {
+   "fragment_id": "Artigo 14.º — Notificações aos produtores",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Notificações aos produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Notificações aos produtores\n\n1. Os Estados-Membros devem comunicar aos produtores de algodão, antes de 1 de março de cada ano, a seguinte informação relativa à sementeira do ano em causa:\n\na) Variedades autorizadas para sementeira;\n\nb) Critérios de autorização da produção de algodão em determinadas terras, que tenham estabelecido em conformidade com o artigo 56.º do Regulamento Delegado (UE) n.º 639/2014;\n\nc) A densidade mínima de plantas de algodão, referida no artigo 58.º do Regulamento Delegado (UE) n.º 639/2014;\n\nd) As práticas agronómicas exigidas.\n\n2. Se a autorização de uma variedade for retirada, os Estados-Membros devem notificar desse facto os produtores, antes de 1 de março, com efeitos a partir da sementeira do ano seguinte."
+  },
+  "ba538fa7b6eb44e8": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5"
+  },
+  "168993ae517037c5": {
+   "fragment_id": "NORMAS APLICÁVEIS À NOTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "NORMAS APLICÁVEIS À NOTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NORMAS APLICÁVEIS À NOTIFICAÇÃO"
+  },
+  "cd9bf03eadec71cf": {
+   "fragment_id": "Artigo 15.º — Notificações relativas à flexibilidade entre pilares",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Notificações relativas à flexibilidade entre pilares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Notificações relativas à flexibilidade entre pilares\n\n1. As informações a notificar à Comissão nos termos do artigo 14.º, n.º 1, do Regulamento (UE) n.º 1307/2013 e do artigo 136.º-A, n.º 1, do Regulamento (CE) n.º 73/2009 [([^8])](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr8-L_2014181PT.01007401-E0008) do Conselho devem ser apresentadas sob a forma de percentagens anuais dos limites máximos nacionais, a que se referem o artigo 14.º, n.º 1, primeiro parágrafo, do Regulamento (UE) n.º 1307/2013 e o artigo 136.º-A, n.º 1, primeiro parágrafo, do Regulamento (CE) n.º 73/2009, para cada ano civil até 2019.\n\n2. As informações a notificar à Comissão nos termos do artigo 14.º, n.º 2, do Regulamento (UE) n.º 1307/2013 e do artigo 136.º-A, n.º 1, do Regulamento (CE) n.º 73/2009 devem ser apresentadas sob a forma de percentagens anuais dos montantes anuais atribuídos ao apoio às medidas incluídas na programação de desenvolvimento rural, a que se referem o artigo 14.º, n.º 2, primeiro parágrafo, do Regulamento (UE) n.º 1307/2013 e o artigo 136.º-A, n.º 2, primeiro parágrafo, do Regulamento (CE) n.º 73/2009, para cada exercício financeiro até 2020."
+  },
+  "7cc6c75607728c33": {
+   "fragment_id": "Artigo 16.º — Notificação sobre o aumento do limite máximo do regime de pagamento de base a que se refere o artigo 22.º, n.^os^ 2 e 3, do Regulamento (UE) n.º 1307/2013",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Notificação sobre o aumento do limite máximo do regime de pagamento de base a que se refere o artigo 22.º, n.^os^ 2 e 3, do Regulamento (UE) n.º 1307/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Notificação sobre o aumento do limite máximo do regime de pagamento de base a que se refere o artigo 22.º, n.^os^ 2 e 3, do Regulamento (UE) n.º 1307/2013\n\nAs informações a apresentar pelos Estados-Membros nas notificações das suas decisões à Comissão, nos termos do artigo 22.º, n.^os^ 2 e 3, do Regulamento (UE) n.º 1307/2013, são compostas pelas percentagens dos limites máximos anuais nacionais fixados no anexo II do mesmo regulamento, após dedução do montante resultante da aplicação do artigo 47.º, n.º 1, do referido regulamento, para cada ano civil até 2020."
+  },
+  "94d51f5c6d3ea027": {
+   "fragment_id": "Artigo 17.º — Afetações financeiras ao abrigo do pagamento redistributivo, do pagamento para zonas com condicionantes naturais e do pagamento aos jovens agricultores",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Afetações financeiras ao abrigo do pagamento redistributivo, do pagamento para zonas com condicionantes naturais e do pagamento aos jovens agricultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Afetações financeiras ao abrigo do pagamento redistributivo, do pagamento para zonas com condicionantes naturais e do pagamento aos jovens agricultores\n\nAs informações a apresentar pelos Estados-Membros nas notificações das suas decisões à Comissão, nos termos do artigos 42.º, n.º 1, 49.º, n.º 1, e 51.º, do Regulamento (UE) n.º 1307/2013, são compostas pelas percentagens dos limites máximos nacionais anuais fixados no anexo II do mesmo regulamento, para cada ano civil até 2020."
+  },
+  "1b8c68e83a5ddd39": {
+   "fragment_id": "Artigo 18.º — Aplicação do Regulamento (CE) n.º 792/2009",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Aplicação do Regulamento (CE) n.º 792/2009",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Aplicação do Regulamento (CE) n.º 792/2009\n\nAs notificações à Comissão, previstas no Regulamento (UE) n.º 1307/2013, no Regulamento Delegado (UE) n.º 639/2014 e no presente regulamento, devem ser efetuadas em conformidade com o Regulamento (CE) n.º 792/2009."
+  },
+  "47858455157b62ca": {
+   "fragment_id": "CAPÍTULO 6",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 6"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "e4cbed333e22d724": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável aos pedidos de ajudas relativos aos anos civis posteriores a 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 16 de junho de 2014.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "1f67c7e6ca83cc9e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2014181PT.01007401-E0001) [JO L 347 de 20.12.2013, p. 608](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2014181PT.01007401-E0002) Regulamento Delegado (UE) n.º 639/2014 da Comissão, de 11 de março de 2014, que complementa o Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, que estabelece regras para os pagamentos diretos aos agricultores ao abrigo de regimes de apoio no âmbito da política agrícola comum e que altera o anexo X desse regulamento (ver página 1 do presente Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2014181PT.01007401-E0003) Regulamento (CE) n.º 792/2009 da Comissão, de 31 de agosto de 2009, que estabelece normas pormenorizadas para a notificação pelos Estados-Membros à Comissão de informações e documentos, em aplicação da organização comum dos mercados, do regime dos pagamentos diretos, da promoção dos produtos agrícolas e dos regimes aplicáveis às regiões ultraperiféricas e às ilhas menores do mar Egeu ([JO L 228 de 1.9.2009, p. 3](http://publications.europa.eu/resource/oj/JOL_2009_228_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2014181PT.01007401-E0004) Regulamento Delegado (UE) n.º 640/2014 da Comissão, de 11 de março de 2014, que complementa o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho, relativo ao financiamento, à gestão e à vigilância da política agrícola comum. (ver página 48 do presente Jornal Oficial).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2014181PT.01007401-E0005) Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo ao financiamento, à gestão e à vigilância da política agrícola comum e que revoga os Regulamentos (CEE) n.º 352/78, (CE) n.º 165/94, (CE) n.º 2799/98, (CE) n.º 814/2000, (CE) n.º 1290/2005 e (CE) n.º 485/2008 do Conselho ([JO L 347 de 20.12.2013, p. 549](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2014181PT.01007401-E0006) Regulamento (UE) n.º 1305/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e que revoga o Regulamento n.º 1698/2005 do Conselho ([JO L 347 de 20.12.2013, p. 487](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2014181PT.01007401-E0007) Regulamento (CE) n.º 1698/2005 do Conselho, de 20 de setembro de 2005, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) ([JO L 277 de 21.10.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_277_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/62b128e2-f84b-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc8-L_2014181PT.01007401-E0008) Regulamento (CE) n.º 73/2009 do Conselho, de 19 de janeiro de 2009, que estabelece regras comuns para os regimes de apoio direto aos agricultores no âmbito da Política Agrícola Comum e institui determinados regimes de apoio aos agricultores, que altera os Regulamentos (CE) n.º 1290/2005, (CE) n.º 247/2006 e (CE) n.º 378/2007 e revoga o Regulamento (CE) n.º 1782/2003 ([JO L 30 de 31.1.2009, p. 16](http://publications.europa.eu/resource/oj/JOL_2009_030_R_TOC))."
+  },
+  "b47e357c98662f3c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de junho de 2014\n\nque fixa as normas de execução do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, que estabelece regras para os pagamentos diretos aos agricultores ao abrigo de regimes de apoio no âmbito da política agrícola comum"
+  },
+  "f4dd85b6c3e91a66": {
+   "fragment_id": "Artigo 3.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedido de atribuição de direitos ao pagamento em caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013\n\nEm caso de celebração de contrato de venda ou de arrendamento com uma cláusula conforme com o artigo 24.º, n.º 8, do Regulamento (UE) n.º 1307/2013, o pedido de atribuição de direitos ao pagamento deve apresentado pelo comprador ou pelo arrendatário, respetivamente. O pedido deve conter os seguintes elementos:\n\na) Dados específicos sobre um contrato de venda ou de arrendamento, designadamente a cláusula contratual e/ou, quando exigido pelo Estado-Membro, uma cópia do contrato;\n\nb) Dados de identificação do agricultor que transferiu para o comprador ou arrendatário o direito de receber direitos ao pagamento, incluindo, se disponível, o número de identificação único do beneficiário, referido no artigo 8.º do Regulamento Delegado (UE) n.º 640/2014 ([^1^](http://publications.europa.eu/resource/cellar/3bbe3703-70f1-4af7-925d-634a6bc24dd5.0015.02/DOC_1#E0001)).\n\nAlém disso, os Estados-Membros devem exigir ao comprador ou ao arrendatário todas as informações que lhes permitam verificar o cumprimento do artigo 60.º do Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/3bbe3703-70f1-4af7-925d-634a6bc24dd5.0015.02/DOC_1#E0002))."
+  },
+  "bfe2af672c2feb3a": {
+   "fragment_id": "Artigo 10.º — Procedimento de notificação e avaliação das práticas previstas nos compromissos específicos ou regimes de certificação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Procedimento de notificação e avaliação das práticas previstas nos compromissos específicos ou regimes de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento de notificação e avaliação das práticas previstas nos compromissos específicos ou regimes de certificação\n\n1. As notificações referidas no artigo 43.º, n.º 8, do Regulamento (UE) n.º 1307/2013, devem ser efetuadas até 1 de agosto de 2014 se o pedido for feito em 2015, ou até 1 de julho do ano anterior ao ano do pedido, se este tiver sido apresentado depois de 2015.\n\nAs notificações podem ser alteradas uma vez por ano, desde que tal seja comunicado à Comissão até 1 de julho do ano anterior do pedido de alteração.\n\n2. Relativamente aos compromissos referidos no artigo 43.º, n.º 3, alínea a), do Regulamento (UE) n.º 1307/2013, as notificações à Comissão devem descrever claramente as práticas abrangidas pelo compromisso, e indicar as práticas, a que se refere o artigo 43.º, n.º 2, do mesmo regulamento, que são equivalentes e por que práticas equivalentes enumeradas no anexo IX daquele regulamento são consideradas abrangidas. As notificações devem incluir uma referência aos compromissos pertinentes assumidos no âmbito do programa de desenvolvimento rural apresentado à Comissão nos termos do artigo 10.º, n.º 1, do Regulamento (UE) n.º 1305/2013 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/3bbe3703-70f1-4af7-925d-634a6bc24dd5.0015.02/DOC_1#E0003)), ou aprovados pela Comissão nos termos do artigo 18.º, n.º 4.º do Regulamento (CE) n.º 1698/2005 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/3bbe3703-70f1-4af7-925d-634a6bc24dd5.0015.02/DOC_1#E0004)).\n\n3. Relativamente aos regimes de certificação referidos no artigo 43.º, n.º 3, alínea b), do Regulamento (UE) n.º 1307/2013, as notificações à Comissão devem descrever claramente as práticas abrangidas pelo sistema de certificação, e indicar as práticas, a que se refere o artigo 43.º, n.º 2, do mesmo regulamento, que são equivalentes e por que práticas equivalentes enumeradas no anexo IX do referido regulamento são consideradas abrangidas.\n\n4. Se a avaliação realizada pela Comissão concluir que as práticas notificadas, previstas nos compromissos específicos ou sistemas de certificação, não são abrangidas pela lista do anexo IX do Regulamento (UE) n.º 1307/2013, a Comissão informa do facto o Estado-Membro no prazo de três meses após a receção da notificação. O Estado-Membro pode comunicar informações suplementares no prazo de um mês a contar da receção das informações da Comissão. O ato de execução previsto no artigo 43.º, n.º 8, segundo parágrafo, do Regulamento (UE) n.º 1307/2013, deve ser adotado no prazo de sete meses após a receção da notificação inicial."
+  },
+  "3157c3d074b8e03c": {
+   "fragment_id": "Artigo 15.º — Notificações relativas à flexibilidade entre pilares",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Notificações relativas à flexibilidade entre pilares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Notificações relativas à flexibilidade entre pilares\n\n1. As informações a notificar à Comissão nos termos do artigo 14.º, n.º 1, do Regulamento (UE) n.º 1307/2013 e do artigo 136.º-A, n.º 1, do Regulamento (CE) n.º 73/2009 ([^5^](http://publications.europa.eu/resource/cellar/3bbe3703-70f1-4af7-925d-634a6bc24dd5.0015.02/DOC_1#E0005)) do Conselho devem ser apresentadas sob a forma de percentagens anuais dos limites máximos nacionais, a que se referem o artigo 14.º, n.º 1, primeiro parágrafo, do Regulamento (UE) n.º 1307/2013 e o artigo 136.º-A, n.º 1, primeiro parágrafo, do Regulamento (CE) n.º 73/2009, para cada ano civil até 2019.\n\n2. As informações a notificar à Comissão nos termos do artigo 14.º, n.º 2, do Regulamento (UE) n.º 1307/2013 e do artigo 136.º-A, n.º 1, do Regulamento (CE) n.º 73/2009 devem ser apresentadas sob a forma de percentagens anuais dos montantes anuais atribuídos ao apoio às medidas incluídas na programação de desenvolvimento rural, a que se referem o artigo 14.º, n.º 2, primeiro parágrafo, do Regulamento (UE) n.º 1307/2013 e o artigo 136.º-A, n.º 2, primeiro parágrafo, do Regulamento (CE) n.º 73/2009, para cada exercício financeiro até 2020."
+  },
+  "1477c1011dda958a": {
+   "fragment_id": "Artigo 16.º-A — Notificação do aumento do limite máximo fixado para o regime de pagamento único por superfície a que se refere o artigo 36.º, n.º 4, do Regulamento (UE) n.º 1307/2013",
+   "type": "artigo",
+   "heading": "Artigo 16.º-A — Notificação do aumento do limite máximo fixado para o regime de pagamento único por superfície a que se refere o artigo 36.º, n.º 4, do Regulamento (UE) n.º 1307/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º-A — Notificação do aumento do limite máximo fixado para o regime de pagamento único por superfície a que se refere o artigo 36.º, n.º 4, do Regulamento (UE) n.º 1307/2013\n\nAs informações a apresentar pelos Estados-Membros nas notificações das suas decisões à Comissão, nos termos do artigo 36.º, n.º 4, do Regulamento (UE) n.º 1307/2013, são as percentagens dos limites máximos anuais nacionais fixados no anexo II do mesmo regulamento, após dedução do montante resultante da aplicação do artigo 47.º, n.º 1, daquele regulamento para cada ano civil, no período de 2018 a 2020."
+  },
+  "26bb572c7bea4ea9": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável aos pedidos de ajudas relativos aos anos civis posteriores a 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "2f3188c3d3666d32": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3bbe3703-70f1-4af7-925d-634a6bc24dd5.0015.02/DOC_1#src.E0001)) Regulamento Delegado (UE) n.º 640/2014 da Comissão, de 11 de março de 2014, que complementa o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho, relativo ao financiamento, à gestão e à vigilância da política agrícola comum. (ver página 48 do presente Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3bbe3703-70f1-4af7-925d-634a6bc24dd5.0015.02/DOC_1#src.E0002)) Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo ao financiamento, à gestão e à vigilância da política agrícola comum e que revoga os Regulamentos (CEE) n.º 352/78, (CE) n.º 165/94, (CE) n.º 2799/98, (CE) n.º 814/2000, (CE) n.º 1290/2005 e (CE) n.º 485/2008 do Conselho (JO L 347 de 20.12.2013, p. 549).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3bbe3703-70f1-4af7-925d-634a6bc24dd5.0015.02/DOC_1#src.E0003)) Regulamento (UE) n.º 1305/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e que revoga o Regulamento n.º 1698/2005 do Conselho (JO L 347 de 20.12.2013, p. 487).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3bbe3703-70f1-4af7-925d-634a6bc24dd5.0015.02/DOC_1#src.E0004)) Regulamento (CE) n.º 1698/2005 do Conselho, de 20 de setembro de 2005, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) (JO L 277 de 21.10.2005, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3bbe3703-70f1-4af7-925d-634a6bc24dd5.0015.02/DOC_1#src.E0005)) Regulamento (CE) n.º 73/2009 do Conselho, de 19 de janeiro de 2009, que estabelece regras comuns para os regimes de apoio direto aos agricultores no âmbito da Política Agrícola Comum e institui determinados regimes de apoio aos agricultores, que altera os Regulamentos (CE) n.º 1290/2005, (CE) n.º 247/2006 e (CE) n.º 378/2007 e revoga o Regulamento (CE) n.º 1782/2003 (JO L 30 de 31.1.2009, p. 16)."
+  },
+  "d501c7fcc21de134": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02014R0641 — PT — 29.12.2022 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32014R0641) [REGULAMENTO DE EXECUÇÃO (UE) N.º 641/2014 DA COMISSÃO](http://publications.europa.eu/resource/celex/32014R0641) [de 16 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0641) [que fixa as normas de execução do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, que estabelece regras para os pagamentos diretos aos agricultores ao abrigo de regimes de apoio no âmbito da política agrícola comum](http://publications.europa.eu/resource/celex/32014R0641) (JO L 181, 20.6.2014, p.74)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2022/2530 da Comissão de 1 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2530) — L 328 — 76 — 22.12.2022"
+  }
+ }
+}

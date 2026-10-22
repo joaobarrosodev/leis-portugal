@@ -36,6 +36,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-17'
+version_history:
+  file: diretiva-ue-2015-2366.versoes.json
+  count: 3
+  source_lastmod: '2025-01-17'
+  versions:
+  - date: '2015-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-04-08'
+    amending: eu:celex:32024R0886:por
+    amending_title: REGULAMENTO (UE) 2024/886 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Pedidos de autorização
+    - Altera Artigo 10.º — Requisitos de salvaguarda
+    - Altera Artigo 17.º — Contabilidade e revisão legal de contas
+    - Altera Artigo 35.º — Acesso a sistemas de pagamento
+    - Altera Artigo 102.º — Procedimentos de RAL
+    - Altera Artigo 110.º — Alteração da Diretiva 2002/65/CE
+    - Altera Artigo 111.º — Alteração da Diretiva 2009/110/CE
+    - Altera Artigo 112.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 113.º — Alteração da Diretiva 2013/36/UE
+    - Altera Notas
+    - Adita Artigo 35.º-A — Condições para solicitar a participação em sistemas de pagamentos designados
+  - date: '2025-01-17'
+    amending: eu:celex:32022L2556:por
+    amending_title: DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 3.º — Exclusões
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Pedidos de autorização
+    - Altera Artigo 17.º — Contabilidade e revisão legal de contas
+    - Altera Artigo 19.º — Utilização de agentes, de sucursais ou de entidades aos quais sejam externalizadas atividades
+    - Altera Artigo 35.º — Acesso a sistemas de pagamento
+    - Altera Artigo 35.º-A — Condições para solicitar a participação em sistemas de pagamentos designados
+    - Altera Artigo 95.º — Gestão dos riscos operacionais e de segurança
+    - Altera Artigo 96.º — Notificação de incidentes
+    - Altera Artigo 98.º — Normas técnicas de regulamentação sobre autenticação e comunicação
+    - Altera Artigo 102.º — Procedimentos de RAL
+    - Altera Artigo 110.º — Alteração da Diretiva 2002/65/CE
+    - Altera Artigo 111.º — Alteração da Diretiva 2009/110/CE
+    - Altera Artigo 112.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 113.º — Alteração da Diretiva 2013/36/UE
+    - Altera Notas
 identifiers:
   celex: 32015L2366
   eli: http://data.europa.eu/eli/dir/2015/2366/oj
@@ -50,7 +97,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dd85ef2e-a953-11e5-b528-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/7968d8a5-d7ed-11ef-be2a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015L2366-20250117
-  retrieved_at: '2026-10-22T02:41:47Z'
+  retrieved_at: '2026-10-22T16:39:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-12T17:25:15.652+02:00'
 integrity:
@@ -59,9 +106,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:47Z'
-  notes: Texto consolidado 02015L2366-20250117.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:39:43Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2015-2366.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -349,35 +396,19 @@ relationships:
   source: null
 article_structure:
   article_count: 118
-  section_count: 58
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 59
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:47Z'
+  checked_at: '2026-10-22T16:39:43Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2015/2366 do Parlamento Europeu e do Conselho de 25 de novembro de 2015
-
-> 02015L2366 — PT — 17.01.2025 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022L2556) — [DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2556) — L 333 — 153 — 27.12.2022
-- [►M2](http://publications.europa.eu/resource/celex/32024R0886) — [REGULAMENTO (UE) 2024/886 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024R0886) — L 886 — 1 — 19.3.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32015L2366R%2805%29) — [Rectificação, JO L 102, 23.4.2018, p. 97 (2015/2366)](http://publications.europa.eu/resource/celex/32015L2366R%2805%29)
-- [►C2](http://publications.europa.eu/resource/celex/32015L2366R%2806%29) — [Rectificação, JO L 126, 23.5.2018, p. 10 (2015/2366)](http://publications.europa.eu/resource/celex/32015L2366R%2806%29)
-
-## DIRETIVA (UE) 2015/2366 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de novembro de 2015
 

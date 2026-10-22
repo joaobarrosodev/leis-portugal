@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-10'
+version_history:
+  file: regulamento-ue-2015-760.versoes.json
+  count: 2
+  source_lastmod: '2024-01-10'
+  versions:
+  - date: '2015-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-01-10'
+    amending: eu:celex:32023R0606:por
+    amending_title: REGULAMENTO (UE) 2023/606 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2023; REGULAMENTO (UE)
+      2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e objetivos
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Autorização e registo central público
+    - Altera Artigo 5.º — Pedidos de autorização
+    - Altera Artigo 10.º — Ativos de investimento elegíveis
+    - Altera Artigo 11.º — Empresas elegíveis para a carteira
+    - Altera Artigo 12.º — Conflitos de interesses
+    - Altera Artigo 13.º — Composição e diversificação da carteira
+    - Altera Artigo 14.º — Retificação de posições de investimento
+    - Altera Artigo 16.º — Empréstimos em numerário
+    - Altera Artigo 17.º — Aplicação das regras de composição e diversificação de carteiras
+    - Altera Artigo 19.º — Mercado secundário
+    - Altera Artigo 21.º — Alienação de ativos dos ELTIF
+    - Altera Artigo 22.º — Distribuição das receitas e do capital
+    - Altera Artigo 23.º — Transparência
+    - Altera Artigo 25.º — Divulgação dos custos
+    - Altera Artigo 29.º — Requisitos específicos relativos ao depositário de ELTIF comercializados junto de investidores
+      não profissionais
+    - Altera Artigo 31.º — Comercialização de unidades de participação ou de ações de ELTIF
+    - Altera Artigo 34.º — Atribuições e competência da ESMA
+    - Altera Artigo 38.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 15.º — Limites de concentração
+    - Adita Artigo 18.º — Comercialização de unidades de participação ou ações de ELTIF
+    - Adita Artigo 25.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Adita Artigo 27.º — Processo de avaliação interna para ELTIF que podem ser comercializados junto de investidores não
+      profissionais
+    - Adita Artigo 30.º — Requisitos específicos para a distribuição e comercialização de ELTIF junto de investidores não
+      profissionais
+    - Adita Artigo 37.º — Reexame
+    - Adita Artigo 37.º-A — Reexame dos aspetos de sustentabilidade dos ELTIF
+    - Suprime Artigo 15.º — Concentração
+    - Suprime Artigo 18.º — Política de resgate e vida dos ELTIF
+    - Suprime Artigo 26.º — Mecanismos disponíveis para os investidores
+    - Suprime Artigo 27.º — Processo de avaliação interna dos ELTIF comercializados junto de investidores não profissionais
+    - Suprime Artigo 28.º — Requisitos específicos relativos à distribuição de ELTIF a investidores não profissionais
+    - Suprime Artigo 30.º — Requisitos adicionais para a comercialização de ELTIF junto de investidores não profissionais
+    - Suprime Artigo 37.º — Revisão
 identifiers:
   celex: 32015R0760
   eli: http://data.europa.eu/eli/reg/2015/760/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a0abe09c-fdf9-11e4-a4c8-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b7d3f950-b480-11ee-b164-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0760-20240110
-  retrieved_at: '2026-10-22T02:48:40Z'
+  retrieved_at: '2026-10-22T16:40:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-12T18:58:27.374+02:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:40Z'
-  notes: Texto consolidado 02015R0760-20240110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:40:51Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2015-760.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,30 +247,19 @@ relationships:
   date: '2024-07-25'
 article_structure:
   article_count: 38
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:40Z'
+  checked_at: '2026-10-22T16:40:51Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2015/760 do Parlamento Europeu e do Conselho, de 29 de abril de 2015
-
-> 02015R0760 — PT — 10.01.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R0606) — [REGULAMENTO (UE) 2023/606 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2023](http://publications.europa.eu/resource/celex/32023R0606) — L 80 — 1 — 20.3.2023
-- [►M2](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L — 1 — 20.12.2023
-
-## REGULAMENTO (UE) 2015/760 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 29 de abril de 2015
 

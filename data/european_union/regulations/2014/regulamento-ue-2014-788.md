@@ -36,6 +36,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-08-08'
+version_history:
+  file: regulamento-ue-2014-788.versoes.json
+  count: 2
+  source_lastmod: '2014-08-08'
+  versions:
+  - date: '2014-07-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-08-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Determinação das infrações
+    - Altera Artigo 6.º — Avaliação das consequências das infrações
+    - Altera Artigo 21.º — Cobrança das coimas e sanções pecuniárias
+    - Altera Artigo 27.º — Entrada em vigor
+    - Altera Notas
 identifiers:
   celex: 32014R0788
   eli: http://data.europa.eu/eli/reg/2014/788/oj
@@ -50,7 +70,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d73fb329-0f00-11e4-a7d0-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/52cb2acc-7b92-4903-b1ed-5ed97d72ab8c.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0788-20140808
-  retrieved_at: '2026-10-22T03:17:23Z'
+  retrieved_at: '2026-10-22T16:36:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T05:40:21.271+02:00'
 integrity:
@@ -59,9 +79,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:23Z'
-  notes: Texto consolidado 02014R0788-20140808.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:36:11Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2014-788.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -120,29 +140,19 @@ relationships:
   date: '2014-08-07'
 article_structure:
   article_count: 27
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:23Z'
+  checked_at: '2026-10-22T16:36:11Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 788/2014 da Comissão, de 18 de julho de 2014
-
-> 2014R0788 — PT — 08.08.2014 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0788R%2801%29) — [Rectificação, JO L 234, 7.8.2014, p. 15 (788/2014)](http://publications.europa.eu/resource/celex/32014R0788R%2801%29)
-
-## REGULAMENTO (UE) N.º 788/2014 DA COMISSÃO
 
 de 18 de julho de 2014
 

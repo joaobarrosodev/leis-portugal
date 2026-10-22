@@ -38,6 +38,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-05-29'
+version_history:
+  file: regulamento-ue-2015-812.versoes.json
+  count: 1
+  source_lastmod: '2015-05-29'
+  versions:
+  - date: '2015-05-29'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32015R0812
   eli: http://data.europa.eu/eli/reg/2015/812/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6975b619-05cb-11e5-8817-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/30533bee-844a-47fe-a249-64e6b604ec3c.0017.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0812-20150529
-  retrieved_at: '2026-10-22T02:53:28Z'
+  retrieved_at: '2026-10-22T16:40:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-13T04:37:18.356+02:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:28Z'
-  notes: Texto consolidado 02015R0812-20150529.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:40:53Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2015-812.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -209,29 +218,19 @@ relationships:
   date: '1998-07-08'
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:28Z'
+  checked_at: '2026-10-22T16:40:53Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2015/812 do Parlamento Europeu e do Conselho, de 20 de maio de 2015
-
-> 2015R0812 — PT — 29.05.2015 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32015R0812R%2802%29) — [Rectificação, JO L 319, 4.12.2015, p. 21 (2015/812)](http://publications.europa.eu/resource/celex/32015R0812R%2802%29)
-
-## REGULAMENTO (UE) 2015/812 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de maio de 2015
 

@@ -36,6 +36,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-05-03'
+version_history:
+  file: regulamento-ue-2014-609.versoes.json
+  count: 2
+  source_lastmod: '2022-05-03'
+  versions:
+  - date: '2016-10-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-05-03'
+    amending: eu:celex:32022R0615:por
+    amending_title: REGULAMENTO (UE, Euratom) 2022/615 DO CONSELHO de 5 de abril de 2022
+    changes:
+    - Altera Artigo 3.º — Conservação dos documentos comprovativos
+    - Altera Artigo 6.º — Lançamento nas contas e relatórios
+    - Altera Artigo 9.º — Disposições relativas ao Tesouro e à contabilidade
+    - Altera Artigo 10.º-A — Colocação à disposição dos recursos próprios IVA e RNB
+    - Altera Artigo 10.º-B — Ajustamentos aos recursos próprios IVA e RNB de exercícios anteriores
+    - Altera Artigo 12.º — Juros sobre os montantes disponibilizados tardiamente
+    - Altera Artigo 13.º — Montantes incobráveis
+    - Altera Artigo 17.º — Disposição transitória sobre a taxa de juro
+    - Altera Notas
+    - Adita CAPÍTULO III-A
+    - Adita PAGAMENTO SOB RESERVA E PROCEDIMENTO DE REVISÃO
+    - Adita Artigo 13.º-A — Pagamento sob reserva
+    - Adita Artigo 13.º-B — Procedimento de revisão
 identifiers:
   celex: 32014R0609
   eli: http://data.europa.eu/eli/reg/2014/609/oj
@@ -50,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b8642e81-ee0f-11e3-8cd4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0609-20220503
-  retrieved_at: '2026-10-22T03:17:19Z'
+  retrieved_at: '2026-10-22T16:35:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T04:01:21.167+02:00'
 integrity:
@@ -59,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:19Z'
-  notes: Texto consolidado 02014R0609-20220503.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:35:03Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2014-609.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -163,30 +189,20 @@ relationships:
   date: '2009-02-06'
 article_structure:
   article_count: 23
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:19Z'
-  warnings: []
+  checked_at: '2026-10-22T16:35:03Z'
+  warnings:
+  - '02014R0609-20140101: versão indisponível (Sem expressão na língua por para CELEX 02014R0609-20140101.)'
   errors: []
 ---
 
 # Regulamento (UE, Euratom) n. °609/2014 do Conselho, de 26 de maio de 2014
-
-> 02014R0609 — PT — 03.05.2022 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R0804) — [REGULAMENTO (UE, Euratom) 2016/804 DO CONSELHO de 17 de maio de 2016](http://publications.europa.eu/resource/celex/32016R0804) — L 132 — 85 — 21.5.2016
-- [►M2](http://publications.europa.eu/resource/celex/32022R0615) — [REGULAMENTO (UE, Euratom) 2022/615 DO CONSELHO de 5 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0615) — L 115 — 51 — 13.4.2022
-
-## REGULAMENTO (UE, Euratom) N.º 609/2014 DO CONSELHO
 
 de 26 de maio de 2014
 

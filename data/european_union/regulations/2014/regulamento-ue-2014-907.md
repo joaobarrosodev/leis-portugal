@@ -36,6 +36,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-01'
+version_history:
+  file: regulamento-ue-2014-907.versoes.json
+  count: 2
+  source_lastmod: '2023-01-01'
+  versions:
+  - date: '2021-08-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime ORGANISMOS PAGADORES E OUTROS
+    - Suprime Artigo 1.º — Condições de acreditação dos organismos pagadores
+    - Suprime Artigo 2.º — Condições de acreditação dos organismos de coordenação
+    - Suprime Artigo 3.º — Obrigações dos organismos pagadores no que respeita à intervenção pública
+    - Suprime Artigo 4.º — Inventários
+    - Suprime CAPÍTULO II
+    - Suprime GESTÃO FINANCEIRA
+    - Suprime Artigo 5.º
+    - Suprime Incumprimento da última data possível para pagamentos respeitantes ao Fundo Europeu Agrícola de Garantia
+    - Suprime Artigo 5.º-A — Incumprimento da última data possível para pagamentos respeitantes ao Fundo Europeu Agrícola
+      de Desenvolvimento Rural
+    - Suprime Artigo 6.º — Incumprimento da primeira data de pagamento
+    - Suprime Artigo 7.º — Compensações por organismos pagadores
+    - Suprime Artigo 8.º — Aprovação com atraso do orçamento da União
+    - Suprime Artigo 9.º — Diferimento de pagamentos mensais
+    - Suprime Artigo 10.º — Suspensão dos pagamentos por apresentação tardia
+    - Suprime Artigo 11.º — Taxa de câmbio aplicável na elaboração das declarações de despesas
+    - Suprime CAPÍTULO III
+    - Suprime APURAMENTO DAS CONTAS E OUTROS CONTROLOS
+    - Suprime Artigo 12.º — Critérios e metodologia para aplicação das correções no quadro do apuramento da conformidade
+    - Suprime Artigo 13.º — Obrigação na sequência dos procedimentos de recuperação
+    - Suprime Artigo 14.º — Controlo das transações
+    - Suprime CAPÍTULO IV
+    - Suprime GARANTIAS
+    - Suprime SECÇÃO 1
+    - Suprime Âmbito de aplicação e terminologia
+    - Suprime Artigo 15.º — Âmbito
+    - Suprime Artigo 16.º — Terminologia do presente capítulo
+    - Suprime SECÇÃO 2
+    - Suprime Exigência de garantia
+    - Suprime Artigo 17.º — Parte responsável
+    - Suprime Artigo 18.º — Dispensa da exigência de garantia
+    - Suprime Artigo 19.º — Condições aplicáveis às garantias
+    - Suprime Artigo 20.º — Utilização do euro
+    - Suprime Artigo 21.º — Garante
+    - Suprime Artigo 22.º — Força maior
+    - Suprime SECÇÃO 3
+    - Suprime Liberação e execução de garantias diversas das referidas na secção 4
+    - Suprime Artigo 23.º — Execução de garantias
 identifiers:
   celex: 32014R0907
   eli: http://data.europa.eu/eli/reg_del/2014/907/oj
@@ -50,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a7c47846-2e80-11e4-8c3c-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/b52d8c3d-9d7c-11ed-b508-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0907-20230101
-  retrieved_at: '2026-10-22T02:48:38Z'
+  retrieved_at: '2026-10-22T16:36:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-16T08:11:24.460+02:00'
 integrity:
@@ -59,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:38Z'
-  notes: Texto consolidado 02014R0907-20230101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:36:54Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2014-907.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -350,16 +404,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:38Z'
+  checked_at: '2026-10-22T16:36:54Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02014R0907-20140101: versão indisponível (Sem expressão na língua por para CELEX 02014R0907-20140101.)'
+  - '02014R0907-20150210: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014R0907-20170113: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

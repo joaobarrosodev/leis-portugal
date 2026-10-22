@@ -36,6 +36,73 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-10-18'
+version_history:
+  file: regulamento-ue-2014-910.versoes.json
+  count: 3
+  source_lastmod: '2024-10-18'
+  versions:
+  - date: '2014-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-05-20'
+    amending: eu:celex:32024R1183:por
+    amending_title: REGULAMENTO (UE) 2024/1183 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Elegibilidade para notificação dos sistemas de identificação eletrónica
+    - Altera Artigo 8.º — Níveis de garantia dos sistemas de identificação eletrónica
+    - Altera Artigo 9.º — Notificação
+    - Altera Artigo 13.º — Responsabilidade e ónus da prova
+    - Altera Artigo 14.º — Aspetos internacionais
+    - Altera Artigo 16.º — Sanções
+    - Altera Artigo 20.º — Fiscalização dos prestadores qualificados de serviços de confiança
+    - Altera Artigo 21.º — Início de um serviço de confiança qualificado
+    - Altera Artigo 24.º — Requisitos aplicáveis aos prestadores qualificados de serviços de confiança
+    - Altera Artigo 25.º — Efeitos legais das assinaturas eletrónicas
+    - Altera Artigo 26.º — Requisitos para as assinaturas eletrónicas avançadas
+    - Altera Artigo 27.º — Assinaturas eletrónicas em serviços públicos
+    - Altera Artigo 28.º — Certificados qualificados de assinaturas eletrónicas
+    - Altera Artigo 29.º — Requisitos aplicáveis aos dispositivos qualificados de criação de assinaturas eletrónicas
+    - Altera Artigo 30.º — Certificação dos dispositivos qualificados de criação de assinaturas eletrónicas
+    - Altera Artigo 31.º — Publicação de uma lista de dispositivos qualificados e certificados de criação de assinaturas eletrónicas
+    - Altera Artigo 32.º — Requisitos aplicáveis à validade das assinaturas eletrónicas qualificadas
+    - Altera Artigo 33.º — Serviço qualificado de validação de assinaturas eletrónicas qualificadas
+    - Altera Artigo 34.º — Serviço qualificado de preservação de assinaturas eletrónicas qualificadas
+    - Altera Artigo 35.º — Efeitos legais dos selos eletrónicos
+    - Altera Artigo 36.º — Requisitos para os selos eletrónicos avançados
+    - Altera Artigo 37.º — Selos eletrónicos em serviços públicos
+    - Altera Artigo 38.º — Certificados qualificados de selos eletrónicos
+    - Altera Artigo 41.º — Efeito legal dos selos temporais
+    - Altera Artigo 42.º — Requisitos aplicáveis aos selos temporais qualificados
+    - Altera Artigo 44.º — Requisitos aplicáveis aos serviços qualificados de envio registado eletrónico
+    - Altera Artigo 47.º — Exercício da delegação
+    - Altera Artigo 49.º — Revisão
+    - Altera Artigo 51.º — Medidas transitórias
+    - Altera Artigo 52.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 5.º — Pseudónimos nas transações eletrónicas
+    - Adita Carteira europeia de identidade digital
+    - Adita Artigo 5.º-A — Carteiras europeias de identidade digital
+    - Adita Artigo 5.º-B — Utilizadores de carteiras europeias de identidade digital
+    - Adita Artigo 5.º-C — Certificação de carteiras europeias de identidade digital
+  - date: '2024-10-18'
+    amending: eu:celex:32022L2555:por
+    amending_title: DIRETIVA (UE) 2022/2555 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º-A — Carteiras europeias de identidade digital
+    - Altera Artigo 5.º-C — Certificação de carteiras europeias de identidade digital
+    - Altera Artigo 5.º-F — Recurso transfronteiriço às carteiras europeias de identidade digital
+    - Altera Artigo 12.º-B — Acesso a funcionalidades de hardware e de software
+    - Altera Artigo 16.º — Sanções
+    - Altera Artigo 47.º — Exercício da delegação
+    - Altera Notas
+    - Suprime Artigo 19.º — Requisitos de segurança aplicáveis aos prestadores de serviços de confiança
 identifiers:
   celex: 32014R0910
   eli: http://data.europa.eu/eli/reg/2014/910/oj
@@ -50,7 +117,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/6a1e14d9-907e-11ef-a130-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0910-20241018
-  retrieved_at: '2026-10-22T02:31:13Z'
+  retrieved_at: '2026-10-22T16:37:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-16T08:08:18.623+02:00'
 integrity:
@@ -59,9 +126,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:31:13Z'
-  notes: Texto consolidado 02014R0910-20241018.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:37:19Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2014-910.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -557,34 +624,20 @@ relationships:
   date: '2000-01-26'
 article_structure:
   article_count: 82
-  section_count: 54
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 57
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:31:13Z'
-  warnings: []
+  checked_at: '2026-10-22T16:37:19Z'
+  warnings:
+  - '02014R0910-20140917: versão indisponível (Sem expressão na língua por para CELEX 02014R0910-20140917.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014
-
-> 02014R0910 — PT — 18.10.2024 — 002.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022L2555) — [DIRETIVA (UE) 2022/2555 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2555) — L 333 — 80 — 27.12.2022
-- [►M2](http://publications.europa.eu/resource/celex/32024R1183) — [REGULAMENTO (UE) 2024/1183 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1183) — L 1183 — 1 — 30.4.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024R1183R%2802%29) — [Rectificação, JO L 90317, 9.4.2025, p. 1 (2024/1183)](http://publications.europa.eu/resource/celex/32024R1183R%2802%29)
-
-## REGULAMENTO (UE) N.º 910/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de julho de 2014
 

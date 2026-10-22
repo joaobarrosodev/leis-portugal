@@ -36,6 +36,65 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-19'
+version_history:
+  file: diretiva-ue-2015-413.versoes.json
+  count: 2
+  source_lastmod: '2025-01-19'
+  versions:
+  - date: '2015-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-01-19'
+    amending: eu:celex:32024L3237:por
+    amending_title: DIRETIVA (UE) 2024/3237 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objetivo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Atos delegados
+    - Altera Artigo 11.º — Revisão
+    - Altera Artigo 14.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 3.º-A — Pontos de contacto nacionais
+    - Adita Artigo 4.º — Procedimentos de intercâmbio de dados relativos ao registo de veículos e de assistência mútua entre
+      os Estados-Membros
+    - Adita Artigo 4.º-A — Registos nacionais de veículos
+    - Adita Artigo 5.º — Notificação da infração rodoviária
+    - Adita Artigo 5.º-A — Notificação da infração rodoviária e dos documentos processuais subsequentes
+    - Adita Artigo 5.º-B — Tradução da notificação da infração rodoviária e dos documentos processuais subsequentes essenciais
+    - Adita Artigo 5.º-C — Assistência mútua na identificação da pessoa visada
+    - Adita Artigo 5.º-D — Medidas nacionais que facilitam a identificação da pessoa responsável
+    - Adita Artigo 5.º-E — Assistência mútua na notificação da infração rodoviária e dos documentos processuais subsequentes
+    - Adita Artigo 5.º-F — Assistência mútua em matéria de execução
+    - Adita Artigo 5.º-G — Especificações técnicas para o intercâmbio de dados relativos ao registo de veículos e a assistência
+      mútua
+    - Adita Artigo 5.º-H — Entidades jurídicas privadas
+    - Adita Artigo 6.º — Relatórios e monitorização
+    - Adita Artigo 7.º — Obrigações adicionais
+    - Adita Artigo 7.º-A — Apoio financeiro à cooperação transfronteiriça
+    - Adita Artigo 8.º — Portal de informações sobre infrações às regras de trânsito relacionadas com a segurança rodoviária
+      (Portal CBE)
+    - Adita Artigo 8.º-A — Acordos bilaterais ou multilaterais entre os Estados-Membros
+    - Adita Artigo 10.º-A — Procedimento de comité
+    - Adita Artigo 10.º-B — Relatório da Comissão
+    - Adita Artigo 10.º-C — Relatórios transitórios
+    - Adita ANEXO
+    - Adita Dados necessários para efetuar a pesquisa referida no artigo 4.º, n.os 1 e 3
+    - Adita 1. Dados da pesquisa inicial (pedido enviado)
+    - Adita 2. Dados fornecidos em resultado da pesquisa inicial efetuada nos termos do artigo 4.º, n.^os^ 1 e 3
+    - Adita Parte I. Dados relativos aos veículos fornecidos em conformidade com o artigo 4.º, n.^os^ 1 e 3
+    - Adita Parte II. Dados relativos aos veículos fornecidos em conformidade com o artigo 4.º, n.^os^ 1 e 3
+    - Adita Parte III. Dados relativos aos detentores e aos proprietários dos veículos
+    - Adita Parte IV. Dados relativos aos utilizadores finais do veículo
+    - Adita Parte V. Dados no momento em que foi cometida a infração às regras de trânsito relacionadas com a segurança rodoviária
+      relativos aos anteriores detentores e proprietários do veículo objeto da pesquisa inicial na secção 1 do presente anexo,
+      em conformidade com o artigo 4.º-A, n.º 2
+    - Adita Parte VI. Dados no momento em que a infração foi cometida relativos ao anterior utilizador final do veículo objeto
+      da pesquisa inicial na secção 1 do presente anexo, em conformidade com o artigo 4.º-A, n.º 2
+    - Suprime Artigo 4.º — Procedimento para o intercâmbio de informações entre os Estados-Membros
+    - Suprime Artigo 5.º — Carta informativa sobre as infrações às regras de trânsito relacionadas com a segurança rodoviária
 identifiers:
   celex: 32015L0413
   eli: http://data.europa.eu/eli/dir/2015/413/oj
@@ -50,7 +109,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a6da0bdb-c94d-11e4-bbe1-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/e4d47064-0f16-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015L0413-20250119
-  retrieved_at: '2026-10-22T03:17:33Z'
+  retrieved_at: '2026-10-22T16:39:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-13T08:30:19.165+02:00'
 integrity:
@@ -59,9 +118,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:33Z'
-  notes: Texto consolidado 02015L0413-20250119.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:39:02Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2015-413.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,29 +188,19 @@ relationships:
   source: null
 article_structure:
   article_count: 29
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:33Z'
+  checked_at: '2026-10-22T16:39:02Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2015/413 do Parlamento Europeu e do Conselho, de 11 de março de 2015
-
-> 02015L0413 — PT — 19.01.2025 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L3237) — [DIRETIVA (UE) 2024/3237 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024L3237) — L 3237 — 1 — 30.12.2024
-
-## DIRETIVA (UE) 2015/413 DO PARLAMENTO EUROPEU E DO CONSELHO,
 
 de 11 de março de 2015,
 

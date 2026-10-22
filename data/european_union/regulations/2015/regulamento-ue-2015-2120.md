@@ -38,6 +38,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-05-15'
+version_history:
+  file: regulamento-ue-2015-2120.versoes.json
+  count: 2
+  source_lastmod: '2024-05-15'
+  versions:
+  - date: '2020-12-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-05-15'
+    amending: eu:celex:32024R1309:por
+    amending_title: REGULAMENTO (UE) 2024/1309 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Garantia de acesso à Internet aberta
+    - Altera Artigo 5.º-A — Tarifas retalhistas aplicáveis às comunicações intra-UE reguladas
+    - Altera Artigo 10.º — Entrada em vigor e disposições transitórias
+    - Altera Notas
+    - Adita Artigo 5.º-B
 identifiers:
   celex: 32015R2120
   eli: http://data.europa.eu/eli/reg/2015/2120/oj
@@ -52,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8fdf5d08-93fc-11e5-983e-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/368d2a36-2815-11ef-a195-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R2120-20240515
-  retrieved_at: '2026-10-22T02:41:47Z'
+  retrieved_at: '2026-10-22T16:41:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T03:07:21.947+02:00'
 integrity:
@@ -61,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:47Z'
-  notes: Texto consolidado 02015R2120-20240515.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:41:16Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2015-2120.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -217,31 +236,20 @@ relationships:
   date: '2022-04-13'
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:47Z'
-  warnings: []
+  checked_at: '2026-10-22T16:41:16Z'
+  warnings:
+  - '02015R2120-20151126: versão indisponível (Sem expressão na língua por para CELEX 02015R2120-20151126.)'
   errors: []
 ---
 
 # Regulamento (UE) 2015/2120 do Parlamento Europeu e do Conselho de 25 de novembro de 2015
-
-> 02015R2120 — PT — 15.05.2024 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018L1972) — [DIRETIVA (UE) 2018/1972 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018L1972) — L 321 — 36 — 17.12.2018
-- [►M2](http://publications.europa.eu/resource/celex/32018R1971) — [REGULAMENTO (UE) 2018/1971 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1971) — L 321 — 1 — 17.12.2018
-- [►M3](http://publications.europa.eu/resource/celex/32024R1309) — [REGULAMENTO (UE) 2024/1309 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1309) — L 1309 — 1 — 8.5.2024
-
-## REGULAMENTO (UE) 2015/2120 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de novembro de 2015
 

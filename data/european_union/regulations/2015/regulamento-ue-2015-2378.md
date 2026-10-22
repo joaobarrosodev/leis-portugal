@@ -36,6 +36,134 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2015-2378.versoes.json
+  count: 5
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2015-12-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-01-01'
+    amending: eu:celex:32016R1963:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/1963 DA COMISSÃO de 9 de novembro de 2016; REGULAMENTO DE EXECUÇÃO (UE)
+      2018/99 DA COMISSÃO de 22 de janeiro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2019/532 DA COMISSÃO de 28 de março de 2019;
+      REGULAMENTO DE EXECUÇÃO (UE) 2022/1467 DA COMISSÃO de 5 de setembro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Formatos eletrónicos para a troca automática de informações obrigatória
+    - Altera Artigo 5.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 2.º-A — Formulários normalizados, incluindo o regime linguístico, para a troca automática de informações
+      obrigatória em matéria de decisões fiscais prévias transfronteiriças e de acordos prévios sobre preços de transferência
+    - Adita Artigo 2.º-B — Regime linguístico para a troca automática de informações obrigatória sobre a declaração país por
+      país
+    - Adita Artigo 2.º-C — Formulário e condições de comunicação da avaliação anual
+    - Adita Artigo 2.º-D — Lista dos dados estatísticos
+    - Adita Artigo 2.º-E — Formulários normalizados, incluindo o regime linguístico, para a troca automática de informações
+      obrigatória sobre mecanismos transfronteiriços a comunicar
+    - Adita Artigo 2.º-F — Formulários normalizados para a comunicação de informações ao registo central sobre operadores
+      de plataformas excluídos e operadores de plataformas estrangeiros, formato do número de identificação individual dos
+      operadores de plataforma estrangeiros e período de conservação das informações eliminadas do registo central
+    - Adita Anexo I
+    - Adita Formulário referido no artigo 1.º, n.º 2
+    - Adita ANEXO II
+    - Adita Formulário referido no artigo 1.º, n.º 3
+    - Adita ANEXO III
+    - Adita Formulário referido no artigo 1.º, n.º 4
+    - Adita ANEXO IV
+    - Adita Formulário referido no artigo 1.º, n.º 5
+    - Adita ANEXO V
+    - Adita Formato informatizado referido no artigo 2.º, n.º 1
+    - Adita ANEXO VI
+    - Adita Formato eletrónico referido no artigo 2.º, n.º 2
+    - Adita ANEXO VII
+    - Adita Formulário referido no artigo 2.º-A
+    - Adita ANEXO VIII
+    - Adita Formulário referido no artigo 2.º-C
+    - Adita Anexo IX
+    - Adita Lista referida no artigo 2.º-D
+    - Adita Anexo X
+    - Adita ANEXO XI
+    - Adita ANEXO XII
+    - Adita ANEXO XIII
+    - Adita Formulário a que se refere o artigo 2.º-E
+    - Adita Anexo XIV
+    - Adita Formato eletrónico referido no artigo 2.º, n.º 3
+    - Adita Anexo XV
+    - Adita Anexo XVI
+    - Adita Modelo referido no artigo 2.º-F, n.º 1
+    - Adita Formato do número de identificação individual dos operadores de plataforma estrangeiros
+    - Adita Período de conservação de determinadas informações eliminadas ou excluídas do registo central
+  - date: '2025-04-23'
+    amending: eu:celex:32025R0648:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/648 DA COMISSÃO de 2 de abril de 2025
+    changes:
+    - Altera Artigo 2.º-D — Lista dos dados estatísticos
+    - Altera Artigo 2.º-F — Formulários normalizados para a comunicação de informações ao registo central sobre operadores
+      de plataformas excluídos e operadores de plataformas estrangeiros, formato do número de identificação individual dos
+      operadores de plataforma estrangeiros e período de conservação das informações eliminadas do registo central
+    - Altera Formulário referido no artigo 1.º, n.º 2
+    - Altera Formulário referido no artigo 1.º, n.º 3
+    - Altera Formulário referido no artigo 1.º, n.º 4
+    - Altera Formulário referido no artigo 1.º, n.º 5
+    - Altera Formato informatizado referido no artigo 2.º, n.º 1
+    - Altera Formato eletrónico referido no artigo 2.º, n.º 2
+    - Altera Lista referida no artigo 2.º-D
+    - Altera Formato eletrónico referido no artigo 2.º, n.º 3
+    - Altera Notas
+  - date: '2025-08-06'
+    amending: eu:celex:32025R1325:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1325 DA COMISSÃO de 7 de julho de 2025
+    changes:
+    - Altera Artigo 2.º — Formatos eletrónicos para a troca automática de informações obrigatória
+    - Altera Artigo 2.º-F — Formulários normalizados para a comunicação de informações ao registo central sobre operadores
+      de plataformas excluídos e operadores de plataformas estrangeiros, formato do número de identificação individual dos
+      operadores de plataforma estrangeiros e período de conservação das informações eliminadas do registo central
+    - Altera Formulário referido no artigo 1.º, n.º 2
+    - Altera Formulário referido no artigo 1.º, n.º 3
+    - Altera Formulário referido no artigo 1.º, n.º 4
+    - Altera Formulário referido no artigo 1.º, n.º 5
+    - Altera Formato informatizado referido no artigo 2.º, n.º 1
+    - Altera Formato eletrónico referido no artigo 2.º, n.º 2
+    - Altera Formato eletrónico referido no artigo 2.º, n.º 3
+    - Altera Notas
+    - Adita ANEXO XVII
+    - Adita Formato eletrónico a utilizar para a troca automática de informações obrigatória nos termos do artigo 8.º-AE,
+      n.º 5
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2263:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2263 DA COMISSÃO de 12 de novembro de 2025
+    changes:
+    - Altera Artigo 2.º — Formatos eletrónicos para a troca automática de informações obrigatória
+    - Altera Artigo 2.º-C — Formulário e condições de comunicação da avaliação anual
+    - Altera Artigo 2.º-F — Formulários normalizados para a comunicação de informações ao registo central sobre operadores
+      de plataformas excluídos e operadores de plataformas estrangeiros, formato do número de identificação individual dos
+      operadores de plataforma estrangeiros e período de conservação das informações eliminadas do registo central
+    - Altera Formulário referido no artigo 1.º, n.º 2
+    - Altera Formulário referido no artigo 1.º, n.º 3
+    - Altera Formulário referido no artigo 1.º, n.º 4
+    - Altera Formulário referido no artigo 1.º, n.º 5
+    - Altera Formato informatizado referido no artigo 2.º, n.º 1
+    - Altera Formato eletrónico referido no artigo 2.º, n.º 2
+    - Altera Formulário referido no artigo 2.º-C
+    - Altera Formato eletrónico referido no artigo 2.º, n.º 3
+    - Altera Notas
+    - Adita Artigo 2.º-G — Formulários normalizados, incluindo o regime linguístico, para a comunicação de informações sobre
+      os operadores de criptoativos e o período de conservação das informações suprimidas do registo de operadores de criptoativos
+    - Adita ANEXO XVIII
+    - Adita Formato informatizado referido no artigo 2.º, n.º 5
+    - Adita CARF XML
+    - Adita ISO CARF TYPES
+    - Adita OECD CARF TYPES
+    - Adita ANEXO XIX
+    - Adita Formulário a que se refere o artigo 2.º-G, n.^os^ 1 e 2
+    - Adita O formato do número de identificação individual a que se refere o artigo 2.º-G, n.º 3
+    - Adita Período de conservação de determinadas informações eliminadas ou excluídas do registo de operadores de criptoativos
+      referido no artigo 2.º-G, n.º 4
+    - Adita Alteração do Estado-Membro de registo único no registo de operadores de criptoativos a que se refere o artigo
+      2.º-G, n.º 5
 identifiers:
   celex: 32015R2378
   eli: http://data.europa.eu/eli/reg_impl/2015/2378/oj
@@ -50,7 +178,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/be446132-a55a-11e5-b528-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/f439d547-fb7d-11f0-8da5-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R2378-20260101
-  retrieved_at: '2026-10-22T03:17:51Z'
+  retrieved_at: '2026-10-22T16:42:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-09T07:50:20.491+02:00'
 integrity:
@@ -59,9 +187,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:51Z'
-  notes: Texto consolidado 02015R2378-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:42:59Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2015-2378.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -143,35 +271,23 @@ relationships:
   date: '2012-12-06'
 article_structure:
   article_count: 12
-  section_count: 46
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 47
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:51Z'
-  warnings: []
+  checked_at: '2026-10-22T16:42:59Z'
+  warnings:
+  - '02015R2378-20170101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02015R2378-20170605: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02015R2378-20180212: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02015R2378-20200701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2015/2378 da Comissão, de 15 de dezembro de 2015
-
-> 02015R2378 — PT — 01.01.2026 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R1963) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1963 DA COMISSÃO de 9 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R1963) — L 303 — 4 — 10.11.2016
-- [►M2](http://publications.europa.eu/resource/celex/32018R0099) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/99 DA COMISSÃO de 22 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0099) — L 17 — 29 — 23.1.2018
-- [►M3](http://publications.europa.eu/resource/celex/32019R0532) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/532 DA COMISSÃO de 28 de março de 2019](http://publications.europa.eu/resource/celex/32019R0532) — L 88 — 25 — 29.3.2019
-- [►M4](http://publications.europa.eu/resource/celex/32022R1467) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1467 DA COMISSÃO de 5 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1467) — L 231 — 36 — 6.9.2022
-- [►M5](http://publications.europa.eu/resource/celex/32025R0648) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/648 DA COMISSÃO de 2 de abril de 2025](http://publications.europa.eu/resource/celex/32025R0648) — L 648 — 1 — 3.4.2025
-- [►M6](http://publications.europa.eu/resource/celex/32025R1325) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1325 DA COMISSÃO de 7 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1325) — L 1325 — 1 — 17.7.2025
-- [►M7](http://publications.europa.eu/resource/celex/32025R2263) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2263 DA COMISSÃO de 12 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2263) — L 2263 — 1 — 26.11.2025
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2015/2378 DA COMISSÃO
 
 de 15 de dezembro de 2015
 

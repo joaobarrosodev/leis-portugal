@@ -37,6 +37,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-30'
+version_history:
+  file: diretiva-ue-2015-849.versoes.json
+  count: 3
+  source_lastmod: '2024-12-30'
+  versions:
+  - date: '2021-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-07-09'
+    amending: eu:celex:32024L1640:por
+    amending_title: DIRETIVA (UE) 2024/1640 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2024
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º-A
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Artigo 57.º-A
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º-A
+    - Altera Notas
+  - date: '2024-12-30'
+    amending: eu:celex:32023R1113:por
+    amending_title: REGULAMENTO (UE) 2023/1113 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º-A
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Artigo 45.º
+    - Altera Artigo 47.º
+    - Altera Artigo 57.º-A
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º-A
+    - Altera Artigo 67.º
+    - Altera Notas
+    - Adita Artigo 19.º-A
+    - Adita Artigo 19.º-B
+    - Adita Artigo 24.º-A
 identifiers:
   celex: 32015L0849
   eli: http://data.europa.eu/eli/dir/2015/849/oj
@@ -51,7 +108,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0bff31ef-0b49-11e5-8817-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/8825da22-bc8c-11ef-91ed-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015L0849-20241230
-  retrieved_at: '2026-10-22T02:35:38Z'
+  retrieved_at: '2026-10-22T16:39:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-13T08:51:30.363+02:00'
 integrity:
@@ -60,9 +117,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:38Z'
-  notes: Texto consolidado 02015L0849-20241230.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:39:16Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2015-849.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -462,32 +519,20 @@ relationships:
   source: null
 article_structure:
   article_count: 81
-  section_count: 54
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 55
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:38Z'
-  warnings: []
+  checked_at: '2026-10-22T16:39:16Z'
+  warnings:
+  - '02015L0849-20150605: versão indisponível (Sem expressão na língua por para CELEX 02015L0849-20150605.)'
   errors: []
 ---
 
 # Diretiva (UE) 2015/849 do Parlamento Europeu e do Conselho, de 20 de maio de 2015
-
-> 02015L0849 — PT — 30.12.2024 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018L0843) — [DIRETIVA (UE) 2018/843 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0843) — L 156 — 43 — 19.6.2018
-- [►M2](http://publications.europa.eu/resource/celex/32019L2177) — [DIRECTIVA (UE) 2019/2177 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019](http://publications.europa.eu/resource/celex/32019L2177) — L 334 — 155 — 27.12.2019
-- [►M3](http://publications.europa.eu/resource/celex/32023R1113) — [REGULAMENTO (UE) 2023/1113 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1113) — L 150 — 1 — 9.6.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024L1640) — [DIRETIVA (UE) 2024/1640 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2024](http://publications.europa.eu/resource/celex/32024L1640) — L 1640 — 1 — 19.6.2024
-
-## DIRETIVA (UE) 2015/849 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de maio de 2015
 

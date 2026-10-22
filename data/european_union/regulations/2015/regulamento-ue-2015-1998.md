@@ -35,6 +35,612 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-10-01'
+version_history:
+  file: regulamento-ue-2015-1998.versoes.json
+  count: 22
+  source_lastmod: '2026-10-01'
+  versions:
+  - date: '2015-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-02-29'
+    amending: eu:celex:32015R2426:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/2426 DA COMISSÃO de 18 de dezembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita 1. SEGURANÇA DOS AEROPORTOS
+    - Adita 1.0. DISPOSIÇÕES GERAIS
+    - Adita 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Adita 1.1.1. Limites
+    - Adita 1.1.2. Zonas restritas de segurança
+    - Adita 1.1.3. Áreas críticas das zonas restritas de segurança
+    - Adita 1.2. CONTROLO DE ACESSOS
+    - Adita 1.2.1. Acesso ao lado ar
+    - Adita 1.2.2. Acesso às zonas restritas de segurança
+    - Adita 1.2.3. Requisitos aplicáveis aos cartões de identificação de tripulante e cartões de identificação aeroportuária
+      da União
+    - Adita 1.2.4. Requisitos suplementares aplicáveis aos cartões de identificação de tripulante da União
+    - Adita 1.2.5. Requisitos suplementares aplicáveis aos cartões de identificação aeroportuária
+    - Adita 1.2.6. Requisitos aplicáveis aos livres-trânsitos de veículos
+    - Adita 1.2.7. Acesso com escolta
+    - Adita 1.2.8. Outras isenções
+    - Adita 1.3. RASTREIO DE PESSOAS QUE NÃO SEJAM PASSAGEIROS E DOS OBJETOS QUE TRANSPORTAM
+    - Adita 1.3.1. Rastreio das pessoas que não sejam passageiros e dos objetos que transportam
+    - Adita 1.3.2. Isenções e processos de rastreio especiais
+    - Adita 1.4. CONTROLO DE VEÍCULOS
+    - Adita 1.4.1. Veículos que entram em áreas críticas
+    - Adita 1.4.2. Veículos que entram em zonas restritas de segurança que não sejam áreas críticas
+    - Adita 1.4.3. Métodos de controlo
+    - Adita 1.4.4. Isenções e processos de controlo especiais
+    - Adita 1.5. VIGILÂNCIA, RONDAS E OUTROS CONTROLOS FÍSICOS
+    - Adita 1.6. ARTIGOS PROIBIDOS
+    - Adita APÊNDICE 1-A
+    - Adita 2. ZONAS DEMARCADAS DOS AEROPORTOS
+    - Adita 3. SEGURANÇA DAS AERONAVES
+    - Adita 3.0. DISPOSIÇÕES GERAIS
+    - Adita 3.1. VERIFICAÇÃO DE SEGURANÇA DA AERONAVE
+    - Adita 3.1.1. Situações em que deve ser realizada uma verificação de segurança da aeronave
+    - Adita 3.1.2. Formas de realizar uma verificação de segurança da aeronave
+    - Adita 3.1.3. Informações sobre a verificação de segurança da aeronave
+    - Adita 3.2. PROTEÇÃO DAS AERONAVES
+    - Adita 3.2.1. Proteção das aeronaves — generalidades
+    - Adita 3.2.2. Proteção adicional de aeronaves estacionadas com as portas exteriores fechadas em áreas não críticas
+  - date: '2017-06-07'
+    amending: eu:celex:32017R0815:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/815 DA COMISSÃO de 12 de maio de 2017; M3
+    changes:
+    - Altera preambulo
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1.3. Áreas críticas das zonas restritas de segurança
+    - Altera 1.2.6. Requisitos aplicáveis aos livres-trânsitos de veículos
+    - Altera 1.3.1. Rastreio das pessoas que não sejam passageiros e dos objetos que transportam
+    - Altera 1.6. ARTIGOS PROIBIDOS
+    - Altera 3.0. DISPOSIÇÕES GERAIS
+    - Altera 4.1.3. Rastreio de líquidos, aerossóis e géis (LAG)
+    - Altera 5.4. ARTIGOS PROIBIDOS
+    - Altera 6.2.1. Rastreio
+    - Altera 6.3.1. Aprovação de agentes reconhecidos
+    - Altera 6.3.2. Controlos de segurança a realizar pelos agentes reconhecidos
+    - Altera 6.4.1. Aprovação de expedidores conhecidos
+    - Altera 6.5. EXPEDIDORES AVENÇADOS
+    - Altera 6.8.1. Designação das transportadoras aéreas
+    - Altera 6.8.2. Validação UE para efeitos da segurança da aviação de ACC3
+    - Altera 6.8.3. Controlos de segurança da carga e do correio provenientes de um país terceiro
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera Lista das pessoas e entidades visitadas e entrevistadas
+    - Altera APÊNDICE 6-C3
+    - Altera APÊNDICE 6-C4
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera APÊNDICE 6-H1
+    - Altera APÊNDICE 6-H2
+    - Altera APÊNDICE 6-H3
+    - Altera 8.1.3. Aprovação de fornecedores reconhecidos
+    - Altera 8.3. DISPOSIÇÕES ADICIONAIS DE SEGURANÇA PARA AS PROVISÕES DE BORDO DE LÍQUIDOS, AEROSSÓIS E GÉIS E DE SACOS
+      INVIOLÁVEIS
+    - Altera 9.0. DISPOSIÇÕES GERAIS
+    - Altera 9.3. DISPOSIÇÕES ADICIONAIS DE SEGURANÇA PARA AS PROVISÕES DE LÍQUIDOS, AEROSSÓIS E GÉIS E DE SACOS INVIOLÁVEIS
+    - Altera 11.2.2. Formação inicial
+    - Altera 11.2.3. Formação específica para as pessoas que executam controlos de segurança
+    - Altera 11.5. QUALIFICAÇÃO DE INSTRUTORES
+    - Altera 11.6. VALIDAÇÃO UE PARA EFEITOS DA SEGURANÇA DA AVIAÇÃO
+    - Altera 11.7. RECONHECIMENTO MÚTUO DA FORMAÇÃO
+    - Altera 12.7.1. Princípios gerais
+    - Altera 12.7.2. Normas aplicáveis ao equipamento dos sistemas de deteção de explosivos líquidos (SDEL)
+    - Altera 12.9.2. Normas aplicáveis aos CDE
+  - date: '2018-02-06'
+    amending: eu:celex:32018R0055:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/55 DA COMISSÃO de 9 de janeiro de 2018
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera APÊNDICE 3-B
+    - Altera APÊNDICE 4-B
+    - Altera APÊNDICE 5-A
+    - Altera 6.3.1. Aprovação de agentes reconhecidos
+    - Altera 6.8.1. Designação das transportadoras aéreas
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8.3. DISPOSIÇÕES ADICIONAIS DE SEGURANÇA PARA AS PROVISÕES DE BORDO DE LÍQUIDOS, AEROSSÓIS E GÉIS E DE SACOS
+      INVIOLÁVEIS
+    - Altera 9.3. DISPOSIÇÕES ADICIONAIS DE SEGURANÇA PARA AS PROVISÕES DE LÍQUIDOS, AEROSSÓIS E GÉIS E DE SACOS INVIOLÁVEIS
+    - Altera 11.6. VALIDAÇÃO UE PARA EFEITOS DA SEGURANÇA DA AVIAÇÃO
+    - Altera 12.11.1. Princípios gerais
+    - Altera Notas
+    - Suprime SEGURANÇA DAS AERONAVES
+    - Suprime PASSAGEIROS E BAGAGEM DE CABINA
+    - Suprime BAGAGEM DE PORÃO
+  - date: '2020-02-16'
+    amending: eu:celex:32019R0103:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/103 DA COMISSÃO de 23 de janeiro de 2019; REGULAMENTO DE EXECUÇÃO (UE)
+      2020/111 DA COMISSÃO de 13 de janeiro de 2020
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1.3. Áreas críticas das zonas restritas de segurança
+    - Altera 1.2.6. Requisitos aplicáveis aos livres-trânsitos de veículos
+    - Altera 1.3.1. Rastreio das pessoas que não sejam passageiros e dos objetos que transportam
+    - Altera 3.1.3. Informações sobre a verificação de segurança da aeronave
+    - Altera APÊNDICE 3-B
+    - Altera 4.0. DISPOSIÇÕES GERAIS
+    - Altera 4.1.1. Rastreio dos passageiros
+    - Altera 4.1.3. Rastreio de líquidos, aerossóis e géis (LAG)
+    - Altera APÊNDICE 4-B
+    - Altera 5.0. DISPOSIÇÕES GERAIS
+    - Altera APÊNDICE 5-A
+    - Altera 6.3.1. Aprovação de agentes reconhecidos
+    - Altera 6.8.1. Designação das transportadoras aéreas
+    - Altera 6.8.3. Controlos de segurança da carga e do correio provenientes de um país terceiro
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera CARGA E CORREIO
+    - Altera 8.3. DISPOSIÇÕES ADICIONAIS DE SEGURANÇA PARA AS PROVISÕES DE BORDO DE LÍQUIDOS, AEROSSÓIS E GÉIS E DE SACOS
+      INVIOLÁVEIS
+    - Altera 9.3. DISPOSIÇÕES ADICIONAIS DE SEGURANÇA PARA AS PROVISÕES DE LÍQUIDOS, AEROSSÓIS E GÉIS E DE SACOS INVIOLÁVEIS
+    - Altera 11.1. RECRUTAMENTO
+    - Altera 11.3. CERTIFICAÇÃO OU APROVAÇÃO
+    - Altera 11.4. FORMAÇÃO CONTÍNUA
+    - Altera 11.6. VALIDAÇÃO UE PARA EFEITOS DA SEGURANÇA DA AVIAÇÃO
+    - Altera 12.1.1. Princípios gerais
+    - Altera 12.5.1. Princípios gerais
+    - Altera 12.11.1. Princípios gerais
+    - Altera 12.11.2. Normas aplicáveis aos scâneres de segurança
+    - Altera 12.12.1. Princípios gerais
+    - Altera 12.12.2. Normas aplicáveis aos DMC
+    - Altera 12.13.2. Requisitos de desempenho
+    - Altera Notas
+    - Adita 12.0. DISPOSIÇÕES GERAIS E APROVAÇÃO DO EQUIPAMENTO DE SEGURANÇA
+    - Adita 12.0.1. Disposições gerais
+    - Adita 12.0.2. Aprovação do equipamento de segurança
+  - date: '2020-04-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1.3. Áreas críticas das zonas restritas de segurança
+    - Altera 6.3.1. Aprovação de agentes reconhecidos
+    - Altera 6.8.1. Designação das transportadoras aéreas
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8.3. DISPOSIÇÕES ADICIONAIS DE SEGURANÇA PARA AS PROVISÕES DE BORDO DE LÍQUIDOS, AEROSSÓIS E GÉIS E DE SACOS
+      INVIOLÁVEIS
+    - Altera 9.3. DISPOSIÇÕES ADICIONAIS DE SEGURANÇA PARA AS PROVISÕES DE LÍQUIDOS, AEROSSÓIS E GÉIS E DE SACOS INVIOLÁVEIS
+    - Altera 11.6. VALIDAÇÃO UE PARA EFEITOS DA SEGURANÇA DA AVIAÇÃO
+    - Altera 12.11.1. Princípios gerais
+    - Altera Notas
+  - date: '2020-07-02'
+    amending: eu:celex:32020R0910:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/910 DA COMISSÃO de 30 de junho de 2020
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1.3. Áreas críticas das zonas restritas de segurança
+    - Altera 6.3.1. Aprovação de agentes reconhecidos
+    - Altera 6.8.1. Designação das transportadoras aéreas
+    - Altera 6.8.4. Designação de agentes reconhecidos e expedidores conhecidos
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8.3. DISPOSIÇÕES ADICIONAIS DE SEGURANÇA PARA AS PROVISÕES DE BORDO DE LÍQUIDOS, AEROSSÓIS E GÉIS E DE SACOS
+      INVIOLÁVEIS
+    - Altera 9.3. DISPOSIÇÕES ADICIONAIS DE SEGURANÇA PARA AS PROVISÕES DE LÍQUIDOS, AEROSSÓIS E GÉIS E DE SACOS INVIOLÁVEIS
+    - Altera 11.1. RECRUTAMENTO
+    - Altera 11.6. VALIDAÇÃO UE PARA EFEITOS DA SEGURANÇA DA AVIAÇÃO
+    - Altera 12.4.2. Normas aplicáveis aos SDE
+    - Altera 12.6. DETETORES DE VESTÍGIOS DE EXPLOSIVOS (DVE)
+    - Altera 12.11.1. Princípios gerais
+    - Altera Notas
+  - date: '2021-03-15'
+    amending: eu:celex:32019R0413:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/413 DA COMISSÃO de 14 de março de 2019; REGULAMENTO DE EXECUÇÃO (UE)
+      2021/255 DA COMISSÃO de 18 de fevereiro de 2021
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 1.2. CONTROLO DE ACESSOS
+    - Altera 1.3. RASTREIO DE PESSOAS QUE NÃO SEJAM PASSAGEIROS E DOS OBJETOS QUE TRANSPORTAM
+    - Altera 1.4. CONTROLO DE VEÍCULOS
+    - Altera 3.1. VERIFICAÇÃO DE SEGURANÇA DA AERONAVE
+    - Altera 3.2. PROTEÇÃO DAS AERONAVES
+    - Altera 4.1. RASTREIO DOS PASSAGEIROS E DA BAGAGEM DE CABINA
+    - Altera APÊNDICE 4-B
+    - Altera 5.3. [►C1](http://publications.europa.eu/resource/celex/32015R1998R%2801%29) RECONCILIAÇÃO DA BAGAGEM◄
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.2. RASTREIO
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.4. EXPEDIDORES CONHECIDOS
+    - Altera 6.5. EXPEDIDORES AVENÇADOS
+    - Altera 6.6. PROTEÇÃO DA CARGA E DO CORREIO
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera APÊNDICE 6-F
+    - Altera 7. CORREIO E MATERIAL DA TRANSPORTADORA AÉREA
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+    - Suprime 1.1.1. Limites
+    - Suprime 1.1.2. Zonas restritas de segurança
+    - Suprime 1.1.3. Áreas críticas das zonas restritas de segurança
+    - Suprime 1.2.1. Acesso ao lado ar
+    - Suprime 1.2.2. Acesso às zonas restritas de segurança
+    - Suprime 1.2.3. Requisitos aplicáveis aos cartões de identificação de tripulante e cartões de identificação aeroportuária
+      da União
+    - Suprime 1.2.4. Requisitos suplementares aplicáveis aos cartões de identificação de tripulante da União
+    - Suprime 1.2.5. Requisitos suplementares aplicáveis aos cartões de identificação aeroportuária
+    - Suprime 1.2.6. Requisitos aplicáveis aos livres-trânsitos de veículos
+  - date: '2021-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.6. PROTEÇÃO DA CARGA E DO CORREIO
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+  - date: '2021-12-31'
+    amending: eu:celex:32019R1583:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/1583 DA COMISSÃO de 25 de setembro de 2019
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 1.2. CONTROLO DE ACESSOS
+    - Altera 1.6. ARTIGOS PROIBIDOS
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.1. CONTROLOS DE SEGURANÇA — DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.4. EXPEDIDORES CONHECIDOS
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+  - date: '2022-03-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.1. CONTROLOS DE SEGURANÇA — DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+  - date: '2022-04-04'
+    amending: eu:celex:32022R0421:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/421 DA COMISSÃO de 14 de março de 2022
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+  - date: '2022-04-12'
+    amending: eu:celex:32022R0463:por
+    amending_title: M14
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+  - date: '2022-07-01'
+    amending: eu:celex:32022R1174:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1174 DA COMISSÃO de 7 de julho de 2022
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 1.4. CONTROLO DE VEÍCULOS
+    - Altera 1.5. VIGILÂNCIA, RONDAS E OUTROS CONTROLOS FÍSICOS
+    - Altera 3.1. VERIFICAÇÃO DE SEGURANÇA DA AERONAVE
+    - Altera 5.4. ARTIGOS PROIBIDOS
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.1. CONTROLOS DE SEGURANÇA — DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.4. EXPEDIDORES CONHECIDOS
+    - Altera 6.6. PROTEÇÃO DA CARGA E DO CORREIO
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+    - Adita 6.5. TRANSPORTADORES CERTIFICADOS
+    - Suprime 6.5. EXPEDIDORES AVENÇADOS
+    - Suprime APÊNDICE 6-D
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+  - date: '2023-04-01'
+    amending: eu:celex:32023R0566:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/566 DA COMISSÃO de 10 de março de 2023
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 1.3. RASTREIO DE PESSOAS QUE NÃO SEJAM PASSAGEIROS E DOS OBJETOS QUE TRANSPORTAM
+    - Altera 4.1. RASTREIO DOS PASSAGEIROS E DA BAGAGEM DE CABINA
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.2. RASTREIO
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+  - date: '2024-05-26'
+    amending: eu:celex:32024R1255:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1255 DA COMISSÃO de 3 de maio de 2024
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.1. CONTROLOS DE SEGURANÇA — DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.4. EXPEDIDORES CONHECIDOS
+    - Altera 6.6. PROTEÇÃO DA CARGA E DO CORREIO
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+    - Adita 6.5. TRANSPORTADORES APROVADOS
+    - Adita APÊNDICE 6-D
+    - Adita APÊNDICE 6-K
+    - Adita APÊNDICE 6-L
+    - Suprime 6.5. TRANSPORTADORES CERTIFICADOS
+  - date: '2024-09-01'
+    amending: eu:celex:32024R2108:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2108 DA COMISSÃO de 29 de julho de 2024
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+  - date: '2025-05-21'
+    amending: eu:celex:32025R0920:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/920 DA COMISSÃO de 19 de maio de 2025
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+    - Adita APÊNDICE 6-M
+    - Adita LISTA DE CONTROLO DE VALIDAÇÃO PARA CÃES DETETORES DE EXPLOSIVOS (CDE) DE PAÍSES TERCEIROS
+  - date: '2026-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+  - date: '2026-03-22'
+    amending: eu:celex:32026R0449:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/449 DA COMISSÃO de 27 de fevereiro de 2026
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 1.2. CONTROLO DE ACESSOS
+    - Altera 1.4. CONTROLO DE VEÍCULOS
+    - Altera 3.0. DISPOSIÇÕES GERAIS
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.2. RASTREIO
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
+  - date: '2026-10-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera 1.0. DISPOSIÇÕES GERAIS
+    - Altera 1.1. REQUISITOS DE PLANEAMENTO AEROPORTUÁRIO
+    - Altera 6.0. DISPOSIÇÕES GERAIS
+    - Altera 6.3. AGENTES RECONHECIDOS
+    - Altera 6.8. PROCEDIMENTOS DE SEGURANÇA APLICÁVEIS À CARGA E AO CORREIO TRANSPORTADOS DE PAÍSES TERCEIROS PARA A UNIÃO
+    - Altera APÊNDICE 6-A
+    - Altera APÊNDICE 6-B
+    - Altera APÊNDICE 6-C2
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA ACC3
+    - Altera LISTA DE CONTROLO DE VALIDAÇÃO PARA EXPEDIDORES CONHECIDOS DE PAÍSES TERCEIROS VALIDADOS UE PARA EFEITOS DA SEGURANÇA
+      DA AVIAÇÃO
+    - Altera APÊNDICE 6-D
+    - Altera APÊNDICE 6-E
+    - Altera 8. PROVISÕES DE BORDO
+    - Altera 9. PROVISÕES DO AEROPORTO
+    - Altera 11. RECRUTAMENTO E FORMAÇÃO DO PESSOAL
+    - Altera 12. EQUIPAMENTO DE SEGURANÇA
+    - Altera Notas
 identifiers:
   celex: 32015R1998
   eli: http://data.europa.eu/eli/reg_impl/2015/1998/oj
@@ -49,7 +655,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c38f361d-8a99-11e5-b8b7-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/c83f3d36-a0dd-11f1-b25c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R1998-20261001
-  retrieved_at: '2026-10-22T03:00:36Z'
+  retrieved_at: '2026-10-22T16:43:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-11T23:13:26.655+02:00'
 integrity:
@@ -58,9 +664,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:36Z'
-  notes: Texto consolidado 02015R1998-20261001.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:43:04Z'
+  notes: 22 versão(ões); histórico completo em regulamento-ue-2015-1998.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -332,52 +938,19 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 3
-  section_count: 82
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 83
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:36Z'
+  checked_at: '2026-10-22T16:43:04Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2015/1998 da Comissão, de 5 de novembro de 2015
-
-> 02015R1998 — PT — 01.10.2026 — 024.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32015R2426) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2426 DA COMISSÃO de 18 de dezembro de 2015](http://publications.europa.eu/resource/celex/32015R2426) — L 334 — 5 — 22.12.2015
-- [►M2](http://publications.europa.eu/resource/celex/32017R0815) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/815 DA COMISSÃO de 12 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0815) — L 122 — 1 — 13.5.2017
-- [M3](http://publications.europa.eu/resource/celex/32017R0837) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/837 DA COMISSÃO de 17 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0837) — L 125 — 3 — 18.5.2017
-- [M4](http://publications.europa.eu/resource/celex/32018R0055) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/55 DA COMISSÃO de 9 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0055) — L 10 — 5 — 13.1.2018
-- [►M5](http://publications.europa.eu/resource/celex/32019R0103) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/103 DA COMISSÃO de 23 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0103) — L 21 — 13 — 24.1.2019
-- [M6](http://publications.europa.eu/resource/celex/32020R0910) — Alterado por: [REGULAMENTO DE EXECUÇÃO (UE) 2020/910 DA COMISSÃO de 30 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0910) — L 208 — 43 — 1.7.2020
-- [►M7](http://publications.europa.eu/resource/celex/32019R0413) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/413 DA COMISSÃO de 14 de março de 2019](http://publications.europa.eu/resource/celex/32019R0413) — L 73 — 98 — 15.3.2019
-- [►M8](http://publications.europa.eu/resource/celex/32019R1583) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1583 DA COMISSÃO de 25 de setembro de 2019](http://publications.europa.eu/resource/celex/32019R1583) — L 246 — 15 — 26.9.2019
-- [M9](http://publications.europa.eu/resource/celex/32020R0910) — Alterado por: [REGULAMENTO DE EXECUÇÃO (UE) 2020/910 DA COMISSÃO de 30 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0910) — L 208 — 43 — 1.7.2020
-- [►M10](http://publications.europa.eu/resource/celex/32020R0111) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/111 DA COMISSÃO de 13 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020R0111) — L 21 — 1 — 27.1.2020
-- [M11](http://publications.europa.eu/resource/celex/32020R0910) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/910 DA COMISSÃO de 30 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0910) — L 208 — 43 — 1.7.2020
-- [►M12](http://publications.europa.eu/resource/celex/32021R0255) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/255 DA COMISSÃO de 18 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0255) — L 58 — 23 — 19.2.2021
-- [►M13](http://publications.europa.eu/resource/celex/32022R0421) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/421 DA COMISSÃO de 14 de março de 2022](http://publications.europa.eu/resource/celex/32022R0421) — L 87 — 1 — 15.3.2022
-- [M14](http://publications.europa.eu/resource/celex/32022R0463) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/463 DA COMISSÃO de 22 de março de 2022](http://publications.europa.eu/resource/celex/32022R0463) — L 94 — 3 — 23.3.2022
-- [►M15](http://publications.europa.eu/resource/celex/32022R1174) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1174 DA COMISSÃO de 7 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1174) — L 183 — 35 — 8.7.2022
-- [►M16](http://publications.europa.eu/resource/celex/32023R0566) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/566 DA COMISSÃO de 10 de março de 2023](http://publications.europa.eu/resource/celex/32023R0566) — L 74 — 47 — 13.3.2023
-- [►M17](http://publications.europa.eu/resource/celex/32024R1255) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1255 DA COMISSÃO de 3 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1255) — L 1255 — 1 — 6.5.2024
-- [►M18](http://publications.europa.eu/resource/celex/32024R2108) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2108 DA COMISSÃO de 29 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2108) — L 2108 — 1 — 31.7.2024
-- [►M19](http://publications.europa.eu/resource/celex/32025R0920) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/920 DA COMISSÃO de 19 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0920) — L 920 — 1 — 20.5.2025
-- [►M20](http://publications.europa.eu/resource/celex/32026R0449) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/449 DA COMISSÃO de 27 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0449) — L 449 — 1 — 2.3.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32015R1998R%2801%29) — [Rectificação, JO L 165, 23.6.2016, p. 23 (2015/1998)](http://publications.europa.eu/resource/celex/32015R1998R%2801%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2015/1998 DA COMISSÃO
 
 de 5 de novembro de 2015
 

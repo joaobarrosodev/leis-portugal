@@ -39,6 +39,102 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-06'
+version_history:
+  file: regulamento-ue-2015-848.versoes.json
+  count: 6
+  source_lastmod: '2025-11-06'
+  versions:
+  - date: '2015-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-06-26'
+    amending: eu:celex:32017R0353:por
+    amending_title: REGULAMENTO (UE) 2017/353 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de fevereiro de 2017
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 36.º — Direito de dar uma garantia para evitar um processo secundário de insolvência
+    - Altera Artigo 86.º — Informações sobre o direito nacional e da União em matéria de insolvência
+    - Altera ANEXO A
+    - Altera POLSKA
+    - Altera SLOVENIJA
+    - Altera ANEXO B
+    - Altera Notas
+    - Suprime Processos de insolvência a que se refere o artigo 2.º, ponto 4
+    - Suprime Administradores da insolvência a que se refere o artigo 2.º, ponto 5
+  - date: '2018-07-26'
+    amending: eu:celex:32018R0946:por
+    amending_title: REGULAMENTO (UE) 2018/946 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2018
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 36.º — Direito de dar uma garantia para evitar um processo secundário de insolvência
+    - Altera Artigo 86.º — Informações sobre o direito nacional e da União em matéria de insolvência
+    - Altera ANEXO A
+    - Altera BELGIQUE/BELGIË
+    - Altera БЪЛГАРИЯ
+    - Altera HRVATSKA
+    - Altera PORTUGAL
+    - Altera ANEXO B
+    - Altera Notas
+    - Adita Processos de insolvência a que se refere o artigo 2.º, ponto 4
+    - Adita Administradores da insolvência a que se refere o artigo 2.º, ponto 5
+  - date: '2022-01-09'
+    amending: eu:celex:32021R2260:por
+    amending_title: REGULAMENTO (UE) 2021/2260 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de dezembro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 36.º — Direito de dar uma garantia para evitar um processo secundário de insolvência
+    - Altera Artigo 84.º — Aplicação temporal
+    - Altera Artigo 86.º — Informações sobre o direito nacional e da União em matéria de insolvência
+    - Altera DEUTSCHLAND
+    - Altera ITALIA
+    - Altera ΚΥΠΡΟΣ
+    - Altera LIETUVA
+    - Altera MAGYARORSZÁG
+    - Altera NEDERLAND
+    - Altera ÖSTERREICH
+    - Altera POLSKA
+    - Altera Regulamento revogado e suas sucessivas alterações
+    - Altera Notas
+    - Adita PROCESSOS DE INSOLVÊNCIA A QUE SE REFERE O ARTIGO 2.º, PONTO 4
+    - Adita ADMINISTRADORES DA INSOLVÊNCIA A QUE SE REFERE O ARTIGO 2.º, PONTO 5
+    - Suprime Processos de insolvência a que se refere o artigo 2.º, ponto 4
+    - Suprime UNITED KINGDOM
+    - Suprime Administradores da insolvência a que se refere o artigo 2.º, ponto 5
+  - date: '2025-05-01'
+    amending: eu:celex:32023R2844:por
+    amending_title: REGULAMENTO (UE) 2023/2844 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 36.º — Direito de dar uma garantia para evitar um processo secundário de insolvência
+    - Altera Artigo 42.º — Cooperação e comunicação entre órgãos jurisdicionais
+    - Altera Artigo 53.º — Direito de reclamação de créditos
+    - Altera Artigo 57.º — Cooperação e comunicação entre órgãos jurisdicionais
+    - Altera Artigo 86.º — Informações sobre o direito nacional e da União em matéria de insolvência
+    - Altera POLSKA
+    - Altera Notas
+  - date: '2025-11-06'
+    amending: eu:celex:32025R2073:por
+    amending_title: REGULAMENTO (UE) 2025/2073 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de outubro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 36.º — Direito de dar uma garantia para evitar um processo secundário de insolvência
+    - Altera Artigo 42.º — Cooperação e comunicação entre órgãos jurisdicionais
+    - Altera Artigo 86.º — Informações sobre o direito nacional e da União em matéria de insolvência
+    - Altera BELGIQUE/BELGIË
+    - Altera БЪЛГАРИЯ
+    - Altera EESTI
+    - Altera ESPAÑA
+    - Altera FRANCE
+    - Altera ITALIA
+    - Altera LUXEMBOURG
+    - Altera MAGYARORSZÁG
+    - Altera MALTA
+    - Altera NEDERLAND
+    - Altera SLOVENSKO
+    - Altera Notas
+    - Adita ČESKO
+    - Suprime ČESKÁ REPUBLIKA
 identifiers:
   celex: 32015R0848
   eli: http://data.europa.eu/eli/reg/2015/848/oj
@@ -53,7 +149,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/db164a5d-0b48-11e5-8817-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/a5788259-cfaf-11f0-8da2-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0848-20251106
-  retrieved_at: '2026-10-22T02:48:41Z'
+  retrieved_at: '2026-10-22T16:41:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-11T22:27:19.169+02:00'
 integrity:
@@ -62,9 +158,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:41Z'
-  notes: Texto consolidado 02015R0848-20251106.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:41:00Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2015-848.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -294,38 +390,19 @@ relationships:
   date: '2014-06-19'
 article_structure:
   article_count: 92
-  section_count: 81
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 82
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:41Z'
+  checked_at: '2026-10-22T16:41:00Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015
-
-> 02015R0848 — PT — 06.11.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32017R0353) — [REGULAMENTO (UE) 2017/353 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0353) — L 57 — 19 — 3.3.2017
-- [M2](http://publications.europa.eu/resource/celex/32018R0946) — [REGULAMENTO (UE) 2018/946 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2018](http://publications.europa.eu/resource/celex/32018R0946) — L 171 — 1 — 6.7.2018
-- [M3](http://publications.europa.eu/resource/celex/32021R2260) — [REGULAMENTO (UE) 2021/2260 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2260) — L 455 — 4 — 20.12.2021
-- [►M4](http://publications.europa.eu/resource/celex/32023R2844) — [REGULAMENTO (UE) 2023/2844 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2844) — L 2844 — 1 — 27.12.2023
-- [►M5](http://publications.europa.eu/resource/celex/32025R2073) — [REGULAMENTO (UE) 2025/2073 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2073) — L 2073 — 1 — 17.10.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32015R0848R%2802%29) — [Rectificação, JO L 349, 21.12.2016, p. 9 (2015/848)](http://publications.europa.eu/resource/celex/32015R0848R%2802%29)
-- [C2](http://publications.europa.eu/resource/celex/32021R2260R%2801%29) — [Rectificação, JO L 90433, 19.5.2025, p. 1 (2021/2260)](http://publications.europa.eu/resource/celex/32021R2260R%2801%29)
-
-## REGULAMENTO (UE) 2015/848 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de maio de 2015
 

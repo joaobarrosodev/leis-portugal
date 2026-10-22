@@ -34,6 +34,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-04-09'
+version_history:
+  file: regulamento-ue-2015-1375.versoes.json
+  count: 5
+  source_lastmod: '2025-04-09'
+  versions:
+  - date: '2020-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-04-21'
+    amending: eu:celex:32021R0519:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/519 DA COMISSÃO de 24 de março de 2021
+    changes:
+    - Altera Artigo 2.º — Amostragem de carcaças
+    - Altera Artigo 13.º — Requisitos sanitários para a importação
+    - Altera Exame de outros animais que não os suínos
+    - Altera RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS
+    - Altera NOTIFICAÇÃO DA SITUAÇÃO RELATIVA ÀS TRIQUINAS
+    - Altera Notas
+    - Adita ANEXO VII
+    - Adita Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2
+    - Suprime Artigo 14.º — Documentação
+  - date: '2022-09-12'
+    amending: eu:celex:32022R1418:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1418 DA COMISSÃO de 22 de agosto de 2022
+    changes:
+    - Altera Artigo 3.º — Derrogações
+    - Altera MÉTODOS EQUIVALENTES
+    - Altera RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS
+    - Altera Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2
+    - Altera Notas
+  - date: '2023-11-07'
+    amending: eu:celex:32023R2156:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2156 DA COMISSÃO de 17 de outubro de 2023
+    changes:
+    - Altera Artigo 3.º — Derrogações
+    - Altera RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS
+    - Altera Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2
+    - Altera Notas
+  - date: '2025-04-09'
+    amending: eu:celex:32025R0506:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/506 DA COMISSÃO de 19 de março de 2025
+    changes:
+    - Altera MÉTODO DE DETEÇÃO DE REFERÊNCIA
+    - Altera MÉTODOS EQUIVALENTES
+    - Altera RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS
+    - Altera Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2
+    - Altera Notas
 identifiers:
   celex: 32015R1375
   eli: http://data.europa.eu/eli/reg_impl/2015/1375/oj
@@ -48,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/20fdcc04-3ff1-11e5-9f5a-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/7a862241-2a95-11f0-8a44-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R1375-20250409
-  retrieved_at: '2026-10-22T02:41:47Z'
+  retrieved_at: '2026-10-22T16:41:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-12T04:30:21.299+02:00'
 integrity:
@@ -57,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:47Z'
-  notes: Texto consolidado 02015R1375-20250409.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:41:13Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2015-1375.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -217,33 +265,20 @@ relationships:
   date: '2014-10-22'
 article_structure:
   article_count: 15
-  section_count: 31
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:47Z'
-  warnings: []
+  checked_at: '2026-10-22T16:41:13Z'
+  warnings:
+  - '02015R1375-20150811: versão indisponível (Sem expressão na língua por para CELEX 02015R1375-20150811.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2015/1375 da Comissão, de 10 de agosto de 2015
-
-> 02015R1375 — PT — 09.04.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R1478) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1478 DA COMISSÃO de 14 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1478) — L 338 — 7 — 15.10.2020
-- [►M2](http://publications.europa.eu/resource/celex/32021R0519) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/519 DA COMISSÃO de 24 de março de 2021](http://publications.europa.eu/resource/celex/32021R0519) — L 104 — 36 — 25.3.2021
-- [►M3](http://publications.europa.eu/resource/celex/32022R1418) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1418 DA COMISSÃO de 22 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R1418) — L 218 — 7 — 23.8.2022
-- [►M4](http://publications.europa.eu/resource/celex/32023R2156) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2156 DA COMISSÃO de 17 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2156) — L 2156 — 1 — 18.10.2023
-- [►M5](http://publications.europa.eu/resource/celex/32025R0506) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/506 DA COMISSÃO de 19 de março de 2025](http://publications.europa.eu/resource/celex/32025R0506) — L 506 — 1 — 20.3.2025
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2015/1375 DA COMISSÃO
 
 de 10 de agosto de 2015
 

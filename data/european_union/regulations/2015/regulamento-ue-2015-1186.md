@@ -39,6 +39,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2015-1186.versoes.json
+  count: 1
+  source_lastmod: '2017-03-07'
+  versions:
+  - date: '2015-07-21'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32015R1186
   eli: http://data.europa.eu/eli/reg_del/2015/1186/oj
@@ -53,7 +62,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/08342029-2f6e-11e5-9f85-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/08342029-2f6e-11e5-9f85-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:17:45Z'
+  retrieved_at: '2026-10-22T16:41:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-15T07:59:04.103+02:00'
 integrity:
@@ -62,9 +71,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:45Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:41:08Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2015-1186.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -104,21 +113,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/62c31bef-2f6e-11e5-9f85-01aa75ed71a1
 article_structure:
   article_count: 8
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:45Z'
+  checked_at: '2026-10-22T16:41:08Z'
   warnings:
-  - 'Versão consolidada 02015R1186-20170307 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02015R1186-20170307: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO DELEGADO (UE) 2015/1186 DA COMISSÃO
+# Regulamento Delegado (UE) 2015/1186 da Comissão, de 24 de abril de 2015
 
 de 24 de abril de 2015
 

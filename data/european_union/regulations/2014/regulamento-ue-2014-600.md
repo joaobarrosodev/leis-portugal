@@ -38,6 +38,285 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-23'
+version_history:
+  file: regulamento-ue-2014-600.versoes.json
+  count: 12
+  source_lastmod: '2025-11-23'
+  versions:
+  - date: '2014-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Dispensas para instrumentos de capital
+    - Altera Artigo 9.º — Dispensas para os instrumentos não representativos de capital
+    - Altera Artigo 17.º — Acesso às ofertas de preço
+    - Altera Artigo 25.º — Obrigação de manter registos
+    - Altera Artigo 30.º — Acordos de compensação indireta
+    - Altera Artigo 38.º — Acesso por parte de CCP e plataformas de negociação de países terceiros
+    - Altera Artigo 42.º — Intervenção das autoridades competentes sobre produtos
+    - Altera Artigo 45.º — Poderes da ESMA em matéria de gestão de posições
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 53.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 55.º — Entrada em vigor e aplicação
+    - Altera Notas
+  - date: '2016-07-01'
+    amending: eu:celex:32016R1033:por
+    amending_title: REGULAMENTO (UE) 2016/1033 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de junho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Dispensas para instrumentos de capital
+    - Altera Artigo 5.º — Mecanismo de limitação com base no volume
+    - Altera Artigo 8.º — Requisitos de transparência pré-negociação das plataformas de negociação relativamente a obrigações,
+      produtos financeiros estruturados, licenças de emissão e derivados
+    - Altera Artigo 9.º — Dispensas para os instrumentos não representativos de capital
+    - Altera Artigo 18.º — Obrigação de tornarem públicas as ofertas de preço firmes pelos internalizadores sistemáticos relativamente
+      a obrigações, produtos financeiros estruturados, licenças de emissão e derivados
+    - Altera Artigo 19.º — Controlo pela ESMA
+    - Altera Artigo 25.º — Obrigação de manter registos
+    - Altera Artigo 26.º — Obrigação de reportar transações
+    - Altera Artigo 30.º — Acordos de compensação indireta
+    - Altera Artigo 35.º — Acesso não discriminatório a uma CCP
+    - Altera Artigo 37.º — Acesso não discriminatório a índices de referência e obrigação de licenciamento de índices de referência
+    - Altera Artigo 45.º — Poderes da ESMA em matéria de gestão de posições
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 52.º — Relatórios e revisão
+    - Altera Artigo 53.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 54.º — Disposições transitórias
+    - Altera Artigo 55.º — Entrada em vigor e aplicação
+    - Altera Notas
+  - date: '2020-03-26'
+    amending: eu:celex:32019R2033:por
+    amending_title: REGULAMENTO (UE) 2019/2033 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 25.º — Obrigação de manter registos
+    - Altera Artigo 30.º — Acordos de compensação indireta
+    - Altera Artigo 45.º — Poderes da ESMA em matéria de gestão de posições
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 53.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Notas
+    - Adita TRANSPARÊNCIA DOS INTERNALIZADORES SISTEMÁTICOS E DAS EMPRESAS DE INVESTIMENTO QUE NEGOCEIAM EM MERCADO DE BALCÃO
+      E REGIME DE VARIAÇÃO DAS OFERTAS DE PREÇOS APLICÁVEL AOS INTERNALIZADORES SISTEMÁTICOS
+    - Adita Artigo 17.º‐A — Variação das ofertas de preços (tick)
+    - Suprime TRANSPARÊNCIA DOS INTERNALIZADORES SISTEMÁTICOS E DAS EMPRESAS DE INVESTIMENTO QUE NEGOCEIAM EM MERCADO DE BALCÃO
+  - date: '2020-07-04'
+    amending: eu:celex:32021R0023:por
+    amending_title: REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 25.º — Obrigação de manter registos
+    - Altera Artigo 30.º — Acordos de compensação indireta
+    - Altera Artigo 45.º — Poderes da ESMA em matéria de gestão de posições
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 53.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 54.º — Disposições transitórias
+    - Altera Notas
+  - date: '2021-06-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 25.º — Obrigação de manter registos
+    - Altera Artigo 30.º — Acordos de compensação indireta
+    - Altera Artigo 45.º — Poderes da ESMA em matéria de gestão de posições
+    - Altera Artigo 46.º — Disposições gerais
+    - Altera Artigo 47.º — Decisão de equivalência
+    - Altera Artigo 50.º — Exercício da delegação
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 52.º — Relatórios e revisão
+    - Altera Artigo 53.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 54.º — Disposições transitórias
+    - Altera Notas
+    - Adita Artigo 49.º — Medidas a tomar pela ESMA
+    - Suprime Artigo 49.º — Cancelamento do registo
+  - date: '2022-01-01'
+    amending: eu:celex:32019R2175:por
+    amending_title: REGULAMENTO (EU) 2019/2175 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019; REGULAMENTO
+      (UE) 2022/858 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 22.º — Prestação de informações para efeitos de transparência e outros cálculos
+    - Altera Artigo 25.º — Obrigação de manter registos
+    - Altera Artigo 26.º — Obrigação de reportar transações
+    - Altera Artigo 27.º — Obrigação de fornecer dados de referência dos instrumentos financeiros
+    - Altera Artigo 30.º — Acordos de compensação indireta
+    - Altera Artigo 40.º — Poderes de intervenção temporária da ESMA
+    - Altera Artigo 41.º — Poderes de intervenção temporária da EBA
+    - Altera Artigo 45.º — Poderes da ESMA em matéria de gestão de posições
+    - Altera Artigo 47.º — Decisão de equivalência
+    - Altera Artigo 50.º — Exercício da delegação
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 52.º — Relatórios e revisão
+    - Altera Artigo 53.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 54.º — Disposições transitórias
+    - Altera Notas
+    - Adita TÍTULO IV-A
+    - Adita SERVIÇOS DE COMUNICAÇÃO DE DADOS
+    - Adita Capítulo 1
+    - Adita Autorização dos prestadores de serviços de comunicação de dados
+    - Adita Artigo 27.º-A
+    - Adita Artigo 27.º-B — Obrigatoriedade da autorização
+    - Adita Artigo 27.º-C — Autorização dos prestadores de serviços de comunicação de dados
+    - Adita Artigo 27.º-D — Procedimentos de concessão ou de recusa de pedidos de autorização
+    - Adita Artigo 27.º-E — Revogação de autorização
+    - Adita Artigo 27.º-F — Requisitos aplicáveis ao órgão de administração de um prestador de serviços de comunicação de
+      dados
+    - Adita capítulo 2
+    - Adita Condições aplicáveis aos apa, atp e arm
+    - Adita Artigo 27.º-G — Requisitos em matéria de organização aplicáveis aos APA
+    - Adita Artigo 27.º-H — Requisitos em matéria de organização aplicáveis aos CTP
+    - Adita Artigo 27.º-I — Requisitos em matéria de organização aplicáveis aos ARM
+    - Adita TÍTULO VI-A
+    - Adita PODERES E COMPETÊNCIAS DA ESMA
+    - Adita Competências e procedimentos
+    - Adita Artigo 38.º-A — Exercício dos poderes da ESMA
+    - Adita Artigo 38.º-B — Pedidos de informação
+    - Adita Artigo 38.º-C — Investigações de caráter geral
+    - Adita Artigo 38.º-D — Inspeções no local
+    - Adita Artigo 38.º-E — Troca de informações
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 25.º — Obrigação de manter registos
+    - Altera Artigo 30.º — Acordos de compensação indireta
+    - Altera Artigo 38.º-J — Divulgação, natureza, execução e afetação das coimas e sanções pecuniárias compulsórias
+    - Altera Artigo 45.º — Poderes da ESMA em matéria de gestão de posições
+    - Altera Artigo 47.º — Decisão de equivalência
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 52.º — Relatórios e revisão
+    - Altera Artigo 53.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 54.º-B — Relações com os revisores de contas
+    - Altera Notas
+    - Adita Artigo 23.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2024-03-28'
+    amending: eu:celex:32024R0791:por
+    amending_title: REGULAMENTO (UE) 2024/791 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Dispensas para instrumentos de capital
+    - Altera Artigo 10.º — Requisitos de transparência pós-negociação das plataformas de negociação relativamente a obrigações,
+      produtos financeiros estruturados, licenças de emissão e derivados
+    - Altera Artigo 12.º — Obrigação de disponibilizar separadamente dados pré-negociação e pós-negociação
+    - Altera Artigo 13.º — Obrigação de disponibilizar informações pré-negociação e pós-negociação em condições comerciais
+      razoáveis
+    - Altera Artigo 14.º — Obrigação de tornar públicas as ofertas de preço firmes pelos internalizadores sistemáticos relativamente
+      a ações, certificados de depósito, ETF, certificados e outros instrumentos financeiros similares
+    - Altera Artigo 15.º — Execução de ordens de clientes
+    - Altera Artigo 16.º — Obrigações das autoridades competentes
+    - Altera Artigo 20.º — Divulgação de informações pós-negociação pelas empresas de investimento, incluindo os internalizadores
+      sistemáticos, relativamente a ações, certificados de depósito, ETF, certificados e outros instrumentos financeiros similares
+    - Altera Artigo 22.º — Prestação de informações para efeitos de transparência e outros cálculos
+    - Altera Artigo 23.º — Obrigação de negociação para as empresas de investimento
+    - Altera Artigo 23.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 25.º — Obrigação de manter registos
+    - Altera Artigo 26.º — Obrigação de reportar transações
+    - Altera Artigo 27.º — Obrigação de fornecer dados de referência dos instrumentos financeiros
+    - Altera Artigo 27.º-E — Revogação de autorização
+    - Altera Artigo 27.º-F — Requisitos aplicáveis ao órgão de administração de um prestador de serviços de comunicação de
+      dados
+    - Altera Artigo 27.º-G — Requisitos em matéria de organização aplicáveis aos APA
+    - Altera Artigo 27.º-H — Requisitos em matéria de organização aplicáveis aos CTP
+    - Altera Artigo 27.º-I — Requisitos em matéria de organização aplicáveis aos ARM
+    - Altera Artigo 28.º — Obrigação de negociar em mercados regulamentados, em MTF ou em OTF
+    - Altera Artigo 30.º — Acordos de compensação indireta
+    - Altera Artigo 32.º — Procedimento relativo à obrigação de negociação
+    - Altera Artigo 35.º — Acesso não discriminatório a uma CCP
+    - Altera Artigo 36.º — Acesso não discriminatório às plataformas de negociação
+    - Altera Artigo 38.º — Acesso por parte de CCP e plataformas de negociação de países terceiros
+    - Altera Artigo 38.º-G — Medidas de supervisão por parte da ESMA
+    - Altera Artigo 38.º-H — Coimas
+    - Altera Artigo 38.º-J — Divulgação, natureza, execução e afetação das coimas e sanções pecuniárias compulsórias
+    - Altera Artigo 45.º — Poderes da ESMA em matéria de gestão de posições
+    - Altera Artigo 47.º — Decisão de equivalência
+    - Altera Artigo 50.º — Exercício da delegação
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 52.º — Relatórios e revisão
+    - Altera Artigo 53.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 54.º — Disposições transitórias
+    - Altera Artigo 54.º-B — Relações com os revisores de contas
+    - Altera Notas
+    - Adita Artigo 5.º
+  - date: '2024-12-04'
+    amending: eu:celex:32024R2809:por
+    amending_title: REGULAMENTO (UE) 2024/2809 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 23.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 25.º — Obrigação de manter registos
+    - Altera Artigo 30.º — Acordos de compensação indireta
+    - Altera Artigo 38.º-J — Divulgação, natureza, execução e afetação das coimas e sanções pecuniárias compulsórias
+    - Altera Artigo 45.º — Poderes da ESMA em matéria de gestão de posições
+    - Altera Artigo 47.º — Decisão de equivalência
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 53.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 54.º-B — Relações com os revisores de contas
+    - Altera Notas
+  - date: '2025-01-17'
+    amending: eu:celex:32022R2554:por
+    amending_title: REGULAMENTO (UE) 2022/2554 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Dispensas para obrigações, produtos financeiros estruturados, licenças de emissão, derivados e ordens em pacote
+    - Altera Divulgação de informações pós-negociação pelas empresas de investimento relativamente a obrigações, produtos
+      financeiros estruturados, licenças de emissão e derivados
+    - Altera Artigo 22.º — Prestação de informações para efeitos de transparência e outros cálculos
+    - Altera Artigo 23.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 25.º — Obrigação de manter registos
+    - Altera Artigo 26.º — Obrigação de reportar transações
+    - Altera Procedimentos de concessão e recusa de pedidos de autorização de ARM e APA
+    - Altera Artigo 27.º-G — Requisitos em matéria de organização aplicáveis aos APA
+    - Altera Artigo 27.º-I — Requisitos em matéria de organização aplicáveis aos ARM
+    - Altera Artigo 28.º — Obrigação de negociar em mercados regulamentados, em MTF ou em OTF
+    - Altera Artigo 30.º — Acordos de compensação indireta
+    - Altera Artigo 32.º — Procedimento relativo à obrigação de negociação
+    - Altera Artigo 35.º — Acesso não discriminatório a uma CCP
+    - Altera Artigo 36.º — Acesso não discriminatório às plataformas de negociação
+    - Altera Artigo 38.º-G — Medidas de supervisão por parte da ESMA
+    - Altera Artigo 38.º-H — Coimas
+    - Altera Artigo 38.º-J — Divulgação, natureza, execução e afetação das coimas e sanções pecuniárias compulsórias
+    - Altera Artigo 45.º — Poderes da ESMA em matéria de gestão de posições
+    - Altera Artigo 47.º — Decisão de equivalência
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 52.º — Relatórios e revisão
+    - Altera Artigo 53.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 54.º-B — Relações com os revisores de contas
+    - Altera Notas
+  - date: '2025-11-23'
+    amending: eu:celex:32025R1156:por
+    amending_title: M10
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 23.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 25.º — Obrigação de manter registos
+    - Altera Artigo 27.º-G — Requisitos em matéria de organização aplicáveis aos APA
+    - Altera Artigo 30.º — Acordos de compensação indireta
+    - Altera Artigo 38.º-J — Divulgação, natureza, execução e afetação das coimas e sanções pecuniárias compulsórias
+    - Altera Artigo 45.º — Poderes da ESMA em matéria de gestão de posições
+    - Altera Artigo 47.º — Decisão de equivalência
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 53.º — Alteração do Regulamento (UE) n.º 648/2012
+    - Altera Artigo 54.º-B — Relações com os revisores de contas
+    - Altera Notas
 identifiers:
   celex: 32014R0600
   eli: http://data.europa.eu/eli/reg/2014/600/oj
@@ -52,7 +331,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3b729ddf-f1f7-11e3-8cd4-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/f759d033-0147-11f1-825d-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0600-20251123
-  retrieved_at: '2026-10-22T02:41:45Z'
+  retrieved_at: '2026-10-22T16:34:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T23:29:18.858+02:00'
 integrity:
@@ -61,9 +340,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:45Z'
-  notes: Texto consolidado 02014R0600-20251123.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:34:59Z'
+  notes: 12 versão(ões); histórico completo em regulamento-ue-2014-600.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -329,46 +608,19 @@ relationships:
   date: '2019-12-06'
 article_structure:
   article_count: 93
-  section_count: 46
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 54
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:45Z'
+  checked_at: '2026-10-22T16:34:59Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 600/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014
-
-> 02014R0600 — PT — 23.11.2025 — 010.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R1033) — [REGULAMENTO (UE) 2016/1033 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1033) — L 175 — 1 — 30.6.2016
-- [►M2](http://publications.europa.eu/resource/celex/32019R2033) — [REGULAMENTO (UE) 2019/2033 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2033) — L 314 — 1 — 5.12.2019
-- [►M3](http://publications.europa.eu/resource/celex/32019R2175) — [REGULAMENTO (EU) 2019/2175 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019](http://publications.europa.eu/resource/celex/32019R2175) — L 334 — 1 — 27.12.2019
-- [M4](http://publications.europa.eu/resource/celex/32021R0023) — [REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0023) — L 22 — 1 — 22.1.2021
-- [M5](http://publications.europa.eu/resource/celex/32022R0858) — [REGULAMENTO (UE) 2022/858 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0858) — L 151 — 1 — 2.6.2022
-- [►M6](http://publications.europa.eu/resource/celex/32022R2554) — [REGULAMENTO (UE) 2022/2554 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2554) — L 333 — 1 — 27.12.2022
-- [►M7](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L 2869 — 1 — 20.12.2023
-- [►M8](http://publications.europa.eu/resource/celex/32024R0791) — [REGULAMENTO (UE) 2024/791 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0791) — L 791 — 1 — 8.3.2024
-- [►M9](http://publications.europa.eu/resource/celex/32024R2809) — [REGULAMENTO (UE) 2024/2809 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2809) — L 2809 — 1 — 14.11.2024
-- [M10](http://publications.europa.eu/resource/celex/32025R1156) — [REGULAMENTO DELEGADO (UE) 2025/1156 DA COMISSÃO de 12 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1156) — L 1156 — 1 — 3.11.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0600R%2803%29) — [Rectificação, JO L 270, 15.10.2015, p. 4 (600/2014)](http://publications.europa.eu/resource/celex/32014R0600R%2803%29)
-- [C2](http://publications.europa.eu/resource/celex/32014R0600R%2805%29) — [Rectificação, JO L 187, 12.7.2016, p. 30 (600/2014)](http://publications.europa.eu/resource/celex/32014R0600R%2805%29)
-- [►C3](http://publications.europa.eu/resource/celex/32019R2033R%2802%29) — [Rectificação, JO L 020, 24.1.2020, p. 26 (2019/2033)](http://publications.europa.eu/resource/celex/32019R2033R%2802%29)
-- [C4](http://publications.europa.eu/resource/celex/32019R2033R%2805%29) — [Rectificação, JO L 405, 2.12.2020, p. 79 (2019/2033)](http://publications.europa.eu/resource/celex/32019R2033R%2805%29)
-- [►C5](http://publications.europa.eu/resource/celex/32019R2175R%2803%29) — [Rectificação, JO L 131, 5.5.2022, p. 12 (2019/2175)](http://publications.europa.eu/resource/celex/32019R2175R%2803%29)
-
-## REGULAMENTO (UE) N.º 600/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de maio de 2014
 

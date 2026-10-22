@@ -34,6 +34,197 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-07-01'
+version_history:
+  file: regulamento-ue-2014-651.versoes.json
+  count: 5
+  source_lastmod: '2023-07-01'
+  versions:
+  - date: '2014-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-04-05'
+    amending: eu:celex:32017R1084:por
+    amending_title: REGULAMENTO (UE) 2017/1084 DA COMISSÃO de 14 de junho e 2017; REGULAMENTO (UE) 2020/972 DA COMISSÃO de
+      2 de julho de 2020; M3
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Limiares de notificação
+    - Altera Artigo 5.º — Transparência dos auxílios
+    - Altera Artigo 6.º — Efeito de incentivo
+    - Altera Artigo 7.º — Intensidade de auxílio e custos elegíveis
+    - Altera Artigo 8.º — Cumulação
+    - Altera Artigo 9.º — Publicação e informação
+    - Altera Artigo 11.º — Relatórios
+    - Altera Artigo 12.º — Monitorização
+    - Altera Artigo 13.º — Âmbito de aplicação dos auxílios com finalidade regional
+    - Altera Artigo 14.º — Auxílios regionais ao investimento
+    - Altera Artigo 15.º — Auxílios regionais ao funcionamento
+    - Altera Artigo 16.º — Auxílios regionais ao desenvolvimento urbano
+    - Altera Artigo 17.º — Auxílios ao investimento a favor das PME
+    - Altera Artigo 21.º — Auxílios ao financiamento de risco
+    - Altera Artigo 22.º — Auxílio às empresas em fase de arranque
+    - Altera Artigo 25.º — Auxílios a projetos de investigação e desenvolvimento
+    - Altera Artigo 31.º — Auxílios à formação
+    - Altera Artigo 40.º — Auxílios ao investimento a favor da cogeração de elevada eficiência
+    - Altera Artigo 44.º — Auxílios sob a forma de reduções dos impostos ambientais nos termos da Diretiva 2003/96/CE
+    - Altera Artigo 45.º — Auxílios ao investimento a favor da reabilitação de sítios contaminados
+    - Altera Artigo 52.º — Auxílios a infraestruturas de banda larga
+    - Altera Artigo 53.º — Auxílios à cultura e conservação do património
+    - Altera Artigo 54.º — Regimes de auxílio a obras audiovisuais
+    - Altera Artigo 55.º — Auxílios a infraestruturas desportivas e recreativas multifuncionais
+    - Altera Artigo 58.º — Disposições transitórias
+    - Altera Artigo 59.º
+    - Altera Notas
+    - Adita DISPOSIÇÕES COMUNS
+    - Adita Definições aplicáveis aos auxílios com finalidade regional
+    - Adita Definições aplicáveis aos auxílios às PME
+    - Adita Definições aplicáveis aos auxílios ao acesso das PME ao financiamento
+    - Adita Definições aplicáveis aos auxílios à investigação e desenvolvimento e à inovação
+    - Adita Definições aplicáveis aos auxílios a trabalhadores desfavorecidos e trabalhadores com deficiência
+    - Adita Definições aplicáveis aos auxílios à proteção do ambiente
+    - Adita Definições aplicáveis aos auxílios sociais ao transporte para habitantes de regiões periféricas
+    - Adita Definições aplicáveis aos auxílios a infraestruturas de banda larga
+    - Adita Definições aplicáveis aos auxílios à cultura e conservação do património
+  - date: '2021-08-01'
+    amending: eu:celex:32021R1237:por
+    amending_title: REGULAMENTO (UE) 2021/1237 DA COMISSÃO de 23 de julho de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Definições aplicáveis aos auxílios com finalidade regional
+    - Altera Definições aplicáveis aos auxílios às PME
+    - Altera Definições aplicáveis aos auxílios ao acesso das PME ao financiamento
+    - Altera Definições aplicáveis aos auxílios à investigação e desenvolvimento e à inovação
+    - Altera Definições aplicáveis aos auxílios à proteção do ambiente
+    - Altera Definições aplicáveis aos auxílios a infraestruturas de banda larga
+    - Altera Definições aplicáveis aos auxílios a aeroportos regionais
+    - Altera Definições aplicáveis aos auxílios a portos
+    - Altera Artigo 4.º — Limiares de notificação
+    - Altera Artigo 5.º — Transparência dos auxílios
+    - Altera Artigo 6.º — Efeito de incentivo
+    - Altera Artigo 7.º — Intensidade de auxílio e custos elegíveis
+    - Altera Artigo 8.º — Cumulação
+    - Altera Artigo 9.º — Publicação e informação
+    - Altera Artigo 11.º — Relatórios
+    - Altera Artigo 12.º — Monitorização
+    - Altera Artigo 14.º — Auxílios regionais ao investimento
+    - Altera Artigo 16.º — Auxílios regionais ao desenvolvimento urbano
+    - Altera Artigo 25.º — Auxílios a projetos de investigação e desenvolvimento
+    - Altera Artigo 38.º — Auxílios ao investimento a favor de medidas de eficiência energética
+    - Altera Artigo 40.º — Auxílios ao investimento a favor da cogeração de elevada eficiência
+    - Altera Artigo 44.º — Auxílios sob a forma de reduções dos impostos ambientais nos termos da Diretiva 2003/96/CE
+    - Altera Artigo 45.º — Auxílios ao investimento a favor da reabilitação de sítios contaminados
+    - Altera Artigo 58.º — Disposições transitórias
+    - Altera Disposições para a publicação de informações, tal como previsto no artigo 9.º, n.º 1
+    - Altera Notas
+    - Adita Definições aplicáveis aos auxílios incluídos em produtos financeiros apoiados pelo Fundo InvestEU (os termos definidos
+      noutras rubricas do presente artigo têm uma aceção idêntica à que nele também é dada aos auxílios incluídos em produtos
+      financeiros apoiados pelo Fundo InvestEU)
+    - Adita Artigo 19.º-A — Auxílios aos custos suportados pelas PME que participam em projetos de desenvolvimento local de
+      base comunitária («DLBC») ou em projetos do grupo operacional da Parceria Europeia de Inovação para a produtividade
+      e a sustentabilidade agrícolas («PEI»)
+    - Adita Artigo 19.º-B — Montantes limitados de auxílio para as PME que participam em projetos de desenvolvimento local
+      de base comunitária («DLBC») ou em projetos do grupo operacional da Parceria Europeia de Inovação para a produtividade
+      e a sustentabilidade agrícolas («PEI»)
+    - 'Adita SECÇÃO 2-A:'
+    - Adita Auxílios à Cooperação Territorial Europeia
+    - Adita Artigo 20.º — Auxílios aos custos suportados pelas empresas que participam em projetos de cooperação territorial
+      europeia
+    - Adita Artigo 20.º-A — Montantes limitados de auxílio a empresas pela participação em projetos de cooperação territorial
+      europeia
+    - Adita Artigo 25.º-A — Auxílios a projetos aos quais tenha sido atribuído um rótulo de qualidade Selo de Excelência
+    - Adita Artigo 25.º-B — Auxílios às ações Marie Skłodowska-Curie e às ações ao abrigo da prova de conceito do ERC
+    - Adita Artigo 25.º-C — Auxílios incluídos em projetos cofinanciados de investigação e desenvolvimento
+    - Adita Artigo 25.º-D — Auxílios às ações de associação de equipas
+  - date: '2023-05-25'
+    amending: eu:celex:32023R0917:por
+    amending_title: M5
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Definições aplicáveis aos auxílios com finalidade regional
+    - Altera Definições aplicáveis aos auxílios ao acesso das PME ao financiamento
+    - Altera Definições aplicáveis aos auxílios à investigação e desenvolvimento e à inovação
+    - Altera Definições aplicáveis aos auxílios à proteção do ambiente
+    - Altera Definições aplicáveis aos auxílios a infraestruturas de banda larga
+    - Altera Definições aplicáveis aos auxílios a aeroportos regionais
+    - Altera Definições aplicáveis aos auxílios a portos
+    - Altera Definições aplicáveis aos auxílios incluídos em produtos financeiros apoiados pelo Fundo InvestEU (os termos
+      definidos noutras rubricas do presente artigo têm uma aceção idêntica à que nele também é dada aos auxílios incluídos
+      em produtos financeiros apoiados pelo Fundo InvestEU)
+    - Altera Artigo 4.º — Limiares de notificação
+    - Altera Artigo 5.º — Transparência dos auxílios
+    - Altera Artigo 7.º — Intensidade de auxílio e custos elegíveis
+    - Altera Artigo 9.º — Publicação e informação
+    - Altera Artigo 11.º — Relatórios
+    - Altera Artigo 14.º — Auxílios regionais ao investimento
+    - Altera Artigo 20.º — Auxílios aos custos suportados pelas empresas que participam em projetos de cooperação territorial
+      europeia
+    - Altera Artigo 38.º — Auxílios ao investimento a favor de medidas de eficiência energética
+    - Altera Artigo 40.º — Auxílios ao investimento a favor da cogeração de elevada eficiência
+    - Altera Artigo 44.º — Auxílios sob a forma de reduções dos impostos ambientais nos termos da Diretiva 2003/96/CE
+    - Altera Artigo 45.º — Auxílios ao investimento a favor da reabilitação de sítios contaminados
+    - Altera Artigo 52.º-B — Auxílios a projetos de interesse comum no domínio das infraestruturas transeuropeias de conectividade
+      digital
+    - Altera Artigo 56.º-D — Âmbito de aplicação e condições comuns
+    - Altera Artigo 56.º-E — Condições aplicáveis aos auxílios incluídos em produtos financeiros apoiados pelo Fundo InvestEU
+    - Altera a facultar através do sistema de notificação eletrónica existente da Comissão, tal como previsto no artigo 11.º
+    - Altera Disposições para a publicação de informações, tal como previsto no artigo 9.º, n.º 1
+    - Altera Notas
+  - date: '2023-07-01'
+    amending: eu:celex:32023R1315:por
+    amending_title: REGULAMENTO (UE) 2023/1315 DA COMISSÃO de 23 de junho de 2023
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Definições aplicáveis aos auxílios com finalidade regional
+    - Altera Definições aplicáveis aos auxílios ao acesso das PME ao financiamento
+    - Altera Definições aplicáveis aos auxílios à investigação e desenvolvimento e à inovação
+    - Altera Definições aplicáveis aos auxílios à proteção do ambiente
+    - Altera Definições aplicáveis aos auxílios a infraestruturas de banda larga
+    - Altera Definições aplicáveis aos auxílios a aeroportos regionais
+    - Altera Definições aplicáveis aos auxílios a portos
+    - Altera Definições aplicáveis aos auxílios incluídos em produtos financeiros apoiados pelo Fundo InvestEU (os termos
+      definidos noutras rubricas do presente artigo têm uma aceção idêntica à que nele também é dada aos auxílios incluídos
+      em produtos financeiros apoiados pelo Fundo InvestEU)
+    - Altera Artigo 4.º — Limiares de notificação
+    - Altera Artigo 5.º — Transparência dos auxílios
+    - Altera Artigo 6.º — Efeito de incentivo
+    - Altera Artigo 7.º — Intensidade de auxílio e custos elegíveis
+    - Altera Artigo 8.º — Cumulação
+    - Altera Artigo 9.º — Publicação e informação
+    - Altera Artigo 11.º — Relatórios
+    - Altera Artigo 13.º — Âmbito de aplicação dos auxílios com finalidade regional
+    - Altera Artigo 14.º — Auxílios regionais ao investimento
+    - Altera Artigo 15.º — Auxílios regionais ao funcionamento
+    - Altera Artigo 16.º — Auxílios regionais ao desenvolvimento urbano
+    - Altera Artigo 17.º — Auxílios ao investimento a favor das PME
+    - Altera Artigo 20.º — Auxílios aos custos suportados pelas empresas que participam em projetos de cooperação territorial
+      europeia
+    - Altera Artigo 20.º-A — Montantes limitados de auxílio a empresas pela participação em projetos de cooperação territorial
+      europeia
+    - Altera Artigo 21.º — Auxílios ao financiamento de risco
+    - Altera Artigo 22.º — Auxílio às empresas em fase de arranque
+    - Altera Artigo 23.º — Auxílios a plataformas de negociação alternativas especializadas em PME
+    - Altera Artigo 24.º — Auxílios aos custos de prospeção
+    - Altera Artigo 25.º — Auxílios a projetos de investigação e desenvolvimento
+    - Altera Artigo 26.º — Auxílios ao investimento a favor de infraestruturas de investigação
+    - Altera Artigo 27.º — Auxílios aos polos de inovação
+    - Altera Artigo 28.º — Auxílios à inovação a favor das PME
+    - Altera Artigo 39.º — Auxílios ao investimento a favor de projetos de eficiência energética em edifícios sob a forma
+      de instrumentos financeiros
+    - Altera Artigo 42.º — Auxílios ao funcionamento a favor da promoção de eletricidade produzida a partir de fontes renováveis
+    - Altera Artigo 48.º — Auxílios ao investimento a favor de infraestruturas energéticas
+    - Altera Artigo 52.º — Auxílios a redes fixas de banda larga
+    - Altera Artigo 52.º-A — Auxílios a redes móveis 4G e 5G
+    - Altera Artigo 52.º-B — Auxílios a projetos de interesse comum no domínio das infraestruturas transeuropeias de conectividade
+      digital
+    - Altera Artigo 52.º-C — Vales de conectividade
+    - Altera Artigo 53.º — Auxílios à cultura e conservação do património
 identifiers:
   celex: 32014R0651
   eli: http://data.europa.eu/eli/reg/2014/651/oj
@@ -48,7 +239,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1291bb4c-fcfe-11e3-831f-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/e29b65e7-3061-11ee-9e98-01aa75ed71a1.0020.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0651-20230701
-  retrieved_at: '2026-10-22T02:21:56Z'
+  retrieved_at: '2026-10-22T16:35:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-14T03:58:12.922+02:00'
 integrity:
@@ -57,9 +248,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:21:56Z'
-  notes: Texto consolidado 02014R0651-20230701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:35:48Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2014-651.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1063,40 +1254,22 @@ relationships:
   date: '2013-11-30'
 article_structure:
   article_count: 90
-  section_count: 71
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 72
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:21:56Z'
-  warnings: []
+  checked_at: '2026-10-22T16:35:48Z'
+  warnings:
+  - '02014R0651-20140701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014R0651-20170710: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014R0651-20200727: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 651/2014 da Comissão, de 16 de junho de 2014
-
-> 02014R0651 — PT — 01.07.2023 — 006.008
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R1084) — [REGULAMENTO (UE) 2017/1084 DA COMISSÃO de 14 de junho e 2017](http://publications.europa.eu/resource/celex/32017R1084) — L 156 — 1 — 20.6.2017
-- [►M2](http://publications.europa.eu/resource/celex/32020R0972) — [REGULAMENTO (UE) 2020/972 DA COMISSÃO de 2 de julho de 2020](http://publications.europa.eu/resource/celex/32020R0972) — L 215 — 3 — 7.7.2020
-- [M3](http://publications.europa.eu/resource/celex/32021R0452) — [REGULAMENTO (UE) 2021/452 DA COMISSÃO de 15 de março de 2021](http://publications.europa.eu/resource/celex/32021R0452) — L 89 — 1 — 16.3.2021
-- [►M4](http://publications.europa.eu/resource/celex/32021R1237) — [REGULAMENTO (UE) 2021/1237 DA COMISSÃO de 23 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1237) — L 270 — 39 — 29.7.2021
-- [M5](http://publications.europa.eu/resource/celex/32023R0917) — [REGULAMENTO (UE) 2023/917 DA COMISSÃO de 4 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0917) — L 119 — 159 — 5.5.2023
-- [►M6](http://publications.europa.eu/resource/celex/32023R1315) — [REGULAMENTO (UE) 2023/1315 DA COMISSÃO de 23 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1315) — L 167 — 1 — 30.6.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0651R%2801%29) — [Rectificação, JO L 259, 30.8.2014, p. 30 (651/2014)](http://publications.europa.eu/resource/celex/32014R0651R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32017R1084R%2802%29) — [Rectificação, JO L 026, 31.1.2018, p. 53 (2017/1084)](http://publications.europa.eu/resource/celex/32017R1084R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32023R1315R%2805%29) — [Rectificação, JO L 90648, 14.8.2025, p. 1 ((UE) 2023/1315)](http://publications.europa.eu/resource/celex/32023R1315R%2805%29)
-
-## REGULAMENTO (UE) N.º 651/2014 DA COMISSÃO
 
 de [**►C1**](http://publications.europa.eu/resource/celex/32014R0651R%2801%29) 17 de junho de 2014 **◄**
 

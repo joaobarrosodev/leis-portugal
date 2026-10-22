@@ -37,6 +37,65 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: regulamento-ue-2014-1286.versoes.json
+  count: 6
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2014-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-12-29'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 24.º
+    - Altera Artigo 29.º
+    - Altera Artigo 34.º
+    - Altera Notas
+  - date: '2016-12-24'
+    amending: eu:celex:32016R2340:por
+    amending_title: REGULAMENTO (UE) 2016/2340 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 24.º
+    - Altera Artigo 34.º
+    - Altera Notas
+  - date: '2019-08-01'
+    amending: eu:celex:32019R1156:por
+    amending_title: REGULAMENTO (UE) 2019/1156 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 24.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Notas
+  - date: '2021-12-21'
+    amending: eu:celex:32021R2259:por
+    amending_title: REGULAMENTO (UE) 2021/2259 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de dezembro de 2021
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 24.º
+    - Altera Artigo 32.º
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 24.º
+    - Altera Notas
+    - Adita Artigo 29.º-A — Acessibilidade da informação no ponto de acesso único europeu
 identifiers:
   celex: 32014R1286
   eli: http://data.europa.eu/eli/reg/2014/1286/oj
@@ -51,7 +110,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cdc2a6c0-abba-11e4-b5b2-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ee327ecd-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R1286-20240109
-  retrieved_at: '2026-10-22T02:45:54Z'
+  retrieved_at: '2026-10-22T16:37:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T03:38:20.339+02:00'
 integrity:
@@ -60,9 +119,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:54Z'
-  notes: Texto consolidado 02014R1286-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:37:59Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2014-1286.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -241,36 +300,19 @@ relationships:
   date: '2026-08-26'
 article_structure:
   article_count: 35
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:54Z'
+  checked_at: '2026-10-22T16:37:59Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n.o 1286/2014 do Parlamento Europeu e do Conselho de 26 de novembro de 2014
-
-> 02014R1286 — PT — 09.01.2024 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R2340) — [REGULAMENTO (UE) 2016/2340 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016R2340) — L 354 — 35 — 23.12.2016
-- [►M2](http://publications.europa.eu/resource/celex/32019R1156) — [REGULAMENTO (UE) 2019/1156 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1156) — L 188 — 55 — 12.7.2019
-- [►M3](http://publications.europa.eu/resource/celex/32021R2259) — [REGULAMENTO (UE) 2021/2259 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2259) — L 455 — 1 — 20.12.2021
-- [►M4](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L — 1 — 20.12.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R1286R%2801%29) — [Rectificação, JO L 358, 13.12.2014, p. 50 (1286/2014)](http://publications.europa.eu/resource/celex/32014R1286R%2801%29)
-
-## REGULAMENTO (UE) N.º 1286/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de novembro de 2014
 

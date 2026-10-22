@@ -35,6 +35,434 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-07'
+version_history:
+  file: regulamento-ue-2014-1321.versoes.json
+  count: 14
+  source_lastmod: '2026-08-07'
+  versions:
+  - date: '2014-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-02-26'
+    amending: eu:celex:32015R1088:por
+    amending_title: REGULAMENTO (UE) 2015/1088 DA COMISSÃO de 3 de julho de 2015; REGULAMENTO (UE) 2015/1536 DA COMISSÃO de
+      16 de setembro de 2015; M3; M4; REGULAMENTO (UE) 2018/1142 DA COMISSÃO de 14 de agosto de 2018; REGULAMENTO DE EXECUÇÃO
+      (UE) 2019/1383 DA COMISSÃO de 8 de julho de 2019; M7; REGULAMENTO DE EXECUÇÃO (UE) 2020/270 DA COMISSÃO de 25 de fevereiro
+      de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/1159 DA COMISSÃO de 5 de agosto de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 5.º — Pessoal de certificação
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto e âmbito de aplicação
+    - Adita Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente [das aeronaves]
+    - Adita Artigo 7.º- A — Autoridades competentes
+    - Adita ANEXO I
+    - Adita (PARTE M)
+    - Adita M.1
+    - Adita SECÇÃO A
+    - Adita REQUISITOS TÉCNICOS
+    - Adita SECÇÃO B
+    - Adita PROCEDIMENTO A APLICAR PELAS AUTORIDADES COMPETENTES
+    - Adita Apêndice I
+    - Adita Contrato de gestão da aeronavegabilidade permanente
+    - Adita Apêndice II
+    - Adita Certificado Autorizado de Aptidão para Serviço — Formulário 1 da AESA
+    - Adita 1. OBJECTIVO E UTILIZAÇÃO
+    - Adita 2. ESTRUTURA GERAL
+    - Adita 3. CÓPIAS
+    - Adita 4. ERRO(S) NUM CERTIFICADO
+    - Adita 5. PREENCHIMENTO DO CERTIFICADO PELA ENTIDADE EMISSORA
+    - 'Adita Caixa 1: Entidade de Certificação Competente/País'
+    - 'Adita Caixa 2: Cabeçalho do Formulário 1 da AESA'
+    - Adita «CERTIFICADO AUTORIZADO DE APTIDÃO PARA SERVIÇO
+    - Adita FORMULÁRIO 1 DA AESA»
+    - 'Adita Caixa 3: Número de referência do formulário'
+    - 'Adita Caixa 4: Nome e endereço da entidade'
+    - 'Adita Caixa 5: Ordem de serviço/Contrato/Fatura'
+    - 'Adita Caixa 6: Artigo'
+    - 'Adita Caixa 7: Descrição'
+    - 'Adita Caixa 8: Número da peça'
+    - 'Adita Caixa 9: Quantidade'
+    - 'Adita Caixa 10: Número de série'
+    - 'Adita Caixa 11: Estado/Trabalhos'
+    - 'Adita Caixa 12: Observações'
+    - Adita Caixas 13-a–13-e
+  - date: '2021-05-18'
+    amending: eu:celex:32021R0685:por
+    amending_title: M10; REGULAMENTO DE EXECUÇÃO (UE) 2021/700 DA COMISSÃO de 26 de março de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 5.º — Pessoal de certificação
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera Certificado de Avaliação da Aeronavegabilidade - Formulário 15 da AESA
+    - Altera Sistema de classes e de categorias a utilizar para a certificação das entidades de manutenção a que se refere
+      o anexo I (parte M), subparte F, e O anexo II (parte 145)
+    - Altera Certificado da entidade de gestão da aeronavegabilidade permanente referido na subparte G do anexo I (parte M)
+      — Formulário 14-MG da AESA
+    - Altera PROCEDIMENTOS A APLICAR PELAS AUTORIDADES COMPETENTES
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera 5. Normas do exame de tipo
+    - Altera Formulário de requerimento – Formulário 19 da AESA
+    - Altera Duração do curso de formação de base
+    - Altera ML.1
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+    - Altera REQUISITOS DA ENTIDADE
+    - Altera Notas
+    - Adita Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Adita Certificado da entidade de manutenção referido no anexo I (parte M), subparte F – Formulário 3-MF da AESA
+    - Adita Certificado de Avaliação da Aeronavegabilidade— Formulário 15c da AESA
+    - Suprime Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente [das aeronaves]
+    - Suprime Certificado da entidade de manutenção referido no anexo I (parte M), subparte F — Formulário 3-MF da AESA
+    - Suprime Certificado de Avaliação da Aeronavegabilidade — Formulário 15c da AESA
+  - date: '2021-12-02'
+    amending: eu:celex:32021R1963:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1963 DA COMISSÃO de 8 de novembro de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Altera Artigo 6.º — Requisitos a observar pelas entidades que ministram formação
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera Sistema de classes e de categorias a utilizar para a certificação das entidades de manutenção a que se refere
+      o anexo I (parte M), subparte F, e O anexo II (parte 145)
+    - Altera Trabalhos de Manutenção Complexos
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera 5. Normas do exame de tipo
+    - Altera Duração do curso de formação de base
+    - Altera ML.1
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+    - Altera REQUISITOS DA ENTIDADE
+    - Altera Notas
+  - date: '2022-03-31'
+    amending: eu:celex:32022R0410:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/410 DA COMISSÃO de 10 de março de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera Sistema de classes e de categorias a utilizar para a certificação das entidades de manutenção a que se refere
+      o anexo I (parte M), subparte F, e O anexo II (parte 145)
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera 5. Normas do exame de tipo
+    - Altera Duração do curso de formação de base
+    - Altera ML.1
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+    - Altera Certificado da entidade de gestão da aeronavegabilidade permanente — Formulário 14 da AESA
+    - Altera Notas
+  - date: '2022-05-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera Sistema de classes e de categorias a utilizar para a certificação das entidades de manutenção a que se refere
+      o anexo I (parte M), subparte F, e O anexo II (parte 145)
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera 5. Normas do exame de tipo
+    - Altera Duração do curso de formação de base
+    - Altera ML.1
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+    - Altera Notas
+  - date: '2022-12-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Altera Artigo 5.º — Pessoal de certificação
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera (PARTE M)
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera (PARTE 145)
+    - Altera REQUISITOS DA AUTORIDADE
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera 5. Normas do exame de tipo
+    - Altera Duração do curso de formação de base
+    - Altera ML.1
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+    - Altera Notas
+    - Adita Sistema de classes e de categorias a utilizar para os termos de certificação das entidades de manutenção a que
+      se refere o anexo I (parte M), subparte F
+    - Adita 145.1 Autoridade competente
+    - Adita SECÇÃO A REQUISITOS TÉCNICOS E DE ORGANIZAÇÃO
+    - Adita Sistema de classes e de categorias utilizado para os termos de certificação das entidades de manutenção a que
+      se refere a parte 145
+    - Suprime Sistema de classes e de categorias a utilizar para a certificação das entidades de manutenção a que se refere
+      o anexo I (parte M), subparte F, e O anexo II (parte 145)
+    - Suprime 145.1 GENERALIDADES
+    - Suprime PROCEDIMENTOS RELATIVOS ÀS AUTORIDADES COMPETENTES
+    - Suprime Sistema de classes e de categorias utilizado para a certificação das entidades de manutenção a que se refere
+      o anexo I (parte M), subparte F, E o anexo II (parte 145)
+  - date: '2023-06-12'
+    amending: eu:celex:32023R0989:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/989 DA COMISSÃO de 22 de maio de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera Sistema de classes e de categorias a utilizar para os termos de certificação das entidades de manutenção a que
+      se refere o anexo I (parte M), subparte F
+    - Altera Sistema de classes e de categorias utilizado para os termos de certificação das entidades de manutenção a que
+      se refere a parte 145
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera 5. Normas do exame de tipo
+    - Altera Duração do curso de formação de base
+    - Altera ML.1
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+    - Altera Notas
+  - date: '2023-07-03'
+    amending: eu:celex:32023R1152:por
+    amending_title: M15
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera Sistema de classes e de categorias a utilizar para os termos de certificação das entidades de manutenção a que
+      se refere o anexo I (parte M), subparte F
+    - Altera Sistema de classes e de categorias utilizado para os termos de certificação das entidades de manutenção a que
+      se refere a parte 145
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera 5. Normas do exame de tipo
+    - Altera Duração do curso de formação de base
+    - Altera ML.1
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+    - Altera Notas
+  - date: '2023-08-25'
+    amending: eu:celex:32022R1360:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1360 DA COMISSÃO de 28 de julho de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera Sistema de classes e de categorias a utilizar para os termos de certificação das entidades de manutenção a que
+      se refere o anexo I (parte M), subparte F
+    - Altera SECÇÃO A REQUISITOS TÉCNICOS E DE ORGANIZAÇÃO
+    - Altera Sistema de classes e de categorias utilizado para os termos de certificação das entidades de manutenção a que
+      se refere a parte 145
+    - Altera PROCEDIMENTOS A APLICAR PELAS AUTORIDADES COMPETENTES
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera 5. Normas do exame de tipo
+    - Altera Duração do curso de formação de base
+    - Altera ML.1
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+    - Altera Notas
+  - date: '2024-06-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera Sistema de classes e de categorias a utilizar para os termos de certificação das entidades de manutenção a que
+      se refere o anexo I (parte M), subparte F
+    - Altera Sistema de classes e de categorias utilizado para os termos de certificação das entidades de manutenção a que
+      se refere a parte 145
+    - Altera (PARTE 66)
+    - Altera PROCEDIMENTOS A APLICAR PELAS AUTORIDADES COMPETENTES
+    - Altera 2. Modularização
+    - Altera MÓDULO 1. MATEMÁTICA
+    - Altera MÓDULO 2. FÍSICA
+    - Altera MÓDULO 6. MATERIAIS E EQUIPAMENTOS
+    - Altera MÓDULO 8. NOÇÕES BÁSICAS DE AERODINÂMICA
+    - Altera MÓDULO 10. REGULAMENTAÇÃO AERONÁUTICA
+    - Altera MÓDULO 12. AERODINÂMICA, ESTRUTURAS E SISTEMAS DE HELICÓPTEROS
+    - Altera MÓDULO 13. AERODINÂMICA, ESTRUTURAS E SISTEMAS DE AERONAVES
+    - Altera MÓDULO 14. PROPULSÃO
+    - Altera MÓDULO 15. MOTORES DE TURBINA A GÁS
+    - Altera MÓDULO 16. MOTORES DE PISTÃO
+    - Altera 1. Generalidades
+    - Altera 2. Número de perguntas por módulo
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera 6. Formação em contexto real de trabalho
+    - Altera Licença de Manutenção Aeronáutica a que se refere o anexo III (parte 66) – Formulário 26 da AESA
+    - Altera Requisitos relativos aos conhecimentos básicos para a licença de manutenção aeronáutica da categoria L
+    - Altera Normas de exame de base para a licença de manutenção aeronáutica da categoria L
+    - Altera (PARTE147)
+    - Altera Duração do curso de formação de base
+    - Altera 1. Formação de Base e Exame de Base
+    - Altera ML.1
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+    - Altera Notas
+    - Adita Artigo 6.º
+    - Adita Requisitos aplicáveis às entidades de formação e às autoridades competentes que emitem licenças
+  - date: '2025-11-03'
+    amending: eu:celex:32025R2070:por
+    amending_title: M17
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera Certificado de Avaliação da Aeronavegabilidade - Formulário 15 da AESA
+    - Altera Sistema de classes e de categorias a utilizar para os termos de certificação das entidades de manutenção a que
+      se refere o anexo I (parte M), subparte F
+    - Altera Sistema de classes e de categorias utilizado para os termos de certificação das entidades de manutenção a que
+      se refere a parte 145
+    - Altera Certificado da entidade de manutenção — Formulário 3-145 da AESA
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera A. Requisitos de experiência
+    - Altera Formulário de requerimento – Formulário 19 da AESA
+    - Altera Licença de Manutenção Aeronáutica a que se refere o anexo III (parte 66) – Formulário 26 da AESA
+    - Altera 1. Modularização
+    - Altera Duração do curso de formação de base
+    - Altera Certificação da Entidade de Formação em Manutenção – Formulário 11 da AESA
+    - Altera ML.1
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+    - Altera Certificado de entidade de aeronavegabilidade combinada (RAC) — Formulário 3-CAO da AESA
+    - Altera Notas
+  - date: '2026-02-22'
+    amending: eu:celex:32023R0203:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2025/111 DA COMISSÃO de 23 de janeiro de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/2293 DA COMISSÃO de 10 de novembro
+      de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2026/100 DA COMISSÃO de 15 de janeiro de 2026
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Altera Artigo 5.º — Pessoal de certificação
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera REQUISITOS TÉCNICOS
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera Sistema de classes e de categorias a utilizar para os termos de certificação das entidades de manutenção a que
+      se refere o anexo I (parte M), subparte F
+    - Altera Trabalhos de Manutenção Complexos
+    - Altera (PARTE 145)
+    - Altera SECÇÃO A REQUISITOS TÉCNICOS E DE ORGANIZAÇÃO
+    - Altera REQUISITOS DA AUTORIDADE
+    - Altera Sistema de classes e de categorias utilizado para os termos de certificação das entidades de manutenção a que
+      se refere a parte 145
+    - Altera (PARTE 66)
+    - Altera 66.1 Autoridade competente
+    - Altera PROCEDIMENTOS A APLICAR PELAS AUTORIDADES COMPETENTES
+    - Altera 2. Modularização
+    - Altera MÓDULO 7. PRÁTICAS DE MANUTENÇÃO
+    - Altera MÓDULO 11. AERODINÂMICA, ESTRUTURAS E SISTEMAS DE AERONAVES
+    - Altera MÓDULO 14. PROPULSÃO
+    - Altera MÓDULO 17. HÉLICES
+    - Altera 2. Número de perguntas por módulo
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera A. Requisitos de experiência
+    - Altera B. Módulos ou módulos parciais de conhecimentos básicos necessários
+    - Altera Formulário de requerimento – Formulário 19 da AESA
+    - Altera Licença de Manutenção Aeronáutica a que se refere o anexo III (parte 66) – Formulário 26 da AESA
+    - Altera 1. Modularização
+    - Altera (PARTE147)
+    - Altera Duração do curso de formação de base
+    - Altera Certificação da Entidade de Formação em Manutenção – Formulário 11 da AESA
+    - Altera 2. Exame e avaliação de formação de tipo
+    - Altera ML.1
+    - Altera Trabalhos de manutenção complexos não certificáveis pelo piloto-proprietário
+    - Altera (Parte CAMO)
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+  - date: '2026-08-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de aeronavegabilidade permanente
+    - Altera Artigo 4.º — Certificação das entidades envolvidas na aeronavegabilidade permanente
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera (PARTE M)
+    - Altera REQUISITOS TÉCNICOS
+    - Altera PROCEDIMENTO A APLICAR PELAS AUTORIDADES COMPETENTES
+    - Altera Contrato de gestão da aeronavegabilidade permanente
+    - 'Altera Caixa 11: Estado/Trabalhos'
+    - Altera Certificado de Avaliação da Aeronavegabilidade - Formulário 15 da AESA
+    - Altera Sistema de classes e de categorias a utilizar para os termos de certificação das entidades de manutenção a que
+      se refere o anexo I (parte M), subparte F
+    - Altera Sistema de classes e de categorias utilizado para os termos de certificação das entidades de manutenção a que
+      se refere a parte 145
+    - Altera 3. Normas da formação de tipo
+    - Altera 4. Normas do exame e da avaliação da formação de tipo
+    - Altera A. Requisitos de experiência
+    - Altera 1. Modularização
+    - Altera Duração do curso de formação de base
+    - Altera (Parte ML)
+    - Altera ML.1
+    - Altera Certificado de Avaliação da Aeronavegabilidade— Formulário 15c da AESA
+    - Altera REQUISITOS APLICÁVEIS ÀS ENTIDADES
+    - Altera REQUISITOS APLICÁVEIS ÀS AUTORIDADES
+    - Altera (Parte CAO)
+    - Altera REQUISITOS DA ENTIDADE
+    - Altera Notas
+    - Adita CERTIFICADO DE AVALIAÇÃO DA AERONAVEGABILIDADE (CAA) (PARA AERONAVES CONFORMES COM A PARTE ML)
 identifiers:
   celex: 32014R1321
   eli: http://data.europa.eu/eli/reg/2014/1321/oj
@@ -49,7 +477,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b3c20c11-85b9-11e4-b8a5-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/3cc14635-7fba-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R1321-20260807
-  retrieved_at: '2026-10-22T02:48:54Z'
+  retrieved_at: '2026-10-22T16:48:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T20:32:21.084+02:00'
 integrity:
@@ -58,9 +486,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:54Z'
-  notes: Texto consolidado 02014R1321-20260807.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:48:55Z'
+  notes: 14 versão(ões); histórico completo em regulamento-ue-2014-1321.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -308,55 +736,26 @@ relationships:
   date: '2012-07-05'
 article_structure:
   article_count: 9
-  section_count: 176
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 178
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:54Z'
-  warnings: []
+  checked_at: '2026-10-22T16:48:55Z'
+  warnings:
+  - '02014R1321-20150727: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014R1321-20160825: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014R1321-20170320: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014R1321-20180612: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014R1321-20180905: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014R1321-20190924: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02014R1321-20200324: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. °1321/2014 da Comissão, de 26 de novembro de 2014
-
-> 02014R1321 — PT — 07.08.2026 — 021.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R1088) — [REGULAMENTO (UE) 2015/1088 DA COMISSÃO de 3 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1088) — L 176 — 4 — 7.7.2015
-- [►M2](http://publications.europa.eu/resource/celex/32015R1536) — [REGULAMENTO (UE) 2015/1536 DA COMISSÃO de 16 de setembro de 2015](http://publications.europa.eu/resource/celex/32015R1536) — L 241 — 16 — 17.9.2015
-- [M3](http://publications.europa.eu/resource/celex/32017R0334) — [REGULAMENTO (UE) 2017/334 DA COMISSÃO de 27 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0334) — L 50 — 13 — 28.2.2017
-- [M4](http://publications.europa.eu/resource/celex/32018R0750) — [REGULAMENTO (UE) 2018/750 DA COMISSÃO de 22 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0750) — L 126 — 1 — 23.5.2018
-- [►M5](http://publications.europa.eu/resource/celex/32018R1142) — [REGULAMENTO (UE) 2018/1142 DA COMISSÃO de 14 de agosto de 2018](http://publications.europa.eu/resource/celex/32018R1142) — L 207 — 2 — 16.8.2018
-- [►M6](http://publications.europa.eu/resource/celex/32019R1383) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1383 DA COMISSÃO de 8 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1383) — L 228 — 1 — 4.9.2019
-- [M7](http://publications.europa.eu/resource/celex/32019R1384) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1384 DA COMISSÃO de 24 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1384) — L 228 — 106 — 4.9.2019
-- [►M8](http://publications.europa.eu/resource/celex/32020R0270) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/270 DA COMISSÃO de 25 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0270) — L 56 — 20 — 27.2.2020
-- [M9](http://publications.europa.eu/resource/celex/32020R1159) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1159 DA COMISSÃO de 5 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1159) — L 257 — 14 — 6.8.2020
-- [M10](http://publications.europa.eu/resource/celex/32021R0685) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/685 DA COMISSÃO de 22 de abril de 2021](http://publications.europa.eu/resource/celex/32021R0685) — L 143 — 6 — 27.4.2021
-- [►M11](http://publications.europa.eu/resource/celex/32021R0700) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/700 DA COMISSÃO de 26 de março de 2021](http://publications.europa.eu/resource/celex/32021R0700) — L 145 — 20 — 28.4.2021
-- [►M12](http://publications.europa.eu/resource/celex/32021R1963) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1963 DA COMISSÃO de 8 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1963) — L 400 — 18 — 12.11.2021
-- [►M13](http://publications.europa.eu/resource/celex/32022R0410) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/410 DA COMISSÃO de 10 de março de 2022](http://publications.europa.eu/resource/celex/32022R0410) — L 84 — 20 — 11.3.2022
-- [►M14](http://publications.europa.eu/resource/celex/32022R1360) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1360 DA COMISSÃO de 28 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1360) — L 205 — 115 — 5.8.2022
-- [►M15](http://publications.europa.eu/resource/celex/32023R0203) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0203) — L 31 — 1 — 2.2.2023
-- [►M16](http://publications.europa.eu/resource/celex/32023R0989) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/989 DA COMISSÃO de 22 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0989) — L 135 — 53 — 23.5.2023
-- [M17](http://publications.europa.eu/resource/celex/32023R1152) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1152 DA COMISSÃO de 12 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1152) — L 152 — 5 — 13.6.2023
-- [►M18](http://publications.europa.eu/resource/celex/32025R0111) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/111 DA COMISSÃO de 23 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0111) — L 111 — 1 — 24.1.2025
-- [M19](http://publications.europa.eu/resource/celex/32025R2070) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2070 DA COMISSÃO de 13 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2070) — L 2070 — 1 — 14.10.2025
-- [►M20](http://publications.europa.eu/resource/celex/32025R2293) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2293 DA COMISSÃO de 10 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2293) — L 2293 — 1 — 11.11.2025
-- [►M21](http://publications.europa.eu/resource/celex/32026R0100) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/100 DA COMISSÃO de 15 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0100) — L 100 — 1 — 19.1.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R1321R%2801%29) — [Rectificação, JO L 318, 4.12.2015, p. 73 (1321/2014)](http://publications.europa.eu/resource/celex/32014R1321R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019R1383R%2801%29) — [Rectificação, JO L 230, 6.9.2019, p. 7 (2019/1383)](http://publications.europa.eu/resource/celex/32019R1383R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32019R1383R%2807%29) — [Rectificação, JO L 297, 17.11.2022, p. 83 (2019/1383)](http://publications.europa.eu/resource/celex/32019R1383R%2807%29)
-
-## REGULAMENTO (UE) N.º 1321/2014 DA COMISSÃO
 
 de 26 de novembro de 2014
 

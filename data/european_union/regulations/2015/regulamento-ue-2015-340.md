@@ -37,6 +37,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-13'
+version_history:
+  file: regulamento-ue-2015-340.versoes.json
+  count: 5
+  source_lastmod: '2026-05-13'
+  versions:
+  - date: '2015-03-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-11-07'
+    amending: eu:celex:32023R2163:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2163 DA COMISSÃO de 17 de outubro de 2023
+    changes:
+    - Altera REQUISITOS ESPECÍFICOS RELACIONADOS COM A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera REQUISITOS APLICÁVEIS ÀS ORGANIZAÇÕES DE FORMAÇÃO DE CONTROLADORES DE TRÁFEGO AÉREO
+    - Altera GESTÃO DAS ORGANIZAÇÕES DE FORMAÇÃO DE CONTROLADORES DE TRÁFEGO AÉREO
+    - Altera REQUISITOS APLICÁVEIS AOS CENTROS DE MEDICINA AERONÁUTICA
+    - Altera Notas
+  - date: '2024-08-04'
+    amending: eu:celex:32023R0893:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/893 DA COMISSÃO de 21 de abril de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 3.º — Prestação de serviços de controlo de tráfego aéreo
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 7.º — Disposições transitórias
+    - Altera Artigo 11.º — Entrada em vigor e aplicação
+    - Altera REQUISITOS GERAIS
+    - Altera LICENÇAS, QUALIFICAÇÕES E AVERBAMENTOS
+    - Altera REQUISITOS APLICÁVEIS AOS INSTRUTORES E AVALIADORES
+    - Altera FORMAÇÃO DE CONTROLADORES DE TRÁFEGO AÉREO
+    - 'Altera MÓDULO 1: INTRODUÇÃO AO CURSO'
+    - 'Altera MÓDULO 2: DIREITO DA AVIAÇÃO'
+    - 'Altera MÓDULO 3: GESTÃO DO TRÁFEGO AÉREO'
+    - 'Altera MÓDULO 4: METEOROLOGIA'
+    - 'Altera MÓDULO 5: NAVEGAÇÃO'
+    - 'Altera MÓDULO 7: FATORES HUMANOS'
+    - 'Altera MÓDULO 8: EQUIPAMENTOS E SISTEMAS'
+    - 'Altera MÓDULO 9: AMBIENTE PROFISSIONAL'
+    - 'Altera MÓDULO 10: SITUAÇÕES ANÓMALAS E DE EMERGÊNCIA'
+    - 'Altera MÓDULO 11: AERÓDROMOS'
+    - Altera GESTÃO
+    - Altera SUPERVISÃO E EXECUÇÃO
+    - Altera EMISSÃO, REVALIDAÇÃO, RENOVAÇÃO, SUSPENSÃO E CANCELAMENTO DE LICENÇAS, QUALIFICAÇÕES E AVERBAMENTOS
+    - Altera PROCEDIMENTO DE CERTIFICAÇÃO DE ORGANIZAÇÕES DE FORMAÇÃO DE CONTROLADORES DE TRÁFEGO AÉREO E DE HOMOLOGAÇÃO DOS
+      CURSOS DE FORMAÇÃO
+    - Altera REQUISITOS ESPECÍFICOS RELACIONADOS COM A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera REQUISITOS APLICÁVEIS ÀS ORGANIZAÇÕES DE FORMAÇÃO DE CONTROLADORES DE TRÁFEGO AÉREO
+    - Altera GESTÃO DAS ORGANIZAÇÕES DE FORMAÇÃO DE CONTROLADORES DE TRÁFEGO AÉREO
+    - Altera REQUISITOS APLICÁVEIS AOS CURSOS DE FORMAÇÃO E AOS PLANOS DE FORMAÇÃO
+    - Altera REQUISITOS APLICÁVEIS AOS CENTROS DE MEDICINA AERONÁUTICA
+    - Altera Notas
+    - Adita Artigo 8.º — Alterações das qualificações e dos averbamentos de qualificação
+    - Adita Artigo 8.º-A — Conversão de licenças nacionais de controlador de tráfego aéreo militar em licenças de instruendo
+      de controlo de tráfego aéreo
+    - 'Adita [Referência: Anexo I (parte ATCO), subparte D, secção 2, secção ATCO.D.010, alínea a), ponto 1]'
+    - Adita TÓPICO INTRB 1 — GESTÃO DO CURSO
+    - Adita TÓPICO INTRB 2 — INTRODUÇÃO AO CURSO DE FORMAÇÃO ATC
+    - Adita TÓPICO INTRB 3 — INTRODUÇÃO AO FUTURO DOS ATCO
+    - Adita TÓPICO LAWB 1 — INTRODUÇÃO AO DIREITO DA AVIAÇÃO
+    - Adita TÓPICO LAWB 2 — ORGANIZAÇÕES INTERNACIONAIS
+    - Adita TÓPICO LAWB 3 — ORGANIZAÇÕES NACIONAIS
+    - Adita TÓPICO LAWB 4 — GESTÃO DA SEGURANÇA ATS
+    - Adita TÓPICO LAWB 5 — REGRAS E REGULAMENTAÇÃO
+  - date: '2026-02-22'
+    amending: eu:celex:32023R0203:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2025/2293 DA COMISSÃO de 10 de novembro de 2025
+    changes:
+    - Altera Artigo 11.º — Entrada em vigor e aplicação
+    - Altera GESTÃO
+    - Altera SUPERVISÃO E EXECUÇÃO
+    - Altera PROCEDIMENTO DE CERTIFICAÇÃO DE ORGANIZAÇÕES DE FORMAÇÃO DE CONTROLADORES DE TRÁFEGO AÉREO E DE HOMOLOGAÇÃO DOS
+      CURSOS DE FORMAÇÃO
+    - Altera REQUISITOS ESPECÍFICOS RELACIONADOS COM A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera LICENÇA DE INSTRUENDO DE CONTROLO DE TRÁFEGO AÉREO
+    - Altera XIIa Qualificações e averbamentos e respetivas datas de expiração
+    - Altera Apêndice 2 do anexo II
+    - Altera Apêndice 3 do anexo II
+    - Altera Apêndice 4 do anexo II
+    - Altera GESTÃO DAS ORGANIZAÇÕES DE FORMAÇÃO DE CONTROLADORES DE TRÁFEGO AÉREO
+    - Altera REQUISITOS APLICÁVEIS AOS CENTROS DE MEDICINA AERONÁUTICA
+    - Altera Notas
+  - date: '2026-05-13'
+    amending: eu:celex:32025R2143:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2143 DA COMISSÃO de 23 de outubro de 2025; REGULAMENTO DE EXECUÇÃO (UE)
+      2026/1508 DA COMISSÃO de 2 de julho de 2026
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera LICENÇAS, QUALIFICAÇÕES E AVERBAMENTOS
+    - Altera REQUISITOS APLICÁVEIS AOS INSTRUTORES E AVALIADORES
+    - Altera REQUISITOS ESPECÍFICOS RELACIONADOS COM A CERTIFICAÇÃO MÉDICA AERONÁUTICA
+    - Altera LICENÇA DE INSTRUENDO DE CONTROLO DE TRÁFEGO AÉREO
+    - Altera XIIa Qualificações e averbamentos e respetivas datas de expiração
+    - Altera REQUISITOS APLICÁVEIS ÀS ORGANIZAÇÕES DE FORMAÇÃO DE CONTROLADORES DE TRÁFEGO AÉREO
+    - Altera REQUISITOS APLICÁVEIS AOS CENTROS DE MEDICINA AERONÁUTICA
+    - Altera Notas
 identifiers:
   celex: 32015R0340
   eli: http://data.europa.eu/eli/reg/2015/340/oj
@@ -51,7 +148,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2d88da09-c3ce-11e4-bbe1-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/62fcd22e-489c-11f1-8095-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0340-20260513
-  retrieved_at: '2026-10-22T02:43:23Z'
+  retrieved_at: '2026-10-22T16:40:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-22T15:20:51.061+02:00'
 integrity:
@@ -60,9 +157,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:23Z'
-  notes: Texto consolidado 02015R0340-20260513.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:40:30Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2015-340.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -218,40 +315,19 @@ relationships:
   date: '2011-08-11'
 article_structure:
   article_count: 12
-  section_count: 419
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 420
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:23Z'
+  checked_at: '2026-10-22T16:40:30Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2015/340 da Comissão, de 20 de fevereiro de 2015
-
-> 02015R0340 — PT — 13.05.2026 — 004.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R0203) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0203) — L 31 — 1 — 2.2.2023
-- [►M2](http://publications.europa.eu/resource/celex/32023R0893) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/893 DA COMISSÃO de 21 de abril de 2023](http://publications.europa.eu/resource/celex/32023R0893) — L 118 — 1 — 4.5.2023
-- [►M3](http://publications.europa.eu/resource/celex/32023R2163) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2163 DA COMISSÃO de 17 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2163) — L 2163 — 1 — 18.10.2023
-- [►M4](http://publications.europa.eu/resource/celex/32025R2143) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2143 DA COMISSÃO de 23 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2143) — L 2143 — 1 — 25.10.2025
-- [►M5](http://publications.europa.eu/resource/celex/32025R2293) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2293 DA COMISSÃO de 10 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2293) — L 2293 — 1 — 11.11.2025
-- [►M6](http://publications.europa.eu/resource/celex/32026R1508) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1508 DA COMISSÃO de 2 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1508) — L 1508 — 1 — 3.7.2026
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32015R0340R%2810%29) — [Rectificação, JO L 159, 22.6.2023, p. 152 ((UE) 2015/340)](http://publications.europa.eu/resource/celex/32015R0340R%2810%29)
-- [►C2](http://publications.europa.eu/resource/celex/32023R0893R%2801%29) — [Rectificação, JO L 163, 29.6.2023, p. 106 ((UE) 2023/893)](http://publications.europa.eu/resource/celex/32023R0893R%2801%29)
-- [C3](http://publications.europa.eu/resource/celex/32023R0203R%2802%29) — [Rectificação, JO L 90857, 3.11.2025, p. 1 ((UE) 2023/203)](http://publications.europa.eu/resource/celex/32023R0203R%2802%29)
-
-## REGULAMENTO (UE) 2015/340 DA COMISSÃO
 
 de 20 de fevereiro de 2015
 

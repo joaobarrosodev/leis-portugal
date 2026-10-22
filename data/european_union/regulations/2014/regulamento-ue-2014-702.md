@@ -35,6 +35,81 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-12-10'
+version_history:
+  file: regulamento-ue-2014-702.versoes.json
+  count: 3
+  source_lastmod: '2020-12-10'
+  versions:
+  - date: '2017-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-03-12'
+    amending: eu:celex:32019R0289:por
+    amending_title: REGULAMENTO (UE) 2019/289 DA COMISSÃO de 19 de fevereiro de 2019
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Efeito de incentivo
+    - Altera Artigo 7.º — Intensidade do auxílio e custos elegíveis
+    - Altera Artigo 10.º — Evitar a dupla publicação
+    - Altera Artigo 14.º — Auxílios aos investimentos em bens corpóreos ou incorpóreos nas empresas agrícolas ligadas à produção
+      agrícola primária
+    - Altera Artigo 18.º — Auxílios à instalação de jovens agricultores e ao desenvolvimento de pequenas explorações
+    - Altera Artigo 20.º — Auxílios à participação de produtores de produtos agrícolas em regimes de qualidade
+    - Altera Artigo 22.º — Auxílios para serviços de aconselhamento
+    - Altera Artigo 26.º — Auxílios destinados a cobrir os custos de prevenção, controlo e erradicação de doenças dos animais
+      e parasitas das plantas e auxílios destinados a compensar as perdas causadas por doenças dos animais ou parasitas das
+      plantas
+    - Altera Artigo 32.º — Auxílios à florestação e à criação de áreas arborizadas
+    - Altera Artigo 33.º — Auxílios aos sistemas agroflorestais
+    - Altera Artigo 35.º — Auxílios aos investimentos destinados a melhorar a resistência e o valor ambiental dos ecossistemas
+      florestais
+    - Altera Artigo 38.º — Auxílios à transferência de conhecimentos e às ações de informação no setor florestal
+    - Altera Artigo 39.º — Auxílios para serviços de aconselhamento no setor florestal
+    - Altera Artigo 40.º — Auxílios aos investimentos em infraestruturas relacionadas com o desenvolvimento, a modernização
+      ou a adaptação do setor florestal
+    - Altera Artigo 41.º — Auxílios aos investimentos em tecnologias florestais e na transformação, mobilização e comercialização
+      de produtos florestais
+    - Altera Artigo 44.º — Auxílios aos investimentos relativos à transformação de produtos agrícolas em produtos não agrícolas
+      ou à produção de algodão
+    - Altera Artigo 45.º — Auxílios ao arranque de empresas para atividades não agrícolas em zonas rurais
+    - Altera Artigo 46.º — Auxílios para serviços de aconselhamento a PME nas zonas rurais
+    - Altera Artigo 47.º — Auxílios à transferência de conhecimentos e a ações de informação a favor das PME nas zonas rurais
+    - Altera Artigo 48.º — Auxílios à primeira participação de agricultores ativos em regimes de qualidade do algodão e dos
+      géneros alimentícios
+    - Altera Artigo 50.º — Revogação
+    - Altera PARTE I
+    - Altera Indicar a disposição do presente regulamento ao abrigo da qual a medida de auxílio é aplicada.
+    - Altera Disposições para a publicação de informações, tal como previsto no artigo 9.º, n.º 2
+    - Altera Notas
+    - Adita (Texto relevante para efeitos do EEE ([^22^](http://publications.europa.eu/resource/cellar/e005c875-70ce-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#E0022)))
+    - Suprime (Texto relevante para efeitos do EEE ([^22^](http://publications.europa.eu/resource/cellar/a3d8216c-4a1f-4d6c-b5cc-a5b6cf8df4e3.0015.02/DOC_1#E0022)))
+  - date: '2020-12-10'
+    amending: eu:celex:32020R2008:por
+    amending_title: REGULAMENTO (UE) 2020/2008 DA COMISSÃO de 8 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Intensidade do auxílio e custos elegíveis
+    - Altera Artigo 9.º — Publicação e informação
+    - Altera Artigo 10.º — Evitar a dupla publicação
+    - Altera Artigo 14.º — Auxílios aos investimentos em bens corpóreos ou incorpóreos nas empresas agrícolas ligadas à produção
+      agrícola primária
+    - Altera Artigo 18.º — Auxílios à instalação de jovens agricultores e ao desenvolvimento de pequenas explorações
+    - Altera Artigo 20.º — Auxílios à participação de produtores de produtos agrícolas em regimes de qualidade
+    - Altera Artigo 22.º — Auxílios para serviços de aconselhamento
+    - Altera Artigo 26.º — Auxílios destinados a cobrir os custos de prevenção, controlo e erradicação de doenças dos animais
+      e parasitas das plantas e auxílios destinados a compensar as perdas causadas por doenças dos animais ou parasitas das
+      plantas
+    - Altera Artigo 50.º — Revogação
+    - Altera Artigo 52.º — Entrada em vigor e aplicabilidade
+    - Altera PARTE I
+    - Altera Indicar a disposição do presente regulamento ao abrigo da qual a medida de auxílio é aplicada.
+    - Altera Disposições para a publicação de informações, tal como previsto no artigo 9.º, n.º 2
+    - Altera Notas
+    - Adita (Texto relevante para efeitos do EEE ([^22^](http://publications.europa.eu/resource/cellar/8a3ecc48-566c-11eb-b59f-01aa75ed71a1.0019.03/DOC_1#E0022)))
+    - Suprime (Texto relevante para efeitos do EEE ([^22^](http://publications.europa.eu/resource/cellar/e005c875-70ce-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#E0022)))
 identifiers:
   celex: 32014R0702
   eli: http://data.europa.eu/eli/reg/2014/702/oj
@@ -49,7 +124,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c011ecad-0102-11e4-831f-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/8a3ecc48-566c-11eb-b59f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0702-20201210
-  retrieved_at: '2026-10-22T02:36:44Z'
+  retrieved_at: '2026-10-22T16:36:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-15T23:44:42.405+02:00'
 integrity:
@@ -58,9 +133,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:44Z'
-  notes: Texto consolidado 02014R0702-20201210.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:36:03Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2014-702.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -391,31 +466,20 @@ relationships:
   date: '2013-11-08'
 article_structure:
   article_count: 58
-  section_count: 31
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:44Z'
-  warnings: []
+  checked_at: '2026-10-22T16:36:03Z'
+  warnings:
+  - '02014R0702-20140701: versão indisponível (Sem expressão na língua por para CELEX 02014R0702-20140701.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 702/2014 da Comissão, de 25 de junho de 2014
-
-> 02014R0702 — PT — 10.12.2020 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R1084) — [REGULAMENTO (UE) 2017/1084 DA COMISSÃO de 14 de junho de 2017](http://publications.europa.eu/resource/celex/32017R1084) — L 156 — 1 — 20.6.2017
-- [►M2](http://publications.europa.eu/resource/celex/32019R0289) — [REGULAMENTO (UE) 2019/289 DA COMISSÃO de 19 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0289) — L 48 — 1 — 20.2.2019
-- [►M3](http://publications.europa.eu/resource/celex/32020R2008) — [REGULAMENTO (UE) 2020/2008 DA COMISSÃO de 8 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2008) — L 414 — 15 — 9.12.2020
-
-## REGULAMENTO (UE) N.º 702/2014 DA COMISSÃO
 
 de 25 de junho de 2014
 

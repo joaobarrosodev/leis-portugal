@@ -39,6 +39,223 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-11'
+version_history:
+  file: regulamento-ue-2014-806.versoes.json
+  count: 8
+  source_lastmod: '2026-06-11'
+  versions:
+  - date: '2014-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-12-28'
+    amending: eu:celex:32019R0877:por
+    amending_title: REGULAMENTO (UE) 2019/877 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Divisão de competências no âmbito do MUR
+    - Altera Artigo 8.º — Planos de resolução elaborados pelo CUR
+    - Altera Artigo 10.º — Avaliação da resolubilidade
+    - Altera Artigo 11.º — Obrigações simplificadas para determinadas instituições
+    - Altera Artigo 15.º — Princípios gerais que regem a resolução
+    - Altera Artigo 16.º — Resolução de instituições financeiras e empresas-mãe
+    - Altera Artigo 18.º — Procedimento de resolução
+    - Altera Artigo 20.º — Avaliação para fins de resolução
+    - Altera Artigo 27.º — Instrumento de recapitalização interna (bail-in)
+    - Altera Artigo 31.º — Cooperação no âmbito do MUR
+    - Altera Artigo 32.º — Consulta e cooperação com Estados-Membros não participantes e países terceiros
+    - Altera Artigo 47.º — Independência
+    - Altera Artigo 64.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+    - Altera Artigo 81.º — Regime linguístico
+    - Altera Artigo 82.º — Pessoal
+    - Altera Artigo 89.º — Proteção de dados
+    - Altera Artigo 90.º — Acesso aos documentos
+    - Altera Artigo 91.º — Regras de segurança em matéria de proteção das informações classificadas e das informações sensíveis
+      não classificadas
+    - Altera Artigo 95.º — Alteração ao Regulamento (UE) n.º 1093/2010
+    - Altera Notas
+    - Adita Artigo 10.º-A — Poder para proibir determinadas distribuições
+    - Adita Artigo 12.º — Requisito mínimo de fundos próprios e passivos elegíveis
+    - Adita Artigo 12.º-A — Aplicação e cálculo do requisito mínimo de fundos próprios e passivos elegíveis
+    - Adita Artigo 12.º-B — Isenção do requisito mínimo de fundos próprios e passivos elegíveis
+    - Adita Artigo 12.º-C — Passivos elegíveis para as entidades de resolução
+    - Adita Artigo 12.º-D — Determinação do requisito mínimo de fundos próprios e passivos elegíveis
+    - Adita Artigo 12.º-E — Determinação do requisito mínimo de fundos próprios e passivos elegíveis aplicável às entidades
+      de resolução de G-SII e às filiais importantes da União de G-SII extra-UE
+    - Adita Artigo 12.º-F — Aplicação do requisito mínimo de fundos próprios e passivos elegíveis às entidades de resolução
+    - Adita Artigo 12.º-G — Aplicação do requisito mínimo para os fundos próprios e passivos elegíveis a entidades que não
+      sejam, elas próprias, entidades de resolução
+    - Adita Artigo 12.º-H — Dispensa do requisito mínimo de fundos próprios e passivos elegíveis aplicado a entidades que
+      não sejam, elas próprias, entidades de resolução
+    - Adita Artigo 12.º-I — Dispensa para os organismos centrais e as instituições de crédito associadas de modo permanente
+      a um organismo central
+    - Adita Artigo 12.º-J — Incumprimento do requisito mínimo de fundos próprios e passivos elegíveis
+    - Adita Artigo 12.º-K — Disposições transitórias e pós-resolução
+    - Adita Artigo 21.º
+    - Adita Redução ou conversão de instrumentos de capital e dos passivos elegíveis
+    - Suprime Artigo 12.º — Requisito mínimo de fundos próprios e de passivos elegíveis
+    - Suprime Artigo 21.º — Redução ou conversão de instrumentos de capital
+  - date: '2021-06-26'
+    amending: eu:celex:32019R2033:por
+    amending_title: REGULAMENTO (UE) 2019/2033 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Obrigações simplificadas para determinadas instituições
+    - Altera Artigo 12.º-A — Aplicação e cálculo do requisito mínimo de fundos próprios e passivos elegíveis
+    - Altera Artigo 12.º-G — Aplicação do requisito mínimo para os fundos próprios e passivos elegíveis a entidades que não
+      sejam, elas próprias, entidades de resolução
+    - Altera Artigo 15.º — Princípios gerais que regem a resolução
+    - Altera Artigo 27.º — Instrumento de recapitalização interna (bail-in)
+    - Altera Artigo 47.º — Independência
+    - Altera Artigo 64.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+    - Altera Artigo 81.º — Regime linguístico
+    - Altera Artigo 82.º — Pessoal
+    - Altera Artigo 89.º — Proteção de dados
+    - Altera Artigo 90.º — Acesso aos documentos
+    - Altera Artigo 91.º — Regras de segurança em matéria de proteção das informações classificadas e das informações sensíveis
+      não classificadas
+    - Altera Artigo 95.º — Alteração ao Regulamento (UE) n.º 1093/2010
+    - Altera Notas
+  - date: '2022-08-12'
+    amending: eu:celex:32021R0023:por
+    amending_title: REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Obrigações simplificadas para determinadas instituições
+    - Altera Artigo 12.º-A — Aplicação e cálculo do requisito mínimo de fundos próprios e passivos elegíveis
+    - Altera Artigo 12.º-G — Aplicação do requisito mínimo para os fundos próprios e passivos elegíveis a entidades que não
+      sejam, elas próprias, entidades de resolução
+    - Altera Artigo 15.º — Princípios gerais que regem a resolução
+    - Altera Artigo 27.º — Instrumento de recapitalização interna (bail-in)
+    - Altera Artigo 47.º — Independência
+    - Altera Artigo 64.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+    - Altera Artigo 81.º — Regime linguístico
+    - Altera Artigo 82.º — Pessoal
+    - Altera Artigo 89.º — Proteção de dados
+    - Altera Artigo 90.º — Acesso aos documentos
+    - Altera Artigo 91.º — Regras de segurança em matéria de proteção das informações classificadas e das informações sensíveis
+      não classificadas
+    - Altera Artigo 95.º — Alteração ao Regulamento (UE) n.º 1093/2010
+    - Altera Notas
+  - date: '2024-05-13'
+    amending: eu:celex:32024L1174:por
+    amending_title: DIRETIVA (UE) 2024/1174 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Obrigações simplificadas para determinadas instituições
+    - Altera Artigo 12.º-A — Aplicação e cálculo do requisito mínimo de fundos próprios e passivos elegíveis
+    - Altera Artigo 12.º-G — Aplicação do requisito mínimo para os fundos próprios e passivos elegíveis a entidades que não
+      sejam, elas próprias, entidades de resolução
+    - Altera Artigo 15.º — Princípios gerais que regem a resolução
+    - Altera Artigo 27.º — Instrumento de recapitalização interna (bail-in)
+    - Altera Artigo 47.º — Independência
+    - Altera Artigo 64.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+    - Altera Artigo 81.º — Regime linguístico
+    - Altera Artigo 82.º — Pessoal
+    - Altera Artigo 89.º — Proteção de dados
+    - Altera Artigo 90.º — Acesso aos documentos
+    - Altera Artigo 91.º — Regras de segurança em matéria de proteção das informações classificadas e das informações sensíveis
+      não classificadas
+    - Altera Artigo 95.º — Alteração ao Regulamento (UE) n.º 1093/2010
+    - Altera Notas
+  - date: '2024-11-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Obrigações simplificadas para determinadas instituições
+    - Altera Artigo 12.º-A — Aplicação e cálculo do requisito mínimo de fundos próprios e passivos elegíveis
+    - Altera Artigo 12.º-D — Determinação do requisito mínimo de fundos próprios e passivos elegíveis
+    - Altera Artigo 12.º-G — Aplicação do requisito mínimo para os fundos próprios e passivos elegíveis a entidades que não
+      sejam, elas próprias, entidades de resolução
+    - Altera Artigo 15.º — Princípios gerais que regem a resolução
+    - Altera Artigo 27.º — Instrumento de recapitalização interna (bail-in)
+    - Altera Artigo 47.º — Independência
+    - Altera Artigo 64.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+    - Altera Artigo 81.º — Regime linguístico
+    - Altera Artigo 82.º — Pessoal
+    - Altera Artigo 89.º — Proteção de dados
+    - Altera Artigo 90.º — Acesso aos documentos
+    - Altera Artigo 91.º — Regras de segurança em matéria de proteção das informações classificadas e das informações sensíveis
+      não classificadas
+    - Altera Artigo 95.º — Alteração ao Regulamento (UE) n.º 1093/2010
+    - Altera Notas
+  - date: '2025-11-10'
+    amending: eu:celex:32025R2088:por
+    amending_title: REGULAMENTO (UE) 2025/2088 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de outubro de 2025
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Obrigações simplificadas para determinadas instituições
+    - Altera Artigo 12.º-A — Aplicação e cálculo do requisito mínimo de fundos próprios e passivos elegíveis
+    - Altera Artigo 12.º-G — Aplicação do requisito mínimo para os fundos próprios e passivos elegíveis a entidades que não
+      sejam, elas próprias, entidades de resolução
+    - Altera Artigo 15.º — Princípios gerais que regem a resolução
+    - Altera Artigo 27.º — Instrumento de recapitalização interna (bail-in)
+    - Altera Artigo 47.º — Independência
+    - Altera Artigo 64.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+    - Altera Artigo 81.º — Regime linguístico
+    - Altera Artigo 82.º — Pessoal
+    - Altera Artigo 88.º — Segredo profissional e intercâmbio de informações
+    - Altera Artigo 89.º — Proteção de dados
+    - Altera Artigo 90.º — Acesso aos documentos
+    - Altera Artigo 91.º — Regras de segurança em matéria de proteção das informações classificadas e das informações sensíveis
+      não classificadas
+    - Altera Artigo 95.º — Alteração ao Regulamento (UE) n.º 1093/2010
+    - Altera Notas
+    - Adita Artigo 31.º-A — Intercâmbio de informações entre autoridades e com outras entidades
+  - date: '2026-06-11'
+    amending: eu:celex:32026R0808:por
+    amending_title: REGULAMENTO (UE) 2026/808 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2026
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Estados-Membros participantes
+    - Altera Artigo 5.º — Relação com a Diretiva 2014/59/UE e legislação nacional aplicável
+    - Altera Artigo 7.º — Divisão de competências no âmbito do MUR
+    - Altera Artigo 8.º — Planos de resolução elaborados pelo CUR
+    - Altera Artigo 10.º — Avaliação da resolubilidade
+    - Altera Artigo 10.º-A — Poder para proibir determinadas distribuições
+    - Altera Artigo 11.º — Obrigações simplificadas para determinadas instituições
+    - Altera Artigo 12.º — Requisito mínimo de fundos próprios e passivos elegíveis
+    - Altera Artigo 12.º-A — Aplicação e cálculo do requisito mínimo de fundos próprios e passivos elegíveis
+    - Altera Artigo 12.º-G — Aplicação do requisito mínimo para os fundos próprios e passivos elegíveis a entidades que não
+      sejam, elas próprias, entidades de resolução
+    - Altera Artigo 12.º-K — Disposições transitórias e pós-resolução
+    - Altera Artigo 15.º — Princípios gerais que regem a resolução
+    - Altera Artigo 18.º — Procedimento de resolução
+    - Altera Artigo 19.º — Auxílios estatais e auxílios do Fundo
+    - Altera Redução ou conversão de instrumentos de capital e dos passivos elegíveis
+    - Altera Artigo 27.º — Instrumento de recapitalização interna (bail-in)
+    - Altera Artigo 31.º — Cooperação no âmbito do MUR
+    - Altera Artigo 31.º-A — Intercâmbio de informações entre autoridades e com outras entidades
+    - Altera Artigo 32.º — Consulta e cooperação com Estados-Membros não participantes e países terceiros
+    - Altera Artigo 34.º — Pedidos de informação
+    - Altera Artigo 43.º — Composição
+    - Altera Artigo 47.º — Independência
+    - Altera Artigo 50.º — Competências
+    - Altera Artigo 53.º — Participação nas sessões executivas
+    - Altera Artigo 54.º — Competências
+    - Altera Artigo 55.º — Tomada de decisões
+    - Altera Artigo 56.º — Nomeação e funções
+    - Altera Artigo 62.º — Auditoria interna e controlo
+    - Altera Artigo 64.º — Regras financeiras
+    - Altera Artigo 66.º — Medidas antifraude
+    - Altera Artigo 74.º — Acesso aos mecanismos de financiamento
+    - Altera Artigo 81.º — Regime linguístico
+    - Altera Artigo 82.º — Pessoal
+    - Altera Artigo 85.º — Câmara de recurso
+    - Altera Artigo 88.º — Segredo profissional e intercâmbio de informações
+    - Altera Artigo 89.º — Proteção de dados
+    - Altera Artigo 90.º — Acesso aos documentos
+    - Altera Artigo 91.º — Regras de segurança em matéria de proteção das informações classificadas e das informações sensíveis
+      não classificadas
+    - Altera Artigo 95.º — Alteração ao Regulamento (UE) n.º 1093/2010
 identifiers:
   celex: 32014R0806
   eli: http://data.europa.eu/eli/reg/2014/806/oj
@@ -53,7 +270,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/59d36bcd-17b3-11e4-933d-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/677da6b7-5936-11f1-b3e2-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0806-20260611
-  retrieved_at: '2026-10-22T02:41:46Z'
+  retrieved_at: '2026-10-22T16:36:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T05:39:20.259+02:00'
 integrity:
@@ -62,9 +279,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:46Z'
-  notes: Texto consolidado 02014R0806-20260611.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:36:33Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2014-806.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -389,38 +606,19 @@ relationships:
   date: '2026-03-17'
 article_structure:
   article_count: 114
-  section_count: 44
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 48
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:46Z'
+  checked_at: '2026-10-22T16:36:33Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 806/2014 do Parlamento Europeu e do Conselho, de 15 de julho de 2014
-
-> 02014R0806 — PT — 11.06.2026 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0877) — [REGULAMENTO (UE) 2019/877 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0877) — L 150 — 226 — 7.6.2019
-- [►M2](http://publications.europa.eu/resource/celex/32019R2033) — [REGULAMENTO (UE) 2019/2033 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2033) — L 314 — 1 — 5.12.2019
-- [►M3](http://publications.europa.eu/resource/celex/32021R0023) — [REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0023) — L 22 — 1 — 22.1.2021
-- [►M4](http://publications.europa.eu/resource/celex/32024L1174) — [DIRETIVA (UE) 2024/1174 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024L1174) — L 1174 — 1 — 22.4.2024
-- [►M5](http://publications.europa.eu/resource/celex/32025R2088) — [REGULAMENTO (UE) 2025/2088 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2088) — L 2088 — 1 — 21.10.2025
-- [►M6](http://publications.europa.eu/resource/celex/32026R0808) — [REGULAMENTO (UE) 2026/808 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2026](http://publications.europa.eu/resource/celex/32026R0808) — L 808 — 1 — 20.4.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0806R%2806%29) — [Rectificação, JO L 055, 25.2.2019, p. 18 (806/2014)](http://publications.europa.eu/resource/celex/32014R0806R%2806%29)
-
-## REGULAMENTO (UE) N.º 806/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de julho de 2014
 

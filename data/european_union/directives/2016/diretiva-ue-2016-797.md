@@ -35,6 +35,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-02'
+version_history:
+  file: diretiva-ue-2016-797.versoes.json
+  count: 3
+  source_lastmod: '2026-08-02'
+  versions:
+  - date: '2016-05-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-05-28'
+    amending: eu:celex:32020L0700:por
+    amending_title: DIRETIVA (UE) 2020/700 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de
+      maio de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Conteúdo das ETI
+    - Altera Artigo 5.º — Elaboração, aprovação e revisão das ETI
+    - Altera Artigo 14.º — Comunicação das regras nacionais
+    - Altera Artigo 24.º — Autorização de tipo de veículos
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera Artigo 54.º — Regime transitório de utilização de veículos
+    - Altera Artigo 57.º — Transposição
+    - Altera Artigo 58.º — Revogação
+    - Altera Artigo 60.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ELEMENTOS DO SISTEMA FERROVIÁRIO DA UNIÃO
+    - Adita 1. Rede
+    - Adita 2. Veículos
+    - Adita ANEXO II
+    - Adita 1. Lista de subsistemas
+    - Adita 2. Descrição dos subsistemas
+    - Adita 2.1. Infraestrutura
+    - Adita 2.2. Energia
+    - Adita 2.3. Controlo-comando e sinalização de via
+    - Adita 2.4. Controlo-comando e sinalização de bordo
+    - Adita 2.5. Exploração e gestão do tráfego
+    - Adita 2.6. Aplicações telemáticas
+    - Adita 2.7. Material circulante
+    - Adita 2.8. Manutenção
+    - Adita ANEXO III
+    - Adita REQUISITOS ESSENCIAIS
+    - Adita 1. Requisitos gerais
+    - Adita 1.1. Segurança
+    - Adita 1.2. Fiabilidade e disponibilidade
+    - Adita 1.3. Saúde
+    - Adita 1.4. Proteção do ambiente
+    - Adita 1.5. Compatibilidade técnica
+    - Adita 1.6. Acessibilidade
+    - Adita 2. Requisitos específicos de cada subsistema
+    - Adita 2.1.1. Segurança
+    - Adita 2.1.2. Acessibilidade
+    - Adita 2.2.1. Segurança
+  - date: '2026-08-02'
+    amending: eu:celex:32024R1689:por
+    amending_title: REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Conteúdo das ETI
+    - Altera Artigo 5.º — Elaboração, aprovação e revisão das ETI
+    - Altera Artigo 14.º — Comunicação das regras nacionais
+    - Altera Artigo 24.º — Autorização de tipo de veículos
+    - Altera Artigo 51.º — Procedimento de comité
+    - Altera 2.3. Controlo-comando e sinalização
+    - Altera 2.4. Material circulante
+    - Altera 2.5. Manutenção
+    - Altera 2.6. Exploração e gestão do tráfego
+    - Altera 2.7. Aplicações telemáticas para os serviços de mercadorias e de passageiros
+    - Altera 2.2. Declaração de verificação intermédia (DVI)
+    - Altera 2.4. Processo técnico que acompanha a declaração «CE» de verificação.
+    - Altera Notas
+    - Suprime 2.1.1. Segurança
+    - Suprime 2.1.2. Acessibilidade
+    - Suprime 2.2.1. Segurança
+    - Suprime 2.2.2. Proteção do ambiente
+    - Suprime 2.2.3. Compatibilidade técnica
+    - Suprime 2.3.1. Segurança
+    - Suprime 2.3.2. Compatibilidade técnica
+    - Suprime 2.4.1. Segurança
+    - Suprime 2.4.2. Fiabilidade e disponibilidade
+    - Suprime 2.4.3. Compatibilidade técnica
+    - Suprime 2.4.4. Controlo
+    - Suprime 2.4.5. Acessibilidade
+    - Suprime 2.5.1. Saúde e segurança
+    - Suprime 2.5.2. Proteção do ambiente
+    - Suprime 2.5.3. Compatibilidade técnica
+    - Suprime 2.6.1. Segurança
+    - Suprime 2.6.2. Fiabilidade e disponibilidade
+    - Suprime 2.6.3. Compatibilidade técnica
+    - Suprime 2.6.4. Acessibilidade
+    - Suprime 2.7.1. Compatibilidade técnica
+    - Suprime 2.7.2. Fiabilidade e disponibilidade
+    - Suprime 2.7.3. Saúde
+    - Suprime 2.7.4. Segurança
+    - Suprime 2.7.5. Acessibilidade
+    - Suprime 2.2.1. Princípios
+    - Suprime 2.2.2. Partes do subsistema
 identifiers:
   celex: 32016L0797
   eli: http://data.europa.eu/eli/dir/2016/797/oj
@@ -49,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eaefba25-22d0-11e6-86d0-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/4e94b669-7a7f-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016L0797-20260802
-  retrieved_at: '2026-10-22T02:49:02Z'
+  retrieved_at: '2026-10-22T16:49:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T22:05:37.499+01:00'
 integrity:
@@ -58,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:02Z'
-  notes: Texto consolidado 02016L0797-20260802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:49:28Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2016-797.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -273,30 +371,19 @@ relationships:
   source: null
 article_structure:
   article_count: 60
-  section_count: 75
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 76
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:02Z'
+  checked_at: '2026-10-22T16:49:28Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2016/797 do Parlamento Europeu e do Conselho, de 11 de maio de 2016
-
-> 02016L0797 — PT — 02.08.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020L0700) — [DIRETIVA (UE) 2020/700 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de maio de 2020](http://publications.europa.eu/resource/celex/32020L0700) — L 165 — 27 — 27.5.2020
-- [►M2](http://publications.europa.eu/resource/celex/32024R1689) — [REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1689) — L 1689 — 1 — 12.7.2024
-
-## DIRETIVA (UE) 2016/797 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de maio de 2016
 

@@ -35,6 +35,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-02-09'
+version_history:
+  file: decisao-ue-2016-2325.versoes.json
+  count: 2
+  source_lastmod: '2026-02-09'
+  versions:
+  - date: '2016-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-02-09'
+    amending: eu:celex:32026D0121:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/121 DA COMISSÃO de 19 de janeiro de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita CERTIFICADO INTERNACIONAL DE INVENTÁRIO DE MATÉRIAS PERIGOSAS
+    - Adita Características do navio
+    - Adita Dados da parte I do inventário de matérias perigosas
+    - Adita CONFIRMAÇÃO DA PRORROGAÇÃO DE UM CERTIFICADO VÁLIDO POR UM PRAZO INFERIOR A CINCO ANOS, EM APLICAÇÃO DA REGRA
+      11, N.º 6, DO ANEXO DA CONVENÇÃO DE HONG KONG E DO ARTIGO 9.º, N.º 5, DO REGULAMENTO (UE) N.º 1257/2013 ([^1^](http://publications.europa.eu/resource/cellar/c4ed643d-173a-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Adita CONFIRMAÇÃO DA CONCLUSÃO DA VISTORIA DE RENOVAÇÃO, EM APLICAÇÃO DA REGRA 11, N.º 7, DO ANEXO DA CONVENÇÃO DE HONG
+      KONG E DO ARTIGO 9.º, N.º 4, DO REGULAMENTO (UE) N.º 1257/2013
+    - Adita CONFIRMAÇÃO DA PRORROGAÇÃO DA VALIDADE DO CERTIFICADO ATÉ À CHEGADA AO PORTO DE VISTORIA OU POR UM PERÍODO DE
+      GRAÇA, EM APLICAÇÃO DA REGRA 11, N.º 8, OU DA REGRA 11, N.º 9, DO ANEXO DA CONVENÇÃO DE HONG KONG E DO ARTIGO 9.º, N.º
+      7, OU DO ARTIGO 9.º, N.º 8, DO REGULAMENTO (UE) N.º 1257/2013 ^^
+    - Adita CONFIRMAÇÃO DE VISTORIA ADICIONAL, EM APLICAÇÃO DA REGRA 10 DO ANEXO DA CONVENÇÃO DE HONG KONG E DO ARTIGO 9.º,
+      N.º 2, DO REGULAMENTO (UE) N.º 1257/2013 ^^
 identifiers:
   celex: 32016D2325
   eli: http://data.europa.eu/eli/dec_impl/2016/2325/oj
@@ -49,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a7fbef65-c683-11e6-a6db-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/c4ed643d-173a-11f1-8870-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016D2325-20260209
-  retrieved_at: '2026-10-22T03:17:48Z'
+  retrieved_at: '2026-10-22T16:49:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T21:24:16.897+01:00'
 integrity:
@@ -58,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:48Z'
-  notes: Texto consolidado 02016D2325-20260209.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:49:10Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2016-2325.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -93,29 +122,19 @@ relationships:
   source: null
 article_structure:
   article_count: 2
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:48Z'
+  checked_at: '2026-10-22T16:49:10Z'
   warnings: []
   errors: []
 ---
 
 # Decisão de Execução (UE) 2016/2325 da Comissão, de 19 de dezembro de 2016
-
-> 02016D2325 — PT — 09.02.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026D0121) — [DECISÃO DE EXECUÇÃO (UE) 2026/121 DA COMISSÃO de 19 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026D0121) — L 121 — 1 — 20.1.2026
-
-## DECISÃO DE EXECUÇÃO (UE) 2016/2325 DA COMISSÃO
 
 de 19 de dezembro de 2016
 

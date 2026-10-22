@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-10-16'
+version_history:
+  file: regulamento-ue-2014-1042.versoes.json
+  count: 1
+  source_lastmod: '2018-10-16'
+  versions:
+  - date: '2018-10-16'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32014R1042
   eli: http://data.europa.eu/eli/reg_del/2014/1042/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4f253ab6-4ac5-11e4-a0cb-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/edfb91e1-d200-11e8-9424-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R1042-20181016
-  retrieved_at: '2026-10-22T03:00:27Z'
+  retrieved_at: '2026-10-22T16:37:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T04:40:19.613+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:27Z'
-  notes: Texto consolidado 02014R1042-20181016.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:37:24Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2014-1042.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -112,29 +121,20 @@ relationships:
   date: '2018-08-16'
 article_structure:
   article_count: 15
-  section_count: 48
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 49
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:27Z'
-  warnings: []
+  checked_at: '2026-10-22T16:37:24Z'
+  warnings:
+  - '02014R1042-20141003: versão indisponível (Sem expressão na língua por para CELEX 02014R1042-20141003.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) n. ° 1042/2014 da Comissão, de 25 de julho de 2014
-
-> 02014R1042 — PT — 16.10.2018 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1291) — [REGULAMENTO DELEGADO (UE) 2018/1291 DA COMISSÃO de 16 de maio de 2018](http://publications.europa.eu/resource/celex/32018R1291) — L 241 — 1 — 26.9.2018
-
-## REGULAMENTO DELEGADO (UE) N.º 1042/2014 DA COMISSÃO
 
 de 25 de julho de 2014
 

@@ -36,6 +36,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-01'
+version_history:
+  file: decisao-ue-2015-1814.versoes.json
+  count: 4
+  source_lastmod: '2024-01-01'
+  versions:
+  - date: '2015-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-04-08'
+    amending: eu:celex:32018L0410:por
+    amending_title: DIRETIVA (UE) 2018/410 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de
+      março de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Reserva de estabilização do mercado
+    - Altera Artigo 2.º — Alteração da Diretiva 2003/87/CE
+    - Altera Artigo 4.º — Disposição transitória
+    - Altera Artigo 5.º — Entrada em vigor
+    - Altera Notas
+  - date: '2023-05-15'
+    amending: eu:celex:32023D0852:por
+    amending_title: DECISÃO (UE) 2023/852 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2023
+    changes:
+    - Altera Artigo 1.º — Reserva de estabilização do mercado
+    - Altera Artigo 2.º — Alteração da Diretiva 2003/87/CE
+    - Altera Artigo 4.º — Disposição transitória
+    - Altera Notas
+  - date: '2024-01-01'
+    amending: eu:celex:32023L0959:por
+    amending_title: DIRETIVA (UE) 2023/959 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023
+    changes:
+    - Altera Artigo 1.º — Reserva de estabilização do mercado
+    - Altera Artigo 2.º — Alteração da Diretiva 2003/87/CE
+    - Altera Artigo 4.º — Disposição transitória
+    - Altera Notas
+    - Adita Artigo 1.º-A — Funcionamento da reserva de estabilização do mercado para os sectores dos edifícios, transporte
+      rodoviário e outros sectores
+    - Adita Artigo 3.º — Reexame
+    - Suprime Artigo 3.º — Revisão
 identifiers:
   celex: 32015D1814
   eli: http://data.europa.eu/eli/dec/2015/1814/oj
@@ -50,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/01c4f171-6e49-11e5-9317-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/478f05ef-a5d0-11ee-b164-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015D1814-20240101
-  retrieved_at: '2026-10-22T02:45:55Z'
+  retrieved_at: '2026-10-22T16:38:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-12T04:38:22.154+02:00'
 integrity:
@@ -59,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:55Z'
-  notes: Texto consolidado 02015D1814-20240101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:38:51Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-2015-1814.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -151,31 +191,19 @@ relationships:
   date: '2021-11-25'
 article_structure:
   article_count: 6
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:55Z'
+  checked_at: '2026-10-22T16:38:51Z'
   warnings: []
   errors: []
 ---
 
 # Decisão (UE) 2015/1814 do Parlamento Europeu e do Conselho, de 6 de outubro de 2015
-
-> 02015D1814 — PT — 01.01.2024 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32018L0410) — [DIRETIVA (UE) 2018/410 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de março de 2018](http://publications.europa.eu/resource/celex/32018L0410) — L 76 — 3 — 19.3.2018
-- [M2](http://publications.europa.eu/resource/celex/32023D0852) — [DECISÃO (UE) 2023/852 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2023](http://publications.europa.eu/resource/celex/32023D0852) — L 110 — 21 — 25.4.2023
-- [►M3](http://publications.europa.eu/resource/celex/32023L0959) — [DIRETIVA (UE) 2023/959 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023](http://publications.europa.eu/resource/celex/32023L0959) — L 130 — 134 — 16.5.2023
-
-## DECISÃO (UE) 2015/1814 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 6 de outubro de 2015
 

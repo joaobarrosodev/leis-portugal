@@ -36,6 +36,121 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-01'
+version_history:
+  file: regulamento-ue-2015-757.versoes.json
+  count: 5
+  source_lastmod: '2025-01-01'
+  versions:
+  - date: '2015-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-12-16'
+    amending: eu:celex:32016R2071:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2016/2071 DA COMISSÃO de 22 de setembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Conteúdo e apresentação do plano de monitorização
+    - Altera Artigo 11.º — Conteúdo do relatório de emissões
+    - Altera Artigo 21.º — Publicação de informações e relatório da Comissão
+    - Altera Artigo 24.º — Procedimento de comité
+    - Altera Artigo 25.º — Alteração da Diretiva 2009/16/CE
+    - Altera Artigo 26.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Métodos de monitorização das emissões de CO2
+    - Adita A. CÁLCULO DAS EMISSÕES DE CO2 (ARTIGO 9.º)
+    - Adita B. MÉTODOS PARA DETERMINAÇÃO DAS EMISSÕES DE CO2
+    - 'Adita 1. Método A: BDN e inventários periódicos dos tanques de combustível'
+    - 'Adita 2. Método B: monitorização dos tanques de combustível a bordo'
+    - 'Adita 3. Método C: medidores de fluxo para os processos de combustão aplicáveis'
+    - 'Adita 4. Método D: medição direta das emissões de CO2'
+    - Adita ANEXO II
+    - Adita Monitorização de outras informações pertinentes em termos de clima
+    - Adita A. MONITORIZAÇÃO POR VIAGEM (ARTIGO 9.º)
+    - Adita B. MONITORIZAÇÃO ANUAL (ARTIGO 10.º)
+    - Adita ANEXO III
+    - Adita Elementos a considerar para os atos delegados previstos nos artigos 15.º e 16.º
+    - Adita A. PROCEDIMENTOS DE VERIFICAÇÃO
+    - Adita B. ACREDITAÇÃO DOS VERIFICADORES
+  - date: '2023-06-05'
+    amending: eu:celex:32023R0957:por
+    amending_title: REGULAMENTO (UE) 2023/957 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Princípios comuns de monitorização e comunicação de informações
+    - Altera Artigo 6.º — Conteúdo e apresentação do plano de monitorização
+    - Altera Artigo 7.º — Alterações ao plano de monitorização
+    - Altera Artigo 8.º — Monitorização das atividades durante um período de informação
+    - Altera Artigo 9.º — Monitorização por viagem
+    - Altera Artigo 10.º — Monitorização anual
+    - Altera Artigo 11.º — Conteúdo do relatório de emissões
+    - Altera Artigo 13.º — Âmbito das atividades de verificação e relatório de verificação
+    - Altera Artigo 14.º — Obrigações e princípios gerais para os verificadores
+    - Altera Artigo 15.º — Procedimentos de verificação
+    - Altera Artigo 16.º — Acreditação dos verificadores
+    - Altera Artigo 20.º — Sanções, intercâmbio de informações e ordem de expulsão
+    - Altera Artigo 21.º — Publicação de informações e relatório da Comissão
+    - Altera Artigo 23.º — Exercício da delegação
+    - Altera Artigo 24.º — Procedimento de comité
+    - Altera Artigo 25.º — Alteração da Diretiva 2009/16/CE
+    - Altera B. MÉTODOS PARA DETERMINAÇÃO DAS EMISSÕES DE CO2
+    - Altera B. MONITORIZAÇÃO ANUAL (ARTIGO 10.º)
+    - Altera Notas
+    - Adita Artigo 5.º — Métodos de monitorização de emissões de [►M2](http://publications.europa.eu/resource/celex/32023R0957)
+      gases com efeito de estufa◄ e de outras informações pertinentes
+    - Adita Monitorização das emissões de [►M2](http://publications.europa.eu/resource/celex/32023R0957) gases com efeito
+      de estufa◄ e outras informações relevantes
+    - Adita Artigo 11.º-A — Comunicação e apresentação dos dados relativos às emissões agregadas a nível da companhia
+    - Adita Artigo 12.º
+    - Adita Formato do relatório de emissões e comunicação dos dados relativos às emissões agregadas a nível da companhia
+    - Adita Artigo 22.º-A — Reexame
+    - Suprime Artigo 5.º — Métodos de monitorização de emissões de CO2 e de outras informações pertinentes
+    - Suprime Monitorização das emissões de CO2 e outras informações relevantes
+    - Suprime Artigo 12.º — Formato do relatório de emissões
+    - 'Suprime 1. Método A: BDN e inventários periódicos dos tanques de combustível'
+    - 'Suprime 2. Método B: monitorização dos tanques de combustível a bordo'
+    - 'Suprime 3. Método C: medidores de fluxo para os processos de combustão aplicáveis'
+    - 'Suprime 4. Método D: medição direta das emissões de CO2'
+  - date: '2024-01-01'
+    amending: eu:celex:32023R2776:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2776 DA COMISSÃO de 12 de outubro de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 21.º — Publicação de informações e relatório da Comissão
+    - Altera Artigo 24.º — Procedimento de comité
+    - Altera Artigo 25.º — Alteração da Diretiva 2009/16/CE
+    - Altera A. MONITORIZAÇÃO POR VIAGEM (ARTIGO 9.º)
+    - Altera Notas
+    - Adita Métodos de monitorização das emissões de gases com efeito de estufa
+    - Adita A. CÁLCULO DAS EMISSÕES DE GASES COM EFEITO DE ESTUFA (Artigo 9.º)
+    - Adita B. MÉTODOS DE DETERMINAÇÃO DAS EMISSÕES DE GASES COM EFEITO DE ESTUFA
+    - Adita C. GESTÃO E CONTROLO DOS DADOS
+    - Adita B. MONITORIZAÇÃO ANUAL (Artigo 10.º)
+    - Adita C. MONITORIZAÇÃO DAS EMISSÕES TOTAIS AGREGADAS DE GASES COM EFEITO DE ESTUFA ABRANGIDAS PELA DIRETIVA 2003/87/CE
+      RELATIVAMENTE ÀS ATIVIDADES DE TRANSPORTE MARÍTIMO E DAS INFORMAÇÕES QUE JUSTIFICAM DERROGAÇÕES DO Artigo 12.º, N.º
+      3, DESSA DIRETIVA [Artigo 10.º, ALÍNEA K)]
+    - Suprime Métodos de monitorização das emissões de CO2
+    - Suprime A. CÁLCULO DAS EMISSÕES DE CO2 (ARTIGO 9.º)
+    - Suprime B. MÉTODOS PARA DETERMINAÇÃO DAS EMISSÕES DE CO2
+    - Suprime B. MONITORIZAÇÃO ANUAL (ARTIGO 10.º)
+  - date: '2025-01-01'
+    amending: eu:celex:32024R3214:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/3214 DA COMISSÃO de 16 de outubro de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 21.º — Publicação de informações e relatório da Comissão
+    - Altera Artigo 24.º — Procedimento de comité
+    - Altera Artigo 25.º — Alteração da Diretiva 2009/16/CE
+    - Altera A. CÁLCULO DAS EMISSÕES DE GASES COM EFEITO DE ESTUFA (Artigo 9.º)
+    - Altera C. MONITORIZAÇÃO DAS EMISSÕES TOTAIS AGREGADAS DE GASES COM EFEITO DE ESTUFA ABRANGIDAS PELA DIRETIVA 2003/87/CE
+      RELATIVAMENTE ÀS ATIVIDADES DE TRANSPORTE MARÍTIMO E DAS INFORMAÇÕES QUE JUSTIFICAM DERROGAÇÕES DO Artigo 12.º, N.º
+      3, DESSA DIRETIVA [Artigo 10.º, ALÍNEA K)]
+    - Altera Notas
+    - Adita AA EMISSÕES DE GASES COM EFEITO DE ESTUFA DOS NAVIOS OFFSHORE
 identifiers:
   celex: 32015R0757
   eli: http://data.europa.eu/eli/reg/2015/757/oj
@@ -50,7 +165,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c895b0b3-fdf7-11e4-a4c8-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/78b2d4f6-ee43-11ef-b5e9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0757-20250101
-  retrieved_at: '2026-10-22T02:53:28Z'
+  retrieved_at: '2026-10-22T16:40:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-12T07:01:19.641+02:00'
 integrity:
@@ -59,9 +174,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:28Z'
-  notes: Texto consolidado 02015R0757-20250101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:40:49Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2015-757.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -193,32 +308,19 @@ relationships:
   date: '2026-09-03'
 article_structure:
   article_count: 28
-  section_count: 35
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:28Z'
+  checked_at: '2026-10-22T16:40:49Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2015/757 do Parlamento Europeu e do Conselho, de 29 de abril de 2015
-
-> 02015R0757 — PT — 01.01.2025 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R2071) — [REGULAMENTO DELEGADO (UE) 2016/2071 DA COMISSÃO de 22 de setembro de 2016](http://publications.europa.eu/resource/celex/32016R2071) — L 320 — 1 — 26.11.2016
-- [►M2](http://publications.europa.eu/resource/celex/32023R0957) — [REGULAMENTO (UE) 2023/957 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0957) — L 130 — 105 — 16.5.2023
-- [►M3](http://publications.europa.eu/resource/celex/32023R2776) — [REGULAMENTO DELEGADO (UE) 2023/2776 DA COMISSÃO de 12 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2776) — L 2776 — 1 — 14.12.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024R3214) — [REGULAMENTO DELEGADO (UE) 2024/3214 DA COMISSÃO de 16 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R3214) — L 3214 — 1 — 27.12.2024
-
-## REGULAMENTO (UE) 2015/757 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 29 de abril de 2015
 

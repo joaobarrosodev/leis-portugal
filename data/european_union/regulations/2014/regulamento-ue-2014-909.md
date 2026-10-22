@@ -38,6 +38,149 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-17'
+version_history:
+  file: regulamento-ue-2014-909.versoes.json
+  count: 7
+  source_lastmod: '2026-01-17'
+  versions:
+  - date: '2014-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-07-01'
+    amending: eu:celex:32016R1033:por
+    amending_title: REGULAMENTO (UE) 2016/1033 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de junho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Execução
+    - Altera Artigo 15.º — Situações de emergência
+    - Altera Artigo 49.º — Liberdade de efetuar uma emissão através de uma CSD autorizada na União
+    - Altera Artigo 54.º — Autorização e designação para prestar serviços bancários auxiliares
+    - Altera Artigo 62.º — Publicação de decisões
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 70.º — Alteração da Diretiva 98/26/CE
+    - Altera Artigo 71.º — Alteração da Diretiva 2014/65/UE
+    - Altera Artigo 76.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita LISTA DE SERVIÇOS
+    - Adita SECÇÃO A
+    - Adita Serviços principais das Centrais de Valores Mobiliários
+    - Adita SECÇÃO B
+    - Adita Serviços auxiliares de tipo não bancário das CSDs que não impliquem riscos de crédito ou de liquidez
+    - Adita SECÇÃO C
+    - Adita Serviços bancários auxiliares
+  - date: '2022-06-22'
+    amending: eu:celex:32022R0858:por
+    amending_title: REGULAMENTO (UE) 2022/858 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022
+    changes:
+    - Altera Artigo 4.º — Execução
+    - Altera Artigo 15.º — Situações de emergência
+    - Altera Artigo 49.º — Liberdade de efetuar uma emissão através de uma CSD autorizada na União
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 71.º — Alteração da Diretiva 2014/65/UE
+    - Altera Artigo 76.º — Entrada em vigor e aplicação
+    - Altera Notas
+  - date: '2024-01-16'
+    amending: eu:celex:32023R2845:por
+    amending_title: REGULAMENTO (UE) 2023/2845 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Execução
+    - Altera Artigo 6.º — Medidas destinadas a prevenir a ocorrência de falhas de liquidação
+    - Altera Artigo 12.º — Autoridades relevantes
+    - Altera Artigo 15.º — Situações de emergência
+    - Altera Artigo 17.º — Procedimento de concessão da autorização
+    - Altera Artigo 19.º — Extensão e subcontratação de atividades e serviços
+    - Altera Artigo 20.º — Revogação da autorização
+    - Altera Artigo 22.º — Análise e avaliação
+    - Altera Artigo 23.º — Liberdade de prestação de serviços noutro Estado-Membro
+    - Altera Artigo 24.º — Cooperação entre as autoridades do Estado-Membro de origem e do Estado-Membro de acolhimento e
+      análise pelos pares
+    - Altera Artigo 25.º — Países terceiros
+    - Altera Artigo 26.º — Disposições gerais
+    - Altera Artigo 27.º — Quadros superiores, órgão de administração e acionistas
+    - Altera Artigo 28.º — Comité de utilizadores
+    - Altera Artigo 29.º — Manutenção e guarda de registos
+    - Altera Artigo 36.º — Disposições gerais
+    - Altera Artigo 40.º — Liquidação financeira
+    - Altera Artigo 47.º — Requisitos de capital
+    - Altera Artigo 49.º — Liberdade de efetuar uma emissão através de uma CSD autorizada na União
+    - Altera Artigo 52.º — Procedimento aplicável às ligações entre CSDs
+    - Altera Artigo 54.º — Autorização e designação para prestar serviços bancários auxiliares
+    - Altera Artigo 55.º — Procedimento de concessão ou recusa de autorização para prestar serviços bancários auxiliares
+    - Altera Artigo 59.º — Requisitos prudenciais aplicáveis às instituições de crédito ou às CSDs autorizadas a prestar serviços
+      bancários auxiliares
+    - Altera Artigo 60.º — Supervisão das instituições de crédito designadas e das CSDs autorizadas para a prestação de serviços
+      bancários auxiliares
+    - Altera Artigo 67.º — Exercício da delegação
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 69.º — Disposições transitórias
+    - Altera Artigo 71.º — Alteração da Diretiva 2014/65/UE
+    - Altera Artigo 74.º — Relatórios
+    - Altera Artigo 75.º — Revisão
+    - Altera Notas
+    - Adita Artigo 7.º — Medidas destinadas a fazer face às falhas de liquidação
+    - Adita Artigo 7.º-A — Procedimento de recompra obrigatória
+    - Adita Artigo 22.º-A — Planos de recuperação e liquidação ordenada
+    - Adita Artigo 24.º-A — Colégio de autoridades de supervisão
+    - Adita Artigo 27.º-A — Informação às autoridades competentes
+    - Adita Artigo 27.º-B — Avaliação
+    - Adita Artigo 27.º-C — Derrogação para as CSDs que prestam serviços bancários auxiliares
+    - Adita Artigo 47.º-A — Liquidação diferida pelo valor líquido
+  - date: '2024-05-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Execução
+    - Altera Artigo 7.º — Medidas destinadas a fazer face às falhas de liquidação
+    - Altera Artigo 15.º — Situações de emergência
+    - Altera Artigo 25.º — Países terceiros
+    - Altera Artigo 27.º-A — Informação às autoridades competentes
+    - Altera Artigo 49.º — Liberdade de efetuar uma emissão através de uma CSD autorizada na União
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 71.º — Alteração da Diretiva 2014/65/UE
+    - Altera Artigo 74.º — Relatórios
+    - Altera Notas
+  - date: '2025-01-17'
+    amending: eu:celex:32022R2554:por
+    amending_title: REGULAMENTO (UE) 2022/2554 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Execução
+    - Altera Artigo 7.º — Medidas destinadas a fazer face às falhas de liquidação
+    - Altera Artigo 15.º — Situações de emergência
+    - Altera Artigo 25.º — Países terceiros
+    - Altera Artigo 27.º-A — Informação às autoridades competentes
+    - Altera Artigo 45.º — Riscos operacionais
+    - Altera Artigo 49.º — Liberdade de efetuar uma emissão através de uma CSD autorizada na União
+    - Altera Artigo 60.º — Supervisão das instituições de crédito designadas e das CSDs autorizadas para a prestação de serviços
+      bancários auxiliares
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 71.º — Alteração da Diretiva 2014/65/UE
+    - Altera Artigo 74.º — Relatórios
+    - Altera Notas
+  - date: '2026-01-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Execução
+    - Altera Artigo 7.º — Medidas destinadas a fazer face às falhas de liquidação
+    - Altera Artigo 15.º — Situações de emergência
+    - Altera Artigo 25.º — Países terceiros
+    - Altera Artigo 27.º-A — Informação às autoridades competentes
+    - Altera Artigo 45.º — Riscos operacionais
+    - Altera Artigo 47.º-A — Liquidação diferida pelo valor líquido
+    - Altera Artigo 49.º — Liberdade de efetuar uma emissão através de uma CSD autorizada na União
+    - Altera Artigo 54.º — Autorização e designação para prestar serviços bancários auxiliares
+    - Altera Artigo 59.º — Requisitos prudenciais aplicáveis às instituições de crédito ou às CSDs autorizadas a prestar serviços
+      bancários auxiliares
+    - Altera Artigo 68.º — Procedimento de comité
+    - Altera Artigo 71.º — Alteração da Diretiva 2014/65/UE
+    - Altera Notas
 identifiers:
   celex: 32014R0909
   eli: http://data.europa.eu/eli/reg/2014/909/oj
@@ -52,7 +195,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e58428b4-2e81-11e4-8c3c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/480766c0-0ce3-11f1-8870-01aa75ed71a1.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0909-20260117
-  retrieved_at: '2026-10-22T02:53:24Z'
+  retrieved_at: '2026-10-22T16:37:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T04:19:19.527+02:00'
 integrity:
@@ -61,9 +204,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:24Z'
-  notes: Texto consolidado 02014R0909-20260117.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:37:13Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2014-909.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -272,36 +415,20 @@ relationships:
   date: '2025-04-01'
 article_structure:
   article_count: 82
-  section_count: 60
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 61
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:24Z'
-  warnings: []
+  checked_at: '2026-10-22T16:37:13Z'
+  warnings:
+  - '02014R0909-20140917: versão indisponível (Sem expressão na língua por para CELEX 02014R0909-20140917.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 909/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014
-
-> 02014R0909 — PT — 17.01.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R1033) — [REGULAMENTO (UE) 2016/1033 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1033) — L 175 — 1 — 30.6.2016
-- [►M2](http://publications.europa.eu/resource/celex/32022R0858) — [REGULAMENTO (UE) 2022/858 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0858) — L 151 — 1 — 2.6.2022
-- [►M3](http://publications.europa.eu/resource/celex/32022R2554) — [REGULAMENTO (UE) 2022/2554 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2554) — L 333 — 1 — 27.12.2022
-- [►M4](http://publications.europa.eu/resource/celex/32023R2845) — [REGULAMENTO (UE) 2023/2845 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2845) — L 2845 — 1 — 27.12.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0909R%2804%29) — [Rectificação, JO L 349, 21.12.2016, p. 8 (909/2014)](http://publications.europa.eu/resource/celex/32014R0909R%2804%29)
-
-## REGULAMENTO (UE) N.º 909/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de julho de 2014
 

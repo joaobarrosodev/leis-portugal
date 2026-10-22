@@ -37,6 +37,402 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-10-29'
+version_history:
+  file: regulamento-ue-2011-142.versoes.json
+  count: 14
+  source_lastmod: '2025-10-29'
+  versions:
+  - date: '2011-02-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-07-31'
+    amending: eu:celex:32011R0749:por
+    amending_title: REGULAMENTO (UE) N. o 749/2011 DA COMISSÃO de 29 de Julho de 2011; REGULAMENTO (UE) N. o 1063/2012 DA
+      COMISSÃO de 13 de novembro de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 1097/2012 DA COMISSÃO de 23 de novembro de 2012;
+      REGULAMENTO (UE) N. o 294/2013 DA COMISSÃO de 14 de março de 2013; REGULAMENTO (UE) N. o 555/2013 DA COMISSÃO de 14
+      de junho de 2013; M6; M7; REGULAMENTO (UE) N. o 592/2014 DA COMISSÃO de 3 de junho de 2014; REGULAMENTO (UE) 2015/9
+      DA COMISSÃO de 6 de janeiro de 2015; REGULAMENTO (UE) 2017/172 DA COMISSÃO de 1 de fevereiro de 2017; REGULAMENTO (UE)
+      2017/786 DA COMISSÃO de 8 de maio de 2017; REGULAMENTO (UE) 2017/893 DA COMISSÃO de 24 de maio de 2017; REGULAMENTO
+      (UE) 2017/1261 DA COMISSÃO de 12 de julho de 2017; REGULAMENTO (UE) 2017/1262 DA COMISSÃO de 12 de julho de 2017; REGULAMENTO
+      (UE) 2019/319 DA COMISSÃO de 6 de fevereiro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1084 DA COMISSÃO de 25 de junho
+      de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2019/1177 DA COMISSÃO de 10 de julho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Ponto final na cadeia de fabrico para certos produtos derivados
+    - Altera Artigo 7.º — Deposição em aterros de certas matérias das categorias 1 e 3
+    - Altera Artigo 13.º — Regras especiais em matéria de alimentação animal
+    - Altera Artigo 15.º — Regras especiais relativas à recolha e eliminação
+    - Altera Artigo 19.º — Requisitos relativos a determinados estabelecimentos e instalações aprovados que manuseiam subprodutos
+      animais e produtos derivados
+    - Altera Artigo 20.º — Requisitos relativos a determinados estabelecimentos e instalações registados que manuseiam subprodutos
+      animais e produtos derivados
+    - Altera Artigo 22.º — Colocação no mercado e utilização de fertilizantes orgânicos e de correctivos orgânicos do solo
+    - Altera Artigo 23.º — Produtos intermédios
+    - Altera Artigo 25.º — Importação, trânsito e exportação de subprodutos animais e de produtos derivados
+    - Altera Artigo 26.º — Colocação no mercado, incluindo importação, e exportação de certas matérias de categoria 1
+    - Altera Artigo 30.º — Listas de estabelecimentos e instalações em países terceiros
+    - Altera Artigo 32.º — Controlos oficiais
+    - Altera Artigo 36.º — Medidas transitórias
+    - Altera Artigo 37.º
+    - Altera Notas
+    - Adita Artigo 6.º — Eliminação por incineração, eliminação ou recuperação por coincineração e utilização como combustível
+      para combustão
+    - Adita Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Adita Artigo 29.º-A — Requisitos específicos aplicáveis ao trânsito pela Croácia de subprodutos animais provenientes
+      da Bósnia e Herzegovina e com destino a países terceiros
+    - Adita ANEXO I
+    - Adita DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Adita ANEXO II
+    - Adita RESTRIÇÕES APLICÁVEIS À UTILIZAÇÃO DE SUBPRODUTOS ANIMAIS
+    - Adita Reciclagem intra-espécies de animais destinados à produção de peles com pêlo
+    - Adita Alimentação de animais de criação com erva
+    - Adita ANEXO III
+    - Adita ELIMINAÇÃO, RECUPERAÇÃO E UTILIZAÇÃO COMO COMBUSTÍVEL
+    - Adita REQUISITOS GERAIS APLICÁVEIS À INCINERAÇÃO E À CO-INCINERAÇÃO
+    - Adita INSTALAÇÕES DE INCINERAÇÃO E DE CO-INCINERAÇÃO DE CAPACIDADE ELEVADA
+    - Adita INSTALAÇÕES DE INCINERAÇÃO E DE CO-INCINERAÇÃO DE BAIXA CAPACIDADE
+    - Adita REQUISITOS GERAIS RELATIVOS À UTILIZAÇÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS COMO COMBUSTÍVEL
+    - Adita TIPOS DE INSTALAÇÕES E COMBUSTÍVEIS QUE PODEM SER UTILIZADOS PARA COMBUSTÃO E REQUISITOS ESPECÍFICOS PARA DETERMINADOS
+      TIPOS DE INSTALAÇÕES
+    - Adita ANEXO IV
+    - Adita PROCESSAMENTO
+    - Adita REQUISITOS APLICÁVEIS A UNIDADES DE PROCESSAMENTO E CERTOS OUTROS TIPOS DE INSTALAÇÕES E ESTABELECIMENTOS
+    - Adita REQUISITOS DE HIGIENE E PROCESSAMENTO
+    - Adita MÉTODOS DE PROCESSAMENTO NORMALIZADOS
+    - Adita MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Adita ANEXO V
+    - Adita TRANSFORMAÇÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS EM BIOGÁS E COMPOSTO
+  - date: '2020-06-30'
+    amending: eu:celex:32019R2122:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/2122 DA COMISSÃO de 10 de outubro de 2019; REGULAMENTO DELEGADO (UE) 2019/2124
+      DA COMISSÃO de 10 de outubro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2020/207 DA COMISSÃO de 14 de fevereiro de 2020;
+      REGULAMENTO (UE) 2020/735 DA COMISSÃO de 2 de junho de 2020; REGULAMENTO (UE) 2020/757 DA COMISSÃO de 8 de junho de
+      2020; REGULAMENTO (UE) 2020/762 DA COMISSÃO de 9 de junho de 2020; REGULAMENTO (UE) 2020/797 DA COMISSÃO de 17 de junho
+      de 2020
+    changes:
+    - Altera Artigo 6.º — Eliminação por incineração, eliminação ou recuperação por coincineração e utilização como combustível
+      para combustão
+    - Altera Artigo 19.º — Requisitos relativos a determinados estabelecimentos e instalações aprovados que manuseiam subprodutos
+      animais e produtos derivados
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera Artigo 25.º — Importação, trânsito e exportação de subprodutos animais e de produtos derivados
+    - Altera Artigo 26.º — Colocação no mercado, incluindo importação, e exportação de certas matérias de categoria 1
+    - Altera Artigo 27.º — Importação e trânsito de amostras para investigação e diagnóstico
+    - Altera Artigo 29.º — Requisitos específicos aplicáveis a determinadas deslocações de subprodutos animais entre os territórios
+      da Federação da Rússia
+    - Altera Artigo 29.º-A — Requisitos específicos aplicáveis ao trânsito pela Croácia de subprodutos animais provenientes
+      da Bósnia e Herzegovina e com destino a países terceiros
+    - Altera Artigo 31.º — Modelos de certificados sanitários e declarações para importação e trânsito
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera TIPOS DE INSTALAÇÕES E COMBUSTÍVEIS QUE PODEM SER UTILIZADOS PARA COMBUSTÃO E REQUISITOS ESPECÍFICOS PARA DETERMINADOS
+      TIPOS DE INSTALAÇÕES
+    - Altera MÉTODOS DE PROCESSAMENTO NORMALIZADOS
+    - Altera MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera IDENTIFICAÇÃO
+    - Altera Notas
+    - Altera MANUSEAMENTO DE SUBPRODUTOS ANIMAIS APÓS A SUA RECOLHA
+    - Altera MÉTODOS DE CONFINAMENTO
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS A PROTEÍNAS ANIMAIS TRANSFORMADAS E A OUTROS PRODUTOS DERIVADOS
+    - Altera Requisitos específicos aplicáveis aos alimentos para animais de companhia, incluindo os ossos de couro
+    - Altera Requisitos específicos aplicáveis aos couros e peles de ungulados e produtos derivados
+    - Altera Requisitos específicos aplicáveis a troféus de caça e outras preparações à base de animais
+    - Altera Requisitos específicos aplicáveis à lã, ao pêlo, às cerdas de suíno, às penas, partes de penas e penugem
+    - Altera Requisitos específicos aplicáveis aos derivados de gorduras
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES FORA DA CADEIA ALIMENTAR DOS ANIMAIS DE CRIAÇÃO, EXCEPTO ANIMAIS DESTINADOS À PRODUÇÃO DE PELES COM
+      PÊLO
+    - Altera REGRAS PARA A EXPORTAÇÃO DE CERTOS PRODUTOS DERIVADOS
+    - Adita A. Motores fixos de combustão interna
+    - Adita B. Instalações de combustão numa exploração em que o chorume de aves de capoeira é utilizado como combustível
+    - Adita C. Instalações de combustão em que o chorume de animais de criação, com exceção do chorume de aves de capoeira
+      visado no ponto B, é utilizado como combustível para combustão
+    - 'Adita 1. Tipo de instalação:'
+    - 'Adita 2. Matérias de base:'
+    - 'Adita 3. Metodologia:'
+    - 'Adita 4. Derrogações e período transitório:'
+    - Adita D. Instalações de combustão em que a farinha de carne e ossos é utilizada como combustível para combustão
+    - Adita A. Método de processamento 1 (esterilização sob pressão)
+    - Adita B. Método de processamento 2
+    - Adita C. Método de processamento 3
+    - Adita D. Método de processamento 4
+    - Adita E. Método de processamento 5
+  - date: '2020-12-08'
+    amending: eu:celex:32020R1720:por
+    amending_title: REGULAMENTO (UE) 2020/1720 DA COMISSÃO de 17 de novembro de 2020
+    changes:
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera Notas
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES FORA DA CADEIA ALIMENTAR DOS ANIMAIS DE CRIAÇÃO, EXCEPTO ANIMAIS DESTINADOS À PRODUÇÃO DE PELES COM
+      PÊLO
+    - Altera REQUISITOS APLICÁVEIS À ENTRADA DE REMESSAS DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS ORIGINÁRIOS DA UNIÃO
+      E QUE REGRESSAM À UNIÃO NA SEQUÊNCIA DE UMA RECUSA DE ENTRADA NUM PAÍS TERCEIRO
+  - date: '2021-01-01'
+    amending: eu:celex:32021R0899:por
+    amending_title: REGULAMENTO (UE) 2021/899 DA COMISSÃO de 3 de junho de 2021
+    changes:
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera TIPOS DE INSTALAÇÕES E COMBUSTÍVEIS QUE PODEM SER UTILIZADOS PARA COMBUSTÃO E REQUISITOS ESPECÍFICOS PARA DETERMINADOS
+      TIPOS DE INSTALAÇÕES
+    - Altera MÉTODOS DE PROCESSAMENTO NORMALIZADOS
+    - Altera MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera Notas
+    - Altera MÉTODOS DE CONFINAMENTO
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS A PROTEÍNAS ANIMAIS TRANSFORMADAS E A OUTROS PRODUTOS DERIVADOS
+    - Altera Requisitos específicos aplicáveis aos alimentos para animais de companhia, incluindo os ossos de couro
+    - Altera Requisitos específicos aplicáveis aos couros e peles de ungulados e produtos derivados
+    - Altera Requisitos específicos aplicáveis à lã, ao pêlo, às cerdas de suíno, às penas, partes de penas e penugem
+    - Altera REGRAS PARA A EXPORTAÇÃO DE CERTOS PRODUTOS DERIVADOS
+    - Altera REQUISITOS APLICÁVEIS À ENTRADA DE REMESSAS DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS ORIGINÁRIOS DA UNIÃO
+      E QUE REGRESSAM À UNIÃO NA SEQUÊNCIA DE UMA RECUSA DE ENTRADA NUM PAÍS TERCEIRO
+    - Suprime A. Motores fixos de combustão interna
+    - Suprime B. Instalações de combustão numa exploração em que o chorume de aves de capoeira é utilizado como combustível
+    - Suprime C. Instalações de combustão em que o chorume de animais de criação, com exceção do chorume de aves de capoeira
+      visado no ponto B, é utilizado como combustível para combustão
+    - 'Suprime 1. Tipo de instalação:'
+    - 'Suprime 2. Matérias de base:'
+    - 'Suprime 3. Metodologia:'
+    - 'Suprime 4. Derrogações e período transitório:'
+    - Suprime D. Instalações de combustão em que a farinha de carne e ossos é utilizada como combustível para combustão
+    - Suprime A. Método de processamento 1 (esterilização sob pressão)
+    - Suprime B. Método de processamento 2
+    - Suprime C. Método de processamento 3
+    - Suprime D. Método de processamento 4
+    - Suprime E. Método de processamento 5
+    - Suprime F. Método de processamento 6 (para subprodutos animais de categoria 3 provenientes apenas de animais aquáticos
+      ou invertebrados aquáticos)
+    - Suprime G. Método de processamento 7
+    - Suprime A. Processo de hidrólise alcalina
+    - Suprime 1. Matérias de base
+    - Suprime 2. Método de processamento
+    - Suprime B. Processo de hidrólise a alta pressão e alta temperatura
+    - Suprime C. Processo de produção de biogás por hidrólise a alta pressão
+    - Suprime D. Processo de produção de biodiesel
+    - Suprime E. Processo de gaseificação de Brookes
+    - Suprime F. Processo de combustão de gordura animal em caldeira térmica
+    - Suprime G. Processo termo-mecânico para a produção de biocombustível
+    - Suprime I. Tratamento com cal de chorume de suíno e aves de capoeira
+  - date: '2021-10-17'
+    amending: eu:celex:32021R1699:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1699 DA COMISSÃO de 22 de setembro de 2021
+    changes:
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera Notas
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS A PROTEÍNAS ANIMAIS TRANSFORMADAS E A OUTROS PRODUTOS DERIVADOS
+    - Altera REGRAS PARA A EXPORTAÇÃO DE CERTOS PRODUTOS DERIVADOS
+    - Altera REQUISITOS APLICÁVEIS À ENTRADA DE REMESSAS DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS ORIGINÁRIOS DA UNIÃO
+      E QUE REGRESSAM À UNIÃO NA SEQUÊNCIA DE UMA RECUSA DE ENTRADA NUM PAÍS TERCEIRO
+  - date: '2021-11-18'
+    amending: eu:celex:32021R1891:por
+    amending_title: REGULAMENTO (UE) 2021/1891 DA COMISSÃO de 26 de outubro de 2021
+    changes:
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera Notas
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS A PROTEÍNAS ANIMAIS TRANSFORMADAS E A OUTROS PRODUTOS DERIVADOS
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES FORA DA CADEIA ALIMENTAR DOS ANIMAIS DE CRIAÇÃO, EXCEPTO ANIMAIS DESTINADOS À PRODUÇÃO DE PELES COM
+      PÊLO
+    - Altera REGRAS PARA A EXPORTAÇÃO DE CERTOS PRODUTOS DERIVADOS
+    - Altera REQUISITOS APLICÁVEIS À ENTRADA DE REMESSAS DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS ORIGINÁRIOS DA UNIÃO
+      E QUE REGRESSAM À UNIÃO NA SEQUÊNCIA DE UMA RECUSA DE ENTRADA NUM PAÍS TERCEIRO
+    - Altera Certificado sanitário
+  - date: '2021-12-05'
+    amending: eu:celex:32021R1925:por
+    amending_title: REGULAMENTO (UE) 2021/1925 DA COMISSÃO de 5 de novembro de 2021; REGULAMENTO (UE) 2021/1929 DA COMISSÃO
+      de 8 de novembro de 2021; M31
+    changes:
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera Notas
+    - Altera MÉTODOS DE CONFINAMENTO
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS A PROTEÍNAS ANIMAIS TRANSFORMADAS E A OUTROS PRODUTOS DERIVADOS
+    - Altera REQUISITOS APLICÁVEIS AO CHORUME NÃO TRANSFORMADO, AO CHORUME TRANSFORMADO E AOS PRODUTOS DERIVADOS DE CHORUME
+      TRANSFORMADO
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES FORA DA CADEIA ALIMENTAR DOS ANIMAIS DE CRIAÇÃO, EXCEPTO ANIMAIS DESTINADOS À PRODUÇÃO DE PELES COM
+      PÊLO
+    - Altera REGRAS PARA A EXPORTAÇÃO DE CERTOS PRODUTOS DERIVADOS
+    - Altera REQUISITOS APLICÁVEIS À ENTRADA DE REMESSAS DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS ORIGINÁRIOS DA UNIÃO
+      E QUE REGRESSAM À UNIÃO NA SEQUÊNCIA DE UMA RECUSA DE ENTRADA NUM PAÍS TERCEIRO
+  - date: '2022-03-28'
+    amending: eu:celex:32022R0384:por
+    amending_title: REGULAMENTO (UE) 2022/384 DA COMISSÃO de 4 de março de 2022
+    changes:
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera Notas
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS A PROTEÍNAS ANIMAIS TRANSFORMADAS E A OUTROS PRODUTOS DERIVADOS
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE MATÉRIAS DE CATEGORIA 3 E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES NA CADEIA ALIMENTAR ANIMAL, EXCEPTO A ALIMENTAÇÃO DE ANIMAIS DE COMPANHIA E DE ANIMAIS DESTINADOS À
+      PRODUÇÃO DE PELES COM PÊLO
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES FORA DA CADEIA ALIMENTAR DOS ANIMAIS DE CRIAÇÃO, EXCEPTO ANIMAIS DESTINADOS À PRODUÇÃO DE PELES COM
+      PÊLO
+    - Altera REGRAS PARA A EXPORTAÇÃO DE CERTOS PRODUTOS DERIVADOS
+    - Altera REQUISITOS APLICÁVEIS À ENTRADA DE REMESSAS DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS ORIGINÁRIOS DA UNIÃO
+      E QUE REGRESSAM À UNIÃO NA SEQUÊNCIA DE UMA RECUSA DE ENTRADA NUM PAÍS TERCEIRO
+  - date: '2022-04-17'
+    amending: eu:celex:32022R0488:por
+    amending_title: M33
+    changes:
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera Notas
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS A PROTEÍNAS ANIMAIS TRANSFORMADAS E A OUTROS PRODUTOS DERIVADOS
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE MATÉRIAS DE CATEGORIA 3 E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES NA CADEIA ALIMENTAR ANIMAL, EXCEPTO A ALIMENTAÇÃO DE ANIMAIS DE COMPANHIA E DE ANIMAIS DESTINADOS À
+      PRODUÇÃO DE PELES COM PÊLO
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES FORA DA CADEIA ALIMENTAR DOS ANIMAIS DE CRIAÇÃO, EXCEPTO ANIMAIS DESTINADOS À PRODUÇÃO DE PELES COM
+      PÊLO
+    - Altera REGRAS PARA A EXPORTAÇÃO DE CERTOS PRODUTOS DERIVADOS
+    - Altera REQUISITOS APLICÁVEIS À ENTRADA DE REMESSAS DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS ORIGINÁRIOS DA UNIÃO
+      E QUE REGRESSAM À UNIÃO NA SEQUÊNCIA DE UMA RECUSA DE ENTRADA NUM PAÍS TERCEIRO
+  - date: '2023-12-14'
+    amending: eu:celex:32023R2613:por
+    amending_title: REGULAMENTO (UE) 2023/2613 DA COMISSÃO de 23 de novembro de 2023
+    changes:
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera Notas
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS A PROTEÍNAS ANIMAIS TRANSFORMADAS E A OUTROS PRODUTOS DERIVADOS
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE MATÉRIAS DE CATEGORIA 3 E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES NA CADEIA ALIMENTAR ANIMAL, EXCEPTO A ALIMENTAÇÃO DE ANIMAIS DE COMPANHIA E DE ANIMAIS DESTINADOS À
+      PRODUÇÃO DE PELES COM PÊLO
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES FORA DA CADEIA ALIMENTAR DOS ANIMAIS DE CRIAÇÃO, EXCEPTO ANIMAIS DESTINADOS À PRODUÇÃO DE PELES COM
+      PÊLO
+    - Altera REGRAS PARA A EXPORTAÇÃO DE CERTOS PRODUTOS DERIVADOS
+    - Altera REQUISITOS APLICÁVEIS À ENTRADA DE REMESSAS DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS ORIGINÁRIOS DA UNIÃO
+      E QUE REGRESSAM À UNIÃO NA SEQUÊNCIA DE UMA RECUSA DE ENTRADA NUM PAÍS TERCEIRO
+  - date: '2024-07-11'
+    amending: eu:celex:32024R1719:por
+    amending_title: M35
+    changes:
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera REQUISITOS GERAIS RELATIVOS À UTILIZAÇÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS COMO COMBUSTÍVEL
+    - Altera MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera Notas
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS A PROTEÍNAS ANIMAIS TRANSFORMADAS E A OUTROS PRODUTOS DERIVADOS
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE MATÉRIAS DE CATEGORIA 3 E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES NA CADEIA ALIMENTAR ANIMAL, EXCEPTO A ALIMENTAÇÃO DE ANIMAIS DE COMPANHIA E DE ANIMAIS DESTINADOS À
+      PRODUÇÃO DE PELES COM PÊLO
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES FORA DA CADEIA ALIMENTAR DOS ANIMAIS DE CRIAÇÃO, EXCEPTO ANIMAIS DESTINADOS À PRODUÇÃO DE PELES COM
+      PÊLO
+    - Altera REGRAS PARA A EXPORTAÇÃO DE CERTOS PRODUTOS DERIVADOS
+    - Altera REQUISITOS APLICÁVEIS À ENTRADA DE REMESSAS DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS ORIGINÁRIOS DA UNIÃO
+      E QUE REGRESSAM À UNIÃO NA SEQUÊNCIA DE UMA RECUSA DE ENTRADA NUM PAÍS TERCEIRO
+  - date: '2025-08-05'
+    amending: eu:celex:32025R1377:por
+    amending_title: REGULAMENTO (UE) 2025/1377 DA COMISSÃO de 15 de julho de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/1379
+      DA COMISSÃO de 15 de julho de 2025
+    changes:
+    - Altera Artigo 13.º — Regras especiais em matéria de alimentação animal
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera Artigo 25.º — Importação, trânsito e exportação de subprodutos animais e de produtos derivados
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Altera REQUISITOS APLICÁVEIS ÀS INSTALAÇÕES
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera DOCUMENTOS COMERCIAIS E CERTIFICADOS SANITÁRIOS
+    - Altera Notas
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS A PROTEÍNAS ANIMAIS TRANSFORMADAS E A OUTROS PRODUTOS DERIVADOS
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE MATÉRIAS DE CATEGORIA 3 E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES NA CADEIA ALIMENTAR ANIMAL, EXCEPTO A ALIMENTAÇÃO DE ANIMAIS DE COMPANHIA E DE ANIMAIS DESTINADOS À
+      PRODUÇÃO DE PELES COM PÊLO
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES FORA DA CADEIA ALIMENTAR DOS ANIMAIS DE CRIAÇÃO, EXCEPTO ANIMAIS DESTINADOS À PRODUÇÃO DE PELES COM
+      PÊLO
+    - Altera REGRAS PARA A EXPORTAÇÃO DE CERTOS PRODUTOS DERIVADOS
+    - Altera REQUISITOS APLICÁVEIS À ENTRADA DE REMESSAS DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS ORIGINÁRIOS DA UNIÃO
+      E QUE REGRESSAM À UNIÃO NA SEQUÊNCIA DE UMA RECUSA DE ENTRADA NUM PAÍS TERCEIRO
+    - Altera CAPÍTULO 1
+    - Altera Certificado sanitário
+    - Altera CAPÍTULO 2(A)
+    - Altera CAPÍTULO 2(B)
+    - Altera CAPÍTULO 3(A)
+    - Altera CAPÍTULO 3(B)
+    - Altera CAPÍTULO 3(C)
+    - Altera CAPÍTULO 3(D)
+    - Altera CAPÍTULO 3(E)
+    - Altera CAPÍTULO 4(B)
+    - Altera CAPÍTULO 4(C)
+    - Altera CAPÍTULO 4(D)
+    - Altera Declaração oficial
+    - Altera CAPÍTULO 6(B)
+    - Altera CAPÍTULO 10(A)
+    - Altera CAPÍTULO 11
+    - Altera CAPÍTULO 12
+    - Altera Modelo de declaração
+    - Altera CAPÍTULO 18
+    - Altera CAPÍTULO 20
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS AOS CONTROLOS OFICIAIS
+  - date: '2025-10-29'
+    amending: eu:celex:32025R2016:por
+    amending_title: M38; REGULAMENTO (UE) 2026/176 DA COMISSÃO de 26 de janeiro de 2026
+    changes:
+    - Altera Artigo 20.º-A — Listas de estabelecimentos, instalações e operadores nos Estados-Membros
+    - Altera Artigo 21.º — Processamento e colocação no mercado de subprodutos animais e produtos derivados para a alimentação
+      de animais de criação, à excepção dos destinados à produção de peles com pêlo
+    - Altera DEFINIÇÕES REFERIDAS NO ARTIGO 2.º
+    - Altera MÉTODOS DE PROCESSAMENTO ALTERNATIVOS
+    - Altera REGRAS ESPECIAIS RELATIVAS A AMOSTRAS PARA INVESTIGAÇÃO E OUTROS FINS
+    - Altera Notas
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS A PROTEÍNAS ANIMAIS TRANSFORMADAS E A OUTROS PRODUTOS DERIVADOS
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE MATÉRIAS DE CATEGORIA 3 E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES NA CADEIA ALIMENTAR ANIMAL, EXCEPTO A ALIMENTAÇÃO DE ANIMAIS DE COMPANHIA E DE ANIMAIS DESTINADOS À
+      PRODUÇÃO DE PELES COM PÊLO
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS À IMPORTAÇÃO E TRÂNSITO NA UNIÃO DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS
+      PARA UTILIZAÇÕES FORA DA CADEIA ALIMENTAR DOS ANIMAIS DE CRIAÇÃO, EXCEPTO ANIMAIS DESTINADOS À PRODUÇÃO DE PELES COM
+      PÊLO
+    - Altera REGRAS PARA A EXPORTAÇÃO DE CERTOS PRODUTOS DERIVADOS
+    - Altera REQUISITOS APLICÁVEIS À ENTRADA DE REMESSAS DE SUBPRODUTOS ANIMAIS E PRODUTOS DERIVADOS ORIGINÁRIOS DA UNIÃO
+      E QUE REGRESSAM À UNIÃO NA SEQUÊNCIA DE UMA RECUSA DE ENTRADA NUM PAÍS TERCEIRO
 identifiers:
   celex: 32011R0142
   eli: http://data.europa.eu/eli/reg/2011/142/oj
@@ -51,7 +447,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6bc4ac56-89ff-4461-8c01-68069ce763fa.0009
   content_url: http://publications.europa.eu/resource/cellar/5060cac1-bf1e-11f0-a612-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0142-20251029
-  retrieved_at: '2026-10-22T02:44:33Z'
+  retrieved_at: '2026-10-22T16:40:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-11T13:09:38.219+02:00'
 integrity:
@@ -60,9 +456,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:33Z'
-  notes: Texto consolidado 02011R0142-20251029.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:40:54Z'
+  notes: 14 versão(ões); histórico completo em regulamento-ue-2011-142.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -682,72 +1078,36 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 39
-  section_count: 229
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 230
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:33Z'
-  warnings: []
+  checked_at: '2026-10-22T16:40:54Z'
+  warnings:
+  - '02011R0142-20110819: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20121204: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20121214: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20130315: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20131201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20140319: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20140715: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20150223: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20170222: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20170529: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20170701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20170802: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20190716: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20191214: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20200308: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02011R0142-20200623: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 142/2011 da Comissão, de 25 de Fevereiro de 2011
-
-> 02011R0142 — PT — 29.10.2025 — 030.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011R0749) — [REGULAMENTO (UE) N.º 749/2011 DA COMISSÃO de 29 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0749) — L 198 — 3 — 30.7.2011
-- [►M2](http://publications.europa.eu/resource/celex/32012R1063) — [REGULAMENTO (UE) N.º 1063/2012 DA COMISSÃO de 13 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1063) — L 314 — 5 — 14.11.2012
-- [►M3](http://publications.europa.eu/resource/celex/32012R1097) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1097/2012 DA COMISSÃO de 23 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1097) — L 326 — 3 — 24.11.2012
-- [►M4](http://publications.europa.eu/resource/celex/32013R0294) — [REGULAMENTO (UE) N.º 294/2013 DA COMISSÃO de 14 de março de 2013](http://publications.europa.eu/resource/celex/32013R0294) — L 98 — 1 — 6.4.2013
-- [►M5](http://publications.europa.eu/resource/celex/32013R0555) — [REGULAMENTO (UE) N.º 555/2013 DA COMISSÃO de 14 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0555) — L 164 — 11 — 18.6.2013
-- [M6](http://publications.europa.eu/resource/celex/32013R0717) — [REGULAMENTO (UE) N.º 717/2013 DA COMISSÃO de 25 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0717) — L 201 — 31 — 26.7.2013
-- [M7](http://publications.europa.eu/resource/celex/32014R0185) — [REGULAMENTO (UE) N.º 185/2014 DA COMISSÃO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0185) — L 57 — 21 — 27.2.2014
-- [►M8](http://publications.europa.eu/resource/celex/32014R0592) — [REGULAMENTO (UE) N.º 592/2014 DA COMISSÃO de 3 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0592) — L 165 — 33 — 4.6.2014
-- [►M9](http://publications.europa.eu/resource/celex/32015R0009) — [REGULAMENTO (UE) 2015/9 DA COMISSÃO de 6 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015R0009) — L 3 — 10 — 7.1.2015
-- [►M10](http://publications.europa.eu/resource/celex/32017R0172) — [REGULAMENTO (UE) 2017/172 DA COMISSÃO de 1 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0172) — L 28 — 1 — 2.2.2017
-- [►M11](http://publications.europa.eu/resource/celex/32017R0786) — [REGULAMENTO (UE) 2017/786 DA COMISSÃO de 8 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0786) — L 119 — 1 — 9.5.2017
-- [►M12](http://publications.europa.eu/resource/celex/32017R0893) — [REGULAMENTO (UE) 2017/893 DA COMISSÃO de 24 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0893) — L 138 — 92 — 25.5.2017
-- [►M13](http://publications.europa.eu/resource/celex/32017R1261) — [REGULAMENTO (UE) 2017/1261 DA COMISSÃO de 12 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1261) — L 182 — 31 — 13.7.2017
-- [►M14](http://publications.europa.eu/resource/celex/32017R1262) — [REGULAMENTO (UE) 2017/1262 DA COMISSÃO de 12 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1262) — L 182 — 34 — 13.7.2017
-- [►M15](http://publications.europa.eu/resource/celex/32019R0319) — [REGULAMENTO (UE) 2019/319 DA COMISSÃO de 6 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0319) — L 61 — 1 — 28.2.2019
-- [►M16](http://publications.europa.eu/resource/celex/32019R1084) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1084 DA COMISSÃO de 25 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1084) — L 171 — 100 — 26.6.2019
-- [M17](http://publications.europa.eu/resource/celex/32019R1177) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1177 DA COMISSÃO de 10 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1177) — L 185 — 26 — 11.7.2019
-- [►M18](http://publications.europa.eu/resource/celex/32019R2122) — [REGULAMENTO DELEGADO (UE) 2019/2122 DA COMISSÃO de 10 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2122) — L 321 — 45 — 12.12.2019
-- [►M19](http://publications.europa.eu/resource/celex/32019R2124) — [REGULAMENTO DELEGADO (UE) 2019/2124 DA COMISSÃO de 10 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2124) — L 321 — 73 — 12.12.2019
-- [M20](http://publications.europa.eu/resource/celex/32020R0207) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/207 DA COMISSÃO de 14 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0207) — L 43 — 69 — 17.2.2020
-- [►M21](http://publications.europa.eu/resource/celex/32020R0735) — [REGULAMENTO (UE) 2020/735 DA COMISSÃO de 2 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0735) — L 172 — 3 — 3.6.2020
-- [►M22](http://publications.europa.eu/resource/celex/32020R0757) — [REGULAMENTO (UE) 2020/757 DA COMISSÃO de 8 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0757) — L 179 — 5 — 9.6.2020
-- [►M23](http://publications.europa.eu/resource/celex/32020R0762) — [REGULAMENTO (UE) 2020/762 DA COMISSÃO de 9 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0762) — L 182 — 3 — 10.6.2020
-- [►M24](http://publications.europa.eu/resource/celex/32020R0797) — [REGULAMENTO (UE) 2020/797 DA COMISSÃO de 17 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0797) — L 194 — 1 — 18.6.2020
-- [M25](http://publications.europa.eu/resource/celex/32020R1720) — [REGULAMENTO (UE) 2020/1720 DA COMISSÃO de 17 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1720) — L 386 — 6 — 18.11.2020
-- [►M26](http://publications.europa.eu/resource/celex/32021R0899) — [REGULAMENTO (UE) 2021/899 DA COMISSÃO de 3 de junho de 2021](http://publications.europa.eu/resource/celex/32021R0899) — L 197 — 68 — 4.6.2021
-- [M27](http://publications.europa.eu/resource/celex/32021R1699) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1699 DA COMISSÃO de 22 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R1699) — L 336 — 42 — 23.9.2021
-- [►M28](http://publications.europa.eu/resource/celex/32021R1891) — [REGULAMENTO (UE) 2021/1891 DA COMISSÃO de 26 de outubro de 2021](http://publications.europa.eu/resource/celex/32021R1891) — L 384 — 84 — 29.10.2021
-- [►M29](http://publications.europa.eu/resource/celex/32021R1925) — [REGULAMENTO (UE) 2021/1925 DA COMISSÃO de 5 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1925) — L 393 — 4 — 8.11.2021
-- [►M30](http://publications.europa.eu/resource/celex/32021R1929) — [REGULAMENTO (UE) 2021/1929 DA COMISSÃO de 8 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1929) — L 394 — 4 — 9.11.2021
-- [M31](http://publications.europa.eu/resource/celex/32021R1973) — [REGULAMENTO (UE) 2021/1973 DA COMISSÃO de 12 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1973) — L 402 — 4 — 15.11.2021
-- [►M32](http://publications.europa.eu/resource/celex/32022R0384) — [REGULAMENTO (UE) 2022/384 DA COMISSÃO de 4 de março de 2022](http://publications.europa.eu/resource/celex/32022R0384) — L 78 — 1 — 8.3.2022
-- [M33](http://publications.europa.eu/resource/celex/32022R0488) — [REGULAMENTO (UE) 2022/488 DA COMISSÃO de 25 de março de 2022](http://publications.europa.eu/resource/celex/32022R0488) — L 100 — 6 — 28.3.2022
-- [M34](http://publications.europa.eu/resource/celex/32023R2613) — [REGULAMENTO (UE) 2023/2613 DA COMISSÃO de 23 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2613) — L 2613 — 1 — 24.11.2023
-- [M35](http://publications.europa.eu/resource/celex/32024R1719) — [REGULAMENTO (UE) 2024/1719 DA COMISSÃO de 20 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1719) — L 1719 — 1 — 21.6.2024
-- [►M36](http://publications.europa.eu/resource/celex/32025R1377) — [REGULAMENTO (UE) 2025/1377 DA COMISSÃO de 15 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1377) — L 1377 — 1 — 16.7.2025
-- [►M37](http://publications.europa.eu/resource/celex/32025R1379) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1379 DA COMISSÃO de 15 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1379) — L 1379 — 1 — 16.7.2025
-- [M38](http://publications.europa.eu/resource/celex/32025R2016) — [REGULAMENTO (UE) 2025/2016 DA COMISSÃO de 8 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2016) — L 2016 — 1 — 9.10.2025
-- [►M39](http://publications.europa.eu/resource/celex/32026R0176) — [REGULAMENTO (UE) 2026/176 DA COMISSÃO de 26 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0176) — L 176 — 1 — 27.1.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R0142R%2814%29) — [Rectificação, JO L 245, 22.9.2022, p. 71 (n.o 142/2011)](http://publications.europa.eu/resource/celex/32011R0142R%2814%29)
-- [►C2](http://publications.europa.eu/resource/celex/32014R0592R%2801%29) — [Rectificação, JO L 90019, 13.1.2025, p. 1 (n.o 592/2014)](http://publications.europa.eu/resource/celex/32014R0592R%2801%29)
-
-## REGULAMENTO (UE) N.º 142/2011 DA COMISSÃO
 
 de 25 de Fevereiro de 2011
 

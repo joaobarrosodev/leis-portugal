@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-06-27'
+version_history:
+  file: regulamento-ue-2014-653.versoes.json
+  count: 1
+  source_lastmod: '2014-06-27'
+  versions:
+  - date: '2014-06-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32014R0653
   eli: http://data.europa.eu/eli/reg/2014/653/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0027e2df-0e94-11e4-a7d0-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/daa9b768-9ac9-443b-a296-d4739b890ca0.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0653-20140627
-  retrieved_at: '2026-10-22T03:00:26Z'
+  retrieved_at: '2026-10-22T16:35:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T23:50:19.033+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:26Z'
-  notes: Texto consolidado 02014R0653-20140627.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:35:57Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2014-653.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,29 +138,19 @@ relationships:
   date: '2017-06-08'
 article_structure:
   article_count: 2
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:26Z'
+  checked_at: '2026-10-22T16:35:57Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 653/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014
-
-> 02014R0653 — PT — 27.06.2014 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0653R%2801%29) — [Rectificação, JO L 145, 8.6.2017, p. 27 (653/2014)](http://publications.europa.eu/resource/celex/32014R0653R%2801%29)
-
-## REGULAMENTO (UE) N.º 653/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de maio de 2014
 

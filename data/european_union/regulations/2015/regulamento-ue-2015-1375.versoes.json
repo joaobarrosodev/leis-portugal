@@ -1,0 +1,910 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32015R1375:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R1375-20250409",
+ "dre_path": null,
+ "source_lastmod": "2025-04-09",
+ "versions": [
+  {
+   "date": "2020-11-04",
+   "future": false,
+   "celex": "02015R1375-20201104",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2bfb6d3d54816e80",
+    "226c39ffd0a88dad",
+    "a270466f2d3705c7",
+    "91984205b300918e",
+    "f0f8c960bfdbce9b",
+    "7e81f43803d24cb6",
+    "46bb3bc4de01facb",
+    "3ffa36c3c502ee92",
+    "be61c6cc0ec5d863",
+    "7d32a58802a80884",
+    "9cf7e5623ca812e6",
+    "7f16272f4f7a3cba",
+    "314c1437b8a13f4c",
+    "ccdca24ecc4e7979",
+    "fcdcae8c047ccc37",
+    "74207855778a1423",
+    "10d508b0a33ba786",
+    "1e7a0903d2eed348",
+    "abccdc32c759618b",
+    "47a897abeecc2a67",
+    "957029aa9f9120df",
+    "1ecfc79da3f1ac7f",
+    "d37b098b4510241c",
+    "9d9dfd7c3094d3fd",
+    "06f487d089a42d44",
+    "d664376e2a8dcecd",
+    "b4dcbf1706d68665",
+    "65f14aa49187d775",
+    "3da879cf8d4dcf5f",
+    "121e803aa0ba200d",
+    "b3bcb2eca0646641",
+    "852174729551523b",
+    "e9c64e8e30b6aecd",
+    "f7a9174996159627",
+    "7d33d64ab9be5d52",
+    "605de009c8228aec",
+    "720af75c92791b10",
+    "5f6c40e32f2cc955",
+    "e03a0eb4d5b2eef3",
+    "6da92fe0e02efe2c",
+    "935efc1102b3f5e8",
+    "48fa5f7b94dc8eb9",
+    "cf90fb184eb8ecc6",
+    "64610ae29a6cb67c",
+    "3a659eb529cfce26",
+    "4952c1c974924ef3",
+    "d28ab2c4ae56610d"
+   ]
+  },
+  {
+   "date": "2021-04-21",
+   "future": false,
+   "celex": "02015R1375-20210421",
+   "acts": [
+    {
+     "id": "eu:celex:32021R0519:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2021/519 DA COMISSÃO de 24 de março de 2021",
+     "published": null,
+     "celex": "32021R0519"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Amostragem de carcaças",
+    "Altera Artigo 13.º — Requisitos sanitários para a importação",
+    "Altera Exame de outros animais que não os suínos",
+    "Altera RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+    "Altera NOTIFICAÇÃO DA SITUAÇÃO RELATIVA ÀS TRIQUINAS",
+    "Altera Notas",
+    "Adita ANEXO VII",
+    "Adita Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+    "Suprime Artigo 14.º — Documentação"
+   ],
+   "fragments": [
+    "2bfb6d3d54816e80",
+    "226c39ffd0a88dad",
+    "a270466f2d3705c7",
+    "91984205b300918e",
+    "f0f8c960bfdbce9b",
+    "7e81f43803d24cb6",
+    "efd71c45b0598add",
+    "3ffa36c3c502ee92",
+    "be61c6cc0ec5d863",
+    "7d32a58802a80884",
+    "9cf7e5623ca812e6",
+    "7f16272f4f7a3cba",
+    "314c1437b8a13f4c",
+    "ccdca24ecc4e7979",
+    "fcdcae8c047ccc37",
+    "74207855778a1423",
+    "10d508b0a33ba786",
+    "1e7a0903d2eed348",
+    "abccdc32c759618b",
+    "062b17514a51a213",
+    "1ecfc79da3f1ac7f",
+    "d37b098b4510241c",
+    "9d9dfd7c3094d3fd",
+    "06f487d089a42d44",
+    "d664376e2a8dcecd",
+    "b4dcbf1706d68665",
+    "65f14aa49187d775",
+    "3da879cf8d4dcf5f",
+    "121e803aa0ba200d",
+    "b3bcb2eca0646641",
+    "852174729551523b",
+    "e9c64e8e30b6aecd",
+    "f7a9174996159627",
+    "7d33d64ab9be5d52",
+    "605de009c8228aec",
+    "720af75c92791b10",
+    "70eea2797a4f8ac0",
+    "e03a0eb4d5b2eef3",
+    "6da92fe0e02efe2c",
+    "5caf3ed78a0f23c2",
+    "48fa5f7b94dc8eb9",
+    "4dc2150bb0e9fbb9",
+    "64610ae29a6cb67c",
+    "3a659eb529cfce26",
+    "e29a4c15abeb32f0",
+    "d46ca50274582635",
+    "a867bac39ead99b3",
+    "84d8919509e0eb08"
+   ]
+  },
+  {
+   "date": "2022-09-12",
+   "future": false,
+   "celex": "02015R1375-20220912",
+   "acts": [
+    {
+     "id": "eu:celex:32022R1418:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2022/1418 DA COMISSÃO de 22 de agosto de 2022",
+     "published": null,
+     "celex": "32022R1418"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Derrogações",
+    "Altera MÉTODOS EQUIVALENTES",
+    "Altera RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+    "Altera Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "2bfb6d3d54816e80",
+    "226c39ffd0a88dad",
+    "a270466f2d3705c7",
+    "91984205b300918e",
+    "f0f8c960bfdbce9b",
+    "7e81f43803d24cb6",
+    "efd71c45b0598add",
+    "74cb702aeffd09aa",
+    "be61c6cc0ec5d863",
+    "7d32a58802a80884",
+    "9cf7e5623ca812e6",
+    "7f16272f4f7a3cba",
+    "314c1437b8a13f4c",
+    "ccdca24ecc4e7979",
+    "fcdcae8c047ccc37",
+    "74207855778a1423",
+    "10d508b0a33ba786",
+    "1e7a0903d2eed348",
+    "abccdc32c759618b",
+    "062b17514a51a213",
+    "1ecfc79da3f1ac7f",
+    "d37b098b4510241c",
+    "9d9dfd7c3094d3fd",
+    "06f487d089a42d44",
+    "d664376e2a8dcecd",
+    "b4dcbf1706d68665",
+    "65f14aa49187d775",
+    "3da879cf8d4dcf5f",
+    "121e803aa0ba200d",
+    "76642bf9dc453f5c",
+    "852174729551523b",
+    "e9c64e8e30b6aecd",
+    "f7a9174996159627",
+    "7d33d64ab9be5d52",
+    "605de009c8228aec",
+    "720af75c92791b10",
+    "70eea2797a4f8ac0",
+    "e03a0eb4d5b2eef3",
+    "6da92fe0e02efe2c",
+    "bc48afb5df8156d3",
+    "48fa5f7b94dc8eb9",
+    "4dc2150bb0e9fbb9",
+    "64610ae29a6cb67c",
+    "3a659eb529cfce26",
+    "e29a4c15abeb32f0",
+    "d46ca50274582635",
+    "f39f258d2d86ff8c",
+    "98352d52a87e48d8"
+   ]
+  },
+  {
+   "date": "2023-11-07",
+   "future": false,
+   "celex": "02015R1375-20231107",
+   "acts": [
+    {
+     "id": "eu:celex:32023R2156:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2023/2156 DA COMISSÃO de 17 de outubro de 2023",
+     "published": null,
+     "celex": "32023R2156"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Derrogações",
+    "Altera RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+    "Altera Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "2bfb6d3d54816e80",
+    "226c39ffd0a88dad",
+    "a270466f2d3705c7",
+    "91984205b300918e",
+    "f0f8c960bfdbce9b",
+    "7e81f43803d24cb6",
+    "efd71c45b0598add",
+    "c78f393be0422dc9",
+    "be61c6cc0ec5d863",
+    "7d32a58802a80884",
+    "9cf7e5623ca812e6",
+    "7f16272f4f7a3cba",
+    "314c1437b8a13f4c",
+    "ccdca24ecc4e7979",
+    "fcdcae8c047ccc37",
+    "74207855778a1423",
+    "10d508b0a33ba786",
+    "1e7a0903d2eed348",
+    "abccdc32c759618b",
+    "062b17514a51a213",
+    "1ecfc79da3f1ac7f",
+    "d37b098b4510241c",
+    "9d9dfd7c3094d3fd",
+    "06f487d089a42d44",
+    "d664376e2a8dcecd",
+    "b4dcbf1706d68665",
+    "65f14aa49187d775",
+    "3da879cf8d4dcf5f",
+    "121e803aa0ba200d",
+    "76642bf9dc453f5c",
+    "852174729551523b",
+    "e9c64e8e30b6aecd",
+    "f7a9174996159627",
+    "7d33d64ab9be5d52",
+    "605de009c8228aec",
+    "720af75c92791b10",
+    "70eea2797a4f8ac0",
+    "e03a0eb4d5b2eef3",
+    "6da92fe0e02efe2c",
+    "e95559fe724caa93",
+    "48fa5f7b94dc8eb9",
+    "4dc2150bb0e9fbb9",
+    "64610ae29a6cb67c",
+    "3a659eb529cfce26",
+    "e29a4c15abeb32f0",
+    "d46ca50274582635",
+    "d9001db44abf3665",
+    "927ceceb739ba9c3"
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "future": false,
+   "celex": "02015R1375-20250409",
+   "acts": [
+    {
+     "id": "eu:celex:32025R0506:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2025/506 DA COMISSÃO de 19 de março de 2025",
+     "published": null,
+     "celex": "32025R0506"
+    }
+   ],
+   "changes": [
+    "Altera MÉTODO DE DETEÇÃO DE REFERÊNCIA",
+    "Altera MÉTODOS EQUIVALENTES",
+    "Altera RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+    "Altera Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "2bfb6d3d54816e80",
+    "226c39ffd0a88dad",
+    "a270466f2d3705c7",
+    "91984205b300918e",
+    "f0f8c960bfdbce9b",
+    "7e81f43803d24cb6",
+    "efd71c45b0598add",
+    "c78f393be0422dc9",
+    "be61c6cc0ec5d863",
+    "7d32a58802a80884",
+    "9cf7e5623ca812e6",
+    "7f16272f4f7a3cba",
+    "314c1437b8a13f4c",
+    "ccdca24ecc4e7979",
+    "fcdcae8c047ccc37",
+    "74207855778a1423",
+    "10d508b0a33ba786",
+    "1e7a0903d2eed348",
+    "abccdc32c759618b",
+    "062b17514a51a213",
+    "1ecfc79da3f1ac7f",
+    "d37b098b4510241c",
+    "9d9dfd7c3094d3fd",
+    "06f487d089a42d44",
+    "d664376e2a8dcecd",
+    "b4dcbf1706d68665",
+    "65f14aa49187d775",
+    "92ce025edfd487cc",
+    "121e803aa0ba200d",
+    "f639c17b00d115f3",
+    "852174729551523b",
+    "e9c64e8e30b6aecd",
+    "f7a9174996159627",
+    "7d33d64ab9be5d52",
+    "605de009c8228aec",
+    "720af75c92791b10",
+    "70eea2797a4f8ac0",
+    "e03a0eb4d5b2eef3",
+    "6da92fe0e02efe2c",
+    "c3a818d3f00db45f",
+    "48fa5f7b94dc8eb9",
+    "4dc2150bb0e9fbb9",
+    "64610ae29a6cb67c",
+    "3a659eb529cfce26",
+    "e29a4c15abeb32f0",
+    "d46ca50274582635",
+    "05b0495ae77ef475",
+    "aed723be653bde52"
+   ]
+  }
+ ],
+ "fragments": {
+  "2bfb6d3d54816e80": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de agosto de 2015\n\nque estabelece regras específicas para os controlos oficiais de deteção de triquinas na carne\n\n(codificação)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "a270466f2d3705c7": {
+   "fragment_id": "DISPOSIÇÃO GERAL",
+   "type": "divisao",
+   "heading": "DISPOSIÇÃO GERAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÃO GERAL"
+  },
+  "91984205b300918e": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Triquinas», qualquer nemátodo pertencente às espécies do género *Trichinella*.\n\n2. «Condições de habitação controladas», um tipo de criação de animais em que os suínos são permanentemente mantidos em condições controladas pelo operador da empresa do setor alimentar no que respeita à alimentação e à habitação animal.\n\n3. «Compartimento», um grupo de explorações que aplicam condições de habitação controladas. Todas as explorações que aplicam condições de habitação controladas num Estado-Membro podem ser consideradas como um compartimento."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "7e81f43803d24cb6": {
+   "fragment_id": "OBRIGAÇÕES DAS AUTORIDADES COMPETENTES E DOS OPERADORES DE EMPRESAS DO SETOR ALIMENTAR",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DAS AUTORIDADES COMPETENTES E DOS OPERADORES DE EMPRESAS DO SETOR ALIMENTAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DAS AUTORIDADES COMPETENTES E DOS OPERADORES DE EMPRESAS DO SETOR ALIMENTAR"
+  },
+  "46bb3bc4de01facb": {
+   "fragment_id": "Artigo 2.º — Amostragem de carcaças",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Amostragem de carcaças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Amostragem de carcaças\n\n1.\n\nAs carcaças de suínos domésticos devem ser sujeitas a amostragem nos matadouros, como parte do exame *post mortem*, do seguinte modo:\n\na) todas as carcaças de porcas e varrascos de reprodução ou, pelo menos, 10 % das carcaças de animais enviados todos os anos para abate a partir de cada exploração oficialmente reconhecida como aplicando condições de habitação controladas, devem ser examinadas para deteção de triquinas;\n\nb) todas as carcaças de explorações que não sejam oficialmente reconhecidas como aplicando condições de habitação controladas devem ser examinadas sistematicamente para a deteção de triquinas.\n\nDeve ser colhida uma amostra de cada carcaça e esta deve ser examinada para deteção de triquinas, num laboratório designado pela autoridade competente, com recurso a um dos seguintes métodos de deteção:\n\na) o método de deteção de referência definido no capítulo I do anexo I; ou\n\nb) um método de deteção equivalente definido no capítulo II do anexo I.\n\n2. As carcaças de equídeos, javalis selvagens e outras espécies animais domésticas e selvagens suscetíveis à infestação por triquinas serão sistematicamente submetidas a amostragem em matadouros ou em estabelecimentos de tratamento de caça, como parte do exame *post mortem*.\n\nDeve ser colhida uma amostra de cada carcaça e esta deve ser examinada em conformidade com os anexos I e III num laboratório designado pela autoridade competente.\n\n3. Na pendência dos resultados do exame para deteção de triquinas e desde que o operador da empresa do setor alimentar assegure uma rastreabilidade total, as carcaças de suínos domésticos e equídeos podem ser cortadas num máximo de seis partes num matadouro ou numa unidade de desmancha situada nas mesmas instalações que o matadouro."
+  },
+  "3ffa36c3c502ee92": {
+   "fragment_id": "Artigo 3.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Derrogações\n\n1. Em derrogação ao disposto no artigo 2.º, n.º 1, a carne de suínos domésticos que tenha sido submetida a um tratamento por congelação em conformidade com o anexo II, sob a supervisão da autoridade competente, será isenta do exame para deteção de triquinas.\n\n2. Em derrogação ao disposto no artigo 2.º, n.º 1, as carcaças e a carne de suínos domésticos não desmamados com menos de cinco semanas de idade serão isentas do exame para deteção de triquinas.\n\n3.\n\nEm derrogação ao disposto no artigo 2.º, n.º 1, as carcaças e a carne de suínos domésticos podem ser isentas do exame para deteção de triquinas sempre que os animais sejam provenientes de uma exploração ou de um compartimento oficialmente reconhecidos como aplicando condições de habitação controladas, em conformidade com o anexo IV, desde que:\n\na) nos últimos três anos, não se tenham detetado no Estado-Membro infestações por triquinas em suínos domésticos mantidos em explorações oficialmente reconhecidas como aplicando condições de habitação controladas e que tenham sido realizados durante esse período testes contínuos em conformidade com o artigo 2.º; ou\n\nb) os dados históricos dos testes contínuos efetuados na população suína abatida permitam um nível de confiança mínimo de 95 % de que a prevalência de triquinas não é superior a um por milhão naquela população; ou\n\nc) as explorações que aplicam condições de habitação controladas estejam localizadas na Bélgica ou na Dinamarca.\n\n4. Sempre que um Estado-Membro execute a derrogação prevista no n.º 3, o Estado-Membro em questão deve informar a Comissão e os restantes Estados-Membros no âmbito do Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal e apresentar um relatório anual à Comissão contendo as informações mencionadas no anexo IV, capítulo II. A Comissão deve publicar a lista dos Estados-Membros que executam a derrogação no seu sítio *web*.\n\nSe um Estado-Membro não apresentar o relatório anual ou este não for satisfatório para os fins do presente artigo, a derrogação deixa de se aplicar àquele Estado-Membro.\n\n5.\n\nEm derrogação do artigo 2.º, n.º 3, e após aprovação pela autoridade competente:\n\na) As carcaças podem ser cortadas numa unidade de desmancha anexa ao matadouro ou dele separada, desde que:\n\ni) o procedimento seja aprovado pela autoridade competente,\n\nii) a carcaça ou as suas partes não tenham como destino mais do que uma unidade de desmancha,\n\niii) a unidade de desmancha esteja situada no território do Estado-Membro, e\n\niv) no caso de um resultado positivo, todas as partes sejam declaradas impróprias para consumo humano;\n\nb) As carcaças provenientes de suínos domésticos podem ser cortadas em mais partes numa unidade de desmancha situada nas mesmas instalações que o matadouro ou anexa ao matadouro, desde que:\n\ni) o procedimento seja aprovado pela autoridade competente,\n\nii) o corte a quente seja necessário para a produção de produtos específicos,\n\niii) no caso de um resultado positivo, todas as partes sejam declaradas impróprias para consumo humano."
+  },
+  "be61c6cc0ec5d863": {
+   "fragment_id": "Artigo 4.º — Exame para deteção de triquinas e aplicação da marca de salubridade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Exame para deteção de triquinas e aplicação da marca de salubridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exame para deteção de triquinas e aplicação da marca de salubridade\n\n1. [**►M1**](http://publications.europa.eu/resource/celex/32020R1478) As carcaças referidas no artigo 2.º ou as suas partes, à exceção das referidas no artigo 3.º, n.º 5, não podem ser transportadas para fora das instalações sem que o resultado do exame para deteção de triquinas seja dado como negativo.**◄**\n\nDe igual modo, outras partes de um animal destinadas ao consumo humano ou animal que contenham tecido muscular estriado não podem ser transportadas para fora das instalações sem que seja dado como negativo o resultado do exame para deteção de triquinas.\n\n2. Os desperdícios animais e os subprodutos de origem animal não destinados ao consumo humano e que não contenham tecido muscular estriado podem ser transportados para fora das instalações antes de serem conhecidos os resultados do exame para deteção de triquinas.\n\nNo entanto, a autoridade competente pode exigir a realização de um exame para a deteção de triquinas ou o tratamento prévio dos subprodutos de origem animal antes de permitir que estes sejam transportados para fora das instalações.\n\n3. Sempre que o matadouro aplique um procedimento que garanta que nenhuma parte das carcaças examinadas seja transportada para fora das instalações antes que o resultado do exame para a deteção de triquinas seja dado como negativo e que este procedimento seja formalmente aprovado pela autoridade competente ou caso se aplique a derrogação prevista no artigo 3.º, n.º 5, a marca de salubridade prevista no artigo 18.º, n.º 4, do Regulamento (UE) 2017/625 pode ser aplicada antes de serem conhecidos os resultados do exame para deteção de triquinas."
+  },
+  "7d32a58802a80884": {
+   "fragment_id": "Artigo 5.º — Formação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formação\n\nA autoridade competente deve garantir que todo o pessoal envolvido no exame das amostras para deteção de triquinas deve ser adequadamente formado e participar:\n\na) num programa de controlo da qualidade dos testes utilizados para deteção de triquinas; e\n\nb) numa avaliação regular dos procedimentos de teste, registo e análise utilizados no laboratório."
+  },
+  "9cf7e5623ca812e6": {
+   "fragment_id": "Artigo 6.º — Métodos de deteção",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Métodos de deteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Métodos de deteção\n\n1. Os métodos de deteção estabelecidos nos capítulos I e II do anexo I devem ser utilizados para examinar as amostras tal como referido no artigo 2.º sempre que forneçam bases para se suspeitar de infestação por triquinas.\n\n2. Todas as amostras positivas devem ser enviadas para o laboratório nacional de referência ou para o laboratório de referência da UE para determinação da espécie de triquinas envolvida."
+  },
+  "7f16272f4f7a3cba": {
+   "fragment_id": "Artigo 7.º — Planos de emergência",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Planos de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Planos de emergência\n\nAs autoridades competentes dos Estados-Membros devem prever um plano de emergência que saliente todas as ações a tomar sempre que as amostras referidas no artigo 2.º revelem um resultado positivo às triquinas. Aquele plano deve incluir pormenores que abranjam:\n\na) a rastreabilidade de carcaças infestadas e respetivas partes que contenham tecido muscular;\n\nb) as medidas para lidar com as carcaças infestadas e respetivas partes;\n\nc) a investigação das fontes de infestação e qualquer propagação na fauna selvagem;\n\nd) quaisquer medidas a serem tomadas a nível do comércio a retalho ou do consumidor;\n\ne) as medidas a serem tomadas sempre que a carcaça infestada não possa ser identificada no matadouro;\n\nf) a determinação da espécie de triquinas envolvida."
+  },
+  "314c1437b8a13f4c": {
+   "fragment_id": "Artigo 8.º — Reconhecimento oficial de explorações que aplicam condições de habitação controladas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Reconhecimento oficial de explorações que aplicam condições de habitação controladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reconhecimento oficial de explorações que aplicam condições de habitação controladas\n\n1. Para efeitos do presente regulamento, a autoridade competente pode reconhecer oficialmente uma exploração ou um compartimento que aplique condições de habitação controladas sempre que sejam cumpridas as condições previstas no anexo IV.\n\n2. As explorações ou os compartimentos que apliquem condições de habitação controladas na Bélgica ou na Dinamarca em conformidade com o artigo 3.º, n.º 3, alínea c), em 1 de junho de 2014 são considerados como explorações ou compartimentos reconhecidos oficialmente como aplicando condições de habitação controladas previstas no anexo IV."
+  },
+  "ccdca24ecc4e7979": {
+   "fragment_id": "Artigo 9.º — Obrigação de informação por parte dos operadores de empresas do setor alimentar",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Obrigação de informação por parte dos operadores de empresas do setor alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigação de informação por parte dos operadores de empresas do setor alimentar\n\nOs operadores de empresas do setor alimentar responsáveis por explorações oficialmente reconhecidas como aplicando condições de habitação controladas devem informar a autoridade competente de qualquer requisito tal como definido no anexo IV que deixe de ser cumprido ou de qualquer outra alteração que possa afetar o estatuto da exploração em termos de triquinas."
+  },
+  "fcdcae8c047ccc37": {
+   "fragment_id": "Artigo 10.º — Auditorias às explorações oficialmente reconhecidas como aplicando condições de habitação controladas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Auditorias às explorações oficialmente reconhecidas como aplicando condições de habitação controladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Auditorias às explorações oficialmente reconhecidas como aplicando condições de habitação controladas\n\nA autoridade competente deve garantir a realização regular de auditorias às explorações oficialmente reconhecidas como aplicando condições de habitação controladas.\n\nA frequência das auditorias deve ser baseada no risco, tendo em conta o historial e a prevalência da doença, constatações anteriores, a zona geográfica, a fauna selvagem local suscetível, as práticas de criação de animais, a supervisão veterinária e a conformidade dos responsáveis pelas explorações.\n\nA autoridade competente deve velar por que os suínos domésticos provenientes destas explorações sejam examinados em conformidade com o artigo 2.º, n.º 1."
+  },
+  "74207855778a1423": {
+   "fragment_id": "Artigo 11.º — Programas de vigilância",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Programas de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Programas de vigilância\n\nA autoridade competente pode aplicar um programa de vigilância abrangendo a população de suínos domésticos provenientes de uma exploração ou de um compartimento oficialmente reconhecido como aplicando condições de habitação controladas, para verificar a ausência de triquinas naquela população.\n\nA frequência dos testes, o número de animais a ser testados e o plano de amostragem devem estar definidos no programa de vigilância. Para esse fim, serão colhidas e examinadas amostras de carne para deteção da presença de triquinas em conformidade com o disposto nos capítulos I ou II do anexo I.\n\nO programa de vigilância pode incluir métodos serológicos como um instrumento adicional logo que um teste adequado for validado pelo laboratório de referência da UE."
+  },
+  "10d508b0a33ba786": {
+   "fragment_id": "Artigo 12.º — Revogação do reconhecimento oficial de explorações que aplicam condições de habitação controladas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Revogação do reconhecimento oficial de explorações que aplicam condições de habitação controladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação do reconhecimento oficial de explorações que aplicam condições de habitação controladas\n\n1. Sempre que os resultados das auditorias efetuadas em conformidade com o artigo 10.º revelem que as condições do anexo IV deixaram de ser cumpridas, a autoridade competente deve revogar imediatamente o reconhecimento oficial da exploração.\n\n2.\n\nSempre que os suínos domésticos de uma exploração reconhecida oficialmente como aplicando condições de habitação controladas apresentem um resultado positivo nos testes de deteção de triquinas, a autoridade competente deve, sem demora:\n\na) revogar o reconhecimento oficial da exploração;\n\nb) examinar todos os suínos domésticos daquela exploração na altura do abate;\n\nc) proceder ao rastreio e teste de todos os animais reprodutores que entraram na exploração e, na medida do possível, de todos os animais que deixaram a exploração, pelo menos, nos seis meses que precedem a constatação de um resultado positivo; para esse fim, devem ser colhidas e examinadas amostras de carne para deteção da presença de triquinas com recurso aos métodos de deteção previstos nos capítulos I e II do anexo I;\n\nd) quando necessário, investigar, sempre que viável, a propagação da infestação parasitária devida à distribuição de carne de suínos domésticos abatidos no período que precede a constatação do resultado positivo;\n\ne) informar a Comissão e os restantes Estados-Membros;\n\nf) quando necessário, dar início a uma investigação epidemiológica para elucidar da causa da infestação;\n\ng) tomar as medidas adequadas sempre que qualquer carcaça infestada não possa ser identificada no matadouro, incluindo:\n\ni) aumentar o tamanho de cada amostra de carne colhida para testar as carcaças suspeitas, ou\n\nii) declarar as carcaças impróprias para consumo humano,\n\niii) tomar as medidas adequadas para a eliminação das carcaças suspeitas ou respetivas partes, bem como das que apresentem resultados positivos no teste.\n\n3. Após a revogação do reconhecimento, as explorações podem novamente ser oficialmente reconhecidas quando os problemas identificados tiverem sido resolvidos e a autoridade competente reconheça o cumprimento dos requisitos constantes no anexo IV.\n\n4. Se a inspeção tiver identificado o incumprimento do artigo 9.º ou um teste positivo numa exploração de um compartimento, a exploração em questão deve ser retirada do compartimento até ser restabelecida a conformidade."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "abccdc32c759618b": {
+   "fragment_id": "IMPORTAÇÕES",
+   "type": "divisao",
+   "heading": "IMPORTAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPORTAÇÕES"
+  },
+  "47a897abeecc2a67": {
+   "fragment_id": "Artigo 13.º — Requisitos sanitários para a importação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Requisitos sanitários para a importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Requisitos sanitários para a importação\n\n1. A carne que contenha tecido muscular estriado de espécies animais que possam ser portadoras de triquinas só pode ser importada para a União se, antes da exportação, o exame para deteção de triquinas tiver sido efetuado em conformidade com condições equivalentes às do artigo 2.º ou 3.º no país terceiro em que os animais foram abatidos.\n\n2.\n\nUm país terceiro só pode aplicar as derrogações previstas no artigo 3.º, n.^os^ 2 e 3, se tiver informado a Comissão da aplicação dessas derrogações e se tiver sido incluído para esse efeito:\n\ni) na parte 1 do anexo I do Regulamento (UE) n.º 206/2010 para a importação de animais vivos da espécie suína doméstica;\n\nii) na parte 1 do anexo II do Regulamento (UE) n.º 206/2010 para a importação de carne fresca de animais da espécie suína doméstica; ou\n\niii) na parte 2 do anexo II da Decisão 2007/777/CE para a importação de produtos à base de carne produzidos exclusivamente a partir de carne ou de produtos à base de carne de animais da espécie suína doméstica."
+  },
+  "957029aa9f9120df": {
+   "fragment_id": "Artigo 14.º — Documentação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Documentação\n\n1. O veterinário oficial deve incluir as informações sobre o reconhecimento oficial da exploração de origem como aplicando as condições de habitação controladas previstas no artigo 8.º do presente regulamento no modelo de certificado sanitário para o comércio intra-União de animais vivos da espécie suína doméstica constante do modelo 2 do anexo F da Diretiva 64/432/CEE.\n\n2. O veterinário oficial deve incluir as informações sobre o reconhecimento oficial, pela autoridade competente de um país terceiro, da exploração de origem como aplicando condições de habitação controladas equivalentes às previstas no anexo IV do presente regulamento no modelo de certificado sanitário para a importação para a União de animais da espécie suína doméstica constante dos modelos «POR-X» e «POR-Y» da parte 2 do anexo I do Regulamento (UE) n.º 206/2010.\n\n3. O veterinário oficial deve incluir o atestado de saúde pública do exame para deteção de triquinas realizado em conformidade com o artigo 13.º do presente regulamento no país terceiro de origem da carne no certificado veterinário, em conformidade com os modelos «POR» constantes da parte 2 do anexo II do Regulamento (UE) n.º 206/2010, que acompanha as remessas de carne destinada à importação para a União a partir de países terceiros.\n\n4. O veterinário oficial deve incluir o atestado de saúde pública do exame para deteção de triquinas realizado em conformidade com o artigo 13.º do presente regulamento no país terceiro de origem da carne no certificado de sanidade animal e saúde pública que acompanha as remessas de preparados de carnes destinados à importação para a União a partir de países terceiros, e cujo modelo consta do anexo II da Decisão 2000/572/CE.\n\n5. O veterinário oficial deve incluir o atestado de saúde pública do exame para deteção de triquinas realizado em conformidade com o artigo 13.º do presente regulamento no país terceiro de origem da carne no certificado de sanidade animal e saúde pública que acompanha as remessas de determinados produtos à base de carne e estômagos, bexigas e intestinos tratados, destinados à importação para a União a partir de países terceiros, e cujo modelo consta do anexo III da Decisão 2007/777/CE."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "d37b098b4510241c": {
+   "fragment_id": "REVOGAÇÃO E DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "REVOGAÇÃO E DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REVOGAÇÃO E DISPOSIÇÕES FINAIS"
+  },
+  "9d9dfd7c3094d3fd": {
+   "fragment_id": "Artigo 15.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\nO Regulamento (CE) n.º 2075/2005 é revogado.\n\nAs referências ao regulamento revogado devem entender-se como referências ao presente regulamento e ser lidas de acordo com o quadro de correspondência constante do anexo VI."
+  },
+  "06f487d089a42d44": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "b4dcbf1706d68665": {
+   "fragment_id": "Métodos de deteção",
+   "type": "divisao",
+   "heading": "Métodos de deteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Métodos de deteção"
+  },
+  "65f14aa49187d775": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO I"
+  },
+  "3da879cf8d4dcf5f": {
+   "fragment_id": "MÉTODO DE DETEÇÃO DE REFERÊNCIA",
+   "type": "divisao",
+   "heading": "MÉTODO DE DETEÇÃO DE REFERÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### MÉTODO DE DETEÇÃO DE REFERÊNCIA\n\nO método de deteção de referência para o exame de amostras para deteção de triquinas é a norma ISO 18743:2015."
+  },
+  "121e803aa0ba200d": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO II"
+  },
+  "b3bcb2eca0646641": {
+   "fragment_id": "MÉTODOS EQUIVALENTES",
+   "type": "divisao",
+   "heading": "MÉTODOS EQUIVALENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### MÉTODOS EQUIVALENTES\n\na) Uma faca ou tesoura para cortar as amostras.\n\nb) Tabuleiros divididos em 50 quadrados, podendo cada um conter amostras de carne de cerca de 2 g, ou outros instrumentos que deem garantias equivalentes no tocante à rastreabilidade das amostras.\n\nc) Triturador ou misturador elétrico.\n\nd) Um Stomacher Lab-blender 3 500, modelo Thermo.\n\ne) Sacos de plástico adaptados ao Stomacher Lab-blender.\n\nf) Ampolas de decantação cónicas com capacidade para 2 litros, de preferência munidas de torneiras de segurança em teflon.\n\ng) Suportes com anéis e fixações.\n\nh) Peneiras, dimensão da malha 180 mícrones, diâmetro exterior de 11 cm, com malha em aço inoxidável ou latão.\n\ni) Funis com diâmetro interno de pelo menos 12 cm, destinados a receber as peneiras.\n\nj) Provetas graduadas de 100 ml em vidro.\n\nk) Um termómetro com uma precisão de 0,5°C na gama de 1° a 100°C.\n\nl) Um vibrador, por exemplo uma máquina de barbear elétrica sem cabeça.\n\nm) Um interruptor que acenda e apague de minuto a minuto.\n\nn) Um triquinoscópio provido de uma mesa horizontal ou um estereomicroscópio com uma fonte de luz subplatina de intensidade ajustável.\n\no) Uma bacia para a contagem das larvas e uma série de placa de Petri de 9 cm de diâmetro, como descrito no capítulo I, n.º 1, alíneas l) e m).\n\np) Ácido clorídrico a 17,5 %.\n\nq) Pepsina, em concentração 1:10 000 NF (*US National Formulary*) correspondendo a 1:12 500 BP (*British Pharmacopoeia*) e a 2 000 FIP (*Fédération internationale de pharmacie*), ou pepsina líquida estabilizada com, pelo menos, 660 unidades da Farmacopeia Europeia/ml.\n\nr) Vários recipientes de 10 litros a utilizar para a descontaminação dos aparelhos e utensílios com, por exemplo, formol e para o restante fluido de digestão, sempre que as amostras apresentem um resultado positivo.\n\ns) Uma balança com uma precisão de 0,1 g.\n\nTal como estabelecido no capítulo I, n.º 2.\n\nTriturar previamente as amostras de carne num triturador melhorará a qualidade da digestão. Caso se utilize um misturador elétrico, este deve ser posto em funcionamento três a quatro vezes durante, aproximadamente, um segundo.\n\nEste processo pode envolver grupos completos de amostras (100 g de amostras de cada vez) ou grupos de amostras com menos de 100 g.\n\na) grupos completos de amostras (100 amostras de cada vez):\n\ni) Colocar um saco duplo de plástico no Stomacher Lab-blender 3 500 e regular a temperatura para 40° a 41°C;\n\nii) Deitar um litro e meio de água aquecida a uma temperatura de 40° a 41°C no saco interior;\n\niii) Acrescentar à água contida no saco 25 ml da solução de ácido clorídrico a 17,5 %;\n\niv) Juntar 100 amostras de aproximadamente 1 g cada (de 25 a 30°C) colhidas de cada uma das amostras individuais, de acordo com o processo referido no n.º 2;\n\nv) Por fim, adicionar 6 g de pepsina ou 18 ml de pepsina líquida. Esta ordem deve ser seguida rigorosamente para evitar a decomposição da pepsina;\n\nvi) Triturar o conteúdo do saco no Stomacher durante 25 minutos;\n\nvii) Tirar o saco de plástico do Stomacher, filtrar o fluido de digestão por meio de uma peneira e deixar escorrer para o copo de 3 litros;\n\nviii) Lavar o saco de plástico com cerca de 100 ml de água, que são em seguida utilizados para enxaguar a peneira e acrescentados ao filtrado contido no copo;\n\nix) Um número máximo de 15 amostras individuais pode ser junto a um grupo completo de 100 amostras para ser examinado juntamente com estas últimas.\n\nb) grupos mais pequenos (menos de 100 amostras):\n\ni) Colocar um saco duplo de plástico no Stomacher Lab-blender 3 500 e regular a temperatura para 40° a 41°C;\n\nii) Preparar um fluido de digestão misturando cerca de um litro e meio de água e 25 ml de ácido clorídrico a 17,5 %. Juntar 6 g de pepsina e misturar tudo a uma temperatura de 40° a 41°C. Esta ordem deve ser seguida rigorosamente para evitar a decomposição da pepsina;\n\niii) Medir um volume de fluido de digestão correspondendo a 15 ml por grama de amostra (assim, para 30 amostras, será preciso colher 30 × 15 ml = 450 ml) e transferi-lo para o saco de plástico interior juntamente com as amostras de carne de cerca de 1 g (entre 25° e 30°C) colhidas de cada amostra individual, de acordo com o processo referido no n.º 2;\n\niv) Deitar água a uma temperatura de cerca de 41°C no saco exterior até obter um volume total, nos dois sacos, de um litro e meio. Triturar o conteúdo do saco no Stomacher durante 25 minutos;\n\nv) Tirar o saco de plástico do Stomacher, filtrar o fluido de digestão por meio de uma peneira e deixar escorrer para o copo de 3 litros;\n\nvi) Lavar o saco de plástico com cerca de 100 ml de água (a uma temperatura de 25° a 30°C), que são em seguida utilizados para enxaguar a peneira e acrescentados ao filtrado contido no copo.\n\n— juntar gelo ao fluido de digestão (300 a 400 g de gelo em palhetas ou de gelo picado) para se obter um volume de cerca de dois litros. Agitar o fluido de digestão até o gelo derreter. No caso de grupos mais pequenos [ver ponto II, alínea b)], a quantidade de gelo deve ser reduzida em conformidade;\n\n— transferir o fluido de digestão arrefecido para uma ampola de decantação de dois litros munida de um vibrador fixado por uma pinça suplementar;\n\n— para a sedimentação, deixar o fluido na ampola de decantação durante 30 minutos, alternando um minuto de vibração e um minuto de repouso;\n\n— depois de 30 minutos, introduzir rapidamente 60 ml de sedimento numa proveta graduada de 100 ml (depois da utilização, enxaguar o funil com uma solução detergente);\n\n— deixar repousar a amostra de 60 ml durante, pelo menos, 10 minutos, aspirar o sobrenadante até ficar na proveta um volume de 15 ml, que será examinado para a deteção da presença de larvas;\n\n— para a aspiração, pode-se utilizar uma seringa descartável, munida de um tubo de plástico. O comprimento deste deverá ser tal que fiquem 15 ml de líquido na proveta graduada quando a parte superior da seringa se encontrar ao nível do bordo do cilindro;\n\n— introduzir os restantes 15 ml na bacia para a contagem das larvas ou em duas placas de Petri e examiná-los ao triquinoscópio ou ao estereomicroscópio;\n\n— lavar a proveta graduada com 5 a 10 ml de água da torneira e juntar o líquido obtido à amostra;\n\n— os fluidos de digestão devem ser examinados mal estejam prontos. Em caso algum se deverá adiar o exame para o dia seguinte.\n\nSempre que os fluidos de digestão não forem límpidos, ou não forem examinados num prazo de 30 minutos a seguir à sua preparação, devem ser clarificados do seguinte modo:\n\n— verter a amostra final de 60 ml para uma proveta graduada e deixar repousar durante 10 minutos; retirar 45 ml do sobrenadante por aspiração e juntar aos 15 ml restantes água da torneira até obter um volume total de 45 ml;\n\n— depois de um novo período de repouso de 10 minutos, retirar 30 ml do fluido sobrenadante por aspiração, verter os 15 ml remanescentes numa placa de Petri ou numa bacia para a contagem de larvas, para se proceder ao exame;\n\n— lavar a proveta graduada com 10 ml de água da torneira e juntar o líquido obtido à amostra na placa de Petri ou na bacia para a contagem de larvas para se proceder ao exame.\n\nSempre que o resultado seja positivo ou duvidoso, são aplicáveis as disposições do capítulo I, n.º 3, ponto III.\n\nTal como estabelecido no ponto A, n.º 1.\n\nEquipamento complementar:\n\na) Um funil Gelman de um litro com suporte para filtro (diâmetro: 45 mm);\n\nb) Discos filtrantes que consistem numa rede circular em aço inoxidável com uma malha de 35 mícrones (diâmetro do disco: 45 mm), dois anéis de borracha com 1 mm de espessura (diâmetro externo: 45 mm, diâmetro interno: 38 mm), devendo a rede circular ser colocada entre os dois anéis de borracha e fixada por meio de uma cola de dois componentes adequada aos dois materiais;\n\nc) Um frasco de Erlenmeyer de três litros munido de um tubo lateral para aspiração;\n\nd) Uma bomba de água;\n\ne) Sacos de plástico com pelo menos 80 ml de capacidade;\n\nf) Equipamento para fechar sacos de plástico;\n\ng) Renilase em concentração 1:150 000 unidades Soxhlet por grama.\n\nTal como estabelecido no capítulo I, n.º 2.\n\nTriturar previamente as amostras de carne num triturador melhorará a qualidade da digestão. Caso se utilize um misturador elétrico, este deve ser posto em funcionamento três a quatro vezes durante, aproximadamente, um segundo.\n\nEste processo pode envolver grupos completos de amostras (100 g de amostras de cada vez) ou grupos de amostras com menos de 100 g.\n\na) Grupos completos de amostras (100 amostras de cada vez)\n\nb) Grupos mais pequenos (menos de 100 amostras)\n\na) Juntar gelo ao fluido de digestão (300 a 400 g de gelo em palhetas ou de gelo picado) para se obter um volume de cerca de dois litros. No caso de grupos mais pequenos, a quantidade de gelo deve ser reduzida em conformidade.\n\nb) Agitar o fluido de digestão até o gelo derreter. Deixar repousar o fluido de digestão, arrefecido durante 3 minutos pelo menos, para que as larvas se possam enrolar.\n\nc) Montar o funil Gelman, munido de um suporte para filtro, no qual se encontre um disco filtrante, num frasco de Erlenmeyer ligado a uma bomba de água.\n\nd) Introduzir o fluido de digestão no funil Gelman e filtrar. Quase no final da filtração, a passagem do fluido de digestão através do filtro pode ser auxiliada procedendo-se a uma aspiração por meio da bomba de água. Terminar a aspiração antes que o filtro seque, quer dizer, quando ficarem no funil 2 a 5 ml de fluido.\n\ne) Depois da filtração de todo o fluido de digestão, retirar o disco filtrante e colocá-lo num saco de plástico com uma capacidade de 80 ml, acrescentando 15 a 20 ml de solução de renilase. Para se obter a solução de renilase, introduz-se 2 g de renilase em 100 ml de água da torneira.\n\nf) Fechar o saco de plástico com soldagem dupla e colocá-lo no Stomacher entre o saco interior e o exterior.\n\ng) Triturar no Stomacher durante três minutos, por exemplo, quer se trate de um grupo completo ou incompleto de amostras.\n\nh) Passados 3 minutos, tirar do Stomacher o saco de plástico que contém o disco filtrante e a solução de renilase e abri-lo por meio de tesouras. Verter o líquido para uma bacia para a contagem de larvas ou uma placa de Petri. Lavar o saco com 5 a 10 ml de água, que são em seguida introduzidos na bacia para a contagem de larvas, para exame por triquinoscopia, ou numa placa de Petri, para exame no estereomicroscópio.\n\ni) Os fluidos de digestão devem ser examinados logo que estejam prontos. Em caso algum se deverá adiar o exame para o dia seguinte.\n\n*Nota:* Não utilizar nunca discos filtrantes que não estejam perfeitamente limpos. Nunca secar os discos filtrantes se não estiverem limpos. Os discos podem ser limpos deixando-os numa solução de renilase durante a noite. Antes de serem utilizados devem ser lavados no Stomacher com uma solução de renilase.\n\nSempre que o resultado seja positivo ou duvidoso, são aplicáveis as disposições do capítulo I, n.º 3, ponto III.\n\na) Uma faca ou tesoura para cortar as amostras.\n\nb) Tabuleiros divididos em 50 quadrados, podendo cada um conter amostras de carne de cerca de 2 g, ou outros instrumentos que deem garantias equivalentes no tocante à rastreabilidade das amostras.\n\nc) Misturador Trichomatic 35®, com dispositivo de filtração.\n\nd) Ácido clorídrico a 8,5 % ±0,5 % em peso.\n\ne) Filtros de membrana de policarbonato transparente com um diâmetro de 50 mm, com poros de 14 mícrones.\n\nf) Pepsina em concentração 1:10 000 NF (*US National Formulary*) correspondendo a 1:12 500 BP (*British Pharmacopoeia*) e a 2 000 FIP (*Fédération internationale de pharmacie*), ou pepsina líquida estabilizada com, pelo menos, 660 unidades da Farmacopeia Europeia/ml.\n\ng) Uma balança com uma precisão de 0,1 g.\n\nh) Pinças com uma extremidade plana.\n\ni) Algumas lâminas de microscópio com um comprimento lateral de, pelo menos, 5 cm ou algumas placas de Petri com um diâmetro de, pelo menos, 6 cm, divididas no lado inferior em áreas quadradas de 10 × 10 mm, usando um instrumento pontiagudo.\n\nj) Um (estereo) microscópio com luz transmitida (ampliação de 15 a 60 vezes) ou um triquinoscópio com uma mesa horizontal.\n\nk) Um caixote para recolha de resíduos líquidos.\n\nl) Vários recipientes de 10 litros a utilizar para a descontaminação dos aparelhos e utensílios com, por exemplo, formol e para o restante fluido de digestão, sempre que as amostras apresentem um resultado positivo.\n\nm) Um termómetro com uma precisão de 0,5 °C na gama de 1° a 100°C.\n\nTal como estabelecido no capítulo I, n.º 2.\n\na) Colocar o misturador com dispositivo de filtração, ligar o tubo de descarga e colocar o tubo no caixote para recolha de resíduos.\n\nb) Quando o misturador estiver ligado, iniciar-se-á o aquecimento.\n\nc) Antes do início da operação, a válvula do fundo, localizada por baixo da câmara de reação, deverá ser aberta e fechada.\n\nd) Juntar, em seguida, um número de amostras não superior a 35, aproximadamente de 1 g cada uma (a uma temperatura de 25 a 30°C), colhidas de cada uma das amostras individuais, de acordo com o processo referido no n.º 2. Certificar-se de que são retiradas as partes maiores dos tendões, visto poderem entupir o filtro de membrana.\n\ne) Verter água até à extremidade de uma câmara de líquidos ligada ao misturador (aproximadamente 400 ml).\n\nf) Verter cerca de 30 ml de ácido clorídrico (8,5 %) até à extremidade da câmara de líquidos mais pequena, ligada ao misturador.\n\ng) Colocar um filtro de membrana sob o filtro grosseiro no suporte do filtro do dispositivo de filtração.\n\nh) Por fim, adicionar 7 g de pepsina ou 21 ml de pepsina líquida. Esta ordem deve ser seguida rigorosamente para evitar a decomposição da pepsina.\n\ni) Fechar as tampas das câmaras de reação e de líquido.\n\nj) Selecionar o período de digestão. Deve ser definido um curto período de digestão (cinco minutos) para suínos em idade normal de abate e um período de digestão mais longo (oito minutos) para outras amostras.\n\nk) Quando for acionado o botão do misturador, o processo de dosagem e digestão começa automaticamente, seguido pela filtração. Dez a treze minutos depois, o processo está concluído e para automaticamente.\n\nl) Abrir a tampa da câmara de reação depois de se verificar que a câmara está vazia. Se houver espuma ou restos do fluido de digestão na câmara, repetir o processo em conformidade com o ponto V.\n\na) Retirar o suporte do filtro e transferir o filtro de membrana para uma lâmina de microscópio ou uma placa de Petri.\n\nb) Examinar o filtro de membrana utilizando um (estéreo)microscópio ou triquinoscópio.\n\na) Sempre que o resultado seja positivo, encher a câmara de reação do misturador até 2/3 com água a ferver. Verter água da torneira para dentro da câmara de líquidos de ligação até estar coberto o sensor de nível inferior. Realiza-se, então, a limpeza automática. Descontaminar o suporte do filtro, bem com o equipamento restante, por exemplo através de um tratamento com formol.\n\nb) No fim de cada dia de trabalho, encher a câmara de líquidos do misturador com água e proceder a um programa normalizado.\n\nCada filtro de membrana policarbonatada só pode ser utilizado cinco vezes. O filtro deve ser sempre voltado entre duas utilizações. Além disso, o filtro deve ser examinado depois de cada utilização, a fim de detetar eventuais danos que o tornem impróprio para utilização posterior.\n\nQuando o misturador tiver sido colocado num ciclo automático tal como descrito no ponto I, abrir a tampa da câmara de reação e verificar se existe espuma ou líquido remanescentes na câmara. Se for esse o caso, proceder do seguinte modo:\n\na) Fechar a válvula do fundo por baixo da câmara de reação;\n\nb) Retirar o suporte do filtro e transferir o filtro de membrana para uma lâmina de microscópio ou uma placa de Petri;\n\nc) Colocar um novo filtro de membrana no suporte do filtro e montar o suporte do filtro;\n\nd) Verter água para dentro da câmara de líquidos do misturador até estar coberto o sensor de nível inferior;\n\ne) Efetuar o ciclo de limpeza automática;\n\nf) Depois de concluído o ciclo de limpeza, abrir a tampa da câmara de reação e verificar se há restos de líquido;\n\ng) Se a câmara estiver vazia, remover o suporte do filtro e transferir o filtro de membrana, com uma pinça, para uma lâmina de microscópio ou uma placa de Petri;\n\nh) Examinar os dois filtros de membrana, tal como descrito no ponto II. Se os filtros não puderem ser examinados, repetir todo o processo de digestão com um período de digestão mais longo, em conformidade com o ponto I.\n\nSempre que o resultado seja positivo ou duvidoso, são aplicáveis as disposições do capítulo I, n.º 3, ponto III.\n\n***Este método é considerado como equivalente apenas para o teste de carne de suínos domésticos.***\n\na) Uma faca ou tesoura e pinças para a cortar as amostras.\n\nb) Tabuleiros divididos em 50 quadrados, podendo cada um conter amostras de carne de cerca de 2 g, ou outros instrumentos que deem garantias equivalentes no tocante à rastreabilidade das amostras.\n\nc) Um misturador dotado de uma lâmina trituradora afiada. Caso as amostras sejam maiores do que 3 g, deverá utilizar-se um triturador com orifícios de 2 a 4 mm ou tesouras. No caso de carne ou língua congeladas (após remoção da camada superficial, que não pode ser digerida), é necessário um triturador e o tamanho da amostra será aumentado consideravelmente.\n\nd) Agitadores magnéticos, munidos de placa de aquecimento termostaticamente controlada e de varetas revestidas de teflon com um comprimento de, aproximadamente, 5 cm.\n\ne) Copos em vidro com uma capacidade de três litros.\n\nf) Peneiras, dimensão da malha de 180 mícrones, diâmetro exterior de 11 cm, com malha em aço inoxidável.\n\ng) Aparelho de filtragem em aço para filtros de malha de 20 μm com um funil de aço.\n\nh) Bomba de vácuo.\n\ni) Depósitos de metal ou de plástico com uma capacidade de 10 a 15 litros para recolher os fluidos de digestão.\n\nj) Um agitador rotativo tridimensional.\n\nk) Folha de alumínio.\n\nl) Ácido clorídrico a 25 %.\n\nm) Pepsina em concentração: 1:10 000 NF (*US National Formulary*) correspondendo a 1:12 500 BP (*British Pharmacopoeia*) e a 2 000 FIP (*Fédération internationale de pharmacie*), ou pepsina líquida estabilizada com, pelo menos, 660 unidades da Farmacopeia Europeia/ml.\n\nn) Água da torneira aquecida de 46° a 48°C.\n\no) Uma balança com uma precisão de 0,1 g.\n\np) Pipetas de diferentes tamanhos (1, 10 e 25 ml), micropipetas de acordo com as instruções do fabricante dos testes da aglutinação em látex e suportes de pipetas.\n\nq) Filtros de malha de nylon de 20 mícrones com um diâmetro adaptado ao sistema de filtração.\n\nr) Fórceps de plástico ou aço de 10 a 15 cm.\n\ns) Frascos cónicos de 15 ml.\n\nt) Um almofariz com uma ponta cónica em aço ou teflon adaptado aos frascos cónicos.\n\nu) Um termómetro com uma precisão de 0,5°C na gama de 1° a 100°C.\n\nv) Cartões de aglutinação em látex do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\nw) Tampão com conservante (solvente para amostras) *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\nx) Tampão completado com conservante (controlo negativo) do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\ny) Tampão completado com antigénios de *Trichinella spiralis* e conservante (controlo positivo) do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\nz) Tampão com partículas de poliestireno revestidas com anticorpos completado com conservante (esferas de látex) do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\naa) Bastões descartáveis.\n\nTal como estabelecido no capítulo I, n.º 2.\n\na) adicionar 16 ± 0,5 ml de ácido clorídrico a 25 % (0,2 % final) para dentro de um copo de 3 litros contendo 2,0 litros ± 200 ml de água da torneira, pré-aquecida a 46°-48°C; colocar uma vareta agitadora no copo, colocar o copo na placa pré-aquecida e iniciar o processo de agitação;\n\nb) adicionar 10 ± 1 g de pepsina em pó (ou 30 ± 3 ml de pepsina líquida);\n\nc) triturar no misturador 100-115 g de amostras colhidas de acordo com as indicações previstas no ponto 2, com 150 ml ± 15 ml de tampão de digestão pré-aquecido;\n\nd) transferir a carne triturada para o copo de três litros que contém a água, pepsina e ácido clorídrico;\n\ne) mergulhar várias vezes o dispositivo de triturar do misturador no fluido de digestão que se encontra no copo e enxaguar a taça do misturador com uma pequena quantidade do fluido de digestão para remover eventuais pedaços de carne que ainda aí se encontrem;\n\nf) cobrir o copo com folha de alumínio;\n\ng) regular o agitador magnético de forma a que possa manter durante todo o período de funcionamento uma temperatura constante de 44° a 46°C. No decurso do processo de agitação, o fluido de digestão deve rodar a uma velocidade suficientemente elevada para formar um profundo turbilhão sem provocar salpicos;\n\nh) o fluido de digestão é agitado até que as partículas de carne desapareçam (cerca de 30 minutos). O agitador é, então, desligado e o fluido de digestão é filtrado através da peneira para o funil de sedimentação. Podem ser necessários períodos de digestão mais longos (não superiores a 60 minutos) na transformação de determinados tipos de carne (língua, caça, etc.);\n\ni) considera-se que o processo de digestão é satisfatório quando não permanecer na peneira mais de 5 % do peso inicial da amostra;\n\nj) coloca-se o filtro de malha de nylon de 20 mícrones no suporte de filtragem. Fixa-se o funil cónico de filtragem em aço ao suporte com o sistema de fecho e coloca-se a peneira em aço com malha de 180 mícrones no funil. Liga-se a bomba de vácuo ao suporte de filtragem e ao depósito de metal ou plástico para recolher o fluido de digestão;\n\nk) parar de agitar e verter o fluído de digestão no funil de filtragem através da peneira. Lavar o copo com cerca de 250 ml de água quente. Verter o líquido de lavagem na rampa de filtragem após o fluído de digestão ter sido filtrado com êxito;\n\nl) com o fórceps, retirar a membrana de filtragem segurando-a por uma ponta. Dobrar a membrana de filtragem em quatro, pelo menos, e colocá-la no frasco cónico de 15 ml; a escolha do frasco cónico deve ser adaptada à haste de ponta cónica;\n\nm) empurrar a membrana de filtragem até ao fundo do frasco cónico de 15 ml com o auxílio da haste e pressionar vigorosamente com cerca de 20 movimentos sucessivos de vaivém com a haste que deve estar posicionada no interior da dobra da membrana de filtragem, de acordo com as instruções do fabricante;\n\nn) adicionar 0,5 ml ± 0,01 ml de solvente para amostras no frasco cónico de 15 ml com uma pipeta e a membrana de filtragem é homogeneizada com a haste fazendo movimentos sucessivos de vaivém de baixa amplitude durante cerca de 30 segundos, evitando movimentos bruscos para limitar salpicos de líquido, de acordo com as instruções do fabricante;\n\no) cada amostra, o controlo negativo e o controlo positivo são dispersados em diferentes campos do cartão de aglutinação com recurso a pipeta, de acordo com as instruções do fabricante;\n\np) são adicionadas as esferas de látex a cada campo do cartão de aglutinação com recurso a pipeta, de acordo com as instruções do fabricante, impedindo que entrem em contacto com as amostras e os controlos. Em cada campo, as esferas de látex são então suavemente misturadas com um bastão descartável até que o líquido homogéneo cubra todo o campo;\n\nq) o cartão de aglutinação é colocado no agitador rotativo tridimensional e agitado durante 10 ± 1 minutos, de acordo com as instruções do fabricante;\n\nr) após o período estabelecido pelas instruções do fabricante, interrompe-se a agitação e coloca-se o cartão de aglutinação numa superfície plana, lendo-se imediatamente os resultados da reação, de acordo com as instruções do fabricante. No caso de uma amostra positiva, têm de aparecer agregados de esferas. No caso de uma amostra negativa, a suspensão permanece homogénea sem agregados de esferas.\n\nPara grupos de menos de 100 g, deve ser seguido o procedimento estipulado no capítulo I, n.º 3, ponto II.\n\nSempre que o exame de uma amostra combinada revele um resultado positivo ou duvidoso no teste de aglutinação em látex, deve ser colhida de cada suíno uma nova amostra de 20 g, de acordo com as indicações previstas no capítulo I, n.º 2, alínea a). As amostras de 20 gramas provenientes de cinco suínos devem ser reunidas e examinadas segundo o método descrito no ponto I. Deste modo, têm de ser examinadas amostras de 20 grupos de cinco suínos.\n\nQuando se obtiver uma aglutinação em látex positiva de um grupo de cinco suínos, devem ser colhidas novas amostras de 20 g de cada suíno que pertença a este grupo e examinadas separadamente com recurso ao método descrito no ponto I.\n\nQuando se obtiver um resultado positivo ou incerto no ensaio de aglutinação em látex, devem ser enviadas, pelo menos, 20 g de músculo de suíno para o laboratório nacional de referência para confirmação, recorrendo-se a um dos métodos descritos no capítulo I.\n\nAs amostras de parasitas têm de ser mantidas em álcool etílico a 90 % para conservação e identificação a nível da espécie no laboratório da UE ou nacional de referência.\n\nApós a colheita de parasitas, os fluidos positivos têm de ser descontaminados por aquecimento a, pelo menos, 60°C.\n\nSempre que o exame de uma amostra coletiva ou individual produzir um resultado positivo ou duvidoso ao teste de aglutinação em látex, todo o material em contacto com carne (taça e lâmina do misturador, haste de ponta cónica, copo de vidro, vareta agitadora, sensor de temperatura, funil cónico de filtração, peneira e fórceps) deve ser cuidadosamente descontaminado por imersão durante alguns segundos em água quente (65°C a 90°C). Os resíduos de carne ou larvas inativadas que possam ficar na sua superfície podem ser eliminados com uma esponja limpa e água da torneira. Se necessário, podem adicionar-se algumas gotas de detergente para desengordurar o equipamento. Recomenda-se depois enxaguar várias vezes cada elemento para remover todos os vestígios de detergente.\n\n***Este método só é considerado equivalente para o teste de carne de suínos domésticos.***\n\nO PrioCHECK^®^ *Trichinella* AAD Kit deve ser utilizado de acordo com o manual de instruções do kit, utilizando ampolas de decantação (Lenz NS 29/32) e um tubo de ensaio de vidro de 80 ml."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "e9c64e8e30b6aecd": {
+   "fragment_id": "Tratamentos por congelação",
+   "type": "divisao",
+   "heading": "Tratamentos por congelação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tratamentos por congelação"
+  },
+  "f7a9174996159627": {
+   "fragment_id": "A. Método de congelação 1",
+   "type": "divisao",
+   "heading": "A. Método de congelação 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A. Método de congelação 1\n\na) As carnes recebidas já congeladas devem ser mantidas nesse estado.\n\nb) A instalação técnica e a alimentação em energia da câmara frigorífica devem ser tais que a temperatura exigida possa ser atingida muito rapidamente e mantida em todas as partes da câmara e da carne.\n\nc) Todas as embalagens isoladoras devem ser retiradas antes da congelação, exceto no que se refere à carne que, por ocasião da introdução na câmara frigorífica, tenha já atingido, em todas as suas partes, a temperatura exigida ou carne embalada de forma a que a embalagem não a impeça de alcançar a temperatura exigida no tempo especificado.\n\nd) As remessas devem ser conservadas separadamente na câmara frigorífica e fechadas à chave.\n\ne) Para cada remessa, o dia e a hora da introdução na câmara frigorífica devem ser registados.\n\nf) A temperatura na câmara frigorífica deve ser de, pelo menos, – 25°C. Deve ser medida por aparelhos de medição termoelétrica calibrados e constantemente registada. Não deve ser medida diretamente na corrente de ar frio. Os aparelhos de medição devem ser guardados em local fechado à chave. Os gráficos de temperatura devem incluir os dados relevantes do registo da inspeção de carnes aquando da importação, assim como do dia e da hora do início e do fim da congelação e ser conservados um ano após a sua compilação.\n\ng) As carnes cujo diâmetro ou espessura é igual ou inferior a 25 cm devem ser congeladas, sem interrupção, durante 240 horas, pelo menos, e aquelas cujo diâmetro ou espessura está compreendido entre 25 cm e 50 cm durante 480 horas pelo menos. As carnes cujo diâmetro ou espessura é superior a estas dimensões não devem ser submetidas a este processo de congelação. A duração da congelação calcula-se a partir do momento em que a temperatura indicada na alínea f) é atingida na câmara de congelação."
+  },
+  "7d33d64ab9be5d52": {
+   "fragment_id": "B. Método de congelação 2",
+   "type": "divisao",
+   "heading": "B. Método de congelação 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### B. Método de congelação 2\n\nDevem ser observadas as disposições gerais constantes das alíneas a) a e) do ponto A (método 1) e respeitadas as seguintes combinações de tempo e de temperatura:\n\na) As carnes cujo diâmetro ou espessura é igual ou inferior a 15 cm devem ser congeladas numa das seguintes condições combinadas de tempo e temperatura:\n\n— 20 dias a – 15°C,\n\n— 10 dias a – 23°C,\n\n— 6 dias a – 29°C.\n\nb) As carnes cujo diâmetro ou espessura estejam compreendidos entre 15 cm e 50 cm devem ser congeladas numa das seguintes condições combinadas de tempo e temperatura:\n\n— 30 dias a – 15°C,\n\n— 20 dias a – 25°C,\n\n— 12 dias a – 29°C."
+  },
+  "605de009c8228aec": {
+   "fragment_id": "C. Método de congelação 3",
+   "type": "divisao",
+   "heading": "C. Método de congelação 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### C. Método de congelação 3\n\nO tratamento consiste em crio-dissecação comercial ou congelação da carne, em conformidade com combinações de tempo e temperatura especificadas e com a temperatura controlada no centro de cada peça.\n\na) Devem ser observadas as disposições gerais constantes das alíneas a) a e) do ponto A (método 1) e respeitadas as seguintes combinações de tempo e de temperatura:\n\n— 106 horas a – 18°C,\n\n— 82 horas a – 21°C,\n\n— 63 horas a – 23,5°C,\n\n— 48 horas a – 26°C,\n\n— 35 horas a – 29°C,\n\n— 22 horas a – 32°C,\n\n— 8 horas a – 35°C,\n\n— 1/2 hora a – 37°C.\n\nb) A temperatura deve ser medida por aparelhos de medição termoelétrica calibrados e constantemente registada. A sonda do termómetro deve ser colocada no centro de uma peça de carne de dimensão não inferior à da peça de carne mais espessa a congelar. Esta peça de carne deve ser colocada no sítio menos favorável da câmara frigorífica, que não esteja próximo do dispositivo de refrigeração, nem diretamente na corrente de ar frio. Os aparelhos de medição devem ser guardados em local fechado à chave. Os gráficos de temperatura devem incluir os dados do registo da inspeção de carnes aquando da importação assim como do dia e da hora do início e do fim da congelação e ser conservados um ano após a sua compilação."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "5f6c40e32f2cc955": {
+   "fragment_id": "Exame de outros animais que não os suínos",
+   "type": "divisao",
+   "heading": "Exame de outros animais que não os suínos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Exame de outros animais que não os suínos\n\nA carne de equídeos, de caça selvagem e outra carne que possa conter triquinas deve ser examinada em conformidade com um dos métodos de digestão especificados nos capítulos I ou II do anexo I com as seguintes alterações:\n\na) Colher amostras de, pelo menos, 10 g do músculo da língua ou dos músculos mastigadores dos equídeos e do antebraço, da língua ou do diafragma dos javalis selvagens;\n\nb) Na ausência destes músculos dos equídeos, deve ser colhida uma amostra maior de um pilar do diafragma, na zona de transição entre a parte muscular e a parte tendinosa. O músculo deve estar isento de tecido conjuntivo e de gordura;\n\nc) Pelo menos 5 g de amostra devem ser digeridos de acordo com o método de deteção de referência descrito no capítulo I ou com um método equivalente descrito no capítulo II. Para cada digestão, o peso total de músculo examinado não deve exceder 100 g, no caso do método descrito no capítulo I e dos métodos A e B descritos no capítulo II, e 35 g, no caso do método C descrito do capítulo II;\n\nd) Em caso de resultado positivo, deve conservar-se uma amostra adicional de 50 g para um exame independente posterior;\n\ne) Sem prejuízo das normas de proteção de espécies animais e com exceção dos javalis selvagens, toda a carne de animais de caça, tais como ursos, mamíferos carnívoros (incluindo mamíferos marinhos) e répteis deve ser testada mediante a colheita de 10 g de tecido muscular dos locais de predileção ou de quantidades maiores, caso estes locais não se encontrem disponíveis. Os locais de predileção são:\n\ni) nos ursos: o diafragma, o músculo do masséter e a língua,\n\nii) nas morsas: a língua,\n\niii) nos crocodilos: os músculos do masséter, pterigoides e intercostais,\n\niv) nas aves: os músculos da cabeça (por exemplo, os músculos do masséter e do pescoço);\n\nf) O período de digestão deve ser suficiente para assegurar uma digestão adequada do tecido destes animais mas não deve exceder 60 minutos."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "6da92fe0e02efe2c": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I"
+  },
+  "935efc1102b3f5e8": {
+   "fragment_id": "RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+   "type": "divisao",
+   "heading": "RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS\n\nA. Os operadores de empresas do setor alimentar devem, no sentido de obter o reconhecimento oficial de explorações, cumprir os seguintes requisitos:\n\na) o operador deve ter tomado todas as precauções de ordem prática no que se refere à construção dos edifícios e à manutenção no sentido de evitar o acesso de roedores, qualquer outro tipo de mamíferos e aves carnívoras aos edifícios onde são mantidos os animais;\n\nb) o operador deve aplicar um programa de luta contra as pragas, em especial os roedores, que evite eficazmente a infestação dos suínos. Deve manter registos referentes ao programa que satisfaçam as exigências da autoridade competente;\n\nc) o operador deve garantir que todos os alimentos para animais foram obtidos de uma instalação que produz alimentos para animais em conformidade com os princípios descritos no Regulamento (CE) n.º 183/2005 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/3860385b-1de8-11eb-b57e-01aa75ed71a1.0019.02/DOC_1#E0001));\n\nd) o operador deve armazenar os alimentos para animais destinados a espécies suscetíveis às triquinas em silos fechados ou outros contentores que sejam impenetráveis para os roedores. Todos os restantes alimentos para animais devem ser tratados termicamente ou produzidos e armazenados segundo as exigências da autoridade competente;\n\ne) o operador tem de garantir que os animais mortos são recolhidos, identificados e transportados sem atraso desnecessário, em conformidade com os artigos 21.º e 22.º do Regulamento (CE) n.º 1069/2009 e com o anexo VIII do Regulamento (UE) n.º 142/2011;\n\nf) o operador deve informar a autoridade competente caso exista uma lixeira nas imediações da exploração. Subsequentemente, a autoridade deve avaliar os riscos envolvidos e decidir se a exploração pode ser reconhecida como aplicando condições de habitação de animais controladas;\n\ng) o operador deve garantir a identificação dos suínos domésticos, de forma a se poder efetuar a rastreabilidade de cada animal até à exploração;\n\nh) o operador deve assegurar que os suínos domésticos só são introduzidos na exploração se forem originários e provenientes de explorações oficialmente reconhecidas como aplicando condições de habitação controladas;\n\ni) nenhum animal da espécie suína doméstica tem acesso a instalações ao ar livre, a menos que o operador possa demonstrar, através de uma análise dos riscos, a contento da autoridade competente, que o período, as instalações e as circunstâncias do acesso ao ar livre não representam um perigo de introdução de triquinas na exploração;\n\nj) nenhum dos suínos de criação ou de rendimento, tal como definidos no artigo 2.º, n.º 2, alínea c), da Diretiva 64/432/CEE, foi descarregado depois de abandonar a exploração de origem num centro de agrupamento, conforme definido no artigo 2.º, n.º 2, alínea o), da Diretiva 64/432/CEE, a menos que o centro de agrupamento satisfaça os requisitos das alíneas a) a i) e que todos os suínos domésticos agrupados para remessas no centro de agrupamento sejam originários e provenientes de explorações oficialmente reconhecidas como aplicando condições de habitação controladas ou de compartimentos oficialmente reconhecidos.\n\nB. Os operadores de empresas do setor alimentar responsáveis por explorações oficialmente reconhecidas como aplicando condições de habitação controladas devem informar a autoridade competente sempre que qualquer uma das condições mencionadas no ponto A deixe de ser cumprida ou sempre que se verifique qualquer outra alteração que possa afetar o estatuto da exploração.\n\nC. As autoridades competentes nos Estados-Membros apenas podem reconhecer uma exploração ou uma categoria de explorações se tiverem verificado o cumprimento dos requisitos previstos no ponto A."
+  },
+  "48fa5f7b94dc8eb9": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II"
+  },
+  "cf90fb184eb8ecc6": {
+   "fragment_id": "NOTIFICAÇÃO DA SITUAÇÃO RELATIVA ÀS TRIQUINAS",
+   "type": "divisao",
+   "heading": "NOTIFICAÇÃO DA SITUAÇÃO RELATIVA ÀS TRIQUINAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NOTIFICAÇÃO DA SITUAÇÃO RELATIVA ÀS TRIQUINAS\n\na) deve ser notificado o número de casos humanos de triquinas (importados e autóctones), incluindo os dados epidemiológicos, de acordo com o disposto na Decisão 2000/96/CE;\n\nb) deve ser comunicado o número de testes e os resultados respetivos dos testes para deteção de triquinas em suínos domésticos, javalis, cavalos, caça e outros animais sensíveis, de acordo com o anexo IV da Diretiva 2003/99/CE. Os dados sobre suínos domésticos devem, pelo menos, fornecer informações específicas relacionadas com:\n\ni) testes em animais criados sob condições de habitação controladas,\n\nii) testes em porcas de reprodução, varrascos e suínos de engorda."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "3a659eb529cfce26": {
+   "fragment_id": "Regulamento revogado com a lista das sucessivas alterações",
+   "type": "divisao",
+   "heading": "Regulamento revogado com a lista das sucessivas alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regulamento revogado com a lista das sucessivas alterações\n\nRegulamento (CE) n.º 2075/2005 da Comissão (JO L 338 de 22.12.2005, p. 60).\n\nRegulamento (CE) n.º 1665/2006 da Comissão (JO L 320 de 18.11.2006, p. 46).\n\nRegulamento (CE) n.º 1245/2007 da Comissão (JO L 281 de 25.10.2007, p. 19).\n\nRegulamento de Execução (UE) n.º 1109/2011 da Comissão (JO L 287 de 4.11.2011, p. 23).\n\nRegulamento (UE) n.º 216/2014 da Comissão (JO L 69 de 8.3.2014, p. 85).\n\nRegulamento de Execução (UE) n.º 1114/2014 da Comissão (JO L 302 de 22.10.2014, p. 46)."
+  },
+  "4952c1c974924ef3": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\nRegulamento (CE) n.º 2075/2005 Presente regulamento\n\nArtigos 1.º a 5.º Artigos 1.º a 5.º\n\nArtigo 6.º, n.º 1, frase introdutória Artigo 6.º, n.º 1\n\nArtigo 6.º, n.º 1, alínea a) Artigo 6.º, n.º 1\n\nArtigo 6.º, n.º 1, alínea b) —\n\nArtigo 6.º, n.º 2 Artigo 6.º, n.º 2\n\nArtigos 7.º a 13.º Artigos 7.º a 13.º\n\nArtigo 15.º Artigo 14.º\n\nArtigo 16.º —\n\n— Artigo 15.º\n\nArtigo 17.º, primeiro parágrafo Artigo 16.º\n\nArtigo 17.º, segundo parágrafo —\n\nAnexo I, capítulo I Anexo I, capítulo I\n\nAnexo I, capítulo II Anexo I, capítulo II\n\nAnexo I, capítulo III —\n\nAnexos II, III e IV Anexos II, III e IV\n\n— Anexo V\n\n— Anexo VI\n\n---"
+  },
+  "d28ab2c4ae56610d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3860385b-1de8-11eb-b57e-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 183/2005 do Parlamento Europeu e do Conselho, de 12 de janeiro de 2005, que estabelece requisitos de higiene dos alimentos para animais (JO L 35 de 8.2.2005, p. 1)."
+  },
+  "efd71c45b0598add": {
+   "fragment_id": "Artigo 2.º — Amostragem de carcaças",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Amostragem de carcaças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Amostragem de carcaças\n\n1.\n\nAs carcaças de suínos domésticos devem ser sujeitas a amostragem nos matadouros, como parte do exame *post mortem*, do seguinte modo:\n\na) todas as carcaças de porcas e varrascos de reprodução ou, pelo menos, 10 % das carcaças de animais enviados todos os anos para abate a partir de cada exploração oficialmente reconhecida como aplicando condições de habitação controladas, devem ser examinadas para deteção de triquinas;\n\nb) todas as carcaças de explorações que não sejam oficialmente reconhecidas como aplicando condições de habitação controladas devem ser examinadas sistematicamente para a deteção de triquinas.\n\nDeve ser colhida uma amostra de cada carcaça e esta deve ser examinada para deteção de triquinas, num laboratório designado pela autoridade competente, com recurso a um dos seguintes métodos de deteção:\n\na) o método de deteção de referência definido no capítulo I do anexo I; ou\n\nb) um método de deteção equivalente definido no capítulo II do anexo I.\n\n2. [**►M2**](http://publications.europa.eu/resource/celex/32021R0519) As carcaças de solípedes, javalis selvagens e outras espécies animais domésticas e selvagens suscetíveis à infestação por triquinas serão sistematicamente submetidas a amostragem em matadouros ou em estabelecimentos de tratamento de caça, como parte do exame *post mortem*.**◄**\n\nDeve ser colhida uma amostra de cada carcaça e esta deve ser examinada em conformidade com os anexos I e III num laboratório designado pela autoridade competente.\n\n3. Na pendência dos resultados do exame para deteção de triquinas e desde que o operador da empresa do setor alimentar assegure uma rastreabilidade total, as carcaças de suínos domésticos e solípedes podem ser cortadas num máximo de seis partes num matadouro ou numa unidade de desmancha situada nas mesmas instalações que o matadouro."
+  },
+  "062b17514a51a213": {
+   "fragment_id": "Artigo 13.º — Requisitos sanitários para a importação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Requisitos sanitários para a importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Requisitos sanitários para a importação\n\n1. A carne que contenha tecido muscular estriado de espécies animais que possam ser portadoras de triquinas só pode ser importada para a União se, antes da exportação, o exame para deteção de triquinas tiver sido efetuado em conformidade com condições equivalentes às do artigo 2.º ou 3.º no país terceiro em que os animais foram abatidos.\n\n2. Só os países terceiros enumerados no anexo VII podem aplicar as derrogações previstas no artigo 3.º, n.^os^ 2 e 3, após terem informado a Comissão da aplicação dessas derrogações."
+  },
+  "70eea2797a4f8ac0": {
+   "fragment_id": "Exame de outros animais que não os suínos",
+   "type": "divisao",
+   "heading": "Exame de outros animais que não os suínos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Exame de outros animais que não os suínos\n\nA carne de solípedes, de caça selvagem e outra carne que possa conter triquinas deve ser examinada em conformidade com um dos métodos de digestão especificados nos capítulos I ou II do anexo I com as seguintes alterações:\n\na) Colher amostras de, pelo menos, 10 g do músculo da língua ou dos músculos mastigadores dos solípedes e do antebraço, da língua ou do diafragma dos javalis selvagens;\n\nb) Na ausência destes músculos nos solípedes, deve ser colhida uma amostra maior de um pilar do diafragma, na zona de transição entre a parte muscular e a parte tendinosa. O músculo deve estar isento de tecido conjuntivo e de gordura;\n\nc) Pelo menos 5 g de amostra devem ser digeridos de acordo com o método de deteção de referência descrito no capítulo I ou com um método equivalente descrito no capítulo II. Para cada digestão, o peso total de músculo examinado não deve exceder 100 g, no caso do método descrito no capítulo I e dos métodos A e B descritos no capítulo II, e 35 g, no caso do método C descrito do capítulo II;\n\nd) Em caso de resultado positivo, deve conservar-se uma amostra adicional de 50 g para um exame independente posterior;\n\ne) Sem prejuízo das normas de proteção de espécies animais e com exceção dos javalis selvagens, toda a carne de animais de caça, tais como ursos, mamíferos carnívoros (incluindo mamíferos marinhos) e répteis deve ser testada mediante a colheita de 10 g de tecido muscular dos locais de predileção ou de quantidades maiores, caso estes locais não se encontrem disponíveis. Os locais de predileção são:\n\ni) nos ursos: o diafragma, o músculo do masséter e a língua,\n\nii) nas morsas: a língua,\n\niii) nos crocodilos: os músculos do masséter, pterigoides e intercostais,\n\niv) nas aves: os músculos da cabeça (por exemplo, os músculos do masséter e do pescoço);\n\nf) O período de digestão deve ser suficiente para assegurar uma digestão adequada do tecido destes animais mas não deve exceder 60 minutos."
+  },
+  "5caf3ed78a0f23c2": {
+   "fragment_id": "RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+   "type": "divisao",
+   "heading": "RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS\n\nA. Os operadores de empresas do setor alimentar devem, no sentido de obter o reconhecimento oficial de explorações, cumprir os seguintes requisitos:\n\na) o operador deve ter tomado todas as precauções de ordem prática no que se refere à construção dos edifícios e à manutenção no sentido de evitar o acesso de roedores, qualquer outro tipo de mamíferos e aves carnívoras aos edifícios onde são mantidos os animais;\n\nb) o operador deve aplicar um programa de luta contra as pragas, em especial os roedores, que evite eficazmente a infestação dos suínos. Deve manter registos referentes ao programa que satisfaçam as exigências da autoridade competente;\n\nc) o operador deve garantir que todos os alimentos para animais foram obtidos de uma instalação que produz alimentos para animais em conformidade com os princípios descritos no Regulamento (CE) n.º 183/2005 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/734c1fec-9c74-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#E0001));\n\nd) o operador deve armazenar os alimentos para animais destinados a espécies suscetíveis às triquinas em silos fechados ou outros contentores que sejam impenetráveis para os roedores. Todos os restantes alimentos para animais devem ser tratados termicamente ou produzidos e armazenados segundo as exigências da autoridade competente;\n\ne) o operador tem de garantir que os animais mortos são recolhidos, identificados e transportados sem atraso desnecessário, em conformidade com os artigos 21.º e 22.º do Regulamento (CE) n.º 1069/2009 e com o anexo VIII do Regulamento (UE) n.º 142/2011;\n\nf) o operador deve informar a autoridade competente caso exista uma lixeira nas imediações da exploração. Subsequentemente, a autoridade deve avaliar os riscos envolvidos e decidir se a exploração pode ser reconhecida como aplicando condições de habitação de animais controladas;\n\ng) o operador deve garantir a identificação dos suínos domésticos, de forma a se poder efetuar a rastreabilidade de cada animal até à exploração;\n\nh) o operador deve assegurar que os suínos domésticos só são introduzidos na exploração se forem originários e provenientes de explorações oficialmente reconhecidas como aplicando condições de habitação controladas;\n\ni) nenhum animal da espécie suína doméstica tem acesso a instalações ao ar livre, a menos que o operador possa demonstrar, através de uma análise dos riscos, a contento da autoridade competente, que o período, as instalações e as circunstâncias do acesso ao ar livre não representam um perigo de introdução de triquinas na exploração;\n\nj) nenhum dos suínos de criação ou de rendimento, tal como definidos no artigo 2.º, n.º 2, alínea c), da Diretiva 64/432/CEE, foi descarregado depois de abandonar a exploração de origem num centro de agrupamento, conforme definido no artigo 2.º, n.º 2, alínea o), da Diretiva 64/432/CEE, a menos que o centro de agrupamento satisfaça os requisitos das alíneas a) a i) e que todos os suínos domésticos agrupados para remessas no centro de agrupamento sejam originários e provenientes de explorações oficialmente reconhecidas como aplicando condições de habitação controladas ou de compartimentos oficialmente reconhecidos.\n\nB. Os operadores de empresas do setor alimentar responsáveis por explorações oficialmente reconhecidas como aplicando condições de habitação controladas devem informar a autoridade competente sempre que qualquer uma das condições mencionadas no ponto A deixe de ser cumprida ou sempre que se verifique qualquer outra alteração que possa afetar o estatuto da exploração.\n\nC. As autoridades competentes nos Estados-Membros apenas podem reconhecer uma exploração ou uma categoria de explorações se tiverem verificado o cumprimento dos requisitos previstos no ponto A."
+  },
+  "4dc2150bb0e9fbb9": {
+   "fragment_id": "NOTIFICAÇÃO DA SITUAÇÃO RELATIVA ÀS TRIQUINAS",
+   "type": "divisao",
+   "heading": "NOTIFICAÇÃO DA SITUAÇÃO RELATIVA ÀS TRIQUINAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NOTIFICAÇÃO DA SITUAÇÃO RELATIVA ÀS TRIQUINAS\n\na) deve ser notificado o número de casos humanos de triquinas (importados e autóctones), incluindo os dados epidemiológicos, de acordo com o disposto na Decisão 2000/96/CE;\n\nb) Deve ser comunicado o número de testes e os resultados respetivos dos testes para deteção de triquinas em suínos domésticos, javalis, solípedes, caça e outros animais sensíveis, de acordo com o anexo IV da Diretiva 2003/99/CE. Os dados sobre suínos domésticos devem, pelo menos, fornecer informações específicas relacionadas com:\n\ni) testes em animais criados sob condições de habitação controladas,\n\nii) testes em porcas de reprodução, varrascos e suínos de engorda."
+  },
+  "e29a4c15abeb32f0": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\nRegulamento (CE) n.º 2075/2005 Presente regulamento\n\nArtigos 1.º a 5.º Artigos 1.º a 5.º\n\nArtigo 6.º, n.º 1, frase introdutória Artigo 6.º, n.º 1\n\nArtigo 6.º, n.º 1, alínea a) Artigo 6.º, n.º 1\n\nArtigo 6.º, n.º 1, alínea b) —\n\nArtigo 6.º, n.º 2 Artigo 6.º, n.º 2\n\nArtigos 7.º a 13.º Artigos 7.º a 13.º\n\nArtigo 15.º Artigo 14.º\n\nArtigo 16.º —\n\n— Artigo 15.º\n\nArtigo 17.º, primeiro parágrafo Artigo 16.º\n\nArtigo 17.º, segundo parágrafo —\n\nAnexo I, capítulo I Anexo I, capítulo I\n\nAnexo I, capítulo II Anexo I, capítulo II\n\nAnexo I, capítulo III —\n\nAnexos II, III e IV Anexos II, III e IV\n\n— Anexo V\n\n— Anexo VI"
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "a867bac39ead99b3": {
+   "fragment_id": "Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+   "type": "divisao",
+   "heading": "Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2\n\n| Código ISO do país | País terceiro ou regiões do país terceiro | Observações |\n| --- | --- | --- |\n| GB | Reino Unido [(^*1^)](http://publications.europa.eu/resource/cellar/734c1fec-9c74-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#E0002) | Aplicação das derrogações previstas no artigo 3.º, n.^os^ 2 e 3 |\n| (^*1^) Em conformidade com o Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica, nomeadamente o artigo 5.º, n.º 4, do Protocolo relativo à Irlanda/Irlanda do Norte, em conjugação com o seu anexo 2, para os efeitos do presente anexo, as referências ao Reino Unido não incluem a Irlanda do Norte.. |  |  |\n\n---"
+  },
+  "84d8919509e0eb08": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/734c1fec-9c74-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 183/2005 do Parlamento Europeu e do Conselho, de 12 de janeiro de 2005, que estabelece requisitos de higiene dos alimentos para animais (JO L 35 de 8.2.2005, p. 1)."
+  },
+  "74cb702aeffd09aa": {
+   "fragment_id": "Artigo 3.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Derrogações\n\n1. Em derrogação ao disposto no artigo 2.º, n.º 1, a carne de suínos domésticos que tenha sido submetida a um tratamento por congelação em conformidade com o anexo II, sob a supervisão da autoridade competente, será isenta do exame para deteção de triquinas.\n\n2. Em derrogação ao disposto no artigo 2.º, n.º 1, as carcaças e a carne de suínos domésticos não desmamados com menos de cinco semanas de idade serão isentas do exame para deteção de triquinas.\n\n3.\n\nEm derrogação ao disposto no artigo 2.º, n.º 1, as carcaças e a carne de suínos domésticos podem ser isentas do exame para deteção de triquinas sempre que os animais sejam provenientes de uma exploração ou de um compartimento oficialmente reconhecidos como aplicando condições de habitação controladas, em conformidade com o anexo IV, desde que:\n\na) nos últimos três anos, não se tenham detetado no Estado-Membro infestações por triquinas em suínos domésticos mantidos em explorações oficialmente reconhecidas como aplicando condições de habitação controladas e que tenham sido realizados durante esse período testes contínuos em conformidade com o artigo 2.º; ou\n\nb) os dados históricos dos testes contínuos efetuados na população suína abatida permitam um nível de confiança mínimo de 95 % de que a prevalência de triquinas não é superior a um por milhão naquela população; ou\n\nc) as explorações que aplicam condições de habitação controladas estejam localizadas na Bélgica ou na Dinamarca.\n\n4. Sempre que um Estado-Membro execute a derrogação prevista no n.º 3, o Estado-Membro em questão deve informar a Comissão e os restantes Estados-Membros no âmbito do Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal e apresentar um relatório anual à Comissão contendo as informações mencionadas no anexo IV, capítulo II. A Comissão deve publicar a lista dos Estados-Membros que executam a derrogação no seu sítio *web*.\n\nSe um Estado-Membro não apresentar o relatório anual ou este não for satisfatório para os fins do presente artigo, a derrogação deixa de se aplicar àquele Estado-Membro.\n\n5.\n\nEm derrogação do artigo 2.º, n.º 3, e após aprovação pela autoridade competente:\n\na) As carcaças podem ser cortadas numa unidade de desmancha anexa ao matadouro ou dele separada, desde que:\n\ni) o procedimento seja aprovado pela autoridade competente,\n\nii) a carcaça ou as suas partes não tenham como destino mais do que uma unidade de desmancha,\n\niii) a unidade de desmancha esteja situada no território do Estado-Membro, e\n\niv) no caso de um resultado positivo, todas as partes sejam declaradas impróprias para consumo humano;\n\nb) As carcaças provenientes de suínos domésticos podem ser cortadas em mais partes numa unidade de desmancha situada nas mesmas instalações que o matadouro ou anexa ao matadouro, desde que:\n\ni) o procedimento seja aprovado pela autoridade competente,\n\nii) a desmancha ou a desossa, antes de atingir a temperatura referida no anexo III, secção I, capítulo V, ponto 2, alínea b), do Regulamento (CE) n.º 853/2004, é realizada em conformidade com o anexo III, secção I, capítulo V, ponto 4, do referido regulamento,\n\niii) no caso de um resultado positivo, todas as partes sejam declaradas impróprias para consumo humano."
+  },
+  "76642bf9dc453f5c": {
+   "fragment_id": "MÉTODOS EQUIVALENTES",
+   "type": "divisao",
+   "heading": "MÉTODOS EQUIVALENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### MÉTODOS EQUIVALENTES\n\na) Uma faca ou tesoura para cortar as amostras.\n\nb) Tabuleiros divididos em 50 quadrados, podendo cada um conter amostras de carne de cerca de 2 g, ou outros instrumentos que deem garantias equivalentes no tocante à rastreabilidade das amostras.\n\nc) Triturador ou misturador elétrico.\n\nd) Um Stomacher Lab-blender 3 500, modelo Thermo.\n\ne) Sacos de plástico adaptados ao Stomacher Lab-blender.\n\nf) Ampolas de decantação cónicas com capacidade para 2 litros, de preferência munidas de torneiras de segurança em teflon.\n\ng) Suportes com anéis e fixações.\n\nh) Peneiras, dimensão da malha 180 mícrones, diâmetro exterior de 11 cm, com malha em aço inoxidável ou latão.\n\ni) Funis com diâmetro interno de pelo menos 12 cm, destinados a receber as peneiras.\n\nj) Provetas graduadas de 100 ml em vidro.\n\nk) Um termómetro com uma precisão de 0,5 °C na gama de 20 ° a 70 °C.\n\nl) Um vibrador, por exemplo uma máquina de barbear elétrica sem cabeça.\n\nm) Um interruptor que acenda e apague de minuto a minuto.\n\nn) Um triquinoscópio provido de uma mesa horizontal ou um estereomicroscópio com uma fonte de luz subplatina de intensidade ajustável.\n\no) Placas de Petri com cerca de 90 mm de diâmetro, com um fundo quadriculado cujas arestas meçam cerca de 1 cm, ou equipamento equivalente para a contagem de larvas, conforme previsto no ponto 6.14 da norma ISO 18743:2015.\n\np) Ácido clorídrico a 17,5 %.\n\nq) Pepsina com a seguinte concentração:\n\n— granular ou em pó: 1:10 000 NF (US National Formulary) correspondendo a 1:12 500 BP (British Pharmacopoea) e a 2 000 FIP (Fédération internationale de pharmacie), ou\n\n— líquida: pepsina líquida estabilizada com, pelo menos, 660 unidades da Farmacopeia Europeia/ml.\n\nr) Vários recipientes de 10 litros a utilizar para a descontaminação dos aparelhos e utensílios com, por exemplo, formol e para o restante fluido de digestão, sempre que as amostras apresentem um resultado positivo.\n\ns) Uma balança de precisão para a pesagem de amostras e/ou pepsina (precisão de ±0,1 g).\n\nTal como estabelecido no ponto 4.2 da norma ISO 18743:2015 (para mais pormenores, ver também os anexos A e B).\n\nTriturar previamente as amostras de carne num triturador melhorará a qualidade da digestão. Caso se utilize um misturador elétrico, este deve ser posto em funcionamento três a quatro vezes durante, aproximadamente, um segundo.\n\nEste processo pode envolver grupos completos de amostras (100 g de amostras de cada vez) ou grupos de amostras com menos de 100 g.\n\na) grupos completos de amostras (100 amostras de cada vez):\n\ni) Colocar um saco duplo de plástico no Stomacher Lab-blender 3 500 e regular a temperatura para 40° a 41°C;\n\nii) Deitar um litro e meio de água aquecida a uma temperatura de 40° a 41°C no saco interior;\n\niii) Acrescentar à água contida no saco 25 ml da solução de ácido clorídrico a 17,5 %;\n\niv) Juntar 100 amostras de aproximadamente 1 g cada (de 25 a 30°C) colhidas de cada uma das amostras individuais, de acordo com o processo referido no n.º 2;\n\nv) Por fim, adicionar 6 g de pepsina ou 18 ml de pepsina líquida. Esta ordem deve ser seguida rigorosamente para evitar a decomposição da pepsina;\n\nvi) Triturar o conteúdo do saco no Stomacher durante 25 minutos;\n\nvii) Tirar o saco de plástico do Stomacher, filtrar o fluido de digestão por meio de uma peneira e deixar escorrer para o copo de 3 litros;\n\nviii) Lavar o saco de plástico com cerca de 100 ml de água, que são em seguida utilizados para enxaguar a peneira e acrescentados ao filtrado contido no copo;\n\nix) Um número máximo de 15 amostras individuais pode ser junto a um grupo completo de 100 amostras para ser examinado juntamente com estas últimas.\n\nb) grupos mais pequenos (menos de 100 amostras):\n\ni) Colocar um saco duplo de plástico no Stomacher Lab-blender 3 500 e regular a temperatura para 40° a 41°C;\n\nii) Preparar um fluido de digestão misturando cerca de um litro e meio de água e 25 ml de ácido clorídrico a 17,5 %. Juntar 6 g de pepsina e misturar tudo a uma temperatura de 40° a 41°C. Esta ordem deve ser seguida rigorosamente para evitar a decomposição da pepsina;\n\niii) Medir um volume de fluido de digestão correspondendo a 15 ml por grama de amostra (assim, para 30 amostras, será preciso colher 30 × 15 ml = 450 ml) e transferi-lo para o saco de plástico interior juntamente com as amostras de carne de cerca de 1 g (entre 25° e 30°C) colhidas de cada amostra individual, de acordo com o processo referido no n.º 2;\n\niv) Deitar água a uma temperatura de cerca de 41°C no saco exterior até obter um volume total, nos dois sacos, de um litro e meio. Triturar o conteúdo do saco no Stomacher durante 25 minutos;\n\nv) Tirar o saco de plástico do Stomacher, filtrar o fluido de digestão por meio de uma peneira e deixar escorrer para o copo de 3 litros;\n\nvi) Lavar o saco de plástico com cerca de 100 ml de água (a uma temperatura de 25° a 30°C), que são em seguida utilizados para enxaguar a peneira e acrescentados ao filtrado contido no copo.\n\n— juntar gelo ao fluido de digestão (300 a 400 gramas de gelo em palhetas ou de gelo picado) para se obter um volume de cerca de dois litros. Agitar o líquido de digestão até o gelo derreter. No caso de grupos mais pequenos [ver ponto II, alínea b)], a quantidade de gelo deve ser reduzida em conformidade,\n\n— transferir o fluido de digestão arrefecido para uma ampola de decantação de 2 litros munida de um vibrador fixado por uma pinça suplementar,\n\n— para a sedimentação, deixar o fluido na ampola de decantação durante 30 minutos, alternando um minuto de vibração e um minuto de repouso,\n\n— depois de 30 minutos, introduzir rapidamente 60 ml de sedimento numa proveta graduada de 100 ml (depois da utilização, enxaguar o funil com uma solução detergente),\n\n— deixar repousar a amostra de 60 ml durante, pelo menos, 10 minutos, aspirar o sobrenadante até ficar na proveta um volume de 15 ml, que será examinado para a deteção da presença de larvas,\n\n— para a aspiração, pode-se utilizar uma seringa descartável, munida de um tubo de plástico. O comprimento deste deve ser tal que fiquem 15 ml de líquido na proveta graduada quando a parte superior da seringa se encontrar ao nível do bordo do cilindro,\n\n— introduzir os restantes 15 ml numa placa de Petri ou num equipamento equivalente para a contagem de larvas e examinar com um triquinoscópio ou um microscópio estereoscópio,\n\n— lavar a proveta graduada com 5 a 10 ml de água da torneira e juntar o líquido obtido à amostra,\n\n— os fluidos de digestão devem ser examinados mal estejam prontos. Em caso algum se deve adiar o exame para o dia seguinte.\n\nSempre que os fluidos de digestão não forem translúcidos, devem ser clarificados do seguinte modo:\n\n— verter a amostra final de 60 ml para uma proveta graduada e deixar repousar durante 10 minutos, retirar 45 ml do sobrenadante por aspiração e juntar aos 15 ml restantes água da torneira até obter um volume total de 45 ml,\n\n— depois de um novo período de repouso de 10 minutos, retirar 30 ml do fluido sobrenadante por aspiração, verter os 15 ml remanescentes numa placa de Petri ou num equipamento equivalente para a contagem de larvas e proceder ao exame ao triquinoscópio ou microscópio estereoscópico,\n\n— lavar a proveta graduada com 10 ml de água da torneira e juntar o líquido obtido à amostra na placa de Petri ou no equipamento equivalente para a contagem de larvas e proceder ao exame ao triquinoscópio ou microscópio estereoscópico. IV. Resultados positivos ou duvidosos\n\nSempre que o exame de uma amostra combinada produzir um resultado positivo ou duvidoso, deve ser colhida uma nova amostra de 20 g de cada suíno, em conformidade com o ponto 4.2 da norma ISO 18743:2015 (para mais pormenores, ver também os anexos A e B). As amostras de 20 g provenientes de cinco suínos devem ser reunidas e examinadas segundo o método descrito no presente capítulo. Deste modo, serão examinadas amostras de 20 grupos de cinco suínos. Se forem detetadas triquinas numa amostra combinada proveniente de cinco suínos, devem ser colhidas novas amostras de 20 g de cada suíno no grupo amostrado a serem examinadas separadamente, segundo o método descrito no presente capítulo. As amostras de parasitas devem ser mantidas em álcool etílico a 70-90% (concentração final) para conservação e identificação ao nível da espécie no laboratório de referência nacional ou da UE. Para o procedimento de descontaminação, consultar o ponto 12 da norma ISO 18743:2015.\n\nTal como estabelecido no ponto A, n.º 1.\n\nEquipamento complementar:\n\na) Um funil Gelman de um litro com suporte para filtro (diâmetro: 45 mm);\n\nb) Discos filtrantes que consistem numa rede circular em aço inoxidável com uma malha de 35 mícrones (diâmetro do disco: 45 mm), dois anéis de borracha com 1 mm de espessura (diâmetro externo: 45 mm, diâmetro interno: 38 mm), devendo a rede circular ser colocada entre os dois anéis de borracha e fixada por meio de uma cola de dois componentes adequada aos dois materiais;\n\nc) Um frasco de Erlenmeyer de três litros munido de um tubo lateral para aspiração;\n\nd) Uma bomba de água;\n\ne) Sacos de plástico com pelo menos 80 ml de capacidade;\n\nf) Equipamento para fechar sacos de plástico;\n\ng) Renilase em concentração 1:150 000 unidades Soxhlet por grama.\n\nTal como estabelecido no ponto 4.2 da norma ISO 18743:2015 (para mais pormenores, ver também os anexos A e B).\n\nTriturar previamente as amostras de carne num triturador melhorará a qualidade da digestão. Caso se utilize um misturador elétrico, este deve ser posto em funcionamento três a quatro vezes durante, aproximadamente, um segundo.\n\nEste processo pode envolver grupos completos de amostras (100 g de amostras de cada vez) ou grupos de amostras com menos de 100 g.\n\na) Grupos completos de amostras (100 amostras de cada vez)\n\nb) Grupos mais pequenos (menos de 100 amostras)\n\na) Juntar gelo ao fluido de digestão (300 a 400 g de gelo em palhetas ou de gelo picado) para se obter um volume de cerca de dois litros. No caso de grupos mais pequenos, a quantidade de gelo deve ser reduzida em conformidade.\n\nb) Agitar o fluido de digestão até o gelo derreter. Deixar repousar o fluido de digestão, arrefecido durante 3 minutos pelo menos, para que as larvas se possam enrolar.\n\nc) Montar o funil Gelman, munido de um suporte para filtro, no qual se encontre um disco filtrante, num frasco de Erlenmeyer ligado a uma bomba de água.\n\nd) Introduzir o fluido de digestão no funil Gelman e filtrar. Quase no final da filtração, a passagem do fluido de digestão através do filtro pode ser auxiliada procedendo-se a uma aspiração por meio da bomba de água. Terminar a aspiração antes que o filtro seque, quer dizer, quando ficarem no funil 2 a 5 ml de fluido.\n\ne) Depois da filtração de todo o fluido de digestão, retirar o disco filtrante e colocá-lo num saco de plástico com uma capacidade de 80 ml, acrescentando 15 a 20 ml de solução de renilase. Para se obter a solução de renilase, introduz-se 2 g de renilase em 100 ml de água da torneira.\n\nf) Fechar o saco de plástico com soldagem dupla e colocá-lo no Stomacher entre o saco interior e o exterior.\n\ng) Triturar no Stomacher durante três minutos, por exemplo, quer se trate de um grupo completo ou incompleto de amostras.\n\nh) Passados 3 minutos, tirar do Stomacher o saco de plástico que contém o disco filtrante e a solução de renilase e abri-lo por meio de tesouras. Verter o líquido para uma placa de Petri ou equipamento equivalente para a contagem de larvas. Lavar o saco com 5 a 10 ml de água, que são em seguida introduzidos na placa de Petri ou em equipamento equivalente para a contagem de larvas, para exame ao triquinoscópio ou microscópio estereoscópico.\n\ni) Os fluidos de digestão devem ser examinados logo que estejam prontos. Em caso algum se deverá adiar o exame para o dia seguinte.\n\n*Nota:* Não utilizar nunca discos filtrantes que não estejam perfeitamente limpos. Nunca secar os discos filtrantes se não estiverem limpos. Os discos podem ser limpos deixando-os numa solução de renilase durante a noite. Antes de serem utilizados devem ser lavados no Stomacher com uma solução de renilase.\n\nEm conformidade com o estabelecido na secção A.3, ponto IV.\n\na) Uma faca ou tesoura para cortar as amostras.\n\nb) Tabuleiros divididos em 50 quadrados, podendo cada um conter amostras de carne de cerca de 2 g, ou outros instrumentos que deem garantias equivalentes no tocante à rastreabilidade das amostras.\n\nc) Misturador Trichomatic 35®, com dispositivo de filtração.\n\nd) Ácido clorídrico a 8,5 % ±0,5 % em peso.\n\ne) Filtros de membrana de policarbonato transparente com um diâmetro de 50 mm, com poros de 14 mícrones.\n\nf) Pepsina com a seguinte concentração:\n\n— granular ou em pó: 1:10 000 NF (US National Formulary) correspondendo a 1:12 500 BP (British Pharmacopoea) e a 2 000 FIP (Fédération internationale de pharmacie), ou\n\n— líquida: pepsina líquida estabilizada com, pelo menos, 660 unidades da Farmacopeia Europeia/ml.\n\ng) Uma balança de precisão para a pesagem de amostras e/ou pepsina (precisão de ±0,1 g).\n\nh) Pinças com uma extremidade plana.\n\ni) Algumas lâminas de microscópio com um comprimento lateral de, pelo menos, 5 cm ou algumas placas de Petri com um diâmetro de, pelo menos, 6 cm, divididas no lado inferior em áreas quadradas de 10 × 10 mm, usando um instrumento pontiagudo.\n\nj) Um (estereo) microscópio com luz transmitida (ampliação de 15 a 60 vezes) ou um triquinoscópio com uma mesa horizontal.\n\nk) Um caixote para recolha de resíduos líquidos.\n\nl) Vários recipientes de 10 litros a utilizar para a descontaminação dos aparelhos e utensílios com, por exemplo, formol e para o restante fluido de digestão, sempre que as amostras apresentem um resultado positivo.\n\nm) Um termómetro com uma precisão de 0,5 °C na gama de 20 ° a 70 °C.\n\nTal como estabelecido no ponto 4.2 da norma ISO 18743:2015 (para mais pormenores, ver também os anexos A e B).\n\na) Colocar o misturador com dispositivo de filtração, ligar o tubo de descarga e colocar o tubo no caixote para recolha de resíduos.\n\nb) Quando o misturador estiver ligado, iniciar-se-á o aquecimento.\n\nc) Antes do início da operação, a válvula do fundo, localizada por baixo da câmara de reação, deverá ser aberta e fechada.\n\nd) Juntar, em seguida, um número de amostras não superior a 35, aproximadamente de 1 g cada uma (a uma temperatura de 25 a 30°C), colhidas de cada uma das amostras individuais, de acordo com o processo referido no n.º 2. Certificar-se de que são retiradas as partes maiores dos tendões, visto poderem entupir o filtro de membrana.\n\ne) Verter água até à extremidade de uma câmara de líquidos ligada ao misturador (aproximadamente 400 ml).\n\nf) Verter cerca de 30 ml de ácido clorídrico (8,5 %) até à extremidade da câmara de líquidos mais pequena, ligada ao misturador.\n\ng) Colocar um filtro de membrana sob o filtro grosseiro no suporte do filtro do dispositivo de filtração.\n\nh) Por fim, adicionar 7 g de pepsina ou 21 ml de pepsina líquida. Esta ordem deve ser seguida rigorosamente para evitar a decomposição da pepsina.\n\ni) Fechar as tampas das câmaras de reação e de líquido.\n\nj) Selecionar o período de digestão. Deve ser definido um curto período de digestão (cinco minutos) para suínos em idade normal de abate e um período de digestão mais longo (oito minutos) para outras amostras.\n\nk) Quando for acionado o botão do misturador, o processo de dosagem e digestão começa automaticamente, seguido pela filtração. Dez a treze minutos depois, o processo está concluído e para automaticamente.\n\nl) Abrir a tampa da câmara de reação depois de se verificar que a câmara está vazia. Se houver espuma ou restos do fluido de digestão na câmara, repetir o processo em conformidade com o ponto V.\n\na) Retirar o suporte do filtro e transferir o filtro de membrana para uma lâmina de microscópio ou uma placa de Petri.\n\nb) Examinar o filtro de membrana utilizando um (estéreo)microscópio ou triquinoscópio.\n\na) Sempre que o resultado seja positivo, encher a câmara de reação do misturador até 2/3 com água a ferver. Verter água da torneira para dentro da câmara de líquidos de ligação até estar coberto o sensor de nível inferior. Realiza-se, então, a limpeza automática. Descontaminar o suporte do filtro, bem com o equipamento restante, por exemplo através de um tratamento com formol.\n\nb) No fim de cada dia de trabalho, encher a câmara de líquidos do misturador com água e proceder a um programa normalizado.\n\nCada filtro de membrana policarbonatada só pode ser utilizado cinco vezes. O filtro deve ser sempre voltado entre duas utilizações. Além disso, o filtro deve ser examinado depois de cada utilização, a fim de detetar eventuais danos que o tornem impróprio para utilização posterior.\n\nQuando o misturador tiver sido colocado num ciclo automático tal como descrito no ponto I, abrir a tampa da câmara de reação e verificar se existe espuma ou líquido remanescentes na câmara. Se for esse o caso, proceder do seguinte modo:\n\na) Fechar a válvula do fundo por baixo da câmara de reação;\n\nb) Retirar o suporte do filtro e transferir o filtro de membrana para uma lâmina de microscópio ou uma placa de Petri;\n\nc) Colocar um novo filtro de membrana no suporte do filtro e montar o suporte do filtro;\n\nd) Verter água para dentro da câmara de líquidos do misturador até estar coberto o sensor de nível inferior;\n\ne) Efetuar o ciclo de limpeza automática;\n\nf) Depois de concluído o ciclo de limpeza, abrir a tampa da câmara de reação e verificar se há restos de líquido;\n\ng) Se a câmara estiver vazia, remover o suporte do filtro e transferir o filtro de membrana, com uma pinça, para uma lâmina de microscópio ou uma placa de Petri;\n\nh) Examinar os dois filtros de membrana, tal como descrito no ponto II. Se os filtros não puderem ser examinados, repetir todo o processo de digestão com um período de digestão mais longo, em conformidade com o ponto I.\n\nEm conformidade com o estabelecido na secção A.3, ponto IV.\n\n***Este método é considerado como equivalente apenas para o teste de carne de suínos domésticos.***\n\na) Uma faca ou tesoura e pinças para a cortar as amostras.\n\nb) Tabuleiros divididos em 50 quadrados, podendo cada um conter amostras de carne de cerca de 2 g, ou outros instrumentos que deem garantias equivalentes no tocante à rastreabilidade das amostras.\n\nc) Um misturador dotado de uma lâmina trituradora afiada. Caso as amostras sejam maiores do que 3 g, deverá utilizar-se um triturador com orifícios de 2 a 4 mm ou tesouras. No caso de carne ou língua congeladas (após remoção da camada superficial, que não pode ser digerida), é necessário um triturador e o tamanho da amostra será aumentado consideravelmente.\n\nd) Agitadores magnéticos, munidos de placa de aquecimento termostaticamente controlada e de varetas revestidas de teflon com um comprimento de, aproximadamente, 5 cm.\n\ne) Copos em vidro com uma capacidade de três litros.\n\nf) Peneiras, dimensão da malha de 180 mícrones, diâmetro exterior de 11 cm, com malha em aço inoxidável.\n\ng) Aparelho de filtragem em aço para filtros de malha de 20 μm com um funil de aço.\n\nh) Bomba de vácuo.\n\ni) Depósitos de metal ou de plástico com uma capacidade de 10 a 15 litros para recolher os fluidos de digestão.\n\nj) Um agitador rotativo tridimensional.\n\nk) Folha de alumínio.\n\nl) Ácido clorídrico a 25 %.\n\nm) Pepsina com a seguinte concentração:\n\n— granular ou em pó: 1:10 000 NF (US National Formulary) correspondendo a 1:12 500 BP (British Pharmacopoea) e a 2 000 FIP (Fédération internationale de pharmacie), ou\n\n— líquida: pepsina líquida estabilizada com, pelo menos, 660 unidades da Farmacopeia Europeia/ml.\n\nn) Água da torneira aquecida de 46° a 48°C.\n\no) Uma balança de precisão para a pesagem de amostras e/ou pepsina (precisão de ±0,1 g).\n\np) Pipetas de diferentes tamanhos (1, 10 e 25 ml), micropipetas de acordo com as instruções do fabricante dos testes da aglutinação em látex e suportes de pipetas.\n\nq) Filtros de malha de nylon de 20 mícrones com um diâmetro adaptado ao sistema de filtração.\n\nr) Fórceps de plástico ou aço de 10 a 15 cm.\n\ns) Frascos cónicos de 15 ml.\n\nt) Um almofariz com uma ponta cónica em aço ou teflon adaptado aos frascos cónicos.\n\nu) Um termómetro com uma precisão de 0,5 °C na gama de 20 ° a 70 °C.\n\nv) Cartões de aglutinação em látex do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\nw) Tampão com conservante (solvente para amostras) *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\nx) Tampão completado com conservante (controlo negativo) do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\ny) Tampão completado com antigénios de *Trichinella spiralis* e conservante (controlo positivo) do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\nz) Tampão com partículas de poliestireno revestidas com anticorpos completado com conservante (esferas de látex) do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\naa) Bastões descartáveis.\n\nTal como estabelecido no ponto 4.2 da norma ISO 18743:2015 (para mais pormenores, ver também os anexos A e B).\n\na) adicionar 16 ± 0,5 ml de ácido clorídrico a 25 % (0,2 % final) para dentro de um copo de 3 litros contendo 2,0 litros ± 200 ml de água da torneira, pré-aquecida a 46°-48°C; colocar uma vareta agitadora no copo, colocar o copo na placa pré-aquecida e iniciar o processo de agitação;\n\nb) adicionar 10 ± 1 g de pepsina em pó (ou 30 ± 3 ml de pepsina líquida);\n\nc) triturar no misturador 100-115 g de amostras colhidas de acordo com as indicações previstas no ponto 2, com 150 ml ± 15 ml de tampão de digestão pré-aquecido;\n\nd) transferir a carne triturada para o copo de três litros que contém a água, pepsina e ácido clorídrico;\n\ne) mergulhar várias vezes o dispositivo de triturar do misturador no fluido de digestão que se encontra no copo e enxaguar a taça do misturador com uma pequena quantidade do fluido de digestão para remover eventuais pedaços de carne que ainda aí se encontrem;\n\nf) cobrir o copo com folha de alumínio;\n\ng) regular o agitador magnético de forma a que possa manter durante todo o período de funcionamento uma temperatura constante de 44° a 46°C. No decurso do processo de agitação, o fluido de digestão deve rodar a uma velocidade suficientemente elevada para formar um profundo turbilhão sem provocar salpicos;\n\nh) o fluido de digestão é agitado até que as partículas de carne desapareçam (cerca de 30 minutos). O agitador é, então, desligado e o fluido de digestão é filtrado através da peneira para o funil de sedimentação. Podem ser necessários períodos de digestão mais longos (não superiores a 60 minutos) na transformação de determinados tipos de carne (língua, caça, etc.);\n\ni) considera-se que o processo de digestão é satisfatório quando não permanecer na peneira mais de 5 % do peso inicial da amostra;\n\nj) coloca-se o filtro de malha de nylon de 20 mícrones no suporte de filtragem. Fixa-se o funil cónico de filtragem em aço ao suporte com o sistema de fecho e coloca-se a peneira em aço com malha de 180 mícrones no funil. Liga-se a bomba de vácuo ao suporte de filtragem e ao depósito de metal ou plástico para recolher o fluido de digestão;\n\nk) parar de agitar e verter o fluído de digestão no funil de filtragem através da peneira. Lavar o copo com cerca de 250 ml de água quente. Verter o líquido de lavagem na rampa de filtragem após o fluído de digestão ter sido filtrado com êxito;\n\nl) com o fórceps, retirar a membrana de filtragem segurando-a por uma ponta. Dobrar a membrana de filtragem em quatro, pelo menos, e colocá-la no frasco cónico de 15 ml; a escolha do frasco cónico deve ser adaptada à haste de ponta cónica;\n\nm) empurrar a membrana de filtragem até ao fundo do frasco cónico de 15 ml com o auxílio da haste e pressionar vigorosamente com cerca de 20 movimentos sucessivos de vaivém com a haste que deve estar posicionada no interior da dobra da membrana de filtragem, de acordo com as instruções do fabricante;\n\nn) adicionar 0,5 ml ± 0,01 ml de solvente para amostras no frasco cónico de 15 ml com uma pipeta e a membrana de filtragem é homogeneizada com a haste fazendo movimentos sucessivos de vaivém de baixa amplitude durante cerca de 30 segundos, evitando movimentos bruscos para limitar salpicos de líquido, de acordo com as instruções do fabricante;\n\no) cada amostra, o controlo negativo e o controlo positivo são dispersados em diferentes campos do cartão de aglutinação com recurso a pipeta, de acordo com as instruções do fabricante;\n\np) são adicionadas as esferas de látex a cada campo do cartão de aglutinação com recurso a pipeta, de acordo com as instruções do fabricante, impedindo que entrem em contacto com as amostras e os controlos. Em cada campo, as esferas de látex são então suavemente misturadas com um bastão descartável até que o líquido homogéneo cubra todo o campo;\n\nq) o cartão de aglutinação é colocado no agitador rotativo tridimensional e agitado durante 10 ± 1 minutos, de acordo com as instruções do fabricante;\n\nr) após o período estabelecido pelas instruções do fabricante, interrompe-se a agitação e coloca-se o cartão de aglutinação numa superfície plana, lendo-se imediatamente os resultados da reação, de acordo com as instruções do fabricante. No caso de uma amostra positiva, têm de aparecer agregados de esferas. No caso de uma amostra negativa, a suspensão permanece homogénea sem agregados de esferas.\n\nSe necessário, podem ser adicionados 15 g, no máximo, a um grupo total de 100 g e examinados juntamente com estas amostras, de acordo com o procedimento descrito no ponto I. Quando o peso for superior a 15 g, deve proceder-se a exame enquanto grupo completo. Para grupos não superiores a 50 g, o fluido de digestão e os ingredientes podem ser reduzidos para um litro de água, 8 ml de ácido clorídrico e 5 g de pepsina.\n\nSempre que o exame de uma amostra combinada produzir um resultado positivo ou duvidoso, deve ser colhida uma nova amostra de 20 g de cada suíno, em conformidade com o ponto 4.2 da norma ISO 18743:2015 (para mais pormenores, ver também os anexos A e B). As amostras de 20 gramas provenientes de cinco suínos devem ser reunidas e examinadas segundo o método descrito no ponto I. Deste modo, têm de ser examinadas amostras de 20 grupos de cinco suínos.\n\nQuando se obtiver uma aglutinação em látex positiva de um grupo de cinco suínos, devem ser colhidas novas amostras de 20 g de cada suíno que pertença a este grupo e examinadas separadamente com recurso ao método descrito no ponto I.\n\nQuando se obtiver um resultado positivo ou incerto no teste de aglutinação em látex, devem ser enviadas, pelo menos, 20 g de músculo de suíno para o laboratório nacional de referência para confirmação, recorrendo-se ao estabelecido na norma ISO 18743:2015 ou a um dos métodos equivalentes descritos acima.\n\nAs amostras de parasitas devem ser mantidas em álcool etílico a 70-90% (concentração final) para conservação e identificação ao nível da espécie no laboratório de referência nacional ou da UE.\n\nApós a colheita de parasitas, os fluidos positivos têm de ser descontaminados por aquecimento a, pelo menos, 60 °C.\n\nSempre que o exame de uma amostra coletiva ou individual produzir um resultado positivo ou duvidoso ao teste de aglutinação em látex, todo o material em contacto com carne (taça e lâmina do misturador, haste de ponta cónica, copo de vidro, vareta agitadora, sensor de temperatura, funil cónico de filtração, peneira e fórceps) deve ser cuidadosamente descontaminado por imersão durante alguns segundos em água quente (65°C a 90°C). Os resíduos de carne ou larvas inativadas que possam ficar na sua superfície podem ser eliminados com uma esponja limpa e água da torneira. Se necessário, podem adicionar-se algumas gotas de detergente para desengordurar o equipamento. Recomenda-se depois enxaguar várias vezes cada elemento para remover todos os vestígios de detergente.\n\n***Este método só é considerado equivalente para o teste de carne de suínos domésticos.***\n\nO PrioCHECK^®^ *Trichinella* AAD Kit deve ser utilizado de acordo com o manual de instruções do kit, utilizando ampolas de decantação (Lenz NS 29/32) e um tubo de ensaio de vidro de 80 ml."
+  },
+  "bc48afb5df8156d3": {
+   "fragment_id": "RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+   "type": "divisao",
+   "heading": "RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS\n\nA. Os operadores de empresas do setor alimentar devem, no sentido de obter o reconhecimento oficial de explorações, cumprir os seguintes requisitos:\n\na) o operador deve ter tomado todas as precauções de ordem prática no que se refere à construção dos edifícios e à manutenção no sentido de evitar o acesso de roedores, qualquer outro tipo de mamíferos e aves carnívoras aos edifícios onde são mantidos os animais;\n\nb) o operador deve aplicar um programa de luta contra as pragas, em especial os roedores, que evite eficazmente a infestação dos suínos. Deve manter registos referentes ao programa que satisfaçam as exigências da autoridade competente;\n\nc) o operador deve garantir que todos os alimentos para animais foram obtidos de uma instalação que produz alimentos para animais em conformidade com os princípios descritos no Regulamento (CE) n.º 183/2005 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/d3d028ac-3929-11ed-9c68-01aa75ed71a1.0019.02/DOC_1#E0001));\n\nd) o operador deve armazenar os alimentos para animais destinados a espécies suscetíveis às triquinas em silos fechados ou outros contentores que sejam impenetráveis para os roedores. Todos os restantes alimentos para animais devem ser tratados termicamente ou produzidos e armazenados segundo as exigências da autoridade competente;\n\ne) o operador tem de garantir que os animais mortos são recolhidos, identificados e transportados sem atraso desnecessário, em conformidade com os artigos 21.º e 22.º do Regulamento (CE) n.º 1069/2009 e com o anexo VIII do Regulamento (UE) n.º 142/2011;\n\nf) o operador deve informar a autoridade competente caso exista uma lixeira nas imediações da exploração. Subsequentemente, a autoridade deve avaliar os riscos envolvidos e decidir se a exploração pode ser reconhecida como aplicando condições de habitação de animais controladas;\n\ng) o operador deve garantir a identificação dos suínos domésticos, de forma a se poder efetuar a rastreabilidade de cada animal até à exploração;\n\nh) o operador deve assegurar que os suínos domésticos só são introduzidos na exploração se forem originários e provenientes de explorações oficialmente reconhecidas como aplicando condições de habitação controladas;\n\ni) nenhum animal da espécie suína doméstica tem acesso a instalações ao ar livre, a menos que o operador possa demonstrar, através de uma análise dos riscos, a contento da autoridade competente, que o período, as instalações e as circunstâncias do acesso ao ar livre não representam um perigo de introdução de triquinas na exploração;\n\nj) nenhum dos suínos de criação ou de rendimento, tal como definidos no artigo 2.º, n.º 2, alínea c), da Diretiva 64/432/CEE, foi descarregado depois de abandonar a exploração de origem num centro de agrupamento, conforme definido no artigo 2.º, n.º 2, alínea o), da Diretiva 64/432/CEE, a menos que o centro de agrupamento satisfaça os requisitos das alíneas a) a i) e que todos os suínos domésticos agrupados para remessas no centro de agrupamento sejam originários e provenientes de explorações oficialmente reconhecidas como aplicando condições de habitação controladas ou de compartimentos oficialmente reconhecidos.\n\nB. Os operadores de empresas do setor alimentar responsáveis por explorações oficialmente reconhecidas como aplicando condições de habitação controladas devem informar a autoridade competente sempre que qualquer uma das condições mencionadas no ponto A deixe de ser cumprida ou sempre que se verifique qualquer outra alteração que possa afetar o estatuto da exploração.\n\nC. As autoridades competentes nos Estados-Membros apenas podem reconhecer uma exploração ou uma categoria de explorações se tiverem verificado o cumprimento dos requisitos previstos no ponto A."
+  },
+  "f39f258d2d86ff8c": {
+   "fragment_id": "Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+   "type": "divisao",
+   "heading": "Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2\n\n| Código ISO do país | País terceiro ou regiões do país terceiro | Observações |\n| --- | --- | --- |\n| GB | Reino Unido [(^*1^)](http://publications.europa.eu/resource/cellar/d3d028ac-3929-11ed-9c68-01aa75ed71a1.0019.02/DOC_1#E0002) | Aplicação das derrogações previstas no artigo 3.º, n.^os^ 2 e 3 |\n| (^*1^) Em conformidade com o Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica, nomeadamente o artigo 5.º, n.º 4, do Protocolo relativo à Irlanda/Irlanda do Norte, em conjugação com o seu anexo 2, para os efeitos do presente anexo, as referências ao Reino Unido não incluem a Irlanda do Norte. |  |  |\n\n---"
+  },
+  "98352d52a87e48d8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d3d028ac-3929-11ed-9c68-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 183/2005 do Parlamento Europeu e do Conselho, de 12 de janeiro de 2005, que estabelece requisitos de higiene dos alimentos para animais (JO L 35 de 8.2.2005, p. 1)."
+  },
+  "c78f393be0422dc9": {
+   "fragment_id": "Artigo 3.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Derrogações\n\n1. Em derrogação ao disposto no artigo 2.º, n.º 1, a carne de suínos domésticos que tenha sido submetida a um tratamento por congelação em conformidade com o anexo II, sob a supervisão da autoridade competente, será isenta do exame para deteção de triquinas.\n\n2. Em derrogação ao disposto no artigo 2.º, n.º 1, as carcaças e a carne de suínos domésticos não desmamados com menos de cinco semanas de idade serão isentas do exame para deteção de triquinas.\n\n3.\n\nEm derrogação ao disposto no artigo 2.º, n.º 1, as carcaças e a carne de suínos domésticos podem ser isentas do exame para deteção de triquinas sempre que os animais sejam provenientes de uma exploração ou de um compartimento oficialmente reconhecidos como aplicando condições de habitação controladas, em conformidade com o anexo IV, desde que:\n\na) nos últimos três anos, não se tenham detetado no Estado-Membro infestações por triquinas em suínos domésticos mantidos em explorações oficialmente reconhecidas como aplicando condições de habitação controladas e que tenham sido realizados durante esse período testes contínuos em conformidade com o artigo 2.º; ou\n\nb) os dados históricos dos testes contínuos efetuados na população suína abatida permitam um nível de confiança mínimo de 95 % de que a prevalência de triquinas não é superior a um por milhão naquela população; ou\n\nc) as explorações que aplicam condições de habitação controladas estejam localizadas na Bélgica ou na Dinamarca.\n\n4. Sempre que um Estado-Membro execute a derrogação prevista no n.º 3 do presente artigo, o Estado-Membro em questão deve informar a Comissão e os restantes Estados-Membros no âmbito do Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal. A Comissão deve publicar no seu sítio Web a lista dos Estados-Membros que executam essa derrogação.\n\nSe um Estado-Membro não apresentar, em conformidade com o artigo 9.º, n.º 1, segundo parágrafo, da Diretiva 2003/99/CE, os dados relativos ao exame para deteção de triquinas referido no anexo IV, capítulo II, do presente regulamento, a derrogação prevista no n.º 3 do presente artigo deixa de ser aplicável a esse Estado-Membro.\n\n5.\n\nEm derrogação do artigo 2.º, n.º 3, e após aprovação pela autoridade competente:\n\na) As carcaças podem ser cortadas numa unidade de desmancha anexa ao matadouro ou dele separada, desde que:\n\ni) o procedimento seja aprovado pela autoridade competente,\n\nii) a carcaça ou as suas partes não tenham como destino mais do que uma unidade de desmancha,\n\niii) a unidade de desmancha esteja situada no território do Estado-Membro, e\n\niv) no caso de um resultado positivo, todas as partes sejam declaradas impróprias para consumo humano;\n\nb) As carcaças provenientes de suínos domésticos podem ser cortadas em mais partes numa unidade de desmancha situada nas mesmas instalações que o matadouro ou anexa ao matadouro, desde que:\n\ni) o procedimento seja aprovado pela autoridade competente,\n\nii) a desmancha ou a desossa, antes de atingir a temperatura referida no anexo III, secção I, capítulo V, ponto 2, alínea b), do Regulamento (CE) n.º 853/2004, é realizada em conformidade com o anexo III, secção I, capítulo V, ponto 4, do referido regulamento,\n\niii) no caso de um resultado positivo, todas as partes sejam declaradas impróprias para consumo humano."
+  },
+  "e95559fe724caa93": {
+   "fragment_id": "RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+   "type": "divisao",
+   "heading": "RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS\n\nA. Os operadores de empresas do setor alimentar devem, no sentido de obter o reconhecimento oficial de explorações, cumprir os seguintes requisitos:\n\na) o operador deve ter tomado todas as precauções de ordem prática no que se refere à construção dos edifícios e à manutenção no sentido de evitar o acesso de roedores, qualquer outro tipo de mamíferos e aves carnívoras aos edifícios onde são mantidos os animais;\n\nb) o operador deve aplicar um programa de luta contra as pragas, em especial os roedores, que evite eficazmente a infestação dos suínos. Deve manter registos referentes ao programa que satisfaçam as exigências da autoridade competente;\n\nc) o operador deve garantir que todos os alimentos para animais foram obtidos de uma instalação que produz alimentos para animais em conformidade com os princípios descritos no Regulamento (CE) n.º 183/2005 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/037eb463-7d68-11ee-99ba-01aa75ed71a1.0020.02/DOC_1#E0001));\n\nd) o operador deve armazenar os alimentos para animais destinados a espécies suscetíveis às triquinas em silos fechados ou outros contentores que sejam impenetráveis para os roedores. Todos os restantes alimentos para animais devem ser tratados termicamente ou produzidos e armazenados segundo as exigências da autoridade competente;\n\ne) o operador tem de garantir que os animais mortos são recolhidos, identificados e transportados sem atraso desnecessário, em conformidade com os artigos 21.º e 22.º do Regulamento (CE) n.º 1069/2009 e com o anexo VIII do Regulamento (UE) n.º 142/2011;\n\nf) o operador deve informar a autoridade competente caso exista uma lixeira nas imediações da exploração. Subsequentemente, a autoridade deve avaliar os riscos envolvidos e decidir se a exploração pode ser reconhecida como aplicando condições de habitação de animais controladas;\n\ng) o operador deve garantir a identificação dos suínos domésticos, de forma a se poder efetuar a rastreabilidade de cada animal até à exploração;\n\nh) o operador deve assegurar que os suínos domésticos só são introduzidos na exploração se forem originários e provenientes de explorações oficialmente reconhecidas como aplicando condições de habitação controladas;\n\ni) nenhum animal da espécie suína doméstica tem acesso a instalações ao ar livre, a menos que o operador possa demonstrar, através de uma análise dos riscos, a contento da autoridade competente, que o período, as instalações e as circunstâncias do acesso ao ar livre não representam um perigo de introdução de triquinas na exploração;\n\nj) nenhum dos suínos de criação ou de rendimento, tal como definidos no artigo 2.º, n.º 2, alínea c), da Diretiva 64/432/CEE, foi descarregado depois de abandonar a exploração de origem num centro de agrupamento, conforme definido no artigo 2.º, n.º 2, alínea o), da Diretiva 64/432/CEE, a menos que o centro de agrupamento satisfaça os requisitos das alíneas a) a i) e que todos os suínos domésticos agrupados para remessas no centro de agrupamento sejam originários e provenientes de explorações oficialmente reconhecidas como aplicando condições de habitação controladas ou de compartimentos oficialmente reconhecidos.\n\nB. Os operadores de empresas do setor alimentar responsáveis por explorações oficialmente reconhecidas como aplicando condições de habitação controladas devem informar a autoridade competente sempre que qualquer uma das condições mencionadas no ponto A deixe de ser cumprida ou sempre que se verifique qualquer outra alteração que possa afetar o estatuto da exploração.\n\nC. As autoridades competentes nos Estados-Membros apenas podem reconhecer uma exploração ou uma categoria de explorações se tiverem verificado o cumprimento dos requisitos previstos no ponto A."
+  },
+  "d9001db44abf3665": {
+   "fragment_id": "Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+   "type": "divisao",
+   "heading": "Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2\n\n| Código ISO do país | País terceiro ou regiões do país terceiro | Observações |\n| --- | --- | --- |\n| GB | Reino Unido [(^*1^)](http://publications.europa.eu/resource/cellar/037eb463-7d68-11ee-99ba-01aa75ed71a1.0020.02/DOC_1#E0002) | Aplicação das derrogações previstas no artigo 3.º, n.^os^ 2 e 3 |\n| (^*1^) Em conformidade com o Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica, nomeadamente o artigo 5.º, n.º 4, do Protocolo relativo à Irlanda/Irlanda do Norte, em conjugação com o seu anexo 2, para os efeitos do presente anexo, as referências ao Reino Unido não incluem a Irlanda do Norte. |  |  |\n\n---"
+  },
+  "927ceceb739ba9c3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/037eb463-7d68-11ee-99ba-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (CE) n.º 183/2005 do Parlamento Europeu e do Conselho, de 12 de janeiro de 2005, que estabelece requisitos de higiene dos alimentos para animais (JO L 35 de 8.2.2005, p. 1)."
+  },
+  "92ce025edfd487cc": {
+   "fragment_id": "MÉTODO DE DETEÇÃO DE REFERÊNCIA",
+   "type": "divisao",
+   "heading": "MÉTODO DE DETEÇÃO DE REFERÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### MÉTODO DE DETEÇÃO DE REFERÊNCIA\n\n1. O método de deteção de referência para o exame de amostras para deteção de triquinas é a norma ISO 18743:2015/Amd1:2023.\n\n2. As regras que se seguem aplicam-se apenas ao exame de carne de suínos domésticos:\n\na) No caso de carcaças inteiras de suínos domésticos, exceto porcas de reprodução e varrascos, deve ser colhida uma amostra com um peso de, pelo menos, 1 g de um dos pilares do diafragma na zona de transição entre a parte muscular e a parte tendinosa. Pode utilizar-se uma pinça especial de triquinas, caso se possa assegurar uma precisão entre 1,00 e 1,15 g.\n\nb) No caso das peças de carne, deve ser colhida uma amostra com um peso de, pelo menos, 5 g de músculo estriado, que contenha pouca gordura e, na medida do possível, perto dos ossos ou dos tendões. Deve ser colhida a mesma quantidade de amostra de carne não destinada a cozedura completa nem a outros tipos de transformação pós-abate."
+  },
+  "f639c17b00d115f3": {
+   "fragment_id": "MÉTODOS EQUIVALENTES",
+   "type": "divisao",
+   "heading": "MÉTODOS EQUIVALENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### MÉTODOS EQUIVALENTES\n\na) Uma faca ou tesoura para cortar as amostras.\n\nb) Tabuleiros divididos em 50 quadrados, podendo cada um conter amostras de carne de cerca de 2 g, ou outros instrumentos que deem garantias equivalentes no tocante à rastreabilidade das amostras.\n\nc) Triturador ou misturador elétrico.\n\nd) Um Stomacher Lab-blender 3 500, modelo Thermo.\n\ne) Sacos de plástico adaptados ao Stomacher Lab-blender.\n\nf) Ampolas de decantação cónicas com capacidade para 2 litros, de preferência munidas de torneiras de segurança em teflon.\n\ng) Suportes com anéis e fixações.\n\nh) Peneiras, dimensão da malha 180 mícrones, diâmetro exterior de 11 cm, com malha em aço inoxidável ou latão.\n\ni) Funis com diâmetro interno de pelo menos 12 cm, destinados a receber as peneiras.\n\nj) Provetas graduadas de 100 ml em vidro.\n\nk) Um termómetro com uma precisão de 0,5 °C na gama de 20 ° a 70 °C.\n\nl) Um vibrador, por exemplo uma máquina de barbear elétrica sem cabeça.\n\nm) Um interruptor que acenda e apague de minuto a minuto.\n\nn) Um triquinoscópio provido de uma mesa horizontal ou um estereomicroscópio com uma fonte de luz subplatina de intensidade ajustável.\n\no) Placas de Petri com cerca de 90 mm de diâmetro, com um fundo quadriculado cujas arestas meçam cerca de 1 cm, ou equipamento equivalente para a contagem de larvas, conforme previsto no ponto 6.14 da norma [**►M5**](http://publications.europa.eu/resource/celex/32025R0506) ISO 18743:2015/Amd1:2023**◄**.\n\np) Ácido clorídrico a 17,5 %.\n\nq) Pepsina com a seguinte concentração:\n\n— granular ou em pó: 1:10 000 NF (US National Formulary) correspondendo a 1:12 500 BP (British Pharmacopoea) e a 2 000 FIP (Fédération internationale de pharmacie), ou\n\n— líquida: pepsina líquida estabilizada com, pelo menos, 660 unidades da Farmacopeia Europeia/ml.\n\nr) Vários recipientes de 10 litros a utilizar para a descontaminação dos aparelhos e utensílios com, por exemplo, formol e para o restante fluido de digestão, sempre que as amostras apresentem um resultado positivo.\n\ns) Uma balança de precisão para a pesagem de amostras e/ou pepsina (precisão de ±0,1 g).\n\nTal como estabelecido no capítulo I e no ponto 4.2 da norma ISO 18743:2015/Amd1:2023 (para mais pormenores, ver também os anexos A e B).\n\nTriturar previamente as amostras de carne num triturador melhorará a qualidade da digestão. Caso se utilize um misturador elétrico, este deve ser posto em funcionamento três a quatro vezes durante, aproximadamente, um segundo.\n\nEste processo pode envolver grupos completos de amostras (100 g de amostras de cada vez) ou grupos de amostras com menos de 100 g.\n\na) grupos completos de amostras (100 amostras de cada vez):\n\ni) Colocar um saco duplo de plástico no Stomacher Lab-blender 3 500 e regular a temperatura para 40° a 41°C;\n\nii) Deitar um litro e meio de água aquecida a uma temperatura de 40° a 41°C no saco interior;\n\niii) Acrescentar à água contida no saco 25 ml da solução de ácido clorídrico a 17,5 %;\n\niv) Juntar 100 amostras de aproximadamente 1 g cada (de 25 a 30°C) colhidas de cada uma das amostras individuais, de acordo com o processo referido no n.º 2;\n\nv) Por fim, adicionar 6 g de pepsina ou 18 ml de pepsina líquida. Esta ordem deve ser seguida rigorosamente para evitar a decomposição da pepsina;\n\nvi) Triturar o conteúdo do saco no Stomacher durante 25 minutos;\n\nvii) Tirar o saco de plástico do Stomacher, filtrar o fluido de digestão por meio de uma peneira e deixar escorrer para o copo de 3 litros;\n\nviii) Lavar o saco de plástico com cerca de 100 ml de água, que são em seguida utilizados para enxaguar a peneira e acrescentados ao filtrado contido no copo;\n\nix) Um número máximo de 15 amostras individuais pode ser junto a um grupo completo de 100 amostras para ser examinado juntamente com estas últimas.\n\nb) grupos mais pequenos (menos de 100 amostras):\n\ni) Colocar um saco duplo de plástico no Stomacher Lab-blender 3 500 e regular a temperatura para 40° a 41°C;\n\nii) Preparar um fluido de digestão misturando cerca de um litro e meio de água e 25 ml de ácido clorídrico a 17,5 %. Juntar 6 g de pepsina e misturar tudo a uma temperatura de 40° a 41°C. Esta ordem deve ser seguida rigorosamente para evitar a decomposição da pepsina;\n\niii) Medir um volume de fluido de digestão correspondendo a 15 ml por grama de amostra (assim, para 30 amostras, será preciso colher 30 × 15 ml = 450 ml) e transferi-lo para o saco de plástico interior juntamente com as amostras de carne de cerca de 1 g (entre 25° e 30°C) colhidas de cada amostra individual, de acordo com o processo referido no n.º 2;\n\niv) Deitar água a uma temperatura de cerca de 41°C no saco exterior até obter um volume total, nos dois sacos, de um litro e meio. Triturar o conteúdo do saco no Stomacher durante 25 minutos;\n\nv) Tirar o saco de plástico do Stomacher, filtrar o fluido de digestão por meio de uma peneira e deixar escorrer para o copo de 3 litros;\n\nvi) Lavar o saco de plástico com cerca de 100 ml de água (a uma temperatura de 25° a 30°C), que são em seguida utilizados para enxaguar a peneira e acrescentados ao filtrado contido no copo.\n\n— juntar gelo ao fluido de digestão (300 a 400 gramas de gelo em palhetas ou de gelo picado) para se obter um volume de cerca de dois litros. Agitar o líquido de digestão até o gelo derreter. No caso de grupos mais pequenos [ver ponto II, alínea b)], a quantidade de gelo deve ser reduzida em conformidade,\n\n— transferir o fluido de digestão arrefecido para uma ampola de decantação de 2 litros munida de um vibrador fixado por uma pinça suplementar,\n\n— para a sedimentação, deixar o fluido na ampola de decantação durante 30 minutos, alternando um minuto de vibração e um minuto de repouso,\n\n— depois de 30 minutos, introduzir rapidamente 60 ml de sedimento numa proveta graduada de 100 ml (depois da utilização, enxaguar o funil com uma solução detergente),\n\n— deixar repousar a amostra de 60 ml durante, pelo menos, 10 minutos, aspirar o sobrenadante até ficar na proveta um volume de 15 ml, que será examinado para a deteção da presença de larvas,\n\n— para a aspiração, pode-se utilizar uma seringa descartável, munida de um tubo de plástico. O comprimento deste deve ser tal que fiquem 15 ml de líquido na proveta graduada quando a parte superior da seringa se encontrar ao nível do bordo do cilindro,\n\n— introduzir os restantes 15 ml numa placa de Petri ou num equipamento equivalente para a contagem de larvas e examinar com um triquinoscópio ou um microscópio estereoscópio,\n\n— lavar a proveta graduada com 5 a 10 ml de água da torneira e juntar o líquido obtido à amostra,\n\n— os fluidos de digestão devem ser examinados mal estejam prontos. Em caso algum se deve adiar o exame para o dia seguinte.\n\nSempre que os fluidos de digestão não forem translúcidos, devem ser clarificados do seguinte modo:\n\n— verter a amostra final de 60 ml para uma proveta graduada e deixar repousar durante 10 minutos, retirar 45 ml do sobrenadante por aspiração e juntar aos 15 ml restantes água da torneira até obter um volume total de 45 ml,\n\n— depois de um novo período de repouso de 10 minutos, retirar 30 ml do fluido sobrenadante por aspiração, verter os 15 ml remanescentes numa placa de Petri ou num equipamento equivalente para a contagem de larvas e proceder ao exame ao triquinoscópio ou microscópio estereoscópico,\n\n— lavar a proveta graduada com 10 ml de água da torneira e juntar o líquido obtido à amostra na placa de Petri ou no equipamento equivalente para a contagem de larvas e proceder ao exame ao triquinoscópio ou microscópio estereoscópico. IV. Resultados positivos ou duvidosos\n\nSempre que o exame de uma amostra combinada produzir um resultado positivo ou duvidoso, deve ser colhida uma nova amostra de 20 g de cada suíno, em conformidade com o ponto 4.2 da norma [**►M5**](http://publications.europa.eu/resource/celex/32025R0506) ISO 18743:2015/Amd1:2023**◄** (para mais pormenores, ver também os anexos A e B). As amostras de 20 g provenientes de cinco suínos devem ser reunidas e examinadas segundo o método descrito no presente capítulo. Deste modo, serão examinadas amostras de 20 grupos de cinco suínos. Se forem detetadas triquinas numa amostra combinada proveniente de cinco suínos, devem ser colhidas novas amostras de 20 g de cada suíno no grupo amostrado a serem examinadas separadamente, segundo o método descrito no presente capítulo. As amostras de parasitas devem ser mantidas em álcool etílico a 70-90% (concentração final) para conservação e identificação ao nível da espécie no laboratório de referência nacional ou da UE. Para o procedimento de descontaminação, consultar o ponto 12 da norma [**►M5**](http://publications.europa.eu/resource/celex/32025R0506) ISO 18743:2015/Amd1:2023**◄**.\n\nTal como estabelecido no ponto A, n.º 1.\n\nEquipamento complementar:\n\na) Um funil Gelman de um litro com suporte para filtro (diâmetro: 45 mm);\n\nb) Discos filtrantes que consistem numa rede circular em aço inoxidável com uma malha de 35 mícrones (diâmetro do disco: 45 mm), dois anéis de borracha com 1 mm de espessura (diâmetro externo: 45 mm, diâmetro interno: 38 mm), devendo a rede circular ser colocada entre os dois anéis de borracha e fixada por meio de uma cola de dois componentes adequada aos dois materiais;\n\nc) Um frasco de Erlenmeyer de três litros munido de um tubo lateral para aspiração;\n\nd) Uma bomba de água;\n\ne) Sacos de plástico com pelo menos 80 ml de capacidade;\n\nf) Equipamento para fechar sacos de plástico;\n\ng) Renilase em concentração 1:150 000 unidades Soxhlet por grama.\n\nTal como estabelecido no capítulo I e no ponto 4.2 da norma ISO 18743:2015/Amd1:2023 (para mais pormenores, ver também os anexos A e B).\n\nTriturar previamente as amostras de carne num triturador melhorará a qualidade da digestão. Caso se utilize um misturador elétrico, este deve ser posto em funcionamento três a quatro vezes durante, aproximadamente, um segundo.\n\nEste processo pode envolver grupos completos de amostras (100 g de amostras de cada vez) ou grupos de amostras com menos de 100 g.\n\na) Grupos completos de amostras (100 amostras de cada vez)\n\nb) Grupos mais pequenos (menos de 100 amostras)\n\na) Juntar gelo ao fluido de digestão (300 a 400 g de gelo em palhetas ou de gelo picado) para se obter um volume de cerca de dois litros. No caso de grupos mais pequenos, a quantidade de gelo deve ser reduzida em conformidade.\n\nb) Agitar o fluido de digestão até o gelo derreter. Deixar repousar o fluido de digestão, arrefecido durante 3 minutos pelo menos, para que as larvas se possam enrolar.\n\nc) Montar o funil Gelman, munido de um suporte para filtro, no qual se encontre um disco filtrante, num frasco de Erlenmeyer ligado a uma bomba de água.\n\nd) Introduzir o fluido de digestão no funil Gelman e filtrar. Quase no final da filtração, a passagem do fluido de digestão através do filtro pode ser auxiliada procedendo-se a uma aspiração por meio da bomba de água. Terminar a aspiração antes que o filtro seque, quer dizer, quando ficarem no funil 2 a 5 ml de fluido.\n\ne) Depois da filtração de todo o fluido de digestão, retirar o disco filtrante e colocá-lo num saco de plástico com uma capacidade de 80 ml, acrescentando 15 a 20 ml de solução de renilase. Para se obter a solução de renilase, introduz-se 2 g de renilase em 100 ml de água da torneira.\n\nf) Fechar o saco de plástico com soldagem dupla e colocá-lo no Stomacher entre o saco interior e o exterior.\n\ng) Triturar no Stomacher durante três minutos, por exemplo, quer se trate de um grupo completo ou incompleto de amostras.\n\nh) Passados 3 minutos, tirar do Stomacher o saco de plástico que contém o disco filtrante e a solução de renilase e abri-lo por meio de tesouras. Verter o líquido para uma placa de Petri ou equipamento equivalente para a contagem de larvas. Lavar o saco com 5 a 10 ml de água, que são em seguida introduzidos na placa de Petri ou em equipamento equivalente para a contagem de larvas, para exame ao triquinoscópio ou microscópio estereoscópico.\n\ni) Os fluidos de digestão devem ser examinados logo que estejam prontos. Em caso algum se deverá adiar o exame para o dia seguinte.\n\n*Nota:* Não utilizar nunca discos filtrantes que não estejam perfeitamente limpos. Nunca secar os discos filtrantes se não estiverem limpos. Os discos podem ser limpos deixando-os numa solução de renilase durante a noite. Antes de serem utilizados devem ser lavados no Stomacher com uma solução de renilase.\n\nEm conformidade com o estabelecido na secção A.3, ponto IV.\n\na) Uma faca ou tesoura para cortar as amostras.\n\nb) Tabuleiros divididos em 50 quadrados, podendo cada um conter amostras de carne de cerca de 2 g, ou outros instrumentos que deem garantias equivalentes no tocante à rastreabilidade das amostras.\n\nc) Misturador Trichomatic 35®, com dispositivo de filtração.\n\nd) Ácido clorídrico a 8,5 % ±0,5 % em peso.\n\ne) Filtros de membrana de policarbonato transparente com um diâmetro de 50 mm, com poros de 14 mícrones.\n\nf) Pepsina com a seguinte concentração:\n\n— granular ou em pó: 1:10 000 NF (US National Formulary) correspondendo a 1:12 500 BP (British Pharmacopoea) e a 2 000 FIP (Fédération internationale de pharmacie), ou\n\n— líquida: pepsina líquida estabilizada com, pelo menos, 660 unidades da Farmacopeia Europeia/ml.\n\ng) Uma balança de precisão para a pesagem de amostras e/ou pepsina (precisão de ±0,1 g).\n\nh) Pinças com uma extremidade plana.\n\ni) Algumas lâminas de microscópio com um comprimento lateral de, pelo menos, 5 cm ou algumas placas de Petri com um diâmetro de, pelo menos, 6 cm, divididas no lado inferior em áreas quadradas de 10 × 10 mm, usando um instrumento pontiagudo.\n\nj) Um (estereo) microscópio com luz transmitida (ampliação de 15 a 60 vezes) ou um triquinoscópio com uma mesa horizontal.\n\nk) Um caixote para recolha de resíduos líquidos.\n\nl) Vários recipientes de 10 litros a utilizar para a descontaminação dos aparelhos e utensílios com, por exemplo, formol e para o restante fluido de digestão, sempre que as amostras apresentem um resultado positivo.\n\nm) Um termómetro com uma precisão de 0,5 °C na gama de 20 ° a 70 °C.\n\nTal como estabelecido no capítulo I e no ponto 4.2 da norma ISO 18743:2015/Amd1:2023 (para mais pormenores, ver também os anexos A e B).\n\na) Colocar o misturador com dispositivo de filtração, ligar o tubo de descarga e colocar o tubo no caixote para recolha de resíduos.\n\nb) Quando o misturador estiver ligado, iniciar-se-á o aquecimento.\n\nc) Antes do início da operação, a válvula do fundo, localizada por baixo da câmara de reação, deverá ser aberta e fechada.\n\nd) Juntar, em seguida, um número de amostras não superior a 35, aproximadamente de 1 g cada uma (a uma temperatura de 25 a 30°C), colhidas de cada uma das amostras individuais, de acordo com o processo referido no n.º 2. Certificar-se de que são retiradas as partes maiores dos tendões, visto poderem entupir o filtro de membrana.\n\ne) Verter água até à extremidade de uma câmara de líquidos ligada ao misturador (aproximadamente 400 ml).\n\nf) Verter cerca de 30 ml de ácido clorídrico (8,5 %) até à extremidade da câmara de líquidos mais pequena, ligada ao misturador.\n\ng) Colocar um filtro de membrana sob o filtro grosseiro no suporte do filtro do dispositivo de filtração.\n\nh) Por fim, adicionar 7 g de pepsina ou 21 ml de pepsina líquida. Esta ordem deve ser seguida rigorosamente para evitar a decomposição da pepsina.\n\ni) Fechar as tampas das câmaras de reação e de líquido.\n\nj) Selecionar o período de digestão. Deve ser definido um curto período de digestão (cinco minutos) para suínos em idade normal de abate e um período de digestão mais longo (oito minutos) para outras amostras.\n\nk) Quando for acionado o botão do misturador, o processo de dosagem e digestão começa automaticamente, seguido pela filtração. Dez a treze minutos depois, o processo está concluído e para automaticamente.\n\nl) Abrir a tampa da câmara de reação depois de se verificar que a câmara está vazia. Se houver espuma ou restos do fluido de digestão na câmara, repetir o processo em conformidade com o ponto V.\n\na) Retirar o suporte do filtro e transferir o filtro de membrana para uma lâmina de microscópio ou uma placa de Petri.\n\nb) Examinar o filtro de membrana utilizando um (estéreo)microscópio ou triquinoscópio.\n\na) Sempre que o resultado seja positivo, encher a câmara de reação do misturador até 2/3 com água a ferver. Verter água da torneira para dentro da câmara de líquidos de ligação até estar coberto o sensor de nível inferior. Realiza-se, então, a limpeza automática. Descontaminar o suporte do filtro, bem com o equipamento restante, por exemplo através de um tratamento com formol.\n\nb) No fim de cada dia de trabalho, encher a câmara de líquidos do misturador com água e proceder a um programa normalizado.\n\nCada filtro de membrana policarbonatada só pode ser utilizado cinco vezes. O filtro deve ser sempre voltado entre duas utilizações. Além disso, o filtro deve ser examinado depois de cada utilização, a fim de detetar eventuais danos que o tornem impróprio para utilização posterior.\n\nQuando o misturador tiver sido colocado num ciclo automático tal como descrito no ponto I, abrir a tampa da câmara de reação e verificar se existe espuma ou líquido remanescentes na câmara. Se for esse o caso, proceder do seguinte modo:\n\na) Fechar a válvula do fundo por baixo da câmara de reação;\n\nb) Retirar o suporte do filtro e transferir o filtro de membrana para uma lâmina de microscópio ou uma placa de Petri;\n\nc) Colocar um novo filtro de membrana no suporte do filtro e montar o suporte do filtro;\n\nd) Verter água para dentro da câmara de líquidos do misturador até estar coberto o sensor de nível inferior;\n\ne) Efetuar o ciclo de limpeza automática;\n\nf) Depois de concluído o ciclo de limpeza, abrir a tampa da câmara de reação e verificar se há restos de líquido;\n\ng) Se a câmara estiver vazia, remover o suporte do filtro e transferir o filtro de membrana, com uma pinça, para uma lâmina de microscópio ou uma placa de Petri;\n\nh) Examinar os dois filtros de membrana, tal como descrito no ponto II. Se os filtros não puderem ser examinados, repetir todo o processo de digestão com um período de digestão mais longo, em conformidade com o ponto I.\n\nEm conformidade com o estabelecido na secção A.3, ponto IV.\n\n***Este método é considerado como equivalente apenas para o teste de carne de suínos domésticos.***\n\na) Uma faca ou tesoura e pinças para a cortar as amostras.\n\nb) Tabuleiros divididos em 50 quadrados, podendo cada um conter amostras de carne de cerca de 2 g, ou outros instrumentos que deem garantias equivalentes no tocante à rastreabilidade das amostras.\n\nc) Um misturador dotado de uma lâmina trituradora afiada. Caso as amostras sejam maiores do que 3 g, deverá utilizar-se um triturador com orifícios de 2 a 4 mm ou tesouras. No caso de carne ou língua congeladas (após remoção da camada superficial, que não pode ser digerida), é necessário um triturador e o tamanho da amostra será aumentado consideravelmente.\n\nd) Agitadores magnéticos, munidos de placa de aquecimento termostaticamente controlada e de varetas revestidas de teflon com um comprimento de, aproximadamente, 5 cm.\n\ne) Copos em vidro com uma capacidade de três litros.\n\nf) Peneiras, dimensão da malha de 180 mícrones, diâmetro exterior de 11 cm, com malha em aço inoxidável.\n\ng) Aparelho de filtragem em aço para filtros de malha de 20 μm com um funil de aço.\n\nh) Bomba de vácuo.\n\ni) Depósitos de metal ou de plástico com uma capacidade de 10 a 15 litros para recolher os fluidos de digestão.\n\nj) Um agitador rotativo tridimensional.\n\nk) Folha de alumínio.\n\nl) Ácido clorídrico a 25 %.\n\nm) Pepsina com a seguinte concentração:\n\n— granular ou em pó: 1:10 000 NF (US National Formulary) correspondendo a 1:12 500 BP (British Pharmacopoea) e a 2 000 FIP (Fédération internationale de pharmacie), ou\n\n— líquida: pepsina líquida estabilizada com, pelo menos, 660 unidades da Farmacopeia Europeia/ml.\n\nn) Água da torneira aquecida de 46° a 48°C.\n\no) Uma balança de precisão para a pesagem de amostras e/ou pepsina (precisão de ±0,1 g).\n\np) Pipetas de diferentes tamanhos (1, 10 e 25 ml), micropipetas de acordo com as instruções do fabricante dos testes da aglutinação em látex e suportes de pipetas.\n\nq) Filtros de malha de nylon de 20 mícrones com um diâmetro adaptado ao sistema de filtração.\n\nr) Fórceps de plástico ou aço de 10 a 15 cm.\n\ns) Frascos cónicos de 15 ml.\n\nt) Um almofariz com uma ponta cónica em aço ou teflon adaptado aos frascos cónicos.\n\nu) Um termómetro com uma precisão de 0,5 °C na gama de 20 ° a 70 °C.\n\nv) Cartões de aglutinação em látex do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\nw) Tampão com conservante (solvente para amostras) *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\nx) Tampão completado com conservante (controlo negativo) do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\ny) Tampão completado com antigénios de *Trichinella spiralis* e conservante (controlo positivo) do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\nz) Tampão com partículas de poliestireno revestidas com anticorpos completado com conservante (esferas de látex) do *kit* de ensaio Trichin-L, Antigen, validado com o código n.º EURLP_D_001/2011.\n\naa) Bastões descartáveis.\n\nTal como estabelecido no capítulo I e no ponto 4.2 da norma ISO 18743:2015/Amd1:2023 (para mais pormenores, ver também os anexos A e B).\n\na) adicionar 16 ± 0,5 ml de ácido clorídrico a 25 % (0,2 % final) para dentro de um copo de 3 litros contendo 2,0 litros ± 200 ml de água da torneira, pré-aquecida a 46°-48°C; colocar uma vareta agitadora no copo, colocar o copo na placa pré-aquecida e iniciar o processo de agitação;\n\nb) adicionar 10 ± 1 g de pepsina em pó (ou 30 ± 3 ml de pepsina líquida);\n\nc) triturar no misturador 100-115 g de amostras colhidas de acordo com as indicações previstas no ponto 2, com 150 ml ± 15 ml de tampão de digestão pré-aquecido;\n\nd) transferir a carne triturada para o copo de três litros que contém a água, pepsina e ácido clorídrico;\n\ne) mergulhar várias vezes o dispositivo de triturar do misturador no fluido de digestão que se encontra no copo e enxaguar a taça do misturador com uma pequena quantidade do fluido de digestão para remover eventuais pedaços de carne que ainda aí se encontrem;\n\nf) cobrir o copo com folha de alumínio;\n\ng) regular o agitador magnético de forma a que possa manter durante todo o período de funcionamento uma temperatura constante de 44° a 46°C. No decurso do processo de agitação, o fluido de digestão deve rodar a uma velocidade suficientemente elevada para formar um profundo turbilhão sem provocar salpicos;\n\nh) o fluido de digestão é agitado até que as partículas de carne desapareçam (cerca de 30 minutos). O agitador é, então, desligado e o fluido de digestão é filtrado através da peneira para o funil de sedimentação. Podem ser necessários períodos de digestão mais longos (não superiores a 60 minutos) na transformação de determinados tipos de carne (língua, caça, etc.);\n\ni) considera-se que o processo de digestão é satisfatório quando não permanecer na peneira mais de 5 % do peso inicial da amostra;\n\nj) coloca-se o filtro de malha de nylon de 20 mícrones no suporte de filtragem. Fixa-se o funil cónico de filtragem em aço ao suporte com o sistema de fecho e coloca-se a peneira em aço com malha de 180 mícrones no funil. Liga-se a bomba de vácuo ao suporte de filtragem e ao depósito de metal ou plástico para recolher o fluido de digestão;\n\nk) parar de agitar e verter o fluído de digestão no funil de filtragem através da peneira. Lavar o copo com cerca de 250 ml de água quente. Verter o líquido de lavagem na rampa de filtragem após o fluído de digestão ter sido filtrado com êxito;\n\nl) com o fórceps, retirar a membrana de filtragem segurando-a por uma ponta. Dobrar a membrana de filtragem em quatro, pelo menos, e colocá-la no frasco cónico de 15 ml; a escolha do frasco cónico deve ser adaptada à haste de ponta cónica;\n\nm) empurrar a membrana de filtragem até ao fundo do frasco cónico de 15 ml com o auxílio da haste e pressionar vigorosamente com cerca de 20 movimentos sucessivos de vaivém com a haste que deve estar posicionada no interior da dobra da membrana de filtragem, de acordo com as instruções do fabricante;\n\nn) adicionar 0,5 ml ± 0,01 ml de solvente para amostras no frasco cónico de 15 ml com uma pipeta e a membrana de filtragem é homogeneizada com a haste fazendo movimentos sucessivos de vaivém de baixa amplitude durante cerca de 30 segundos, evitando movimentos bruscos para limitar salpicos de líquido, de acordo com as instruções do fabricante;\n\no) cada amostra, o controlo negativo e o controlo positivo são dispersados em diferentes campos do cartão de aglutinação com recurso a pipeta, de acordo com as instruções do fabricante;\n\np) são adicionadas as esferas de látex a cada campo do cartão de aglutinação com recurso a pipeta, de acordo com as instruções do fabricante, impedindo que entrem em contacto com as amostras e os controlos. Em cada campo, as esferas de látex são então suavemente misturadas com um bastão descartável até que o líquido homogéneo cubra todo o campo;\n\nq) o cartão de aglutinação é colocado no agitador rotativo tridimensional e agitado durante 10 ± 1 minutos, de acordo com as instruções do fabricante;\n\nr) após o período estabelecido pelas instruções do fabricante, interrompe-se a agitação e coloca-se o cartão de aglutinação numa superfície plana, lendo-se imediatamente os resultados da reação, de acordo com as instruções do fabricante. No caso de uma amostra positiva, têm de aparecer agregados de esferas. No caso de uma amostra negativa, a suspensão permanece homogénea sem agregados de esferas.\n\nSe necessário, podem ser adicionados 15 g, no máximo, a um grupo total de 100 g e examinados juntamente com estas amostras, de acordo com o procedimento descrito no ponto I. Quando o peso for superior a 15 g, deve proceder-se a exame enquanto grupo completo. Para grupos não superiores a 50 g, o fluido de digestão e os ingredientes podem ser reduzidos para um litro de água, 8 ml de ácido clorídrico e 5 g de pepsina.\n\nSempre que o exame de uma amostra combinada produzir um resultado positivo ou duvidoso, deve ser colhida uma nova amostra de 20 g de cada suíno, em conformidade com o ponto 4.2 da norma [**►M5**](http://publications.europa.eu/resource/celex/32025R0506) ISO 18743:2015/Amd1:2023**◄** (para mais pormenores, ver também os anexos A e B). As amostras de 20 gramas provenientes de cinco suínos devem ser reunidas e examinadas segundo o método descrito no ponto I. Deste modo, têm de ser examinadas amostras de 20 grupos de cinco suínos.\n\nQuando se obtiver uma aglutinação em látex positiva de um grupo de cinco suínos, devem ser colhidas novas amostras de 20 g de cada suíno que pertença a este grupo e examinadas separadamente com recurso ao método descrito no ponto I.\n\nQuando se obtiver um resultado positivo ou incerto no teste de aglutinação em látex, devem ser enviadas, pelo menos, 20 g de músculo de suíno para o laboratório nacional de referência para confirmação, recorrendo-se ao estabelecido na norma [**►M5**](http://publications.europa.eu/resource/celex/32025R0506) ISO 18743:2015/Amd1:2023**◄** ou a um dos métodos equivalentes descritos acima.\n\nAs amostras de parasitas devem ser mantidas em álcool etílico a 70-90% (concentração final) para conservação e identificação ao nível da espécie no laboratório de referência nacional ou da UE.\n\nApós a colheita de parasitas, os fluidos positivos têm de ser descontaminados por aquecimento a, pelo menos, 60 °C.\n\nSempre que o exame de uma amostra coletiva ou individual produzir um resultado positivo ou duvidoso ao teste de aglutinação em látex, todo o material em contacto com carne (taça e lâmina do misturador, haste de ponta cónica, copo de vidro, vareta agitadora, sensor de temperatura, funil cónico de filtração, peneira e fórceps) deve ser cuidadosamente descontaminado por imersão durante alguns segundos em água quente (65°C a 90°C). Os resíduos de carne ou larvas inativadas que possam ficar na sua superfície podem ser eliminados com uma esponja limpa e água da torneira. Se necessário, podem adicionar-se algumas gotas de detergente para desengordurar o equipamento. Recomenda-se depois enxaguar várias vezes cada elemento para remover todos os vestígios de detergente.\n\n***Este método só é considerado equivalente para o teste de carne de suínos domésticos.***\n\nO PrioCHECK^®^ *Trichinella* AAD Kit deve ser utilizado de acordo com o manual de instruções do kit, utilizando ampolas de decantação (Lenz NS 29/32) e um tubo de ensaio de vidro de 80 ml.\n\nA preparação e a análise das amostras devem ser efetuadas em conformidade com as instruções fornecidas pelo fabricante. Todos os aparelhos utilizados para este método devem ser calibrados e conservados em conformidade com as instruções fornecidas pelo(s) fabricante(s).\n\nSempre que o exame de uma amostra combinada revele um resultado positivo ou duvidoso, deve ser colhida uma nova amostra de 20 g de um pilar do diafragma ou de outro tecido de cada suíno, de acordo com o capítulo I.\n\nAs amostras de 20 g provenientes de cinco suínos devem ser reunidas e examinadas segundo o mesmo método.\n\nQuando se obtiver um resultado positivo de um grupo de cinco suínos, deve ser colhida uma nova amostra de 20 g de cada suíno que pertença a este grupo e cada uma deve ser examinada separadamente utilizando o mesmo método.\n\nQuando se obtiver um resultado positivo ou duvidoso, devem ser enviados, pelo menos, 20 g de tecido muscular de suíno para o laboratório nacional de referência para confirmação, recorrendo-se ao método de referência estabelecido no capítulo I.\n\nAs amostras de parasitas devem ser mantidas em álcool etílico a 70-90 % para conservação e identificação a nível da espécie no laboratório de referência da UE ou nacional."
+  },
+  "c3a818d3f00db45f": {
+   "fragment_id": "RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+   "type": "divisao",
+   "heading": "RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECONHECIMENTO OFICIAL DE UMA EXPLORAÇÃO OU UM COMPARTIMENTO QUE APLICAM CONDIÇÕES DE HABITAÇÃO CONTROLADAS\n\nA. Os operadores de empresas do setor alimentar devem, no sentido de obter o reconhecimento oficial de explorações, cumprir os seguintes requisitos:\n\na) o operador deve ter tomado todas as precauções de ordem prática no que se refere à construção dos edifícios e à manutenção no sentido de evitar o acesso de roedores, qualquer outro tipo de mamíferos e aves carnívoras aos edifícios onde são mantidos os animais;\n\nb) o operador deve aplicar um programa de luta contra as pragas, em especial os roedores, que evite eficazmente a infestação dos suínos. Deve manter registos referentes ao programa que satisfaçam as exigências da autoridade competente;\n\nc) o operador deve garantir que todos os alimentos para animais foram obtidos de uma instalação que produz alimentos para animais em conformidade com os princípios descritos no Regulamento (CE) n.º 183/2005 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/7a862241-2a95-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0001));\n\nd) o operador deve armazenar os alimentos para animais destinados a espécies suscetíveis às triquinas em silos fechados ou outros contentores que sejam impenetráveis para os roedores. Todos os restantes alimentos para animais devem ser tratados termicamente ou produzidos e armazenados segundo as exigências da autoridade competente;\n\ne) o operador tem de garantir que os animais mortos são recolhidos, identificados e transportados sem atraso desnecessário, em conformidade com os artigos 21.º e 22.º do Regulamento (CE) n.º 1069/2009 e com o anexo VIII do Regulamento (UE) n.º 142/2011;\n\nf) o operador deve informar a autoridade competente caso exista uma lixeira nas imediações da exploração. Subsequentemente, a autoridade deve avaliar os riscos envolvidos e decidir se a exploração pode ser reconhecida como aplicando condições de habitação de animais controladas;\n\ng) o operador deve garantir a identificação dos suínos domésticos, de forma a se poder efetuar a rastreabilidade de cada animal até à exploração;\n\nh) o operador deve assegurar que os suínos domésticos só são introduzidos na exploração se forem originários e provenientes de explorações oficialmente reconhecidas como aplicando condições de habitação controladas;\n\ni) nenhum animal da espécie suína doméstica tem acesso a instalações ao ar livre, a menos que o operador possa demonstrar, através de uma análise dos riscos, a contento da autoridade competente, que o período, as instalações e as circunstâncias do acesso ao ar livre não representam um perigo de introdução de triquinas na exploração;\n\nj) nenhum dos suínos de criação ou de rendimento, tal como definidos no artigo 2.º, n.º 2, alínea c), da Diretiva 64/432/CEE, foi descarregado depois de abandonar a exploração de origem num centro de agrupamento, conforme definido no artigo 2.º, n.º 2, alínea o), da Diretiva 64/432/CEE, a menos que o centro de agrupamento satisfaça os requisitos das alíneas a) a i) e que todos os suínos domésticos agrupados para remessas no centro de agrupamento sejam originários e provenientes de explorações oficialmente reconhecidas como aplicando condições de habitação controladas ou de compartimentos oficialmente reconhecidos.\n\nB. Os operadores de empresas do setor alimentar responsáveis por explorações oficialmente reconhecidas como aplicando condições de habitação controladas devem informar a autoridade competente sempre que qualquer uma das condições mencionadas no ponto A deixe de ser cumprida ou sempre que se verifique qualquer outra alteração que possa afetar o estatuto da exploração.\n\nC. As autoridades competentes nos Estados-Membros apenas podem reconhecer uma exploração ou uma categoria de explorações se tiverem verificado o cumprimento dos requisitos previstos no ponto A."
+  },
+  "05b0495ae77ef475": {
+   "fragment_id": "Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+   "type": "divisao",
+   "heading": "Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Países terceiros ou regiões de países terceiros que aplicam as derrogações referidas no artigo 13.º, n.º 2\n\n| Código ISO do país | País terceiro ou regiões do país terceiro | Observações |\n| --- | --- | --- |\n| GB | Reino Unido [(^*1^)](http://publications.europa.eu/resource/cellar/7a862241-2a95-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#E0002) | Aplicação das derrogações previstas no artigo 3.º, n.^os^ 2 e 3 |\n| (^*1^) Em conformidade com o Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica, nomeadamente o artigo 5.º, n.º 4, do Protocolo relativo à Irlanda/Irlanda do Norte, em conjugação com o seu anexo 2, para os efeitos do presente anexo, as referências ao Reino Unido não incluem a Irlanda do Norte. |  |  |\n\n---"
+  },
+  "aed723be653bde52": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7a862241-2a95-11f0-8a44-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 183/2005 do Parlamento Europeu e do Conselho, de 12 de janeiro de 2005, que estabelece requisitos de higiene dos alimentos para animais (JO L 35 de 8.2.2005, p. 1)."
+  }
+ }
+}

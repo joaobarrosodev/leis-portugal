@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2015-288.versoes.json
+  count: 1
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32015R0288
   eli: http://data.europa.eu/eli/reg_del/2015/288/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fce87fc2-bbf3-11e4-bbe1-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/7ec41eb6-9eee-4ef8-9dc4-cde238604673.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0288-20140101
-  retrieved_at: '2026-10-22T03:17:39Z'
+  retrieved_at: '2026-10-22T16:39:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-12T21:35:39.707+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:39Z'
-  notes: Texto consolidado 02015R0288-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:39:52Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2015-288.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -125,29 +134,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/9f23939b-b58a-11e3-86f9-01aa75ed71a1
 article_structure:
   article_count: 11
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:39Z'
+  checked_at: '2026-10-22T16:39:52Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2015/288 da Comissão, de 17 de dezembro de 2014
-
-> 2015R0288 — PT — 01.01.2014 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R2252) — [REGULAMENTO DELEGADO (UE) 2015/2252 DA COMISSÃO de 30 de setembro de 2015](http://publications.europa.eu/resource/celex/32015R2252) — L 321 — 2 — 5.12.2015
-
-## REGULAMENTO DELEGADO (UE) 2015/288 DA COMISSÃO
 
 de 17 de dezembro de 2014
 

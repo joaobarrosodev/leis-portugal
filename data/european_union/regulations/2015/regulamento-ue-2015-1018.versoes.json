@@ -1,0 +1,1015 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32015R1018:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R1018-20260817",
+ "dre_path": null,
+ "source_lastmod": "2026-08-17",
+ "versions": [
+  {
+   "date": "2022-01-25",
+   "future": false,
+   "celex": "02015R1018-20220125",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "900abd0baef8bed6",
+    "66a135c3665c13f7",
+    "b34a8276ea04ac05",
+    "d664376e2a8dcecd",
+    "4168b29e4d1a0466",
+    "a0d0251b0db60d6f",
+    "88c16678f498fe72",
+    "b5f644a0b6c880f0",
+    "0aad14e4deb77423",
+    "2a15c433170aed0e",
+    "f67a9ce42445f831",
+    "852174729551523b",
+    "263f17dc9276a080",
+    "9d9152236cbb741f",
+    "eec1c3740df27d04",
+    "df9fa13b189ddae2",
+    "720af75c92791b10",
+    "8fecc414752c201f",
+    "1cc0672456bab549",
+    "6ef6b810393b35b8",
+    "d55ab0e52ff5e493",
+    "e03a0eb4d5b2eef3",
+    "f53d2c0d824508e9",
+    "31b6a60801034f16",
+    "a161c50ee19a1558",
+    "64610ae29a6cb67c",
+    "a74f9cfcb97036f2",
+    "e44f5ccf316a0b83",
+    "ead2726f7a1d8bd0",
+    "f471aa3031a01f2b",
+    "6d7cbf2cee2bbb2e"
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "future": false,
+   "celex": "02015R1018-20260817",
+   "acts": [
+    {
+     "id": "eu:celex:32026R1821:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2026/1821 DA COMISSÃO de 27 de julho de 2026",
+     "published": null,
+     "celex": "32026R1821"
+    }
+   ],
+   "changes": [
+    "Altera 1. OPERAÇÕES AÉREAS",
+    "Altera 2. OCORRÊNCIAS TÉCNICAS",
+    "Altera 4. EMERGÊNCIAS E OUTRAS SITUAÇÕES CRÍTICAS",
+    "Altera 5. AMBIENTE EXTERNO E METEOROLOGIA",
+    "Altera 6. SEGURANÇA",
+    "Altera OCORRÊNCIAS RELACIONADAS COM AS CONDIÇÕES TÉCNICAS, A MANUTENÇÃO E A REPARAÇÃO DA AERONAVE",
+    "Altera 2. PROJETO",
+    "Altera 3. MANUTENÇÃO E GESTÃO DA AERONAVEGABILIDADE PERMANENTE",
+    "Altera 1. OCORRÊNCIAS RELACIONADAS COM AS AERONAVES",
+    "Altera 3. OUTRAS OCORRÊNCIAS",
+    "Altera 1. GESTÃO DA SEGURANÇA DO AERÓDROMO",
+    "Altera 2. ASSISTÊNCIA EM ESCALA A AERONAVES",
+    "Altera 2. PLANADORES",
+    "Altera 3. VEÍCULOS MAIS LEVES QUE O AR (BALÕES E DIRIGÍVEIS)",
+    "Altera Notas",
+    "Adita OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DA AERONAVE TRIPULADA",
+    "Adita 1.1. Preparação do voo",
+    "Adita 1.2. Preparação da aeronave",
+    "Adita 1.3. Descolagem e aterragem",
+    "Adita 1.4. Qualquer fase do voo",
+    "Adita 1.5. Outros tipos de ocorrências",
+    "Adita 2.1. Estrutura e sistemas",
+    "Adita 2.2. Propulsão (incluindo motores, hélices e sistemas de rotor) e unidades auxiliares de potência (APU)",
+    "Adita 3. INTERAÇÃO COM OS SERVIÇOS DE NAVEGAÇÃO AÉREA (ANS) E A GESTÃO DO TRÁFEGO AÉREO (ATM)",
+    "Adita 2. DEGRADAÇÃO OU PERDA TOTAL DE SERVIÇOS OU FUNÇÕES",
+    "Adita 1.1. Ocorrências relacionadas com aeronaves e obstáculos",
+    "Adita 1.2. Degradação ou perda total de serviços ou funções",
+    "Adita 1.3. Outras ocorrências",
+    "Adita 2.1. Ocorrências relacionadas com as aeronaves e os aeródromos",
+    "Adita 2.2. Degradação ou perda total de serviços ou funções",
+    "Adita 2.3. Ocorrências específicas da assistência em escala",
+    "Adita OCORRÊNCIAS RELACIONADAS COM AERONAVES TRIPULADAS QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, INCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR",
+    "Adita 1. AERONAVES TRIPULADAS QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, EXCLUINDO PLANADORES E VEÍCULOS MAIS LEVES QUE O AR",
+    "Adita 1.1. Operações aéreas",
+    "Adita 1.2. Ocorrências técnicas",
+    "Adita 1.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo",
+    "Adita 1.4. Emergências e outras situações críticas",
+    "Adita 1.5. Ambiente externo e meteorologia",
+    "Adita 1.6. Segurança da informação",
+    "Adita 1.7. Ocorrências relacionadas com o espaço «U»",
+    "Adita 2.1. Operações aéreas",
+    "Adita 2.2. Ocorrências técnicas",
+    "Adita 2.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo",
+    "Adita 2.4. Emergências e outras situações críticas",
+    "Adita 2.5. Ambiente externo e meteorologia",
+    "Adita 2.6. Ocorrências relacionadas com o espaço «U»",
+    "Adita 3.1. Operações aéreas",
+    "Adita 3.2. Ocorrências técnicas",
+    "Adita 3.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo",
+    "Adita 3.4. Emergências e outras situações críticas",
+    "Adita 3.5. Ambiente externo e meteorologia",
+    "Adita 3.6. Ocorrências relacionadas com o espaço «U»",
+    "Adita ANEXO VI",
+    "Adita OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DO SISTEMA DE AERONAVE NÃO TRIPULADA (UAS)",
+    "Adita 1.1. Planeamento de voo e preparação do UAS",
+    "Adita 1.2. Descolagem e aterragem — Operações de/para aeródromos ou vertiportos",
+    "Adita 1.3. Descolagem e aterragem — Operações fora de aeródromos ou vertiportos",
+    "Adita 1.5. Ocorrências adicionais para operações de UAS com ocupantes a bordo",
+    "Adita 3. INTERAÇÃO COM ATM/ANS",
+    "Adita 6. OCORRÊNCIAS RELACIONADAS COM O ESPAÇO «U»",
+    "Adita 7. OUTRAS OCORRÊNCIAS",
+    "Adita 8. SEGURANÇA DA INFORMAÇÃO",
+    "Suprime OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DA AERONAVE",
+    "Suprime 3. INTERAÇÃO COM OS SERVIÇOS DE NAVEGAÇÃO AÉREA (ANS) E DE GESTÃO DO TRÁFEGO AÉREO (ATM)",
+    "Suprime 2. DEGRADAÇÃO OU PERDA TOTAL DE SERVIÇOS OU DE FUNÇÕES",
+    "Suprime OCORRÊNCIAS RELACIONADAS COM AERONAVES QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, INCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR",
+    "Suprime 1. AERONAVES QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, EXCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR"
+   ],
+   "fragments": [
+    "900abd0baef8bed6",
+    "66a135c3665c13f7",
+    "b34a8276ea04ac05",
+    "d664376e2a8dcecd",
+    "d3710bddf4706ea9",
+    "e63c6dbddf576f01",
+    "71e51d12433e5d37",
+    "23c850398c0e5f26",
+    "e51bb32f65fe13de",
+    "277be3d531d8b483",
+    "01df2f0e819e35e9",
+    "3d7bb4faa8905680",
+    "426a34eddbf05238",
+    "5d59125cb735a47f",
+    "786119e164023227",
+    "260f90eaea3eafa0",
+    "458f80d3c55a7df4",
+    "68082198667190a7",
+    "852174729551523b",
+    "c46dbc8dfdf99315",
+    "7e18c654e498ec2a",
+    "9b10699617ee7cb3",
+    "53568cf5e670955e",
+    "720af75c92791b10",
+    "af73d77618c2b925",
+    "a0d5da69dbac37ae",
+    "39f4b81e027b6d7f",
+    "7dc5baa59893033d",
+    "e03a0eb4d5b2eef3",
+    "f53d2c0d824508e9",
+    "e0fb2a7f93b95999",
+    "990babb58a0fca16",
+    "44e6f457ed19979c",
+    "7e9f00ad3e28eb40",
+    "a1180573b98f2e53",
+    "d2d592f7b3f4c53e",
+    "0cbc695bfc67037f",
+    "87bb7d7930bf36ec",
+    "64610ae29a6cb67c",
+    "c791beee964245df",
+    "7d17d2586f688d0e",
+    "67da80dee1835913",
+    "e9fda4408406ca35",
+    "005279136442b41e",
+    "310e52115120880e",
+    "f7186c8060858c0d",
+    "2a08a80be5996813",
+    "e97b151b590ac288",
+    "bf63d827ef192e8c",
+    "1d5fe552f30256b3",
+    "28505f5f3c86bf71",
+    "e8ce2b8dc2c961af",
+    "10e8948599565421",
+    "a1a21d1b04fb135f",
+    "f155f21c48eee01e",
+    "6e8144ffe7108009",
+    "718119c4571992ef",
+    "d7d553c922c84b7f",
+    "148b71b244f4f4ef",
+    "52840040eabab0d3",
+    "46b3e04d4a92f35c",
+    "28c3de17dbbd7a08",
+    "90c7d2baf4d44ee2",
+    "42ddb8de8caa0d64",
+    "e63c6dbddf576f01",
+    "f01297dd917c99c1",
+    "d3c5565e08208cdf",
+    "83076de542c89236",
+    "2e8df2fbfa46e6b7",
+    "f428f66d5bb2d612",
+    "3d7bb4faa8905680",
+    "209142957e400733",
+    "87ea0372123d9425",
+    "3c802bb63b34c807",
+    "e0a34b292b1b27b0",
+    "0540ba166e5be7dc",
+    "5166b8e9ed4f7830",
+    "77e8e23c7ef33c85",
+    "05cf2be9569da9ba",
+    "ed4137e7788455e6"
+   ]
+  }
+ ],
+ "fragments": {
+  "900abd0baef8bed6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de junho de 2015\n\nque estabelece uma lista com a classificação das ocorrências na aviação civil que devem ser obrigatoriamente comunicadas nos termos do Regulamento (UE) n.º 376/2014 do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "66a135c3665c13f7": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA classificação detalhada das ocorrências a que deve ser feita referência na comunicação, ao abrigo dos sistemas de comunicação obrigatória, nos termos do artigo 4.º, n.º 1, do Regulamento (UE) n.º 376/2014, consta dos anexos I a V do regulamento."
+  },
+  "b34a8276ea04ac05": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 15 de novembro de 2015.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "4168b29e4d1a0466": {
+   "fragment_id": "OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DA AERONAVE",
+   "type": "divisao",
+   "heading": "OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DA AERONAVE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DA AERONAVE\n\n*Nota:* O presente anexo está estruturado de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas."
+  },
+  "a0d0251b0db60d6f": {
+   "fragment_id": "1. OPERAÇÕES AÉREAS",
+   "type": "divisao",
+   "heading": "1. OPERAÇÕES AÉREAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. OPERAÇÕES AÉREAS\n\n1) Utilização de dados incorretos ou de registos errados nos equipamentos usados na navegação ou nos cálculos de desempenho, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n2) Transporte ou tentativa de transporte de mercadorias perigosas em violação das legislações aplicáveis, incluindo a rotulagem, a embalagem e o manuseamento incorretos de mercadorias perigosas\n\n1) Tipo de combustível errado ou combustível contaminado\n\n2) Ausência de tratamento antigelo/de degelo ou tratamento errado ou inadequado\n\n1) Saída de caminho de circulação ou de pista\n\n2) Incursão efetiva ou potencial num caminho de circulação ou pista\n\n3) Incursão na área de aproximação final e de descolagem (FATO)\n\n4) Qualquer descolagem rejeitada\n\n5) Incapacidade de obter o desempenho requerido ou esperado durante uma descolagem, volta de pista ou aterragem\n\n6) Descolagem, aproximação ou aterragem efetiva ou tentada, com parâmetros de configuração errados\n\n7) Embate com a cauda, pá/extremidade da asa ou nacela durante a descolagem ou a aterragem\n\n8) Continuação de aproximação sem satisfazer os critérios de aproximação estabilizada definidos pelo operador aéreo\n\n9) Continuação de uma aproximação por instrumentos abaixo dos mínimos publicados com referências visuais inadequadas\n\n10) Aterragem de precaução ou forçada\n\n11) Aterragem curta e longa\n\n12) Aterragem dura\n\n1) Perda de controlo\n\n2) Perda de controlo da aeronave, superação da atitude de picada normal, ângulo de pranchamento ou velocidade inadequados para as condições\n\n3) Desvio de altitude\n\n4) Ativação de qualquer proteção da envolvente de voo, incluindo aviso de perda de sustentação, vibrador do manche, empurrador do manche e proteções automáticas\n\n5) Desvio não intencional da rota planeada ou atribuída de duas vezes o nível de desempenho de navegação requerido ou 10 milhas náuticas, conforme o valor que for inferior\n\n6) Superação dos limites constantes do manual de voo da aeronave\n\n7) Operação com altímetro incorretamente regulado\n\n8) Ocorrências relacionadas com o sopro dos reatores ou com a perturbação dos rotores ou hélices, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n9) Interpretação errada do modo automático ou de qualquer informação dada pelo posto de pilotagem à tripulação de voo, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n1) Libertação não intencional de carga ou de outros equipamentos transportados externamente\n\n2) Perda de conhecimento da situação no espaço (incluindo o conhecimento do meio ambiente, modo e sistema, desorientação espacial, e horizonte temporal)\n\n3) Qualquer ocorrência em que o desempenho humano tenha diretamente contribuído ou possa ter contribuído para um acidente ou incidente grave"
+  },
+  "88c16678f498fe72": {
+   "fragment_id": "2. OCORRÊNCIAS TÉCNICAS",
+   "type": "divisao",
+   "heading": "2. OCORRÊNCIAS TÉCNICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. OCORRÊNCIAS TÉCNICAS\n\n1) Perda de qualquer parte da estrutura da aeronave em voo\n\n2) Perda de um sistema\n\n3) Perda de redundância de um sistema\n\n4) Fugas de quaisquer fluidos de que resultem perigo de incêndio ou possibilidade de contaminação perigosa da estrutura, sistemas ou equipamentos da aeronave, ou que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n5) Mau funcionamento ou defeito do sistema de combustível com consequências no fornecimento e/ou na distribuição de combustível\n\n6) Mau funcionamento ou defeito de qualquer sistema indicador, quando tal resulta em indicações erradas à tripulação\n\n7) Mau funcionamento dos comandos de voo, nomeadamente comandos de voo assimétricos ou presos/bloqueados [por exemplo: dispositivos de sustentação (*flaps*/bordos de ataque), de arrasto (*spoilers*), de controlo de atitude (*ailerons*, lemes de profundidade, leme de direção)]\n\n1) Avaria ou mau funcionamento significativo de qualquer peça ou comando de um hélice, rotor ou grupo motopropulsor\n\n2) Dano ou avaria do rotor principal/de cauda ou da transmissão e/ou de sistemas equivalentes\n\n3) Extinção, corte de motor ou de APU em voo, quando necessário (por exemplo: ETOPS (operações de aviões bimotores num raio alargado), MEL (lista de equipamento mínimo)\n\n4) Superação das limitações ao funcionamento do motor, incluindo velocidade excessiva ou incapacidade de controlar a velocidade de qualquer componente rotativo de grande velocidade (por exemplo: APU, arrancador pneumático, máquina de ciclo pneumático, motor de turbina a ar, hélice ou rotor)\n\n5) Avaria ou mau funcionamento de qualquer peça de um motor, grupo motopropulsor, APU ou transmissão, que resulte numa ou mais das seguintes situações:\n\na) impossibilidade de acionamento do sistema de inversão do impulso;\n\nb) impossibilidade de controlar a potência, o impulso ou as rpm (rotações por minuto);\n\nc) não contenção de componentes/fragmentos."
+  },
+  "b5f644a0b6c880f0": {
+   "fragment_id": "3. INTERAÇÃO COM OS SERVIÇOS DE NAVEGAÇÃO AÉREA (ANS) E DE GESTÃO DO TRÁFEGO AÉREO (ATM)",
+   "type": "divisao",
+   "heading": "3. INTERAÇÃO COM OS SERVIÇOS DE NAVEGAÇÃO AÉREA (ANS) E DE GESTÃO DO TRÁFEGO AÉREO (ATM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. INTERAÇÃO COM OS SERVIÇOS DE NAVEGAÇÃO AÉREA (ANS) E DE GESTÃO DO TRÁFEGO AÉREO (ATM)\n\n1) Concessão de autorização ATC (controlo do tráfego aéreo) sem condições de segurança\n\n2) Perda de comunicação prolongada com o ATS (serviço de tráfego aéreo) ou a unidade de gestão do tráfego aéreo\n\n3) Instruções contraditórias de diferentes unidades ATS conduzindo potencialmente a perda de separação\n\n4) Interpretação errada de comunicações rádio, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n5) Desvio intencional de instrução ATC, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa"
+  },
+  "0aad14e4deb77423": {
+   "fragment_id": "4. EMERGÊNCIAS E OUTRAS SITUAÇÕES CRÍTICAS",
+   "type": "divisao",
+   "heading": "4. EMERGÊNCIAS E OUTRAS SITUAÇÕES CRÍTICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4. EMERGÊNCIAS E OUTRAS SITUAÇÕES CRÍTICAS\n\n1) Qualquer ocorrência que conduza a uma declaração de emergência (apelo «MAYDAY» ou «PAN»)\n\n2) Qualquer combustão, fusão, fumo, gás de vapor, formação de centelha, sobreaquecimento, incêndio ou explosão\n\n3) Ar contaminado na cabina de pilotagem ou no compartimento de passageiros, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n4) Incapacidade da tripulação de voo ou de cabina de aplicar o procedimento não normal ou de emergência correto para lidar com uma emergência\n\n5) Utilização de qualquer equipamento de emergência ou procedimento não normal que afete o desempenho durante o voo ou na aterragem\n\n6) Avaria de qualquer sistema ou equipamento de emergência ou de salvamento que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n7) Pressão incontrolável da cabina\n\n8) Nível perigosamente baixo de combustível ou quantidade de combustível no destino inferior à reserva final de combustível requerida\n\n9) Qualquer utilização do sistema de oxigénio da tripulação por parte desta\n\n10) Incapacitação de qualquer membro da tripulação de voo ou de cabina, que resulte na redução da tripulação certificada complementar abaixo do nível mínimo\n\n11) Fadiga da tripulação com impacto ou potencial impacto na sua capacidade de desempenhar funções de voo em condições de segurança"
+  },
+  "2a15c433170aed0e": {
+   "fragment_id": "5. AMBIENTE EXTERNO E METEOROLOGIA",
+   "type": "divisao",
+   "heading": "5. AMBIENTE EXTERNO E METEOROLOGIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 5. AMBIENTE EXTERNO E METEOROLOGIA\n\n1) Colisão ou quase colisão, no solo ou em voo, com outra aeronave, o solo ou um obstáculo ([^1^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0001))\n\n2) ACAS RA (aviso de resolução do sistema anticolisão de bordo)\n\n3) Ativação de um verdadeiro sistema anticolisão no solo, como por exemplo o GPWS (sistema de aviso de proximidade do solo)/TAWS (sistema de perceção e aviso do terreno)\n\n4) Colisão com animais selvagens, incluindo com aves\n\n5) Danos causados por objetos estranhos/fragmentos (FOD)\n\n6) Episódio não previsto de más condições do pavimento da pista\n\n7) Episódio de turbulência de esteira\n\n8) Interferência com a aeronave de armas de fogo, dispositivos pirotécnicos, papagaios voadores, iluminações laser, lasers de alta potência, sistemas de aeronaves pilotadas à distância, aeromodelos ou meios semelhantes\n\n9) Queda de raio que tenha resultado em danos na aeronave ou perda ou mau funcionamento de qualquer sistema da aeronave\n\n10) Episódio de queda de granizo que tenha resultado em danos na aeronave ou na perda ou mau funcionamento de qualquer sistema da aeronave\n\n11) Episódio de turbulência forte ou qualquer episódio que resulte em ferimentos nos ocupantes ou relativamente ao qual se considere necessário um «controlo de turbulência» da aeronave pós-voo\n\n12) Episódio significativo de cisalhamento do vento ou tempestade, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n13) Episódio de formação de gelo, que resulte em dificuldades de controlo da aeronave, danos na aeronave ou perda ou mau funcionamento de qualquer sistema da aeronave\n\n14) Episódio de cinzas vulcânicas"
+  },
+  "f67a9ce42445f831": {
+   "fragment_id": "6. SEGURANÇA",
+   "type": "divisao",
+   "heading": "6. SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 6. SEGURANÇA\n\n1) Ameaça de bomba ou desvio da aeronave por piratas do ar\n\n2) Dificuldade em controlar passageiros sob o efeito do álcool, violentos ou indisciplinados\n\n3) Descoberta de passageiro clandestino"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "263f17dc9276a080": {
+   "fragment_id": "OCORRÊNCIAS RELACIONADAS COM AS CONDIÇÕES TÉCNICAS, A MANUTENÇÃO E A REPARAÇÃO DA AERONAVE",
+   "type": "divisao",
+   "heading": "OCORRÊNCIAS RELACIONADAS COM AS CONDIÇÕES TÉCNICAS, A MANUTENÇÃO E A REPARAÇÃO DA AERONAVE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OCORRÊNCIAS RELACIONADAS COM AS CONDIÇÕES TÉCNICAS, A MANUTENÇÃO E A REPARAÇÃO DA AERONAVE"
+  },
+  "9d9152236cbb741f": {
+   "fragment_id": "1. FABRICO",
+   "type": "divisao",
+   "heading": "1. FABRICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. FABRICO\n\nProdutos, peças ou equipamentos colocados no mercado pela entidade de produção com desvios em relação aos dados de projeto aplicáveis, que podem conduzir a uma situação de potencial falta de segurança identificada juntamente com o titular do certificado-tipo ou da aprovação de projeto"
+  },
+  "eec1c3740df27d04": {
+   "fragment_id": "2. PROJETO",
+   "type": "divisao",
+   "heading": "2. PROJETO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. PROJETO\n\nQualquer avaria, mau funcionamento, defeito ou outra ocorrência relacionada com um produto, peça ou equipamento que tenha resultado ou possa resultar numa situação de falta de segurança\n\n*Nota:* Esta lista aplica-se às ocorrências relacionadas com um produto, peça ou equipamento abrangido pelo certificado-tipo, certificado-tipo restrito, certificado-tipo suplementar, autorização ETSO e aprovação de projeto de grandes reparações ou qualquer outra aprovação relevante considerada como tendo sido emitida em conformidade com o Regulamento (UE) n.º 748/2012 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0002))."
+  },
+  "df9fa13b189ddae2": {
+   "fragment_id": "3. MANUTENÇÃO E GESTÃO DA AERONAVEGABILIDADE PERMANENTE",
+   "type": "divisao",
+   "heading": "3. MANUTENÇÃO E GESTÃO DA AERONAVEGABILIDADE PERMANENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. MANUTENÇÃO E GESTÃO DA AERONAVEGABILIDADE PERMANENTE\n\n1) Danos estruturais importantes (por exemplo: fissura, deformação permanente, descolamento, laminação, combustão, desgaste excessivo ou corrosão) detetados durante as operações de manutenção da aeronave ou de um componente\n\n2) Fuga grave ou contaminação de fluidos (por exemplo: água, combustível, óleo, gás ou outros fluídos)\n\n3) Avaria ou mau funcionamento de qualquer peça de um motor ou grupo motopropulsor e/ou transmissão que resulte numa ou mais das seguintes situações:\n\na) não contenção de componentes/fragmentos;\n\nb) defeito da estrutura de montagem do motor;\n\n4) Danos, avaria ou defeito do hélice, que possa conduzir à separação, durante o voo, do hélice ou de uma parte importante do hélice e/ou mau funcionamento do comando do hélice\n\n5) Danos, avaria ou defeito da caixa de velocidades/fixação do rotor principal, que possa conduzir à separação, em voo, do conjunto do rotor e/ou mau funcionamento do comando do rotor\n\n6) Mau funcionamento significativo dos sistemas ou equipamentos de segurança essenciais, incluindo os sistemas ou equipamentos de emergência durante os ensaios de manutenção, ou incapacidade de acionar esses sistemas após a manutenção\n\n7) Montagem ou instalação incorreta de componentes da aeronave detetada durante uma inspeção ou um procedimento de ensaio que não tinha essa finalidade específica\n\n8) Avaliação errada de um defeito ou não-conformidade grave com a MEL e os procedimentos do diário de bordo\n\n9) Danos graves no sistema de interconexão de instalações elétricas (EWIS)\n\n10) Qualquer defeito numa peça essencial com uma vida útil limitada, que conduza à sua retirada antes do termo do seu período de vida útil\n\n11) Utilização de produtos, componentes ou materiais de origem desconhecida ou suspeita ou de componentes essenciais inutilizáveis\n\n12) Dados ou procedimentos de manutenção aplicáveis enganadores, incorretos ou insuficientes, que possam conduzir a erros graves no plano da manutenção, incluindo as questões linguísticas\n\n13) Controlo ou aplicação incorretos de limitações à manutenção das aeronaves ou manutenção programada\n\n14) Colocação em serviço de uma aeronave saída da manutenção, em caso de não-conformidade que coloque em perigo a segurança do voo\n\n15) Danos graves causados a uma aeronave durante as atividades de manutenção devido a manutenção incorreta ou utilização de equipamento de apoio no solo inadequado ou inutilizável, que obriguem a operações de manutenção adicionais\n\n16) Identificação de ocorrências relacionadas com a combustão, fusão, fumos, formação de centelha, sobreaquecimento ou incêndio\n\n17) Qualquer ocorrência em que o desempenho humano, incluindo a fadiga do pessoal, tenha contribuído diretamente ou possa ter contribuído para um acidente ou incidente grave\n\n18) Mau funcionamento significativo, problema de fiabilidade ou problema recorrente de qualidade dos registos, que afete o sistema de registo de parâmetros de voo (nomeadamente o equipamento de registo de dados de voo, o equipamento de registo de ligações de dados ou o equipamento de registo de sons da cabina de pilotagem) ou falta da informação necessária para assegurar o funcionamento do equipamento de registo de parâmetros de voo"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "8fecc414752c201f": {
+   "fragment_id": "OCORRÊNCIAS RELACIONADAS COM OS SERVIÇOS E AS INSTALAÇÕES DE NAVEGAÇÃO AÉREA",
+   "type": "divisao",
+   "heading": "OCORRÊNCIAS RELACIONADAS COM OS SERVIÇOS E AS INSTALAÇÕES DE NAVEGAÇÃO AÉREA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OCORRÊNCIAS RELACIONADAS COM OS SERVIÇOS E AS INSTALAÇÕES DE NAVEGAÇÃO AÉREA\n\n*Nota:* O presente anexo está estruturado de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas."
+  },
+  "1cc0672456bab549": {
+   "fragment_id": "1. OCORRÊNCIAS RELACIONADAS COM AS AERONAVES",
+   "type": "divisao",
+   "heading": "1. OCORRÊNCIAS RELACIONADAS COM AS AERONAVES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. OCORRÊNCIAS RELACIONADAS COM AS AERONAVES\n\n1) Colisão ou quase colisão, no solo ou em voo, entre duas aeronaves ou entre uma aeronave e o solo ou um obstáculo ([^3^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0003)), incluindo o embate no solo sem perda de controlo (quase CFIT)\n\n2) Não observância das distâncias mínimas de separação ([^4^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0004))\n\n3) Separação inadequada ([^5^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0005))\n\n4) ACAS RA\n\n5) Colisão com animais selvagens, incluindo com aves\n\n6) Saída de caminho de circulação ou de pista\n\n7) Incursão efetiva ou potencial num caminho de circulação ou pista\n\n8) Incursão na área de aproximação final e de descolagem (FATO)\n\n9) Desvio em relação à autorização concedida à aeronave pelo controlo de tráfego aéreo (ATC)\n\n10) Desvio em relação às regras de gestão de tráfego aéreo (ATM) aplicáveis à aeronave:\n\na) desvio em relação aos procedimentos ATM publicados aplicáveis à aeronave;\n\nb) violação do espaço aéreo, incluindo entrada não autorizada num espaço aéreo;\n\nc) desvio em relação às disposições relativas ao transporte e ao funcionamento do equipamento aeronáutico ligado à gestão do tráfego aéreo, conforme previsto nos regulamentos aplicáveis.\n\n11) Ocorrências ligadas a confusões relacionadas com o indicativo de chamada"
+  },
+  "6ef6b810393b35b8": {
+   "fragment_id": "2. DEGRADAÇÃO OU PERDA TOTAL DE SERVIÇOS OU DE FUNÇÕES",
+   "type": "divisao",
+   "heading": "2. DEGRADAÇÃO OU PERDA TOTAL DE SERVIÇOS OU DE FUNÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. DEGRADAÇÃO OU PERDA TOTAL DE SERVIÇOS OU DE FUNÇÕES\n\n1) Incapacidade de prestar serviços ATM ou executar funções ATM:\n\na) incapacidade de prestar serviços de tráfego aéreo ou executar funções ligadas aos serviços de tráfego aéreo;\n\nb) incapacidade de prestar serviços de gestão do espaço aéreo ou executar funções de gestão do espaço aéreo;\n\nc) incapacidade de prestar serviços ligados à capacidade e à gestão do fluxo de tráfego aéreo ou executar funções ligadas à capacidade e à gestão do fluxo de tráfego aéreo.\n\n2) Não prestação ou prestação de informações claramente incorretas, corrompidas, inadequadas ou enganadoras por quaisquer serviços de apoio ([^6^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0006)), incluindo sobre as más condições do pavimento da pista\n\n3) Falha do serviço de comunicação\n\n4) Falha do serviço de vigilância\n\n5) Falha da função ou do serviço de tratamento e de distribuição de dados\n\n6) Falha do serviço de navegação\n\n7) Falha de segurança do sistema ATM, que tenha ou possa ter um impacto negativo direto na prestação de serviços em condições de segurança\n\n8) Sobrecarga significativa do setor/posição ATS, que conduza a uma potencial deterioração do nível de prestação de serviços\n\n9) Receção ou interpretação incorreta de comunicações relevantes, incluindo a não-compreensão da língua utilizada, nos casos em que teve ou poderia ter tido um impacto negativo direto na prestação de serviços em condições de segurança\n\n10) Perda prolongada de comunicação com uma aeronave ou com outra unidade ATS"
+  },
+  "d55ab0e52ff5e493": {
+   "fragment_id": "3. OUTRAS OCORRÊNCIAS",
+   "type": "divisao",
+   "heading": "3. OUTRAS OCORRÊNCIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. OUTRAS OCORRÊNCIAS\n\n1) Declaração de emergência (apelo «MAYDAY» ou «PAN»)\n\n2) Interferência externa significativa com os serviços de navegação aérea (por exemplo, estações de rádio que emitem na frequência FM, que interferem com o sistema de aterragem por instrumentos (ILS), farol omnidirecional em VHF (VOR) e comunicação)\n\n3) Interferência com uma aeronave, uma unidade ATS ou uma transmissão de comunicações via rádio, incluindo de armas de fogo, dispositivos pirotécnicos, papagaios voadores, iluminações laser, lasers de alta potência, sistemas de aeronaves pilotadas à distância, aeromodelos ou meios semelhantes\n\n4) Alijamento de combustível\n\n5) Ameaça de bomba ou de desvio de aeronave por piratas do ar\n\n6) Fadiga com impacto ou potencial impacto na capacidade de prestar serviços de navegação aérea ou executar funções ligadas ao tráfego aéreo em condições de segurança\n\n7) Qualquer ocorrência em que o desempenho humano tenha diretamente contribuído ou possa ter contribuído para um acidente ou incidente grave"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "f53d2c0d824508e9": {
+   "fragment_id": "OCORRÊNCIAS RELACIONADAS COM OS AERÓDROMOS E OS SERVIÇOS EM TERRA",
+   "type": "divisao",
+   "heading": "OCORRÊNCIAS RELACIONADAS COM OS AERÓDROMOS E OS SERVIÇOS EM TERRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OCORRÊNCIAS RELACIONADAS COM OS AERÓDROMOS E OS SERVIÇOS EM TERRA"
+  },
+  "31b6a60801034f16": {
+   "fragment_id": "1. GESTÃO DA SEGURANÇA DO AERÓDROMO",
+   "type": "divisao",
+   "heading": "1. GESTÃO DA SEGURANÇA DO AERÓDROMO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. GESTÃO DA SEGURANÇA DO AERÓDROMO\n\n*Nota:* Esta secção está estruturada de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas.\n\n1) Colisão ou quase colisão, no solo ou em voo, entre duas aeronaves ou entre uma aeronave e o solo ou um obstáculo ([^7^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0007))\n\n2) Colisão com animais selvagens, incluindo com aves\n\n3) Saída de caminho de circulação ou de pista\n\n4) Incursão efetiva ou potencial num caminho de circulação ou pista\n\n5) Incursão ou saída da área de aproximação final e de descolagem (FATO)\n\n6) Inobservância pelas aeronaves ou veículos de autorizações, instruções ou restrições aquando das operações na área de movimento de um aeródromo (por exemplo, utilização da pista, caminho de circulação ou área restrita de aeródromo errados)\n\n7) Objetos estranhos na área de movimento do aeródromo, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n8) Presença de obstáculos, no aeródromo ou nas suas imediações, não comunicados na AIP (publicação de informação aeronáutica) ou via NOTAM (aviso à navegação) e/ou que não estejam marcados ou iluminados de forma adequada\n\n9) Interferências de veículos, equipamentos ou pessoas nas manobras de recuo com reboque, manobras de recuo com motor ou rolagem\n\n10) Presença de passageiros ou de pessoas não autorizadas, sem supervisão, na placa de estacionamento\n\n11) Efeito de sopro dos reatores, de corrente descendente do rotor ou de sopro do hélice\n\n12) Declaração de emergência (apelo «MAYDAY» ou «PAN»)\n\n1) Perda ou falhas de comunicação entre:\n\na) o aeródromo, um veículo ou o pessoal de terra e os serviços de tráfego aéreo ou os serviços de gestão da placa de estacionamento;\n\nb) os serviços de gestão da placa de estacionamento e a aeronave, um veículo ou os serviços de tráfego aéreo.\n\n2) Avaria, mau funcionamento ou defeito importante dos equipamentos ou sistemas do aeródromo, que tenha ou possa ter colocado em perigo a aeronave ou os seus ocupantes\n\n3) Deficiências significativas no plano da iluminação, marcação ou sinalização do aeródromo\n\n4) Avaria do sistema de alerta de emergência do aeródromo\n\n5) Indisponibilidade dos serviços de salvamento e de combate a incêndios de acordo com os requisitos aplicáveis\n\n1) Incêndio, fumo ou explosões nas instalações, imediações e equipamentos do aeródromo, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n2) Ocorrências relacionadas com a segurança dos aeródromos (por exemplo: entrada ilícita, sabotagem, ameaça de bomba)\n\n3) Ausência de notificação de uma mudança significativa nas condições de exploração do aeródromo, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n4) Ausência de tratamento antigelo/de degelo ou tratamento errado ou inadequado\n\n5) Derramamentos significativos durante o abastecimento\n\n6) Abastecimento de combustível ou de outros fluidos essenciais contaminados ou do tipo incorreto (incluindo oxigénio, azoto, óleo e água potável)\n\n7) Incapacidade de lidar com as más condições do pavimento da pista\n\n8) Qualquer ocorrência em que o desempenho humano tenha diretamente contribuído ou possa ter contribuído para um acidente ou incidente grave"
+  },
+  "a161c50ee19a1558": {
+   "fragment_id": "2. ASSISTÊNCIA EM ESCALA A AERONAVES",
+   "type": "divisao",
+   "heading": "2. ASSISTÊNCIA EM ESCALA A AERONAVES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. ASSISTÊNCIA EM ESCALA A AERONAVES\n\n*Nota:* Esta secção está estruturada de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas.\n\n1) Colisão ou quase colisão, no solo ou em voo, entre duas aeronaves ou entre uma aeronave e o solo ou um obstáculo ([^8^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0008))\n\n2) Incursão na pista ou no caminho de circulação\n\n3) Saída de pista ou de caminho de circulação\n\n4) Contaminação significativa da estrutura, dos sistemas e do equipamento da aeronave resultante do transporte de bagagem, carga ou correio\n\n5) Interferências de veículos, equipamentos ou pessoas nas manobras de recuo com reboque, manobras de recuo com motor ou rolagem\n\n6) Objetos estranhos na área de movimento do aeródromo, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n7) Presença de passageiros ou pessoas não autorizadas, sem supervisão, na placa de estacionamento\n\n8) Incêndio, fumo ou explosões nas instalações, imediações e equipamentos do aeródromo, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n9) Ocorrências relacionadas com a segurança dos aeródromos (por exemplo: entrada ilícita, sabotagem, ameaça de bomba)\n\n1) Perda ou falha da comunicação com a aeronave, o veículo, os serviços de tráfego aéreo ou os serviços de gestão da placa de estacionamento\n\n2) Avaria, mau funcionamento ou defeito importante de equipamentos ou sistemas do aeródromo, que tenha ou possa ter colocado em perigo a aeronave ou os seus ocupantes\n\n3) Deficiências significativas no plano da iluminação, marcação ou sinalização do aeródromo\n\n1) Assistência ou carregamento/embarque incorretos de passageiros, bagagem, correio ou carga, que possa ter um efeito significativo na massa e/ou equilíbrio da aeronave (incluindo erros graves nos cálculos do manifesto de carga)\n\n2) Retirada de equipamento de apoio ao embarque que coloque em perigo os ocupantes da aeronave\n\n3) Arrumação ou proteção incorreta da bagagem, correio ou carga que possa, por qualquer razão, representar um perigo para a aeronave, o seu equipamento ou ocupantes, ou impedir a evacuação de emergência\n\n4) Transporte, tentativa de transporte ou movimentação de mercadorias perigosas, que tenha ou possa ter colocado em perigo a segurança da operação ou conduzido a uma situação de falta de segurança (por exemplo: incidente ou acidente com mercadorias perigosas, conforme definido nas Instruções Técnicas da ICAO ([^9^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0009)))\n\n5) Não conformidade da conciliação de passageiros ou bagagem\n\n6) Não conformidade dos procedimentos em matéria de assistência em escala e manutenção de aeronaves, especialmente os aplicáveis às operações de degelo, reabastecimento ou carregamento, incluindo a instalação ou remoção incorreta de equipamento\n\n7) Derramamentos significativos durante o abastecimento\n\n8) Carregamento de quantidades incorretas de combustível, suscetíveis de ter um impacto significativo na autonomia, desempenho, equilíbrio ou resistência estrutural da aeronave\n\n9) Carregamento de combustível ou de outros fluidos essenciais contaminados ou do tipo incorreto (incluindo oxigénio, azoto, óleo e água potável)\n\n10) Avaria, mau funcionamento ou defeito dos equipamentos no solo utilizados para a assistência em escala, que resultem em danos ou danos potenciais na aeronave (por exemplo: barra de reboque ou GPU (grupo gerador)\n\n11) Ausência de tratamento antigelo/de degelo ou tratamento errado ou inadequado\n\n12) Danos causados na aeronave por equipamentos ou veículos de assistência em escala, incluindo danos não declarados anteriormente\n\n13) Qualquer ocorrência em que o desempenho humano tenha diretamente contribuído ou possa ter contribuído para um acidente ou incidente grave"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "a74f9cfcb97036f2": {
+   "fragment_id": "OCORRÊNCIAS RELACIONADAS COM AERONAVES QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, INCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR",
+   "type": "divisao",
+   "heading": "OCORRÊNCIAS RELACIONADAS COM AERONAVES QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, INCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OCORRÊNCIAS RELACIONADAS COM AERONAVES QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, INCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR\n\nPara efeitos do presente anexo, entende-se por:\n\na) «Aeronaves que não sejam aeronaves a motor complexas»: aeronaves diferentes das definidas no artigo 3.º, alínea j), do Regulamento (CE) n.º 216/2008;\n\nb) «Planador»: mesma aceção do artigo 2.º, n.º 117, do Regulamento de Execução (UE) n.º 923/2012 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0010));\n\nc) «Veículos mais leves que o ar»: mesma aceção do ponto ML 10 (secção relativa às definições dos termos usados na lista) do anexo da Diretiva 2009/43/CE do Parlamento Europeu e do Conselho ([^11^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0011));"
+  },
+  "e44f5ccf316a0b83": {
+   "fragment_id": "1. AERONAVES QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, EXCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR",
+   "type": "divisao",
+   "heading": "1. AERONAVES QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, EXCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. AERONAVES QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, EXCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR\n\n*Nota:* Esta secção está estruturada de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas.\n\n1) Perda de controlo não intencional\n\n2) Aterragem fora da área de aterragem planeada\n\n3) Incapacidade ou impossibilidade de obter o nível de desempenho esperado da aeronave em condições normais durante a descolagem, a subida ou a aterragem\n\n4) Incursão na pista\n\n5) Saída de pista\n\n6) Qualquer voo efetuado com uma aeronave que não estava em perfeitas condições de navegabilidade ou cuja preparação não tinha sido completada, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n7) Voo não planeado realizado em IMC (condições meteorológicas de voo por instrumentos) com uma aeronave não certificada para IFR (regras de voo por instrumentos) ou piloto não qualificado para IFR, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n8) Libertação não intencional de carga ([^12^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0012))\n\n1) Vibração intensa anormal (por exemplo: vibração ao nível do *aileron* ou do leme de profundidade, ou do hélice)\n\n2) Comandos de voo que não funcionam corretamente ou desligados\n\n3) Avaria ou deterioração substancial da estrutura da aeronave\n\n4) Perda de qualquer parte da estrutura da aeronave ou instalação em voo\n\n5) Avaria de um motor, rotor, hélice, sistema de combustível ou outro sistema essencial\n\n6) Fuga de fluidos, que tenha resultado em perigo de incêndio ou na possibilidade de contaminação perigosa da estrutura, dos sistemas ou do equipamento da aeronave ou colocado em risco os ocupantes\n\n1) Interação com serviços de navegação aérea (por exemplo: prestação incorreta de serviços, comunicações contraditórias ou desvio em relação ao teor da autorização), que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa\n\n2) Violação do espaço aéreo\n\n1) Ocorrência na origem de uma chamada de emergência\n\n2) Incêndio, explosão, fumos, gases tóxicos ou emanações tóxicas na aeronave\n\n3) Incapacitação do piloto, que conduza a falta de aptidão para desempenhar funções\n\n1) Colisão no solo ou em voo, com outra aeronave, o solo ou um obstáculo ([^13^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0013))\n\n2) Quase colisão, no solo ou em voo, com outra aeronave, o solo ou um obstáculo [(13)](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0013), que exija uma manobra de emergência para evitar a colisão\n\n3) Colisão com animais selvagens, incluindo com aves, que tenha resultado em danos na aeronave ou na perda ou mau funcionamento de qualquer serviço essencial\n\n4) Interferência com a aeronave de armas de fogo, dispositivos pirotécnicos, papagaios voadores, iluminações laser, lasers de alta potência, sistemas de aeronaves pilotadas à distância, aeromodelos ou meios semelhantes\n\n5) Queda de raio que resulte em danos ou perda de funções da aeronave\n\n6) Episódio de turbulência grave, que tenha provocado ferimentos nos ocupantes da aeronave ou relativamente ao qual se considere necessário um «controlo de turbulência» da aeronave pós-voo\n\n7) Formação de gelo, incluindo no carburador, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa"
+  },
+  "ead2726f7a1d8bd0": {
+   "fragment_id": "2. PLANADORES",
+   "type": "divisao",
+   "heading": "2. PLANADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. PLANADORES\n\n*Nota:* Esta secção está estruturada de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas.\n\n1) Perda de controlo não intencional\n\n2) Ocorrência em que o piloto do planador foi incapaz de soltar o cabo de guincho ou a corda do rebocador e teve de recorrer a procedimentos de emergência\n\n3) Ato de soltar o cabo de guincho ou a corda do rebocador, caso tenha ou possa ter colocado em perigo o planador, os seus ocupantes ou qualquer outra pessoa\n\n4) No caso de um planador motorizado, avaria de um motor durante a descolagem\n\n5) Qualquer voo efetuado com um planador que não estava em perfeitas condições de navegabilidade ou cuja preparação incompleta tenha ou possa ter colocado em perigo o planador, os seus ocupantes ou qualquer outra pessoa\n\n1) Vibração intensa anormal (por exemplo: ao nível do *aileron* ou do leme de profundidade, ou do hélice)\n\n2) Comandos de voo que não funcionam corretamente ou desligados\n\n3) Dano ou deterioração substancial da estrutura do planador\n\n4) Perda de qualquer parte da estrutura do planador ou instalação em voo\n\n1) Interação com os serviços de navegação aérea (por exemplo: prestação incorreta de serviços, comunicações contraditórias ou desvio em relação ao teor da autorização), que tenha ou possa ter colocado em perigo o planador, os seus ocupantes ou qualquer outra pessoa\n\n2) Violações do espaço aéreo\n\n1) Ocorrência na origem de uma chamada de emergência\n\n2) Qualquer situação em que não exista qualquer zona de aterragem segura disponível\n\n3) Incêndio, explosão, fumo ou gases ou emanações tóxicas no planador\n\n4) Incapacitação do piloto, que conduza a falta de aptidão para desempenhar funções\n\n1) Colisão, no solo ou em voo, com uma aeronave, o solo ou um obstáculo ([^14^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0014))\n\n2) Quase colisão, no solo ou em voo, com uma aeronave, o solo ou um obstáculo [(14)](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0014), que exija uma manobra de emergência para evitar a colisão\n\n3) Interferência com o planador de armas de fogo, dispositivos pirotécnicos, papagaios voadores, iluminações laser, lasers de alta potência, sistemas de aeronaves pilotadas à distância, aeromodelos ou meios semelhantes\n\n4) Queda de raio, que resulte em danos no planador"
+  },
+  "f471aa3031a01f2b": {
+   "fragment_id": "3. VEÍCULOS MAIS LEVES QUE O AR (BALÕES E DIRIGÍVEIS)",
+   "type": "divisao",
+   "heading": "3. VEÍCULOS MAIS LEVES QUE O AR (BALÕES E DIRIGÍVEIS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. VEÍCULOS MAIS LEVES QUE O AR (BALÕES E DIRIGÍVEIS)\n\n*Nota:* O presente anexo está estruturado de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas.\n\n1) Qualquer voo efetuado com um veículo mais leve que o ar, que não estava em perfeitas condições de navegabilidade ou cuja preparação incompleta tenha ou possa ter colocado em perigo o veículo mais leve que o ar, os seus ocupantes ou qualquer outra pessoa\n\n2) Extinção permanente não intencional da chama-piloto\n\n1) Avaria de qualquer das seguintes peças ou comandos: tubo imersor do depósito de combustível, roldana do invólucro, cabo de comando, amarra, fenda na vedação da válvula do queimador, fenda na vedação da válvula do depósito de combustível, mosquetão, danos na tubagem de combustível, válvula de gás de elevação, invólucro ou balonete, insuflador, válvula de descompressão (balões de gás), guincho (balões a gás cativos)\n\n2) Fuga significativa ou perda de gás de elevação (por exemplo: porosidade, válvulas de gás de elevação fora do lugar)\n\n1) Interação com os serviços de navegação aérea (por exemplo: prestação incorreta de serviços, comunicações contraditórias ou desvio em relação ao teor da autorização), que tenha ou possa ter colocado em perigo o veículo mais leve que o ar, os seus ocupantes ou qualquer outra pessoa\n\n2) Violação do espaço aéreo\n\n1) Ocorrência na origem de uma chamada de emergência\n\n2) Incêndio, explosão, fumo ou emanações tóxicas nos veículos mais leves que o ar (para além do funcionamento normal do queimador)\n\n3) Ocupantes do veículo mais leve que o ar ejetados do cesto ou gôndola\n\n4) Incapacitação do piloto, que conduza a falta de aptidão para desempenhar funções\n\n5) Içamento ou arrastamento acidental de tripulantes de terra, que conduza à morte ou ferimento de pessoas\n\n1) Colisão ou quase colisão, no solo ou em voo, com uma aeronave, o solo ou um obstáculo ([^15^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0015)), que tenha ou possa ter colocado em perigo o veículo mais leve que o ar, os seus ocupantes ou qualquer outra pessoa\n\n2) Interferência com o veículo mais leve que o ar de armas de fogo, dispositivos pirotécnicos, papagaios voadores, iluminações laser, lasers de alta potência, sistemas de aeronaves pilotadas à distância, aeromodelos ou meios semelhantes\n\n3) Episódio imprevisto de condições meteorológicas adversas, que tenham ou possam ter colocado em perigo o veículo mais leve que o ar, os seus ocupantes ou qualquer outra pessoa\n\n---"
+  },
+  "6d7cbf2cee2bbb2e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Os obstáculos incluem os veículos.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) n.º 748/2012 da Comissão, de 3 de agosto de 2012, que estabelece as normas de execução relativas à aeronavegabilidade e à certificação ambiental das aeronaves e dos produtos, peças e equipamentos conexos, bem como à certificação das entidades de projeto e produção (JO L 224 de 21.8.2012, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Os obstáculos incluem os veículos.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Trata-se de uma situação em que não foram mantidas as distâncias mínimas de separação prescritas entre as aeronaves ou entre as aeronaves e o espaço aéreo relativamente ao qual são fixadas distâncias mínimas de separação.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0005)) Na ausência das distâncias mínimas de separação prescritas, uma situação em que se considera que as aeronaves passam demasiado próximas umas das outras para os pilotos garantirem uma separação segura.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Por exemplo: serviços de tráfego aéreo (ATS), serviço automático de informação de região terminal (ATIS), serviços meteorológicos, bases de dados de navegação, mapas, cartas, serviço de informação aeronáutica (AIS), manuais.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0007)) Os obstáculos incluem os veículos.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0008)) Os obstáculos incluem os veículos.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0009)) Instruções Técnicas para o Transporte Seguro de Mercadorias Perigosas por Via Aérea (Doc 9284 da ICAO).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0010)) Regulamento de Execução (UE) n.º 923/2012 da Comissão, de 26 de setembro de 2012, que estabelece as regras do ar comuns e as disposições operacionais no respeitante aos serviços e procedimentos de navegação aérea e que altera o Regulamento de Execução (UE) n.º 1035/2011, e os Regulamentos (CE) n.º 1265/2007, (CE) n.º 1794/2006, (CE) n.º 730/2006, (CE) n.º 1033/2006 e (UE) n.º 255/2010 (JO L 281 de 13.10.2012, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0011)) Diretiva 2009/43/CE do Parlamento Europeu e do Conselho, de 6 de maio de 2009, relativa à simplificação das condições das transferências de produtos relacionados com a defesa na Comunidade (JO L 146 de 10.6.2009, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0012)) Só se aplica às operações comerciais, na aceção do artigo 3.º, alínea i), do Regulamento (CE) n.º 216/2008.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0013)) Os obstáculos incluem os veículos.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0014)) Os obstáculos incluem os veículos.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/bb0e5174-83cb-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0015)) Os obstáculos incluem os veículos."
+  },
+  "d3710bddf4706ea9": {
+   "fragment_id": "OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DA AERONAVE TRIPULADA",
+   "type": "divisao",
+   "heading": "OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DA AERONAVE TRIPULADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DA AERONAVE TRIPULADA\n\n*Nota:* O presente anexo está estruturado de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas."
+  },
+  "e63c6dbddf576f01": {
+   "fragment_id": "1. OPERAÇÕES AÉREAS",
+   "type": "divisao",
+   "heading": "1. OPERAÇÕES AÉREAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. OPERAÇÕES AÉREAS"
+  },
+  "71e51d12433e5d37": {
+   "fragment_id": "1.1. Preparação do voo",
+   "type": "divisao",
+   "heading": "1.1. Preparação do voo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.1. Preparação do voo\n\n(1) Utilização de dados incorretos ou de registos errados nos equipamentos usados na navegação ou nos cálculos de desempenho, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(2) Transporte ou tentativa de transporte de mercadorias perigosas em não conformidade com as legislações aplicáveis, incluindo a rotulagem, a embalagem e o manuseamento incorretos de mercadorias perigosas."
+  },
+  "23c850398c0e5f26": {
+   "fragment_id": "1.2. Preparação da aeronave",
+   "type": "divisao",
+   "heading": "1.2. Preparação da aeronave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.2. Preparação da aeronave\n\n(1) Tipo de combustível/energia incorreto ou combustível contaminado.\n\n(2) Ausência de tratamento antigelo/de degelo ou tratamento errado ou inadequado."
+  },
+  "e51bb32f65fe13de": {
+   "fragment_id": "1.3. Descolagem e aterragem",
+   "type": "divisao",
+   "heading": "1.3. Descolagem e aterragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.3. Descolagem e aterragem\n\n(1) Saída de caminho de rolagem ou de pista.\n\n(2) Incursão efetiva ou potencial num caminho de rolagem ou numa pista.\n\n(3) Incursão na área de aproximação final e de descolagem (FATO).\n\n(4) Qualquer descolagem interrompida.\n\n(5) Incapacidade de obter o desempenho requerido ou esperado durante uma descolagem, um borrego ou uma aterragem.\n\n(6) Descolagem, aproximação ou aterragem efetiva ou tentada, com parâmetros de configuração errados.\n\n(7) Embate com a cauda, pá/extremidade da asa ou nacela durante a descolagem ou a aterragem.\n\n(8) Continuação de aproximação sem satisfazer os critérios de aproximação estabilizada definidos pelo operador aéreo.\n\n(9) Continuação de uma aproximação por instrumentos abaixo dos mínimos publicados com referências visuais inadequadas.\n\n(10) Aterragem de precaução ou forçada.\n\n(11) Aterragem curta e longa.\n\n(12) Aterragem dura."
+  },
+  "277be3d531d8b483": {
+   "fragment_id": "1.4. Qualquer fase do voo",
+   "type": "divisao",
+   "heading": "1.4. Qualquer fase do voo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.4. Qualquer fase do voo\n\n(1) Perda de controlo.\n\n(2) Perda de controlo da aeronave, superação da atitude de picada normal, ângulo de pranchamento ou velocidade inadequados para as condições.\n\n(3) Desvio de altitude.\n\n(4) Ativação de qualquer proteção da envolvente de voo, incluindo aviso de perda de sustentação, vibrador do *manche*, empurrador do *manche* e proteções automáticas.\n\n(5) Desvio não intencional da rota planeada ou atribuída de duas vezes o nível de desempenho de navegação exigido ou 10 milhas náuticas, conforme o valor que for inferior.\n\n(6) Superação dos limites constantes do manual de voo da aeronave.\n\n(7) Operação com altímetro incorretamente regulado.\n\n(8) Ocorrências relacionadas com o sopro dos reatores ou com a perturbação aerodinâmica provocada pelos rotores ou hélices, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(9) Interpretação errada do modo automático ou de qualquer informação dada pelo posto de pilotagem à tripulação de voo, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa."
+  },
+  "01df2f0e819e35e9": {
+   "fragment_id": "1.5. Outros tipos de ocorrências",
+   "type": "divisao",
+   "heading": "1.5. Outros tipos de ocorrências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.5. Outros tipos de ocorrências\n\n(1) Libertação não intencional de carga ou de outros equipamentos transportados externamente.\n\n(2) Perda de conhecimento da situação (incluindo o conhecimento do meio ambiente, do modo e do sistema, desorientação espacial, e horizonte temporal).\n\n(3) Qualquer ocorrência em que o desempenho humano tenha diretamente contribuído ou possa ter contribuído para um acidente ou incidente grave."
+  },
+  "3d7bb4faa8905680": {
+   "fragment_id": "2. OCORRÊNCIAS TÉCNICAS",
+   "type": "divisao",
+   "heading": "2. OCORRÊNCIAS TÉCNICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. OCORRÊNCIAS TÉCNICAS"
+  },
+  "426a34eddbf05238": {
+   "fragment_id": "2.1. Estrutura e sistemas",
+   "type": "divisao",
+   "heading": "2.1. Estrutura e sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.1. Estrutura e sistemas\n\n(1) Perda de qualquer parte da estrutura da aeronave em voo.\n\n(2) Perda de um sistema.\n\n(3) Perda de redundância de um sistema.\n\n(4) Fugas de quaisquer fluidos de que resultem perigo de incêndio ou possibilidade de contaminação perigosa da estrutura, sistemas ou equipamentos da aeronave, ou que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(5) Mau funcionamento ou defeito do sistema de combustível com consequências no fornecimento e/ou na distribuição de combustível.\n\n(6) Mau funcionamento ou defeito de qualquer sistema indicador, quando tal resulta em indicações erradas à tripulação.\n\n(7) Mau funcionamento dos comandos de voo, nomeadamente comandos de voo assimétricos ou presos/bloqueados [por exemplo: dispositivos de sustentação (*flaps*/bordos de ataque), de arrasto (*spoilers*), de controlo de atitude (*ailerons*, lemes de profundidade, leme de direção)]."
+  },
+  "5d59125cb735a47f": {
+   "fragment_id": "2.2. Propulsão (incluindo motores, hélices e sistemas de rotor) e unidades auxiliares de potência (APU)",
+   "type": "divisao",
+   "heading": "2.2. Propulsão (incluindo motores, hélices e sistemas de rotor) e unidades auxiliares de potência (APU)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.2. Propulsão (incluindo motores, hélices e sistemas de rotor) e unidades auxiliares de potência (APU)\n\n(1) Avaria ou mau funcionamento significativo de qualquer peça ou comando de uma hélice, rotor ou grupo motopropulsor.\n\n(2) Dano ou avaria do rotor principal/de cauda ou da transmissão e/ou de sistemas equivalentes.\n\n(3) Extinção, corte de motor ou de APU em voo, quando necessário [por exemplo: operações de tempo de desvio alargado (EDTO), lista de equipamento mínimo (MEL)].\n\n(4) Superação das limitações ao funcionamento do motor, incluindo velocidade excessiva ou incapacidade de controlar a velocidade de qualquer componente rotativo de grande velocidade (por exemplo: APU, arrancador pneumático, máquina de ciclo pneumático, motor de turbina a ar, hélice ou rotor).\n\n(5) Avaria ou mau funcionamento de qualquer peça de um motor, grupo motopropulsor, APU ou transmissão, que resulte numa ou mais das seguintes situações:\n\na) Impossibilidade de acionamento do sistema de inversão do impulso;\n\nb) Impossibilidade de controlar a potência, o impulso ou as rpm (rotações por minuto);\n\nc) Não contenção de componentes/fragmentos."
+  },
+  "786119e164023227": {
+   "fragment_id": "3. INTERAÇÃO COM OS SERVIÇOS DE NAVEGAÇÃO AÉREA (ANS) E A GESTÃO DO TRÁFEGO AÉREO (ATM)",
+   "type": "divisao",
+   "heading": "3. INTERAÇÃO COM OS SERVIÇOS DE NAVEGAÇÃO AÉREA (ANS) E A GESTÃO DO TRÁFEGO AÉREO (ATM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. INTERAÇÃO COM OS SERVIÇOS DE NAVEGAÇÃO AÉREA (ANS) E A GESTÃO DO TRÁFEGO AÉREO (ATM)\n\n(1) Concessão de autorização de controlo do tráfego aéreo (ATC) sem condições de segurança.\n\n(2) Perda de comunicação prolongada com a unidade de serviço de tráfego aéreo (ATS).\n\n(3) Instruções contraditórias de diferentes órgãos ATS conduzindo potencialmente a perda de separação.\n\n(4) Interpretação errada de comunicações rádio, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(5) Desvio intencional de instrução ATC, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(6) Interação com uma aeronave não tripulada quando em trânsito no espaço aéreo «U» ([^1^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "260f90eaea3eafa0": {
+   "fragment_id": "4. EMERGÊNCIAS E OUTRAS SITUAÇÕES CRÍTICAS",
+   "type": "divisao",
+   "heading": "4. EMERGÊNCIAS E OUTRAS SITUAÇÕES CRÍTICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. EMERGÊNCIAS E OUTRAS SITUAÇÕES CRÍTICAS\n\n(1) Qualquer ocorrência que conduza a uma declaração de emergência (apelo «MAYDAY») ou situação de urgência (apelo «PAN»).\n\n(2) Qualquer combustão, fusão, fumo, emanação de vapores, formação de centelha, sobreaquecimento, incêndio ou explosão.\n\n(3) Ar contaminado na cabina de pilotagem ou no compartimento de passageiros, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(4) Incapacidade da tripulação de voo ou de cabina de aplicar o procedimento não normal ou de emergência correto para lidar com uma emergência.\n\n(5) Utilização de qualquer equipamento de emergência ou procedimento não normal que afete o desempenho durante o voo ou na aterragem.\n\n(6) Avaria de qualquer sistema ou equipamento de emergência ou de salvamento que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(7) Pressão incontrolável da cabina.\n\n(8) Nível perigosamente baixo de combustível/energia ou quantidade de combustível/energia no destino inferior à reserva final de combustível/energia requerida.\n\n(9) Qualquer utilização do sistema de oxigénio da tripulação por parte desta.\n\n(10) Incapacitação de qualquer membro da tripulação de voo ou de cabina, que resulte na redução do número de tripulantes certificados abaixo do nível mínimo.\n\n(11) Fadiga da tripulação com impacto ou potencial impacto na sua capacidade de desempenhar funções de voo em condições de segurança."
+  },
+  "458f80d3c55a7df4": {
+   "fragment_id": "5. AMBIENTE EXTERNO E METEOROLOGIA",
+   "type": "divisao",
+   "heading": "5. AMBIENTE EXTERNO E METEOROLOGIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. AMBIENTE EXTERNO E METEOROLOGIA\n\n(1) Colisão ou quase colisão, no solo ou em voo, com outra aeronave, o solo ou um obstáculo ([^2^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0002)).\n\n(2) Aviso de resolução do sistema anticolisão de bordo (ACAS RA).\n\n(3) Ativação de um verdadeiro sistema anticolisão no solo, como por exemplo o GPWS (sistema de aviso de proximidade do solo)/TAWS (sistema de perceção e aviso do terreno).\n\n(4) Colisão com animais selvagens, incluindo com aves.\n\n(5) Danos causados por objetos estranhos/fragmentos (FOD).\n\n(6) Episódio não previsto de más condições do pavimento da pista.\n\n(7) Entrada em zona de turbulência de rasto.\n\n(8) Interferência com a aeronave devido a armas de fogo, dispositivos pirotécnicos, papagaios voadores, iluminações laser, luzes de alta potência, lasers, sistemas de aeronaves não tripuladas ([^3^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0003)) (UAS) ou meios semelhantes.\n\n(9) Queda de raio que tenha resultado em danos na aeronave ou perda ou mau funcionamento de qualquer sistema da aeronave.\n\n(10) Episódio de queda de granizo que tenha resultado em danos na aeronave ou na perda ou mau funcionamento de qualquer sistema da aeronave.\n\n(11) Episódio de turbulência forte ou qualquer episódio que resulte em ferimentos nos ocupantes ou relativamente ao qual se considere necessário uma inspeção da aeronave pós-voo para verificação dos danos.\n\n(12) Episódio significativo de cisalhamento do vento ou tempestade, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(13) Episódio de formação de gelo, que resulte em dificuldades de controlo da aeronave, danos na aeronave ou perda ou mau funcionamento de qualquer sistema da aeronave.\n\n(14) Episódio de cinzas vulcânicas."
+  },
+  "68082198667190a7": {
+   "fragment_id": "6. SEGURANÇA",
+   "type": "divisao",
+   "heading": "6. SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. SEGURANÇA\n\n(1) Dificuldades de controlar passageiros embriagados, violentos ou indisciplinados.\n\n(2) Descoberta de passageiro clandestino.\n\n(3) Comportamento anormal de um sistema devido a um incidente de segurança da informação [exemplo: informações ou dados comprometidos, infeção por *software* mal-intencionado, ataques distribuídos de negação de serviço (DDoS)].\n\n(4) Ameaça de bomba ou desvio da aeronave por piratas do ar (aplicável até 31 de dezembro de 2027)."
+  },
+  "c46dbc8dfdf99315": {
+   "fragment_id": "OCORRÊNCIAS RELACIONADAS COM AS CONDIÇÕES TÉCNICAS, A MANUTENÇÃO E A REPARAÇÃO DA AERONAVE",
+   "type": "divisao",
+   "heading": "OCORRÊNCIAS RELACIONADAS COM AS CONDIÇÕES TÉCNICAS, A MANUTENÇÃO E A REPARAÇÃO DA AERONAVE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OCORRÊNCIAS RELACIONADAS COM AS CONDIÇÕES TÉCNICAS, A MANUTENÇÃO E A REPARAÇÃO DA AERONAVE\n\n*Nota*: As ocorrências enumeradas no presente anexo são igualmente pertinentes para os UAS para os quais é exigido um certificado ou uma declaração de projeto nos termos do artigo 56.º, n.^os^ 1 e 5, do Regulamento (UE) 2018/1139."
+  },
+  "7e18c654e498ec2a": {
+   "fragment_id": "1. FABRICO",
+   "type": "divisao",
+   "heading": "1. FABRICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. FABRICO\n\nProdutos, peças ou equipamentos colocados no mercado pela entidade de produção com desvios em relação aos dados de projeto aplicáveis, que podem conduzir a uma situação de potencial falta de segurança identificada juntamente com o titular do certificado-tipo ou da aprovação de projeto."
+  },
+  "9b10699617ee7cb3": {
+   "fragment_id": "2. PROJETO",
+   "type": "divisao",
+   "heading": "2. PROJETO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. PROJETO\n\nQualquer avaria, mau funcionamento, defeito ou outra ocorrência relacionada com um produto, peça ou equipamento que tenha resultado ou possa resultar numa situação de falta de segurança.\n\n*Nota*: Esta lista aplica-se às ocorrências relacionadas com um produto, peça, equipamento ou com a unidade de controlo e de monitorização (CMU) ([^4^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0004)) abrangidos pelo certificado-tipo, certificado-tipo restrito, certificado-tipo suplementar, autorização ETSO e aprovação de projeto de grandes reparações ou qualquer outra aprovação ou declaração relevante considerada como tendo sido emitida em conformidade com o Regulamento (UE) n.º 748/2012 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0005))."
+  },
+  "53568cf5e670955e": {
+   "fragment_id": "3. MANUTENÇÃO E GESTÃO DA AERONAVEGABILIDADE PERMANENTE",
+   "type": "divisao",
+   "heading": "3. MANUTENÇÃO E GESTÃO DA AERONAVEGABILIDADE PERMANENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. MANUTENÇÃO E GESTÃO DA AERONAVEGABILIDADE PERMANENTE\n\n(1) Danos estruturais importantes (por exemplo: fissura, deformação permanente, descolamento, decomposição, combustão, desgaste excessivo ou corrosão) detetados durante as operações de manutenção da aeronave ou de um componente.\n\n(2) Fuga grave ou contaminação de fluidos (por exemplo: fluidos hidráulicos, combustível, óleo, gás ou outros fluidos).\n\n(3) Avaria ou mau funcionamento de qualquer peça de um motor ou grupo motopropulsor e/ou transmissão que resulte numa ou mais das seguintes situações:\n\na) não contenção de componentes/fragmentos;\n\nb) defeito da estrutura de montagem do motor.\n\n(4) Danos, avaria ou defeito da hélice, que possa conduzir à separação, durante o voo, da hélice ou de uma parte importante da hélice e/ou mau funcionamento do comando da hélice.\n\n(5) Danos, avaria ou defeito da caixa de velocidades/fixação do rotor principal, que possa conduzir à separação, em voo, do conjunto do rotor e/ou mau funcionamento do comando do rotor.\n\n(6) Mau funcionamento significativo dos sistemas ou equipamentos de segurança essenciais, incluindo os sistemas ou equipamentos de emergência durante os ensaios de manutenção, ou incapacidade de acionar esses sistemas após a manutenção, incluindo a CMU.\n\n(7) Comportamento anormal de um sistema devido a um incidente de segurança da informação [exemplo: informações ou dados comprometidos, infeção por *software* mal-intencionado, ataques distribuídos de negação de serviço (DDoS)].\n\n(8) Montagem ou instalação incorreta de componentes da aeronave ou da CMU detetada durante uma inspeção ou um procedimento de ensaio que não tinha essa finalidade específica.\n\n(9) Avaliação errada de um defeito grave, ou não-conformidade grave com a lista de equipamento mínimo (MEL) e os procedimentos da caderneta técnica.\n\n(10) Danos graves no sistema de interconexão de instalações elétricas (EWIS).\n\n(11) Qualquer defeito numa peça essencial com uma vida útil limitada, que conduza à sua retirada antes do termo do seu período de vida útil.\n\n(12) Utilização de produtos, equipamento não instalado, componentes ou materiais de origem desconhecida ou suspeita ou de componentes essenciais inutilizáveis.\n\n(13) Dados ou procedimentos de manutenção aplicáveis enganosos, incorretos ou insuficientes, que possam conduzir a erros graves de manutenção, incluindo as questões linguísticas.\n\n(14) Controlo ou aplicação incorretos de limitações à manutenção das aeronaves, procedimentos ou manutenção programada, incluindo a da CMU.\n\n(15) Colocação em serviço de uma aeronave ou CMU saída da manutenção, em caso de não conformidade que coloque em perigo a segurança do voo.\n\n(16) Danos graves causados a uma aeronave, a uma peça, ou à CMU durante as atividades de manutenção devido a manutenção incorreta ou utilização de equipamento de apoio no solo inadequado ou inutilizável, que obriguem a operações de manutenção adicionais.\n\n(17) Identificação de ocorrências relacionadas com a combustão, fusão, fumos, formação de centelha, sobreaquecimento ou incêndio.\n\n(18) Qualquer ocorrência em que o desempenho humano, incluindo a fadiga do pessoal, tenha contribuído diretamente ou possa ter contribuído para um acidente ou incidente grave.\n\n(19) Mau funcionamento significativo, problema de fiabilidade ou problema recorrente de qualidade dos registos, que afete o sistema de registo de parâmetros de voo (nomeadamente o equipamento de registo de dados de voo, o equipamento de registo de ligações de dados ou o equipamento de registo de sons da cabina de pilotagem) ou falta da informação necessária para assegurar o funcionamento do equipamento de registo de parâmetros de voo, incluindo o instalado na CMU.\n\n(20) Utilização ou potencial utilização de uma configuração ou instalação não aprovada da CMU."
+  },
+  "af73d77618c2b925": {
+   "fragment_id": "OCORRÊNCIAS RELACIONADAS COM OS SERVIÇOS E AS INSTALAÇÕES DE NAVEGAÇÃO AÉREA",
+   "type": "divisao",
+   "heading": "OCORRÊNCIAS RELACIONADAS COM OS SERVIÇOS E AS INSTALAÇÕES DE NAVEGAÇÃO AÉREA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OCORRÊNCIAS RELACIONADAS COM OS SERVIÇOS E AS INSTALAÇÕES DE NAVEGAÇÃO AÉREA\n\n*Nota*: O presente anexo está estruturado de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas."
+  },
+  "a0d5da69dbac37ae": {
+   "fragment_id": "1. OCORRÊNCIAS RELACIONADAS COM AS AERONAVES",
+   "type": "divisao",
+   "heading": "1. OCORRÊNCIAS RELACIONADAS COM AS AERONAVES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. OCORRÊNCIAS RELACIONADAS COM AS AERONAVES\n\n(1) Colisão ou quase colisão, no solo ou em voo, entre duas aeronaves, ou entre uma aeronave e um UAS, o solo ou um obstáculo ([^6^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0006)), incluindo uma quase situação de voo controlado contra o solo (quase CFIT).\n\n(2) Não observância das distâncias mínimas de separação ([^7^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0007)).\n\n(3) Separação inadequada ([^8^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0008)).\n\n(4) Aviso de resolução do sistema anticolisão de bordo (ACAS RA).\n\n(5) Colisão com animais selvagens, incluindo com aves.\n\n(6) Saída de caminho de rolagem ou de pista.\n\n(7) Incursão efetiva ou potencial num caminho de rolagem ou numa pista.\n\n(8) Incursão na área de aproximação final e de descolagem (FATO).\n\n(9) Desvio em relação à autorização concedida à aeronave pelo controlo de tráfego aéreo (ATC) ou às respetivas instruções.\n\n(10) Desvio em relação às regras de gestão de tráfego aéreo (ATM) aplicáveis à aeronave:\n\na) Aeronave que se afasta dos procedimentos ATM publicados aplicáveis;\n\nb) Violação do espaço aéreo, incluindo entrada não autorizada num espaço aéreo;\n\nc) Desvio em relação às disposições relativas ao transporte e ao funcionamento do equipamento aeronáutico ligado à gestão do tráfego aéreo, conforme previsto nos regulamentos aplicáveis.\n\n(11) Penetração da aeronave tripulada num espaço aéreo «U» ativo designado dentro de um espaço aéreo controlado.\n\n(12) Ocorrências ligadas a confusões relacionadas com o indicativo de chamada."
+  },
+  "39f4b81e027b6d7f": {
+   "fragment_id": "2. DEGRADAÇÃO OU PERDA TOTAL DE SERVIÇOS OU FUNÇÕES",
+   "type": "divisao",
+   "heading": "2. DEGRADAÇÃO OU PERDA TOTAL DE SERVIÇOS OU FUNÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. DEGRADAÇÃO OU PERDA TOTAL DE SERVIÇOS OU FUNÇÕES\n\n(1) Incapacidade de prestar serviços ATM ou executar funções ATM:\n\na) Incapacidade de prestar serviços de tráfego aéreo ou executar funções ligadas aos serviços de tráfego aéreo;\n\nb) Incapacidade de prestar serviços de gestão do espaço aéreo ou executar funções de gestão do espaço aéreo;\n\nc) Incapacidade de prestar serviços ligados à capacidade e à gestão do fluxo de tráfego aéreo ou executar funções ligadas à capacidade e à gestão do fluxo de tráfego aéreo.\n\n(2) Incapacidade de fornecer ou executar a reconfiguração dinâmica do espaço aéreo «U» (DAR).\n\n(3) Não prestação ou prestação de informações claramente incorretas, corrompidas, inadequadas ou enganosas por quaisquer serviços de apoio ([^9^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0009)), incluindo sobre as más condições do pavimento da pista.\n\n(4) Falha do serviço de comunicação.\n\n(5) Falha do serviço de vigilância.\n\n(6) Falha da função ou do serviço de tratamento e de distribuição de dados.\n\n(7) Falha do serviço de navegação.\n\n(8) Falha de segurança do sistema ATM, que tenha ou possa ter um impacto negativo direto na prestação de serviços em condições de segurança.\n\n(9) Sobrecarga significativa do setor/posição de serviços de tráfego aéreo (ATS), que conduza a uma potencial deterioração do nível de prestação de serviços.\n\n(10) Receção ou interpretação incorreta de comunicações relevantes, incluindo a não-compreensão da língua utilizada, nos casos em que teve ou poderia ter tido um impacto negativo direto na prestação de serviços em condições de segurança.\n\n(11) Perda prolongada de comunicação com uma aeronave ou com outro órgão ATS."
+  },
+  "7dc5baa59893033d": {
+   "fragment_id": "3. OUTRAS OCORRÊNCIAS",
+   "type": "divisao",
+   "heading": "3. OUTRAS OCORRÊNCIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. OUTRAS OCORRÊNCIAS\n\n(1) Declaração de emergência (apelo «MAYDAY») ou situação de urgência (apelo «PAN»).\n\n(2) Interferência externa significativa com os serviços de navegação aérea [por exemplo, estações de rádio que emitem na frequência FM, que interferem com o sistema de aterragem por instrumentos (ILS), farol omnidirecional em VHF (VOR) e comunicação].\n\n(3) Interferência com uma aeronave, um órgão ATS ou uma transmissão de comunicações via rádio, incluindo devido a armas de fogo, dispositivos pirotécnicos, papagaios voadores, iluminações laser, luzes de alta potência, lasers, sistemas de aeronaves não tripuladas (UAS) ou meios semelhantes.\n\n(4) Alijamento de combustível.\n\n(5) Comportamento anormal de um sistema devido a um incidente de segurança da informação [exemplo: informações ou dados comprometidos, infeção por *software* mal-intencionado, ataques distribuídos de negação de serviço (DDoS)].\n\n(6) Fadiga com impacto ou potencial impacto na capacidade de prestar serviços de navegação aérea ou executar funções ligadas ao tráfego aéreo em condições de segurança.\n\n(7) Qualquer ocorrência em que o desempenho humano tenha diretamente contribuído ou possa ter contribuído para um acidente ou incidente grave.\n\n(8) Ameaça de bomba ou desvio da aeronave por piratas do ar (aplicável até 31 de dezembro de 2027)."
+  },
+  "e0fb2a7f93b95999": {
+   "fragment_id": "1. GESTÃO DA SEGURANÇA DO AERÓDROMO",
+   "type": "divisao",
+   "heading": "1. GESTÃO DA SEGURANÇA DO AERÓDROMO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. GESTÃO DA SEGURANÇA DO AERÓDROMO\n\n*Nota*: A presente secção está estruturada de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas."
+  },
+  "990babb58a0fca16": {
+   "fragment_id": "1.1. Ocorrências relacionadas com aeronaves e obstáculos",
+   "type": "divisao",
+   "heading": "1.1. Ocorrências relacionadas com aeronaves e obstáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.1. Ocorrências relacionadas com aeronaves e obstáculos\n\n(1) Colisão ou quase colisão, no solo ou em voo, entre duas aeronaves ou entre uma aeronave e o solo ou um obstáculo ([^10^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0010)).\n\n(2) Colisão com animais selvagens, incluindo com aves.\n\n(3) Saída de caminho de rolagem ou de pista.\n\n(4) Incursão efetiva ou potencial num caminho de rolagem ou numa pista.\n\n(5) Incursão ou saída da área de aproximação final e de descolagem (FATO).\n\n(6) Inobservância pelas aeronaves ou veículos de autorizações, instruções ou restrições aquando das operações na área de movimento de um aeródromo (por exemplo: pista, caminho de rolagem ou área restrita de um aeródromo errados).\n\n(7) Objetos estranhos na área de movimento do aeródromo, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(8) Presença de obstáculos, no aeródromo ou nas suas imediações, não comunicados na publicação de informação aeronáutica (AIP) ou via aviso à navegação aérea (NOTAM) e/ou que não estejam marcados ou iluminados de forma adequada.\n\n(9) Interferências de veículos, equipamentos ou pessoas nas manobras de recuo com reboque, manobras de recuo com motor ou rolagem.\n\n(10) Presença de passageiros ou pessoas não autorizadas, sem supervisão, na plataforma de estacionamento.\n\n(11) Efeito de sopro dos reatores, de corrente descendente do rotor ou de sopro da hélice.\n\n(12) Declaração de emergência (apelo «MAYDAY») ou situação de urgência (apelo «PAN»)."
+  },
+  "44e6f457ed19979c": {
+   "fragment_id": "1.2. Degradação ou perda total de serviços ou funções",
+   "type": "divisao",
+   "heading": "1.2. Degradação ou perda total de serviços ou funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.2. Degradação ou perda total de serviços ou funções\n\n(1) Perda ou falhas de comunicação entre:\n\na) O aeródromo, um veículo ou o pessoal de terra e os serviços de tráfego aéreo ou os serviços de gestão da plataforma de estacionamento;\n\nb) Os serviços de gestão da plataforma de estacionamento e a aeronave, um veículo ou os serviços de tráfego aéreo.\n\n(2) Avaria, mau funcionamento ou defeito importante de equipamentos ou sistemas do aeródromo, que tenha ou possa ter colocado em perigo a aeronave ou os seus ocupantes.\n\n(3) Comportamento anormal de um sistema devido a um incidente de segurança da informação [exemplo: informações ou dados comprometidos, infeção por *software* mal-intencionado, ataques distribuídos de negação de serviço (DDoS)].\n\n(4) Deficiências significativas na iluminação, marcação ou sinalização do aeródromo.\n\n(5) Avaria do sistema de alerta de emergência do aeródromo.\n\n(6) Indisponibilidade dos serviços de salvamento e de combate a incêndios de acordo com os requisitos aplicáveis."
+  },
+  "7e9f00ad3e28eb40": {
+   "fragment_id": "1.3. Outras ocorrências",
+   "type": "divisao",
+   "heading": "1.3. Outras ocorrências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.3. Outras ocorrências\n\n(1) Incêndio, fumo ou explosões nas instalações, imediações e equipamentos do aeródromo, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(2) Operações de UAS não autorizadas no aeródromo ou nas suas imediações que ponham ou possam pôr em perigo a operação segura da aeronave.\n\n(3) Ausência de notificação de uma mudança significativa nas condições de exploração do aeródromo, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(4) Ausência de tratamento antigelo/de degelo ou tratamento errado ou inadequado.\n\n(5) Derramamentos significativos durante o abastecimento.\n\n(6) Carregamento de combustível/energia ou de fluidos essenciais contaminados ou do tipo incorreto (incluindo oxigénio, azoto, óleo e água potável).\n\n(7) Incapacidade de lidar com as más condições do pavimento da pista.\n\n(8) Qualquer ocorrência em que o desempenho humano tenha diretamente contribuído ou possa ter contribuído para um acidente ou incidente grave.\n\n(9) Ocorrências relacionadas com a segurança dos aeródromos (por exemplo: entrada ilícita, sabotagem, ameaça de bomba) (aplicável até 31 de dezembro de 2027)."
+  },
+  "a1180573b98f2e53": {
+   "fragment_id": "2. ASSISTÊNCIA EM ESCALA A AERONAVES",
+   "type": "divisao",
+   "heading": "2. ASSISTÊNCIA EM ESCALA A AERONAVES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. ASSISTÊNCIA EM ESCALA A AERONAVES\n\n*Nota:* A presente secção está estruturada de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas."
+  },
+  "d2d592f7b3f4c53e": {
+   "fragment_id": "2.1. Ocorrências relacionadas com as aeronaves e os aeródromos",
+   "type": "divisao",
+   "heading": "2.1. Ocorrências relacionadas com as aeronaves e os aeródromos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.1. Ocorrências relacionadas com as aeronaves e os aeródromos\n\n(1) Colisão ou quase colisão, no solo ou em voo, entre duas aeronaves ou entre uma aeronave e o solo ou um obstáculo ([^11^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0011)).\n\n(2) Incursão na pista ou no caminho de rolagem.\n\n(3) Saída de pista ou de caminho de rolagem.\n\n(4) Contaminação significativa da estrutura, dos sistemas e do equipamento da aeronave resultante do transporte de bagagem, carga ou correio.\n\n(5) Interferências de veículos, equipamentos ou pessoas nas manobras de recuo com reboque, manobras de recuo com motor ou rolagem.\n\n(6) Objetos estranhos na área de movimento do aeródromo, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(7) Presença de passageiros ou pessoas não autorizadas, sem supervisão, na plataforma de estacionamento.\n\n(8) Incêndio, fumo ou explosões nas instalações, imediações e equipamentos do aeródromo, que tenham ou possam ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(9) Comportamento anormal de um sistema devido a um incidente de segurança da informação [exemplo: informações ou dados comprometidos, infeção por *software* mal-intencionado, DDoS).\n\n(10) Ocorrências relacionadas com a segurança dos aeródromos (por exemplo: entrada ilícita, sabotagem, ameaça de bomba) (aplicável até 31 de dezembro de 2027)."
+  },
+  "0cbc695bfc67037f": {
+   "fragment_id": "2.2. Degradação ou perda total de serviços ou funções",
+   "type": "divisao",
+   "heading": "2.2. Degradação ou perda total de serviços ou funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.2. Degradação ou perda total de serviços ou funções\n\n(1) Perda ou falha da comunicação com a aeronave, o veículo, os serviços de tráfego aéreo ou os serviços de gestão da plataforma de estacionamento.\n\n(2) Avaria, mau funcionamento ou defeito importante de equipamentos ou sistemas do aeródromo, que tenha ou possa ter colocado em perigo a aeronave ou os seus ocupantes.\n\n(3) Deficiências significativas na iluminação, marcação ou sinalização do aeródromo."
+  },
+  "87bb7d7930bf36ec": {
+   "fragment_id": "2.3. Ocorrências específicas da assistência em escala",
+   "type": "divisao",
+   "heading": "2.3. Ocorrências específicas da assistência em escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.3. Ocorrências específicas da assistência em escala\n\n(1) Assistência ou embarque incorretos de passageiros, manuseamento ou carregamento incorretos de bagagem, correio ou carga, que possa ter um efeito significativo na massa e/ou equilíbrio da aeronave (incluindo erros graves nos cálculos do manifesto de carga).\n\n(2) Retirada de equipamento de apoio ao embarque que coloque em perigo os ocupantes da aeronave.\n\n(3) Arrumação ou proteção incorreta da bagagem, correio ou carga que possa, por qualquer razão, representar um perigo para a aeronave, o seu equipamento ou ocupantes, ou impedir a evacuação de emergência.\n\n(4) Transporte, tentativa de transporte ou movimentação de mercadorias perigosas, que tenha ou possa ter colocado em perigo a segurança da operação ou conduzido a uma situação de falta de segurança (por exemplo: incidente ou acidente com mercadorias perigosas, conforme definido nas Instruções Técnicas da OACI ([^12^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0012))).\n\n(5) Não conformidade dos procedimentos em matéria de assistência em escala e manutenção de aeronaves, especialmente os aplicáveis às operações de degelo, reabastecimento/carregamento, ou carregamento de carga, incluindo a instalação ou remoção incorreta de equipamento.\n\n(6) Derramamentos significativos durante o abastecimento.\n\n(7) Carregamento de quantidades incorretas de combustível/energia, suscetíveis de ter um impacto significativo na autonomia, desempenho, equilíbrio ou resistência estrutural da aeronave.\n\n(8) Carregamento de combustível/energia ou de fluidos essenciais contaminados ou do tipo incorreto (incluindo oxigénio, azoto, óleo e água potável).\n\n(9) Avaria, mau funcionamento ou defeito dos equipamentos no solo utilizados para a assistência em escala, que resultem em danos ou danos potenciais na aeronave [por exemplo: barra de reboque ou grupo gerador (GPU)].\n\n(10) Ausência de tratamento antigelo/de degelo ou tratamento errado ou inadequado.\n\n(11) Danos causados na aeronave por equipamentos ou veículos de assistência em escala, incluindo danos não declarados anteriormente.\n\n(12) Qualquer ocorrência em que o desempenho humano tenha diretamente contribuído ou possa ter contribuído para um acidente ou incidente grave.\n\n(13) Comportamento anormal de um sistema devido a um incidente de segurança da informação [exemplo: informações ou dados comprometidos, infeção por *software* mal-intencionado, ataques distribuídos de negação de serviço (DDoS)].\n\n(14) Não conformidade da conciliação de passageiros ou bagagem (aplicável até 31 de dezembro de 2027)."
+  },
+  "c791beee964245df": {
+   "fragment_id": "OCORRÊNCIAS RELACIONADAS COM AERONAVES TRIPULADAS QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, INCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR",
+   "type": "divisao",
+   "heading": "OCORRÊNCIAS RELACIONADAS COM AERONAVES TRIPULADAS QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, INCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OCORRÊNCIAS RELACIONADAS COM AERONAVES TRIPULADAS QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, INCLUINDO OS PLANADORES E OS VEÍCULOS MAIS LEVES QUE O AR\n\nPara efeitos do presente anexo:\n\na) «Aeronaves que não sejam aeronaves a motor complexas»: aeronaves que não sejam as definidas no anexo I, ponto 129, do Regulamento de Execução (UE) 2023/1020 da Comissão ([^13^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0013));\n\nb) «Planador»: mesma aceção do artigo 2.º, ponto 117, do Regulamento de Execução (UE) n.º 923/2012 da Comissão ([^14^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0014));\n\nc) «Veículos mais leves que o ar»: mesma aceção do ponto ML10 da secção relativa às definições dos termos usados na lista do anexo da Diretiva 2009/43/CE do Parlamento Europeu e do Conselho ([^15^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0015))"
+  },
+  "7d17d2586f688d0e": {
+   "fragment_id": "1. AERONAVES TRIPULADAS QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, EXCLUINDO PLANADORES E VEÍCULOS MAIS LEVES QUE O AR",
+   "type": "divisao",
+   "heading": "1. AERONAVES TRIPULADAS QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, EXCLUINDO PLANADORES E VEÍCULOS MAIS LEVES QUE O AR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. AERONAVES TRIPULADAS QUE NÃO SEJAM AERONAVES A MOTOR COMPLEXAS, EXCLUINDO PLANADORES E VEÍCULOS MAIS LEVES QUE O AR\n\n*Observação 1*: A presente secção está estruturada de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas.\n\n*Observação 2:* O presente anexo V contém as ocorrências e outras informações relacionadas com a segurança a comunicar na operação de aeronaves tripuladas que não sejam aeronaves a motor complexas, incluindo planadores e veículos mais leves que o ar."
+  },
+  "67da80dee1835913": {
+   "fragment_id": "1.1. Operações aéreas",
+   "type": "divisao",
+   "heading": "1.1. Operações aéreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.1. Operações aéreas\n\n(1) Perda de controlo não intencional.\n\n(2) Aterragem fora da área de aterragem planeada.\n\n(3) Incapacidade ou impossibilidade de obter o nível de desempenho esperado da aeronave em condições normais durante a descolagem, a subida ou a aterragem.\n\n(4) Incursão na pista.\n\n(5) Saída de pista.\n\n(6) Qualquer voo efetuado com uma aeronave que não estava em perfeitas condições de navegabilidade ou cuja preparação não tinha sido completada, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(7) Voo não planeado realizado em condições meteorológicas de voo por instrumentos (IMC) com uma aeronave não certificada para regras de voo por instrumentos (IFR) ou piloto não qualificado para IFR, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(8) Libertação não intencional de carga ([^16^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0016))."
+  },
+  "e9fda4408406ca35": {
+   "fragment_id": "1.2. Ocorrências técnicas",
+   "type": "divisao",
+   "heading": "1.2. Ocorrências técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.2. Ocorrências técnicas\n\n(1) Vibração intensa anormal (por exemplo: vibração ao nível do *aileron* ou do leme de profundidade, ou da hélice).\n\n(2) Comandos de voo que não funcionam corretamente ou desligados.\n\n(3) Avaria ou deterioração substancial da estrutura da aeronave.\n\n(4) Perda de qualquer parte da estrutura da aeronave ou instalação em voo.\n\n(5) Avaria de um motor, rotor, hélice, sistema de combustível ou outro sistema essencial.\n\n(6) Fuga de fluidos, que tenha resultado em perigo de incêndio ou na possibilidade de contaminação perigosa da estrutura, dos sistemas ou do equipamento da aeronave ou colocado em risco os ocupantes."
+  },
+  "005279136442b41e": {
+   "fragment_id": "1.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo",
+   "type": "divisao",
+   "heading": "1.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo\n\n(1) Interação com serviços de navegação aérea (por exemplo: prestação incorreta de serviços, comunicações contraditórias ou desvio em relação ao teor da autorização), que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa.\n\n(2) Violação do espaço aéreo."
+  },
+  "310e52115120880e": {
+   "fragment_id": "1.4. Emergências e outras situações críticas",
+   "type": "divisao",
+   "heading": "1.4. Emergências e outras situações críticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.4. Emergências e outras situações críticas\n\n(1) Ocorrência na origem de uma chamada de emergência.\n\n(2) Incêndio, explosão, fumos, gases tóxicos ou emanações tóxicas na aeronave.\n\n(3) Incapacitação do piloto, que conduza a falta de aptidão para desempenhar funções."
+  },
+  "f7186c8060858c0d": {
+   "fragment_id": "1.5. Ambiente externo e meteorologia",
+   "type": "divisao",
+   "heading": "1.5. Ambiente externo e meteorologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.5. Ambiente externo e meteorologia\n\n(1) Colisão no solo ou em voo, com outra aeronave, o solo ou um obstáculo ([^17^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0017)).\n\n(2) Quase colisão, no solo ou em voo, com outra aeronave, o solo ou um obstáculo ([^18^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0018)), que exija uma manobra de emergência para evitar a colisão.\n\n(3) Colisão com animais selvagens, incluindo com aves, que tenha resultado em danos na aeronave ou na perda ou mau funcionamento de qualquer serviço essencial.\n\n(4) Interferência com a aeronave devido a armas de fogo, dispositivos pirotécnicos, papagaios voadores, iluminações laser, luzes de alta potência, lasers, sistemas de aeronaves não tripuladas (UAS) ou meios semelhantes.\n\n(5) Queda de raio que resulte em danos ou perda de funções da aeronave.\n\n(6) Episódio de turbulência forte que resulte em ferimentos nos ocupantes da aeronave ou na necessidade de uma inspeção da aeronave pós-voo para verificação dos danos.\n\n(7) Formação de gelo, incluindo no carburador, que tenha ou possa ter colocado em perigo a aeronave, os seus ocupantes ou qualquer outra pessoa."
+  },
+  "2a08a80be5996813": {
+   "fragment_id": "1.6. Segurança da informação",
+   "type": "divisao",
+   "heading": "1.6. Segurança da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.6. Segurança da informação\n\n(1) Comportamento anormal de um sistema devido a um incidente de segurança da informação [exemplo: informações ou dados comprometidos, infeção por *software* mal-intencionado, ataques distribuídos de negação de serviço (DDoS)]."
+  },
+  "e97b151b590ac288": {
+   "fragment_id": "1.7. Ocorrências relacionadas com o espaço «U»",
+   "type": "divisao",
+   "heading": "1.7. Ocorrências relacionadas com o espaço «U»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.7. Ocorrências relacionadas com o espaço «U»\n\n(1) Penetração num espaço aéreo «U» designado num espaço aéreo não controlado sem um dispositivo de visibilidade eletrónica ativo ([^19^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0019)).\n\n(2) Mau funcionamento significativo, problema de fiabilidade ou problema recorrente de qualidade que afete as instalações ou os dispositivos de visibilidade eletrónica.\n\n(3) Interação a curta distância com uma aeronave não tripulada quando em trânsito no espaço aéreo «U»."
+  },
+  "bf63d827ef192e8c": {
+   "fragment_id": "2. PLANADORES",
+   "type": "divisao",
+   "heading": "2. PLANADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. PLANADORES\n\n*Nota*: A presente secção está estruturada de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas."
+  },
+  "1d5fe552f30256b3": {
+   "fragment_id": "2.1. Operações aéreas",
+   "type": "divisao",
+   "heading": "2.1. Operações aéreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.1. Operações aéreas\n\n(1) Perda de controlo não intencional.\n\n(2) Ocorrência em que o piloto do planador foi incapaz de soltar o cabo de guincho ou a corda do rebocador e teve de recorrer a procedimentos de emergência.\n\n(3) Ato de soltar o cabo de guincho ou a corda do rebocador, que tenha ou possa ter colocado em perigo o planador, os seus ocupantes ou qualquer outra pessoa.\n\n(4) No caso de um planador motorizado, avaria de um motor durante a descolagem.\n\n(5) Qualquer voo efetuado com um planador que não estava em perfeitas condições de navegabilidade ou cuja preparação incompleta tenha ou possa ter colocado em perigo o planador, os seus ocupantes ou qualquer outra pessoa."
+  },
+  "28505f5f3c86bf71": {
+   "fragment_id": "2.2. Ocorrências técnicas",
+   "type": "divisao",
+   "heading": "2.2. Ocorrências técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.2. Ocorrências técnicas\n\n(1) Vibração intensa anormal (por exemplo: vibração ao nível do *aileron* ou do leme de profundidade, ou da hélice).\n\n(2) Comandos de voo que não funcionam corretamente ou desligados.\n\n(3) Dano ou deterioração substancial da estrutura do planador.\n\n(4) Perda de qualquer parte da estrutura do planador ou instalação em voo."
+  },
+  "e8ce2b8dc2c961af": {
+   "fragment_id": "2.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo",
+   "type": "divisao",
+   "heading": "2.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo\n\n(1) Interação com serviços de navegação aérea (por exemplo: prestação incorreta de serviços, comunicações contraditórias ou desvio em relação ao teor da autorização), que tenha ou possa ter colocado em perigo o planador, os seus ocupantes ou qualquer outra pessoa.\n\n(2) Violações do espaço aéreo."
+  },
+  "10e8948599565421": {
+   "fragment_id": "2.4. Emergências e outras situações críticas",
+   "type": "divisao",
+   "heading": "2.4. Emergências e outras situações críticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.4. Emergências e outras situações críticas\n\n(1) Ocorrência na origem de uma chamada de emergência.\n\n(2) Qualquer situação em que não exista qualquer zona de aterragem segura disponível.\n\n(3) Incêndio, explosão, fumos, gases tóxicos ou emanações tóxicas no planador.\n\n(4) Incapacitação do piloto, que conduza a falta de aptidão para desempenhar funções."
+  },
+  "a1a21d1b04fb135f": {
+   "fragment_id": "2.5. Ambiente externo e meteorologia",
+   "type": "divisao",
+   "heading": "2.5. Ambiente externo e meteorologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.5. Ambiente externo e meteorologia\n\n(1) Colisão, no solo ou em voo, com uma aeronave, o solo ou um obstáculo ([^20^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0020)).\n\n(2) Quase colisão, no solo ou em voo, com uma aeronave, o solo ou um obstáculo ([^21^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0021)), que exija uma manobra de emergência para evitar a colisão.\n\n(3) Interferência com o planador devido a armas de fogo, dispositivos pirotécnicos, papagaios voadores, iluminações laser, luzes de alta potência, lasers, sistemas de aeronaves não tripuladas (UAS) ou meios semelhantes.\n\n(4) Queda de raio, que resulte em danos no planador."
+  },
+  "f155f21c48eee01e": {
+   "fragment_id": "2.6. Ocorrências relacionadas com o espaço «U»",
+   "type": "divisao",
+   "heading": "2.6. Ocorrências relacionadas com o espaço «U»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.6. Ocorrências relacionadas com o espaço «U»\n\n(1) Penetração num espaço aéreo «U» designado num espaço aéreo não controlado sem um dispositivo de visibilidade eletrónica ativo.\n\n(2) Mau funcionamento significativo, problema de fiabilidade ou problema recorrente de qualidade que afete as instalações ou os dispositivos de visibilidade eletrónica.\n\n(3) Interação a curta distância com uma aeronave não tripulada quando em trânsito no espaço aéreo «U»."
+  },
+  "6e8144ffe7108009": {
+   "fragment_id": "3. VEÍCULOS MAIS LEVES QUE O AR (BALÕES E DIRIGÍVEIS)",
+   "type": "divisao",
+   "heading": "3. VEÍCULOS MAIS LEVES QUE O AR (BALÕES E DIRIGÍVEIS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. VEÍCULOS MAIS LEVES QUE O AR (BALÕES E DIRIGÍVEIS)\n\n*Nota*: A presente secção está estruturada de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas."
+  },
+  "718119c4571992ef": {
+   "fragment_id": "3.1. Operações aéreas",
+   "type": "divisao",
+   "heading": "3.1. Operações aéreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3.1. Operações aéreas\n\n(1) Qualquer voo efetuado com um veículo mais leve que o ar, que não estava em perfeitas condições de navegabilidade ou cuja preparação incompleta tenha ou possa ter colocado em perigo o veículo mais leve que o ar, os seus ocupantes ou qualquer outra pessoa.\n\n(2) Extinção permanente não intencional da chama-piloto."
+  },
+  "d7d553c922c84b7f": {
+   "fragment_id": "3.2. Ocorrências técnicas",
+   "type": "divisao",
+   "heading": "3.2. Ocorrências técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3.2. Ocorrências técnicas\n\n(1) Avaria de qualquer das seguintes peças ou comandos: tubo imersor do depósito de combustível, roldana do invólucro, cabo de comando, amarra, fenda na vedação da válvula do queimador, fenda na vedação da válvula do depósito de combustível, mosquetão, danos na tubagem de combustível, válvula de gás de elevação, invólucro ou balonete, insuflador, válvula de descompressão (balões de gás), guincho (balões a gás cativos).\n\n(2) Fuga significativa ou perda de gás de elevação (por exemplo: porosidade, válvulas de gás de elevação fora do lugar)."
+  },
+  "148b71b244f4f4ef": {
+   "fragment_id": "3.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo",
+   "type": "divisao",
+   "heading": "3.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3.3. Interação com os serviços de navegação aérea e a gestão do tráfego aéreo\n\n(1) Interação com serviços de navegação aérea (por exemplo: prestação incorreta de serviços, comunicações contraditórias ou desvio em relação ao teor da autorização), que tenha ou possa ter colocado em perigo o veículo mais leve que o ar, os seus ocupantes ou qualquer outra pessoa.\n\n(2) Violação do espaço aéreo."
+  },
+  "52840040eabab0d3": {
+   "fragment_id": "3.4. Emergências e outras situações críticas",
+   "type": "divisao",
+   "heading": "3.4. Emergências e outras situações críticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3.4. Emergências e outras situações críticas\n\n(1) Ocorrência na origem de uma chamada de emergência.\n\n(2) Incêndio, explosão, fumos ou emanações tóxicas nos veículos mais leves que o ar (para além do funcionamento normal do queimador).\n\n(3) Ocupantes do veículo mais leve que o ar ejetados do cesto ou gôndola.\n\n(4) Incapacitação do piloto, que conduza a falta de aptidão para desempenhar funções.\n\n(5) Içamento ou arrastamento acidental de tripulantes de terra, que conduza à morte ou ferimento de pessoas."
+  },
+  "46b3e04d4a92f35c": {
+   "fragment_id": "3.5. Ambiente externo e meteorologia",
+   "type": "divisao",
+   "heading": "3.5. Ambiente externo e meteorologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3.5. Ambiente externo e meteorologia\n\n(1) Colisão ou quase colisão, no solo ou em voo, com uma aeronave, o solo ou um obstáculo ([^22^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0022)), que tenha ou possa ter colocado em perigo o veículo mais leve que o ar, os seus ocupantes ou qualquer outra pessoa.\n\n(2) Interferência com o veículo mais leve que o ar devido a armas de fogo, dispositivos pirotécnicos, papagaios voadores, iluminações laser, luzes de alta potência, lasers, sistemas de aeronaves não tripuladas (UAS) ou meios semelhantes.\n\n(3) Episódio imprevisto de condições meteorológicas adversas, que tenham ou possam ter colocado em perigo o veículo mais leve que o ar, os seus ocupantes ou qualquer outra pessoa."
+  },
+  "28c3de17dbbd7a08": {
+   "fragment_id": "3.6. Ocorrências relacionadas com o espaço «U»",
+   "type": "divisao",
+   "heading": "3.6. Ocorrências relacionadas com o espaço «U»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3.6. Ocorrências relacionadas com o espaço «U»\n\n(1) Penetração num espaço aéreo «U» designado num espaço aéreo não controlado sem um dispositivo de visibilidade eletrónica ativo.\n\n(2) Mau funcionamento significativo, problema de fiabilidade ou problema recorrente de qualidade que afete as instalações ou os dispositivos de visibilidade eletrónica.\n\n(3) Interação a curta distância com uma aeronave não tripulada quando em trânsito no espaço aéreo «U»."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "42ddb8de8caa0d64": {
+   "fragment_id": "OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DO SISTEMA DE AERONAVE NÃO TRIPULADA (UAS)",
+   "type": "divisao",
+   "heading": "OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DO SISTEMA DE AERONAVE NÃO TRIPULADA (UAS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OCORRÊNCIAS RELACIONADAS COM A OPERAÇÃO DO SISTEMA DE AERONAVE NÃO TRIPULADA (UAS)\n\n*Observação 1:* O presente anexo está estruturado de tal forma que as ocorrências pertinentes se relacionam com os tipos de atividades durante as quais, de acordo com a experiência, são normalmente observadas, a fim de facilitar a sua comunicação. No entanto, esta apresentação não deve ser interpretada como significando que, a terem lugar fora do âmbito das atividades a que estão ligadas na lista, essas ocorrências não devem ser comunicadas.\n\n*Observação 2:* O presente anexo contém as ocorrências e outras informações relacionadas com a segurança a comunicar na operação de UAS para os quais é exigido um certificado ou uma declaração de projeto nos termos do artigo 56.º, n.^os^ 1 e 5, do Regulamento (UE) 2018/1139.\n\n*Observação 3:* As ocorrências no ambiente do espaço «U» enumeradas no ponto 6 devem ser comunicadas por pilotos remotos e operadores de UAS quando realizam as suas operações no espaço aéreo «U»."
+  },
+  "f01297dd917c99c1": {
+   "fragment_id": "1.1. Planeamento de voo e preparação do UAS",
+   "type": "divisao",
+   "heading": "1.1. Planeamento de voo e preparação do UAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.1. Planeamento de voo e preparação do UAS\n\n(1) A operação de UAS é planeada num volume operacional que excede as limitações descritas nas autorizações emitidas ou os privilégios constantes do certificado de operador de UAS ligeiro (LUC).\n\n(2) Planeamento inadequado da operação de UAS e das medidas de atenuação conexas, que tenham ou possam ter colocado em perigo qualquer aeronave ou qualquer outra pessoa [exemplo: procedimentos de contingência e de emergência, volume operacional, requisito de desempenho em matéria de atenuação tática (TMPR) ([^23^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0023))].\n\n(3) Utilização de dados incorretos ou introduzidos incorretamente no UAS ou nos equipamentos usados na navegação ou nos cálculos de desempenho, que conduzam a mau funcionamento ou avaria do UAS, que tenham ou possam ter colocado em perigo qualquer aeronave ou pessoa.\n\n(4) Configuração do UAS diferente das instruções definidas ou autorizadas pelo fabricante ou pela autoridade competente (exemplo: carga útil, configuração do *software*, etc.), que tenha ou possa ter colocado em perigo a aeronave não tripulada ou qualquer outra aeronave ou pessoa.\n\n(5) Transporte ou tentativa de transporte de mercadorias perigosas em não conformidade com as legislações aplicáveis, incluindo a rotulagem, a embalagem e o manuseamento incorretos de mercadorias perigosas.\n\n(6) Fonte de energia incorreta, inadequada ou degradada (incluindo combustível).\n\n(7) Ausência de tratamento antigelo/de degelo ou tratamento errado ou inadequado."
+  },
+  "d3c5565e08208cdf": {
+   "fragment_id": "1.2. Descolagem e aterragem — Operações de/para aeródromos ou vertiportos",
+   "type": "divisao",
+   "heading": "1.2. Descolagem e aterragem — Operações de/para aeródromos ou vertiportos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.2. Descolagem e aterragem — Operações de/para aeródromos ou vertiportos\n\n(1) Incursões na pista, incursão na área de aproximação final e de descolagem (FATO).\n\n(2) Saída de pista.\n\n(3) Qualquer descolagem interrompida.\n\n(4) Descolagem, aproximação ou aterragem efetiva ou tentada, com parâmetros de configuração errados.\n\n(5) Embate com a cauda, pá/extremidade da asa ou nacela durante a descolagem ou a aterragem.\n\n(6) Ocorrências relacionadas com o sopro dos reatores ou com a perturbação dos rotores ou hélices, que tenham ou possam ter colocado em perigo qualquer aeronave ou pessoa.\n\n(7) Aterragem dura, curta e longa.\n\n(8) Danos/detritos causados por objetos estranhos/fragmentos (FOD) ou más condições do pavimento da superfície de descolagem e aterragem."
+  },
+  "83076de542c89236": {
+   "fragment_id": "1.3. Descolagem e aterragem — Operações fora de aeródromos ou vertiportos",
+   "type": "divisao",
+   "heading": "1.3. Descolagem e aterragem — Operações fora de aeródromos ou vertiportos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.3. Descolagem e aterragem — Operações fora de aeródromos ou vertiportos\n\n(1) Descolagem, aterragem fora da área de aterragem planeada.\n\n(2) Medidas de segurança e de proteção inadequadas na zona no solo que tenham ou possam ter colocado em perigo qualquer pessoa."
+  },
+  "2e8df2fbfa46e6b7": {
+   "fragment_id": "1.4. Qualquer fase do voo",
+   "type": "divisao",
+   "heading": "1.4. Qualquer fase do voo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.4. Qualquer fase do voo\n\n(1) Perda de controlo da operação.\n\n(2) Perda prolongada de referência visual para operações em linha de vista (VLOS) (exemplo: devido a condições meteorológicas adversas ou obstáculos).\n\n(3) Perda de conhecimento da situação [exemplo: incluindo condições ambientais, conhecimento do modo e sistema, carga de trabalho excessiva, desorientação espacial, horizonte temporal e interação inadequada com o equipamento de controlo remoto da aeronave não tripulada (unidade de controlo e de monitorização, CMU) ([^24^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#E0024))].\n\n(4) Gestão incorreta do combustível ou da energia (exemplo: nível perigosamente baixo de combustível/energia ou quantidade de combustível/energia no destino inferior à reserva final de combustível/energia requerida).\n\n(5) Incapacidade ou impossibilidade de obter o nível de desempenho esperado da aeronave em condições normais durante a descolagem, a subida ou a aterragem.\n\n(6) Superação das limitações da aeronave definidas pelo fabricante.\n\n(7) Operação com altímetro incorretamente regulado.\n\n(8) Interpretação errada do modo de funcionamento da automatização do UAS ou de qualquer informação da CMU fornecida à tripulação remota que tenha ou possa ter colocado em perigo qualquer aeronave ou pessoa.\n\n(9) Incapacidade de transmitir a identificação remota ou a identificação da aeronave.\n\n(10) Libertação não intencional de carga ou de outros equipamentos transportados externamente.\n\n(11) Desvios em relação ao volume operacional autorizado que excede as limitações descritas nas autorizações operacionais emitidas ou os privilégios constantes do certificado de operador de UAS ligeiro (LUC) ou do plano de voo autorizado do UAS, incluindo, entre outros:\n\na) Operação não autorizada de UAS sobre concentrações de pessoas.\n\nb) Violação do espaço aéreo.\n\nc) Infrações às zonas geográficas, caso as operações de UAS não sejam permitidas ou a autorização de voo exigida não tiver sido obtida."
+  },
+  "f428f66d5bb2d612": {
+   "fragment_id": "1.5. Ocorrências adicionais para operações de UAS com ocupantes a bordo",
+   "type": "divisao",
+   "heading": "1.5. Ocorrências adicionais para operações de UAS com ocupantes a bordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1.5. Ocorrências adicionais para operações de UAS com ocupantes a bordo\n\n(1) Sofrimento físico, incapacidade da tripulação que tenha ou possa ter colocado em perigo a aeronave não tripulada ou qualquer outra aeronave ou pessoa.\n\n(2) Ar contaminado no compartimento de passageiros, que tenha ou possa ter colocado em perigo os seus ocupantes ou qualquer outra pessoa.\n\n(3) Dificuldades de controlar passageiros embriagados, violentos ou indisciplinados.\n\n(4) Descoberta de passageiro clandestino."
+  },
+  "209142957e400733": {
+   "fragment_id": "2.1. Estrutura e sistemas",
+   "type": "divisao",
+   "heading": "2.1. Estrutura e sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.1. Estrutura e sistemas\n\n(1) Perda de qualquer parte da aeronave não tripulada em voo.\n\n(2) Fugas de quaisquer fluidos de que resultem perigo de incêndio ou possibilidade de contaminação perigosa do sistema de aeronave não tripulada, ou que tenham ou possam ter colocado em perigo a aeronave não tripulada ou qualquer outra pessoa.\n\n(3) Mau funcionamento ou funcionamento anormal dos comandos de voo.\n\n(4) Mau funcionamento, perda ou degradação significativa da ligação de comando e controlo, incluindo avarias que afetem a sua disponibilidade, desempenho, continuidade, integridade ou segurança, que tenham ou possam ter colocado em perigo qualquer aeronave ou pessoa.\n\n(5) Mau funcionamento do sistema anticolisão.\n\n(6) Mau funcionamento do sistema automático de contingência ou de emergência ou do sistema que impede a aeronave não tripulada de sair do volume operacional (exemplo: regresso à origem, aterragem automática, enjaulamento geográfico, sistema de cessação de voo).\n\n(7) Qualquer outra avaria, perda, mau funcionamento ou dano da aeronave não tripulada ou dos seus sistemas que tenha ou possa ter colocado em perigo qualquer outra aeronave ou pessoa.\n\n(8) Qualquer avaria, perda, mau funcionamento ou dano da CMU que tenha ou possa ter colocado em perigo a aeronave não tripulada ou qualquer outra aeronave ou pessoa."
+  },
+  "87ea0372123d9425": {
+   "fragment_id": "2.2. Propulsão (incluindo motores, hélices e sistemas de rotor) e unidades auxiliares de potência (APU)",
+   "type": "divisao",
+   "heading": "2.2. Propulsão (incluindo motores, hélices e sistemas de rotor) e unidades auxiliares de potência (APU)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.2. Propulsão (incluindo motores, hélices e sistemas de rotor) e unidades auxiliares de potência (APU)\n\n(1) Extinção, corte de motor ou perda de unidades de sustentação e tração ou da APU, quando necessário.\n\n(2) Superação das limitações ao funcionamento do motor, incluindo velocidade excessiva ou incapacidade de controlar a velocidade de qualquer componente rotativo de grande velocidade (exemplo: APU, arrancador pneumático, máquina de ciclo pneumático, motor de turbina a ar, hélice ou rotor).\n\n(3) Avaria ou mau funcionamento de qualquer peça de um motor, unidades de sustentação e tração, APU ou transmissão, que resulte numa ou mais das seguintes situações:\n\na) Impossibilidade de acionamento do sistema de inversão do impulso;\n\nb) Impossibilidade de controlar a potência, o impulso ou as rpm (rotações por minuto);\n\nc) Não contenção de componentes/fragmentos."
+  },
+  "3c802bb63b34c807": {
+   "fragment_id": "3. INTERAÇÃO COM ATM/ANS",
+   "type": "divisao",
+   "heading": "3. INTERAÇÃO COM ATM/ANS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. INTERAÇÃO COM ATM/ANS\n\n(1) Concessão de autorização de controlo do tráfego aéreo (ATC) ou instruções do mesmo sem condições de segurança.\n\n(2) Perda de comunicação prolongada com a unidade de serviços de tráfego aéreo (ATS).\n\n(3) Instruções contraditórias de diferentes órgãos ATS conduzindo potencialmente a perda de separação.\n\n(4) Interpretação errada de comunicações rádio, que tenha ou possa ter colocado em perigo a aeronave não tripulada ou qualquer outra aeronave ou pessoa.\n\n(5) Desvio intencional de instrução ATC, que tenha ou possa ter colocado em perigo a aeronave não tripulada ou qualquer outra aeronave ou pessoa.\n\n(6) Desvio de altitude ou de nível de voo."
+  },
+  "e0a34b292b1b27b0": {
+   "fragment_id": "4. EMERGÊNCIAS E OUTRAS SITUAÇÕES CRÍTICAS",
+   "type": "divisao",
+   "heading": "4. EMERGÊNCIAS E OUTRAS SITUAÇÕES CRÍTICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. EMERGÊNCIAS E OUTRAS SITUAÇÕES CRÍTICAS\n\n(1) Colisão ou quase colisão, no solo ou em voo, com outra aeronave, o solo ou um obstáculo.\n\n(2) Qualquer manobra de emergência realizada pelo UAS para impedir qualquer colisão, no solo ou em voo, com outra aeronave, o solo ou um obstáculo.\n\n(3) Qualquer ocorrência que conduza a uma declaração de emergência.\n\n(4) Ativação de um procedimento de emergência para terminar o voo.\n\n(5) Incapacidade de aplicar os procedimentos de contingência ou de emergência corretos.\n\n(6) Qualquer combustão, fusão, fumo, emanação de vapores, formação de centelha, sobreaquecimento, incêndio ou explosão no UAS.\n\n(7) Qualquer combustão, fusão, fumo, emanação de vapores, formação de centelha, sobreaquecimento, incêndio ou explosão na CMU.\n\n(8) Incapacidade da tripulação remota que controla a CMU, que tenha ou possa ter colocado em perigo qualquer aeronave ou pessoa."
+  },
+  "0540ba166e5be7dc": {
+   "fragment_id": "5. AMBIENTE EXTERNO E METEOROLOGIA",
+   "type": "divisao",
+   "heading": "5. AMBIENTE EXTERNO E METEOROLOGIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. AMBIENTE EXTERNO E METEOROLOGIA\n\n(1) Colisão ou quase colisão, no solo ou em voo, com outra aeronave, o solo ou um obstáculo.\n\n(2) Aviso de resolução do sistema anticolisão de bordo (ACAS RA).\n\n(3) Ativação de um verdadeiro sistema anticolisão no solo, como por exemplo o GPWS (sistema de aviso de proximidade do solo)/TAWS (sistema de perceção e aviso do terreno).\n\n(4) Colisão com animais selvagens, incluindo com aves, que tenha posto em perigo a aeronave não tripulada.\n\n(5) Danos causados por objetos estranhos/fragmentos (FOD).\n\n(6) Episódio não previsto de más condições do pavimento da pista.\n\n(7) Episódios de turbulência de esteira que tenham ou possam ter colocado em perigo uma aeronave ou pessoa.\n\n(8) Interferência com a aeronave não tripulada devido a armas de fogo, dispositivos pirotécnicos, papagaios voadores, iluminações laser, luzes de alta potência, lasers, sistemas de aeronaves não tripuladas (UAS), ou sistemas anti-UAS, ou meios semelhantes.\n\n(9) Qualquer condição ambiental grave que tenha causado danos à aeronave, dificuldades de controlo ou perda ou mau funcionamento de qualquer sistema da aeronave (exemplos: queda de raio, turbulência grave, cisalhamento do vento, condições de gelo, cinzas vulcânicas, etc.)."
+  },
+  "5166b8e9ed4f7830": {
+   "fragment_id": "6. OCORRÊNCIAS RELACIONADAS COM O ESPAÇO «U»",
+   "type": "divisao",
+   "heading": "6. OCORRÊNCIAS RELACIONADAS COM O ESPAÇO «U»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. OCORRÊNCIAS RELACIONADAS COM O ESPAÇO «U»\n\n(1) Operações de UAS no espaço aéreo «U» não conformes com as condições operacionais e os constrangimentos do espaço aéreo aplicáveis ou realizadas com um sistema de aeronave não tripulada não conforme com as capacidades e os requisitos de desempenho exigidos para os UAS.\n\n(2) Informações, instruções ou serviços em falta, incorretos, atrasados ou enganosos, disponibilizados por um prestador de serviços no espaço «U» (USSP), que tenham ou possam ter colocado em perigo a aeronave não tripulada ou qualquer outra aeronave ou pessoa.\n\n(3) Não conformidade com a autorização de voo (exemplo: ausência de autorização de voo, não ativação da autorização de voo, desvios da autorização de voo no espaço ou no tempo).\n\n(4) Saída não autorizada do espaço aéreo «U».\n\n(5) Utilização indevida dos serviços do espaço «U», que conduza à perda de conhecimento da situação.\n\n(6) Incapacidade de executar o procedimento de reconfiguração dinâmica do espaço aéreo (DAR).\n\n(7) Espaço insuficiente entre a aeronave não tripulada e qualquer aeronave tripulada.\n\n(8) Interação com uma aeronave tripulada num espaço aéreo «U» ativo designado num espaço aéreo controlado.\n\n(9) Interação com uma aeronave tripulada não visível no espaço aéreo «U» designado num espaço aéreo não controlado.\n\n(10) Interação com uma aeronave não tripulada não cooperante no espaço aéreo «U»."
+  },
+  "77e8e23c7ef33c85": {
+   "fragment_id": "7. OUTRAS OCORRÊNCIAS",
+   "type": "divisao",
+   "heading": "7. OUTRAS OCORRÊNCIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. OUTRAS OCORRÊNCIAS\n\n(1) Qualquer ocorrência em que o desempenho humano, incluindo a fadiga e a formação/qualificação inadequada do pessoal do operador, bem como a comunicação entre a tripulação, tenha contribuído diretamente ou possa ter contribuído para um acidente ou incidente grave."
+  },
+  "05cf2be9569da9ba": {
+   "fragment_id": "8. SEGURANÇA DA INFORMAÇÃO",
+   "type": "divisao",
+   "heading": "8. SEGURANÇA DA INFORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. SEGURANÇA DA INFORMAÇÃO\n\n(1) Comportamento anormal de um sistema devido a um incidente de segurança da informação [exemplo: informações ou dados comprometidos, infeção por *software* mal-intencionado, ataques distribuídos de negação de serviço (DDoS)].\n\n---"
+  },
+  "ed4137e7788455e6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Nos termos do artigo 2.º, ponto 1, do Regulamento de Execução (UE) 2021/664, entende-se por «espaço aéreo “U” »: uma zona geográfica de UAS designada pelos Estados-Membros, onde as operações de UAS só são autorizadas com o apoio de serviços do espaço «U».\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Os obstáculos incluem os veículos.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Nos termos do artigo 3.º, ponto 3, do Regulamento Delegado (UE) 2019/945 da Comissão, de 12 de março de 2019, relativo às aeronaves não tripuladas e aos operadores de países terceiros de sistemas de aeronaves não tripuladas (JO L 152 de 11.6.2019, p. 1, ELI: [http://data.europa.eu/eli/reg_del/2019/945/oj](http://data.europa.eu/eli/reg_del/2019/945/oj)), entende-se por «[s]istema de aeronave não tripulada (“UAS”): uma aeronave não tripulada, na aceção do artigo 3.º, ponto 30, do Regulamento (UE) 2018/1139, e a sua unidade de controlo e de monitorização».\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Nos termos do artigo 3.º, ponto 38, do Regulamento Delegado (UE) 2019/945, entende-se por «[u]nidade de controlo e de monitorização (CMU): o equipamento para controlar e monitorizar remotamente a aeronave não tripulada, tal como definido no artigo 3.º, ponto 32, do Regulamento (UE) 2018/1139».\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0005)) Regulamento (UE) n.º 748/2012 da Comissão, de 3 de agosto de 2012, que estabelece as normas de execução relativas à aeronavegabilidade e à certificação ambiental das aeronaves e dos produtos, peças e equipamentos conexos, bem como à certificação das entidades de projeto e produção (JO L 224 de 21.8.2012, p. 1, ELI: [http://data.europa.eu/eli/reg/2012/748/oj](http://data.europa.eu/eli/reg/2012/748/oj)).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Os obstáculos incluem os veículos.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0007)) Trata-se de uma situação em que não foram mantidas as distâncias mínimas de separação prescritas entre as aeronaves ou entre as aeronaves e o espaço aéreo relativamente ao qual são fixadas distâncias mínimas de separação.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0008)) Na ausência das distâncias mínimas de separação prescritas, uma situação em que se considera que as aeronaves passam demasiado próximas umas das outras para os pilotos garantirem uma separação segura.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0009)) Por exemplo: serviços de tráfego aéreo (ATS), serviço automático de informação terminal (ATIS), serviços meteorológicos, bases de dados de navegação, mapas, cartas, serviço de informação aeronáutica (AIS), manuais.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0010)) Os obstáculos incluem os veículos.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0011)) Os obstáculos incluem os veículos.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0012)) Instruções Técnicas para o Transporte Seguro de Mercadorias Perigosas por Via Aérea (Doc. 9284 da OACI).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0013)) Regulamento de Execução (UE) 2023/1020 da Comissão, de 24 de maio de 2023, que altera o Regulamento (UE) n.º 965/2012 no que respeita às operações de helicópteros de serviços de emergência médica (JO L 137 de 25.5.2023, p. 1, ELI: [http://data.europa.eu/eli/reg_impl/2023/1020/oj](http://data.europa.eu/eli/reg_impl/2023/1020/oj)).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0014)) Regulamento de Execução (UE) n.º 923/2012 da Comissão, de 26 de setembro de 2012, que estabelece as regras do ar comuns e as disposições operacionais no respeitante aos serviços e procedimentos de navegação aérea e que altera o Regulamento de Execução (UE) n.º 1035/2011, e os Regulamentos (CE) n.º 1265/2007, (CE) n.º 1794/2006, (CE) n.º 730/2006, (CE) n.º 1033/2006 e (UE) n.º 255/2010 (JO L 281 de 13.10.2012, p. 1, ELI: [http://data.europa.eu/eli/reg_impl/2012/923/oj](http://data.europa.eu/eli/reg_impl/2012/923/oj)).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0015)) Diretiva 2009/43/CE do Parlamento Europeu e do Conselho, de 6 de maio de 2009, relativa à simplificação das condições das transferências de produtos relacionados com a defesa na Comunidade (JO L 146 de 10.6.2009, p. 1, ELI: [http://data.europa.eu/eli/dir/2009/43/oj](http://data.europa.eu/eli/dir/2009/43/oj)).\n\n> ([^16^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0016)) Só se aplica às operações comerciais, na aceção do artigo 3.º, ponto 24, do Regulamento (UE) 2018/1139, sendo «[t]ransporte aéreo comercial»: uma operação de aeronave realizada para transportar passageiros, carga ou correio, mediante remuneração ou outra retribuição.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0017)) Os obstáculos incluem os veículos.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0018)) Os obstáculos incluem os veículos.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0019)) Visibilidade eletrónica para aeronaves tripuladas no espaço aéreo «U», de acordo com o Regulamento de Execução (UE) 2021/666 da Comissão, de 22 de abril de 2021, que altera o Regulamento de Execução (UE) n.º 923/2012 no que diz respeito aos requisitos aplicáveis à aviação tripulada que opera no espaço aéreo «U» (JO L 139 de 23.4.2021, p. 187, ELI: [http://data.europa.eu/eli/reg_impl/2021/666/oj](http://data.europa.eu/eli/reg_impl/2021/666/oj)).\n\n> ([^20^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0020)) Os obstáculos incluem os veículos.\n\n> ([^21^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0021)) Os obstáculos incluem os veículos.\n\n> ([^22^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0022)) Os obstáculos incluem os veículos.\n\n> ([^23^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0023)) O TMPR consiste em medidas utilizadas nas avaliações dos riscos dos *drones* para evitar colisões em voo, que dão resposta ao risco aéreo residual.\n\n> ([^24^](http://publications.europa.eu/resource/cellar/a860e016-9b3c-11f1-b25c-01aa75ed71a1.0019.02/DOC_1#src.E0024)) Nos termos do artigo 3.º, ponto 38, do Regulamento Delegado (UE) 2019/945, entende-se por «[u]nidade de controlo e de monitorização (CMU)»: o equipamento para controlar e monitorizar remotamente a aeronave não tripulada, tal como definido no artigo 3.º, ponto 32, do Regulamento (UE) 2018/1139."
+  }
+ }
+}

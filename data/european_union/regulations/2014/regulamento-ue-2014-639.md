@@ -36,6 +36,153 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-01'
+version_history:
+  file: regulamento-ue-2014-639.versoes.json
+  count: 5
+  source_lastmod: '2023-01-01'
+  versions:
+  - date: '2015-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-01-01'
+    amending: eu:celex:32016R0141:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2016/141 DA COMISSÃO de 30 de novembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Prados permanentes e práticas locais estabelecidas
+    - Altera Artigo 9.º — Produção de cânhamo
+    - Altera Artigo 38.º — Exigências aplicáveis aos regimes de certificação nacionais ou regionais
+    - Altera Artigo 42.º — Reconversão em caso de incumprimento da obrigação relativa às zonas de prados permanentes ambientalmente
+      sensíveis
+    - Altera Artigo 43.º — Cálculo da proporção de prados permanentes
+    - Altera Artigo 44.º — Manutenção da proporção de prados permanentes
+    - Altera Artigo 49.º — Acesso das pessoas coletivas ao pagamento para os jovens agricultores
+    - Altera Artigo 53.º — Condições de concessão do apoio
+    - Altera Artigo 54.º — Coerência e cúmulo de apoio
+    - Altera Artigo 66.º — Notificações relativas ao pagamento para os jovens agricultores
+    - Altera Artigo 67.º — Notificações relativas ao apoio associado voluntário
+    - Altera Teor das informações a comunicar à Comissão nos termos do artigo 67.º, n.º 1
+    - Altera Notas
+    - Adita Artigo 53.º-A — Transferência de fundos entre medidas
+    - Adita Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3 ([^28^](http://publications.europa.eu/resource/cellar/1b24366b-72c2-44fd-888e-1bbfa37eba79.0015.02/DOC_1#E0028))
+    - Suprime Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3 ([^28^](http://publications.europa.eu/resource/cellar/9825d64d-09ad-410c-bea6-5b0e37db4903.0015.02/DOC_1#E0028))
+  - date: '2017-07-03'
+    amending: eu:celex:32017R1155:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2017/1155 DA COMISSÃO de 15 de fevereiro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Prados permanentes e práticas locais estabelecidas
+    - Altera Artigo 24.º — Requisitos para a ativação dos direitos ao pagamento
+    - Altera Artigo 38.º — Exigências aplicáveis aos regimes de certificação nacionais ou regionais
+    - Altera Artigo 40.º — Cálculo das partes das diferentes culturas para a diversificação das culturas
+    - Altera Artigo 42.º — Reconversão em caso de incumprimento da obrigação relativa às zonas de prados permanentes ambientalmente
+      sensíveis
+    - Altera Artigo 43.º — Cálculo da proporção de prados permanentes
+    - Altera Artigo 44.º — Manutenção da proporção de prados permanentes
+    - Altera Artigo 45.º — Critérios adicionais para os tipos de superfície de interesse ecológico
+    - Altera Artigo 49.º — Acesso das pessoas coletivas ao pagamento para os jovens agricultores
+    - Altera Artigo 53.º — Condições de concessão do apoio
+    - Altera Artigo 54.º — Coerência e cúmulo de apoio
+    - Altera Artigo 64.º — Notificações relativas ao pagamento de base
+    - Altera Artigo 65.º — Notificações relativas à ecologização
+    - Altera Artigo 67.º — Notificações relativas ao apoio associado voluntário
+    - Altera Notas
+    - Adita Artigo 9.º — Cânhamo
+    - Adita Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3 ([^1^](http://publications.europa.eu/resource/cellar/54176f37-e3d3-4c4a-b848-dceaa33f8a6c.0015.02/DOC_1#E0013))
+    - Adita ANEXO III
+    - Adita Método da União para a determinação quantitativa do Δ9-tetra-hidrocanabinol das variedades de cânhamo
+    - Adita 1. Âmbito de aplicação
+    - Adita 1.1. Procedimento A
+    - Adita 1.2. Procedimento B
+    - Adita 2. Amostragem
+    - Adita 2.1. Amostras
+    - Adita 2.2. Dimensão da amostra
+    - Adita 2.3. Secagem e armazenagem das amostras
+    - Adita 3. Determinação do teor de THC
+    - Adita 3.1. Preparação da amostra para análise
+    - Adita 3.2. Reagentes e solução de extração
+    - Adita 3.3. Extração do THC
+    - Adita 3.4. Cromatografia em fase gasosa
+    - Adita a) Equipamento
+    - Adita b) Gama de calibração
+    - Adita c) Condições de ensaio
+    - Adita 4. Resultados
+    - Suprime Artigo 9.º — Produção de cânhamo
+    - Suprime Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3 ([^28^](http://publications.europa.eu/resource/cellar/1b24366b-72c2-44fd-888e-1bbfa37eba79.0015.02/DOC_1#E0028))
+  - date: '2018-05-16'
+    amending: eu:celex:32018R0707:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/707 DA COMISSÃO de 28 de fevereiro de 2018
+    changes:
+    - Altera Artigo 7.º — Prados permanentes e práticas locais estabelecidas
+    - Altera Artigo 9.º — Cânhamo
+    - Altera Artigo 38.º — Exigências aplicáveis aos regimes de certificação nacionais ou regionais
+    - Altera Artigo 42.º — Reconversão em caso de incumprimento da obrigação relativa às zonas de prados permanentes ambientalmente
+      sensíveis
+    - Altera Artigo 43.º — Cálculo da proporção de prados permanentes
+    - Altera Artigo 44.º — Manutenção da proporção de prados permanentes
+    - Altera Artigo 52.º — Princípios gerais
+    - Altera Artigo 53.º — Condições de concessão do apoio
+    - Altera Artigo 53.º-A — Transferência de fundos entre medidas
+    - Altera Artigo 54.º — Coerência e cúmulo de apoio
+    - Altera Artigo 67.º — Notificações relativas ao apoio associado voluntário
+    - Altera Teor das informações a comunicar à Comissão nos termos do artigo 67.º, n.º 1
+    - Altera 1.1. Procedimento A
+    - Altera Notas
+    - Adita Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3 ([^1^](http://publications.europa.eu/resource/cellar/13616152-f5d8-426e-96e3-67ca3032a734.0015.02/DOC_1#E0013))
+    - Suprime Fatores de conversão e de ponderação a que se refere o artigo 46.º, n.º 3 ([^1^](http://publications.europa.eu/resource/cellar/54176f37-e3d3-4c4a-b848-dceaa33f8a6c.0015.02/DOC_1#E0013))
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime ÂMBITO DE APLICAÇÃO E DISPOSIÇÕES GERAIS
+    - Suprime SECÇÃO 1
+    - Suprime Âmbito de aplicação e princípios gerais
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Princípios gerais
+    - Suprime Artigo 3.º — Reduções devidas à disciplina financeira
+    - Suprime SECÇÃO 2
+    - Suprime Disposições relacionadas com as definições do Regulamento (UE) n.º 1307/2013
+    - Suprime Artigo 4.º — Quadro dos critérios aplicáveis à manutenção da superfície agrícola num estado adequado para pastoreio
+      ou cultivo
+    - Suprime Artigo 5.º — Enquadramento das atividades mínimas nas superfícies agrícolas naturalmente mantidas num estado
+      adequado para pastoreio ou cultivo
+    - Suprime Artigo 6.º — Predominância de erva ou outras forrageiras herbáceas em prados permanentes
+    - Suprime Artigo 7.º — Prados permanentes e práticas locais estabelecidas
+    - Suprime Artigo 8.º — Coeficiente de redução em conformidade com o artigo 32.º, n.º 5, do Regulamento (UE) n.º 1307/2013
+    - Suprime Artigo 9.º — Cânhamo
+    - Suprime SECÇÃO 3
+    - Suprime Agricultor ativo
+    - Suprime Artigo 10.º — Casos em que as superfícies agrícolas são constituídas, principalmente, por superfícies agrícolas
+      naturalmente mantidas num estado adequado para pastoreio ou cultivo
+    - Suprime Artigo 11.º — Receitas obtidas com atividades não agrícolas
+    - Suprime Artigo 12.º — Montante dos pagamentos diretos a que se refere o artigo 9.º, n.^os^ 2 e 4, do Regulamento (UE)
+      n.º 1307/2013 e o artigo 13.º, n.º 2, do presente regulamento
+    - Suprime Artigo 13.º — Critérios para provar que as atividades agrícolas não são insignificantes e que a principal atividade
+      ou objeto social consiste no exercício de uma atividade agrícola
+    - Suprime CAPÍTULO 2
+    - Suprime REGIME DE PAGAMENTO DE BASE E REGIME DE PAGAMENTO ÚNICO POR SUPERFÍCIE
+    - Suprime Normas de execução do regime de pagamento de base previstas no título III, capítulo 1, secções 1, 2, 3 e 5,
+      do Regulamento (UE) n.º 1307/2013
+    - Suprime Subsecção 1
+    - Suprime Primeira atribuição dos direitos ao pagamento
+    - Suprime Artigo 14.º — Casos de herança, alteração do estatuto jurídico ou denominação e fusões e cisões
+    - Suprime Artigo 15.º — Estabelecimento de hectares elegíveis para efeitos do artigo 24.º, n.º 2, e do artigo 39.º, n.º
+      2, do Regulamento (UE) n.º 1307/2013
+    - Suprime Artigo 16.º — Limitação ao abrigo do artigo 24.º, n.º 6, do Regulamento (UE) n.º 1307/2013
+    - Suprime Artigo 17.º — Determinação do valor dos direitos ao pagamento em aplicação dos artigos 26.º e 40.º do Regulamento
+      (UE) n.º 1307/2013
+    - Suprime Artigo 18.º — Estabelecimento definitivo do valor e do número de direitos ao pagamento
+    - Suprime Artigo 19.º — Estabelecimento do valor dos direitos ao pagamento em casos de dificuldades excecionais
+    - Suprime Artigo 20.º — Cláusula contratual privada em caso de venda
+    - Suprime Artigo 21.º — Cláusula contratual privada em caso de arrendamento
+    - Suprime Artigo 22.º — Beneficiários nos termos do artigo 24.º, n.º 1, do Regulamento (UE) n.º 1307/2013
+    - Suprime Subsecção 2
+    - Suprime Ativação e transferência de direitos
+    - Suprime Artigo 23.º — Cálculo do valor dos direitos ao pagamento
+    - Suprime Artigo 24.º — Requisitos para a ativação dos direitos ao pagamento
 identifiers:
   celex: 32014R0639
   eli: http://data.europa.eu/eli/reg_del/2014/639/oj
@@ -50,7 +197,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0da242db-f84b-11e3-831f-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/0564781c-9d9d-11ed-b508-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0639-20230101
-  retrieved_at: '2026-10-22T02:36:55Z'
+  retrieved_at: '2026-10-22T16:35:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T08:35:19.704+02:00'
 integrity:
@@ -59,9 +206,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:55Z'
-  notes: Texto consolidado 02014R0639-20230101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:35:08Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2014-639.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -360,16 +507,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:55Z'
+  checked_at: '2026-10-22T16:35:08Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02014R0639-20140620: versão indisponível (Sem expressão na língua por para CELEX 02014R0639-20140620.)'
   errors: []
 ---
 

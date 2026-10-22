@@ -34,6 +34,39 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-01'
+version_history:
+  file: diretiva-ue-2016-1164.versoes.json
+  count: 3
+  source_lastmod: '2022-01-01'
+  versions:
+  - date: '2016-07-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-01-01'
+    amending: eu:celex:32017L0952:por
+    amending_title: DIRETIVA (UE) 2017/952 DO CONSELHO de 29 de maio de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Regra da limitação dos juros
+    - Altera Artigo 5.º — Tributação à saída
+    - Altera Artigo 7.º — Regra das sociedades estrangeiras controladas
+    - Altera Artigo 9.º — Assimetrias híbridas
+    - Altera Artigo 10.º — Revisão
+    - Altera Artigo 11.º — Transposição
+    - Altera Artigo 13.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 9.º-B — Assimetrias de residência fiscal
+  - date: '2022-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Tributação à saída
+    - Altera Notas
+    - Adita Artigo 9.º-A — Assimetrias híbridas inversas
 identifiers:
   celex: 32016L1164
   eli: http://data.europa.eu/eli/dir/2016/1164/oj
@@ -48,7 +81,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/029ea67e-4d76-11e6-89bd-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/5b1ee753-4c71-11ec-91ac-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016L1164-20220101
-  retrieved_at: '2026-10-22T03:00:38Z'
+  retrieved_at: '2026-10-22T16:49:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T12:50:25.937+01:00'
 integrity:
@@ -57,9 +90,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:38Z'
-  notes: Texto consolidado 02016L1164-20220101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:49:49Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2016-1164.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -186,29 +219,19 @@ relationships:
   source: null
 article_structure:
   article_count: 15
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:38Z'
+  checked_at: '2026-10-22T16:49:49Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2016/1164 do Conselho, de 12 de julho de 2016
-
-> 02016L1164 — PT — 01.01.2022 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017L0952) — [DIRETIVA (UE) 2017/952 DO CONSELHO de 29 de maio de 2017](http://publications.europa.eu/resource/celex/32017L0952) — L 144 — 1 — 7.6.2017
-
-## DIRETIVA (UE) 2016/1164 DO CONSELHO
 
 de 12 de julho de 2016
 
