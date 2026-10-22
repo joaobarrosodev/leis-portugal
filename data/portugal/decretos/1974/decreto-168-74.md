@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/168-1974-411344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad370ac0834e0d51329e5f691dca7e01b42c96f3b76a359d50bb6bc8c456c982
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7c9d0d308db7e9c39c0688fabaf4ada4d73ce32f0ce3d2f24ff287a8bc73ab7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:250457:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250457:por
+  label: Alterado o art. 6.º do presente diploma, pelo(a) Decreto n.º 96/77 - Diário da República n.º 156/1977, Série I de
+    1977-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/96-1977-250457
+  date: '1977-07-08'
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:09Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +109,7 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea a), 8.º, 9.º e 11.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitas a servidão militar as áreas confinantes com as instalações do Centro Receptor do COMIBERLANT e da Estação de Comunicações por Satélites Ibéria, que lhe é adstrita, definidas como segue:
+Artigo 1.º Ficam sujeitas a servidão militar as áreas confinantes com as instalações do Centro Receptor do COMIBERLANT e da Estação de Comunicações por Satélites Ibéria, que lhe é adstrita, definidas como segue:
 
 a) Área compreendida entre a circunferência de raio igual a 1000 m com centro na Estação Receptora do COMIBERLANT e a vedação das instalações;
 
@@ -103,7 +117,7 @@ b) Área compreendida entre a circunferência de raio igual a 400 m com centro n
 
 c) Áreas compreendidas nos sectores circulares com vértice na antena da Estação de Satélites Ibéria e limitados pelos azimutes verdadeiros e arcos de circunferência indicados no quadro anexo.
 
-###### Art. 2.º - 1. Nas áreas indicadas nas alíneas a) e b) do artigo anterior é proibida, sem licença da autoridade militar competente, a execução de quaisquer trabalhos e actividades seguintes:
+Art. 2.º - 1. Nas áreas indicadas nas alíneas a) e b) do artigo anterior é proibida, sem licença da autoridade militar competente, a execução de quaisquer trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
 
@@ -123,21 +137,21 @@ h) Outros trabalhos ou actividades que possam prejudicar o funcionamento das ins
 
 2. Os proprietários de qualquer equipamento eléctrico que venha a existir na zona de segurança que interfira com o funcionamento das infra-estruturas instaladas ficam obrigados a interromper imediatamente o funcionamento dessa aparelhagem, mediante simples notificação da entidade referida no artigo 7.º, podendo, no caso de não vir a ser convenientemente reparado, ser selado o equipamento causador de interferências e canceladas as autorizações concedidas nos termos do presente decreto.
 
-###### Art. 3.º Nas áreas definidas na alínea c) do artigo 1.º são proibidas construções ou levantamentos de quaisquer obstáculos, incluindo árvores, cuja altura exceda as subtendidas pelos ângulos verticais indicados no quadro anexo, medidos a partir do nível horizontal do terreno, na vertical da antena da Estação de Satélites.
+Art. 3.º Nas áreas definidas na alínea c) do artigo 1.º são proibidas construções ou levantamentos de quaisquer obstáculos, incluindo árvores, cuja altura exceda as subtendidas pelos ângulos verticais indicados no quadro anexo, medidos a partir do nível horizontal do terreno, na vertical da antena da Estação de Satélites.
 
-###### Art. 4.º Os parâmetros operacionais de todas as estações transmissoras que se pretendam instalar num raio de 40 km da Estação de Satélites Ibéria deverão ser coordenados com o Secretariado-Geral da Defesa Nacional, por modo a não prejudicarem o bom funcionamento de quaisquer instalações do respectivo âmbito.
+Art. 4.º Os parâmetros operacionais de todas as estações transmissoras que se pretendam instalar num raio de 40 km da Estação de Satélites Ibéria deverão ser coordenados com o Secretariado-Geral da Defesa Nacional, por modo a não prejudicarem o bom funcionamento de quaisquer instalações do respectivo âmbito.
 
-###### Art. 5.º - 1. A concessão de licença a que se faz referência neste decreto compete ao Secretariado-Geral da Defesa Nacional, depois de ouvidos o Estado-Maior da Armada e outros departamentos militares interessados.
+Art. 5.º - 1. A concessão de licença a que se faz referência neste decreto compete ao Secretariado-Geral da Defesa Nacional, depois de ouvidos o Estado-Maior da Armada e outros departamentos militares interessados.
 
 2. As licenças concedidas nos termos deste artigo, bem como quaisquer condições impostas na sua concessão, são comunicadas pelo Secretariado-Geral da Defesa Nacional ao Ministério da Marinha para efeitos do disposto nos artigos seguintes.
 
-###### Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando Naval do Continente.
+Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando Naval do Continente.
 
-###### Art. 7.º As demolições das obras feitas ilegalmente e a aplicação de multas consequentes são da competência da Direcção das Infra-Estruturas Navais.
+Art. 7.º As demolições das obras feitas ilegalmente e a aplicação de multas consequentes são da competência da Direcção das Infra-Estruturas Navais.
 
-###### Art. 8.º Das decisões tomadas nos termos do artigo 5.º cabe recurso para o Ministro da Defesa Nacional, e das decisões tomadas nos termos do artigo anterior, referentes à demolição das obras feitas ilegalmente, cabe recurso para o superintendente dos Serviços de Material da Armada.
+Art. 8.º Das decisões tomadas nos termos do artigo 5.º cabe recurso para o Ministro da Defesa Nacional, e das decisões tomadas nos termos do artigo anterior, referentes à demolição das obras feitas ilegalmente, cabe recurso para o superintendente dos Serviços de Material da Armada.
 
-###### Art. 9.º As zonas indicadas no artigo 1.º serão demarcadas na carta n.º 453 dos Serviços Cartográficos do Exército, na escala 1:25000, sendo distribuídos exemplares às entidades seguintes:
+Art. 9.º As zonas indicadas no artigo 1.º serão demarcadas na carta n.º 453 dos Serviços Cartográficos do Exército, na escala 1:25000, sendo distribuídos exemplares às entidades seguintes:
 
 Secretariado-Geral da Defesa Nacional.
 
@@ -153,16 +167,16 @@ Secretaria de Estado da Agricultura.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha - César Henrique Moreira Baptista - Manuel Pereira Crespo - Rui Alves da Silva Sanches.
 
-**Promulgado em 16 de Abril de 1974.**
+Promulgado em 16 de Abril de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro anexo ao Decreto n.º 168/74
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/09700/05810582.pdf))](https://files.diariodarepublica.pt/1s/1974/04/09700/05810582.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/09700/05810582.pdf)
 
 Nota. - Em relação aos azimutes verdadeiros indicados neste quadro, os azimutes cartográficos correspondentes são superiores em 39' de arco.
 
-**O Ministro da Defesa Nacional, Joaquim Moreira da Silva Cunha.**
+O Ministro da Defesa Nacional, Joaquim Moreira da Silva Cunha.

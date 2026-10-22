@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 242/1982, 1º Suplemento, Série I de 1982-10-19
   number: '242'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3454-(1) a 3454-(112)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/24201/00010112.pdf
 entry_into_force_dates: []
@@ -46,36 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/117-1982-584799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:59:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4e6e7397833b84239ae45d64c0bcd19e6edaf1750b2f75341379d778b242652
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 379f3e126d226e1ed925f534358f4755ac2b03d408a62189e7acf4f713ee2708
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:59:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Paris
+- Portugal
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:415867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665534:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
-  section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:59:08Z'
   warnings: []
   errors: []
 ---
@@ -86,17 +150,17 @@ de 19 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovados para ratificação a Convenção Europeia de Segurança Social e seu Acordo Complementar, abertos à assinatura em Paris, a 14 de Dezembro de 1972, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. São aprovados para ratificação a Convenção Europeia de Segurança Social e seu Acordo Complementar, abertos à assinatura em Paris, a 14 de Dezembro de 1972, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 18 de Fevereiro de 1982.**
+Assinado em 18 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24201/00010112.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24201/00010112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24201/00010112.pdf)
 
 CONVENÇÃO EUROPEIA DE SEGURANÇA SOCIAL
 
@@ -1612,11 +1676,11 @@ Convenção geral de segurança social de 30 de Junho de 1951 e Protocolos.
 
 Dinamarca - República Federal da Alemanha:
 
-###### Artigo 3, parágrafo 4, e artigo 10 da Convenção de segurança social de 14 de Agosto de 1953. Ponto 15 do Protocolo final de 14 de Agosto de 1953 à Convenção de segurança social de 14 de Agosto de 1953.
+Artigo 3, parágrafo 4, e artigo 10 da Convenção de segurança social de 14 de Agosto de 1953. Ponto 15 do Protocolo final de 14 de Agosto de 1953 à Convenção de segurança social de 14 de Agosto de 1953.
 
 Acordo complementar de 14 de Agosto de 1953 à Convenção de segurança social de 14 de Agosto de 1953.
 
-###### Artigo 3, parágrafo 4, 2.ª frase; artigo 5, parágrafo 6; artigo 8, parágrafo 3, e artigo 10 da Convenção sobre o seguro de desemprego de 1 de Agosto de 1959.
+Artigo 3, parágrafo 4, 2.ª frase; artigo 5, parágrafo 6; artigo 8, parágrafo 3, e artigo 10 da Convenção sobre o seguro de desemprego de 1 de Agosto de 1959.
 
 Pontos 4, 5 e 6 do Protocolo final de 1 de Agosto de 1959 na Convenção sobre o seguro de desemprego de 1 de Agosto de 1959.
 
@@ -1728,7 +1792,7 @@ Convenção de segurança social de 12 de Maio de 1970.
 
 Países Baixos - Turquia:
 
-## Título III da Convenção de segurança social de 5 de Abril de 1966.
+Título III da Convenção de segurança social de 5 de Abril de 1966.
 
 Países Baixos - Reino Unido:
 
@@ -1766,13 +1830,13 @@ Prestações a que são aplicáveis as disposições do parágrafo 2 ou do pará
 
 Dinamarca:
 
-###### Artigo 8.º, parágrafo 2, alínea a).
+Artigo 8.º, parágrafo 2, alínea a).
 
 Maternidade:
 
 As prestações de maternidade previstas no capítulo 3 da [Lei n.º 236](https://diariodarepublica.pt/dr/detalhe/lei/236-1914-479072), de 3 de Junho de 1967, sobre os abonos de família e outras prestações familiares.
 
-###### Artigo 8.º, parágrafo 2, alínea b), e parágrafo 3, alínea a):
+Artigo 8.º, parágrafo 2, alínea b), e parágrafo 3, alínea a):
 
 Invalidez:
 
@@ -1782,7 +1846,7 @@ Morte:
 
 As prestações previstas pela [Lei n.º 70](https://diariodarepublica.pt/dr/detalhe/lei/70-1913-590901), de 13 de Março de 1959, relativas às prestações de viuvez e da assistência às viúvas.
 
-###### Artigo 8.º, parágrafo 2, alínea c), e parágrafo 3, alínea b);
+Artigo 8.º, parágrafo 2, alínea c), e parágrafo 3, alínea b);
 
 Velhice:
 
@@ -1790,7 +1854,7 @@ As prestações previstas pela Lei n.º 218, de 4 de Junho de 1965, relativas à
 
 República Federal da Alemanha:
 
-###### Artigo 8.º, parágrafo 2, alínea a):
+Artigo 8.º, parágrafo 2, alínea a):
 
 Desemprego:
 
@@ -1798,13 +1862,13 @@ As prestações previstas pelo regime de assistência ao desemprego.
 
 Islândia:
 
-###### Artigo 8.º, parágrafo 2, alínea a):
+Artigo 8.º, parágrafo 2, alínea a):
 
 Maternidade:
 
 O prémio ao nascimento previsto no artigo 18.º da Lei n.º 40, de 30 de Abril de 1963, sobre a segurança social.
 
-###### Artigo 8.º, parágrafo 2, alínea b), e parágrafo 3, alínea a):
+Artigo 8.º, parágrafo 2, alínea b), e parágrafo 3, alínea a):
 
 Invalidez:
 
@@ -1814,7 +1878,7 @@ Morte:
 
 As prestações de sobrevivência previstas no capítulo II-B da Lei n.º 40, de 30 de Abril de 1963, sobre segurança social.
 
-###### Artigo 8.º, parágrafo 2, alínea c), e parágrafo 3, alínea b):
+Artigo 8.º, parágrafo 2, alínea c), e parágrafo 3, alínea b):
 
 Velhice:
 
@@ -1822,7 +1886,7 @@ As prestações de velhice previstas no capítulo II-B da Lei n.º 40, de 30 de 
 
 Noruega:
 
-###### Artigo 8.º, parágrafo 2, alínea a):
+Artigo 8.º, parágrafo 2, alínea a):
 
 Maternidade:
 
@@ -1836,13 +1900,13 @@ As diferentes categorias de assistência previstas nas alíneas b), c), d) e e) 
 
 Suécia:
 
-###### Artigo 8.º, parágrafo 2, alínea a):
+Artigo 8.º, parágrafo 2, alínea a):
 
 Maternidade:
 
 O subsídio de maternidade previsto pela [Lei n.º 381](https://diariodarepublica.pt/dr/detalhe/lei/381-1915-415867), de 25 de Maio de 1962, sobre o seguro público.
 
-###### Artigo 8.º, parágrafo 2, alínea b), e parágrafo 3, alínea a):
+Artigo 8.º, parágrafo 2, alínea b), e parágrafo 3, alínea a):
 
 Invalidez:
 
@@ -1852,7 +1916,7 @@ Morte:
 
 A pensão nacional prevista pela [Lei n.º 381](https://diariodarepublica.pt/dr/detalhe/lei/381-1915-415867), de 25 de Maio de 1962, sobre o seguro público e a [Lei n.º 382](https://diariodarepublica.pt/dr/detalhe/lei/382-1915-415976), de 25 de Maio de 1962, complementando a lei sobre o seguro público.
 
-###### Artigo 8.º, parágrafo 2, alínea c), e parágrafo 3, alínea b):
+Artigo 8.º, parágrafo 2, alínea c), e parágrafo 3, alínea b):
 
 Velhice:
 
@@ -1904,7 +1968,7 @@ Convenção de segurança social de 21 de Março de 1958.
 
 Países Baixos - Turquia:
 
-## Título III da Convenção de segurança social de 5 de Abril de 1966.
+Título III da Convenção de segurança social de 5 de Abril de 1966.
 
 Países Baixos - Reino Unido:
 
@@ -1922,65 +1986,65 @@ Prestações a que não são aplicáveis as disposições do parágrafo 1 ou do 
 
 Áustria:
 
-###### Artigo 11.º, parágrafo 3, alínea b):
+Artigo 11.º, parágrafo 3, alínea b):
 
 As disposições do parágrafo 1 do artigo 11.º não são aplicáveis ao suplemento compensatório do seguro de pensões.
 
 Bélgica:
 
-###### Artigo 11.º, parágrafo 3, alínea c):
+Artigo 11.º, parágrafo 3, alínea c):
 
 As pensões de reforma e de sobrevivência dos regimes dos operários e dos empregados concedidas na base das disposições legais em vigor antes de 1 de Janeiro de 1962, para a parte da pensão que corresponde aos anos anteriores a 1945 quando estes anos não constituem períodos de seguro efectivos.
 
 Dinamarca:
 
-###### Artigo 11.º, parágrafo 3, alínea b):
+Artigo 11.º, parágrafo 3, alínea b):
 
 As prestações de invalidez previstas no artigo 15.º da Lei n.º 219, de 4 de Junho de 1965, sobre a pensão de invalidez.
 
-###### Artigo 11.º, parágrafo 3, alínea d):
+Artigo 11.º, parágrafo 3, alínea d):
 
 O suplemento de pensão previsto no artigo 11.º da Lei n.º 219, de 4 de Junho de 1965, sobre a pensão de invalidez, ao artigo 10.º da Lei n.º 218, de 4 de Junho de 1965, sobre a pensão de velhice e ao parágrafo 4 do artigo 3.º da [Lei n.º 70](https://diariodarepublica.pt/dr/detalhe/lei/70-1913-590901), de 13 de Março de 1959, sobre a pensão de viúva e a assistência às viúvas, modificada pela [Lei n.º 194](https://diariodarepublica.pt/dr/detalhe/lei/194-1914-665534), de 4 de Junho de 1964.
 
 França:
 
-###### Artigo 11.º, parágrafo 3, alínea b):
+Artigo 11.º, parágrafo 3, alínea b):
 
 O subsídio especial.
 
-###### Artigo 11.º, parágrafo 3, alínea c):
+Artigo 11.º, parágrafo 3, alínea c):
 
 Os subsídios não contributivos de velhice dos não assalariados.
 
-###### Artigo 11.º, parágrafo 3, alínea d):
+Artigo 11.º, parágrafo 3, alínea d):
 
 O subsídio suplementar do Fundo Nacional de Solidariedade.
 
 Islândia:
 
-###### Artigo 11.º, parágrafo 3, alínea d):
+Artigo 11.º, parágrafo 3, alínea d):
 
 O suplemento de pensão de velhice ou de invalidez previsto no artigo 21.º da Lei n.º 40, de 30 de Abril de 1963, sobre a segurança social.
 
 Irlanda:
 
-###### Artigo 11.º, parágrafo 3, alínea b):
+Artigo 11.º, parágrafo 3, alínea b):
 
 As pensões não contributivas de velhice e as pensões não contributivas de viúvas e de órfãos e os subsídios às esposas abandonadas.
 
 Luxemburgo:
 
-###### Artigo 11.º, parágrafo 3, alínea b):
+Artigo 11.º, parágrafo 3, alínea b):
 
 As pensões de velhice, de invalidez e de sobreviventes dos empregados privados, no que respeita à parte correspondente aos períodos de empregado anteriores à entrada em vigor do regime de seguro de pensões dos empregados privados.
 
 Noruega:
 
-###### Artigo 11.º, parágrafo 3, alínea c):
+Artigo 11.º, parágrafo 3, alínea c):
 
 As melhorias transitórias de prestações previstas no parágrafo 5 do artigo 5.º, no parágrafo 5 do artigo 7.º, no parágrafo 4 do artigo 8.º e nos parágrafos 4, 6 e 11 do artigo 10.º da Lei de 17 de Junho de 1966 sobre o seguro nacional.
 
-###### Artigo 11.º, parágrafo 3, alínea d):
+Artigo 11.º, parágrafo 3, alínea d):
 
 A prestação de base e o subsídio de assistência previstos no parágrafo 2 do artigo 8.º da Lei de 17 de Junho de 1966 sobre o seguro nacional;
 
@@ -1990,33 +2054,33 @@ O subsídio de assistência e subsídio transitório às mães solteiras previst
 
 Suécia:
 
-###### Artigo 11.º, parágrafo 3, alínea a):
+Artigo 11.º, parágrafo 3, alínea a):
 
 As prestações previstas no primeiro parágrafo do artigo 3.º do capítulo 9 da [Lei n.º 381](https://diariodarepublica.pt/dr/detalhe/lei/381-1915-415867), de 25 de Maio de 1962, sobre o seguro público.
 
-###### Artigo 11.º, parágrafo 3, alínea c):
+Artigo 11.º, parágrafo 3, alínea c):
 
 A pensão complementar prevista no capítulo 15 da [Lei n.º 382](https://diariodarepublica.pt/dr/detalhe/lei/382-1915-415976), de 25 de Maio de 1962, sobre o seguro público e pela [Lei n.º 382](https://diariodarepublica.pt/dr/detalhe/lei/382-1915-415976), de 25 de Maio de 1962, complementando a lei sobre o seguro público.
 
 As prestações previstas no artigo 16.º da [Lei n.º 382](https://diariodarepublica.pt/dr/detalhe/lei/382-1915-415976), de 25 de Maio de 1962, complementando a lei sobre o seguro público.
 
-###### Artigo 11.º, parágrafo 3, alínea d):
+Artigo 11.º, parágrafo 3, alínea d):
 
 As prestações previstas no segundo parágrafo do artigo 2.º, no 2.º parágrafo dos artigos 3.º e 5.º do capítulo 9 da [Lei n.º 381](https://diariodarepublica.pt/dr/detalhe/lei/381-1915-415867), de 25 de Maio de 1962, sobre o seguro público.
 
 Suíça:
 
-###### Artigo 11.º, parágrafo 3, alínea a):
+Artigo 11.º, parágrafo 3, alínea a):
 
 Os subsídios para grandes inválidos;
 
-###### Artigo 11.º, parágrafo 3, alínea b):
+Artigo 11.º, parágrafo 3, alínea b):
 
 As rendas extraordinárias do seguro de invalidez;
 
 As rendas extraordinárias do seguro de velhice e sobreviventes.
 
-###### Artigo 11.º, parágrafo 3, alínea d):
+Artigo 11.º, parágrafo 3, alínea d):
 
 As rendas ordinárias de invalidez concedidas aos inválidos cujo grau de invalidez é inferior a 50%.
 
@@ -3120,7 +3184,7 @@ b) Assinatura sob reserva de ratificação ou de aceitação, seguida de ratific
 
 ###### ARTIGO 98.º
 
-**O Secretário-Geral do Conselho da Europa notificará, num prazo de um mês, às Partes Contratantes, aos Estados signatários, assim como ao Director-Geral da Repartição Internacional do Trabalho:**
+O Secretário-Geral do Conselho da Europa notificará, num prazo de um mês, às Partes Contratantes, aos Estados signatários, assim como ao Director-Geral da Repartição Internacional do Trabalho:
 
 a) Qualquer assinatura sem reserva de ratificação ou de aceitação;
 
@@ -3624,7 +3688,7 @@ Caisse d'allocations familiales du département (Caixa de Abonos de Família do 
 
 a) Para todos os riscos:
 
-#### Secção da Caisse de retraite des marins (Caixa de Reforma dos Marinheiros) ou Caisse générale de prévoyance des marins (Caixa Geral de Previdência dos Marinheiros) dos assuntos marítimos, conforme os riscos;
+Secção da Caisse de retraite des marins (Caixa de Reforma dos Marinheiros) ou Caisse générale de prévoyance des marins (Caixa Geral de Previdência dos Marinheiros) dos assuntos marítimos, conforme os riscos;
 
 b) Prestações familiares:
 
@@ -3650,7 +3714,7 @@ d) Velhice e morte:
 
 Caisse interprofessionnelle d'assurance vieillesse des industriels et des commerçants d'Algérie et d'Outre Mer (CAVICORG), Paris (Caixa Interprofissional do Seguro de Velhice dos Industriais e Comerciantes da Argélia e Ultramar);
 
-#### Secção profissional de cada profissão para as profissões liberais;
+Secção profissional de cada profissão para as profissões liberais;
 
 e) Prestações familiares:
 
@@ -4100,7 +4164,7 @@ A autoridade local.
 
 4 - Pensão suplementar do emprego:
 
-Labour Market Suplementary Pension Board (Repartição de Pensão Suplementar do Emprego),[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24201/00010112.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24201/00010112.pdf).
+Labour Market Suplementary Pension Board (Repartição de Pensão Suplementar do Emprego),[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24201/00010112.pdf).
 
 5 - Acidentes de trabalho e doenças profissionais:
 
@@ -4324,7 +4388,7 @@ d) Velhice e morte:
 
 Caisse interprofissionnelle d'assurance vieillesse des industriels et des commerçants d'Algérie et d'Outre Mer (Caixa Interprofissional do Seguro de Velhice dos Industriais e Comerciantes da Argélia e do Ultramar) (CAVICORG), Paris.
 
-#### Secção profissional de cada profissão para as profissões liberais;
+Secção profissional de cada profissão para as profissões liberais;
 
 e) Prestações familiares:
 
@@ -5250,7 +5314,7 @@ Sociedade de Assistência Mineira.
 
 Regime dos marinheiros.
 
-#### Secção «Caixa Geral de Previdência dos Marinheiros» dos Assuntos Marítimos;
+Secção «Caixa Geral de Previdência dos Marinheiros» dos Assuntos Marítimos;
 
 ii) Para os assalariados nos departamentos do ultramar:
 
@@ -5260,7 +5324,7 @@ Caixa geral de segurança social.
 
 Regime dos marinheiros:
 
-#### Secção «Caixa Geral de Previdência dos Marinheiros» dos Assuntos Marítimos.
+Secção «Caixa Geral de Previdência dos Marinheiros» dos Assuntos Marítimos.
 
 3 - Para aplicação do artigo 12.º, parágrafo 2, do Acordo:
 
@@ -5302,7 +5366,7 @@ Sociedade de Assistência aos Mineiros.
 
 Regime dos marinheiros:
 
-#### Secção «Caixa Geral de Previdência dos Marinheiros» da Repartição dos Assuntos Marítimos;
+Secção «Caixa Geral de Previdência dos Marinheiros» da Repartição dos Assuntos Marítimos;
 
 ii) Para os assalariados nos departamentos do ultramar:
 
@@ -5312,7 +5376,7 @@ Caixa Geral de Segurança Social.
 
 Regime dos marinheiros:
 
-#### Secção «Caixa Geral de Previdência dos Marinheiros» dos Assuntos Marítimos;
+Secção «Caixa Geral de Previdência dos Marinheiros» dos Assuntos Marítimos;
 
 b) i) Para os trabalhadores não assalariados na metrópole:
 

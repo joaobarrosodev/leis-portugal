@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/41-1977-141181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb90b99abbe0062b99eaef5b2b29a19f5d35f8e18ec61d14dc239313f54987a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 216e445af23ec402aa9afcc86ab0a6288f3dd1c2fb0efc376eeb3f1128f92c18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Cooperação Técnica
+- Portugal
+- Venezuela
+relationships:
+- type: corrected_by
+  target: pt:dre:251451:por
+  label: Rectificado pela DECL.DD8241.11.05.1977.PCM, DR.IS [109] de 11.05.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-251451
+  date: '1977-05-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:22Z'
   warnings: []
   errors: []
 ---
@@ -86,17 +95,17 @@ de 15 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Técnica entre o Governo da República Portuguesa e o Governo da República da Venezuela, assinado em Lisboa em 30 de Novembro de 1975, cujos textos em espanhol e português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Técnica entre o Governo da República Portuguesa e o Governo da República da Venezuela, assinado em Lisboa em 30 de Novembro de 1975, cujos textos em espanhol e português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 21 de Fevereiro de 1977.**
+Assinado em 21 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/06200/05240526.pdf))](https://files.diariodarepublica.pt/1s/1977/03/06200/05240526.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/06200/05240526.pdf)
 
 ACORDO BÁSICO DE COOPERAÇÃO TÉCNICA ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA VENEZUELA.
 
@@ -106,13 +115,13 @@ Considerando o interesse comum em estimular a investigação científica e o des
 
 Acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 1. As Partes Contratantes elaborarão e executarão, de comum acordo, programas e projectos de cooperação técnica.
 
 2. Os programas e projectos de cooperação técnica a que se faz referência no presente Acordo Básico serão objecto de acordos complementares, que deverão especificar, entre outras coisas, os objectivos de tais programas e projectos, os cronogramas de trabalho, as obrigações de cada uma das Partes Contratantes e as modalidades de financiamento conjunto que se considerem convenientes.
 
-ARTIGO II
+###### ARTIGO II
 
 Para os efeitos do presente Acordo, a cooperação técnica que desenvolverão os dois países poderá efectuar-se sob as seguintes formas:
 
@@ -122,7 +131,7 @@ b) Criação de instituições de investigação ou de centros de aperfeiçoamen
 
 c) Organização de seminários e conferências, intercâmbio de informações e documentação e organização de meios de difusão.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes poderão fazer uso dos seguintes meios para pôr em execução as várias formas de cooperação técnica:
 
@@ -134,15 +143,15 @@ c) Envio ou intercâmbio de equipas e material necessários para a execução de
 
 d) Qualquer outro meio acordado pelas Partes Contratantes.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Contratantes poderão solicitar o financiamento e a participação de organismos internacionais para a execução de programas e projectos resultantes das formas de cooperação técnica definidas no artigo II e dos acordos complementares que se subscrevam.
 
-ARTIGO V
+###### ARTIGO V
 
 O financiamento conjunto das formas de cooperação técnica definidas no artigo II será acordado pelas Partes Contratantes em cada programa ou projecto específico e determinado nos respectivos acordos complementares, a que se refere o parágrafo 2 do artigo I.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Para assegurar a realização do presente Acordo nas melhores condições, constituir-se-ão grupos mistos sectoriais de trabalho, que deverão reunir-se segundo as conveniências mútuas para:
 
@@ -152,7 +161,7 @@ b) Avaliar os resultados gerais da cooperação em matéria de recursos humanos 
 
 2. Através dos canais diplomáticos, cada uma das Partes Contratantes poderá em qualquer momento apresentar à outra Parte Contratante solicitações de cooperação técnica.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1. O intercâmbio de informação técnica e científica poder-se-á realizar através dos canais diplomáticos ou directamente entre os organismos designados pelas Partes Contratantes, especialmente entre institutos de investigação, centros de documentação e bibliotecas especializadas.
 
@@ -160,27 +169,27 @@ ARTIGO VII
 
 3. As Partes Contratantes comprometem-se a difundir a informação técnica ou científica nos termos acordados no parágrafo 2 deste artigo.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As Partes Contratantes acordam que os arranjos relativos à importação de artigos e instrumentos necessários para a execução deste Acordo Básico, bem como às facilidades que se outorgarem aos peritos, serão fixados por troca de Notas reversivas dos respectivos Ministérios dos Negócios Estrangeiros.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Cada uma das Partes Contratantes adoptará as medidas necessárias para facilitar a entrada, permanência e circulação dos cidadãos da outra Parte que estejam em exercício das suas actividades dentro do âmbito do presente Acordo Básico, respeitando as disposições que regem as respectivas legislações sobre estrangeiros.
 
-ARTIGO X
+###### ARTIGO X
 
 Competirá aos respectivos organismos nacionais encarregados da cooperação técnica, e de acordo com a legislação interna vigente nos países, programar e coordenar a execução de programas e projectos previstos no parágrafo 2 do artigo I e realizar todos os trâmites necessários. No caso de Portugal, tais atribuições competem ao Ministério dos Negócios Estrangeiros, e no caso da Venezuela, à Oficina Central de Coordinación y Planificación da Presidência da República (CORDIPLAN).
 
-ARTIGO XI
+###### ARTIGO XI
 
 O presente Acordo Básico entrará em vigor em data que será notificada por ambas as Partes Contratantes quando os respectivos Governos tiverem cumprido as formalidades legais necessárias a tal fim.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Todas as controvérsias entre as Partes Contratantes relativas à interpretação ou execução deste Acordo serão decididas pelas vias pacíficas reconhecidas no direito internacional.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1. A validade do presente Acordo Básico será de dois anos, prorrogáveis automaticamente por iguais períodos, a menos que uma das Partes notifique a outra, pelo menos com três meses de antecedência, da sua vontade em contrário.
 
@@ -188,7 +197,7 @@ ARTIGO XIII
 
 3. A denúncia não afectará os programas e projectos em execução, salvo no caso de as Partes Contratantes acordarem de outro modo.
 
-**Assinado em Lisboa no dia 30 de Novembro de 1976.**
+Assinado em Lisboa no dia 30 de Novembro de 1976.
 
 Pelo Governo da República Portuguesa:
 

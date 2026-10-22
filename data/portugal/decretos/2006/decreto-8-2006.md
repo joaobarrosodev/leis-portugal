@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/8/2006/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-2006-168044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0055a497e3f3b6dd9188a5c04036ab5b58111cb9499d94d2a441520d6ffdf1a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d38d866c7f7acb4b6c7879f96084deba4e9d8dff2f0d36291d58b3ce673e4487
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Londres
 - OMI
 - Poluição por Hidrocarbonetos
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:667294:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667294:por
+  label: "Aprovado o Protocolo sobre a Prevenção, Actuação e Cooperação no Combate à Poluição por Substâncias Nocivas e potencialmente\
+    \ Perigosas, à Convenção Internacional sobre a Prevenção Actuação e Cooperação no Combate à Poluição por Hidrocarbonetos,\
+    \ aprovada pelo presente diploma, pelo DEC.12/2006.16.03.2006.MOPTC, DR.IS-B [54] de 16.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/12-2006-667294
+  date: '2006-03-16'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:42Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +109,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Luís Filipe Marques Amado - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
 
-**Assinado em 19 de Dezembro de 2005.**
+Assinado em 19 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Dezembro de 2005.**
+Referendado em 19 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — INTERNATIONAL CONVENTION ON OIL POLLUTION PREPAREDNESS, RESPONSE AND CO-OPERATION, 1990
 

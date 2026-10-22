@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/12600/12931301.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/80-1977-253021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77715e653c164dc959f5ebd20d643f1f1b32348047bfc6cc1ec158d7adb9fefb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9cea4579af3857a19064f46d55bdf09d66a058739a062244031be8dda789e35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeronave com Motor
+- Convenção
+- Lisboa
+- Portugal
+- Senegal
+- Tarifa Aérea
+- Transporte Aéreo
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:07Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +94,15 @@ de 31 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governe de Portugal e o Governo da República do Senegal Relativo aos Transportes Aéreos, assinado em Lisboa, em 21 de Fevereiro de 1977, cujos textos em francês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governe de Portugal e o Governo da República do Senegal Relativo aos Transportes Aéreos, assinado em Lisboa, em 21 de Fevereiro de 1977, cujos textos em francês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel Medeiros Ferreira.
 
-**Assinado em 20 de Abril de 1977.**
+Assinado em 20 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACCORD ENTRE LE GOUVERNEMENT DU PORTUGAL ET LE GOUVERNEMENT DE LA RÉPUBLIQUE DU SÉNÉGAL RELATIF AUX TRANSPORTS AÉRIENS.
 
@@ -337,15 +344,15 @@ Desejando aplicar a estes transportes os princípios e as disposições da Conve
 
 acordaram no seguinte:
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
-###### ARTIGO 1
+ARTIGO 1
 
 Cada uma das Partes Contratantes concede à outra Parte os direitos especificados no presente Acordo, com vista ao estabelecimento dos serviços aéreos civis internacionais indicados no Anexo ao presente Acordo.
 
-###### ARTIGO 2
+ARTIGO 2
 
 Para os efeitos do presente Acordo e do seu Anexo:
 
@@ -363,7 +370,7 @@ Ou, em ambos os casos, toda a pessoa ou organismo habilitados a exercer tais fun
 
 4) A expressão «tarifa» significa o preço do transporte de passageiros, bagagem e carga e, de uma maneira geral, as condições de transporte às quais se aplicam, assim como os preços e condições relativos aos serviços de agência e outros serviços auxiliares, com excepção, contudo, das remunerações e condições relativas ao transporte do correio.
 
-###### ARTIGO 3
+ARTIGO 3
 
 1 - As leis e os regulamentos de cada uma das Partes Contratantes relativos à entrada e à saída do seu território das aeronaves utilizadas em serviços aéreos internacionais, ou relativos à exploração e à navegação das ditas aeronaves dentro dos limites do mesmo território, aplicam-se às aeronaves da empresa designada pela outra Parte Contratante.
 
@@ -371,11 +378,11 @@ Ou, em ambos os casos, toda a pessoa ou organismo habilitados a exercer tais fun
 
 3 - Os passageiros em trânsito directo no território de uma Parte Contratante serão sujeitos a um contrôle simplificado. As bagagens e carga em trânsito directo serão isentas de direitos aduaneiros e outras taxas similares.
 
-###### ARTIGO 4
+ARTIGO 4
 
 Os certificados de navigabilidade, os certificados de aptidão e as licenças emitidas ou revalidadas por uma Parte Contratante e não caducadas serão reconhecidos como válidos pela outra Parte Contratante para os fins de exploração dos serviços aéreos especificados no Anexo ao presente Acordo. Cada Parte Contratante reserva-se, contudo, o direito de não reconhecer a validade, para circulação no seu próprio território, dos certificados de aptidão e licenças emitidos aos seus próprios nacionais pela outra Parte Contratante.
 
-###### ARTIGO 5
+ARTIGO 5
 
 1 - As aeronaves utilizadas em tráfego internacional pela empresa designada de uma Parte Contratante, assim como o seu equipamento normal, as suas reservas de carburantes e lubrificantes, as suas provisões de bordo (incluindo alimentos, bebidas e tabacos), serão, à entrada no território da outra Parte Contratante, isentas de todos os direitos aduaneiros, emolumentos de inspecção e outros impostos e taxas, desde que tal equipamento e existências permaneçam a bordo das aeronaves até à sua reexportação.
 
@@ -389,15 +396,15 @@ c) Os combustíveis e lubrificantes destinados ao abastecimento das aeronaves ut
 
 3 - Os equipamentos de bordo, assim como os produtos e provisões existentes a bordo das aeronaves da empresa designada de uma Parte Contratante, apenas poderão ser descarregados no território da outra Parte Contratante com o consentimento das respectivas autoridades aduaneiras. Em tal caso poderão ser colocados sob vigilância das ditas autoridades até ao momento do serem reexportados ou que sejam objecto de declaração aduaneira.
 
-###### ARTIGO 6
+ARTIGO 6
 
 Cada Parte Contratante assegurará à empresa designada da outra Parte Contratante a livre transferência, ao câmbio oficial e em divisas convertíveis, dos excedentes, isentos de impostos, das receitas sobre as despesas realizadas no seu território com o transporte de passageiros, bagagens, encomendas postais e carga efectuado pela empresa designada da outra Parte Contratante. O regime de pagamentos entre as Partes Contratantes poderá ser regulamentado através de acordo especial.
 
-## TÍTULO II
+TÍTULO II
 
 Serviços aéreos
 
-###### ARTIGO 7
+ARTIGO 7
 
 1 - O Governo da República do Senegal concede ao Governo de Portugal e, reciprocamente, o Governo de Portugal concede ao Governo da República do Senegal o direito de exploração dos serviços aéreos especificados no presente Acordo e no seu Anexo pela empresa designada de cada qual. Esses serviços serão designados daqui em diante pela expressão «serviços acordados».
 
@@ -411,7 +418,7 @@ c) Do direito de aterrar no território da outra Parte Contratante nos pontos in
 
 3 - As disposições do presente artigo não deverão considerar-se como outorgando à empresa designada de uma Parte Contratante o direito de embarcar passageiros, carga e correio para os transportar entre pontos situados no território da outra Parte Contratante contra remuneração ou em regime de contrato de fretamento (cabotagem).
 
-###### ARTIGO 8
+ARTIGO 8
 
 1 - Cada uma das Partes Contratantes terá o direito de designar por escrito à outra Parte Contratante uma empresa de transporte aéreo para a exploração dos serviços acordados nas rotas indicadas no Anexo do presente Acordo.
 
@@ -419,11 +426,11 @@ c) Do direito de aterrar no território da outra Parte Contratante nos pontos in
 
 3 - As autoridades aeronáuticas de uma das Partes Contratantes poderão exigir que a empresa designada pela outra Parte Contratante demonstre estar em condições de satisfazer as condições prescritas, no domínio da exploração técnica e comercial dos serviços aéreos internacionais, pelas leis e regulamentos normal e razoavelmente aplicados pelas ditas autoridades, em conformidade com as disposições da Convenção sobre a Aviação Civil Internacional.
 
-###### ARTIGO 9
+ARTIGO 9
 
 Aplicando os artigos 77 e 79 da Convenção sobre a Aviação Civil Internacional com vista à formação, por dois ou mais Estados, de organizações de exploração em comum ou de organismos internacionais de exploração, o Governo de Portugal aceita que o Governo da República do Senegal, em conformidade com os artigos 2 e 4 e aos elementos anexos do Tratado sobre os Transportes Aéreos assinado em Yaundé em 28 de Março de 1961, ao qual a República do Senegal aderiu, se reserve o direito de designar a sociedade Air-Afrique como instrumento por ele escolhido para a exploração dos serviços acordados.
 
-###### ARTIGO 10
+ARTIGO 10
 
 1 - Cada uma das Partes Contratantes terá o direito de não conceder as autorizações de exploração previstas no parágrafo 2 do artigo 8 sempre que a dita Parte Contratante tenha razões para crer que uma parte substancial da propriedade e uma parte efectiva desta empresa não pertencem à Parte Contratante que a designou ou a nacionais seus.
 
@@ -439,7 +446,7 @@ c) A empresa não observou na exploração dos serviços acordados as condiçõe
 
 Caso surja qualquer diferendo durante a consulta, recorrer-se-á à arbitragem, em conformidade com o artigo 17.
 
-###### ARTIGO 11
+ARTIGO 11
 
 1 - A exploração dos serviços acordados entre o território da República do Senegal e o território de Portugal e vice-versa, serviços explorados nas rotas indicadas no Anexo do presente Acordo, constitui para as duas Partes Contratantes um direito fundamental e primordial.
 
@@ -449,7 +456,7 @@ Caso surja qualquer diferendo durante a consulta, recorrer-se-á à arbitragem, 
 
 3 - As empresas designadas deverão ter em consideração os interesses mútuos nos percursos comuns, a fim de não afectarem indevidamente os seus respectivos serviços.
 
-###### ARTIGO 12
+ARTIGO 12
 
 1 - Sobre cada rota indicada no Anexo ao presente Acordo, os serviços acordados terão por objectivo primordial a manutenção, a um coeficiente de utilirazão razoável, de uma capacidade adaptada às necessidades normais e razoavelmente previsíveis do tráfego aéreo internacional, com origem ou destinado ao território da Parte Contratante que tenha designado a empresa que explore os referidos serviços.
 
@@ -461,13 +468,13 @@ Caso surja qualquer diferendo durante a consulta, recorrer-se-á à arbitragem, 
 
 A empresa designada que tenha transferido todos ou parte dos seus direitos poderá reavê-los no fim do referido período.
 
-###### ARTIGO 13
+ARTIGO 13
 
 1 - As empresas designadas submeterão para aprovação às autoridades aeronáuticas das duas Partes Contratantes, no prazo máximo de sessenta dias antes do início da exploração dos serviços acordados, a natureza do transporte, os tipos de aviões utilizados e os horários previstos, podendo este prazo ser reduzido no caso de posteriores alterações, sob reserva do acordo das ditas autoridades.
 
 2 - As autoridades aeronáuticas de uma das Partes Contratantes fornecerão às autoridades aeronáuticas da outra Parte Contratante e a seu pedido todos os dados estatísticos regulares ou outros de transporte aéreo, podendo ser equitativamente exigidos para controlar a capacidade de transporte oferecida pela empresa designada da primeira Parte Contratante. Estas estatísticas conterão os dados necessários para determinar o volume e, na medida do possível, a origem e o destino do tráfego.
 
-###### ARTIGO 14
+ARTIGO 14
 
 1 - A fixação das tarifas a aplicar nos serviços acordados que actuem nas rotas especificadas no Anexo ao presente Acordo será feita, na medida do possível, por acordo entre as empresas designadas. Estas empresas entender-se-ão directamente, após a consulta, se for caso disso, com as empresas de transportes aéreos de terceiros países que explorem todos ou parte dos mesmos percursos e, se necessário, por recurso aos procedimentos de fixação de tarifas da Associação de Transporte Aéreo Internacional (IATA).
 
@@ -477,15 +484,15 @@ A empresa designada que tenha transferido todos ou parte dos seus direitos poder
 
 4 - Em último recurso, recorrer-se-á à arbitragem prevista no artigo 17 do presente Acordo. Enquanto a sentença arbitral não for conhecida, a Parte Contratante que tenha manifestado o seu desacordo terá o direito de exigir da outra Parte Contratante a manutenção das tarifas anteriormente em vigor.
 
-###### ARTIGO 15
+ARTIGO 15
 
 As duas Partes Contratantes consultar-se-ão sempre que necessário, a fim de coordenarem os seus respectivos serviços aéreos.
 
-## TÍTULO III
+TÍTULO III
 
 Consulta - Arbitragem - Denúncia
 
-###### ARTIGO 16
+ARTIGO 16
 
 1 - Cada Parte Contratante poderá a qualquer momento solicitar uma consulta entre as autoridades competentes das duas Partes Contratantes para a interpretação, aplicação ou modificação do presente Acordo e do seu Anexo.
 
@@ -493,7 +500,7 @@ Consulta - Arbitragem - Denúncia
 
 3 - As notificações que tenham ficado de introduzir a este Acordo e ao seu Anexo entrarão em vigor após a sua confirmação por troca de notas por via diplomática.
 
-###### ARTIGO 17
+ARTIGO 17
 
 1 - Em caso de diferendo relativo à interpretação ou aplicação do presente Acordo e do seu Anexo, que não tenha sido resolvido em conformidade com as disposições do artigo 16, seja entre as autoridades aeronáuticas, seja entre os Governos das Partes Contratantes, será submetido, a pedido de uma das Partes Contratantes, a um tribunal arbitral.
 
@@ -507,25 +514,25 @@ Consulta - Arbitragem - Denúncia
 
 6 - Cada Parte Contratante suportará a remuneração da actividade do seu árbitro e da metade da remuneração do presidente designado.
 
-###### ARTIGO 18
+ARTIGO 18
 
 Cada Parte Contratante terá, a qualquer momento, de notificar a outra Parte Contratante da sua decisão de denunciar o presente Acordo. Tal notificação será comunicada, simultaneamente, à Organização da Aviação Civil Internacional. A denúncia terá efeito doze meses após a data da recepção pela outra Parte Contratante, salvo se a dita notificação for retirada, por acordo mútuo, antes de expirar aquele prazo.
 
 Caso a Parte Contratante que receba tal notificação não acuse a recepção, esta notificação considerar-se-á como recebida quinze dias após a sua recepção na sede da Organização da Aviação Civil Internacional.
 
-## TÍTULO IV
+TÍTULO IV
 
 Disposições finais
 
-###### ARTIGO 19
+ARTIGO 19
 
 Cada uma das Partes Contratantes notificará a outra de que foram cumpridas as formalidades constitucionais necessárias para a entrada em vigor do presente Acordo e que terá efeito a partir da data da última notificação.
 
-###### ARTIGO 20
+ARTIGO 20
 
 O presente Acordo e o seu Anexo, bem como todas as modificações ulteriores, serão comunicados à Organização da Aviação Civil Internacional para nela ficarem registados.
 
-###### ARTIGO 21
+ARTIGO 21
 
 O presente Acordo e o seu Anexo consideram-se como estando em conformidade com todo o acordo multilateral sobre transporte aéreo que venha a vincular, por igual, as duas Partes Contratantes.
 
@@ -541,7 +548,7 @@ Pelo Governo da República do Senegal:
 
 S. E. M. Babacar Ba, Ministro de Estado encarregado das Finanças e dos Negócios Económicos.
 
-## Anexo ao Acordo entre o Governo de Portugal e o Governo da República do Senegal Relativo aos Transportes Aéreos
+Anexo ao Acordo entre o Governo de Portugal e o Governo da República do Senegal Relativo aos Transportes Aéreos
 
 #### SECÇÃO I
 

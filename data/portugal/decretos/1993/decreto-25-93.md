@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/25/1993/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/25-1993-329451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d5e71f23e56d9d92c251117e172193f72fc5becd43784de45cc1e4ed9f17fc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34a4ed93e2535920d833236e614f54fd60d007e8a416d3a405600c9bf4d1bc4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Cooperação Técnica
-- Portugal
 - Cooperação Científica
 - Cooperação Cultural
+- Cooperação Técnica
+- Portugal
 relationships: []
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:25Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 18 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Cultural, Científico e Técnico entre o Governo da República Portuguesa e o Governo da República Tunisina, assinado em Tunes em 11 de Maio de 1992, cujas versões autênticas nas línguas portuguesa, árabe e francesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Cultural, Científico e Técnico entre o Governo da República Portuguesa e o Governo da República Tunisina, assinado em Tunes em 11 de Maio de 1992, cujas versões autênticas nas línguas portuguesa, árabe e francesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1993. - Aníbal António Cavaco Silva - Domingos Manuel Martins Jerónimo.
 
-**Assinado em 26 de Maio de 1993.**
+Assinado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO CULTURAL, CIENTÍFICO E TÉCNICO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA TUNISINA.
 
@@ -301,4 +301,4 @@ Pour le Gouvernement de la République Tunisienne:
 
 Hapem Den Othman, Secretário de Estado da Educação e Ciência.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/193a00/43964400.pdf))](https://files.diariodarepublica.pt/1s/1993/08/193a00/43964400.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/193a00/43964400.pdf)

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 39/1976, 3º Suplemento, Série I de 1976-02-16
   number: '39'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 326-(7) a 326-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03903/00070007.pdf
 entry_into_force_dates: []
@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/131-d-1976-621135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a1dd2be33d5f40157a0b068ed8237d33c9d0aaa791d628ac47eec4e921878fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be583b220d9fc543899430d6d0615eb0a6b11b968e34e27bcb7a2a1531bb663f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Combate à Droga
+- Comércio
+- Droga
+- Macau
+- Substância Estupefaciente ou Psicotrópica
+relationships:
+- type: cites
+  target: pt:dre:199863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294889:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:427811:por
+  label: Rectificado pela DECL.DD8825.07.05.1976.PCM, DR.IS [107] de 07.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-427811
+  date: '1976-05-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:53Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +114,9 @@ Por proposta do Governador de Macau;
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único - 1. Passa o artigo 42.º do [Decreto n.º 46371](https://diariodarepublica.pt/dr/detalhe/decreto/46371-1965-294889) a ter a seguinte redacção:
+Artigo único - 1. Passa o artigo 42.º do [Decreto n.º 46371](https://diariodarepublica.pt/dr/detalhe/decreto/46371-1965-294889) a ter a seguinte redacção:
 
-###### Art. 42.º Do quantitativo das multas aplicadas reverterão as seguintes importâncias para os denunciantes e para os apreensores:
+Art. 42.º Do quantitativo das multas aplicadas reverterão as seguintes importâncias para os denunciantes e para os apreensores:
 
 Denunciantes - 15%;
 
@@ -110,8 +128,8 @@ Apreensores - 35%.
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo.
 
-**Promulgado em 16 de Fevereiro de 1976.**
+Promulgado em 16 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

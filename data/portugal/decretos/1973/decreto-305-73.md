@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/305-1973-422637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e72a0179c064648cc262b4e898cbb25eb099f0b01e2de102ac84b90fe430a5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 955628bfa68097018b936fcd745261af0678e103c269614ece788fa3727e0322
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:190382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:07Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +106,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Constituem receitas da Comissão Reguladora dos Produtos Químicos e Farmacêuticos:
+Artigo 1.º - 1. Constituem receitas da Comissão Reguladora dos Produtos Químicos e Farmacêuticos:
 
 a) As importâncias das taxas que incidem sobre as actividades sujeitas à disciplina do organismo e os respectivos produtos;
 
@@ -112,28 +124,28 @@ g) Quaisquer outras receitas que lhe sejam legalmente atribuídas.
 
 2. Os quantitativos das taxas, a sua incidência e forma de cobrança serão estabelecidos em portaria conjunta do Ministro das Finanças e do Secretário de Estado do Comércio.
 
-###### Art. 2.º - 1. Os produtores, importadores e exportadores de produtos sujeitos à disciplina da Comissão Reguladora dos Produtos Químicos e Farmacêuticos são obrigados a manifestar os produtos fabricados, importados e exportados, de acordo com as instruções que vierem a ser emitidas por este organismo.
+Art. 2.º - 1. Os produtores, importadores e exportadores de produtos sujeitos à disciplina da Comissão Reguladora dos Produtos Químicos e Farmacêuticos são obrigados a manifestar os produtos fabricados, importados e exportados, de acordo com as instruções que vierem a ser emitidas por este organismo.
 
 2. Os interessados ou os seus representantes entregarão nas alfândegas, no acto do despacho, uma cópia dos manifestos de importação e exportação, depois de visados pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos, com excepção das ilhas adjacentes, onde é dispensado o visto.
 
 3. As alfândegas devem devolver à Comissão Reguladora as cópias dos manifestos, no prazo máximo de quinze dias, a contar da data do despacho.
 
-###### Art. 3.º Os produtores e importadores de produtos passíveis de taxa para a Comissão Reguladora dos Produtos Químicos e Farmacêuticos, mesmo quando não inscritos neste organismo, ficam sujeitos às obrigações prescritas no artigo 38.º do [Decreto n.º 30270](https://diariodarepublica.pt/dr/detalhe/decreto/30270-1940-190382), de 12 de Janeiro de 1940.
+Art. 3.º Os produtores e importadores de produtos passíveis de taxa para a Comissão Reguladora dos Produtos Químicos e Farmacêuticos, mesmo quando não inscritos neste organismo, ficam sujeitos às obrigações prescritas no artigo 38.º do [Decreto n.º 30270](https://diariodarepublica.pt/dr/detalhe/decreto/30270-1940-190382), de 12 de Janeiro de 1940.
 
-###### Art. 4.º - 1. A Comissão Reguladora dos Produtos Químicos e Farmacêuticos tem competência para emitir certificados de produção, de venda, de preços, de qualidade e de origem e boletins de análise relativamente aos produtos sujeitos à sua disciplina económica.
+Art. 4.º - 1. A Comissão Reguladora dos Produtos Químicos e Farmacêuticos tem competência para emitir certificados de produção, de venda, de preços, de qualidade e de origem e boletins de análise relativamente aos produtos sujeitos à sua disciplina económica.
 
 2. Os documentos referidos no número anterior deste artigo serão devidamente autenticados, nos termos do artigo 41.º do Decreto-Lei n.º 30270, de 12 de Janeiro de 1940.
 
-###### Art. 5.º A falta de entrega ou a entrega fora do prazo das declarações e outros elementos necessários à cobrança das taxas ou à emissão dos certificados a que se refere o artigo antecedente, bem como as inexactidões ou omissões que nos mesmos se verifiquem, constituem infracção disciplinar, punível nos termos do artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Junho de 1957.
+Art. 5.º A falta de entrega ou a entrega fora do prazo das declarações e outros elementos necessários à cobrança das taxas ou à emissão dos certificados a que se refere o artigo antecedente, bem como as inexactidões ou omissões que nos mesmos se verifiquem, constituem infracção disciplinar, punível nos termos do artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Junho de 1957.
 
-###### Art. 6.º Este diploma entra em vigor no primeiro dia do mês seguinte ao decurso do prazo de trinta dias após a data da sua publicação.
+Art. 6.º Este diploma entra em vigor no primeiro dia do mês seguinte ao decurso do prazo de trinta dias após a data da sua publicação.
 
-###### Art. 7.º Ficam revogados os artigos 6.º e 7.º do [Decreto n.º 38909](https://diariodarepublica.pt/dr/detalhe/decreto/38909-1952-671643), de 12 de Setembro de 1952, bem como as Portarias n.os 19154, 19771, 20959, 21327, 22272 e 22557, respectivamente de 28 de Abril de 1962, 21 de Março de 1963, 11 de Dezembro de 1964, 9 de Junho de 1965, 28 de Outubro de 1966 e 7 de Março de 1967.
+Art. 7.º Ficam revogados os artigos 6.º e 7.º do [Decreto n.º 38909](https://diariodarepublica.pt/dr/detalhe/decreto/38909-1952-671643), de 12 de Setembro de 1952, bem como as Portarias n.os 19154, 19771, 20959, 21327, 22272 e 22557, respectivamente de 28 de Abril de 1962, 21 de Março de 1963, 11 de Dezembro de 1964, 9 de Junho de 1965, 28 de Outubro de 1966 e 7 de Março de 1967.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 23 de Maio de 1973.**
+Promulgado em 23 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

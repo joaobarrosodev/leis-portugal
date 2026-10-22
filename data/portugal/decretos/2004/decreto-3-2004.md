@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/2004/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-2004-211027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06749c21c2ea032ee1d2542ba82dff132eff2e545c35b406c1dd075ab7c4917e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aae39e69a40241af7a1281c09bf6bd3ff0f00097976eed809ec58b5994ab833e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Transporte Ferroviário
 - Portugal
+- Transporte Ferroviário
 - Transporte Internacional
 - Vilnius
 relationships:
@@ -76,16 +76,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/av/275/1996/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/av/275/1996/09/27/p/dre
+- type: cites
+  target: pt:dre:213803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268591:por
+  label: null
+  source: null
 article_structure:
   article_count: 256
-  section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 36
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:47Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +118,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 6 de Novembro de 2003. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Jorge Fernando Magalhães da Costa.
 
-**Assinado em 15 de Dezembro de 2003.**
+Assinado em 15 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Dezembro de 2003.**
+Referendado em 17 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 PROTOCOLE, DU 3 JUIN 1999, PORTANT MODIFICATION DE LA CONVENTION RELATIVE AUX TRANSPORTS INTERNATIONAUX FERROVIAIRES (COTIF), DU 9 MAI 1980 (PROTOCOLE 1999).
 
@@ -5096,7 +5104,9 @@ Salvo cláusula em contrário nas presentes Regras Uniformes, é nula e de efeit
 
 3 - O título de transporte faz fé, até prova em contrário, da celebração e do conteúdo do contrato de transporte.
 
-###### Artigo 7.º — Título de transporte
+###### Artigo 7.º
+
+## Título de transporte
 
 1 - As condições gerais de transporte determinam a forma e o conteúdo dos títulos de transporte assim como a língua e os caracteres em que os mesmos devem ser impressos e preenchidos.
 
@@ -6416,7 +6426,9 @@ b) As mercadorias perigosas transportadas, de acordo com as condições específ
 
 2 - O passageiro não pode levar consigo mercadorias perigosas como volume de mão ou expedi-las enquanto bagagem ou a bordo de veículos automóveis se não satisfizerem as condições específicas do anexo.
 
-###### Artigo 6.º — Anexo
+###### Artigo 6.º
+
+## Anexo
 
 O anexo é parte integrante do presente Regulamento.
 

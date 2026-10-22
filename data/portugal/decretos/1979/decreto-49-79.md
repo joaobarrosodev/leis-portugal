@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49-1979-383404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db18713afa425de38058c2bc200b326ca49c2155760d2d636acc5910f6c142b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff342c4f4da89f89d74eece903b93c6c8b5fdb65c483643db7845a876026346e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Paris
+- Património Mundial
+- Portugal
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:189940:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423670:por
+  label: "Estabelecida a extensão ao Território de Macau da Convenção aprovada pelo presente diploma, pelo DEC.28/98.1998.07.14.PR\
+    \ DR.IS-A [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/28-1998-423670
+  date: '1998-07-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:18Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +101,15 @@ de 6 de Junho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada a Convenção para a Protecção do Património Mundial, Cultural e Natural, aberta para assinatura em Paris, em 23 de Novembro de 1972, cujo texto em francês e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovada a Convenção para a Protecção do Património Mundial, Cultural e Natural, aberta para assinatura em Paris, em 23 de Novembro de 1972, cujo texto em francês e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 11 de Maio de 1979.**
+Assinado em 11 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention pour la Protection du Patrimoine Mondial, Culturel et Naturel
 
@@ -454,7 +465,7 @@ adopta no presente dia 16 de Novembro de 1972 a presente Convenção.
 
 I - Definições do património cultural e natural
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Para fins da presente Convenção serão considerados como património cultural:
 
@@ -464,7 +475,7 @@ Os conjuntos. - Grupos de construções isolados ou reunidos que, em virtude da 
 
 Os locais de interesse. - Obras do homem, ou obras conjugadas do homem e da natureza, e as zonas, incluindo os locais de interesse arqueológico, com um valor universal excepcional do ponto de vista histórico, estético, etnológico ou antropológico.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Para fins da presente Convenção serão considerados como património natural:
 
@@ -474,17 +485,17 @@ As formações geológicas e fisiográficas e as zonas estritamente delimitadas 
 
 Os locais de interesse naturais ou zonas naturais estritamente delimitadas, com valor universal excepcional do ponto de vista da ciência, conservação ou beleza natural.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Competirá a cada Estado parte na presente Convenção identificar e delimitar os diferentes bens situados no seu território e referidos nos artigos 1 e 2 acima.
 
 II - Protecção nacional e protecção internacional do património cultural e natural
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Cada um dos Estados parte na presente Convenção deverá reconhecer que a obrigação de assegurar a identificação, protecção, conservação, valorização e transmissão às gerações futuras do património cultural e natural referido nos artigos 1.º e 2.º e situado no seu território constitui obrigação primordial. Para tal, deverá esforçar-se, quer por esforço próprio, utilizando no máximo os seus recursos disponíveis, quer, se necessário, mediante a assistência e a cooperação internacionais de que possa beneficiar, nomeadamente no plano financeiro, artístico, científico e técnico.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Com o fim de assegurar uma protecção e conservação tão eficazes e uma valorização tão activa quanto possível do património cultural e natural situado no seu território e nas condições apropriadas a cada país, os Estados parte na presente Convenção esforçar-se-ão na medida do possível por:
 
@@ -498,7 +509,7 @@ d) Tomar as medidas jurídicas, científicas, técnicas, administrativas e finan
 
 e) Favorecer a criação ou o desenvolvimento de centros nacionais ou regionais de formação nos domínios da protecção, conservação e valorização do património cultural e natural e encorajar a pesquisa científica neste domínio.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1 - Com pleno respeito pela soberania dos Estados no território dos quais está situado o património cultural e natural referido nos artigos 1.º e 2.º, e sem prejuízo dos direitos reais previstos na legislação nacional sobre o referido património, os Estados parte na presente Convenção reconhecem que o referido património constitui um património universal para a protecção do qual a comunidade internacional no seu todo tem o dever de cooperar.
 
@@ -506,13 +517,13 @@ e) Favorecer a criação ou o desenvolvimento de centros nacionais ou regionais 
 
 3 - Cada um dos Estados parte na presente Convenção compromete-se a não tomar deliberadamente qualquer medida susceptível de danificar directa ou indirectamente o património cultural e natural referido nos artigos 1.º e 2.º situado no território de outros Estados parte na presente Convenção.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Para fins da presente Convenção, deverá entender-se por protecção internacional do património mundial cultural e natural a criação de um sistema de cooperação e de assistência internacionais que vise auxiliar os Estados parte na Convenção nos esforços que despendem para preservar e identificar o referido património.
 
 III - Comité intergovernamental para a protecção do património mundial, cultural e natural
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - É criado junto da Organização das Nações Unidas para a Educação, Ciência e Cultura um comité intergovernamental para a protecção do património cultural e natural de valor universal excepcional denominado Comité do Património Mundial. Será composto por quinze Estados parte na Convenção, eleitos pelos Estados parte na Convenção reunidos em assembleia geral no decurso de sessões ordinárias da Conferência Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura. O número dos Estados membros do Comité será elevado até vinte e um, a contar da sessão ordinária da conferência geral que se siga à entrada em vigor da presente Convenção para, pelo menos, quarenta Estados.
 
@@ -520,7 +531,7 @@ III - Comité intergovernamental para a protecção do património mundial, cult
 
 3 - Assistirão às sessões do Comité com voto consultivo um representante do Centro Internacional de Estudos para a Conservação e Restauro dos Bens Culturais (Centro de Roma), um representante do Conselho Internacional dos Monumentos e Locais de Interesse (ICOMOS) e um representante da União Internacional para a Conservação da Natureza e Seus Recursos (UICN), aos quais poderão ser acrescentados, a pedido dos Estados parte reunidos em assembleia geral no decurso das sessões ordinárias da Conferência Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura, representantes de outras organizações intergovernamentais ou não governamentais com objectivos idênticos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1 - Os Estados membros do Comité do Património Mundial exercerão o seu mandato desde o termo da sessão ordinária da Conferência Geral no decurso da qual tiverem sido eleitos e até ao final da terceira sessão ordinária subsequente.
 
@@ -528,7 +539,7 @@ III - Comité intergovernamental para a protecção do património mundial, cult
 
 3 - Os Estados membros do Comité deverão escolher para os representar pessoas qualificadas no domínio do património cultural ou do património natural.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1 - O Comité do Património Mundial adoptará o seu regulamento interno.
 
@@ -536,7 +547,7 @@ III - Comité intergovernamental para a protecção do património mundial, cult
 
 3 - O Comité poderá criar os órgãos consultivos que julgue necessários à execução das suas funções.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1 - Cada um dos Estados parte na presente Convenção deverá submeter, em toda a medida do possível, ao Comité do Património Mundial um inventário dos bens do património cultural e natural situados no seu território e susceptíveis de serem inscritos na lista prevista no parágrafo 2 do presente artigo. Tal inventário, que não será considerado exaustivo, deverá comportar uma documentação sobre o local dos bens em questão e sobre o interesse que apresentam.
 
@@ -552,11 +563,11 @@ III - Comité intergovernamental para a protecção do património mundial, cult
 
 7 - O Comité, com o consentimento dos Estados interessados, coordenará e encorajará os estudos e as pesquisas necessárias à constituição das listas referidas nos parágrafos 2 e 4 do presente artigo.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 O facto de um bem do património cultural e natural não ter sido inscrito em qualquer das duas listas referidas nos parágrafos 2 e 4 do artigo 11.º não poderá de qualquer modo significar que tal bem não tenha um valor universal excepcional para fins diferentes dos resultantes da inscrição nas referidas listas.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1 - O Comité do Património Mundial deverá aceitar e estudar os pedidos de assistência internacional formulados pelos Estados parte na presente Convenção no que respeita aos bens do património cultural e natural situados nos seus territórios, que figurem ou sejam susceptíveis de figurar nas listas referidas nos parágrafos 2 e 4 do artigo 11.º Tais pedidos poderão ter por objecto a protecção, conservação, valorização ou restauro de tais bens.
 
@@ -574,7 +585,7 @@ O facto de um bem do património cultural e natural não ter sido inscrito em qu
 
 8 - As decisões do Comité serão tomadas por maioria de dois terços dos membros presentes e votantes. O quórum será constituído pela maioria dos membros do Comité.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1 - O Comité do Património Mundial será assistido por um secretariado nomeado pelo director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura.
 
@@ -582,7 +593,7 @@ O facto de um bem do património cultural e natural não ter sido inscrito em qu
 
 IV - Fundo para a protecção do património mundial, cultural a natural
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1 - É constituído um fundo para a protecção do património mundial, cultural e natural de valor universal excepcional, denominado Fundo do Património Mundial.
 
@@ -608,7 +619,7 @@ e) Quaisquer outros recursos autorizados pelo regulamento que o Comité do Patri
 
 4 - O destino das contribuições feitas ao Fundo e das demais formas de assistência prestadas ao Comité será estabelecido por este. O Comité poderá aceitar contribuições destinadas apenas a um certo programa ou a um determinado projecto desde que a aplicação de tal programa ou a execução de tal projecto tenha sido decidida pelo Comité. As contribuições ao Fundo não poderão estar sujeitas a qualquer condição política.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1 - Sem prejuízo de qualquer contribuição voluntária complementar, os Estados parte na presente Convenção comprometem-se a pagar regularmente, de dois em dois anos, ao Fundo do Património Mundial, contribuições, cujo montante, calculado segundo uma percentagem uniforme aplicável a todos os Estados, será decidido pela assembleia geral dos Estados parte na Convenção, reunidos no decurso de sessões da Conferência Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura. Tal decisão da assembleia geral requer a maioria dos Estados parte, presentes e votantes, que não tenham formulado a declaração referida no parágrafo 2 do presente artigo. A contribuição obrigatória dos Estados parte na Convenção não poderá, em caso algum, ultrapassar 1% da sua contribuição para o orçamento ordinário da Organização das Nações Unidas para a Educação, Ciência e Cultura.
 
@@ -620,25 +631,25 @@ e) Quaisquer outros recursos autorizados pelo regulamento que o Comité do Patri
 
 5 - Qualquer Estado parte na Convenção que se encontre atrasado no pagamento da sua contribuição obrigatória ou voluntária, relativamente ao ano em curso e ao ano civil imediatamente anterior, não poderá ser eleito para o Comité do Património Mundial; tal disposição não se aplica aquando da primeira eleição. O mandato de um tal Estado, já membro do Comité, terminará no momento de qualquer eleição referida no parágrafo 1 do artigo 8.º da presente Convenção.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Os Estados parte na presente Convenção deverão estabelecer ou promover a criação de fundações ou de associações nacionais, públicas e privadas, cujo objectivo seja o encorajamento da protecção do património cultural e natural, conforme definido pelos artigos 1.º e 2.º da presente Convenção.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Os Estados parte na presente Convenção deverão contribuir nas campanhas internacionais de colecta, organizadas em favor do Fundo do Património Mundial, sob os auspícios da Organização das Nações Unidas para a Educação, Ciência e Cultura. Deverão facilitar as colectas feitas com tais objectivos pelos organismos mencionados no parágrafo 3 do artigo 15.º
 
 V - Condições e modalidades de assistência internacional
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Qualquer Estado parte na presente Convenção poderá solicitar assistência internacional em favor dos bens do património cultural ou natural de valor universal excepcional situados no seu território. Deverá anexar ao pedido de assistência os elementos informativos e os documentos mencionados no artigo 21.º, de que dispõe, e de que o Comité necessitar para tomar a sua decisão.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Sob reserva das disposições do parágrafo 2 do artigo 13.º, da alínea c) do artigo 22.º e do artigo 23.º, a assistência internacional prevista pela presente Convenção apenas poderá ser concedida a bens do património cultural e natural que o Comité do Património Mundial tenha decidido ou decida fazer figurar numa das listas referidas nos parágrafos 2 e 4 do artigo 11.º
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 1 - O Comité do Património Mundial deverá estabelecer as normas para o exame dos pedidos de assistência internacional que lhe sejam dirigidos e deverá precisar, nomeadamente, os elementos a figurar no pedido, o qual deverá descrever a operação a executar, os trabalhos necessários, uma estimativa do custo dos mesmos, urgência e os motivos pelos quais os recursos do Estado que tenha formulado o pedido não lhe permitem fazer face à totalidade das despesas. Os pedidos deverão, sempre que possível, basear-se na opinião de peritos.
 
@@ -646,7 +657,7 @@ Sob reserva das disposições do parágrafo 2 do artigo 13.º, da alínea c) do 
 
 3 - Antes de tomar qualquer decisão, o Comité deverá proceder aos estudos e consultas que julgue necessários.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 A assistência concedida pelo Comité do Património Mundial poderá assumir as seguintes formas:
 
@@ -662,37 +673,37 @@ e) Empréstimos a juro reduzido, isentos de juros ou que possam ser reembolsados
 
 f) Concessão, em casos excepcionais e especialmente motivados, de subvenções não reembolsáveis.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 O Comité do Património Mundial poderá igualmente fornecer assistência internacional a centros nacionais ou regionais de formação de especialistas, a todos os níveis, nos domínios da identificação, protecção, conservação, valorização e restauro do património cultural e natural.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 Uma assistência internacional de elevada importância apenas poderá ser concedida após estudo científico, económico e técnico detalhado. Tal estudo deverá recorrer às mais avançadas técnicas de protecção, conservação, valorização e restauro do património cultural e natural e corresponder aos objectivos da presente Convenção. Deverá ainda pesquisar os meios para a utilização racional dos recursos disponíveis no Estado interessado.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 O financiamento dos trabalhos necessários apenas deverá, em princípio, incumbir parcialmente à comunidade internacional. A participação do Estado que beneficie da assistência internacional deverá constituir parte substancial dos recursos atribuídos a cada programa ou projecto, excepto se os seus recursos não lho permitam.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 O Comité do Património Mundial e o Estado beneficiário deverão definir, em acordo a concluir, as condições para a execução do programa ou projecto ao qual é concedida assistência internacional, nos termos da presente Convenção. Competirá ao Estado que receba tal assistência internacional continuar a proteger, conservar e valorizar os bens assim salvaguardados, em conformidade com as condições definidas no acordo.
 
 VI - Programas educativos
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 1 - Os Estados parte na presente Convenção esforçar-se-ão, por todos os meios apropriados, nomeadamente mediante programas de educação e de informação, por reforçar o respeito e o apego dos seus povos ao património cultural e natural definido nos artigos 1.º e 2.º da Convenção.
 
 2 - Comprometem-se a informar largamente o público das ameaças a que está sujeito tal património e das actividades levadas a cabo em aplicação da presente Convenção.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Os Estados parte na presente Convenção que recebam assistência internacional, em aplicação da Convenção, deverão tomar as medidas necessárias no sentido de dar a conhecer a importância dos bens que constituem o objecto de tal assistência e o papel desempenhado por esta.
 
 VII - Relatórios
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 1 - Os Estados parte na presente Convenção deverão indicar nos relatórios a apresentar à Conferência Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura, às datas e sob as formas que entender, as disposições legais e regulamentares e as demais medidas que tenham sido adoptadas para aplicação da Convenção, bem como a experiência que tenham adquirido na matéria.
 
@@ -702,27 +713,27 @@ VII - Relatórios
 
 VIII - Cláusulas finais
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 A presente Convenção foi redigida em inglês, árabe, espanhol, francês e russo, fazendo os cinco textos igualmente fé.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 1 - A presente Convenção será submetida à ratificação ou aceitação dos Estados membros da Organização das Nações Unidas para a Educação, Ciência e Cultura, em conformidade com as suas respectivas normas constitucionais.
 
 2 - Os instrumentos de ratificação ou aceitação serão depositados junto do director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 1 - A presente Convenção fica aberta à adesão de qualquer Estado não membro da Organização das Nações Unidas para a Educação, Ciência e Cultura convidado a ela aderir pela Conferência Geral da Organização.
 
 2 - A adesão terá lugar mediante o depósito de um instrumento de adesão junto do director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 A presente Convenção entrará em vigor três meses após a data do depósito do vigésimo instrumento de ratificação, aceitação ou adesão, mas unicamente para os Estados que tenham depositado os seus respectivos instrumentos de ratificação, aceitação ou adesão em tal data, ou anteriormente. Para qualquer outro Estado, entrará em vigor três meses após o depósito do respectivo instrumento de ratificação, aceitação ou adesão.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 As disposições abaixo aplicar-se-ão aos Estados parte na presente Convenção com sistema constitucional federativo ou não unitário:
 
@@ -730,7 +741,7 @@ a) No que se refere às disposições da presente Convenção cuja aplicação s
 
 b) No que se refere às disposições da presente Convenção cuja aplicação seja da competência da acção legislativa de cada um dos Estados, regiões, províncias ou cantões que constituem o Estado federal, que não sejam obrigados, em virtude do sistema constitucional da Federação, a tomar medidas legislativas, o Governo federal levará as referidas disposições, acompanhadas do seu parecer favorável, ao conhecimento das autoridades competentes dos referidos Estados, regiões, províncias ou cantões.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 1 - Cada um dos Estados parte na presente Convenção terá a faculdade de denunciar a Convenção.
 
@@ -738,17 +749,17 @@ b) No que se refere às disposições da presente Convenção cuja aplicação s
 
 3 - A denúncia tomará efeito doze meses após a data da recepção do instrumento da denúncia. Em nada alterará as obrigações financeiras a assumir pelo Estado que a tenha efectuado, até à data em que a retirada tome efeito.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 O director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura informará os Estados membros da Organização e os Estados não membros referidos no artigo 32.º, bem como a Organização das Nações Unidas, do depósito de todos os instrumentos de ratificação, aceitação ou adesão mencionados nos artigos 31.º e 32.º, e das denúncias previstas pelo artigo 35.º
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 1 - A presente Convenção poderá ser revista pela Conferência Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura. A revisão apenas vinculará, no entanto, os Estados que se tornem parte na Convenção revista.
 
 2 - Caso a Conferência Geral adopte uma nova convenção que constitua revisão total ou parcial da presente Convenção, e salvo disposições em contrário da nova convenção, a presente Convenção deixará de estar aberta a ratificação, aceitação ou adesão a partir da data da entrada em vigor da nova convenção.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 Em conformidade com o artigo 102.º da Carta das Nações Unidas, a presente Convenção será registada no Secretariado das Nações Unidas, a pedido do director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura.
 

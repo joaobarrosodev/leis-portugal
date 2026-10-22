@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/34/1998/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1998-243882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:09:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a9fc11ef04aaa529dddace293cd2aca47f0dd8d5e92bb65d937983ee6dca344
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9ef210c32a53543d89e7e6572d4cf340e8633ae791632a10015d1ddce2a93b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:09:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
 subjects:
 - Convenção
 - Cooperação Bilateral
-- Cooperação Técnica
-- Portugal
-- Património Cultural
-- Lisboa
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Internacional
+- Cooperação Técnica
+- Lisboa
+- Património Cultural
+- Portugal
 relationships: []
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:09:06Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1998. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - Eduardo Carrega Marçal Grilo - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.
 
-**Assinado em 31 de Julho de 1998.**
+Assinado em 31 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Agosto de 1998.**
+Referendado em 6 de Agosto de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA ESLOVÉNIA SOBRE COOPERAÇÃO NOS DOMÍNIOS DA EDUCAÇÃO, DA CULTURA E DA CIÊNCIA.
 

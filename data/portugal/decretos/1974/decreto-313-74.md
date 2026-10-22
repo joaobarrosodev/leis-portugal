@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/313-1974-476330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82845b8acc84187e47cc6d40a4a961c20c199c1c4122d09e875424aba293b82c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f04172c7a79ee5dbadb5e18e5111174720a919c4ade2d23553cd49b2303dc03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516684:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:44Z'
   warnings: []
   errors: []
 ---
@@ -90,26 +98,26 @@ Tendo em vista o preceituado no § 3.º do artigo 136.º da Constituição, por 
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É autorizado o Governo da Guiné a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 35000000$00, com contrapartida nos saldos das contas de exercícios findos, destinado a reforçar verbas insuficientemente dotadas da tabela de despesa ordinária do orçamento geral da província em vigor.
+Artigo 1.º É autorizado o Governo da Guiné a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 35000000$00, com contrapartida nos saldos das contas de exercícios findos, destinado a reforçar verbas insuficientemente dotadas da tabela de despesa ordinária do orçamento geral da província em vigor.
 
-###### Art. 2.º É criado um lugar de professor do 4.º grupo do quadro comum do ciclo preparatório do ensino secundário do ultramar, destinado à escola preparatória de Macau.
+Art. 2.º É criado um lugar de professor do 4.º grupo do quadro comum do ciclo preparatório do ensino secundário do ultramar, destinado à escola preparatória de Macau.
 
-###### Art. 3.º A alínea d) do artigo 7.º do [Decreto n.º 207/70](https://diariodarepublica.pt/dr/detalhe/decreto/207-1970-142287), de 12 de Maio, passa a ter a seguinte redacção:
+Art. 3.º A alínea d) do artigo 7.º do [Decreto n.º 207/70](https://diariodarepublica.pt/dr/detalhe/decreto/207-1970-142287), de 12 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 7.º - 1. ...
+Art. 7.º - 1. ...
 
 ...
 
 d) Técnico de 1.ª classe - por nomeação ou contrato de indivíduo com licenciatura adequada ao exercício da função.
 
-###### Art. 4.º É fixada em 1600000$00 a importância a despender no ano económico de 1974, por conta do Fundo a que se refere o artigo 17.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962, com a instalação de serviços e apetrechamento do edifício do Ministério da Coordenação Interterritorial.
+Art. 4.º É fixada em 1600000$00 a importância a despender no ano económico de 1974, por conta do Fundo a que se refere o artigo 17.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962, com a instalação de serviços e apetrechamento do edifício do Ministério da Coordenação Interterritorial.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - António de Almeida Santos.
 
-**Promulgado em 3 de Julho de 1974.**
+Promulgado em 3 de Julho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - Almeida Santos.

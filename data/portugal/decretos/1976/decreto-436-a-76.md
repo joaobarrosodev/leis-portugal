@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 129/1976, 1º Suplemento, Série I de 1976-06-02
   number: '129'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1240-(1) a 1240-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/12901/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/436-a-1976-635840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 788cd9f164dcfe59df660c4c9465f6f93fb18d27a00ced49cad0c0d200d4f699
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 444e2cf77fbf4126ce6987950c79fce3ca2c37a1c49a8f787bc13569cba9ff0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Ensino Secundário
+- Ensino Preparatório
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Gestão Escolar
+- Manual Escolar
+- Ministério da Educação e Investigação Científica
 relationships:
 - type: amended_by
   target: pt:dre:408956:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:428032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408956:por
+  label: Revogado, pelo(a) Decreto n.º 713/76 - Diário da República n.º 235/1976, Série I de 1976-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/713-1976-408956
+  date: '1976-10-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:20Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +120,7 @@ Ao abrigo do artigo único do [Decreto n.º 355/76](https://diariodarepublica.pt
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. O Ministério da Educação e Investigação Científica aprovará previamente todos os livros escolares que nos ensinos preparatório e secundário sejam utilizáveis como livro base, em cada disciplina, para servirem pela primeira vez no ano lectivo de 1976-1977, bem como os que, nas mesmas condições, apareceram no mercado depois de Outubro de 1975.
+Artigo 1.º - 1. O Ministério da Educação e Investigação Científica aprovará previamente todos os livros escolares que nos ensinos preparatório e secundário sejam utilizáveis como livro base, em cada disciplina, para servirem pela primeira vez no ano lectivo de 1976-1977, bem como os que, nas mesmas condições, apareceram no mercado depois de Outubro de 1975.
 
 2. Serão também submetidos à apreciação do Ministério da Educação e Investigação Científica todos os livros escolares de que se façam reedições ou reimpressões, desde que haja alteração do texto ou seja pedido aumento de preço.
 
@@ -108,9 +128,9 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 4. Em relação aos livros do ensino primário, manter-se-ão em vigor as disposições sobre a adopção de novos livros e cadernos escolares, contidas no despacho de 4 de Junho de 1975 do Secretário de Estado da Orientação Pedagógica, produzido ao abrigo do [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967.
 
-###### Art. 2.º Os prazos de vigência dos programas dos ensinos preparatório e secundário serão publicamente anunciados até 5 de Junho de 1976, por despacho ministerial a publicar no Diário da República.
+Art. 2.º Os prazos de vigência dos programas dos ensinos preparatório e secundário serão publicamente anunciados até 5 de Junho de 1976, por despacho ministerial a publicar no Diário da República.
 
-###### Art. 3.º - 1. Os livros que sejam primeiras edições devem ser apresentados, pelos autores, nas direcções-gerais respectivas do Ministério da Educação e Investigação Científica, sob a forma de original não impresso, dactilografado, acompanhado das respectivas gravuras e ilustrações ou fotocópias das mesmas, num total de três exemplares.
+Art. 3.º - 1. Os livros que sejam primeiras edições devem ser apresentados, pelos autores, nas direcções-gerais respectivas do Ministério da Educação e Investigação Científica, sob a forma de original não impresso, dactilografado, acompanhado das respectivas gravuras e ilustrações ou fotocópias das mesmas, num total de três exemplares.
 
 2. Os livros para o 7.º ano da escolaridade deverão ser remetidos à Direcção-Geral do Ensino Secundário.
 
@@ -124,7 +144,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 7. No caso de os originais, ou livros, serem expedidos pelo correio, terão de sê-lo sob registo e com aviso de recepção; se forem entregues em mão, a direcção-geral passará recibo comprovativo da entrega, de que arquivará cópia autenticada com assinatura do autor, ou de quem o represente.
 
-###### Art. 4.º - 1. Cada livro será apreciado por um grupo de professores em exercício, com prática de ensino na disciplina a que o livro se refere, em número variável, mas no mínimo de três, designados pela direcção-geral respectiva.
+Art. 4.º - 1. Cada livro será apreciado por um grupo de professores em exercício, com prática de ensino na disciplina a que o livro se refere, em número variável, mas no mínimo de três, designados pela direcção-geral respectiva.
 
 2. O prazo para a apreciação do livro será de quatro semanas, contadas após o dia da entrega do original na direcção-geral respectiva, prazo esse que poderá ser prorrogado mediante proposta fundamentada da direcção-geral ao Ministro da Educação e Investigação Científica.
 
@@ -134,24 +154,24 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 5. Os resultados da apreciação serão homologados pelos directores-gerais do respectivo ramo de ensino.
 
-###### Art. 5.º - 1. Ao autor, editor, ou a ambos, cabe o direito de recurso para o Ministro da Educação e Investigação Científica, no caso de o livro não ter sido aprovado.
+Art. 5.º - 1. Ao autor, editor, ou a ambos, cabe o direito de recurso para o Ministro da Educação e Investigação Científica, no caso de o livro não ter sido aprovado.
 
 2. A petição de recurso e respectiva alegação deverá ser entregue na direcção-geral respectiva no prazo de cinco dias, contados a partir da data da recepção da notificação respeitante ao resultado da apreciação.
 
 3. A direcção-geral submeterá o processo, devidamente informado, à apreciação do Ministro da Educação e Investigação Científica, que decidirá.
 
-###### Art. 6.º - 1. Os conselhos escolares relativamente aos livros a que se refere este diploma apenas poderão escolher entre os previamente aprovados pelo Ministério da Educação e Investigação Científica.
+Art. 6.º - 1. Os conselhos escolares relativamente aos livros a que se refere este diploma apenas poderão escolher entre os previamente aprovados pelo Ministério da Educação e Investigação Científica.
 
 2. A utilização nas escolas de livros já editados e que não são abrangidos pelo presente decreto dependerá da aprovação dos conselhos escolares, ressalvando-se, no entanto, o disposto no despacho de 12 de Março de 1975 do Secretário de Estado da Orientação Pedagógica relativamente aos livros do ensino preparatório.
 
-###### Art. 7.º Fica revogada, na parte em que contraria o presente diploma, toda a legislação sobre livros escolares.
+Art. 7.º Fica revogada, na parte em que contraria o presente diploma, toda a legislação sobre livros escolares.
 
-###### Art. 8.º Todas as dúvidas emergentes da execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 8.º Todas as dúvidas emergentes da execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 2 de Junho de 1976.**
+Promulgado em 2 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

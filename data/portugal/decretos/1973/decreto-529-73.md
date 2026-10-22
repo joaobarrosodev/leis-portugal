@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/529-1973-412248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e49ee1fe7ef282bc95d3d2b2ff4b3a83b22b2e2fdc20b61cdceb70d137541b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6721722ec86dd1ab0a87e1669641bd4f9a257586809b359a7ca8c61670a1e70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- CTT
+- Regulamento
+- Serviço Postal
+- TAXA Adicional
+relationships:
+- type: cites
+  target: pt:dre:246305:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:16Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +102,7 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O § único do artigo 29.º do Regulamento para Execução de Encomendas Postais nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 40441](https://diariodarepublica.pt/dr/detalhe/decreto/40441-1955-246305), de 20 de Dezembro de 1955, passa a denominar-se § 1.º, sendo aditados ao mesmo artigo os seguintes parágrafos:
+Artigo único. O § único do artigo 29.º do Regulamento para Execução de Encomendas Postais nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 40441](https://diariodarepublica.pt/dr/detalhe/decreto/40441-1955-246305), de 20 de Dezembro de 1955, passa a denominar-se § 1.º, sendo aditados ao mesmo artigo os seguintes parágrafos:
 
 § 2.º Os Governadores das províncias ultramarinas, quando as circunstâncias o aconselharem, poderão determinar, ouvidos os serviços provinciais das alfândegas, que se exijam temporariamente direitos de exportação para certas mercadorias exportadas por via postal.
 
@@ -103,10 +112,10 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Setembro de 1973.**
+Promulgado em 28 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

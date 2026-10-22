@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/2021/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-2021-153341278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e01ed255087a755cad9b3c55b0538084ed128d24ff082022a0bbb0105ac6871
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c71653cb67bf31b2166e863b2f87d6bb600d7d972d340c33b52858cacd7924c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,21 @@ subjects:
 - Autoridade Nacional
 - Autoridade Nacional de Segurança
 - Convenção
-- Portugal
 - Documentação Classificada
-- Lisboa
 - Hungria
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:52Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +105,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 10 de dezembro de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - Mariana Guimarães Vieira da Silva.
 
-**Assinado em 23 de dezembro de 2020.**
+Assinado em 23 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2020.**
+Referendado em 29 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A HUNGRIA RELATIVO À TROCA E À PROTEÇÃO MÚTUA DE INFORMAÇÃO CLASSIFICADA
 
@@ -187,7 +187,7 @@ Nemzeti Biztonsági Felügyelet (National Security Authority).
 
 A equivalência entre os respetivos graus de classificação de segurança é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
 
 ###### Artigo 5.º — Acesso à informação classificada
 
@@ -271,7 +271,7 @@ e) Obrigação de notificação de qualquer divulgação não autorizada, acesso
 
 ###### Artigo 11.º — Visitas
 
-1 - Com exceção das visitas que envolvam acesso a informação classificada marcada como Reservado/[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)/Restricted, que podem ser acordadas diretamente entre os encarregados de segurança das respetivas entidades, as visitas que envolvam acesso a informação classificada estão sujeitas a autorização prévia, por escrito, conferida pela autoridade de segurança competente da Parte anfitriã.
+1 - Com exceção das visitas que envolvam acesso a informação classificada marcada como Reservado/[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)/Restricted, que podem ser acordadas diretamente entre os encarregados de segurança das respetivas entidades, as visitas que envolvam acesso a informação classificada estão sujeitas a autorização prévia, por escrito, conferida pela autoridade de segurança competente da Parte anfitriã.
 
 2 - A autoridade nacional de segurança da Parte visitante deve notificar a autoridade de segurança competente da Parte anfitriã mediante um pedido de visita com uma antecedência mínima de 20 dias.
 
@@ -357,11 +357,11 @@ Feito em Lisboa, aos 28 de junho de 2018, em dois originais, cada um nas língua
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
 
 Pela Hungria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND HUNGARY ON EXCHANGE AND MUTUAL PROTECTION OF CLASSIFIED INFORMATION
 
@@ -441,7 +441,7 @@ Security classification levels
 
 The equivalence of the respective security classification levels is as follows:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
 
 Article 5
 
@@ -539,7 +539,7 @@ Article 11
 
 Visits
 
-1 - With exception of visits entailing access to classified information marked as [([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)/Reservado/Restricted which may be arranged directly between security officers of the entities concerned, visits entailing access to classified information are subject to prior written consent given by the national security authority of the host Party.
+1 - With exception of visits entailing access to classified information marked as [(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)/Reservado/Restricted which may be arranged directly between security officers of the entities concerned, visits entailing access to classified information are subject to prior written consent given by the national security authority of the host Party.
 
 2 - The national security authority of the visiting Party shall notify the national security authority of the host Party about the planned visit through a request for visit at least twenty days before the visit takes place.
 
@@ -641,8 +641,10 @@ Done in Lisbon, on 28th of June 2018, in two originals, in hungarian, portuguese
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
 
 For Hungary:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf))](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/00500/0000700026.pdf)
+
+113851157

@@ -47,40 +47,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/735-1974-468036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d64dc7b526baf869ec5abcc6e1c482f30f44ba5d328e0f0d9963082d91a7067
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d4a070d70b66b1b28dd4725994f3024ea4d7d4be9fa91432e9f8bdd7e018ace
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Imóvel Classificado
+- Património Cultural
+- Protecção do Património
 relationships:
 - type: amended_by
   target: pt:dre:66655591:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621157:por
+  label: "Desclassificado o «Forte Novo ou da Armação», no distrito de Faro, como imóvel de interesse público, pelo DEC.2/96.06.03.1996.MC,\
+    \ DR.IS-B [56] de 06.03.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/2-1996-621157
+  date: '1996-03-06'
+- type: amended_by
+  target: pt:dre:278071:por
+  label: "Alterado, na parte referente ao «Palácio dos Condes de Farrobo, incluindo o chafariz localizado na Estrada de Benfica,\
+    \ distrito de Lisboa, classificado como imóvel de interesse público, pelo artigo 2.º do presente diploma, pelo DEC.5/2002.2002.02.19.MC,\
+    \ DR.IS-B [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/5-2002-278071
+  date: '2002-02-19'
+- type: amended_by
+  target: pt:dre:2213915:por
+  label: "Desclassificados os \"Prédios na Rua de Santa Marta, 44, 46 e 48\", em Lisboa, pelo DESP.740-DC/2012.24.12.2012.SECU-PCM,\
+    \ DR.IIS [248-Supl.] de 24.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/740-dc-2012-2213915
+  date: '2012-12-24'
+- type: amended_by
+  target: pt:dre:66655591:por
+  label: Reclassificado como monumento nacional o Cromeleque dos Almendres, na Herdade dos Almendres, União das Freguesias
+    de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe, concelho e distrito de Évora, classificado como imóvel de interesse
+    público pelo presente diploma, pelo(a) Decreto n.º 4/2015 - Diário da República n.º 44/2015, Série I de 2015-03-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/4-2015-66655591
+  date: '2015-03-04'
+- type: cites
+  target: pt:dre:195002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528063:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:20Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +140,7 @@ de 21 de Dezembro
 
 Nos termos dos artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, e do n.º 1.º do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965;Usando da faculdade conferida pelo n.º 1.º, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
+Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
 
 Distrito de Coimbra:Concelho de Aguiar da Beira - Dólmen de Carapito I, também conhecido por «Casa da Moura», na freguesia de Carapito.
 
@@ -115,7 +164,7 @@ Distrito de Viseu:
 
 Concelho de Carregal do Sal - Dólmen da Orca, ou Lapa da Orca, em Oliveira do Conde.
 
-###### Art. 2.º São classificados como imóveis de interesse público os seguintes imóveis:
+Art. 2.º São classificados como imóveis de interesse público os seguintes imóveis:
 
 Distrito de Angra do Heroísmo:
 
@@ -275,7 +324,7 @@ Concelho de Tondela - Capela de Nossa Senhora do Campo, na freguesia de Campo de
 
 Concelho de Viseu - Conjunto de quatro lagares cavados na rocha, existentes na freguesia de Vila Chã de Sá e situados, respectivamente, no local conhecido por Brunhal; ao quilómetro 180,550 da estrada nacional n.º 2; no local designado por Pedra do Altar e no pinhal das Martelas.
 
-###### Art. 3.º São classificados como valores concelhios os seguintes imóveis:
+Art. 3.º São classificados como valores concelhios os seguintes imóveis:
 
 Distrito de Coimbra:
 
@@ -293,7 +342,7 @@ Distrito do Porto:
 
 Concelho de Matosinhos - Duas sepulturas abertas na rocha granítica, no lugar de Pampelido, freguesia de Perafita.
 
-###### Art. 4.º Fica esclarecido:
+Art. 4.º Fica esclarecido:
 
 a) Que a classificação como imóvel de interesse público limitada pelo [Decreto n.º 39175](https://diariodarepublica.pt/dr/detalhe/decreto/39175-1953-528063), de 17 de Abril de 1953, à parte constituída por abside e absidíolas da Igreja de S. Francisco, em Guimarães, passa a abranger o claustro e o edifício barroco da Ordem Terceira, incluindo a sacristia do século XVIII da igreja joanina;
 
@@ -303,8 +352,8 @@ c) Que na classificação como imóvel de interesse público do Forte do Pessegu
 
 Vasco dos Santos Gonçalves - Manuel Rodrigues de Carvalho.
 
-**Promulgado em 12 de Dezembro de 1974.**
+Promulgado em 12 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

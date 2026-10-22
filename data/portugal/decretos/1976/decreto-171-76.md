@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/171-1976-507390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 503c3771055cb227d47e695485c1bad5122dcd9d53241172fa5bfc5564f39690
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b231a4d38116674d818d5bb4c8a61939d185619a50673ad9111cf290f492220f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Conservador
+- Notário
+- Regulamento
+- Regulamento dos Serviços dos Registos e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:383248:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383248:por
+  label: "Alterados os arts. 35.º, 36.º, 37.º e 60.º do Decreto n.º 314/70, de 08 de Julho, na redacção do presente diploma,\
+    \ pelo DR.6/79.16.03.1979.MJ, DR.IS [63] de 16.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-1979-383248
+  date: '1979-03-16'
+- type: cites
+  target: pt:dre:140169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622824:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:03Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +127,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 29.º, 31.º, 35.º, 36.º, 37.º, 38.º, 39.º e 60.º do [Decreto n.º 314/70](https://diariodarepublica.pt/dr/detalhe/decreto/314-1970-140169), de 8 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 29.º, 31.º, 35.º, 36.º, 37.º, 38.º, 39.º e 60.º do [Decreto n.º 314/70](https://diariodarepublica.pt/dr/detalhe/decreto/314-1970-140169), de 8 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 29.º - 1. ...
+Art. 29.º - 1. ...
 
 2. A duração dos períodos de estágio conta-se a partir da posse, seguida de exercício, das funções de ajudante, descontando-se nela as faltas dadas além de duas em cada mês.
 
@@ -114,29 +137,29 @@ Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitu
 
 ...
 
-###### Art. 31.º - 1. ...
+Art. 31.º - 1. ...
 
 2. Terminado o estágio, o conservador ou notário junto de quem seja efectuado enviará à Direcção-Geral informação sobre a assiduidade do estagiário, com indicação do número de dias em que tenha prestado assistência efectiva ao serviço da conservatória ou cartório.
 
 ...
 
-###### Art. 35.º - 1. O concurso consta de provas práticas destinadas a apreciar a preparação e capacidade dos candidatos para o exercício das funções de conservador e notário.
+Art. 35.º - 1. O concurso consta de provas práticas destinadas a apreciar a preparação e capacidade dos candidatos para o exercício das funções de conservador e notário.
 
 2. As provas, que são escritas, consistem na redacção de actos de registo e do notariado conexionados com as matérias de direito civil e comercial de mais frequente aplicação naqueles domínios, ou na fundamentação da sua recusa, conforme as hipóteses apresentadas, na resolução de problemas de aplicação das tabelas emolumentares e na resposta a temas sobre a orgânica e legislação especial dos serviços.
 
 3. Os programas gerais das provas e a forma de as prestar serão objecto de regulamento aprovado pelo Ministro da Justiça.
 
-###### Art. 36.º - 1. Do resultado das provas será imediatamente lavrado termo, assinado pelo júri, em livro próprio da Direcção-Geral dos Registos e do Notariado, do qual constarão especificamente os candidatos considerados aptos a desempenhar as funções de conservador e notário, os que não tenham demonstrado essa aptidão e os que, por qualquer motivo, não hajam completado as provas.
+Art. 36.º - 1. Do resultado das provas será imediatamente lavrado termo, assinado pelo júri, em livro próprio da Direcção-Geral dos Registos e do Notariado, do qual constarão especificamente os candidatos considerados aptos a desempenhar as funções de conservador e notário, os que não tenham demonstrado essa aptidão e os que, por qualquer motivo, não hajam completado as provas.
 
 2. Esse resultado será anunciado, dentro dos primeiros três dias posteriores ao termo das provas, através da afixação, na Direcção-Geral, de uma relação dos candidatos considerados aptos a desempenhar as referidas funções.
 
-###### Art. 37.º - 1. Os candidatos que tenham completado as provas escritas e cujo nome não conste da relação a que se refere o n.º 2 do artigo 36.º podem, no prazo de três dias contados a partir do da afixação do resultado, requerer, por escrito, ao presidente do júri a prestação de provas orais, que serão igualmente práticas e incidindo sobre as matérias do programa.
+Art. 37.º - 1. Os candidatos que tenham completado as provas escritas e cujo nome não conste da relação a que se refere o n.º 2 do artigo 36.º podem, no prazo de três dias contados a partir do da afixação do resultado, requerer, por escrito, ao presidente do júri a prestação de provas orais, que serão igualmente práticas e incidindo sobre as matérias do programa.
 
 2. Dentro dos três dias seguintes ao fim do prazo indicado no n.º 1 será afixada, na Direcção-Geral, a lista dos candidatos admitidos às provas orais, marcando-se, também, o dia, hora e local para a sua realização.
 
 3. Do resultado dessas provas será lavrado termo nos moldes referidos no n.º 1 do artigo 36.º, devidamente adaptados, sendo tal resultado anunciado pela forma e no prazo estabelecidos no n.º 2 daquele artigo.
 
-###### Art. 38.º - 1. As provas serão prestadas perante um júri nomeado pelo Ministro da Justiça e constituído:
+Art. 38.º - 1. As provas serão prestadas perante um júri nomeado pelo Ministro da Justiça e constituído:
 
 a) Pelo director-geral dos Registos e do Notariado ou por um funcionário superior da respectiva Direcção-Geral, que servirá de presidente;
 
@@ -144,11 +167,11 @@ b) Por quatro vogais, sendo um conservador do registo civil, um conservador do r
 
 2. O júri decide por maioria de votos, tendo o presidente apenas voto de desempate.
 
-###### Art. 39.º O concurso só pode ser repetido uma vez, não sendo, porém, de considerar para o efeito os casos de falta às provas escritas ou de desistência no seu decurso.
+Art. 39.º O concurso só pode ser repetido uma vez, não sendo, porém, de considerar para o efeito os casos de falta às provas escritas ou de desistência no seu decurso.
 
 ...
 
-###### Art. 60.º - 1. ...
+Art. 60.º - 1. ...
 
 a) ...
 
@@ -170,12 +193,12 @@ e) Entre candidatos a primeira nomeação, aos que tiverem sido aprovados ou con
 
 6. ...
 
-###### Art. 2.º A gratificação a que se refere o n.º 1 do artigo 41.º do [Decreto n.º 314/70](https://diariodarepublica.pt/dr/detalhe/decreto/314-1970-140169) passa a ser de 250$00.
+Art. 2.º A gratificação a que se refere o n.º 1 do artigo 41.º do [Decreto n.º 314/70](https://diariodarepublica.pt/dr/detalhe/decreto/314-1970-140169) passa a ser de 250$00.
 
 José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 18 de Fevereiro de 1976.**
+Promulgado em 18 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

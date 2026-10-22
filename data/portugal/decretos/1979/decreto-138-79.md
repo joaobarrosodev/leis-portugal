@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 289/1979, 1º Suplemento, Série I de 1979-12-17
   number: '289'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3238-(1) a 3238-(263)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf
 entry_into_force_dates: []
@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/138-1979-349147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae8770ba92e09cbb140339ec058cc8e2bbf49a98bd156100ae51a12c445ecf88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f66abc6bba88a66e788d628a9076b195743d49ff8dfcae7b3e1eb073545835a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- EFTA
+- Espanha
+- Portugal
 relationships: []
 article_structure:
-  article_count: 81
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 52
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:07Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 17 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre os Países da Associação Europeia de Comércio Livre e a Espanha, assinado em Madrid em 26 de Junho de 1979, cujo texto em inglês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo entre os Países da Associação Europeia de Comércio Livre e a Espanha, assinado em Madrid em 26 de Junho de 1979, cujo texto em inglês e respectiva tradução para português acompanham o presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz - Carlos Jorge Mendes Correia Gago - Acácio Manuel Pereira Magro.
 
-**Assinado em 6 de Dezembro de 1979.**
+Assinado em 6 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Record of understandings
 
@@ -636,7 +640,7 @@ Done at Madrid the 26th day of June, 1979, in a single authentic copy in the Eng
 
 ANNEXES TO THE AGREEMENT, LISTS AND PROTOCOLS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 AGREEMENT ON THE VALIDITY OF THE AGREEMENT BETWEEN THE EFTA COUNTRIES AND SPAIN FOR THE PRINCIPALITY OF LIECHTENSTEIN.
 
@@ -708,7 +712,7 @@ Se a Espanha aplicar medidas de compensação de preços ao abrigo do parágrafo
 
 Relativamente ao anexo III:
 
-###### Artigo 2. - 1 - O artigo 2 do anexo III, relativo às regras de origem, apenas prevê a acumulação diagonal entre os países da AECL e a Espanha. É desejo das Partes Contratantes estabelecer um sistema pelo qual, nas relações entre a Comunidade e a Espanha, entre a Comunidade e os países da AECL, entre os próprios países da AECL e entre os países da AECL e a Espanha, se aplique a mais vasta acumulação possível, baseados nos mesmos princípios que informaram o artigo 2 do anexo III.
+Artigo 2. - 1 - O artigo 2 do anexo III, relativo às regras de origem, apenas prevê a acumulação diagonal entre os países da AECL e a Espanha. É desejo das Partes Contratantes estabelecer um sistema pelo qual, nas relações entre a Comunidade e a Espanha, entre a Comunidade e os países da AECL, entre os próprios países da AECL e entre os países da AECL e a Espanha, se aplique a mais vasta acumulação possível, baseados nos mesmos princípios que informaram o artigo 2 do anexo III.
 
 2 - Com essa finalidade foi acordado entre os países da AECL e a Espanha, logo que se concluam os acordos necessários acerca de um tal sistema de acumulação, adoptar de imediato uma decisão do Comité Misto a alterar nesse sentido o artigo 2 e, se necessário, outras disposições do anexo III.
 
@@ -788,67 +792,67 @@ ACORDO ENTRE OS PAÍSES DA AECL E A ESPANHA
 
 Preâmbulo.
 
-###### Artigo 1 - Objectivo do Acordo.
+Artigo 1 - Objectivo do Acordo.
 
-###### Artigo 2 - Produtos abrangidos.
+Artigo 2 - Produtos abrangidos.
 
-###### Artigo 3 - Direitos e outros obstáculos ao comércio.
+Artigo 3 - Direitos e outros obstáculos ao comércio.
 
-###### Artigo 4 - Direitos de base.
+Artigo 4 - Direitos de base.
 
-###### Artigo 5 - Direitos de exportação.
+Artigo 5 - Direitos de exportação.
 
-###### Artigo 6 - Medidas fiscais.
+Artigo 6 - Medidas fiscais.
 
-###### Artigo 7 - Regras de origem.
+Artigo 7 - Regras de origem.
 
-###### Artigo 8 - Restrições quantitativas à importação.
+Artigo 8 - Restrições quantitativas à importação.
 
-###### Artigo 9 - Comércio dos produtos agrícolas.
+Artigo 9 - Comércio dos produtos agrícolas.
 
-###### Artigo 10 - Aplicação da política agrícola.
+Artigo 10 - Aplicação da política agrícola.
 
-###### Artigo 11 - Pagamentos.
+Artigo 11 - Pagamentos.
 
-###### Artigo 12 - Relações comerciais reguladas por este e outros acordos.
+Artigo 12 - Relações comerciais reguladas por este e outros acordos.
 
-###### Artigo 13 - Excepções gerais.
+Artigo 13 - Excepções gerais.
 
-###### Artigo 14 - Excepções relativas à segurança.
+Artigo 14 - Excepções relativas à segurança.
 
-###### Artigo 15 - Cumprimento das obrigações decorrentes do Acordo.
+Artigo 15 - Cumprimento das obrigações decorrentes do Acordo.
 
-###### Artigo 16 - Regras de concorrência.
+Artigo 16 - Regras de concorrência.
 
-###### Artigo 17 - Desvio de tráfico.
+Artigo 17 - Desvio de tráfico.
 
 ###### Artigo 18 - Dumping.
 
-###### Artigo 19 - Dificuldades em sectores ou regiões específicos.
+Artigo 19 - Dificuldades em sectores ou regiões específicos.
 
-###### Artigo 20 - Medidas de salvaguarda e regras para a sua aplicação.
+Artigo 20 - Medidas de salvaguarda e regras para a sua aplicação.
 
-###### Artigo 21 - Dificuldades da balança de pagamentos.
+Artigo 21 - Dificuldades da balança de pagamentos.
 
-###### Artigo 22 - Instituição do Comité Misto.
+Artigo 22 - Instituição do Comité Misto.
 
-###### Artigo 23 - Funcionamento do Comité Misto.
+Artigo 23 - Funcionamento do Comité Misto.
 
-###### Artigo 24 - Anexos e listas.
+Artigo 24 - Anexos e listas.
 
-###### Artigo 25 - Aplicação territorial.
+Artigo 25 - Aplicação territorial.
 
-###### Artigo 26 - Alterações ao Acordo.
+Artigo 26 - Alterações ao Acordo.
 
-###### Artigo 27 - Denúncia e cessação da vigência.
+Artigo 27 - Denúncia e cessação da vigência.
 
-###### Artigo 28 - Entrada em vigor.
+Artigo 28 - Entrada em vigor.
 
 Anexos e listas
 
 Lista 1 [referida na alínea a) do parágrafo 1 do artigo 2].
 
-## Anexo I ao Acordo - Reduções de direitos aplicáveis pelos países da AECL:
+Anexo I ao Acordo - Reduções de direitos aplicáveis pelos países da AECL:
 
 Lista A do anexo I - Produtos do carvão e do aço.
 
@@ -860,7 +864,7 @@ Lista D do anexo I - Produtos sujeitos às reduções de 30% e 40%.
 
 Lista E do anexo I - Lista de produtos com calendários especiais de redução de direitos.
 
-## Anexo II ao Acordo - Reduções aplicáveis em Espanha:
+Anexo II ao Acordo - Reduções aplicáveis em Espanha:
 
 Lista A do anexo II - Produtos sujeitos à redução de 60%.
 
@@ -870,25 +874,25 @@ Lista C do anexo II - Produtos agrícolas transformados.
 
 Lista D do anexo II - Peixe e produtos da pesca.
 
-## Anexo III ao Acordo - Definição de produtos originários e métodos de cooperação administrativa:
+Anexo III ao Acordo - Definição de produtos originários e métodos de cooperação administrativa:
 
-## Apêndice 1 do anexo III - Notas explicativas.
+Apêndice 1 do anexo III - Notas explicativas.
 
-## Apêndice 2 do anexo III - Lista A.
+Apêndice 2 do anexo III - Lista A.
 
-## Apêndice 3 do anexo III - Lista B.
+Apêndice 3 do anexo III - Lista B.
 
-## Apêndice 4 do anexo III - Lista C.
+Apêndice 4 do anexo III - Lista C.
 
-## Apêndice 5 do anexo III - Certificados de circulação EUR.1 referidos nos artigos 8 e 11.
+Apêndice 5 do anexo III - Certificados de circulação EUR.1 referidos nos artigos 8 e 11.
 
-## Apêndice 6 do anexo III - Formulário EUR.2 referido nos artigos 8 e 14.
+Apêndice 6 do anexo III - Formulário EUR.2 referido nos artigos 8 e 14.
 
-## Apêndice 7 do anexo III - Carimbo especial.
+Apêndice 7 do anexo III - Carimbo especial.
 
-## Anexo IV ao Acordo - Restrições quantitativas nos países da AECL.
+Anexo IV ao Acordo - Restrições quantitativas nos países da AECL.
 
-## Anexo V ao Acordo - Restrições quantitativas à importação compreendendo as importações sujeitas a licenciamento em Espanha:
+Anexo V ao Acordo - Restrições quantitativas à importação compreendendo as importações sujeitas a licenciamento em Espanha:
 
 Lista A do anexo V - Lista dos produtos sujeitos ao sistema geral de quotas da OCDE.
 
@@ -896,11 +900,11 @@ Lista B do anexo V - Lista dos produtos sujeitos ao regime do comércio de Estad
 
 Lista C do anexo V - Lista dos produtos sujeitos a um regime de importação não liberalizado nem globalizado.
 
-## Anexo VI ao Acordo - Formas de auxílios governamentais a que se refere o n.º 2 do artigo 16.
+Anexo VI ao Acordo - Formas de auxílios governamentais a que se refere o n.º 2 do artigo 16.
 
-## Anexo VII ao Acordo - Protocolo relativo ao comércio do peixe e dos produtos da pesca.
+Anexo VII ao Acordo - Protocolo relativo ao comércio do peixe e dos produtos da pesca.
 
-## Anexo P ao Acordo - Disposições especiais relativas ao comércio entre Portugal e a Espanha:
+Anexo P ao Acordo - Disposições especiais relativas ao comércio entre Portugal e a Espanha:
 
 Lista A do anexo P.
 
@@ -1196,7 +1200,7 @@ Referida na alínea a) do parágrafo 1 do artigo 2
 
 Produtos, incluídos nos capítulos 25 a 99 da Nomenclatura do Conselho de Cooperação Aduaneira, aos quais se não aplica o Acordo quando importados pelos países AECL Indicados ao lado de cada produto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 ## ANEXO I AO ACORDO — Reduções de direitos aplicáveis pelos países da AECL
 
@@ -1226,7 +1230,7 @@ LISTA A DO ANEXO I
 
 Lista dos produtos do carvão e do aço aos quais se não aplicam as disposições do anexo I do Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 LISTA B DO ANEXO I
 
@@ -1234,7 +1238,7 @@ Lista dos produtos, com exclusão dos produtos do carvão e do aço, a que se n�
 
 As reduções de direitos previstas no anexo I não são aplicáveis aos produtos a seguir referidos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 LISTA C DO ANEXO I
 
@@ -1254,33 +1258,33 @@ b) A aplicação de medidas à exportação.
 
 Áustria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 Finlândia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 Islândia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 Noruega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 Suécia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 Suíça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 LISTA D DO ANEXO I
 
 A não ser aplicável uma disposição da lista E, os países da AECL reduzem os direitos de importação dos produtos abrangidos pelos artigos pautais sem asterisco a seguir indicados em 40% na data inicial, e dos produtos abrangidos pelos artigos pautais com asterisco também a seguir indicados em 30% na data inicial e em 40% em 1 de Janeiro de 1982:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 LISTA E DO ANEXO I
 
@@ -1290,11 +1294,11 @@ I - Áustria
 
 1 - Para os produtos originários da Espanha incluídos nos capítulos 48 e 49 da Pauta Aduaneira Austríaca (papel, cartolina e cartão; obras de pastas de celulose, papel, cartolina e cartão; artigos de livraria e produtos de artes gráficas), com excepção dos produtos referidos nos parágrafo 2, a Áustria reduz os direitos de importação de acordo com o calendário a seguir indicado; para este efeito, consideram-se como direitos de base os direitos aplicados em 1 de Janeiro de 1972:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 2 - Produtos a que pode não aplicar-se o calendário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 3 - Para os produtos dos capítulos 48 e 49, a Áustria reserva-se o direito de introduzir plafonds indicativos, caso tal se venha a tornar absolutamente necessário numa fase ulterior e precedendo consultas no âmbito do Comité Misto. Para as importações que excedam o limite dos plafonds, podem ser reintroduzidos direitos aduaneiros não superiores aos aplicáveis a terceiros países.
 
@@ -1302,7 +1306,7 @@ II - Finlândia
 
 1 - Para os produtos originários de Espanha a seguir indicados nos quadros 1, 2 e 3, a Finlândia reduz os direitos de importação nas seguintes proporções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 2 - Para efeito destas reduções, consideram-se direitos de base os direitos aplicados em 1 de Janeiro de 1972.
 
@@ -1316,19 +1320,19 @@ II - Finlândia
 
 QUADRO 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 QUADRO 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 QUADRO 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 QUADRO 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 III - Noruega
 
@@ -1336,19 +1340,19 @@ III - Noruega
 
 2 - Para os produtos abaixo indicados, a Noruega reserva-se o direito de introduzir plafonds indicativos, caso tal se venha a tornar absolutamente necessário numa fase ulterior e precedendo consultas no âmbito do Comité Misto. Para as importações que excedam o limite dos plafonds, podem ser reintroduzidos direitos aduaneiros não superiores aos aplicáveis a terceiros países.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 IV - Suécia
 
 Para os produtos a seguir indicados, não incluídos na lista A do anexo I, a Suécia reserva-se o direito de introduzir plafonds indicativos, caso tal se venha a tomar absolutamente necessário numa fase ulterior e precedendo consultas no âmbito do Comité Misto. Para as importações que excedam o limite dos plafonds podem ser reintroduzidos direitos aduaneiros não superiores aos aplicáveis a terceiros países.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 V - Suíça
 
 1 - Para os produtos originários de Espanha a seguir indicados nos quadros 1 e 2, a Suíça reduz os direitos de importação nas seguintes percentagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 2 - Para efeito destas reduções, consideram-se direitos de base os direitos aplicados em 1 de Janeiro de 1972.
 
@@ -1360,11 +1364,11 @@ b) A Suíça aplicará este esquema de modo a não estabelecer discriminação, 
 
 QUADRO 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 QUADRO 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 ## ANEXO II AO ACORDO — Reduções aplicáveis em Espanha
 
@@ -1400,9 +1404,9 @@ Para os produtos da parte IV da lista C.
 
 LISTA A, B e C DO ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
-# PARTE I à PARTE IV — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+## PARTE I à PARTE IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 ## ANEXO III AO ACORDO — Definição de produtos originários e métodos de cooperação administrativa
 
@@ -1752,7 +1756,7 @@ Para efeito da aplicação do artigo 2 deste anexo, qualquer produto originário
 
 Notas explicativas
 
-## APÊNDICE 1 DO ANEXO III
+APÊNDICE 1 DO ANEXO III
 
 Nota 1 ao artigo 1:
 
@@ -1796,27 +1800,35 @@ Nota 7 ao parágrafo 1 do artigo 16 e ao artigo 22:
 
 No caso de o certificado EUR.1 ter sido emitido nas condições previstas no parágrafo 3 do artigo 9 e respeitar a mercadoria reexportada no estado em que foi importada, as autoridades aduaneiras do país de destino podem obter, no âmbito da cooperação administrativa, cópias conformes do ou dos certificados EUR.1 respeitantes a tais mercadorias, anteriormente emitidos.
 
-## APÊNDICE 2 DO ANEXO III
+APÊNDICE 2 DO ANEXO III
 
 LISTA A
 
 Lista das operações ou transformações que implicam uma mudança de posição pautal, mas que não conferem a qualidade da «produtos originários aos produtos a elas submetidos, ou que a conferem só em determinadas condições
 
-#### SECÇÃO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+SECÇÃO I
 
-#### SECÇÃO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
-## APÊNDICE 3 DO ANEXO III
+SECÇÃO II
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+
+APÊNDICE 3 DO ANEXO III
 
 LISTA B
 
 Lista das operações ou transformações que não implicam uma mudança de posição pautal, mas que, não obstante, conferem a qualidade de «produtos originários» aos produtos a elas submetidos
 
-#### SECÇÃO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+SECÇÃO I
 
-#### SECÇÃO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
-## APÊNDICE 4 DO ANEXO III
+SECÇÃO II
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+
+APÊNDICE 4 DO ANEXO III
 
 LISTA C
 
@@ -1824,49 +1836,51 @@ Lista dos produtos excluídos do âmbito deste anexo
 
 (O anexo III não contém lista de produtos excluídos do seu âmbito de aplicação.)
 
-## APÊNDICE 5 DO ANEXO III
+APÊNDICE 5 DO ANEXO III
 
 Certificados de circulação EUR.1 referidos nos artigos 8 e 11
 
 CERTIFICADO DE CIRCULAÇÃO DE MERCADORIAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 Anotação. - As palavras «COMÉRCIO AECL - ESPANHA» escrevem-se em encarnado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 PEDIDO DE CERTIFICADO DE CIRCULAÇÃO DE MERCADORIAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 Anotação - As palavras «COMÉRCIO AECL - ESPANHA» escrevem-se em encarnado.
 
 DECLARAÇÃO DO EXPORTADOR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
-## APÊNDICE 6 DO ANEXO III
+APÊNDICE 6 DO ANEXO III
 
 Formulário EUR.2 referido nos artigos 8 e 14
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 Anotação. - As palavras «COMÉRCIO AECL - ESPANHA» escrevem-se em encarnado.
 
-## APÊNDICE 7 DO ANEXO III
+APÊNDICE 7 DO ANEXO III
 
 Carimbo especial a que se refere a alínea b) do parágrafo 4 do artigo 13
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
-## ANEXO IV AO ACORDO — Restrições quantitativas nos países da AECL
+ANEXO IV AO ACORDO
+
+Restrições quantitativas nos países da AECL
 
 Os países da AECL abaixo mencionados podem aplicar restrições quantitativas aos produtos que, relativamente a cada país, se indicam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
-## ANEXO V AO ACORDO
+ANEXO V AO ACORDO
 
 Restrições quantitativas à importação compreendendo as importações sujeitas a licenciamento em Espanha.
 
@@ -1902,21 +1916,23 @@ LISTA A DO ANEXO V
 
 Lista dos produtores sujeitos ao sistema geral de quotas da OCDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 LISTA B DO ANEXO V
 
 Lista dos produtos sujeitos ao regime do comércio de Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 LISTA C DO ANEXO V
 
 Lista dos produtos sujeitos a um regime de importação não liberalizado nem globalizado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
-## ANEXO VI AO ACORDO — Formas de auxílio governamentais a que se refere o n.º 2 do artigo 16
+ANEXO VI AO ACORDO
+
+Formas de auxílio governamentais a que se refere o n.º 2 do artigo 16
 
 a) Sistemas de retenção de divisas ou quaisquer práticas análogas que envolvam a concessão de um prémio às exportações ou às reexportações.
 
@@ -1934,7 +1950,9 @@ g) Concessão pelos Governos (ou por organismos especializados por eles fiscaliz
 
 h) Transferência para os Governos de todos ou parte dos encargos suportados pelos exportadores na obtenção de créditos.
 
-## ANEXO VII AO ACORDO — Protocolo relativo ao comércio de peixe e dos produtos da pesca
+ANEXO VII AO ACORDO
+
+Protocolo relativo ao comércio de peixe e dos produtos da pesca
 
 Além das disposições do Acordo, seus anexos e listas que especificadamente tratam do comércio do peixe e dos produtos da pesca, também o preâmbulo e o disposto nos artigos 1, 2, 3, 22 e 23 do presente Acordo, bem como o que a seguir se dispõe, se aplicam ao comércio de tais produtos.
 
@@ -1950,7 +1968,9 @@ d) O desenvolvimento do comércio do peixe e dos produtos da pesca ficará, pelo
 
 Este exame efectuar-se-á em qualquer altura a pedido de uma das Partes Contratantes.
 
-## ANEXO P AO ACORDO — Disposições especiais relativas ao comércio entre Portugal e a Espanha
+ANEXO P AO ACORDO
+
+Disposições especiais relativas ao comércio entre Portugal e a Espanha
 
 1 - Constam deste anexo as disposições especiais que, em derrogação de outras disposições do presente Acordo, serão aplicadas ao comércio entre Portugal e a Espanha.
 
@@ -1964,13 +1984,13 @@ A 1.ª fase:
 
 5 - Durante a 1.ª fase, Portugal reduzirá os direitos aduaneiros e outras taxas de efeito equivalente, aplicáveis na importação de produtos originários de Espanha, nas percentagens dos direitos de base a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 6 - Durante a 1.ª fase, Portugal poderá aplicar aos produtos não incluídos nas listas A, B e C deste anexo e aos produtos da subposição 85.19.16 da lista C as restrições quantitativas aplicáveis às importações de um país que beneficie do tratamento da nação mais favorecida e com o qual Portugal não tenha concluído um acordo de comércio livre.
 
 7 - Durante a 1.ª fase, a Espanha reduzirá os direitos aduaneiros e outras taxas de efeito equivalente, aplicáveis na importação de produtos originários de Portugal, nas percentagens dos direitos de base a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 8 - A Espanha poderá, contudo, reduzir os direitos aduaneiros de importação:
 
@@ -2026,7 +2046,7 @@ c) Portugal e a Espanha reduzirão os direitos aduaneiros mencionados nas alíne
 
 Da LISTA A à E DO ANEXO P
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28901/00010263.pdf)
 
 ACORDO RELATIVO À APLICAÇÃO AO PRINCIPADO DE LISTENSTAINA DO ACORDO ENTRE OS PAÍSES DA AECL E A ESPANHA
 
@@ -2036,15 +2056,15 @@ Considerando que o Principado de Listenstaina forma uma união aduaneira com a S
 
 Considerando que o Principado de Listenstaina manifestou o desejo de que todas as disposições do Acordo aplicáveis à Suíça lhe sejam igualmente aplicáveis, acordaram o seguinte:
 
-###### ARTIGO 1
+ARTIGO 1
 
 O Acordo assinado hoje entre os países da AECL e a Espanha aplicar-se-á ao Principado de Listenstaina nos precisos termos em que se aplica à Suíça.
 
-###### ARTIGO 2
+ARTIGO 2
 
 O Principado de Listenstaina pode, para efeitos de aplicação do Acordo entre os países da AECL e a Espanha, fazer representar os seus interesses através de um representante a incluir na Delegação Suíça no Comité Misto.
 
-###### ARTIGO 3
+ARTIGO 3
 
 O presente Acordo será aprovado pelos países da AECL o Principado de Listenstaina e a Espanha, segundo os processos próprios de cada um.
 

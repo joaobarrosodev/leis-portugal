@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/56-1982-606760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ccd13cad419027259c766bd82acaeeb1d5b27cbc06533a1fe91c3752bdb2d99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d203d1bcc69be33b8647f29ecf443eb9c4d37a13afc828c7bb772a0a8d3715ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrastaria
+- Convenção
+- Metal Precioso
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:222645052:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225810:por
+  label: "Aprovada para ratificação as alterações aos arts. 10º e 12º da Convenção sobre o Controlo e a Marcação de Artefactos\
+    \ de Metais Preciosos, aprovada para ratificação pelo presente diploma, pelo DEC.42/92.13.10.1992.MNE, DR.IS-A [[236]]\
+    \ de 13.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/42-1992-225810
+  date: '1992-10-13'
+- type: amended_by
+  target: pt:dre:667276:por
+  label: "Aprovada a alteração ao nº 1 do art. 1º da Convenção aprovada para ratificação pelo presente diploma, na redacção\
+    \ do Dec 42/92 de 13-Out, pelo DEC.39/99.1999.10.19.MNE, DR.IS-A [244]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/39-1999-667276
+  date: '1999-10-19'
+- type: amended_by
+  target: pt:dre:203013:por
+  label: "Aprovadas as emendas (alteração do art. 2º e alteração dos anexos I e II no que se refere ao metal precioso paládio,\
+    \ bem como o aditamento da marca para artefacto de paládio à tabela que obedece ao nº 3 do art. 4º do anexo II) à Convenção\
+    \ sobre o Controlo e Marcação de Artigos de Metais Preciosos, aprovada para ratificação pelo presente diploma, tendo as\
+    \ anteriores emendas sido aprovadas pelos Dec 42/92 de 13-Out e 39/99 de 19-Out, pelo DEC.2/2006.03.01.2006.MNE, DR.IS-A\
+    \ [2] de 03.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/2-2006-203013
+  date: '2006-01-03'
+- type: amended_by
+  target: pt:dre:222645052:por
+  label: Aprovadas as Emendas aos Anexos I e II da Convenção sobre o Controlo e Marcação de Artigos de Metais Preciosos pelo(a)
+    Decreto n.º 26/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/26-2023-222645052
+  date: '2023-10-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:28Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +122,15 @@ de 29 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção sobre Controle e Marcação de Artigos de Metais Preciosos, assinada em Viena em 15 de Novembro de 1972, cujos textos em inglês, francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção sobre Controle e Marcação de Artigos de Metais Preciosos, assinada em Viena em 15 de Novembro de 1972, cujos textos em inglês, francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 13 de Abril de 1982.**
+Assinado em 13 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION ON THE CONTROL AND MARKING OR ARTICLES OF PRECIOUS METALS
 
@@ -372,11 +404,11 @@ Marks c) and d) shall be punched on the article.
 
 8 - The Common Control Mark shall consist of the representation of a balance together with the number in arabic numerals showing the standard of fineness of the article in parts per thousand in relief on a lined background surrounded by a shield indicating the nature of the precious metal as follows:
 
-For gold articles: [([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+For gold articles: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
-For silver articles: [([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+For silver articles: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
-For platinum articles: [([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+For platinum articles: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
 Examples of the design of the Common Control Mark are reproduced at Appendix.
 
@@ -392,19 +424,19 @@ For gold articles of the standard of fineness 750
 
 Pour les ouvrages d'or au titre de 750
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
 For silver articles of the standard of fineness 925
 
 Pour les ouvrages d'argent au titre de 925
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
 For platinum articles of the standard of fineness 950
 
 Pour les ouvrages de platine au titre de 950
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
 CONVENTION SUR LE CONTRÔLE ET LE POINÇONNEMENT DES OUVRAGES EM MÉTAUX PRÉCIEUX
 
@@ -678,11 +710,11 @@ Les marques c) et d) seront insculpées.
 
 8 - Le Poinçon Commun comportera en relief sur fond linéaire l'image d'une balance et l'indication du titre de l'ouvrage en chiffres arabes et en millièmes, le tout dans un encadrement indiquant la nature du métal précieux de la manière suivante:
 
-Pour les ouvrages d'or: [([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+Pour les ouvrages d'or: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
-Pour les ouvrages d'argent: [([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+Pour les ouvrages d'argent: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
-Pour les ouvrages de platine: [([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+Pour les ouvrages de platine: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
 Des modèles du Poinçon Commun sont reproduits dans l'Appendice.
 
@@ -956,17 +988,17 @@ As marcas c) e d) serão incrustadas.
 
 8 - A Marca Comum de Controle será constituída pela estilização de uma balança em relevo sobre fundo linear e a indicação do toque do artefacto em números árabes e em milésimos, tudo enquadrado por um desenho que indica a natureza do metal precioso, da seguinte forma:
 
-Para os artefactos de ouro: [([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+Para os artefactos de ouro: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
-Para os artefactos de prata: [([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+Para os artefactos de prata: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
-Para os artefactos de platina: [([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+Para os artefactos de platina: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
 Os modelos da Marca Comum de Controle são reproduzidos no Apêndice.
 
 9 - Se a contrastaria oficial verificar que o artefacto corresponde às disposições do Anexo I da presente Convenção, pode marcá-lo com o seu punção e com a Marca Comum de Controle. Se o fizer com a Marca Comum de Controle, a contrastaria deverá assegurar-se, antes de restituir o artefacto, que este já é portador de todas as outras marcas, de acordo com as disposições dos parágrafos 5 e 6. Na medida do possível, todas as marcas serão apostas próximo umas das outras.
 
-## APÊNDICE
+APÊNDICE
 
 Exemplos da marca comum de controle do punção comum
 
@@ -974,12 +1006,12 @@ Modelos
 
 Para artigos de ouro com o toque de 750
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
 Para artigos de prata com o toque de 925
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
 
 Para artigos de platina com o toque de 950
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf))](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)

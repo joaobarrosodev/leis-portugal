@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/29-1982-600319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3c11e56bab95a1b582c9413a73f79868c9eb0f0f149a92b3e150854fac91194
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5944bee866d30275c8983a092889a836aa8f7fda5ace9de800344f07dc370e85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Dados Estatísticos
+- Instituto Nacional de Estatística
+- Recenseamento Agrícola
+relationships:
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:02Z'
   warnings: []
   errors: []
 ---
@@ -97,18 +104,18 @@ Usando da faculdade criada pelo artigo 26.º do citado [Decreto-Lei n.º 211/79]
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É o Instituto Nacional de Estatística autorizado a proceder, mediante concurso limitado, à adjudicação a centros de registo de dados públicos ou privados de lotes parcelares de trabalho relativos ao registo de dados do recenseamento agrícola do continente.
+Artigo 1.º - 1 - É o Instituto Nacional de Estatística autorizado a proceder, mediante concurso limitado, à adjudicação a centros de registo de dados públicos ou privados de lotes parcelares de trabalho relativos ao registo de dados do recenseamento agrícola do continente.
 
 2 - As condições dos concursos referidos no número anterior e as adjudicações que daí resultarem serão objecto de prévia homologação do Secretário de Estado do Planeamento, sob proposta fundamentada do conselho de direcção do Instituto Nacional de Estatística.
 
-###### Art. 2.º - A autorização conferida pelo artigo anterior caduca às 24 horas do dia 31 de Dezembro de 1982, podendo, no entanto, ser prorrogada por mais 6 meses - mediante proposta fundamentada do conselho de direcção do Instituto Nacional de Estatística - através de portaria do Ministro de Estado e das Finanças e do Plano.
+Art. 2.º - A autorização conferida pelo artigo anterior caduca às 24 horas do dia 31 de Dezembro de 1982, podendo, no entanto, ser prorrogada por mais 6 meses - mediante proposta fundamentada do conselho de direcção do Instituto Nacional de Estatística - através de portaria do Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 3.º O presente diploma produz efeitos desde o dia 1 de Janeiro de 1982.
+Art. 3.º O presente diploma produz efeitos desde o dia 1 de Janeiro de 1982.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 15 de Fevereiro de 1982.**
+Promulgado em 15 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

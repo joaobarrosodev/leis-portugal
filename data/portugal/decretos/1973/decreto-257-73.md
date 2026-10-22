@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/257-1973-422452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a0b1add22a8734d3d9cac6bea854d0fc51fe1e16857e0ea8524646c848dea43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae09738318e09f4747a3b466af05d988f6fc5b64dde6e997d5813c90f17ca5d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:199975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684851:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:43Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +132,19 @@ Disposições especiais
 
 A) Guiné
 
-###### Artigo 1.º Ao clínico que preste assistência ao pessoal e respectivos familiares do Corpo de Polícia de Segurança Pública e da 7.ª Companhia Móvel é atribuída uma gratificação mensal a fixar pelo Governador.
+Artigo 1.º Ao clínico que preste assistência ao pessoal e respectivos familiares do Corpo de Polícia de Segurança Pública e da 7.ª Companhia Móvel é atribuída uma gratificação mensal a fixar pelo Governador.
 
-###### Art. 2.º É elevada para a letra M do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino a categoria de chefe de secção do Corpo de Polícia de Segurança Pública.
+Art. 2.º É elevada para a letra M do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino a categoria de chefe de secção do Corpo de Polícia de Segurança Pública.
 
 B) Angola
 
-###### Art. 3.º Ao quadro administrativo, de enfermagem, de terapêutica e diagnóstico, de saúde pública e de serviço social do ultramar, anexo ao [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969, são aumentados dois lugares de assistente social e familiar para o Estado de Angola.
+Art. 3.º Ao quadro administrativo, de enfermagem, de terapêutica e diagnóstico, de saúde pública e de serviço social do ultramar, anexo ao [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969, são aumentados dois lugares de assistente social e familiar para o Estado de Angola.
 
-###### Art. 4.º É autorizado o Governador-Geral a abrir, observadas as formalidades legais, um crédito especial da importância de 112621000$00, destinado à regularização de despesas dos anos de 1971 e 1972, utilizando como contrapartida, na falta de recursos orçamentais, os saldos das contas de exercícios findos.
+Art. 4.º É autorizado o Governador-Geral a abrir, observadas as formalidades legais, um crédito especial da importância de 112621000$00, destinado à regularização de despesas dos anos de 1971 e 1972, utilizando como contrapartida, na falta de recursos orçamentais, os saldos das contas de exercícios findos.
 
 C) Moçambique
 
-###### Art. 5.º Fica o Governador-Geral autorizado a atribuir, nos termos que forem estabelecidos, ao pessoal remunerado por conta do Fundo de Protecção da Fauna, gratificações mensais até aos seguintes limites:
+Art. 5.º Fica o Governador-Geral autorizado a atribuir, nos termos que forem estabelecidos, ao pessoal remunerado por conta do Fundo de Protecção da Fauna, gratificações mensais até aos seguintes limites:
 
 Administradores e adjuntos dos parques nacionais ... 6000$00
 
@@ -120,9 +156,9 @@ Encarregados de cofre ... 300$00
 
 Membros da comissão administrativa ... 1500$00
 
-###### Art. 6.º As importâncias cobradas a título de emolumentos pelo pessoal civil dos quadros de secretaria e de cabos-de-mar da Direcção dos Serviços de Marinha passam a constituir receita do cofre comum de cada um dos referidos quadros, a qual será distribuída por aquele pessoal nas condições que vierem a ser regulamentadas pelo Governo-Geral, com observância dos limites estabelecidos no artigo 21.º do [Decreto n.º 49431](https://diariodarepublica.pt/dr/detalhe/decreto/49431-1969-253809), de 6 de Dezembro de 1969.
+Art. 6.º As importâncias cobradas a título de emolumentos pelo pessoal civil dos quadros de secretaria e de cabos-de-mar da Direcção dos Serviços de Marinha passam a constituir receita do cofre comum de cada um dos referidos quadros, a qual será distribuída por aquele pessoal nas condições que vierem a ser regulamentadas pelo Governo-Geral, com observância dos limites estabelecidos no artigo 21.º do [Decreto n.º 49431](https://diariodarepublica.pt/dr/detalhe/decreto/49431-1969-253809), de 6 de Dezembro de 1969.
 
-###### Art. 7.º - 1. Ao pessoal dos Serviços de Centralização e Coordenação de Informações são atribuídas as seguintes gratificações especiais mensais:
+Art. 7.º - 1. Ao pessoal dos Serviços de Centralização e Coordenação de Informações são atribuídas as seguintes gratificações especiais mensais:
 
 a) Pessoal técnico de informações:
 
@@ -170,15 +206,15 @@ II
 
 Disposições comuns
 
-###### Art. 8.º O disposto no artigo 11.º do [Decreto n.º 39/73](https://diariodarepublica.pt/dr/detalhe/decreto/39-1973-684851), de 8 de Fevereiro, é aplicável aos familiares dos militares reformados dos extintos quadros do ultramar.
+Art. 8.º O disposto no artigo 11.º do [Decreto n.º 39/73](https://diariodarepublica.pt/dr/detalhe/decreto/39-1973-684851), de 8 de Fevereiro, é aplicável aos familiares dos militares reformados dos extintos quadros do ultramar.
 
-###### Art. 9.º O artigo 1.º do [Decreto n.º 45547](https://diariodarepublica.pt/dr/detalhe/decreto/45547-1964-469454), de 25 de Janeiro de 1964, passa a ter a seguinte redacção:
+Art. 9.º O artigo 1.º do [Decreto n.º 45547](https://diariodarepublica.pt/dr/detalhe/decreto/45547-1964-469454), de 25 de Janeiro de 1964, passa a ter a seguinte redacção:
 
 Ficam os Governos-Gerais de Angola e de Moçambique autorizados a instituir bolsas de estudo destinadas à formação de técnicos terapeutas para os serviços de saúde e assistência.
 
-###### Art. 10.º O artigo 3.º do [Decreto n.º 39738](https://diariodarepublica.pt/dr/detalhe/decreto/39738-1954-637881), de 23 de Julho de 1954, passa a ter a seguinte redacção:
+Art. 10.º O artigo 3.º do [Decreto n.º 39738](https://diariodarepublica.pt/dr/detalhe/decreto/39738-1954-637881), de 23 de Julho de 1954, passa a ter a seguinte redacção:
 
-###### Art. 3.º Da aplicação dada a fundos adiantados por operações de tesouraria, nos casos em que a lei preveja e autorize tais adiantamentos, prestar-se-ão contas aos Serviços Provinciais de Finanças até ao último dia do mês seguinte àquele em que tais fundos forem entregues aos respectivos gestores.
+Art. 3.º Da aplicação dada a fundos adiantados por operações de tesouraria, nos casos em que a lei preveja e autorize tais adiantamentos, prestar-se-ão contas aos Serviços Provinciais de Finanças até ao último dia do mês seguinte àquele em que tais fundos forem entregues aos respectivos gestores.
 
 § 1.º Poderá ser prorrogado o período até ao limite máximo de trinta dias por despacho do governador da província, ouvidos previamente os Serviços Provinciais de Finanças e de Planeamento e Integração Económica, em relação aos serviços, organismos ou entidades executores do Plano de Fomento que actuem em condições excepcionais de isolamento e dispersão, sem prejuízo, porém, do disposto no artigo 17.º do [Decreto n.º 58/71](https://diariodarepublica.pt/dr/detalhe/decreto/58-1971-445532), de 9 de Março.
 
@@ -186,7 +222,7 @@ Ficam os Governos-Gerais de Angola e de Moçambique autorizados a instituir bols
 
 § 3.º Estas disposições são extensivas aos fundos permanentes de que trata o artigo 54.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, devendo as contas da sua aplicação ser prestadas mensalmente.
 
-###### Art. 11.º - 1. Consideram-se mantidas no quadro de finanças do ultramar as categorias de director de 1.ª, 2.ª e 3.ª classes criadas pelo [Decreto n.º 29161](https://diariodarepublica.pt/dr/detalhe/decreto/29161-1938-348552), de 21 de Novembro de 1938, a elas correspondendo, nos termos regulados pelo [Decreto n.º 125/72](https://diariodarepublica.pt/dr/detalhe/decreto/125-1972-397096), de 20 de Abril, o exercício dos seguintes cargos descritos no mapa I anexo a este último decreto:
+Art. 11.º - 1. Consideram-se mantidas no quadro de finanças do ultramar as categorias de director de 1.ª, 2.ª e 3.ª classes criadas pelo [Decreto n.º 29161](https://diariodarepublica.pt/dr/detalhe/decreto/29161-1938-348552), de 21 de Novembro de 1938, a elas correspondendo, nos termos regulados pelo [Decreto n.º 125/72](https://diariodarepublica.pt/dr/detalhe/decreto/125-1972-397096), de 20 de Abril, o exercício dos seguintes cargos descritos no mapa I anexo a este último decreto:
 
 Director de 1.ª classe: directores provinciais e subdirectores provinciais;
 
@@ -198,10 +234,10 @@ Director de 3.ª classe: chefes de repartição e directores distritais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 9 de Maio de 1973.**
+Promulgado em 9 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

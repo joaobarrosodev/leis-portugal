@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/305-1976-502187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23319830f471fc6ac27549922ff2288f0562590c694a507ba71325d0a9187b79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e732122c1c2bc35f998eb041c93e20dcfc09265ce17993ed642db2ab7a22c27e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Previdência Social
+relationships:
+- type: cites
+  target: pt:dre:344917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:37Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +112,14 @@ Assim:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A concessão de assistência médica e medicamentosa aos beneficiários do regime geral da Previdência e seus familiares, prevista no [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a depender apenas da inscrição do beneficiário, deixando de observar-se, para esse efeito, as restrições estabelecidas nos n.os 1 e 2 do artigo 33.º daquele diploma.
+Artigo 1.º A concessão de assistência médica e medicamentosa aos beneficiários do regime geral da Previdência e seus familiares, prevista no [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a depender apenas da inscrição do beneficiário, deixando de observar-se, para esse efeito, as restrições estabelecidas nos n.os 1 e 2 do artigo 33.º daquele diploma.
 
-###### Art. 2.º A concessão das prestações referidas no artigo anterior aos beneficiários dos Fundos de Previdência das Casas do Povo e seus familiares, prevista no [Decreto n.º 445/70](https://diariodarepublica.pt/dr/detalhe/decreto/445-1970-666342), de 23 de Setembro, passa a depender apenas da inscrição do beneficiário, deixando de observar-se, para esse efeito, as restrições estabelecidas nos n.os 1 e 3 do artigo 5.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917), de 1 de Abril.
+Art. 2.º A concessão das prestações referidas no artigo anterior aos beneficiários dos Fundos de Previdência das Casas do Povo e seus familiares, prevista no [Decreto n.º 445/70](https://diariodarepublica.pt/dr/detalhe/decreto/445-1970-666342), de 23 de Setembro, passa a depender apenas da inscrição do beneficiário, deixando de observar-se, para esse efeito, as restrições estabelecidas nos n.os 1 e 3 do artigo 5.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917), de 1 de Abril.
 
 José Baptista Pinheiro de Azevedo - João Pedro Tomás Rosa - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 12 de Abril de 1976.**
+Promulgado em 12 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

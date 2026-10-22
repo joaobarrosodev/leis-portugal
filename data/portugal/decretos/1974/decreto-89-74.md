@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 55/1974, 1º Suplemento, Série I de 1974-03-06
   number: '55'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 320-(1) a 320-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/05501/00010025.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/89-1974-498284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3b1ede5f6a1fe2d3f434b5338d2b319b5e59c6026f9b06320b1fa5450fb56ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bba3753f7f4b2166ff9dde612b82b7fe9e394e9a7946f9c420be83e30a8d4444
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,68 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:622856:por
+  label: "Rectificado o n.º 6 do artigo 11.º, a alínea h) do n.º 1 do artigo 21.º, o n.º 1 do artigo 40.º do texto do contrato\
+    \ com a sociedade, e o n.º 8 do artigo 2.º do texto do contrato de associação anexos ao presente diploma, pela RECT.DD217.08.06.1974.PCM,\
+    \ DG.IS [134] de 08.06.1974\0\0"
+  source: null
+  date: '1974-06-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:51Z'
   warnings: []
   errors: []
 ---
@@ -107,23 +158,23 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar em nome do Estado e em representação do Estado de Angola um contrato de concessão com a sociedade Esso Exploration and Production Angola Inc., para o efeito constituída, de acordo com o texto anexo ao presente decreto, que é aprovado para todos os efeitos, dele fica fazendo parte integrante e baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar em nome do Estado e em representação do Estado de Angola um contrato de concessão com a sociedade Esso Exploration and Production Angola Inc., para o efeito constituída, de acordo com o texto anexo ao presente decreto, que é aprovado para todos os efeitos, dele fica fazendo parte integrante e baixa assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º O contrato de concessão deverá ser assinado dentro de sessenta dias, contados a partir da data da publicação deste decreto.
+Art. 2.º O contrato de concessão deverá ser assinado dentro de sessenta dias, contados a partir da data da publicação deste decreto.
 
-###### Art. 3.º Fica também o Ministro do Ultramar autorizado a assinar contratos com outras companhias que tenham requerido ou venham a requerer concessões nas águas profundas das províncias ultramarinas, em conformidade com o texto aprovado por este decreto, podendo ser introduzidas as alterações que as circunstâncias especiais de cada caso eventualmente justifiquem, desde que de tal não resulte ofensa das leis gerais aplicáveis.
+Art. 3.º Fica também o Ministro do Ultramar autorizado a assinar contratos com outras companhias que tenham requerido ou venham a requerer concessões nas águas profundas das províncias ultramarinas, em conformidade com o texto aprovado por este decreto, podendo ser introduzidas as alterações que as circunstâncias especiais de cada caso eventualmente justifiquem, desde que de tal não resulte ofensa das leis gerais aplicáveis.
 
-###### Art. 4.º O Ministro do Ultramar poderá também exigir que antes da assinatura dos contratos de concessão a que se refere o número anterior seja prestada garantia bancária de montante que julgue necessário para assegurar o cumprimento das obrigações consignadas nos n.os 1 dos artigos 5.º e 6.º do texto anexo ao presente decreto.
+Art. 4.º O Ministro do Ultramar poderá também exigir que antes da assinatura dos contratos de concessão a que se refere o número anterior seja prestada garantia bancária de montante que julgue necessário para assegurar o cumprimento das obrigações consignadas nos n.os 1 dos artigos 5.º e 6.º do texto anexo ao presente decreto.
 
-###### Art. 5.º Este decreto entra imediatamente em vigor.
+Art. 5.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 1 de Março de 1974.**
+Promulgado em 1 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - B. Rebelo de Sousa.
 
@@ -157,7 +208,7 @@ Limite leste - linha definida em conformidade com a alínea b) do artigo 3.º do
 
 Limite oeste - linha poligonal definida pelos seguintes pontos de coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/05501/00010025.pdf))](https://files.diariodarepublica.pt/1s/1974/03/05501/00010025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/05501/00010025.pdf)
 
 3. A pedido do Governo e com o acordo da concessionária, poderá ajustar-se o limite leste da concessão por uma poligonal que siga tão de perto quanto possível a batimétrica dos 200 m.
 
@@ -799,7 +850,7 @@ p = Preço real das vendas.
 
 4. As quantidades diárias em barris, para efeitos de determinação de b, constante da fórmula do número anterior, serão calculadas em função da profundidade das águas em que os poços se localizem, de harmonia com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/05501/00010025.pdf))](https://files.diariodarepublica.pt/1s/1974/03/05501/00010025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/05501/00010025.pdf)
 
 5. O preço real de venda (p), considerado na fórmula do número anterior, não poderá ser inferior ao preço real e justo do mercado internacional, praticado entre companhias não afiliadas ou coligadas, feitas as necessárias correcções de densidade, transporte e outras que devam ser consideradas.
 
@@ -885,7 +936,9 @@ g) Será autorizada a importação, exportação e a permanência no território
 
 3. As autoridades portuguesas facilitarão, na medida do possível, respeitados os interesses e a segurança nacionais, a entrada, permanência e saída dos territórios portugueses dos indivíduos de qualquer nacionalidade que a sociedade ou quaisquer entidades que com ela cooperem nas suas operações tenham admitido ou despedido.
 
-### CAPÍTULO VIII — ARTIGO 44.º
+### CAPÍTULO VIII
+
+###### ARTIGO 44.º
 
 Regime cambial
 
@@ -1029,7 +1082,7 @@ As dúvidas ou omissões que surjam na interpretação ou execução do contrato
 
 As obrigações, direitos e poderes previstos neste contrato e nele atribuídos à administração pública quando não inerentes ao exercício de direitos de soberania, poderão vir a ser, no todo ou em parte, transferidos para uma empresa ou organismo estatal ou sociedade de economia pública ou mista.
 
-**O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.**
+O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.
 
 Texto do contrato de associação para a prospecção, pesquisa, desenvolvimento e exploração de hidrocarbonetos fluidos entre a sociedade concessionária Esso Exploration and Production Angola Inc. e a sociedade estatal a que se refere o artigo 15.º do contrato de concessão entre o Estado e a sociedade Esso Exploration and Production Angola Inc.
 
@@ -1287,4 +1340,4 @@ Em tudo que respeite à execução do disposto no presente acordo as duas partes
 
 2. O disposto no número anterior não se aplica em relação ao Estado, nem às sociedades dos grupos a que a sociedade e a sociedade estatal pertençam, nem aos seus empregados que delas devam conhecer, os quais ficarão obrigados a manter igual confidencialidade.
 
-**O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.**
+O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.

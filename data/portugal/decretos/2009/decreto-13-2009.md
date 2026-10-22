@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/13/2009/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-2009-607573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 653e26ae8c983697378e534c68d05372fe653bd71580c1a73bb024706f56322b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4d53a2eedf4f173bd31f894455a8371af5d76854f51d2a0f1d1b7635319340f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:08Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +107,16 @@ O Governo decreta, nos termos da alínea e) do artigo 199.º e do n.º 3 do arti
 
 Considerando o disposto no n.º 2 do artigo 24.º do [Decreto-Lei n.º 204/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2006-545648), de 27 de Outubro, e no artigo 20.º do [Decreto-Lei n.º 40-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1998-399178), de 27 de Fevereiro:
 
-**A Ministra Plenipotenciária de 1.ª classe Ana Maria de Almeida Hidalgo Barata, a exercer o cargo de Representante Permanente de Portugal junto da Organização de Segurança e Cooperação na Europa, é promovida a Embaixadora, na vaga resultante da passagem a disponibilidade do Embaixador Paulo Guilherme Pires de Lima de Castilho, conforme publicado no Diário da República, 2.ª série, de 8 de Abril de 2009, continuando a exercer o referido cargo.**
+A Ministra Plenipotenciária de 1.ª classe Ana Maria de Almeida Hidalgo Barata, a exercer o cargo de Representante Permanente de Portugal junto da Organização de Segurança e Cooperação na Europa, é promovida a Embaixadora, na vaga resultante da passagem a disponibilidade do Embaixador Paulo Guilherme Pires de Lima de Castilho, conforme publicado no Diário da República, 2.ª série, de 8 de Abril de 2009, continuando a exercer o referido cargo.
 
 Em 4 de Maio de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado.
 
-**Assinado em 6 de Maio de 2009.**
+Assinado em 6 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Maio de 2009.**
+Referendado em 7 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

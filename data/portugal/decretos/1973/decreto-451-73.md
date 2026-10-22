@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/09/21200/16111613.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/451-1973-413441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 796eb69d78f44cda1e703eba4e106d8b970da2841a69e0d0e8ae8a57fa3acd4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f89796c8040414f5150f0fed09af31b22fac34f37004dff0bb94d74c8916f12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Marisco
+- Regulamento
+- Regulamento dos Depósitos de Lagostas e Lavagantes
 relationships:
 - type: amended_by
   target: pt:dre:619286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:419665:por
+  label: "Revogado pelo DEC LEI.254/87.1987.06.24.MAPA, DR.IS [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-1987-419665
+  date: '1987-06-24'
+- type: repealed_by
+  target: pt:dre:619286:por
+  label: "Revogado pelo DEC LEI.261/89.17.08.1989.MAPA, DR.IS [188] de 17.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-1989-619286
+  date: '1989-08-17'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:29Z'
   warnings: []
   errors: []
 ---
@@ -94,27 +108,27 @@ Considerando que parte da matéria deste Regulamento se encontra já revogada po
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento dos Depósitos de Lagostas e Lavagantes, que faz parte integrante deste diploma.
+Artigo 1.º É aprovado o Regulamento dos Depósitos de Lagostas e Lavagantes, que faz parte integrante deste diploma.
 
-###### Art. 2.º Fica revogado o Regulamento para a Pesca das Lagostas e Lavagantes, aprovado pelo Decreto de 10 de Maio de 1897, bem como os Decretos n.os 10614 e 16508, de, respectivamente, 12 de Março de 1925 e 16 de Fevereiro de 1929, que lhe introduziram alterações.
+Art. 2.º Fica revogado o Regulamento para a Pesca das Lagostas e Lavagantes, aprovado pelo Decreto de 10 de Maio de 1897, bem como os Decretos n.os 10614 e 16508, de, respectivamente, 12 de Março de 1925 e 16 de Fevereiro de 1929, que lhe introduziram alterações.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 25 de Agosto de 1973.**
+Promulgado em 25 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DOS DEPÓSITOS DE LAGOSTAS E LAVAGANTES
 
-###### Artigo 1.º - 1. É permitida a concessão de depósitos de lagostas e lavagantes vivos, para a conservação temporária destes crustáceos.
+Artigo 1.º - 1. É permitida a concessão de depósitos de lagostas e lavagantes vivos, para a conservação temporária destes crustáceos.
 
 2. Os depósitos podem ser fixos ou flutuantes, cobertos ou não pelas águas marítimas.
 
 3. Os depósitos devem estar colocados em áreas que não perturbem a navegação e devem estar devidamente sinalizados.
 
-###### Art. 2.º - 1. O pedido de concessão para o estabelecimento e laboração de cada depósito de lagostas ou lavagantes é feito mediante requerimento dirigido ao Ministro da Marinha e apresentado à autoridade marítima com jurisdição no local onde se requer o depósito e assinado por quem pretende a concessão ou pelo seu representante necessário ou voluntário e acompanhado de:
+Art. 2.º - 1. O pedido de concessão para o estabelecimento e laboração de cada depósito de lagostas ou lavagantes é feito mediante requerimento dirigido ao Ministro da Marinha e apresentado à autoridade marítima com jurisdição no local onde se requer o depósito e assinado por quem pretende a concessão ou pelo seu representante necessário ou voluntário e acompanhado de:
 
 a) Documento comprovativo da nacionalidade portuguesa do requerente;
 
@@ -136,7 +150,7 @@ e) Documento comprovativo do depósito na Caixa Geral de Depósitos, à ordem da
 
 6. Sempre que o julgue conveniente, ouvida a D. G. S. F. M., poderá o Ministro da Marinha determinar, por despacho, a apresentação de quaisquer outros elementos diferentes dos indicados no n.º 1 deste artigo.
 
-###### Art. 3.º - 1. O requerimento referido no artigo anterior, acompanhado dos documentos referidos no mesmo artigo, da certidão de vistoria ao local efectuada pela autoridade marítima, da informação da capitania do porto com jurisdição na área e, bem assim, da informação prestada pela Direcção-Geral de Portos (D. G. P.) sobre a matéria requerida, será remetido por aquela capitania à Direcção das Pescas e do Domínio Marítimo (D. P. D. M.), a qual o informará, com audiência prévia do Instituto de Biologia Marítima (I. B. M.).
+Art. 3.º - 1. O requerimento referido no artigo anterior, acompanhado dos documentos referidos no mesmo artigo, da certidão de vistoria ao local efectuada pela autoridade marítima, da informação da capitania do porto com jurisdição na área e, bem assim, da informação prestada pela Direcção-Geral de Portos (D. G. P.) sobre a matéria requerida, será remetido por aquela capitania à Direcção das Pescas e do Domínio Marítimo (D. P. D. M.), a qual o informará, com audiência prévia do Instituto de Biologia Marítima (I. B. M.).
 
 2. A capitania do porto deve informar se o depósito requerido pode causar prejuízo à navegação ou a quaisquer outras explorações de pesca já concedidas nas proximidades do local requerido.
 
@@ -144,7 +158,7 @@ e) Documento comprovativo do depósito na Caixa Geral de Depósitos, à ordem da
 
 4. Quando o depósito requerido for localizado em terrenos do domínio público marítimo, deverá ser ouvida a Comissão do Domínio Público Marítimo, antes de o requerimento ser submetido a despacho do Ministro da Marinha.
 
-###### Art. 4.º - 1. A autoridade marítima por onde se tenha iniciado o processo, logo que lhe seja comunicado o despacho ministerial do deferimento ou indeferimento do requerimento pedindo a concessão, notifica-o ao requerente.
+Art. 4.º - 1. A autoridade marítima por onde se tenha iniciado o processo, logo que lhe seja comunicado o despacho ministerial do deferimento ou indeferimento do requerimento pedindo a concessão, notifica-o ao requerente.
 
 2. A concessão de depósito é válida apenas até 31 de Dezembro do ano civil em que foi proferido o despacho ministerial de deferimento, podendo ser renovada nos termos do artigo 6.º
 
@@ -156,13 +170,13 @@ e) Documento comprovativo do depósito na Caixa Geral de Depósitos, à ordem da
 
 6. O não cumprimento, por parte do requerente ou concessionário, de qualquer destas disposições é causa de caducidade do despacho ministerial, deferindo o pedido de concessão ou da portaria de concessão, e, quando tal suceda, são os locais considerados vagos e reverte para o Tesouro Público, como receita geral do Estado, a quantia a que se refere a alínea e) do n.º 1 do artigo 2.º
 
-###### Art. 5.º - 1. Logo que o concessionário informe a autoridade marítima que o depósito se encontra em condições de ser utilizado, será o mesmo vistoriado por uma comissão de vistoria constituída pela autoridade marítima e por delegados da D. P. D. M. e do I. B. M.
+Art. 5.º - 1. Logo que o concessionário informe a autoridade marítima que o depósito se encontra em condições de ser utilizado, será o mesmo vistoriado por uma comissão de vistoria constituída pela autoridade marítima e por delegados da D. P. D. M. e do I. B. M.
 
 2. Da vistoria a que se refere o número anterior será lavrado termo de vistoria, que será junto ao processo de concessão.
 
 3. A comissão de vistoria a que se refere o n.º 1 será presidida pelo oficial da Armada mais graduado ou mais antigo que dela faça parte.
 
-###### Art. 6.º - 1. A renovação anual de concessão para laboração de depósitos fixos ou flutuantes de lagostas e lavagantes é feita mediante requerimento dirigido ao director-geral dos Serviços de Fomento Marítimo e apresentado à autoridade marítima com jurisdição no local do depósito.
+Art. 6.º - 1. A renovação anual de concessão para laboração de depósitos fixos ou flutuantes de lagostas e lavagantes é feita mediante requerimento dirigido ao director-geral dos Serviços de Fomento Marítimo e apresentado à autoridade marítima com jurisdição no local do depósito.
 
 2. Os requerimentos referidos no número anterior serão informados pelas entidades a que se refere o n.º 1 do artigo 3.º
 
@@ -172,21 +186,21 @@ e) Documento comprovativo do depósito na Caixa Geral de Depósitos, à ordem da
 
 5. Os requerimentos pedindo renovação da concessão devem ser feitos separadamente para cada depósito.
 
-###### Art. 7.º - 1. A entrega dos requerimentos a que se refere o artigo anterior terá lugar em Novembro de cada ano nas repartições marítimas com jurisdição nos locais dos depósitos.
+Art. 7.º - 1. A entrega dos requerimentos a que se refere o artigo anterior terá lugar em Novembro de cada ano nas repartições marítimas com jurisdição nos locais dos depósitos.
 
 2. Da informação a que se refere o n.º 2 do artigo anterior, o capitão do porto fará constar se nesse ano a exploração satisfez a todas as disposições regulamentares e especificará o tempo da sua laboração durante o ano e se foram feitas inspecções em cumprimento do determinado nos artigos 12.º e 13.º
 
 3. Os termos de renovação são lavrados por todo o mês de Dezembro nas repartições marítimas.
 
-###### Art. 8.º Qualquer alteração aos termos de uma concessão carece de autorização do Ministro da Marinha, seguindo-se, quanto ao respectivo processo, os termos dos artigos 2.º, 3.º, 4.º e 5.º, na parte aplicável, sem que haja, porém, necessidade do depósito a que se refere a alínea e) do n.º 1 do artigo 2.º
+Art. 8.º Qualquer alteração aos termos de uma concessão carece de autorização do Ministro da Marinha, seguindo-se, quanto ao respectivo processo, os termos dos artigos 2.º, 3.º, 4.º e 5.º, na parte aplicável, sem que haja, porém, necessidade do depósito a que se refere a alínea e) do n.º 1 do artigo 2.º
 
-###### Art. 9.º - 1. No caso em que o requerimento de concessão ou renovação não obtenha despacho favorável, o depósito a que se refere a alínea e) do n.º 1 do artigo 2.º será restituído ao requerente.
+Art. 9.º - 1. No caso em que o requerimento de concessão ou renovação não obtenha despacho favorável, o depósito a que se refere a alínea e) do n.º 1 do artigo 2.º será restituído ao requerente.
 
 2. No caso em que o requerimento obtenha despacho favorável, o depósito continua à ordem da D. G. S. F. M., e considerar-se-á perdido pelo requerente a favor do Estado quando o requerente venha a desistir do seu pedido ou quando a concessão for declarada caduca nos termos do artigo 10.º
 
 3. Quando o concessionário, por motivos alheios à sua vontade, devidamente comprovados, não possa continuar a usufruir o local concedido, ser-lhe-á restituído o depósito.
 
-###### Art. 10.º - 1. Considera-se caduca toda a concessão:
+Art. 10.º - 1. Considera-se caduca toda a concessão:
 
 a) Cujo termo não for lavrado no prazo fixado no artigo 4.º;
 
@@ -196,26 +210,26 @@ c) Quando se verificar falsidade na declaração referida no artigo 14.º
 
 2. Não se verificará a caducidade prevista no número anterior sempre que a respectiva causa não for imputável ao concessionário.
 
-###### Art. 11.º Os depósitos de lagostas e lavagantes só podem ser transmitidos por morte do concessionário individual para descendente, ascendente ou cônjuge sobrevivo, desde que estes o requeiram ao Ministro da Marinha no prazo de um ano a contar da data do falecimento do concessionário.
+Art. 11.º Os depósitos de lagostas e lavagantes só podem ser transmitidos por morte do concessionário individual para descendente, ascendente ou cônjuge sobrevivo, desde que estes o requeiram ao Ministro da Marinha no prazo de um ano a contar da data do falecimento do concessionário.
 
-###### Art. 12.º Os depósitos de lagostas e lavagantes ficam sujeitos à inspecção das autoridades marítimas com jurisdição nas áreas onde estão instalados.
+Art. 12.º Os depósitos de lagostas e lavagantes ficam sujeitos à inspecção das autoridades marítimas com jurisdição nas áreas onde estão instalados.
 
-###### Art. 13.º Sem prejuízo do disposto no artigo anterior, o I. B. M. pode, em qualquer altura e em qualquer época do ano, através de delegados seus, inspeccionar os depósitos de lagostas e lavagantes.
+Art. 13.º Sem prejuízo do disposto no artigo anterior, o I. B. M. pode, em qualquer altura e em qualquer época do ano, através de delegados seus, inspeccionar os depósitos de lagostas e lavagantes.
 
-###### Art. 14.º - 1. A venda e exportação, nas condições estabelecidas pela lei, de crustáceos provenientes de um depósito, só será permitida até o número de crustáceos declarados, no dia do início do período de defeso da pesca de lagostas e lavagantes, à autoridade marítima como existente nesse dia no depósito.
+Art. 14.º - 1. A venda e exportação, nas condições estabelecidas pela lei, de crustáceos provenientes de um depósito, só será permitida até o número de crustáceos declarados, no dia do início do período de defeso da pesca de lagostas e lavagantes, à autoridade marítima como existente nesse dia no depósito.
 
 2. As autoridades marítimas informarão as autoridades fiscais das declarações recebidas nos termos do número anterior.
 
-###### Art. 15.º - 1. O concessionário de um depósito de lagostas e lavagantes pagará 2000$00 de emolumentos pelo termo de concessão e 15$00 por cada metro cúbico, ou fracção, do depósito que estabelecer, renovando-se o pagamento desta última verba em cada renovação anual da concessão.
+Art. 15.º - 1. O concessionário de um depósito de lagostas e lavagantes pagará 2000$00 de emolumentos pelo termo de concessão e 15$00 por cada metro cúbico, ou fracção, do depósito que estabelecer, renovando-se o pagamento desta última verba em cada renovação anual da concessão.
 
 2. Para quaisquer outros actos que possam realizar-se em relação a estas concessões, aplicar-se-ão, para cada caso, as verbas fixadas na lei.
 
-###### Art. 16.º Pelas infracções ocasionadas pela actividade da concessão é sempre responsável o respectivo concessionário.
+Art. 16.º Pelas infracções ocasionadas pela actividade da concessão é sempre responsável o respectivo concessionário.
 
-###### Art. 17.º O conhecimento das infracções ao disposto no presente diploma e a aplicação das penalidades que lhe competirem pertencem às autoridades marítimas, as quais empregarão, sempre que possível, os termos de processo determinados no Regulamento Geral das Capitanias.
+Art. 17.º O conhecimento das infracções ao disposto no presente diploma e a aplicação das penalidades que lhe competirem pertencem às autoridades marítimas, as quais empregarão, sempre que possível, os termos de processo determinados no Regulamento Geral das Capitanias.
 
-###### Art. 18.º O Ministro da Marinha, sob proposta da D. G. S. F. M., poderá determinar a não concessão de depósitos requeridos ou a não renovação dos concedidos, bem como restringir as dimensões destes.
+Art. 18.º O Ministro da Marinha, sob proposta da D. G. S. F. M., poderá determinar a não concessão de depósitos requeridos ou a não renovação dos concedidos, bem como restringir as dimensões destes.
 
-###### Art. 19.º Revertem para o Tesouro Público, como receita geral do Estado, os depósitos provisórios ou definitivos e outras quantias que os concessionários dos locais para depósitos de lagostas e lavagantes tenham o direito de receber, quando esses concessionários se não apresentem para os levantar dentro do prazo de seis meses a contar da data desde a qual pode ser feito o levantamento.
+Art. 19.º Revertem para o Tesouro Público, como receita geral do Estado, os depósitos provisórios ou definitivos e outras quantias que os concessionários dos locais para depósitos de lagostas e lavagantes tenham o direito de receber, quando esses concessionários se não apresentem para os levantar dentro do prazo de seis meses a contar da data desde a qual pode ser feito o levantamento.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07500/0215202160.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/13/2019/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-2019-122110906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f91c07069232a952d8b47f88fdb5e9d2abd3f0fe78361b200de9f9f251c48810
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0473515e670488cf4077e2ed2babb94f7ddef772e0bb7b48c7fda7bdfb32fc86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cinema
 - Convenção
-- Portugal
-- Produção Cinematográfica
+- Indústria Cinematográfica
 - Israel
 - Jerusalém
-- Cinema
-- Indústria Cinematográfica
+- Portugal
+- Produção Cinematográfica
 relationships: []
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:05Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 21 de março de 2019. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Ângela Carvalho Ferreira.
 
-**Assinado em 27 de março de 2019.**
+Assinado em 27 de março de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de abril de 2019.**
+Referendado em 8 de abril de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO DE COPRODUÇÃO CINEMATOGRÁFICA ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO ESTADO DE ISRAEL
 
@@ -256,7 +256,7 @@ Quaisquer diferendos entre as Partes decorrentes da aplicação do presente Acor
 
 (3) As coproduções que tenham sido aprovadas pelas Autoridades Competentes e que estejam em curso no momento da notificação da denúncia do presente Acordo, continuarão a beneficiar plenamente das disposições do presente Acordo.
 
-**Assinado em Jerusalém, em 23 de novembro de 2016, que corresponde a 22 de Cheshvan, 5777, em dois exemplares originais, nas línguas portuguesa, hebraica e inglesa, sendo todos os textos igualmente autênticos. Em caso de divergência, o texto em Inglês prevalecerá.**
+Assinado em Jerusalém, em 23 de novembro de 2016, que corresponde a 22 de Cheshvan, 5777, em dois exemplares originais, nas línguas portuguesa, hebraica e inglesa, sendo todos os textos igualmente autênticos. Em caso de divergência, o texto em Inglês prevalecerá.
 
 Pelo Governo da República Portuguesa:
 
@@ -328,7 +328,7 @@ t) Outras provisões exigidas pelas Autoridades Competentes.
 
 8 - A participação de um produtor de um país terceiro na coprodução fica sujeita à aprovação prévia das Autoridades Competentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07500/0215202160.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07500/0215202160.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07500/0215202160.pdf)
 
 AGREEMENT ON FILM CO-PRODUCTION BETWEEN THE GOVERNMENT OF THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE STATE OF ISRAEL
 
@@ -545,3 +545,5 @@ t) Other provisions required by the Competent Authorities.
 7 - The replacement of a co-producer is subject to the prior approval by the Competent Authorities.
 
 8 - The participation of a producer from a third country in the co-production is subject to the prior approval of the Competent Authorities.
+
+112214438

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/462-1973-413626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ba2ead3c29073789e8a82fd8553a48bd44bf7190646d4f1f7e832fe6f5c13c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fad89848498ccc7ac633fed903902b6d9ff132ec608f03c4b6cbf45f9317593
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:39Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +90,9 @@ Por motivo de urgência, ao abrigo do § 3.º do artigo 136.º da Constituição
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Em cada uma das cidades de Vila Pery e de Nacala, em Moçambique, é criada uma escola industrial e comercial.
+Artigo 1.º Em cada uma das cidades de Vila Pery e de Nacala, em Moçambique, é criada uma escola industrial e comercial.
 
-###### Art. 2.º O quadro do pessoal docente do ensino técnico do ultramar é acrescido para Moçambique das seguintes unidades, com destino às escolas ora instituídas:
+Art. 2.º O quadro do pessoal docente do ensino técnico do ultramar é acrescido para Moçambique das seguintes unidades, com destino às escolas ora instituídas:
 
 1.º grupo - 2.
 
@@ -132,7 +132,7 @@ De Construção Civil - 2.
 
 De Grafias - 2.
 
-###### Art. 3.º Com destino a estas escolas são criados os seguintes lugares:
+Art. 3.º Com destino a estas escolas são criados os seguintes lugares:
 
 No quadro do pessoal de secretaria:
 
@@ -154,14 +154,14 @@ No quadro do pessoal assalariado:
 
 Serventes de 2.ª classe - 20.
 
-###### Art. 4.º A execução do presente decreto fica condicionada pela existência de disponibilidades financeiras.
+Art. 4.º A execução do presente decreto fica condicionada pela existência de disponibilidades financeiras.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Agosto de 1973.**
+Promulgado em 29 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

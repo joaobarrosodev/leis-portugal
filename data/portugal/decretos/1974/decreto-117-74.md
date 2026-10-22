@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/117-1974-412403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11822ae6b86943f6d096406e973e31fef7f5a51d0162a2f4c1eda35b2c474328
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a71c6359dcad281a84302eab5a685dd7b8fab25f4eaaacb67f75f85add45dc0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:47Z'
   warnings: []
   errors: []
 ---
@@ -88,25 +92,25 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 83069572$40, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 83069572$40, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
 Secretaria de Estado do Tesouro
 
-### Capítulo 24.º «Direcção-Geral da Fazenda Pública»:
+Capítulo 24.º «Direcção-Geral da Fazenda Pública»:
 
 Aquisição de títulos e operações de financiamento
 
-###### Artigo 322.º «Activos financeiros», n.º 3 «Empréstimos não titulados a longo prazo» ... 78223091$40
+Artigo 322.º «Activos financeiros», n.º 3 «Empréstimos não titulados a longo prazo» ... 78223091$40
 
 Ministério das Obras Públicas
 
 Secretaria de Estado das Obras Públicas
 
-### Capítulo 6.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 6.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 81.º «Bens não duradouros»:
+Artigo 81.º «Bens não duradouros»:
 
 N.º 3 «Outros bens não duradouros»:
 
@@ -114,40 +118,40 @@ Alínea 10 «Serviço Meteorológico Nacional» ... 248923$30
 
 Secretaria de Estado do Urbanismo e Habitação
 
-### Capítulo 29.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 29.º «Direcção-Geral dos Serviços de Urbanização»:
 
 Melhoramentos rurais
 
 Subsídios para melhoramentos rurais
 
-###### Artigo 667.º «Transferências - Sector público», n.º 1 «Autarquias locais» ... 4333790$70
+Artigo 667.º «Transferências - Sector público», n.º 1 «Autarquias locais» ... 4333790$70
 
-###### Artigo 668.º «Transferências - Instituições particulares» ... 263767$00
+Artigo 668.º «Transferências - Instituições particulares» ... 263767$00
 
 ... 4846481$00
 
 ... 83069572$40
 
-###### Art. 2.º Para compensação dos créditos consignados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos consignados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 7.º, grupo 8, artigo 114.º «Serviços dos edifícios e monumentos nacionais» ... 248923$30
+Capítulo 7.º, grupo 8, artigo 114.º «Serviços dos edifícios e monumentos nacionais» ... 248923$30
 
-### Capítulo 14.º, artigo 164.º «Reposições não abatidas nos pagamentos» ... 4597557$70
+Capítulo 14.º, artigo 164.º «Reposições não abatidas nos pagamentos» ... 4597557$70
 
 Receita extraordinária:
 
-### Capítulo 12.º, grupo 9, artigo 205.º «Crédito interno» ... 78223091$40
+Capítulo 12.º, grupo 9, artigo 205.º «Crédito interno» ... 78223091$40
 
 ... 83069572$40
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 12 de Março de 1974.**
+Promulgado em 12 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

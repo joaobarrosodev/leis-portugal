@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/35/1991/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-1991-639492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b3b22b22b9e4e0e81bdf884faf771771806a2f82d7bb326e1e7422c2ff3c1df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 964aedeccce0141b3f34adcba7e9420c0b5c90eb8041c8e34c85c83d134d56e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Astronomia
-- Investigação Científica e Tecnológica
 - Convenção
-- Portugal
 - Cooperação Científica
+- Investigação Científica e Tecnológica
+- Portugal
 relationships: []
 article_structure:
-  article_count: 44
+  article_count: 59
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:56Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 17 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo de Cooperação concluído em Lisboa, a 10 de Julho de 1990, entre o Governo da República Portuguesa e a Organização Europeia para a Investigação Astronómica no Hemisfério Sul, assim como os respectivos anexos, cujos textos originais, em língua portuguesa e em língua inglesa, seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo de Cooperação concluído em Lisboa, a 10 de Julho de 1990, entre o Governo da República Portuguesa e a Organização Europeia para a Investigação Astronómica no Hemisfério Sul, assim como os respectivos anexos, cujos textos originais, em língua portuguesa e em língua inglesa, seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro.
 
 Ratificado em 8 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Março de 1991.**
+Referendado em 27 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO EUROPEIA PARA A INVESTIGAÇÃO ASTRONÓMICA NO HEMISFÉRIO SUL.
 
@@ -190,17 +190,13 @@ Desejosos de criarem conjuntamente, no hemisfério sul, um observatório equipad
 
 concordam com as seguintes disposições:
 
-Artigo I
-
-Estabelecimento da Organização
+###### Artigo I — Estabelecimento da Organização
 
 1 - Esta Convenção estabelece a Organização Europeia para a Investigação Astronómica no Hemisfério Sul, a seguir designada «Organização».
 
 2 - A sede da Organização ficará provisoriamente situada em Bruxelas. A localização definitiva será determinada pelo conselho estabelecido de acordo com as disposições do artigo V desta Convenção.
 
-Artigo II
-
-Objectivos
+###### Artigo II — Objectivos
 
 1 - O objectivo da Organização é o de construir, equipar e fazer funcionar um observatório astronómico situado no hemisfério sul.
 
@@ -222,23 +218,17 @@ f) Os edifícios necessários para albergar o equipamento mencionado nas alínea
 
 4 - Os Estados membros deverão facilitar o intercâmbio de pessoal e de informação científica e técnica que seja de utilidade para a implementação dos programas em que participam.
 
-Artigo III
-
-Membros
+###### Artigo III — Membros
 
 1 - Os Estados signatários desta Convenção serão membros da Organização.
 
 2 - Outros Estados poderão ser admitidos na Organização, de acordo com o processo estabelecido no artigo XIII, parágrafo 4, desta Convenção.
 
-Artigo IV
-
-Órgãos estatutários
+###### Artigo IV — Órgãos estatutários
 
 A Organização será composta por um conselho e por um director.
 
-Artigo V
-
-O conselho
+###### Artigo V — O conselho
 
 1 - O conselho será composto por dois delegados de cada um dos Estados membros, um dos quais, pelo menos, deverá ser um astrónomo. Os representantes poderão ser assistidos por peritos.
 
@@ -278,9 +268,7 @@ g) Ser investido de autoridade para tomar as medidas necessárias para assegurar
 
 12 - O conselho firmará os acordos sobre a localização da sede necessários à implementação desta Convenção.
 
-Artigo VI
-
-Director e pessoal
+###### Artigo VI — Director e pessoal
 
 1 - a) O conselho nomeará o director, por um período fixo, por uma maioria de dois terços dos Estados membros. O director será unicamente responsável perante o conselho. Será responsável pela orientação geral da Organização e representá-la-á em actos civis. Deverá submeter ao conselho um relatório anual e estar presente nas reuniões do conselho na qualidade de consultor, salvo decisão do conselho em contrário.
 
@@ -298,9 +286,7 @@ d) Nos termos estabelecidos pelo conselho, o presidente e o director podem deleg
 
 5 - Os investigadores e seus colaboradores autorizados pelo conselho a trabalhar no observatório mas que não fazem parte do pessoal da Organização estarão sujeitos à autoridade do director e às regras gerais estabelecidas e aprovadas pelo conselho.
 
-Artigo VII
-
-Contribuições financeiras
+###### Artigo VII — Contribuições financeiras
 
 1 - a) Cada Estado membro deverá contribuir para os investimentos da Organização, em capital e equipamento e, para as suas despesas correntes de funcionamento, de acordo com uma tabela a fixar, de três em três anos, pelo conselho, a qual deverá ser aprovada por uma maioria de dois terços dos Estados membros, com base na média do rendimento nacional calculada segundo as regras estabelecidas no artigo VII, parágrafo 1, alínea b), da Convenção que Estabelece a Organização Europeia para a Investigação Nuclear, assinada em Paris em 1 de Julho de 1953 (ver nota 1).
 
@@ -330,41 +316,29 @@ i) No caso de qualquer programa de actividades, o conselho pode, por uma maioria
 
 ii) O conselho pode, por uma maioria de dois terços dos Estados membros, decidir ter em consideração quaisquer circunstâncias especiais de um Estado membro e alterar a sua contribuição de acordo com elas; para aplicação desta disposição será, particularmente, considerado como circunstância especial o facto de o rendimento nacional per capita de um Estado membro ser inferior à quantia a estabelecer pelo conselho pela mesma maioria.
 
-Artigo VIII
-
-Emendas
+###### Artigo VIII — Emendas
 
 1 - O conselho pode recomendar aos Estados membros emendas a esta Convenção e ao Protocolo Financeiro anexo. O director deverá fazer circular as propostas que lhe sejam submetidas pelo menos três meses antes da sua apreciação pelo conselho.
 
 2 - As emendas recomendadas pelo conselho só podem ser adoptadas com o acordo de todos os Estados membros, segundo os seus próprios requisitos constitucionais. Tais emendas entrarão em vigor 30 dias após ter sido recebida notificação da aceitação da emenda proposta. O director deverá informar os Estados membros da data de entrada em vigor da referida emenda.
 
-Artigo IX
-
-Litígios
+###### Artigo IX — Litígios
 
 A não ser que os Estados membros cheguem a acordo sobre qualquer outra forma de resolução, todos os litígios que surjam entre Estados membros relativos à interpretação ou aplicação desta Convenção ou do Protocolo Financeiro que não possam ser resolvidos através da mediação do conselho deverão ser submetidos ao Tribunal Permanente de Arbitragem da Haia, de acordo com as disposições da Convenção sobre a Resolução Pacífica de Litígios Internacionais, de 18 de Outubro de 1907.
 
-Artigo X
-
-Retirada
+###### Artigo X — Retirada
 
 Qualquer Estado membro pode, após um período não inferior a 10 anos a contar da data da sua entrada na Organização, notificar, por escrito, o presidente do conselho da sua retirada da Organização. Esta retirada tornar-se-á efectiva no fim do ano financeiro posterior àquele em que tiver sido entregue a notificação de retirada. Nenhum Estado que se retire da Organização poderá reclamar a sua parte nos bens da Organização ou nas contribuições por si já efectuadas.
 
-Artigo XI
-
-Falta de cumprimento de obrigações
+###### Artigo XI — Falta de cumprimento de obrigações
 
 Se um dos membros da Organização cessar o cumprimento das obrigações expressas na Convenção ou no Protocolo Financeiro, o Conselho deverá apelar para o cumprimento dessas disposições. Se o referido membro não aderir a este pedido durante o prazo estabelecido, os outros membros poderão unanimemente decidir continuar a cooperação dentro da Organização sem aquele membro. Em tal eventualidade, o Estado não poderá reclamar a sua parte dos bens da Organização ou nas contribuições por si já efectuadas.
 
-Artigo XII
-
-Dissolução
+###### Artigo XII — Dissolução
 
 A Organização poderá ser dissolvida em qualquer altura, por resolução adoptada por uma maioria de dois terços dos Estados membros. No caso de não haver acordo unânime entre os Estados membros à data da dissolução, um liquidatário será nomeado, nos termos da referida resolução. O espólio será distribuído pelos membros da Organização na altura da dissolução, proporcionalmente à percentagem das contribuições que tenham efectuado desde a sua assinatura da Convenção. No caso de existir um passivo, este será da responsabilidade dos referidos Estados membros proporcionalmente à percentagem das contribuições estabelecidas para o ano em curso.
 
-Artigo XIII
-
-Assinatura - Adesão
+###### Artigo XIII — Assinatura - Adesão
 
 1 - Esta Convenção e o Protocolo Financeiro anexo estarão disponíveis para a assinatura por parte de todos os Estados participantes nos trabalhos preparatórios desta Convenção.
 
@@ -374,25 +348,19 @@ Assinatura - Adesão
 
 4 - O conselho poderá, por voto unânime dos Estados membros, aprovar a admissão na Organização de outros Estados, além dos referidos no parágrafo 1 deste artigo. Os Estados assim admitidos tornar-se-ão membros da Organização por meio de entrega ao Ministério dos Negócios Estrangeiros da República Francesa de um instrumento de adesão.
 
-Artigo XIV
-
-Entrada em vigor
+###### Artigo XIV — Entrada em vigor
 
 1 - Esta Convenção, bem como o Protocolo Financeiro anexo, entrará em vigor na data em que o quarto instrumento de aprovação seja entregue, desde que o total das contribuições, segundo a tabela do anexo ao Protocolo Financeiro, seja de pelo menos 70%.
 
 2 - No que respeita a qualquer Estado que entregue o seu instrumento de aprovação, ratificação ou adesão depois da data de entrada em vigor estabelecida no parágrafo 1 deste artigo, a Convenção e o Protocolo Financeiro entrarão em vigor na data em que o referido instrumento for entregue.
 
-Artigo XV
-
-Avisos
+###### Artigo XV — Avisos
 
 1 - O Ministério dos Negócios Estrangeiros da República Francesa deverá avisar os Estados signatários ou que pretendam aderir, bem como o director da Organização, da entrega de cada instrumento de aprovação, ratificação ou adesão, bem como da entrada em vigor desta Convenção.
 
 2 - O presidente do conselho deverá avisar todos os Estados membros sempre que um Estado se retire da Organização ou cesse a sua participação por via do disposto no artigo XI.
 
-Artigo XVI
-
-Registo
+###### Artigo XVI — Registo
 
 Logo que esta Convenção e o Protocolo Financeiro anexo entrem em vigor, o Ministério dos Negócios Estrangeiros da República Francesa deverá registá-los junto do Secretário-Geral das Nações Unidas, de acordo com o artigo 102 da Carta das Nações Unidas.
 
@@ -786,7 +754,7 @@ acordam em:
 
 Garching, 30 de Novembro de 1989.
 
-**O Secretário de Estado da Ciência e Tecnologia de Portugal:**
+O Secretário de Estado da Ciência e Tecnologia de Portugal:
 
 José Pedro Sucena Paiva.
 

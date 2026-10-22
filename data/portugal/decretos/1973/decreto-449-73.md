@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/449-1973-413454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c14836ca51be2503deeafaac90a0d9d6f86e953454943d4a754de23f0322866c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f029dddafb3a9dbf2d72c054b539127cd60ef72b36f5a5f90f7380db7975b34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Administrador da Insolvência
+- Administrador de Falência
+- Advogado
+- Câmara de Falências
+- Câmara de Insolvências
+- Criação de Serviços
+- Definição de Competências
+- Definição de Funções
+- Falência
+- Insolvência
+- Juiz
+- Lourenço Marques
+- Luanda
+- Magistrado do Ministério Público
+- Ministro do Ultramar
+- Processo Especial de Falência
+- Quadro de Pessoal
+- Remuneração
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:28Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +115,13 @@ Ouvido o parecer do Conselho Ultramarino, de acordo com o disposto no § 3.º do
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, e nos termos do § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar o seguinte:
 
-###### Artigo 1.º Nas comarcas de Luanda e de Lourenço Marques haverá uma câmara de falências e insolvências, constituída por um magistrado, denominado síndico, um quadro de administradores e uma secretaria, com a composição constante do mapa anexo a este diploma.
+Artigo 1.º Nas comarcas de Luanda e de Lourenço Marques haverá uma câmara de falências e insolvências, constituída por um magistrado, denominado síndico, um quadro de administradores e uma secretaria, com a composição constante do mapa anexo a este diploma.
 
-###### Art. 2.º - 1. Enquanto se não justificar a designação de um magistrado para desempenhar as funções de síndico das Câmaras de Falências de Luanda e de Lourenço Marques em regime privativo, serão estas exercidas, em acumulação, pelo delegado do procurador da República junto das 3.º e 4.º Varas Cíveis.
+Art. 2.º - 1. Enquanto se não justificar a designação de um magistrado para desempenhar as funções de síndico das Câmaras de Falências de Luanda e de Lourenço Marques em regime privativo, serão estas exercidas, em acumulação, pelo delegado do procurador da República junto das 3.º e 4.º Varas Cíveis.
 
 2. Nas suas faltas e impedimentos, o síndico é substituído pelo seu substituto legal.
 
-###### Art. 3.º Ao síndico, que é também o advogado geral das falências e insolvências, compete, sem prejuízo das atribuições que especialmente lhe são impostas no Código de Processo Civil, o seguinte:
+Art. 3.º Ao síndico, que é também o advogado geral das falências e insolvências, compete, sem prejuízo das atribuições que especialmente lhe são impostas no Código de Processo Civil, o seguinte:
 
 a) Dirigir superiormente a Câmara e conferir posse aos seus subordinados;
 
@@ -140,15 +159,15 @@ r) Assinar os cheques de levantamento dos fundos movimentados através da delega
 
 s) Pôr à disposição do juiz do processo, autorizados os pagamentos ou apuradas as percentagens que competem a cada um dos credores, nos termos dos artigos 1254.º e 1255.º do Código de Processo Civil, as importâncias necessárias para pagamento dos cheques.
 
-###### Art. 4.º As autorizações da competência do síndico podem ser ou não precedidas de proposta do administrador, mas em qualquer caso é enviada cópia ao tribunal para ser junta ao respectivo processo.
+Art. 4.º As autorizações da competência do síndico podem ser ou não precedidas de proposta do administrador, mas em qualquer caso é enviada cópia ao tribunal para ser junta ao respectivo processo.
 
-###### Art. 5.º - 1. O quadro de administradores das Câmaras de Falências e Insolvências é em cada uma delas de dois, podendo ser aumentado de acordo com as exigências do serviço, mediante diploma legal da província respectiva.
+Art. 5.º - 1. O quadro de administradores das Câmaras de Falências e Insolvências é em cada uma delas de dois, podendo ser aumentado de acordo com as exigências do serviço, mediante diploma legal da província respectiva.
 
 2. Os administradores estão sujeitos à caução de 20000$00, a prestar por meio de depósito.
 
 3. Os administradores são livremente escolhidos pelo Ministro do Ultramar entre os indivíduos que o requeiram, com licenciatura em Ciências Económicas e Financeiras, e, na falta destes, com as habilitações técnicas julgadas necessárias.
 
-###### Art. 6.º Além das atribuições que lhes são impostas pelo Código de Processo Civil, compete aos administradores:
+Art. 6.º Além das atribuições que lhes são impostas pelo Código de Processo Civil, compete aos administradores:
 
 a) Promover e diligenciar que a escrita do falido seja integralmente apreendida e enviada à Câmara de Falências e Insolvências para nela ficar enquanto o processo estiver pendente;
 
@@ -170,7 +189,7 @@ i) Representar a massa em juízo, activa e passivamente;
 
 j) informar o síndico de tudo o que seja necessário para o bom andamento da administração da massa e cumprir as instruções que por ele lhes sejam dadas, sob pena de procedimento disciplinar. O síndico pode em cada caso exigir que a informação seja escrita.
 
-###### Art. 7.º Compete ainda aos administradores:
+Art. 7.º Compete ainda aos administradores:
 
 a) Servir de depositários judiciais dos bens que forem arrolados nos processos de dissolução da sociedade e em inventários, sempre que a nomeação competir ao tribunal;
 
@@ -178,13 +197,13 @@ b) Servir de liquidatários judiciais quando a nomeação competir ao tribunal;
 
 c) Servir de peritos nos exames de escrita.
 
-###### Art. 8.º A secretaria da Câmara de Falências e Insolvências, chefiada pelo secretário, está imediatamente subordinada ao sindico e dará expediente a todos os assuntos afectos à administração de falências e insolvências.
+Art. 8.º A secretaria da Câmara de Falências e Insolvências, chefiada pelo secretário, está imediatamente subordinada ao sindico e dará expediente a todos os assuntos afectos à administração de falências e insolvências.
 
-###### Art. 9.º - 1. O secretário da Câmara de Falências e Insolvências é provido por escolha do Ministro do Ultramar entre os escrivães de direito ou contadores no quadro do ultramar.
+Art. 9.º - 1. O secretário da Câmara de Falências e Insolvências é provido por escolha do Ministro do Ultramar entre os escrivães de direito ou contadores no quadro do ultramar.
 
 2. Nas suas ausências e impedimentos é substituído pelo arquivista-caixa.
 
-###### Art. 10.º - 1. Ao secretário, que fica imediatamente subordinado ao síndico, compete:
+Art. 10.º - 1. Ao secretário, que fica imediatamente subordinado ao síndico, compete:
 
 a) Dirigir os serviços da secretaria;
 
@@ -208,7 +227,7 @@ j) Encerrar o ponto de entrada e saída dos funcionários;
 
 l) Subscrever as certidões de todos os documentos autênticos existentes na secretaria, precedendo despacho do síndico.
 
-###### Art. 11.º - 1. O arquivista-caixa é provido em comissão de serviço por três anos, mediante proposta do procurador da República, por escolha do Governador da província, entre os ajudantes de escrivão ou de contador.
+Art. 11.º - 1. O arquivista-caixa é provido em comissão de serviço por três anos, mediante proposta do procurador da República, por escolha do Governador da província, entre os ajudantes de escrivão ou de contador.
 
 2. Ao arquivista-caixa compete:
 
@@ -220,17 +239,17 @@ c) Escriturar o livro Diário-Caixa e o livro de receita e despesa da delegaçã
 
 d) Auxiliar os serviços da secretaria, incluindo os dos administradores, conforme as indicações do secretário.
 
-###### Art. 12.º O síndico está subordinado ao procurador da República e recebe a assistência, orientação e fiscalização do ajudante expressamente designado para o efeito.
+Art. 12.º O síndico está subordinado ao procurador da República e recebe a assistência, orientação e fiscalização do ajudante expressamente designado para o efeito.
 
-###### Art. 13.º Todos os papéis referentes aos processos de falência e insolvência são elaborados em duplicado, indo o original para o processo e ficando o duplicado na secretaria da Câmara.
+Art. 13.º Todos os papéis referentes aos processos de falência e insolvência são elaborados em duplicado, indo o original para o processo e ficando o duplicado na secretaria da Câmara.
 
-###### Art. 14.º - 1. Quando não existam fundos para despesas urgentes e haja bens na massa, pode o síndico fazer abonos pela delegação do Cofre Geral de Justiça, que para o efeito constituirá um fundo de maneio até ao limite de 10000$00.
+Art. 14.º - 1. Quando não existam fundos para despesas urgentes e haja bens na massa, pode o síndico fazer abonos pela delegação do Cofre Geral de Justiça, que para o efeito constituirá um fundo de maneio até ao limite de 10000$00.
 
 2. Os abonos têm de ser restituídos dentro de três meses, a contar da data em que foram feitos, vendendo-se para tanto os bens necessários, salvo se algum credor ou interessado reembolsar o cofre da Câmara da importância do abono.
 
 3. O credor que faça o reembolso tem direito a reaver a soma adiantada logo que haja fundos e mediante simples requerimento ao síndico.
 
-###### Art. 15.º Haverá na secretaria os livros seguintes:
+Art. 15.º Haverá na secretaria os livros seguintes:
 
 a) De ponto dos funcionários;
 
@@ -262,19 +281,19 @@ o) Contas correntes, nos quais será aberta conta aos devedores a quem sejam con
 
 p) Quaisquer outros cuja organização seja determinada por lei ou por determinação superior.
 
-###### Art. 16.º Haverá ainda, por cada administrador, a quem incumbe escriturá-los, mais os seguintes livros:
+Art. 16.º Haverá ainda, por cada administrador, a quem incumbe escriturá-los, mais os seguintes livros:
 
 a) Contas correntes;
 
 b) De registo dos actos requeridos e diligências efectuadas.
 
-###### Art. 17.º São aplicáveis ao funcionamento das secretarias das Câmaras de Falências, em tudo que não esteja expressamente regulado neste diploma, os preceitos aplicáveis aos cartórios dos tribunais de comarca.
+Art. 17.º São aplicáveis ao funcionamento das secretarias das Câmaras de Falências, em tudo que não esteja expressamente regulado neste diploma, os preceitos aplicáveis aos cartórios dos tribunais de comarca.
 
-###### Art. 18.º - 1. Os funcionários de secretaria das Câmaras de Falências e Insolvências terão os vencimentos correspondentes à sua categoria como funcionários dos cartórios judiciais.
+Art. 18.º - 1. Os funcionários de secretaria das Câmaras de Falências e Insolvências terão os vencimentos correspondentes à sua categoria como funcionários dos cartórios judiciais.
 
 2. Os administradores nas comarcas de Luanda e de Lourenço Marques têm os vencimentos correspondentes aos da letra I, das categorias a que se refere o artigo 90.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 19.º - 1. A remuneração fixada no artigo 60.º do Código das Custas Judiciais do Ultramar e, bem assim, a que couber aos administradores de falências e insolvências pelo exercício de outras funções que lhes sejam atribuídas dividir-se-ão em Luanda e Lourenço Marques pela forma seguinte:
+Art. 19.º - 1. A remuneração fixada no artigo 60.º do Código das Custas Judiciais do Ultramar e, bem assim, a que couber aos administradores de falências e insolvências pelo exercício de outras funções que lhes sejam atribuídas dividir-se-ão em Luanda e Lourenço Marques pela forma seguinte:
 
 ... Percentagens
 
@@ -298,17 +317,17 @@ d) Dactilógrafo ... I
 
 4. O limite referido no número anterior é determinado nos termos previstos para os oficiais de justiça dos cartórios judiciais.
 
-###### Art. 20.º Logo que entrem em funcionamento as Câmaras de Falências e Insolvências, os administradores nomeados nos processos dessa natureza pendentes nas comarcas de Luanda e de Lourenço Marques serão substituídos pelos administradores das Câmaras, segundo o resultado do sorteio a que se procederá nos termos da alínea b) do artigo 3.º deste diploma.
+Art. 20.º Logo que entrem em funcionamento as Câmaras de Falências e Insolvências, os administradores nomeados nos processos dessa natureza pendentes nas comarcas de Luanda e de Lourenço Marques serão substituídos pelos administradores das Câmaras, segundo o resultado do sorteio a que se procederá nos termos da alínea b) do artigo 3.º deste diploma.
 
-###### Art. 21.º As despesas decorrentes da execução do presente diploma serão realizadas de acordo com as disponibilidades orçamentais das províncias.
+Art. 21.º As despesas decorrentes da execução do presente diploma serão realizadas de acordo com as disponibilidades orçamentais das províncias.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 22 de Agosto de 1973.**
+Promulgado em 22 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais dos Estados de Angola e Moçambique. - J. da Silva Cunha.
 
@@ -342,4 +361,4 @@ Dactilógrafo ... (ver nota 1) S, T ou U
 
 (nota 1) Consoante tenham mais de 20 ou de 10 anos ou menos de 10 anos de serviço.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/276-1975-335915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dae1d7cefa739fb34df9f611c03df5951f7b54a5cc6991bdbc6035ee0406c818
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cab1733c5b342f1d4c9a50d4631459236ea7fb5dc9f8a9ec554c5e7d80e0144
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Despesas Públicas
+- Estado Maior General das Forças Armadas
+- Liquidação de Despesas
+- Ministério da Comunicação Social
+- Ministério da Economia
+- Ministério da Educação e Cultura
+- Ministério da Justiça
+- Ministério das Finanças
+- Ministério do Equipamento Social e Ambiente
+- Ministério dos Assuntos Sociais
+- Orçamento
+- Pagamento
+- Pagamento por Conta
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:54Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +106,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
@@ -126,7 +144,7 @@ Ministério da Comunicação Social
 
 Despesas do ano de 1974 referentes a deslocações a processar pela Direcção dos Serviços Centrais ... 3144$00
 
-###### Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, as seguintes quantias:
+Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, as seguintes quantias:
 
 Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
@@ -140,8 +158,8 @@ Despesas do ano de 1973 referentes a conservação e aproveitamento de bens cont
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Silvano Ribeiro - António de Almeida Santos - António Carlos Magalhães Arnão Metelo - Francisco Salgado Zenha - Mário Luís da Silva Murteira - José Joaquim Fragoso - João Cardona Gomes Cravinho - Fernando Oliveira Baptista - José da Silva Lopes - Ernesto Augusto de Melo Antunes - José Augusto Fernandes - Álvaro Augusto Veiga de Oliveira - José Emílio da Silva - José Inácio da Costa Martins - Jorge de Carvalho Sá Borges - Jorge Correia Jesuíno.
 
-**Promulgado em 22 de Maio de 1975.**
+Promulgado em 22 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

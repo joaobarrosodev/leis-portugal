@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/640-1976-430985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03938f3934ec8a5fe7fdc259c51a568e3007e22eb515fe80a2402df65e654cee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00d9df089f1177827240a45664f98f1e8795264af41589803df8c967e8429a1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Braga
+- Medidas Preventivas
+- Património Arqueológico
+- Protecção do Património
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:381098:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:477280:por
+  label: Substituído o mapa anexo e prorrogadas por um ano, a contar do termo do prazo inicial, as medidas preventivas estabelecidas
+    no presente diploma pelo(a) Decreto n.º 99-A/77 - Diário da República n.º 175/1977, 2º Suplemento, Série I de 1977-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/99-a-1977-477280
+  date: '1977-07-30'
+- type: amended_by
+  target: pt:dre:297835:por
+  label: Prorrogado por um ano o prazo a que se refere o art. 3.º pelo(a) Decreto n.º 65/78 - Diário da República n.º 155/1978,
+    Série I de 1978-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/65-1978-297835
+  date: '1978-07-08'
+- type: amended_by
+  target: pt:dre:381098:por
+  label: "Prorrogado o prazo a que se refere o artigo 3.º do presente diploma, pelo DN.136/79.21.06.1979.PCM, DR.IS [141]\
+    \ de 21.06.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/136-1979-381098
+  date: '1979-06-21'
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:32Z'
   warnings: []
   errors: []
 ---
@@ -101,20 +128,20 @@ Nestes termos, considerando o disposto no artigo 1.º do [Decreto-Lei n.º 576/7
 
 Usando da faculdade conferida pelo artigo 3.º n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica proibida a concessão de licença de construção e o início da construção, quando aquela já haja sido concedida, de qualquer construção, reconstrução ou ampliação de edifícios ou outras instalações no perímetro demarcado no mapa anexo, que faz parte integrante deste diploma.
+Artigo 1.º Fica proibida a concessão de licença de construção e o início da construção, quando aquela já haja sido concedida, de qualquer construção, reconstrução ou ampliação de edifícios ou outras instalações no perímetro demarcado no mapa anexo, que faz parte integrante deste diploma.
 
-###### Art. 2.º Ficam igualmente proibidas quaisquer escavações ou aterros que não sejam decorrentes de explorações arqueológicas devidamente sancionadas pelo Ministério da Educação e Investigação Científica.
+Art. 2.º Ficam igualmente proibidas quaisquer escavações ou aterros que não sejam decorrentes de explorações arqueológicas devidamente sancionadas pelo Ministério da Educação e Investigação Científica.
 
-###### Art. 3.º As medidas estabelecidas pelos artigos anteriores vigorarão pelo prazo de um ano, prorrogável por igual período.
+Art. 3.º As medidas estabelecidas pelos artigos anteriores vigorarão pelo prazo de um ano, prorrogável por igual período.
 
 Vasco Fernando Leote de Almeida e Costa - Álvaro Augusto Veiga de Oliveira - Eduardo Ribeiro Pereira - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 9 de Julho de 1976.**
+Promulgado em 9 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/17700/18061807.pdf))](https://files.diariodarepublica.pt/1s/1976/07/17700/18061807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/17700/18061807.pdf)
 
-**O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Obras Públicas, Álvaro Augusto Veiga de Oliveira. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.**
+O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Obras Públicas, Álvaro Augusto Veiga de Oliveira. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.

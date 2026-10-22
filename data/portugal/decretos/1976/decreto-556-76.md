@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/556-1976-430606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dd6a8ceaac70b0dcb11cf7f8035662c64bb15cec2855a5ba140ebdf7fc1488c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 054973082ff2e6698cc88aab5bc432609fb25abf33f809047b9dbe77e8129295
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Coordenação da Indústria Metalo-mecânica Pesada
+- Criação de Serviços
+- Definição de Competências
+- Estatuto
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTO O CENTRO DE COORDENAÇAO DA INDÚSTRIA METALO-MECANICA PESADA PELO DECRETO 548/77, PUBLICADO NO DR.IS, 302,\
+    \ DE 771231. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:10Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +118,11 @@ ESTATUTO DO CENTRO DE COORDENAÇÃO DA INDÚSTRIA METALO-MECÂNICA PESADA
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### Artigo 1.º - 1. É criado no Ministério da Indústria e Tecnologia, na dependência directa da Secretaria de Estado da Indústria Pesada, um Centro de Coordenação da Indústria Metalo-Mecânica Pesada, abreviadamente designado neste diploma por Centro.
+Artigo 1.º - 1. É criado no Ministério da Indústria e Tecnologia, na dependência directa da Secretaria de Estado da Indústria Pesada, um Centro de Coordenação da Indústria Metalo-Mecânica Pesada, abreviadamente designado neste diploma por Centro.
 
 2. O Centro é dotado de personalidade jurídica e de autonomia administrativa e financeira e reger-se-á pelas disposições do presente diploma e pelos regulamentos que em sua execução vierem a ser aprovados.
 
-###### Art. 2.º O Centro tem por atribuições:
+Art. 2.º O Centro tem por atribuições:
 
 a) Coordenar as informações relativas aos programas de produção e de investimento das empresas abrangidas, tendo em atenção as suas capacidades tecnológicas, as necessidades internas, as possibilidades de exportação, a aquisição e o domínio de novas tecnologias e a participação no planeamento nacional;
 
@@ -120,7 +134,7 @@ d) Incentivar a articulação dos programas de produção das empresas abrangida
 
 e) Propor ao Secretário de Estado da Indústria Pesada as medidas adequadas à organização da actividade do sector.
 
-###### Art. 3.º No exercício das suas atribuições, compete ao Centro:
+Art. 3.º No exercício das suas atribuições, compete ao Centro:
 
 a) A inventariação dos recursos técnicos, tecnológicos e humanos do sector, incluindo os contratos de licenciamento, complementada com um conhecimento actualizado das empresas de menor dimensão;
 
@@ -148,15 +162,15 @@ l) A programação do desenvolvimento do sector em conjugação com as entidades
 
 m) O exercício dos demais actos necessários à prossecução das suas atribuições.
 
-###### Art. 4.º Ao Centro assiste o direito de dispor das necessárias informações referentes às empresas abrangidas pelo estabelecido no presente estatuto, quanto à matéria das suas atribuições, devendo as empresas respeitar as medidas adoptadas nos termos do disposto no artigo anterior.
+Art. 4.º Ao Centro assiste o direito de dispor das necessárias informações referentes às empresas abrangidas pelo estabelecido no presente estatuto, quanto à matéria das suas atribuições, devendo as empresas respeitar as medidas adoptadas nos termos do disposto no artigo anterior.
 
-###### Art. 5.º As empresas e os equipamentos abrangidos pela disciplina imposta no presente estatuto constam dos quadros anexos I e II, os quais poderão ser alterados por despacho do Secretário de Estado da Indústria Pesada.
+Art. 5.º As empresas e os equipamentos abrangidos pela disciplina imposta no presente estatuto constam dos quadros anexos I e II, os quais poderão ser alterados por despacho do Secretário de Estado da Indústria Pesada.
 
-###### Art. 6.º O Centro deve ser previamente informado sempre que se pretendam adquirir, no País ou no estrangeiro, equipamentos abrangidos no quadro anexo II, quando o valor global dos empreendimentos ultrapassar os mínimos a fixar por despacho do Secretário de Estado da Indústria Pesada.
+Art. 6.º O Centro deve ser previamente informado sempre que se pretendam adquirir, no País ou no estrangeiro, equipamentos abrangidos no quadro anexo II, quando o valor global dos empreendimentos ultrapassar os mínimos a fixar por despacho do Secretário de Estado da Indústria Pesada.
 
 ### CAPÍTULO II — Dos órgãos
 
-###### Art. 7.º São órgãos do Centro:
+Art. 7.º São órgãos do Centro:
 
 a) O conselho geral;
 
@@ -166,7 +180,7 @@ c) A comissão de contrôle.
 
 #### SECÇÃO I — Do conselho geral
 
-###### Art. 8.º O conselho geral é constituído por:
+Art. 8.º O conselho geral é constituído por:
 
 a) O director-geral da Mecânica Pesada;
 
@@ -180,7 +194,7 @@ e) Um representante de cada um dos principais utilizadores nacionais dos equipam
 
 f) Um representante de cada uma das empresas abrangidas.
 
-###### Art. 9.º Compete ao conselho geral:
+Art. 9.º Compete ao conselho geral:
 
 a) Dar parecer sobre a nomeação dos membros da direcção;
 
@@ -190,15 +204,15 @@ c) Analisar e emitir parecer sobre os programas de actividade do Centro e sobre 
 
 d) Apreciar e dar parecer sobre o orçamento e contas de gerência.
 
-###### Art. 10.º O conselho geral é presidido pelo director-geral da Mecânica Pesada, que poderá delegar a presidência em pessoa de sua escolha.
+Art. 10.º O conselho geral é presidido pelo director-geral da Mecânica Pesada, que poderá delegar a presidência em pessoa de sua escolha.
 
-###### Art. 11.º O conselho geral deverá reunir trimestralmente ou sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido do Secretário de Estado da Indústria Pesada, de cinco dos seus membros ou da comissão de contrôle, com a antecedência mínima de cinco dias.
+Art. 11.º O conselho geral deverá reunir trimestralmente ou sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido do Secretário de Estado da Indústria Pesada, de cinco dos seus membros ou da comissão de contrôle, com a antecedência mínima de cinco dias.
 
 #### SECÇÃO II — Da direcção
 
-###### Art. 12.º A direcção é composta por um presidente e dois vogais, designados pelo Secretário de Estado da Indústria Pesada, ouvidos o conselho geral e a comissão de contrôle, que proverão o lugar em regime de comissão de serviço.
+Art. 12.º A direcção é composta por um presidente e dois vogais, designados pelo Secretário de Estado da Indústria Pesada, ouvidos o conselho geral e a comissão de contrôle, que proverão o lugar em regime de comissão de serviço.
 
-###### Art. 13.º Compete à direcção, que obrigará o Centro pela assinatura do presidente e de um vogal, praticar todos os actos necessários à gestão do Centro e, em especial:
+Art. 13.º Compete à direcção, que obrigará o Centro pela assinatura do presidente e de um vogal, praticar todos os actos necessários à gestão do Centro e, em especial:
 
 a) Submeter à apreciação do conselho geral os programas de actividade do Centro e fazê-los executar;
 
@@ -218,27 +232,27 @@ h) Dar execução aos actos de gestão referidos no artigo 3.º;
 
 i) Prestar anualmente contas da execução dos planos de actividade e orçamento aprovados.
 
-###### Art. 14.º No exercício das suas funções a direcção actuará em estreita ligação com as empresas abrangidas e com as entidades compradoras de bens de equipamento pesado, mantendo a comissão de contrôle informada da sua actividade.
+Art. 14.º No exercício das suas funções a direcção actuará em estreita ligação com as empresas abrangidas e com as entidades compradoras de bens de equipamento pesado, mantendo a comissão de contrôle informada da sua actividade.
 
 #### SECÇÃO III
 
 Da comissão de «contrôle»
 
-###### Art. 15.º A comissão de contrôle é constituída por todos os elementos que integram a comissão coordenadora das comissões de trabalhadores das empresas abrangidas.
+Art. 15.º A comissão de contrôle é constituída por todos os elementos que integram a comissão coordenadora das comissões de trabalhadores das empresas abrangidas.
 
-###### Art. 16.º À comissão de contrôle compete dar parecer sobre os programas de actividade da direcção.
+Art. 16.º À comissão de contrôle compete dar parecer sobre os programas de actividade da direcção.
 
-###### Art. 17.º - 1. A comissão de contrôle tem acesso a toda a informação e documentação do Centro.
+Art. 17.º - 1. A comissão de contrôle tem acesso a toda a informação e documentação do Centro.
 
 2. A comissão de contrôle participa em todas as reuniões do conselho geral, através dos seus representantes, para o que deve ser informada da sua realização com quatro dias de antecedência, não tendo direito a voto.
 
-###### Art. 18.º Os representantes indicados pela comissão de contrôle, num máximo de cinco, dispõem de instalações no Centro, para exercício da sua actividade de contrôle.
+Art. 18.º Os representantes indicados pela comissão de contrôle, num máximo de cinco, dispõem de instalações no Centro, para exercício da sua actividade de contrôle.
 
 ### CAPÍTULO III — Da gestão financeira e patrimonial
 
-###### Art. 19.º A contabilidade do Centro obedecerá às normas orçamentais em vigor para serviços com autonomia financeira.
+Art. 19.º A contabilidade do Centro obedecerá às normas orçamentais em vigor para serviços com autonomia financeira.
 
-###### Art. 20.º Constituem receitas do Centro:
+Art. 20.º Constituem receitas do Centro:
 
 a) Os subsídios voluntariamente concedidos pelas empresas abrangidas por este diploma;
 
@@ -250,21 +264,21 @@ d) As remunerações por serviços prestados.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 21.º A dotação em pessoal do Centro será a constante do quadro III anexo, podendo os lugares ser providos em regime de comissão de serviço.
+Art. 21.º A dotação em pessoal do Centro será a constante do quadro III anexo, podendo os lugares ser providos em regime de comissão de serviço.
 
-###### Art. 22.º O pessoal do Centro ficará sujeito, em tudo o que não se encontrar especialmente previsto neste diploma, às normas legais aplicáveis aos funcionários do Ministério da Indústria e Tecnologia e aos funcionários civis de Estado em geral.
+Art. 22.º O pessoal do Centro ficará sujeito, em tudo o que não se encontrar especialmente previsto neste diploma, às normas legais aplicáveis aos funcionários do Ministério da Indústria e Tecnologia e aos funcionários civis de Estado em geral.
 
-###### Art. 23.º - 1. O Centro poderá recorrer ocasionalmente à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos específicos ou para a execução de outras funções especializadas, em regime de prestação de serviços.
+Art. 23.º - 1. O Centro poderá recorrer ocasionalmente à colaboração de técnicos, empresas ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos específicos ou para a execução de outras funções especializadas, em regime de prestação de serviços.
 
 2. Os contratos de prestação de serviços celebrados ao abrigo do número anterior deverão especificar, obrigatoriamente, a natureza da tarefa a executar, o prazo para a sua execução e a remuneração a pagar.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 1 de Julho de 1976.**
+Promulgado em 1 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 QUADRO ANEXO I
 
@@ -310,6 +324,6 @@ Equipamentos de ventilação, despoeiramento e antipoluição.
 
 QUADRO ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/16400/15551558.pdf))](https://files.diariodarepublica.pt/1s/1976/07/16400/15551558.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/16400/15551558.pdf)
 
-**O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.**
+O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.

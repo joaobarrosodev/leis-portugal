@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08000/06640670.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 452db85fa2edd27d51a6ce171a4c82e236d3a68af6e8b1ff737bc3e3cbce515c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c77cb9933e9496bbfa4f4bd09e52d9a9576eb623a9d605d5f297c78428e2c08a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Avião
+- Bagagem
+- Cobrança
+- Comércio
+- Definição de Competências
+- Diretor Geral
+- Estacionamento
+- Garantia
+- Indústria
+- Informação
+- Isenção Fiscal
+- Multa
+- Pagamento
+- Prazo
+- Secretário de Estado dos Transportes e Comunicações
+- Taxa
+- Taxa Aeroportuária
+- Tráfego Aéreo
+- Transporte Aéreo
+- VOO Doméstico
 relationships:
 - type: amended_by
   target: pt:dre:333343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251463:por
+  label: Alterados o n.º 7 do art. 9.º e os n.os 1 e 2 do art. 32.º do presente diploma, pelo(a) Decreto n.º 68/77 - Diário
+    da República n.º 106/1977, Série I de 1977-05-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/68-1977-251463
+  date: '1977-05-07'
+- type: cites
+  target: pt:dre:198913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501379:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:430435:por
+  label: Rectificado pela DECL.DD8314.14.07.1976.PCM, DR.IS [163] de 14.07.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-430435
+  date: '1976-07-14'
+- type: repealed_by
+  target: pt:dre:333343:por
+  label: "Revogado o presente diploma pelo DEC LEI.102/90.21.03.1990.MOPTC, DR.IS [67] de 21.03.1990, que manteve, contudo,\
+    \ em vigor os arts. 8º a 36º, e bem assim as portarias regulamentares deste mesmo diploma, enquanto não forem estabelecidos\
+    \ os quantitativos das taxas, nos termos do art. 18º daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1990-333343
+  date: '1990-03-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:19Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +141,13 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 I - Da aplicação e cobrança das taxas
 
-###### Artigo 1.º As taxas a que se refere o n.º 1 do artigo 7.º do [Decreto-Lei n.º 211/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1976-501379) aplicam-se de acordo com o estabelecido neste decreto.
+Artigo 1.º As taxas a que se refere o n.º 1 do artigo 7.º do [Decreto-Lei n.º 211/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1976-501379) aplicam-se de acordo com o estabelecido neste decreto.
 
-###### Art. 2.º O Secretário de Estado dos Transportes e Comunicações e o Secretário de Estado do Abastecimento e Preços estabelecerão em portaria os quantitativos das taxas a cobrar em cada aeroporto ou aeródromo sob a jurisdição da Direcção-Geral da Aeronáutica Civil, de acordo com as normas estabelecidas neste decreto.
+Art. 2.º O Secretário de Estado dos Transportes e Comunicações e o Secretário de Estado do Abastecimento e Preços estabelecerão em portaria os quantitativos das taxas a cobrar em cada aeroporto ou aeródromo sob a jurisdição da Direcção-Geral da Aeronáutica Civil, de acordo com as normas estabelecidas neste decreto.
 
-###### Art. 3.º As taxas devidas pela ocupação de terrenos, edificações ou outras instalações serão cobradas mensal e adiantadamente, durante o período a que respeitem.
+Art. 3.º As taxas devidas pela ocupação de terrenos, edificações ou outras instalações serão cobradas mensal e adiantadamente, durante o período a que respeitem.
 
-###### Art. 4.º - 1. As taxas devidas pela utilização dos aeroportos ou aeródromos e dos respectivos meios e serviços serão normalmente pagas antes da partida das aeronaves.
+Art. 4.º - 1. As taxas devidas pela utilização dos aeroportos ou aeródromos e dos respectivos meios e serviços serão normalmente pagas antes da partida das aeronaves.
 
 2. Poderão adoptar-se regimes especiais de cobrança quando for julgado conveniente.
 
@@ -110,23 +157,23 @@ I - Da aplicação e cobrança das taxas
 
 5. Este depósito poderá ser substituído por garantia bancária devidamente aprovada ou, eventualmente, fiança julgada idónea.
 
-###### Art. 5.º As taxas, bem como quaisquer outras importâncias em dívida aos seus aeroportos ou aeródromos, deverão ser pagas no prazo de vinte dias, a contar da emissão da respectiva guia de receita.
+Art. 5.º As taxas, bem como quaisquer outras importâncias em dívida aos seus aeroportos ou aeródromos, deverão ser pagas no prazo de vinte dias, a contar da emissão da respectiva guia de receita.
 
-###### Art. 6.º - 1, Quando os utentes em nome de quem forem emitidas guias de receita se não conformarem com a liquidação das taxas, poderão, dentro do prazo do pagamento, reclamar dessa liquidação para a direcção do respectivo aeroporto ou aeródromo.
+Art. 6.º - 1, Quando os utentes em nome de quem forem emitidas guias de receita se não conformarem com a liquidação das taxas, poderão, dentro do prazo do pagamento, reclamar dessa liquidação para a direcção do respectivo aeroporto ou aeródromo.
 
 2. Das decisões proferidas pelas direcções dos aeroportos ou aeródromos sobre as reclamações poderão os interessados recorrer para o director-geral da Aeronáutica Civil e deste para o Secretário de Estado dos Transportes e Comunicações, em ambos os casos no prazo de cinco dias, a contar da data da notificação daquelas decisões.
 
 3. Os recursos das decisões dos aeroportos ou aeródromos não têm efeito suspensivo do pagamento das guias sobre que incidir a reclamação.
 
-###### Art. 7.º - 1. Quando o pagamento das taxas não for efectuado dentro do respectivo prazo, poderão os interessados, nos trinta dias seguintes, proceder ao seu pagamento, acrescido dos juros de mora de 1% ao mês, de harmonia com o disposto no artigo 5.º do [Decreto-Lei n.º 49168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49168-1969-198913), de 5 de Agosto de 1969. Findo este último prazo, será ordenada pelo director-geral da Aeronáutica Civil a cobrança coerciva e a remessa dos respectivos autos ao tribunal.
+Art. 7.º - 1. Quando o pagamento das taxas não for efectuado dentro do respectivo prazo, poderão os interessados, nos trinta dias seguintes, proceder ao seu pagamento, acrescido dos juros de mora de 1% ao mês, de harmonia com o disposto no artigo 5.º do [Decreto-Lei n.º 49168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49168-1969-198913), de 5 de Agosto de 1969. Findo este último prazo, será ordenada pelo director-geral da Aeronáutica Civil a cobrança coerciva e a remessa dos respectivos autos ao tribunal.
 
 2. Para a cobrança coerciva referida no corpo deste artigo terão força executiva, nos termos da alínea c) do artigo 155.º do Código de Processo das Contribuições e Impostos, as certidões passadas pelas secretarias dos aeroportos ou aeródromos, extraídas dos livros ou documentos donde constarem as importâncias em dívida e com os demais requisitos exigidos no artigo 156.º do referido Código.
 
 II - Da especificação das taxas
 
-###### Art. 8.º As taxas de tráfego a aplicar nos aeroportos ou aeródromos são estruturadas de acordo com os artigos 9.º e 12.º
+Art. 8.º As taxas de tráfego a aplicar nos aeroportos ou aeródromos são estruturadas de acordo com os artigos 9.º e 12.º
 
-###### Art. 9.º - 1. Taxas de aterragem/descolagem. - Taxas a definir por unidade de tonelada métrica do peso máximo de descolagem indicado no certificado de navegabilidade ou em documento para o efeito considerado equivalente.
+Art. 9.º - 1. Taxas de aterragem/descolagem. - Taxas a definir por unidade de tonelada métrica do peso máximo de descolagem indicado no certificado de navegabilidade ou em documento para o efeito considerado equivalente.
 
 2. O peso máximo de descolagem da aeronave é arredondado por excesso para a tonelada exacta (1 libra correspondente a 0,4536 kg).
 
@@ -176,7 +223,7 @@ f) Os helicópteros.
 
 8. Às aeronaves, com excepção das referidas nos n.os 4 e 5, que, sem aterrar, efectuem operações com utilização de balizagem luminosa será aplicada a taxa especificada no artigo 16.º
 
-###### Art. 10.º - 1. Taxa de estacionamento. - Esta taxa é devida por tonelada métrica e por período de vinte e quatro horas ou fracção, estabelecida em função do peso máximo de descolagem indicado no certificado de navegabilidade ou em documento para o efeito considerado equivalente, e será definida:
+Art. 10.º - 1. Taxa de estacionamento. - Esta taxa é devida por tonelada métrica e por período de vinte e quatro horas ou fracção, estabelecida em função do peso máximo de descolagem indicado no certificado de navegabilidade ou em documento para o efeito considerado equivalente, e será definida:
 
 a) Nas áreas de tráfego:
 
@@ -196,7 +243,7 @@ b) Nas áreas de manutenção ou outras.
 
 8. Beneficiam da redução de 50% desta taxa as aeronaves ao serviço dos aeroclubes ou escolas nacionais de aviação civil quando o aeroporto ou aeródromo é a sua base.
 
-###### Art. 11.º - 1. Taxa de abrigo. - Taxa única por tonelada métrica e por período de vinte e quatro horas ou fracção, estabelecida em função do peso máximo de descolagem indicado no certificado de navegabilidade ou em documento para o efeito considerado equivalente.
+Art. 11.º - 1. Taxa de abrigo. - Taxa única por tonelada métrica e por período de vinte e quatro horas ou fracção, estabelecida em função do peso máximo de descolagem indicado no certificado de navegabilidade ou em documento para o efeito considerado equivalente.
 
 2. O peso máximo de descolagem é arredondado por excesso para a tonelada métrica.
 
@@ -208,7 +255,7 @@ b) Nas áreas de manutenção ou outras.
 
 6. Beneficiam da redução de 50% desta taxa as aeronaves mencionadas no n.º 8 do artigo 10.º
 
-###### Art. 12.º - 1. Taxa de passageiros:
+Art. 12.º - 1. Taxa de passageiros:
 
 a) Taxa a estabelecer por cada passageiro embarcado em viagem interna;
 
@@ -232,9 +279,9 @@ f) Passageiros de aeronaves civis com lotação não superior a seis lugares, qu
 
 4. O aeroporto ou aeródromo poderá sempre exigir prova justificativa destas isenções.
 
-###### Art. 13.º As taxas de utilização a aplicar nos aeroportos ou aeródromos são estruturadas de acordo com os artigos 14.º a 16.º
+Art. 13.º As taxas de utilização a aplicar nos aeroportos ou aeródromos são estruturadas de acordo com os artigos 14.º a 16.º
 
-###### Art. 14.º - 1. Taxas de serviços. - Estas taxas são devidas pela prestação de serviços pelo pessoal do aeroporto ou aeródromo quando pedidos pelos utentes ao aeroporto ou aeródromo e estes considerem tais serviços inerentes às operações que caracterizam a sua utilização.
+Art. 14.º - 1. Taxas de serviços. - Estas taxas são devidas pela prestação de serviços pelo pessoal do aeroporto ou aeródromo quando pedidos pelos utentes ao aeroporto ou aeródromo e estes considerem tais serviços inerentes às operações que caracterizam a sua utilização.
 
 2. Estas taxas serão especificadas por unidade e período de tempo ou operação e resultarão da seguinte fórmula:
 
@@ -258,7 +305,7 @@ t = tempo de serviço prestado em horas.
 
 6. A direcção do aeroporto ou aeródromo poderá ainda, em casos especiais devidamente justificados, conceder a isenção destas taxas.
 
-###### Art. 15.º - 1. Taxas do equipamento. - Estas taxas serão devidas pela utilização de equipamento do aeroporto ou aeródromo quando requisitado pelos utentes para operações consideradas pelo aeroporto ou aeródromo inerentes aos mesmos.
+Art. 15.º - 1. Taxas do equipamento. - Estas taxas serão devidas pela utilização de equipamento do aeroporto ou aeródromo quando requisitado pelos utentes para operações consideradas pelo aeroporto ou aeródromo inerentes aos mesmos.
 
 2. Estas taxas serão especificadas por unidade e período de tempo ou operação e resultarão da aplicação da seguinte fórmula:
 
@@ -288,13 +335,13 @@ c = consumo horário de lubrificantes, combustíveis ou outros produtos.
 
 6. A direcção do aeroporto ou aeródromo poderá ainda, em casos especiais devidamente justificados, conceder a isenção destas taxas.
 
-###### Art. 16.º - 1. Taxas de artigos de consumo. - Estas taxas são devidas pelo fornecimento aos utentes do aeroporto ou aeródromo de produtos de consumo que se considerem inerentes à sua actividade.
+Art. 16.º - 1. Taxas de artigos de consumo. - Estas taxas são devidas pelo fornecimento aos utentes do aeroporto ou aeródromo de produtos de consumo que se considerem inerentes à sua actividade.
 
 2. Estas taxas serão de uma percentagem de 10% sobre o custo de produtos para o aeroporto ou aeródromo, cobrada em conjunto com aquele custo.
 
-###### Art. 17.º As taxas de exploração são devidas pela exploração comercial ou industrial exercida na área sob a jurisdição do aeroporto ou aeródromo (não poderão, portanto, ser cobradas separadamente aos utentes pela empresa exploradora) e são estruturadas de acordo com os artigos 18.º a 21.º
+Art. 17.º As taxas de exploração são devidas pela exploração comercial ou industrial exercida na área sob a jurisdição do aeroporto ou aeródromo (não poderão, portanto, ser cobradas separadamente aos utentes pela empresa exploradora) e são estruturadas de acordo com os artigos 18.º a 21.º
 
-###### Art. 18.º - 1. Assistência a aeronaves. - Taxa a definir por cada operação de assistência prestada por uma empresa a aeronaves de transporte comercial.
+Art. 18.º - 1. Assistência a aeronaves. - Taxa a definir por cada operação de assistência prestada por uma empresa a aeronaves de transporte comercial.
 
 2. Entende-se por operação de assistência a aeronaves o conjunto, completo ou não, dos trabalhos de carregamento e descarregamento, despacho, documentação, verificação técnico-mecânica, fiscalização do reabastecimento, aprovisionamento e limpeza de uma aeronave.
 
@@ -302,9 +349,9 @@ c = consumo horário de lubrificantes, combustíveis ou outros produtos.
 
 4. A direcção do aeroporto ou aeródromo poderá ainda, em casos especiais devidamente justificados, conceder a isenção desta taxa.
 
-###### Art. 19.º Reabastecimento de combustíveis. - Taxa a definir por hectolitro fornecido às aeronaves, sendo as suas fracções arredondadas por excesso para a unidade superior.
+Art. 19.º Reabastecimento de combustíveis. - Taxa a definir por hectolitro fornecido às aeronaves, sendo as suas fracções arredondadas por excesso para a unidade superior.
 
-###### Art. 20.º - 1. Aprovisionamento das aeronaves. - Serão estabelecidas taxas diferentes, consoante o aprovisionamento não inclua refeições ou as inclua, e são devidas pela empresa que executa o serviço de aprovisionamento e por aeronave.
+Art. 20.º - 1. Aprovisionamento das aeronaves. - Serão estabelecidas taxas diferentes, consoante o aprovisionamento não inclua refeições ou as inclua, e são devidas pela empresa que executa o serviço de aprovisionamento e por aeronave.
 
 2. As empresas que executam serviços de aprovisionamento estão isentas desta taxa em relação às suas próprias aeronaves.
 
@@ -312,13 +359,13 @@ c = consumo horário de lubrificantes, combustíveis ou outros produtos.
 
 4. A direcção do aeroporto ou aeródromo poderá ainda, em casos especiais devidamente justificados, conceder a isenção desta taxa.
 
-###### Art. 21.º - 1. Actividades dependentes de concurso. - Pelas actividades cujo exercício está sujeito a concurso são devidas as taxas que resultarem do seu apuramento.
+Art. 21.º - 1. Actividades dependentes de concurso. - Pelas actividades cujo exercício está sujeito a concurso são devidas as taxas que resultarem do seu apuramento.
 
 2. Entende-se que o concurso incidirá sobre o quantitativo da taxa de exploração oferecido pelos concorrentes e que poderá ser fixo ou como percentagem do produto bruto da exploração considerada de acordo com o rendimento tributável pelos bairros fiscais ou repartições de finanças respectivos.
 
-###### Art. 22.º As taxas de ocupação são devidas pela ocupação de instalações pertencentes ao aeroporto ou aeródromo ou de terrenos na área da sua jurisdição.
+Art. 22.º As taxas de ocupação são devidas pela ocupação de instalações pertencentes ao aeroporto ou aeródromo ou de terrenos na área da sua jurisdição.
 
-###### Art. 23.º - 1. Parque de estacionamento de viaturas. - Nos parques guardados que venham a ser estabelecidos pelo aeroporto ou aeródromo são devidas taxas por viatura estacionada, a fixar de acordo com o artigo 2.º do presente diploma.
+Art. 23.º - 1. Parque de estacionamento de viaturas. - Nos parques guardados que venham a ser estabelecidos pelo aeroporto ou aeródromo são devidas taxas por viatura estacionada, a fixar de acordo com o artigo 2.º do presente diploma.
 
 2. Estas taxas deverão ser diferenciadas por tipo de viatura (ligeiras ou pesadas) e por parque de estacionamento (consoante a sua localização).
 
@@ -326,13 +373,13 @@ c = consumo horário de lubrificantes, combustíveis ou outros produtos.
 
 4. São isentas desta taxa as viaturas do Estado, corpos administrativos e de coordenação económica, corpo diplomático e consular e os casos especiais considerados justificáveis pela direcção do aeroporto ou aeródromo.
 
-###### Art. 24.º - 1. Áreas privativas. - Armazenagem ao ar livre, circulação, acessos, parques ou outros fins similares.
+Art. 24.º - 1. Áreas privativas. - Armazenagem ao ar livre, circulação, acessos, parques ou outros fins similares.
 
 São devidas taxas por metro quadrado de superfície e por mês quer em áreas pavimentadas, quer em áreas não pavimentadas.
 
 2. Estão isentos de pagamento desta taxa os serviços do Estado considerados indispensáveis ao regular funcionamento do aeroporto ou do aeródromo e os casos especiais considerados justificáveis pela direcção do aeroporto ou aeródromo.
 
-###### Art. 25.º - 1. Implantação de edificações. - É devida taxa mensal por metro quadrado de superfície coberta ocupada por edificação construída pelos utentes na área da jurisdição do aeroporto ou aeródromo.
+Art. 25.º - 1. Implantação de edificações. - É devida taxa mensal por metro quadrado de superfície coberta ocupada por edificação construída pelos utentes na área da jurisdição do aeroporto ou aeródromo.
 
 2. Estão isentos do pagamento desta taxa os serviços do Estado considerados indispensáveis ao regular funcionamento do aeroporto ou aeródromo.
 
@@ -340,15 +387,15 @@ São devidas taxas por metro quadrado de superfície e por mês quer em áreas p
 
 4. Beneficiam da redução de 50% no pagamento desta taxa os serviços públicos cujo funcionamento no aeroporto ou aeródromo, embora não indispensável, seja considerado conveniente no âmbito das facilidades a proporcionar aos passageiros e ao público.
 
-###### Art. 26.º - 1. Implantação de instalações. - É devida taxa mensal por metro quadrado de superfície ocupada por instalações implantadas à superfície ou no subsolo na área de jurisdição do aeroporto ou aeródromo.
+Art. 26.º - 1. Implantação de instalações. - É devida taxa mensal por metro quadrado de superfície ocupada por instalações implantadas à superfície ou no subsolo na área de jurisdição do aeroporto ou aeródromo.
 
 No cálculo da superfície ocupada é incluída a área de protecção das instalações, não sendo consideradas as tubagens de transporte de produtos ou linhas de transporte de energia de e para as instalações.
 
 2. Aplicam-se a esta taxa as isenções e reduções mencionadas nos n.os 2, 3 e 4 do artigo 25.º
 
-###### Art. 27.º - 1. Ocupação ou utilização de edifícios ou instalações sob a jurisdição do aeroporto ou aeródromo. - Pela utilização de dependências nos edifícios do aeroporto ou aeródromo são devidas as taxas mensais estruturadas de acordo com os artigos 28.º a 30.º
+Art. 27.º - 1. Ocupação ou utilização de edifícios ou instalações sob a jurisdição do aeroporto ou aeródromo. - Pela utilização de dependências nos edifícios do aeroporto ou aeródromo são devidas as taxas mensais estruturadas de acordo com os artigos 28.º a 30.º
 
-###### Art. 28.º Nas aerogares. - Será devida uma taxa calculada em função dos metros quadrados (ou cúbicos) ou fracções ocupados:
+Art. 28.º Nas aerogares. - Será devida uma taxa calculada em função dos metros quadrados (ou cúbicos) ou fracções ocupados:
 
 1. Por gabinetes, escritórios ou outras dependências para serviços ou actividades básicas inerentes à utilização do aeroporto ou aeródromo (serviços ou actividades classificados como básicos ou complementares).
 
@@ -360,7 +407,7 @@ No cálculo da superfície ocupada é incluída a área de protecção das insta
 
 5. Por montras de exposição de produtos e publicidade.
 
-###### Art. 29.º Nos hangares. - Será devida uma taxa calculada em função dos metros quadrados ou fracções ocupados:
+Art. 29.º Nos hangares. - Será devida uma taxa calculada em função dos metros quadrados ou fracções ocupados:
 
 1. Por gabinetes, escritórios ou outras dependências para serviços inerentes à utilização de aeroportos ou aeródromos (serviços ou actividades classificados como básicos ou complementares).
 
@@ -368,7 +415,7 @@ No cálculo da superfície ocupada é incluída a área de protecção das insta
 
 3. Por compartimentos ou outras áreas para actividades comerciais, industriais ou outras não indispensáveis ao funcionamento do aeroporto ou aeródromo.
 
-###### Art. 30.º Noutros edifícios. - Será devida uma taxa calculada em função dos metros quadrados (ou cúbicos) ou fracções ocupados:
+Art. 30.º Noutros edifícios. - Será devida uma taxa calculada em função dos metros quadrados (ou cúbicos) ou fracções ocupados:
 
 1. Por gabinetes, escritórios ou outras dependências para serviços ou actividades inerentes à utilização do aeroporto ou aeródromo (serviços ou actividades classificados como básicos ou complementares).
 
@@ -376,7 +423,7 @@ No cálculo da superfície ocupada é incluída a área de protecção das insta
 
 3. Por montras de exposição de produtos e publicidade.
 
-###### Art. 31.º - 1. Estão isentos do pagamento das taxas a que se referem os artigos 28.º, 29.º e 30.º os serviços do Estado considerados indispensáveis (serviços ou actividades básicos) ao regular funcionamento do aeroporto ou aeródromo.
+Art. 31.º - 1. Estão isentos do pagamento das taxas a que se referem os artigos 28.º, 29.º e 30.º os serviços do Estado considerados indispensáveis (serviços ou actividades básicos) ao regular funcionamento do aeroporto ou aeródromo.
 
 2. Poderão ser isentos de pagamento destas taxas os serviços ou actividades considerados indispensáveis à regular e eficiente utilização do aeroporto ou aeródromo quando não haja entidade exploradora interessada em exercer esses serviços ou actividades noutras condições.
 
@@ -388,7 +435,7 @@ Esta isenção só pode ser concedida por despacho do Secretário de Estado dos 
 
 5. Estas reduções são atribuídas, para cada caso, por despacho do Secretário de Estado dos Transportes e Comunicações, aos serviços ou actividades considerados indispensáveis ou necessários à regular e eficiente utilização do aeroporto ou aeródromo quando não haja entidade exploradora interessada em exercer esses serviços ou actividades nas condições normais estabelecidas.
 
-###### Art. 32.º Reclamos e letreiros. - São devidas taxas mensais pela implantação ou afixação de reclamos e letreiros na área sob a jurisdição do aeroporto ou aeródromo.
+Art. 32.º Reclamos e letreiros. - São devidas taxas mensais pela implantação ou afixação de reclamos e letreiros na área sob a jurisdição do aeroporto ou aeródromo.
 
 1. Nas aerogares. - Taxas diferentes por metro quadrado de superfície do reclamo ou letreiro ou por metro cúbico, consoante a espessura não ultrapasse ou ultrapasse 5 cm.
 
@@ -400,13 +447,13 @@ Esta isenção só pode ser concedida por despacho do Secretário de Estado dos 
 
 5. Beneficiam da redução de 20% desta taxa os serviços públicos e organismos oficiais quando em acção de interesse geral.
 
-###### Art. 33.º Depósito de bagagem. - É devida uma taxa única por volume e por período de vinte e quatro horas ou fracção.
+Art. 33.º Depósito de bagagem. - É devida uma taxa única por volume e por período de vinte e quatro horas ou fracção.
 
-###### Art. 34.º Acesso do público a áreas reservadas. - São devidas taxas diferentes por pessoa, conforme seja para acesso a varandas e terraços ou para acesso a salas ou outras dependências reservadas e como tal designadas pela direcção do aeroporto ou aeródromo.
+Art. 34.º Acesso do público a áreas reservadas. - São devidas taxas diferentes por pessoa, conforme seja para acesso a varandas e terraços ou para acesso a salas ou outras dependências reservadas e como tal designadas pela direcção do aeroporto ou aeródromo.
 
-###### Art. 35.º Tudo o mais que vier a ser considerado passível de taxa e que não estiver especificado neste decreto ou a que as disposições do mesmo não puderem ser aplicadas por analogia deverá ser objecto de proposta ao Secretário de Estado dos Transportes e Comunicações, o qual, conjuntamente com o Secretário de Estado do Abastecimento e Preços, definirá em portaria a taxa a aplicar.
+Art. 35.º Tudo o mais que vier a ser considerado passível de taxa e que não estiver especificado neste decreto ou a que as disposições do mesmo não puderem ser aplicadas por analogia deverá ser objecto de proposta ao Secretário de Estado dos Transportes e Comunicações, o qual, conjuntamente com o Secretário de Estado do Abastecimento e Preços, definirá em portaria a taxa a aplicar.
 
-###### Art. 36.º - 1. As expressões abaixo referidas, quando usadas neste decreto, têm os seguintes significados:
+Art. 36.º - 1. As expressões abaixo referidas, quando usadas neste decreto, têm os seguintes significados:
 
 Tráfego de passageiros, carga e correio
 
@@ -472,11 +519,11 @@ b) Complementares. - Os serviços ou actividades que, não sendo indispensáveis
 
 c) Acessórios. - Os serviços ou actividades que, embora não indispensáveis ou necessários, são desejáveis e aconselháveis pelo adicional de facilidades que põem à disposição dos passageiros, contribuindo assim para o aperfeiçoamento e desenvolvimento do transporte aéreo, como, por exemplo, as lojas de artigos livres de imposto, as barbearias, as farmácias, as estações de serviço de recolha de viaturas e outras da mesma natureza.
 
-###### Art. 37.º Compete às direcções dos aeroportos ou aeródromos velar pelo rigoroso cumprimento do estabelecido neste decreto, nas portarias referidas no artigo 2.º e nas condições fixadas nas licenças previstas no artigo 1.º do [Decreto-Lei n.º 211/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1976-501379) no que respeita ao aeroporto ou aeródromo da sua jurisdição.
+Art. 37.º Compete às direcções dos aeroportos ou aeródromos velar pelo rigoroso cumprimento do estabelecido neste decreto, nas portarias referidas no artigo 2.º e nas condições fixadas nas licenças previstas no artigo 1.º do [Decreto-Lei n.º 211/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1976-501379) no que respeita ao aeroporto ou aeródromo da sua jurisdição.
 
-###### Art. 38.º Os titulares das licenças, o seu pessoal e os comandantes das aeronaves ou seus representantes devem prestar aos serviços dos aeroportos ou aeródromos todos os esclarecimentos necessários ao processamento e cobrança das taxas, sob a forma que lhes for indicada pelos funcionários competentes. As aeronaves poderão ser retidas enquanto tais esclarecimentos não forem dados, nomeadamente enquanto não forem cumpridas as disposições referentes à liquidação das taxas.
+Art. 38.º Os titulares das licenças, o seu pessoal e os comandantes das aeronaves ou seus representantes devem prestar aos serviços dos aeroportos ou aeródromos todos os esclarecimentos necessários ao processamento e cobrança das taxas, sob a forma que lhes for indicada pelos funcionários competentes. As aeronaves poderão ser retidas enquanto tais esclarecimentos não forem dados, nomeadamente enquanto não forem cumpridas as disposições referentes à liquidação das taxas.
 
-###### Art. 39.º - 1. A inobservância das normas constantes das disposições deste decreto será punida com a multa de 500$00 a 5000$00.
+Art. 39.º - 1. A inobservância das normas constantes das disposições deste decreto será punida com a multa de 500$00 a 5000$00.
 
 2. Pode ser determinada a suspensão imediata da actividade do infractor pelo director-geral da Aeronáutica Civil.
 
@@ -488,8 +535,8 @@ c) Acessórios. - Os serviços ou actividades que, embora não indispensáveis o
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge Magalhães Mota - José Augusto Fernandes.
 
-**Promulgado em 18 de Março de 1976.**
+Promulgado em 18 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

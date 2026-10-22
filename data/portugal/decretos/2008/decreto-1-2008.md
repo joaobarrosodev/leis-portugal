@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/1/2008/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-2008-386852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6426c279b5fb1fac394d206f61c72cd0a6780cad54c7e0d3430e9a20d7b12be8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e8c0315e74d2da66d31ec84ecd280098549473d20fd23ec56651898ed8348c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Convenção
-- Portugal
+- Embarcação
 - Londres
+- Portugal
 - Proteção do Ambiente
 relationships: []
 article_structure:
   article_count: 9
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:13Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +101,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Manuel Pedro Cunha da Silva Pereira - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
 
-**Assinado em 4 de Dezembro de 2007.**
+Assinado em 4 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Dezembro de 2007.**
+Referendado em 5 de Dezembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO
 
@@ -679,7 +679,7 @@ International air pollution prevention certificate
 
 Issued under the provisions of the Protocol of 1997 to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified of the Protocol of 1978 related thereto (hereinafter referred to as 'the Convention') under the authority of the Government of: ... (full designation of the country) by ... (full designation of the competent person or organization authorized under the provisions of the Convention).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 Type of ship:
 
@@ -789,33 +789,33 @@ Notes:
 
 2.1.1 - The following fire extinguishing systems and equipment containing halons may continue in service: ... [ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.1.2 - The following systems and equipment containing CFCs may continue in service: ... [ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.1.3 - The following systems containing hydro-chlorofluorocarbons (HCFCs) installed before 1 January 2020 may continue in service: ... [ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.2 - Nitrogen oxides (NOx) (regulation 13):
 
 2.2.1 - The following diesel engines with power output greater than 130 kW, and installed on a ship constructed on or after 1 January 2000, comply with the emission standards of regulation 13, paragraph 3, subparagraph a), in accordance with the NOx Technical Code: ...[ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.2.2 - The following diesel engines with power output greater than 130 kW, and which underwent major conversion per regulation 13, paragraph 2, on or after 1 January 2000, comply with the emission standards of regulation 13, paragraph 3, subparagraph a), in accordance with the NOx Technical Code: ... [ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.2.3 - The following diesel engines with a power output greater than 130 kW and installed on a ship constructed on or after 1 January 2000, or with a power output greater than 130 kW and which underwent major conversion per regulation 13, paragraph 2, on or after 1 January 2000, are fitted with an exhaust gas cleaning system or other equivalent methods in accordance with regulation 13, paragraph 3, and the NOx Technical Code: ... [ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.2.4 - The following diesel engines from 2.2.1, 2.2.2 and 2.2.3 above are fitted with NOx emission monitoring and recording devices in accordance with the NOx Technical Code: ... [ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.3 - Sulphur oxides (SOx) (regulation 14):
 
@@ -867,19 +867,19 @@ The following test cycles and weighing factors should be applied for verificatio
 
 Test cycle for 'constant speed main propulsion' application (incl. diesel electric drive or variable pitch propeller installations)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 Test cycle for 'propeller law operated main and propeller law operated auxiliary engine' application
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 Test cycle for 'constant speed auxiliary engine' application
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 Test cycle for 'variable speed and load auxiliary engine' application
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 APPENDIX III
 
@@ -1095,7 +1095,9 @@ O novo anexo vi que se segue é aditado após o anexo v existente:
 
 Regras para a prevenção da poluição atmosférica por navios
 
-### CAPÍTULO I — Generalidades
+CAPÍTULO I
+
+Generalidades
 
 Regra 1
 
@@ -1179,7 +1181,9 @@ Equivalentes
 
 2 - A Administração que autoriza a montagem de instalações, materiais, dispositivos ou equipamentos em substituição dos que são exigidos pelo presente anexo, deve transmitir os respectivos pormenores à Organização a fim de estes serem comunicados às Partes na Convenção para informação e acção apropriada, se necessário.
 
-### CAPÍTULO II — Vistoria, certificação e meios de controlo
+CAPÍTULO II
+
+Vistoria, certificação e meios de controlo
 
 Regra 5
 
@@ -1285,7 +1289,9 @@ Detecção de transgressões e cumprimento
 
 6 - As normas do direito internacional relativas à prevenção, redução e controlo da poluição do ambiente marinho causada por navios, incluindo as leis relativas ao cumprimento e salvaguardas, em vigor no momento da aplicação ou interpretação do presente anexo, aplica-se, mutatis mutandis, às regras e normas estabelecidas no presente anexo.
 
-### CAPÍTULO III — Requisitos para o controlo das emissões dos navios
+CAPÍTULO III
+
+Requisitos para o controlo das emissões dos navios
 
 Regra 12
 
@@ -1525,7 +1531,7 @@ d) Emissões provenientes dos motores diesel utilizados unicamente na prospecç�
 
 3 - Os requisitos da regra 18 do presente anexo não se aplicam à utilização de hidrocarbonetos produzidos e posteriormente utilizados no local como combustível, quando aprovado pela Administração.
 
-## APÊNDICE I
+APÊNDICE I
 
 Modelo do certificado IAPP
 
@@ -1535,7 +1541,7 @@ Certificado internacional de prevenção da poluição atmosférica
 
 Emitido segundo as disposições do Protocolo de 1997 que emenda a Convenção Internacional para a Prevenção da Poluição por Navios, 1973, como alterada pelo respectivo Protocolo de 1978 (daqui em diante referida como 'a Convenção') sob a autoridade do Governo de: ... (designação oficial e completa do país) por ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 Tipo de navio:
 
@@ -1565,7 +1571,7 @@ Certifica-se que na vistoria prescrita na regra 5 do anexo vi da Convenção se 
 
 Vistoria anual: ...
 
-**Assinado: ... (assinatura da pessoa devidamente autorizada).**
+Assinado: ... (assinatura da pessoa devidamente autorizada).
 
 Local: ...
 
@@ -1575,7 +1581,7 @@ Data: ...
 
 Vistoria anual/intermédia (*): ...
 
-**Assinado:... (assinatura da pessoa devidamente autorizada).**
+Assinado:... (assinatura da pessoa devidamente autorizada).
 
 Local: ...
 
@@ -1585,7 +1591,7 @@ Data: ...
 
 Vistoria anual/intermédia (*): ...
 
-**Assinado: ... (assinatura da pessoa devidamente autorizada).**
+Assinado: ... (assinatura da pessoa devidamente autorizada).
 
 Local: ...
 
@@ -1595,7 +1601,7 @@ Data: ...
 
 Vistoria anual:...
 
-**Assinado: ... (assinatura da pessoa devidamente autorizada).**
+Assinado: ... (assinatura da pessoa devidamente autorizada).
 
 Local: ...
 
@@ -1645,33 +1651,33 @@ Notas:
 
 2.1.1 - Os seguintes sistemas e equipamentos de extinção de incêndios que contenham halons podem continuar em serviço ...[ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.1.2 - Os seguintes sistemas e equipamentos que contenham CFCs podem continuar em serviço: ...[ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.1.3 - Os seguintes sistemas que contenham hidroclorofluorocarbonos (HCFC) instalados antes de 1 de Janeiro de 2020 podem continuar em serviço: ...[ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.2 - Óxidos de azoto (NOx) (regra 13):
 
 2.2.1 - Os seguintes motores diesel com uma potência debitada superior a 130 kW, e instalados num navio construído em ou depois de 1 de Janeiro de 2000, cumprem com as normas de emissões da regra 13, parágrafo 3, alínea a), em conformidade com o Código Técnico de NOx: ...[ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.2.2 - Os seguintes motores diesel com uma potência debitada superior a 130 kW, e que foram submetidos a uma grande modificação de acordo com a regra 13, parágrafo 2, em ou depois de 1 de Janeiro de 2000, cumprem com as normas de emissões da regra 13, parágrafo 3, alínea a), em conformidade com o Código Técnico de NOx: ...[ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.2.3 - Os seguintes motores diesel com uma potência debitada superior a 130 kW e instalados num navio construído em ou depois de 1 de Janeiro de 2000, ou com uma potência debitada superior a 130 kW e que foram submetidos a uma grande modificação de acordo com a regra 13, parágrafo 2, em ou depois de 1 de Janeiro de 2000, estão dotados de um sistema de limpeza dos gases de evacuação, ou outros métodos equivalentes, em conformidade com a regra 13, parágrafo 3, e com o Código Técnico de NOX: ...[ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.2.4 - Os seguintes motores diesel indicados nos n.os 2.2.1, 2.2.2 e 2.2.3 estão equipados com dispositivos de monitorização e registo das emissões de NOx, em conformidade com o Código Técnico de NOx: ...[ ]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 2.3 - Óxidos de enxofre (SOx) (regra 14):
 
@@ -1703,7 +1709,7 @@ Emitido em ... (local de emissão do registo).
 
 (Selo branco ou carimbo da autoridade, conforme apropriado).
 
-## APÊNDICE II
+APÊNDICE II
 
 Ciclos de ensaio e factores de ponderação
 
@@ -1723,21 +1729,21 @@ Deverão ser aplicados os seguintes ciclos de ensaio e factores de ponderação 
 
 Ciclo de ensaio para os sistemas de 'propulsão principal de rotação constante' (incluindo a transmissão diesel-eléctrica ou as instalações de hélice de passo variável)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 Ciclo de ensaio para os 'motores principais e auxiliares sujeitos à lei do hélice'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 Ciclo de ensaio para os 'motores auxiliares de rotação constante'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
 Ciclo de ensaio para os 'motores auxiliares de rotação e carga variável'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00600/0018300207.pdf)
 
-## APÊNDICE III
+APÊNDICE III
 
 Critérios e procedimentos para designação de zonas de controlo das emissões de SOx
 
@@ -1783,7 +1789,7 @@ Critérios e procedimentos para designação de zonas de controlo das emissões 
 
 4.1 - As Partes cujos navios navegam na zona são convidadas a comunicar à Organização quaisquer preocupações relativamente ao funcionamento da zona.
 
-## APÊNDICE IV
+APÊNDICE IV
 
 Aprovação e limites de funcionamento dos incineradores de bordo
 
@@ -1827,7 +1833,7 @@ Elementos não queimados nos resíduos das cinzas: máximo: 10 % do peso;
 
 Amplitude de temperatura do gás de combustão à saída da câmara de combustão: 850-1200 graus Célsius.
 
-## APÊNDICE V
+APÊNDICE V
 
 Informação a incluir na guia de entrega de combustível
 

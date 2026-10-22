@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 155/1976, 3º Suplemento, Série I de 1976-07-05
   number: '155'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1476-(25) a 1476-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15503/00250030.pdf
 entry_into_force_dates: []
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/524-o-1976-353915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 824aaab61b8882de67b741e02abeb696f480211353390d3580a50f1b04a7e59d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7012eb3ba41ec32dac791105480854dc3579142c7e94e21cde95433c1b353f82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Cooperação Judiciária
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:604180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:604180:por
+  label: "Revogado e substituído o presente Acordo, nos termos do disposto no nº 2 do art. 86º do Acordo de Cooperação Jurídica\
+    \ e Judiciária, aprovado para ratificação pela RES.6/2005.09.12.2004.AR, DR.IS-A [32] de 15.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/6-2005-604180
+  date: '2004-12-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:50Z'
   warnings: []
   errors: []
 ---
@@ -90,37 +100,37 @@ de 5 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Judiciário entre Portugal e a República de Cabo Verde, assinado em 16 de Fevereiro de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo Judiciário entre Portugal e a República de Cabo Verde, assinado em 16 de Fevereiro de 1976, cujo texto vai anexo ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - João de Deus Pinheiro Farinha - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 5 de Julho de 1976.**
+Assinado em 5 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Repúbliica, FRANCISCO DA COSTA GOMES.**
+O Presidente da Repúbliica, FRANCISCO DA COSTA GOMES.
 
 ACORDO JUDICIÁRIO ENTRE PORTUGAL E CABO VERDE
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Acesso aos tribunais
 
 Os nacionais de uma das Partes contratantes poderão recorrer aos tribunais da outra.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Cooperação jurídica e judiciária
 
 No âmbito da cooperação jurídica e judiciária, o Estado Português ajudará, na medida das suas possibilidades, o Estado de Cabo Verde na formação de quadros cabo-verdianos.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Competência internacional
 
 A competência internacional dos tribunais das duas Partes contratantes será determinada segundo as regras privativas da legislação de cada um dos Estados.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Processos pendentes
 
@@ -136,7 +146,7 @@ a) Todos os prazos em curso consideram-se interrompidos à data da apresentaçã
 
 b) Realizar-se-ão, antes da remessa, as diligências de prova ou outras urgentes de cuja demora possa resultar dano grave ou irreparável.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Competência do Supremo Tribunal de Justiça português e do Tribunal da Relação de Lisboa
 
@@ -144,7 +154,7 @@ Competência do Supremo Tribunal de Justiça português e do Tribunal da Relaç�
 
 2. As decisões proferidas nos processos referidos no número anterior só serão exequíveis no território de Cabo Verde depois de confirmadas pelo tribunal cabo-verdiano competente.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Comunicação de actos
 
@@ -162,7 +172,7 @@ Pode também, por simples ofício ou por telegrama, sustar-se o cumprimento de c
 
 6. Na remessa e devolução das rogatórias utilizar-se-á, sempre que possível, a via aérea.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Testemunhas e peritos
 
@@ -190,7 +200,7 @@ Esta garantia cessará se a permanência continuar, voluntariamente, para além 
 
 6. Cada Parte contratante reserva-se o direito de fazer praticar pelos seus representantes diplomáticos ou consulares os actos de audição dos seus nacionais domiciliados ou que se encontrem no território da outra. Em caso de conflito de leis, a nacionalidade da pessoa a ouvir determinar-se-á pela lei do Estado onde a diligência deva ter lugar.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Revisão de decisões não penais
 
@@ -216,7 +226,7 @@ Esta garantia cessará se a permanência continuar, voluntariamente, para além 
 
 6. Cada Parte contratante reserva-se o direito de fazer praticar pelos seus representantes diplomáticos ou consulares os actos de audição dos seus nacionais domiciliados ou que se encontrem no território da outra. Em caso de conflito de leis, a nacionalidade da pessoa a ouvir determinar-se-á pela lei do Estado onde a diligência deva ter lugar.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Revisão de decisões penais
 
@@ -238,13 +248,13 @@ e) Não ter o réu sido julgado pela mesma infracção nos tribunais do país on
 
 4. A execução de uma sentença penal, apenas quanto à indemnização, será intentada directamente junto do tribunal competente nos mesmos termos das decisões civis.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Cooperação judiciária em matéria penal
 
 As Partes contratantes obrigam-se reciprocamente a cooperar em todos os processos por infracções cujo conhecimento, no momento do pedido de cooperação, é da competência das autoridades judiciárias ou policiais da Parte requerente e que sejam puníveis pela lei das duas Partes.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Excepções
 
@@ -256,19 +266,19 @@ b) Se a parte requerida considerar que a execução do pedido ofende a soberania
 
 2. A recusa da cooperação judiciária será comunicada à Parte requerente, com a indicação do motivo.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Pedido de cooperação judiciária
 
 O pedido de cooperação judiciária será feito pelo juiz ou pelo funcionário competente da Parte requerente e dirigido directamente à autoridade competente da Parte requerida.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Incompetência
 
 A autoridade requerida, se não for competente para dar execução ao pedido, remeterá este à que o for e comunicará o facto à autoridade requerente.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Assistência judiciária
 
@@ -276,7 +286,7 @@ Para o efeito de assistência judiciária, consistente na dispensa, total ou par
 
 Os atestados ou declarações de insuficiência económica deverão ser passados pelas autoridades do lugar de residência habitual dos requerentes ou, na sua falta, pelas autoridades do lugar de residência actual.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Extradição
 
@@ -284,7 +294,7 @@ Extradição
 
 2. Se o pedido de extradição respeitar a factos puníveis distintos, mas se algum ou alguns deles não preencherem a condição relativa ao limite da pena, a Parte requerida poderá conceder a extradição também por tais factos.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Acção penal
 
@@ -296,7 +306,7 @@ Acção penal
 
 4. Toda a correspondência sobre a matéria deste artigo será trocada entre os Ministros da Justiça das Partes contratantes.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Inadmissibilidade de extradição
 
@@ -314,7 +324,7 @@ e) Se a sentença condenatória tiver sido proferida em processo ou por tribunal
 
 f) Se estiverem extintos o procedimento criminal ou a pena ou amnistiada a infracção segundo a lei da Parte requerente ou da Parte requerida.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Recusa de extradição
 
@@ -334,7 +344,7 @@ f) Se, tendo a infracção sido cometida fora do território da Parte requerente
 
 2. No caso previsto na alínea a) do número anterior, se a Parte requerente o pedir, os factos serão denunciados às autoridades judiciais competentes da Parte requerida, que se pronunciarão sobre o exercício da acção penal. Para esse efeito, os autos, documentos e objectos relativos à infracção serão enviados, sem despesas, ao Ministro da Justiça da Parte requerida. A Parte requerente será informada do seguimento dado ao seu pedido.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Pedido de extradição
 
@@ -346,13 +356,13 @@ Toda a correspondência ulterior entre as duas Partes far-se-á directamente ent
 
 2. Em caso de urgência, poderão as autoridades judiciais ou de polícia de uma das Partes solicitar directamente das autoridades congéneres da outra a detenção provisória da pessoa a extraditar, a qual não poderá manter-se por período superior a quinze dias, a contar da data do conhecimento da detenção pela Parte requerente, se o pedido de extradição, instruído nos termos do número anterior, não for recebido pelo Estado requerido dentro desse prazo. Em casos excepcionais, quando circunstâncias particulares o justifiquem, a parte requerida poderá prorrogar aquele prazo por mais quinze dias.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Lei aplicável
 
 Aos processos de extradição e à detenção provisória da pessoa a extraditar será aplicável a lei da Parte requerida.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 Entrega do extraditando
 
@@ -368,13 +378,13 @@ Salvo caso de força maior devidamente comprovado, será restituído à liberdad
 
 5. Os períodos de detenção referidos nos n.os 1 e 2 serão levados em conta no cálculo do tempo de prisão.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Despesas
 
 Todas as despesas da extradição ficarão a cargo da Parte requerente.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Adiamento da entrega
 
@@ -384,7 +394,7 @@ a) Quando isso se torne necessário para o exercício da acção penal no territ
 
 b) Quando o extraditando tenha sido acometido por doença que ponha em risco a sua vida.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 Entrega de objectos e documentos
 
@@ -396,7 +406,7 @@ b) De objectos directa ou indirectamente obtidos pelo extraditando com a prátic
 
 2. A entrega dos objectos e documentos referidos no número anterior será feita mesmo que a extradição não venha a ter lugar por morte ou evasão do extraditando.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 Especialidade
 
@@ -406,7 +416,7 @@ Especialidade
 
 3. Se a qualificação dada ao facto imputado for modificada no decurso do processo, cessará o procedimento contra o extraditando, salvo se os elementos constitutivos da infracção novamente qualificada permitirem a extradição e a Parte requerente, informada do facto, formular novo pedido nos termos do artigo 19.º
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 Reextradição
 
@@ -414,13 +424,13 @@ A reextradição, em benefício de um terceiro Estado, não pode ser concedida p
 
 O consentimento da Parte requerida não será necessário quando se verifiquem os casos previstos na segunda parte do artigo 25.º, n.º 1.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Trânsito
 
 O trânsito de uma pessoa extraditada de um terceiro Estado para uma das Partes contratantes através do território da outra será autorizado, a pedido daquela, desde que a infracção constitua fundamento de extradição segundo o presente Acordo e não se oponham ao trânsito razões de segurança ou de ordem pública.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Colaboração judicial e policial
 
@@ -432,7 +442,7 @@ Colaboração judicial e policial
 
 4. De igual modo se procederá à necessária colaboração em matéria de técnica judiciária, processual e jurisprudencial.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 Registo criminal. Comunicações
 
@@ -442,13 +452,13 @@ Registo criminal. Comunicações
 
 A correspondência, nos casos referidos neste número, será trocada entre os Ministros da Justiça das duas Partes.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 Registo civil consular
 
 Os agentes diplomáticos e consulares de cada Parte contratante podem lavrar em relação aos seus nacionais os actos que, segundo as respectivas leis internas, são da competência dos órgãos normais do registo civil.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 Documentos e decisões
 
@@ -456,7 +466,7 @@ Documentos e decisões
 
 2. Serão dispensadas de revisão, para o efeito de ingresso no registo civil, as decisões proferidas em acções de Estado ou de registo pelos tribunais de uma Parte contratante relativas aos nacionais da outra, ficando a cargo da entidade que proceda ao registo a verificação das condições referidas no artigo 8.º
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 Registo civil e criminal. Certidões e certificados
 
@@ -466,7 +476,7 @@ Registo civil e criminal. Certidões e certificados
 
 3. As Partes contratantes obrigam-se a estabelecer, com a possível brevidade e por via diplomática, mediante simples troca de notas, modelos uniformes de certidões de registo civil a serem passadas pelas autoridades de uma Parte e utilizadas no território da outra.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 Informação e permuta de actos de registo e capacidade civil
 
@@ -474,7 +484,7 @@ As Partes contratantes obrigam-se a permutar entre si, trimestralmente, certidõ
 
 A correspondência, nos casos referidos neste artigo, será trocada entre os Ministros da Justiça das duas Partes.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 Nacionalidade
 
@@ -484,19 +494,19 @@ A comunicação identificará o nacional e indicará a data e, o fundamento da a
 
 A correspondência, nos casos referidos neste artigo, será trocada entre os Ministros da Justiça das duas Partes.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 Testamentos
 
 As Partes contratantes obrigam-se reciprocamente a comunicar, logo que seja possível e por intermédio dos respectivos Ministros da Justiça, mensalmente e por meio de fichas de modelo a acordar, os testamentos públicos, instrumentos de aprovação, depósito ou abertura de testamentos cerrados, as escrituras de revogação de testamentos e de renúncia ou repúdio de herança ou legado, feitos numa delas e relativos a outorgantes nacionais da outra.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 Autenticação de documentos
 
 Todos os pedidos e os documentos que os instruírem previstos neste Acordo serão datados e autenticados mediante a assinatura do funcionário competente e o selo da autoridade que o emitiu.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 Acordos especiais
 

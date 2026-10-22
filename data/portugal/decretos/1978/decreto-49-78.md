@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/11500/09000900.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49-1978-296383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30dc2749c5b0d42c3ae16bf9c3b724d8dbdfbbec4014ba938ac51b4d6aec9f9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0061df1af3b4f11724216e7866778bcbdef23bfa0b2677a137dc21926881569b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Imóveis
+- Autorização de Despesas
+- Despesas Públicas
+- Direcção Geral do Património
+- Lisboa
+- Património Arquitectónico
 relationships:
 - type: amended_by
   target: pt:dre:324887:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404681:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324887:por
+  label: "Revogado pelo DEC LEI.395/78.15.12.1978.PCM, DR.IS [287] de 15.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/395-1978-324887
+  date: '1978-12-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:41Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +116,7 @@ Tendo em vista o disposto no artigo 6.º do [Decreto-Lei n.º 48234](https://dia
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral do Património a celebrar escrituras para aquisição, pela importância total de 174532000$00, do seguinte conjunto de imóveis sitos em Lisboa:
+Artigo 1.º É autorizada a Direcção-Geral do Património a celebrar escrituras para aquisição, pela importância total de 174532000$00, do seguinte conjunto de imóveis sitos em Lisboa:
 
 a) Prédio denominado «Palácio Valle Flor», situado na Rua de Jau, 52 a 60, e Calçada de Santo Amaro, 176, pela importância de 115000000$00;
 
@@ -105,7 +124,7 @@ b) Prédio, situado na Rua de Jau, 45 a 49, pela importância de 36762000$00;
 
 c) Terreno, com a área de cerca de 2400 m2, descrito na respectiva Conservatória do Registo Predial sob os n.os 11642, 11643, 11644 e 11645 e confrontando do norte com a Rua de João de Barros, do sul com a Rua de Jau, do nascente com terreno da Câmara Municipal de Lisboa e do poente com a Rua de Soares de Passos, pela importância de 22770000$00.
 
-###### Art. 2.º Os encargos resultantes da execução dos contratos referidos no artigo anterior serão satisfeitos da seguinte forma:
+Art. 2.º Os encargos resultantes da execução dos contratos referidos no artigo anterior serão satisfeitos da seguinte forma:
 
 1) Para o prédio a que se refere a alínea a) do mesmo artigo:
 
@@ -121,8 +140,8 @@ Em 1979 ... 9532000$00
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 10 de Maio de 1978.**
+Promulgado em 10 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

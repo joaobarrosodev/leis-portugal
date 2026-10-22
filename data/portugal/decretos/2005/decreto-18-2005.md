@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/18/2005/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/18-2005-141847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e652ac79d886a76fa2f1b6b2d260afccf4532da9e0faa55971f2379a8e79ca1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4570c8c838cb3e10b5a3db2ddd1ed425aa9505a44067d7591ea314ac4c6efb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cidadão Estrangeiro
-- Convenção
-- Portugal
-- Lisboa
 - Contrato de Trabalho
+- Convenção
+- Lisboa
+- Portugal
 - Trabalho Temporário
 relationships:
 - type: amended_by
   target: pt:dre:585013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:585013:por
+  label: "Rectificado pela DECL-RECT.77/2005.20.10.2005.PCM, DR.IS-A [210] de 02.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/77-2005-585013
+  date: '2005-10-20'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:06Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +110,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 2005. - António Luís Santos Costa - António Luís Santos Costa - João Titterington Gomes Cravinho - Manuel António Gomes de Almeida de Pinho.
 
-**Assinado em 14 de Agosto de 2005.**
+Assinado em 14 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Agosto de 2005.**
+Referendado em 18 de Agosto de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA ROMÉNIA SOBRE A PERMANÊNCIA TEMPORÁRIA DE CIDADÃOS ROMENOS PARA A PRESTAÇÃO DE TRABALHO EM PORTUGAL.
 
@@ -225,7 +230,7 @@ e) Emitir um visto de trabalho após parecer favorável do Serviço de Estrangei
 
 3 - No caso de denúncia do presente Acordo, não serão afectados os direitos adquiridos durante a sua vigência.
 
-**Assinado em Lisboa no dia 19 de Julho de 2001, em duas cópias originais, nas línguas portuguesa, romena e inglesa, todos os textos fazendo igualmente fé. Em caso de divergência de interpretação, prevalecerá a versão inglesa.**
+Assinado em Lisboa no dia 19 de Julho de 2001, em duas cópias originais, nas línguas portuguesa, romena e inglesa, todos os textos fazendo igualmente fé. Em caso de divergência de interpretação, prevalecerá a versão inglesa.
 
 Pelo Governo da República Portuguesa:
 

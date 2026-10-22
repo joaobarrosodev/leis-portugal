@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/41-1989-548068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0e4ee01a075ffddfc99f1c3cba194bb92c2dc8ddf296fe6bde4dc7dbfe8ac55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 763212b2caa41a3a682b228fd66eb75c8afc2591350d765430ddadd77c898f28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Convenção
+- Cooperação Técnica
+- Portugal
+- São Tomé
 relationships: []
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:23Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 27 de Setembro
 
 Nos termos da alínea c) do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Relativo à Assistência Técnica da República Portuguesa à República Democrática de São Tomé e Príncipe no Âmbito da Aviação Civil, feito em São Tomé, a 8 de Novembro de 1988, cujo texto original em português vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Relativo à Assistência Técnica da República Portuguesa à República Democrática de São Tomé e Príncipe no Âmbito da Aviação Civil, feito em São Tomé, a 8 de Novembro de 1988, cujo texto original em português vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1989. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 13 de Setembro de 1989.**
+Assinado em 13 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Setembro de 1989.**
+Referendado em 15 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO RELATIVO À ASSISTÊNCIA TÉCNICA DA REPÚBLICA PORTUGUESA À REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE NO ÂMBITO DA AVIAÇÃO CIVIL.
 

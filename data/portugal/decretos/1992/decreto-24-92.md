@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/24/1992/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-1992-217931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ee43eec867729f756149360c229f95cefd138e949aa139ec9a0159945ec26dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76290cb1aca18ffb1c011c94f30342b881b04759c72e7e8ecb0e5545e20dd424
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Portugal
-- Descobrimentos Portugueses
-- Comemoração
 - Brasil
-relationships: []
+- Comemoração
+- Descobrimentos Portugueses
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:241649:por
+  label: "Aditada a comunicação das individualidades que integram a comissão de Honra para as Comemorações dos 500 anos da\
+    \ Viagem de Pedro Álvares Cabral, pelo AV.164/98.1998.09.02.MNE DR.IS-A [219] de 22/Set/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/164-1998-241649
+  date: '1998-09-02'
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:39Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +97,19 @@ de 21 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo entre a República Portuguesa e a República Federativa do Brasil sobre as Comemorações dos Descobrimentos Portugueses, assinado em Brasília em 7 de Maio de 1991, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Protocolo entre a República Portuguesa e a República Federativa do Brasil sobre as Comemorações dos Descobrimentos Portugueses, assinado em Brasília em 7 de Maio de 1991, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 19 de Abril de 1992. - Aníbal António Cavaco Silva - António Fernando Couto dos Santos - Duarte Ivo Cruz.
 
 Ratificado em 2 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Abril de 1992.**
+Referendado em 4 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FEDERATIVA DO BRASIL SOBRE AS COMEMORAÇÕES DOS DESCOBRIMENTOS PORTUGUESES.
 

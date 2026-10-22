@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/108-1977-256060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a82fd2ec8fe9767da79a4d37a96cc6bbe3c53083e6665a2b6880aab195a1d39d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d30817eb2729560afba9e31edce1c93f1eb231ba19950a32a9f5d7be356b62c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Bilateral
+- Cooperação Científica
+- Cooperação Técnica
+- Guiné-Bissau
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:21Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +92,15 @@ de 22 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Científica e Técnica entre o Governo da República Portuguesa e o Governo da República da Guiné-Bissau, assinado em 1 de Junho de 1977, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Científica e Técnica entre o Governo da República Portuguesa e o Governo da República da Guiné-Bissau, assinado em 1 de Junho de 1977, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 1 de Agosto de 1977.**
+Assinado em 1 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 PROTOCOLO ADICIONAL AO ACORDO DE COOPERAÇÃO CIENTÍFICA E TÉCNICA, ASSINADO EM 22 DE JUNHO DE 1975, ENTRE O GOVERNO DA REPÚBLICA DA GUINÉ-BISSAU E O GOVERNO DA REPÚBLICA PORTUGUESA.
 

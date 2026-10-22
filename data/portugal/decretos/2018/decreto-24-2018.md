@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/10/19200/0488804890.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/24/2018/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-2018-116587955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 204f81430b0f930acfd3ec02a0462f700145490f6d37531f3b50d11e74869f51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8453f6c69ff247868cc7a221983ca9894cef97b1aaccf46b7321fec29553c8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Segurança Internacional
-- Nova Iorque
-- Responsabilidade Internacional
-- Utilização do Espaço
 - Exploração do Espaço
+- Nova Iorque
+- Portugal
+- Responsabilidade Internacional
+- Segurança Internacional
+- Utilização do Espaço
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:50Z'
   warnings: []
   errors: []
 ---
@@ -106,14 +106,16 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 6 de setembro de 2018. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Assinado em 19 de setembro de 2018.**
+Assinado em 19 de setembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de setembro de 2018.**
+Referendado em 28 de setembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/10/19200/0488804890.pdf))](https://files.diariodarepublica.pt/1s/2018/10/19200/0488804890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/10/19200/0488804890.pdf)
+
+111693163

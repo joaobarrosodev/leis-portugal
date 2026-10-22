@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/207-1975-162164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e273d48c990bf78d2de5e2ad3bbcdb25a5bdcb5121405937275ff09ccb7171f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2179c1617593285b20cad7d2b807d7a3c6f2b5335243dafe67a0815dd0797f25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Estatuto dos Refugiados
+- Genebra
+- Macau
+- Nova Iorque
+- ONU
+- Portugal
+- Refugiado
 relationships:
 - type: amended_by
   target: pt:dre:502239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502239:por
+  label: "Formulada uma reserva ao Protocolo aprovado, para adesão, pelo presente diploma, pelo DEC LEI.281/76.1976.04.17.MNE\
+    \ DR.IS [91]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/281-1976-502239
+  date: '1976-04-17'
+- type: amended_by
+  target: pt:dre:372063:por
+  label: "Tornada pública a extensão ao território de Macau, da Convenção aprovada para adesão pelo presente diploma, pelo\
+    \ AV.88/99.1999.06.08.MNE DR.IS-A [151] DE 01/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/88-1999-372063
+  date: '1999-06-08'
+- type: amended_by
+  target: pt:dre:655684:por
+  label: "Tornada pública a extensão ao território de Macau do Protocolo Adicional à Convenção aprovada para adesão pelo presente\
+    \ diploma, pelo AV.243/99.1999.11.24.MNE DR.IS-A [291] DE 16/DEZ/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/243-1999-655684
+  date: '1999-11-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:34Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +116,15 @@ de 17 de Abril
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Protocolo de Nova Iorque, de 31 de Janeiro de 1967, adicional à Convenção Relativa ao Estatuto dos Refugiados, concluída em Genebra em 29 de Julho de 1951, cujos textos, em inglês e na respectiva tradução em português, vão anexos ao presente decreto.
+Artigo único. É aprovado, para adesão, o Protocolo de Nova Iorque, de 31 de Janeiro de 1967, adicional à Convenção Relativa ao Estatuto dos Refugiados, concluída em Genebra em 29 de Julho de 1951, cujos textos, em inglês e na respectiva tradução em português, vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Soares.
 
-**Assinado em 1 de Abril de 1975.**
+Assinado em 1 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ## ANEXO — Protocol relating to the status of refugees
 
@@ -220,9 +246,7 @@ Considerando que é desejável que todos os refugiados abrangidos na definição
 
 concordaram no seguinte:
 
-ARTIGO I
-
-Disposições gerais
+###### ARTIGO I — Disposições gerais
 
 1. Os Estados Partes no presente Protocolo obrigam-se a aplicar os artigos 2 a 34, inclusive, da Convenção aos refugiados tal como a seguir definidos.
 
@@ -230,9 +254,7 @@ Disposições gerais
 
 3. O presente Protocolo será aplicado pelos Estados Partes sem qualquer limitação geográfica, com a excepção de que as declarações existentes feitas por Estados já partes da Convenção de acordo com o artigo 1-B (1) (a) da Convenção deverão, salvo se alargadas nos termos do artigo 1-B (2) da mesma, ser aplicadas também sob o presente Protocolo.
 
-ARTIGO II
-
-Cooperação das autoridades nacionais com as Nações Unidas
+###### ARTIGO II — Cooperação das autoridades nacionais com as Nações Unidas
 
 1. Os Estados Partes no presente Protocolo obrigam-se a cooperar com o Alto-Comissário das Nações Unidas para os Refugiados, ou com qualquer outra agência das Nações Unidas que lhe possa vir a suceder no exercício das suas funções, e deverão, em especial, facilitar o desempenho do seu dever de vigilância da aplicação das disposições do presente Protocolo.
 
@@ -244,27 +266,19 @@ b) À aplicação do presente Protocolo;
 
 c) Às leis, regulamentos e decretos que são ou possam vir a ser aplicáveis em relação aos refugiados.
 
-ARTIGO III
-
-Informação sobre legislação nacional
+###### ARTIGO III — Informação sobre legislação nacional
 
 Os Estados Partes no presente Protocolo deverão comunicar ao secretário-geral das Nações Unidas as leis e regulamentos que possam vir a adoptar para assegurar a aplicação do presente Protocolo.
 
-ARTIGO IV
-
-Resolução de diferendos
+###### ARTIGO IV — Resolução de diferendos
 
 Qualquer diferendo entre Estados Partes no presente Protocolo que esteja relacionado com a sua interpretação ou aplicação e que não possa ser resolvido por outros meios deverá ser submetido ao Tribunal Internacional de Justiça a pedido de qualquer das partes no diferendo.
 
-ARTIGO V
-
-Adesão
+###### ARTIGO V — Adesão
 
 O presente Protocolo ficará aberto à adesão de todos os Estados Partes na Convenção ou de qualquer outro Estado Membro das Nações Unidas ou Membro de qualquer das agências especializadas ou de qualquer Estado ao qual tenha sido enviado pela Assembleia Geral das Nações Unidas um convite para aderir ao Protocolo. A adesão será efectuada pelo depósito de um instrumento de adesão junto do secretário-geral das Nações Unidas.
 
-ARTIGO VI
-
-Cláusula federal
+###### ARTIGO VI — Cláusula federal
 
 No caso de um Estado federal ou não unitário, aplicar-se-ão as seguintes disposições:
 
@@ -274,9 +288,7 @@ b) No respeitante aos artigos da Convenção a aplicar de acordo com o artigo I,
 
 c) Um Estado Federal parte no presente Protocolo deverá, a pedido de qualquer outro Estado Parte, transmitido através do secretário-geral das Nações Unidas, fornecer uma informação da lei e da prática da Federação e das suas unidades constituintes no tocante a qualquer disposição em particular da Convenção, a aplicar de acordo com o artigo I, parágrafo 1, do presente Protocolo, indicando a medida em que foi dado efeito, por medidas legislativas ou outras, à dita disposição.
 
-ARTIGO VII
-
-Reservas e declarações
+###### ARTIGO VII — Reservas e declarações
 
 1. No momento de adesão, qualquer Estado poderá formular reservas ao artigo 4 do presente Protocolo e à aplicação de acordo com o artigo I do presente Protocolo de quaisquer disposições da Convenção além das contidas nos artigos 1, 3, 4, 16 (1) e 33, desde que, no caso de um Estado Parte na Convenção, as reservas feitas ao abrigo deste artigo não abranjam os refugiados aos quais se aplica a Convenção.
 
@@ -286,30 +298,22 @@ Reservas e declarações
 
 4. As declarações feitas segundo o artigo 40, parágrafos 1 e 2, da Convenção por um Estado Parte nela que adira ao presente Protocolo considerar-se-ão aplicáveis sob o regime do presente Protocolo, salvo se, no momento de adesão, for enviada uma notificação em contrário pelo Estado Parte interessado ao secretário-geral das Nações Unidas. As disposições do artigo 40, parágrafos 2 e 3, e do artigo 44, parágrafo 3, da Convenção considerar-se-ão aplicáveis, mutatis mutandis, ao presente Protocolo.
 
-ARTIGO VIII
-
-Entrada em vigor
+###### ARTIGO VIII — Entrada em vigor
 
 1. O presente Protocolo entrará em vigor no dia do depósito do sexto instrumento de adesão.
 
 2. Para cada Estado que adira ao Protocolo depois do depósito do sexto instrumento de adesão, o Protocolo entrará em vigor na data do depósito pelo mesmo Estado do seu instrumento de adesão.
 
-ARTIGO IX
-
-Denúncia
+###### ARTIGO IX — Denúncia
 
 1. Qualquer Estado Parte poderá, a qualquer tempo, denunciar este Protocolo por meio de uma notificação dirigida ao secretário-geral das Nações Unidas.
 
 2. Tal denúncia terá efeito para o Estado Parte interessado um ano depois da data em que for recebida pelo secretário-geral das Nações Unidas.
 
-ARTIGO X
+###### ARTIGO X — Notificações pelo secretário-geral das Nações Unidas
 
-Notificações pelo secretário-geral das Nações Unidas
+O secretário-geral das Nações Unidas informará os Estados referidos no artigo V, acima, da data de entrada em vigor, adesões, reservas, retiradas de reservas e denúncias do presente Protocolo, e das declarações e notificações com ele relacionadas.
 
-**O secretário-geral das Nações Unidas informará os Estados referidos no artigo V, acima, da data de entrada em vigor, adesões, reservas, retiradas de reservas e denúncias do presente Protocolo, e das declarações e notificações com ele relacionadas.**
-
-ARTIGO XI
-
-Depósito nos arquivos do Secretariado das Nações Unidas
+###### ARTIGO XI — Depósito nos arquivos do Secretariado das Nações Unidas
 
 Um exemplar do presente Protocolo, cujos textos chinês, inglês, francês, russo e espanhol são igualmente autênticos, assinado pelo presidente da Assembleia Geral e pelo secretário-geral das Nações Unidas, será depositado nos arquivos do Secretariado das Nações Unidas. O secretário-geral transmitirá cópias certificadas do mesmo a todos os Estados Membros das Nações Unidas e aos outros Estados referidos no artigo V, acima.

@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-1990-571264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f3ef1ca49ff0b0ed4c3762eaabfb905fa343b1deeb3f2305a1bb7a03e8bbbca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40e20b3ab941f7562d1338169921f0e3a896ccfab45d8cc20bc4e378b99a4e0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Embarcação
+- Londres
+- OMI
+- Portugal
+- Segurança da Navegação
+- Segurança Marítima
+- Tráfego Marítimo
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:50Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +94,19 @@ de 9 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção sobre a Facilitação do Tráfego Marítimo Internacional, de 1965, cujo texto em inglês e a respectiva tradução para a língua portuguesa vão em anexo ao presente decreto.
+Artigo único. É aprovada, para adesão, a Convenção sobre a Facilitação do Tráfego Marítimo Internacional, de 1965, cujo texto em inglês e a respectiva tradução para a língua portuguesa vão em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 15 de Março de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
 
 Ratificado em 18 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Abril de 1990.**
+Referendado em 19 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION ON FACILITATION OF INTERNATIONAL MARITIME TRAFFIC
 
@@ -974,11 +982,11 @@ Desejando facilitar o tráfego marítimo pela simplificação e redução ao mí
 
 acordaram o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Os Governos Contratantes comprometem-se a adoptar, de acordo com as disposições da presente Convenção e do seu anexo, todas as medidas apropriadas pare facilitar e apressar o tráfego marítimo internacional e evitar atrasos desnecessários dos navios e das pessoas e propriedades a bordo.
 
-ARTIGO II
+###### ARTIGO II
 
 1 - Os Governos Contratantes comprometem-se a cooperar, de acordo com as disposições da presente Convenção, na formulação e aplicação de medidas pare a facilitação da chegada, estadia e partida de navios. Tais medidas deverão ser, tanto quanto praticável, não menos favoráveis do que as medidas aplicadas a outros meios de transporte internacional; contudo, estas medidas podem diferir de acordo com requisitos particulares.
 
@@ -986,17 +994,17 @@ ARTIGO II
 
 3 - As disposições da presente Convenção não se aplicam a navios de guerra ou a barcos de recreio.
 
-ARTIGO III
+###### ARTIGO III
 
 Os Governos Contratantes comprometem-se a cooperar na manutenção, ao mais alto nível praticável, da uniformidade de formalidades, exigências documentais e procedimentos em todos os aspectos em que essa uniformidade venha a facilitar e a melhorar o tráfego marítimo internacional e a reduzir ao mínimo quaisquer alterações de formalidades, exigências documentais e procedimentos necessários pare a satisfação de requisitos especiais próprios.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Com vista a atingir os objectivos estabelecidos nos artigos anteriores da presente Convenção, os Governos Contratantes comprometem-se a cooperar directamente ou através da Organização Marítima Consultiva Inter-governamental (ver nota *) (daqui em diante designada «Organização») em assuntos relativos a formalidades, exigências documentais e procedimentos, bem como à sua aplicação ao tráfego marítimo internacional.
 
 (nota *) O nome da Organização foi alterado para Organização Marítima Internacional em 22 de Maio 1982.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - Nada na presente Convenção ou no seu anexo deverá ser interpretado como obstáculo à aplicação de quaisquer facilidades mais amplas que um Governo Contratante concede ou posse vir a conceder no campo do tráfego marítimo internacional de acordo com as suas leis nacionais ou com as disposições de qualquer outro acordo internacional.
 
@@ -1004,7 +1012,7 @@ ARTIGO V
 
 3 - Todos os assuntos que não são expressamente considerados na presente Convenção continuam sujeitos à legislação dos Governos Contratantes.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Para os fins da presente Convenção e do seu anexo:
 
@@ -1012,7 +1020,7 @@ a) «Normas» são as medidas cuja aplicação uniforme pelos Governos Contratan
 
 b) «Práticas recomendadas» são as medidas cuja aplicação pelos Governos Contratantes é desejável para facilitar o tráfego marítimo internacional.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - O anexo da presente Convenção pode ser modificado pelos Governos Contratantes, quer por proposta de um deles, quer por uma conferência reunida para o efeito.
 
@@ -1042,13 +1050,13 @@ ARTIGO VIII (ver nota *)
 
 (nota *) O texto das notificações recebidas de Governos Contratantes de acordo com este artigo é reproduzido numa publicação intitulada Suplemento Referente ao Anexo à Convenção Que Visa a Facilitar do Tráfego Marítimo Internacional, 1965 - Notificações pelos Governos contratantes de acordo com o artigo VIII da Convenção.
 
-ARTIGO IX
+###### ARTIGO IX
 
-**O Secretário-Geral deverá convocar uma conferência dos Governos Contratantes para revisão ou emenda da presente Convenção, a pedido de pelo menos um terço dos Governos Contratantes. Qualquer revisão ou emenda deverá ser adoptada pela maioria de dois terços dos votos da Conferência e posteriormente certificada e comunicada pelo Secretário-Geral a todos os Governos Contratantes para sua aceitação.**
+O Secretário-Geral deverá convocar uma conferência dos Governos Contratantes para revisão ou emenda da presente Convenção, a pedido de pelo menos um terço dos Governos Contratantes. Qualquer revisão ou emenda deverá ser adoptada pela maioria de dois terços dos votos da Conferência e posteriormente certificada e comunicada pelo Secretário-Geral a todos os Governos Contratantes para sua aceitação.
 
 Um ano após a aceitação da revisão ou emenda por dois terços dos Governos Contratantes, cada revisão ou emenda deverá entrar em vigor para todos os Governos Contratantes, excepto para os que antes da sua entrada em vigor façam uma declaração de que não aceitam a revisão ou emenda. A Conferência pode determinar, pela maioria de dois terços, na altura da sua adopção, que uma revisão ou emenda é de natureza tal que qualquer Governo contratante que tenha feito essa declaração e que não aceite a revisão ou emenda dentro do período de um ano após a entrada em vigor da revisão ou emenda deverá, depois de expirar esse período, deixar de ser parte na Convenção.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - A presente Convenção deverá manter-se aberta para assinatura durante um período de seis meses contados a partir desta data e continuará posteriormente aberta à adesão.
 
@@ -1064,15 +1072,15 @@ A aceitação ou adesão serão tornadas efectivas pelo depósito de um instrume
 
 3 - O Governo de qualquer Estado que não tenha direito a tornar-se parte nesta Convenção, nos termos do parágrafo 2 deste artigo, pode requerer através do Secretário-Geral tornar-se parte e será admitido como parte nos termos do parágrafo 2, desde que a sua candidatura tenha sido aprovada por dois terços dos membros da Organização que não sejam membros associados.
 
-ARTIGO XI
+###### ARTIGO XI
 
 A presente Convenção entrará em vigor 60 dias após a data em que os Governos de pelo menos dez Estados a tenham assinado sem reservas à sua aceitação ou tenham depositado instrumentos de aceitação ou adesão. Entrará em vigor para um Governo que subsequentemente a aceite ou a ela adira 60 dias após o depósito do instrumento de aceitação ou adesão.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Três anos após a entrada em vigor da presente Convenção para um Governo Contratante, esse Governo pode denunciá-la por notificação escrita dirigida ao Secretário-Geral, que deverá notificar todos os Governos Contratantes do conteúdo e data da recepção dessa notificação. Tal denúncia terá efeito um ano após a sua recepção pelo Secretário-Geral ou passado um período mais longo, conforme seja especificado na notificação.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1 - a) As Nações Unidas, quando forem a autoridade administradora de um território, ou qualquer Governo Contratante responsável pelas relações internacionais de um território deverão consultar tal território o mais cedo possível, na tentativa de tornar aplicável a presente Convenção a esse território, e podem, em qualquer altura, por notificação escrita ao Secretário-Geral, declarar que a Convenção será aplicável a tal território.
 
@@ -1084,9 +1092,9 @@ d) A presente convenção deixará de ser aplicável a qualquer território um a
 
 2 - O Secretário-Geral deverá informar todos os Governos Contratantes da aplicação da presente Convenção a qualquer território nos termos do parágrafo 1 do presente artigo, referindo em cada caso a data a partir da qual essa aplicação se verificou.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
-**O Secretário-Geral deverá informar todos os Governos signatários, todos os Governos Contratantes e todos os membros da Organização sobre:**
+O Secretário-Geral deverá informar todos os Governos signatários, todos os Governos Contratantes e todos os membros da Organização sobre:
 
 a) As assinaturas apostas à presente Convenção e as datas respectivas;
 
@@ -1098,11 +1106,11 @@ d) Qualquer notificação recebida nos termos dos artigos XII e XIII e a data re
 
 e) A convocação de qualquer conferência nos termos dos artigos VII e IX.
 
-ARTIGO XV
+###### ARTIGO XV
 
 A presente Convenção e o seu anexo deverão ser depositados junto do Secretário-Geral, que remeterá cópias autenticadas aos Governos signatários e aos que a ela aderiram. Logo que a presente Convenção entre em vigor, deverá ser registada pelo Secretário-Geral nos termos do artigo 102.º da Carta das Nações Unidas.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 A presente Convenção e o seu anexo deverão ser redigidos em língua inglesa e francesa, sendo qualquer dos textos igualmente autêntico. Traduções oficiais em língua russa e espanhola deverão ser preparadas e depositadas com os originais assinados.
 
@@ -1112,7 +1120,9 @@ Feito em Londres neste 9.º dia de Abril de 1965.
 
 (nota *) Omitidas as assinaturas.
 
-## ANEXO — Secção 1 - Definições e disposições gerais
+## ANEXO
+
+#### Secção 1 - Definições e disposições gerais
 
 A) Definições
 
@@ -1166,7 +1176,7 @@ Os requisitos de informação e procedimentos de controle que existem actualment
 
 1.2 - Prática recomendada. - A despeito do facto de haver documentos destinados a determinar fins que podem ser preenchidos e exigidos no presente anexo, as autoridades públicas, tendo em atenção os interesses daqueles a quem pode ser exigido o preenchimento dos documentos e, bem assim, as finalidades a que estes se destinam, devem providenciar para que quaisquer dois ou mais de tais documentos sejam combinados num único, em todos os casos em que tal seja praticável e de que resulte um apreciável grau de facilitação.
 
-#### Secção 2 - Chegada, estadia e partida do navio
+Secção 2 - Chegada, estadia e partida do navio
 
 O presente capítulo contém as formalidades exigidas aos armadores pelas autoridades públicas à chegada, durante a estadia no porto e à partida do navio e não deverão ser interpretadas como excluindo as exigências da apresentação para inspecção pelas autoridades respectivas de certificados e outra documentação transportada pelo navio relativa ao seu registo, dimensões, segurança, tripulantes e outros assuntos com estes relacionados.
 
@@ -1432,7 +1442,7 @@ H) Medidas especiais de facilitação para navios que escalem portos com a final
 
 2.24 - Norma. - O tratamento médico de emergência e as medidas para a protecção da saúde pública deverão ter precedência sobre qualquer medida de controle que as autoridades públicas possam aplicar ao desembarque de pessoas doentes ou feridas.
 
-#### Secção 3 - Chegada e partida de pessoas
+Secção 3 - Chegada e partida de pessoas
 
 Esta secção contém as disposições relativas às formalidades exigidas pelas autoridades públicas no que respeita à tripulação e passageiros à chegada ou à partida de um navio.
 
@@ -1632,7 +1642,7 @@ F) Outras medidas de facilitação para estrangeiros que fazem parte das tripula
 
 3.19.4 - Prática recomendada. - Se aos membros da tripulação for exigido que sejam portadores dos seus documentos de identidade quando estiverem de licença em terra, esses documentos devem ser limitados aos referidos na norma 3.10.
 
-#### Secção 4 - Saúde pública e quarentena, incluindo medidas sanitárias no caso de animais e plantas
+Secção 4 - Saúde pública e quarentena, incluindo medidas sanitárias no caso de animais e plantas
 
 4. 1 - Norma. - As autoridades públicas de um Estado que não seja parte do Regulamento Sanitário Internacional deverão esforçar-se por aplicar as disposições daquele Regulamento aos transportes marítimos internacionais.
 
@@ -1658,7 +1668,7 @@ F) Outras medidas de facilitação para estrangeiros que fazem parte das tripula
 
 4.11 - Prática recomendada. - A expedição por mar de animais, de matérias-primas animais, de produtos animais em bruto, de géneros alimentícios de origem animal e de produtos vegetais quarentenários deve ser autorizada em circunstâncias específicas desde que acompanhados de um certificado de quarentena com a forma acordada entre os Estados envolvidos.
 
-#### Secção 5 - Disposições diversas
+Secção 5 - Disposições diversas
 
 A) Contratos e outras formas de garantia
 

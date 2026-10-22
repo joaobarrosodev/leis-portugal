@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05600/0012300134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/2025/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-2025-911693280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2d698f633d24c821fa2f3483adad9c1af5a52ce58eb5ef2386e743752317065
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: defd0db593e4ff2bcff0d5b19fce98f518087ac412c1e22509464585700ad603
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Acordo
 - Acordo Europeu
-- Suíça
-- Pessoal Consular
 - Missão Diplomática
+- Pessoal Consular
 - Remuneração
+- Suíça
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:57Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +101,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel.
 
-**Assinado em 11 de março de 2025.**
+Assinado em 11 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de março de 2025.**
+Referendado em 13 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A CONFEDERAÇÃO SUÍÇA SOBRE O EXERCÍCIO DE ATIVIDADES REMUNERADAS DE PESSOAS ACOMPANHANTES DO PESSOAL DAS MISSÕES DIPLOMÁTICAS, POSTOS CONSULARES E MISSÕES PERMANENTES
 
@@ -221,11 +221,13 @@ Feito em Lisboa, a 16 de dezembro de 2024, em dois originais, nas línguas portu
 
 Pela República Portuguesa:
 
-![](https://files.diariodarepublica.pt/images/911693280/911648899.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/911693280/911648899.png) |
+| --- |
 
 Pela Confederação Suíça:
 
-![](https://files.diariodarepublica.pt/images/911693280/911648900.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/911693280/911648900.png) |
+| --- |
 
 ACCORD ENTRE LA RÉPUBLIQUE PORTUGAISE ET LA CONFÉDÉRATION SUISSECONCERNANT L’EXERCICE D’ACTIVITÉS LUCRATIVES PAR LES PERSONNES ACCOMPAGNANTES DE MEMBRES DES MISSIONS DIPLOMATIQUES, POSTES CONSULAIRES ET MISSIONS PERMANENTES
 
@@ -357,11 +359,13 @@ Fait à Lisbonne, le 16 décembre 2024, en deux exemplaires originaux rédigés 
 
 Pour la République Portugaise:
 
-![](https://files.diariodarepublica.pt/images/911693280/911648901.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/911693280/911648901.png) |
+| --- |
 
 Pour la Confédération Suisse:
 
-![](https://files.diariodarepublica.pt/images/911693280/911648902.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/911693280/911648902.png) |
+| --- |
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE SWISS CONFEDERATION ON THE PERFORMANCE OF REMUNERATED ACTIVITIES BY ACCOMPANYING PERSONS OF MEMBERS OF DIPLOMATIC MISSIONS, CONSULAR POSTS AND PERMANENT MISSIONS
 
@@ -493,12 +497,16 @@ Entry into force
 
 This Agreement shall enter into force on the thirtieth day following the receipt of the last notification, in writing and through diplomatic channels, stating that all necessary constitutional and legal requirements of both Contracting Parties for the entry into force have been fulfilled.
 
-Done in Lisbon, on the 16<sup>th</sup> December 2024, in two originals in the Portuguese, French, and English languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail.
+Done in Lisbon, on the 16th December 2024, in two originals in the Portuguese, French, and English languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail.
 
 For the Portuguese Republic:
 
-![](https://files.diariodarepublica.pt/images/911693280/911648903.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/911693280/911648903.png) |
+| --- |
 
 For the Swiss Confederation:
 
-![](https://files.diariodarepublica.pt/images/911693280/911648904.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/911693280/911648904.png) |
+| --- |
+
+118819009

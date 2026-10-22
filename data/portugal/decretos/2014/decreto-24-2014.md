@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/24/2014/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-2014-56053276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63f78783b7f78712a10d41dfa91aa9293e4b0966648257d15391ae4000cf2f83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20ef6483fd52227c57b73447a05256eed06e7d94762e4f4246211099bb734029
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Direcção Geral da Aeronáutica Civil
-- Instituto Nacional de Aviação Civil
-- Espaço Aéreo
-- México
 - Aviação Civil
+- Convenção
+- Direcção Geral da Aeronáutica Civil
+- Espaço Aéreo
+- Instituto Nacional de Aviação Civil
+- México
+- Portugal
 relationships: []
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:18Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 5 de junho de 2014. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Assinado em 28 de julho de 2014.**
+Assinado em 28 de julho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de julho de 2014.**
+Referendado em 31 de julho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO SOBRE TRANSPORTE AÉREO ENTRE A REPÚBLICA PORTUGUESA E OS ESTADOS UNIDOS MEXICANOS
 
@@ -456,13 +456,13 @@ Gerardo Ruiz Esparza, Secretário de Comunicações e Transportes.
 
 Rotas a serem operadas, em ambos os sentidos, pelas empresas designadas da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
 
 #### Secção 2
 
 Rotas a serem operadas, em ambos os sentidos, pelas empresas designadas dos Estados Unidos Mexicanos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
 
 Notas
 
@@ -858,13 +858,13 @@ Sección 1
 
 Rutas que serán operadas en ambas direcciones por las líneas aéreas designadas de la República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
 
 Sección 2
 
 Rutas que serán operadas en ambas direcciones por las líneas aéreas designadas de los Estados Unidos Mexicanos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
 
 Notas
 
@@ -1266,13 +1266,13 @@ Section 1
 
 Routes to be operated in both directions by the designated airlines of the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
 
 Section 2
 
 Routes to be operated in both directions by the designated airlines of the United Mexican States:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15400/0416804188.pdf)
 
 Notes
 

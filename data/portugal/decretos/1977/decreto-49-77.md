@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49-1977-139898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bb6ec45cd787e3135c1ca34b1d3e41f886bc89f7d3ab5a770518d947538d8aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41eaeede7af6cbb23bde90e3f4f33cddea65e51a90c1ea109ece90183539b638
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa Pública
+- Ferrominas
+relationships:
+- type: cites
+  target: pt:dre:141424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 59
+  article_count: 58
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:34Z'
   warnings: []
   errors: []
 ---
@@ -98,31 +112,31 @@ Nestas condições, o presente diploma institui a empresa pública Ferrominas, E
 
 Nestes termos e nos dos artigos 202.º, alínea g), da Constituição, 4.º, n.os 2 e 3, e 40.º, n.os 2 e 3, do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1. É instituída a empresa pública Ferrominas, E. P., com o estatuto anexo ao presente diploma, do qual constitui parte integrante.
+Artigo 1.º - 1. É instituída a empresa pública Ferrominas, E. P., com o estatuto anexo ao presente diploma, do qual constitui parte integrante.
 
 2. Ferrominas, E. P., rege-se pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e subsidiariamente pelas normas do direito privado.
 
-###### Art. 2.º Os poderes de tutela do Governo sobre Ferrominas, E. P., serão exercidos pelo Ministro da Indústria e Tecnologia.
+Art. 2.º Os poderes de tutela do Governo sobre Ferrominas, E. P., serão exercidos pelo Ministro da Indústria e Tecnologia.
 
-###### Art. 3.º São destacadas do património da Siderurgia Nacional, E. P., e entregues, em dotação, à Ferrominas, E. P., a totalidade que a primeira vem possuindo do capital social da sociedade anónima Ferrominas, S. A. R. L., e a verba de 150000 contos atribuída à Siderurgia Nacional, E. P., pelo [Despacho Normativo n.º 29/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1977-141424), de 31 de Dezembro, publicado no Diário da República, 1.ª série, de 5 de Fevereiro de 1977, para reforço do capital de Ferrominas.
+Art. 3.º São destacadas do património da Siderurgia Nacional, E. P., e entregues, em dotação, à Ferrominas, E. P., a totalidade que a primeira vem possuindo do capital social da sociedade anónima Ferrominas, S. A. R. L., e a verba de 150000 contos atribuída à Siderurgia Nacional, E. P., pelo [Despacho Normativo n.º 29/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1977-141424), de 31 de Dezembro, publicado no Diário da República, 1.ª série, de 5 de Fevereiro de 1977, para reforço do capital de Ferrominas.
 
-###### Art. 4.º A empresa pública constituída por este decreto outorgará, no prazo de trinta dias, escritura pública de dissolução da sociedade anónima referida no artigo anterior, tomando todo o respectivo activo e passivo.
+Art. 4.º A empresa pública constituída por este decreto outorgará, no prazo de trinta dias, escritura pública de dissolução da sociedade anónima referida no artigo anterior, tomando todo o respectivo activo e passivo.
 
-###### Art. 5.º - 1. Com a dissolução de Ferrominas, S. A. R. L., transitam para Ferrominas, E. P., independentemente de quaisquer formalidades, os trabalhadores que à data se encontrem ao seu serviço.
+Art. 5.º - 1. Com a dissolução de Ferrominas, S. A. R. L., transitam para Ferrominas, E. P., independentemente de quaisquer formalidades, os trabalhadores que à data se encontrem ao seu serviço.
 
 2. Os trabalhadores referidos no n.º 1 deste artigo transitarão para Ferrominas, E. P., integrados nos quadros de origem e com os direitos e obrigações emergentes da respectiva situação nesses quadros.
 
-###### Art. 6.º As dúvidas que suscitarem a interpretação e a aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Indústria e Tecnologia ou por despacho conjunto deste e dos Ministros competentes em razão da matéria quando a dúvida a resolver respeite a mais de um Ministério.
+Art. 6.º As dúvidas que suscitarem a interpretação e a aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Indústria e Tecnologia ou por despacho conjunto deste e dos Ministros competentes em razão da matéria quando a dúvida a resolver respeite a mais de um Ministério.
 
-###### Art. 7.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
+Art. 7.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 29 de Março de 1977.**
+Promulgado em 29 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DE FERROMINAS, E. P.
 
@@ -708,4 +722,4 @@ A empresa fica sujeita à tributação directa e indirecta, nos termos gerais do
 
 O presente Estatuto será revisto em face do regime do contrôle de gestão pelos trabalhadores que vier a ser consagrado em lei, nos sessenta dias posteriores ao da publicação do referido diploma.
 
-**O Ministro do Plano e Coordenação Económica e da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro do Plano e Coordenação Económica e da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.

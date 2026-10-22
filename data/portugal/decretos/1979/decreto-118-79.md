@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/118-1979-363897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f18d253bedf60e98c7ef63a88ef17839f80835e8f29fda4d8b55aca561685e4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 398fad3b9163dfda56acdbd3ae5b27055da79fb7e6615644033052f04dcca54b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caracas
+- Convenção
+- Dupla Tributação
+- Empresa
+- Evasão Fiscal
+- Imposto sobre o Rendimento
+- Portugal
+- Transporte Aéreo
+- Venezuela
 relationships:
 - type: amended_by
   target: pt:dre:402730:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:402730:por
+  label: "Alterado o âmbito de aplicação da presente Convenção, pela Convenção entre a República Portuguesa e a República\
+    \ da Venezuela para Evitar a Dupla Tributação e Previnir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento aprovado\
+    \ para ratificação, pela RES.68/97.1997.10.09.AR DR.IS-A [281] de 05/Dez/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/68-1997-402730
+  date: '1997-10-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:47Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +107,15 @@ de 6 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada a Convenção entre a República Portuguesa e a República da Venezuela para Evitar a Dupla Tributação das Empresas de Transporte Aéreo, Relativamente aos Impostos sobre o Rendimento.
+Artigo único. É aprovada a Convenção entre a República Portuguesa e a República da Venezuela para Evitar a Dupla Tributação das Empresas de Transporte Aéreo, Relativamente aos Impostos sobre o Rendimento.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 15 de Outubro de 1979.**
+Assinado em 15 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convenção entre a República Portuguesa e a República da Venezuela para Evitar a Dupla Tributação das Empresas de Transporte Aéreo, Relativamente aos Impostos sobre o Rendimento.
 
@@ -205,4 +221,4 @@ Pelo Governo da República da Venezuela:
 
 Jorge Gómez Mantellini, Encarregado do Ministério das Relações Exteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25600/28062809.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25600/28062809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25600/28062809.pdf)

@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-1977-141626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d6589e4c2205e4d9d39264893a0bcd5d2bd9a3bb066541f0612bc936a53a961
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 239fd203d02a3a6f6b69b10b11eacad9655ad5afe9005a73156826cdb172f39f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Emigração
+- Luxemburgo
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:02Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +93,15 @@ Considerando as vantagens para os trabalhadores portugueses emigrados no Luxembu
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Protocolo que altera o Acordo entre a República Portuguesa e o Grão-Ducado do Luxemburgo Relativo ao Emprego de Trabalhadores Portugueses no Luxemburgo, assinado em Lisboa em 20 de Maio de 1970, cujo texto, em português, se transcreve a seguir e faz parte integrante do presente decreto.
+Artigo único. É aprovado o Protocolo que altera o Acordo entre a República Portuguesa e o Grão-Ducado do Luxemburgo Relativo ao Emprego de Trabalhadores Portugueses no Luxemburgo, assinado em Lisboa em 20 de Maio de 1970, cujo texto, em português, se transcreve a seguir e faz parte integrante do presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 14 de Fevereiro de 1977.**
+Assinado em 14 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Protocolo que altera o Acordo entre a República Portuguesa e o Grão-Ducado do Luxemburgo Relativo ao Emprego de Trabalhadores Portugueses no Luxemburgo, assinado em Lisboa em 20 de Maio de 1970.
 
@@ -473,7 +477,7 @@ Feito em seis exemplares em ..., no dia ...
 
 ANNEXE (ad point 5)
 
-## ANEXO (adicional ao ponto 5)
+ANEXO (adicional ao ponto 5)
 
 Frais de voyage: aller
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/18/2015/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/18-2015-70179161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03a219856de29c5affe1ffff388e7896512023b4d62c334ffcd919538f67332d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd835609c5654edc9c1f7cf2d80439c0ecf72db219d99e7d6eecbee9e7bd3644
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
 subjects:
 - Acesso à Informação
 - Convenção
-- Portugal
 - Documentação Classificada
 - Informação
+- Portugal
 - Segurança da Informação
 - Turquia
 relationships: []
 article_structure:
-  article_count: 0
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:40Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +104,13 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de julho de 2015. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Luís Maria de Barros Serra Marques Guedes.
 
-**Assinado em 15 de agosto de 2015.**
+Assinado em 15 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de agosto de 2015.**
+Referendado em 18 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
@@ -126,15 +126,11 @@ Confirmando que o presente Acordo não afeta os compromissos assumidos no âmbit
 
 Acordam no seguinte:
 
-Artigo I
-
-Objeto e âmbito de aplicação
+###### Artigo I — Objeto e âmbito de aplicação
 
 O presente Acordo tem por objeto e âmbito de aplicação estabelecer os procedimentos e os princípios para garantir a segurança da Informação e materiais Classificados trocados ou originados em atividades de cooperação entre as Partes.
 
-Artigo II
-
-Definições
+###### Artigo II — Definições
 
 Para os efeitos do presente Acordo:
 
@@ -158,31 +154,25 @@ i) «Princípio da necessidade de conhecer» designa o princípio segundo o qual
 
 j) «Organização» designa as entidades governamentais ou empresas privadas independentemente da respetiva propriedade, onde a Informação Classificada tenha existido ou onde os Projetos classificados foram realizados ou que envolvam a execução de Contratos classificados.
 
-Artigo III
-
-Autoridade de segurança competente
+###### Artigo III — Autoridade de segurança competente
 
 O presente Acordo será aplicado pelas seguintes Autoridades de Segurança competentes:
 
-Pelo Governo da República da Turquia:[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf).
+Pelo Governo da República da Turquia:[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf).
 
 Pelo Governo da República Portuguesa: Autoridade Nacional de Segurança, Presidência do Conselho de Ministros, Rua da Junqueira, 69, 1300-342 Lisboa, Portugal
 
-Artigo IV
-
-Graus de classificação de segurança
+###### Artigo IV — Graus de classificação de segurança
 
 1 - No âmbito das medidas de segurança prescritas pela respetiva legislação nacional, a Autoridade de Segurança Competente das Partes e as Organizações no seu Estado comprometem-se a garantir a proteção da Informação Classificada e do Projeto classificado, trocados entre si ou originados por cooperação mútua, e adotar a equivalência dos graus de classificação, como mostra a tabela abaixo, em Turco, Português e Inglês:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)
 
 2 - A Autoridade de Segurança Competente de cada Parte e as Organizações no seu Estado comprometem-se a marcar a Informação Classificada que recebam da Autoridade de Segurança Competente da outra Parte ou das Organizações no seu Estado com os seu grau de classificação de segurança nacional e o equivalente em Inglês, em conformidade com os graus de classificação de segurança apresentados na tabela acima.
 
 3 - As Autoridades de Segurança Competentes das Partes comprometem-se a informar-se mutuamente sobre as alterações feitas nos graus de classificação de segurança.
 
-Artigo V
-
-Alterações ou cancelamento de graus de classificação de segurança
+###### Artigo V — Alterações ou cancelamento de graus de classificação de segurança
 
 1 - O grau de classificação de segurança atribuído à Informação Classificada ou ao Projeto classificado pode ser elevado, diminuído ou cancelado pela Parte transmissora que os classificou. Essa decisão de alteração ou cancelamento será imediatamente notificada pela Parte transmissora à Parte destinatária que executará a decisão de alteração ou cancelamento.
 
@@ -190,25 +180,21 @@ Alterações ou cancelamento de graus de classificação de segurança
 
 3 - O grau de classificação de segurança dado à informação classificada ou ao projeto classificado, gerados no âmbito da cooperação será alterado ou cancelado por mútuo consentimento da Autoridade de Segurança Competente das Partes e/ou Organizações no seu Estado.
 
-Artigo VI
-
-Transmissão da informação classificada
+###### Artigo VI — Transmissão da informação classificada
 
 1 - A Informação Classificada será transmitida entre as Partes, de acordo com o Direito em vigor da Parte transmissora, normalmente através da via diplomática, ou por qualquer outra via acordada entre as Autoridades de Segurança Competentes.
 
 2 - A Autoridade de Segurança Competente da Parte destinatária confirmará por escrito a receção da Informação Classificada.
 
-Artigo VII
+###### Artigo VII — Tradução, reprodução e destruição da informação classificada
 
-Tradução, reprodução e destruição da informação classificada
-
-1 - A informação marcada com o grau de classificação de segurança de «[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)«/«MUITO SECRETO»/«SECRETO»/«TOP SECRET»/«SECRET» pode ser objeto de tradução ou reprodução apenas com o consentimento prévio por escrito da Autoridade de Segurança Competente da Parte transmissora.
+1 - A informação marcada com o grau de classificação de segurança de «[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)«/«MUITO SECRETO»/«SECRETO»/«TOP SECRET»/«SECRET» pode ser objeto de tradução ou reprodução apenas com o consentimento prévio por escrito da Autoridade de Segurança Competente da Parte transmissora.
 
 2 - A tradução de qualquer informação classificada será feita por pessoas que possuam o Certificado de Segurança Pessoal no grau adequado. Todas as traduções incluirão uma apropriada marcação e anotação de classificação de segurança indicando que o documento classificado foi recebido da Parte transmissora. Os documentos traduzidos em conformidade estão sujeitos ao mesmo controle e proteção que o texto original.
 
 3 - Na reprodução de Informação Classificada, todas as marcas de segurança originais apostas serão também colocadas nas respetivas cópias. Tal reprodução de informação está sujeita ao mesmo controle e proteção dado à informação original. O número de cópias deve ser limitado ao necessário para fins oficiais.
 
-4 - A Informação Classificada será destruída ou alterada de forma a evitar a reconstituição total ou parcial da informação. Contudo, a quando o seu prazo ou finalidade do seu uso termina a informação marcada com o grau de classificação de segurança «[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«MUITO SECRETO»/«TOP SECRET» não pode ser destruída, mas será devolvida pela Parte destinatária à Parte transmissora, a não ser que as Autoridades de Segurança Competentes das Partes decidam de outra forma, por mútuo acordo.
+4 - A Informação Classificada será destruída ou alterada de forma a evitar a reconstituição total ou parcial da informação. Contudo, a quando o seu prazo ou finalidade do seu uso termina a informação marcada com o grau de classificação de segurança «[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«MUITO SECRETO»/«TOP SECRET» não pode ser destruída, mas será devolvida pela Parte destinatária à Parte transmissora, a não ser que as Autoridades de Segurança Competentes das Partes decidam de outra forma, por mútuo acordo.
 
 Artigo VIII
 
@@ -228,7 +214,7 @@ Proteção da Informação Classificada ou do Projeto classificado
 
 1 - A Autoridade de Segurança Competente das Partes e as Organizações no seu Estado tomarão todas as medidas necessárias para a proteção da Informação Classificada e do Projeto classificado gerados ou transferidos no âmbito da cooperação mutua e assegurarão, pelo menos, com igual grau de classificação de segurança, a mesma proteção para tal informação que a estipulada para a sua própria Informação Classificada ou Projeto classificado
 
-2 - A proteção da informação e do projeto marcados com o grau de classificação de segurança de «[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«MUITO SECRETO»/«TOP SECRET» será assegurada através da adoção de medidas de segurança adicionais a serem definidas em instruções de segurança do projeto/anexo de segurança que será elaborada para cada projeto, separadamente.
+2 - A proteção da informação e do projeto marcados com o grau de classificação de segurança de «[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«MUITO SECRETO»/«TOP SECRET» será assegurada através da adoção de medidas de segurança adicionais a serem definidas em instruções de segurança do projeto/anexo de segurança que será elaborada para cada projeto, separadamente.
 
 3 - Caso a Informação Classificada ou o Projeto classificado trocados ou gerados no âmbito da cooperação sejam entreguem a empresas privadas ou mantidos nas instalações destas empresas deverá ser exigido um Certificado de Segurança das Instalações com o grau apropriado, emitido pela Autoridade de Segurança Competente do Estado destas empresas, e tal informação será dada em conformidade com o Princípio da necessidade de conhecer.
 
@@ -240,7 +226,7 @@ Artigo X
 
 Instrução de segurança do Projeto/anexo de segurança ao Contrato classificado
 
-1 - Para cada um dos projetos, definidos com um grau de classificação de segurança maior do que «[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«RESERVADO»/«RESTRICTED», a ser realizado no âmbito da cooperação entre a Autoridade de Segurança Competente das Partes e/ou as Organizações no seu Estado, será preparado como um anexo ao Contrato classificado a ser assinado, uma instrução de segurança de Projeto/anexo de segurança que estabeleça as medidas a serem adotadas para garantir a segurança no âmbito do Projeto.
+1 - Para cada um dos projetos, definidos com um grau de classificação de segurança maior do que «[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«RESERVADO»/«RESTRICTED», a ser realizado no âmbito da cooperação entre a Autoridade de Segurança Competente das Partes e/ou as Organizações no seu Estado, será preparado como um anexo ao Contrato classificado a ser assinado, uma instrução de segurança de Projeto/anexo de segurança que estabeleça as medidas a serem adotadas para garantir a segurança no âmbito do Projeto.
 
 2 - As Instruções de Segurança do Projeto/anexo de segurança contêm, pelo menos, os seguintes aspetos:
 
@@ -352,7 +338,7 @@ Rui Manuel Parente Chancerelle de Machete, Ministro de Estado e dos Negócios Es
 
 Pelo Governo da República da Turquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf).
 
 AGREEMENT BETWEEN THE GOVERNMENT OF THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY ON MUTUAL PROTECTION OF CLASSIFIED INFORMATION.
 
@@ -404,7 +390,7 @@ Competent Security Authority
 
 This Agreement shall be implemented by the following Competent Security Authorities:
 
-For the Government of the Republic of Turkey:[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf).
+For the Government of the Republic of Turkey:[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf).
 
 For the Government of the Portuguese Republic: Autoridade Nacional de Segurança, Presidência do Conselho de Ministros, Rua da Junqueira, 69, 1300-342 Lisboa, Portugal.
 
@@ -414,7 +400,7 @@ Security Classification Levels
 
 1 - Within the framework of the security measures prescribed by the respective national legislation, the Competent Security Authority of the Parties and the Organisations in its State commit to duly ensure the protection of the Classified Information and the Classified Project, exchanged between themselves or generated by mutual co-operation, and adopt the equivalence of levels of classification as shown in the table below, in Turkish, Portuguese and English:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)
 
 2 - The Competent Security Authority of each Party and the Organisations in its State commit to mark the Classified Information they receive from the Competent Security Authority of the other Party or the Organisations in its State with its own level of national security classification and English equivalent in the table, in accordance with the security classification levels displayed in the above table.
 
@@ -442,13 +428,13 @@ Article VII
 
 Translation, Reproduction and Destruction of the Classified Information
 
-1 - Information marked with the security classification level of «[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/ «MUITO SECRETO»/«SECRETO»/«TOP SECRET»/«SECRET» shall be able to be translated or duplicated only by prior written consent of the Competent Security Authority of the Originating Party.
+1 - Information marked with the security classification level of «[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/ «MUITO SECRETO»/«SECRETO»/«TOP SECRET»/«SECRET» shall be able to be translated or duplicated only by prior written consent of the Competent Security Authority of the Originating Party.
 
 2 - Translation of any classified information shall be made by persons who have the Personnel Security Certificate at appropriate level. All translations shall involve an appropriate security classification marking and annotations indicating that the classified document is received from the Originating Party. Documents translated accordingly shall be subject to the same control and protection with the original text.
 
 3 - When the Classified Information is reproduced, all original security markings thereon shall be placed on each copy, as well. Such reproduced information shall be subject to the same control and protection given to original information. The number of copies shall be limited to the extent required for official purposes.
 
-4 - The Classified Information shall be destroyed or changed in a way to prevent re-gathering of the parts either partially or totally. However when its term or the purpose of usage is ended, information marked with the security classification level of «[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«MUITO SECRETO»/«TOP SECRET» shall be returned by the Receiving Party to the Originating Party instead of being destroyed, unless otherwise decided by the Competent Security Authority of the Parties with mutual understanding.
+4 - The Classified Information shall be destroyed or changed in a way to prevent re-gathering of the parts either partially or totally. However when its term or the purpose of usage is ended, information marked with the security classification level of «[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«MUITO SECRETO»/«TOP SECRET» shall be returned by the Receiving Party to the Originating Party instead of being destroyed, unless otherwise decided by the Competent Security Authority of the Parties with mutual understanding.
 
 Article VIII
 
@@ -468,7 +454,7 @@ Protection of the Classified Information or the Classified Project
 
 1 - The Competent Security Authority of the Parties and the Organisations in its State shall take all necessary measures for the protection of the Classified Information and the Classified Project generated or transferred following the mutual co-operation and shall also ensure at least the same protection for such information as stipulated for their own Classified Information or the Classified Project with equal security classification level.
 
-2 - Protection of information and project marked with the security classification level of «[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«MUITO SECRETO»/«TOP SECRET» shall be ensured by taking additional security measures to be defined in project security instructions/security annex that shall be prepared for each project, separately.
+2 - Protection of information and project marked with the security classification level of «[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«MUITO SECRETO»/«TOP SECRET» shall be ensured by taking additional security measures to be defined in project security instructions/security annex that shall be prepared for each project, separately.
 
 3 - In case the Classified Information or the Classified Project exchanged or generated within the scope of co-operation, is delivered to private companies or kept in the facilities of these companies, the Facility Security Certificate with the appropriate level as issued by the Competent Security Authority in the State of these companies should be required, and such information shall be given in conformity with the Need-to-Know Principle.
 
@@ -480,7 +466,7 @@ Article X
 
 Project Security Instruction/Security Annex to Classified Contract
 
-1 - Project security instruction/security annex covering the measures to be taken for ensuring the security within the project shall be prepared as an annex to the Classified Contract to be signed for each project defined with security classification level higher than «[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«RESERVADO»/«RESTRICTED» to be carried out within the scope of co-operation between the Competent Security Authority of the Parties and/or the Organisations in its State.
+1 - Project security instruction/security annex covering the measures to be taken for ensuring the security within the project shall be prepared as an annex to the Classified Contract to be signed for each project defined with security classification level higher than «[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)»/«RESERVADO»/«RESTRICTED» to be carried out within the scope of co-operation between the Competent Security Authority of the Parties and/or the Organisations in its State.
 
 2 - The project security instructions/security annex shall contain at least the following aspects:
 
@@ -592,4 +578,4 @@ Rui Manuel Parente Chancerelle de Machete, Minister of State and Foreign Affairs
 
 For the Government of the Republic of Turkey:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17200/0693806947.pdf)

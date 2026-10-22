@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/641-1974-466058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c37793b11ce2ab61373f1395c770c853255be1af92c49ebe279145610d5a4da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8348ab50544e7eacb0f52223d6f1d395cd3746d3f97de4ad40a6543833dd7852
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:40Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +87,15 @@ de 20 de Novembro
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo entre o Governo de Portugal e o Governo da Finlândia sobre o Comércio de Produtos Agrícolas no quadro da Associação Europeia de Comércio Livre, assinado em Lisboa em 29 de Janeiro de 1974, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo entre o Governo de Portugal e o Governo da Finlândia sobre o Comércio de Produtos Agrícolas no quadro da Associação Europeia de Comércio Livre, assinado em Lisboa em 29 de Janeiro de 1974, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar - Mário Soares.
 
-**Assinado em 13 de Novembro de 1974.**
+Assinado em 13 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO ENTRE O GOVERNO DE PORTUGAL E O GOVERNO DA FINLÂNDIA SOBRE O COMÉRCIO DE PRODUTOS AGRÍCOLAS NO QUADRO DA ASSOCIAÇÃO EUROPEIA DE COMÉRCIO LIVRE.
 
@@ -109,17 +109,17 @@ Desejosos de concretizar os objectivos descritos no artigo 22.º da Convenção,
 
 Acordaram o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 As autoridades finlandesas considerarão favoravelmente a concessão de licenças para a importação, de Portugal, de frutas e de produtos hortícolas frescos, refrigerados ou desidratados, flores e plantas para ornamentação.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A Finlândia reduzirá os seus direitos de importação dos produtos agrícolas importados de Portugal abaixo discriminados para os níveis seguintes, desde que os referidos produtos estejam em condições de beneficiar do regime pautal da Área:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf))](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf)
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 A Finlândia aplicará as seguintes reduções pautais nas importações de vinhos portugueses:
 
@@ -139,11 +139,11 @@ Número da pauta finlandesa
 
 22.05.390 A granel: 15% de redução nos direitos fixados em concordância com a cláusula de nação mais favorecida (N. M. F.).
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 As autoridades finlandesas estudarão as possibilidades de expandir e diversificar a importação de produtos agrícolas de Portugal.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Portugal eliminará os seus direitos aduaneiros de harmonia com o calendário constante do Anexo G da Convenção que instituiu a Zona Europeia de Comércio Livre, com referência aos produtos agrícolas a seguir indicados, quando importados da Finlândia, desde que os referidos produtos estejam em condições de beneficiar do regime pautal da Área:
 
@@ -153,21 +153,21 @@ ex 02.01.03 Carne de porco.
 
 04.03 Manteiga.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Enquanto forem aplicadas em Portugal restrições quantitativas aos seguintes produtos, as autoridades portuguesas concederão licenças de importação, pelo menos para as seguintes quantidades anuais a serem importadas da Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf))](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf)
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 As autoridades portuguesas estudarão as possibilidades de importar da Finlândia forragens e malte.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 O desenvolvimento do comércio agrícola entre a Finlândia e Portugal ficará sujeito a consultas anuais. Durante as consultas deverá ser dada particular atenção ao cumprimento das disposições do presente Acordo e às possibilidades de encontrar novos produtos para inclusão no Acordo.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Este Acordo entrará em vigor após a sua ratificação por ambas as Partes em causa e deverá permanecer em vigor enquanto o Acordo que estabelecer a Associação entre os Estados Membros da Associação Europeia de Comércio Livre e a Finlândia for aplicável tanto à Finlândia como a Portugal.
 
@@ -203,7 +203,7 @@ ARTICLE 2
 
 Finland shall reduce her import levies on the agricultural products given below to the following level when imported into Finland from Portugal provided that the products are eligible for Area Tariff Treatment:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf))](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf)
 
 ARTICLE 3
 
@@ -243,7 +243,7 @@ ARTICLE 6
 
 As long as in Portugal quantitative import restrictions are applied to the following products, the Portuguese Authorities shall grant licences for at least the following annual quantities for imports from Finland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf))](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/27000/14081410.pdf)
 
 ARTICLE 7
 

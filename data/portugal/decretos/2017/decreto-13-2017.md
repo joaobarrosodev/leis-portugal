@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/13/2017/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-2017-106874597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b681325b5095538058328f43dbb1a0c520f1206a6cc5e906ba09cdfdd30be2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9cce4d2f1ab85dcf77ecf822a61eb9a016a5025a21359ba30a66374c5527840
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Dinamarca
 - Aarhus
-- Proteção do Ambiente
+- Convenção
+- Dinamarca
 - Poluição Transfronteiriça
-relationships: []
+- Portugal
+- Proteção do Ambiente
+relationships:
+- type: cites
+  target: pt:dre:471950:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:00Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +111,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 24 de novembro de 2016. - António Luís Santos da Costa - Maria Margarida Ferreira Marques - Adalberto Campos Fernandes - João Pedro Soeiro de Matos Fernandes.
 
-**Assinado em 20 de janeiro de 2017.**
+Assinado em 20 de janeiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de janeiro de 2017.**
+Referendado em 24 de janeiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 PROTOCOLO À CONVENÇÃO SOBRE A POLUIÇÃO ATMOSFÉRICA TRANSFRONTEIRAS A LONGA DISTÂNCIA RELATIVO A METAIS PESADOS
 
@@ -385,7 +389,7 @@ Feito em Aarhus (Dinamarca), em 24 de junho de 1998.
 
 ## ANEXO I — Metais pesados referidos no n.º 1 do artigo 3.º e ano de referência da obrigação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 ## ANEXO II — Categorias de fontes fixas
 
@@ -397,7 +401,7 @@ I - Introdução
 
 II - Lista de categorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 ## ANEXO III — Melhores técnicas disponíveis para o controlo das emissões de metais pesados e seus compostos provenientes das categorias de fontes enumeradas no anexo II
 
@@ -487,7 +491,7 @@ QUADRO 1
 
 Desempenho dos dispositivos de limpeza de poeiras, expresso em concentrações médias de poeiras por hora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Nota. - Os ciclones e depuradores de baixa e média pressão apresentam geralmente um menor nível de eficiência na remoção de poeiras.
 
@@ -495,7 +499,7 @@ QUADRO 2
 
 Desempenho mínimo previsto dos separadores de mercúrio, expresso em concentrações médias de mercúrio por hora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 14 - Deve-se ter especial cuidado em garantir que estas técnicas de controlo não criem outros problemas ambientais. Deve evitar-se a escolha de um processo específico justificado pelo seu baixo nível de emissões para a atmosfera, caso esse processo agrave o impacte ambiental total da descarga de metais pesados, por exemplo, decorrente de uma maior poluição da água por efluentes líquidos. Deve-se, também tomar em consideração o destino das poeiras captadas resultantes de uma melhor limpeza dos gases. Um impacte ambiental negativo decorrente da manipulação desses resíduos reduzirá os benefícios obtidos com níveis mais baixos de emissão de fumos e poeiras para a atmosfera.
 
@@ -531,7 +535,7 @@ QUADRO 3
 
 Medidas de controlo, nível de eficiência das reduções e custos relativamente a emissões de combustão de combustíveis fósseis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Indústria primária do ferro e do aço (Anexo II, categoria 2)
 
@@ -553,7 +557,7 @@ QUADRO 4
 
 Fontes de emissões, medidas de controlo, níveis de eficiência das reduções de poeiras e custos relativamente à indústria primária do ferro e do aço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 30 - Estão em fase de desenvolvimento técnicas de redução direta e de fusão direta, que poderão reduzir, no futuro, a necessidade de instalações de sinterização e de altos-fornos. A aplicação dessas tecnologias depende das características dos minérios e exige que o produto resultante seja processado num forno de arco elétrico, que deverá estar equipado com controlos adequados.
 
@@ -569,7 +573,7 @@ QUADRO 5
 
 Fontes de emissões, medidas de controlo, níveis de eficiência das reduções de poeiras e custos relativamente à indústria secundária do ferro e do aço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Fundições de ferro (Anexo II, categoria 4)
 
@@ -581,7 +585,7 @@ QUADRO 6
 
 Fontes de emissões, medidas de controlo, níveis de eficiência das reduções de poeiras e custos relativamente às fundições de ferro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Indústria primária e secundária de metais não ferrosos (Anexo II, categorias 5 e 6)
 
@@ -623,13 +627,13 @@ QUADRO 7 (a)
 
 Fontes de emissões, medidas de controlo, níveis de eficiência das reduções de poeiras e custos relativamente à indústria primária de metais não ferrosos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 QUADRO 7 (b)
 
 Fontes de emissões, medidas de controlo, níveis de eficiência das reduções de poeiras e custos relativamente à indústria secundária de metais não ferrosos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 46 - Em geral, os processos devem ser combinados com um dispositivo coletor de poeiras eficiente, tanto para os gases primários como para as emissões fugitivas. As medidas mais relevantes de redução das emissões estão descritas nos Quadros 7 (a) e (b). Foram, em alguns casos, atingidas concentrações de poeiras inferiores a 5 mg/m3 utilizando filtros de mangas.
 
@@ -653,7 +657,7 @@ QUADRO 8
 
 Fontes de emissões, medidas de controlo, níveis de eficiência das reduções e custos relativamente à indústria do cimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Indústria do vidro (Anexo II, categoria 8)
 
@@ -671,7 +675,7 @@ QUADRO 9
 
 Fontes de emissões, medidas de controlo, níveis de eficiência das reduções de poeiras e custos relativamente à indústria vidreira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Indústria de produção de cloro alcalino (Anexo II, categoria 9)
 
@@ -709,7 +713,7 @@ QUADRO 10
 
 Fontes de emissões, medidas de controlo, níveis de eficiência das reduções e custos de incineração relativamente a resíduos urbanos, médicos e perigosos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 ## ANEXO IV — Calendarização para a aplicação dos valores-limite e das melhores técnicas disponíveis a fontes fixas novas e existentes
 
@@ -1169,7 +1173,7 @@ ANNEX I
 
 Heavy metals referred to in article 3, paragraph 1, and the reference year for the obligation
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 ANNEX II
 
@@ -1183,7 +1187,7 @@ I - Introduction
 
 II - List of categories
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 ANNEX III
 
@@ -1275,7 +1279,7 @@ TABLE 1
 
 Performance of dust-cleaning devices expressed as hourly average dust concentrations
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Note. - Medium- and low-pressure scrubbers and cyclones generally show lower dust removal efficiencies.
 
@@ -1283,7 +1287,7 @@ TABLE 2
 
 Minimum expected performance of mercury separators expressed as hourly average mercury concentrations
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 14 - Care should be taken to ensure that these control techniques do not create other environmental problems. The choice of a specific process because of its low emission into the air should be avoided if it worsens the total environmental impact of the heavy metals discharge, e.g. due to more water pollution from liquid effluents. The fate of captured dust resulting from improved gas cleaning must also be taken into consideration. A negative environmental impact from the handling of such wastes will reduce the gain from lower process dust and fume emissions into the air.
 
@@ -1319,7 +1323,7 @@ TABLE 3
 
 Control measures, reduction efficiencies and costs for fossil-fuel combustion emissions
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Primary iron and steel industry (annex II, category 2)
 
@@ -1341,7 +1345,7 @@ TABLE 4
 
 Emission sources, control measures, dust reduction efficiencies and costs for the primary iron and steel industry
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 30 - Direct reduction and direct smelting are under development and may reduce the need for sinter plants and blast furnaces in the future. The application of these technologies depends on the ore characteristics and requires the resulting product to be processed in an electric arc furnace, which should be equipped with appropriate controls.
 
@@ -1357,7 +1361,7 @@ TABLE 5
 
 Emission sources, control measures, dust reduction efficiencies and costs for the secondary iron and steel industry
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Iron foundaries (annex II, category 4)
 
@@ -1369,7 +1373,7 @@ TABLE 6
 
 Emission sources, control measures, dust reduction efficiencies and costs for iron foundries
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Primary and secondary non-ferrous metal industry (annex II, categories 5 and 6)
 
@@ -1411,13 +1415,13 @@ TABLE 7 (a)
 
 Emission sources, control measures, dust reduction efficiencies and costs for the primary non-ferrous metal industry
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 TABLE 7 (b)
 
 Emission sources, control measures, dust reduction efficiencies and costs for the secondary non-ferrous metal industry
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 46 - In general, processes should be combined with an effective dust collecting device for both primary gases and fugitive emissions. The most relevant emission reduction measures are outlined in tables 7 (a) and (b). Dust concentrations below 5 mg/m3 have been achieved in some cases using fabric filters.
 
@@ -1441,7 +1445,7 @@ TABLE 8
 
 Emission sources, control measures, reduction efficiencies and costs for the cement industry
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Glass industry (annex II, category 8)
 
@@ -1459,7 +1463,7 @@ TABLE 9
 
 Emission sources, control measures, dust reduction efficiencies and costs for the glass industry
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 Chlor-alkali industry (annex II, category 9)
 
@@ -1497,7 +1501,7 @@ TABLE 10
 
 Emission sources, control measures, reduction efficiencies and costs for municipal, medical and hazardous waste incineration
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf))](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/04/07300/0188301915.pdf)
 
 ANNEX IV
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/41/1991/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/41-1991-649363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77693099f5f942ac0ec0d5acd7169ecb5d088a2755235a6341c455e648900584
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeddc31d2d2fd196f8d98341dd34d9c8b418ad1af2a1fba63f7ba3a45ee89c5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
+- Comércio
 - Convenção
-- Portugal
 - Guiné-Bissau
 - Intercâmbio Turístico
-- Comércio
+- Portugal
+- Turismo
 relationships: []
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:02Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 27 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação entre a República Portuguesa e a República da Guiné-Bissau na Área do Comércio e Turismo, assinado em Lisboa em 1 de Outubro de 1990, cujo texto original segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Cooperação entre a República Portuguesa e a República da Guiné-Bissau na Área do Comércio e Turismo, assinado em Lisboa em 1 de Outubro de 1990, cujo texto original segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1991. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Joaquim Martins Ferreira do Amaral.
 
-**Assinado em 7 de Junho de 1991.**
+Assinado em 7 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1991.**
+Referendado em 12 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU NA ÁREA DO COMÉRCIO E TURISMO.
 

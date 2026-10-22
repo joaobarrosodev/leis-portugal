@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/345-1975-336739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35e523669460bca1afe0fe5856db5cbe6e384ad58237f39cced8fd5269dd7586
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc4b7ffd0a8321e6bb68ce6240f9baffb541d4f7b3c8e23faf4a55829eb827d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe de Secção
+- Formas de Provimento
+- Laboratório Nacional de Engenharia Civil
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:458389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686602:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:07Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +112,16 @@ Ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 468/72](https://diario
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O preenchimento de lugares de chefe de secção dos quadros do Laboratório Nacional de Engenharia Civil poderá ser feito com dispensa da habilitação de curso superior, sendo o recrutamento respectivo efectuado por escolha do Ministro do Equipamento Social e do Ambiente, mediante proposta do director, entre primeiros-oficiais e outro pessoal administrativo de categoria a que corresponda a letra L da tabela de vencimentos a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, do Laboratório Nacional de Engenharia Civil de comprovado valor profissional e com mais de três anos no quadro e na categoria.
+Artigo 1.º O preenchimento de lugares de chefe de secção dos quadros do Laboratório Nacional de Engenharia Civil poderá ser feito com dispensa da habilitação de curso superior, sendo o recrutamento respectivo efectuado por escolha do Ministro do Equipamento Social e do Ambiente, mediante proposta do director, entre primeiros-oficiais e outro pessoal administrativo de categoria a que corresponda a letra L da tabela de vencimentos a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, do Laboratório Nacional de Engenharia Civil de comprovado valor profissional e com mais de três anos no quadro e na categoria.
 
-###### Art. 2.º É revogada a alínea c) do n.º 1 do artigo 5.º do [Decreto n.º 556/72](https://diariodarepublica.pt/dr/detalhe/decreto/556-1972-685601), de 26 de Dezembro.
+Art. 2.º É revogada a alínea c) do n.º 1 do artigo 5.º do [Decreto n.º 556/72](https://diariodarepublica.pt/dr/detalhe/decreto/556-1972-685601), de 26 de Dezembro.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - José Augusto Fernandes.
 
-**Promulgado em 24 de Junho de 1975.**
+Promulgado em 24 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

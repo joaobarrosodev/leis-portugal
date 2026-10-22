@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/2003/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-2003-166040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f98c3ae01c9cbb13409e6fb90ecbb37e47ee216be06233eb58db03fbd1b7e79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a09410f2af442be705ab6e80a26fbe9bb79f9bd896422b4192839193b702fae8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assunção
 - Convenção
-- Portugal
 - Droga
 - Paraguai
-- Assunção
+- Portugal
 relationships: []
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:15:38Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 20 de Novembro de 2002. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Luís Filipe Pereira.
 
-**Assinado em 8 de Janeiro de 2003.**
+Assinado em 8 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Janeiro de 2003.**
+Referendado em 9 de Janeiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO PARAGUAI PARA A LUTA CONTRA O TRÁFICO ILÍCITO DE ESTUPEFACIENTES E SUBSTÂNCIAS PSICOTRÓPICAS E DELITOS CONEXOS.
 
@@ -184,10 +184,10 @@ Feito na cidade de Assunção, aos 3 dias do mês de Setembro de 2001, em dois e
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/01/020a00/04400443.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/01/020a00/04400443.pdf)](https://files.diariodarepublica.pt/1s/2003/01/020a00/04400443.pdf)
 
 Pela República do Paraguai:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/01/020a00/04400443.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/01/020a00/04400443.pdf)](https://files.diariodarepublica.pt/1s/2003/01/020a00/04400443.pdf)
 
 [(ver texto em língua espanhola no documento original)](https://files.diariodarepublica.pt/1s/2003/01/020a00/04400443.pdf)

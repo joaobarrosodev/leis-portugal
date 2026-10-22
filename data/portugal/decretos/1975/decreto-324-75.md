@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/324-1975-337215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47c837c41d9cdeafa7d8daad60fea0fbf5b97d2f718a5532a5ce96a10b8201c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c34e0963175b9bfd0fe689d105942e62eb07b9872c110e277e710a110a8dc1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Contrato de Prestação de Serviços
+- Despesas Públicas
+- Laboratório Nacional de Engenharia Civil
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:01Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +98,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Laboratório Nacional de Engenharia Civil a celebrar contrato para a impressão de memórias, manuais e fichas de divulgação, durante os anos de 1975-1976, até à importância de 1500000$00.
+Artigo 1.º É autorizado o Laboratório Nacional de Engenharia Civil a celebrar contrato para a impressão de memórias, manuais e fichas de divulgação, durante os anos de 1975-1976, até à importância de 1500000$00.
 
-###### Art. 2.º O encargo resultante da execução do contrato referido no artigo arterior não poderá, em cada ano, exceder as seguintes quantias:
+Art. 2.º O encargo resultante da execução do contrato referido no artigo arterior não poderá, em cada ano, exceder as seguintes quantias:
 
 Em 1975 - até 800000$00;
 
@@ -102,8 +110,8 @@ A importância fixada para o último ano será acrescida do saldo apurado no ano
 
 Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso - José Augusto Fernandes.
 
-**Promulgado em 18 de Junho de 1975.**
+Promulgado em 18 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

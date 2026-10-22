@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 70/1998, 1º Suplemento, Série I-B de 1998-03-24
   number: '70'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1296-(2) a 1296-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/070b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10-a/1998/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-a-1998-688240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba20eee5512d04e8f902d0a60dc77ee21d2daf7e5386e7d63735481415ac8d18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 232d481177dfc9a121bf9c431f464fe7fde047a32e5475cf5a91b1c514fd79b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:38Z'
   warnings: []
   errors: []
 ---
@@ -103,12 +103,12 @@ Presidência do Conselho de Ministros, 24 de Março de 1998.
 
 António Manuel de Oliveira Guterres.
 
-**Assinado em 24 de Março de 1998.**
+Assinado em 24 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Março de 1998.**
+Referendado em 24 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

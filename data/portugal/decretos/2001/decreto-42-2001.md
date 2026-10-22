@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/42/2001/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-2001-616397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:12:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3681ed0552307a5143ac0e9fba6bd9038d43572af5584c1392953e3f450d49fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a57368fe1993faf5ebbedb9e2f0fe17353de4ea155a592234772da6431b50ed9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:12:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Documentação Classificada
 - Lisboa
+- Portugal
 - Segurança da Informação
 relationships:
 - type: amended_by
   target: pt:dre:239233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:239233:por
+  label: "Rectificado pela DECL-RECT.20-C/2001.2001.10.31.PCM DR.IS-A [253]4ºSupl de 31/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-c-2001-239233
+  date: '2001-10-31'
 article_structure:
-  article_count: 0
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:12:05Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +103,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de Agosto de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins.
 
-**Assinado em 11 de Setembro de 2001.**
+Assinado em 11 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2001.**
+Referendado em 13 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO GERAL DE SEGURANÇA SOBRE PROTECÇÃO DE MATÉRIAS CLASSIFICADAS ENTRE A REPÚBLICA PORTUGUESA E O REINO DA SUÉCIA.
 
@@ -124,15 +129,11 @@ Considerando que as Partes Contratantes desejam estabelecer os termos e as condi
 
 acordam o seguinte:
 
-Artigo I
-
-Adopção do preâmbulo
+###### Artigo I — Adopção do preâmbulo
 
 O preâmbulo deste Acordo forma uma parte integrante do mesmo e obriga as Partes Contratantes.
 
-Artigo II
-
-Definições
+###### Artigo II — Definições
 
 1 - Para os fins deste Acordo o termo «matérias classificadas» inclui informação e materiais de qualquer tipo que, no interesse da segurança nacional da Parte Contratante difusora, e de acordo com as suas leis e regulamentos aplicáveis, requeiram protecção contra a divulgação não autorizada e que tenham sido classificados pelas autoridades de segurança competentes em conformidade com o artigo IV, n.º 1.
 
@@ -140,9 +141,7 @@ Definições
 
 3 - A expressão «material» pode referir-se a qualquer documento, produto ou substância na qual ou sobre a qual a informação possa ser gravada ou incorporada e incluirá tudo, independentemente das suas características físicas, incluindo mas não se limitando a: escrita, hardware, equipamento, máquinas, aparelhos, dispositivos, modelos, fotografias, gravações, reproduções, mapas e cartas, bem como outros produtos, substâncias ou artigos a partir dos quais se possa obter a informação.
 
-Artigo III
-
-Aplicação deste Acordo
+###### Artigo III — Aplicação deste Acordo
 
 1 - Este Acordo deverá ser considerado como parte integrante de qualquer contrato que venha a ser preparado ou assinado no futuro entre as Partes Contratantes ou entre quaisquer empresas, indústrias ou organismos relacionados com as Partes Contratantes, relativos aos assuntos seguintes:
 
@@ -162,9 +161,7 @@ e) Informação transferida entre as Partes Contratantes por qualquer representa
 
 4 - As obrigações das Partes Contratantes decorrentes deste Acordo serão interpretadas de acordo com as leis e regulamentos nacionais de cada Parte Contratante.
 
-Artigo IV
-
-Classificação de segurança e divulgação
+###### Artigo IV — Classificação de segurança e divulgação
 
 1 - As matérias classificadas serão classificadas num dos seguintes graus de classificação de segurança:
 
@@ -198,9 +195,7 @@ Reservado.
 
 6 - Cada estabelecimento onde se manuseiem matérias classificadas deverá manter um registo dos indivíduos credenciados que estejam autorizados a ter acesso a essas matérias classificadas.
 
-Artigo V
-
-Visitantes de um país ao outro e credenciação de segurança
+###### Artigo V — Visitantes de um país ao outro e credenciação de segurança
 
 1 - O acesso às matérias classificadas e a instalações onde sejam executados projectos classificados será concedido por um país a qualquer pessoa do outro país desde que seja obtida autorização prévia das autoridades de segurança competentes do país hospedeiro.
 
@@ -232,9 +227,7 @@ g) Ponto de contacto no país hospedeiro a ser visitado.
 
 As autorizações para visitas repetidas serão concedidas por um período de tempo não superior a 12 meses.
 
-Artigo VI
-
-Transmissão de matérias classificadas
+###### Artigo VI — Transmissão de matérias classificadas
 
 1 - A transmissão de matérias classificadas entre as Partes Contratantes terá lugar normalmente através dos serviços do correio diplomático, de acordo com os procedimentos do direito internacional.
 
@@ -242,9 +235,7 @@ Transmissão de matérias classificadas
 
 3 - Se for preciso fornecer ou trocar equipamento para demonstrações, etc., este Acordo será complementado com procedimentos de segurança para manusear, transportar e armazenar esse equipamento.
 
-Artigo VII
-
-Comprometimento de matérias classificadas
+###### Artigo VII — Comprometimento de matérias classificadas
 
 1 - No caso de qualquer comprometimento de matérias classificadas a Parte Contratante receptora investigará todos os casos em que saiba ou em que tenha razões para suspeitar que matérias classificadas da Parte Contratante originadora tenham sido perdidas ou divulgadas a pessoas não autorizadas.
 
@@ -252,9 +243,7 @@ A Parte Contratante receptora deverá também informar pronta e completamente a 
 
 2 - A Parte Contratante que executa a investigação de segurança deverá suportar todos os custos inerentes à investigação de segurança, os quais não serão objecto de reembolso pela outra Parte Contratante.
 
-Artigo VIII
-
-Agências de segurança nomeadas e coordenação
+###### Artigo VIII — Agências de segurança nomeadas e coordenação
 
 1 - As autoridades governamentais responsáveis em cada Parte Contratante por este aspecto de segurança são as seguintes:
 
@@ -274,9 +263,7 @@ A autoridade de segurança designada responsável por assuntos de segurança da 
 
 Cada Parte Contratante prestará apoio a estes peritos para verificar se essa informação que lhe foi fornecida pela outra Parte Contratante está a ser adequadamente protegida e desenvolverá os melhores esforços para facilitar visitas conjuntas dos peritos de segurança em ambos os países.
 
-Artigo IX
-
-Divulgação de matérias classificadas a entidades autorizadas
+###### Artigo IX — Divulgação de matérias classificadas a entidades autorizadas
 
 1 - No caso de cada Parte Contratante ou os seus órgãos ou entidades relacionados com os assuntos referidos no artigo III, n.º 1, ter adjudicado um contrato para ser executado no território da outra Parte Contratante, que envolva matérias classificadas, então a Parte Contratante na qual tenha lugar o desempenho regido por este Acordo assumirá a responsabilidade pela administração das medidas de segurança dentro do seu próprio território, para proteger essas matérias classificadas de acordo com os seus próprios padrões e requisitos.
 
@@ -296,17 +283,13 @@ d) Assegurar-se que todas as pessoas que possam ter acesso às matérias classif
 
 e) Levar a cabo inspecções de segurança periódicas às instalações que tenham sido objecto de credenciação de segurança.
 
-Artigo X
-
-Resolução de diferendos
+###### Artigo X — Resolução de diferendos
 
 1 - No caso de ocorrer qualquer diferendo entre as Partes Contratantes deste Acordo, sobre a sua interpretação, execução ou sobre qualquer matéria daí decorrente, as Partes Contratantes deverão desenvolver todos os esforços razoáveis para conseguir um entendimento amigável e não submeterão a disputa a qualquer tribunal nacional ou internacional ou a decisão de qualquer outra terceira parte.
 
 2 - Durante o diferendo ou controvérsia, ambas as Partes Contratantes deverão continuar a cumprir todas as obrigações definidas no presente Acordo.
 
-Artigo XI
-
-Diversos
+###### Artigo XI — Diversos
 
 1 - A falha de qualquer das Partes Contratantes em insistir numa ou mais instâncias com o rigoroso cumprimento de qualquer das cláusulas deste Acordo, ou para exercer quaisquer direitos por ele conferidos, não deverá ser considerada como uma renúncia, seja em que medida for, dos direitos que assistam a qualquer das Partes Contratantes para invocar ou basear-se em qualquer dessas cláusulas ou direitos em qualquer ocasião futura.
 
@@ -318,9 +301,7 @@ Diversos
 
 5 - Todos e quaisquer custos incorridos por uma das Partes Contratantes na aplicação das obrigações deste Acordo serão suportados por essa Parte Contratante.
 
-Artigo XII
-
-Avisos
+###### Artigo XII — Avisos
 
 1 - Qualquer aviso ou comunicação requerida ou permitida por este Acordo deverá ser enviado para os endereços da autoridade nacional de segurança/autoridade de segurança designada da respectiva Parte Contratante, sujeito a restrições de segurança.
 
@@ -328,17 +309,13 @@ Avisos
 
 3 - Todos os avisos acima mencionados deverão ser efectuados conforme referido no n.º 1 do artigo VIII.
 
-Artigo XIII
-
-Acordo integral
+###### Artigo XIII — Acordo integral
 
 1 - Este Acordo, constitui o acordo integral entre as Partes Contratantes e substitui todas as comunicações, ou representações anteriores, orais ou escritas, feitas até aqui entre as Partes Contratantes sobre as matérias objecto do presente Acordo.
 
 2 - Este Acordo não poderá ser alterado, a não ser por escrito e assinado pelos representantes devidamente autorizados de cada Parte Contratante.
 
-Artigo XIV
-
-Aplicação, alterações e rescisão
+###### Artigo XIV — Aplicação, alterações e rescisão
 
 1 - Este Acordo entrará em vigor na data da recepção da última das notas em que cada Parte Contratante comunicar à outra que foram cumpridas as suas próprias disposições legais.
 

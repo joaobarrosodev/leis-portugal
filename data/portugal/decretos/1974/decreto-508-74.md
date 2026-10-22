@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/508-1974-472678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:34:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e51eecd78c7e74a4a3b8d1a0c688489d182bd3b337d216fcb225d57ea3e54a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51d436ce81bf7d71c39911f64df6723cb82988c0a71ba5865e58499c225c32de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:501466:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:34:55Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +92,9 @@ Para que o processamento das naturalizações prossiga sem preterição de forma
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São alterados os n.os 3 e 7 do artigo 14.º, bem como o n.º 4 do artigo 34.º do [Decreto n.º 43090](https://diariodarepublica.pt/dr/detalhe/decreto/43090-1960-501466), de 27 de Julho de 1960, que passam a ter a redacção seguinte:
+Artigo 1.º São alterados os n.os 3 e 7 do artigo 14.º, bem como o n.º 4 do artigo 34.º do [Decreto n.º 43090](https://diariodarepublica.pt/dr/detalhe/decreto/43090-1960-501466), de 27 de Julho de 1960, que passam a ter a redacção seguinte:
 
-###### Art. 14.º - 1. ...
+Art. 14.º - 1. ...
 
 2. ...
 
@@ -106,7 +110,7 @@ Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitu
 
 ...
 
-###### Art. 34.º - 1. ...
+Art. 34.º - 1. ...
 
 2. ...
 
@@ -114,7 +118,7 @@ Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitu
 
 4. A Secretaria-Geral organizará o respectivo processo e solicitará ao Ministro dos Negócios Estrangeiros as informações que considerar convenientes.
 
-###### Art. 2.º São revogadas as seguintes disposições do mesmo diploma:
+Art. 2.º São revogadas as seguintes disposições do mesmo diploma:
 
 a) N.º 5 do artigo 14.º;
 
@@ -124,8 +128,8 @@ c) Artigo 73.º
 
 Vasco dos Santos Gonçalves - Manuel da Costa Brás - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 24 de Setembro de 1974.**
+Promulgado em 24 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

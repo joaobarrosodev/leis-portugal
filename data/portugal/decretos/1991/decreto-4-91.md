@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/1991/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-1991-495315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3c6a78b297c803f52d0d6a4e4cdff1b95aa28c2a1ccfc9282ad709cf1b01e83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61ef93a41e75a949e8b9e7c8680891456f6138470d9e227ad99e295902ceb8d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- ONU
 - FAO
+- ONU
+- Portugal
 - Proteção Fitossanitária
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:392048:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:01Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +96,19 @@ de 17 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o texto revisto da Convenção Fitossanitária Internacional, aprovado pela [Resolução n.º 14/79](https://diariodarepublica.pt/dr/detalhe/resolucao/14-1979-392048), da 20.ª sessão da Conferência da Organização das Nações Unidas para a Alimentação e Agricultura (FAO) em Novembro de 1979, cujo texto original em inglês e respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o texto revisto da Convenção Fitossanitária Internacional, aprovado pela [Resolução n.º 14/79](https://diariodarepublica.pt/dr/detalhe/resolucao/14-1979-392048), da 20.ª sessão da Conferência da Organização das Nações Unidas para a Alimentação e Agricultura (FAO) em Novembro de 1979, cujo texto original em inglês e respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 22 de Novembro de 1990. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha.
 
 Ratificado em 11 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Dezembro de 1990.**
+Referendado em 16 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 REVISED TEXT OF THE INTERNATIONAL PLANT PROTECTION CONVENTION
 
@@ -394,7 +398,7 @@ Name of produce and quantity declared:...
 
 Botanical name of plants: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf))](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf)
 
 Disinfestation and/or disinfection treatment
 
@@ -670,7 +674,7 @@ Informação adicional: ...
 
 Declaração adicional: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf))](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf)
 
 Local e emissão: ...
 
@@ -710,7 +714,7 @@ Nome botânico dos vegetais: ...
 
 Certifica-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf))](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf)
 
 Tratamento de desinfestação e ou de desinfecção
 
@@ -728,7 +732,7 @@ Informação adicional: ...
 
 Declaração adicional: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf))](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/014a00/02450253.pdf)
 
 Local de emissão: ...
 

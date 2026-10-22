@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/20500/0577405777.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/31/2017/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-2017-114081535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85d1647ff186999bb30e20d2e8bbf0c632a31d9723b7ccc98c3863523dca0735
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15157fed92bbf434b78c5d9625847924ccbda1ffeaa936845e24c7afe2c771a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Profissão Diplomática
 - Irão
 - Passaporte
+- Portugal
+- Profissão Diplomática
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:21Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 28 de setembro de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Maria Constança Dias Urbano de Sousa.
 
-**Assinado em 9 de outubro de 2017.**
+Assinado em 9 de outubro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de outubro de 2017.**
+Referendado em 16 de outubro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ISLÂMICA DO IRÃO SOBRE SUPRESSÃO DE VISTOS PARA TITULARES DE PASSAPORTES DIPLOMÁTICOS, ESPECIAIS E DE SERVIÇO.
 
@@ -200,7 +200,7 @@ Pela República Islâmica do Irão:
 
 Hassan Gashghavi, Vice-Ministro dos Negócios Estrangeiros para Assuntos Consulares, Parlamentares e Relativos a Nacionais Iranianos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/20500/0577405777.pdf))](https://files.diariodarepublica.pt/1s/2017/10/20500/0577405777.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/20500/0577405777.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE ISLAMIC REPUBLIC OF IRAN ON THE SUPPRESSION OF VISAS FOR HOLDERS OF DIPLOMATIC, SPECIAL AND SERVICE PASSPORTS.
 

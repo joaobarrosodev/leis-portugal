@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/127-1982-377148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:59:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d51766ef7e7fc69fdf79842a7a4d84710ab68da2c87a6e35682040a896a79747
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a93a9c85f0fee55b747d75ae3f5e0fc23856865cb59f9f7e34e16ad4f88bb46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:59:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cablesa-indústria de Componentes Electrónicos
+- Depósito Franco
+- Indústria Eléctrica
+relationships:
+- type: cites
+  target: pt:dre:609153:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:59:18Z'
   warnings: []
   errors: []
 ---
@@ -93,24 +100,24 @@ Tendo em atenção que a firma peticionária já é detentora de autorização d
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a firma CABLESA - Indústria de Componentes Eléctricos, Lda., a estabelecer um depósito franco nas suas instalações fabris situadas na Tapada Nova, freguesia de São Pedro de Penaferrim, concelho de Sintra.
+Artigo 1.º - 1 - É autorizada a firma CABLESA - Indústria de Componentes Eléctricos, Lda., a estabelecer um depósito franco nas suas instalações fabris situadas na Tapada Nova, freguesia de São Pedro de Penaferrim, concelho de Sintra.
 
 2 - As instalações referidas no n.º 1 deste artigo serão exteriormente resguardadas por uma vedação, em conformidade com o artigo 114.º da Reforma Aduaneira.
 
 3 - Neste depósito franco a firma propõe-se fabricar cabos eléctricos para uso em diversa aparelhagem eléctrica, nomeadamente em sistema de distribuição de energia, em componentes e conjuntos eléctricos, em conjuntos de fios, em componentes e conjuntos electro-mecânicos, bem como em acessórios para a indústria de fabrico e montagem de veículos automóveis.
 
-###### Art. 2.º - 1 - Junto ao depósito franco funcionará um posto fiscal, com o efectivo de um graduado e das praças julgadas necessárias para o seu conveniente funcionamento, de harmonia com as instruções especiais aduaneiras.
+Art. 2.º - 1 - Junto ao depósito franco funcionará um posto fiscal, com o efectivo de um graduado e das praças julgadas necessárias para o seu conveniente funcionamento, de harmonia com as instruções especiais aduaneiras.
 
 2 - Todas as despesas com a criação e manutenção do posto são de conta da firma interessada.
 
 3 - A firma fornecerá instalações para o serviço da Guarda Fiscal, as quais deverão ser aprovadas pelo seu Comando-Geral.
 
-###### Art. 3.º Relativamente ao restante formalismo a observar no funcionamento e fiscalização do depósito franco aludido no artigo 1.º do presente decreto, serão observados os preceitos contidos nos artigos 3.º e seguintes do [Decreto n.º 35/82](https://diariodarepublica.pt/dr/detalhe/decreto/35-1982-609153), de 18 de Março.
+Art. 3.º Relativamente ao restante formalismo a observar no funcionamento e fiscalização do depósito franco aludido no artigo 1.º do presente decreto, serão observados os preceitos contidos nos artigos 3.º e seguintes do [Decreto n.º 35/82](https://diariodarepublica.pt/dr/detalhe/decreto/35-1982-609153), de 18 de Março.
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 3 de Novembro de 1982.**
+Promulgado em 3 de Novembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

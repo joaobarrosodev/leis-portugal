@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/31/2007/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-2007-628810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 063403def06d81c9345bedab39ef58af8402c99a6175b06f7a8829bf0b058c84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e1579c10e7c159b6c914158d29d081a5f7b7f1c2215d11fb219ba46cf5091a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
+- ÁREA NON Aedificandi
 - Força Aérea
 - Instalação Militar
-- Zona de Proteção
 - Servidão Militar
 - Sintra
-- ÁREA NON Aedificandi
-relationships: []
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588454:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:04Z'
   warnings: []
   errors: []
 ---
@@ -372,24 +384,24 @@ O presente decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Outubro de 2007. - José Sócrates Carvalho Pinto de Sousa - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia.
 
-**Assinado em 19 de Novembro de 2007.**
+Assinado em 19 de Novembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Novembro de 2007.**
+Referendado em 20 de Novembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 Planta das zonas de protecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23800/0886008864.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23800/0886008864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23800/0886008864.pdf)
 
 Planta das zonas da superfície de desobstrução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23800/0886008864.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23800/0886008864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23800/0886008864.pdf)
 
 Planta das zonas de protecção radioeléctrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23800/0886008864.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23800/0886008864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23800/0886008864.pdf)

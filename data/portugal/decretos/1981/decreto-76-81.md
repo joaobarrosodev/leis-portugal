@@ -46,36 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/76-1981-579301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ea3075147e40d6a65ac5db962711ec7d755de54b3b87923ec0f6c3334cc29dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a8bec1305390b6d3cdb417ab40590cd51de0edf3730a71b748617638cd27dc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lisboa
+- Quadro de Pessoal
+- Santa Casa da Misericórdia
+relationships:
+- type: cites
+  target: pt:dre:157007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:26Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +123,9 @@ Nos termos do n.º 1 do artigo 3.º do [Decreto-Lei n.º 692/70](https://diariod
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal de direcção e chefia da Santa Casa da Misericórdia de Lisboa, aprovado pelo [Decreto n.º 832/74](https://diariodarepublica.pt/dr/detalhe/decreto/832-1974-238225), de 31 de Dezembro, com a alteração introduzida pela Portaria n.º 552/79, de 20 de Outubro, passa a ter a constituição constante do quadro anexo.
+Artigo 1.º O quadro do pessoal de direcção e chefia da Santa Casa da Misericórdia de Lisboa, aprovado pelo [Decreto n.º 832/74](https://diariodarepublica.pt/dr/detalhe/decreto/832-1974-238225), de 31 de Dezembro, com a alteração introduzida pela Portaria n.º 552/79, de 20 de Outubro, passa a ter a constituição constante do quadro anexo.
 
-###### Art. 2.º - 1 - São extintos os dois lugares de director de delegação, um de administrador e o de chefe de serviço.
+Art. 2.º - 1 - São extintos os dois lugares de director de delegação, um de administrador e o de chefe de serviço.
 
 2 - São igualmente extintos os quatro lugares de chefe de serviço constantes do quadro do pessoal não dirigente aprovado pela [Portaria n.º 690/74](https://diariodarepublica.pt/dr/detalhe/portaria/690-1974-472275), de 24 de Outubro.
 
@@ -106,15 +133,15 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 Francisco José Pereira Pinto Balsemão - Carlos Matos Chaves de Macedo.
 
-**Promulgado em 8 de Junho de 1981.**
+Promulgado em 8 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal de direcção e chefia a que se refere o artigo 1.º do Decreto n.º 76/81
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/13700/13651366.pdf))](https://files.diariodarepublica.pt/1s/1981/06/13700/13651366.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/13700/13651366.pdf)
 
 Nota
 
@@ -122,4 +149,4 @@ Nota
 
 2 - As actuais funções de secretário da mesa e oficial público desta instituição serão remuneradas com a gratificação mensal de 3000$00.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro dos Assuntos Sociais, Carlos Matos Chaves de Macedo.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro dos Assuntos Sociais, Carlos Matos Chaves de Macedo.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-1973-683466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c204aa7093a616618751391c7f913cdcee0ce9fd55e70c12c7ba7219e2b04da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48c5c37be4f9cdea4dce1abdb76ce2ca0844669409fe5032db999339ea6f8ee6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:201052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:31Z'
   warnings: []
   errors: []
 ---
@@ -93,23 +105,23 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 3.º, a alínea d) do artigo 7.º, o corpo do artigo 8.º, o artigo 9.º, o corpo do artigo 14.º, o § 4.º do artigo 15.º, o artigo 23.º, o artigo 24.º, o artigo 25.º, o artigo 26.º, a alínea a) do artigo 27.º e o corpo do artigo 49.º do [Decreto n.º 49030](https://diariodarepublica.pt/dr/detalhe/decreto/49030-1969-201052), de 26 de Maio de 1969, passam a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º, a alínea d) do artigo 7.º, o corpo do artigo 8.º, o artigo 9.º, o corpo do artigo 14.º, o § 4.º do artigo 15.º, o artigo 23.º, o artigo 24.º, o artigo 25.º, o artigo 26.º, a alínea a) do artigo 27.º e o corpo do artigo 49.º do [Decreto n.º 49030](https://diariodarepublica.pt/dr/detalhe/decreto/49030-1969-201052), de 26 de Maio de 1969, passam a ter a seguinte redacção:
 
-###### Art. 3.º Os bancos comerciais estabelecidos em mais de uma província ultramarina poderão constituir em qualquer dessas províncias departamentos financeiros cujo âmbito de actuação se estenda às províncias em que exerçam actividade comercial.
+Art. 3.º Os bancos comerciais estabelecidos em mais de uma província ultramarina poderão constituir em qualquer dessas províncias departamentos financeiros cujo âmbito de actuação se estenda às províncias em que exerçam actividade comercial.
 
 § 1.º Nenhum banco comercial poderá constituir em cada província ultramarina mais do que um departamento financeiro.
 
 § 2.º As filiais, agências ou quaisquer outras sucursais dos bancos comerciais prestarão aos respectivos departamentos financeiros os serviços de cobrança ou outros relacionados com as operações de crédito, que são objecto dos mesmos departamentos.
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 ...
 
 d) Outras operações a médio ou a longo prazos, cujas condições gerais tenham sido aprovadas, sob proposta do banco, pelo governo da província em que o departamento exerça a sua actividade, ou, no caso de departamento que exerça actividade em mais de uma província, daquela em que a utilização dos recursos se concretiza.
 
-###### Art. 8.º Considerar-se-ão operações a médio prazo aquelas em que o crédito é concedido por períodos superiores a um ano, mas não a sete anos, e operações a longo prazo as que se efectuem por um período que ultrapasse este último limite.
+Art. 8.º Considerar-se-ão operações a médio prazo aquelas em que o crédito é concedido por períodos superiores a um ano, mas não a sete anos, e operações a longo prazo as que se efectuem por um período que ultrapasse este último limite.
 
-###### Art. 9.º Os recursos dos departamentos financeiros dos bancos comerciais serão constituídos:
+Art. 9.º Os recursos dos departamentos financeiros dos bancos comerciais serão constituídos:
 
 1.º Pela parte do capital social e fundos de reserva dos bancos a eles consignada pelas assembleias gerais, que não poderá ser inferior a:
 
@@ -131,15 +143,15 @@ b) 100000000$00 para os departamentos a constituir em uma província de governo-
 
 § 3.º A atribuição de recursos a que se refere o n.º 1.º do corpo deste artigo, conjugado com o seu § 1.º, entende-se, sem prejuízo do cumprimento das obrigações legais em vigor relativas à manutenção de um capital mínimo, tanto para a sede como para as sucursais ou dependências dos bancos comerciais, incluindo, designadamente, o disposto no § 3.º do artigo 17.º e nos artigos 48.º e 111.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), assim como no § 3.º do artigo 10.º e no artigo 48.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
 
-###### Art. 14.º Os depósitos a prazo nos departamentos financeiros dos bancos comerciais apenas serão exigíveis findo o prazo por que foram efectuados, prazo que deverá ser superior a um ano e se considerará prorrogado por um período igual, no caso de não haver declaração em contrário feita pelo depositante até à data de vencimento do depósito.
+Art. 14.º Os depósitos a prazo nos departamentos financeiros dos bancos comerciais apenas serão exigíveis findo o prazo por que foram efectuados, prazo que deverá ser superior a um ano e se considerará prorrogado por um período igual, no caso de não haver declaração em contrário feita pelo depositante até à data de vencimento do depósito.
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 ...
 
 § 4.º O disposto no parágrafo anterior não obsta a que, quando um banco comercial tenha a sua sede num território nacional e departamentos financeiros com actividade noutros territórios nacionais, se abram e movimentem, entre aquela sede e estes departamentos, as contas necessárias à escrituração de eventuais pagamentos e recebimentos ou transferências de lucros e encargos, mas a realização destas operações deverá conformar-se sempre com as disposições reguladoras das operações de pagamentos interterritoriais.
 
-###### Art. 23.º As operações de crédito agrícola e pecuário a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar, por meio de empréstimos, recursos financeiros para as seguintes aplicações na província ou províncias ultramarinas em que os departamentos exerçam a sua actividade:
+Art. 23.º As operações de crédito agrícola e pecuário a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar, por meio de empréstimos, recursos financeiros para as seguintes aplicações na província ou províncias ultramarinas em que os departamentos exerçam a sua actividade:
 
 1.º Preparação ou adaptação de terrenos para culturas, pastagens ou arborização, compreendendo neste caso a aquisição de plantas;
 
@@ -157,7 +169,7 @@ b) 100000000$00 para os departamentos a constituir em uma província de governo-
 
 8.º Outros investimentos relacionados directamente com o fomento agro-pecuário que, como os anteriores, se considerem, pela sua natureza, financiáveis por crédito a médio prazo.
 
-###### Art. 24.º As operações de crédito industrial a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar a empresas que explorem indústrias em boas condições técnicas e económicas recursos financeiros, por meio de empréstimo, para as seguintes aplicações na província ou províncias ultramarinas em que os departamentos exerçam a sua actividade:
+Art. 24.º As operações de crédito industrial a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar a empresas que explorem indústrias em boas condições técnicas e económicas recursos financeiros, por meio de empréstimo, para as seguintes aplicações na província ou províncias ultramarinas em que os departamentos exerçam a sua actividade:
 
 1.º Aquisição de equipamentos, nomeadamente máquinas, utensílios e material de transporte, e respectivas reparações;
 
@@ -173,13 +185,13 @@ b) 100000000$00 para os departamentos a constituir em uma província de governo-
 
 7.º Outros investimentos relacionados directamente com o fomento industrial que, como os anteriores, se considerem, pela sua natureza, financiáveis por crédito a médio prazo.
 
-###### Art. 25.º As operações de crédito predial a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar a quaisquer empresas recursos financeiros, por meio de empréstimos, para as seguintes aplicações na província ou províncias ultramarinas em que os departamentos exerçam a sua actividade:
+Art. 25.º As operações de crédito predial a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar a quaisquer empresas recursos financeiros, por meio de empréstimos, para as seguintes aplicações na província ou províncias ultramarinas em que os departamentos exerçam a sua actividade:
 
 1.º Construção de armazéns e outras instalações de natureza comercial para conservação ou venda de produtos, incluindo as despesas de aquisição dos terrenos necessários;
 
 2.º Outras construções de interesse para o fomento da actividade económica, nomeadamente da indústria turística, que não estejam abrangidas pelo disposto nos artigos 23.º e 24.º anteriores, e que, pela sua natureza, possam considerar-se financiáveis por crédito a médio prazo.
 
-###### Art. 26.º As operações de crédito agrícola e pecuário a longo prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar, por meio de empréstimos, recursos financeiros para as seguintes aplicações na província ou províncias ultramarinas em que os departamentos exerçam a sua actividade:
+Art. 26.º As operações de crédito agrícola e pecuário a longo prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar, por meio de empréstimos, recursos financeiros para as seguintes aplicações na província ou províncias ultramarinas em que os departamentos exerçam a sua actividade:
 
 1.º Compra de terrenos destinados à exploração agrícola, florestal e/ou pecuária, quando dela possa resultar a melhoria ou intensificação da exploração de um conjunto agrário;
 
@@ -197,11 +209,11 @@ b) 100000000$00 para os departamentos a constituir em uma província de governo-
 
 8.º Outros investimentos relacionados directamente com o fomento agro-pecuário que, como os anteriores, se considerem, pela sua natureza, financiáveis por crédito a longo prazo.
 
-###### Art. 27.º ...
+Art. 27.º ...
 
 a) Os investimentos serem efectuados em província em que o departamento financeiro exerça actividade e terem por finalidade, qualquer que seja a forma de que se revistam, a introdução de novos fabricos, a redução de custos, a melhoria da qualidade dos produtos e/ou desenvolvimento da produção.
 
-###### Art. 49.º Os bancos comerciais são obrigados a enviar às inspecções de crédito e seguros ou do comércio bancário das províncias em que exerçam actividade, elaborados segundo a classificação de contas a que se refere o artigo precedente e assinados por um administrador e pelo chefe da contabilidade, relativamente aos departamentos financeiros:
+Art. 49.º Os bancos comerciais são obrigados a enviar às inspecções de crédito e seguros ou do comércio bancário das províncias em que exerçam actividade, elaborados segundo a classificação de contas a que se refere o artigo precedente e assinados por um administrador e pelo chefe da contabilidade, relativamente aos departamentos financeiros:
 
 1.º Até ao dia 15 de cada mês, o balancete do Razão referido ao último dia útil do mês precedente, acompanhado dos desdobramentos de contas que se reputarem necessários;
 
@@ -209,14 +221,14 @@ a) Os investimentos serem efectuados em província em que o departamento finance
 
 3.º Logo após o encerramento das contas do exercício, o balanço, o desenvolvimento da conta «Ganhos e perdas» e o inventário da carteira de títulos do departamento, bem como, dentro do prazo de trinta dias, a contar do encerramento das contas, o relatório da administração do banco respeitante aos actos e contas da gerência do mesmo departamento.
 
-###### Art. 2.º É revogado o § 3.º do artigo 4.º e o § único do artigo 47.º do [Decreto n.º 49030](https://diariodarepublica.pt/dr/detalhe/decreto/49030-1969-201052).
+Art. 2.º É revogado o § 3.º do artigo 4.º e o § único do artigo 47.º do [Decreto n.º 49030](https://diariodarepublica.pt/dr/detalhe/decreto/49030-1969-201052).
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Janeiro de 1973.**
+Promulgado em 11 de Janeiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, com excepção da de Macau. - J. da Silva Cunha.

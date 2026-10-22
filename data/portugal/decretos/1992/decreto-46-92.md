@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/46/1992/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46-1992-599136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 533774391af3a0b2544b8280d8f2012d66663539300d9f2512603530737adc8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa9b3c6b950efe6186f5dbaf43cd06ab0b2d847148ce2b606b340ff4a7f9777b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ subjects:
 - Braga
 - Edifício Público
 - Prédio Urbano
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278706:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:04Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +107,20 @@ Assim:
 
 Ao abrigo do disposto no artigo 25.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, e nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É autorizada a permuta do Convento do Pópulo, sito no Campo do Conde de Agrolongo, freguesia de São João do Souto, da cidade de Braga, descrito na Conservatória do Registo Predial de Braga sob o n.º 40 e registado a favor do Estado pela inscrição G-1, inscrito na matriz da freguesia de São João do Souto sob o n.º 321, pelo prédio urbano, pertencente ao município de Braga, sito na Rua de Bernardo Sequeira, 247, freguesia de São Vítor, da mesma cidade, designado «Novas instalações militares», edificado numa parcela de terreno que é parte do prédio descrito na Conservatória do Registo Predial sob o n.º 8143 e registado a favor daquele município pela inscrição n.º 53347.
+Artigo 1.º É autorizada a permuta do Convento do Pópulo, sito no Campo do Conde de Agrolongo, freguesia de São João do Souto, da cidade de Braga, descrito na Conservatória do Registo Predial de Braga sob o n.º 40 e registado a favor do Estado pela inscrição G-1, inscrito na matriz da freguesia de São João do Souto sob o n.º 321, pelo prédio urbano, pertencente ao município de Braga, sito na Rua de Bernardo Sequeira, 247, freguesia de São Vítor, da mesma cidade, designado «Novas instalações militares», edificado numa parcela de terreno que é parte do prédio descrito na Conservatória do Registo Predial sob o n.º 8143 e registado a favor daquele município pela inscrição n.º 53347.
 
-###### Art. 2.º O presente diploma constitui título bastante para efeitos de registo das transmissões operadas.
+Art. 2.º O presente diploma constitui título bastante para efeitos de registo das transmissões operadas.
 
 Presidência do Conselho de Ministros, 12 de Outubro de 1992.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
 
-**Assinado em 6 de Novembro de 1992.**
+Assinado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

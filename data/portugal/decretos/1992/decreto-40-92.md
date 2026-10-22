@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/40/1992/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/40-1992-233306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 811792a862da427e0bd0f4e98183186ed9018919ca6ac7a608aaf7e07716fed5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56e4c12538c5af699267cc9d3f8af1f3fe8e71c2c63e0220e022c1e97952b779
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Pessoal do MAR
-- Higiene do Trabalho
 - Convenção
+- Embarcação
+- Higiene do Trabalho
+- Navegação Marítima
+- Pessoal do MAR
 - Portugal
-- Segurança no Trabalho
 - Salvaguarda da VIDA Humana no MAR
 - Segurança Marítima
+- Segurança no Trabalho
 - Sistema Mundial de Socorro e Segurança Marítima
-- Navegação Marítima
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:59Z'
   warnings: []
   errors: []
 ---
@@ -97,19 +97,19 @@ de 2 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas, para adesão, as emendas à Convenção Internacional para a Salvaguarda da Vida Humana no Mar, de 1974, sobre o Sistema Mundial de Socorro e Segurança Marítima, aprovadas em 9 de Novembro de 1988, cuja versão autêntica em língua inglesa e a respectiva tradução para língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. São aprovadas, para adesão, as emendas à Convenção Internacional para a Salvaguarda da Vida Humana no Mar, de 1974, sobre o Sistema Mundial de Socorro e Segurança Marítima, aprovadas em 9 de Novembro de 1988, cuja versão autêntica em língua inglesa e a respectiva tradução para língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 2 de Julho de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Duarte Ivo Cruz - Eduardo Eugénio Castro de Azevedo Soares.
 
 Ratificado em 21 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Julho de 1992.**
+Referendado em 25 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 RESOLUTION 1 OF THE CONFERENCE OF CONTRACTING GOVERNMENTS TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, ON THE GLOBAL MARITIME DISTRESS AND SAFETY SYSTEM, ADOPTED ON 9 NOVEMBER 1988.
 
@@ -945,7 +945,7 @@ This is to certify:
 
 .3 - The following subdivision load lines:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 2.2 - The ship complied with the requirements of the Convention as regards structural fire protection, fire safety systems and appliances and fire control plans;
 
@@ -1289,11 +1289,11 @@ Minimum number of persons with required qualifications to operate the radio inst
 
 2 - Details of life-saving appliances:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 3 - Details of radio facilities:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 4 - Methods used to ensure availability of radio facilities (regulations IV/15.6 and 15.7):
 
@@ -1305,11 +1305,11 @@ Minimum number of persons with required qualifications to operate the radio inst
 
 5 - Ships constructed before 1 February 1995 which do not comply with all the applicable requirements of chapter IV of the Convention as amended en 1988 (ver nota 3'):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 6 - Ships constructed before 1 February 1992 which do not fully comply with the applicable requirements of chapter III of the Convention as amended in 1988 (ver nota 4):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 This is to certify that this is correct in all respects.
 
@@ -1339,11 +1339,11 @@ Distinctive number or letters ...
 
 2 - Details of life-saving appliances:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 3 - Ships constructed before 1 February 1992 which do not fully comply with the applicable requirements of chapter III of the convention as amended en 1988 (ver nota 2):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 This is to certify that this Record is correct in all respects.
 
@@ -1373,7 +1373,7 @@ Minimum number of persons with required qualifications to operate the radio inst
 
 2 - Details of radio facilities:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 3 - Methods used to ensure availability of radio facilities (regulations IV/15.6 and 15.7):
 
@@ -1387,11 +1387,11 @@ Minimum number of persons with required qualifications to operate the radio inst
 
 4.1 - For ships required to be fitted with radiotelegraphy in accordance with the Convention in force prior to 1 February 1992:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 4.2 - For ships required to be fitted with radiotelephony in accordance with the Convention in force prior to 1 February 1992:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 This is to certify that this Record is correct in all respects.
 
@@ -1571,13 +1571,13 @@ a) As emendas serão consideradas aceites em 1 de Fevereiro de 1990, a menos que
 
 b) As emendas que tenham sido consideradas aceites em conformidade com o parágrafo a) entrarão em vigor em 1 de Fevereiro de 1992, para todos os Governos Contratantes, excepto para os que tenham objectado de acordo com o parágrafo a) e que não tenham retirado tais objecções.
 
-## Anexo à Resolução n.º 1
+Anexo à Resolução n.º 1
 
 Emendas à Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974, Relativas às Radiocomunicações para o Sistema Mundial de Socorro e de Segurança Marítima.
 
 ### CAPÍTULO I — Disposições gerais
 
-# PARTE B — Vistorias e certificados
+## PARTE B — Vistorias e certificados
 
 Regra 7
 
@@ -1631,7 +1631,7 @@ No parágrafo b), substituir as palavras «um certificado de segurança radiotel
 
 ### CAPÍTULO II-1 — Construção-subdivisão e estabilidade, máquinas e instalações eléctricas
 
-# PARTE D — Instalações eléctricas
+## PARTE D — Instalações eléctricas
 
 Regra II-1/42
 
@@ -1759,7 +1759,7 @@ Substituir o actual texto do capítulo IV pelo seguinte:
 
 Radiocomunicações
 
-# PARTE A — Generalidades
+## PARTE A — Generalidades
 
 Regra 1
 
@@ -1877,7 +1877,7 @@ Requisitos funcionais
 
 .9 - Transmitir e receber comunicações ponte a ponte.
 
-# PARTE B — Compromissos dos Governos Contratantes (ver nota 10)
+## PARTE B — Compromissos dos Governos Contratantes (ver nota 10)
 
 Regra 5
 
@@ -1897,7 +1897,7 @@ Serviços de radiocomunicações a assegurar
 
 2 - Cada Governo Contratante compromete-se a fornecer à Organização as informações pertinentes sobre as infra-estruturas em terra do serviço móvel marítimo, do serviço móvel por satélite e do serviço móvel marítimo por satélite estabelecidas para as áreas marítimas por ele designadas ao longo das suas costas.
 
-# PARTE C — Requisitos aplicáveis aos navios
+## PARTE C — Requisitos aplicáveis aos navios
 
 Regra 6
 
@@ -2315,7 +2315,7 @@ Substituir o texto actual da regra 21 por:
 
 Todos os navios que, de acordo com a presente Convenção, sejam obrigados a possuir instalações radioeléctricas devem ter a bordo o Código Internacional de Sinais. Esta publicação deve igualmente existir a bordo de qualquer outro navio que, segundo a opinião da Administração, possa ter necessidade de o usar.
 
-## APÊNDICE
+APÊNDICE
 
 Substituir os modelos actuais de certificado de segurança para navio de passageiros, de certificado de segurança de construção para navio de carga, de certificado de segurança do equipamento para navio de carga, de certificado de segurança radiotelegráfica para navio de carga e de certificado de segurança radiotelefónica para navio de carga pelos seguintes:
 
@@ -2371,7 +2371,7 @@ Certifica:
 
 .3 - Às linhas de carga de compartimentagem seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 2.2 - Que o navio obedecia aos requisitos da Convenção no que diz respeito às condições estruturais para a protecção contra incêndios, os sistemas e os dispositivos de protecção contra incêndios, de detecção e os planos de combate a incêndios;
 
@@ -2713,11 +2713,11 @@ Número mínimo de pessoas com as qualificações exigidas para operar as instal
 
 2 - Descrição dos meios de salvação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 3 - Descrição dos meios radioeléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 4 - Métodos utilizados para assegurar a disponibilidade das instalações radioeléctricas (regras IV/15.6 e 15.7):
 
@@ -2729,11 +2729,11 @@ Número mínimo de pessoas com as qualificações exigidas para operar as instal
 
 5 - Navios construídos antes de 1 de Fevereiro de 1995 que não satisfazem a todos os requisitos aplicáveis do capítulo IV da Convenção emendada em 1988 (ver nota 3').
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 6 - Navios construídos antes de 1 de Fevereiro de 1992 que não satisfazem plenamente aos requisitos aplicáveis do capítulo III da Convenção emendada em 1988 (ver nota 4):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 Certifica que a presente relação está correcta em todos os seus aspectos.
 
@@ -2763,11 +2763,11 @@ Distintivo do navio em número ou letras ...
 
 2 - Descrição dos meios de salvação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 3 - Navios construídos antes de 1 de Fevereiro de 1992 que não satisfazem plenamente às prescrições aplicáveis do capítulo III da Convenção e emendas de 1988 (ver nota 2):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 Certifica que a presente relação está correcta em todos os seus aspectos.
 
@@ -2797,7 +2797,7 @@ Número mínimo de pessoas com as qualificações exigidas para operar as instal
 
 2 - Descrições dos meios radioeléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 3 - Métodos utilizados para assegurar a disponibilidade das instalações radioeléctricas (regras IV/15.6 e 15.7):
 
@@ -2811,11 +2811,11 @@ Número mínimo de pessoas com as qualificações exigidas para operar as instal
 
 4.1 - Navios que devem possuir instalação radiotelegráfica conforme a Convenção em vigor antes de 1 de Fevereiro de 1992:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 4.2 - Navios que devem possuir instalação radiotelefónica conforme a Convenção em vigor antes de 1 de Fevereiro de 1992:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf))](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/228a00/46134650.pdf)
 
 Certifica que a presente relação está correcta em todos os seus aspectos.
 

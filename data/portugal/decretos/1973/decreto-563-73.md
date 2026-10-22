@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/563-1973-412583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e2b51d1c21c9e8c47329b2fdb42c6d0f362109eaa892b18f6befcdf91dc36b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdae9535ad20204f5e331dae74146052720b5d877e1934111323a56db4d48b6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Berna
+- Comissão Internacional do Estado Civil
+- Conferência de HAIA de Direito Internacional Privado
+- Conselho da Europa
+- Convenção
+- Direito Civil
+- Direito Internacional
+- Estado Civil
+- Estatuto
+- Luxemburgo
+- Montreux
+- Paris
+- Portugal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:25345580:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25345576:por
+  label: "Ratificado o recesso, por parte da República Portuguesa, aos estatutos da Comissão Internacional do Estado Civil\
+    \ – CIEC, constituídos pelo Protocolo assinado em Berna em 25 de setembro de 1950, pelo Regulamento Financeiro aprovado\
+    \ em Paris em 27 de setembro de 1951, pelo Protocolo Adicional concluído no Luxemburgo em 25 de setembro de 1952, pelo\
+    \ Acordo por troca de cartas de 31 de outubro de 1955 entre a CIEC e o Conselho da Europa, pelo Regulamento adotado em\
+    \ Montreux, em 5 de setembro de 1963 e pelo Acordo por troca de cartas, de 28 de outubro de 1969, entre a CIEC e a Conferência\
+    \ da Haia de Direito Internacional Privado, aprovado pela Res 55/2014 de 26-jun da AR, pelo DEC.48/2014.26.06.2014.PR,\
+    \ DR.IS [121] de 26.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/48-2014-25345576
+  date: '2014-06-26'
+- type: amended_by
+  target: pt:dre:25345580:por
+  label: "Aprovado o recesso, por parte da República Portuguesa, aos estatutos da Comissão Internacional do Estado Civil –\
+    \ CIEC (constituídos pelo Protocolo assinado em Berna em 25 de setembro de 1950, pelo Regulamento Financeiro aprovado\
+    \ em Paris em 27 de setembro de 1951, pelo Protocolo Adicional concluído no Luxemburgo em 25 de setembro de 1952, pelo\
+    \ Acordo por troca de cartas de 31 de outubro de 1955 entre a CIEC e o Conselho da Europa, pelo Regulamento adotado em\
+    \ Montreux, em 5 de setembro de 1963 e pelo Acordo por troca de cartas, de 28 de outubro de 1969, entre a CIEC e a Conferência\
+    \ da Haia de Direito Internacional Privado), aprovados para adesão pelo presente diploma, pela RES.55/2014.26.06.2014.AR,\
+    \ DR.IS [121] de 26.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/55-2014-25345580
+  date: '2014-06-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:35Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +126,15 @@ de 27 de Outubro
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovados para adesão os Estatutos da Comissão Internacional do Estado Civil, constituídos pelo Protocolo assinado em Berna em 25 de Setembro de 1950, pelo Protocolo Adicional concluído no Luxemburgo em 25 de Setembro de 1952, pelo Regulamento adoptado em Montreux em 5 de Setembro de 1963, pelo Regulamento Financeiro aprovado em Paris em 27 de Setembro de 1951, pelo Acordo por troca de cartas, de 31 de Outubro de 1955, entre o Conselho da Europa e a Comissão Internacional do Estado Civil e pelo Acordo por troca de cartas, de 28 de Outubro de 1969, entre esta Comissão Internacional e a Conferência da Haia de Direito Internacional Privado, cujos textos em francês e na respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. São aprovados para adesão os Estatutos da Comissão Internacional do Estado Civil, constituídos pelo Protocolo assinado em Berna em 25 de Setembro de 1950, pelo Protocolo Adicional concluído no Luxemburgo em 25 de Setembro de 1952, pelo Regulamento adoptado em Montreux em 5 de Setembro de 1963, pelo Regulamento Financeiro aprovado em Paris em 27 de Setembro de 1951, pelo Acordo por troca de cartas, de 31 de Outubro de 1955, entre o Conselho da Europa e a Comissão Internacional do Estado Civil e pelo Acordo por troca de cartas, de 28 de Outubro de 1969, entre esta Comissão Internacional e a Conferência da Haia de Direito Internacional Privado, cujos textos em francês e na respectiva tradução para português vão anexos ao presente decreto.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 4 de Outubro de 1973.**
+Assinado em 4 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 COMISSION INTERNATIONALE DE L'ÉTAT CIVIL
 
@@ -650,19 +686,19 @@ Protocolo Relativo à Comissão Internacional do Estado Civil
 
 As Altas Partes Contratantes, considerando que a Bélgica, França, Luxemburgo, Países Baixos e Suíça reconheceram, por troca de cartas, a Comissão Internacional do Estado Civil, e considerando a conveniência em fixarem as modalidades do intercâmbio de documentação realizado por intermédio da Comissão, acordaram nas disposições seguintes:
 
-ARTIGO I
+###### ARTIGO I
 
 Tendo em vista organizar e manter actualizada a documentação de natureza legislativa e jurisprudencial acerca do direito das pessoas e da nacionalidade, que se encontra a cargo da Comissão Internacional do Estado Civil, obrigam-se as Altas Partes Contratantes a fornecer gratuitamente à Comissão todas as informações julgadas necessárias aos seus estudos e trabalhos.
 
-ARTIGO II
+###### ARTIGO II
 
 Os departamentos ministeriais, missões diplomáticas, cônsules-gerais, cônsules, vice-cônsules ou agentes consulares de cada uma das Altas Partes Contratantes terão a faculdade de corresponder-se directamente com o secretário-geral da Comissão Internacional do Estado Civil, a fim de consultarem a documentação reunida pela Comissão.
 
-ARTIGO III
+###### ARTIGO III
 
 As Altas Partes Contratantes obrigam-se a comparticipar com uma subvenção anual nos encargos derivados do funcionamento da Comissão.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Altas Partes Contratantes darão conhecimento às competentes autoridades dos respectivos países das instruções necessárias à aplicação do presente Acordo, o qual entrará em vigor no dia 1 de Outubro de 1950.
 
@@ -852,15 +888,15 @@ Presidência
 
 ###### ARTIGO 18.º — Designação
 
-**O presidente e o vice-presidente da C. I. E. C. serão designados pelo secretariado de entre os seus membros ou, excepcionalmente, de entre os que compõem as secções nacionais.**
+O presidente e o vice-presidente da C. I. E. C. serão designados pelo secretariado de entre os seus membros ou, excepcionalmente, de entre os que compõem as secções nacionais.
 
 ###### ARTIGO 19.º — Duração do cargo
 
-**O presidente exerce as suas funções pelo tempo de três anos, sendo insusceptível de reeleição imediata. No caso de cessação antecipada das funções, o presidente será substituído pelo vice-presidente até que o secretariado proceda à eleição de um novo presidente, por ocasião da reunião da assembleia geral anual.**
+O presidente exerce as suas funções pelo tempo de três anos, sendo insusceptível de reeleição imediata. No caso de cessação antecipada das funções, o presidente será substituído pelo vice-presidente até que o secretariado proceda à eleição de um novo presidente, por ocasião da reunião da assembleia geral anual.
 
 ###### ARTIGO 20.º — Atribuições
 
-**O presidente exerce as atribuições seguintes:**
+O presidente exerce as atribuições seguintes:
 
 1.º Representa a C. I. E. C. nas relações com as autoridades;
 
@@ -876,17 +912,17 @@ Secretariado-geral
 
 ###### ARTIGO 22.º — Designação
 
-**O secretário-geral é designado pelo secretariado de entre os membros das secções nacionais ou, excepcionalmente, de entre as pessoas qualificadas nas matérias da competência da Comissão.**
+O secretário-geral é designado pelo secretariado de entre os membros das secções nacionais ou, excepcionalmente, de entre as pessoas qualificadas nas matérias da competência da Comissão.
 
 Pode ser assistido por um secretário-geral-adjunto, designado nas condições da alínea anterior.
 
 ###### ARTIGO 23.º — Duração do cargo
 
-**O secretário-geral exerce as suas funções pelo período de três anos. Pode ser imediatamente reeleito. Em caso de impedimento temporário, o presidente da C. I. E. C. designará para o substituir um membro da secção nacional do país em que tem assento o secretariado-geral. Se vier a verificar-se a cessação antecipada das suas funções, o secretariado procederá, dentro do mais curto prazo, à designação do novo secretário-geral.**
+O secretário-geral exerce as suas funções pelo período de três anos. Pode ser imediatamente reeleito. Em caso de impedimento temporário, o presidente da C. I. E. C. designará para o substituir um membro da secção nacional do país em que tem assento o secretariado-geral. Se vier a verificar-se a cessação antecipada das suas funções, o secretariado procederá, dentro do mais curto prazo, à designação do novo secretário-geral.
 
 ###### ARTIGO 24.º — Atribuições
 
-**O secretário-geral exerce as atribuições seguintes:**
+O secretário-geral exerce as atribuições seguintes:
 
 1.º Executa as decisões tomadas pela C. I. E. C.;
 
@@ -950,17 +986,17 @@ O presente Regulamento, votado e adoptado pela assembleia geral da C. I. E. C. n
 
 Regulamento Financeiro da Comissão Internacional do Estado Civil, aprovado pela Assembleia Geral de Paris de 27 de Setembro de 1951.
 
-ARTIGO I
+###### ARTIGO I
 
 Em cada ano, antes de 1 de Março, o secretário-geral da C. I. E. C. enviará aos membros do secretariado as propostas destinadas à elaboração do orçamento do próximo exercício.
 
 Este terá início em 1 de Setembro e terminará em 31 de Agosto do ano seguinte.
 
-ARTIGO II
+###### ARTIGO II
 
 Antes de 1 de Maio, o secretariado, reunido para o efeito, e decidindo por maioria de votos, elaborará um projecto que contenha a previsão pormenorizada das despesas. Se for caso disso, os membros do secretariado submeterão, na oportunidade, o projecto à aprovação dos respectivos Governos.
 
-ARTIGO III
+###### ARTIGO III
 
 O orçamento é aprovado anualmente, em Setembro, pela assembleia geral da C. I. E. C., precedendo proposta do secretariado.
 
@@ -968,23 +1004,23 @@ O orçamento será imediatamente notificado pelo secretário-geral aos governos 
 
 do Protocolo de 25 de Setembro de 1950.
 
-ARTIGO IV
+###### ARTIGO IV
 
-**O secretário-geral tem a seu cargo a organização da contabilidade. No decurso do exercício, efectuará o pagamento das despesas contra recibos ou documentos justificativos, dentro dos limites e termos do orçamento aprovado pela assembleia geral.**
+O secretário-geral tem a seu cargo a organização da contabilidade. No decurso do exercício, efectuará o pagamento das despesas contra recibos ou documentos justificativos, dentro dos limites e termos do orçamento aprovado pela assembleia geral.
 
-**O secretário-geral manterá os respectivos fundos numa conta aberta em nome da C. I. E. C., em banco notoriamente solvável. Não poderá conservar em espécie, a título de fundo de maneio, uma soma superior a 250 florins holandeses.**
+O secretário-geral manterá os respectivos fundos numa conta aberta em nome da C. I. E. C., em banco notoriamente solvável. Não poderá conservar em espécie, a título de fundo de maneio, uma soma superior a 250 florins holandeses.
 
-ARTIGO V
+###### ARTIGO V
 
-**O secretário-geral, anualmente, no mês de Setembro, submeterá as contas à apreciação do secretariado da Comissão, o qual, depois de examinar os recibos e documentos justificativos, dará ou não a sua aprovação.**
+O secretário-geral, anualmente, no mês de Setembro, submeterá as contas à apreciação do secretariado da Comissão, o qual, depois de examinar os recibos e documentos justificativos, dará ou não a sua aprovação.
 
 Mediante proposta fundamentada do secretariado, em que será exposta a situação financeira do exercício decorrido, será dada quitação ao secretário-geral do respectivo exercício por deliberação especial da assembleia geral.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As secções nacionais não podem, por sua própria iniciativa, contrair quaisquer encargos por conta do orçamento da C. I. E. C.
 
-ARTIGO VII
+###### ARTIGO VII
 
 O presente Regulamento Financeiro foi discutido e aprovado pela assembleia geral da C. I. E. C. na reunião de 27 de Setembro de 1951.
 
@@ -1076,7 +1112,7 @@ Tomei nota de que o acordo entre o Conselho da Europa e a Comissão Internaciona
 
 Queira aceitar, Sr. Secretário-Geral, os protestos da minha elevada consideração.
 
-**O Secretário-Geral da Comissão Internacional do Estado Civil, Van Praag.**
+O Secretário-Geral da Comissão Internacional do Estado Civil, Van Praag.
 
 Acordo entre a Conferência da Haia de Direito Internacional Privado e a Comissão Internacional do Estado Civil.
 

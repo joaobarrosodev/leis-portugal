@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/129-1980-458230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 095c90015375d92c2fd435c57916c4059094511f2558f9d5d6ca41d3e50dd969
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f70bc416f67675fa3c418a71f801f841c33fe7bfb2a467c2f1d4c059f771e6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Portugal
+- Saúde
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:39Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 18 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional ao Acordo no Domínio da Saúde entre a República Portuguesa e a República de Cabo Verde, assinado em 30 de Novembro de 1979, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Adicional ao Acordo no Domínio da Saúde entre a República Portuguesa e a República de Cabo Verde, assinado em 30 de Novembro de 1979, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 11 de Novembro de 1980.**
+Assinado em 11 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Protocolo Adicional ao Acordo no Domínio da Saúde
 
@@ -104,13 +108,13 @@ Considerando, por outro lado, as vantagens, quer no campo da prestação de serv
 
 As Partes Contratantes decidiram acordar nas disposições seguintes:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O n.º 1 do artigo 1.º passa a ter a seguinte redacção:
 
 1 - O Estado Português compromete-se, na medida das suas possibilidades e quando solicitado pelo Estado de Cabo Verde, a assegurar o tratamento em Portugal de nacionais cabo-verdianos até vinte e cinco doentes por mês.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Ao artigo 5.º são aditados dois números com a seguinte redacção:
 
@@ -118,7 +122,7 @@ Ao artigo 5.º são aditados dois números com a seguinte redacção:
 
 1-B - Aos estagiários que se desloquem ao Estado de Cabo Verde ao abrigo do disposto no número anterior será ministrado, antes da partida, pelo Instituto de Higiene e Medicina Tropical, um estágio com a duração mínima de duas semanas.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 O presente protocolo reger-se-á, quanto às condições de vigência e de denúncia, pelo disposto no artigo 8.º do Acordo no Domínio da Saúde.
 

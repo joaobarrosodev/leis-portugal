@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/330-1973-421237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfa6350c4b284805ccc3187d989a8aec1a3f628bb431310d4ef0d6e0fc9bf756
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f30b9777351e91f833bd475badab1071f6de0454f4aa59b568d0f42d5c6e8044
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:23Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +86,15 @@ de 3 de Julho
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo Complementar da Convenção Geral sobre Segurança Social entre Portugal e a Espanha, assinado em Madrid em 7 de Maio de 1973, cujos textos em português e espanhol vão anexos ao presente Decreto.
+Artigo único. É aprovado para ratificação o Acordo Complementar da Convenção Geral sobre Segurança Social entre Portugal e a Espanha, assinado em Madrid em 7 de Maio de 1973, cujos textos em português e espanhol vão anexos ao presente Decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 15 de Junho de 1973.**
+Assinado em 15 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Acordo complementar da Convenção Geral sobre Segurança Social entre Portugal e a Espanha
 
@@ -160,7 +160,7 @@ O n.º 1 do artigo 3.º da Convenção passa a ter a forma seguinte:
 
 O título II, capítulo I, da Convenção é acrescentado com as seguintes disposições:
 
-###### Art. 10.º/1 - 1. Quando o titular de uma pensão ou renda devida pela aplicação das legislações das duas Partes Contratantes tiver direito a assistência médica e medicamentosa de harmonia com a legislação da Parte Contratante em cujo território resida ou se encontre temporariamente, ser-lhe-á prestada essa assistência pelo organismo competente do país de residência ou de estada, e a cargo deste, como se se tratasse do titular de uma pensão ou renda, por aplicação unicamente da legislação desta última Parte.
+Art. 10.º/1 - 1. Quando o titular de uma pensão ou renda devida pela aplicação das legislações das duas Partes Contratantes tiver direito a assistência médica e medicamentosa de harmonia com a legislação da Parte Contratante em cujo território resida ou se encontre temporariamente, ser-lhe-á prestada essa assistência pelo organismo competente do país de residência ou de estada, e a cargo deste, como se se tratasse do titular de uma pensão ou renda, por aplicação unicamente da legislação desta última Parte.
 
 2. Quando o titular de uma pensão ou renda tiver direito a assistência médica e medicamentosa por aplicação da legislação de uma só das Partes Contratantes e residir ou se encontrar temporariamente no território da outra Parte, ser-lhe-á prestada essa assistência pelo organismo do país de residência ou de estada, como se fosse titular de uma pensão por aplicação da legislação desta última Parte.
 
@@ -168,15 +168,15 @@ A concessão dessas prestações corresponderá ao regime de segurança social d
 
 3. O disposto nos parágrafos anteriores aplicar-se-á por analogia aos familiares do titular de uma pensão ou renda.
 
-###### Art. 10.º/2. O titular de uma pensão ou renda, bem como os seus familiares, deverão informar ao organismo do lugar de residência ou de estada qualquer modificação ocorrida na sua situação que possa afectar o direito à assistência médica e medicamentosa, e bem assim as mudanças de residência de um para o outro país.
+Art. 10.º/2. O titular de uma pensão ou renda, bem como os seus familiares, deverão informar ao organismo do lugar de residência ou de estada qualquer modificação ocorrida na sua situação que possa afectar o direito à assistência médica e medicamentosa, e bem assim as mudanças de residência de um para o outro país.
 
-###### Art. 10.º/3. Para a conservação do direito à assistência médica e medicamentosa relativamente às pessos aludidas no artigo 10.º/1, § 2, e aos seus familiares, os interessados deverão apresentar ao organismo do lugar de residência ou de estada um formulário, emitido pelo organismo competente que comprove o seu direito.
+Art. 10.º/3. Para a conservação do direito à assistência médica e medicamentosa relativamente às pessos aludidas no artigo 10.º/1, § 2, e aos seus familiares, os interessados deverão apresentar ao organismo do lugar de residência ou de estada um formulário, emitido pelo organismo competente que comprove o seu direito.
 
 ###### ARTIGO 4.º
 
 No título III «Disposições diversas» introduz-se um novo artigo, com o n.º 27.º/1 e a seguinte redacção:
 
-###### Art. 27.º/1 - 1. Para a aplicação das disposições previstas na Convenção Geral e nos demais textos que a complementam e desenvolvem, será constituída uma Comissão Mista de carácter técnico, cujos membros serão designados pelas autoridades competentes respectivas:
+Art. 27.º/1 - 1. Para a aplicação das disposições previstas na Convenção Geral e nos demais textos que a complementam e desenvolvem, será constituída uma Comissão Mista de carácter técnico, cujos membros serão designados pelas autoridades competentes respectivas:
 
 2. Competirá à Comissão Mista:
 
@@ -200,10 +200,10 @@ Feito em Madrid, a 7 de Maio de 1973, em quatro exemplares, dois em língua port
 
 Pela República Portuguesa:
 
-**O Ministro dos Negócios Estrangeiros, Rui Patrício.**
+O Ministro dos Negócios Estrangeiros, Rui Patrício.
 
 Pelo Estado Espanhol:
 
-**O Ministro dos Assuntos Exteriores, Gregorio López Bravo.**
+O Ministro dos Assuntos Exteriores, Gregorio López Bravo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/15400/11361139.pdf))](https://files.diariodarepublica.pt/1s/1973/07/15400/11361139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/15400/11361139.pdf)

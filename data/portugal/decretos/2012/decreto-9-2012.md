@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/2012/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-2012-552800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:21:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a02b483d1e6b3061c57f9d0b86bc29af7236a75c6eeb42129d400bd801e33020
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9542442d17fe2e7cdb429ef5b50ef8385e570d3c28098c7ea0c9b30459471919
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:21:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Promoção Turística
-- Formação Profissional
-- Convenção
-- Cooperação Técnica
-- Portugal
 - Apoio ao Investimento
+- Convenção
 - Cooperação Internacional
+- Cooperação Técnica
+- Formação Profissional
+- Portugal
+- Promoção Turística
 - Tunes
+- Turismo
 relationships: []
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:21:34Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 9 de fevereiro de 2012. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas - Álvaro Santos Pereira.
 
-**Assinado em 19 de março de 2012.**
+Assinado em 19 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de março de 2012.**
+Referendado em 22 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA TUNÍSIA NO DOMÍNIO DO TURISMO
 
@@ -248,7 +248,7 @@ Com a sua entrada em vigor o presente Acordo revoga e substitui o Acordo de Coop
 
 4 - Em caso de denúncia, qualquer programa ou projecto, iniciado durante a vigência do presente Acordo, permanece em execução até à sua conclusão, salvo se as Partes acordarem em contrário.
 
-**Assinado em Tunes, a 23 de Março de 2010, em dois exemplares originais nas línguas portuguesa, árabe e francesa. Os três textos fazem igualmente fé. Em caso de divergência de interpretação prevalecerá a versão na língua francesa.**
+Assinado em Tunes, a 23 de Março de 2010, em dois exemplares originais nas línguas portuguesa, árabe e francesa. Os três textos fazem igualmente fé. Em caso de divergência de interpretação prevalecerá a versão na língua francesa.
 
 Pela República Portuguesa:
 
@@ -258,7 +258,7 @@ Pela República da Tunísia:
 
 Slim Tlatli, Ministro do Turismo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07900/0223302238.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07900/0223302238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07900/0223302238.pdf)
 
 ACCORD DE COOPÉRATION ENTRE LA RÉPUBLIQUE PORTUGAISE ET LA RÉPUBLIQUE TUNISIENNE DANS LE DOMAINE DU TOURISME
 

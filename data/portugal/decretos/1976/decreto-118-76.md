@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 34/1976, 2º Suplemento, Série I de 1976-02-10
   number: '34'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 304-(5) a 304-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03402/00050005.pdf
 entry_into_force_dates: []
@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/118-1976-183177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b7c259c430585907ab100a90785aa490b219fe1c3326a0e175707fb48372c10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8b8d81ed588774cfd33b91cfcc70498f97bf748426334f4122f8c20a55cf95a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exoneração
+- Governo Provisório
+- Ministro do Equipamento Social
+- Secretário de Estado da Habitação e Urbanismo
+- Secretário de Estado das Obras Públicas
+- Subsecretário de Estado das Obras Públicas
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:47Z'
   warnings: []
   errors: []
 ---
@@ -89,8 +95,8 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 7.º da Lei Constituciona
 
 Tenho por bem exonerar, sob proposta do Primeiro-Ministro, o engenheiro Álvaro Augusto Veiga de Oliveira do cargo de Ministro do Equipamento Social, cessando consequentemente as suas funções, em conformidade com o n.º 3 do artigo 1.º da Lei Constitucional n.º 6/75, o coronel engenheiro Amadeu Garcia dos Santos, o engenheiro Eduardo Ribeiro Pereira e o coronel engenheiro Baltasar António de Morais Barroco, Secretários de Estado, respectivamente, das Obras Públicas e da Habitação e Urbanismo e Subsecretário de Estado das Obras Públicas.
 
-**Assinado em 10 de Fevereiro de 1976.**
+Assinado em 10 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES - José Baptista Pinheiro de Azevedo.**
+O Presidente da República, FRANCISCO DA COSTA GOMES - José Baptista Pinheiro de Azevedo.

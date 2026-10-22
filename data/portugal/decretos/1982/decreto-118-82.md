@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/118-1982-376193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:59:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8bca62cde040258881576a14b41a5eb2e0a9f0f0cc1ee6cfb05642f518825b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7879876525325468d4344653350f6ddbd10ac5c5e756ae321ba888039b1c2b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:59:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Crédito Especial
+- Ministério das Finanças e do Plano
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:59:08Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +95,11 @@ de 20 de Outubro
 
 Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1978-296224), de 13 de Maio, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais, no montante de 159325 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais, no montante de 159325 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24300/34583460.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24300/34583460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24300/34583460.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
@@ -99,95 +107,95 @@ Receitas correntes
 
 ... Contos
 
-### Capítulo 02 «Impostos indirectos», grupo 03 «Outros», artigo 25 «Serviços gerais e licenciamentos concedidos a empresas» ... 20000
+Capítulo 02 «Impostos indirectos», grupo 03 «Outros», artigo 25 «Serviços gerais e licenciamentos concedidos a empresas» ... 20000
 
-### Capítulo 03 «Taxas, multas e outras penalidades», grupo 02 «Multas e outras penalidades», artigo 05 «Multas e penalidades diversas» ... 15000
+Capítulo 03 «Taxas, multas e outras penalidades», grupo 02 «Multas e outras penalidades», artigo 05 «Multas e penalidades diversas» ... 15000
 
-### Capítulo 05 «Transferências»:
+Capítulo 05 «Transferências»:
 
 Grupo 01 «Sector público»:
 
-###### Artigo 02 «Fundos autónomos» ... 1500
+Artigo 02 «Fundos autónomos» ... 1500
 
-###### Artigo 03 «Serviços autónomos» ... 500
+Artigo 03 «Serviços autónomos» ... 500
 
-###### Artigo 04 «Regiões Autónomas dos Açores e da Madeira» ... 3000
+Artigo 04 «Regiões Autónomas dos Açores e da Madeira» ... 3000
 
-###### Artigo 05 «Autarquias locais» ... 800
+Artigo 05 «Autarquias locais» ... 800
 
 Grupo 02 «Empresas públicas»:
 
-###### Artigo 01 «Transferências diversas» ... 2200
+Artigo 01 «Transferências diversas» ... 2200
 
 Grupo 03 «Empresas privadas»:
 
-###### Artigo 01 «Transferências diversas» ... 500
+Artigo 01 «Transferências diversas» ... 500
 
 Grupo 04 «Instituições particulares»:
 
-###### Artigo 01 «Transferências diversas» ... 500
+Artigo 01 «Transferências diversas» ... 500
 
 Grupo 05 «Particulares»:
 
-###### Artigo 01 «Transferências diversas» ... 4000
+Artigo 01 «Transferências diversas» ... 4000
 
-### Capítulo 06 «Venda de bens duradouros», grupo 01 «Sector público», artigo 01 «Serviços gerais» ... 13744
+Capítulo 06 «Venda de bens duradouros», grupo 01 «Sector público», artigo 01 «Serviços gerais» ... 13744
 
-### Capítulo 07 «Venda de serviços e bens não duradouros», grupo 10 «Diversos - Outros sectores»:
+Capítulo 07 «Venda de serviços e bens não duradouros», grupo 10 «Diversos - Outros sectores»:
 
-###### Artigo 05 «Publicações e impressos: Serviços diversos» ... 1000
+Artigo 05 «Publicações e impressos: Serviços diversos» ... 1000
 
-###### Artigo 10 «Diversos serviços e bens não duradouros: Serviços diversos» ... 6930
+Artigo 10 «Diversos serviços e bens não duradouros: Serviços diversos» ... 6930
 
 Receitas de capital
 
 ... Contos
 
-### Capítulo 10 «Transferências»:
+Capítulo 10 «Transferências»:
 
 Grupo 01 «Sector público»:
 
-###### Artigo 02 «Fundos autónomos: Outros» ... 400
+Artigo 02 «Fundos autónomos: Outros» ... 400
 
-###### Artigo 03 «Serviços autónomos» ... 11367
+Artigo 03 «Serviços autónomos» ... 11367
 
-###### Artigo 04 «Regiões Autónomas dos Açores e da Madeira» ... 1000
+Artigo 04 «Regiões Autónomas dos Açores e da Madeira» ... 1000
 
-###### Artigo 05 «Autarquias locais» ... 500
+Artigo 05 «Autarquias locais» ... 500
 
 Grupo 02 «Empresas públicas»:
 
-###### Artigo 02 «Transferências diversas» ... 1000
+Artigo 02 «Transferências diversas» ... 1000
 
 Grupo 03 «Empresas privadas»:
 
-###### Artigo 03 «Transferências diversas» ... 300
+Artigo 03 «Transferências diversas» ... 300
 
 Grupo 04 «Instituições particulares»:
 
-###### Artigo 01 «Transferências diversas» ... 300
+Artigo 01 «Transferências diversas» ... 300
 
 Grupo 05 «Particulares»:
 
-###### Artigo 03 «Transferências diversas» ... 1000
+Artigo 03 «Transferências diversas» ... 1000
 
-### Capítulo 15 «Contas de ordem»:
+Capítulo 15 «Contas de ordem»:
 
 Grupo 07 «Agricultura, Comércio e Pescas»:
 
-###### Artigo 07 «Direcção-Geral dos Serviços Veterinários» ... 6100
+Artigo 07 «Direcção-Geral dos Serviços Veterinários» ... 6100
 
-###### Artigo 09 «Instituto Nacional de Investigação Agrária» ... 60000
+Artigo 09 «Instituto Nacional de Investigação Agrária» ... 60000
 
-###### Artigo 12 «Instituto Português de Conservas de Peixe» ... 1010
+Artigo 12 «Instituto Português de Conservas de Peixe» ... 1010
 
 Grupo 12 «Habitação, Obras Públicas e Transportes - Departamento dos Transportes»:
 
-###### Artigo 04 «Juntas Autónomas dos Portos» ... 6674
+Artigo 04 «Juntas Autónomas dos Portos» ... 6674
 
 ... 159325
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubricas no orçamento de Encargos Gerais da Nação:
+Art. 3.º São autorizadas as seguintes alterações de rubricas no orçamento de Encargos Gerais da Nação:
 
 Às dotações descritas no cap. 06, div. 01, C. F. 8.08.0, C. E. 44.09, alínea R, e 71.09, alínea A, são apostas as seguintes observações:
 
@@ -195,8 +203,8 @@ Grupo 12 «Habitação, Obras Públicas e Transportes - Departamento dos Transpo
 
 Francisco José Pereira Pinto Balsemão - Carlos José Sanches Vaz Pardal - Alípio Barrosa Pereira Dias - Basílio Adolfo Mendonça Horta da Franca - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 24 de Setembro de 1982.**
+Promulgado em 24 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

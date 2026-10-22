@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/162-1978-325318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:49:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2edc302e2245cffba1d368671c1061bf41039a2e1adec0b99458d1be5b01044e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01bae3ae8bfa20979ae0736fa41a575971d955d0290e477b8d1a3cd8648fc435
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Estatuto Jurídico
+- Portugal
+- Trabalhador Migrante
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:49:41Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 27 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Europeia Relativa ao Estatuto Jurídico do Trabalhador Migrante, cujos textos em francês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovada para ratificação a Convenção Europeia Relativa ao Estatuto Jurídico do Trabalhador Migrante, cujos textos em francês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - Carlos Jorge Mendes Corrêa Gago.
 
-**Assinado em 18 de Novembro de 1978.**
+Assinado em 18 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION EUROPÉENNE RELATIVE AU STATUT JURIDIQUE DU TRAVAILLEUR MIGRANT
 
@@ -600,7 +604,9 @@ Reafirmando que os direitos e privilégios que atribuem reciprocamente aos seus 
 
 acordaram o seguinte:
 
-### CAPÍTULO I — ARTIGO 1.º
+### CAPÍTULO I
+
+###### ARTIGO 1.º
 
 Definição
 
@@ -620,7 +626,9 @@ e) Aos trabalhadores temporários; trabalhadores migrantes temporários são tod
 
 f) Aos trabalhadores originários de uma das Partes Contratantes que efectuem um determinado trabalho no território de outra Parte Contratante por conta de uma empresa cuja sede social se situe fora do território desta Parte Contratante.
 
-### CAPÍTULO II — ARTIGO 2.º
+### CAPÍTULO II
+
+###### ARTIGO 2.º
 
 Formas de recrutamento
 
@@ -678,7 +686,9 @@ b) Às ferramentas manuais e equipamento portátil necessário aos trabalhadores
 
 As isenções acima referidas serão concedidas de acordo com as modalidades previstas nas disposições legais ou regulamentares em vigor nos referidos países.
 
-### CAPÍTULO III — ARTIGO 8.º
+### CAPÍTULO III
+
+###### ARTIGO 8.º
 
 Autorização de trabalho
 
@@ -842,7 +852,9 @@ As Partes Contratantes reconhecem aos trabalhadores migrantes o livre exercício
 
 As Partes Contratantes facilitarão, na medida do possível, a participação dos trabalhadores migrantes na vida da empresa em condições idênticas às dos seus nacionais.
 
-### CAPÍTULO IV — ARTIGO 30.º
+### CAPÍTULO IV
+
+###### ARTIGO 30.º
 
 Retorno
 
@@ -862,7 +874,9 @@ Equivalência atribuída aos certificados ou diplomas profissionais obtidos no e
 
 Equivalência atribuída às habilitações escolares obtidas no estrangeiro, a fim de permitir, sem desclassificação, a integração escolar dos filhos dos trabalhadores migrantes.
 
-### CAPÍTULO V — ARTIGO 31.º
+### CAPÍTULO V
+
+###### ARTIGO 31.º
 
 Convenção dos direitos adquiridos
 
@@ -888,7 +902,9 @@ As disposições da presente Convenção não prevalecem sobre as normas de dire
 
 7 - O Comité consultivo preparará periodicamente, à atenção do Comité de Ministros, um relatório contendo informações relativas ao estado da legislação ou da regulamentação em vigor no território das Partes e referente aos assuntos tratados na presente Convenção.
 
-### CAPÍTULO VI — ARTIGO 34.º
+### CAPÍTULO VI
+
+###### ARTIGO 34.º
 
 Assinatura - Ratificação - Entrada em vigor
 
@@ -920,7 +936,7 @@ Assinatura - Ratificação - Entrada em vigor
 
 ###### ARTIGO 38.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa deverá notificar os Estados Membros do Conselho:**
+O Secretário-Geral do Conselho da Europa deverá notificar os Estados Membros do Conselho:
 
 a) De todas as assinaturas;
 

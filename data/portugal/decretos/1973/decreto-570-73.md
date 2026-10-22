@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/570-1973-412625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58507db66744179bdcae53fbf88edb36171cd30500b9d48b89e916574b3c8ebb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd2344f307d7c62532e29ff3408d63c03872bd60f8040093120048eace80c418
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- CABO Verde.Colónia Portuguesa
+- Criação de Lugares
+- Despesas de Representação
+- Funcionário Ultramarino
+- Fundos Consignados
+- Governo Colonial
+- Instituto de Higiene e Medicina Tropical
+- Macau.Colónia Portuguesa
+- Ministro do Ultramar
+- Moçambique.Colónia Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:312207:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312207:por
+  label: "Extinto o Fundo do Instituto de Higiene e Medicina Tropical criado no art. 11º pelo DEC LEI.537/75.27.09.1975.PCM,\
+    \ DG.IS [224] de 27.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/537-1975-312207
+  date: '1975-09-27'
+- type: cites
+  target: pt:dre:148830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686245:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:39Z'
   warnings: []
   errors: []
 ---
@@ -100,35 +158,35 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º É fixado em 6000$00 o quantitativo mensal a abonar, a título de despesas de representação, ao governador do distrito de Barlavento.
+Artigo 1.º É fixado em 6000$00 o quantitativo mensal a abonar, a título de despesas de representação, ao governador do distrito de Barlavento.
 
 B) Angola
 
-###### Art. 2.º - 1. No quadro comum dos Serviços de Indústria são criados seis lugares de técnico de 1.ª classe, com a categoria da letra F do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 2.º - 1. No quadro comum dos Serviços de Indústria são criados seis lugares de técnico de 1.ª classe, com a categoria da letra F do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. O provimento dos novos lugares será feito por escolha do Ministro do Ultramar, em regra sob proposta do Governador-Geral, de entre licenciados por qualquer das Universidades portuguesas.
 
 3. Aos lugares criados por este artigo é atribuída uma gratificação mensal de chefia e especial responsabilidade de funções, a fixar pele Governador-Geral, até ao máximo de 1500$00, 1360$00 e 1250$00, consoante os seus titulares chefiem os serviços centrais, divisões ou secções técnicas, respectivamente.
 
-###### Art. 3.º No quadro comum dos Serviços de Comércio são criados dois lugares de técnico-director.
+Art. 3.º No quadro comum dos Serviços de Comércio são criados dois lugares de técnico-director.
 
-###### Art. 4.º A dotação dos lugares criados pelos artigos antecedentes fica condicionada à existência de disponibilidades orçamentais.
+Art. 4.º A dotação dos lugares criados pelos artigos antecedentes fica condicionada à existência de disponibilidades orçamentais.
 
-###### Art. 5.º O artigo 16.º do [Decreto n.º 422/70](https://diariodarepublica.pt/dr/detalhe/decreto/422-1970-148830), de 4 de Setembro, passa a ter a seguinte redacção:
+Art. 5.º O artigo 16.º do [Decreto n.º 422/70](https://diariodarepublica.pt/dr/detalhe/decreto/422-1970-148830), de 4 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 16.º Os serviços poderão ser subdivididos em repartições, divisões e secções, técnicas ou administrativas, sendo as técnicas chefiadas por peritos industriais ou técnicos de 1.ª classe com os cursos adequados.
+Art. 16.º Os serviços poderão ser subdivididos em repartições, divisões e secções, técnicas ou administrativas, sendo as técnicas chefiadas por peritos industriais ou técnicos de 1.ª classe com os cursos adequados.
 
-###### Art. 6.º - 1. A comparticipação do Instituto de Assistência Social nos encargos de que trata o artigo 1.º do [Decreto n.º 45605](https://diariodarepublica.pt/dr/detalhe/decreto/45605-1964-470034), de 9 de Março de 1964, é fixada, para o ano de 1974, em 6% das suas receitas orçamentais ordinárias, exceptuadas as consignadas.
+Art. 6.º - 1. A comparticipação do Instituto de Assistência Social nos encargos de que trata o artigo 1.º do [Decreto n.º 45605](https://diariodarepublica.pt/dr/detalhe/decreto/45605-1964-470034), de 9 de Março de 1964, é fixada, para o ano de 1974, em 6% das suas receitas orçamentais ordinárias, exceptuadas as consignadas.
 
 2. A comparticipação a que se refere o número antecedente será fixada anualmente, a partir do ano de 1975, por decreto provincial, de acordo com as possibilidades financeiras do Instituto.
 
 C) Moçambique
 
-###### Art. 7.º O disposto no n.º 3 do artigo 5.º do [Decreto n.º 322/71](https://diariodarepublica.pt/dr/detalhe/decreto/322-1971-643100), de 26 de Julho, é tornado extensivo aos dactilógrafos dos Serviços de Centralização e Coordenação de Informações que venham a ser providos nos lugares de processadores auxiliares do quadro do pessoal técnico de informações.
+Art. 7.º O disposto no n.º 3 do artigo 5.º do [Decreto n.º 322/71](https://diariodarepublica.pt/dr/detalhe/decreto/322-1971-643100), de 26 de Julho, é tornado extensivo aos dactilógrafos dos Serviços de Centralização e Coordenação de Informações que venham a ser providos nos lugares de processadores auxiliares do quadro do pessoal técnico de informações.
 
 D) Macau
 
-###### Art. 8.º - 1. No quadro de pessoal da Repartição do Gabinete do Governo da Província é criado um lugar de chefe de secção, com a categoria da letra J do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 8.º - 1. No quadro de pessoal da Repartição do Gabinete do Governo da Província é criado um lugar de chefe de secção, com a categoria da letra J do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. O provimento será feito por escolha do Governador da província de entre os funcionários de categoria imediatamente inferior do referido quadro.
 
@@ -138,31 +196,31 @@ II
 
 Disposições comuns
 
-###### Art. 9.º Sempre que por ausência ou impedimento legal não possa nenhum dos inspectores superiores de Fazenda fazer parte da comissão a que se refere o n.º 2 do artigo 14.º do [Decreto n.º 384/73](https://diariodarepublica.pt/dr/detalhe/decreto/384-1973-421791), de 28 de Julho, será designado, em sua substituição, por despacho do Ministro do Ultramar, um director de finanças de 1.ª classe em serviço na Direcção-Geral de Fazenda ou nas províncias ultramarinas.
+Art. 9.º Sempre que por ausência ou impedimento legal não possa nenhum dos inspectores superiores de Fazenda fazer parte da comissão a que se refere o n.º 2 do artigo 14.º do [Decreto n.º 384/73](https://diariodarepublica.pt/dr/detalhe/decreto/384-1973-421791), de 28 de Julho, será designado, em sua substituição, por despacho do Ministro do Ultramar, um director de finanças de 1.ª classe em serviço na Direcção-Geral de Fazenda ou nas províncias ultramarinas.
 
-###### Art. 10.º Constituem receita própria do orçamento privativo do Instituto de Higiene e Medicina Tropical:
+Art. 10.º Constituem receita própria do orçamento privativo do Instituto de Higiene e Medicina Tropical:
 
 a) As taxas devidas nos termos das tabelas legais por serviços prestados pelo Instituto;
 
 b) Os saldos anuais de sua gestão orçamental.
 
-###### Art. 11.º - 1. São extintos os fundos especiais a que se referem os artigos 8.º do [Decreto n.º 26288](https://diariodarepublica.pt/dr/detalhe/decreto/26288-1936-685850), de 28 de Janeiro de 1936, e 72.º do [Decreto n.º 38084](https://diariodarepublica.pt/dr/detalhe/decreto/38084-1950-490047), de 7 de Dezembro de 1950, e em sua substituição é criado, no Ministério do Ultramar, o Fundo do Instituto de Higiene e Medicina Tropical, para o qual imediatamente transitarão os saldos dos fundos extintos.
+Art. 11.º - 1. São extintos os fundos especiais a que se referem os artigos 8.º do [Decreto n.º 26288](https://diariodarepublica.pt/dr/detalhe/decreto/26288-1936-685850), de 28 de Janeiro de 1936, e 72.º do [Decreto n.º 38084](https://diariodarepublica.pt/dr/detalhe/decreto/38084-1950-490047), de 7 de Dezembro de 1950, e em sua substituição é criado, no Ministério do Ultramar, o Fundo do Instituto de Higiene e Medicina Tropical, para o qual imediatamente transitarão os saldos dos fundos extintos.
 
 2. Passa a constituir receita do Fundo o produto do subsídio instituído pela base XVIII da [Lei n.º 1920](https://diariodarepublica.pt/dr/detalhe/lei/1920-1935-576311), de 29 de Maio de 1935.
 
 3. As receitas do Fundo serão depositadas no Banco Nacional Ultramarino à ordem do Ministro do Ultramar.
 
-###### Art. 12.º - 1. O Ministro do Ultramar fixará, por despacho, de conta do Fundo criado pelo n.º 1 do artigo 11.º, a dotação anual a atribuir ao Instituto de Higiene e Medicina Tropical em complemento da quotização das províncias ultramarinas.
+Art. 12.º - 1. O Ministro do Ultramar fixará, por despacho, de conta do Fundo criado pelo n.º 1 do artigo 11.º, a dotação anual a atribuir ao Instituto de Higiene e Medicina Tropical em complemento da quotização das províncias ultramarinas.
 
 2. Em caso de manifesta falta de outros recursos, e assegurada que seja a dotação referida no n.º 1, poderá o Ministro do Ultramar, mediante simples despacho, mandar aplicar disponibilidades do Fundo a despesas extraordinárias de segurança interna, de natureza civil, das províncias de governo simples.
 
 3. Ao Instituto de Higiene e Medicina Tropical é concedido, no corrente ano económico, de conta do Fundo, um subsídio de 7259 contos.
 
-###### Art. 13.º Fica o Ministro do Ultramar autorizado a mandar aplicar, por despacho, disponibilidades do Fundo a que se refere o artigo 17.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962, na abertura de um crédito especial de 3295000$00, destinado a reforçar a verba de «Equipamento de novas instalações e serviços» do orçamento privativo do Hospital do Ultramar em vigor.
+Art. 13.º Fica o Ministro do Ultramar autorizado a mandar aplicar, por despacho, disponibilidades do Fundo a que se refere o artigo 17.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962, na abertura de um crédito especial de 3295000$00, destinado a reforçar a verba de «Equipamento de novas instalações e serviços» do orçamento privativo do Hospital do Ultramar em vigor.
 
-###### Art. 14.º O n.º 1 do artigo 18.º do [Decreto n.º 442/73](https://diariodarepublica.pt/dr/detalhe/decreto/442-1973-413866), de 4 de Setembro, passa a ter a seguinte redacção:
+Art. 14.º O n.º 1 do artigo 18.º do [Decreto n.º 442/73](https://diariodarepublica.pt/dr/detalhe/decreto/442-1973-413866), de 4 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 18.º - 1. Em cada tribunal do ultramar o imposto de justiça, contado nos respectivos processos de qualquer jurisdição, terá o seguinte destino:
+Art. 18.º - 1. Em cada tribunal do ultramar o imposto de justiça, contado nos respectivos processos de qualquer jurisdição, terá o seguinte destino:
 
 a) Na Relação, tribunais do trabalho, de execução das penas e julgados municipais de 1.ª classe:
 
@@ -212,10 +270,10 @@ Participação emolumentar ... 60
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 19 de Outubro de 1973.**
+Promulgado em 19 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

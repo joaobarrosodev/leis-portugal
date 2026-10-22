@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/38-1977-141190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad6d615d394784c1f8ee4e7d37dc087749cc1a791c54379f93e4464eaffe73e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0610bc1640ed2ff5d7a22369eb9ed424fcb4511f860aca70d9163ced376362ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Canadá
+- Convenção
+- Pesca
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:14Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 12 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo Português e o Governo do Canadá sobre as Suas Relações de Pesca, assinado em Otava em 29 de Julho de 1976, cujos textos em português, francês e inglês acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo Português e o Governo do Canadá sobre as Suas Relações de Pesca, assinado em Otava em 29 de Julho de 1976, cujos textos em português, francês e inglês acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 21 de Fevereiro de 1977.**
+Assinado em 21 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo entre Portugal e o Canadá sobre as Suas Relações de Pesca
 
@@ -114,13 +118,13 @@ Recordando o Acordo firmado pelos dois países em 27 de Março de 1972 sobre rel
 
 Acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 O Governo de Portugal e o Governo do Canadá obrigam-se a assegurar uma cooperação estreita entre os dois países em assuntos de conservação e utilização dos recursos vivos do mar.
 
 Ambos tomarão medidas adequadas para facilitar essa cooperação e continuarão a consultar-se e a cooperar em negociações e organizações internacionais com vista a alcançar objectivos comuns de pesca.
 
-ARTIGO II
+###### ARTIGO II
 
 1. O Governo do Canadá obriga-se, logo que se dê a extensão da área sujeita à jurisdição das pescas canadianas, a permitir a navios portugueses pescar nessa área, por fora dos actuais limites do mar territorial do Canadá e suas zonas de pesca, ao largo da sua costa atlântica quotas atribuídas, conforme for apropriado, como parte das capturas totais permitidas em excesso da capacidade de captura do Canadá, de acordo com o estabelecido nos parágrafos 2 e 3 deste artigo.
 
@@ -138,35 +142,35 @@ c) Depois de consultas apropriadas, partes, conforme for adequado, atribuídas a
 
 5. O Governo do Canadá obriga-se a autorizar navios portugueses licenciados para a pesca, nos termos deste artigo, a entrar em portos canadianos do Atlântico, de acordo com as leis, regulamentos e normas administrativas do Canadá, a fim de adquirir isco, provisões ou aparelho ou de fazer reparações, e de outras finalidades a determinar pelo Governo do Canadá, de acordo com as disponibilidades de serviços e as necessidades de navios canadianos. Tal autorização, passará a ser nula e sem efeito para qualquer navio depois do cancelamento ou terminação da sua licença de pesca, excepto no caso de demandar porto para se abastecer para a sua viagem de volta ou fazer reparações a esta necessárias.
 
-ARTIGO III
+###### ARTIGO III
 
 1. O Governo de Portugal e o Governo do Canadá reconhecem que os Estados em cujos rios se criam originalmente populações (stocks) de espécies anádromas têm um interesse de primeira ordem nessas populações (stocks) e uma responsabilidade da mesma ordem nessas mesmas populações e concordam em que a pesca de espécies anádromas não deve ser feita em áreas exteriores aos limites de jurisdição nacional de pescas. Continuarão a trabalhar em conjunto pelo estabelecimento de acordos permanentes multilaterais que reflictam o seu posto de vista.
 
 2. De acordo com o parágrafo 1, o Governo de Portugal tomará medidas para evitar que navios com a sua bandeira ou pessoas sob a sua jurisdição capturem populações (stocks) anádromas originadas em águas canadianas.
 
-ARTIGO IV
+###### ARTIGO IV
 
 O Governo de Portugal e o Governo do Canadá obrigam-se a cooperar, ou directamente ou por intermédio das apropriadas organizações internacionais, em assegurar gestão adequada e conservação dos recursos vivos do alto mar por fora dos limites de jurisdição nacional de pescas, incluindo as áreas do alto mar por fora mas imediatamente adjacentes às áreas sob as suas respectivas jurisdições, tomando em atenção o seu interesse nesses recursos.
 
-ARTIGO V
+###### ARTIGO V
 
 1. O Governo de Portugal deverá tomar medidas para assegurar que os navios de pesca portugueses actuem em conformidade com o estabelecido neste Acordo.
 
 2. O Governo do Canadá deve tomar as medidas necessárias para tornar efectivo o estabelecido neste Acordo, incluindo a passagem de licenças de acordo com o artigo II.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1. O Governo de Portugal e o Governo do Canadá deverão realizar consultas periódicas bilaterais a respeito da efectivação deste Acordo e do desenvolvimento de uma maior cooperação. Em particular, deverão promover cooperação bilateral em assuntos tais como intercâmbio de informação técnica e de pessoal e melhoramento da utilização e processamento de capturas. Examinarão em conjunto a facilitação de acordos cooperativos entre empresas portuguesas e canadianas para a utilização dos recursos vivos das águas ao largo das costas canadianas do Atlântico, bem como da expansão dos mercados de peixe e de produtos pesqueiros originários do Canadá, e, tendo em atenção as obrigações de ambos os países como membros do Acordo Geral sobre Tarifas e Comércio (GATT), deverão promover a redução ou eliminação de barreiras, tarifárias ou não, no comércio desses produtos. Deverão examinar em conjunto a possibilidade de acordos para a utilização dos portos canadianos do Atlântico por navios de pesca portugueses, a fim de embarcar ou desembarcar membros da tripulação ou outras pessoas ou para outros fins semelhantes que sejam acordados.
 
 2. Nas consultas referidas na parágrafo 2, c), do artigo II a respeito das quotas atribuídas a navios de pesca portugueses do que restar em excesso das populações (stocks) ou combinações de populações (stocks), o Governo Canadiano tomará em consideração todos os factores relevantes, incluindo inter alia, os interesses canadianos, o desenvolvimento da cooperação entre os dois Governos nos termos deste Acordo e as capturas anteriores da frota portuguesa relativas a essas populações (stocks) ou combinações de populações (stocks). Essas consultas deverão ser feitas com uma antecedência razoável em relação à campanha de pesca a que interessam.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1. O presente Acordo não pode prevalecer em prejuízo de quaisquer outros acordos existentes entre os dois Governos ou convenções multilaterais existentes de que ambos os Governos sejam parte ou ainda dos pontos de vista de qualquer dos dois Governos a respeito de direito marítimo.
 
 2. O presente Acordo está sujeito a revisão pelos dois Governos decorridos dois anos ou em qualquer altura depois da ratificação por ambos os Governos de uma convenção multilateral futura que trate das mesmas matérias substantivas. Este Acordo pode ser denunciando, por uma qualquer das duas Partes, dez anos depois da data da sua entrada em vigor ou no termo de qualquer período de seis anos subsequentes e desde que seja dada notificação da denúncia do Acordo pelo menos doze meses antes do fim de qualquer dos períodos referidos.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Este Acordo está sujeito a ratificação e entrará em vigor à data da troca dos instrumentos de ratificação, que se realizará em Lisboa logo que seja possível.
 

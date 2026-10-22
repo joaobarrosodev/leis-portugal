@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/51-1989-549247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57222781b2cabacdcac54a7d05199cf6b72a4d1721964a49904e70075d9a5722
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bf9b573d6d5663c6a3aaf8ffd133b18f0ed149e09003e6d36fff4b7d11e6a93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Pecuária
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:32Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +91,19 @@ de 19 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação entre o Governo da República Portuguesa e o Governo da República de Cabo Verde no Âmbito da Pecuária, feito no Mindelo a 13 de Junho de 1988, cujo texto original vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação entre o Governo da República Portuguesa e o Governo da República de Cabo Verde no Âmbito da Pecuária, feito no Mindelo a 13 de Junho de 1988, cujo texto original vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro - Arlindo Marques Cunha.
 
-**Assinado em 5 de Outubro de 1989.**
+Assinado em 5 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1989.**
+Referendado em 6 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DE CABO VERDE NO ÂMBITO DA PECUÁRIA.
 
@@ -107,11 +111,11 @@ O Governo da República Portuguesa e o Governo da República de Cabo Verde, dese
 
 I - Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 A cooperação científica e técnica no âmbito da pecuária entre os dois países far-se-á através da mobilização das estruturas do Instituto para a Cooperação Económica (ICE) e do Ministério da Agricultura, Pescas e Alimentação (MAPA), ambos da República Portuguesa, e da Direcção-Geral da Cooperação Internacional (DGCI) e do Ministério do Desenvolvimento Rural e Pescas (MDRP), ambos da República de Cabo Verde, adiante designados por Partes.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1 - Sem prejuízo de outros domínios que venham a ser reconhecidos de interesse pelas Partes, são, desde já, estabelecidos os seguintes:
 
@@ -137,7 +141,7 @@ e) Cursos, estágios e outras acções de formação de pessoal;
 
 f) Exposições, seminários, reuniões e conferências.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 A Parte Portuguesa e a Parte Cabo-Verdiana promoverão, por intermédio das suas estruturas, o estabelecimento de programas conjuntos, anuais ou plurianuais, nos quais se explicitarão:
 
@@ -151,7 +155,7 @@ d) A atribuição das tarefas;
 
 e) O financiamento necessário e a sua distribuição.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - A gestão deste Acordo será feita por uma Comissão Coordenadora, com carácter permanente, que integrará representantes das estruturas referidas no artigo 1.º, competindo-lhe:
 
@@ -167,7 +171,7 @@ c) Elaborar, no final de cada ano, um relatório sobre as actividades desenvolvi
 
 II - Disposições financeiras
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - O suporte financeiro das acções decorrentes da aplicação deste Acordo, constantes dos programas estabelecidos, será assegurado pela conjugação das disponibilidades de verbas das Partes Portuguesa e Cabo-Verdiana.
 
@@ -189,17 +193,17 @@ e) Colaboração das entidades e serviços públicos locais.
 
 5 - O MDRP suportará ainda os custos das viagens de ida e volta dos técnicos e missões cabo-verdianos a Portugal.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Os encargos derivados de risco de morte acidental e invalidez que possam ocorrer no decurso das deslocações previstas nos programas acordados ficarão a cargo da instituição que as promove, segundo as leis respectivas.
 
 III - Disposições finais
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 O texto do presente Acordo poderá ser modificado através de negociações directas ou através de troca de correspondência entre as Partes.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - O presente Acordo entrará em vigor na data em que vier a ser comunicado que se encontram cumpridas as formalidades exigidas pela ordem jurídica interna de cada uma das Partes.
 

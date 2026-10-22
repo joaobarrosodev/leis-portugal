@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/40/1991/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/40-1991-659546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1581fa0e238200b73e0bcf6764ee397f0996f2d1db1c4e0d1aba6313c7602c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f363171ffa57e9292c3a9814662b061057ac2f6333a82b5cda57b32068d30d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - Cabo Verde
+- Convenção
 - Cooperação Industrial
 - Energia
+- Portugal
 relationships: []
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:01Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 19 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação no Domínio da Indústria e Energia entre a República Portuguesa e a República de Cabo Verde, feito em Lisboa, a 26 de Outubro de 1990, cujo texto original segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação no Domínio da Indústria e Energia entre a República Portuguesa e a República de Cabo Verde, feito em Lisboa, a 26 de Outubro de 1990, cujo texto original segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1991. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral.
 
-**Assinado em 27 de Maio de 1991.**
+Assinado em 27 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Maio de 1991.**
+Referendado em 29 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO NO DOMÍNIO DA INDÚSTRIA E ENERGIA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE.
 

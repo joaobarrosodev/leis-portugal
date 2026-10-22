@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/74-1978-297013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7900b77e6c65450260194215c57a39ebebc5bfdb6795be7714ceb0898f3358ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8c7500750b2cbd4c22695b4d5471027c32656405e9d6017e84743d6aa0ee7b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Pide-dgs
+- Recrutamento de Pessoal
+- Serviço de Coordenação da Extinção da Pide-dgs e LP
+relationships:
+- type: cites
+  target: pt:dre:141378:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:06Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +99,20 @@ Atendendo às razões invocadas no preâmbulo desse diploma, especialmente no qu
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Serviço de Coordenação da Extinção da PIDE/DGS e LP poderá, mediante despacho do presidente dos Serviços de Apoio do Conselho da Revolução, solicitar o destacamento, requisitar ou admitir em regime de prestação eventual de serviços o pessoal civil indispensável ao funcionamento do referido Serviço, pela forma e condições julgadas mais convenientes.
+Artigo 1.º - 1 - O Serviço de Coordenação da Extinção da PIDE/DGS e LP poderá, mediante despacho do presidente dos Serviços de Apoio do Conselho da Revolução, solicitar o destacamento, requisitar ou admitir em regime de prestação eventual de serviços o pessoal civil indispensável ao funcionamento do referido Serviço, pela forma e condições julgadas mais convenientes.
 
 2 - Ao referido pessoal são aplicáveis as disposições do artigo 1.º do [Decreto-Lei n.º 48/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1977-141378), de 12 de Fevereiro.
 
 3 - Os actos referentes ao recrutamento de pessoal nos termos deste artigo serão realizados com dispensa de todas as formalidades legais, incluindo o visto do Tribunal de Contas.
 
-###### Art. 2.º Compete ao presidente dos Serviços de Apoio do Conselho da Revolução fixar, por despacho, os abonos a atribuir ao pessoal da força de guarda à sede do Serviço de Coordenação da Extinção da PIDE/DGS e LP pela prestação de serviços extraordinários.
+Art. 2.º Compete ao presidente dos Serviços de Apoio do Conselho da Revolução fixar, por despacho, os abonos a atribuir ao pessoal da força de guarda à sede do Serviço de Coordenação da Extinção da PIDE/DGS e LP pela prestação de serviços extraordinários.
 
-###### Art. 3.º Consideram-se legalizados para todos os efeitos os actos já realizados nos termos dos artigos anteriores, bem como as despesas deles resultantes.
+Art. 3.º Consideram-se legalizados para todos os efeitos os actos já realizados nos termos dos artigos anteriores, bem como as despesas deles resultantes.
 
 Visto e aprovado em Conselho da Revolução em 14 de Junho de 1978.
 
-**Promulgado em 14 de Junho de 1978.**
+Promulgado em 14 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

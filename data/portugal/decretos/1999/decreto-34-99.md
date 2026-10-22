@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/34/1999/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1999-581617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:10:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 699689e1955134781a7e534da31d36df9ce9ae2ae6e46bc4f05d230ab7b0c67a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae6a17cbefe42c1fc8eb71d223021358c8a458ec9dc3284aee64c41eeaeca9c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:10:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Lisboa
 - Chile
+- Convenção
+- Lisboa
+- Portugal
 - Segurança Social
 relationships: []
 article_structure:
   article_count: 25
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:10:14Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +98,15 @@ Aprova a Convenção sobre Segurança Social entre a República Portuguesa e a R
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Assinado em 13 de Agosto de 1999.**
+Assinado em 13 de Agosto de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Agosto de 1999.**
+Referendado em 18 de Agosto de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONVENÇÃO SOBRE SEGURANÇA SOCIAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO CHILE
 
@@ -272,7 +272,9 @@ Quando a soma dos períodos a considerar em ambas as Partes Contratantes exceda 
 
 4 - Quando os períodos de seguro cumpridos ao abrigo da legislação portuguesa não atingirem a duração mínima prevista nesta legislação para que sejam relevantes, a instituição competente não é obrigada a conceder prestações em relação a esses períodos. Todavia, os mesmos períodos são tidos em consideração pela instituição competente chilena para aplicação do artigo 11.º da presente Convenção.
 
-## TÍTULO IV — CAPÍTULO I
+## TÍTULO IV
+
+### CAPÍTULO I
 
 Disposições diversas
 

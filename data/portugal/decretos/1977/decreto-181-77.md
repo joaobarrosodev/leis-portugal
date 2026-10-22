@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 302/1977, 2º Suplemento, Série I de 1977-12-31
   number: '302'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3178-(5) a 3178-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30202/00050006.pdf
 entry_into_force_dates: []
@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/181-1977-404373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:46:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e328e1d5d871ca289caf773f8bc8d8b3bac4c08852ef99bb2888678ec5f3bc0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebb70b32433e8048aa0f86d5b60ba62cdff103acdf8d07997030e82c68a2f886
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:46:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Definição de Competências
+- Governador Militar
+- Lisboa
+- Quartel
+- Servidão Militar
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:46:34Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +113,13 @@ Considerando o disposto nos artigos 1.º, 6.º, 8.º, 9.º e 10.º da [Lei n.º 
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com as instalações do quartel da Pontinha, em Lisboa, englobando as duas zonas seguintes:
+Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com as instalações do quartel da Pontinha, em Lisboa, englobando as duas zonas seguintes:
 
 a) Uma primeira zona, com a largura de 30 m, confinante com o limite exterior da vedação do quartel e com a sua zona de expansão, a qual compreende duas parcelas de terreno, uma situada a norte e outra a sudeste do aquartelamento com exclusão dos limites a N. E., onde aquela zona é de 50 m;
 
 b) Uma segunda zona, com a largura de 100 m, a contar do limite exterior da primeira zona do lado N. E. e S. E., conforme planta.
 
-###### Art. 2.º Na área descrita na alínea a) do artigo anterior é proibida, sem licença devidamente condicionada da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
+Art. 2.º Na área descrita na alínea a) do artigo anterior é proibida, sem licença devidamente condicionada da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -114,17 +133,17 @@ e) Instalação de linhas de energia eléctrica ou de ligações telefónicas, q
 
 f) Outros trabalhos ou actividades que possam, inequivocamente, prejudicar a segurança das missões que competem às forças armadas.
 
-###### Art. 3.º Na área descrita na alínea b) do artigo 1.º é proibida, sem licença devidamente condicionada da autoridade militar competente, apenas a execução dos trabalhos e actividades constantes das alíneas a), b), c) e f) do artigo anterior, só podendo vir a ser autorizadas construções até ao limite de três pisos, incluindo o rés-do-chão.
+Art. 3.º Na área descrita na alínea b) do artigo 1.º é proibida, sem licença devidamente condicionada da autoridade militar competente, apenas a execução dos trabalhos e actividades constantes das alíneas a), b), c) e f) do artigo anterior, só podendo vir a ser autorizadas construções até ao limite de três pisos, incluindo o rés-do-chão.
 
-###### Art. 4.º Ao governador militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência nos artigos 2.º e 3.º
+Art. 4.º Ao governador militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência nos artigos 2.º e 3.º
 
-###### Art. 5. A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando da unidade, ao Governo Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
+Art. 5. A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando da unidade, ao Governo Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
 
-###### Art. 6.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras Militares na Região Militar de Lisboa.
+Art. 6.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras Militares na Região Militar de Lisboa.
 
-###### Art. 7.º Das decisões tomadas nos termos do artigo 4.º cabe recurso para o titular do Departamento do Exército; das decisões respeitantes a demolições previstas no artigo anterior cabe recurso para o governador militar de Lisboa, e da decisão deste para o titular do Departamento do Exército.
+Art. 7.º Das decisões tomadas nos termos do artigo 4.º cabe recurso para o titular do Departamento do Exército; das decisões respeitantes a demolições previstas no artigo anterior cabe recurso para o governador militar de Lisboa, e da decisão deste para o titular do Departamento do Exército.
 
-###### Art. 8.º A área descrita no artigo 1.º vai demarcada em planta, na escala de 1:1000, organizando-se colecções com a classificação de «Reservado» que terão os seguintes destinos:
+Art. 8.º A área descrita no artigo 1.º vai demarcada em planta, na escala de 1:1000, organizando-se colecções com a classificação de «Reservado» que terão os seguintes destinos:
 
 Uma ao Estado-Maior-General das Forças Armadas (4.ª Divisão);
 
@@ -138,12 +157,12 @@ Duas ao Ministério da Administração Interna;
 
 Uma ao Ministério da Habitação, Urbanismo e Construção.
 
-###### Art. 9.º Este decreto revoga os artigos 8.º, 9.º, 10.º e 11.º do [Decreto-Lei n.º 46002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46002-1964-536066), de 2 de Novembro de 1964.
+Art. 9.º Este decreto revoga os artigos 8.º, 9.º, 10.º e 11.º do [Decreto-Lei n.º 46002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46002-1964-536066), de 2 de Novembro de 1964.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Firmino Miguel - Manuel da Costa Brás - Eduardo Ribeiro Pereira.
 
-**Promulgado em 21 de Dezembro de 1977.**
+Promulgado em 21 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

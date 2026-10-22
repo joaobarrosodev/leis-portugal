@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 155/1976, 1º Suplemento, Série I de 1976-07-05
   number: '155'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1476-(8) a 1476-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15501/00080010.pdf
 entry_into_force_dates: []
@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/524-e-1976-353923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f070fdf2b3e255eac475b4ea922f9e8faac4277547c9e132d0003aadf85c66d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c2c4efacb3fa142dbe454e287a2509a19491969ba4f4bacf5234ae001f96c3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Cartografia
+- Convenção
+- Cooperação Bilateral
+- Cooperação Científica
+- Desenvolvimento
+- Lisboa
+- Mar
+- Política de Cooperação
+- Portugal
+- Segurança da Navegação
+- Segurança Marítima
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:48Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +99,15 @@ de 5 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação nos Domínios do Desenvolvimento Marítimo, Cartografia e Segurança da Navegação entre a República de Portugal e a República de Cabo Verde, assinado em 16 de Fevereiro de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação nos Domínios do Desenvolvimento Marítimo, Cartografia e Segurança da Navegação entre a República de Portugal e a República de Cabo Verde, assinado em 16 de Fevereiro de 1976, cujo texto vai anexo ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Ernesto Augusto de Melo Antunes - José Augusto Fernandes.
 
-**Assinado em 1 de Julho de 1976.**
+Assinado em 1 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO DE COOPERAÇÃO NOS DOMÍNIOS DO DESENVOLVIMENTO MARÍTIMO, CARTOGRAFIA E SEGURANÇA DA NAVEGAÇÃO ENTRE A REPÚBLICA DE PORTUGAL E A REPÚBLICA DE CABO VERDE.
 
@@ -107,7 +119,7 @@ Atendidos o Acordo Geral de Cooperação e Amizade e o Acordo de Cooperação Ci
 
 O Governo da República de Portugal e o Governo da República de Cabo Verde decidem celebrar o seguinte Acordo:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 As Partes Contratantes acordam na promoção de um intercâmbio de conhecimentos, experiências e técnicas nos domínios considerados, com os seguintes objectivos principais.
 
@@ -119,7 +131,7 @@ c) Formação técnica de pessoal em regime de estágio ou em regime escolar nor
 
 d) Cooperação na estruturação dos serviços da República de Cabo Verde relacionados com os domínios mencionados, visando a sua autonomia em informação técnica, meios adequados e pessoal qualificado.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1. No âmbito do disposto no artigo 1.º do presente Acordo, o Estado Português, através de uma Missão Permanente de Cooperação Técnica Naval, cooperará com o Estado de Cabo Verde nos seguintes sectores:
 
@@ -141,7 +153,7 @@ g) Formação de pessoal.
 
 3. Quando solicitado pelo Governo da República de Cabo Verde e depois de obtida a concordância do Governo Português, a Missão Permanente de Cooperação Técnica Naval poderá alargar o seu apoio a outros sectores não mencionados no n.º 1 do presente artigo, desde que disponha de meios apropriados e de pessoal qualificado para o efeito
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 O Governo da República de Cabo Verde dará à Missão Permanente de Cooperação Técnica Naval as facilidades ao seu alcance para a execução dos trabalhos acordados, em especial as seguintes:
 
@@ -153,13 +165,13 @@ c) A atribuição à Missão Permanente de Cooperação Técnica Naval de instal
 
 d) A colaboração das entidades oficiais e serviços públicos locais.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1. A duração inicial da Missão Permanente de Cooperação Técnica Naval é de dois anos a partir da data da assinatura do presente Acordo, tacitamente renovável por períodos de um ano.
 
 2. A cessação de actividades será objecto de comum acordo dos dois Governos.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. Os programas de actividades da Missão Permanente de Cooperação Técnica Naval serão estabelecidos em função das necessidades e tanto quanto possível segundo os sectores previstos no artigo 2.º do presente Acordo.
 
@@ -169,19 +181,19 @@ d) A colaboração das entidades oficiais e serviços públicos locais.
 
 4. Na elaboração dos programas atender-se-á à necessidade de assegurar o mínimo de condições de planeamento e de continuidade de trabalho, tendo em vista o maior rendimento possível dos meios envolvidos nas actividades da Missão Permanente de Cooperação Técnica Naval.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 A cooperação prestada pelo Estado Português através da Missão Permanente de Cooperação Técnica Naval deverá promover a progressiva colaboração entre os organismos de natureza afim dos dois Estados, através da consulta directa e em conformidade com as normas internacionalmente aceites.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 O Estado Português, quando solicitado para o efeito e enquanto o Estado de Cabo Verde não fizer parte da Organização Hidrográfica Internacional e da Associação Internacional de Sinalização Marítima, prestará àquele Estado a assessoria técnica naquelas organizações internacionais.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Aos meios navais atribuídos à Missão Permanente de Cooperação Técnica Naval é assegurado, no território de Cabo Verde, o privilégio de extraterritorialidade e demais prerrogativas inerentes ao pessoal afecto, conforme estabelecido no Direito Internacional Marítimo no que se refere a navios militares.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1. O Estado Português, concretizando o espírito de cooperação e amizade que preside à celebração do presente Acordo, criará, estruturará e regulamentará a Missão Permanente de Cooperação Técnica Naval, em conformidade com os programas de actividade acordados.
 
@@ -191,17 +203,17 @@ Aos meios navais atribuídos à Missão Permanente de Cooperação Técnica Nava
 
 4. O Estado Português suportará os encargos decorrentes da criação da Missão Permanente de Cooperação Técnica Naval e da sua existência e instalação em território português.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1. A repartição, pelos dois Estados, dos encargos decorrentes da execução dos programas previstos no presente Acordo será estabelecida em função desses programas.
 
 2. A repartição dos encargos será acordada pelos dois Estados simultaneamente com a aprovação dos programas de actividade correspondentes.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 A Missão Permanente de Cooperação Técnica Naval auferirá das condições mais favoráveis que venham a ser acordadas entre o Estado Português e o Estado de Cabo Verde noutros domínios da cooperação.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1. O presente Acordo entrará em vigor na data da assinatura e terá uma duração de três anos, renováveis por períodos iguais e sucessivos.
 

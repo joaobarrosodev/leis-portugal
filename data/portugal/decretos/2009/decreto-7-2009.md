@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/7/2009/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-2009-604639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e78ef5927063de4e7924e340417d1133600294c83e34c1ecbf51e6e5b1d212e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4d6463a24dd4fcc7932648116d72a30839c59db141a465c2f429f1f4648e2a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Convenção
 - Cooperação Bilateral
-- Língua Portuguesa
-- Moçambique
-- Portugal
 - Definição de Competências
-- Escola Portuguesa de Moçambique-Centro de Ensino e Língua Portuguesa
+- Ensino Básico
 - Ensino Secundário
+- Escola Portuguesa de Moçambique-Centro de Ensino e Língua Portuguesa
+- Financiamento
+- Língua Portuguesa
 - Maputo
+- Moçambique
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal Docente
-- Ensino Básico
+- Portugal
 relationships: []
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:24Z'
   warnings: []
   errors: []
 ---
@@ -109,15 +109,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira - Maria de Lurdes Reis Rodrigues.
 
-**Assinado em 16 de Fevereiro de 2009.**
+Assinado em 16 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Fevereiro de 2009.**
+Referendado em 17 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE MOÇAMBIQUE RELATIVO À ESCOLA PORTUGUESA DE MOÇAMBIQUE - CENTRO DE ENSINO E LÍNGUA PORTUGUESA.
 

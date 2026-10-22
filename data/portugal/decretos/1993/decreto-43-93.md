@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/43/1993/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43-1993-674027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5b53376d255960152a0e15730ceafed1d094960dec3d69c5a18086096d3be0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 572647b140e07f774f4556cd4dbf465dc4e25b149085741065aa650c1dfcd91b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Biologia
-- Investigação Científica e Tecnológica
 - Conferência Europeia de Biologia Molecular
 - Convenção
-- Portugal
-- Organização Europeia de Biologia Molecular
 - Genebra
+- Investigação Científica e Tecnológica
+- Organização Europeia de Biologia Molecular
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:47Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 24 de Novembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Acordo Relativo à Criação da Conferência Europeia de Biologia Molecular, concluído em Genebra, a 13 de Fevereiro de 1969, cuja versão autêntica em língua francesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para adesão, o Acordo Relativo à Criação da Conferência Europeia de Biologia Molecular, concluído em Genebra, a 13 de Fevereiro de 1969, cuja versão autêntica em língua francesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Domingos Manuel Martins Jerónimo.
 
 Ratificado em 3 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1993.**
+Referendado em 4 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACCORD INSTITUANT LA CONFÉRENCE EUROPÉENNE DE BIOLOGIE MOLÉCULAIRE
 
@@ -377,15 +377,11 @@ Tomando nota da aceitação pela Organização Europeia de Biologia Molecular, a
 
 acordaram o seguinte:
 
-Artigo I
-
-Criação da Conferência
+###### Artigo I — Criação da Conferência
 
 É criada uma Conferência Europeia de Biologia Molecular, adiante designada «a Conferência».
 
-Artigo II
-
-Fins
+###### Artigo II — Fins
 
 1 - A Conferência assegura a cooperação entre Estados europeus na investigação em biologia molecular de carácter fundamental, assim como noutros domínios de investigação que lhe estejam estreitamente ligados.
 
@@ -403,9 +399,7 @@ O programa geral ou as condições da sua implementação poderão ser modificad
 
 3 - Os projectos estudados pela Conferência e que só certos membros estejam dispostos a realizar são qualificados de projectos especiais. Qualquer projecto especial deve ser aprovado pela Conferência por maioria de dois terços dos membros presentes e votantes. A execução de um projecto especial é objecto de um acordo entre os membros que nele participam. Todo o membro tem a faculdade de participar ulteriormente num programa já aprovado.
 
-Artigo III
-
-A Conferência
+###### Artigo III — A Conferência
 
 1 - Os membros da Conferência são os Estados partes no presente Acordo.
 
@@ -413,9 +407,7 @@ A Conferência
 
 3 - A Conferência pode, por uma decisão tomada por unanimidade dos membros presentes e votantes, estabelecer uma cooperação com Estados não membros, com organizações nacionais ou com organizações internacionais governamentais ou não governamentais. As condições e as modalidades de uma tal cooperação são definidas pela Conferência, por unanimidade dos membros presentes e votantes, em cada caso segundo as circunstâncias.
 
-Artigo IV
-
-Funcionamento e competências da Conferência
+###### Artigo IV — Funcionamento e competências da Conferência
 
 1 - A Conferência reúne-se uma vez por ano em sessão ordinária. Ela pode também reunir-se em sessão extraordinária a pedido de dois terços de todos os membros.
 
@@ -457,9 +449,7 @@ b) Salvo disposições contrárias do presente Acordo, as decisões da Conferên
 
 c) A presença de delegados da maioria de todos os membros é condição necessária para que a Conferência delibere e vote validamente.
 
-Artigo V
-
-O secretário-geral
+###### Artigo V — O secretário-geral
 
 1 - A Conferência designa, por maioria de dois terços de todos os membros, um secretário-geral para um período determinado. O secretário-geral fica em funções até à designação do seu sucessor. Ele assiste o presidente da Conferência e assegura o tempo intermédio entre as sessões. Pode realizar todos os actos necessários à gestão dos assuntos correntes da Conferência.
 
@@ -475,9 +465,7 @@ d) As contas anuais conferidas e o relatório anual mencionados no artigo IV, n.
 
 3 - Para o cumprimento das suas tarefas, o secretário-geral recorrerá aos serviços da OEBM.
 
-Artigo VI
-
-Orçamento
+###### Artigo VI — Orçamento
 
 1 - O orçamento anual ordinário para o exercício financeiro seguinte (de 1 de Janeiro a 31 de Dezembro), indicando as despesas resultantes tanto da execução do programa geral como as despesas inerentes ao funcionamento da Conferência e as receitas previstas, deve ser apresentado pelo secretário-geral antes de 1 de Outubro de cada ano.
 
@@ -489,9 +477,7 @@ b) Toda a doação feita pelos membros, além das suas contribuições financeir
 
 c) Qualquer outro recurso e nomeadamente qualquer doação de organizações ou pessoas privadas, sob reserva da aprovação prévia da Conferência dada por maioria de dois terços dos membros presentes e votantes.
 
-Artigo VII
-
-Contribuições e verificação de contas
+###### Artigo VII — Contribuições e verificação de contas
 
 1 - Cada membro contribui para as despesas resultantes da execução do programa geral bem como para as despesas inerentes ao funcionamento da Conferência segundo uma tabela fixada de três em três anos pela Conferência por maioria de dois terços de todos os membros e baseada na média do produto nacional líquido a custo de factores de cada membro durante os três últimos anos para os quais se disponha de estatísticas.
 
@@ -503,15 +489,11 @@ Contribuições e verificação de contas
 
 5 - O secretário geral tem as contas detalhadas de todas as despesas e receitas. A Conferência designa os verificadores de contas para verificarem as suas contas e para examinarem, conforme o seu regulamento financeiro, as contas da OEBM. O secretário-geral e a OEBM põem à disposição dos verificadores de contas todas as informações susceptíveis de os ajudarem na execução da sua tarefa.
 
-Artigo VIII
-
-Regulamentação dos diferendos
+###### Artigo VIII — Regulamentação dos diferendos
 
 Todo o diferendo entre dois ou vários membros relativo à interpretação e à aplicação do presente Acordo, que não possa ser regulado pela intervenção da Conferência, será submetido, a pedido de uma das partes no diferendo, ao Tribunal Internacional de Justiça, a menos que os membros interessados acordem outro modo de resolução num prazo razoável.
 
-Artigo IX
-
-Alterações
+###### Artigo IX — Alterações
 
 1 - O presente Acordo pode ser alterado se pelo menos dois terços de todos os membros o solicitarem.
 
@@ -521,15 +503,11 @@ Alterações
 
 4 - As alterações entram em vigor 30 dias após a deposição da última aceitação escrita.
 
-Artigo X
-
-Liquidação
+###### Artigo X — Liquidação
 
 Sob reserva de qualquer acordo que poderá ser concluído entre os membros sobre a dissolução da Conferência, o secretário-geral será encarregado das questões de liquidação. Salvo decisão contrária da Conferência, o activo será repartido entre os membros proporcionalmente às contribuições pagas desde que eles são partes no presente Acordo. Se existir um passivo, este será tomado a cargo por estes mesmos membros proporcionalmente às contribuições fixadas para o exercício financeiro em curso.
 
-Artigo XI
-
-Cláusulas finais
+###### Artigo XI — Cláusulas finais
 
 1 - O presente Acordo estará aberto à assinatura dos Estados que o estabeleceram.
 
@@ -567,9 +545,7 @@ f) De toda a denúncia feita em virtude do artigo XI, n.º 5.
 
 8 - Após a entrada em vigor do presente Acordo, o Governo Suíço regista-lo-á junto do Secretário-Geral das Nações Unidas, conforme o artigo 102 da Carta das Nações Unidas.
 
-Artigo XII
-
-Disposições transitórias
+###### Artigo XII — Disposições transitórias
 
 1 - Para o período que se inicia na data da entrada em vigor do Acordo e que termina a 31 de Dezembro seguinte, a Conferência adoptará disposições orçamentais e as despesas serão cobertas pelas contribuições dos membros, fixadas conforme os dois números seguintes.
 
@@ -581,7 +557,7 @@ Em fé do que os plenipotenciários abaixo assinados, devidamente autorizados pa
 
 Feito em Genève, em 13 de Fevereiro de 1969, nas línguas francesa, inglesa e alemã, os três textos fazendo igualmente fé, num exemplar único que será depositado nos arquivos do Governo Suíço, o qual entregará cópias conformes certificadas aos Estados signatários e aderentes.
 
-## ANEXO AO ACORDO RELATIVO À CRIAÇÃO DA CONFERÊNCIA EUROPEIA DE BIOLOGIA MOLECULAR
+ANEXO AO ACORDO RELATIVO À CRIAÇÃO DA CONFERÊNCIA EUROPEIA DE BIOLOGIA MOLECULAR
 
 Tabela das contribuições estabelecida pelo CERN, para o ano de 1967, com base na média dos produtos nacionais dos anos de 1962 a 1964
 

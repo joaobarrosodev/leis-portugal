@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13300/0001400049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/20/2021/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-2021-166981184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c07070b9944394adebbd4b9911aa76e44ac2c213839a15f1756bd33789e90f84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62e037ea93a8bd36abe29576389cd883f05b1a427cbecf4d021f0829a9cd79a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abidjan
-- Costa do Marfim
 - Acordo
-- Portugal
+- Costa do Marfim
 - Investimento
+- Portugal
 relationships: []
 article_structure:
   article_count: 30
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:51Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 24 de junho de 2021. - Pedro Gramaxo de Carvalho Siza Vieira - Pedro Gramaxo de Carvalho Siza Vieira - Eurico Jorge Nogueira Leite Brilhante Dias.
 
-**Assinado em 2 de julho de 2021.**
+Assinado em 2 de julho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de julho de 2021.**
+Referendado em 7 de julho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA CÔTE D'IVOIRE SOBRE A PROMOÇÃO E A PROTEÇÃO RECÍPROCA DE INVESTIMENTOS
 
@@ -1449,3 +1449,5 @@ Eurico Brilhante Dias, Secretary of State for Internationalization.
 For the Republic of Côte d'Ivoire:
 
 Marcel Amon-Tanoh, Minister of Foreign Affairs.
+
+114388836

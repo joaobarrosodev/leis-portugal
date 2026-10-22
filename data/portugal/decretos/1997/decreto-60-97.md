@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/60/1997/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/60-1997-694243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 743822a987c73fdd44c396bec92e17b460961096044ded1c4cca882837973466
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1fe93bdf6efc3994d5935568913e2223e72c720e4958ced9a29bf310a8a84df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
+- Cabo Verde
 - Cidade da Praia
+- Contrato de Trabalho
 - Contrato de Trabalho a Termo
 - Convenção
-- Portugal
+- Imigração
 - Ministério para a Qualificação e o Emprego
-- Cabo Verde
-- Contrato de Trabalho
+- Portugal
 - Segurança Social
 - Trabalhador Migrante
 - Trabalho Temporário
@@ -81,13 +81,13 @@ relationships: []
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:25Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 18 de Setembro de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Alberto Bernardes Costa - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Assinado em 22 de Outubro de 1997.**
+Assinado em 22 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Outubro de 1997.**
+Referendado em 30 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOLO SOBRE EMIGRAÇÃO TEMPORÁRIA DE TRABALHADORES CABO-VERDIANOS PARA A PRESTAÇÃO DE TRABALHO EM PORTUGAL
 

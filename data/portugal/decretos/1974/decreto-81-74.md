@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/81-1974-412786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26ffb3258813d9404f7f6f973fe2dfe75a416ea44055ea59ca8556c1eb043513
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1629ded44dda3c8b07c473856319948677bb7617e663aa0f94034b1a9ad4c1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:39Z'
   warnings: []
   errors: []
 ---
@@ -88,25 +92,25 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 549758712$90, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 549758712$90, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 17.º «Despesas comuns»:
+Capítulo 17.º «Despesas comuns»:
 
 Forças Militares extraordinárias no ultramar
 
-###### Artigo 573.º «Remunerações em numerário» ... 190300000$00
+Artigo 573.º «Remunerações em numerário» ... 190300000$00
 
-###### Artigo 574.º «Remunerações em espécie» 169700000$00
+Artigo 574.º «Remunerações em espécie» 169700000$00
 
 ... 360000000$00
 
 Ministério do Interior
 
-### Capítulo 7.º «Guarda Nacional Republicana»:
+Capítulo 7.º «Guarda Nacional Republicana»:
 
-###### Artigo 132.º «Bens duradouros», n.º 1
+Artigo 132.º «Bens duradouros», n.º 1
 
 «Material de defesa e segurança» 43258712$90
 
@@ -114,11 +118,11 @@ Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 32.º «Fundo de Fomento Florestal»:
+Capítulo 32.º «Fundo de Fomento Florestal»:
 
 Programas de arborização em propriedades privadas
 
-###### Artigo 836.º-A «Activos financeiros»:
+Artigo 836.º-A «Activos financeiros»:
 
 N.º 1 «Empréstimos não titulados a longo prazo» ... (ver nota 34) 40000000$00
 
@@ -126,25 +130,25 @@ N.º 1 «Empréstimos não titulados a longo prazo» ... (ver nota 34) 40000000$
 
 Ministério das Comunicações
 
-### Capítulo 14.º «Administração-Geral do Porto de Lisboa»:
+Capítulo 14.º «Administração-Geral do Porto de Lisboa»:
 
 Melhoria das infra-estruturas portuárias
 
-###### Artigo 286.º «Investimentos», n.º 1 «Portos» ... 25000000$00
+Artigo 286.º «Investimentos», n.º 1 «Portos» ... 25000000$00
 
-### Capítulo 15.º «Administração dos Portos do Douro e Leixões»:
+Capítulo 15.º «Administração dos Portos do Douro e Leixões»:
 
 Melhoria das Infra-estruturas portuárias
 
 Despesas correntes:
 
-###### Artigo 286.º-A «Remunerações em numerário» ... 500000$00
+Artigo 286.º-A «Remunerações em numerário» ... 500000$00
 
-###### Artigo 286.º-B «Aquisição de serviços» ... 1500000$00
+Artigo 286.º-B «Aquisição de serviços» ... 1500000$00
 
 Despesas de capital:
 
-###### Artigo 287.º «Investimentos»:
+Artigo 287.º «Investimentos»:
 
 N.º 2 «Edifícios» ... 3500000$00
 
@@ -156,27 +160,27 @@ N.º 4 «Maquinaria e equipamento» ... 22000000$00
 
 ... 549758712$90
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 14.º, artigo 164.º «Reposições não abatidas nos pagamentos» ... 43258712$90
+Capítulo 14.º, artigo 164.º «Reposições não abatidas nos pagamentos» ... 43258712$90
 
 Receita extraordinária:
 
-### Capítulo 5.º, grupo 1, artigo 196.º «Serviços autónomos e empresas públicas» ... 2000000$00
+Capítulo 5.º, grupo 1, artigo 196.º «Serviços autónomos e empresas públicas» ... 2000000$00
 
-### Capítulo 10.º, grupo 1, artigo 199.º «Fundos autónomos» ... 40000000$00
+Capítulo 10.º, grupo 1, artigo 199.º «Fundos autónomos» ... 40000000$00
 
-### Capítulo 10.º, grupo 1, artigo 200.º «Serviços autónomos e empresas públicas» ... 104500000$00
+Capítulo 10.º, grupo 1, artigo 200.º «Serviços autónomos e empresas públicas» ... 104500000$00
 
-### Capítulo 12.º, grupo 7, artigo 203.º «Crédito interno» ... 360000000$00
+Capítulo 12.º, grupo 7, artigo 203.º «Crédito interno» ... 360000000$00
 
 ... 549758712$90
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério das Comunicações:
+Art. 3.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério das Comunicações:
 
 À observação (21) aposta ao total do capítulo 14.º deverá ser aditado o seguinte:
 
@@ -186,7 +190,7 @@ A observação (22) «Autofinanciamento total», aposta ao total do capítulo 15
 
 (23)Inclui 121300000$00 de autofinanciamento e 40000000$00 de empréstimos da Caixa Geral de Depósitos.
 
-###### Art. 4.º São autorizadas as seguintes alterações aos orçamentos privativos:
+Art. 4.º São autorizadas as seguintes alterações aos orçamentos privativos:
 
 Da Administração-Geral do Porto de Lisboa
 
@@ -194,13 +198,13 @@ Dotação a reforçar
 
 Despesa extraordinária:
 
-###### Artigo 35.º «Investimentos», n.º 1 «Portos» ... 25000000$00
+Artigo 35.º «Investimentos», n.º 1 «Portos» ... 25000000$00
 
 Contrapartida
 
 Receita extraordinária:
 
-###### Artigo 11.º «Execução do IV Plano de Fomento», n.º 3 «Caixa Geral de Depósitos» ... 25000000$00
+Artigo 11.º «Execução do IV Plano de Fomento», n.º 3 «Caixa Geral de Depósitos» ... 25000000$00
 
 Da Administração dos Portos do Douro e Leixões
 
@@ -210,13 +214,13 @@ Despesa extraordinária:
 
 Despesas correntes
 
-###### Artigo 36.º «Remunerações em numerário» ... 500000$00
+Artigo 36.º «Remunerações em numerário» ... 500000$00
 
-###### Artigo 37.º «Aquisição de serviços» ... 1500000$00
+Artigo 37.º «Aquisição de serviços» ... 1500000$00
 
 Despesas de capital
 
-###### Artigo 38.º «Investimentos»:
+Artigo 38.º «Investimentos»:
 
 N.º 2 «Edifícios» ... 3500000$00
 
@@ -230,16 +234,16 @@ Contrapartida
 
 Receita extraordinária:
 
-###### Artigo 11.º «Transferências-Sector público» ... 41500000$00
+Artigo 11.º «Transferências-Sector público» ... 41500000$00
 
-###### Artigo 12.º «Passivos financeiros - Empréstimos não titulados a longo prazo - Sector público» ... 40000000$00
+Artigo 12.º «Passivos financeiros - Empréstimos não titulados a longo prazo - Sector público» ... 40000000$00
 
 ... 81500000$00
 
 Marcello Caetano - João Mota Pereira de Campos - César Henrique Moreira Baptista - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 16 de Fevereiro de 1974.**
+Promulgado em 16 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

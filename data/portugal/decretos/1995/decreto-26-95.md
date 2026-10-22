@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/26/1995/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/26-1995-488149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dda9280147f9d6adfb36c05107504f2cf575ccba7281274c5504fdd4bb1f0f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 060aa636291f3bdcf58d411d7ad5af3dcadc753ee811a242889e23c8699a2fd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
-- Convenção
-- Portugal
 - Apoio ao Investimento
+- Convenção
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
 - Moscovo
+- Portugal
+- Protecção do Investimento
 - Rússia
 relationships: []
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:45Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +96,19 @@ de 21 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo sobre a Promoção e Protecção Recíproca de Investimentos entre a República Portuguesa e a Federação da Rússia, assinado em Moscovo, a 22 de Julho de 1994, cuja versão autêntica nas línguas portuguesa e russa segue em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo sobre a Promoção e Protecção Recíproca de Investimentos entre a República Portuguesa e a Federação da Rússia, assinado em Moscovo, a 22 de Julho de 1994, cuja versão autêntica nas línguas portuguesa e russa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 1995. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Fernando Manuel Barbosa Faria de Oliveira.
 
 Ratificado em 21 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Junho de 1995.**
+Referendado em 24 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA FEDERAÇÃO DA RÚSSIA SOBRE A PROMOÇÃO E PROTECÇÃO RECÍPROCA DE INVESTIMENTOS.
 
@@ -266,4 +266,4 @@ Pelo Governo da Federação da Rússia:
 
 V. S. Tchernomyrdin, Presidente do Governo da Federação da Rússia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/167a00/46684672.pdf))](https://files.diariodarepublica.pt/1s/1995/07/167a00/46684672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/167a00/46684672.pdf)

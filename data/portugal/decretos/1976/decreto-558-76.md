@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/558-1976-430621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2cbf94b335f2928569a16cecfc40f6995c008ebc475da0c4b00224d1fd9df9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb8b4dccb98e135dc1d7a8df18ca765c1d38f9ee49b54c3035ae8dc58f64a463
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Liceal
+- Horário Escolar
+relationships:
+- type: cites
+  target: pt:dre:428032:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:12Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +100,14 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, e ao abrigo do artigo único, n.º 1, do [Decreto n.º 355/76](https://diariodarepublica.pt/dr/detalhe/decreto/355-1976-428032), de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. - 1. Durante o ano lectivo de 1976-1977, o horário semanal da disciplina de Português do curso complementar do ensino liceal será de três horas para os alunos que optarem por cursos de índole científica.
+Artigo único. - 1. Durante o ano lectivo de 1976-1977, o horário semanal da disciplina de Português do curso complementar do ensino liceal será de três horas para os alunos que optarem por cursos de índole científica.
 
 2. Para o efeito previsto no número anterior, o programa da referida disciplina será adaptado por forma a garantir-se a sua exequibilidade.
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 5 de Julho de 1976.**
+Promulgado em 5 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

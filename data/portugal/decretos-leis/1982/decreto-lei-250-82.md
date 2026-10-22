@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/14500/18521856.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1982-395350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6ca3c025f44260fd896688723827c55e01b9b77ca5eed2846ff3cd505c2825f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed54a18244f9b7fdb24eeb1d65ea018b5756608d92acb0d426dcd0b0c83da8f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Finangeste
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:67348941:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:447876:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67348941:por
+  label: Revogado pelo(a) Decreto-Lei n.º 89/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29 nos termos do
+    art. 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2015-67348941
+  date: '2015-05-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:54Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +119,7 @@ A adopção desta forma jurídica reflecte, por outro lado, a perspectiva de lig
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada, com efeitos a partir da data de entrada em vigor do presente diploma, uma sociedade anónima de responsabilidade limitada com a designação de FINANGESTE - Empresa Financeira de Gestão e Desenvolvimento, S. A. R. L., abreviadamente FINANGESTE, dispondo de um capital inicial de 100000 contos, a subscrever pelo Banco de Portugal, as instituições de crédito mencionadas nas Resoluções do Conselho de Ministros n.os 51-G/77 e 51-H/77, ambas de 28 de Fevereiro, e ainda outras instituições de crédito do sector público que, até à data da convocatória da assembleia geral referida no artigo 8.º do presente decreto-lei, venham a transmitir para a FINANGESTE créditos ou outros valores com origem e natureza idênticos aos referidos naquelas resoluções.
+Artigo 1.º - 1 - É criada, com efeitos a partir da data de entrada em vigor do presente diploma, uma sociedade anónima de responsabilidade limitada com a designação de FINANGESTE - Empresa Financeira de Gestão e Desenvolvimento, S. A. R. L., abreviadamente FINANGESTE, dispondo de um capital inicial de 100000 contos, a subscrever pelo Banco de Portugal, as instituições de crédito mencionadas nas Resoluções do Conselho de Ministros n.os 51-G/77 e 51-H/77, ambas de 28 de Fevereiro, e ainda outras instituições de crédito do sector público que, até à data da convocatória da assembleia geral referida no artigo 8.º do presente decreto-lei, venham a transmitir para a FINANGESTE créditos ou outros valores com origem e natureza idênticos aos referidos naquelas resoluções.
 
 2 - É extinta, na mesma data, a FINANGESTE - Empresa Financeira de Gestão e Desenvolvimento, E. P., criada pelo [Decreto n.º 10/78](https://diariodarepublica.pt/dr/detalhe/decreto/10-1978-447876), de 19 de Janeiro.
 
@@ -116,19 +129,19 @@ Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 2
 
 5 - As alterações aos estatutos da sociedade serão aprovadas por portaria do Ministro de Estado e das Finanças e do Plano, mediante prévia deliberação da assembleia geral
 
-###### Art. 2.º A sociedade tem por objecto o exercício de actividades de natureza parabancária respeitantes à aquisição e cobrança de créditos e, acessoriamente, a gestão, com vista à sua alienação, de participações financeiras e de patrimónios cuja titularidade lhe advenha por virtude daquele seu objecto principal.
+Art. 2.º A sociedade tem por objecto o exercício de actividades de natureza parabancária respeitantes à aquisição e cobrança de créditos e, acessoriamente, a gestão, com vista à sua alienação, de participações financeiras e de patrimónios cuja titularidade lhe advenha por virtude daquele seu objecto principal.
 
-###### Art. 3.º - 1 - O património próprio da sociedade é constituído pelo conjunto de bens, direitos e obrigações adquiridos para ou no exercício da sua actividade.
+Art. 3.º - 1 - O património próprio da sociedade é constituído pelo conjunto de bens, direitos e obrigações adquiridos para ou no exercício da sua actividade.
 
 2 - Considera-se transmitido para a FINANGESTE - Empresa Financeira de Gestão e Desenvolvimento, S. A. R. L., o património da FINANGESTE - Empresa Financeira de Gestão e Desenvolvimento, E. P., compreendendo a universalidade dos bens, direitos e obrigações de que esta é titular, com dispensa de quaisquer outras formalidades legais, constituindo o presente diploma título bastante para todos os efeitos, incluindo os de registo.
 
-###### Art. 4.º A assembleia geral da sociedade deverá reunir-se dentro do prazo de 60 dias após a constituição da mesma, a fim de proceder à eleição do respectivo conselho de administração e demais órgãos sociais, nos termos estatutários.
+Art. 4.º A assembleia geral da sociedade deverá reunir-se dentro do prazo de 60 dias após a constituição da mesma, a fim de proceder à eleição do respectivo conselho de administração e demais órgãos sociais, nos termos estatutários.
 
-###### Art. 5.º Enquanto não estiverem designados, pela forma prevista nos estatutos, os titulares dos órgãos sociais da FINANGESTE - Empresa Financeira de Gestão e Desenvolvimento, S. A. R. L., mantém-se em funções a comissão instaladora referida no artigo 8.º do [Decreto n.º 10/78](https://diariodarepublica.pt/dr/detalhe/decreto/10-1978-447876), de 19 de Janeiro, com a competência definida no n.º 2 deste preceito.
+Art. 5.º Enquanto não estiverem designados, pela forma prevista nos estatutos, os titulares dos órgãos sociais da FINANGESTE - Empresa Financeira de Gestão e Desenvolvimento, S. A. R. L., mantém-se em funções a comissão instaladora referida no artigo 8.º do [Decreto n.º 10/78](https://diariodarepublica.pt/dr/detalhe/decreto/10-1978-447876), de 19 de Janeiro, com a competência definida no n.º 2 deste preceito.
 
-###### Art. 6.º A sociedade reger-se-á pelas normas do presente diploma e dos respectivos estatutos, aplicando-se-lhe, em tudo o mais, o regime jurídico das instituições parabancárias e, subsidiariamente, as disposições que regulam a actividade das instituições de crédito e as normas de direito comum respeitantes às sociedades comerciais.
+Art. 6.º A sociedade reger-se-á pelas normas do presente diploma e dos respectivos estatutos, aplicando-se-lhe, em tudo o mais, o regime jurídico das instituições parabancárias e, subsidiariamente, as disposições que regulam a actividade das instituições de crédito e as normas de direito comum respeitantes às sociedades comerciais.
 
-###### Art. 7.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano.
+Art. 7.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano.
 
 ESTATUTOS DA FINANGESTE
 
@@ -136,33 +149,33 @@ ESTATUTOS DA FINANGESTE
 
 #### SECÇÃO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A FINANGESTE - Empresa Financeira de Gestão e Desenvolvimento, S. A. R. L., é uma instituição parabancária, constituída sob a forma de sociedade anónima de responsabilidade limitada.
+Artigo 1.º A FINANGESTE - Empresa Financeira de Gestão e Desenvolvimento, S. A. R. L., é uma instituição parabancária, constituída sob a forma de sociedade anónima de responsabilidade limitada.
 
-###### Art. 2.º A sociedade tem sede em Lisboa, podendo descentralizar os seus serviços técnicos e administrativos, consoante as necessidades.
+Art. 2.º A sociedade tem sede em Lisboa, podendo descentralizar os seus serviços técnicos e administrativos, consoante as necessidades.
 
-###### Art. 3.º A sociedade durará por prazo não superior a 7 anos a contar da publicação dos presentes Estatutos no Diário da República.
+Art. 3.º A sociedade durará por prazo não superior a 7 anos a contar da publicação dos presentes Estatutos no Diário da República.
 
-###### Art. 4.º A sociedade tem por objecto o exercício de actividades de natureza parabancária, respeitantes à aquisição e cobrança de créditos, e, acessoriamente, a gestão, com vista à sua alienação, de participações financeiras e de patrimónios cuja titularidade lhe advenha por virtude daquele seu objecto principal.
+Art. 4.º A sociedade tem por objecto o exercício de actividades de natureza parabancária, respeitantes à aquisição e cobrança de créditos, e, acessoriamente, a gestão, com vista à sua alienação, de participações financeiras e de patrimónios cuja titularidade lhe advenha por virtude daquele seu objecto principal.
 
-###### Art. 5.º - 1 - O capital social é de 100000 contos e encontra-se representado por acções de 1000$00 cada uma e é subscrito pelo Banco de Portugal e por outras instituições de crédito do sector público credoras da FINANGESTE, por virtude da integração nesta de valores activos e passivos do extinto Banco Intercontinental Português ou de cessão de créditos, na proporção do valor em capital das respectivas posições credoras, consoante mapa de distribuição aprovado por despacho do Ministro de Estado e das Finanças e do Plano.
+Art. 5.º - 1 - O capital social é de 100000 contos e encontra-se representado por acções de 1000$00 cada uma e é subscrito pelo Banco de Portugal e por outras instituições de crédito do sector público credoras da FINANGESTE, por virtude da integração nesta de valores activos e passivos do extinto Banco Intercontinental Português ou de cessão de créditos, na proporção do valor em capital das respectivas posições credoras, consoante mapa de distribuição aprovado por despacho do Ministro de Estado e das Finanças e do Plano.
 
 2 - Daquele montante, metade será imediatamente realizado em dinheiro, devendo o remanescente ser realizado, também em dinheiro, no prazo de 1 ano a contar desta data.
 
-###### Art. 6.º - 1 - Todas as acções serão nominativas.
+Art. 6.º - 1 - Todas as acções serão nominativas.
 
 2 - A transmissão das acções só poderá efectuar-se a favor de instituições de crédito do sector público.
 
-###### Art. 7.º - 1 - O aumento, a diminuição e a reintegração do capital social dependem de deliberação da assembleia geral, tomada por accionistas que representem um mínimo de 75% dos votos conferidos por todas as acções emitidas.
+Art. 7.º - 1 - O aumento, a diminuição e a reintegração do capital social dependem de deliberação da assembleia geral, tomada por accionistas que representem um mínimo de 75% dos votos conferidos por todas as acções emitidas.
 
 2 - A realização dos aumentos de capital que forem deliberados poderá ser efectuada escalonadamente, em termos a definir pela assembleia geral, a qual poderá expressamente delegar no conselho de administração o poder de fixar o plano de realização de cada aumento de capital aprovado, em função das necessidades económico-financeiras da sociedade.
 
-###### Art. 8.º A sociedade poderá emitir obrigações nos termos gerais do direito.
+Art. 8.º A sociedade poderá emitir obrigações nos termos gerais do direito.
 
 ### CAPÍTULO II — Dos órgãos sociais
 
 #### SECÇÃO I — Da assembleia geral
 
-###### Art. 9.º - 1 - A assembleia geral é constituída pelos accionistas titulares de um mínimo de 100 acções.
+Art. 9.º - 1 - A assembleia geral é constituída pelos accionistas titulares de um mínimo de 100 acções.
 
 2 - Poderão participar nos trabalhos da assembleia geral, sem direito a voto, os membros do conselho de administração e do conselho fiscal.
 
@@ -172,7 +185,7 @@ ESTATUTOS DA FINANGESTE
 
 5 - Os accionistas deverão, em qualquer caso, indicar ao presidente da mesa quem os representará, até 5 dias antes da data marcada para a reunião.
 
-###### Art. 10.º A assembleia geral é o órgão superior de orientação da actividade social, competindo-lhe, designadamente:
+Art. 10.º A assembleia geral é o órgão superior de orientação da actividade social, competindo-lhe, designadamente:
 
 a) Definir políticas gerais relativas à actividade da sociedade;
 
@@ -194,21 +207,21 @@ i) Fixar as remunerações dos titulares dos órgãos sociais;
 
 j) Pronunciar-se sobre qualquer outra questão que lhe seja submetida pelos restantes órgãos sociais, nos termos legais ou estatutários.
 
-###### Art. 11.º A mesa da assembleia geral, eleita pelos accionistas por um mínimo de 3 anos, renovável, será composta por 1 presidente e 2 secretários, cujas faltas e impedimentos serão supridos nos termos da lei comercial.
+Art. 11.º A mesa da assembleia geral, eleita pelos accionistas por um mínimo de 3 anos, renovável, será composta por 1 presidente e 2 secretários, cujas faltas e impedimentos serão supridos nos termos da lei comercial.
 
-###### Art. 12.º A assembleia geral reunirá ordinariamente 1 vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário, ou quando seja requerido por accionistas que representem um mínimo de 25% do capital social.
+Art. 12.º A assembleia geral reunirá ordinariamente 1 vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário, ou quando seja requerido por accionistas que representem um mínimo de 25% do capital social.
 
-###### Art. 13.º A cada 100 acções corresponderá 1 voto na assembleia geral.
+Art. 13.º A cada 100 acções corresponderá 1 voto na assembleia geral.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 14.º - 1 - O conselho de administração é composto por 1 presidente e 2 vogais, eleitos em assembleia geral.
+Art. 14.º - 1 - O conselho de administração é composto por 1 presidente e 2 vogais, eleitos em assembleia geral.
 
 2 - O mandato dos membros do conselho de administração é de 3 anos, renovável.
 
 3 - O exercício do mandato não depende da prestação de caução.
 
-###### Art. 15.º - 1 - Ao conselho de administração são conferidos todos os poderes necessários para gerir os negócios sociais e assegurar o bom funcionamento e o correcto exercício das atribuições da FINANGESTE que não estejam, por força da lei ou dos presentes Estatutos, cometidas a outros órgãos.
+Art. 15.º - 1 - Ao conselho de administração são conferidos todos os poderes necessários para gerir os negócios sociais e assegurar o bom funcionamento e o correcto exercício das atribuições da FINANGESTE que não estejam, por força da lei ou dos presentes Estatutos, cometidas a outros órgãos.
 
 2 - Compete, em especial, ao conselho de administração:
 
@@ -234,7 +247,7 @@ j) Praticar os demais actos que lhe caibam nos termos da lei, dos presentes Esta
 
 3 - A competência do conselho da administração será exercida sem prejuízo do disposto no artigo 26.º
 
-###### Art. 16.º - 1 - Compete, especialmente ao presidente do conselho de administração ou a quem o substituir:
+Art. 16.º - 1 - Compete, especialmente ao presidente do conselho de administração ou a quem o substituir:
 
 a) Coordenar e dinamizar a actividade do conselho de administração e convocar e dirigir as respectivas reuniões, bem como as reuniões conjuntas deste conselho com o conselho fiscal sempre que as julgue convenientes;
 
@@ -246,17 +259,17 @@ d) Praticar tudo o mais que, nos termos legais, especialmente lhe incumbir.
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo membro mais antigo do conselho de administração ou, em igualdade de circunstâncias, pelo mais velho.
 
-###### Art. 17.º O conselho de administração reúne ordinariamente, pelo menos, uma vez por semana e, extraordinariamente, sempre que for convocado pelo presidente ou por quem o substituir.
+Art. 17.º O conselho de administração reúne ordinariamente, pelo menos, uma vez por semana e, extraordinariamente, sempre que for convocado pelo presidente ou por quem o substituir.
 
-###### Art. 18.º - 1 - Para o conselho de administração deliberar validamente é indispensável a presença da maioria dos seus membros.
+Art. 18.º - 1 - Para o conselho de administração deliberar validamente é indispensável a presença da maioria dos seus membros.
 
 2 - As deliberações do conselho são tomadas pela maioria dos votos expressos, tendo o presidente, ou quem o substituir, voto de qualidade.
 
 3 - De todas as reuniões serão lavradas actas, as quais deverão ser assinadas pelos membros do conselho de administração que nelas hajam participado.
 
-###### Art. 19.º O conselho de administração pode, por acta, delegar poderes em um ou mais dos seus membros, ou em trabalhadores da sociedade, estabelecendo, em cada caso, os respectivos limites e condições.
+Art. 19.º O conselho de administração pode, por acta, delegar poderes em um ou mais dos seus membros, ou em trabalhadores da sociedade, estabelecendo, em cada caso, os respectivos limites e condições.
 
-###### Art. 20.º A sociedade obriga-se:
+Art. 20.º A sociedade obriga-se:
 
 a) Pela assinatura conjunta de 2 membros do conselho de administração;
 
@@ -266,13 +279,13 @@ c) Pela assinatura de procuradores legalmente constituídos no âmbito dos poder
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 21.º - 1 - O conselho fiscal é constituído por 1 presidente e 2 vogais eleitos em assembleia geral.
+Art. 21.º - 1 - O conselho fiscal é constituído por 1 presidente e 2 vogais eleitos em assembleia geral.
 
 2 - O mandato dos membros do conselho fiscal é de 3 anos, renovável.
 
 3 - A assembleia geral pode confiar a uma sociedade revisora de contas o exercício das funções do conselho fiscal.
 
-###### Art. 22.º - 1 - Compete ao conselho fiscal:
+Art. 22.º - 1 - Compete ao conselho fiscal:
 
 a) Velar pelo cumprimento das leis, regulamentos e demais normas reguladoras da actividade da sociedade;
 
@@ -308,15 +321,15 @@ b) Critérios de cobertura das diferenças entre custos e proveitos que eventual
 
 5 - O conselho fiscal deverá informar, pelo menos trimestralmente, o Ministro de Estado e das Finanças e do Plano acerca do funcionamento da sociedade e grau de consecução dos objectivos por esta prosseguidos.
 
-###### Art. 23.º - 1 - O conselho fiscal reúne, ordinariamente, pelo menos uma vez por mês e, extraordinariamente, sempre que for convocado pelo presidente ou por quem o substitua.
+Art. 23.º - 1 - O conselho fiscal reúne, ordinariamente, pelo menos uma vez por mês e, extraordinariamente, sempre que for convocado pelo presidente ou por quem o substitua.
 
 2 - À substituição do presidente aplica-se o critério constante do n.º 2 do artigo 17.º
 
-###### Art. 24.º As deliberações do conselho fiscal ficam sujeitas às regras enunciadas no artigo 19.º
+Art. 24.º As deliberações do conselho fiscal ficam sujeitas às regras enunciadas no artigo 19.º
 
 ### CAPÍTULO III — Intervenção do Governo
 
-###### Art. 25.º Compete ao Ministro de Estado e das Finanças e do Plano:
+Art. 25.º Compete ao Ministro de Estado e das Finanças e do Plano:
 
 a) Aprovar as alterações estatutárias, deliberadas em assembleia geral;
 
@@ -324,17 +337,17 @@ b) Autorizar a emissão de obrigações;
 
 c) Emitir directivas e orientações genéricas sobre a actividade da FINANGESTE.
 
-###### Art. 26.º Na elaboração de planos de actividade e financeiros da sociedade, o conselho de administração terá em conta as opções e prioridades fixadas nos planos económicos nacionais, regionais e sectoriais.
+Art. 26.º Na elaboração de planos de actividade e financeiros da sociedade, o conselho de administração terá em conta as opções e prioridades fixadas nos planos económicos nacionais, regionais e sectoriais.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 27.º - 1 - Os trabalhadores da sociedade são, para todos os efeitos, equiparados a trabalhadores bancários, ficando abrangidos pelo respectivo contrato colectivo de trabalho.
+Art. 27.º - 1 - Os trabalhadores da sociedade são, para todos os efeitos, equiparados a trabalhadores bancários, ficando abrangidos pelo respectivo contrato colectivo de trabalho.
 
 2 - O conselho de administração poderá solicitar ao Ministro de Estado e das Finanças e do Plano a requisição, nos termos legais, de funcionários do Estado e de trabalhadores dos institutos públicos e de empresas públicas.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 28.º - 1 - A sociedade dissolve-se decorrido o prazo referido no artigo 3.º ou nos demais casos e termos legais.
+Art. 28.º - 1 - A sociedade dissolve-se decorrido o prazo referido no artigo 3.º ou nos demais casos e termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.
 
@@ -342,8 +355,8 @@ c) Emitir directivas e orientações genéricas sobre a actividade da FINANGESTE
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 5 de Maio de 1982.**
+Promulgado em 5 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

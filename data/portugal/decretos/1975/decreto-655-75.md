@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/655-1975-310408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8943a692de1967ffdf4636250de7953a3f12bac0ec68dff450d05e51fa42de04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26c0657c429d3e319dd66a7932dc1f5cc285ce8a6b7483a43097a437874ce980
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Comércio
+- Convenção
+- Cooperação Internacional
+- Exportação
+- Importação
+- Jugoslávia
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:36Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +95,15 @@ de 20 de Novembro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Comercial entre a República Portuguesa e a República Socialista Federativa da Jugoslávia, assinado em 9 de Maio de 1975, cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado o Acordo Comercial entre a República Portuguesa e a República Socialista Federativa da Jugoslávia, assinado em 9 de Maio de 1975, cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 7 de Novembro de 1975.**
+Assinado em 7 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACCORD COMMERCIAL ENTRE LA REPÚBLIQUE PORTUGAISE ET LA RÉPÚBLIQUE SOCIALISTE FÉDÉRATIVE DE YOUGOSLAVIE
 
@@ -230,21 +239,21 @@ ACORDO COMERCIAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA SOCIALISTA FEDERAT
 
 O Governo da República Portuguesa, por um lado, e o Governo da República Socialista Federativa da Jugoslávia, por outro, animados do desejo de desenvolver e facilitar ao máximo as suas relações comerciais mútuas e a cooperação económica num espírito de igualdade e benefício mútuo, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Tendo em consideração o actual desenvolvimento das trocas entre Portugal e a República Socialista Federativa da Jugoslávia e tendo em conta as disposições do presente Acordo, as duas Partes Contratantes declaram o seu desejo de se esforçarem em assegurar, tendo em conta os interesses económicos dos dois países, um desenvolvimento harmonioso das suas relações comerciais mútuas, de forma a permitir a mais completa utilização das possibilidades decorrentes do progresso das suas respectivas economias.
 
-ARTIGO II
+###### ARTIGO II
 
 Com vista à promoção do desenvolvimento das trocas comerciais entre os dois países, as Partes Contratantes reafirmam a sua intenção de utilizar ao máximo todas as possibilidades de intensificação da cooperação económica mútua.
 
-ARTIGO III
+###### ARTIGO III
 
 As duas Partes Contratantes concedem-se mutuamente o tratamento de nação mais favorecida, conforme os direitos e obrigações dos dois países como Partes Contratantes do Acordo Geral sobre Tarifas Aduaneiras e Comércio (GATT), no que respeita aos direitos aduaneiros e às imposições de toda a natureza cobrados pela importação ou pela exportação ou por ocasião da importação ou da exportação, à forma de cobrança destes direitos e imposições, do mesmo modo que o conjunto de regulamentos e formalidades que cabem às importações ou às exportações.
 
 No que respeita a todos os direitos, regulamentos e formalidades relativos ao trânsito, cada Parte Contratante concederá no tráfego em trânsito proveniente ou com destino a território da outra Parte Contratante um tratamento não menos favorável que aquele que é concedido ao tráfego em trânsito proveniente ou com destino a qualquer terceiro país.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As disposições do artigo III não serão aplicadas:
 
@@ -254,25 +263,25 @@ b) Aos benefícios concedidos pelas Partes Contratantes com vista ao estabelecim
 
 c) Aos benefícios concedidos pelas Partes Contratantes a terceiros países, em conformidade com as disposições do Acordo Geral sobre Tarifas Aduaneiras e Comércio.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes autorizarão, em conformidade com as suas leis, regulamentos e disposições em vigor, a importação e a exportação, com isenção de direitos aduaneiros, taxas e outros encargos da mesma natureza, não revestindo o aspecto de um pagamento de serviços, de amostras de mercadorias e material publicitário fazendo parte da promoção comercial não destinados à venda.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Partes Contratantes, em conformidade com os acordos internacionais de que são parte, conceder-se-ão reciprocamente todas as facilidades previstas nas suas respectivas legislações necessárias para as operações efectuadas sob o regime de importação temporária e do tráfego de aperfeiçoamento no que respeita às mercadorias e produtos da outra Parte Contratante.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Os navios, suas tripulações, passageiros e carga de cada Parte Contratante serão tratados nos portos e nas águas marítimas interiores e territoriais da outra Parte Contratante da mesma forma que os navios, suas tripulações, passageiros e carga do país que beneficiar do tratamento de nação mais favorecida. Estas disposições não serão aplicadas às actividades que, em conformidade com a legislação de cada Parte Contratante, sejam reservadas às suas organizações ou empresas nacionais, tais como os serviços de reboque nos portos, a pilotagem, as actividades de salvamento, a cabotagem nacional e a pesca.
 
 As Partes Contratantes comprometem-se a considerar como válidos todos os documentos do navio emitidos ou reconhecidos pelas autoridades competentes da outra Parte Contratante no que respeita ao pavilhão nacional, à medição de tonelagem, à identidade dos membros da tripulação e outros que se relacionem com os navios e cargas.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Todos os pagamentos entre os dois países serão efectuados em divisas convertíveis, de acordo com os regulamentos cambias em vigor em cada um dos dois países.
 
-ARTIGO IX
+###### ARTIGO IX
 
 As duas Partes Contratantes estabelecem uma Comissão Mista composta por representantes dos dois países. Aquela Comissão será encarregada de velar pelo bom funcionamento do presente Acordo, examinar todos os problemas relativos às relações comerciais bilaterais e, particularmente, apresentar aos seus respectivos Governos propostas para facilitar e desenvolver as trocas comerciais.
 
@@ -282,7 +291,7 @@ Em caso de necessidade, a Comissão Mista pode criar subcomissões especializada
 
 No decurso das sessões da Comissão Mista serão estabelecidos os Protocolos anuais, em que constem os resultados das suas deliberações.
 
-ARTIGO X
+###### ARTIGO X
 
 O presente Acordo é concluído por um período de cinco anos, a partir da sua entrada em vigor. O Acordo será prorrogado, por tácita recondução, por períodos anuais se não for denunciado por escrito com um aviso prévio de três meses antes da data do seu termo. A expiração do presente Acordo não terá influência na validade e efectivação dos contratos concluídos no âmbito do presente Acordo.
 
@@ -304,7 +313,7 @@ Relativamente ao Acordo Comercial entre o Governo da República Portuguesa e o G
 
 Lisboa, 9 de Maio de 1975.
 
-**O Presidente da Delegação Portuguesa:**
+O Presidente da Delegação Portuguesa:
 
 Jorge Fernando Branco de Sampaio.
 
@@ -324,7 +333,7 @@ Para este efeito a delegação jugoslava sugere o estabelecimento por via diplom
 
 Solicitando o favor de confirmar o conteúdo desta carta, peço-lhe, Sr. Presidente, que aceite os meus melhores cumprimentos.
 
-**O Presidente da Delegação jugoslava:**
+O Presidente da Delegação jugoslava:
 
 Milica Ziberna.
 

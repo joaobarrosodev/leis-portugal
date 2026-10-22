@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/95-1981-579574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29b016e5ceada6ff5b64cc808ff0448be19dffb81d767a974b18d96f7bfc58e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 282dac2299508a91b6c409d97cac66b0a4112bfec69fa244a8eefe779eb7aa51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho da Europa
+- Convenção
+- Portugal
+- Proteção do Ambiente
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:1511695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547637:por
+  label: "Regulamentada a Convenção Relativa à Protecção da Vida Selvagem e do Ambiente Natural na Europa, aprovada para ratificação\
+    \ pelo presente diploma, pelo DEC LEI.316/89.22.09.1989.MPLAT, DR.IS [219] de 22.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-1989-547637
+  date: '1989-09-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:46Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +101,15 @@ de 23 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Relativa à Protecção da Vida Selvagem e do Ambiente Natural na Europa, aberta à assinatura em 19 de Setembro de 1979, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção Relativa à Protecção da Vida Selvagem e do Ambiente Natural na Europa, aberta à assinatura em 19 de Setembro de 1979, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 8 de Julho de 1981.**
+Assinado em 8 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION RELATIVE À LA CONSERVATION DE LA VIE SAUVAGE ET DU MILIEU NATUREL DE L'EUROPE
 
@@ -1834,17 +1845,17 @@ acordaram o seguinte:
 
 ### CAPÍTULO I — Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1 - A presente Convenção tem por objectivo garantir a conservação da flora e da fauna selvagens e dos seus habitats naturais, nomeadamente das espécies e dos habitats cuja conservação exige a cooperação de diversos Estados e promover essa cooperação.
 
 2 - É dedicada especial atenção as espécies ameaçadas de extinção e vulneráveis, incluindo as espécies migradoras.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As Partes Contratantes adoptarão as medidas necessárias para manter ou adaptar a população da flora e da fauna selvagens num nível que corresponda, especificadamente, às exigências ecológicas, científicas e culturais, considerando simultaneamente as exigências económicas e recreativas e as necessidades das subespécies, variedades ou formas ameaçadas no plano local.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Cada uma das Partes Contratantes tomará as medidas necessárias à promoção de políticas nacionais de conservação da flora e da fauna selvagens e dos habitats naturais, dedicando especial atenção às espécies em perigo de extinção e vulneráveis, particularmente às espécies endémicas e aos habitats ameaçados, de acordo com as disposições da presente Convenção.
 
@@ -1852,7 +1863,7 @@ Cada uma das Partes Contratantes tomará as medidas necessárias à promoção d
 
 Protecção dos «habitats»
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - Cada uma das Partes Contratantes tomará as medidas legislativas e regulamentares adequadas e necessárias à protecção dos habitats das espécies selvagens da flora e da fauna, especialmente das que são mencionadas nos anexos I e II, e à defesa dos habitats naturais ameaçados de extinção.
 
@@ -1864,11 +1875,11 @@ Protecção dos «habitats»
 
 ### CAPÍTULO III — Conservação das espécies
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Cada uma das Partes Contratantes adoptará as medidas legislativas e regulamentares adequadas e necessárias, no sentido de garantirem a especial conservação das espécies de flora selvagem enumeradas no anexo I. A colheita, a apanha, o corte ou o arranque intencionais das plantas visadas serão proibidos. Cada Parte Contratante deverá proibir, consoante as necessidades, a detenção ou a comercialização dessas espécies.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Cada uma das Partes Contratantes deverá tomar as medidas legislativas e regulamentares adequadas e necessárias para garantir a conservação particular das espécies da fauna selvagem enumeradas no anexo II. Nomeadamente, serão proibidas, relativamente a tais espécies:
 
@@ -1880,7 +1891,7 @@ c) A perturbação intencional da fauna selvagem, especialmente durante os perí
 
 d) A detenção e a comercialização interna desses animais, vivos ou mortos, incluindo os animais embalsamados, e de qualquer parcela ou produto, facilmente identificáveis, obtidos a partir do mesmo animal, sempre que tal medida contribua para a eficácia das disposições do presente artigo.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1 - Cada uma das Partes Contratantes deverá adoptar medidas legislativas e regulamentares adequadas e necessárias à protecção das espécies da fauna selvagem enumeradas no anexo III.
 
@@ -1894,11 +1905,11 @@ b) A interdição temporária ou local da exploração, sempre que ela se verifi
 
 c) A regulamentação, quanto tal se justifique, da venda, da detenção, do transporte e da oferta para venda dos animais selvagens, vivos ou mortos.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Quando se trate de captura ou do abate das espécies da fauna selvagem enumeradas no anexo III e nos casos em que se apliquem excepções conformes ao artigo 9.º no que respeita às espécies mencionadas no anexo II, as Partes Contratantes proibirão a utilização de todos os meios indiscriminados de captura e de abate, bem como dos meios susceptíveis de provocarem o desaparecimento local ou de perturbarem gravemente a tranquilidade das populações de uma dada espécie, nomeadamente dos meios mencionados no anexo IV.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1 - Cada uma das Partes Contratantes poderá abrir excepções ao determinado nos artigos 4.º, 5.º, 6.º e 7.º, assim como à proibição da utilização dos meios mencionados no artigo 8.º, quando não exista outra solução satisfatória e se tal derrogação não prejudicar a sobrevivência da população em causa:
 
@@ -1928,7 +1939,7 @@ A fiscalização exercida.
 
 ### CAPÍTULO IV — Disposições especiais respeitantes às espécies migradoras
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1 - As Partes Contratantes, além das medidas especificadas nos artigos 4.º, 6.º, 7.º e 8.º, obrigam-se a coordenar os seus esforços com vista à conservação das espécies migradoras enumeradas nos anexos II e III cuja área de expansão atinja os seus territórios.
 
@@ -1936,7 +1947,7 @@ A fiscalização exercida.
 
 ### CAPÍTULO V — Disposições complementares
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1 - No cumprimento das disposições da presente Convenção, as Partes Contratantes comprometem-se a:
 
@@ -1952,13 +1963,13 @@ b) Fiscalizar rigorosamente a introdução das espécies não indígenas.
 
 3 - Cada uma das Partes Contratantes deverá informar a Comissão Permanente das espécies que beneficiem de protecção total no seu território e que não figurem nos anexos I e II.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 As Partes Contratantes poderão adoptar medidas mais rigorosas do que as que se prevêem na presente Convenção, com vista à conservação da flora e da fauna selvagens e dos seus habitats naturais.
 
 ### CAPÍTULO VI — Comissão Permanente
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1 - Com vista à realização das finalidades da presente Convenção, é constituída uma Comissão Permanente.
 
@@ -1982,7 +1993,7 @@ poderão informar o Secretário-Geral do Conselho da Europa da sua intenção de
 
 6 - A Comissão Permanente estabelecerá o seu regulamento interno de acordo com as disposições da presente Convenção.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1 - À Comissão Permanente caberá fazer respeitar a presente Convenção, podendo, nomeadamente:
 
@@ -1998,13 +2009,13 @@ Apresentar todas as propostas tendentes a facilitar a aplicação da presente Co
 
 2 - No cumprimento da sua missão, a Comissão poderá, por sua própria iniciativa, convocar reuniões de grupos de peritos.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Após cada uma das suas reuniões, a Comissão Permanente transmitirá à Comissão de Ministros do Conselho da Europa um relatório dos seus trabalhos e sobre o funcionamento da Convenção.
 
 ### CAPÍTULO VII — Alterações
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1 - Toda e qualquer alteração nos artigos da presente Convenção proposta por uma das Partes Contratantes ou pela Comissão de Ministros será comunicada ao Secretário-Geral do Conselho da Europa e transmitida, por intermédio daquele, pelo menos dois meses antes da reunião da Comissão Permanente, aos Estados membros do Conselho da Europa, a todos os signatários da Convenção, a todas as Partes Contratantes, a todos os Estados que tenham sido convidados a assiná-la de acordo com as disposições do artigo 19.º e a todos os Estados convidados a aderirem a ela conforme o disposto no artigo 20.º
 
@@ -2018,7 +2029,7 @@ b) Para alterações nos artigos 13.º a 24.º, o texto adoptado será submetido
 
 4 - As disposições dos n.os 1, 2, alínea a), e 3 do presente artigo aplicar-se-ão igualmente em caso de adopção de novos anexos à presente Convenção.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 1 - Toda e qualquer alteração nos anexos da presente Convenção proposta por uma das Partes Contratantes ou pela Comissão de Ministros será comunicada ao Secretário-Geral do Conselho da Europa e transmitida, por intermédio daquele, pelo menos dois meses antes da reunião da Comissão Permanente, aos Estados membros do Conselho da Europa, a todos os signatários da Convenção, a todas as Partes Contratantes, a todos os Estados que tenham sido convidados a assiná-la de acordo com as disposições do artigo 19.º e a todos os Estados convidados a aderirem a ela conforme, o disposto no artigo 20.º
 
@@ -2028,7 +2039,7 @@ b) Para alterações nos artigos 13.º a 24.º, o texto adoptado será submetido
 
 ### CAPÍTULO VIII — Resolução dos diferendos
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1 - A Comissão Permanente esforçar-se-á por resolver amigavelmente qualquer dificuldade decorrente da aplicação da Convenção.
 
@@ -2044,7 +2055,7 @@ Na falta de notificação dentro do prazo mencionado, o Estado membro e a Comuni
 
 ### CAPÍTULO IX — Disposições finais
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 1 - A presente Convenção poderá ser assinada pelos Estados membros do Conselho da Europa e pelos Estados não membros que tenham participado na sua elaboração, bem como pela Comunidade Económica Europeia.
 
@@ -2056,13 +2067,13 @@ A Convenção será submetida a ratificação, aceitação ou aprovação. Os in
 
 3 - A Convenção entrará em vigor, relativamente a todos os Estados signatários ou à Comunidade Económica Europeia, os quais posteriormente deverão exprimir o seu consentimento em se submeterem àquela, no primeiro dia do mês seguinte à expiração de um período de três meses após a data de apresentação do documento de ratificação, de aceitação ou de aprovação
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 1 - Após a entrada em vigor da presente Convenção, a Comissão de Ministros do Conselho da Europa, depois de consultar as Partes Contratantes, poderá convidar a aderir à Convenção qualquer Estado não membro do Conselho, o qual, tendo sido convidado a assiná-la de acordo com o disposto no artigo 19.º o não tenha feito ainda, bem como qualquer outro Estado não membro.
 
 2 - A Convenção entrará em vigor, relativamente a todos os Estados que a ela aderiram, no primeiro dia do mês seguinte à expiração de um período de três meses após a data de apresentação do instrumento de adesão junto do Secretário-Geral do Conselho da Europa.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 1 - Qualquer Estado, no momento da assinatura ou da apresentação do documento de ratificação, de aceitação, de aprovação ou de adesão, poderá designar o ou os territórios nos quais se aplicará a presente Convenção.
 
@@ -2070,7 +2081,7 @@ A Convenção será submetida a ratificação, aceitação ou aprovação. Os in
 
 3 - Qualquer declaração feita por força do número anterior poderá ser retirada no que respeita a qualquer território nela designado, mediante notificação dirigida ao Secretário-Geral. A anulação entrará em vigor no primeiro dia do mês seguinte à expiração de um período de seis meses, a contar da data de recepção da notificação pelo Secretário-Geral.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 1 - Qualquer Estado, no momento da assinatura da entrega do seu documento de ratificação, de aceitação, de aprovação ou de adesão, poderá formular uma ou mais reservas, relativamente a determinadas espécies enumeradas nos anexos I a III e ou, para algumas dessas espécies mencionadas na ou nas reservas, a respeito de determinados meios ou métodos de caça e de outras formas de exploração mencionadas no anexo IV. Não serão admitidas reservas de carácter geral.
 
@@ -2080,15 +2091,15 @@ A Convenção será submetida a ratificação, aceitação ou aprovação. Os in
 
 4 - Qualquer das Partes Contratantes que tenha formulado uma reserva ao abrigo dos n.os 1 e 2 do presente artigo poderá retirá-la, no todo ou em parte, mediante notificação dirigida ao Secretário-Geral do Conselho da Europa. A anulação produzirá eleito a partir da data de recepção da notificação pelo Secretário-Geral.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 1 - Qualquer das Partes Contratantes poderá, em qualquer momento, denunciar a presente Convenção, mediante notificação dirigida ao Secretário-Geral do Conselho da Europa.
 
 2 - A denúncia produzirá efeito no primeiro dia do mês seguinte à expiração de um período de seis meses após a data de recepção da notificação pelo Secretário-Geral.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
-**O Secretário Geral do Conselho da Europa notificará os Estados membros do Conselho do Europa, todos os Estados signatários ou a Comunidade Económica Europeia signatária da Convenção e todas as Partes Contratantes:**
+O Secretário Geral do Conselho da Europa notificará os Estados membros do Conselho do Europa, todos os Estados signatários ou a Comunidade Económica Europeia signatária da Convenção e todas as Partes Contratantes:
 
 a) De todas as assinaturas;
 

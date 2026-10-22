@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/29/2007/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/29-2007-628309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a0bca0d9369e1078d0d5d9d15c253f3a4d717ee1089f780de9b8ebc6552ad67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ebb647db67b0e4eec1b6b7da694c34ed1eaa984cad2a96e9626010baf76b8dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Bruxelas
 - CE Países
+- Comunicação por Satélite
 - Comunidade Europeia
 - Convenção
-- Portugal
-- Comunicação por Satélite
+- Desenvolvimento Económico
+- Financiamento
 - Galileo
 - Marrocos
-- Desenvolvimento Económico
-- Bruxelas
+- Portugal
 relationships: []
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:02Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - João António da Costa Mira Gomes - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Assinado em 15 de Novembro de 2007.**
+Assinado em 15 de Novembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de Novembro de 2007.**
+Referendado em 19 de Novembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO DE COOPERAÇÃO RELATIVO A UM SISTEMA MUNDIAL DE NAVEGAÇÃO POR SATÉLITE (GNSS) PARA UTILIZAÇÃO CIVIL ENTRE A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E O REINO DE MARROCOS, POR OUTRO.
 
@@ -324,4 +324,4 @@ As Partes cooperarão, se for caso disso, na definição e na aplicação de um 
 
 O presente Acordo é redigido em duplicado nas línguas alemã, checa, dinamarquesa, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, eslovaca, eslovena, sueca e árabe, fazendo fé qualquer dos textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/22900/0867608683.pdf))](https://files.diariodarepublica.pt/1s/2007/11/22900/0867608683.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/22900/0867608683.pdf)

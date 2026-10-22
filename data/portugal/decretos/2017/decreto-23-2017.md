@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/23/2017/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-2017-107785476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4742d7797ccfa955f7ff7642157afd3232f053cdd82537b574f0cd5e02e544b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cab96d6b662d156337788d9897932e2e21d9022d864db61f93fd085e1ec2370f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Públicas
-- Embarcação
-- Gestão de Resíduos
 - Convenção
-- Portugal
+- Embarcação
+- Embarcação de Pesca
 - Embarcação Estrangeira
+- Gestão de Resíduos
+- Gestão do Ambiente
 - Londres
 - OMI
-- Gestão do Ambiente
-- Embarcação de Pesca
+- Portugal
 relationships: []
 article_structure:
   article_count: 22
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:10Z'
   warnings: []
   errors: []
 ---
@@ -117,15 +117,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de junho de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Ana Paula Mendes Vitorino.
 
-**Assinado em 10 de julho de 2017.**
+Assinado em 10 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de julho de 2017.**
+Referendado em 18 de julho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 International Convention for the Control and Management of Ships' Ballast Water and Sediments, 2004
 
@@ -957,7 +957,7 @@ Duration and Validity of the Certificate
 
 (2) Refer to the Guidelines adopted by the Organization by resolution A.739(18), as may be amended by the Organization, and the specifications adopted by the Organization by resolution A.789(19), as may be amended by the Organization.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf)
 
 1 - Introduction
 
@@ -1035,7 +1035,7 @@ The volume of Ballast Water on board should be estimated in cubic metres. The Ba
 
 (3) Refer to the Guidelines for the control and management of ships' ballast water to minimize the transfer of harmful aquatic organisms and pathogens adopted by the Organization by resolution A.868(20).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf)
 
 ATTACHMENT
 
@@ -1485,7 +1485,7 @@ Em fé do que os abaixo assinados devidamente autorizados pelos respetivos Gover
 
 ## ANEXO — Regras para o Controlo e Gestão das Águas de Lastro e Sedimentos dos Navios
 
-#### Secção A - Disposições gerais
+Secção A - Disposições gerais
 
 Regra A-1
 
@@ -1597,7 +1597,7 @@ Cumprimento de condições equivalentes
 
 O cumprimento de condições equivalentes às do presente Anexo em relação a embarcações de recreio ou de competição ou embarcações primordialmente utilizadas para busca e salvamento de comprimento fora a fora inferior a 50 metros, e com uma capacidade de Águas de Lastro máxima de 8 metros cúbicos, será determinada pela Administração, tendo em consideração as linhas de orientação desenvolvidas pela Organização.
 
-#### Secção B - Requisitos de gestão e controlo para navios
+Secção B - Requisitos de gestão e controlo para navios
 
 Regra B-1
 
@@ -1625,7 +1625,7 @@ Todo o navio terá a bordo e implementará um plano de gestão das águas de las
 
 Regra B-2
 
-# Livro de registo das águas de lastro
+Livro de registo das águas de lastro
 
 1 - Cada navio terá a bordo um livro de registo das águas de lastro, que poderá ser um sistema de registo eletrónico, ou fazer parte de um outro livro de registo ou sistema, e que conterá, pelo menos, a informação especificada no Apêndice II.
 
@@ -1693,7 +1693,7 @@ Deveres dos oficiais e dos membros da tripulação
 
 Os oficiais e os membros da tripulação estarão familiarizados com as suas funções relativas à gestão das águas de lastro do navio no qual estão embarcados e, em função das suas tarefas, estarão familiarizados com o plano de gestão das águas de lastro.
 
-#### Secção C - Requisitos especiais em certas zonas
+Secção C - Requisitos especiais em certas zonas
 
 Regra C-1
 
@@ -1745,7 +1745,7 @@ Divulgação da informação
 
 A Organização disponibilizará, através dos meios adequados, a informação a ela transmitida nos termos das regras C-1 e C-2.
 
-#### Secção D - Normas para a gestão das águas de lastro
+Secção D - Normas para a gestão das águas de lastro
 
 Regra D-1
 
@@ -1817,7 +1817,7 @@ Revisão das Normas pela Organização
 
 4 - Se, com base nas revisões descritas nesta regra, as Partes decidirem adotar emendas a este Anexo, tais emendas serão adotadas e entrarão em vigor de acordo com os procedimentos previstos no artigo 19.º desta Convenção.
 
-#### Secção E - Requisitos de vistoria e de certificação para a gestão das águas de lastro
+Secção E - Requisitos de vistoria e de certificação para a gestão das águas de lastro
 
 Regra E-1
 
@@ -1929,7 +1929,7 @@ Duração e validade do certificado
 
 (2) Ver linhas de orientação adotadas pela Organização através da resolução A.739(18), e respetivas emendas pela Organização, e as especificações adotadas pela Organização através da resolução A.789(19), e respetivas emendas pela Organização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf)
 
 1 - Introdução
 
@@ -2007,7 +2007,7 @@ O volume da água de lastro a bordo deverá ser estimado em metros cúbicos. O l
 
 (3) Ver linhas de orientação para o controlo e gestão das águas de lastro do navio para minimizar a transferência de organismos aquáticos nocivos e patogénicos, adotadas pela Organização através da resolução A.868(20).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14600/0433004362.pdf)
 
 ## ANEXO — Resoluções Adotadas pela Conferência
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21
   number: '246'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 22-(2) a 22-(40)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24602/0000200040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/11-a/2020/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 828fbbe1ef2d715c49ceb1395df406ad9f3ed55f8a144d6c04d986048682e5df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f11f2d3fc733dd224e99877aa911db1bbdb8156c48b1db7abfd97f173095f9dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,44 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Pessoal de Saúde
+- Atendimento Público
 - Circulação de Pessoas
-- Transporte Marítimo
+- Comércio
 - Comércio a Retalho
+- Comércio Eletrónico
 - Comércio por Grosso
-- Direção Geral da Saúde
-- Transporte Aéreo
-- Transporte Rodoviário
-- Transporte Ferroviário
-- Serviços de Segurança
+- Condições de Higiene e Segurança no Trabalho
+- Contrato de Trabalho
 - Controlo Sanitário
-- Saúde Pública
-- Estabelecimento de Restauração
-- Estabelecimento Industrial
-- Estado de Emergência
-- Segurança Pública
-- Fiscalização
-- Isolamento Profiláctico
-- Livre Circulação de Mercadorias
+- Direção Geral da Saúde
 - Doença Infecciosa
 - Epidemia
-- Estabelecimento de Ensino
-- Serviço Público
-- Prestação de Serviços
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
-- Estabelecimento Hospitalar
-- Comércio Eletrónico
-- Comércio
-- Atendimento Público
-- Infraestrutura Turística
 - Equipamento de Proteção
+- Estabelecimento de Ensino
+- Estabelecimento de Restauração
+- Estabelecimento Hospitalar
+- Estabelecimento Industrial
+- Estado de Emergência
+- Fiscalização
+- Infraestrutura Turística
+- Isolamento Profiláctico
+- Livre Circulação de Mercadorias
+- Pessoal de Saúde
+- Prestação de Serviços
+- Proteção Civil
+- Saúde Pública
+- Segurança Pública
+- Serviço Público
+- Serviços de Segurança
+- Transporte Aéreo
+- Transporte Ferroviário
+- Transporte Marítimo
+- Transporte Rodoviário
 relationships:
 - type: amended_by
   target: pt:dre:204672332:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:153341303:por
+  label: Alterados os arts. 1.º, 2.º, 58.º e 62.º e os anexos I, II, III e IV; aditado o art. 61.º-A; e revogados os arts.
+    44.º, 45.º, 46.º, 47.º, 48.º, 49.º-A. 49.º-B, o n.º 1 do art. 51.º, os arts. 52.º e 61.º e o n.º 2 do art. 62.º do Dec
+    11/2020 de 06-dez, na versão republicada pelo presente, pelo(a) Decreto n.º 2-A/2021 - Diário da República n.º 4/2021,
+    2º Suplemento, Série I de 2021-01-07, que o republicou no anexo V com a atual redação.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/2-a-2021-153341303
+  date: '2021-01-07'
 - type: cites
   target: eli:http://data.dre.p
   label: null
@@ -143,16 +151,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/66-a/2020/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/66-a/2020/12/17/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139207969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141469892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147933283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147968348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149103950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149106929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151557411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
 article_structure:
-  article_count: 72
+  article_count: 71
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:26Z'
   warnings: []
   errors: []
 ---
@@ -213,7 +293,9 @@ Proibição de circulação na via pública nos dias 31 de dezembro e 1 a 3 de j
 
 2 - Nos dias 1 a 3 de janeiro de 2021, até às 05:00 h do dia seguinte, é aplicável em todo o território nacional continental a proibição de circulação em espaços e vias públicas, ou em espaços e vias privadas equiparadas a vias públicas, nos termos previstos no artigo 40.º
 
-###### Artigo 49.º-B — Atividades de comércio a retalho e de prestação de serviços
+Artigo 49.º-B
+
+Atividades de comércio a retalho e de prestação de serviços
 
 Em todo o território nacional continental, nos dias 1 a 3 de janeiro de 2021, fora do período compreendido entre as 08:00 h e as 13:00 h, são suspensas as atividades de comércio a retalho e de prestação de serviços, sendo aplicável o disposto no artigo 43.º»
 
@@ -241,15 +323,15 @@ O presente decreto entra em vigor às 00:00 h do dia 24 de dezembro de 2020.
 
 Visto e aprovado em Conselho de Ministros de 17 de dezembro de 2020. - António Luís Santos da Costa.
 
-**Assinado em 21 de dezembro de 2020.**
+Assinado em 21 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de dezembro de 2020.**
+Referendado em 21 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -1633,7 +1715,7 @@ Nos dias 31 de dezembro de 2020 e 1 de janeiro de 2021 é proibida a realizaçã
 
 ###### Artigo 53.º — Execução a nível local
 
-**O Primeiro-Ministro procede à nomeação das autoridades que coordenam a execução da declaração do estado de emergência no território nacional continental, a nível local, nos termos do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual.**
+O Primeiro-Ministro procede à nomeação das autoridades que coordenam a execução da declaração do estado de emergência no território nacional continental, a nível local, nos termos do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual.
 
 ###### Artigo 54.º — Defesa nacional
 
@@ -2292,3 +2374,5 @@ Salões de jogos e salões recreativos.
 4 - Estabelecimentos de bebidas:
 
 Estabelecimentos de bebidas e similares, com ou sem espaços de dança, salvo quanto aos integrados em estabelecimentos turísticos e de alojamento local, para prestação de serviço exclusivamente aos respetivos hóspedes, sem prejuízo do disposto no artigo 17.º
+
+113834699

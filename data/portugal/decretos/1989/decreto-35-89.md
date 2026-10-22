@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-1989-619279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdb104e40bd23d62bc599e4cfc95a44fbc0dc062c506b1871eecb1e1bd04145c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66708c606cc17e779482a69dcf03ff1150094c1a04d7d6d6a0689b974781d449
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperante
+- Habitação
+- Portugal
 relationships: []
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:17Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +91,19 @@ de 18 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo entre a República Portuguesa e a República Democrática de São Tomé e Príncipe Relativo ao Bairro da Cooperação Portuguesa, feito em Lisboa a 27 de Julho de 1988, cujo original, em português, vai anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo entre a República Portuguesa e a República Democrática de São Tomé e Príncipe Relativo ao Bairro da Cooperação Portuguesa, feito em Lisboa a 27 de Julho de 1988, cujo original, em português, vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1989. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 26 de Julho de 1989.**
+Assinado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Julho de 1989.**
+Referendado em 31 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE RELATIVO AO BAIRRO DA COOPERAÇÃO PORTUGUESA
 
@@ -161,13 +165,13 @@ Feito em Lisboa aos 27 de Julho de 1988, em dois originais em língua portuguesa
 
 Pela República Portuguesa:
 
-**O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Manuel Durão Barroso.**
+O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Manuel Durão Barroso.
 
 Pela República Democrática de São Tomé e Príncipe:
 
-**O Ministro da Cooperação, (Assinatura ilegível.)**
+O Ministro da Cooperação, (Assinatura ilegível.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18900/33803382.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18900/33803382.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18900/33803382.pdf)
 
 ## ANEXO 2 — Contribuição da Parte são-tomense para a construção do Bairro
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/48/1999/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48-1999-683058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:10:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a42fb400ab47001fa3894b104956c509b4fb1477bb66213d51adc851e467de5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2e15e50d92301cc96465ad01a4b22364b6ca0abb76b8554eb79533a8c9bd71d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:10:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Cooperação Transfronteira
-- Portugal
-- Espanha
-- Cooperação Policial
-- Fronteiras
 - Cooperação Judiciária
+- Cooperação Policial
+- Cooperação Transfronteira
+- Espanha
+- Fronteiras
+- Portugal
 relationships: []
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:10:28Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho.
 
-**Assinado em 15 de Outubro de 1999.**
+Assinado em 15 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA EM MATÉRIA DE PERSEGUIÇÃO TRANSFRONTEIRIÇA
 
@@ -174,7 +174,7 @@ Uma vez apresentado por uma das Partes um pedido de detenção provisória para 
 
 O presente Acordo entrará em vigor 30 dias após a data na qual ambas as Partes se notificarem do cumprimento dos trâmites exigidos pelos respectivos ordenamentos jurídicos.
 
-**Assinado em Albufeira aos 30 dias do mês de Novembro de 1998, em língua portuguesa e castelhana, fazendo fé ambos os textos.**
+Assinado em Albufeira aos 30 dias do mês de Novembro de 1998, em língua portuguesa e castelhana, fazendo fé ambos os textos.
 
 Pela República Portuguesa:
 

@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/291-1976-502043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dba0f3f61a30eda6e4df13f66ebbcc4b8696744d4e2ad8aa126c63fe31c3311b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0632138ae8c529639e6888f93035d43dd49f9618a0dbd75a3ae1f42e82750152
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral da Junta do Crédito Público
+- Dívida Pública
+- Ministério das Finanças
+- Orçamento
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:307248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:32Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +101,9 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 1102083334$00, destinados à inscrição, no orçamento do mesmo Ministério, das seguintes dotações:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 1102083334$00, destinados à inscrição, no orçamento do mesmo Ministério, das seguintes dotações:
 
-### Capítulo 15.º «Encargos da dívida pública»:
+Capítulo 15.º «Encargos da dívida pública»:
 
 ###### Artigo 200.º «Juros»:
 
@@ -106,12 +119,12 @@ Obrigações do Tesouro, 7 1/2% de 1975, 3.ª emissão - Plano de investimentos 
 
 ... 1102083334$00
 
-###### Art. 2.º Para compensação dos créditos mencionados no artigo anterior é aumentada igual quantia à verba descrita no capítulo 4.º grupo 6, artigo 78.º «Instituições de crédito», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação dos créditos mencionados no artigo anterior é aumentada igual quantia à verba descrita no capítulo 4.º grupo 6, artigo 78.º «Instituições de crédito», do actual orçamento das receitas do Estado.
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 12 de Abril de 1976.**
+Promulgado em 12 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

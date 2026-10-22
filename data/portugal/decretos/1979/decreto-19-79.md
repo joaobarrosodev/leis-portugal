@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-1979-393598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c486855c54ba2f85d0f6693d53ce43f438a05dae94e85b5aa428192f814e165
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dfb6a59e2648526c2ff7cb4b65c551a18b05db6c775369a65a3c0eb4f53bb3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AIEA
+- ARMA Nuclear
+- Desarmamento
+- Londres
+- Portugal
+- Tratado de não Proliferação de Armas Nucleares
+- Viena
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:49Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +95,15 @@ de 1 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição da República Portuguesa, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo entre a República de Portugal e a Agência Internacional de Energia Atómica para a Aplicação de Salvaguardas em Relação com o Tratado de não Proliferação das Armas Nucleares, concluído em Viena em 7 de Agosto de 1978, cujo texto em inglês e respectiva tradução seguem em anexo.
+Artigo único. É aprovado para ratificação o Acordo entre a República de Portugal e a Agência Internacional de Energia Atómica para a Aplicação de Salvaguardas em Relação com o Tratado de não Proliferação das Armas Nucleares, concluído em Viena em 7 de Agosto de 1978, cujo texto em inglês e respectiva tradução seguem em anexo.
 
 Visto e aprovado em Conselho de Ministros - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 18 de Janeiro de 1979.**
+Assinado em 18 de Janeiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Agreement between the Republic of Portugal and the International Atomic Energy Agency for the Application of Safeguards in Connection with the Treaty on the Non-Proliferation of Nuclear Weapons.
 
@@ -1054,7 +1061,7 @@ Considerando que a Agência Internacional de Energia Atómica (seguidamente desi
 
 Em consequência, Portugal e a Agência concordaram no seguinte:
 
-# PARTE I — Compromisso fundamental
+## PARTE I — Compromisso fundamental
 
 ###### ARTIGO 1
 
@@ -1248,7 +1255,7 @@ Este Acordo entrará em vigor na data em que a Agência receber de Portugal noti
 
 Este Acordo manter-se-á em vigor enquanto Portugal for parte do Tratado.
 
-# PARTE II — Introdução
+## PARTE II — Introdução
 
 ###### ARTIGO 27
 
@@ -1696,7 +1703,7 @@ O número, a intensidade, a duração, o calendário e as modalidades de inspec�
 
 a) Para reactores e instalações de armazenagem seladas, o máximo total de inspecções de rotina por ano será determinado, autorizando um sexto de inspector/ano para cada uma destas instalações;
 
-b) Para instalações, que não sejam reactores ou instalações de armazenagem seladas, que envolvam plutónio ou urânio enriquecido a mais do que 5%, o máximo total de inspecções de rotina por ano será determinado, autorizando para cada uma destas instalações [([ver documento original](https://files.diariodarepublica.pt/1s/1979/03/05000/03160343.pdf))](https://files.diariodarepublica.pt/1s/1979/03/05000/03160343.pdf) inspector/dias por ano, sendo E o inventário ou a produção anual de matérias nucleares, o que for mais elevado, expresso em quilogramas efectivos. No entanto, o máximo estabelecido para uma qualquer destas instalações não será inferior a 1,5 inspectores/ano; e
+b) Para instalações, que não sejam reactores ou instalações de armazenagem seladas, que envolvam plutónio ou urânio enriquecido a mais do que 5%, o máximo total de inspecções de rotina por ano será determinado, autorizando para cada uma destas instalações [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/03/05000/03160343.pdf) inspector/dias por ano, sendo E o inventário ou a produção anual de matérias nucleares, o que for mais elevado, expresso em quilogramas efectivos. No entanto, o máximo estabelecido para uma qualquer destas instalações não será inferior a 1,5 inspectores/ano; e
 
 c) Para as instalações não cobertas pelos parágrafos a) ou b), o máximo total de inspecções de rotina por ano será determinado, autorizando para cada uma destas instalações um terço de inspector/ano mais O,4 x E inspector/dias por ano, sendo E o inventário de materiais nucleares ou a produção anual de materiais nucleares, o que for mais elevado, expresso em quilogramas efectivos.
 

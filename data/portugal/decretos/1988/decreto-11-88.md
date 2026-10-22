@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-1988-374428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d6eb1cc6380e0dbe76d03090b286970c759ea1364cb0586153dae1f81ada5ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e38342945dd7d34c0d35203f7eda91232b3d35489b87ad55abe377e7d092132
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Angola
+- Brasil
+- Cabo Verde
+- Convenção
+- Cooperação Técnica
+- Guiné-Bissau
+- Luanda
+- Moçambique
+- Palop
+- Portugal
+- São Tomé e Príncipe
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:18Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +98,19 @@ de 24 de Maio
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada a Convenção de Cooperação Técnica entre as Administrações Aduaneiras dos Países de Língua Oficial Portuguesa, concluída em 26 de Setembro de 1986, cujo texto em língua portuguesa segue em anexo.
+Artigo único. É aprovada a Convenção de Cooperação Técnica entre as Administrações Aduaneiras dos Países de Língua Oficial Portuguesa, concluída em 26 de Setembro de 1986, cujo texto em língua portuguesa segue em anexo.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 29 de Abril de 1988.**
+Assinado em 29 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Maio de 1988.**
+Referendado em 4 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENÇÃO DE COOPERAÇÃO TÉCNICA ENTRE AS ADMINISTRAÇÕES ADUANEIRAS DOS PAÍSES DE LÍNGUA OFICIAL PORTUGUESA.
 
@@ -112,7 +124,7 @@ Convencidos de que dessa cooperação resultará também um mais elevado grau de
 
 acordam no seguinte:
 
-###### Artigo 1.º As Partes Contratantes comprometem-se a promover a cooperação técnica aduaneira, designadamente nas seguintes áreas:
+Artigo 1.º As Partes Contratantes comprometem-se a promover a cooperação técnica aduaneira, designadamente nas seguintes áreas:
 
 a) Relações aduaneiras internacionais;
 
@@ -126,11 +138,11 @@ e) Valor;
 
 f) Informação dos serviços aduaneiros.
 
-###### Art. 2.º - 1 - A presente Convenção descreve as condições gerais para a cooperação entre as Partes Contratantes.
+Art. 2.º - 1 - A presente Convenção descreve as condições gerais para a cooperação entre as Partes Contratantes.
 
 2 - As Partes Contratantes poderão concluir acordos complementares sobre projectos individuais de cooperação aduaneira (designados doravante por «acordos especiais»), nos quais será definida a concepção comum de cada projecto, compreendendo, nomeadamente, o seu objectivo, as contribuições das Partes Contratantes e o calendário da sua execução.
 
-###### Art. 3.º A cooperação aduaneira poderá concretizar-se:
+Art. 3.º A cooperação aduaneira poderá concretizar-se:
 
 a) Pela organização de cursos de formação, de estágios e de seminários;
 
@@ -142,13 +154,13 @@ d) Pelo intercâmbio de publicações e ou informações de carácter aduaneiro;
 
 e) Por qualquer outra forma considerada adequada.
 
-###### Art. 4.º A cooperação estabelecida pela presente Convenção poderá efectuar-se directamente entre as administrações aduaneiras das Partes Contratantes, as quais acordarão entre si as modalidades de aplicação.
+Art. 4.º A cooperação estabelecida pela presente Convenção poderá efectuar-se directamente entre as administrações aduaneiras das Partes Contratantes, as quais acordarão entre si as modalidades de aplicação.
 
-###### Art. 5.º As disposições da presente Convenção não constituem obstáculo a que as Partes Contratantes alarguem o âmbito da cooperação técnica em matéria aduaneira mediante a conclusão de acordos especiais, bilaterais ou multilaterais.
+Art. 5.º As disposições da presente Convenção não constituem obstáculo a que as Partes Contratantes alarguem o âmbito da cooperação técnica em matéria aduaneira mediante a conclusão de acordos especiais, bilaterais ou multilaterais.
 
-###### Art. 6.º As disposições da presente Convenção não impedirão as Partes Contratantes de assumir as obrigações decorrentes de outros acordos, tratados ou convenções internacionais nem os compromissos impostos pela sua participação em uniões aduaneiras ou económicas.
+Art. 6.º As disposições da presente Convenção não impedirão as Partes Contratantes de assumir as obrigações decorrentes de outros acordos, tratados ou convenções internacionais nem os compromissos impostos pela sua participação em uniões aduaneiras ou económicas.
 
-###### Art. 7.º Qualquer Estado de língua oficial portuguesa poderá tornar-se parte contratante da presente Convenção:
+Art. 7.º Qualquer Estado de língua oficial portuguesa poderá tornar-se parte contratante da presente Convenção:
 
 a) Assinando-a sem reserva de ratificação;
 
@@ -156,17 +168,17 @@ b) Depositando um instrumento de ratificação depois de a ter assinado sob rese
 
 c) A ela aderindo.
 
-###### Art. 8.º - 1 - A presente Convenção entrará em vigor um mês após três dos Estados a terem assinado sem reserva de ratificação ou terem depositado o seu instrumento de ratificação ou de adesão.
+Art. 8.º - 1 - A presente Convenção entrará em vigor um mês após três dos Estados a terem assinado sem reserva de ratificação ou terem depositado o seu instrumento de ratificação ou de adesão.
 
 2 - Relativamente a qualquer Estado que assine a presente Convenção sem reserva de ratificação, que a ratifique ou que a ela adira, após a mesma ter entrado em vigor, esta obrigará esse Estado decorrido um mês a contar da data da referida assinatura sem reserva de ratificação ou do depósito do instrumento de ratificação ou de adesão.
 
-###### Art. 9.º - 1 - A presente Convenção é de duração ilimitada. Todavia, qualquer Parte Contratante poderá denunciá-la em qualquer momento dois anos depois da entrada em vigor nesse Estado.
+Art. 9.º - 1 - A presente Convenção é de duração ilimitada. Todavia, qualquer Parte Contratante poderá denunciá-la em qualquer momento dois anos depois da entrada em vigor nesse Estado.
 
 2 - A denúncia será notificada por documento escrito ao Ministério dos Negócios Estrangeiros de Portugal.
 
 3 - A denúncia produzirá efeitos seis meses depois do recebimento da respectiva notificação pelo Ministério dos Negócios Estrangeiros de Portugal.
 
-###### Art. 10.º O Ministério dos Negócios Estrangeiros de Portugal notificará as Partes Contratantes da presente Convenção:
+Art. 10.º O Ministério dos Negócios Estrangeiros de Portugal notificará as Partes Contratantes da presente Convenção:
 
 a) Das assinaturas, ratificações e adesões a que alude o artigo 7.º da presente Convenção;
 

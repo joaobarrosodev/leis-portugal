@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/126-1981-562223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3910d69c3369f19402c9b5f343b9993b6c62d39987322a49d93a856a25311399
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2b388baa5fdaa8f35ccf255a77b8bad43b0813f07ef4494951e2cc682f6ead5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Luxemburgo
+- Portugal
+- Segurança Social
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:56Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 21 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Relativa à Adesão de Cabo Verde à Convenção sobre Segurança Social entre Portugal e o Luxemburgo e ao Consentimento das Partes Contratantes Desta Convenção quanto à Adesão, bem como o Protocolo de Adesão, assinados no Luxemburgo em 1 de Julho de 1981, cujos textos em português e francês vão anexos ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção Relativa à Adesão de Cabo Verde à Convenção sobre Segurança Social entre Portugal e o Luxemburgo e ao Consentimento das Partes Contratantes Desta Convenção quanto à Adesão, bem como o Protocolo de Adesão, assinados no Luxemburgo em 1 de Julho de 1981, cujos textos em português e francês vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 6 de Outubro de 1981.**
+Assinado em 6 de Outubro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENÇÃO RELATIVA À ADESÃO DE CABO VERDE À CONVENÇÃO SOBRE SEGURANÇA SOCIAL ENTRE PORTUGAL E O LUXEMBURGO E AO CONSENTIMENTO DAS PARTES CONTRATANTES DESTA CONVENÇÃO QUANTO À ADESÃO.
 
@@ -123,19 +128,19 @@ O Senhor Alfredo Ferreira Fortes, embaixador extraordinário e plenipotenciário
 
 os quais, depois de terem trocado os seus plenos poderes, achados em boa e devida forma, chegaram a acordo nas disposições seguintes:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 A República de Cabo Verde declara aderir à Convenção sobre Segurança Social entre Portugal e o Luxemburgo, assinada no Luxemburgo em 12 de Fevereiro de 1965, tal como foi modificada pelos Acordos complementares de 5 de Junho de 1972 e de 20 de Maio de 1977.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Portugal e o Luxemburgo exprimem o seu consentimento à adesão de Cabo Verde aos instrumentos internacionais previstos no artigo 1.º
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 A presente Convenção será ratificada e os instrumentos de ratificação serão depositados, logo que possível, no Grão-Ducado do Luxemburgo, que procederá à sua notificação às outras Partes.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 A presente Convenção, que terá a mesma duração que a Convenção sobre Segurança Social entre Portugal e o Luxemburgo, entrará em vigor no primeiro dia do terceiro mês seguinte àquele em cujo decurso tiver sido depositado o último instrumento de ratificação. Esta data será notificada às outras Partes pelo Grão-Ducado do Luxemburgo.
 
@@ -159,7 +164,7 @@ Protocolo de Adesão
 
 Ao assinarem a Convenção Relativa à Adesão de Cabo Verde à Convenção sobre Segurança Social entre Portugal e o Luxemburgo e ao Consentimento das Partes Contratantes desta Convenção quanto à Adesão, os plenipotenciários respectivos acordaram em que as disposições seguintes façam parte integrante da Convenção:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Para os fins do presente Protocolo:
 
@@ -167,7 +172,7 @@ a) O termo «Convenção» designa a Convenção sobre Segurança Social entre P
 
 b) Os termos «Partes Contratantes da Convenção» designam a República Portuguesa e o Grão-Ducado do Luxemburgo.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 O presente Protocolo aplica-se, no que respeita a Cabo Verde, às legislações relativas:
 
@@ -179,7 +184,7 @@ c) Às prestações de invalidez, de velhice e de morte;
 
 d) Aos abonos de família.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1 - Os nacionais de Cabo Verde beneficiam da Convenção na mesma medida e nas mesmas condições que os nacionais das Partes Contratantes da Convenção.
 
@@ -187,23 +192,23 @@ d) Aos abonos de família.
 
 3 - Os períodos de seguro cumpridos no território da República de Cabo Verde são equiparados aos períodos de seguro cumpridos nos territórios das Partes Contratantes.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Para os fins de manutenção dos direitos às prestações, em conformidade com o disposto na Convenção,
 
 O território da República de Cabo Verde é equiparado aos territórios das Partes Contratantes da Convenção.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - Se o titular de pensões ou rendas devidas nos termos das legislações das duas Partes Contratantes da Convenção residir no território de Cabo Verde, o encargo das prestações em espécie do seguro de doença incumbe à instituição competente da Parte Contratante em cujo território aquele tiver cumprido o mais longo período de seguro.
 
 2 - A disposição anterior é aplicável, por analogia, à concessão dos abonos de família.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 As disposições do Acordo Administrativo Geral Relativo às Modalidades de Aplicação da Convenção, assinado em Lisboa em 20 de Outubro de 1966, na redacção resultante dos Acordos Complementares de 5 de Junho de 1972 e de 21 de Maio de 1979, são aplicáveis para a execução do presente Protocolo, tendo em conta o disposto no subsequente artigo 7.º
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1 - Os termos «território», «nacionais» e «autoridade competente» designam, respectivamente, da parte cabo-verdiana, o território da República de Cabo Verde, as pessoas de nacionalidade cabo-verdiana e o ministro, os ministros ou a autoridade competente de que dependem os regimes de segurança social.
 

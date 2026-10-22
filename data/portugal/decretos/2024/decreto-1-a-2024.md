@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 21/2024, 1º Suplemento, Série I de 2024-01-30
   number: '21'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 54-(2) a 54-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/02101/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/1-a/2024/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-a-2024-839799733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27ab109af5a3e6060b520ff97070b71741e6816452dfb9b2ec82c40985614174
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d9ea60d33c0b3426abf70483fa1a4d4c659c1a9fd0acb7ff47b813a8b72e734
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,27 @@ reuse:
 subjects:
 - Comissão CE
 - Luto Nacional
-- Presidente
 - Óbito
+- Presidente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/40/2006/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2006/08/25/p/dre
+- type: cites
+  target: pt:dre:540661:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:42Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ validation:
 
 de 30 de janeiro
 
-**O Presidente da Comissão Europeia Jacques Delors foi uma figura central na idealização e construção da atual União Europeia.**
+O Presidente da Comissão Europeia Jacques Delors foi uma figura central na idealização e construção da atual União Europeia.
 
 Deputado ao Parlamento Europeu entre 1979 e 1981 e Ministro da Economia e das Finanças da República Francesa entre 1981 e 1984, Jacques Delors deixou um legado inigualável enquanto Presidente da Comissão Europeia, função que exerceu entre 1985 e 1995.
 
@@ -120,12 +124,14 @@ O presente decreto reporta os seus efeitos à data da sua aprovação.
 
 Visto e aprovado em Conselho de Ministros de 30 de janeiro de 2024. - António Luís Santos da Costa.
 
-**Assinado em 30 de janeiro de 2024.**
+Assinado em 30 de janeiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de janeiro de 2024.**
+Referendado em 30 de janeiro de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117309477

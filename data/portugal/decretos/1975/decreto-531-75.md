@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/531-1975-312054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 947e2beb68709457c277214b5c56edb764c0b15b6db55848a7104742f7cdd961
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eaf76e47763000ba8ef3273b91c05897047cdd2697671c15ff180105eacf0387
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Ministros
+- Delegação de Competências
+- Direcção Geral da Contabilidade Pública
+- Gestão Orçamental
+- Ministério da Agricultura e Pescas
+- Ministério da Coordenação Interterritorial
+- Ministério da Defesa Nacional
+- Ministério da Educação e Cultura
+- Ministério da Indústria e Tecnologia
+- Ministério das Finanças
+- Ministério do Comércio Externo
+- Ministério dos Assuntos Sociais
+- Ministério dos Transportes e Comunicações
+- Ministério para o Planeamento e Coordenação Económica
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:59Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +106,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
@@ -126,7 +144,7 @@ Ministério dos Assuntos Sociais
 
 Despesas do ano de 1974 respeitantes a encargos com a saúde a satisfazer pela Direcção-Geral dos Hospitais ... 13693$80
 
-###### Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
+Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
 
 Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
@@ -144,12 +162,12 @@ Ministério dos Transportes e Comunicações
 
 Encargos do ano de 1974 respeitantes a comunicações a satisfazer pela Direcção-Geral de Portos em conta da dotação inscrita no capítulo 20.º, artigo 351.º «Aquisição de serviços» ... 5475$00
 
-###### Art. 3.º Fica autorizada a Casa Pia de Lisboa a satisfazer, em conta da verba consignada a despesas de anos findos do seu actual orçamento privativo, a importância de 136$00, respeitante a horas extraordinárias do ano de 1974.
+Art. 3.º Fica autorizada a Casa Pia de Lisboa a satisfazer, em conta da verba consignada a despesas de anos findos do seu actual orçamento privativo, a importância de 136$00, respeitante a horas extraordinárias do ano de 1974.
 
 Vasco dos Santos Gonçalves - José Joaquim Teixeira Ribeiro - António Carlos Magalhães Arnão Metelo - Silvano Ribeiro - Alfredo António Cândido de Moura - Joaquim Pinto da Rocha e Cunha - Mário Luís da Silva Murteira - José Joaquim Fragoso - Fernando da Conceição Quitério de Brito - Fernando Oliveira Baptista - Domingos Lopes - Manuel Luís Macaísta Malheiros - Mário João de Oliveira Ruivo - Henrique Manuel Araújo de Oliveira Sá - José Emílio da Silva - José Inácio da Costa Martins - Francisco José Cruz Pereira de Moura - Jorge Correia Jesuíno.
 
-**Promulgado em 15 de Setembro de 1975.**
+Promulgado em 15 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

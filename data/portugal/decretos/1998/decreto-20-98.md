@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/20/1998/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-1998-485055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e4e1009b16a1fcf920632bbc538cde7cf745b8698afc5ea215655ce2c6fda74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32f15d238912acb50a5f6c961237987fb25b478d7aa511b63f6bc024adf8681b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Londres
 - Poluição Marinha
 - Poluição pelos Navios
 - Poluição por Hidrocarbonetos
+- Portugal
 relationships: []
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:48Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +99,15 @@ São aprovadas, para adesão, as emendas de 6 de Março de 1992 ao anexo I ao Pr
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Cardona Gomes Cravinho.
 
-**Assinado em 22 de Maio de 1998.**
+Assinado em 22 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Maio de 1998.**
+Referendado em 29 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 AMENDMENTS TO ANNEX I OF MARPOL 73/78
 
@@ -211,7 +211,7 @@ A footnote should be added to paragraphs 4) and 5) as follows:
 
 «2.2 - Type of oil filtering equipment fitted:
 
-[(ver texto no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31033106.pdf)
+[[(ver texto no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31033106.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31033106.pdf)
 
 EMENDAS AO ANEXO I DA MARPOL 73/78
 
@@ -293,4 +293,4 @@ A alínea d) é eliminada.
 
 Modelos A e B dos suplementos ao certificado IOPP. - Os itens 2.2 e 2.3 dos modelos A e B dos suplementos ao certificado IOPP são substituídos pelo seguinte:
 
-[(ver texto no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31033106.pdf)
+[[(ver texto no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31033106.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31033106.pdf)

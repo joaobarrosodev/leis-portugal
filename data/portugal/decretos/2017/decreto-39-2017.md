@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/39/2017/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-2017-114219192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ae6676a777c8be789fe5c8e422299ab7290325d8f65189389715d6fc9c7dd63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a62602e4c8c98cfab19bb9af74ef283a8f08f5da592dbff06d2a7a0694ee2d9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,29 @@ reuse:
 subjects:
 - Autoridade Nacional de Segurança
 - Convenção
-- Força de Gendarmerie Europeia
-- Portugal
-- Espanha
 - Cooperação Policial
+- Espanha
+- Força de Gendarmerie Europeia
+- França
 - Informação
+- Itália
+- Países Baixos
+- Política Europeia de Segurança e Defesa
+- Portugal
+- Roma
 - Segurança da Informação
 - Segurança Internacional
-- Política Europeia de Segurança e Defesa
-- Roma
-- Países Baixos
-- França
-- Itália
 relationships: []
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:30Z'
   warnings: []
   errors: []
 ---
@@ -112,15 +112,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 19 de outubro de 2017. - Maria Manuel de Lemos Leitão Marques - Maria Teresa Gonçalves Ribeiro - Maria Manuel de Lemos Leitão Marques.
 
-**Assinado em 30 de outubro de 2017.**
+Assinado em 30 de outubro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de novembro de 2017.**
+Referendado em 6 de novembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO DE SEGURANÇA ENTRE A REPÚBLICA FRANCESA, A REPÚBLICA ITALIANA, O REINO DOS PAÍSES BAIXOS, A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA SOBRE A PROTEÇÃO DA INFORMAÇÃO CLASSIFICADA DA FORÇA DE GENDARMERIE EUROPEIA (EUROGENDFOR).
 
@@ -168,7 +168,7 @@ d) EUROGENDFOR Restricted (EGF-R): significa que a divulgação não autorizada 
 
 1 - As Partes acordam em que os graus de classificação abaixo indicados são equivalentes aos definidos nas suas respetivas leis e regulamentos nacionais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 2 - A França manuseia e protege Informação Classificada com a marca «EUROGENDFOR Restricted» ou uma marca nacional equivalente, de acordo com as suas leis e regulamentos nacionais em vigor para o grau atribuído a informação protegida mas não classificada, tal como «Diffusion Restreinte».
 
@@ -270,23 +270,23 @@ Feito em Roma, em 3 de fevereiro de 2017, num único original nas línguas franc
 
 Pela República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Pela República Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Pelo Reino dos Países Baixos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Pelo Reino de Espanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 ACCORD DE SÉCURITÉ ENTRE LA RÉPUBLIQUE FRANÇAISE, LE ROYAUME D'ESPAGNE, LA RÉPUBLIQUE ITALIENNE, LE ROYAUME DES PAYS-BAS ET LA RÉPUBLIQUE PORTUGAISE, RELATIF À LA PROTECTION DES INFORMATIONS CLASSIFIÉES DE LA FORCE DE GENDARMERIE EUROPÉENNE (EUROGENDFOR).
 
@@ -342,7 +342,7 @@ Article 4
 
 1 - Les Parties conviennent que les niveaux de classification ci-après sont équivalents aux niveaux définis par leurs lois et réglementations nationales respectives.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 2 - La France traite et protège les informations classifiées portant la mention «EUROGENDFOR Restricted» ou la mention nationale équivalente conformément à ses lois et réglementations nationales en vigueur relatives aux informations protégées mais non classifiées portant la mention «Diffusion Restreinte».
 
@@ -470,23 +470,23 @@ Fait à Roma, le 3-202017, en un exemplaire original en langues française, espa
 
 Pour la République française:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Pour le Royaume d'Espagne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Pour la République italienne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Pour le Royaume des Pays-Bas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Pour la République portugaise:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 ACUERDO DE SEGURIDAD ENTRE EL REINO DE ESPAÑA, LA REPÚBLICA FRANCESA, LA REPÚBLICA ITALIANA, EL REINO DE LOS PAÍSES BAJOS Y LA REPÚBLICA PORTUGUESA RELATIVO A LA PROTECCIÓN DE INFORMACIÓN CLASIFICADA DE LA FUERZA DE GENDARMERÍA EUROPEA (EUROGENDFOR).
 
@@ -542,7 +542,7 @@ Tabla de equivalencias de las marcas de clasificación de seguridad
 
 1 - Las Partes convienen en que los grados de clasificación que figuran a continuación son equivalentes a los que establecen sus respectivas leyes y reglamentos nacionales:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 2 - Francia trata y protege la información clasificada marcada como «EUROGENDFOR Restricted» o su equivalente nacional de conformidad con sus leyes y reglamentos en vigor relativos al grado restringido pero no clasificado de «Diffusion Restreinte».
 
@@ -670,23 +670,23 @@ Hecho en Roma, el 3-2-2017, en un único ejemplar en español, francés, italian
 
 Por el Reino de España:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Por la República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Por la República Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Por el Reino de los Países Bajos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 Por la República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 SECURITY AGREEMENT BETWEEN THE FRENCH REPUBLIC, THE ITALIAN REPUBLIC, THE KINGDOM OF THE NETHERLANDS, THE PORTUGUESE REPUBLIC AND THE KINGDOM OF SPAIN ON THE PROTECTION OF THE EUROPEAN GENDARMERIE FORCE (EUROGENDFOR) CLASSIFIED INFORMATION.
 
@@ -742,7 +742,7 @@ Table of equivalences of the security classification markings
 
 1 - The Parties agree that below-mentioned classification levels are equivalent to those defined in their respective national laws and regulations.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 2 - France handles and protects Classified Information marked «EUROGENDFOR Restricted» or national equivalent according to its national laws and regulations in force for the protective but non-classified level such as «Diffusion Restreinte».
 
@@ -870,20 +870,20 @@ Done in Roma, on 3-2-2017, in a single original in the French, Italian, Dutch, P
 
 For the French Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 For the Italian Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 For the Kingdom of the Netherlands:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
 
 For the Kingdom of Spain:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22200/0606406080.pdf)

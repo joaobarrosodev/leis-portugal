@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/2009/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2009-601350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68b3ef11333278f84af596f66dfeefee1f653f02ac4ab6fe791ad937363a87bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d17f40bc92b671bb1a7096111548c2eefbd8ba4127da9145f0d3db4835c32dbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Documentação Classificada
 - Espanha
 - Eurofor
-- Segurança da Informação
-- Política Europeia de Segurança e Defesa
-- Roma
 - França
+- Política Europeia de Segurança e Defesa
+- Portugal
+- Roma
+- Segurança da Informação
 relationships: []
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:23Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Manuel Pedro Cunha da Silva Pereira - João António da Costa Mira Gomes.
 
-**Assinado em 30 de Janeiro de 2009.**
+Assinado em 30 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de Fevereiro de 2009.**
+Referendado em 2 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACCORD DE SECURITÉ ENTRE LA REPUBLIQUE FRANÇAISE, LA REPUBLIQUE ITALIENNE, LA REPUBLIQUE PORTUGAISE ET LE ROYAUME D'ESPAGNE RELATIF A LA PROTECTION DES INFORMATIONS CLASSIFIEES DE L'EUROFOR.
 
@@ -272,25 +272,25 @@ Fait à Rome, le 11-10-2007, en quatre originaux, chacun en langues française, 
 
 Pour la République française:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Pour la République italienne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Pour la République portugaise:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Pour le Royaume d'Espagne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 ANNEXE 1
 
 Equivalence des classifications de sécurité
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Note. - La France n'a pas de marquage de classification équivalent à «EUROFOR restricted» mais traite et protège les informations classifiées de ce niveau selon ses lois et réglementations en vigueur pour le niveau de protection «diffusion restreinte» qui ne sont pas moins strictes que celles des autres Parties.
 
@@ -448,25 +448,25 @@ Fatto in Roma, il 11-10-2007, in quattro originali, in lingua italiana, francese
 
 Per la Repubblica francese:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Per la Repubblica italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Per la Repubblica portoghese:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Per il Regno di Spagna:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 ANNESSO 1
 
 Equivalenza delle classifiche di sicurezza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Nota. - La Francia non ha un contrassegno di classificazione equivalente a EUROFOR restricted ma tratta e protegge le informazioni classificate a questo livello in conformità con le proprie leggi e regolamenti in vigore per il livello di protezione «diffusion restreinte», che non sono meno stringenti di quelli delle altre Parti.
 
@@ -594,23 +594,23 @@ Feito em Roma em 11 de Outubro de 2007, em quatro originais, nas línguas france
 
 Pela República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Pela República Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Pelo Reino de Espanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 ## ANEXO N.º 1 — Equivalência das classificações de segurança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Nota. - A França não tem marca de classificação equivalente ao EUROFOR restricted mas manuseia e protege informação classificada deste nível em conformidade com a sua legislação e regulamentos em vigor para o nível de protecção «diffusion restreinte», que não é menos restrito que os das outras Partes.
 
@@ -768,22 +768,22 @@ Hecho en Roma, el 11-10-2007, en cuatro originales, en francés, italiano, portu
 
 Por la República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Por la República Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Por la República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Por el Reino de España:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 ## ANEXO 1 — Equivalencia de las clasificaciones de seguridad
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02900/0091100920.pdf)
 
 Nota. - Francia no tiene ninguna marca de clasificación equivalente a EUROFOR restricted pero maneja y protege la información clasificada a ese nivel según sus leyes y reglamentos en vigor para el nivel de protección «diffusion restreinte», que no son menos estrictos que los de las otras Partes.

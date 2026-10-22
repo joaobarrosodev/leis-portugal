@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 294/1975, 2º Suplemento, Série I de 1975-12-22
   number: '294'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2116-(3) a 2116-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29402/00030004.pdf
 entry_into_force_dates: []
@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/729-a-1975-307265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ddac6b2eba7d5bbef007b3f336ecd6f115401b617795d93d363c0684718962a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 420604edf5c624f639d21a1cbca00a58b3c9cc6cec10d9ff328cfca3deec0276
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Despesas Públicas
+- Dotação Orçamental
+- Ministério das Finanças
+- Orçamento Geral do Estado
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:354909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:09Z'
   warnings: []
   errors: []
 ---
@@ -88,49 +101,49 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 95287977$50, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 95287977$50, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
-### Capítulo 14.º «Despesas comuns»:
+Capítulo 14.º «Despesas comuns»:
 
 Despesas militares em harmonia com compromissos tomados internacionalmente
 
-###### Artigo 345.º «Bens duradouros» ... 6310012$50
+Artigo 345.º «Bens duradouros» ... 6310012$50
 
 Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 8.º «Instituto de Reorganização Agrária»:
+Capítulo 8.º «Instituto de Reorganização Agrária»:
 
-###### Artigo 248.º «Outras despesas correntes», n.º 1 «Administração de propriedades, nos termos do [Decreto-Lei n.º 37271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37271-1948-354909), de 31 de Dezembro de 1948» ... 8000000$00
+Artigo 248.º «Outras despesas correntes», n.º 1 «Administração de propriedades, nos termos do [Decreto-Lei n.º 37271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37271-1948-354909), de 31 de Dezembro de 1948» ... 8000000$00
 
-### Capítulo 38.º «Contas de ordem»:
+Capítulo 38.º «Contas de ordem»:
 
-###### Artigo 556.º-A «Instituto de Apoio às Pequenas e Médias Empresas Industriais» ... 500000$00
+Artigo 556.º-A «Instituto de Apoio às Pequenas e Médias Empresas Industriais» ... 500000$00
 
-###### Artigo 557.º «Fundo de Turismo» ... 60000000$00
+Artigo 557.º «Fundo de Turismo» ... 60000000$00
 
 Secretaria de Estado da Indústria e Energia
 
-### Capítulo 49.º «Direcção-Geral de Minas e Serviços Geológicos»:
+Capítulo 49.º «Direcção-Geral de Minas e Serviços Geológicos»:
 
 Indústria
 
 Inventário e valorização de recursos minerais do País
 
-###### Artigo 595.º «Outras despesas correntes» ... 1500000$00
+Artigo 595.º «Outras despesas correntes» ... 1500000$00
 
 ... 70000000$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 3.º «Serviços externos do Ministério»:
+Capítulo 3.º «Serviços externos do Ministério»:
 
 Missões diplomáticas e consulados
 
-###### Artigo 60.º «Bens não duradouros», n.º 4 «Outros bens não duradouros» ... 468000$00
+Artigo 60.º «Bens não duradouros», n.º 4 «Outros bens não duradouros» ... 468000$00
 
 Ministério do Equipamento Social e do Ambiente
 
@@ -138,56 +151,56 @@ Secretarias de Estado das Obras Públicas e da Habitação e Urbanismo
 
 Secretaria de Estado das Obras Públicas
 
-### Capítulo 8.º «Junta Autónoma de Estradas»:
+Capítulo 8.º «Junta Autónoma de Estradas»:
 
-###### Artigo 186.º «Remunerações diversas - Previdência social», n.º 2 «Subsídio de Natal» ... 2455965$00
+Artigo 186.º «Remunerações diversas - Previdência social», n.º 2 «Subsídio de Natal» ... 2455965$00
 
 Secretarias de Estado dos Transportes e Comunicações e da Marinha Mercante
 
 Secretaria de Estado dos Transportes e Comunicações
 
-### Capítulo 1.º «Gabinete do Secretário de Estado»:
+Capítulo 1.º «Gabinete do Secretário de Estado»:
 
-###### Artigo 10.º «Despesas gerais de funcionamento», n.º 6 «Locação de bens» ... 54000$00
+Artigo 10.º «Despesas gerais de funcionamento», n.º 6 «Locação de bens» ... 54000$00
 
 Ministério da Comunicação Social
 
-### Capítulo 4.º «Serviços do Ministério da Comunicação Social»:
+Capítulo 4.º «Serviços do Ministério da Comunicação Social»:
 
-###### Artigo 35.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 1 «Pessoal dos quadros» ... 16000000$00
+Artigo 35.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 1 «Pessoal dos quadros» ... 16000000$00
 
 ... 95287977$50
 
-###### Art. 2.º Para compensação dos créditos destinados no artigo anterior, são efectuadas as seguintes alterações no actual Orçamento Geral do Estado, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos destinados no artigo anterior, são efectuadas as seguintes alterações no actual Orçamento Geral do Estado, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 1.º, grupo 1, artigo 2.º «Contribuição predial» ... 16000000$00
+Capítulo 1.º, grupo 1, artigo 2.º «Contribuição predial» ... 16000000$00
 
-### Capítulo 5.º, grupo 3, artigo 96.º «Transferências diversas» ... 54000$00
+Capítulo 5.º, grupo 3, artigo 96.º «Transferências diversas» ... 54000$00
 
-### Capítulo 7.º, grupo 9, artigo 117.º «Serviços diversos» ... 468000$00
+Capítulo 7.º, grupo 9, artigo 117.º «Serviços diversos» ... 468000$00
 
-### Capítulo 7.º, grupo 10, artigo 127.º «Diversos serviços e bens não duradouros: Serviços Agrícolas - Instituto de Reorganização Agrária» ... 8000000$00
+Capítulo 7.º, grupo 10, artigo 127.º «Diversos serviços e bens não duradouros: Serviços Agrícolas - Instituto de Reorganização Agrária» ... 8000000$00
 
-### Capítulo 14.º, artigo 162.º «Reposições não abatidas nos pagamentos» ... 8765977$50
+Capítulo 14.º, artigo 162.º «Reposições não abatidas nos pagamentos» ... 8765977$50
 
-### Capítulo 15.º, artigo 173.º-A «Instituto de Apoio às Pequenas e Médias Empresas Industriais» ... 500000$00
+Capítulo 15.º, artigo 173.º-A «Instituto de Apoio às Pequenas e Médias Empresas Industriais» ... 500000$00
 
-### Capítulo 15.º, artigo 174.º «Fundo de Turismo» ... 60000000$00
+Capítulo 15.º, artigo 174.º «Fundo de Turismo» ... 60000000$00
 
 Receita extraordinária:
 
-### Capítulo 12.º, grupo 9, artigo 199.º «Crédito interno» ... 1500000$00
+Capítulo 12.º, grupo 9, artigo 199.º «Crédito interno» ... 1500000$00
 
 ... 95287977$50
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Luís Cordes da Ponte Marques do Carmo - António Poppe Lopes Cardoso - Ernesto Augusto de Melo Antunes - Álvaro Augusto Veiga de Oliveira - Walter Ruivo Pinto Gomes Rosa - António de Almeida Santos.
 
-**Promulgado em 19 de Dezembro de 1975.**
+Promulgado em 19 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

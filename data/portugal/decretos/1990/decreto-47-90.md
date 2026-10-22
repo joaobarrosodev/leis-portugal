@@ -47,36 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47-1990-565981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18dcf1d0770ad64dfeb71c7d477f3fc632cc829d6d0a4b242289ddb35b9f1247
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b84b9dd17a4cec298731847e2977180a2a998cf912ec24864bf25683443a9b56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Águas Públicas
+- Albufeiras
+- Barragem da Aguieira
+- Barragem de Fronhas
+- Barragem do Coiço
+- Câmara Municipal
+- Comissão de Coordenação da Região Centro
+- Direcção Geral do Ordenamento do Território
+- Direcção Geral dos Recursos Naturais
+- Fiscalização
+- Medidas Preventivas
+- Prozag
+- Recursos Hídricos
+relationships:
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548180:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:22Z'
   warnings: []
   errors: []
 ---
@@ -93,41 +134,41 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Fica sujeita a medidas preventivas, nos termos do artigo 5.º do [Decreto-Lei n.º 176-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-a-1988-476568), de 18 de Maio, e do capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, pelo prazo de dois anos a contar da data da entrada em vigor do presente diploma ou até à aprovação do Plano Regional de Ordenamento do Território para a Zona Envolvente das Barragens da Aguieira, Coiço e Fronhas (PROZAG), se esta ocorrer no decurso daquele prazo, a área definida na planta anexa ao presente diploma, que dele faz parte integrante, a qual inclui as seguintes freguesias e partes de freguesias:
+Artigo 1.º Fica sujeita a medidas preventivas, nos termos do artigo 5.º do [Decreto-Lei n.º 176-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-a-1988-476568), de 18 de Maio, e do capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, pelo prazo de dois anos a contar da data da entrada em vigor do presente diploma ou até à aprovação do Plano Regional de Ordenamento do Território para a Zona Envolvente das Barragens da Aguieira, Coiço e Fronhas (PROZAG), se esta ocorrer no decurso daquele prazo, a área definida na planta anexa ao presente diploma, que dele faz parte integrante, a qual inclui as seguintes freguesias e partes de freguesias:
 
 Município de Arganil:
 
 Freguesia de Sarzedo;
 
-# Parte das freguesias de Arganil, Pombeiro da Beira, São Martinho da Cortiça e Secarias;
+Parte das freguesias de Arganil, Pombeiro da Beira, São Martinho da Cortiça e Secarias;
 
 Município de Carregal do Sal:
 
 Freguesias de Currelos, Parada e Papízios;
 
-# Parte das freguesias de Oliveira do Conde e Sobral de Papízios;
+Parte das freguesias de Oliveira do Conde e Sobral de Papízios;
 
 Município de Mortágua:
 
-# Parte das freguesias de Almaça, Cercosa, Mortágua, Sobral e Marmeleira;
+Parte das freguesias de Almaça, Cercosa, Mortágua, Sobral e Marmeleira;
 
 Município de Tábua:
 
 Freguesias de Ázere, Carapinha e Covelo;
 
-# Parte das freguesias de Midões, Mouronho, Póvoa de Midões, Sinde e Tábua;
+Parte das freguesias de Midões, Mouronho, Póvoa de Midões, Sinde e Tábua;
 
 Município de Penacova:
 
-# Parte das freguesias de Oliveira do Mondego, Travanca do Montego, Penacova, São Paio do Mondego e São Pedro de Alva.
+Parte das freguesias de Oliveira do Mondego, Travanca do Montego, Penacova, São Paio do Mondego e São Pedro de Alva.
 
 Município de Santa Comba Dão:
 
 Freguesias de Santa Comba Dão e Ovoa;
 
-# Parte das freguesias de Pinheiro de Ázere, Couto do Mosteiro, São Joaninho, São João de Areias, Treixedo e Vimieiro.
+Parte das freguesias de Pinheiro de Ázere, Couto do Mosteiro, São Joaninho, São João de Areias, Treixedo e Vimieiro.
 
-###### Art. 2.º - 1 - As medidas preventivas referidas no artigo anterior consistem, sem prejuízo de quaisquer outras competências ou condicionamentos legalmente exigidos, em sujeitar à prévia autorização da câmara municipal respectiva, precedida de parecer favorável da Comissão de Coordenação da Região do Centro, a prática dos actos ou actividades seguintes:
+Art. 2.º - 1 - As medidas preventivas referidas no artigo anterior consistem, sem prejuízo de quaisquer outras competências ou condicionamentos legalmente exigidos, em sujeitar à prévia autorização da câmara municipal respectiva, precedida de parecer favorável da Comissão de Coordenação da Região do Centro, a prática dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos habitacionais;
 
@@ -151,26 +192,26 @@ f) Destruição do coberto vegetal em áreas superiores a 5000 m2 que não se de
 
 6 - A não emissão do parecer da Comissão de Coordenação da Região do Centro no prazo referido no número anterior interpretar-se-á como favorável.
 
-###### Art. 3.º - 1 - A Direcção-Geral de Geologia e Minas, nos processos de licenciamento de estabelecimentos para exploração de pedreiras que, nos termos do [Decreto-Lei n.º 89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156), de 16 de Março, sejam da sua competência, terá de solicitar à Comissão de Coordenação da Região do Centro a emissão de parecer, sendo o parecer desta Comissão relativo às explorações localizadas na área do PROZAG vinculativo.
+Art. 3.º - 1 - A Direcção-Geral de Geologia e Minas, nos processos de licenciamento de estabelecimentos para exploração de pedreiras que, nos termos do [Decreto-Lei n.º 89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156), de 16 de Março, sejam da sua competência, terá de solicitar à Comissão de Coordenação da Região do Centro a emissão de parecer, sendo o parecer desta Comissão relativo às explorações localizadas na área do PROZAG vinculativo.
 
 2 - Aos processos previstos no número anterior é aplicável, com as devidas adaptações, o disposto nos n.os 4, 5 e 6 do artigo anterior.
 
-###### Art. 4.º As câmaras municipais, a Comissão de Coordenação da Região do Centro, a Direcção-Geral do Ordenamento do Território e a Direcção-Geral dos Recursos Naturais, na área sob a sua jurisdição, são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+Art. 4.º As câmaras municipais, a Comissão de Coordenação da Região do Centro, a Direcção-Geral do Ordenamento do Território e a Direcção-Geral dos Recursos Naturais, na área sob a sua jurisdição, são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Presidência do Conselho de Ministros, 3 de Setembro de 1990.
 
 Aníbal António Cavaco Silva - José Manuel Nunes Liberato - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Fernando Nunes Ferreira Real.
 
-**Assinado em 12 de Outubro de 1990.**
+Assinado em 12 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Outubro de 1990.**
+Referendado em 17 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/25000/44574458.pdf))](https://files.diariodarepublica.pt/1s/1990/10/25000/44574458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/25000/44574458.pdf)

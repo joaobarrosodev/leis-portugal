@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/12-1988-374233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57435b0c8db5c94b61aa4c8684dd308ecb2bbde36eb3dbfe8b7b6dd2c686ad64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea2d05af556701b62de9c284b7575f50afc530c70dc0df2ed22e0581ba2aa4f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Droga
+- Luanda
+- Países de Língua Portuguesa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:15Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 28 de Maio
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada a Convenção sobre Assistência Mútua Administrativa entre Estados de Língua Oficial Portuguesa em Matéria de Luta contra o Tráfico Ilícito de Estupefacientes e de Substâncias Psicotrópicas, concluída em 26 de Setembro de 1986, cujo texto em língua portuguesa segue em anexo.
+Artigo único. É aprovada a Convenção sobre Assistência Mútua Administrativa entre Estados de Língua Oficial Portuguesa em Matéria de Luta contra o Tráfico Ilícito de Estupefacientes e de Substâncias Psicotrópicas, concluída em 26 de Setembro de 1986, cujo texto em língua portuguesa segue em anexo.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 29 de Abril de 1988.**
+Assinado em 29 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1988.**
+Referendado em 5 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENÇÃO SOBRE ASSISTÊNCIA MÚTUA ADMINISTRATIVA ENTRE PAÍSES DE LÍNGUA OFICIAL PORTUGUESA EM MATÉRIA DE LUTA CONTRA O TRÁFICO ILÍCITO DE ESTUPEFACIENTES E DE SUBSTÂNCIAS PSICOTRÓPICAS.
 
@@ -115,7 +120,7 @@ acordam no seguinte:
 
 ### CAPÍTULO I — Definições e campo de aplicação
 
-###### Artigo 1.º Para efeitos da presente Convenção, entende-se por:
+Artigo 1.º Para efeitos da presente Convenção, entende-se por:
 
 a) «Tráfico ilícito», a prática de actos de natureza fraudulenta com o intuito de fazer entrar ou sair do território nacional estupefacientes ou substâncias psicotrópicas;
 
@@ -123,11 +128,11 @@ b) «Pessoa», tanto as pessoas singulares como as pessoas colectivas;
 
 c) «Administração aduaneira», o organismo encarregado da aplicação da legislação aduaneira.
 
-###### Art. 2.º As administrações aduaneiras das Partes Contratantes prestarão entre si mútua assistência nas condições definidas na presente Convenção com o fim de prevenir, investigar e reprimir o tráfico ilícito de estupefacientes e de substâncias psicotrópicas.
+Art. 2.º As administrações aduaneiras das Partes Contratantes prestarão entre si mútua assistência nas condições definidas na presente Convenção com o fim de prevenir, investigar e reprimir o tráfico ilícito de estupefacientes e de substâncias psicotrópicas.
 
 ### CAPÍTULO II — Comunicação de informações
 
-###### Art. 3.º A administração aduaneira de cada Parte Contratante comunicará às administrações aduaneiras das outras Partes Contratantes:
+Art. 3.º A administração aduaneira de cada Parte Contratante comunicará às administrações aduaneiras das outras Partes Contratantes:
 
 a) Espontaneamente e sem demora, todas as informações de que disponha sobre:
 
@@ -143,7 +148,7 @@ b) A pedido expresso, todas as informações referidas na alínea anterior.
 
 ### CAPÍTULO III — Assistência em matéria de fiscalização
 
-###### Art. 4.º A administração aduaneira de cada Parte Contratante, a pedido da administração aduaneira de outra Parte Contratante, exercerá, na medida da sua competência e das suas possibilidades, uma fiscalização especial durante um período determinado:
+Art. 4.º A administração aduaneira de cada Parte Contratante, a pedido da administração aduaneira de outra Parte Contratante, exercerá, na medida da sua competência e das suas possibilidades, uma fiscalização especial durante um período determinado:
 
 a) Na entrada e na saída do seu território de determinadas pessoas suspeitas de se dedicarem profissional ou habitualmente ao tráfico ilícito de estupefacientes ou de substâncias psicotrópicas no território da Parte solicitante;
 
@@ -153,7 +158,7 @@ c) Sobre determinadas embarcações, aeronaves e outros meios de transporte susp
 
 ### CAPÍTULO IV — Inquérito efectuado a pedido de uma Parte Contratante
 
-###### Art. 5.º Dentro dos limites da sua competência e no âmbito da respectiva legislação nacional, a administração aduaneira de uma Parte Contratante, a pedido expresso de outra Parte Contratante:
+Art. 5.º Dentro dos limites da sua competência e no âmbito da respectiva legislação nacional, a administração aduaneira de uma Parte Contratante, a pedido expresso de outra Parte Contratante:
 
 a) Procederá à realização de investigações destinadas a obter elementos de prova respeitantes ao tráfico ilícito de estupefacientes e de substâncias psicotrópicas que sejam objecto de investigação no território da Parte solicitante;
 
@@ -161,21 +166,21 @@ b) Transmitirá à administração aduaneira da Parte solicitante o resultado da
 
 ### CAPÍTULO V — Disposições gerais
 
-###### Art. 6.º - 1 - As administrações aduaneiras das Partes Contratantes adoptarão as disposições necessárias para que os responsáveis dos seus serviços encarregados de prevenção, investigação e repressão do tráfico ilícito de estupefacientes e de substâncias psicotrópicas estejam em contacto pessoal e directo.
+Art. 6.º - 1 - As administrações aduaneiras das Partes Contratantes adoptarão as disposições necessárias para que os responsáveis dos seus serviços encarregados de prevenção, investigação e repressão do tráfico ilícito de estupefacientes e de substâncias psicotrópicas estejam em contacto pessoal e directo.
 
 2 - A lista dos funcionários referidos no número anterior será remetida pela administração aduaneira de cada Parte Contratante às administrações aduaneiras das outras Partes Contratantes.
 
-###### Art. 7.º - 1 - Todas as informações e documentos facultados de acordo com as disposições da presente Convenção serão considerados confidenciais, só podendo ser utilizados com o fim de prevenir, investigar e reprimir o tráfico ilícito de estupefacientes e de substâncias psicotrópicas.
+Art. 7.º - 1 - Todas as informações e documentos facultados de acordo com as disposições da presente Convenção serão considerados confidenciais, só podendo ser utilizados com o fim de prevenir, investigar e reprimir o tráfico ilícito de estupefacientes e de substâncias psicotrópicas.
 
 2 - As informações e os documentos poderão ser utilizados tanto nos autos, informações e depoimentos como no curso dos processos e deprecadas perante as autoridades administrativas ou judiciais de uma Parte Contratante, salvo reserva expressa da administração aduaneira da outra Parte Contratante.
 
 ### CAPÍTULO VI — Cláusulas finais
 
-###### Art. 8.º A presente Convenção é aplicável no território aduaneiro de cada uma das Partes Contratantes tal como é definido na respectiva legislação.
+Art. 8.º A presente Convenção é aplicável no território aduaneiro de cada uma das Partes Contratantes tal como é definido na respectiva legislação.
 
-###### Art. 9.º Qualquer diferendo entre duas ou mais Partes Contratantes relativamente à interpretação ou à aplicação da presente Convenção será resolvido por meio de negociações directas entre as referidas Partes, podendo ser ouvidas as demais Partes Contratantes.
+Art. 9.º Qualquer diferendo entre duas ou mais Partes Contratantes relativamente à interpretação ou à aplicação da presente Convenção será resolvido por meio de negociações directas entre as referidas Partes, podendo ser ouvidas as demais Partes Contratantes.
 
-###### Art. 10.º Qualquer Estado de língua oficial portuguesa poderá tornar-se Parte Contratante da presente Convenção:
+Art. 10.º Qualquer Estado de língua oficial portuguesa poderá tornar-se Parte Contratante da presente Convenção:
 
 a) Assinando-a sem reserva de ratificação;
 
@@ -183,17 +188,17 @@ b) Depositando um instrumento de ratificação depois de a ter assinado sob rese
 
 c) A ela aderindo.
 
-###### Art. 11.º - 1 - A presente Convenção entrará em vigor um mês após três dos Estados a terem assinado sem reserva de ratificação ou terem depositado o seu instrumento de ratificação ou de adesão.
+Art. 11.º - 1 - A presente Convenção entrará em vigor um mês após três dos Estados a terem assinado sem reserva de ratificação ou terem depositado o seu instrumento de ratificação ou de adesão.
 
 2 - Relativamente a qualquer Estado que assine a presente Convenção sem reserva de ratificação, que a ratifique ou que a ela adira após a mesma ter entrado em vigor, esta obrigará esse Estado decorrido um mês a contar da data da referida assinatura sem reserva de ratificação ou de depósito do instrumento de ratificação ou de adesão.
 
-###### Art. 12.º - 1 - A presente Convenção é de duração ilimitada. Todavia, qualquer Parte Contratante poderá denunciá-la em qualquer momento dois anos depois da entrada em vigor nesse Estado.
+Art. 12.º - 1 - A presente Convenção é de duração ilimitada. Todavia, qualquer Parte Contratante poderá denunciá-la em qualquer momento dois anos depois da entrada em vigor nesse Estado.
 
 2 - A denúncia será notificada por documento escrito ao Ministério dos Negócios Estrangeiros de Portugal.
 
 3 - A denúncia produzirá efeitos seis meses depois do recebimento da respectiva notificação pelo Ministério dos Negócios Estrangeiros de Portugal.
 
-###### Art. 13.º O Ministério dos Negócios Estrangeiros de Portugal notificará as Partes Contratantes da presente Convenção:
+Art. 13.º O Ministério dos Negócios Estrangeiros de Portugal notificará as Partes Contratantes da presente Convenção:
 
 a) Das assinaturas, ratificações e adesões a que alude o artigo 10.º da presente Convenção;
 

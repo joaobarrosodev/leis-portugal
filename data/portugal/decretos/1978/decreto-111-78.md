@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24100/22112216.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/111-1978-328026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 926057b9ac9e7dcbb7f85428f703c73e2a8f7c2966926f4d60f51d759c316e8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc53214af6ea1755c44a7b9937542996acfea61d0980422a76b0d719be227648
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ciências Farmacêuticas
+- Curso de Ciências Farmacêuticas
+- Faculdade de Farmácia
+- Licenciatura
+- Plano de Estudos
+- Universidade de Coimbra
+- Universidade de Lisboa
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:355540:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterados os arts. 1º, 4º e 9º pelo DEC.17/83.1983.02.25.ME, DR.IS [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-02-25'
+- type: amended_by
+  target: pt:dre:616610:por
+  label: "Alterado o plano de estudos do 1º semestre do 5º ano curricular do ramo de Análises Químico-Biológicas do curso\
+    \ de licenciatura em Ciências Farmacêuticas da Faculdade de Farmácia da Universidade do Porto, fixado pelo presente diploma,\
+    \ pela PORT.12/86.1986.01.10.MEC DR.IS [8]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/12-1986-616610
+  date: '1986-01-10'
+- type: cites
+  target: pt:dre:596566:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:355540:por
+  label: Revogado o presente diploma, alterado pelo Dec 17/83, de 25-Fev, pelo(a) Decreto n.º 37/88 - Diário da República
+    n.º 226/1988, Série I de 1988-09-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/37-1988-355540
+  date: '1988-09-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:50Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +140,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As Universidades passam a conferir, em cada uma das suas Faculdades de Farmácia, o grau de licenciado em Ciências Farmacêuticas nas opções de Farmácia de Oficina e Hospitalar (opção A), Farmácia Industrial (opção B) e Análises Químico-Biológicas (opção C).
+Artigo 1.º - 1 - As Universidades passam a conferir, em cada uma das suas Faculdades de Farmácia, o grau de licenciado em Ciências Farmacêuticas nas opções de Farmácia de Oficina e Hospitalar (opção A), Farmácia Industrial (opção B) e Análises Químico-Biológicas (opção C).
 
 2 - O plano de estudos conducentes à atribuição daquele grau é o fixado no mapa anexo ao presente diploma.
 
-###### Art. 2.º - 1 - Fora dos casos em que a natureza especial das matérias professadas justifique a adopção de regime diverso, o ensino das disciplinas do plano de estudos ora instituído será teórico, prático e teórico-prático.
+Art. 2.º - 1 - Fora dos casos em que a natureza especial das matérias professadas justifique a adopção de regime diverso, o ensino das disciplinas do plano de estudos ora instituído será teórico, prático e teórico-prático.
 
 2 - Por ensino teórico-prático entende-se o que é dirigido no sentido não apenas de estimular e desenvolver as capacidades de reflexão e crítica dos alunos, mas também de proporcionar a realização de exercícios de revisão, aplicação e aprofundamento dos conhecimentos adquiridos.
 
@@ -126,19 +156,19 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 6 - Constitui escolaridade mínima obrigatória a presença dos alunos em, pelo menos, três quartos do número de aulas práticas e ou teórico-práticas previsto para cada disciplina.
 
-###### Art. 3.º - 1 - Os exames finais realizar-se-ão durante os últimos trinta dias do semestre em que for professada a respectiva disciplina.
+Art. 3.º - 1 - Os exames finais realizar-se-ão durante os últimos trinta dias do semestre em que for professada a respectiva disciplina.
 
 2 - Em Outubro funcionará ainda uma época especial para a prestação de exames finais de disciplinas em atraso dos 1.º e ou 2.º semestres, cujo número não poderá ser superior a dois ou três, consoante, respectivamente, se trate de alunos dos quatro primeiros anos ou do último ano da parte escolar da licenciatura, quando assim esta possa ser concluída.
 
 3 - Haverá, em qualquer caso, uma única chamada para o exame de cada disciplina.
 
-###### Art. 4.º - 1 - A precedência das disciplinas do novo plano de estudos é a constante da tabela anexa ao presente diploma.
+Art. 4.º - 1 - A precedência das disciplinas do novo plano de estudos é a constante da tabela anexa ao presente diploma.
 
 2 - A inscrição numa disciplina sujeita a precedência depende da obtenção de frequência na disciplina precedente, ficando, porém, a aprovação naquela condicionada pela aprovação nesta.
 
 3 - Em caso de sucessão de precedências, a inscrição numa determinada disciplina depende da obtenção de frequência na disciplina imediatamente precedente e da aprovação em todas as anteriores.
 
-###### Art. 5.º - 1 - Salvo o disposto no número subsequente, as disciplinas das Faculdades de Farmácia distribuem-se pelos três grupos seguintes:
+Art. 5.º - 1 - Salvo o disposto no número subsequente, as disciplinas das Faculdades de Farmácia distribuem-se pelos três grupos seguintes:
 
 1.º grupo
 
@@ -302,7 +332,7 @@ Estatística e Contrôle de Qualidade;
 
 Tecnologia Geral.
 
-###### Art. 6.º - 1 - Uma vez concluídos com aproveitamento os estudos correspondentes à opção seguida, os alunos têm de realizar estágios relacionados com as respectivas matérias, cujo âmbito será definido pelos conselhos científicos.
+Art. 6.º - 1 - Uma vez concluídos com aproveitamento os estudos correspondentes à opção seguida, os alunos têm de realizar estágios relacionados com as respectivas matérias, cujo âmbito será definido pelos conselhos científicos.
 
 2 - Os estágios poderão efectuar-se nas Faculdades de Farmácia e ou em outros estabelecimentos públicos ou privados reconhecidos como idóneos pelos conselhos científicos respectivos.
 
@@ -314,17 +344,17 @@ Tecnologia Geral.
 
 6 - Findo o estágio, o licenciado elaborará relatório circunstanciado de todo o trabalho desenvolvido, o qual, depois de apreciado e sancionado pelos supervisores responsáveis, será presente a um júri designado pelos conselhos científicos, para efeitos de atribuição da respectiva classificação.
 
-###### Art. 7.º A informação final da licenciatura será votada pelos conselhos científicos e corresponderá à média arredondada dos seguintes valores ponderados e aproximados às décimas:
+Art. 7.º A informação final da licenciatura será votada pelos conselhos científicos e corresponderá à média arredondada dos seguintes valores ponderados e aproximados às décimas:
 
 a) Média aritmética das classificações obtidas nas disciplinas comuns às diferentes opções, à qual se atribuirá o coeficiente 2;
 
 b) Média aritmética das classificações obtidas nas disciplinas específicas de cada opção e no respectivo estágio, à qual se atribuirá o coeficiente 3.
 
-###### Art. 8.º - 1 - As opções de licenciatura previstas no artigo 1.º deste diploma fornecem uma preparação diferenciada, que deverá ser diferentemente titulada, para efeitos profissionais, pelo organismo ou organismos para tal competentes.
+Art. 8.º - 1 - As opções de licenciatura previstas no artigo 1.º deste diploma fornecem uma preparação diferenciada, que deverá ser diferentemente titulada, para efeitos profissionais, pelo organismo ou organismos para tal competentes.
 
 2 - Sem prejuízo da diferenciação a que alude o número anterior, será lícito aos indivíduos já licenciados numa opção obterem a licenciatura noutra, mediante a concessão de regimes especiais de equivalências a definir por despacho do Ministro da Educação e Cultura, sob proposta do Conselho Nacional do Ensino Superior.
 
-###### Art. 9.º - 1 - As Faculdades de Farmácia poderão organizar cursos de pós-graduação, cuja designação coincidirá com a do respectivo ramo do conhecimento, acrescentada da especialidade sobre que hajam incidido.
+Art. 9.º - 1 - As Faculdades de Farmácia poderão organizar cursos de pós-graduação, cuja designação coincidirá com a do respectivo ramo do conhecimento, acrescentada da especialidade sobre que hajam incidido.
 
 2 - Os cursos de pós-graduação obedecerão a planos de estudo a submeter, sob proposta dos conselhos científicos e parecer do órgão a que alude o n.º 2 do artigo precedente, à aprovação do Ministro da Educação e Cultura, devendo corresponder a um mínimo de doze e ao máximo de vinte e quatro meses de escolaridade de matéria especializada com, pelo menos, doze horas semanais de aulas ou seminários.
 
@@ -332,35 +362,35 @@ b) Média aritmética das classificações obtidas nas disciplinas específicas 
 
 4 - A lei regulará as condições de admissão e as demais normas de funcionamento dos cursos de pós-graduação efectuados em estabelecimentos de ensino universitário, estabelecendo ainda qual o grau académico inerente à aprovação neles obtida.
 
-###### Art. 10.º As Faculdades de Farmácia poderão também, sob a exclusiva responsabilidade dos respectivos conselhos científicos e pedagógicos, ministrar cursos de aperfeiçoamento e actualização de conhecimentos, destinados aos seus licenciados ou a diplomados com outras licenciaturas.
+Art. 10.º As Faculdades de Farmácia poderão também, sob a exclusiva responsabilidade dos respectivos conselhos científicos e pedagógicos, ministrar cursos de aperfeiçoamento e actualização de conhecimentos, destinados aos seus licenciados ou a diplomados com outras licenciaturas.
 
-###### Art. 11.º - 1 - O plano de estudos a que se refere o n.º 2 do artigo 1.º deste diploma será posto em prática a partir de 1978-1979, para o 1.º ano, e progressivamente, nos anos seguintes, para os restantes.
+Art. 11.º - 1 - O plano de estudos a que se refere o n.º 2 do artigo 1.º deste diploma será posto em prática a partir de 1978-1979, para o 1.º ano, e progressivamente, nos anos seguintes, para os restantes.
 
 2 - À medida que o novo plano de estudos se for aplicando aos vários anos do curso, deixarão de ser professadas as disciplinas do plano de estudos anterior.
 
 3 - Os alunos que ainda não tenham obtido aprovação em disciplinas do plano de estudos anterior, quando as mesmas deixarem de ser leccionadas de acordo com o n.º 2, poderão apresentar-se aos exames das disciplinas do novo plano de estudos que vierem a ser consideradas equivalentes pelos conselhos científicos durante os dois anos lectivos seguintes.
 
-###### Art. 12.º - 1 - Os diplomados com o curso profissional de Farmácia poderão concluir a licenciatura prevista no [Decreto n.º 21853](https://diariodarepublica.pt/dr/detalhe/decreto/21853-1932-596566), de 8 de Novembro, e legislação complementar, desde que procedam, nos termos legais, à respectiva inscrição até ao início do ano lectivo de 1980-1981.
+Art. 12.º - 1 - Os diplomados com o curso profissional de Farmácia poderão concluir a licenciatura prevista no [Decreto n.º 21853](https://diariodarepublica.pt/dr/detalhe/decreto/21853-1932-596566), de 8 de Novembro, e legislação complementar, desde que procedam, nos termos legais, à respectiva inscrição até ao início do ano lectivo de 1980-1981.
 
 2 - Se a inscrição não for efectuada naquele prazo, a conclusão da licenciatura obedecerá, obrigatoriamente, ao regime de estudos ora instituído, competindo neste caso aos conselhos científicos a atribuição das necessárias equivalências.
 
-###### Art. 13.º É revogado o [Decreto n.º 21853](https://diariodarepublica.pt/dr/detalhe/decreto/21853-1932-596566), de 8 de Novembro de 1932.
+Art. 13.º É revogado o [Decreto n.º 21853](https://diariodarepublica.pt/dr/detalhe/decreto/21853-1932-596566), de 8 de Novembro de 1932.
 
-###### Art. 14.º O Ministro da Educação e Cultura resolverá, por despacho, as dúvidas que se suscitem na interpretação e aplicação deste diploma.
+Art. 14.º O Ministro da Educação e Cultura resolverá, por despacho, as dúvidas que se suscitem na interpretação e aplicação deste diploma.
 
-###### Art. 15.º O presente decreto entrará em vigor no início do ano lectivo de 1978-1979.
+Art. 15.º O presente decreto entrará em vigor no início do ano lectivo de 1978-1979.
 
 Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 26 de Setembro de 1978.**
+Promulgado em 26 de Setembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o n.º 2 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/24100/22112216.pdf))](https://files.diariodarepublica.pt/1s/1978/10/24100/22112216.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24100/22112216.pdf)
 
 Tabela de precedências a que se refere o n.º 1 do artigo 4.º
 
@@ -642,4 +672,4 @@ Estatística e Contrôle de Qualidade:
 
 Matemática Aplicada.
 
-**O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.**
+O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.

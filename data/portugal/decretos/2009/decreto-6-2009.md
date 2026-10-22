@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/2009/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-2009-604654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e48f3cbf13f86670899068217d8e3066057964603e0bec15b9a366fd663e4792
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2a56d78dc34f244a4ef53203ac02d8827317387e6cdafa2af4736059315fad3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino não Superior
+- Bolsa de Estudos
 - Circulação de Pessoas
-- Juventude
-- Comissão Mista
 - Colômbia
+- Comissão Mista
 - Convenção
 - Cooperação Bilateral
-- Língua Portuguesa
-- Portugal
-- Direito de Autor
-- Equivalência de Habilitações Literárias
-- Património Cultural
-- Lisboa
-- Língua Estrangeira
 - Cooperação Cultural
 - Cooperação Internacional
+- Desporto
+- Direito de Autor
+- Ensino não Superior
+- Ensino Superior
 - Equiparação de Cursos
 - Equivalência de Diplomas
-- Ensino Superior
-- Bolsa de Estudos
-- Desporto
+- Equivalência de Habilitações Literárias
+- Juventude
+- Língua Estrangeira
+- Língua Portuguesa
+- Lisboa
+- Património Cultural
+- Portugal
 relationships: []
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:24Z'
   warnings: []
   errors: []
 ---
@@ -118,15 +118,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira - Maria de Lurdes Reis Rodrigues - Manuel Frederico Tojal de Valsassina Heitor - José António de Melo Pinto Ribeiro.
 
-**Assinado em 16 de Fevereiro de 2009.**
+Assinado em 16 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Fevereiro de 2009.**
+Referendado em 17 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO DE COOPERAÇÃO CULTURAL E EDUCATIVA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA COLÔMBIA
 
@@ -256,7 +256,7 @@ O presente Acordo entrará em vigor 30 dias após a data da recepção da últim
 
 Em fé do que, os abaixo assinados, estando devidamente autorizados, assinam o presente Acordo.
 
-**Assinado em Lisboa, a 8 de Janeiro de 2007, em dois exemplares originais, nas línguas portuguesa e espanhola, ambos os textos fazendo igualmente fé.**
+Assinado em Lisboa, a 8 de Janeiro de 2007, em dois exemplares originais, nas línguas portuguesa e espanhola, ambos os textos fazendo igualmente fé.
 
 Pela República Portuguesa:
 

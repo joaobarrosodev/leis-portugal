@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/26/2005/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/26-2005-492262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9a582d7c50296d4973f99e0fc8c5a13974ef8b93be0685c742f7af746a27dca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 707f922b0d1d5887c7faf5b00bb54567e292cff3dfcb1f1649aa1826b35e9bbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Argélia
-- Transporte Aéreo
 - Convenção
-- Portugal
 - Lisboa
-relationships: []
+- Portugal
+- Transporte Aéreo
+relationships:
+- type: amended_by
+  target: pt:dre:545850:por
+  label: "Tornado público, ter sido rectificado o Acordo sobre Transporte Aéreo entre a República Portuguesa e a República\
+    \ Democrática e Popular da Argélia, aprovado pelo presente diploma, pelo AV.718/2006.25.10.2006.MNE, DR.IS [219] de 14.11.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/718-2006-545850
+  date: '2006-10-25'
 article_structure:
   article_count: 25
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:16Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +107,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Mário Lino Soares Correia.
 
-**Assinado em 16 de Novembro de 2005.**
+Assinado em 16 de Novembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Novembro de 2005.**
+Referendado em 16 de Novembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO SOBRE TRANSPORTE AÉREO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA E POPULAR DA ARGÉLIA.
 
@@ -434,11 +441,11 @@ Abdelaziz Belkhadem, Ministro de Estado, Representante Pessoal do Presidente da 
 
 ## ANEXO
 
-#### Secção 1 - rotas a serem operadas em ambos os sentidos pelas empresas designadas da República Portuguesa:
+Secção 1 - rotas a serem operadas em ambos os sentidos pelas empresas designadas da República Portuguesa:
 
 Portugal - pontos intermédios - um ponto na Argélia - pontos além.
 
-#### Secção 2 - rotas a serem operadas em ambos os sentidos pelas empresas designadas da República Democrática e Popular da Argélia:
+Secção 2 - rotas a serem operadas em ambos os sentidos pelas empresas designadas da República Democrática e Popular da Argélia:
 
 Argélia - pontos intermédios - um ponto em Portugal - pontos além.
 

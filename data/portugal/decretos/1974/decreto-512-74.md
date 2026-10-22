@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/512-1974-472682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:34:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eff1d452c251873304a6bb06fa81e498951c075152a74992dd3754bb00d45876
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd9df2a81e46ec26abdafdbc8b55fe43af9510da02cf11d8ab7c3ede52aab35f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:680006:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:34:56Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +97,14 @@ Considerando o fim a que o terreno se destina e dado o parecer favorável dos se
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial a que foi submetida pelo [Decreto n.º 39964](https://diariodarepublica.pt/dr/detalhe/decreto/39964-1954-680006), publicado no Diário do Governo, 1.ª série, n.º 277, de 13 de Dezembro de 1954, e restituída à administração da Câmara Municipal de Tarouca uma parcela de terreno baldio do perímetro florestal da serra de Leomil, com a superfície de cerca de 750 m2, que se destina a ser vendida à empresa pública Correios e Telecomunicações de Portugal.
+Artigo 1.º É excluída do regime florestal parcial a que foi submetida pelo [Decreto n.º 39964](https://diariodarepublica.pt/dr/detalhe/decreto/39964-1954-680006), publicado no Diário do Governo, 1.ª série, n.º 277, de 13 de Dezembro de 1954, e restituída à administração da Câmara Municipal de Tarouca uma parcela de terreno baldio do perímetro florestal da serra de Leomil, com a superfície de cerca de 750 m2, que se destina a ser vendida à empresa pública Correios e Telecomunicações de Portugal.
 
-###### Art. 2.º A entrega desta parcela de terreno só será efectivada depois de a Câmara Municipal de Tarouca proceder à sua demarcação de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 2.º A entrega desta parcela de terreno só será efectivada depois de a Câmara Municipal de Tarouca proceder à sua demarcação de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 Vasco dos Santos Gonçalves - Manuel da Costa Brás - Emílio Rui da Veiga Peixoto Vilar - Alfredo Gonzalez Esteves Belo.
 
-**Promulgado em 24 de Setembro de 1974.**
+Promulgado em 24 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

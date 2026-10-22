@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-1990-573496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e229f47e5340b24c6e7bcb8a687ece1f8dca4de3739dc5646d6a3fbf646fe4c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88d546b1176ec06583a0cd8df4723bb56013c142039f93f4597f7b5c51d0d430
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Cooperação Policial
+- Cooperação Técnica
+- Mindelo
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:11Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +92,19 @@ de 9 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Técnica no Domínio da Polícia entre a República Portuguesa e a República de Cabo Verde, assinado no Mindelo, a 13 de Junho de 1988, em dois exemplares originais, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Técnica no Domínio da Polícia entre a República Portuguesa e a República de Cabo Verde, assinado no Mindelo, a 13 de Junho de 1988, em dois exemplares originais, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 1990. - Aníbal António Cavaco Silva - Manuel Pereira - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 25 de Julho de 1990.**
+Assinado em 25 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Julho de 1990.**
+Referendado em 25 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO TÉCNICA NO DOMÍNIO DA POLÍCIA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE.
 
@@ -112,41 +118,41 @@ Considerando os propósitos expressos no Acordo Geral de Cooperação e Amizade 
 
 decidem, numa base de plena independência, respeito pela soberania, não ingerência nos assuntos internos e reciprocidade de interesses, concluir o seguinte Acordo:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 A República de Cabo Verde e a República Portuguesa, adiante designadas «Partes», comprometem-se, na medida das suas possibilidades, em regime de reciprocidade e quando para tanto solicitadas, à prestação mútua de cooperação técnica no domínio da polícia.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1 - A cooperação técnica no domínio da polícia compreenderá acções de formação de pessoal, fornecimento de material e prestação de serviços.
 
 2 - Os termos da cooperação a desenvolver, em qualquer das modalidades previstas, poderão ser objecto de regulamentação própria por protocolo adicional.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 As acções de cooperação previstas no presente Acordo integrar-se-ão em programas de cooperação cujo âmbito, objectivo e responsabilidades de execução serão definidos, caso a caso, pelos serviços ou organismos designados como competentes pela legislação de cada Parte.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - Nos casos em que a execução das acções de cooperação previstas no presente Acordo exija a deslocação de pessoal, a Parte solicitada para prestar e coordenar as referidas acções poderá enviar para o território da Parte solicitante uma missão, que se integrará na embaixada, ficando na dependência do embaixador.
 
 2 - Ao pessoal referido no número anterior são aplicáveis as disposições da Convenção de Viena sobre Relações Diplomáticas Relativas aos Membros do Pessoal Administrativo e Técnico das Missões Diplomáticas.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - O pessoal de uma das Partes que frequente cursos ou estágios em unidades ou estabelecimentos da polícia da outra Parte ficará sujeito a um regime jurídico que definirá, nomeadamente, as condições de frequência dos referidos cursos ou estágios e as normas a que ficará sujeito.
 
 2 - O regime jurídico referido no número anterior será definido pelas competentes autoridades de cada Parte, dele devendo ser obrigatoriamente dado conhecimento à outra Parte por meio de troca de notas diplomáticas.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Com o objectivo de implementar as disposições do presente Acordo e assegurar a sua realização nas melhores condições, será constituída uma comissão mista paritária, que reunirá alternadamente em Portugal e Cabo Verde, devendo as suas reuniões, na medida do possível, coincidir com as da comissão mista prevista no Acordo Geral de Cooperação e Amizade.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Para execução do presente Acordo, a Parte Portuguesa concederá, na medida das suas possibilidades, bolsas para formação profissional e estágios e procurará implementar outras formas de apoio ao desenvolvimento dessas acções de formação.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - Constitui encargo da Parte solicitante, nas condições que, para efeito de liquidação, vierem a ser estabelecidas, por mútuo acordo, o custo do material fornecido pela Parte solicitada.
 
@@ -156,7 +162,7 @@ Para execução do presente Acordo, a Parte Portuguesa concederá, na medida das
 
 4 - A Parte solicitante compromete-se a promover e assegurar o transporte para deslocação em serviço dos membros da Missão.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1 - O presente Acordo entrará em vigor na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica de cada uma das Partes e será válido por um período de três anos, prorrogável por períodos iguais e sucessivos, salvo denúncia de uma das Partes, por escrito, com antecedência de pelo menos 180 dias antes da sua expiração.
 
@@ -164,7 +170,7 @@ Para execução do presente Acordo, a Parte Portuguesa concederá, na medida das
 
 3 - A suspensão da execução ou a denúncia nos termos referidos no número anterior, que deverão ser objecto de notificação escrita à outra Parte, não deverão ser consideradas actos inamistosos e delas não resultará, para a Parte que exerceu esse direito, qualquer responsabilidade perante a outra Parte.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 As Partes signatárias obrigam-se a resolver qualquer diferendo relacionado com a interpretação ou aplicação deste Acordo com espírito de amizade e compreensão mútua.
 

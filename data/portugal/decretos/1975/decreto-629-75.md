@@ -48,40 +48,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/629-1975-310393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b90680e6df7cc83aeb3a478e669df4b755b8199dbf9fcbc11eb3be91bd16a68a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 489c2b1c217eea8482ab21ca677a920d840b2ea8f0bebd56fe22482a737e24bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central da Marinha
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Conselho Administrativo
+- Contrato
+- Contrato de Aluguer
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:367234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424506:por
+  label: Elevado o montante anual fixado pelo presente diploma pelo(a) Decreto n.º 158/77 - Diário da República n.º 276/1977,
+    1º Suplemento, Série I de 1977-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/158-1977-424506
+  date: '1977-11-29'
+- type: amended_by
+  target: pt:dre:367234:por
+  label: "Alterado o montante anual fixado pelo DEC.132/79.03.12.1979.CR, DR.IS [278] de 03.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/132-1979-367234
+  date: '1979-12-03'
+- type: cites
+  target: pt:dre:167631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644148:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:29Z'
   warnings: []
   errors: []
 ---
@@ -102,14 +136,14 @@ Nestes termos, e tendo em vista o disposto no artigo 181.º e seu § 1.º do Reg
 
 Usando da faculdade conferida pelo artigo 6.º, n.º 1, da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Marinha, por intermédio do Conselho Administrativo da Administração Central da Marinha, a celebrar contrato para o fornecimento, em regime de aluguer, do equipamento mecanográfico necessário à execução das tarefas cometidas ao Serviço Mecanográfico da Armada, até ao montante anual de 8500000$00, não podendo, contudo, no ano de 1975 exceder a importância de 5300000$00.
+Artigo 1.º É autorizada a Marinha, por intermédio do Conselho Administrativo da Administração Central da Marinha, a celebrar contrato para o fornecimento, em regime de aluguer, do equipamento mecanográfico necessário à execução das tarefas cometidas ao Serviço Mecanográfico da Armada, até ao montante anual de 8500000$00, não podendo, contudo, no ano de 1975 exceder a importância de 5300000$00.
 
-###### Art. 2.º Fica a Marinha autorizada a inscrever anualmente no seu orçamento o crédito necessário à execução do disposto no presente diploma.
+Art. 2.º Fica a Marinha autorizada a inscrever anualmente no seu orçamento o crédito necessário à execução do disposto no presente diploma.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 5 de Novembro de 1975.**
+Promulgado em 5 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

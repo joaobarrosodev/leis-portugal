@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/369-1975-336566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bafa727088cc0af169b92fe9e5e6b02709c928c5271545a1d9554895aa358345
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54be9b579064671757fc2f75403ed5b20f415fccbdce7c493dffd27b1be74ec6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Despesas Públicas
+- Empreitada de Obras Públicas
+- Junta de Energia Nuclear
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:15Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +102,14 @@ Tendo em vista o disposto no artigo 6.º e seus §§ 1.º e 2.º do [Decreto-Lei
 
 Usando da faculdade conferida pelo artigo 3.ª, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Junta de Energia Nuclear a celebrar contrato com a firma Fonseca & Seabra, Lda., para a realização da obra de redes de águas, esgotos, instalações eléctricas e mecânicas da ampliação da ala quente do Serviço de Investigação de Química do Laboratório de Física e Engenharia Nucleares, da Junta de Energia Nuclear, em Sacavém, pela importância de 3692089$40.
+Artigo 1.º É autorizada a Junta de Energia Nuclear a celebrar contrato com a firma Fonseca & Seabra, Lda., para a realização da obra de redes de águas, esgotos, instalações eléctricas e mecânicas da ampliação da ala quente do Serviço de Investigação de Química do Laboratório de Física e Engenharia Nucleares, da Junta de Energia Nuclear, em Sacavém, pela importância de 3692089$40.
 
-###### Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Junta de Energia Nuclear despender com pagamentos relativos aos trabalhos executados, por virtude do contrato, mais de 3000000$00 no corrente ano e 692089$40, ou o que se apurar como saldo, no ano de 1976.
+Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Junta de Energia Nuclear despender com pagamentos relativos aos trabalhos executados, por virtude do contrato, mais de 3000000$00 no corrente ano e 692089$40, ou o que se apurar como saldo, no ano de 1976.
 
 Vasco dos Santos Gonçalves - José Joaquim Fragoso - João Cardona Gomes Cravinho.
 
-**Promulgado em 7 de Julho de 1975.**
+Promulgado em 7 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

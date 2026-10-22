@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/8/1998/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-1998-219146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:09:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90aa657096ba5837d4e6e29d44d28a1283a66ffbb3dad0a4e88baf2d91bbaf8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1a8a1408f1f4c5a7df1b8ec34ac07d2a710804d32ee12b1a3bc1df6be97171a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:09:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CE Países
+- Comércio
 - Comércio Internacional
+- Comunicações
 - Comunidade Europeia
 - Convenção
-- Portugal
 - GATT
-- Organização Mundial do Comércio
-- Prestação de Serviços
-- Comunicações
 - Genebra
-- Comércio
+- Organização Mundial do Comércio
+- Portugal
+- Prestação de Serviços
 relationships: []
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:09:28Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +104,13 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Cardona Gomes Cravinho - António Luís Santos da Costa.
 
-**Assinado em 13 de Janeiro de 1998.**
+Assinado em 13 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Janeiro de 1998.**
+Referendado em 15 de Janeiro de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
 
@@ -142,7 +142,7 @@ Schedule of specific commitments
 
 (This is authentic in English, French and Spanish.)
 
-[(ver listas no documento original)](https://files.diariodarepublica.pt/1s/1998/03/056a00/08970906.pdf)
+[[(ver listas no documento original)](https://files.diariodarepublica.pt/1s/1998/03/056a00/08970906.pdf)](https://files.diariodarepublica.pt/1s/1998/03/056a00/08970906.pdf)
 
 Additional commitment by the European Communities and their Member States
 
@@ -254,7 +254,7 @@ Lista de compromissos específicos
 
 (O presente texto faz fé nas línguas inglesa, francesa e espanhola.)
 
-[(ver listas no documento original)](https://files.diariodarepublica.pt/1s/1998/03/056a00/08970906.pdf)
+[[(ver listas no documento original)](https://files.diariodarepublica.pt/1s/1998/03/056a00/08970906.pdf)](https://files.diariodarepublica.pt/1s/1998/03/056a00/08970906.pdf)
 
 Compromissos adicionais das Comunidades Europeias e seus Estados membros
 

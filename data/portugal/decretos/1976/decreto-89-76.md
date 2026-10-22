@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/89-1976-507022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 694e887f6bd44a4a5518bd18e790765f7ad2cdf5cf0c63ecfd9c9ebfa43b872f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 323aae686239b3069e4de88798b7653a3160f292ec17e4b288bbc5a59ec47ba5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Direcção Geral dos Assuntos Culturais
+- Extinção de Serviços
+- Formas de Provimento
+- Ministério da Comunicação Social
+- Quadro de Pessoal
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:470653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470653:por
+  label: "Substituído o quadro de pessoal pela PORT.512/80.12.08.1980.PCM, DR.IS [185] de 12.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/512-1980-470653
+  date: '1980-08-12'
+- type: cites
+  target: pt:dre:336500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412618:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:506637:por
+  label: "Rectificado pela RECT.DD154.07.02.1976.PCM, DG.IS [32] de 07.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-506637
+  date: '1976-02-07'
+- type: corrected_by
+  target: pt:dre:173719:por
+  label: Retificada a al. b) do n.º 1 do art. 4.º pelo(a) Declaração - Diário do Governo n.º 56/1976, 2º Suplemento, Série
+    I de 1976-03-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-173719
+  date: '1976-03-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:51Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +127,19 @@ Considerando ainda que se impõe desde já assegurar que a integração se fará
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É extinta a Direcção-Geral dos Assuntos Culturais, sendo os seus serviços, os serviços dela dependentes e o quadro de pessoal transferidos para a Secretaria de Estado da Cultura, com o correspondente abatimento no MEIC dos respectivos lugares.
+Artigo 1.º - 1. É extinta a Direcção-Geral dos Assuntos Culturais, sendo os seus serviços, os serviços dela dependentes e o quadro de pessoal transferidos para a Secretaria de Estado da Cultura, com o correspondente abatimento no MEIC dos respectivos lugares.
 
 2. O pessoal que actualmente presta serviço na DGAC será integrado no quadro do pessoal do Ministério da Comunicação Social, mediante lista nominativa aprovada por despacho conjunto dos Ministros da Comunicação Social e Educação e Investigação Científica.
 
 3. A integração prevista nos números anteriores não dependerá de qualquer formalidade, salvo anotação das novas situações pelo Tribunal de Contas e publicação no Diário do Governo.
 
-###### Art. 2.º - 1. O quadro do Ministério da Comunicação Social é acrescido do número de unidades constantes do mapa anexo.
+Art. 2.º - 1. O quadro do Ministério da Comunicação Social é acrescido do número de unidades constantes do mapa anexo.
 
 2. Os encargos decorrentes da integração a que se refere o artigo 1.º serão suportados, a partir de 1 de Janeiro de 1976, pelo Ministério da Comunicação Social.
 
-###### Art. 3.º Para efeitos do disposto no artigo 4.º do [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, ao pessoal em exercício, transferido nos termos do n.º 1 do artigo 1.º do presente decreto, é assegurada a letra correspondente à categoria com que é integrado no quadro de pessoal anexo a este diploma.
+Art. 3.º Para efeitos do disposto no artigo 4.º do [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, ao pessoal em exercício, transferido nos termos do n.º 1 do artigo 1.º do presente decreto, é assegurada a letra correspondente à categoria com que é integrado no quadro de pessoal anexo a este diploma.
 
-###### Art. 4.º - 1. Até elaboração do quadro definitivo do pessoal da Secretaria de Estado da Cultura e da definição das correspondentes condições de provimento, mantêm-se em vigor as regras constantes do n.º 1 do artigo 17.º do [Decreto-Lei n.º 582/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1973-412618), de 5 de Novembro, devendo entender-se as referências nele constantes ao Presidente do Conselho e Ministro da Educação e Cultura como feitas ao Ministro que superintender na Secretaria de Estado da Cultura, sem prejuízo do disposto nas alíneas seguintes:
+Art. 4.º - 1. Até elaboração do quadro definitivo do pessoal da Secretaria de Estado da Cultura e da definição das correspondentes condições de provimento, mantêm-se em vigor as regras constantes do n.º 1 do artigo 17.º do [Decreto-Lei n.º 582/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1973-412618), de 5 de Novembro, devendo entender-se as referências nele constantes ao Presidente do Conselho e Ministro da Educação e Cultura como feitas ao Ministro que superintender na Secretaria de Estado da Cultura, sem prejuízo do disposto nas alíneas seguintes:
 
 a) Os lugares de operador de máquinas de reproduzir, de auxiliar de expedição e encarregado de guarda-roupa serão providos de entre pessoal auxiliar com pelo menos seis anos de bom e efectivo serviço ou de entre indivíduos com o curso geral dos liceus ou equiparado;
 
@@ -118,17 +149,17 @@ b) Os lugares de técnico administrativo de de 3.ª classe e de adjunto técnico
 
 3. Para efeitos do presente diploma, são equiparados às categorias de adjunto técnico administrativo as categorias equivalentes do quadro da Direcção-Geral dos Assuntos Culturais.
 
-###### Art. 5.º No preenchimento das vagas existentes no quadro em anexo, o pessoal da Direcção-Geral dos Assuntos Culturais terá prioridade, desde que em igualdade de circunstâncias.
+Art. 5.º No preenchimento das vagas existentes no quadro em anexo, o pessoal da Direcção-Geral dos Assuntos Culturais terá prioridade, desde que em igualdade de circunstâncias.
 
-###### Art. 6.º Este diploma entra em vigor na data da sua publicação.
+Art. 6.º Este diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves - António de Almeida Santos.
 
-**Promulgado em 19 de Janeiro de 1976.**
+Promulgado em 19 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ## ANEXO — Mapa a que se refere o artigo 2.º do Decreto n.º 89/76
 
@@ -192,4 +223,4 @@ Dez escriturários-dactilógrafos.
 
 Três contínuos.
 
-**O Ministro da Administração Interna, Vasco Fernando Leote de Almeida. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves. - O Ministro da Comunicação Social, António de Almeida Santos.**
+O Ministro da Administração Interna, Vasco Fernando Leote de Almeida. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves. - O Ministro da Comunicação Social, António de Almeida Santos.

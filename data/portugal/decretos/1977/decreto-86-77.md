@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/86-1977-253195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05654b50823ed55ea58b2f9408fc74adad51e4005f150483f8c1bc4c8430812a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e8e3dbd2852f091e1c7eb0feccb21417016e70002279cc420a7372a7a952663
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Lisboa
+- Portugal
+- Suécia
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Rodoviário
+relationships:
+- type: cites
+  target: pt:dre:631384:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:14Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +98,15 @@ de 17 de Junho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo do Reino da Suécia sobre Transportes Rodoviários Internacionais de Pessoas e Mercadorias, celebrado em Lisboa no dia 11 de Fevereiro de 1977, cujo original em francês e respectiva tradução acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo do Reino da Suécia sobre Transportes Rodoviários Internacionais de Pessoas e Mercadorias, celebrado em Lisboa no dia 11 de Fevereiro de 1977, cujo original em francês e respectiva tradução acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 15 de Maio de 1977.**
+Assinado em 15 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACCORD ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE ET LE GOUVERNEMENT DU ROYAUME DE SUÈDE CONCERNANT LES TRANSPORTS INTERNATIONAUX DE PERSONNES ET DE MARCHANDISES PAR ROUTE.
 
@@ -499,7 +510,7 @@ En ce qui concerne l'article 12:
 
 Statens vägverk.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/13800/14591469.pdf))](https://files.diariodarepublica.pt/1s/1977/06/13800/14591469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/13800/14591469.pdf)
 
 Fack.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/35/1995/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-1995-561467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a900b22bb1e2d630ead75c8fc1c95b3c8c41128dd6f193163a9fb4eb0df7cfb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 346e8bd2a5ef2b278d012fda6d3af646d4cd7edfc3a43e64ee5d9f4a5e1dff38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Angola
 - Comunicação Social
 - Convenção
 - Cooperação Técnica
-- Portugal
 - Lisboa
-- Angola
+- Portugal
 relationships: []
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:51Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 11 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Técnica e de Intercâmbio no Domínio da Comunicação Social entre a República Portuguesa e a República de Angola, assinado em Lisboa em 8 de Março de 1995, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Técnica e de Intercâmbio no Domínio da Comunicação Social entre a República Portuguesa e a República de Angola, assinado em Lisboa em 8 de Março de 1995, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1995. - Manuel Dias Loureiro - Manuel de Carvalho Fernandes Thomaz - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Manuel Gonçalves Marques Mendes.
 
-**Assinado em 24 de Agosto de 1995.**
+Assinado em 24 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Agosto de 1995.**
+Referendado em 28 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO TÉCNICA E DE INTERCÂMBIO NO DOMÍNIO DA COMUNICAÇÃO SOCIAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE ANGOLA.
 
@@ -273,8 +273,8 @@ Feito em Lisboa em 8 de Março de 1995, em dois exemplares originais em língua 
 
 Pela República Portuguesa:
 
-**O Ministro Adjunto, Luís Manuel Gonçalves Marques Mendes.**
+O Ministro Adjunto, Luís Manuel Gonçalves Marques Mendes.
 
 Pela República de Angola:
 
-**O Ministro da Comunicação Social, Pedro Hendrick Vaal Neto.**
+O Ministro da Comunicação Social, Pedro Hendrick Vaal Neto.

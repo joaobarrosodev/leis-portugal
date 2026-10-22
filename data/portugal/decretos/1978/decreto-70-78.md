@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 161/1978, 1º Suplemento, Série I de 1978-07-15
   number: '161'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1314-(3) a 1314-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16101/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/70-1978-434580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c08c8e24911edf91ae9613f98ca3f7d441b5dcdfdc7f0d47a2c9c57bf2ffe7e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21ca5def5ef179bf446903f30acfc2d8ed7fb8926c6b173f5921d458bf2b7319
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjunto
+- Direcção Escolar
+- Director Escolar
+- Ensino Primário
+- Formas de Provimento
+- Gestão Escolar
+- Nomeação
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:580164:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428029:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:580164:por
+  label: "Revogado pelo DEC LEI.211/81.13.07.1981.MECI, DR.IS [158] de 13.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1981-580164
+  date: '1981-07-13'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:01Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +117,15 @@ Tendo em vista a necessidade de estabelecer novas regras no que se refere ao rec
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os n.os 1 e 2 do artigo 1.º do [Decreto n.º 356/76](https://diariodarepublica.pt/dr/detalhe/decreto/356-1976-428029), de 14 de Maio, e o artigo 2.º do mesmo decreto, com as alterações que lhe foram introduzidas pelo [Decreto n.º 760/76](https://diariodarepublica.pt/dr/detalhe/decreto/760-1976-409526), de 22 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os n.os 1 e 2 do artigo 1.º do [Decreto n.º 356/76](https://diariodarepublica.pt/dr/detalhe/decreto/356-1976-428029), de 14 de Maio, e o artigo 2.º do mesmo decreto, com as alterações que lhe foram introduzidas pelo [Decreto n.º 760/76](https://diariodarepublica.pt/dr/detalhe/decreto/760-1976-409526), de 22 de Outubro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Os directores de distrito escolar são nomeados, em comissão, por escolha do Ministro da Educação e Cultura, sob proposta do director-geral de Pessoal, de entre adjuntos com três anos de exercício nessa qualidade, ou de entre professores do quadro geral do ensino primário há pelo menos três anos.
+Artigo 1.º - 1 - Os directores de distrito escolar são nomeados, em comissão, por escolha do Ministro da Educação e Cultura, sob proposta do director-geral de Pessoal, de entre adjuntos com três anos de exercício nessa qualidade, ou de entre professores do quadro geral do ensino primário há pelo menos três anos.
 
 2 - A comissão referida no número anterior é válida por dois anos, prorrogáveis por períodos idênticos, mediante despacho ministerial.
 
 3 - ...
 
-###### Art. 2.º - 1 - Os adjuntos dos directores de distrito escolar serão nomeados de entre professores do quadro geral do ensino primário, ou de entre os funcionários administrativos dos quadros das direcções dos distritos escolares desde que cumulativamente se encontrem nas seguintes condições:
+Art. 2.º - 1 - Os adjuntos dos directores de distrito escolar serão nomeados de entre professores do quadro geral do ensino primário, ou de entre os funcionários administrativos dos quadros das direcções dos distritos escolares desde que cumulativamente se encontrem nas seguintes condições:
 
 a) Estarem habilitados para o exercício do magistério primário;
 
@@ -110,14 +135,14 @@ c) Terem, à data da publicação deste diploma, exercido a docência, pelo meno
 
 2 - A nomeação dos adjuntos será feita, em comissão, por despacho do Ministro da Educação e Cultura, sob proposta dos directores de distrito escolar, e será válida por dois anos, prorrogáveis por períodos idênticos, mediante despacho ministerial.
 
-###### Art. 3.º As comissões previstas neste diploma, quando se refiram a pessoal docente, far-se-ão ao abrigo do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
+Art. 3.º As comissões previstas neste diploma, quando se refiram a pessoal docente, far-se-ão ao abrigo do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
 
-###### Art. 4.º É revogado o artigo 3.º do [Decreto n.º 356/76](https://diariodarepublica.pt/dr/detalhe/decreto/356-1976-428029), de 14 de Maio.
+Art. 4.º É revogado o artigo 3.º do [Decreto n.º 356/76](https://diariodarepublica.pt/dr/detalhe/decreto/356-1976-428029), de 14 de Maio.
 
 Mário Soares - Rui Eduardo Ferreira Rodrigues Pena - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 7 de Julho de 1978.**
+Promulgado em 7 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

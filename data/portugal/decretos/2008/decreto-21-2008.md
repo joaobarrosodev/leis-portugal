@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/21/2008/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/21-2008-454373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3807ce1f78aab7ae2cd09f0c910d14a7c5823d0eb8d2f36baba8dfade5823176
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46bf53bb8c37bb2e9cfac5e2e4f6ff3dd82b077e79c7645d49850afc850d6457
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Convenção
-- Portugal
 - Lisboa
 - Paraguai
+- Portugal
+- Turismo
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:24Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira - António José de Castro Guerra.
 
-**Assinado em 10 de Julho de 2008.**
+Assinado em 10 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Julho de 2008.**
+Referendado em 16 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO DE COOPERAÇÃO NO DOMÍNIO DO TURISMO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO PARAGUAI
 
@@ -218,11 +218,11 @@ Feito em Lisboa, aos 22 dias do mês de Outubro do ano de 2004, em duas cópias 
 
 Pela República Portuguesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf)
 
 Pela República Paraguaia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf)
 
 ACUERDO DE COOPERACIÓN EN EL CAMPO DEL TURISMO ENTRE LA REPÚBLICA PORTUGUESA Y LA REPÚBLICA DEL PARAGUAY
 
@@ -352,8 +352,8 @@ Hecho en Lisboa, a los veintidós días del mes de octubre del año dos mil y cu
 
 Por la República Portuguesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf)
 
 Por la República del Paraguay
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14100/0457604580.pdf)

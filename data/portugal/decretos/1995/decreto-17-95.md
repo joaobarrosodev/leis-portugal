@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/125b00/33873388.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/17/1995/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-1995-527634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99b305b0535f031d57df6110f66466b15e0f1b0ceb31d69d906814ac8c71ed24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 790b6746ddd2f88768f447de93943f146efbe51b79d0902cd48da23cb53d50b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ZONA de Defesa e Controlo Urbano
+- ÁREA NON Aedificandi
+- Autarquia Local
 - Barreiro
 - Comissão de Coordenação da Região de Lisboa e VALE do TEJO
-- Ponte de Vasco da GAMA
 - Definição de Competências
 - Fiscalização
 - Lisboa
-- RIO TEJO
 - Ponte
-- Autarquia Local
-- ÁREA NON Aedificandi
+- Ponte de Vasco da GAMA
+- RIO TEJO
+- ZONA de Defesa e Controlo Urbano
 relationships:
 - type: amended_by
   target: pt:dre:522817:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611100:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522817:por
+  label: "Revogado pelo DEC.1/2007.25.01.2007.MOPTC, DR.IS [18] de 25.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/1-2007-522817
+  date: '2007-01-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:36Z'
   warnings: []
   errors: []
 ---
@@ -112,11 +125,11 @@ Assim:
 
 Ao abrigo do disposto nos artigos 14.º a 18.º, 27.º e 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A área definida na planta anexa ao presente diploma, e que dele faz parte integrante, constitui uma zona de defesa e controlo urbanos, destinada a viabilizar um novo atravessamento do rio Tejo, no eixo Chelas-Barreiro, e a evitar ou controlar as actividades nos solos nela incluídos e as alterações ao uso dos mesmos que possam ser inconvenientes para os interesses colectivos da respectiva população e para o adequado funcionamento do sistema urbano.
+Artigo 1.º A área definida na planta anexa ao presente diploma, e que dele faz parte integrante, constitui uma zona de defesa e controlo urbanos, destinada a viabilizar um novo atravessamento do rio Tejo, no eixo Chelas-Barreiro, e a evitar ou controlar as actividades nos solos nela incluídos e as alterações ao uso dos mesmos que possam ser inconvenientes para os interesses colectivos da respectiva população e para o adequado funcionamento do sistema urbano.
 
-###### Art. 2.º Para efeitos do disposto no presente diploma, o traçado preliminar da futura ponte sobre o Tejo, no corredor entre Chelas (Lisboa) e o Barreiro, é o que consta da planta a que se refere o artigo anterior.
+Art. 2.º Para efeitos do disposto no presente diploma, o traçado preliminar da futura ponte sobre o Tejo, no corredor entre Chelas (Lisboa) e o Barreiro, é o que consta da planta a que se refere o artigo anterior.
 
-###### Art. 3.º - 1 - Na área abrangida pela zona de defesa e controlo urbanos ficam sujeitos a prévia autorização da Comissão de Coordenação da Região de Lisboa e Vale do Tejo os actos e actividades seguintes:
+Art. 3.º - 1 - Na área abrangida pela zona de defesa e controlo urbanos ficam sujeitos a prévia autorização da Comissão de Coordenação da Região de Lisboa e Vale do Tejo os actos e actividades seguintes:
 
 a) Criação de novos núcleos populacionais;
 
@@ -128,30 +141,30 @@ d) Alterações importantes, por meio de aterros ou escavações, à configuraç
 
 2 - Exceptuam-se do disposto no número anterior as obras de construção civil relativas a muros, vedações, alterações e remodelações no interior das edificações sem alteração do volume ou da respectiva tipologia, abertura de vãos e jazigos.
 
-###### Art. 4.º Na totalidade da área referida no artigo 1.º é concedido à Administração o direito de preferência nas transmissões, a título oneroso, de terrenos e edifícios aí situados.
+Art. 4.º Na totalidade da área referida no artigo 1.º é concedido à Administração o direito de preferência nas transmissões, a título oneroso, de terrenos e edifícios aí situados.
 
-###### Art. 5.º A intervenção projectada, objecto do presente diploma, deve desde já ser tida em consideração nos trabalhos de elaboração dos planos municipais que incidam sobre a área em questão, bem como ser integrada nos objectivos definidos para o Plano Regional de Ordenamento do Território da Área Metropolitana de Lisboa pelo n.º 3 da [Resolução do Conselho de Ministros n.º 21/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-1989-611100), de 15 de Maio.
+Art. 5.º A intervenção projectada, objecto do presente diploma, deve desde já ser tida em consideração nos trabalhos de elaboração dos planos municipais que incidam sobre a área em questão, bem como ser integrada nos objectivos definidos para o Plano Regional de Ordenamento do Território da Área Metropolitana de Lisboa pelo n.º 3 da [Resolução do Conselho de Ministros n.º 21/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-1989-611100), de 15 de Maio.
 
-###### Art. 6.º - 1 - As obras e os trabalhos efectuados com inobservância das normas previstas no presente diploma podem ser embargados e demolidos, bem como reposta a configuração do terreno, sem direito a qualquer indemnização, imputando-se os respectivos encargos ao infractor.
+Art. 6.º - 1 - As obras e os trabalhos efectuados com inobservância das normas previstas no presente diploma podem ser embargados e demolidos, bem como reposta a configuração do terreno, sem direito a qualquer indemnização, imputando-se os respectivos encargos ao infractor.
 
 2 - A competência para ordenar o embargo, a demolição e a reposição da configuração do terreno cabe à Comissão de Coordenação da Região de Lisboa e Vale do Tejo e aos órgãos dos municípios territorialmente competentes.
 
 3 - Aos órgãos referidos no número anterior compete também a fiscalização da observância do presente diploma.
 
-###### Art. 7.º Aos municípios abrangidos pela área definida na planta mencionada no artigo 1.º compete dar publicidade à adopção das medidas previstas no presente diploma, por editais a afixar nos paços do concelho, nas sedes das juntas de freguesia a que respeitem as áreas abrangidas e por meio de aviso publicado num dos jornais diários mais lidos na região.
+Art. 7.º Aos municípios abrangidos pela área definida na planta mencionada no artigo 1.º compete dar publicidade à adopção das medidas previstas no presente diploma, por editais a afixar nos paços do concelho, nas sedes das juntas de freguesia a que respeitem as áreas abrangidas e por meio de aviso publicado num dos jornais diários mais lidos na região.
 
 Presidência do Conselho de Ministros, 6 de Fevereiro de 1995.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral - Maria Teresa Pinto Basto Gouveia.
 
-**Assinado em 4 Maio de 1995.**
+Assinado em 4 Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/125b00/33873388.pdf))](https://files.diariodarepublica.pt/1s/1995/05/125b00/33873388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/125b00/33873388.pdf)

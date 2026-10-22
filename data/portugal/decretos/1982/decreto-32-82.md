@@ -47,36 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/32-1982-599948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7238e6d452356a9452b28e2734b3316950c8217dcaba912760d2b5267e69d1a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2d3655c4a435aa1f2fa969239b2c249a0e1c4619e47231a0e10dfe64b4670e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Director Adjunto
+- Diretor de Serviços
+- Diretor Geral
+- Equiparação de Cargos
+- Ministério da Educação e das Universidades
+relationships:
+- type: cites
+  target: pt:dre:230905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:04Z'
   warnings: []
   errors: []
 ---
@@ -97,14 +122,14 @@ Ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https
 
 O Govero decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. - 1 - O cargo de adjunto do director-geral da Educação Permanente é equiparado para todos os efeitos legais ao cargo de director de serviços.
+Artigo único. - 1 - O cargo de adjunto do director-geral da Educação Permanente é equiparado para todos os efeitos legais ao cargo de director de serviços.
 
 2 - O presente diploma produz efeitos desde 1 de Julho de 1979 e até à entrada em vigor do [Decreto-Lei n.º 534/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1979-231305), de 31 de Dezembro.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Vítor Pereira Crespo - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 24 de Fevereiro de 1982.**
+Promulgado em 24 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/59-1980-470254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b94be74c1422aeb9cfd3ccc4b91481b233060339c330d1969b5f72276ffaa577
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b58421f83e7fa5c51621f752ef5eecb20a5db61cb69a74bdb906ae6d8b8f1f8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo Europeu
+- Comissão Europeia dos Direitos do Homem
+- Convenção
+- Direito Internacional
+- Direitos do Homem
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:45Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 1 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Europeu Relativo aos Participantes em Processos Pendentes na Comissão e no Tribunal Europeus dos Direitos do Homem, aberto, para assinatura, em 6 de Maio de 1969 e entrado em vigor em 17 de Abril de 1971, cujo texto original e respectiva tradução em português seguem em anexo ao presente diploma.
+Artigo único. É aprovado, para ratificação, o Acordo Europeu Relativo aos Participantes em Processos Pendentes na Comissão e no Tribunal Europeus dos Direitos do Homem, aberto, para assinatura, em 6 de Maio de 1969 e entrado em vigor em 17 de Abril de 1971, cujo texto original e respectiva tradução em português seguem em anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Assinado em 7 de Julho de 1980.**
+Assinado em 7 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Accord européen concernant les Personnes participant aux Procédures devant la Commission et la Cour européennes des Droits de l'Homme.
 
@@ -413,7 +419,7 @@ b) Assinatura sob reserva de ratificação ou aceitação, seguida de ratificaç
 
 ###### ARTIGO 11.º
 
-**O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho do seguinte:**
+O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho do seguinte:
 
 a) Assinaturas sem reserva de ratificação ou aceitação;
 

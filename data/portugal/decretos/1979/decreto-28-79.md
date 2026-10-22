@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1979-382594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09de159ef627a65365f7b2122012655d266a43421e2d460fd848a6a0154cd776
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0df2b2ebdce9d0669833db8a11a6c5338eb3b861c5f62dae11d1fbfb6afa376
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- BENS Classificados
+- Coruche
+- Igreja
+- Património Arquitectónico
+- Património Cultural
+- Protecção do Património
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:57Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +110,7 @@ Considerando o disposto no n.º 5 do artigo 2.º do [Decreto-Lei n.º 613/76](ht
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição:
 
-###### Artigo 1.º - 1 - É definido e constituído como sítio classificado o seguinte:
+Artigo 1.º - 1 - É definido e constituído como sítio classificado o seguinte:
 
 Conjunto formado pela mancha do tecido urbano assinalada na planta 1, anexa ao presente diploma, que se desenvolve desde a Igreja de Santo António e o largo fronteiro, na Rua de Salvaterra de Magos, e se prolonga para nascente pela Rua Direita, Praça da Liberdade, Rua e Largo de S. Pedro, contornando-o por nascente para a Rua da Misericórdia, onde se estende até à Rua de S. Francisco, incluindo todos os edifícios confinantes com estas vias.
 
@@ -152,18 +166,18 @@ b) Nas paredes exteriores só poderá ser utilizada a cor branca;
 
 c) Quando o uso do edifício ou de algum dos seus pisos se destinar a uma actividade lúdica ou comercial, procurar-se-á que o dimensionamento e os materiais a empregar nos vãos abertos (portas ou janelas), não choquem com as características tipológicas da zona.
 
-###### Art. 2.º As obras efectuadas com violação do disposto no artigo 1.º poderão ser embargadas e demolidas pelo Serviço Nacional de Parques, Reservas e Património Paisagístico ou Câmara Municipal de Coruche, à custa dos proprietários, correndo por sua conta igualmente os encargos com as obras de recuperação que se julgarem necessárias.
+Art. 2.º As obras efectuadas com violação do disposto no artigo 1.º poderão ser embargadas e demolidas pelo Serviço Nacional de Parques, Reservas e Património Paisagístico ou Câmara Municipal de Coruche, à custa dos proprietários, correndo por sua conta igualmente os encargos com as obras de recuperação que se julgarem necessárias.
 
-###### Art. 3.º Sem prejuízo de outras disposições legais aplicáveis, qualquer intervenção que altere os valores arquitectónicos ou urbanísticos da zona carece de prévia apreciação e aprovação do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
+Art. 3.º Sem prejuízo de outras disposições legais aplicáveis, qualquer intervenção que altere os valores arquitectónicos ou urbanísticos da zona carece de prévia apreciação e aprovação do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
 
 Carlos Alberto da Mota Pinto - António Gonçalves Ribeiro - João Orlindo Almeida Pina.
 
-**Promulgado em 15 de Março de 1979.**
+Promulgado em 15 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08400/05870588.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08400/05870588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08400/05870588.pdf)
 
-**O Ministro das Obras Públicas, João Orlindo Almeida Pina.**
+O Ministro das Obras Públicas, João Orlindo Almeida Pina.

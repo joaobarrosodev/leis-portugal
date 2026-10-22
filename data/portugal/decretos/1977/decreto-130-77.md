@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/130-1977-278733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6faf1528d8744f35ab2dff4586e39f0d1888a95067a06e6fc8e6b5fdb7ca042d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62c51e277653c27e89c6a6a7af15b007bd3b88b3a78de8af3c1ab211ff8b24e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Autorização de Despesas
+- Contabilidade Pública
+- Despesas Públicas
+- Encargos Gerais da Nação
+- Ministério da Administração Interna
+- Ministério da Educação e Investigação Científica
+- Ministério da Habitação Urbanismo e Construção
+- Ministério da Justiça
+- Ministério das Finanças
+- Ministério das Obras Públicas
+- Ministério do Comércio e Turismo
+- Ministério do Plano e Coordenação Económica
+- Ministério do Trabalho
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:43Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +107,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -130,12 +149,12 @@ Ministério do Trabalho
 
 Despesas dos anos de 1975 e 1976, relativas a horas extraordinárias, remunerações por serviços auxiliares, deslocações, encargos não especificados e encargos próprios das instalações, pertencentes ao Gabinete do Ministro, Inspecção-Geral do Trabalho, Direcção-Geral das Relações Colectivas de Trabalho e Inspecção-Geral do Ministério ... 2117310$30
 
-###### Art. 2.º Fica também autorizada a Administração dos Portos do Douro e Leixões a satisfazer, em conta da verba de despesas de anos findos do seu actual orçamento privativo, a importância de 370444$00, relativa a remunerações diversas, em numerário, dos anos de 1975 e 1976.
+Art. 2.º Fica também autorizada a Administração dos Portos do Douro e Leixões a satisfazer, em conta da verba de despesas de anos findos do seu actual orçamento privativo, a importância de 370444$00, relativa a remunerações diversas, em numerário, dos anos de 1975 e 1976.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Firmino Miguel - António Francisco Barroso de Sousa Gomes - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira - José Manuel de Medeiros Ferreira - António Miguel Morais Barreto - Alfredo Jorge Nobre da Costa - Carlos Alberto da Mota Pinto - António Manuel Maldonado Gonelha - Mário Augusto Sottomayor Leal Cardia - Armando Bacelar - Emílio Rui da Veiga Peixoto Vilar - João Orlindo de Almeida Pina - Eduardo Ribeiro Pereira.
 
-**Promulgado em 14 de Setembro de 1977.**
+Promulgado em 14 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

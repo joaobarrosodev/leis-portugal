@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/720-1973-407952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48576d3bb5e2686ebffbac7a11b5068add93690d452de211cab315b844e48451
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6db44628c779afe7fc759f412acc9335e452e518b1cb95c834d1459958371164
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:02Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É autorizado o Estado de Moçambique a contrair os seguintes empréstimos:
+Artigo 1.º É autorizado o Estado de Moçambique a contrair os seguintes empréstimos:
 
 a) De 50000000$00, no Banco de Crédito Comercial e Industrial, à taxa de juro de 8% ao ano e a amortizar em 31 de Dezembro de 1975;
 
@@ -101,18 +101,18 @@ b) De 100000000$00, no Montepio de Moçambique, à taxa de juro de 7,75% ao ano 
 
 c) De 250000000$00, no Instituto de Crédito de Moçambique, à taxa de juro de 7% e a amortizar em oito prestações iguais de capital e juro, vencendo-se a primeira em 31 de Dezembro de 1975.
 
-###### Art. 2.º Os empréstimos serão objecto de contrato a celebrar entre o Governador-Geral, em representação do Estado de Moçambique, e as instituições de crédito mencionadas no artigo anterior, nas condições indicadas no mesmo artigo ou outras mais favoráveis para a província e nas demais que venham a ser acordadas.
+Art. 2.º Os empréstimos serão objecto de contrato a celebrar entre o Governador-Geral, em representação do Estado de Moçambique, e as instituições de crédito mencionadas no artigo anterior, nas condições indicadas no mesmo artigo ou outras mais favoráveis para a província e nas demais que venham a ser acordadas.
 
-###### Art. 3.º Os fundos mutuados serão integralmente aplicados no financiamento de empreendimentos incluídos no programa de execução do III Plano de Fomento para 1973.
+Art. 3.º Os fundos mutuados serão integralmente aplicados no financiamento de empreendimentos incluídos no programa de execução do III Plano de Fomento para 1973.
 
-###### Art. 4.º No orçamento geral do Estado de Moçambique serão inscritas em cada ano as verbas necessárias à liquidação de todos os encargos decorrentes dos empréstimos a que se refere o artigo 1.º do presente diploma.
+Art. 4.º No orçamento geral do Estado de Moçambique serão inscritas em cada ano as verbas necessárias à liquidação de todos os encargos decorrentes dos empréstimos a que se refere o artigo 1.º do presente diploma.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 19 de Dezembro de 1973.**
+Promulgado em 19 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique.

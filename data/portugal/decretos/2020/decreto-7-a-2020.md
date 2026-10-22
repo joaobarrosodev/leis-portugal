@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 208/2020, 2º Suplemento, Série I de 2020-10-26
   number: '208'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 14-(2) a 14-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/20802/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/7-a/2020/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-a-2020-146606574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9031feaa42497763ae45b0237ac49629fbd0798355bc8a6830a9de98155ab9c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39cd7fde98b259bdcb87a378b3c95fcdec81c733dcebd81ac978adc8697a1254
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Actividade Política
-- Luto Nacional
-- Doença Infecciosa
-- Óbito
 - Comissão Eventual para o Acompanhamento da Aplicação das Medidas de Resposta à Pandemia da Doença Covid-19
+- Doença Infecciosa
+- Luto Nacional
+- Óbito
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/40/2006/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2006/08/25/p/dre
+- type: cites
+  target: pt:dre:540661:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:37Z'
   warnings: []
   errors: []
 ---
@@ -118,12 +122,14 @@ O presente decreto produz efeitos no dia 2 de novembro de 2020.
 
 Visto e aprovado em Conselho de Ministros de 22 de outubro de 2020. - António Luís Santos da Costa.
 
-**Assinado em 26 de outubro de 2020.**
+Assinado em 26 de outubro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de outubro de 2020.**
+Referendado em 26 de outubro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113677745

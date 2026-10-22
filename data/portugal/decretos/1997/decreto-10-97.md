@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/1997/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1997-501832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 578970e61ec439f90564da24f26416957ba863e617a55545ab2e329ae037375a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85839afe28665e2a1084791875909a339b30ef38ee5e4abd01849efefabea4ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bagagem
+- Berna
 - Convenção
-- Transporte Ferroviário
 - Portugal
 - Transporte de Mercadorias
-- Berna
 - Transporte de Passageiros
+- Transporte Ferroviário
 - Transporte Internacional
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:268591:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:39Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +107,13 @@ Visto e aprovado em Conselho de Ministros de 24 de Outubro de 1996. - António M
 
 Ratificado em 24 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Janeiro de 1997.**
+Referendado em 27 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOLE DE 1990 PORTANT MODIFICATION DE LA CONVENTION RELATIVE AUX TRANSPORTS INTERNATIONAUX FERROVIAIRES (COTIF) DU 9 MAI 1980.
 
@@ -443,9 +447,7 @@ Considerando a necessidade de emendar as disposições da COTIF, a fim de as ada
 
 Modificações decididas pela Assembleia Geral
 
-Artigo I
-
-Alterações relativas à Convenção propriamente dita
+###### Artigo I — Alterações relativas à Convenção propriamente dita
 
 ###### Artigo 2.º
 
@@ -571,9 +573,7 @@ Além disso, o relatório poderá fazer o ponto da situação das operações qu
 
 9 - Na medida em que a verificação a que procedeu teve carácter sumário ou na medida em que não tenha podido obter justificações suficientes, o revisor de contas deverá mencionar tais factos na sua certificação e no seu relatório, precisando os motivos das suas observações, bem como as consequências que daí poderão advir para a situação financeira e para as operações financeiras contabilizadas.»
 
-Artigo II
-
-Alterações relativas às Regras Uniformes CIV
+###### Artigo II — Alterações relativas às Regras Uniformes CIV
 
 ###### Artigo 1.º
 
@@ -663,9 +663,7 @@ O segundo período do § 2 é alterado nos termos seguintes:
 
 As alíneas a) e b) são suprimidas.
 
-Artigo III
-
-Alterações relativas às Regras Uniformes CIM
+###### Artigo III — Alterações relativas às Regras Uniformes CIM
 
 ###### Artigo 1.º
 
@@ -723,35 +721,25 @@ A actual alínea e) passa a alínea d).
 
 Disposições finais
 
-Artigo IV
-
-Assinatura, ratificação, aceitação e aprovação
+###### Artigo IV — Assinatura, ratificação, aceitação e aprovação
 
 § 1 - O presente Protocolo permanecerá aberto em Berna, junto do Governo Suíço, Governo depositário, até 30 de Junho de 1991, à assinatura dos Estados que tiverem sido convidados para a segunda Assembleia Geral da Organização Intergovernamental para os Transportes Internacionais Ferroviários (OTIF).
 
 § 2 - Em conformidade com as disposições do artigo 20.º, § 1, da COTIF, o presente Protocolo será submetido a ratificação, aceitação ou aprovação; os instrumentos de ratificação, aceitação ou aprovação serão depositados, o mais brevemente possível, junto do Governo depositário.
 
-Artigo V
-
-Entrada em vigor
+###### Artigo V — Entrada em vigor
 
 As decisões contidas no presente Protocolo entrarão em vigor no 1.º dia do 12.º mês que se seguir àquele em que o Governo depositário tiver notificado os Estados membros acerca do depósito do instrumento, com o que ficarão preenchidas as condições previstas no artigo 20.º, § 2, da COTIF.
 
-Artigo VI
-
-Adesão
+###### Artigo VI — Adesão
 
 Os Estados que, tendo sido convidados para a segunda Assembleia Geral da OTIF, não tiverem assinado o presente Protocolo dentro do prazo previsto no artigo IV, § 1, poderão aderir a ele depositando um instrumento de adesão junto do Governo depositário.
 
-Artigo VII
-
-Relação entre a COTIF e o Protocolo
+###### Artigo VII — Relação entre a COTIF e o Protocolo
 
 Só os Estados que sejam Partes da COTIF poderão tornar-se Partes do presente Protocolo.
 
-Artigo VIII
-
-Textos do Protocolo
+###### Artigo VIII — Textos do Protocolo
 
 O presente Protocolo é concluído e assinado em língua francesa.
 

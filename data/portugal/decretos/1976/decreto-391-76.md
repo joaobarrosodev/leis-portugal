@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/391-1976-426961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4045759f1bf11bbf5cb80f9165dd4a1824d02625c35d6c07b5febafcaec2bee6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c379de2977ee0a65b3ab854fa54d2ece15262aaee33239da17d1b5dd9fa8aa62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Extinção de Carreiras
+- Extinção de Lugares
+- Inspeção Geral de Finanças
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:337185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:05Z'
   warnings: []
   errors: []
 ---
@@ -91,28 +103,28 @@ Assim, ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://di
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É extinta a categoria de inspector técnico de 3.ª classe dos quadros da inspecção de serviços públicos e da inspecção de empresas da Inspecção-Geral de Finanças.
+Artigo 1.º É extinta a categoria de inspector técnico de 3.ª classe dos quadros da inspecção de serviços públicos e da inspecção de empresas da Inspecção-Geral de Finanças.
 
-###### Art. 2.º O número de inspectores técnicos de 1.ª e 2.ª classes dos quadros referidos no artigo anterior passa a ser o que consta do mapa anexo a este diploma.
+Art. 2.º O número de inspectores técnicos de 1.ª e 2.ª classes dos quadros referidos no artigo anterior passa a ser o que consta do mapa anexo a este diploma.
 
-###### Art. 3.º Os lugares de inspector técnico de 2.ª classe serão providos nos seguintes termos:
+Art. 3.º Os lugares de inspector técnico de 2.ª classe serão providos nos seguintes termos:
 
 a) Os do quadro da inspecção de serviços públicos, por escolha de entre diplomados com curso superior adequado ou de entre secretários de finanças de 1.ª classe com qualificação de chefia ou de 2.ª classe com mais de cinco anos de exercício de funções de chefia de repartições de finanças;
 
 b) Os do quadro da inspecção de empresas, por escolha de entre diplomados com curso superior adequado.
 
-###### Art. 4.º Os actuais inspectores técnicos de 3.ª classe são colocados na categoria de inspector técnico de 2.ª classe do quadro a que pertencem, ocupando vagas, por ordem de antiguidade, os que nelas couberem e ficando supranumerários os que excederem o número fixado para o quadro respectivo no mapa anexo ao presente diploma.
+Art. 4.º Os actuais inspectores técnicos de 3.ª classe são colocados na categoria de inspector técnico de 2.ª classe do quadro a que pertencem, ocupando vagas, por ordem de antiguidade, os que nelas couberem e ficando supranumerários os que excederem o número fixado para o quadro respectivo no mapa anexo ao presente diploma.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Artur Eduardo Brochado dos Santos Silva.
 
-**Promulgado em 13 de Maio de 1976.**
+Promulgado em 13 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Mapa a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/12200/11701171.pdf))](https://files.diariodarepublica.pt/1s/1976/05/12200/11701171.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/12200/11701171.pdf)
 
-**O Secretário de Estado do Tesouro, Artur Eduardo Brochado dos Santos Silva.**
+O Secretário de Estado do Tesouro, Artur Eduardo Brochado dos Santos Silva.

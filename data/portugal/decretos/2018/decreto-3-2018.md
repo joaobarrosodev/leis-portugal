@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00900/0037600384.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/2018/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-2018-114513611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa6753a226214df3aa4c549595bf2e760e76971acf41d53802bca4a03d86a599
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cb29b8e2c828c9ac8994ed27a4e3f3b852ec02cc3590a94f937aaa0103991bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
 - Convenção
-- Portugal
-- Lisboa
 - França
+- Lisboa
+- Portugal
+- Proteção Civil
 relationships: []
 article_structure:
   article_count: 23
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:56Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Maria Isabel Solnado Porto Oneto.
 
-**Assinado em 28 de dezembro de 2017.**
+Assinado em 28 de dezembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de janeiro de 2018.**
+Referendado em 4 de janeiro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FRANCESA SOBRE A ASSISTÊNCIA E A COOPERAÇÃO NO DOMÍNIO DA PROTEÇÃO CIVIL
 
@@ -667,3 +667,5 @@ Anabela Miranda Rodrigues, Ministre de l'Administration interne.
 Pour la République française:
 
 Bernard Cazeneuve, Ministre de l'Intérieur.
+
+111042027

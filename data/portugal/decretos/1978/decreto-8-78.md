@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-1978-447878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd73e90f08207a5dc467fd5a720af6466436fdb5573556fc859b3d86c5709b42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ad4f7803f60b087746f48a7493e9d11a1d5e8b447ed177ef328c0c56c7d0796
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conservatório Nacional
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Técnico
+- Pessoal Técnico Auxiliar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:569103:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473112:por
+  label: Alterado o quadro de pessoal do Conservatório Nacional pelo(a) Portaria n.º 320/80 - Diário da República n.º 131/1980,
+    Série I de 1980-06-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-1980-473112
+  date: '1980-06-07'
+- type: amended_by
+  target: pt:dre:569103:por
+  label: "Alterado o quadro de pessoal fixado pelo presente diploma, na redacção dada pela Portaria 320/80, de 07 de Junho,\
+    \ pela PORT.953/81.06.11.1981.MFP, DR.IS [256] de 06.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/953-1981-569103
+  date: '1981-11-06'
+- type: cites
+  target: pt:dre:294971:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:11Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +118,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal técnico, administrativo, técnico auxiliar e auxiliar do Conservatório Nacional é o constante do mapa anexo ao presente diploma.
+Artigo 1.º O quadro do pessoal técnico, administrativo, técnico auxiliar e auxiliar do Conservatório Nacional é o constante do mapa anexo ao presente diploma.
 
-###### Art. 2.º As formas de recrutamento e os regimes de provimento do pessoal a que alude o artigo anterior são os seguintes:
+Art. 2.º As formas de recrutamento e os regimes de provimento do pessoal a que alude o artigo anterior são os seguintes:
 
 a) O lugar de chefe de secção será provido por escolha do Ministro da Educação e Investigação Científica de entre diplomados com curso superior adequado ou de entre primeiros-oficiais do quadro com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -114,24 +136,24 @@ f) Os terceiros-oficiais serão providos mediante concurso de provas públicas d
 
 g) Os escriturários-dactilógrafos e o restante pessoal não mencionado nas alíneas anteriores serão providos por contrato nos termos da lei geral.
 
-###### Art. 3.º - 1 - Sem prejuízo do disposto no artigo 2.º deste diploma, o primeiro provimento dos lugares do quadro poderá ser feito por livre escolha do Ministro da Educação e Investigação Científica de entre pessoal que, a qualquer título, actualmente preste serviço no Conservatório, directamente para qualquer categoria e independentemente do tempo de serviço prestado em categorias anteriores, mas com ressalva das habilitações literárias exigidas para o provimento nos respectivos lugares.
+Art. 3.º - 1 - Sem prejuízo do disposto no artigo 2.º deste diploma, o primeiro provimento dos lugares do quadro poderá ser feito por livre escolha do Ministro da Educação e Investigação Científica de entre pessoal que, a qualquer título, actualmente preste serviço no Conservatório, directamente para qualquer categoria e independentemente do tempo de serviço prestado em categorias anteriores, mas com ressalva das habilitações literárias exigidas para o provimento nos respectivos lugares.
 
 2 - O provimento a que se refere o número antecedente far-se-á através de lista nominativa a aprovar por despacho do Ministro da Educação e Investigação Científica, sem dependência de outras formalidades que não sejam a publicação no Diário da República e o visto das novas situações pelo Tribunal de Contas.
 
-###### Art. 4.º Os encargos resultantes da execução deste diploma serão satisfeitos, durante o corrente ano económico, por conta das dotações inscritas para pessoal no orçamento do Conservatório Nacional ou pelo reforço das verbas atribuídas a essas dotações.
+Art. 4.º Os encargos resultantes da execução deste diploma serão satisfeitos, durante o corrente ano económico, por conta das dotações inscritas para pessoal no orçamento do Conservatório Nacional ou pelo reforço das verbas atribuídas a essas dotações.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 3 de Janeiro de 1978.**
+Promulgado em 3 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 1.º do Decreto n.º 8/78, de 19 de Janeiro
 
 Conservatório Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/01/01600/01290130.pdf))](https://files.diariodarepublica.pt/1s/1978/01/01600/01290130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/01/01600/01290130.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.**
+O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.

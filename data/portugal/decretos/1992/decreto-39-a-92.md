@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 227/1992, 1º Suplemento, Série I-A de 1992-10-01
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4610-(2) a 4610-(1632)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/227a01/00021632.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/39-a/1992/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-a-1992-301780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb465ef33a9e0acb4999bbf4ca63ca1cb65cf3d048c48f35122d6f4efa7b3541
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 766366f3e17990d672e5548d996bdbbfbbb62d9da9161ab0151fe875a7212706
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Radiocomunicações
-- Convenção
-- Portugal
-- Instalações Radioelétricas
 - Comunicações
-- Regulamento
+- Convenção
 - Genebra
+- Instalações Radioelétricas
+- Portugal
+- Radiocomunicações
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:683061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683061:por
+  label: "Estendida a convenção ao território de Macau pelo DEC.206/99.1999.11.09.PR DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/206-1999-683061
+  date: '1999-11-09'
+- type: cites
+  target: pt:dre:148782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444689:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:57Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +127,9 @@ Assim:
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o regulamento das Radiocomunicações, assinado em Genebra em 16 de Dezembro de 1979, cuja versão original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo 1.º É aprovado o regulamento das Radiocomunicações, assinado em Genebra em 16 de Dezembro de 1979, cuja versão original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
 
-###### Art. 2.º São revogados:
+Art. 2.º São revogados:
 
 a) O [Decreto n.º 45205](https://diariodarepublica.pt/dr/detalhe/decreto/45205-1963-148782), de 21 de Agosto de 1963;
 
@@ -118,19 +139,19 @@ c) O [Decreto n.º 48404](https://diariodarepublica.pt/dr/detalhe/decreto/48404-
 
 d) O [Decreto n.º 434/71](https://diariodarepublica.pt/dr/detalhe/decreto/434-1971-245153), de 15 de Outubro.
 
-###### Art. 3.º O presente diploma em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1990. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Joaquim Martins Ferreira do Amaral.
 
-**Assinado em 18 de Dezembro de 1990.**
+Assinado em 18 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Mário Soares.**
+O Presidente da República, Mário Soares.
 
 Referenciado em 21 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 REGULAMENTO DAS RADIOCOMUNICAÇÕES DE 1979
 
@@ -160,10 +181,10 @@ Feito em Genebra aos 16 de Dezembro de 1979.
 
 Seguem-se as assinaturas dos delegados dos seguintes países:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/227a01/00021632.pdf))](https://files.diariodarepublica.pt/1s/1992/10/227a01/00021632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/227a01/00021632.pdf)
 
 REGULAMENTO DAS RADIOCOMUNICAÇÕES
 
 (Genebra, 1979)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/227a01/00021632.pdf))](https://files.diariodarepublica.pt/1s/1992/10/227a01/00021632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/227a01/00021632.pdf)

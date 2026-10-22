@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/332-1973-421240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34d12b080b66d219a77b7277742330562059cd7b6705d4fde26de715187378aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cb9747bdcc2199f3604429f6e0e4365278abad1f62450cc66128b6b0066bbb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:275383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676636:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:24Z'
   warnings: []
   errors: []
 ---
@@ -112,15 +128,15 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 ### CAPÍTULO I — Natureza e fins
 
-###### Artigo 1.º - 1. É criada no Estado Português de Angola e no Estado Português de Moçambique a Junta de Acção Social no Trabalho, dotada de personalidade jurídica e autonomia administrativa e financeira.
+Artigo 1.º - 1. É criada no Estado Português de Angola e no Estado Português de Moçambique a Junta de Acção Social no Trabalho, dotada de personalidade jurídica e autonomia administrativa e financeira.
 
 2. A Junta assegura a administração do Fundo de Acção Social no Trabalho.
 
 3. A Junta fica directamente subordinada ao Governador-Geral e o seu âmbito de acção abrange o território da respectiva província.
 
-###### Art. 2.º A Junta de Acção Social no Trabalho tem por finalidade a promoção económica e social dos trabalhadores e suas famílias, em colaboração com outros organismos e entidades, públicos e privados, nomeadamente pelo desenvolvimento da sua formação moral e capacidade económica, intelectual e física.
+Art. 2.º A Junta de Acção Social no Trabalho tem por finalidade a promoção económica e social dos trabalhadores e suas famílias, em colaboração com outros organismos e entidades, públicos e privados, nomeadamente pelo desenvolvimento da sua formação moral e capacidade económica, intelectual e física.
 
-###### Art. 3.º Para a realização dos seus fins, compete especialmente à Junta:
+Art. 3.º Para a realização dos seus fins, compete especialmente à Junta:
 
 a) Desenvolver acção de carácter económico-social junto dos trabalhadores e suas famílias;
 
@@ -142,7 +158,7 @@ i) Auxiliar outros organismos públicos e privados a preparar e desenvolver plan
 
 j) Colaborar com os serviços e organismos congéneres com sede na metrópole, com os serviços competentes do Ministério do Ultramar e das demais províncias ultramarinas e com os serviços e entidades provinciais que, por qualquer forma, tenham intervenção ou interesse no estudo e resolução dos problemas relacionados com as suas finalidades.
 
-###### Art. 4.º A acção de carácter económico-social será orientada para os objectivos seguintes:
+Art. 4.º A acção de carácter económico-social será orientada para os objectivos seguintes:
 
 a) Promoção de estudos destinados à melhoria dos níveis alimentares dos trabalhadores e suas famílias;
 
@@ -162,7 +178,7 @@ h) Concessão de apoio técnico e auxílio burocrático na regularização proce
 
 i) Elaboração de esquemas de fomento do artesanato, de pequena indústria e de outras actividades económicas enquadráveis em soluções de desenvolvimento económico e social, em colaboração com os organismos e serviços interessados e, em especial, nos termos da lei, com o Serviço de Emprego.
 
-###### Art. 5.º A acção de natureza institucional é exercida em cooperação com o Instituto do Trabalho, Previdência e Acção Social e tem, nomeadamente, os objectivos seguintes:
+Art. 5.º A acção de natureza institucional é exercida em cooperação com o Instituto do Trabalho, Previdência e Acção Social e tem, nomeadamente, os objectivos seguintes:
 
 a) Apoiar a instalação e manutenção de sindicatos, Casas do Povo e dos Pescadores, centros de acção social, cooperativas e mútuas no que se refere a esquemas de acção social;
 
@@ -172,7 +188,7 @@ c) Cooperar com os organismos referidos na difusão dos princípios que comandam
 
 d) Colaborar na formação de dirigentes, associados e empregados dos organismos corporativos.
 
-###### Art. 6.º A acção social formativa a desenvolver junto dos trabalhadores e suas famílias, em colaboração com os serviços competentes do Instituto do Trabalho, Previdência e Acção Social e outras entidades e organismos interessados, utilizará, designadamente, os seguintes meios:
+Art. 6.º A acção social formativa a desenvolver junto dos trabalhadores e suas famílias, em colaboração com os serviços competentes do Instituto do Trabalho, Previdência e Acção Social e outras entidades e organismos interessados, utilizará, designadamente, os seguintes meios:
 
 a) Missões de acção social;
 
@@ -190,7 +206,7 @@ g) Edição de revistas, boletins, jornais e outras publicações para trabalhad
 
 h) Colaborar com serviços públicos e privados na divulgação dos princípios, métodos e técnicas de prevenção de acidentes de trabalho e doenças profissionais.
 
-###### Art. 7.º A acção educativa e cultural visa especialmente o seguinte:
+Art. 7.º A acção educativa e cultural visa especialmente o seguinte:
 
 a) Criação, nos organismos referidos no artigo 5.º, em conjunto ou em separado, de cursos de formação social e corporativa;
 
@@ -204,7 +220,7 @@ e) Divulgação de conhecimentos em matéria de alimentação racional;
 
 f) Estudo e disciplina da heráldica corporativa.
 
-###### Art. 8.º A acção de carácter recreativo, com utilização dos meios mencionados nos artigos anteriores que sirvam essa finalidade, tem por objectivo:
+Art. 8.º A acção de carácter recreativo, com utilização dos meios mencionados nos artigos anteriores que sirvam essa finalidade, tem por objectivo:
 
 a) Orientação, coordenação, disciplina e fiscalização de todas as iniciativas de carácter recreativo e artístico dos trabalhadores, directamente ou através dos respectivos agrupamentos;
 
@@ -212,7 +228,7 @@ b) Patrocínio e divulgação das manifestações do folclore local e de outras 
 
 c) Organização de espectáculos recreativos para trabalhadores e suas famílias, nomeadamente de sessões de cinema e teatro.
 
-###### Art. 9.º - 1. A acção gimnodesportiva da fundação visa, nomeadamente:
+Art. 9.º - 1. A acção gimnodesportiva da fundação visa, nomeadamente:
 
 a) Fomento da prática da educação física e de desportos pelos trabalhadores e seus familiares;
 
@@ -234,7 +250,7 @@ b) Associações provinciais e distritais das várias modalidades gimnodesportiv
 
 c) Comissariado Provincial da Mocidade Portuguesa, nos termos e condições que forem estabelecidos pelo Governo da província.
 
-###### Art. 10.º Além das finalidades indicadas nos artigos anteriores compete à fundação:
+Art. 10.º Além das finalidades indicadas nos artigos anteriores compete à fundação:
 
 a) Promover e apoiar, em colaboração com o Instituto do Trabalho, Previdência e Acção Social, a criação do serviço social no trabalho e de outros organismos de cooperação social;
 
@@ -248,11 +264,11 @@ e) Contribuir, de acordo com o que vier a ser estabelecido por despacho do Gover
 
 ### CAPÍTULO II — Organização e administração
 
-###### Art. 11.º - 1. A Junta tem como órgãos orientador e administrativo, respectivamente, o conselho geral e a direcção.
+Art. 11.º - 1. A Junta tem como órgãos orientador e administrativo, respectivamente, o conselho geral e a direcção.
 
 2. Os vogais designados nos termos dos artigos 12.º e 14.º não podem exercer simultaneamente a representação nos dois órgãos.
 
-###### Art. 12.º - 1. O conselho geral é constituído pelo presidente da Junta e por vogais, com a seguinte representação:
+Art. 12.º - 1. O conselho geral é constituído pelo presidente da Junta e por vogais, com a seguinte representação:
 
 a) Serviços públicos especialmente relacionados com os problemas da promoção económico-social das populações;
 
@@ -266,7 +282,7 @@ e) Instituições de previdência social obrigatória.
 
 2. O número de vogais do conselho geral e a repartição das representações serão fixados por despacho do Governador, publicado no Boletim Oficial.
 
-###### Art. 13.º - 1. Compete ao conselho geral:
+Art. 13.º - 1. Compete ao conselho geral:
 
 a) Examinar e votar o orçamento ordinário e os orçamentos suplementares, as contas e os relatórios de gerência;
 
@@ -282,7 +298,7 @@ f) Desempenhar as demais funções que venham a ser-lhe atribuídas por lei ou r
 
 2. Às reuniões do conselho geral assistem, com voto consultivo, os membros da direcção.
 
-###### Art. 14.º - 1. A direcção é constituída pelo presidente da Junta, vice-presidentes e quatro vogais.
+Art. 14.º - 1. A direcção é constituída pelo presidente da Junta, vice-presidentes e quatro vogais.
 
 2. Os vogais são designados, com observância do seguinte:
 
@@ -298,7 +314,7 @@ c) Dois, pelos organismos corporativos representativos dos trabalhadores.
 
 5. Aos vogais da direcção serão fixadas senhas de presença mediante despacho do Governador.
 
-###### Art. 15.º - 1. Compete à direcção:
+Art. 15.º - 1. Compete à direcção:
 
 a) Organizar os serviços da Junta e os quadros do respectivo pessoal, submetendo-os ao parecer do conselho geral e à aprovação do Governador;
 
@@ -320,19 +336,19 @@ i) Praticar os demais actos necessários à boa administração da Junta e desem
 
 2. Um exemplar do relatório anual e das contas de gerência deve ser apresentado, até ao fim do 1.º semestre do ano seguinte a que disser respeito, à Inspecção Superior de Administração Ultramarina.
 
-###### Art. 16.º - 1. Ao presidente da Junta incumbe em especial a gestão e coordenação dos serviços e a representação do organismo em juízo ou fora dele.
+Art. 16.º - 1. Ao presidente da Junta incumbe em especial a gestão e coordenação dos serviços e a representação do organismo em juízo ou fora dele.
 
 2. Os vice-presidentes coadjuvam o presidente no exercício das suas funções, desempenhando as demais tarefas fixadas no regulamento da Junta ou que lhes forem determinadas pelo presidente.
 
-###### Art. 17.º A organização dos serviços centrais e regionais, a constituição das delegações e as respectivas atribuições serão definidas no regulamento da Junta, aprovado mediante portaria.
+Art. 17.º A organização dos serviços centrais e regionais, a constituição das delegações e as respectivas atribuições serão definidas no regulamento da Junta, aprovado mediante portaria.
 
-###### Art. 18.º A Junta processará a gerência através de orçamento anual e de orçamentos suplementares, aprovados por portaria do Governador, sendo a direcção responsável pela sua gestão perante o Tribunal Administrativo, ao qual submeterá as respectivas contas, para efeitos de julgamento, até 31 de Maio de cada ano.
+Art. 18.º A Junta processará a gerência através de orçamento anual e de orçamentos suplementares, aprovados por portaria do Governador, sendo a direcção responsável pela sua gestão perante o Tribunal Administrativo, ao qual submeterá as respectivas contas, para efeitos de julgamento, até 31 de Maio de cada ano.
 
 ### CAPÍTULO III — Regime financeiro
 
-###### Art. 19.º O Fundo de Acção Social no Trabalho é constituído por receitas próprias, destinadas a custear os encargos com a acção social a desenvolver, e por valores consignados aos fins previstos na legislação do trabalho.
+Art. 19.º O Fundo de Acção Social no Trabalho é constituído por receitas próprias, destinadas a custear os encargos com a acção social a desenvolver, e por valores consignados aos fins previstos na legislação do trabalho.
 
-###### Art. 20.º - 1. São receitas próprias do Fundo de Acção Social no Trabalho:
+Art. 20.º - 1. São receitas próprias do Fundo de Acção Social no Trabalho:
 
 a) Contribuições mensais das entidades patronais e dos trabalhadores, fixadas em percentagem ou em valor fixo, sobre as remunerações consideradas até um limite máximo;
 
@@ -358,7 +374,7 @@ l) Quaisquer outras receitas que vierem a ser-lhe expressamente atribuídas por 
 
 2. As formas de contribuição, as percentagens e o limite máximo de remuneração sobre que devam incidir, previstos nas alíneas a) e f) do número anterior serão estabelecidos pelo órgão legislativo provincial competente.
 
-###### Art. 21.º Quando os respectivos Governos os julguem conveniente, podem determinar que passem a constituir valores consignados a depositar à ordem do Fundo de Acção Social no Trabalho:
+Art. 21.º Quando os respectivos Governos os julguem conveniente, podem determinar que passem a constituir valores consignados a depositar à ordem do Fundo de Acção Social no Trabalho:
 
 a) Os espólios dos trabalhadores falecidos e não reclamados;
 
@@ -368,78 +384,78 @@ c) As importâncias das percentagens sobre as remunerações dos trabalhadores m
 
 d) Os saldos dos salários ou de quaisquer outras remunerações pertencentes aos trabalhadores quando não reclamados.
 
-###### Art. 22.º As entidades patronais que não efectuarem o pagamento das contribuições previstas na alínea a) do n.º 1 do artigo 20.º nos prazos que estejam ou vierem a ser fixados em regulamento incorrerão na multa equivalente ao dobro das importâncias devidas, a qual não poderá ser inferior a 250$00 nem ultrapassar 10000$00, cumulativamente com a entrega das contribuições em dívida.
+Art. 22.º As entidades patronais que não efectuarem o pagamento das contribuições previstas na alínea a) do n.º 1 do artigo 20.º nos prazos que estejam ou vierem a ser fixados em regulamento incorrerão na multa equivalente ao dobro das importâncias devidas, a qual não poderá ser inferior a 250$00 nem ultrapassar 10000$00, cumulativamente com a entrega das contribuições em dívida.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 23.º - 1. A composição do quadro comum da Junta em Angola e Moçambique é a que consta do mapa anexo ao presente decreto, do qual faz parte integrante e baixa assinado pelo Ministro do Ultramar.
+Art. 23.º - 1. A composição do quadro comum da Junta em Angola e Moçambique é a que consta do mapa anexo ao presente decreto, do qual faz parte integrante e baixa assinado pelo Ministro do Ultramar.
 
 2. Os Governadores-Gerais constituirão os respectivos quadros privativos de harmonia com as necessidades, características e extensão dos serviços, e fixarão as categorias, que poderão incluir a letra H, as condições pessoais e a forma de provimento, respeitados os limites mínimos de habilitações estabelecidos no Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 24.º Sem prejuízo do preceituado neste diploma, são aplicáveis ao pessoal dos quadros da Junta as disposições do Estatuto do Funcionalismo Ultramarino.
+Art. 24.º Sem prejuízo do preceituado neste diploma, são aplicáveis ao pessoal dos quadros da Junta as disposições do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 25.º - 1. O presidente e os vice-presidentes são providos, em comissão ordinária de serviço, pelo Ministro do Ultramar, precedendo consulta ou sob proposta do Governador, de entre indivíduos habilitados com um curso superior, que possuam formação e experiência adequadas ao exercício dos cargos.
+Art. 25.º - 1. O presidente e os vice-presidentes são providos, em comissão ordinária de serviço, pelo Ministro do Ultramar, precedendo consulta ou sob proposta do Governador, de entre indivíduos habilitados com um curso superior, que possuam formação e experiência adequadas ao exercício dos cargos.
 
 2. O presidente é substituído nas suas faltas ou impedimentos pelo vice-presidente que for designado pelo Governador.
 
 3. A comissão de serviço do presidente e vice-presidentes é de dois anos, podendo ser reconduzidos uma ou mais vezes.
 
-###### Art. 26.º - 1. Os lugares de técnico de 2.ª classe serão livremente providos, por nomeação ou em comissão de serviço, pelo Ministro do Ultramar, ouvido o Governador, de entre indivíduos com curso superior adequado ao exercício das respectivas funções.
+Art. 26.º - 1. Os lugares de técnico de 2.ª classe serão livremente providos, por nomeação ou em comissão de serviço, pelo Ministro do Ultramar, ouvido o Governador, de entre indivíduos com curso superior adequado ao exercício das respectivas funções.
 
 2. Os lugares de técnico de 1.ª classe serão providos por escolha de entre os técnicos de 2.ª classe com pelo menos as duas últimas informações anuais de serviço de Muito bom, salvo o primeiro provimento, que será feito nos termos do número anterior.
 
-###### Art. 27.º O lugar de chefe de expediente geral será provido pelo Ministro do Ultramar, sob proposta do Governador, de entre indivíduos habilitados com curso superior ou chefes de secção de qualquer ramo de serviço público com informações de serviço nesta categoria de Muito bom.
+Art. 27.º O lugar de chefe de expediente geral será provido pelo Ministro do Ultramar, sob proposta do Governador, de entre indivíduos habilitados com curso superior ou chefes de secção de qualquer ramo de serviço público com informações de serviço nesta categoria de Muito bom.
 
-###### Art. 28.º - 1. Nas províncias de governo-geral o pessoal do Fundo de Acção Social no Trabalho transita para o quadro privativo da Junta, nas suas actuais categorias e formas de provimento, independentemente de qualquer formalidade, incluindo o visto do Tribunal Administrativo.
+Art. 28.º - 1. Nas províncias de governo-geral o pessoal do Fundo de Acção Social no Trabalho transita para o quadro privativo da Junta, nas suas actuais categorias e formas de provimento, independentemente de qualquer formalidade, incluindo o visto do Tribunal Administrativo.
 
 2. Os Governadores-Gerais de Angola e de Moçambique distribuirão, em lista nominal anotada pelo Tribunal Administrativo e publicada no Boletim Oficial, o pessoal do Fundo de Acção Social no Trabalho pelo quadro privativo da Junta.
 
 3. O pessoal a que se referem os números anteriores considerar-se-á empossado nos novos lugares na data da publicação das respectivas listas no Boletim Oficial.
 
-###### Art. 29.º - 1. Ao pessoal de direcção e chefia, a que correspondem as categorias abrangidas pelas letras D a H, inclusive, são devidas as gratificações previstas na tabela I anexa ao [Decreto n.º 323/71](https://diariodarepublica.pt/dr/detalhe/decreto/323-1971-643096), de 27 de Julho.
+Art. 29.º - 1. Ao pessoal de direcção e chefia, a que correspondem as categorias abrangidas pelas letras D a H, inclusive, são devidas as gratificações previstas na tabela I anexa ao [Decreto n.º 323/71](https://diariodarepublica.pt/dr/detalhe/decreto/323-1971-643096), de 27 de Julho.
 
 2. Ao pessoal de direcção e chefia, com curso superior, além das gratificações referidas no número anterior, poderá ser fixado, cumulativamente, subsídio diário por despacho do Governador.
 
-###### Art. 30.º Para desempenhar funções de carácter técnico ou executar trabalhos eventuais ou auxiliares, em tempo completo ou em tempo parcial, poderá ser contratado ou assalariado o pessoal indispensável, nos termos previstos em regulamento aprovado pelo Governador, desde que os correspondente encargos tenham cabimento nas verbas especialmente inscritas no orçamento da Junta.
+Art. 30.º Para desempenhar funções de carácter técnico ou executar trabalhos eventuais ou auxiliares, em tempo completo ou em tempo parcial, poderá ser contratado ou assalariado o pessoal indispensável, nos termos previstos em regulamento aprovado pelo Governador, desde que os correspondente encargos tenham cabimento nas verbas especialmente inscritas no orçamento da Junta.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 31.º Transitam para o património da Junta, nas províncias de Angola e de Moçambique, os bens e valores do respectivo Fundo de Acção Social no Trabalho.
+Art. 31.º Transitam para o património da Junta, nas províncias de Angola e de Moçambique, os bens e valores do respectivo Fundo de Acção Social no Trabalho.
 
-###### Art. 32.º - 1. O exercício das actividades previstas neste diploma isenta a Junta e os organismos referidos no artigo 5.º de quaisquer taxas, contribuições, impostos, licenças e demais encargos fiscais, incluindo os municipais.
+Art. 32.º - 1. O exercício das actividades previstas neste diploma isenta a Junta e os organismos referidos no artigo 5.º de quaisquer taxas, contribuições, impostos, licenças e demais encargos fiscais, incluindo os municipais.
 
 2. O disposto no número anterior abrange as isenções do imposto do selo e taxas que incidam sobre espectáculos com entradas pagas, licenças para realizações desportivas, recreativas e culturais e quaisquer licenças camarárias.
 
-###### Art. 33.º A Inspecção do Trabalho fiscalizará a cobrança de contribuições para o Fundo de Acção Social no Trabalho, levantando os autos de notícia pelas irregularidades verificadas.
+Art. 33.º A Inspecção do Trabalho fiscalizará a cobrança de contribuições para o Fundo de Acção Social no Trabalho, levantando os autos de notícia pelas irregularidades verificadas.
 
-###### Art. 34.º Os Governadores-Gerais de Angola e de Moçambique regulamentarão, na medida das atribuições estabelecidas no presente decreto, a organização e o funcionamento da Junta, no prazo máximo de noventa dias a contar da data da entrada em vigor do presente diploma.
+Art. 34.º Os Governadores-Gerais de Angola e de Moçambique regulamentarão, na medida das atribuições estabelecidas no presente decreto, a organização e o funcionamento da Junta, no prazo máximo de noventa dias a contar da data da entrada em vigor do presente diploma.
 
-###### Art. 35.º - 1. Constituem receita da Junta os valores que pertençam ao Fundo de Auxílio aos Pescadores, criado em Angola pelo artigo 16.º do Diploma Legislativo n.º 2735, de 15 de Fevereiro de 1956.
+Art. 35.º - 1. Constituem receita da Junta os valores que pertençam ao Fundo de Auxílio aos Pescadores, criado em Angola pelo artigo 16.º do Diploma Legislativo n.º 2735, de 15 de Fevereiro de 1956.
 
 2. O Governador-Geral providenciará para a transferência para o património da Junta dos bens e valores afectos ao Fundo de Auxílio aos Pescadores.
 
-###### Art. 36.º - 1. Os Governos das províncias de governo simples ficam autorizados a criar o fundo de acção social no trabalho, a estabelecer a sua coordenação com o Instituto do Trabalho, Previdência e Acção Social e com o Serviço de Emprego e, bem assim, a regulamentar a sua organização e funcionamento, em conformidade com os interesses locais e com o ajustamento às orientações estabelecidas neste diploma.
+Art. 36.º - 1. Os Governos das províncias de governo simples ficam autorizados a criar o fundo de acção social no trabalho, a estabelecer a sua coordenação com o Instituto do Trabalho, Previdência e Acção Social e com o Serviço de Emprego e, bem assim, a regulamentar a sua organização e funcionamento, em conformidade com os interesses locais e com o ajustamento às orientações estabelecidas neste diploma.
 
 2. São aplicáveis ao Fundo de Acção Social no Trabalho criado nas províncias de governo simples, as disposições dos artigos 19.º a 22.º do presente diploma.
 
 3. O quadro do pessoal do Fundo de Acção Social no Trabalho, nas províncias de governo simples será aprovado pelo Ministro do Ultramar, sob proposta dos respectivos Governadores.
 
-###### Art. 37.º São revogadas todas as disposições em contrário deste diploma e, designadamente, a Portaria Ministerial n.º 4, de 30 de Junho de 1962, publicada em Angola, a Portaria Ministerial n.º 2, de 19 de Julho de 1962, publicada em Moçambique, e os Decretos n.º 45928, de 3 de Outubro de 1964, e n.º 46972, de 26 de Abril de 1966.
+Art. 37.º São revogadas todas as disposições em contrário deste diploma e, designadamente, a Portaria Ministerial n.º 4, de 30 de Junho de 1962, publicada em Angola, a Portaria Ministerial n.º 2, de 19 de Julho de 1962, publicada em Moçambique, e os Decretos n.º 45928, de 3 de Outubro de 1964, e n.º 46972, de 26 de Abril de 1966.
 
-###### Art. 38.º O presente decreto entra em vigor em 1 de Agosto de 1973.
+Art. 38.º O presente decreto entra em vigor em 1 de Agosto de 1973.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 19 de Junho de 1973.**
+Promulgado em 19 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 Quadro comum do pessoal da Junta de Acção Social no Trabalho em Angola e Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/15400/11391144.pdf))](https://files.diariodarepublica.pt/1s/1973/07/15400/11391144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/15400/11391144.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

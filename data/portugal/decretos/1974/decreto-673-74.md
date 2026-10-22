@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/673-1974-466217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d61f9d1df70c09a85851d99dc60eb07692d435d51ac481d1e138f2941bd03954
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d263d33e1bf28ffb44d3653b45c6eed22616e6b16a5449c35083e86eb88ac42f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Despesa de ANOS Findos
+- Despesas Públicas
+- Encargos Gerais da Nação
+- Ministério da Economia
+- Ministério da Educação e Cultura
+- Ministério do Exército
+- Ministério do Trabalho
+- Orçamento
+- Pagamento
+- Pagamento por Conta
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:52Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +103,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba «Despesas de anos findos» inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba «Despesas de anos findos» inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -110,14 +125,14 @@ Ministério do Trabalho
 
 Encargos do ano de 1973 referentes a vencimentos, outros bens não duradouros, representação, remunerações por serviços auxiliares, comunicações, publicidade e propaganda, gratificações variáveis ou eventuais, deslocações, telefones individuais e combustíveis e lubrificantes contraídos pela Direcção-Geral da Previdência, Gabinete do Ministro, Gabinete de Planeamento, Secretaria-Geral, Direcção-Geral do Trabalho e Corporações, Inspecção do Trabalho, Inspecção dos Organismos Corporativos e Inspecção da Previdência Social ... 3652631$50
 
-###### Art. 2.º É autorizada a 11.ª Delegação da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da verba inscrita no capítulo 31.º, artigo 769.º, n.º 5, do actual orçamento do Ministério da Economia, a importância de 80648$50, respeitante a despesas com investimentos - melhoramentos fundiários, contraídas durante o ano de 1973 pela Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 2.º É autorizada a 11.ª Delegação da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da verba inscrita no capítulo 31.º, artigo 769.º, n.º 5, do actual orçamento do Ministério da Economia, a importância de 80648$50, respeitante a despesas com investimentos - melhoramentos fundiários, contraídas durante o ano de 1973 pela Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 3.º Fica igualmente autorizado o Instituto de Assistência Nacional aos Tuberculosos a satisfazer, pela verba consignada a despesas de anos findos do seu actual orçamento privativo, a quantia de 329065$00, respeitante ao pagamento complementar extraordinário devido a pessoal de enfermagem relativo ao ano de 1973.
+Art. 3.º Fica igualmente autorizado o Instituto de Assistência Nacional aos Tuberculosos a satisfazer, pela verba consignada a despesas de anos findos do seu actual orçamento privativo, a quantia de 329065$00, respeitante ao pagamento complementar extraordinário devido a pessoal de enfermagem relativo ao ano de 1973.
 
 Vasco dos Santos Gonçalves - Victor Manuel Rodrigues Alves - Ernesto Augusto Melo Antunes - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - António de Almeida Santos - Manuel da Costa Brás - Francisco Salgado Zenha - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar - Joaquim Jorge de Pinho Campinos - José Augusto Fernandes - Vitorino Magalhães Godinho - José Inácio da Costa Martins - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 26 de Novembro de 1974.**
+Promulgado em 26 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

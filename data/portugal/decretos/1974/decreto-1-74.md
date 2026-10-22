@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-1974-303109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13bc2682e429cea58fa8f7948ffd6e97416951e5e27a9dd12089f8043d105361
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92fa2e0861c39926343e615199b9ccbc8046bbefac95e563eece0915ab7a1ce0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632739:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:37Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +114,9 @@ Atendendo ao disposto no artigo 15.º do [Decreto-Lei n.º 44506](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado, no Fundo de Desenvolvimento da Mão-de-Obra, o Serviço de Prevenção de Riscos Profissionais, destinado a estudar e a pôr em prática as medidas adequadas à redução da sinistralidade laboral.
+Artigo 1.º É criado, no Fundo de Desenvolvimento da Mão-de-Obra, o Serviço de Prevenção de Riscos Profissionais, destinado a estudar e a pôr em prática as medidas adequadas à redução da sinistralidade laboral.
 
-###### Art. 2.º São atribuições do Serviço de Prevenção de Riscos Profissionais:
+Art. 2.º São atribuições do Serviço de Prevenção de Riscos Profissionais:
 
 a) Estudar os princípios que enformam a prevenção, contribuindo para a sua unidade como disciplina que associa várias ciências, técnicas e métodos e para a sua constante renovação;
 
@@ -122,7 +138,7 @@ i) Colaborar com todos os organismos e serviços públicos ou privados que se oc
 
 j) Contactar organismos estrangeiros congéneres e organizações internacionais especializadas na matéria e participar em congressos e realizações similares dos países estrangeiros.
 
-###### Art. 3.º No exercício das suas atribuições compete ao Serviço de Prevenção de Riscos Profissionais:
+Art. 3.º No exercício das suas atribuições compete ao Serviço de Prevenção de Riscos Profissionais:
 
 a) Proceder, em estreita colaboração com os serviços especializados do Ministério das Corporações e Segurança Social ou outros serviços públicos, à recolha e elaboração dos dados informativos e documentos necessários à sua acção interna e externa;
 
@@ -140,7 +156,7 @@ g) Orientar em prevenção as empresas, especialmente as pequenas e médias, bem
 
 h) Apoiar as empresas, com vista à melhoria das condições de higiene e segurança no trabalho, operando diagnósticos da situação, aplicando métodos e técnicas de prevenção e procedendo à avaliação de resultados.
 
-###### Art. 4.º - 1. O Serviço de Prevenção de Riscos Profissionais é constituído por:
+Art. 4.º - 1. O Serviço de Prevenção de Riscos Profissionais é constituído por:
 
 a) Direcção, composta por um director e dois adjuntos;
 
@@ -154,22 +170,22 @@ e) Secretaria.
 
 2. A direcção e demais elementos serão nomeados por despacho do Ministro das Corporações e Segurança Social.
 
-###### Art. 5.º A admissão do pessoal do Serviço de Prevenção de Riscos Profissionais far-se-á de acordo com o determinado no [Decreto-Lei n.º 412/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1971-632739), de 27 de Setembro.
+Art. 5.º A admissão do pessoal do Serviço de Prevenção de Riscos Profissionais far-se-á de acordo com o determinado no [Decreto-Lei n.º 412/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1971-632739), de 27 de Setembro.
 
-###### Art. 6.º - 1. É extinto o Gabinete de Higiene e Segurança do Trabalho, criado pela [Portaria n.º 19533](https://diariodarepublica.pt/dr/detalhe/portaria/19533-1962-155427), de 30 de Novembro de 1962.
+Art. 6.º - 1. É extinto o Gabinete de Higiene e Segurança do Trabalho, criado pela [Portaria n.º 19533](https://diariodarepublica.pt/dr/detalhe/portaria/19533-1962-155427), de 30 de Novembro de 1962.
 
 2. Os bens pertencentes à Junta da Acção Social afectos ao Gabinete que agora se extingue serão transferidos para o património do Fundo de Desenvolvimento da Mão-de-Obra, destinando-se ao funcionamento do Serviço de Prevenção de Riscos Profissionais.
 
-###### Art. 7.º - 1. Os encargos derivados do funcionamento do Serviço de Prevenção de Riscos Profissionais serão suportados pelo Fundo de Desenvolvimento da Mão-de-Obra.
+Art. 7.º - 1. Os encargos derivados do funcionamento do Serviço de Prevenção de Riscos Profissionais serão suportados pelo Fundo de Desenvolvimento da Mão-de-Obra.
 
 2. A Junta da Acção Social poderá ser chamada a comparticipar dos encargos referidos no número anterior, de harmonia com o que for determinado em despacho do Ministro das Corporações e Segurança Social.
 
-###### Art. 8.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro das Corporações e Segurança Social.
+Art. 8.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro das Corporações e Segurança Social.
 
 Marcello Caetano - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 19 de Dezembro de 1973.**
+Promulgado em 19 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

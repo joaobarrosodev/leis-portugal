@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/2010/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-2010-613210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf26f841162c4330c9cb4c6d86637edfb54745f366c069efea2c4b7ffbf06e9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67ef1dd2ef1e1efad59e7fc16baedd181aa59b59d29518b50089826620aabf0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Venezuela
+- Comércio
 - Controlo de Qualidade
+- Controlo Sanitário
 - Convenção
 - Cooperação Comercial
-- Portugal
-- Controlo Sanitário
-- Saúde Pública
-- Lisboa
 - Cooperação Económica
-- Proteção Fitossanitária
-- Comércio
+- Lisboa
+- Portugal
 - Produto Agrícola
+- Produto Alimentar
 - Produto Animal
+- Proteção Fitossanitária
+- Saúde Pública
+- Venezuela
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:43Z'
   warnings: []
   errors: []
 ---
@@ -113,15 +113,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira - José António Fonseca Vieira da Silva - António Manuel Soares Serrano.
 
-**Assinado em 13 de Abril de 2010.**
+Assinado em 13 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Abril de 2010.**
+Referendado em 14 de Abril de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO SANITÁRIO E FITOSSANITÁRIO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA BOLIVARIANA DA VENEZUELA PARA O COMÉRCIO DE PRODUTOS E SUBPRODUTOS AGRO-ALIMENTARES.
 
@@ -227,7 +227,7 @@ O presente Acordo entrará em vigor no prazo de 30 dias após a recepção, por 
 
 A Parte em cujo território é assinado este Acordo procederá, no mais breve prazo possível após a respectiva entrada em vigor, ao registo junto do Secretariado das Nações Unidas, de acordo com o previsto no artigo 102.º da Carta das Nações Unidas, e notificará a outra Parte da conclusão deste processo, indicando o respectivo número de registo.
 
-**Assinado na cidade de Lisboa, no dia 26 de Junho de 2009, em dois exemplares originais nas línguas portuguesa e castelhana, sendo ambos os textos igualmente autênticos.**
+Assinado na cidade de Lisboa, no dia 26 de Junho de 2009, em dois exemplares originais nas línguas portuguesa e castelhana, sendo ambos os textos igualmente autênticos.
 
 Pela República Portuguesa:
 

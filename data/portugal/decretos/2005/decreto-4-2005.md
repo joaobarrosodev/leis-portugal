@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/2005/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2005-596314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e3964246174091b33e3a243009a478623d426d5e0d08e1217bffcefe72620ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0eeb891b319abc814428a45b32bda0ddb29062ecb18281d210549c6a1d400f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Convenção
-- Portugal
-- Património Cultural
 - Florença
+- Ordenamento do Território
+- Património Cultural
 - Património Natural
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:125047271:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:125047271:por
+  label: Aprovado o Protocolo de Alteração à Convenção Europeia da Paisagem feito em Estrasburgo, em 1 de agosto de 2016,
+    aprovada pelo presente diploma, pelo(a) Decreto n.º 24/2019 - Diário da República n.º 190/2019, Série I de 2019-10-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/24-2019-125047271
+  date: '2019-10-03'
 article_structure:
   article_count: 18
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:17Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +112,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - António Victor Martins Monteiro - Luís José de Mello e Castro Guedes.
 
-**Assinado em 20 de Janeiro de 2005.**
+Assinado em 20 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Janeiro de 2005.**
+Referendado em 26 de Janeiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 EUROPEAN LANDSCAPE CONVENTION
 
@@ -838,7 +844,7 @@ As disposições da presente Convenção não prejudicam a aplicação de dispos
 
 ###### Artigo 18.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, qualquer Estado ou a Comunidade Europeia, caso tenham aderido à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, qualquer Estado ou a Comunidade Europeia, caso tenham aderido à presente Convenção:
 
 a) De qualquer assinatura;
 

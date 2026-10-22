@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/15/2004/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-2004-281204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ae7a7113a8266473f754e5f2b535e88d9cf2af2b60d8245fca9885f4ab903d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21e97c028d30e9dde77966f5b1511a27ecdd0eae547707c08bad3a9978ec0bd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Convenção
-- Portugal
-- Saúde Pública
 - Estocolmo
-- Proteção do Ambiente
+- Pesticida
+- Poluição
 - Poluição da água
 - Poluição Industrial
 - Poluição Marinha
 - Poluição Transfronteiriça
-- Poluição
-- Pesticida
+- Portugal
+- Produto Químico
+- Proteção do Ambiente
+- Saúde Pública
 relationships: []
 article_structure:
   article_count: 30
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:28Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Amílcar Augusto Contel Martins Theias.
 
-**Assinado em 3 de Maio de 2004.**
+Assinado em 3 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Maio de 2004.**
+Referendado em 5 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 CONVENTION ON PERSISTENT ORGANIC POLLUTANTS
 
@@ -758,7 +758,7 @@ Elimination
 
 PART I
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)
 
 Notes
 
@@ -810,7 +810,7 @@ Restriction
 
 PART I
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)
 
 Notes
 
@@ -1690,7 +1690,7 @@ Não podem ser estabelecidas reservas à presente Convenção.
 
 ###### Artigo 29.º — Depositário
 
-**O Secretário-Geral das Nações Unidas será o depositário da presente Convenção.**
+O Secretário-Geral das Nações Unidas será o depositário da presente Convenção.
 
 ###### Artigo 30.º — Textos autênticos
 
@@ -1702,7 +1702,7 @@ Feito em Estocolmo, em 22 de Maio de 2001.
 
 ## ANEXO A — Eliminação
 
-# PARTE I — [(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)
+## PARTE I — [[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)
 
 Notas
 
@@ -1714,7 +1714,7 @@ iii) Esta nota, que não se aplica às substâncias químicas cujo nome é segui
 
 iv) Todas as derrogações específicas do presente anexo podem ser utilizadas pelas Partes que as tenham registado nos termos do artigo 4.º, excepto a relativa à utilização dos bifenilos policlorados em artigos em utilização de acordo com as disposições da parte II do presente anexo, a que podem recorrer todas as Partes.
 
-# PARTE II — Bifenilos policlorados
+## PARTE II — Bifenilos policlorados
 
 Cada Parte compromete-se a:
 
@@ -1748,7 +1748,7 @@ h) Os relatórios referidos na alínea g) serão, quando adequado, examinados pe
 
 ## ANEXO B — Restrições
 
-# PARTE I — [(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)
+## PARTE I — [[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)](https://files.diariodarepublica.pt/1s/2004/06/130a00/34513485.pdf)
 
 Notas
 
@@ -1760,7 +1760,7 @@ iii) A presente nota não será considerada como constituindo uma derrogação e
 
 iv) Qualquer Parte pode prevalecer-se de todas as derrogações específicas previstas no presente anexo desde que as tenha registado, no que lhe respeita, nos termos do artigo 4.º
 
-# PARTE II — DDT [1,1,1-tricloro-2,2-bis (4-clorofenil) etano]
+## PARTE II — DDT [1,1,1-tricloro-2,2-bis (4-clorofenil) etano]
 
 1 - A produção e utilização de DDT será eliminada excepto para as Partes que tenham notificado o Secretariado da sua intenção de o produzir e ou utilizar. É pela presente estabelecido um registo de DDT que estará à disposição do público. O Secretariado será responsável pela manutenção do registo de DDT.
 
@@ -1794,7 +1794,7 @@ c) Os progressos no reforço da capacidade dos países de evoluírem, de forma s
 
 ## ANEXO C — Produção não deliberada
 
-# PARTE I — Poluentes orgânicos persistentes sujeitos aos requisitos do artigo 5.º
+## PARTE I — Poluentes orgânicos persistentes sujeitos aos requisitos do artigo 5.º
 
 O presente anexo aplica-se aos seguintes poluentes orgânicos persistentes quando formados e libertados de forma não deliberada por fontes antropogénicas:
 
@@ -1806,7 +1806,7 @@ Hexaclorobenzeno (HCB) (número CAS: 118-74-1);
 
 Bifenilos policlorados (PCB).
 
-# PARTE II — Categorias de fontes
+## PARTE II — Categorias de fontes
 
 As dibenzeno-p-dioxinas policloradas e os dibenzofuranos policlorados, o hexaclorobenzeno e os bifenilos policlorados são formados de modo não deliberado e libertados por processos térmicos que envolvem matéria orgânica e cloro em resultado de uma combustão incompleta ou de reacções químicas. As seguintes categorias de fontes industriais têm potencial para a formação e libertação comparativamente elevadas destas substâncias químicas para o ambiente:
 
@@ -1826,7 +1826,7 @@ iii) Produção secundária de alumínio;
 
 iv) Produção secundária de zinco.
 
-# PARTE III — Categorias de fontes
+## PARTE III — Categorias de fontes
 
 As dibenzeno-p-dioxinas policloradas e os dibenzofuranos policlorados, o hexaclorobenzeno e os bifenilos policlorados também podem ser formados e libertados de modo não deliberado a partir das seguintes categorias de fontes:
 
@@ -1856,7 +1856,7 @@ l) Aquecimento lento de cabos de cobre;
 
 m) Refinarias de óleos usados.
 
-# PARTE IV — Definições
+## PARTE IV — Definições
 
 1 - Para os fins do presente anexo:
 
@@ -1866,7 +1866,7 @@ b) «Dibenzeno-p-dioxinas policloradas» e «dibenzofuranos policlorados» signi
 
 2 - No presente anexo, a toxicidade das dibenzeno-p-dioxinas policloradas e dibenzofuranos policlorados é expressa utilizando o conceito de equivalência tóxica que mede a actividade tóxica relativa dos diferentes congéneres das dibenzeno-p-dioxinas policloradas e dibenzofuranos policlorados em comparação com a 2,3,7,8-tetraclorodibenzo-p-dioxina. Os valores dos factores de equivalência tóxica a utilizar para os fins da presente Convenção devem ser conformes às normas internacionalmente aceites, a começar pelos valores dos factores de equivalência tóxica para os mamíferos relativos às dibenzeno-p-dioxinas policloradas, dibenzofuranos policlorados e bifenilos policlorados coplanares, publicados em 1998 pela Organização Mundial de Saúde. As concentrações expressam-se em equivalência tóxica.
 
-# PARTE V — Orientações gerais sobre as melhores técnicas disponíveis e as melhores práticas ambientais
+## PARTE V — Orientações gerais sobre as melhores técnicas disponíveis e as melhores práticas ambientais
 
 A presente Parte fornece orientações gerais às Partes sobre a prevenção ou redução de libertações das substâncias químicas enumeradas na Parte I.
 

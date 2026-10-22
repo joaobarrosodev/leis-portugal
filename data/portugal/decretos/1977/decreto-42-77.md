@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-1977-141050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86147d23ad8cc1bcee18a4fceabc76f78ad0af555f2c91e4015b379270ed812f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c24d9a9fb2615857085f59431135124856b26b183c9ff7394ad0f8e07eabe4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Convenção
+- Cooperação Científica
+- Cooperação Económica
+- Cooperação Técnica
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:453516:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453516:por
+  label: "Cessados os efeitos do Acordo de Comércio e de Cooperação Económica, Científica e Técnica entre o Governo da República\
+    \ Portuguesa e o Governo da República Árabe Líbia, pelo DEC.27/2008.22.08.2008.MNE, DR.IS [162] de 22.08.2008, com a entrada\
+    \ em vigor do Acordo aprovado por este último diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/27-2008-453516
+  date: '2008-08-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:22Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +104,15 @@ de 17 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Comércio e de Cooperação Económica, Científica e Técnica entre o Governo da República Portuguesa e o Governo da República Árabe Líbia, assinado em Lisboa em 3 de Novembro de 1976, cujos textos em inglês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo de Comércio e de Cooperação Económica, Científica e Técnica entre o Governo da República Portuguesa e o Governo da República Árabe Líbia, assinado em Lisboa em 3 de Novembro de 1976, cujos textos em inglês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 21 de Fevereiro de 1977.**
+Assinado em 21 de Fevereiro de 1977.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO DE COMÉRCIO E DE COOPERAÇÃO ECONÓMICA, CIENTÍFICA E TÉCNICA ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA ÁRABE LÍBIA.
 
@@ -107,11 +120,11 @@ O Governo da República Portuguesa e o Governo da República Árabe Líbia;
 
 No desejo de consolidar as relações bilaterais e promover o comércio e a cooperação económica, científica e técnica entre os dois países na base do respeito mútuo e vantagens recíprocas, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 O Governo da República Portuguesa e o Governo da República Árabe Líbia promoverão o desenvolvimento do comércio e da cooperação económica, científica e técnica entre os dois países.
 
-ARTIGO II
+###### ARTIGO II
 
 Ambos os países desenvolverão a cooperação económica, científica e técnica para benefício mútuo.
 
@@ -131,7 +144,7 @@ f) Intercâmbio de especialistas, técnicos e professores universitários, organ
 
 g) Contactos recíprocos no respeitante a centros científicos e outras áreas de cooperação acordadas entre os dois países.
 
-ARTIGO III
+###### ARTIGO III
 
 As duas Partes Contratantes conceder-se-ão mutuamente o tratamento de nação mais favorecida em todas as matérias respeitantes às relações comerciais entre os seus respectivos países. Fica estabelecido que este tratamento não será aplicado a:
 
@@ -143,35 +156,35 @@ c) Vantagens concedidas ou a conceder pela República Árabe Líbia a países á
 
 d) Vantagens concedidas ou a conceder no futuro por uma das Partes Contratantes a um ou vários países em vias de desenvolvimento, com vista a promover e consolidar as trocas comerciais com estes países.
 
-ARTIGO IV
+###### ARTIGO IV
 
 A troca de mercadorias, intercâmbio de técnicos, estabelecimento de projectos e a fixação dos respectivos preços e encargos serão definidos de acordo com os contratos a elaborar pelas autoridades, organizações e companhias interessadas de ambos os países, dentro do âmbito e em conformidade com os artigos deste Acordo, e na base da concorrência internacional no que respeita a preços e qualidade.
 
-ARTIGO V
+###### ARTIGO V
 
 Os pagamentos resultantes das operações realizadas no âmbito do presente Acordo serão efectuados em conformidade com as regulamentações cambiais em vigor em ambos os países e em divisas livremente convertíveis.
 
-ARTIGO VI
+###### ARTIGO VI
 
 De acordo com as leis e regulamentos em vigor em ambos os países, fica acordado que as mercadorias importadas de cada um dos países não poderão ser reexportados para um terceiro país sem prévia autorização escrita do país de origem.
 
-ARTIGO VII
+###### ARTIGO VII
 
 De acordo com as leis e regulamentos em vigor em ambos os países, as duas Partes Contratantes encorajarão a sua participação em feiras internacionais realizadas em ambos os países e o estabelecimento de centros e feiras comerciais, de carácter temporário ou permanente, bem como a promover as necessárias facilidades para a importação de amostras e materiais de propaganda, assim como das respectivas embalagens. Os dois países permitirão a entrada das mercadorias e materiais necessários ao estabelecimento das feiras comerciais ou para fins de propaganda do outro país, com isenção de direitos aduaneiros ou outros encargos similares, desde que a importação das mercadorias e materiais da ou ra Parte seja feita a título temporário e posteriormente reexportados.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Será criada uma comissão mista governamental árabe-líbio-portuguesa. Esta comissão reunirá anualmente, alternadamente em Trípolis e Lisboa, com o fim de seguir a implementação deste Acordo e propor medidas para reforçar e desenvolver o comércio e a cooperação económica, científica e técnica entre os dois países e propor soluções apropriadas para as dificuldades e problemas que possam impedir a implementação deste Acordo.
 
-ARTIGO IX
+###### ARTIGO IX
 
 As disposições deste Acordo manter-se-ão em vigor após o seu termo no que respeita à execução dos contratos assinados ao abrigo destas disposições.
 
-ARTIGO X
+###### ARTIGO X
 
 Este Acordo permanecerá em vigor por um período de cinco anos e será automaticamente renovado por períodos sucessivos de um ano, a menos que qualquer dos países notifique, por escrito, através dos canais diplomáticos, com três meses de antecedência antes da data de expiração, o seu desejo de rever ou rescindir este Acordo.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Este Acordo entrará em vigor sessenta dias após a troca de notas que confirmem estarem preenchidos os requisitos constitucionais necessários à sua entrada em vigor.
 

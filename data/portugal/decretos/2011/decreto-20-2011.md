@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/20/2011/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-2011-145238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73d7cc0e7728080e9ea42a0d0936c33e6e0768f045cc85ceded0ff6c75eaf487
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 703411ad9cb1a201eb7329458bfd57f934ad5ed227b3431075fee4f4bb52c358
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Convenção
 - Cooperação Consular
-- Portugal
 - Marraquexe
 - Marrocos
+- Portugal
 - Viena
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:54Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +101,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 2011. - Pedro Passos Coelho - Luís Miguel Gubert Morais Leitão - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz.
 
-**Assinado em 29 de Novembro de 2011.**
+Assinado em 29 de Novembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Novembro de 2011.**
+Referendado em 30 de Novembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE MARROCOS NO DOMÍNIO DA COOPERAÇÃO CONSULAR
 
@@ -293,7 +293,7 @@ Feito em ..., a ... de ... de ...
 
 ... (Assinatura da pessoa detida.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24000/0531905326.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24000/0531905326.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24000/0531905326.pdf)
 
 ACCORD DE COOPÉRATION EN MATIÈRE CONSULAIRE ENTRE LA RÉPUBLIQUE PORTUGAISE ET LE ROYAUME DU MAROC
 

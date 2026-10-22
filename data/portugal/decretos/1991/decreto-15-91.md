@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/15/1991/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-1991-475541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9f185131727734de4c5c760afa4ee8b0f6c89332aa6a9acc79cbc8367c07087
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7010f78cc374cc96d085d2019381da2d8925270eab20a01bbe80d5ad3e42e907
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Guiné-Bissau
 - Cooperação Agrícola
+- Guiné-Bissau
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:37Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +90,19 @@ de 15 de Março
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação Agrícola entre a República Portuguesa e a República da Guiné-Bissau, feito em Lisboa, em 9 de Novembro de 1989, cujo texto original segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Cooperação Agrícola entre a República Portuguesa e a República da Guiné-Bissau, feito em Lisboa, em 9 de Novembro de 1989, cujo texto original segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 1991. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha.
 
-**Assinado em 25 de Fevereiro de 1991.**
+Assinado em 25 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1991.**
+Referendado em 26 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO DE COOPERAÇÃO AGRÍCOLA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU
 
@@ -110,11 +110,11 @@ A República Portuguesa e a República da Guiné-Bissau, com a convicção de qu
 
 I - Disposições gerais
 
-Artigo I
+###### Artigo I
 
 A cooperação científica e técnica no âmbito da agricultura entre os dois países far-se-á através da mobilização das estruturas do Ministério da Agricultura, Pescas e Alimentação (MAPA) e do Instituto para a Cooperação Económica (ICE) de Portugal e o Ministério do Desenvolvimento Rural e Agricultura da Guiné-Bissau, adiante designados por Partes, podendo efectuar-se em todos os domínios, na esfera das suas competências próprias.
 
-Artigo II
+###### Artigo II
 
 1 - Sem prejuízo de outros domínios que venham a ser reconhecidos de interesse pelas Partes, são desde já estabelecidos os seguintes:
 
@@ -158,7 +158,7 @@ f) Fornecimento de equipamento e mobiliário para apetrechamento de laboratório
 
 g) Dinamizar e apoiar a constituição de empresas mistas no âmbito do sector agro-pecuário e florestal.
 
-Artigo III
+###### Artigo III
 
 A Parte portuguesa e a Parte guineense promoverão por intermédio das suas estruturas o estabelecimento de programas conjuntos, anuais ou plurianuais, nos quais se explicitarão:
 
@@ -172,7 +172,7 @@ d) A atribuição das tarefas;
 
 e) O financiamento necessário e a sua distribuição.
 
-Artigo IV
+###### Artigo IV
 
 A gestão deste Protocolo será feita por uma Comissão Coordenadora, que integrará representantes dos dois países, competindo-lhe:
 
@@ -188,23 +188,23 @@ c) Elaborar, no final de cada ano, um relatório sobre as actividades desenvolvi
 
 II- Disposições financeiras
 
-Artigo V
+###### Artigo V
 
 1 - O suporte financeiro das acções decorrentes da aplicação deste Protocolo, constante dos planos de trabalho estabelecidos, será assegurado pela conjugação das disponibilidades de verbas das Partes guineense e portuguesa.
 
 2 - As duas Partes acordam em realizar programas conjuntos a serem submetidos a organismos internacionais ou outras instituições de financiamento para efeito de cobertura financeira.
 
-Artigo VI
+###### Artigo VI
 
 Constitui obrigação da Parte guineense o pagamento dos encargos com o seguro de vida, acidentes pessoais e profissionais dos técnicos portugueses durante a sua permanência na Guiné-Bissau.
 
 III - Disposições finais
 
-Artigo VII
+###### Artigo VII
 
 O texto do presente Protocolo poderá ser modificado através de negociações directas ou através de troca de correspondência entre as Partes, mas a entrada em vigor das respectivas modificações ficará dependente do cumprimento das formalidades previstas no artigo seguinte.
 
-Artigo VIII
+###### Artigo VIII
 
 1 - Este Protocolo é estabelecido pelo período de um ano, prorrogável por iguais períodos, se não for denunciado por qualquer das Partes pelo menos três meses antes de caducar o respectivo período de validade, salvaguardada a continuidade dos programas em curso, os quais deverão prosseguir até o seu termo.
 
@@ -214,8 +214,8 @@ Feito em Lisboa aos 9 de Novembro de 1989, em dois originais em língua portugue
 
 Pela República Portuguesa:
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
 Pela República da Guiné-Bissau:
 
-**O Ministro de Estado do Desenvolvimento Rural e Agricultura, Carlos Correia.**
+O Ministro de Estado do Desenvolvimento Rural e Agricultura, Carlos Correia.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/12/1998/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/12-1998-179495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbb02c7798238921e1458362004b499231dd4b334c9cff2a27c9436ac15e24e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86073ba628493055e10cdd0c4917d3f2e643b701c933e4ec16dd9f95533d4256
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
+- Administração Pública
 - Convenção
 - Cooperação Técnica
+- Formação Profissional
+- Maputo
 - Moçambique
 - Portugal
-- Administração Pública
-- Maputo
 relationships: []
 article_structure:
-  article_count: 8
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:40Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho.
 
-**Assinado em 30 de Março de 1998.**
+Assinado em 30 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Abril de 1998.**
+Referendado em 2 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOLO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DE MOÇAMBIQUE NO DOMÍNIO DA ADMINISTRAÇÃO PÚBLICA.
 
@@ -166,15 +166,17 @@ O presente Protocolo entra em vigor na data da última notificação do cumprime
 
 Feito em Maputo, aos 28 de Novembro de 1997, em dois originais em língua portuguesa, ambos fazendo igualmente fé.
 
-**O Ministro dos Negócios Estrangeiros da República Portuguesa:**
+O Ministro dos Negócios Estrangeiros da República Portuguesa:
 
 Jaime José Matos da Gama.
 
-**O Ministro dos Negócios Estrangeiros e Cooperação da República de Moçambique:**
+O Ministro dos Negócios Estrangeiros e Cooperação da República de Moçambique:
 
 Leonardo Santos Simão.
 
-## ANEXO — Artigo único
+## ANEXO
+
+###### Artigo único
 
 No âmbito do presente Protocolo e de acordo com as necessidades de formação profissional manifestadas pelo Governo de Moçambique no que respeita à formação dos seus quadros dirigentes, quadros superiores, chefias administrativas e quadros técnico-profissionais, o Instituto Nacional de Administração promoverá, durante o próximo biénio, com início na data da assinatura do presente Protocolo, a organização e execução de um curso de formação para dirigentes e quadros técnicos superiores, bem como um curso para chefias administrativas e quadros técnico-profissionais, constituídos por sete módulos de ensino cada e nas seguintes condições:
 

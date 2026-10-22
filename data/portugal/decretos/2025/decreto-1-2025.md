@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00200/0000800011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/1/2025/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-2025-901998025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9faf56f150babff8397998a85db60b85d80d5a48a7a530872181446ec7ae5268
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f61c6ea1e4f071d5cc5332e135ba21d124a3cf1b0241582b1d9de5d6b504227
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcobaça
+- Autarquia Local
 - Circunscrição Florestal
 - Regime Florestal
-- Autarquia Local
 - Zona Industrial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/15/2003/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/15/2003/04/17/p/dre
+- type: cites
+  target: pt:dre:239608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497209:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:53Z'
   warnings: []
   errors: []
 ---
@@ -139,24 +147,28 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o
 
 Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2024. - Luís Montenegro - José Manuel Fernandes.
 
-**Assinado em 23 de dezembro de 2024.**
+Assinado em 23 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de dezembro de 2024.**
+Referendado em 27 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 1.º)
 
 Área a excluir do regime florestal parcial
 
-![](https://files.diariodarepublica.pt/images/901998025/901997927.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901998025/901997927.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 4.º)
 
 Área a submeter ao regime florestal parcial
 
-![](https://files.diariodarepublica.pt/images/901998025/901997928.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901998025/901997928.png) |
+| --- |
+
+118516117

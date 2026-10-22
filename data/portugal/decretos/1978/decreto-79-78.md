@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/17800/16081610.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/79-1978-296871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad0831d74593eab5b034bbb56b73c1fedfc2cdad05a7f2c0f9b5ad3ba22b43dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62ba795fd5b77583450c3de8132a79bb4dd0d2a506059e8dd1539c63875893cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato
+- Embarcação de Recreio
+- Empresa
+- Fretamento
+- Licenciamento
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:458992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:370065:por
+  label: "Aditado um nº 3 ao art. 12.º pelo DR.52/79.1979.08.31.MTC DR.IS [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/52-1979-370065
+  date: '1979-08-31'
+- type: cites
+  target: pt:dre:312004:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:458992:por
+  label: "Revogado pelo DEC LEI.564/80.06.12.1980.MTC, DR.IS [282] de 06.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/564-1980-458992
+  date: '1980-12-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:11Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +119,15 @@ REGULAMENTO DO ALUGUER DAS EMBARCAÇÕES PARA RECREIO
 
 Campo de aplicação
 
-###### Artigo 1.º Consideram-se abrangidas pelo presente diploma, bem como pelas convenções internacionais susceptíveis de aplicação, as embarcações com menos de 490 t de arqueação bruta (TAB).
+Artigo 1.º Consideram-se abrangidas pelo presente diploma, bem como pelas convenções internacionais susceptíveis de aplicação, as embarcações com menos de 490 t de arqueação bruta (TAB).
 
-###### Art. 2.º - 1 - A autorização e regulamentação do exercício da actividade resultante do aluguer de embarcações auxiliares locais para recreio, bem como o processamento da inscrição dos interessados, serão de inteira responsabilidade e competência das capitanias dos portos e delegações marítimas respectivas, sempre que a exploração se processe através de embarcações cuja arqueação não exceda 2 tAB.
+Art. 2.º - 1 - A autorização e regulamentação do exercício da actividade resultante do aluguer de embarcações auxiliares locais para recreio, bem como o processamento da inscrição dos interessados, serão de inteira responsabilidade e competência das capitanias dos portos e delegações marítimas respectivas, sempre que a exploração se processe através de embarcações cuja arqueação não exceda 2 tAB.
 
 2 - Para aplicação do disposto no número anterior torna-se ainda necessário que os proprietários utilizem apenas uma embarcação que explorem por conta própria e para sua subsistência e a referida embarcação não seja utilizada noutra actividade durante o período em que estiver registada como embarcação auxiliar local.
 
 Das embarcações
 
-###### Art. 3.º - 1 - A exploração do aluguer de embarcações para recreio é limitada às empresas nacionais, singulares ou colectivas, que se encontrem inscritas nas capitanias dos portos ou nas delegações marítimas e satisfaçam uma das seguintes condições:
+Art. 3.º - 1 - A exploração do aluguer de embarcações para recreio é limitada às empresas nacionais, singulares ou colectivas, que se encontrem inscritas nas capitanias dos portos ou nas delegações marítimas e satisfaçam uma das seguintes condições:
 
 a) Não se dediquem a outras actividades;
 
@@ -120,7 +141,7 @@ b) As empresas colectivas constituídas em território português, com sede e ad
 
 3 - O exercício da actividade referida no n.º 1 carece de autorização do Secretário de Estado da Marinha Mercante (SEMM) e, uma vez obtida e sob pena da sua caducidade, deve o requerente iniciar, no prazo máximo de um ano, a respectiva actividade.
 
-###### Art. 4.º - 1 - O requerimento das empresas interessadas solicitando a respectiva autorização ao SEMM deve ser enviado à Direcção-Geral da Marinha de Comércio (DGMC), que informará sobre ele, após prévio parecer das capitanias dos portos ou delegações marítimas da zona ou zonas onde se pretenda desenvolver a actividade.
+Art. 4.º - 1 - O requerimento das empresas interessadas solicitando a respectiva autorização ao SEMM deve ser enviado à Direcção-Geral da Marinha de Comércio (DGMC), que informará sobre ele, após prévio parecer das capitanias dos portos ou delegações marítimas da zona ou zonas onde se pretenda desenvolver a actividade.
 
 2 - Posteriormente é o requerimento remetido à Inspecção-Geral de Navios (IGN), que, de acordo com a legislação aplicável, poderá exigir todas as provas documentais e práticas, bem como a montagem dos equipamentos necessários à completa segurança das embarcações e das pessoas embarcadas.
 
@@ -136,7 +157,7 @@ d) Esboço cotado em escala 1:25 das siglas a inscrever nas embarcações;
 
 e) Certificados dos registos criminal e comercial referentes ao indivíduo ou indivíduos que tenham a seu cargo a administração da empresa.
 
-###### Art. 5.º - 1 - Obtida a autorização do SEMM para o exercício da actividade prevista no presente diploma, as empresas serão objecto de inscrição nas capitanias dos portos ou delegações marítimas, onde a actividade principal se venha a desenvolver.
+Art. 5.º - 1 - Obtida a autorização do SEMM para o exercício da actividade prevista no presente diploma, as empresas serão objecto de inscrição nas capitanias dos portos ou delegações marítimas, onde a actividade principal se venha a desenvolver.
 
 2 - A inscrição referida no número anterior só será efectuada desde que cada empresa tenha registado o número mínimo de seis unidades, incluindo uma embarcação motorizada para fins de apoio local, ou de três unidades com um total mínimo de 10 tAB.
 
@@ -154,7 +175,7 @@ e) Desrespeito comprovado das normas reguladoras deste tipo de actividade;
 
 f) Capital social e reservas inferior a 50% do activo imobilizado.
 
-###### Art. 6.º - 1 - Mediante autorização da IGN, as empresas inscritas poderão incluir na sua frota, por aquisição ou contrato de fretamento, qualquer tipo de embarcações, incluindo as registadas na marinha de recreio, desde que satisfaçam os requisitos de segurança face aos fins a que se destinam.
+Art. 6.º - 1 - Mediante autorização da IGN, as empresas inscritas poderão incluir na sua frota, por aquisição ou contrato de fretamento, qualquer tipo de embarcações, incluindo as registadas na marinha de recreio, desde que satisfaçam os requisitos de segurança face aos fins a que se destinam.
 
 2 - A autorização referida no número anterior será precedida de parecer da DGMC e da sua prévia aprovação dos contratos para este tipo de exploração, nos casos de embarcações fretadas, bem como de parecer das capitanias dos portos ou delegações marítimas.
 
@@ -164,35 +185,35 @@ f) Capital social e reservas inferior a 50% do activo imobilizado.
 
 Das embarcações
 
-###### Art. 7.º - 1 - As embarcações destinadas a aluguer para recreio só poderão ser utilizadas para este fim, sendo a sua actividade e sancionamento reguladas pela legislação em vigor para as embarcações de recreio.
+Art. 7.º - 1 - As embarcações destinadas a aluguer para recreio só poderão ser utilizadas para este fim, sendo a sua actividade e sancionamento reguladas pela legislação em vigor para as embarcações de recreio.
 
 2 - Estas embarcações serão classificadas em função da sua actividade e registadas nas capitanias dos portos ou delegações marítimas como embarcações mercantes auxiliares locais, costeiras e do alto, sendo a sua navegação limitada às áreas definidas na legislação em vigor para a marinha de recreio.
 
 3 - Nos casos em que a lotação máxima não seja imposta pela IGN, as capitanias dos portos ou delegações marítimas fixarão (aquando da vistoria de registo) a lotação de cada embarcação, compreendendo os inscritos marítimos quando exigidos, nos termos da legislação em vigor para a marinha de recreio.
 
-###### Art. 8.º - 1 - A aquisição ou a alienação de embarcações nacionais, para os fins determinados neste diploma, carece de autorização da IGN.
+Art. 8.º - 1 - A aquisição ou a alienação de embarcações nacionais, para os fins determinados neste diploma, carece de autorização da IGN.
 
 2 - A autorização referida no número anterior é concedida após prévio parecer da DGMC e em face das provas documentais e práticas de que a embarcação a adquirir ou a alienar satisfaz os requisitos de segurança para os fins a que se destina.
 
 3 - A aquisição destas embarcações no estrangeiro ou a sua alienação, a qualquer título, a estrangeiros carece de autorização do SEMM, sem prejuízo do disposto no número anterior ou de outras disposições aplicáveis.
 
-###### Art. 9.º A construção e a alteração das embarcações destinadas a aluguer para recreio ficam sujeitas, no que lhes for aplicável, às formalidades estipuladas na legislação em vigor para as embarcações mercantes.
+Art. 9.º A construção e a alteração das embarcações destinadas a aluguer para recreio ficam sujeitas, no que lhes for aplicável, às formalidades estipuladas na legislação em vigor para as embarcações mercantes.
 
-###### Art. 10.º - 1 - Sendo as embarcações a que se refere o presente diploma classificadas como embarcações mercantes auxiliares, ficarão sujeitas aos requisitos e periodicidade de fiscalização referentes às embarcações mercantes da mesma tonelagem e a tudo o que respeitar a documentação de bordo.
+Art. 10.º - 1 - Sendo as embarcações a que se refere o presente diploma classificadas como embarcações mercantes auxiliares, ficarão sujeitas aos requisitos e periodicidade de fiscalização referentes às embarcações mercantes da mesma tonelagem e a tudo o que respeitar a documentação de bordo.
 
 2 - Todos os documentos de bordo conterão a anotação, bem visível, ALUGUER - RECREIO.
 
-###### Art. 11.º Além das inscrições exigidas pela legislação em vigor, todas as embarcações a que se refere o presente diploma deverão conter no costado uma sigla e um número de ordem representativos da empresa que explora o aluguer, bem como uma chapa sinaléctica, no interior da embarcação, contendo o nome e o endereço da empresa, a arqueação bruta e a lotação máxima da embarcação.
+Art. 11.º Além das inscrições exigidas pela legislação em vigor, todas as embarcações a que se refere o presente diploma deverão conter no costado uma sigla e um número de ordem representativos da empresa que explora o aluguer, bem como uma chapa sinaléctica, no interior da embarcação, contendo o nome e o endereço da empresa, a arqueação bruta e a lotação máxima da embarcação.
 
-###### Art. 12.º - 1 - As embarcações utilizadas no aluguer não poderão ter idades superiores a vinte anos.
+Art. 12.º - 1 - As embarcações utilizadas no aluguer não poderão ter idades superiores a vinte anos.
 
 2 - Os motores utilizados como meios de propulsão principal destas embarcações não poderão ter idades superiores a seis, dez e quinze anos, respectivamente, para as potências até 50 HP, de 50 HP a 200 HP e de 200 HP a 400 HP.
 
 Das pessoas
 
-###### Art. 13.º O aluguer de embarcações, para efeitos do disposto no presente diploma, será limitado a pessoas devidamente encartadas, sempre que o exija a legislação em vigor relativa a marítimos ou a desportistas náuticos.
+Art. 13.º O aluguer de embarcações, para efeitos do disposto no presente diploma, será limitado a pessoas devidamente encartadas, sempre que o exija a legislação em vigor relativa a marítimos ou a desportistas náuticos.
 
-###### Art. 14.º - 1 - É vedado, quer aos particulares, quer às empresas, o subaluguer das embarcações destinadas ao exercício da actividade prevista neste diploma.
+Art. 14.º - 1 - É vedado, quer aos particulares, quer às empresas, o subaluguer das embarcações destinadas ao exercício da actividade prevista neste diploma.
 
 2 - Qualquer infracção ao disposto no n.º 1 deste artigo, bem como ao disposto na alínea d) do n.º 3 do artigo 5.º do presente diploma, acarreta para o infractor o pagamento de uma multa no valor de 3000$00 por tonelada de arqueação bruta ou fracção, sem prejuízo do procedimento criminal a que possa vir a estar sujeito.
 
@@ -200,7 +221,7 @@ Das pessoas
 
 Dos contratos de aluguer
 
-###### Art. 15.º - 1 - O aluguer de embarcações de recreio com mais de 5 tAB far-se-á através de contratos tipo a elaborar pelas empresas interessadas e sujeitos a visto da IGN e da DGMC.
+Art. 15.º - 1 - O aluguer de embarcações de recreio com mais de 5 tAB far-se-á através de contratos tipo a elaborar pelas empresas interessadas e sujeitos a visto da IGN e da DGMC.
 
 2 - Os contratos referidos no número anterior deverão conter as seguintes indicações:
 
@@ -230,14 +251,14 @@ l) Seguro da embarcação e pessoas embarcadas.
 
 4 - O processamento a seguir quanto à forma dos contratos de aluguer de quaisquer outras embarcações será definido pelas capitanias dos portos ou delegações marítimas.
 
-###### Art. 16.º Pelos serviços prestados os organismos competentes cobrarão as importâncias previstas na legislação em vigor para as embarcações mercantes.
+Art. 16.º Pelos serviços prestados os organismos competentes cobrarão as importâncias previstas na legislação em vigor para as embarcações mercantes.
 
-###### Art. 17.º Este diploma entra imediatamente em vigor e revoga o [Decreto n.º 47767](https://diariodarepublica.pt/dr/detalhe/decreto/47767-1967-312004), de 26 de Julho de 1967.
+Art. 17.º Este diploma entra imediatamente em vigor e revoga o [Decreto n.º 47767](https://diariodarepublica.pt/dr/detalhe/decreto/47767-1967-312004), de 26 de Julho de 1967.
 
 Mário Firmino Miguel - Basílio Adolfo Mendonça Horta da Franca - Manuel Branco Ferreira Lima.
 
-**Promulgado em 21 de Julho de 1978.**
+Promulgado em 21 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/29-1990-575760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11bd17b544a8abb476814de1eeda6da7228b3bc68e3a13911eb3173df6405dd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49e02c379abf5171adcf8cb7bbeadae488970fb7193e5c8fe96ede44bb5fa1c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Imóvel Classificado
+- Interesse Público
+- Protecção do Património
 relationships:
 - type: amended_by
   target: pt:dre:278071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552318:por
+  label: "Alterado o presente diploma, na parte em que refere «Município de Torres Vedras: Ruínas do 'terceiro edifício' do\
+    \ Convento de Penafirme (Vimeiro)» bem como na parte em que refere «Município de Oliveira de Frades: Anta pintada de Antela\
+    \ (freguesia de Antela)», pelo DEC.45/93.30.11.1993.PCM, DR.IS-B [280] de 30.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45-1993-552318
+  date: '1993-11-30'
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:278071:por
+  label: Rectificada a al. c) do art. único pelo DEC.5/2002.2002.02.19.MC, DR.IS [42]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/5-2002-278071
+  date: '2002-02-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:06Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +131,7 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Ao abrigo do disposto nos artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, no n.º 1.º do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965, no n.º 1 do artigo 1.º e no n.º 1 do artigo 2.º do [Decreto-Lei n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1978-468850), de 7 de Janeiro, bem como na alínea a) dos artigos 2.º e 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, e no artigo 4.º do [Decreto-Lei n.º 216/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1990-575493), de 3 de Julho, são classificados os seguintes imóveis:
+Artigo único. Ao abrigo do disposto nos artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, no n.º 1.º do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965, no n.º 1 do artigo 1.º e no n.º 1 do artigo 2.º do [Decreto-Lei n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1978-468850), de 7 de Janeiro, bem como na alínea a) dos artigos 2.º e 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, e no artigo 4.º do [Decreto-Lei n.º 216/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1990-575493), de 3 de Julho, são classificados os seguintes imóveis:
 
 a) Como monumentos nacionais, os constantes do anexo I;
 
@@ -108,15 +143,15 @@ Presidência do Conselho de Ministros, 4 de Junho de 1990.
 
 Aníbal António Cavaco Silva.
 
-**Assinado em 27 de Junho de 1990.**
+Assinado em 27 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Julho de 1990.**
+Referendado em 2 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Distrito de Braga
 

@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/93-1979-378549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4288c7b01776282f8711f94cdfa7afef297263e405d5e14331bd156dffd02c50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b557d893460bbee523310f9758aa6f4067c742a174c83a474834e8465fcfe2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lisboa
+- Santa Casa da Misericórdia
+- Totobola
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446933:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:03Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +108,12 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. É autorizada a Santa Casa da Misericórdia de Lisboa a celebrar um termo adicional ao contrato a que se refere o artigo 1.º do [Decreto-Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1978-446933), de 30 de Junho, para o fornecimento dos bilhetes para os concursos das apostas mútuas desportivas, até ao montante adicional de 25000 contos.
+Artigo único. É autorizada a Santa Casa da Misericórdia de Lisboa a celebrar um termo adicional ao contrato a que se refere o artigo 1.º do [Decreto-Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1978-446933), de 30 de Junho, para o fornecimento dos bilhetes para os concursos das apostas mútuas desportivas, até ao montante adicional de 25000 contos.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro.
 
-**Promulgado em 13 de Agosto de 1979.**
+Promulgado em 13 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

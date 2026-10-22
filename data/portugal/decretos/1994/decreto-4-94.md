@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/1994/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-1994-497794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ddea99759fb0aa7a6898011b0949fe25bd131848069bbcd6d4d76cca5d10ac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cbfc9f924eb7bcda3ae5f299c8b7712b725faf0e5f7f11adb7a3ae3621e11c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
 subjects:
 - Argel
 - Argélia
-- Financiamento
+- Comércio
 - Convenção
 - Cooperação Financeira
-- Portugal
 - Crédito Bancário
 - Exportação
-- Comércio
+- Financiamento
+- Portugal
 relationships: []
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:25Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +96,19 @@ de 29 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Financeiro entre o Governo da República Portuguesa e o Governo da República Democrática e Popular da Argélia, assinado em Argel, a 6 de Abril de 1993, cujo texto original nas línguas portuguesa, árabe e francesa segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Financeiro entre o Governo da República Portuguesa e o Governo da República Democrática e Popular da Argélia, assinado em Argel, a 6 de Abril de 1993, cujo texto original nas línguas portuguesa, árabe e francesa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Durão Barroso - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Assinado em 6 de Janeiro de 1994.**
+Assinado em 6 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Janeiro de 1994.**
+Referendado em 11 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO FINANCEIRO ENTRE PORTUGAL E A ARGÉLIA
 
@@ -120,7 +120,7 @@ A possibilidade de exportar bens de origem portuguesa com interesse para a Argé
 
 A conveniência e a oportunidade de estabelecer mecanismos financeiros que permitirão à Parte Argelina a aquisição de bens em condições mais vantajosas, designadamente através de pagamentos diferidos;
 
-**o Secretário de Estado Adjunto e do Comércio Externo, Prof. Doutor António de Sousa, em representação do Estado Português, e o Ministro Delegado do Tesouro, Sr. Ahmed Benbitour, em representação do Estado Argelino, acordam entre si o seguinte:**
+o Secretário de Estado Adjunto e do Comércio Externo, Prof. Doutor António de Sousa, em representação do Estado Português, e o Ministro Delegado do Tesouro, Sr. Ahmed Benbitour, em representação do Estado Argelino, acordam entre si o seguinte:
 
 ###### Artigo 1.º
 
@@ -182,7 +182,7 @@ Pelo Governo da República Democrática e Popular da Argélia:
 
 Ahmed Benbitour, Ministro Delegado do Tesouro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/024a00/04580461.pdf))](https://files.diariodarepublica.pt/1s/1994/01/024a00/04580461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/024a00/04580461.pdf)
 
 PROTOCOLE FINANCIER ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE DU PORTUGAL ET LE GOUVERNEMENT DE LA RÉPUBLIQUE ALGÉRIENNE DÉMOCRATIQUE ET POPULAIRE.
 

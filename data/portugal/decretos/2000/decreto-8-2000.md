@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/8/2000/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-2000-522230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:11:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab5bc2caf32c8cbb1a1d78dd791d8952806073cef2083a7b027eee57c6b02959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e71d8906ddc9c1106527f6ab7d4125d1fb061bb9e9d7046e2796d3c9f1851ff6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:11:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Cooperação Técnica
-- Portugal
 - Cooperação Científica
 - Cooperação Cultural
+- Cooperação Técnica
 - França
+- Portugal
 relationships: []
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:11:13Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +99,15 @@ Aprova o Acordo, por troca de notas, de 23 de Dezembro de 1998 Modificativo do A
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.
 
-**Assinado em 11 de Abril de 2000.**
+Assinado em 11 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Abril de 2000.**
+Referendado em 13 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Lisboa, 23 de Dezembro de 1998.
 

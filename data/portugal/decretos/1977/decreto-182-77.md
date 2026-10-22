@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 302/1977, 2º Suplemento, Série I de 1977-12-31
   number: '302'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3178-(10) a 3178-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30202/00100017.pdf
 entry_into_force_dates: []
@@ -47,36 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/182-1977-404476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:46:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bf8f8c357c613de85fd4f157fd8d70d71245165aef383a9a8c251b13ae32408
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b1dc741b0d636a76e380a0a382252734ba240cd5305b8e6398647555497085c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:46:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assistência Médica
+- Assistência Social
+- Convenção
+- Paris
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:284693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693016:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:294676:por
+  label: Retificado pelo(a) Declaração - Diário da República n.º 120/1978, Série I de 1978-05-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-294676
+  date: '1978-05-26'
 article_structure:
-  article_count: 1
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:46:35Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +129,15 @@ de 31 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Europeia de Assistência Social e Médica, Protocolo Adicional e anexos I, II e III, cujo texto segue em anexo ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção Europeia de Assistência Social e Médica, Protocolo Adicional e anexos I, II e III, cujo texto segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Assinado em 20 de Dezembro de 1977.**
+Assinado em 20 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENÇÃO EUROPEIA DE ASSISTÊNCIA SOCIAL E MÉDICA E PROTOCOLO ADICIONAL
 
@@ -263,7 +305,7 @@ d) Para efeito de aplicação da presente Convenção, qualquer informação not
 
 ###### ARTIGO 23.º
 
-**O Secretário-Geral do Conselho da Europa notificará aos Membros do Conselho:**
+O Secretário-Geral do Conselho da Europa notificará aos Membros do Conselho:
 
 a) A data da entrada em vigor da presente Convenção e os nomes dos Membros que a ratificaram, assim como os dos Membros que a ratificarão;
 
@@ -463,7 +505,7 @@ Código da Família e da Ajuda Social (Decreto n.º 56149, de 24 de Janeiro de 1
 
 Ajuda social à infância.
 
-## Título II, capítulo II:
+Título II, capítulo II:
 
 Ajuda social e médica (título III, com excepção dos artigos 162 e 171):
 

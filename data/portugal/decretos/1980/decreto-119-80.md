@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/119-1980-457980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5778f7623a809c2c9741db3b8a5d42bd9e95b92fcbe568afa35a3cf40562ad6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0daad64e31997d5070b890279affaf525248fbb34be4bbfa79712c7df64faf8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Económica
+- Cooperação Industrial
+- Portugal
+- Venezuela
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:28Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +92,17 @@ de 8 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Complementar do Acordo Básico de Cooperação Económica e Industrial entre o Governo da República Portuguesa e o Governo da República da Venezuela, em Matéria Comercial, assinado em Caracas a 30 de Maio de 1980, cujos textos em espanhol e português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo Complementar do Acordo Básico de Cooperação Económica e Industrial entre o Governo da República Portuguesa e o Governo da República da Venezuela, em Matéria Comercial, assinado em Caracas a 30 de Maio de 1980, cujos textos em espanhol e português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 25 de Outubro de 1980.**
+Assinado em 25 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/25900/37963797.pdf))](https://files.diariodarepublica.pt/1s/1980/11/25900/37963797.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/25900/37963797.pdf)
 
 Acordo Complementar do Acordo Básico de Cooperação Económica e Industrial entre o Governo da República Portuguesa e o Governo da República da Venezuela, em Matéria Comercial.
 

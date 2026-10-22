@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/392-1975-336683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 663c2d841f80a9ea69ff6f69a59487b1c37bcab4a62fb5a968c7628f1a5a2341
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b10899fe21d3971fb7ae0f389dcfcb6b6650982ff8da34cafee21d083ad9bd16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assistência a Familiares
+- Doença
+- Faltas
+- Protecção à Família
+- Subsídio
+- Trabalhador por Conta de Outrem
+relationships:
+- type: cites
+  target: pt:dre:599974:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:19Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +103,16 @@ O limite de 6000$00 mostra-se desajustado, pelo que se considera oportuno determ
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 5.º do [Decreto n.º 484/73](https://diariodarepublica.pt/dr/detalhe/decreto/484-1973-599974), de 27 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 5.º do [Decreto n.º 484/73](https://diariodarepublica.pt/dr/detalhe/decreto/484-1973-599974), de 27 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 5.º São excluídas deste benefício as trabalhadoras cujos agregados familiares disponham de rendimentos mensais superiores ao valor correspondente a duas vezes o salário mínimo nacional. Este limite é acrescido de 1000$00 por cada filho além do primeiro.
+Art. 5.º São excluídas deste benefício as trabalhadoras cujos agregados familiares disponham de rendimentos mensais superiores ao valor correspondente a duas vezes o salário mínimo nacional. Este limite é acrescido de 1000$00 por cada filho além do primeiro.
 
-###### Art. 2.º O presente diploma produz efeitos a partir do dia 1 de Junho de 1975.
+Art. 2.º O presente diploma produz efeitos a partir do dia 1 de Junho de 1975.
 
 Vasco dos Santos Gonçalves - Jorge de Carvalho Sá Borges.
 
-**Promulgado em 14 de Julho de 1975.**
+Promulgado em 14 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

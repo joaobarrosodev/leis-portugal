@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/29-1977-140287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d4cfee58fe9fcc5681c81a20c5f7a9115427f667514bf507b65c50693d049f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79e9e936780880ceb351a24681d784dd09abff142e1eea6a3c6d41eb6a9adb50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Café
+- Comércio Internacional
+- Convenção
+- Cooperação Internacional
+- Exportação
+- Importação
+- Londres
+- Nova Iorque
+- Organização Internacional do CAFÉ
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:531804:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:531804:por
+  label: "Dada continuação ao Convénio Internacional do Café de 1976 Prorrogado, aprovado, para ratificação, neste diploma,\
+    \ pelo Convénio Internacional do Café de 1983 (nos termos do disposto no seu art. 70º), aprovado, para ratificação pelo\
+    \ DEC.1/84.10.01.1984.MNE, DR.IS [8] de 10.01.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/1-1984-531804
+  date: '1984-01-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:07Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +107,15 @@ de 9 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Convénio Internacional do Café, 1976, concluído em Londres em 3 de Dezembro de 1975, cujo texto em português vai anexo ao presente decreto.
+Artigo único. É aprovado para ratificação o Convénio Internacional do Café, 1976, concluído em Londres em 3 de Dezembro de 1975, cujo texto em português vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Promulgado em 2 de Fevereiro de 1977.**
+Promulgado em 2 de Fevereiro de 1977.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVÉNIO INTERNACIONAL DO CAFÉ DE 1976
 
@@ -300,7 +317,7 @@ Como regra geral, o Conselho reunir-se-á duas vezes por ano em sessão ordinár
 
 4.º Observadas as disposições do artigo 32.º, serão os restantes votos dos Membros exportadores divididos entre os Membros que têm quota básica de maneira proporcional ao volume médio das suas respectivas exportações de café com destino a Membros importadores nos anos cafeeiros de 1968-1969 a 1971-1972, inclusive. Isso constituirá a base de votação desses Membros exportadores até 31 de Dezembro de 1977. A partir do 1.º de Janeiro de 1978, os restantes votos dos Membros exportadores que têm quota básica serão calculados proporcionalmente ao volume médio das suas respectivas exportações de café com destino a Membros importadores do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05700/04090428.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05700/04090428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05700/04090428.pdf)
 
 5.º Os votos restantes dos Membros importadores serão divididos entre estes Membros proporcionalmente ao volume médio das suas respectivas importações de café nos três anos civis precedentes.
 
@@ -950,8 +967,8 @@ Em fé do que, os abaixo assinados, devidamente autorizados pelos seus respectiv
 
 ## ANEXO 1 — Membros exportadores cujas exportações com destino a Membros importadores são inferiores a 400000 sacas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05700/04090428.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05700/04090428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05700/04090428.pdf)
 
 ## ANEXO 2 — Distribuição de votos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05700/04090428.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05700/04090428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05700/04090428.pdf)

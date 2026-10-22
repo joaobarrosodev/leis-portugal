@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/634-1973-411099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:31:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42687c83cfddb7714deed0ebce9c7460d4735f00efdfca85af1e30d9840f9f67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4eec1286706385d1e55fcb6b33551df5136eb7d999c63c212c2fae8aec3718f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:31:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:31:11Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +86,15 @@ de 30 de Novembro
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo sobre os Arranjos para a Manutenção do Comércio Livre, celebrado em Genebra em 21 de Dezembro de 1972, cujo original em inglês a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Protocolo sobre os Arranjos para a Manutenção do Comércio Livre, celebrado em Genebra em 21 de Dezembro de 1972, cujo original em inglês a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 25 de Julho de 1973.**
+Assinado em 25 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 PROTOCOL
 
@@ -228,9 +228,9 @@ Goods eligible at present for E. F. T. A. Area tariff treatment but not covered 
 
 The following symbols are used in this Appendix:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = for these goods the provisions of the Annex to the Protocol applying to this Appendix do not apply in trade between Denmark and the United Kingdom on the one hand and the country indicated on the other hand (in such cases the provisions of Protocol No. 2 of the Free Trade Agreements apply, except when the goods concerned for the country indicated appear in Appendix 2 hereafter);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = for these goods the provisions of the Annex to the Protocol applying to this Appendix do not apply in trade between Denmark and the United Kingdom on the one hand and the country indicated on the other hand (in such cases the provisions of Protocol No. 2 of the Free Trade Agreements apply, except when the goods concerned for the country indicated appear in Appendix 2 hereafter);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = for these goods the provisions of the Annex to the Protocol applying to this Appendix do not apply for importe by Denmark and the United Kingdom from the country indicated (in such cases the provisions of Protocol No. 6 of the Free Trade Agreement between Iceland and the E. E. C. apply when «Is» is indicated and the provisions of Protocol No. 8 of the Free Trade Agreement between Portugal and the E. E. C. apply when «P» is indicated);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = for these goods the provisions of the Annex to the Protocol applying to this Appendix do not apply for importe by Denmark and the United Kingdom from the country indicated (in such cases the provisions of Protocol No. 6 of the Free Trade Agreement between Iceland and the E. E. C. apply when «Is» is indicated and the provisions of Protocol No. 8 of the Free Trade Agreement between Portugal and the E. E. C. apply when «P» is indicated);
 
 ** = for these goods Denmark and the United Kingdom will apply the timetable for tariff alignment with the C. C. T. referred to in paragraph 3-a) of the Annex to the Protocol:
 
@@ -252,13 +252,13 @@ CH = Switzerland;
 
 GB = United Kingdom.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
 
 APPENDIX 2
 
 Goods for which a special tariff alignment timetable applies
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
 
 APPENDIX 3
 
@@ -266,9 +266,9 @@ Goods at present not eligible for E. F. T. A. Area tariff treatment, not covered
 
 The following symbols are used in this Appendix:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = for these goods the provisions of the Annex to the Protocol applying to this Appendix do not apply in trade between Denmark and the United Kingdom on the one hand and the country indicated on the other hand (the provisions of Protocol No. 2 of the Free Trade Agreements apply in all these cases);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = for these goods the provisions of the Annex to the Protocol applying to this Appendix do not apply in trade between Denmark and the United Kingdom on the one hand and the country indicated on the other hand (the provisions of Protocol No. 2 of the Free Trade Agreements apply in all these cases);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = for these goods the provisions of the Annex to the Protocol applying to this Appendix do not apply for imports by Denmark and the United Kingdom from the country indicated (in such cases the provisions of Protocol No. 6 of the Free Trade Agreement between Iceland and the E. E. C. apply when «Is» is indicated and the provisions of Protocol No. 8 of the Free Trade Agreement between Portugal and the E. E. C. apply when «P» is indicated);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = for these goods the provisions of the Annex to the Protocol applying to this Appendix do not apply for imports by Denmark and the United Kingdom from the country indicated (in such cases the provisions of Protocol No. 6 of the Free Trade Agreement between Iceland and the E. E. C. apply when «Is» is indicated and the provisions of Protocol No. 8 of the Free Trade Agreement between Portugal and the E. E. C. apply when «P» is indicated);
 
 ** = for these goods Denmark and the United Kingdom will apply the timetable for tariff alignment with the C. C. T. referred to in paragraph 3-a) of the Annex to the Protocol;
 
@@ -292,7 +292,7 @@ GB = United Kingdom.
 
 A. Concessions made by Denmark and the United Kingdom
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
 
 PROTOCOLO
 
@@ -416,15 +416,15 @@ Relação com as obrigações decorrentes do Tratado de Adesão e dos Acordos de
 
 8. Em caso de conflito entre as obrigações dos presentes países E. F. T. A. decorrentes das disposições anteriores e, consoante os casos, as suas obrigações decorrentes do Tratado de Adesão ou dos Acordos de Comércio Livre, incluindo qualquer disposição introduzida em conformidade com o Tratado de Adesão ou acordada entre os países que permanecem na E. F. T. A. e a Comunidade Económica Europeia, estas últimas obrigações prevalecerão.
 
-## APÊNDICE I
+APÊNDICE I
 
 Mercadorias presentemente em condições de beneficiarem do regime pautal da Área E. F. T. A., mas às quais se não aplicam os Acordos de Comércio Livre.
 
 No presente Apêndice são usados os símbolos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = em relação a estas mercadorias, as disposições do Anexo ao Protocolo, aplicáveis ao presente Apêndice, não se aplicam no comércio entre a Dinamarca e o Reino Unido, por um lado, e o país indicado, por outro lado (em tais casos aplicam-se as disposições do Protocolo n.º 2 dos Acordos do Comércio Livre, excepto se, para o país indicado, as mercadorias em questão figurarem no Apêndice 2);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = em relação a estas mercadorias, as disposições do Anexo ao Protocolo, aplicáveis ao presente Apêndice, não se aplicam no comércio entre a Dinamarca e o Reino Unido, por um lado, e o país indicado, por outro lado (em tais casos aplicam-se as disposições do Protocolo n.º 2 dos Acordos do Comércio Livre, excepto se, para o país indicado, as mercadorias em questão figurarem no Apêndice 2);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = em relação a estas mercadorias, as disposições do Anexo ao Protocolo, aplicáveis ao presente Apêndice, não se aplicam quando da importação na Dinamarca e no Reino Unido dessas mesmas mercadorias, originárias do país indicado (em tais casos aplicam-se as disposições do Protocolo n.º 6 do Acordo de Comércio Livre celebrado entre a Islândia e a Comunidade Económica Europeia, sempre que o símbolo «Is» for indicado, e as disposições do Protocolo n.º 8 do Acordo de Comércio Livre celebrado entre Portugal e a Comunidade Económica Europeia, sempre que o símbolo «P» for indicado);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = em relação a estas mercadorias, as disposições do Anexo ao Protocolo, aplicáveis ao presente Apêndice, não se aplicam quando da importação na Dinamarca e no Reino Unido dessas mesmas mercadorias, originárias do país indicado (em tais casos aplicam-se as disposições do Protocolo n.º 6 do Acordo de Comércio Livre celebrado entre a Islândia e a Comunidade Económica Europeia, sempre que o símbolo «Is» for indicado, e as disposições do Protocolo n.º 8 do Acordo de Comércio Livre celebrado entre Portugal e a Comunidade Económica Europeia, sempre que o símbolo «P» for indicado);
 
 ** = em relação a estas mercadorias, a Dinamarca e o Reino Unido aplicarão, para efectuarem os respectivos alinhamentos pautais com a Pauta Aduaneira Comum, o calendário referido na alínea a) do parágrafo 3 do Anexo ao Protocolo;
 
@@ -446,23 +446,23 @@ S = Suécia;
 
 CH = Suíça.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Mercadorias em relação às quais se aplica um calendário especial de alinhamento pautal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Mercadorias que, presentemente, não estão abrangidas pela Convenção da E. F. T. A. nem tão-pouco estão compreendidas nos Acordos de Comércio livre e em relação às quais foram feitas concessões, unilateral ou bilateralmente, de que beneficiam todos os países da E. F. T. A.
 
 No presente Apêndice são usados os símbolos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = em relação a estas mercadorias, as disposições do Anexo ao Protocolo, aplicáveis ao presente Apêndice, não se aplicam no comércio entre a Dinamarca e o Reino Unido, por um lado, e o país indicado, por outro lado (em todos estes casos aplicam-se as disposições do Protocolo n.º 2 dos Acordos de Comércio Livre);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = em relação a estas mercadorias, as disposições do Anexo ao Protocolo, aplicáveis ao presente Apêndice, não se aplicam no comércio entre a Dinamarca e o Reino Unido, por um lado, e o país indicado, por outro lado (em todos estes casos aplicam-se as disposições do Protocolo n.º 2 dos Acordos de Comércio Livre);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = em relação a estas mercadorias, as disposições do Anexo ao Protocolo, aplicáveis ao presente Apêndice, não se aplicam aquando da importação na Dinamarca e no Reino Unido dessas mesmas mercadorias, originárias do país indicado (em tais casos aplicam-se as disposições do Protocolo n.º 6 do Acordo de Comércio Livre celebrado entre a Islândia e a Comunidade Económica Europeia, sempre que o símbolo «Is» for indicado, e as disposições do Protocolo n.º 8 do Acordo de Comércio Livre celebrado entre Portugal e a Comunidade Económica Europeia, sempre que o símbolo «P» for indicado);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf) = em relação a estas mercadorias, as disposições do Anexo ao Protocolo, aplicáveis ao presente Apêndice, não se aplicam aquando da importação na Dinamarca e no Reino Unido dessas mesmas mercadorias, originárias do país indicado (em tais casos aplicam-se as disposições do Protocolo n.º 6 do Acordo de Comércio Livre celebrado entre a Islândia e a Comunidade Económica Europeia, sempre que o símbolo «Is» for indicado, e as disposições do Protocolo n.º 8 do Acordo de Comércio Livre celebrado entre Portugal e a Comunidade Económica Europeia, sempre que o símbolo «P» for indicado);
 
 ** = em relação a estas mercadorias, a Dinamarca e o Reino Unido aplicarão, para efectuarem os respectivos alinhamentos pautais com a Pauta Aduaneira Comum, o calendário referido na alínea a) do parágrafo 3 do Anexo ao Protocolo;
 
@@ -486,8 +486,8 @@ CH = Suíça.
 
 A. Concessões feitas pela Dinamarca e pelo Reino Unido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
 
 B. Concessões feitas pelos países que permanecem na E. F. T. A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf))](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/28000/23132336.pdf)

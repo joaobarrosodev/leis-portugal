@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 56/2007, 1º Suplemento, Série I de 2007-03-20
   number: '56'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1676-(2) a 1676-(137)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4-a/2007/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-a-2007-426756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e11a53915b0e5c1d613988bf39f51c0c8408d8ccb3317e9b8d75efa2ff715f64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 197dcf10291af16d22675d660233601ed4d4e9f3f9649b7a3d462909530dc528
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Dopagem
-- Unesco
 - Convenção
-- Portugal
-- Paris
 - Desporto
+- Dopagem
+- Paris
+- Portugal
+- Unesco
 relationships: []
 article_structure:
   article_count: 78
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:08Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +101,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Manuel Pedro Cunha da Silva Pereira.
 
-**Assinado em 7 de Fevereiro de 2007.**
+Assinado em 7 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Fevereiro de 2007.**
+Referendado em 9 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 International Convention against Doping in Sport
 
@@ -1041,7 +1041,7 @@ b) If an Athlete requests a review of a subsequent denial of an ATUE, the WADA T
 
 9.3 - The Clearing house shall guarantee strict confidentiality of all the medical information.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
 
 International standard for laboratories
 
@@ -2285,13 +2285,13 @@ PT samples include those that do not contain prohibited drugs or samples which h
 
 When a quantitative determination has been reported, the results can be scored based on the true or consensus value of the sample analyzed and a standard deviation which may be set either by the group results or according to the expected precision of the measurement. The z-score is calculated using the equation
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
 
 The target relative standard deviation will be set in such a way that an absolute z-score between two (2) and three (3) is deemed questionable performance. A z-score greater than three (3) is deemed unacceptable performance.
 
 In addition, re-scaled sum of score (RSZ) and re-scaled sum of squared scores (RSSZ) will be calculated. While the z score gives an estimate of bias, the RSZ, by retaining the sign of the biases, will reflect consistent systematic bias. The RSSZ, by eliminating the possibility that positive and negative bias will cancel, provides another indicator of bias. The RSZ and RSSZ are calculated by the equations
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
 
 4.2 Probationary Period
 
@@ -2415,7 +2415,7 @@ No Laboratory employee or consultant shall provide counsel, advice or informatio
 
 Annex C - List of Technical Documents
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
 
 Addendum to the International Standard for Laboratories
 
@@ -2489,7 +2489,7 @@ Laboratory Documentation Packages.
 
 Laboratory Internal Chain of Custody.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
 
 Convenção Internacional contra a Dopagem no Desporto
 
@@ -2957,7 +2957,7 @@ Feito em Paris aos 18 dias do mês de Novembro de 2005, em dois exemplares autê
 
 EM FÉ DO QUE os abaixo assinados assinaram a presente Convenção aos 18 dias do mês de Novembro de 2005.
 
-**O Presidente da Conferência Geral, (assinatura.)**
+O Presidente da Conferência Geral, (assinatura.)
 
 O Director-Geral, (assinatura.)
 
@@ -4929,7 +4929,7 @@ TERCEIRA PARTE
 
 ANEXOS
 
-## Anexo A - Investigação de possível incumprimento
+Anexo A - Investigação de possível incumprimento
 
 A.1 Objectivo
 
@@ -4967,7 +4967,7 @@ A.4.4 Se possível, a Sessão de Recolha de Amostras do Praticante Desportivo se
 
 A.4.5 A OAD deverá definir um sistema que garanta que os resultados da sua investigação relativa a um possível incumprimento sejam considerados para acções ao nível da gestão de resultados e, se aplicável, para planeamentos e controlos posteriores.
 
-## Anexo B - Alterações para Praticantes Desportivos portadores de deficiência
+Anexo B - Alterações para Praticantes Desportivos portadores de deficiência
 
 B.1 Objectivo
 
@@ -4999,7 +4999,7 @@ B.4.7 Os Praticantes Desportivos que utilizem sistemas de recolha ou de drenagem
 
 B.4.8 O RCD deverá registar as alterações efectuadas aos procedimentos usuais de recolha de Amostra em Praticantes Desportivos portadores de deficiência, incluindo todas as alterações aplicáveis especificadas nas acções acima descritas.
 
-## Anexo C - Recolha de Amostras de urina
+Anexo C - Recolha de Amostras de urina
 
 C.1 Objectivo
 
@@ -5059,7 +5059,7 @@ C.4.15 O RCD deverá seguir as directivas pertinentes do laboratório sobre o pH
 
 C.4.16 O RCD deverá assegurar-se de que qualquer urina residual que não se destine a ser enviada para análise seja eliminada na presença do Praticante Desportivo.
 
-## Anexo D - Recolha de Amostras sanguíneas
+Anexo D - Recolha de Amostras sanguíneas
 
 D.1 Objectivo
 
@@ -5123,7 +5123,7 @@ D.4.13 O Praticante Desportivo deverá selar a sua Amostra no «kit» de recolha
 
 D.4.14 A Amostra selada deverá ser conservada a uma temperatura baixa, mas não congelada, antes de ser analisada no Posto de Controlo de Dopagem ou antes do seu envio para um laboratório acreditado pela AMA ou de outro modo aprovado pela AMA.
 
-## Anexo E - Amostras de urina - Volume insuficiente
+Anexo E - Amostras de urina - Volume insuficiente
 
 E.1 Objectivo
 
@@ -5157,7 +5157,7 @@ E.4.8 O RCD indicará então ao Praticante Desportivo que quebre o(s) selo(s) e 
 
 E.4.9 O RCD e o Praticante Desportivo prosseguirão então com o procedimento previsto em C.4.11.
 
-## Anexo F - Amostras de urina - Amostras que não respeitam as directivas do laboratório sobre o pH ou sobre a densidade específica
+Anexo F - Amostras de urina - Amostras que não respeitam as directivas do laboratório sobre o pH ou sobre a densidade específica
 
 F.1 Objectivo
 
@@ -5191,7 +5191,7 @@ F.4.7 Se for determinado pelo laboratório competente que nenhuma das Amostras d
 
 F.4.8 Se a Sessão de Recolha de Amostras mediante um Controlo Direccionado também der origem a Amostras que não respeitem as directivas sobre o pH e/ou sobre a densidade específica definidas pelo laboratório para fins de análise, a OAD deverá investigar uma possível violação das normas antidopagem.
 
-## Anexo G - Requisitos Relativos ao Pessoal para Recolha de Amostras
+Anexo G - Requisitos Relativos ao Pessoal para Recolha de Amostras
 
 G.1 Objectivo
 
@@ -5265,7 +5265,7 @@ Actualmente, os Laboratórios são acreditados pelo Comité Olímpico Internacio
 
 O texto oficial da Norma Internacional para Laboratórios será actualizado pela AMA e será publicado em francês e inglês. Em caso de discordância entre as duas versões, a versão inglesa prevalecerá.
 
-# PARTE UM — Introdução, disposições do Código e definições
+## PARTE UM — Introdução, disposições do Código e definições
 
 1.0 Introdução, Âmbito e Referências
 
@@ -5419,7 +5419,7 @@ Autoridade de Controlo: O Comité Olímpico Internacional, a Agência Mundial An
 
 Cadeia de Custódia Intralaboratorial: Documentação relativa à cadeia de Pessoas que estão de posse da Amostra e de quaisquer tomas de ensaio da Amostra utilizadas para Controlo. [Comentário: A Cadeia de Custódia Intralaboratorial é geralmente documentada através de um registo escrito da data, do local, da acção tomada, e do indivíduo que executou a acção com uma Amostra ou uma Toma de Ensaio.]
 
-##### Divisão da Amostra: Divisão de uma Amostra obtida para controlo, desde a sua recolha, em duas partes geralmente designadas por «Amostra A» e «Amostra B».
+Divisão da Amostra: Divisão de uma Amostra obtida para controlo, desde a sua recolha, em duas partes geralmente designadas por «Amostra A» e «Amostra B».
 
 Laboratório: Um laboratório acreditado que utiliza métodos e procedimentos de controlo com o objectivo de obter elementos probatórios para a detecção e, se aplicável, a quantificação na urina ou noutras Amostras biológicas de uma Substância Positiva inscrita na Lista de Proibições.
 
@@ -5455,7 +5455,7 @@ Suspensão: A retirada temporária de uma acreditação AMA concedida a um Labor
 
 Tomas de Ensaio: Uma porção da Amostra de fluido ou tecido biológico (ex. urina, sangue, etc.) recolhida junto do Praticante Desportivo e utilizada no processo de controlo.
 
-# PARTE DOIS — Requisitos de acreditação de laboratórios e regras de funcionamento
+## PARTE DOIS — Requisitos de acreditação de laboratórios e regras de funcionamento
 
 4.0 Requisitos para acreditação AMA
 
@@ -6419,9 +6419,9 @@ Em apoio de qualquer Caso Positivo, o Laboratório deverá disponibilizar o Paco
 
 O Laboratório não é obrigado a disponibilizar qualquer documentação que não tenha sido especificamente incluída no Pacote de Documentação do Laboratório. Consequentemente, para efeitos de justificação de um Caso Positivo, o Laboratório não é obrigado a disponibilizar, tanto à Autoridade de Controlo como em resposta a pedidos de comunicação de peças processuais relacionadas com a audição, os procedimentos de funcionamento, documentos de gestão de qualidade geral (por exemplo, documentos comprovativos da observância da norma ISO), ou quaisquer outros documentos não especificamente exigidos pelo Documento Técnico sobre Pacotes de Documentação do Laboratório. As referências aos requisitos ISO na Norma Internacional para Laboratórios são feitas apenas com objectivos gerais de controlo de qualidade, não sendo aplicáveis a qualquer recurso no âmbito de um Caso Positivo.
 
-# PARTE TRÊS — ANEXOS
+## PARTE TRÊS — ANEXOS
 
-## Anexo A - Programa de controlo de aptidão AMA
+Anexo A - Programa de controlo de aptidão AMA
 
 O Programa de Controlo de Aptidão (CA) AMA visa avaliar a aptidão do Laboratório, melhorar a uniformidade dos resultados de controlos entre Laboratórios e providenciar oportunidades de formação aos Laboratórios acreditados pela AMA. O propósito da amostra CA individual determinará a sua composição e forma.
 
@@ -6491,13 +6491,13 @@ As amostras CA incluirão as que não contenham drogas proibidas ou amostras que
 
 Sempre que uma determinação quantitativa tiver sido comunicada, os resultados poderão ser calculados com base no valor real ou consensual da amostra analisada e num desvio-padrão que poderá ser estabelecido tanto pelos resultados de grupo ou em conformidade com a precisão da medição. O resultado z será calculado através da equação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
 
 O valor-alvo para o desvio-padrão será fixado de forma a que um valor absoluto entre dois (2) e três (3) para o resultado z- seja considerado uma execução duvidosa. Um resultado z- superior a três (3) é considerado uma execução inaceitável.
 
 Complementarmente, a soma ponderada do resultado (SPR) e a soma ponderada dos resultados ao quadrado (SPRQ) serão igualmente calculadas. Enquanto o resultado z traduz uma estimativa do desvio, a SPR reflectirá o desvio sistemático consistente ao conservar o sinal dos desvios. A SPRQ, ao eliminar a possibilidade de anulação mútua dos desvios negativos e positivos, fornecerá outro indicador de desvio. A SPR e a SPRQ são calculadas através das equações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
 
 4.2 Período experimental
 
@@ -6537,7 +6537,7 @@ Os Laboratórios que não ultrapassem com sucesso dois testes consecutivos do es
 
 4.5 A AMA deverá avaliar a execução anual de todos os Laboratórios acreditados.
 
-## Anexo B - Código Deontológico dos Laboratórios
+Anexo B - Código Deontológico dos Laboratórios
 
 1. Confidencialidade
 
@@ -6617,6 +6617,6 @@ O pessoal do Laboratório abster-se-á de se envolver em condutas ou actividades
 
 Nenhum funcionário ou consultor do Laboratório prestará aconselhamento, parecer ou informação a Praticantes Desportivos ou outros sobre técnicas ou métodos para mascarar a detecção, alterar o metabolismo, ou suprimir a excreção de, uma Substânca Proibida ou Marcador de uma Substância ou Método Proibidos, de forma a evitar um Caso Positivo. Nenhum membro do pessoal do Laboratório ajudará um Praticante Desportivo a evitar a recolha de uma Amostra. Este parágrafo não proíbe apresentações para educar Praticantes Desportivos, estudantes ou outros sobre programas antidopagem e Substâncias ou Métodos Proibidos.
 
-## Anexo C - Lista de documentos técnicos
+Anexo C - Lista de documentos técnicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05601/00020137.pdf)

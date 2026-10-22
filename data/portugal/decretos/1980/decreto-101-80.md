@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/101-1980-462207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d1a89babbeae04d0efe4815b8c11674517ec6407991067d2527e5c55ab2b298
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27aeb638bcf72fa39b207f54510e3a8c6eea7449b26581008ca3a197c13714bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ave
+- Convenção
+- Portugal
+- Proteção do Ambiente
+- Ramsar
+- ZONA Humida
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:13Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 9 de Outubro
 
 O Governo decreta nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada a Convenção sobre Zonas Húmidas de Importância Internacional, especialmente como Habitat de Aves Aquáticas, concluída em Ramsar, no Irão, em 2 de Fevereiro de 1971, cujo texto em inglês, francês, alemão e russo e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovada a Convenção sobre Zonas Húmidas de Importância Internacional, especialmente como Habitat de Aves Aquáticas, concluída em Ramsar, no Irão, em 2 de Fevereiro de 1971, cujo texto em inglês, francês, alemão e russo e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 22 de Setembro de 1980.**
+Assinado em 22 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention on Wetlands of International Importance Especially as Waterfowl Habitat
 
@@ -389,7 +395,7 @@ En foi de quoi les soussignés, dûment mandatés à cet effet, ont signé la pr
 
 Fait à Ramsar le 2 février 1971, en un seul exemplaire original dans les langues anglaise, française, allemande et russe, le texte anglais servant de référence en cas de divergence d'interprétation, lequel exemplaire sera confié au Dépositaire, qui en délivrera des copies certifiées conformes à toutes les Parties contractantes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23400/32553265.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23400/32553265.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23400/32553265.pdf)
 
 Convenção sobre Zonas Húmidas de Importância Internacional Especialmente como «Habitat» de Aves Aquáticas.
 
@@ -409,13 +415,13 @@ Estando confiantes de que a conservação de zonas húmidas, da sua flora e da s
 
 concordaram no que se segue:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1 - Para efeitos desta Convenção, as zonas húmidas são áreas de pântano, charco, turfa ou água, natural ou artificial, permanente ou temporária, com água estagnada ou corrente, doce, salobra ou salgada, incluindo áreas de água marítima com menos de seis metros de profundidade na maré baixa.
 
 2 - Para efeitos desta Convenção, as aves aquáticas são pássaros ecologicamente dependentes de zonas húmidas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1 - As Partes Contratantes indicarão as zonas húmidas apropriadas dentro dos seus territórios para constar da Lista de Zona Húmidas de Importância Internacional, a seguir referidas como «a Lista», que ficará a cargo do bureau criado pelo artigo 8.º Os limites de todas as zonas húmidas serão descritos pormenorizadamente e também delimitados no mapa, podendo incorporar áreas ribeirinhas e litorais adjacentes às zonas húmidas e ilhas ou porções de água marítima com mais de seis metros de profundidade na maré baixa situada dentro da área de zona húmida, principalmente onde estas tiverem importância como habitat de aves aquáticas.
 
@@ -429,13 +435,13 @@ concordaram no que se segue:
 
 6 - Cada Parte Contratante deverá ter em conta as suas responsabilidades, no plano internacional, para a conservação, orientação e exploração racional da população migrante de aves aquáticas, aquando da designação de zonas húmidas do seu território a inscrever na Lista, bem como ao exercer o seu direito de modificar a inscrição.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1 - As Partes Contratantes deverão elaborar e executar os seus planos de modo a promover a conservação das zonas húmidas incluídas na Lista e, na medida do possível, a exploração racional daquelas zonas húmidas do seu território.
 
 2 - Cada Parte Contratante tomará as medidas para ser informada com possível brevidade sobre as modificações das condições ecológicas de qualquer zona húmida situada no seu território e inscrita na Lista que se modificaram ou estão em vias de se modificar, devido ao desenvolvimento tecnológico, poluição ou outra intervenção humana. As informações destas mudanças serão transmitidas sem demora à organização ou ao governo responsável pelas funções do bureau especificadas no artigo 8.º
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - Cada Parte Contratante deverá promover a conservação de zonas húmidas e de aves aquáticas estabelecendo reservas naturais nas zonas húmidas, quer estas estejam ou não inscritas na Lista, e providenciar à sua protecção apropriada.
 
@@ -447,11 +453,11 @@ concordaram no que se segue:
 
 5 - As Partes Contratantes promoverão a formação do pessoal competente para estudo, gestão e protecção das zonas húmidas.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 As Partes Contratantes farão consulta mútua no que se refere à execução de obrigações decorrentes desta Convenção, principalmente no caso de a zona húmida se estender sobre territórios de mais de uma Parte Contratante ou no caso em que a bacia hidrográfica seja compartilhada pelas Partes Contratantes. Deverão ao mesmo tempo diligenciar no sentido de considerar e apoiar políticas e regulamentos presentes e futuros no que respeita à conservação de zonas húmidas e à sua flora e fauna.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1 - As Partes Contratantes deverão, à medida das necessidades, convocar conferências sobre a conservação de zonas húmidas e aves aquáticas.
 
@@ -469,13 +475,13 @@ e) Solicitar aos organismos internacionais competentes a elaboração de relató
 
 3 - As Partes Contratantes deverão assegurar a notificação aos responsáveis, a todos os níveis, da gestão de zonas húmidas e tomar em consideração sugestões destas conferências respeitantes à conservação, gestão e exploração racional de zonas húmidas e da sua flora e fauna.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1 - Os representantes das Partes Contratantes nestas conferências devem ser especialistas na matéria de zonas húmidas ou aves aquáticas, pelos conhecimentos e experiência adquiridos no campo científico, administrativo ou por outras funções adequadas.
 
 2 - Cada Parte Contratante representada na conferência disporá de um voto, sendo as recomendações cumpridas pela simples maioria de votos lançados, salvo se pelo menos metade das Partes Contratantes tiverem participado no escrutínio.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - A União Internacional para a Conservação da Natureza e Recursos Naturais assegurará as funções do bureau permanente ao abrigo desta Convenção, até que seja nomeada outra organização ou outro Governo pela maioria de dois terços de todas as Partes Contratantes.
 
@@ -491,7 +497,7 @@ d) Notificar todas as Partes Contratantes sobre qualquer alteração à Lista ou
 
 e) Dar conhecimento à Parte Contratante interessada das recomendações da conferência relativas a estas alterações na Lista ou das mudanças de características das zonas húmidas inscritas.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1 - Esta Convenção ficará aberta para assinatura por tempo indeterminado.
 
@@ -505,19 +511,19 @@ c) Adesão.
 
 3 - A ratificação ou a adesão serão efectuadas pelo depósito de um instrumento de ratificação ou de adesão junto do director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (a seguir designado como «o Depositário»).
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1 - Esta Convenção entrará em vigor quatro meses após sete Estados se terem tornado Partes Contratantes, em conformidade com o parágrafo 2 do artigo 9.º
 
 2 - No entanto, esta Convenção entrará em vigor para cada Parte Contratante quatro meses após a sua assinatura, sem reservas no que concerne a ratificação ou o seu depósito de um instrumento de ratificação ou adesão.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1 - Esta Convenção continuará em vigor por um período indeterminado.
 
 2 - Qualquer Parte Contratante poderá denunciar esta Convenção após o período de cinco anos a contar da data em que entrou em vigor para aquela Parte, por meio de notificação escrita ao Depositário. A denúncia tomará efeito quatro meses após o dia em que a notificação tiver sido recebida pelo Depositário.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1 - O Depositário deverá comunicar, o mais breve possível, a todos os Estados que assinaram ou aderiram a esta Convenção sobre:
 

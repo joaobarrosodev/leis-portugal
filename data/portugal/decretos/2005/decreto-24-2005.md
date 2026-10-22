@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/24/2005/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-2005-583420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 874076c0699c66a11633582f2ab0631c23201108d08d9c1b885e70ead35c7b73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60b48e39971bcdcd24689e2a871986186c0ace2545c3311bd26c51862ccdacf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Lisboa
+- Portugal
 - Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:203434:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:467234:por
+  label: "Tornado público o Acordo Administrativo entre a República Portuguesa e a República Democrática de São Tomé e Príncipe\
+    \ relativo às modalidades de Aplicação da Convenção aprovada pelo presente diploma, pelo AV.451/2005.22.11.2005.MTSSO,\
+    \ DR.IS-A [241] de 19.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/451-2005-467234
+  date: '2005-11-22'
+- type: corrected_by
+  target: pt:dre:203434:por
+  label: "Rectificado pela DECL-RECT.1/2006.19.12.2005.PCM, DR.IS-A [3] de 04.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-2006-203434
+  date: '2005-12-19'
 article_structure:
   article_count: 38
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:12Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +117,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - José António Fonseca Vieira da Silva.
 
-**Assinado em 21 de Outubro de 2005.**
+Assinado em 21 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Outubro de 2005.**
+Referendado em 24 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 CONVENÇÃO SOBRE SEGURANÇA SOCIAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE.
 

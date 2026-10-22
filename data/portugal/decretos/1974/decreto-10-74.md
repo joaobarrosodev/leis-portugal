@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1974-408328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0dc053beb8b23bc9c40e0ceb0e79fdd554df53265310ced5ec4675fef12b330
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9c9ea1de627b9b1ec3956f71ba771ed4196c640ca7d0947557ab0d40f29f6ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686247:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:37Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +117,7 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. Ficam os Governos das províncias ultramarinas autorizados a emitir os empréstimos internos amortizáveis que se mostrem necessários à execução do disposto na parte final do artigo 15.º e na alínea b) do artigo 17.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, tornado extensivo ao ultramar pela [Portaria n.º 421/72](https://diariodarepublica.pt/dr/detalhe/portaria/421-1972-675842), de 1 de Agosto.
+Artigo 1.º - 1. Ficam os Governos das províncias ultramarinas autorizados a emitir os empréstimos internos amortizáveis que se mostrem necessários à execução do disposto na parte final do artigo 15.º e na alínea b) do artigo 17.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, tornado extensivo ao ultramar pela [Portaria n.º 421/72](https://diariodarepublica.pt/dr/detalhe/portaria/421-1972-675842), de 1 de Agosto.
 
 2. Os empréstimos serão representados por certificados de dívida pública nominativos, negociáveis nos termos comuns, e gozando de todos os direitos, isenções e garantias consignados nos artigos 11.º e 12.º do [Decreto n.º 463/72](https://diariodarepublica.pt/dr/detalhe/decreto/463-1972-686247), de 18 de Novembro.
 
@@ -105,11 +125,11 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. O serviço dos empréstimos fica a cargo das direcções e repartições provinciais dos serviços de finanças, que, a requerimento dos interessados, poderão efectuar a integração dos certificados emitidos noutros de maior valor ou proceder ao seu desdobramento.
 
-###### Art. 2.º - 1. A obrigação geral a que se refere o n.º 3 do artigo antecedente será organizada pela direcção ou repartição provincial dos serviços de finanças da respectiva província ultramarina, de harmonia com as disposições do presente diploma e da portaria que determinar a sua emissão.
+Art. 2.º - 1. A obrigação geral a que se refere o n.º 3 do artigo antecedente será organizada pela direcção ou repartição provincial dos serviços de finanças da respectiva província ultramarina, de harmonia com as disposições do presente diploma e da portaria que determinar a sua emissão.
 
 2. A obrigação geral será assinada pelo Governador da província e visada pelo Tribunal Administrativo, como Tribunal de Contas.
 
-###### Art. 3.º - 1. Os certificados de dívida pública levarão as assinaturas de chancela do Governador da província e do director ou chefe dos serviços provinciais de finanças e serão autenticados por aposição do selo branco dos mesmos serviços.
+Art. 3.º - 1. Os certificados de dívida pública levarão as assinaturas de chancela do Governador da província e do director ou chefe dos serviços provinciais de finanças e serão autenticados por aposição do selo branco dos mesmos serviços.
 
 2. Os certificados serão de montante variável, consoante o valor das prestações em que for dividida a indemnização devida pela expropriação, e deverão ser emitidos no primeiro dia do mês seguinte àquele em que o Estado for notificado para efectuar a sua entrega aos expropriados.
 
@@ -117,22 +137,22 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. Os juros serão pagáveis nas datas em que se vencer a amortização, semestral ou anual, das prestações.
 
-###### Art. 4.º - 1. As importâncias correspondentes ao valor dos certificados de dívida pública emitidos serão inscritas nos orçamentos gerais das províncias ultramarinas como receita e despesa extraordinárias, no caso de a iniciativa das expropriações haver pertencido ao Estado.
+Art. 4.º - 1. As importâncias correspondentes ao valor dos certificados de dívida pública emitidos serão inscritas nos orçamentos gerais das províncias ultramarinas como receita e despesa extraordinárias, no caso de a iniciativa das expropriações haver pertencido ao Estado.
 
 2. Nos mesmos orçamentos inscrever-se-ão, como despesa ordinária, as verbas necessárias ao pagamento dos encargos advenientes dos empréstimos emitidos.
 
 3. Quando, nos termos da alínea b) do artigo 17.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, as províncias ultramarinas entregarem certificados de dívida pública em substituição do seu aval, deverão inscrever nos seus orçamentos de receita ordinária quantias equivalentes às despesas ordinárias referidas no número antecedente, a receber das autarquias locais ou dos serviços autónomos.
 
-###### Art. 5.º As despesas com a emissão dos títulos de dívida pública referidos no presente diploma, compreendendo as relativas a trabalhos extraordinários que a urgência justificar e forem autorizados, serão pagas por força das competentes dotações orçamentais, inscritas nos orçamentos gerais das províncias ultramarinas para o respectivo ano económico.
+Art. 5.º As despesas com a emissão dos títulos de dívida pública referidos no presente diploma, compreendendo as relativas a trabalhos extraordinários que a urgência justificar e forem autorizados, serão pagas por força das competentes dotações orçamentais, inscritas nos orçamentos gerais das províncias ultramarinas para o respectivo ano económico.
 
-###### Art. 6.º Na parte que não contrarie o presente diploma, são tornadas extensivas às províncias ultramarinas as disposições do [Decreto n.º 463/72](https://diariodarepublica.pt/dr/detalhe/decreto/463-1972-686247), de 18 de Novembro.
+Art. 6.º Na parte que não contrarie o presente diploma, são tornadas extensivas às províncias ultramarinas as disposições do [Decreto n.º 463/72](https://diariodarepublica.pt/dr/detalhe/decreto/463-1972-686247), de 18 de Novembro.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 7 de Janeiro de 1974.**
+Promulgado em 7 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - B. Rebelo de Sousa.

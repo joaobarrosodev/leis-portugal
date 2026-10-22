@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48-1973-684999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad1930ebde6ea938301bb7c2d5aabd12bda1d8871b09d6a16738e2f5b1810bfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0618525afa0077dc94632e817eacda52141edd3b05c63685813e0016b466fb9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:685601:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:47Z'
   warnings: []
   errors: []
 ---
@@ -89,23 +93,23 @@ Tornando-se necessário fixar normas para os concursos de provimento de lugares 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento dos Concursos de Provimento de Lugares de Chefe de Secção do Laboratório Nacional de Engenharia Civil, que faz parte integrante do presente decreto e vai assinado pelo Ministro das Obras Públicas.
+Artigo único. É aprovado o Regulamento dos Concursos de Provimento de Lugares de Chefe de Secção do Laboratório Nacional de Engenharia Civil, que faz parte integrante do presente decreto e vai assinado pelo Ministro das Obras Públicas.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 29 de Janeiro de 1973.**
+Promulgado em 29 de Janeiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DOS CONCURSOS DE PROVIMENTO DE LUGARES DE CHEFE DE SECÇÃO DO LABORATÓRIO NACIONAL DE ENGENHARIA CIVIL.
 
-###### Artigo 1.º - 1. Os concursos de provimento de lugares de chefe de secção serão abertos, para cada cargo a desempenhar, por prazo não inferior a sessenta dias, e do respectivo anúncio constará o programa, o prazo de validade do concurso e o número de lugares a preencher.
+Artigo 1.º - 1. Os concursos de provimento de lugares de chefe de secção serão abertos, para cada cargo a desempenhar, por prazo não inferior a sessenta dias, e do respectivo anúncio constará o programa, o prazo de validade do concurso e o número de lugares a preencher.
 
 2. O programa e o prazo de validade de cada concurso serão prèviamente aprovados pelo Ministro das Obras Públicas.
 
-###### Art. 2.º - 1. Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os seguintes documentos:
+Art. 2.º - 1. Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os seguintes documentos:
 
 1) Resenha, subscrita pelo candidato, que deverá conter:
 
@@ -121,11 +125,11 @@ d) Outros elementos descritivos de actividades exercidas fora do Laboratório de
 
 2. Os documentos referidos não carecem de ser selados.
 
-###### Art. 3.º - 1. O júri do concurso será constituído pelo director, pelo subdirector administrativo, que poderá substituir o director, pelo chefe do serviço administrativo e pelos chefes de repartição para o efeito nomeados.
+Art. 3.º - 1. O júri do concurso será constituído pelo director, pelo subdirector administrativo, que poderá substituir o director, pelo chefe do serviço administrativo e pelos chefes de repartição para o efeito nomeados.
 
 2. Poderão ser agregados ao júri do concurso, com a faculdade de intervirem na classificação das provas práticas que arguirem, além de chefes de secção do quadro, entidades estranhas escolhidas para arguentes pela sua competência nos assuntos a versar, às quais serão satisfeitos os encargos resultantes da sua colaboração.
 
-###### Art. 4.º - 1. Encerrado o concurso, o júri reunirá para verificação dos processos e das condições de admissibilidade dos candidatos e elaborará e fará publicar a lista provisória dos candidatos admitidos, estabelecendo o prazo julgado conveniente para reclamações e legalização dos processos incompletos.
+Art. 4.º - 1. Encerrado o concurso, o júri reunirá para verificação dos processos e das condições de admissibilidade dos candidatos e elaborará e fará publicar a lista provisória dos candidatos admitidos, estabelecendo o prazo julgado conveniente para reclamações e legalização dos processos incompletos.
 
 2. Findo o prazo concedido e apreciadas eventuais reclamações, será publicada a lista definitiva dos candidatos admitidos a concurso ou a declaração de que deve considerar-se definitiva a lista provisória.
 
@@ -135,11 +139,11 @@ d) Outros elementos descritivos de actividades exercidas fora do Laboratório de
 
 5. O calendário das provas práticas, com indicação da ordem de apresentação à prova oral pública, determinada por sorteio, será publicado simultâneamente com a lista definitiva dos candidatos admitidos a concurso ou com a declaração a que se refere o n.º 2. A elaboração do calendário será feita de modo que cada candidato realize as respectivas provas práticas em dias diferentes, não antes de cento e oitenta dias após a data da abertura do concurso e de modo que as provas B e C precedam a prova A.
 
-###### Art. 5.º - 1. As provas documentais do concurso consistem na apreciação das qualidades indicadas no Regulamento das Informações de Serviço do Laboratório Nacional de Engenharia Civil para os oficiais de secretaria, segundo o critério de classificação fixado no mesmo Regulamento, com base nas informações de serviço do candidato relativas aos três anos de efectivo serviço no Laboratório imediatamente anteriores à data do encerramento do concurso e nos elementos referidos nas alíneas a) a d) do n.º 1 do artigo 2.º do presente Regulamento, aquelas e estes ponderados pelo conhecimento, por parte do júri, do exercício da actividade do candidato, tendo em conta os requisitos exigidos pelo cargo a desempenhar.
+Art. 5.º - 1. As provas documentais do concurso consistem na apreciação das qualidades indicadas no Regulamento das Informações de Serviço do Laboratório Nacional de Engenharia Civil para os oficiais de secretaria, segundo o critério de classificação fixado no mesmo Regulamento, com base nas informações de serviço do candidato relativas aos três anos de efectivo serviço no Laboratório imediatamente anteriores à data do encerramento do concurso e nos elementos referidos nas alíneas a) a d) do n.º 1 do artigo 2.º do presente Regulamento, aquelas e estes ponderados pelo conhecimento, por parte do júri, do exercício da actividade do candidato, tendo em conta os requisitos exigidos pelo cargo a desempenhar.
 
 2.Serão reprovados os candidatos que obtiverem classificação inferior a 12 em duas das qualidades referidas no número anterior, ou uma classificação global das provas documentais inferior a 15.
 
-###### Art. 6.º - 1. As provas práticas do concurso serão as seguintes:
+Art. 6.º - 1. As provas práticas do concurso serão as seguintes:
 
 Prova A - Prova oral pública, com duração não superior a duas horas, destinada à apreciação dos conhecimentos e à avaliação das qualidades e atitudes do candidato perante o exercício do cargo a desempenhar, tanto no plano geral como no plano da especialidade, com fundamento no programa, na resenha e nas restantes provas práticas do concurso;
 
@@ -151,12 +155,12 @@ Prova C - Prova escrita de conhecimento de línguas, quando este faça parte do 
 
 3. Serão reprovados os candidatos que obtiverem classificação inferior a 12 numa das provas ou classificação global das provas práticas inferior a 14.
 
-###### Art. 7.º - 1. A classificação final do concurso será a média, arredondada às décimas, das classificações globais obtidas nas provas documentais e nas provas práticas.
+Art. 7.º - 1. A classificação final do concurso será a média, arredondada às décimas, das classificações globais obtidas nas provas documentais e nas provas práticas.
 
 2. Só será publicada lista dos candidatos aprovados, ordenados pelas suas classificações finais.
 
-###### Art. 8.º - 1. A falta a uma prova prática do concurso sem motivo justificado determinará a exclusão do candidato. Havendo motivo justificado, poderá ser autorizado o adiamento da prova pelo prazo máximo de vinte dias.
+Art. 8.º - 1. A falta a uma prova prática do concurso sem motivo justificado determinará a exclusão do candidato. Havendo motivo justificado, poderá ser autorizado o adiamento da prova pelo prazo máximo de vinte dias.
 
 2. Consideram-se motivos justificados a doença comprovada nos termos legais e os casos de força maior como tais reconhecidos pelo júri.
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/1996/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-1996-621157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59ecdbd9c43440030000480fc5531687cf87d566468bd366a3e75334c1ddb9cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3af0ce647851a602b1f229dc4ab26a4f2c581f18c5c084a1d0471f7f91b76c2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,97 @@ relationships:
   target: pt:dre:114521169:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3339211:por
+  label: "Desclassificado o edifício sito na Calçada das Necessidades, 6 a 6-A, freguesia dos Prazeres, concelho e distrito\
+    \ de Lisboa, classificado como imóvel de interesse público pelo presente diploma, pela PORT.403/2010.15.06.2010.MC, DR.IIS\
+    \ [114] de 15.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/403-2010-3339211
+  date: '2010-06-15'
+- type: amended_by
+  target: pt:dre:632425:por
+  label: "Reclassificado como monumento nacional o Casal de Santa Maria (conjunto edificado e zona envolvente), também denominado\
+    \ «Parque de Serralves» ou «Quinta do Riba de Ave», pelo DEC.31-G/2012.31.12.2012.PCM, DR.IS [252-2ºSupl] de 31.12.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/31-g-2012-632425
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:2523432:por
+  label: "Fixada a zona especial de proteção (ZEP) da Casa da Breia, no lugar da Breia, São Nicolau, classificado como imóvel\
+    \ de interesse público, pelo presente diploma, pela PORT.320/2013.03.06.2013.SECU-PCM, DR.IIS [106] de 03.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-2013-2523432
+  date: '2013-06-03'
+- type: amended_by
+  target: pt:dre:1677155:por
+  label: "Alterada a classificação, a área de classificação e a designação da Quinta das Campainhas, também denominada Quinta\
+    \ do Beau-Séjour, sita na Estrada de Benfica, 368 a 372, freguesia de São Domingos de Benfica, concelho e distrito de\
+    \ Lisboa, classificada como imóvel de interesse público pelo presente diploma, pela PORT.132/2014.20.02.2014.SECU-PCM,\
+    \ DR.IIS [36] de 20.02.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/132-2014-1677155
+  date: '2014-02-20'
+- type: amended_by
+  target: pt:dre:66751607:por
+  label: Tornado público a desclassificação do «Edifício na Avenida de 5 de Outubro, esquina com a Avenida do Duque de Ávila»,
+    na Avenida 5 de Outubro, 36 a 40, e na Avenida Duque de Ávila, 46 a 46-D, classificado pelo presente diploma, pelo(a)
+    Portaria n.º 185/2015 - Diário da República n.º 52/2015, Série II de 2015-03-16
+  source: null
+  date: '2015-03-16'
+- type: amended_by
+  target: pt:dre:114521169:por
+  label: Reclassificado como monumento nacional o conjunto denominado «Palace Hotel do Buçaco e mata envolvente, incluindo
+    as capelas e ermidas, Cruz Alta e tudo o que nela se contém de interesse histórico e artístico, em conjunto com o Convento
+    de Santa Cruz do Buçaco», no Buçaco, freguesia do Luso, concelho da Mealhada, distrito de Aveiro, classificado como imóvel
+    de interesse público pelo Dec do Governo 32 973, de 18-ago de 1943, redominado pelo presente diploma, pelo(a) Decreto
+    n.º 5/2018 - Diário da República n.º 10/2018, Série I de 2018-01-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/5-2018-114521169
+  date: '2018-01-15'
+- type: amended_by
+  target: pt:dre:163336723:por
+  label: Revista a classificação, para conjunto de interesse público, da Vila Berta, em Lisboa, classificada como imóvel de
+    interesse público pelo presente diploma, e fixada a respetiva zona especial de proteção, pelo(a) Portaria n.º 196/2021
+    - Diário da República n.º 94/2021, Série II de 2021-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-2021-163336723
+  date: '2021-05-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-f/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-f/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:628277:por
+  label: "Rectificado pela DECL-RECT.10-E/96.30.05.1996.PCM, DR.IS-B [127]3ºSupl de 31.05.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-e-1996-628277
+  date: '1996-05-30'
+- type: corrected_by
+  target: pt:dre:668499:por
+  label: "Rectificado pela DECL-RECT.9-J/98.1998.04.30.PCM DR.IS-B [100]2ºSupl de 30.04.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-j-1998-668499
+  date: '1998-04-30'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:14Z'
   warnings: []
   errors: []
 ---
@@ -134,15 +211,15 @@ Presidência do Conselho de Ministros, 1 de Fevereiro de 1996.
 
 António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Manuel Maria Ferreira Carrilho.
 
-**Assinado em 15 de Fevereiro de 1996.**
+Assinado em 15 de Fevereiro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Fevereiro de 1996.**
+Referendado em 16 de Fevereiro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Monumentos nacionais
 
@@ -538,4 +615,4 @@ Casa da Quinta da Cerca, na estrada municipal n.º 1443, ao quilómetro 0,850, G
 
 ## ANEXO IV — Plantas de delimitação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/056b00/04480457.pdf))](https://files.diariodarepublica.pt/1s/1996/03/056b00/04480457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/056b00/04480457.pdf)

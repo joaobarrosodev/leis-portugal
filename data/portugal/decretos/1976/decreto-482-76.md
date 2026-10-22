@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/482-1976-431040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec421f1f9a61dc1767643277b5c7aaaf1e8de76cb612eeda9f362efc022f5ac9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7f9ec8f9f93624b5f069581a47dc454478413d37ada0bb4ec4d8cd59846e4e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Judicial
+- Brasília
+- Convenção
+- Portugal
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:35Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 18 de Junho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada para adesão a Convenção sobre Auxílio Judicial, concluída em Brasília em 22 de Setembro de 1972, cujo texto original em português vai publicado anexo ao presente decreto.
+Artigo único. É aprovada para adesão a Convenção sobre Auxílio Judicial, concluída em Brasília em 22 de Setembro de 1972, cujo texto original em português vai publicado anexo ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 3 de Junho de 1976.**
+Assinado em 3 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Convenção sobre Auxílio Judicial, concluída em Brasília
 
@@ -108,7 +112,7 @@ Igualdade na actuação processual
 
 Princípio da igualdade
 
-###### Artigo 1.º Os nacionais de cada um dos Estados contratantes gozarão perante os tribunais dos demais Estados contratantes do mesmo tratamento que recebem os nacionais de cada Estado.
+Artigo 1.º Os nacionais de cada um dos Estados contratantes gozarão perante os tribunais dos demais Estados contratantes do mesmo tratamento que recebem os nacionais de cada Estado.
 
 II
 
@@ -116,17 +120,17 @@ Auxílio judicial
 
 Objecto
 
-###### Art. 2.º - 1. Os juízes e os tribunais dos Estados contratantes prestarão mútuo auxílio para a prática dos actos de comunicação entre o órgão jurisdicional e qualquer interveniente no processo, seja parte litigante seja terceiro, que tenha domicílio ou residência no seu território.
+Art. 2.º - 1. Os juízes e os tribunais dos Estados contratantes prestarão mútuo auxílio para a prática dos actos de comunicação entre o órgão jurisdicional e qualquer interveniente no processo, seja parte litigante seja terceiro, que tenha domicílio ou residência no seu território.
 
 2. Igualmente, realizarão os actos de instrução que consistam no interrogatório de partes ou de testemunhas, na emissão de declarações periciais, na entrega ou recepção de documentos ou na prática de reconhecimentos judiciais de qualquer objecto, sempre que tais meios de prova se devam produzir no território do Estado a que se solicite o auxílio.
 
 Forma da comunicação
 
-###### Art. 3.º Poderá utilizar-se como forma do pedido de auxílio a carta-rogatória ou qualquer outro instrumento admitido para comunicação interna entre órgãos judiciais de igual categoria.
+Art. 3.º Poderá utilizar-se como forma do pedido de auxílio a carta-rogatória ou qualquer outro instrumento admitido para comunicação interna entre órgãos judiciais de igual categoria.
 
 Meios de auxílio
 
-###### Art. 4.º O auxílio judicial poderá ser solicitado por um dos seguintes meios:
+Art. 4.º O auxílio judicial poderá ser solicitado por um dos seguintes meios:
 
 a) Via diplomática ou consular;
 
@@ -136,7 +140,7 @@ c) Directamente pelos interessados, através de pessoas autorizadas perante o tr
 
 Denegação do auxílio
 
-###### Art. 5.º A prestação do auxílio só poderá ser denegada quando o Estado requerido considere que:
+Art. 5.º A prestação do auxílio só poderá ser denegada quando o Estado requerido considere que:
 
 a) A actividade que se pretende é contrária à ordem pública, aos bons costumes ou atenta contra a sua soberania ou a sua segurança;
 
@@ -148,11 +152,11 @@ d) A autenticidade do documento não está com provada.
 
 Conflitos
 
-###### Art. 6.º A decisão que denegue o pedido de auxílio será fundamentada e transmitida à autoridade requerente pela mesma via por que aquele tenha sido recebido.
+Art. 6.º A decisão que denegue o pedido de auxílio será fundamentada e transmitida à autoridade requerente pela mesma via por que aquele tenha sido recebido.
 
 Processamento do auxílio
 
-###### Art. 7.º - 1. O tribunal do Estado requerente especificará com clareza os actos processuais a realizar.
+Art. 7.º - 1. O tribunal do Estado requerente especificará com clareza os actos processuais a realizar.
 
 2. O tribunal requerido efectuará as diligências solicitadas de acordo com as formalidades e os meios compulsivos estabelecidos na sua própria lei.
 
@@ -162,11 +166,11 @@ Processamento do auxílio
 
 Incompetência do tribunal requerido
 
-###### Art. 8.º Quando o tribunal requerido não for competente para efectuar a diligência solicitada ou não puder dar cumprimento ao pedido, por a pessoa ou coisa objecto da diligência se encontrar sob a jurisdição de outro tribunal do mesmo Estado, remeterá o pedido ao tribunal competente, comunicando o facto ao requerente.
+Art. 8.º Quando o tribunal requerido não for competente para efectuar a diligência solicitada ou não puder dar cumprimento ao pedido, por a pessoa ou coisa objecto da diligência se encontrar sob a jurisdição de outro tribunal do mesmo Estado, remeterá o pedido ao tribunal competente, comunicando o facto ao requerente.
 
 Pagamento de despesas
 
-###### Art. 9.º Para a prestação de auxílio será necessário que a parte interessada antecipe as despesas que possam ocorrer, na forma que a lei do Estado requerido exija.
+Art. 9.º Para a prestação de auxílio será necessário que a parte interessada antecipe as despesas que possam ocorrer, na forma que a lei do Estado requerido exija.
 
 III
 
@@ -174,25 +178,25 @@ Disposições finais
 
 Assinaturas
 
-###### Art. 10.º - 1. A presente Convenção está aberta à assinatura de todos os membros da comunidade dos países hispano-luso-americanos e Filipinas.
+Art. 10.º - 1. A presente Convenção está aberta à assinatura de todos os membros da comunidade dos países hispano-luso-americanos e Filipinas.
 
 2. A presente Convenção será submetida a ratificação, adesão ou aprovação. Os correspondentes instrumentos serão depositados na Secretaria-Geral Permanente da Conferência de Ministros da Justiça.
 
 Entrada em vigor da Convenção
 
-###### Art. 11.º - 1. A presente Convenção entrará em vigor três meses após a data em que tenha sido depositado o segundo instrumento de ratificação, adesão ou aprovação.
+Art. 11.º - 1. A presente Convenção entrará em vigor três meses após a data em que tenha sido depositado o segundo instrumento de ratificação, adesão ou aprovação.
 
 2. Para cada um dos Estados que a ratifiquem, a ela adiram ou a aprovem, após ter sido depositado o segundo instrumento de ratificação, adesão ou aprovação, a Convenção entrará em vigor três meses após esse Estado ter depositado o correspondente instrumento.
 
 Duração e denúncia
 
-###### Art. 12.º - 1. A duração da presente Convenção é ilimitada.
+Art. 12.º - 1. A duração da presente Convenção é ilimitada.
 
 2. Cada Estado parte da Convenção poderá denunciá-la mediante comunicação dirigida ao secretário-geral. A denúncia produzirá efeito seis meses após a data de recepção da correspondente notificação.
 
 Funções do secretário-geral
 
-###### Art. 13.º O secretário-geral comunicará aos Estados membros desta Convenção:
+Art. 13.º O secretário-geral comunicará aos Estados membros desta Convenção:
 
 a) A assinatura ou depósito dos instrumentos de ratificação, adesão ou aprovação;
 

@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-1989-620368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 854e7b8c08377c4400aa4b202194f4cf1978f404d30d981a2890b56121820f4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ff5b1b07b04c3792ac55320d4613e223637e92738a2dd8ddda24eb82d06c12d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- América Latina
+- Cidade do México
+- Cooperação Internacional
+- Espanha
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:07Z'
   warnings: []
   errors: []
 ---
@@ -87,21 +92,21 @@ de 20 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada, para adesão, a Convenção Multilateral sobre Cooperação e Assistência Mútua entre as Direcções-Gerais das Alfândegas, feita na cidade do México em 11 de Setembro de 1981, cujo texto original em francês e respectiva tradução para português acompanham o presente decreto.
+Artigo 1.º É aprovada, para adesão, a Convenção Multilateral sobre Cooperação e Assistência Mútua entre as Direcções-Gerais das Alfândegas, feita na cidade do México em 11 de Setembro de 1981, cujo texto original em francês e respectiva tradução para português acompanham o presente decreto.
 
-###### Art. 2.º Em conformidade com o disposto no n.º 4 do artigo 15.º da referida Convenção, são aceites os anexos I, V e XIII.
+Art. 2.º Em conformidade com o disposto no n.º 4 do artigo 15.º da referida Convenção, são aceites os anexos I, V e XIII.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
 Ratificado em 27 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Maio de 1989.**
+Referendado em 2 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACCORD MULTILATÉRAL DE COOPÉRATION ET ASSISTANCE MUTUELLE ENTRE LES DIRECTIONS NATIONALES DES DOUANES
 
@@ -1135,7 +1140,7 @@ Arodys Robles Morales, representante do Programa das Nações Unidas para o Com�
 
 Josefa Raquel Tablada Ortiz, representante da Secretaria da Integração Centro-Americana.
 
-## Anexo à Convenção Multilateral de Cooperação e Assistência Mútua entre as Direcções-Gerais das Alfândegas, formulado durante a segunda reunião dos directores-gerais das alfândegas da América Latina.
+Anexo à Convenção Multilateral de Cooperação e Assistência Mútua entre as Direcções-Gerais das Alfândegas, formulado durante a segunda reunião dos directores-gerais das alfândegas da América Latina.
 
 Os representantes dos países que subscrevem este anexo, considerando que os termos e condições fixados na Convenção supramencionada satisfazem os requisitos básicos de cooperação e assistência mútua entre os serviços aduaneiros de diversas nações, preservando a autonomia inerente à operação aduaneira de cada país, rubricam a Convenção em sinal de concordância com os seus termos e comprometem-se a submetê-la à consideração das autoridades competentes dos seus respectivos países:
 

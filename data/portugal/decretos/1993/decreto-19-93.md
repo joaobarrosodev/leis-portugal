@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/1993/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-1993-268838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bc9299d0527a7736fb11d0a187e0a0b91ebd767dfea07dc6d1ae6fbb6ab368d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e551243dc2cc2c092a103cdfcd9b32f3526f879873967e29b40dc4fc5c36dec7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Melbourne
-- Cooperação Internacional
 - Comunicações
+- Convenção
+- Cooperação Internacional
+- Melbourne
+- Portugal
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:683180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683180:por
+  label: "Estendida a convenção ao território de Macau pelo DEC.218/99.1999.11.09.PR DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/218-1999-683180
+  date: '1999-11-09'
+- type: cites
+  target: pt:dre:261173:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:20Z'
   warnings: []
   errors: []
 ---
@@ -96,21 +105,21 @@ de 18 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado, para ratificação, o Regulamento das Telecomunicações Internacionais, referido no artigo 42.º da Convenção Internacional das Telecomunicações, assinado em Melbourne em 9 de Dezembro de 1988, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo 1.º É aprovado, para ratificação, o Regulamento das Telecomunicações Internacionais, referido no artigo 42.º da Convenção Internacional das Telecomunicações, assinado em Melbourne em 9 de Dezembro de 1988, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
-###### Art. 2.º O presente diploma revoga o [Decreto n.º 507-A/74](https://diariodarepublica.pt/dr/detalhe/decreto/507-a-1974-261173), de 1 de Outubro, que aprovou os Regulamentos Telegráfico e Telefónico.
+Art. 2.º O presente diploma revoga o [Decreto n.º 507-A/74](https://diariodarepublica.pt/dr/detalhe/decreto/507-a-1974-261173), de 1 de Outubro, que aprovou os Regulamentos Telegráfico e Telefónico.
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 1993. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Joaquim Martins Ferreira do Amaral.
 
 Ratificado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Março de 1993.**
+Referendado em 25 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 RÈGLEMENT DES TÉLÉCOMMUNICATIONS INTERNATIONALES
 
@@ -1888,7 +1897,7 @@ As administrações;
 
 As explorações privadas reconhecidas;
 
-**O presidente do conselho de administração, o secretário-geral, o vice-secretário-geral, os directores dos comités consultivos internacionais, os membros do Comité Internacional de Registo de Frequências, ou outros representantes ou funcionários autorizados da União, incluindo os que se encontram em missão oficial fora da sede da União.**
+O presidente do conselho de administração, o secretário-geral, o vice-secretário-geral, os directores dos comités consultivos internacionais, os membros do Comité Internacional de Registo de Frequências, ou outros representantes ou funcionários autorizados da União, incluindo os que se encontram em missão oficial fora da sede da União.
 
 18 2.5 - Telecomunicação privilegiada:
 
@@ -2700,7 +2709,7 @@ M. F. Dandato.
 
 G. T. Marechera.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Disposições gerais relativas à contabilidade
 
@@ -2782,7 +2791,7 @@ Dos créditos dos serviços postais, quando for caso disso.
 
 3.4.3 - Se se produzir uma alteração fundamental do sistema monetário internacional, tendo por efeito tornar inoperantes ou impróprias as disposições previstas num ou em vários dos parágrafos anteriores, as administrações (ver nota *) têm toda a liberdade para adoptar, em virtude de acordos mútuos, uma base monetária diferente ou procedimentos diferentes para o pagamento dos saldos de contas, até à revisão das disposições acima mencionadas.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Disposições suplementares relativas às telecomunicações marítimas
 
@@ -2822,7 +2831,7 @@ c) Por qualquer outro organismo ou organismos designados para esse efeito pela a
 
 4.4 - A autoridade devedora encarregada da contabilidade pode recusar a liquidação e a rectificação das contas apresentadas mais de 18 meses de calendário depois da data do tráfego ao qual essas contas se referem.
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Telecomunicações de serviço e telecomunicações privilegiadas
 

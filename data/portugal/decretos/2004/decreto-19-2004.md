@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/2004/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-2004-514671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73e13d81e32f2b129f8ae328847ab535451132fc63f82a305998dfba23d24446
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36d8eb1d730bdb34eca2ad9aa4f207bd7c0bbd0339608e9e02698a9a66d2140c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
 - Convenção
-- Portugal
-- Recursos do Mar
+- Espécie Protegida
 - Mar Mediterrâneo
 - Mar Negro
 - Meio Marinho
 - Oceano Atlântico
+- Portugal
 - Proteção do Ambiente
-- Espécie Protegida
-relationships: []
+- Proteção dos Animais
+- Recursos do Mar
+relationships:
+- type: cites
+  target: pt:dre:462234:por
+  label: null
+  source: null
 article_structure:
-  article_count: 0
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:33Z'
   warnings: []
   errors: []
 ---
@@ -117,15 +121,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Armando José Cordeiro Sevinate Pinto - Arlindo Marques da Cunha.
 
-**Assinado em 14 de Julho de 2004.**
+Assinado em 14 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Julho de 2004.**
+Referendado em 16 de Julho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 AGREEMENT ON THE CONSERVATION OF CETACEANS OF THE BLACK SEA, MEDITERRANEAN SEA AND CONTIGUOUS ATLANTIC AREA (ACCOBAMS), SIGNED AT MONACO ON THE 24th NOVEMBER 1996.
 
@@ -669,9 +673,7 @@ Reconhecendo a importância de outros instrumentos globais e regionais relevante
 
 acordaram no seguinte:
 
-Artigo I
-
-Âmbito, definições e interpretação
+###### Artigo I — Âmbito, definições e interpretação
 
 1 - a) O âmbito geográfico deste Acordo, adiante designado «área do Acordo», é constituído por todas as águas marítimas dos mares Negro e Mediterrâneo e pelos seus golfos e mares, bem como pelas águas internas ligadas ou interligadas a estas águas marítimas, e a área atlântica adjacente ao mar Mediterrâneo, a oeste do estreito de Gibraltar. Para os fins deste Acordo:
 
@@ -717,9 +719,7 @@ Para além disso, os termos definidos no artigo I, subparágrafos 1, a) a e) e i
 
 5 - Os anexos deste Acordo constituem parte integrante do mesmo. Qualquer referência ao Acordo inclui a referência aos seus anexos.
 
-Artigo II
-
-Objectivos e medidas de conservação
+###### Artigo II — Objectivos e medidas de conservação
 
 1 - As Partes deverão adoptar medidas coordenadas para atingir e manter um estatuto de conservação favorável para os cetáceos. Para tal, as Partes deverão proibir e adoptar todas as medidas necessárias para, sempre que tal não tenha ainda sido feito, eliminar qualquer captura deliberada de cetáceos, devendo igualmente cooperar para a criação e manutenção de uma rede de áreas protegidas para a conservação de cetáceos.
 
@@ -743,9 +743,7 @@ As medidas relacionadas com actividades de pesca deverão ser aplicadas nas águ
 
 4 - Ao implementarem as medidas previstas no parágrafo anterior, as Partes deverão ter em consideração o princípio da precaução.
 
-Artigo III
-
-Conferência das Partes
+###### Artigo III — Conferência das Partes
 
 1 - A Conferência das Partes constitui o órgão decisor deste Acordo.
 
@@ -793,9 +791,7 @@ h) Acordar numa data e local para a próxima reunião; e
 
 i) Decidir sobre outros assuntos relacionados com a implementação deste Acordo.
 
-Artigo IV
-
-Secretariado do Acordo
+###### Artigo IV — Secretariado do Acordo
 
 1 - No seio do Secretariado da Convenção deverá ser estabelecido um secretariado do Acordo, sujeito a aprovação por parte da Conferência das Partes à Convenção. Se em qualquer altura o Secretariado da Convenção se revelar incapaz de desempenhar esta função, a Conferência das Partes deverá providenciar soluções alternativas.
 
@@ -829,9 +825,7 @@ c) Medidas de emergência; e
 
 d) Métodos de resgate.
 
-Artigo V
-
-Unidades de coordenação
+###### Artigo V — Unidades de coordenação
 
 1 - As funções das unidades de coordenação sub-regionais serão as seguintes:
 
@@ -851,9 +845,7 @@ b) Uma listagem sub-regional de áreas importantes para os cetáceos; e
 
 c) Uma listagem sub-regional das autoridades nacionais, centros de investigação e reabilitação, cientistas e organizações não governamentais relacionados com cetáceos.
 
-Artigo VI
-
-Bureau
+###### Artigo VI — Bureau
 
 1 - A Conferência das Partes deverá eleger um bureau constituído pelo Presidente e Vice-Presidentes da Conferência das Partes e deverá adoptar o seu regulamento interno, tal como estabelecido pelo secretariado do Acordo. O Presidente do Comité Científico será convidado a participar como observador nas reuniões do bureau. Sempre que necessário, o secretariado do Acordo assegurará os serviços de secretariado.
 
@@ -869,9 +861,7 @@ c) Representar as Partes perante o(s) Governo(s) do país (ou países) anfitriã
 
 4 - Para cada sessão da Conferência das Partes, o bureau providenciará um relatório das suas actividades, que será distribuído pelo secretariado do Acordo a todas as Partes antes da referida sessão.
 
-Artigo VII
-
-Comité Científico
+###### Artigo VII — Comité Científico
 
 1 - Deverá ser criado um comité científico, composto por especialistas em conservação de cetáceos, que funcionará como órgão consultivo da Conferência das Partes. A Conferência das Partes confiará as funções do Comité Científico a uma organização existente na área do Acordo que assegure uma representação geográfica equilibrada.
 
@@ -897,9 +887,7 @@ h) Desempenhar, se necessário, outras tarefas que lhe tenham sido remetidas pel
 
 4 - O Comité Científico pode, em consulta com o bureau e com as respectivas unidades de coordenação, estabelecer os grupos de trabalho julgados necessários para lidar com tarefas específicas. A Conferência das Partes atribuirá um orçamento próprio para este fim.
 
-Artigo VIII
-
-Comunicação e elaboração de relatórios
+###### Artigo VIII — Comunicação e elaboração de relatórios
 
 Cada Parte deverá:
 
@@ -907,9 +895,7 @@ a) Designar um ponto focal para este Acordo e transmitir rapidamente o seu nome,
 
 b) Preparar, para cada sessão ordinária da Conferência das Partes e com início na segunda sessão, um relatório sobre a implementação do Acordo, com especial referência às medidas de conservação, investigação científica e monitorização realizadas. O formato destes relatórios será determinado pela primeira sessão da Conferência das Partes e revisto sempre que necessário em qualquer sessão subsequente. Cada relatório será submetido ao secretariado do Acordo pelo menos 120 dias antes da abertura da sessão da Conferência das Partes para a qual foi preparado e as cópias serão rapidamente distribuídas pelo secretariado do Acordo a todas as Partes.
 
-Artigo IX
-
-Disposições financeiras
+###### Artigo IX — Disposições financeiras
 
 1 - A escala das contribuições para o orçamento deste Acordo será determinada pela Conferência das Partes na sua primeira sessão. Não será exigida a nenhuma organização regional de integração económica uma contribuição superior a 2,5% dos custos administrativos.
 
@@ -921,9 +907,7 @@ Disposições financeiras
 
 5 - O secretariado do Acordo deverá realizar uma revisão periódica dos mecanismos potenciais que permitam a obtenção de recursos adicionais, incluindo fundos e assistência técnica, para a implementação deste Acordo, e deverá informar a Conferência das Partes dos resultados obtidos.
 
-Artigo X
-
-Emenda do Acordo
+###### Artigo X — Emenda do Acordo
 
 1 - Este Acordo pode ser emendado em qualquer sessão ordinária ou extraordinária da Conferência das Partes.
 
@@ -935,25 +919,19 @@ Emenda do Acordo
 
 5 - Durante o período de 150 dias estabelecido no parágrafo anterior, qualquer Parte poderá, por notificação escrita ao Depositário, apresentar uma reserva relativamente a uma emenda a um anexo do Acordo. Tal reserva poderá ser retirada em qualquer altura, mediante notificação por escrito ao Depositário, após o que a emenda entrará em vigor, para essa Parte, no 30.º dia após a data de retirada da reserva.
 
-Artigo XI
-
-Efeito deste Acordo em convenções e legislação internacionais
+###### Artigo XI — Efeito deste Acordo em convenções e legislação internacionais
 
 1 - As cláusulas deste Acordo não afectam o direito de cada Parte manter ou adoptar medidas mais rigorosas para a conservação dos cetáceos e dos seus habitats, nem os direitos e obrigações de cada Parte derivados de tratados, convenções ou acordos já existentes, excepto quando o exercício desses direitos e obrigações ameaçar a conservação dos cetáceos.
 
 2 - As Partes deverão implementar este Acordo em conformidade com os seus direitos e obrigações resultantes da lei do mar.
 
-Artigo XII
-
-Resolução de disputas
+###### Artigo XII — Resolução de disputas
 
 1 - Qualquer disputa entre duas ou mais Partes relativa à interpretação ou aplicação das cláusulas deste Acordo será sujeita a negociação entre as Partes envolvidas na disputa, ou a mediação ou conciliação por uma terceira Parte, caso isso seja aceite pelas Partes envolvidas.
 
 2 - Se a disputa não puder ser resolvida de acordo com o parágrafo anterior, as Partes poderão, por consenso mútuo, submeter a discussão a uma arbitragem ou decisão judicial. As Partes envolvidas na disputa ficarão submetidas à decisão arbitral ou judicial.
 
-Artigo XIII
-
-Assinatura, ratificação, aceitação, aprovação ou adesão
+###### Artigo XIII — Assinatura, ratificação, aceitação, aprovação ou adesão
 
 1 - Este Acordo estará aberto para assinatura por parte de qualquer Estado da área de distribuição, independentemente de existirem ou não áreas sob sua jurisdição no interior da área do Acordo, ou por qualquer organização regional de integração económica, em que pelo menos um dos seus membros seja um Estado da área de distribuição, através de:
 
@@ -967,9 +945,7 @@ b) Assinatura com reservas relativamente à ratificação, aceitação ou aprova
 
 4 - Os instrumentos de ratificação, aceitação, aprovação ou adesão serão depositados junto do Depositário.
 
-Artigo XIV
-
-Entrada em vigor
+###### Artigo XIV — Entrada em vigor
 
 1 - Este Acordo entrará em vigor no 1.º dia do 3.º mês após a data em que pelo menos sete Estados costeiros da área do Acordo ou organizações regionais de integração económica, compreendendo pelo menos duas da sub-região do mar Negro e pelo menos cinco da sub-região do mar Mediterrâneo e área atlântica adjacente, o tenham assinado sem reservas relativamente à ratificação, aceitação ou aprovação, ou tenham depositado os seus instrumentos de ratificação, aceitação ou aprovação, de acordo com o artigo XIII deste Acordo.
 
@@ -983,21 +959,15 @@ c) Aderido a
 
 este Acordo após a data em que o número de Estados da área de distribuição e organizações regionais de integração económica necessárias à sua entrada em vigor o tenham assinado sem reservas ou o tenham ratificado, aceite ou aprovado o Acordo entrará em vigor no 1.º dia do 3.º mês após a assinatura sem reservas, ou depósito por esse Estado ou organização, dos seus instrumentos de ratificação, aceitação, aprovação ou adesão.
 
-Artigo XV
-
-Reservas
+###### Artigo XV — Reservas
 
 As cláusulas deste Acordo não estarão sujeitas a reservas gerais. No entanto, qualquer Estado ou organização regional de integração económica poderá introduzir uma reserva específica relativa a uma área delimitada das suas águas interiores, no momento da assinatura sem reservas relativamente à assinatura, aceitação ou aprovação ou, dependendo da situação, no momento do depósito dos seus instrumentos de ratificação, aceitação, aprovação ou adesão. Esta reserva poderá ser retirada em qualquer altura pelo Estado ou organização regional de integração económica que a tenha apresentado, mediante notificação escrita ao Depositário. Esse Estado só ficará sujeito à aplicação do Acordo às águas que foram objecto da reserva 30 dias após a retirada da referida restrição.
 
-Artigo XVI
-
-Denúncia
+###### Artigo XVI — Denúncia
 
 Este Acordo poderá ser denunciado em qualquer altura e por qualquer Parte por meio de notificação escrita ao Depositário. A denúncia terá efeito 12 meses após a data da sua recepção pelo Depositário.
 
-Artigo XVII
-
-Depositário
+###### Artigo XVII — Depositário
 
 1 - A versão original deste Acordo, nas línguas árabe, inglesa, francesa, russa e espanhola, cada uma igualmente autêntica, será depositada junto do Depositário, que será o Governo do Principado do Mónaco. O Depositário emitirá cópias certificadas do Acordo a todos os Estados e organizações regionais de integração económica referidas no artigo XIII, parágrafo 1, deste Acordo, e ao secretariado do Acordo, quando este for estabelecido.
 

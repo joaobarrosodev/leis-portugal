@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/25-1974-407081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19af0f7eaff4bb3f2090abb8c5445a5b06a419ba11d31f0648de911b71d56488
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3e7adc07394bf2410304052fea8f69a9b7056b05b08e006a8d23a598aa7ea08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:622584:por
+  label: "Rectificado o n.º 6 do artigo 11.º, a alínea c), n.º 1 do artigo 30.º, a alínea a), n.º 2 do artigo 31.º, os n.ºs\
+    \ 2 e 7 do artigo 39.º, os n.ºs 2 e 6 do artigo 46.º do texto do contrato com a sociedade, o n.º 9 do artigo 2.º, o n.º\
+    \ 8 do artigo 10.º, o n.º 13 do artigo 11.º e o n.º 5 do artigo 13.º do texto do acordo do presente diploma, pela RECT.DD215.03.06.1974.PCM,\
+    \ DG.IS [129] de 03.06.1974\0\0"
+  source: null
+  date: '1974-06-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:27Z'
   warnings: []
   errors: []
 ---
@@ -101,23 +137,23 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar em nome do Estado e em representação da província de Timor um contrato de concessão com a sociedade anónima portuguesa de responsabilidade limitada a constituir pela firma Oceanic Exploration Company, de acordo com o texto anexo ao presente decreto, que é aprovado para todos os efeitos, dele fica fazendo parte integrante e baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar em nome do Estado e em representação da província de Timor um contrato de concessão com a sociedade anónima portuguesa de responsabilidade limitada a constituir pela firma Oceanic Exploration Company, de acordo com o texto anexo ao presente decreto, que é aprovado para todos os efeitos, dele fica fazendo parte integrante e baixa assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo máximo de sessenta dias, contados a partir da data da aprovação dos seus estatutos pelo Ministro do Ultramar.
+Art. 2.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo máximo de sessenta dias, contados a partir da data da aprovação dos seus estatutos pelo Ministro do Ultramar.
 
-###### Art. 3.º O contrato de concessão terá de ser assinado dentro de sessenta dias, contados a partir da data da constituição da sociedade.
+Art. 3.º O contrato de concessão terá de ser assinado dentro de sessenta dias, contados a partir da data da constituição da sociedade.
 
-###### Art. 4.º Como garantia da tempestiva constituição da sociedade anónima referida nos artigos anteriores e de outras obrigações, encontra-se prestada caução bancária, devidamente aceite pelo Ministro do Ultramar e à sua ordem, no montante de 1500 contos.
+Art. 4.º Como garantia da tempestiva constituição da sociedade anónima referida nos artigos anteriores e de outras obrigações, encontra-se prestada caução bancária, devidamente aceite pelo Ministro do Ultramar e à sua ordem, no montante de 1500 contos.
 
-###### Art. 5.º Este decreto entra imediatamente em vigor.
+Art. 5.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 19 de Janeiro de 1974.**
+Promulgado em 19 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Timor. - B. Rebelo de Sousa.
 
@@ -465,7 +501,7 @@ d) A formação e a especialização do pessoal português, nos termos do n.º 1
 
 6. Excepto nos casos devidamente justificados pela sociedade que mereçam acordo do Governo, considerar-se-á como poço comercial aquele que, nos ensaios de produção, se encontrar incluído nas condições seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02600/01420164.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02600/01420164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02600/01420164.pdf)
 
 7. A descoberta de um poço comercial determina o fim da fase de prospecção e pesquisa na área que venha a ser objecto dos trabalhos referidos no n.º 8 deste artigo.
 
@@ -869,11 +905,11 @@ Em tudo que não for contrariado pelas disposições do presente contrato, serã
 
 As obrigações, direitos e poderes previstos neste contrato e nele atribuídos à Administração Pública, quando não inerentes ao exercício de direitos de soberania, poderão vir a ser, no todo ou em parte, transferidos para uma empresa ou organismo estatal ou sociedade de economia pública ou mista.
 
-**O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.**
+O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.
 
 PROVÍNCIA DE TIMOR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/01/02600/01420164.pdf))](https://files.diariodarepublica.pt/1s/1974/01/02600/01420164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/01/02600/01420164.pdf)
 
 Texto do contrato de associação para a prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos fluídos entre a sociedade concessionária e a sociedade estatal, a que se refere o artigo 15.º do contrato de concessão a celebrar entre o Estado e a sociedade constituída pela Oceanic Exploration Company.
 
@@ -1127,4 +1163,4 @@ Não constituirão violação deste acordo as faltas de qualquer das partes às 
 
 Quaisquer informações obtidas por qualquer das partes e relativas às operações a que se refere o presente acordo serão consideradas confidenciais e não poderão ser divulgadas por nenhuma delas sem prévio acordo da outra e autorização expressa do Governo.
 
-**O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.**
+O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.

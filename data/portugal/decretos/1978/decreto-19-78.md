@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-1978-448522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-02-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e33130b03b065e9dc6ec4c101634bea905a19ff823374f471b2bc2091b27f1f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a7b1b29030c75b6c8f9c69a3598fb6b5cd86f6282a0acfacbb697809a752589
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto de Cultura Portuguesa
+relationships:
+- type: cites
+  target: pt:dre:411374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:07Z'
   warnings: []
   errors: []
 ---
@@ -94,32 +107,32 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro anexo ao [Decreto-Lei n.º 613/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1973-411374), de 15 de Novembro, é substituído pelo quadro anexo ao presente diploma.
+Artigo 1.º O quadro anexo ao [Decreto-Lei n.º 613/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1973-411374), de 15 de Novembro, é substituído pelo quadro anexo ao presente diploma.
 
-###### Art. 2.º O pessoal dirigente e técnico do Instituto de Cultura Portuguesa constante do mapa anexo integra-se, para todos os efeitos, no quadro único a que se refere o n.º 1 do artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Art. 2.º O pessoal dirigente e técnico do Instituto de Cultura Portuguesa constante do mapa anexo integra-se, para todos os efeitos, no quadro único a que se refere o n.º 1 do artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
-###### Art. 3.º O pessoal administrativo, técnico auxiliar e auxiliar do Instituto de Cultura Portuguesa, constante do mapa anexo, integra-se, para todos os efeitos, no quadro único a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
+Art. 3.º O pessoal administrativo, técnico auxiliar e auxiliar do Instituto de Cultura Portuguesa, constante do mapa anexo, integra-se, para todos os efeitos, no quadro único a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
-###### Art. 4.º - 1 - O pessoal actualmente em serviço no Instituto de Cultura Portuguesa transitará, na mesma categoria ou em categoria equivalente, para lugares do quadro de pessoal anexo a este diploma legal, independentemente da sua forma de provimento e regime de prestação de serviço.
+Art. 4.º - 1 - O pessoal actualmente em serviço no Instituto de Cultura Portuguesa transitará, na mesma categoria ou em categoria equivalente, para lugares do quadro de pessoal anexo a este diploma legal, independentemente da sua forma de provimento e regime de prestação de serviço.
 
 2 - A integração do pessoal referido no número anterior far-se-á por lista nominativa, homologada pelo Ministério da Educação e Investigação Científica, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas, a observância dos requisitos legais de habilitações e publicação no Diário da República.
 
-###### Art. 5.º O pessoal que actualmente presta serviço no Instituto de Cultura Portuguesa e que não for possível integrar no quadro deste organismo transita na situação em que se encontrar à data da publicação deste decreto.
+Art. 5.º O pessoal que actualmente presta serviço no Instituto de Cultura Portuguesa e que não for possível integrar no quadro deste organismo transita na situação em que se encontrar à data da publicação deste decreto.
 
-###### Art. 6.º O pessoal que se encontra provido nas categorias constantes do mapa anexo ao [Decreto-Lei n.º 613/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1973-411374) manter-se-á na mesma situação até à data da publicação das listas nominativas do pessoal dos quadros do Instituto Nacional de Investigação Científica e Instituto de Cultura Portuguesa.
+Art. 6.º O pessoal que se encontra provido nas categorias constantes do mapa anexo ao [Decreto-Lei n.º 613/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1973-411374) manter-se-á na mesma situação até à data da publicação das listas nominativas do pessoal dos quadros do Instituto Nacional de Investigação Científica e Instituto de Cultura Portuguesa.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 30 de Janeiro de 1978.**
+Promulgado em 30 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do Instituto de Cultura Portuguesa referido no artigo 1.º deste decreto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03400/03290329.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03400/03290329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03400/03290329.pdf)
 
 Observação. - O número de lugares previstos para a categoria de escriturário-dactilógrafo pode ser excedido transitoriamente desde de que em categorias superiores exista número de lugares vagos suficiente para compensar o excesso.
 
-**O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.**
+O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.

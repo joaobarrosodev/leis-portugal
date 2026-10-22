@@ -48,36 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/109-1979-365151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a2963bb3581c84db1693bd017b986302a1fc97da8e3cc264d8cacd53b7d0107
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bc5f362322bc1ea16ebfdb4edea07fd8bfb72fe156a32fad2687fc54bae229c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Depósito Bancário
+- FIA
+- Fides
+- Fundo de Investimento
+- Instituição de Crédito
+- Junta de Crédito Público
+- Pagamento
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506636:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:41Z'
   warnings: []
   errors: []
 ---
@@ -92,22 +116,22 @@ Nestes termos:
 
 Usando da faculdade concedida pela [Lei n.º 30/79](https://diariodarepublica.pt/dr/detalhe/lei/30-1979-370611), de 6 de Setembro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São concedidas, a título provisório, aos ex-titulares de participações dos fundos de investimento FIDES e FIA que se encontrem depositadas em instituições de crédito, nos termos do artigo 1.º do [Decreto-Lei n.º 108/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1976-506636), de 7 de Fevereiro, e tendo em conta os valores fixados pelo artigo 4.º do [Decreto-Lei n.º 539/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1976-431462), de 9 de Julho, três remunerações aos capitais, relativas, respectivamente, aos semestres que decorrem de 15 de Janeiro de 1978 a 14 de Julho de 1978, de 15 de Julho de 1978 a 14 de Janeiro de 1979 e de 15 de Janeiro de 1979 a 14 de Julho de 1979.
+Artigo 1.º São concedidas, a título provisório, aos ex-titulares de participações dos fundos de investimento FIDES e FIA que se encontrem depositadas em instituições de crédito, nos termos do artigo 1.º do [Decreto-Lei n.º 108/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1976-506636), de 7 de Fevereiro, e tendo em conta os valores fixados pelo artigo 4.º do [Decreto-Lei n.º 539/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1976-431462), de 9 de Julho, três remunerações aos capitais, relativas, respectivamente, aos semestres que decorrem de 15 de Janeiro de 1978 a 14 de Julho de 1978, de 15 de Julho de 1978 a 14 de Janeiro de 1979 e de 15 de Janeiro de 1979 a 14 de Julho de 1979.
 
-###### Art. 2.º As remunerações a que se refere o artigo anterior são pagáveis a partir da entrada em vigor do presente decreto e calculadas na base de uma taxa anual de 6,5%, que corresponderá, considerados os respectivos arredondamentos, às importâncias de 10$10 e 14$10 por cada semestre considerado, respectivamente, a cada participação FIDES e FIA.
+Art. 2.º As remunerações a que se refere o artigo anterior são pagáveis a partir da entrada em vigor do presente decreto e calculadas na base de uma taxa anual de 6,5%, que corresponderá, considerados os respectivos arredondamentos, às importâncias de 10$10 e 14$10 por cada semestre considerado, respectivamente, a cada participação FIDES e FIA.
 
-###### Art. 3.º Os serviços relacionados com as remunerações fixadas neste decreto ficam a cargo da Junta do Crédito Público, que entregará a cada instituição de crédito a quantia necessária para proceder à liquidação das importâncias a que os respectivos titulares têm direito.
+Art. 3.º Os serviços relacionados com as remunerações fixadas neste decreto ficam a cargo da Junta do Crédito Público, que entregará a cada instituição de crédito a quantia necessária para proceder à liquidação das importâncias a que os respectivos titulares têm direito.
 
-###### Art. 4.º As remunerações a pagar nos termos do presente decreto ficam sujeitas ao desconto de 5% de imposto sobre sucessões e doações, por avença.
+Art. 4.º As remunerações a pagar nos termos do presente decreto ficam sujeitas ao desconto de 5% de imposto sobre sucessões e doações, por avença.
 
-###### Art. 5.º Os valores das remunerações a que se refere este decreto são fixados, sem prejuízo das correcções a que futuramente haja lugar, em função dos critérios estabelecidos na [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e diplomas que a regulamentam e forem aplicáveis.
+Art. 5.º Os valores das remunerações a que se refere este decreto são fixados, sem prejuízo das correcções a que futuramente haja lugar, em função dos critérios estabelecidos na [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e diplomas que a regulamentam e forem aplicáveis.
 
-###### Art. 6.º A Junta do Crédito Público expedirá às instituições de crédito as instruções julgadas necessárias para execução deste decreto.
+Art. 6.º A Junta do Crédito Público expedirá às instituições de crédito as instruções julgadas necessárias para execução deste decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 24 de Setembro de 1979.**
+Promulgado em 24 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 228/1997, 1º Suplemento, Série I-A de 1997-10-02
   number: '228'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5398-(2) a 5398-(149)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/54-a/1997/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/54-a-1997-403360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ba6576ff2cfb596d38cf9dcd84a6c5af68494bb50619f2e995eb67659987926
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57184c185bac2ddfba80788076a8e86436fb9e209b93a84ce4a9f11acc953327
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Promoção Turística
 - Convenção
-- Portugal
 - Direitos Aduaneiros
 - Documento Aduaneiro
-- ONU
 - Importação
 - Importação Temporária
 - Istambul
@@ -78,24 +75,39 @@ subjects:
 - Material Científico
 - Material Eléctrico e Electrónico
 - Material Profissional
-- Transporte de Mercadorias
 - Mercadoria
+- ONU
+- Portugal
+- Promoção Turística
 - Transporte de Animais
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:243685:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667753:por
+  label: "Estendida ao território de Macau a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.190/99.1999.10.22.PR,\
+    \ DR.IS-A [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/190-1999-667753
+  date: '1999-10-22'
+- type: amended_by
+  target: pt:dre:243685:por
+  label: "Estendida ao Território de Macau a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.235-A/99.1999.12.14.PR\
+    \ DR.IS-A [289]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/235-a-1999-243685
+  date: '1999-12-14'
 article_structure:
   article_count: 146
   section_count: 46
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:20Z'
   warnings: []
   errors: []
 ---
@@ -132,13 +144,13 @@ Visto e aprovado em Conselho de Ministros de 11 de Junho de 1997. - António Man
 
 Ratificado em 18 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Julho de 1997.**
+Referendado em 24 de Julho de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 CONVENTION RELATIVE À L'ADMISSION TEMPORAIRE
 
@@ -1126,7 +1138,7 @@ Le carnet ATA est imprimé en français ou en anglais et, au besoin, dans une de
 
 Les dimensions du carnet ATA sont 396 mm x 210 mm et celles des volets 297 mm x 210 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf)
 
 APPENDICE II
 
@@ -3486,7 +3498,7 @@ The ATA carnet shall be printed in English or French and may also be printed in 
 
 The size of the ATA carnet shall be 396 mm x 210 mm and that of the vouchers 297 mm x 210 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf)
 
 APPENDIX II
 
@@ -3498,7 +3510,7 @@ The size of the CPD carnet shall be 21 cm x 29,7 cm.
 
 The issuing association shall insert its name on each voucher and shall include the initials of the international guaranteeing chain to which it belongs.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf)
 
 ANNEX B.1
 
@@ -5414,7 +5426,7 @@ Beneficiam da isenção dos direitos e encargos de importação e não estão su
 
 2 - Não obstante o disposto no n.º 1, os livretes ATA emitidos de acordo com a Convenção ATA antes da entrada em vigor do presente anexo serão aceites até ao cumprimento das operações para as quais foram emitidos.
 
-## APÊNDICE I
+APÊNDICE I
 
 Modelo do livrete ATA
 
@@ -5422,7 +5434,7 @@ O livrete ATA é impresso em língua francesa ou inglesa e, se necessário, numa
 
 As dimensões do livrete ATA são 396 mm x 210 mm e as dos boletins 297 mm x 210 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/228a01/00020149.pdf)
 
 ## ANEXO B.1 — Anexo relativo às mercadorias destinadas a serem apresentadas ou utilizadas numa exposição, feira, congresso ou manifestação similar
 
@@ -5532,7 +5544,9 @@ Cada Parte Contratante tem o direito de formular uma reserva, nas condições pr
 
 Na sua entrada em vigor, o presente anexo revoga e substitui, nos termos do disposto no artigo 27.º da presente Convenção, a Convenção Aduaneira Relativa às Facilidades Concedidas para a Importação de Mercadorias Destinadas a Serem Apresentadas ou Utilizadas numa Exposição, Feira, Congresso ou Manifestação Similar, Bruxelas, 8 de Junho de 1961, nas relações entre as Partes Contratantes que aceitaram o presente anexo e que são Partes Contratantes na referida Convenção.
 
-## ANEXO B.2 — Anexo relativo ao material profissional
+## ANEXO B.2
+
+## Anexo relativo ao material profissional
 
 ### CAPÍTULO I — Definição
 
@@ -5596,7 +5610,7 @@ Os apêndices do presente anexo fazem dele parte integrante.
 
 Na sua entrada em vigor, o presente anexo revoga e substitui, nos termos do artigo 27.º da presente Convenção, a Convenção Aduaneira Relativa à Importação Temporária de Material Profissional, Bruxelas, 8 de Junho de 1961, nas relações entre as Partes Contratantes que aceitaram o presente anexo e que são Partes Contratantes na referida Convenção.
 
-## APÊNDICE I
+APÊNDICE I
 
 Equipamento de imprensa, de radiodifusão e de televisão
 
@@ -5674,7 +5688,7 @@ D - Veículos concebidos ou especialmente adaptados para serem utilizados para o
 
 - Iluminação.
 
-## APÊNDICE II
+APÊNDICE II
 
 Equipamento cinematográfico
 
@@ -5704,7 +5718,7 @@ A - Equipamento tal como:
 
 B - Veículos concebidos ou especialmente adaptados para serem utilizados para os fins acima referidos.
 
-## APÊNDICE III
+APÊNDICE III
 
 Outro equipamento
 
@@ -5876,7 +5890,7 @@ Na sua entrada em vigor, o presente anexo revoga e substitui, nos termos do arti
 
 nas relações entre as Partes Contratantes que aceitaram o presente anexo e que são Partes Contratantes nas referidas Convenções.
 
-## APÊNDICE I
+APÊNDICE I
 
 Lista das mercadorias nos termos da alínea g) do artigo 2.º
 
@@ -5892,7 +5906,7 @@ Lista das mercadorias nos termos da alínea g) do artigo 2.º
 
 6 - Objectos (incluindo os veículos) que, pela sua natureza, servem unicamente para fazer a spublicidade de um determinado artigo ou de um determinado fim.
 
-## APÊNDICE II
+APÊNDICE II
 
 Disposições relativas à marcação dos contentores
 
@@ -5914,7 +5928,9 @@ b) Quando as marcas e os números de identificação tiverem de ser alterados, a
 
 4 - As especificações respeitantes à utilização de uma película de matéria plástica para a marcação dos contentores, enunciadas no n.º 3 do presente apêndice, não excluem a possibilidade de utilização de outros métodos de marcação duradoura.
 
-## ANEXO B.4 — Anexo relativo às mercadorias importadas no âmbito de uma operação de produção
+## ANEXO B.4
+
+## Anexo relativo às mercadorias importadas no âmbito de uma operação de produção
 
 ### CAPÍTULO I — Definição
 
@@ -6014,7 +6030,7 @@ Os apêndices do presente anexo fazem dele parte integrante.
 
 Na sua entrada em vigor, o presente anexo revoga e substitui, nos termos do artigo 27.º da presente Convenção, a Convenção Aduaneira Relativa ao Material de Bem-Estar Destinado ao Pessoal do Mar, Bruxelas, 1 de Dezembro de 1964, a Convenção Aduaneira Relativa à Importação de Material Científico, Bruxelas, 11 de Junho de 1968, e a Convenção Aduaneira Relativa à Importação Temporária de Material Pedagógico, Bruxelas, 8 de Junho de 1970, nas relações entre as Partes Contratantes que aceitaram o presente anexo e que são Partes Contratantes nas referidas Convenções.
 
-## APÊNDICE I
+APÊNDICE I
 
 Lista ilustrativa
 
@@ -6066,7 +6082,7 @@ d) Outro equipamento, tal como:
 
 - Equipamento, incluindo os veículos concebidos ou especialmente adaptados para serem utilizados em operações de socorro, destinado à formação das pessoas que participam em tais operações.
 
-## APÊNDICE II
+APÊNDICE II
 
 Lista ilustrativa
 
@@ -6126,7 +6142,7 @@ e) Objectos de culto.
 
 f) Partes, peças separadas e acessórios do material de bem-estar.
 
-## APÊNDICE III
+APÊNDICE III
 
 Lista ilustrativa
 
@@ -6186,7 +6202,7 @@ Os apêndices do presente anexo fazem dele parte integrante.
 
 Na sua entrada em vigor, o presente anexo revoga e substitui, nos termos do artigo 27.º da presente Convenção, as disposições dos artigos 2.º e 5.º da Convenção sobre as Facilidades Aduaneiras a favor do Turismo, Nova Iorque, 4 de Junho de 1954, nas relações entre as Partes Contratantes que aceitaram o presente anexo e que são Partes Contratantes na referida Convenção.
 
-## APÊNDICE I
+APÊNDICE I
 
 Lista ilustrativa
 
@@ -6230,7 +6246,7 @@ Lista ilustrativa
 
 20 - Outros artigos de carácter manifestamente pessoal.
 
-## APÊNDICE II
+APÊNDICE II
 
 Lista ilustrativa
 
@@ -6310,7 +6326,9 @@ H - Equipamento auxiliar, tal como:
 
 - Aparelhos para análises de sangue e de urina.
 
-## ANEXO B.7 — Anexo relativo ao material de propaganda turística
+## ANEXO B.7
+
+## Anexo relativo ao material de propaganda turística
 
 ### CAPÍTULO I — Definição
 
@@ -6352,7 +6370,7 @@ O apêndice do presente anexo faz dele parte integrante.
 
 Na sua entrada em vigor, o presente anexo revoga e substitui, nos termos do artigo 27.º da presente Convenção, o Protocolo Adicional à Convenção sobre as Facilidades Aduaneiras a favor do Turismo, Relativo à Importação de Documentos e de Material de Propaganda Turística, Nova Iorque, 4 de Junho de 1954, nas relações entre as Partes Contratantes que aceitaram o presente anexo e que são Partes Contratantes no referido Protocolo.
 
-## APÊNDICE
+APÊNDICE
 
 Lista ilustrativa
 
@@ -6368,7 +6386,9 @@ Lista ilustrativa
 
 6 - Espécimes, em quantidade razoável, de produtos do artesanato familiar, de trajes regionais e de outros artigos semelhantes de carácter folclórico.
 
-## ANEXO B.8 — Anexo relativo às mercadorias importadas no âmbito do tráfego fronteiriço
+## ANEXO B.8
+
+## Anexo relativo às mercadorias importadas no âmbito do tráfego fronteiriço
 
 ### CAPÍTULO I — Definições
 
@@ -6424,7 +6444,9 @@ c) O tráfego fronteiriço de reparação, complemento de fabrico ou transforma�
 
 2 - No entanto, o material destinado à exploração de propriedades fundiárias será reexportado uma vez efectuado o trabalho.
 
-## ANEXO B.9 — Anexo relativo às mercadorias importadas para fins humanitários
+## ANEXO B.9
+
+## Anexo relativo às mercadorias importadas para fins humanitários
 
 ### CAPÍTULO I — Definições
 
@@ -6466,7 +6488,9 @@ c) As remessas de socorro devem destinar-se a pessoas aprovadas pelas autoridade
 
 2 - O prazo de reexportação das remessas de socorro será de 12 meses, pelo menos, a contar da data de importação temporária.
 
-## ANEXO C — Anexo relativo aos meios de transporte
+## ANEXO C
+
+## Anexo relativo aos meios de transporte
 
 ### CAPÍTULO I — Definições
 
@@ -6558,7 +6582,9 @@ do presente anexo.
 
 Na sua entrada em vigor, o presente anexo revoga e substitui, nos termos do artigo 27.º da presente Convenção, a Convenção Aduaneira Relativa à Importação Temporária dos Veículos Rodoviários Privados, Nova Iorque, 4 de Junho de 1954, a Convenção Aduaneira Relativa à Importação Temporária dos Veículos Rodoviários Comerciais, Genebra, 18 de Maio de 1956, e a Convenção Aduaneira Relativa à Importação Temporária para Uso Privado das Embarcações de Recreio e das Aeronaves, Genebra, 18 de Maio de 1956, nas relações entre as Partes Contratantes que aceitaram o presente anexo e que são Partes Contratantes nas referidas Convenções.
 
-## ANEXO D — Anexo relativo aos animais
+## ANEXO D
+
+## Anexo relativo aos animais
 
 ### CAPÍTULO I — Definições
 
@@ -6610,7 +6636,7 @@ O prazo de reexportação dos animais é de 12 meses, pelo menos, a contar da da
 
 O apêndice do presente anexo faz dele parte integrante.
 
-## APÊNDICE
+APÊNDICE
 
 Lista referida no artigo 2.º
 
@@ -6722,7 +6748,7 @@ Em caso de aceitação, a data a partir da qual será aplicada a presente recome
 
 No caso de o Secretário-Geral do Conselho de Cooperação Aduaneira não receber notificação de uma Parte Contratante no prazo de um ano, considera-se que esta não aceita a recomendação. No entanto, a presente recomendação poderá ser aceite posteriormente pela Parte Contratante.
 
-**O Secretário-Geral comunicará estas informações às administrações aduaneiras dos membros do Conselho. Transmiti-las-á igualmente às administrações aduaneiras dos membros da Organização das Nações Unidas ou das respectivas instituições especializadas, às uniões aduaneiras ou económicas susceptíveis de se tornarem Partes Contratantes bem como ao Gabinete Internacional das Câmaras de Comércio.**
+O Secretário-Geral comunicará estas informações às administrações aduaneiras dos membros do Conselho. Transmiti-las-á igualmente às administrações aduaneiras dos membros da Organização das Nações Unidas ou das respectivas instituições especializadas, às uniões aduaneiras ou económicas susceptíveis de se tornarem Partes Contratantes bem como ao Gabinete Internacional das Câmaras de Comércio.
 
 Recomendação do Conselho de Cooperação Aduaneira de 25 de Junho de 1992 relativa à admissão da caderneta CPD no âmbito da importação temporária
 
@@ -6748,4 +6774,4 @@ Em caso de aceitação, a data a partir da qual será aplicada a presente recome
 
 No caso de o Secretário-Geral do Conselho de Cooperação Aduaneira não receber notificação de uma Parte Contratante no prazo de um ano, considera-se que esta não aceita a recomendação. No entanto, a presente recomendação poderá ser aceite posteriormente pela Parte Contratante.
 
-**O Secretário-Geral comunicará estas informações às administrações aduaneiras dos membros do Conselho. Comunicá-las-á igualmente às administrações aduaneiras dos membros da Organização das Nações Unidas ou das suas instituições especializadas, ao secretário executivo da Comissão Económica para a Europa, às uniões aduaneiras ou económicas susceptíveis de se tornarem Partes Contratantes, bem como à Aliança Internacional de Turismo e à Federação Internacional da Indústria Automóvel.**
+O Secretário-Geral comunicará estas informações às administrações aduaneiras dos membros do Conselho. Comunicá-las-á igualmente às administrações aduaneiras dos membros da Organização das Nações Unidas ou das suas instituições especializadas, ao secretário executivo da Comissão Económica para a Europa, às uniões aduaneiras ou económicas susceptíveis de se tornarem Partes Contratantes, bem como à Aliança Internacional de Turismo e à Federação Internacional da Indústria Automóvel.

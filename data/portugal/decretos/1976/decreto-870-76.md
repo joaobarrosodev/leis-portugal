@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/870-1976-416429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 969e9f5111d877e89f5b94a8eec0823bb1ced1ff7d4028ef69ef178dc0aeeebd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 990cac3d5a0f37c5e5c27fee12cd5a630e33db321077214356689dd270488d0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Formas de Provimento
+- Pessoal Aeronáutico
+- Tráfego Aéreo
+relationships:
+- type: cites
+  target: pt:dre:307405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:46Z'
   warnings: []
   errors: []
 ---
@@ -92,26 +111,26 @@ Nestes termos, visto o disposto no artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. O provimento nos lugares de controlador de tráfego aéreo de radar terá carácter provisório, podendo converter-se em definitivo passados cinco anos de bom e efectivo serviço contínuo naqueles mesmos lugares.
+Artigo 1.º - 1. O provimento nos lugares de controlador de tráfego aéreo de radar terá carácter provisório, podendo converter-se em definitivo passados cinco anos de bom e efectivo serviço contínuo naqueles mesmos lugares.
 
 2. Durante o período de transitoriedade, a vinculação aos lugares de controlador de tráfego aéreo de radar cessará sempre que se verifique a caducidade da qualificação radar respectiva, regressando os funcionários à categoria que possuíam antes da sua investidura naqueles lugares.
 
 3. Os funcionários de nomeação vitalícia providos nos lugares de controlador de tráfego aéreo de radar manterão, enquanto o provimento nestes não se tornar definitivo, a sua situação de funcionários vitalícios e o direito ao antigo cargo, que, no entanto, poderá ser internamente preenchido.
 
-###### Art. 2.º No cômputo do tempo de serviço exigido na alínea a) dos artigos 11.º e 14.º do [Decreto-Lei n.º 503/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1975-307405), de 13 de Setembro, será considerado também o tempo de serviço efectivo prestado pelo pessoal da Direcção-Geral nas categorias que se indicam:
+Art. 2.º No cômputo do tempo de serviço exigido na alínea a) dos artigos 11.º e 14.º do [Decreto-Lei n.º 503/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1975-307405), de 13 de Setembro, será considerado também o tempo de serviço efectivo prestado pelo pessoal da Direcção-Geral nas categorias que se indicam:
 
 a) Para acesso a controlador de tráfego aéreo de aeródromo: nas categorias de oficial de circulação aérea de 3.ª classe e assistente de controlador de tráfego aéreo;
 
 b) Para acesso a controlador de tráfego aéreo sénior: na categoria de oficial de circulação aérea de 1.ª e 2.ª classes.
 
-###### Art. 3.º O disposto nas alíneas a) e b) do artigo 9.º do [Decreto-Lei n.º 503/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1975-307405), de 13 de Setembro, não é aplicável aos actuais assistentes de controlador de tráfego aéreo pertencentes ao quadro.
+Art. 3.º O disposto nas alíneas a) e b) do artigo 9.º do [Decreto-Lei n.º 503/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1975-307405), de 13 de Setembro, não é aplicável aos actuais assistentes de controlador de tráfego aéreo pertencentes ao quadro.
 
-###### Art. 4.º Este diploma entra em vigor na data da sua publicação.
+Art. 4.º Este diploma entra em vigor na data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 15 de Dezembro de 1976.**
+Promulgado em 15 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

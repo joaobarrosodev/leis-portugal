@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/38/2001/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/38-2001-609993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:11:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5af78a890fb617b5f5d43333003d0a5b176581e28f85894daf177f94ba632f1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86946355f13c6fddb9b30d7c1052af8f6d44844ce5f47989f29de032b68fd377
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:11:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Fundo Internacional de Compensação por Poluição por Hidrocarbonetos
 - Londres
 - Poluição por Hidrocarbonetos
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:168220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620902:por
+  label: "Aprovado o Protocolo de 2003 à Convenção Internacional para a Constituição de Um Fundo Internacional para Compensação\
+    \ pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, de 1992, aprovada para ratificação pelo Dec 13/85 de 21-Jun,\
+    \ com as alterações que lhe foram introduzidas pelo Protocolo de 1992, aprovadas pelo presente diploma, pelo DEC.1/2005.28.01.2005.MNE,\
+    \ DR.IS-A [20] de 28.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/1-2005-620902
+  date: '2005-01-28'
+- type: amended_by
+  target: pt:dre:168220:por
+  label: "Aprovadas as emendas aos limites de compensação previstos no Protocolo de 1992 (alteração do seu art. 6º), aprovado\
+    \ pelo presente diploma, à Convenção Internacional para a Constituição de Um Fundo Internacional para Compensação pelos\
+    \ Prejuízos Devidos à Poluição por Hidrocarbonetos, aprovada para ratificação pelo Dec 13/85 de 21-Jun, pelo DEC.5/2006.06.01.2006.MOPTC,\
+    \ DR.IS-B [5] de 06.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/5-2006-168220
+  date: '2006-01-06'
 article_structure:
-  article_count: 42
+  article_count: 39
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:11:59Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +116,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2001. - Jaime José Matos da Gama - Jaime José Matos da Gama - Rui Eduardo Ferreira Rodrigues Pena - Luís Garcia Braga da Cruz - Rui Nobre Gonçalves.
 
-**Assinado em 11 de Setembro de 2001.**
+Assinado em 11 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2001.**
+Referendado em 13 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOL OF 1992 TO AMEND THE INTERNATIONAL CONVENTION ON THE ESTABLISHMENT OF AN INTERNATIONAL FUND FOR COMPENSATION FOR OIL POLLUTION DAMAGE, 1971.
 
@@ -952,7 +968,7 @@ c) Na aplicação do artigo 4.º desta Convenção, a quantia a ser tomada em co
 
 d) O parágrafo 1 do artigo 9.º desta Convenção deve aplicar-se também aos direitos conferidos ao abrigo da Convenção de 1969 sobre a Responsabilidade.
 
-###### Artigo 36.º-ter
+Artigo 36.º-ter
 
 1 - Sem prejuízo do disposto no parágrafo 4 do presente artigo, o montante global das contribuições anuais a pagar por hidrocarbonetos contribuintes recebidos num único Estado Contratante, durante um ano civil, não deve exceder 27,5% do montante total das contribuições anuais, em relação a esse ano civil, em conformidade com o Protocolo de 1992, que emenda a Convenção de 1971 sobre o Fundo.
 
@@ -962,7 +978,7 @@ d) O parágrafo 1 do artigo 9.º desta Convenção deve aplicar-se também aos d
 
 4 - As disposições dos parágrafos 1, 2 e 3 do presente artigo devem produzir efeitos até que a quantidade total dos hidrocarbonetos contribuintes recebida por todos os Estados Contratantes, num determinado ano civil, tenha atingido 750 milhões de toneladas, ou até que tiver decorrido um período de cinco anos a partir da data da entrada em vigor do citado Protocolo de 1992, conforme o que ocorrer primeiro.
 
-###### Artigo 36.º-quarto
+Artigo 36.º-quarto
 
 Não obstante o disposto na presente Convenção, as disposições seguintes devem aplicar-se à administração do Fundo, durante o período em que estiverem, simultaneamente, em vigor a Convenção de 1971 sobre o Fundo e a presente Convenção:
 
@@ -978,7 +994,9 @@ e) O Fundo sucede nos direitos, obrigações e património do Fundo 1971 se a As
 
 f) O Fundo deve reembolsar o Fundo 1971 de todos os custos e despesas com os serviços administrativos realizados pelo Fundo 1971 a favor do Fundo.
 
-###### Artigo 36.º-quinto — Disposições finais
+Artigo 36.º-quinto
+
+Disposições finais
 
 As disposições finais da presente Convenção devem ser os artigos 28.º a 39.º do Protocolo de 1992, que emenda a Convenção de 1971 sobre o Fundo. As referências feitas na presente Convenção aos Estados Contratantes devem ser consideradas como referências feitas aos Estados Contratantes daquele Protocolo.»
 

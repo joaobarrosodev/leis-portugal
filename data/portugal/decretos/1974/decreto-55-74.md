@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/55-1974-413019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 755dedbb99970a6839902fd94c17ca8aea29f17d6a70b5c369a266f58658e5dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7fa2569885d5e78c2780a67a84da590ff246c648a43e42af31293662170f1dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Canadá
+- Criação de Serviços
+- Delegação
+- Formas de Provimento
+- França
+- Luxemburgo
+- Paris
+- Quadro de Pessoal
+- RFA
+- Secretariado Nacional da Emigração
+- Subsídio de Alojamento
+- Subsídio de Residência
+- Toronto
 relationships:
 - type: amended_by
   target: pt:dre:623403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:623403:por
+  label: "Aumentado de dois lugares de pessoal auxiliar o quadro de pessoal anexo pelo DEC LEI.197/74.13.05.1974.JSN, DG.IS\
+    \ [111] de 13.05.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-1974-623403
+  date: '1974-05-13'
+- type: cites
+  target: pt:dre:274641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:13Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +137,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. São criadas as delegações do Secretariado Nacional da Emigração em Paris e em Toronto, cujos quadros de pessoal e respectivas categorias constam do mapa anexo ao presente diploma.
+Artigo 1.º - 1. São criadas as delegações do Secretariado Nacional da Emigração em Paris e em Toronto, cujos quadros de pessoal e respectivas categorias constam do mapa anexo ao presente diploma.
 
 2. Os quadros de pessoal e respectivas categorias das delegações do Secretariado em Marselha, Lião, Luxemburgo, Hamburgo, Dusseldórfia, Estugarda e Francoforte, criadas pelo [Decreto n.º 285/72](https://diariodarepublica.pt/dr/detalhe/decreto/285-1972-676057), de 11 de Agosto, passam a ser os constantes do mesmo mapa, aplicando-se-lhes, igualmente, o disposto no presente diploma.
 
 3. Cada delegação do Secretariado no estrangeiro constitui um quadro único e independente do quadro do Secretariado e das restantes delegações.
 
-###### Art. 2.º - 1. O provimento de qualquer dos lugares dos quadros referidos no artigo anterior poderá ser feito, conforme as circunstâncias o aconselhem, por uma das seguintes formas:
+Art. 2.º - 1. O provimento de qualquer dos lugares dos quadros referidos no artigo anterior poderá ser feito, conforme as circunstâncias o aconselhem, por uma das seguintes formas:
 
 a) Em regime de comissão de serviço, de entre funcionários do quadro do Secretariado ou de outros serviços;
 
@@ -119,11 +151,11 @@ b) Por contrato, pelo prazo de um ano, sucessivamente renovável e rescindível,
 
 2. O secretário nacional poderá determinar que um funcionário do quadro do Secretariado a desempenhar uma missão de serviço numa delegação exerça as funções de chefe da mesma delegação.
 
-###### Art. 3.º - 1. O provimento a que se refere a alínea a) do n.º 1 do artigo anterior será feito por despacho do Presidente do Conselho, sob proposta do secretário nacional.
+Art. 3.º - 1. O provimento a que se refere a alínea a) do n.º 1 do artigo anterior será feito por despacho do Presidente do Conselho, sob proposta do secretário nacional.
 
 2. O funcionário nomeado em comissão de serviço mantém o direito ao lugar que ocupava, sem prejuízo da possibilidade de provimento interino do mesmo lugar, nos termos da lei geral.
 
-###### Art. 4.º - 1. O provimento dos lugares a efectuar por contrato será feito por despacho do secretário nacional, mediante livre escolha entre indivíduos considerados aptos, independentemente das provas a que, por determinação do secretário nacional, os candidatos sejam eventualmente submetidos.
+Art. 4.º - 1. O provimento dos lugares a efectuar por contrato será feito por despacho do secretário nacional, mediante livre escolha entre indivíduos considerados aptos, independentemente das provas a que, por determinação do secretário nacional, os candidatos sejam eventualmente submetidos.
 
 2. O ingresso poderá ser feito directamente para qualquer dos lugares do quadro, nenhum dos quais é considerado lugar de acesso, para os efeitos do disposto no artigo 4.º do Decreto com força de lei n.º 16563, de 2 de Março de 1929.
 
@@ -131,7 +163,7 @@ b) Por contrato, pelo prazo de um ano, sucessivamente renovável e rescindível,
 
 4. No caso especial referido no número anterior, o atestado médico e o certificado comprovativo de não sofrer de doença contagiosa, a que se refere o artigo 3.º do [Decreto-Lei n.º 48359](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48359-1968-274641), de 27 de Abril de 1968, poderão ser substituídos por um certificado de exame médico emitido por entidade oficial estrangeira, traduzido e legalizado no respectivo consulado, e o certificado de registo criminal poderá ser substituído por um atestado de bom comportamento passado pelo correspondente consulado.
 
-###### Art. 5.º - 1. O pessoal dos quadros terá direito a subsídio mensal de residência, em montante a fixar, tendo em conta o condicionalismo da localidade da respectiva delegação, sob proposta do secretário nacional, por despacho do Presidente do Conselho, com o acordo do Ministro das Finanças.
+Art. 5.º - 1. O pessoal dos quadros terá direito a subsídio mensal de residência, em montante a fixar, tendo em conta o condicionalismo da localidade da respectiva delegação, sob proposta do secretário nacional, por despacho do Presidente do Conselho, com o acordo do Ministro das Finanças.
 
 2. Nos mesmos termos do número anterior, poderão ser atribuídos, a título eventual, subsídios correspondentes a formas especiais de remuneração praticadas localmente com carácter obrigatório para a entidade patronal em geral.
 
@@ -141,22 +173,22 @@ b) Por contrato, pelo prazo de um ano, sucessivamente renovável e rescindível,
 
 5. O tempo de serviço nas delegações do pessoal dos respectivos quadros é contado, para todos os efeitos, como se fosse prestado em Portugal.
 
-###### Art. 6.º - 1. Além do pessoal dos quadros, poderá ainda ser acordada, mediante despacho do secretário nacional, com indivíduos nacionais ou estrangeiros a prestação de serviços conducentes à realização das atribuições constantes do n.º 2 do artigo 15.º do [Decreto n.º 16/72](https://diariodarepublica.pt/dr/detalhe/decreto/16-1972-291666), de 12 de Janeiro.
+Art. 6.º - 1. Além do pessoal dos quadros, poderá ainda ser acordada, mediante despacho do secretário nacional, com indivíduos nacionais ou estrangeiros a prestação de serviços conducentes à realização das atribuições constantes do n.º 2 do artigo 15.º do [Decreto n.º 16/72](https://diariodarepublica.pt/dr/detalhe/decreto/16-1972-291666), de 12 de Janeiro.
 
 2. Os indivíduos recrutados ao abrigo do número anterior serão remunerados em regime de prestação de serviços, nas condições a fixar em cada caso, sob proposta do secretário nacional, por despacho do Presidente do Conselho, com o acordo do Ministro das Finanças.
 
-###### Art. 7.º É revogado o [Decreto n.º 285/72](https://diariodarepublica.pt/dr/detalhe/decreto/285-1972-676057), de 11 de Agosto.
+Art. 7.º É revogado o [Decreto n.º 285/72](https://diariodarepublica.pt/dr/detalhe/decreto/285-1972-676057), de 11 de Agosto.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Manuel de Medeiros d'Espiney Patrício - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 6 de Fevereiro de 1974.**
+Promulgado em 6 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro do pessoal das delegações do Secretariado Nacional da Emigração no estrangeiro, a que se refere o artigo 1.º do Decreto n.º 55/74, de 16 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/02/04000/02550257.pdf))](https://files.diariodarepublica.pt/1s/1974/02/04000/02550257.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/02/04000/02550257.pdf)
 
 Manuel Artur Cotta Agostinho Dias - Rui Manuel de Medeiros d'Espiney Patrício - Joaquim Dias da Silva Pinto.

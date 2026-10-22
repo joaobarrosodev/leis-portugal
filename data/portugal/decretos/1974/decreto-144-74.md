@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/144-1974-411840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c87cf979a72edfafc43515f811d22b20b1d15b0284115a976ca0c27b3539ff10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b58b0e51804d62c890ee6a8c70443a95f87925a5a43dfa37490be90ff632a2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:58Z'
   warnings: []
   errors: []
 ---
@@ -99,19 +99,19 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Fundo de Reconstituição do Capital Investido e não Recuperado pelos Accionistas da Companhia do Caminho de Ferro de Benguela, destinado a reconstituir o capital investido e não recuperado pelos accionistas até 31 de Dezembro de 1971, constante do anexo ao presente decreto, do qual fica fazendo parte integrante.
+Artigo 1.º É aprovado o Regulamento do Fundo de Reconstituição do Capital Investido e não Recuperado pelos Accionistas da Companhia do Caminho de Ferro de Benguela, destinado a reconstituir o capital investido e não recuperado pelos accionistas até 31 de Dezembro de 1971, constante do anexo ao presente decreto, do qual fica fazendo parte integrante.
 
-###### Art. 2.º O Ministro do Ultramar é autorizado a celebrar, em nome do Estado, com a Companhia do Caminho de Ferro de Benguela uma apostila ao contrato de concessão de 28 de Novembro de 1902, pela qual seja integrado nesse contrato o regulamento aprovado pelo artigo 1.º deste decreto.
+Art. 2.º O Ministro do Ultramar é autorizado a celebrar, em nome do Estado, com a Companhia do Caminho de Ferro de Benguela uma apostila ao contrato de concessão de 28 de Novembro de 1902, pela qual seja integrado nesse contrato o regulamento aprovado pelo artigo 1.º deste decreto.
 
-###### Art. 3.º O presente decreto entra imediatamente em vigor.
+Art. 3.º O presente decreto entra imediatamente em vigor.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 30 de Março de 1974.**
+Promulgado em 30 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - B. Rebelo de Sousa.
 
@@ -147,4 +147,4 @@ c) Até dez anos antes do termo normal da concessão e sem prejuízo das alínea
 
 Os bens assim distribuídos não serão considerados lucros para efeito algum.
 
-**O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.**
+O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.

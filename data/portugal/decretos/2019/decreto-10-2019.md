@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/06100/0172001725.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/2019/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-2019-121579661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f29a037f80c840c95360c1e2a7ec2ac91dc22c0208969c112af03374b7dc32c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9329337987ab6e6f5f22950022ec5d0954781f1e49cbc65e47b6418f0d3fc041
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arruda dos Vinhos
-- Vila Franca de Xira
 - Imóvel Classificado
-- Rede de Estradas
 - Instalação Militar
 - Lisboa
 - Loures
 - Mafra
-- Zona de Proteção
 - Património Arquitectónico
 - Protecção do Património
+- Rede de Estradas
 - Sobral de Monte Agraço
 - Torres Vedras
+- Vila Franca de Xira
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/309/2009/10/23/p/dre
@@ -88,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:01Z'
   warnings: []
   errors: []
 ---
@@ -372,12 +380,14 @@ xxiv) Forte do Moinho da Boca da Lapa, também denominado Forte do Moinho Velho 
 
 Visto e aprovado em Conselho de Ministros de 14 de março de 2019. - António Luís Santos da Costa - Graça Maria da Fonseca Caetano Gonçalves.
 
-**Assinado em 21 de março de 2019.**
+Assinado em 21 de março de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de março de 2019.**
+Referendado em 22 de março de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+112167523

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06600/05540558.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/197-1976-501605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 755343d0e2a9c58a87766a6ef367604ec31fc3b41275e4b453aab4c2ac7c6232
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22467e87f155fd3b7ca23e1e3885748838260f978d1fbe477ae2b352532f87cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Interministerial para a Cooperação
+- Conselho Consultivo
+- Definição de Competências
+- Direcção Geral da Administração Civil
+- Direcção Geral da Fazenda
+- Direcção Geral de Cooperação
+- Extinção de Serviços
+- Gabinete de Assuntos Jurídicos
+- Instituto para a Cooperação Científica e Tecnológica
+- Instituto para a Cooperação Económica
+- Ministério da Cooperação
+- Ministério do Ultramar
+- OBRA Social
+- Orgânica
+- OSMU
+- Secretaria de Estado da Cooperação
+- Secretaria de Estado da Descolonização
+- Secretaria Geral
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:285915:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233689:por
+  label: "Extinto o Instituto para a Cooperação Científica e Tecnológica, pelo DEC LEI.769-C/76.23.10.1976.MNE, DR.IS [249-2ºSupl]\
+    \ de 23.10.1976\0976\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/769-c-1976-233689
+  date: '1976-10-23'
+- type: cites
+  target: pt:dre:242247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:285915:por
+  label: "Revogado pelo DEC LEI.395/77.17.09.1977.MAI, DR.IS [216] de 17.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/395-1977-285915
+  date: '1977-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:08Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +154,9 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 #### SECÇÃO I — Atribuições e estrutura do Ministério
 
-###### Artigo 1.º O Ministério da Cooperação, criado pelo [Decreto-Lei n.º 532-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-a-1975-501459), de 25 de Setembro, é o departamento governamental incumbido de estudar, promover e coordenar as formas de cooperação com outros países, designadamente com os novos Estados de expressão portuguesa, de apoiar a administração e o Governo dos territórios ultramarinos sob administração portuguesa e de assegurar a resolução dos problemas referentes à situação do funcionalismo dos territórios ultramarinos que ascenderam à independência.
+Artigo 1.º O Ministério da Cooperação, criado pelo [Decreto-Lei n.º 532-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-a-1975-501459), de 25 de Setembro, é o departamento governamental incumbido de estudar, promover e coordenar as formas de cooperação com outros países, designadamente com os novos Estados de expressão portuguesa, de apoiar a administração e o Governo dos territórios ultramarinos sob administração portuguesa e de assegurar a resolução dos problemas referentes à situação do funcionalismo dos territórios ultramarinos que ascenderam à independência.
 
-###### Art. 2.º - 1. O Ministério da Cooperação compreende as Secretarias de Estado da Descolonização e da Cooperação.
+Art. 2.º - 1. O Ministério da Cooperação compreende as Secretarias de Estado da Descolonização e da Cooperação.
 
 2. Dependem directamente do Ministro os seguintes órgãos de apoio e coordenação da actividade do Ministério:
 
@@ -124,7 +174,7 @@ b) Conselho Consultivo.
 
 #### SECÇÃO II — Órgãos de concepção, coordenação e apoio da actividade do Ministério
 
-###### Art. 3.º Ao Gabinete da Comunicação Social pertence:
+Art. 3.º Ao Gabinete da Comunicação Social pertence:
 
 a) Assegurar e fomentar, em colaboração com o Ministério da Comunicação Social, as relações com os meios de comunicação social em tudo que respeite à actividade do Ministério;
 
@@ -132,7 +182,7 @@ b) Proceder à recolha, selecção e difusão de informações noticiosas com in
 
 c) Fornecer esclarecimentos e informações sobre a actividade do Ministério e promover a divulgação dos assuntos com ela relacionados.
 
-###### Art. 4.º Ao Gabinete dos Assuntos Jurídicos incumbe:
+Art. 4.º Ao Gabinete dos Assuntos Jurídicos incumbe:
 
 a) Elaborar os estudos e pareceres jurídicos que lhe forem solicitados pelo Ministro e Secretários de Estado;
 
@@ -146,7 +196,7 @@ e) Intervir em quaisquer sindicâncias ou inquéritos a serviços ou funcionári
 
 f) Recolher e estudar informações e documentação jurídica respeitantes às atribuições do Ministério, incluindo a legislação publicada nos novos Estados de língua portuguesa.
 
-###### Art. 5.º À Secretaria-Geral cabe:
+Art. 5.º À Secretaria-Geral cabe:
 
 a) Funcionar como elo de ligação e coordenação entre os diversos serviços e organismos do Ministério;
 
@@ -162,23 +212,23 @@ f) Assegurar a guarda e a conservação das instalações do Ministério;
 
 g) Desempenhar quaisquer outras atribuições que lhe sejam cometidas pelo Ministro.
 
-###### Art. 6.º - 1. A Comissão Interministerial para a Cooperação será constituída por representantes do Ministério dos Negócios Estrangeiros e de outros departamentos governamentais ligados ao planeamento e à execução das acções e programas de cooperação, designados pelo respectivo Ministro.
+Art. 6.º - 1. A Comissão Interministerial para a Cooperação será constituída por representantes do Ministério dos Negócios Estrangeiros e de outros departamentos governamentais ligados ao planeamento e à execução das acções e programas de cooperação, designados pelo respectivo Ministro.
 
 2. À Comissão Interministerial para a Cooperação, cuja composição e normas de funcionamento serão fixadas por despacho do Ministro, cabe assegurar a coordenação entre a actividade dos diversos departamentos governamentais em matéria de cooperação.
 
-###### Art. 7.º - 1. O Conselho Consultivo será composto pelo Secretário-Geral e pelos directores-gerais do Ministério, pelos presidentes das direcções dos Institutos para a Cooperação Económica e para a Cooperação Científica e Tecnológica e por outras individualidades de reconhecida competência em matéria de cooperação, designadas pelo Ministro, a quem cabe igualmente fixar, por despacho, as normas de funcionamento do Conselho.
+Art. 7.º - 1. O Conselho Consultivo será composto pelo Secretário-Geral e pelos directores-gerais do Ministério, pelos presidentes das direcções dos Institutos para a Cooperação Económica e para a Cooperação Científica e Tecnológica e por outras individualidades de reconhecida competência em matéria de cooperação, designadas pelo Ministro, a quem cabe igualmente fixar, por despacho, as normas de funcionamento do Conselho.
 
 2. O Conselho Consultivo terá por função assistir ao Ministro na definição das linhas gerais da actividade do Ministério, nomeadamente quanto à política de cooperação.
 
 ### CAPÍTULO II — Secretaria de Estado da Descolonização
 
-###### Art. 8.º À Secretaria de Estado da Descolonização, à qual incumbe assegurar a resolução dos problemas referentes à situação do funcionalismo proveniente dos territórios ultramarinos que ascenderam à independência ou que ainda se mantenham sob administração portuguesa, compreende:
+Art. 8.º À Secretaria de Estado da Descolonização, à qual incumbe assegurar a resolução dos problemas referentes à situação do funcionalismo proveniente dos territórios ultramarinos que ascenderam à independência ou que ainda se mantenham sob administração portuguesa, compreende:
 
 a) Direcção-Geral de Administração Civil;
 
 b) Direcção-Geral de Fazenda.
 
-###### Art. 9.º À Direcção-Geral de Administração Civil cabe:
+Art. 9.º À Direcção-Geral de Administração Civil cabe:
 
 a) Informar e executar o expediente relativo à admissão, movimentação, situação e cadastro do pessoal dependente do Ministério, incluindo a distribuição do pessoal dos quadros únicos pelos diversos serviços e organismos do Ministério;
 
@@ -188,7 +238,7 @@ c) Informar e executar o expediente respeitante à integração, no quadro geral
 
 d) Tratar do expediente relativo ao eventual repatriamento de nacionais dos territórios ultramarinos que hajam ascendido à independência.
 
-###### Art. 10.º A Direcção-Geral de Fazenda tem a seu cargo:
+Art. 10.º A Direcção-Geral de Fazenda tem a seu cargo:
 
 a) O processamento e liquidação das pensões das classes inactivas e demais pensionistas dos antigos territórios ultramarinos;
 
@@ -206,7 +256,7 @@ g) O processamento e liquidação de todas as remunerações do pessoal do quadr
 
 ### CAPÍTULO III — Secretaria de Estado da Cooperação
 
-###### Art. 11.º A Secretaria de Estado da Cooperação tem como função assegurar a execução da política de cooperação definida pelo Governo e integra os seguintes departamentos:
+Art. 11.º A Secretaria de Estado da Cooperação tem como função assegurar a execução da política de cooperação definida pelo Governo e integra os seguintes departamentos:
 
 a) Direcção-Geral da Cooperação;
 
@@ -216,7 +266,7 @@ c) Instituto para a Cooperação Científica e Tecnológica;
 
 d) Centro de Informação e Documentação.
 
-###### Art. 12.º À Direcção-Geral da Cooperação incumbe:
+Art. 12.º À Direcção-Geral da Cooperação incumbe:
 
 a) Preparar negociações e acordos sobre as matérias relacionadas com a cooperação;
 
@@ -228,7 +278,7 @@ d) Participar nos esquemas de cooperação multilateral respeitantes a outros Es
 
 e) Tratar dos assuntos de natureza administrativa relativos ao pessoal que presta ou venha a prestar serviço, em regime de cooperação, em Portugal, nos territórios ultramarinos sob administração portuguesa ou em países estrangeiros.
 
-###### Art. 13.º Ao Instituto para a Cooperação Económica incumbe:
+Art. 13.º Ao Instituto para a Cooperação Económica incumbe:
 
 a) Centralizar o tratamento técnico da informação indispensável à realização das negociações sobre matéria económico-financeira com os novos Estados de expressão portuguesa;
 
@@ -238,7 +288,7 @@ c) Colaborar na preparação dos projectos de acordo sobre matéria económica, 
 
 d) Assegurar a coordenação das participações do Estado Português em empresas com sede nos territórios ultramarinos ou nos novos Estados, bem como apoiar a gestão de quaisquer outros interesses de carácter económico e financeiro que entidades públicas ou privadas portuguesas detenham nos mesmos Estados.
 
-###### Art. 14.º Ao Instituto para a Cooperação Científica e Tecnológica incumbe:
+Art. 14.º Ao Instituto para a Cooperação Científica e Tecnológica incumbe:
 
 a) Realizar e cooperar com outras instituições nacionais em investigação científica e técnica, com especial incidência na solução dos problemas ligados ao desenvolvimento das áreas tropicais, nomeadamente dos novos Estados de expressão portuguesa;
 
@@ -252,7 +302,7 @@ e) Promover o intercâmbio de investigadores e de técnicos e criar condições 
 
 f) Prestar apoio a Escolas Superiores e a outras instituições nacionais, facultando-lhes a colaboração de meios humanos e técnicos no domínio do seu conhecimento especializado.
 
-###### Art. 15.º Ao Centro de Informação e Documentação cabe:
+Art. 15.º Ao Centro de Informação e Documentação cabe:
 
 a) Reunir, classificar, elaborar resumos bibliográficos e promover o adequado tratamento da documentação dos vários domínios do conhecimento com interesse para a cooperação;
 
@@ -260,13 +310,13 @@ b) Efectuar a difusão da informação documental, definindo os perfis dos utili
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 16.º - 1. A organização e funcionamento dos vários serviços e organismos previstos no presente diploma, bem como os respectivos quadros e regimes de pessoal e formas de provimento, serão definidos, até 30 de Abril de 1976, nos termos da legislação em vigor.
+Art. 16.º - 1. A organização e funcionamento dos vários serviços e organismos previstos no presente diploma, bem como os respectivos quadros e regimes de pessoal e formas de provimento, serão definidos, até 30 de Abril de 1976, nos termos da legislação em vigor.
 
 2. O disposto no número anterior não se aplica ao Instituto para a Cooperação Económica, em relação ao qual se cumprirá o estabelecido no [Decreto-Lei n.º 97-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-a-1976-242247), de 31 de Janeiro, que criou o mesmo Instituto.
 
-###### Art. 17.º Os lugares de secretário-geral, director-geral e subdirector-geral, ou lugares de chefia equiparados, serão sempre providos em comissão por tempo indeterminado.
+Art. 17.º Os lugares de secretário-geral, director-geral e subdirector-geral, ou lugares de chefia equiparados, serão sempre providos em comissão por tempo indeterminado.
 
-###### Art. 18.º - 1. Formarão quadros únicos separados o pessoal administrativo referido no número seguinte e o pessoal auxiliar.
+Art. 18.º - 1. Formarão quadros únicos separados o pessoal administrativo referido no número seguinte e o pessoal auxiliar.
 
 2. Pertencem ao quadro único do pessoal administrativo os escriturários-dactilógrafos e os primeiros, segundos e terceiros-oficiais, exceptuados os que prestam serviço na Direcção-Geral de Fazenda.
 
@@ -278,26 +328,26 @@ b) Efectuar a difusão da informação documental, definindo os perfis dos utili
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 19.º - 1. Até 30 de Junho de 1976, serão extintos, por decreto referendado pelo Ministro da Cooperação, as Direcções-Gerais de Economia, de Obras Públicas e Comunicações, de Educação e de Saúde e Assistência, a Inspecção-Geral de Minas, o Gabinete do Plano do Zambeze, a Inspecção Superior das Alfândegas, o Conselho Superior Técnico-Aduaneiro do Ultramar, o Gabinete do Planeamento e Integração Económica, a Junta de Investigações Científicas do Ultramar, a Repartição do Gabinete, o Gabinete Militar e de Marinha, o Gabinete Coordenador para a Cooperação e a Agência-Geral do Ultramar.
+Art. 19.º - 1. Até 30 de Junho de 1976, serão extintos, por decreto referendado pelo Ministro da Cooperação, as Direcções-Gerais de Economia, de Obras Públicas e Comunicações, de Educação e de Saúde e Assistência, a Inspecção-Geral de Minas, o Gabinete do Plano do Zambeze, a Inspecção Superior das Alfândegas, o Conselho Superior Técnico-Aduaneiro do Ultramar, o Gabinete do Planeamento e Integração Económica, a Junta de Investigações Científicas do Ultramar, a Repartição do Gabinete, o Gabinete Militar e de Marinha, o Gabinete Coordenador para a Cooperação e a Agência-Geral do Ultramar.
 
-###### Art. 20.º - 1. O pessoal pertencente aos serviços que foram ou venham a ser extintos e que não transite para os quadros dos serviços ou organismos previstos no presente diploma será considerado, independentemente da sua forma de provimento, como excedente de pessoal, nas condições previstas pela legislação em vigor.
+Art. 20.º - 1. O pessoal pertencente aos serviços que foram ou venham a ser extintos e que não transite para os quadros dos serviços ou organismos previstos no presente diploma será considerado, independentemente da sua forma de provimento, como excedente de pessoal, nas condições previstas pela legislação em vigor.
 
 2. O pessoal que, por força do número anterior, deva ser integrado no quadro geral de adidos e se encontre a prestar serviço em organismos não extintos manterá essa situação, sem prejuízo do respectivo regime.
 
-###### Art. 21.º - 1. O regime de pessoal a que ficarão sujeitos os funcionários do Ministério da Cooperação será o definido neste diploma e na legislação geral aplicável ao funcionalismo da administração pública portuguesa.
+Art. 21.º - 1. O regime de pessoal a que ficarão sujeitos os funcionários do Ministério da Cooperação será o definido neste diploma e na legislação geral aplicável ao funcionalismo da administração pública portuguesa.
 
 2. Enquanto não forem publicados os diplomas previstos no artigo 16.º, aplicar-se-á, subsidiariamente, o disposto no [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, e legislação complementar, com as necessárias adaptações.
 
-###### Art. 22.º A Obra Social do Ministério do Ultramar, criada pelo [Decreto-Lei n.º 47069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47069-1966-475084), de 4 de Julho de 1966, passa a depender do Ministério da Cooperação, continuando a reger-se pela legislação em vigor, com as necessárias adaptações.
+Art. 22.º A Obra Social do Ministério do Ultramar, criada pelo [Decreto-Lei n.º 47069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47069-1966-475084), de 4 de Julho de 1966, passa a depender do Ministério da Cooperação, continuando a reger-se pela legislação em vigor, com as necessárias adaptações.
 
-###### Art. 23.º As dúvidas e os casos omissos resultantes da aplicação do presente diploma serão resolvidos mediante despacho do Ministro da Cooperação, ouvidos os Ministros da Administração Interna e das Finanças, se for caso disso.
+Art. 23.º As dúvidas e os casos omissos resultantes da aplicação do presente diploma serão resolvidos mediante despacho do Ministro da Cooperação, ouvidos os Ministros da Administração Interna e das Finanças, se for caso disso.
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 12 de Março de 1976.**
+Promulgado em 12 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado no Boletim Oficial de Macau. - João Cristóvão Moreira.

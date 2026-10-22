@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/81-1981-578529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57bf1cac5ce634cc548bacfd671f847f397fd6da8e59eac07eef586cff7bf5d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd08b015d37c6916da6d21f52a3f42d9d5256de8263e96c24bc8212a66d83936
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Higiene do Trabalho
+- OIT
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:374994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374994:por
+  label: "Estendido ao território de Macau a convenção aprovada para ratificação pelo presente diploma, pelo DEC.159/99.1999.07.08.PR\
+    \ DR.IS-A [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/159-1999-374994
+  date: '1999-07-08'
+- type: amended_by
+  target: pt:dre:670993:por
+  label: "Tornada pública a aplicação a Macau da Convenção nº 120 da OIT pelo AV.141/99.1999.09.10.MNE,DR.IS-A [230] de 01/Out/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/141-1999-670993
+  date: '1999-09-10'
+- type: corrected_by
+  target: pt:dre:576535:por
+  label: Rectificado pela DECL 6469.28.07.1981.PCM, DR.IS [182] de 10.08.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-576535
+  date: '1981-07-28'
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:32Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +111,15 @@ de 29 de Junho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único aprovada, para ratificação, a Convenção n.º 120, relativa à higiene no comércio e escritórios, adoptada pela Conferência Internacional do Trabalho na sua 64.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único aprovada, para ratificação, a Convenção n.º 120, relativa à higiene no comércio e escritórios, adoptada pela Conferência Internacional do Trabalho na sua 64.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 19 de Maio de 1981.**
+Assinado em 19 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION Nº 120, CONCERNANT L'HYGIÈNE DANS LE COMMERCE ET LES BUREAUX
 
@@ -276,7 +297,7 @@ Após ter deliberado que algumas das referidas propostas deveriam tomar a forma 
 
 adopta, neste dia 8 de Julho de 1964, a seguinte convenção, que será denominada «Convenção sobre Higiene (Comércio e Escritórios), 1964»:
 
-# PARTE I — Obrigações das Partes
+## PARTE I — Obrigações das Partes
 
 ###### ARTIGO 1.º
 
@@ -314,7 +335,7 @@ A legislação que tornar efectivas as disposições da presente Convenção dev
 
 2 - Se os instrumentos pelos quais são tornadas efectivas as disposições da presente Convenção o permitirem, a aplicação efectiva destas legislações deve ser assegurada pela instituição de um sistema de sanções adequado.
 
-# PARTE II — Princípios gerais
+## PARTE II — Princípios gerais
 
 ###### ARTIGO 7.º
 
@@ -374,7 +395,7 @@ b) Ou dispor de enfermaria ou posto de primeiros socorros em comum com outros es
 
 c) Ou dispor de um ou vários armários, caixas ou bolsas de primeiros socorros.
 
-# PARTE III — Disposições finais
+## PARTE III — Disposições finais
 
 ###### ARTIGO 20.º
 

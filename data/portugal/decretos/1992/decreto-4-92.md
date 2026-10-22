@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/1992/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-1992-144017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05cfc8945402f36f4966b004091bab97df67dfdd0b7e415600ae70d06228bf00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1c9a84cc83c3475f42278d3f485450f78bbf24d168c59cc121d1f247483c5c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Droga
 - Brasil
+- Convenção
+- Droga
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:59Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 22 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil para a Redução da Procura, Combate à Produção e Repressão ao Tráfico Ilícito de Drogas e Substâncias Psicotrópicas, assinado em Brasília em 7 de Maio de 1991, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil para a Redução da Procura, Combate à Produção e Repressão ao Tráfico Ilícito de Drogas e Substâncias Psicotrópicas, assinado em Brasília em 7 de Maio de 1991, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Novembro de 1991. - Aníbal António Cavaco Silva - José Manuel Cardoso Borges Soeiro - Ivo Duarte Cruz.
 
-**Assinado em 6 de Janeiro de 1992.**
+Assinado em 6 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Janeiro de 1992.**
+Referendado em 8 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL PARA A REDUÇÃO DA PROCURA, COMBATE À PRODUÇÃO E REPRESSÃO AO TRÁFICO ILÍCITO DE DROGAS E SUBSTÂNCIAS PSICOTRÓPICAS.
 
@@ -119,7 +119,7 @@ Inspirados na Declaração Política e no Programa Global de Acção aprovados n
 
 acordam o seguinte:
 
-Artigo I
+###### Artigo I
 
 As Partes Contratantes, respeitadas as leis e regulamentos em vigor em seus respectivos países, propõem-se promover a cooperação mútua para reduzir a procura, combater a produção e reprimir o tráfico ilícito de drogas e substâncias psicotrópicas, que se regerá pelo presente Acordo, dentro das seguintes áreas:
 
@@ -131,31 +131,31 @@ c) Treinamento de pessoal; e
 
 d) Intercâmbio de informações sobre a apreensão de bens obtidos ilicitamente por meio de tráfico de drogas, bem como exame de futuras medidas complementares, para a assistência recíproca neste campo.
 
-Artigo II
+###### Artigo II
 
 As condições e os acertos de natureza financeira requeridos para a cooperação indicada na cláusula precedente deverão ser estabelecidos em arranjos complementares entre os dois Governos.
 
-Artigo III
+###### Artigo III
 
 Os dois Governos tomarão as medidas cabíveis, de acordo com as respectivas legislações internas, para controlar a produção, importação, exportação, armazenamento, distribuição e venda de precursores, produtos químicos e solventes que possam ser utilizados ilicitamente na fabricação de drogas.
 
-Artigo IV
+###### Artigo IV
 
 Os dois Governos, de acordo com as respectivas legislações internas, irtercambiarão toda a informação sobre tais precursores, produtos químicos e solventes que possa ser de utilidade para detecção e interdição de remessas para fins ilícitos.
 
-Artigo V
+###### Artigo V
 
 De maneira a facilitar a execução deste Acordo, cada Governo poderá designar, mediante consulta prévia, funcionários especializados, que receberão o título de adido e que serão membros do pessoal diplomático da embaixada, para servir de elementos de ligação permanente entre as respectivas agências governamentais especializadas em assuntos relativos às drogas.
 
-Artigo VI
+###### Artigo VI
 
 São interlocutores no cumprimento do Acordo, nomeadamente nas áreas das diversas alíneas do artigo I, pela parte portuguesa, o Ministério da Justiça/Polícia Judiciária e, pela parte brasileira, o Ministério das Relações Exteriores/Departamento de Organismos Internacionais.
 
-Artigo VII
+###### Artigo VII
 
 O presente Acordo poderá ser modificado, por mútuo consentimento das Partes Contratantes, por troca de notas diplomáticas. Tais emendas entrarão em vigor em conformidade com as respectivas legislações nacionais.
 
-Artigo VIII
+###### Artigo VIII
 
 1 - Cada Parte Contratante notificará a outra, por via diplomática, do cumprimento dos procedimentos exigidos pelas respectivas legislações para a aprovação do presente Acordo, o qual entrará em vigor 30 dias após a recepção da última destas notificações.
 

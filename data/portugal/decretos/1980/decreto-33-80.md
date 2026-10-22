@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-1980-474517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc608bf289c4db8e3fa7aed3112358793cef5c25970209d70c761e0f4f9228d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1d90a2c5aa2b355c1ee9ece6e7a5745734c4bd7a1af86ceb184a2ce8df29200
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Argel
+- Argélia
+- Convenção
+- Portugal
+- Transporte Aéreo
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:21Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 24 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre a República de Portugal e a República Democrática e Popular da Argélia Relativo aos Transportes Aéreos, assinado em Argel em 4 de Outubro de 1977, cujo texto em língua portuguesa acompanha o presente decreto.
+Artigo único. É aprovado o Acordo entre a República de Portugal e a República Democrática e Popular da Argélia Relativo aos Transportes Aéreos, assinado em Argel em 4 de Outubro de 1977, cujo texto em língua portuguesa acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro. - O Ministro dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 12 de Maio de 1980.**
+Assinado em 12 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo entre a República de Portugal e a República Democrática e Popular da Argélia Relativo aos Transportes Aéreos
 
@@ -285,7 +290,9 @@ Pelo Governo da República Portuguesa.
 
 Pelo Governo da República Democrática e Popular da Argélia.
 
-## ANEXO — Secção I
+## ANEXO
+
+#### Secção I
 
 1 - O Governo de Portugal designa para a exploração dos serviços acordados nas rotas indicadas na secção II:
 

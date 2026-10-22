@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 200/1975, 1º Suplemento, Série I de 1975-08-30
   number: '200'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1266-(1) a 1266-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/20001/00010001.pdf
 entry_into_force_dates: []
@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/474-b-1975-215111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f981d04486dfeb03871c20645827013277e5596026d830297842096d972d7e06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 953c3dc9f2e0ea47e281ddc240ee800e5da04c3ec44257f466ed0a0a5c5d722b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ALTO Comissário para Angola
+- Nomeação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:46Z'
   warnings: []
   errors: []
 ---
@@ -88,8 +90,8 @@ Usando da faculdade conferida pelo n.º 13.º do artigo 7.º da Lei Constitucion
 
 Tenho por bem nomear Alto-Comissário em Angola o contra-almirante Leonel Alexandre Gomes Cardoso.
 
-**Assinado em 30 de Agosto de 1975.**
+Assinado em 30 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES. - Vasco dos Santos Gonçalves.**
+O Presidente da República, FRANCISCO DA COSTA GOMES. - Vasco dos Santos Gonçalves.

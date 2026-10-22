@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 302/1973, 1º Suplemento, Série I de 1973-12-31
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2568-(5) a 2568-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/30201/00050007.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/725-1973-218114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2253ba30bb7d2314ab24b4520aeb30acc0ab19eb394015f3c64b1a8a39ead2d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 369bd5d87203062ccdede8a25b114ffcfa8efbef1f1df8b1724046d45c8308d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério da Justiça
+- Ministério das Corporações e Previdência Social
+- Ministério das Finanças
+- Ministério do Exército
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 38
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:04Z'
   warnings: []
   errors: []
 ---
@@ -88,61 +98,61 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 157688820$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 157688820$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 20.º «Despesas comuns»:
+Capítulo 20.º «Despesas comuns»:
 
-###### Artigo 308.º «Restituições», n.º 4 «Ministério das Finanças», alínea 4 «Direcção-Geral das Contribuições e Impostos», 1 «Títulos de anulação» ... 113967000$00
+Artigo 308.º «Restituições», n.º 4 «Ministério das Finanças», alínea 4 «Direcção-Geral das Contribuições e Impostos», 1 «Títulos de anulação» ... 113967000$00
 
 Ministério da Justiça
 
-### Capítulo 3.º «Direcção-Geral dos Serviços Judiciários»:
+Capítulo 3.º «Direcção-Geral dos Serviços Judiciários»:
 
 Direcção-Geral
 
-###### Artigo 61.º «Bens não duradouros», n.º 3 «Consumos de secretaria» (3) ... 9000$00
+Artigo 61.º «Bens não duradouros», n.º 3 «Consumos de secretaria» (3) ... 9000$00
 
-### Capítulo 6.º-A «Centro de Informática»:
+Capítulo 6.º-A «Centro de Informática»:
 
-###### Artigo 586.º «Despesas gerais de funcionamento», n.º 3 «Locação de bens» ... 445000$00
+Artigo 586.º «Despesas gerais de funcionamento», n.º 3 «Locação de bens» ... 445000$00
 
 ... 454000$00
 
 Ministério do Exército
 
-### Capítulo 3.º «Serviços de instrução»:
+Capítulo 3.º «Serviços de instrução»:
 
 Direcções das armas
 
 Direcção da Arma de Transmissões
 
-###### Artigo 59.º «Despesas gerais de funcionamento», n.º 1 «Encargos próprios das instalações» ... 30000$00
+Artigo 59.º «Despesas gerais de funcionamento», n.º 1 «Encargos próprios das instalações» ... 30000$00
 
 Instituto Técnico Militar dos Pupilos do Exército (Lisboa)
 
-###### Artigo 197.º «Bens não duradouros»:
+Artigo 197.º «Bens não duradouros»:
 
 N.º 3 «Consumos de secretaria» ... 24000$00
 
 N.º 4 «Outros bens não duradouros» ... 90000$00
 
-###### Artigo 198.º «Conservação e aproveitamento de bens» ... 340000$00
+Artigo 198.º «Conservação e aproveitamento de bens» ... 340000$00
 
-###### Artigo 199.º «Despesas gerais de funcionamento», n.º 1 «Encargos próprios das instalações» ... 250000$00
+Artigo 199.º «Despesas gerais de funcionamento», n.º 1 «Encargos próprios das instalações» ... 250000$00
 
 Instituto de Odivelas
 
-###### Artigo 212.º «Transferências - Particulares», n.º 1 «Subsídio do Estado para pagamento de mensalidades de alunas auxiliadas, incluindo doze universitárias» ... 130000$00
+Artigo 212.º «Transferências - Particulares», n.º 1 «Subsídio do Estado para pagamento de mensalidades de alunas auxiliadas, incluindo doze universitárias» ... 130000$00
 
-### Capítulo 5.º «Serviços do quartel-mestre»:
+Capítulo 5.º «Serviços do quartel-mestre»:
 
 Direcção do Serviço de Material
 
 Depósito Geral de Material de Guerra
 
-###### Artigo 288.º «Bens não duradouros»:
+Artigo 288.º «Bens não duradouros»:
 
 N.º 1 «Matérias-primas e subsidiárias» ... 20000$00
 
@@ -150,13 +160,13 @@ N.º 2 «Consumos de secretaria» ... ... 100000$00
 
 N.º 3 «Outros bens não duradouros» ... 30000$00
 
-###### Artigo 289.º «Conservação e aproveitamento de bens» ... 30000$00
+Artigo 289.º «Conservação e aproveitamento de bens» ... 30000$00
 
-###### Artigo 290.º «Despesas gerais de funcionamento», n.º 1 «Encargos próprios das instalações» ... 50000$00
+Artigo 290.º «Despesas gerais de funcionamento», n.º 1 «Encargos próprios das instalações» ... 50000$00
 
 Direcção do Serviço de Intendência
 
-###### Artigo 293.º «Bens duradouros»:
+Artigo 293.º «Bens duradouros»:
 
 N.º 2 «Material de aquartelamento e alojamento» ... 1732000$00
 
@@ -164,43 +174,43 @@ N.º 3 «Equipamento de secretaria» ... 768000$00
 
 Direcção do Serviço de Fortificações e Obras Militares
 
-###### Artigo 300.º «Bens duradouros», n.º 1 «Construções e grandes reparações» ... 400000$00
+Artigo 300.º «Bens duradouros», n.º 1 «Construções e grandes reparações» ... 400000$00
 
-### Capítulo 6.º «Regiões militares e comandos territoriais independentes»:
+Capítulo 6.º «Regiões militares e comandos territoriais independentes»:
 
 Região Militar de Lisboa
 
-###### Art. 307.º «Conservação e aproveitamento de bens» ... 25000$00
+Art. 307.º «Conservação e aproveitamento de bens» ... 25000$00
 
 Região Militar do Porto
 
-###### Artigo 310.º «Bens não duradouros»:
+Artigo 310.º «Bens não duradouros»:
 
 N.º 1 «Combustíveis e lubrificantes» ... 60000$00
 
 N. 2 «Consumos de secretaria» ... 20000$00
 
-###### Artigo 311.º «Conservação e aproveitamento de bens» ... 25000$00
+Artigo 311.º «Conservação e aproveitamento de bens» ... 25000$00
 
-###### Artigo 312.º «Despesas gerais de funcionamento», n.º 1 «Encargos próprios das instalações» ... 20000$00
+Artigo 312.º «Despesas gerais de funcionamento», n.º 1 «Encargos próprios das instalações» ... 20000$00
 
 Região Militar de Évora
 
-###### Artigo 323.º «Bens não duradouros», n.º 1 «Combustíveis e lubrificantes» ... 12000$00
+Artigo 323.º «Bens não duradouros», n.º 1 «Combustíveis e lubrificantes» ... 12000$00
 
-###### Artigo 324.º «Conservação e aproveitamento de bens» ... 30000$00
+Artigo 324.º «Conservação e aproveitamento de bens» ... 30000$00
 
-### Capítulo 7.º «Órgãos hospitalares»:
+Capítulo 7.º «Órgãos hospitalares»:
 
 Hospital Militar Principal (Lisboa)
 
-###### Artigo 338.º «Bens duradouros»:
+Artigo 338.º «Bens duradouros»:
 
 N.º 1 «Material de defesa e segurança» ... 1000000$00
 
 N.º 4 «Material fabril, oficinal e de laboratório» ... 22500$00
 
-###### Artigo 339.º «Bens não duradouros»:
+Artigo 339.º «Bens não duradouros»:
 
 N.º 2 «Combustíveis e lubrificantes» ... 865000$00
 
@@ -208,55 +218,55 @@ N.º 3 «Consumos de secretaria» ... 581160$00
 
 N.º 4 «Outros bens não duradouros» ... 987355$00
 
-###### Artigo 340.º «Conservação e aproveitamento de bens» ... 1020000$00
+Artigo 340.º «Conservação e aproveitamento de bens» ... 1020000$00
 
-###### Artigo 341.º «Despesas gerais de funcionamento», n.º 1 «Encargos próprios das instalações» ... 810000$00
+Artigo 341.º «Despesas gerais de funcionamento», n.º 1 «Encargos próprios das instalações» ... 810000$00
 
-### Capítulo 8.º «Encargos gerais do Ministério»:
+Capítulo 8.º «Encargos gerais do Ministério»:
 
 Despesas gerais
 
-###### Artigo 407.º «Remunerações diversas - Previdência social», n.º 1 «Encargos com a saúde» ... 500000$00
+Artigo 407.º «Remunerações diversas - Previdência social», n.º 1 «Encargos com a saúde» ... 500000$00
 
-###### Artigo 410.º «Bens não duradouros», n.º 4 «Outros bens não duradouros» ... 750000$00
+Artigo 410.º «Bens não duradouros», n.º 4 «Outros bens não duradouros» ... 750000$00
 
-###### Artigo 411.º «Conservação e aproveitamento de bens» ... 6535000$00
+Artigo 411.º «Conservação e aproveitamento de bens» ... 6535000$00
 
-###### Artigo 412.º «Despesas gerais de funcionamento», n.º 2 «Comunicações» ... 750000$00
+Artigo 412.º «Despesas gerais de funcionamento», n.º 2 «Comunicações» ... 750000$00
 
-### Capítulo 9.º «Forças eventualmente constituídas»:
+Capítulo 9.º «Forças eventualmente constituídas»:
 
 Regimento de Artilharia Antiaérea Fixa
 
-###### Artigo 418.º «Alimentação e alojamento - Em espécie» ... 1451315$00
+Artigo 418.º «Alimentação e alojamento - Em espécie» ... 1451315$00
 
-###### Artigo 421.º «Bens não duradouros», n.º 3 «Outros bens não duradouros» ... 20000$00
+Artigo 421.º «Bens não duradouros», n.º 3 «Outros bens não duradouros» ... 20000$00
 
-###### Artigo 422.º «Conservação e aproveitamento de bens» ... 35000$00
+Artigo 422.º «Conservação e aproveitamento de bens» ... 35000$00
 
 Companhia Divisionária de Manutenção de Material (Entroncamento)
 
-###### Artigo 427.º «Alimentação e alojamento-Em espécie» ... 486670$00
+Artigo 427.º «Alimentação e alojamento-Em espécie» ... 486670$00
 
 ... 20000000$00
 
 Ministério da Marinha
 
-### Capítulo 3.º «Superintendência dos Serviços do pessoal»:
+Capítulo 3.º «Superintendência dos Serviços do pessoal»:
 
 Serviço do Pessoal
 
 Sargentos e praças do activo
 
-###### Artigo 76.º «Alimentação e alojamento - Em espécie», n.º 2 «Rações, compreendendo dietas ...» ... 10000000$00
+Artigo 76.º «Alimentação e alojamento - Em espécie», n.º 2 «Rações, compreendendo dietas ...» ... 10000000$00
 
-### Capítulo 4.º «Superintendência dos Serviços do Material»:
+Capítulo 4.º «Superintendência dos Serviços do Material»:
 
 Direcção do Serviço de Electricidade e Comunicações
 
-###### Artigo 195.º «Participações e prémios», 1 «Emolumentos pessoais pelas inspecções à aparelhagem eléctrica e radioeléctrica ...» ... 250000$00
+Artigo 195.º «Participações e prémios», 1 «Emolumentos pessoais pelas inspecções à aparelhagem eléctrica e radioeléctrica ...» ... 250000$00
 
-### Capítulo 8.º «Direcção-Geral dos Serviços de Fomento Marítimo»:
+Capítulo 8.º «Direcção-Geral dos Serviços de Fomento Marítimo»:
 
 Departamentos, capitanias e delegações
 
@@ -264,7 +274,7 @@ Tribunais marítimos
 
 Polícia marítima
 
-###### Artigo 344.º «Participações e prémios», n.º 1 «Emolumentos pessoais ...» ... 500000$00
+Artigo 344.º «Participações e prémios», n.º 1 «Emolumentos pessoais ...» ... 500000$00
 
 ... 10750000$00
 
@@ -272,11 +282,11 @@ Ministério das Obras Públicas
 
 Secretaria de Estado das Obras Públicas
 
-### Capítulo 7.º «Direcção-Geral dos Serviços Hidráulicos»:
+Capítulo 7.º «Direcção-Geral dos Serviços Hidráulicos»:
 
-###### Artigo 132.º «Outras despesas correntes», n.º 2 «Serviços por conta de terceiros», alínea 1 «Obras executadas coercivamente» ... 500000$00
+Artigo 132.º «Outras despesas correntes», n.º 2 «Serviços por conta de terceiros», alínea 1 «Obras executadas coercivamente» ... 500000$00
 
-### Capítulo 18.º «Direcção-Geral dos Serviços Hidráulicos»:
+Capítulo 18.º «Direcção-Geral dos Serviços Hidráulicos»:
 
 Agricultura, silvicultura e pecuária
 
@@ -286,65 +296,65 @@ Plano do Rega do Alentejo
 
 Conclusão da 1.ª fase
 
-###### Artigo 310.º «Investimentos», n.º 2 «Melhoramentos fundiários» ... 10000000$00
+Artigo 310.º «Investimentos», n.º 2 «Melhoramentos fundiários» ... 10000000$00
 
 ... 10500000$00
 
 Ministério da Economia
 
-### Capítulo 24.º «Contas de ordem»:
+Capítulo 24.º «Contas de ordem»:
 
-###### Artigo 452.º «Direcção-Geral dos Serviços Florestais e Aquícolas»:
+Artigo 452.º «Direcção-Geral dos Serviços Florestais e Aquícolas»:
 
 N.º 2 «Exploração e fomento da produção de produtos secundários» ... 2000000$00
 
 Ministério das Corporações e Segurança Social
 
-### Capítulo 5. «Magistratura do Trabalho»:
+Capítulo 5. «Magistratura do Trabalho»:
 
 Tribunais do trabalho
 
 Tribunais do trabalho (a reembolsar)
 
-###### Artigo 97.º «Bens duradouros», n.º 2 «Equipamento de secretaria» ... 17820$00
+Artigo 97.º «Bens duradouros», n.º 2 «Equipamento de secretaria» ... 17820$00
 
 ... 157688820$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 1.º, artigo 4.º «Imposto de capitais» ... 113967000$00
+Capítulo 1.º, artigo 4.º «Imposto de capitais» ... 113967000$00
 
-### Capítulo 3.º, grupo 1, artigo 62.º «Taxas diversas» ... 9000$00
+Capítulo 3.º, grupo 1, artigo 62.º «Taxas diversas» ... 9000$00
 
-### Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 17820$00
+Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 17820$00
 
-### Capítulo 5.º, grupo 1, artigo 88.º «Serviços autónomos e empresas públicas» ... 445000$00
+Capítulo 5.º, grupo 1, artigo 88.º «Serviços autónomos e empresas públicas» ... 445000$00
 
-### Capítulo 6.º, grupo 3, artigo 98.º «Serviços gerais» ... 20000000$00
+Capítulo 6.º, grupo 3, artigo 98.º «Serviços gerais» ... 20000000$00
 
-### Capítulo 7.º, grupo 10, artigo 119.º «Emolumentos pessoais»:
+Capítulo 7.º, grupo 10, artigo 119.º «Emolumentos pessoais»:
 
 «Serviços de electricidade e comunicações» ... 250000$00
 
 «Serviços jurisdicionais do Ministério da Marinha - Portos» ... 500000$00
 
-### Capítulo 7.º, grupo 10, artigo 120.º «Alimentação e alojamento: Serviços do pessoal da Armada» ... 10000000$00
+Capítulo 7.º, grupo 10, artigo 120.º «Alimentação e alojamento: Serviços do pessoal da Armada» ... 10000000$00
 
-### Capítulo 7.º, grupo 10, artigo 129.º «Diversos serviços e bens não duradouros: Serviços hidráulicos» ... 500000$00
+Capítulo 7.º, grupo 10, artigo 129.º «Diversos serviços e bens não duradouros: Serviços hidráulicos» ... 500000$00
 
-### Capítulo 15.º, artigo 185.º «Direcção-Geral dos Serviços Florestais e Aquícolas: Exploração e fomento da produção de produtos secundários» ... 2000000$00
+Capítulo 15.º, artigo 185.º «Direcção-Geral dos Serviços Florestais e Aquícolas: Exploração e fomento da produção de produtos secundários» ... 2000000$00
 
 Receita extraordinária:
 
-### Capítulo 12.º, grupo 7, artigo 206.º «Crédito interno» ... 10000000$00
+Capítulo 12.º, grupo 7, artigo 206.º «Crédito interno» ... 10000000$00
 
 ... 157688820$00
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Justiça:
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Justiça:
 
 A observação (3) aposta à dotação do capítulo 3.º, artigo 61.º, n.º 3, é alterada para:
 
@@ -352,8 +362,8 @@ Inclui 34000$00 para as despesas referidas no artigo 366.º do Estatuto Judiciá
 
 Marcello Caetano - António Maria de Mendonça Lino Neto - Manuel Artur Cotta Agostinho Dias - Alberto de Andrade e Silva - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 22 de Dezembro de 1973.**
+Promulgado em 22 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

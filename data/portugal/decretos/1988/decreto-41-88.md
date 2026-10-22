@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/41-1988-357916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8683dd6bccb1a1168a1cb220f2da6dac5e15f9d23352070fc309642b23bdba4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f55fdcc76970ab49fcdd819f7c6cb9a6474727895150fd08df491945a1404f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Convenção
+- Espanha
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:43Z'
   warnings: []
   errors: []
 ---
@@ -86,29 +90,29 @@ de 11 de Novembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre a República Portuguesa e o Reino de Espanha sobre Cooperação no Domínio da Agricultura, assinado em Salamanca a 28 de Novembro de 1987, cujos textos em português e espanhol, ambos fazendo igualmente fé, acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre a República Portuguesa e o Reino de Espanha sobre Cooperação no Domínio da Agricultura, assinado em Salamanca a 28 de Novembro de 1987, cujos textos em português e espanhol, ambos fazendo igualmente fé, acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 22 de Setembro de 1988. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Assinado em 25 de Outubro de 1988.**
+Assinado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Outubro de 1988.**
+Referendado em 27 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO NO DOMÍNIO DA AGRICULTURA ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA
 
 A República Portuguesa e o Reino de Espanha, seguidamente denominados por Partes Contratantes, com a convicção de que uma intensificação e desenvolvimento posterior da cooperação em matéria de agricultura será positiva para ambos os países e tendo em consideração a declaração de Lisboa, de 12 de Novembro de 1983, entre Portugal e Espanha, em especial o n.º 2 do capítulo referente à agricultura, acordam no seguinte:
 
-Artigo I
+###### Artigo I
 
 As Partes Contratantes fomentarão a cooperação em matéria de investigação, extensão rural, formação profissional, desenvolvimento agrário e silvicultura entre ambos os países, em temas de interesse mútuo, que serão determinados anualmente.
 
-Artigo II
+###### Artigo II
 
 A cooperação referida no artigo I realizar-se-á nas seguintes modalidades:
 
@@ -120,37 +124,37 @@ c) Intercâmbio de investigadores, técnicos e especialistas, em estadas de curt
 
 d) Realização conjunta de programas e projectos.
 
-Artigo III
+###### Artigo III
 
 1 - Para assegurar o bom funcionamento da cooperação referida no artigo I, representantes de alto nível das duas Partes encontrar-se-ão uma vez ou, se for conveniente, duas vezes por ano, alternadamente em cada um dos países.
 
 2 - Nestas reuniões, as duas Partes avaliarão os resultados da cooperação realizada e prepararão a dos anos futuros. Para isso, as duas Partes estabelecerão um plano de trabalho de cooperação com a duração de um ano, conforme mencionado no artigo IV.
 
-Artigo IV
+###### Artigo IV
 
 Para a efectivação da cooperação referida nos artigos I e II será elaborado pelos representantes de ambas as Partes um plano de trabalho de cooperação contendo uma informação conjunta sobre as actividades realizadas no ano anterior e serão também estabelecidos os programas para o ano seguinte, especificando os objectivos e os financiamentos correspondentes.
 
-Artigo V
+###### Artigo V
 
 Para efectuar as visitas de informação e de intercâmbio de investigadores e técnicos previstas no artigo II, alíneas a) e c), deste Acordo, a Parte que os envia remeterá também à outra Parte com, pelo menos, dois meses de antecedência à visita ou estada e relativamente a cada visitante uma relação dos seus dados pessoais, da sua formação e das suas atribuições, do tema do âmbito da sua especialidade, dos objectivos concretos, bem como dos seus conhecimentos especiais e de idiomas.
 
-Artigo VI
+###### Artigo VI
 
 1 - As publicações relativas aos trabalhos realizados conjuntamente no âmbito do presente Acordo serão submetidas previamente à aprovação de ambas as Partes Contratantes. Nelas deverá constar explicitamente que os trabalhos correspondentes foram realizados no âmbito deste Acordo, precisando-se as contribuições respectivas de cada Parte. Estas publicações podem ser editadas conjuntamente.
 
 2 - As modalidades da possível utilização dos resultados obtidos na realização de projectos comuns serão objecto de negociações oportunas, tendo em conta a contribuição de cada Parte.
 
-Artigo VII
+###### Artigo VII
 
 As divergências que possam surgir durante a execução deste Acordo devem ser resolvidas entre as duas Partes.
 
-Artigo VIII
+###### Artigo VIII
 
 1 - A cooperação referida nos artigos I e II deste Acordo será efectivada de harmonia com os planos que constituem os anexos I, II, III e IV, respectivamente no âmbito da investigação, da extensão rural e formação profissional, das florestas e do desenvolvimento agrário.
 
 2 - Os planos mencionados serão executados pelas instituições que se mencionam em cada caso ou que as substituam futuramente nas competências correspondentes a este Acordo.
 
-Artigo IX
+###### Artigo IX
 
 1 - Este Acordo é estabelecido pelo período de um ano, prorrogável por iguais períodos, se não for denunciado por escrito por qualquer das Partes pelo menos três meses antes de caducar o respectivo período de validade.
 
@@ -438,4 +442,4 @@ D) Execução da cooperação:
 
 4 - Aos organismos executores reserva-se o direito de mandar regressar aos seus países de origem quaisquer técnicos em comissão de serviço, quando tais funcionários sejam considerados inadequados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/26100/45224531.pdf))](https://files.diariodarepublica.pt/1s/1988/11/26100/45224531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/26100/45224531.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/529-1974-472876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53056efa5a135b0083a615df47ccc8a6e1fa2c4c7e5b31fbf62dd7d7de7dba5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d3853ae828bc60ff3a560ec1ff66bad70c12e47ddf36c55f2b8f1f2828d2072
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:198681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228671:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:242061:por
+  label: Retificado pelo(a) Rectificação - Diário do Governo n.º 280/1974, 2º Suplemento, Série I de 1974-12-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1974-242061
+  date: '1974-12-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:04Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +116,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto n.º 49205](https://diariodarepublica.pt/dr/detalhe/decreto/49205-1969-198681), de 25 de Agosto de 1969, com a redacção que lhe foi dada pelo artigo único do [Decreto n.º 110/70](https://diariodarepublica.pt/dr/detalhe/decreto/110-1970-228671), de 17 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto n.º 49205](https://diariodarepublica.pt/dr/detalhe/decreto/49205-1969-198681), de 25 de Agosto de 1969, com a redacção que lhe foi dada pelo artigo único do [Decreto n.º 110/70](https://diariodarepublica.pt/dr/detalhe/decreto/110-1970-228671), de 17 de Março, passa a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
@@ -119,20 +132,20 @@ A - ...
 
 B - Licenciados em Ciências Biológicas ou Geológicas e bacharéis em Biologia ou Geologia.
 
-###### Art. 2.º - 1. Independentemente do grupo em que nos termos da legislação vigente estejam providos ou em condições de requerer provimento, podem os indivíduos licenciados em Física, em Ciências Físico-Químicas ou em Química e bacharéis em Física ou em Química concorrer a lugares vagos do 4.º grupo A dos estabelecimentos de ensino secundário técnico.
+Art. 2.º - 1. Independentemente do grupo em que nos termos da legislação vigente estejam providos ou em condições de requerer provimento, podem os indivíduos licenciados em Física, em Ciências Físico-Químicas ou em Química e bacharéis em Física ou em Química concorrer a lugares vagos do 4.º grupo A dos estabelecimentos de ensino secundário técnico.
 
 2. O provimento referido no número anterior envolve a transferência definitiva para esse grupo.
 
-###### Art. 3.º - 1. Os professores efectivos que se encontrem nas condições previstas no n.º 1 do artigo anterior, desde que pertençam ao quadro do estabelecimento de ensino em que se encontre vago qualquer lugar do 4.º grupo A, podem também, mediante despacho ministerial, ser providos, a requerimento seu, neste lugar, envolvendo o seu provimento a transferência definitiva para o referido 4.º grupo A.
+Art. 3.º - 1. Os professores efectivos que se encontrem nas condições previstas no n.º 1 do artigo anterior, desde que pertençam ao quadro do estabelecimento de ensino em que se encontre vago qualquer lugar do 4.º grupo A, podem também, mediante despacho ministerial, ser providos, a requerimento seu, neste lugar, envolvendo o seu provimento a transferência definitiva para o referido 4.º grupo A.
 
 2. Nos casos em que o número de interessados na transferência seja superior ao número de lugares vagos, serão os candidatos graduados nos termos da legislação vigente.
 
-###### Art. 4.º O presente diploma aplica-se desde 1 de Janeiro de 1974.
+Art. 4.º O presente diploma aplica-se desde 1 de Janeiro de 1974.
 
 Vasco dos Santos Gonçalves - Vitorino Magalhães Godinho.
 
-**Promulgado em 30 de Setembro de 1974.**
+Promulgado em 30 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

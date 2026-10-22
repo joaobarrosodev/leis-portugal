@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/25/1996/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/25-1996-241471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0983dddc4cceafb65bf4b59977122060d29e099bed6cb27f68edf6b966f70211
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fde2cc0620690b0ef4e9437d4aeb2dc063aff451290d33b7887afc534b98253
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
 subjects:
 - Centro de Ensino e Língua Portuguesa
 - Convenção
+- Cooperação Cultural
+- Cultura Portuguesa
+- Ensino Básico
+- Ensino Português no Estrangeiro
 - Língua Portuguesa
+- Maputo
 - Moçambique
 - Portugal
-- Cultura Portuguesa
-- Ensino Português no Estrangeiro
-- Maputo
-- Cooperação Cultural
-- Ensino Básico
 relationships: []
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:21Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +103,15 @@ Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Maria Manuela de Brito Arcanjo Marques da Costa - Eduardo Carrega Marçal Grilo.
 
-**Assinado em 14 de Agosto de 1996.**
+Assinado em 14 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Agosto de 1996.**
+Referendado em 21 de Agosto de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE MOÇAMBIQUE VISANDO A CRIAÇÃO DO CENTRO DE ENSINO E LÍNGUA PORTUGUESA DE MAPUTO
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/118-1974-412400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9843a772329fbf5c2be606c016e185c377c3bf2d1a02cac9d50542c91a24bdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5ebb8470d70ba89e127708e8b3286671d19ed2f87c1d30b077cc5624e7d8a0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:48Z'
   warnings: []
   errors: []
 ---
@@ -88,14 +92,14 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 177489000$00, devendo a mesma importância ser adicionada à verba de despesa extraordinária inscrita no artigo 581.º «Transferências - Exterior», divisão «Forças militares extraordinárias no ultramar», capítulo 17.º «Despesas comuns», do vigente orçamento de Encargos Gerais da Nação.
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 177489000$00, devendo a mesma importância ser adicionada à verba de despesa extraordinária inscrita no artigo 581.º «Transferências - Exterior», divisão «Forças militares extraordinárias no ultramar», capítulo 17.º «Despesas comuns», do vigente orçamento de Encargos Gerais da Nação.
 
-###### Art. 2.º Para compensação do crédito designado no artigo anterior, é adicionada igual importância à verba inscrita em receita extraordinária no capítulo 12.º, grupo 9, artigo 205.º «Crédito interno», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação do crédito designado no artigo anterior, é adicionada igual importância à verba inscrita em receita extraordinária no capítulo 12.º, grupo 9, artigo 205.º «Crédito interno», do actual orçamento das receitas do Estado.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 12 de Março de 1974.**
+Promulgado em 12 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

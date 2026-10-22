@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/1997/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-1997-531998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 475b27264d7d16cbce2be84440c52be3d5fe1d07b87cdd7f8652118252dca2f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 250423966164d39c5d492be7d43cb5c4380d51c0b5d7d91c5ac3c44fccdb0e4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
 - Bissau
 - Convenção
 - Cooperação Bilateral
 - Cooperação Técnica
 - Portugal
-- Administração Local
 relationships: []
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:48Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +99,15 @@ Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 21 de Novembro de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Cardona Gomes Cravinho.
 
-**Assinado em 19 de Dezembro de 1996.**
+Assinado em 19 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Dezembro de 1996.**
+Referendado em 26 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOLO DE COOPERAÇÃO NO DOMÍNIO DA ADMINISTRAÇÃO AUTÁRQUICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU
 

@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/692-1975-311222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bef2f6bce51418e1d8a6e1a20e4fffb3bdfcc05f99d956219a2b40dab49bb3fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 348662794399219afa9360c25822142db7e04a631ab2ca7d260c337dcfe990ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Científica
+- Cooperação Económica
+- Cooperação Técnica
+- Cooperante
+- Moçambique
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:50Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +93,15 @@ de 12 de Dezembro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Geral de Cooperação entre o Governo da República Portuguesa e o Governo da República Popular de Moçambique, assinado em Lourenço Marques a 2 de Outubro de 1975, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Geral de Cooperação entre o Governo da República Portuguesa e o Governo da República Popular de Moçambique, assinado em Lourenço Marques a 2 de Outubro de 1975, cujo texto vai anexo ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Luís Cordes da Ponte Marques do Carmo - António Poppe Lopes Cardoso - Ernesto Augusto de Melo Antunes - Vítor Manuel Rodrigues Alves - João Pedro Tomás Rosa.
 
-**Assinado em 14 de Novembro de 1975.**
+Assinado em 14 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO GERAL DE COOPERAÇÃO
 

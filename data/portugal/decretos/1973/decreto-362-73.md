@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/362-1973-421450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4bfa0dc7ff461368e3b7d97e12705765525cdda5c8b371fd42d607d298e3a89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ef13007e533271f0075268bf2ae4ea9ea4ede0a6577696e1ab7da9be25d227d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:141005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:41Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +114,11 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivos de urgênc
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Continua válida até 31 de Dezembro de 1973 a lista de classificação do concurso para a categoria de reverificador-chefe do quadro técnico-aduaneiro comum do ultramar, publicada no Diário do Governo, 2.ª série, de 9 de Abril de 1970.
+Artigo 1.º Continua válida até 31 de Dezembro de 1973 a lista de classificação do concurso para a categoria de reverificador-chefe do quadro técnico-aduaneiro comum do ultramar, publicada no Diário do Governo, 2.ª série, de 9 de Abril de 1970.
 
-###### Art. 2.º São abolidos os emolumentos gerais aduaneiros referidos no artigo 29.º da tabela aprovada pelo [Decreto n.º 31883](https://diariodarepublica.pt/dr/detalhe/decreto/31883-1942-168646), de 12 de Fevereiro de 1942, que no Estado Português de Moçambique incidem sobre as mercadorias que circulam em regime de transferência.
+Art. 2.º São abolidos os emolumentos gerais aduaneiros referidos no artigo 29.º da tabela aprovada pelo [Decreto n.º 31883](https://diariodarepublica.pt/dr/detalhe/decreto/31883-1942-168646), de 12 de Fevereiro de 1942, que no Estado Português de Moçambique incidem sobre as mercadorias que circulam em regime de transferência.
 
-###### Art. 3.º - 1. Ao artigo 9.º da Organização dos Serviços da Guarda Fiscal do Estado Português de Moçambique, aprovada pelo [Decreto n.º 44347](https://diariodarepublica.pt/dr/detalhe/decreto/44347-1962-141005), de 14 de Maio de 1962, alterado pelo artigo único do [Decreto n.º 46109](https://diariodarepublica.pt/dr/detalhe/decreto/46109-1964-553971), de 28 de Dezembro de 1964, são aditados os §§ 3.º e 4.º, com a redacção seguinte:
+Art. 3.º - 1. Ao artigo 9.º da Organização dos Serviços da Guarda Fiscal do Estado Português de Moçambique, aprovada pelo [Decreto n.º 44347](https://diariodarepublica.pt/dr/detalhe/decreto/44347-1962-141005), de 14 de Maio de 1962, alterado pelo artigo único do [Decreto n.º 46109](https://diariodarepublica.pt/dr/detalhe/decreto/46109-1964-553971), de 28 de Dezembro de 1964, são aditados os §§ 3.º e 4.º, com a redacção seguinte:
 
 § 3.º No Estado Português de Moçambique o comando de três circunscrições fiscais será exercido por comandantes de circunscrição do quadro privativo.
 
@@ -102,13 +126,13 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 2. A execução do disposto nos parágrafos referidos no n.º 1 dependerá da inscrição de verbas próprias no Orçamento do Estado Português de Moçambique.
 
-###### Art. 4.º Passa a ser a seguinte a redacção da alínea e) do artigo 1.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921):
+Art. 4.º Passa a ser a seguinte a redacção da alínea e) do artigo 1.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921):
 
 e) Materiais de construção e de aparelhagem eléctrica, máquinas, aparelhos, seus acessórios e peças separadas, instrumentos e utensílios, postes e suportes das linhas transportadoras de energia, tubos de qualquer matéria e seus acessórios, quando sejam importados pelos corpos administrativos e destinados às suas redes de distribuição de águas, luz ou de esgotos, ou pelos serviços de obras públicas para realização das obras respeitantes às referidas redes ou a quaisquer outras de interesse para o fomento da província e do apetrechamento de portos, assim como os produtos químicos ou de outra natureza destinados exclusivamente ao tratamento das águas.
 
-###### Art. 5.º O regime aduaneiro prescrito no artigo 2.º do [Decreto n.º 43513](https://diariodarepublica.pt/dr/detalhe/decreto/43513-1961-555034), de 22 de Fevereiro de 1961, é tornado extensivo à Polícia Judiciária dos Estados Portugueses de Angola e Moçambique.
+Art. 5.º O regime aduaneiro prescrito no artigo 2.º do [Decreto n.º 43513](https://diariodarepublica.pt/dr/detalhe/decreto/43513-1961-555034), de 22 de Fevereiro de 1961, é tornado extensivo à Polícia Judiciária dos Estados Portugueses de Angola e Moçambique.
 
-###### Art. 6.º - 1. É alterada pela forma seguinte a tributação dos artigos pautais 91.09.01 a 91.09.09 das pautas mínimas de importação das províncias ultramarinas:
+Art. 6.º - 1. É alterada pela forma seguinte a tributação dos artigos pautais 91.09.01 a 91.09.09 das pautas mínimas de importação das províncias ultramarinas:
 
 91.09.01 - 30% ad valorem.
 
@@ -130,16 +154,16 @@ e) Materiais de construção e de aparelhagem eléctrica, máquinas, aparelhos, 
 
 2. O disposto no n.º 1 aplica-se aos bilhetes de despacho pendentes de liquidação e pagamento.
 
-###### Art. 7.º Ao artigo 7.º do [Decreto n.º 423/70](https://diariodarepublica.pt/dr/detalhe/decreto/423-1970-148832), de 4 de Setembro, é aditado o n.º 3, com a seguinte redacção:
+Art. 7.º Ao artigo 7.º do [Decreto n.º 423/70](https://diariodarepublica.pt/dr/detalhe/decreto/423-1970-148832), de 4 de Setembro, é aditado o n.º 3, com a seguinte redacção:
 
 3. Na província de Cabo Verde, em relação ao Aeroporto do Sal, além das referidas no n.º 1, podem ser devidas taxas pela utilização das instalações, cujo montante e destino serão fixados em portaria provincial, ficando a cobrança de umas e outras a cargo dos serviços provinciais designados na mesma portaria.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Julho de 1973.**
+Promulgado em 4 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.

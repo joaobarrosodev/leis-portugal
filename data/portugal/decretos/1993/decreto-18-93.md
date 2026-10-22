@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/18/1993/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/18-1993-281790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 637bb04ba4d67bbea91656f16437261ec9d27e5ccf355e65202a52618f89a8ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 378ee87bc3ec235c7f44042b2bc60a4fb6b4362ba76f95ee22dfbef893d06119
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Convenção
-- Portugal
-- Proteção do Ambiente
 - Cooperação Internacional
+- Embarcação
 - Poluição Marinha
 - Poluição pelos Navios
-relationships: []
+- Portugal
+- Proteção do Ambiente
+relationships:
+- type: corrected_by
+  target: pt:dre:566787:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 155/93, DE 31 DE AGOSTO, PUBLICADO NO DR.IS-A, 204, 3SUPL, DE 930831.\0\
+    30831.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/155-1993-566787
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:20Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +99,19 @@ de 19 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas, para adesão, as Emendas ao Anexo II da Convenção Internacional para a Prevenção da Poluição por Navios, modificada pelo Protocolo de 1978, cujo texto original em inglês e respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. São aprovadas, para adesão, as Emendas ao Anexo II da Convenção Internacional para a Prevenção da Poluição por Navios, modificada pelo Protocolo de 1978, cujo texto original em inglês e respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Domingos Manuel Martins Jerónimo - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 6 de Janeiro de 1993.**
+Promulgado em 6 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Janeiro de 1993.**
+Referendado em 8 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973.
 
@@ -510,11 +515,11 @@ The lists contained in appendices II and III of annex II of MARPOL 73/78 are rep
 
 APPENDIX II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf))](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
 
 APPENDIX III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf))](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
 
 APPENDIX IV
 
@@ -708,7 +713,7 @@ Distinctive number or letters: ...
 
 Cargo/ballast operations
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf))](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
 
 Signature of master: ...
 
@@ -722,7 +727,7 @@ International pollution prevention certificate for the carriage of noxious liqui
 
 Issued under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto as amended (hereinafter referred to as «the Convention») under the authority of the Government of... (full official designation of the country) by... (full official designation of the competent person or organization authorized under the provisions of the Convention).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf))](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
 
 This is to certify:
 
@@ -734,7 +739,7 @@ This is to certify:
 
 4 - That the ship is suitable for the carriage in bulk of the following noxious liquid substances, provided that all relevant operational provisions of annex II of the Convention are observed.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf))](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
 
 This certificate is valid, until ... subject to surveys in accordance with regulation 10 of annex II of the Convention.
 
@@ -1040,7 +1045,7 @@ Descarga de um tanque de resíduos
 
 Regra 9
 
-# Livro de registo de carga
+## Livro de registo de carga
 
 O texto existente do parágrafo 2, alíneas i) a ix), é substituído pelo seguinte:
 
@@ -1188,25 +1193,25 @@ d) O aparelho de medida do teor em hidrocarbonetos instalado no equipamento moni
 
 As listas que figuram nos apêndices II e III do anexo II da MARPOL 73/78 são substituídas pelas seguintes:
 
-## APÊNDICE II
+APÊNDICE II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf))](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
 
-## APÊNDICE III
+APÊNDICE III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf))](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
 
-## APÊNDICE IV
+APÊNDICE IV
 
-# Livro de registo de carga para os navios de transporte de substâncias líquidas nocivas a granel
+Livro de registo de carga para os navios de transporte de substâncias líquidas nocivas a granel
 
 O apêndice IV existente é substituído pelo seguinte:
 
-## APÊNDICE IV
+APÊNDICE IV
 
 Modelo do livro de registo de carga
 
-# Livro de registo de carga para os navios de transporte de substâncias líquidas nocivas a granel
+Livro de registo de carga para os navios de transporte de substâncias líquidas nocivas a granel
 
 Nome do navio: ...
 
@@ -1388,11 +1393,11 @@ Número ou letras do distintivo do navio: ...
 
 Operações de carga/lastragem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf))](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
 
 Assinatura do comandante: ...
 
-## APÊNDICE V
+APÊNDICE V
 
 Modelo de certificado
 
@@ -1402,7 +1407,7 @@ Certificado internacional de prevenção da poluição para transporte de subst�
 
 Emitido de acordo com as disposições da Convenção Internacional para a Prevenção da Poluição por Navios, 1973, como alterada pelo respectivo Protocolo de 1978, na sua versão actualizada (daqui em diante referida como «a Convenção») sob a autoridade do Governo de ... (designação oficial completa do país) por ... (designação oficial completa da pessoa competente ou organismo autorizado nos termos da Convenção).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf))](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
 
 Certifica-se:
 
@@ -1414,7 +1419,7 @@ Certifica-se:
 
 4 - Que o navio é adequado para o transporte a granel das substâncias líquidas nocivas a seguir indicadas, desde que sejam satisfeitas todas as disposições operacionais pertinentes do anexo II à Convenção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf))](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/116a00/27122750.pdf)
 
 Este certificado é válido até ... desde que sejam passadas as vistorias constantes da regra 10 do anexo II à Convenção.
 
@@ -1430,7 +1435,7 @@ Certifica-se que nas vistorias exigidas pela regra 10 do anexo II à Convenção
 
 Vistoria anual:
 
-**Assinado ... (assinatura do funcionário devidamente autorizado).**
+Assinado ... (assinatura do funcionário devidamente autorizado).
 
 Local: ...
 
@@ -1440,7 +1445,7 @@ Data: ...
 
 Vistoria anual (ver nota *)/intermédia (ver nota *):
 
-**Assinado ... (assinatura do funcionário devidamente autorizado).**
+Assinado ... (assinatura do funcionário devidamente autorizado).
 
 Local: ...
 
@@ -1450,7 +1455,7 @@ Data: ...
 
 Vistoria anual (ver nota *)/intermédia (ver nota *):
 
-**Assinado ... (assinatura do funcionário devidamente autorizado).**
+Assinado ... (assinatura do funcionário devidamente autorizado).
 
 Local: ...
 
@@ -1460,7 +1465,7 @@ Data: ...
 
 Vistoria anual:
 
-**Assinado ... (assinatura do funcionário devidamente autorizado).**
+Assinado ... (assinatura do funcionário devidamente autorizado).
 
 Local: ...
 

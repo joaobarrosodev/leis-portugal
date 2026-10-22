@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07
   number: '4'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 207-(2) a 207-(40)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00402/0000200040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2-a/2021/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64753125957fe47d565c3234b3f47e7ffef545878c217f6c2db8be296926879d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0656562b79c117689258a1200c395db4df7dd6fbfcab21ec5a643ef9831111d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Análises Clínicas
-- Crime
-- Proteção Civil
+- Autarquia Local
 - Circulação de Pessoas
-- Estabelecimento Comercial
-- Definição de Competências
+- Comércio
 - Controlo Sanitário
-- Estado de Emergência
-- Segurança Pública
-- Fiscalização
-- Isolamento Profiláctico
-- Junta de Freguesia
-- GNR
+- Crime
+- Definição de Competências
 - Doença Infecciosa
 - Epidemia
+- Estabelecimento Comercial
+- Estado de Emergência
+- Fiscalização
+- GNR
+- Isolamento Profiláctico
+- Junta de Freguesia
 - Polícia Municipal
-- Comércio
-- Autarquia Local
+- Proteção Civil
+- PSP
+- Segurança Pública
 - Situação de Calamidade
 relationships:
 - type: amended_by
@@ -130,16 +130,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/6-a/2021/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/6-a/2021/01/06/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139207969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141469892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147933283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147968348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149103950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151904698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153138220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
 article_structure:
-  article_count: 75
+  article_count: 72
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:47Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +252,9 @@ Os artigos 1.º, 2.º, 58.º e 62.º do [Decreto n.º 11/2020](https://diariodar
 
 O presente decreto regulamenta a prorrogação do estado de emergência efetuada pelo [Decreto do Presidente da República n.º 6-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/6-a-2021-153138220), de 6 de janeiro.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Com exceção do disposto no n.º 2 do artigo 61.º-A, que apenas é aplicável aos concelhos nele referidos, o disposto nos artigos 3.º a 31.º, 53.º a 60.º a 62.º é aplicável a todo o território nacional continental.
 
@@ -194,7 +264,9 @@ O presente decreto regulamenta a prorrogação do estado de emergência efetuada
 
 4 - [...].
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]:
 
@@ -214,7 +286,9 @@ f) [...].
 
 3 - [...].
 
-###### Artigo 62.º — Entrada em vigor
+Artigo 62.º
+
+Entrada em vigor
 
 1 - O presente decreto entra em vigor às 00:00 h do dia 8 de janeiro de 2021.
 
@@ -256,15 +330,15 @@ O presente decreto entra em vigor às 00:00 h do dia 8 de janeiro de 2021.
 
 Visto e aprovado em Conselho de Ministros de 7 de janeiro de 2021. - António Luís Santos da Costa.
 
-**Assinado em 7 de janeiro de 2021.**
+Assinado em 7 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de janeiro de 2021.**
+Referendado em 7 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -1636,7 +1710,7 @@ d) Os postos de abastecimento de combustíveis não abrangidos pelo artigo 14.º
 
 ###### Artigo 53.º — Execução a nível local
 
-**O Primeiro-Ministro procede à nomeação das autoridades que coordenam a execução da declaração do estado de emergência no território nacional continental, a nível local, nos termos do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual.**
+O Primeiro-Ministro procede à nomeação das autoridades que coordenam a execução da declaração do estado de emergência no território nacional continental, a nível local, nos termos do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual.
 
 ###### Artigo 54.º — Defesa nacional
 
@@ -2301,3 +2375,5 @@ Salões de jogos e salões recreativos.
 4 - Estabelecimentos de bebidas:
 
 Estabelecimentos de bebidas e similares, com ou sem espaços de dança, salvo quanto aos integrados em estabelecimentos turísticos e de alojamento local, para prestação de serviço exclusivamente aos respetivos hóspedes, sem prejuízo do disposto no artigo 17.º
+
+113871472

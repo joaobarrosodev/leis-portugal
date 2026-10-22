@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/293-1974-476140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb9f38cb387e1ecb6440b08b7c521469f42b7e1df4df1855caeccb2949c5a9b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07799baa048d34327cabefb1c9be28c40294d16f7f43a5047010362c868fba7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:39Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +87,15 @@ de 28 de Junho
 
 Usando da faculdade conferida pela segunda parte do n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo de Cooperação entre o Governo de Portugal e o Governo dos Estados Unidos da América sobre as Aplicações Civis da Energia Atómica, assinado em Washington, em 16 de Maio de 1974, cujo texto em português vai anexo ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo de Cooperação entre o Governo de Portugal e o Governo dos Estados Unidos da América sobre as Aplicações Civis da Energia Atómica, assinado em Washington, em 16 de Maio de 1974, cujo texto em português vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos.
 
-**Assinado em 20 de Junho de 1974.**
+Assinado em 20 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Acordo de Cooperação entre o Governo de Portugal e o Governo dos Estados Unidos da América sobre as Aplicações Civis da Energia Atómica.
 
@@ -109,7 +109,7 @@ Considerando que as Partes desejam que este Acordo revogue o Acordo de Cooperaç
 
 As Partes acordam no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Para os fins deste Acordo:
 
@@ -153,7 +153,7 @@ b) Qualquer material enriquecido artificialmente por qualquer dos materiais acim
 
 13) «Acordos revogados» significa os Acordos de Cooperação entre o Governo de Portugal e o Governo dos Estados Unidos da América, assinados pelas Partes em 3 de Julho de 1969 e em 21 de Julho de 1955, com as emendas que lhes foram introduzidas.
 
-ARTIGO II
+###### ARTIGO II
 
 A) Ressalvadas as disposições deste Acordo, a disponibilidade de pessoal e material e as leis aplicáveis, regulamentos e condições de licenciamento em vigor nos respectivos países, as Partes cooperarão entre si para a consecução da utilização da energia atómica para fins pacíficos.
 
@@ -161,7 +161,7 @@ B) Ao abrigo deste Acordo, não serão transmitidas informações reservadas e n
 
 C) Este Acordo não exigirá a troca de qualquer informação que as Partes não estiverem autorizadas a comunicar.
 
-ARTIGO III
+###### ARTIGO III
 
 Ressalvadas as disposições do artigo II, as Partes poderão permutar informações não reservadas relativas à aplicação da energia atómica para fins pacíficos e aos problemas de saúde e segurança com aquela relacionados. A permuta de informações prevista neste artigo será efectuada por várias formas, incluindo relatórios, conferências e visitas a instalações, e poderá incluir informações nos seguintes campos:
 
@@ -171,7 +171,7 @@ Ressalvadas as disposições do artigo II, as Partes poderão permutar informaç
 
 3) Problemas de saúde e segurança relacionados com o que antecede.
 
-ARTIGO IV
+###### ARTIGO IV
 
 A) Poderão ser transferidos entre as Partes, para aplicações definidas e nas quantidades, termos e condições que sejam acordados quando não possam ser obtidos comercialmente, materiais de interesse relacionados com os assuntos objecto da troca de informações acordada, conforme previsto no artigo III e ressalvadas as disposições do artigo II, incluindo matérias-primas, água-pesada, subprodutos, outros radioisótopos, isótopos estáveis, e material nuclear especial para fins que não sejam o de abastecimento de combustível a reactores e experiências com reactores.
 
@@ -179,11 +179,11 @@ B) Ressalvadas as disposições do artigo II e nos termos e condições que seja
 
 C) Poderão ser transferidas de uma para a outra Parte, nos termos e condições que sejam acordados, equipamento e dispositivos relacionados com os assuntos objecto da troca de informações acordada, conforme previsto no artigo III e ressalvadas as disposições do artigo II. Reconhece-se que tais transferências estarão sujeitas às limitações que poderão resultar da carência de suprimentos ou outras circunstâncias ocasionais.
 
-ARTIGO V
+###### ARTIGO V
 
 A aplicação ou uso de qualquer informação (incluindo desenhos de projectos e especificações) e de qualquer material, equipamento e dispositivos, permutados ou transferidos entre as Partes, ao abrigo do presente Acordo ou dos Acordos revogados, será da responsabilidade da Parte que os recebe, e a outra Parte não garante a exactidão ou integralidade de tal informação nem garante a adequação de tal informação, material, equipamento e dispositivos a qualquer uso ou aplicação específica.
 
-ARTIGO VI
+###### ARTIGO VI
 
 A) Relativamente à aplicação da energia atómica para fins pacíficos, entende-se que poderão ser realizados acordos entre uma Parte ou pessoas autorizadas e sob a sua jurisdição e pessoas autorizadas e sob a jurisdição da outra Parte para a transferência de equipamento e dispositivos e materiais que não sejam material nuclear especial e para a execução de serviços com aqueles relacionados.
 
@@ -191,7 +191,7 @@ B) Relativamente à aplicação da energia atómica para fins pacíficos, entend
 
 C) As Partes acordam em que as actividades mencionadas nos parágrafos A) e B) deste artigo ficarão sujeitas às limitações do artigo II e à orientação das Partes no respeitante às transacções envolvendo as pessoas autorizadas mencionadas nos parágrafos A) e B) do presente artigo.
 
-ARTIGO VII
+###### ARTIGO VII
 
 A) Ressalvada a capacidade disponível das instalações da Comissão para o enriquecimento de urânio e dentro da quantidade cuja transferência é autorizada no artigo IX, a Comissão poderá celebrar contratos, nos termos adiante estipulados, com o Governo de Portugal, ou com pessoas autorizadas e sob a sua jurisdição, com vista à produção ou enriquecimento de urânio enriquecido de isótopo U-235 para utilização como combustível em aplicações energéticas realizadas em Portugal. Fica entendido entre as Partes que, sempre que o Governo de Portugal, ou aquelas pessoas autorizadas, tenham encomendas para os referidos serviços e estejam preparados para executar contratos firmes estipulando os planos de entrega acordados e outros termos e condições de fornecimento, o Governo de Portugal e aquelas pessoas autorizadas terão acesso, numa base equitativa juntamente com outros compradores de tais serviços, à capacidade de enriquecimento de urânio então disponível nas instalações da Comissão e ainda não distribuída.
 
@@ -201,7 +201,7 @@ C) Nos termos e condições que sejam acordados, a Comissão poderá transferir 
 
 D) Poderá ser transferido para o Governo de Portugal, ou para pessoas autorizadas e sob sua jurisdição, material nuclear especial que não seja urânio enriquecido de isótopo U-235, para utilização como combustível em reactores e experiências com reactores, com a condição de, se as transferências forem feitas pela Comissão, esta só poder transferir tal material até ao montante que se contenha num limite estipulado para o efeito no artigo IX e os termos e condições de cada transferência serem acordados antecipadamente.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 A) O urânio enriquecido fornecido ao abrigo do presente Acordo poderá conter até 20% de isótopo U-235. Parte do urânio enriquecido de isótopo U-235 assim fornecido poderá ser cedido como material contendo mais de 20% de isótopo U-235, quando a Comissão considere que existe uma justificação técnica ou económica para tal transferência.
 
@@ -215,11 +215,11 @@ E) Nenhum material nuclear especial produzido mediante a utilização de materia
 
 F) Alguns materiais de interesse para a energia atómica que podem ser fornecidos nos termos do presente Acordo, ou que podem ter sido fornecidos ao abrigo dos Acordos revogados, são nocivos às pessoas e coisas, a não ser quando manuseados e utilizados cuidadosamente. Após a entrega de tais materiais, o Governo de Portugal suportará toda a responsabilidade, até onde o Governo dos Estados Unidos da América estiver implicado, pelo manuseamento e utilização em condições de segurança de tais materiais. Relativamente a qualquer material nuclear especial ou elementos de combustível que a Comissão, ao abrigo deste Acordo, possa alugar ao Governo de Portugal ou a qualquer pessoa sob a sua jurisdição, ou possa ter alugado ao abrigo dos Acordos revogados, o Governo de Portugal indemnizará o Governo dos Estados Unidos da América e isentá-lo-á de qualquer responsabilidade (incluindo responsabilidades perante terceiros) por toda e qualquer causa derivada da produção, fabrico, propriedade, aluguer e posse e utilização de tal material nuclear especial ou elementos de combustível após a entrega pela Comissão ao Governo de Portugal ou a qualquer pessoa sob a sua jurisdição.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O trabalho de separação necessário à produção de urânio enriquecido de isótopo U-235, transferido ao abrigo do presente Acordo, ou dos Acordos revogados, dos Estados Unidos da América para Portugal para aplicações energéticas, não excederá o necessário para garantir os ciclos de combustível de reactores possuindo uma potência instalada total de 3000 MW (eléctricos).
 
-ARTIGO X
+###### ARTIGO X
 
 O Governo de Portugal garante que:
 
@@ -229,7 +229,7 @@ O Governo de Portugal garante que:
 
 3) Nenhum material, incluindo equipamento e dispositivos, transferido para o Governo de Portugal ou pessoas autorizadas e sob a sua jurisdição, ao abrigo do presente Acordo ou dos Acordos revogados, será transferido para pessoas não autorizadas ou fora da jurisdição do Governo de Portugal, excepto se a Comissão concordar na transferência para a jurisdição de outro país ou grupo de países e, ainda assim, só quando, na opinião da Comissão, a transferência estiver dentro do âmbito de um acordo de cooperação entre o Governo dos Estados Unidos da América e o outro país ou grupo de países.
 
-ARTIGO XI
+###### ARTIGO XI
 
 A) O Governo de Portugal e o Governo dos Estados Unidos da América salientam o seu interesse comum em assegurar que qualquer material, equipamento ou dispositivos postos à disposição do Governo de Portugal ou de qualquer outra pessoa sob a sua jurisdição, ao abrigo deste Acordo ou dos Acordos revogados, serão utilizados unicamente para fins civis.
 
@@ -265,7 +265,7 @@ ii) Exigir que quaisquer desses materiais sob a custódia do Governo de Portugal
 
 C) O Governo de Portugal compromete-se a facilitar a aplicação das salvaguardas previstas neste artigo.
 
-ARTIGO XII
+###### ARTIGO XII
 
 A) O Governo de Portugal e o Governo dos Estados Unidos da América notam que, em virtude de um acordo assinado por eles e pela Agência Internacional de Energia Atómica em 11 de Julho de 1969, a Agência tem vindo a aplicar salvaguardas a materiais, equipamento e instalações transferidos para a jurisdição do Governo de Portugal ao abrigo dos Acordos revogados. As Partes, reconhecendo ser desejável continuar a fazer uso das instalações e serviços da Agência Internacional de Energia Atómica, acordam em que as salvaguardas da Agência continuarão a ser aplicadas aos materiais, equipamento e instalações transferidos ao abrigo dos Acordos revogados ou a serem transferidos ao abrigo deste Acordo.
 
@@ -273,15 +273,15 @@ B) A aplicação contínua das salvaguardas da Agência, de acordo com o present
 
 C) Caso deva ser posto termo, por qualquer razão, ao acordo sobre salvaguardas aplicável, mencionado no parágrafo B) do presente artigo, e, consequentemente, sejam retomados pelo Governo dos Estados Unidos da América os direitos de salvaguarda previstos no artigo XI deste Acordo, as Partes examinarão a situação assim criada, à luz das obrigações assumidas pelo Governo dos Estados Unidos da América nos termos do Tratado de Não-Proliferação de Armas Nucleares, a fim de poderem ser tomadas, se necessário, as medidas adequadas ao cumprimento satisfatório das referidas obrigações.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Os direitos e obrigações das Partes previstos no presente Acordo serão extensíveis, na medida aplicável, às actividades de cooperação iniciadas ao abrigo dos Acordos revogados, incluindo além de outras, informações, materiais, equipamento e dispositivos transferidos na sua vigência.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 O Acordo de Cooperação entre o Governo de Portugal e o Governo dos Estados Unidos da América sobre as Aplicações Civis da Energia Atómica, assinado em 3 de Julho de 1969, fica revogado pelo presente Acordo na data em que este Acordo entrar em vigor.
 
-ARTIGO XV
+###### ARTIGO XV
 
 O presente Acordo entrará em vigor na data em que cada Governo tiver recebido do outro Governo notificação por escrito de que cumpriu todos os requisitos legais e constitucionais para a entrada em vigor deste Acordo e permanecerá em vigor por um período de quarenta anos.
 

@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/86-1980-460778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d3d9ef10d22bafa5a254fd3e48a7e02629cb1b591f119543a65bd9d59aa4590
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6258be6a9ebbcdd2347840341ad95d11ecc6086a5f7d8921a33025759298eb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimento Hospitalar
+- Instalação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:10Z'
   warnings: []
   errors: []
 ---
@@ -95,22 +105,22 @@ Ao abrigo do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.p
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os estabelecimentos hospitalares dependentes do Ministério dos Assuntos Sociais, em construção ou adaptação pelo Ministério da Habitação e Obras Públicas, são considerados pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira.
+Artigo 1.º Os estabelecimentos hospitalares dependentes do Ministério dos Assuntos Sociais, em construção ou adaptação pelo Ministério da Habitação e Obras Públicas, são considerados pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira.
 
-###### Art. 2.º - 1 - O Ministro dos Assuntos Sociais fixará um período prévio de instalação para os hospitais a que se refere o artigo anterior, em caso algum superior a dois anos, e designará segundo os esquemas e nos moldes legalmente previstos as respectivas comissões instaladoras.
+Art. 2.º - 1 - O Ministro dos Assuntos Sociais fixará um período prévio de instalação para os hospitais a que se refere o artigo anterior, em caso algum superior a dois anos, e designará segundo os esquemas e nos moldes legalmente previstos as respectivas comissões instaladoras.
 
 2 - Compete, nomeadamente, às comissões instaladoras referidas no número anterior promover a estruturação dos novos estabelecimentos e o recrutamento do pessoal que se mostre indispensável para o início da sua actividade.
 
-###### Art. 3.º A aplicação do disposto no artigo 2.º do presente diploma a cada um dos novos estabelecimentos será feita por portaria do Ministro dos Assuntos Sociais, ouvida a Direcção-Geral dos Hospitais, nos termos dos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 3.º A aplicação do disposto no artigo 2.º do presente diploma a cada um dos novos estabelecimentos será feita por portaria do Ministro dos Assuntos Sociais, ouvida a Direcção-Geral dos Hospitais, nos termos dos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
-###### Art. 4.º Após a entrega dos novos edifícios ao Ministério dos Assuntos Sociais pelo Ministério da Habitação e Obras Públicas, poderá ser fixado novo período para instalação dos hospitais, e designadas as respectivas comissões instaladoras, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 4.º Após a entrega dos novos edifícios ao Ministério dos Assuntos Sociais pelo Ministério da Habitação e Obras Públicas, poderá ser fixado novo período para instalação dos hospitais, e designadas as respectivas comissões instaladoras, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
-###### Art. 5.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
+Art. 5.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
 
 Francisco Sá Carneiro - João António Morais Leitão.
 
-**Promulgado em 8 de Setembro de 1980.**
+Promulgado em 8 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

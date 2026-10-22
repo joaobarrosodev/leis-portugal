@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/588-1976-430825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10aff034230e51335394f9c505f15b434c9549c7407e9c358c2290d491c9ae1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe37eba34c886b40b131a3b6601350a084328f6f8f5b0a8d066f775fc41e1c2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AIEA
+- ARMA Nuclear
+- Conselho de Cultura
+- Convenção
+- Desarmamento
+- Londres
+- Moscovo
+- Portugal
+- Tratado de não Proliferação de Armas Nucleares
+- Washington
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:16Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +96,15 @@ de 22 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Tratado de não Proliferação das Armas Nucleares, assinado em Londres, Moscovo e Washington a 1 de Julho de 1968, cujos textos, em francês e respectiva tradução em português, vão anexos ao presente decreto.
+Artigo único. É aprovado, para adesão, o Tratado de não Proliferação das Armas Nucleares, assinado em Londres, Moscovo e Washington a 1 de Julho de 1968, cujos textos, em francês e respectiva tradução em português, vão anexos ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Walter Ruivo Pinto Gomes Rosa - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 2 de Julho de 1976.**
+Assinado em 2 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ## ANEXO — TRAITÉ SUR LA NON PROLIFÉRATION DES ARMES NUCLÉAIRES
 
@@ -228,15 +238,15 @@ Recordando que, de acordo com a Carta das Nações Unidas, os Estados se devem a
 
 Concordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Cada Estado possuidor de armas nucleares que seja Parte no Tratado compromete-se a não transferir para ninguém, quer directa, quer indirectamente, armas nucleares ou outros dispositivos nucleares explosivos nem o contrôle sobre tais armas ou dispositivos explosivos, e a não ajudar, encorajar ou induzir de nenhuma forma qualquer Estado não possuidor de armas nucleares a fabricar ou adquirir de outra maneira armas nucleares ou outros dispositivos nucleares explosivos, ou o contrôle sobre tais armas ou dispositivos explosivos.
 
-ARTIGO II
+###### ARTIGO II
 
 Cada Estado não possuidor de armas nucleares que seja Parte no Tratado comprometo-se a não receber de ninguém, nem directa, nem indirectamente, a transferência de armas nucleares ou outros dispositivos nucleares explosivos ou do contrôle de tais armas ou de tais dispositivos explosivos; a não fabricar nem adquirir de qualquer outras maneira armas nucleares ou outros dispositivos nucleares explosivos, e a mão procurar nem receber qualquer ajuda para a fabricação de armas nucleares ou de outros dispositivos nucleares explosivos.
 
-ARTIGO III
+###### ARTIGO III
 
 1. Cada Estado não possuidor de armas nucleares que seja Parte no Tratado compromete-se a aceitar as garantias estipuladas num acordo que será negociado e concluído com a Agência Internacional da Energia Atómica, em conformidade com o Estatuto da Agência internacional da Energia Atómica e com o sistema de garantias da referida Agência, para o fim exclusivo de verificar o cumprimento das obrigações assumidas por esse Estado nos termos do presente Tratado em ordem a impedir que a energia nuclear seja desviada das suas utilizações pacíficas para armas nucleares e outros dispositivos nucleares explosivos. Os processos de garantia exigidos por este artigo aplicar-se-ão às matérias básicas e aos produtos cindíveis especiais, quer estas matérias ou produtos sejam produzidos, tratados ou utilizados numa instalação nuclear principal, quer se encontrem fora de uma tal instalação. As garantias exigidas por este artigo aplicar-se-ão a todas as matérias básicas ou produtos cindíveis especiais em todas as actividades nucleares pacíficas exercidas no território do dito Estado, sob sua jurisdição, ou efectuadas sob seu contrôle em qualquer lugar que seja.
 
@@ -252,25 +262,25 @@ A qualquer Estado não possuidor de armas nucleares, para fins pacíficos, a nã
 
 4. Os Estados não possuidores de armas nucleares que sejam Partes no Tratado concluirão, individualmente ou em conjunto com outros Estados, de harmonia com o Estatuto da Agência Internacional da Energia Atómica, acordos com a Agência Internacional da Energia Atómica a fim de satisfazer as exigências deste artigo. A negociação de tais acordos começará dentro dos cento e oitenta dias seguintes à entrada em vigor inicial deste Tratado. Para os Estados que depositem os seus instrumentos de ratificação ou de adesão depois deste prazo de cento e oitenta dias, a negociação desses acordos começará o mais tardar na data do aludido depósito. Os referidos acordos deverão entrar em vigor o mais tardar dezoito meses depois da data do início das negociações.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1. Nenhuma disposição do presente Tratado será interpretada no sentido de afectar o direito inalienável de todas as Partes no Tratado a desenvolver a investigação, a produção e a utilização da energia nuclear para fins pacíficos, sem discriminação e em conformidade com as disposições dos artigos I, e II, deste Tratado.
 
 2. Todas as Partes do Tratado obrigam-se a facilitar um intercâmbio tão vasto quanto possível de equipamento, de materiais e de informações científicas e tecnológicas com vista às utilizações da energia nuclear para fins pacíficos e têm o direito de nele participar. As Partes no Tratado que estejam em situação de fazê-lo deverão também cooperar, contribuindo individualmente ou em conjunto com outros Estados ou organizações internacionais para o maior desenvolvimento das aplicações da energia nuclear com fins pacíficos, em especial nos territórios dos Estados não possuidores de armas nucleares que são Partes no Tratado, tendo em devida conta as necessidades das regiões do mundo em vias de desenvolvimento.
 
-ARTIGO V
+###### ARTIGO V
 
 Cada Parte no Tratado obriga-se a tomar as medidas apropriadas para assegurar que, em conformidade com o presente Tratado, sob vigilância internacional apropriada e pelos processos internacionais apropriados, os benefícios potenciais de qualquer aplicação pacífica das explosões nucleares sejam acessíveis em bases não discriminatórias aos Estados não possuidores de armas nucleares que são Partes no Tratado e que o custo para as ditas Partes dos dispositivos explosivos utilizados seja o mais baixo possível e exclua qualquer encargo para investigação e desenvolvimento. Os Estados não possuidores de armas nucleares que são Partes do Tratado deverão estar em posição de obter tais benefícios, em virtude de um ou mais acordos internacionais especiais, através de um organismo internacional apropriado no qual os Estados não possuidores de armas nucleares estejam adequadamente representados. As negociações sobre esta questão deverão começar o mais cedo possível depois da entrada em vigor do Tratado. Os Estados não possuidores de armas nucleares que sejam Partes no Tratado poderão também, se o desejarem, obter os referidos benefícios em virtude de acordos bilaterais.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Cada uma das Partes no Tratado compromete-se a efectuar negociações de boa fé sobre medidas eficazes relativas à cessação da corrida aos armamentos nucleares numa data próxima e ao desarmamento nuclear, e sobre um tratado de desarmamento geral e completo sob um contrôle internacional estrito e eficaz.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Nenhuma cláusula do presente Tratado afectará o direito de qualquer grupo de Estados a concluir tratados regionais com vista a assegurar a ausência total de armas nucleares nos respectivos territórios.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1. Qualquer Parte no Tratado pode propor emendas ao presente Tratado. O texto de qualquer emenda proposta será submetido aos Governos depositários, que o comunicarão a todas as Partes no Tratado. Se um terço ou mais das Partes no Tratado o solicitarem então, os Governos depositários convocarão uma conferência, para a qual convidarão todas as Partes no Tratado, em ordem a estudar essa emenda.
 
@@ -278,7 +288,7 @@ ARTIGO VIII
 
 3. Cinco anos depois da entrada em vigor do presente Tratado reunir-se-á em Genebra, Suíça, uma conferência das Partes no Tratado a fim de examinar o funcionamento do presente Tratado com vista a assegurar-se que os objectivos do preâmbulo e as disposições do Tratado estão a ser efectivados. Em seguida, com intervalos de cinco anos, uma maioria das Partes no Tratado poderá obter, submetendo uma proposta para este efeito aos Governos depositários, a convocação de outras conferências com o mesmo objectivo de examinar o funcionamento do Tratado.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1. O presente Tratado estará aberto à assinatura de todos os Estados. Qualquer Estado que não tenha assinado o presente Tratado antes da sua entrada em vigor, em conformidade com o parágrafo 3 deste artigo, poderá a ele aderir em qualquer momento.
 
@@ -292,13 +302,13 @@ ARTIGO IX
 
 6. O presente Tratado será registado pelos Governos depositários em conformidade com o artigo 102 da Carta das Nações Unidas.
 
-ARTIGO X
+###### ARTIGO X
 
 1. Cada Parte terá direito, no exercício da sua soberania nacional, a se retirar do Tratado se julgar que acontecimentos extraordinários, relacionados com o objecto do presente Tratado, comprometeram os interesses supremos do seu país. Dessa retirada deverá notificar todas as outras Partes no Tratado, bem como o Conselho de Segurança da Organização das Nações Unidas, com uma antecedência de três meses. A referida notificação deverá conter uma exposição dos acontecimentos extraordinários que o Estado em questão considere como tendo comprometido os seus interesses supremos.
 
 2. Vinte e cinco anos depois da entrada em vigor do Tratado será convocada uma conferência para decidir se o Tratado continuará em vigor por tempo indefinido ou será prorrogado por um ou mais períodos suplementares de duração determinada. Esta decisão será tomada por maioria das Partes no Tratado.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O presente Tratado, cujos textos em inglês, russo, espanhol, francês e chinês são igualmente autênticos, será depositado nos arquivos dos Governos depositários. Os Governos depositários enviarão cópias devidamente certificadas do presente Tratado aos Governos dos Estados que tenham assinado o Tratado ou que a ele tenham aderido.
 

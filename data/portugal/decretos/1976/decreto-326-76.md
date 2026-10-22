@@ -48,36 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/326-1976-427799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fb91a1354e65b88f1463a99bf8e9316fee04f1f3c2239bf6da4d56d959a2e93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3f37b603c7d434f24adf71340c45f2384c15429d58b2e97604b2511f8e45728
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CTT
+- Instalações Radioelétricas
+- Oeiras
+- Radiocomunicações
+- Servidão Radioelétrica
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:426876:por
+  label: Rectificado pela DECL.DD8890.28.05.1976.PCM, DR.IS [125] de 28.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-426876
+  date: '1976-05-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:49Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +112,9 @@ Assim, nos termos do artigo 14.º, n.º 1, do [Decreto-Lei n.º 597/73](https://
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As zonas confinantes com o Centro de Fiscalização Radioeléctrica do Sul pertencem à empresa pública do Estado Correios e Telecomunicações de Portugal, estão sujeitas a servidão radioeléctrica, e bem assim a outras restrições de utilidade pública, nos termos do artigo 1.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
+Artigo 1.º As zonas confinantes com o Centro de Fiscalização Radioeléctrica do Sul pertencem à empresa pública do Estado Correios e Telecomunicações de Portugal, estão sujeitas a servidão radioeléctrica, e bem assim a outras restrições de utilidade pública, nos termos do artigo 1.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
 
-###### Art. 2.º O Centro de Fiscalização Radioeléctrica do Sul situa-se no lugar do Alto do Pai Mó, freguesia de Barcarena, concelho de Oeiras, e ocupa uma área de cerca de 170000 m2, confinando com prédios, cujos proprietários são os a seguir indicados:
+Art. 2.º O Centro de Fiscalização Radioeléctrica do Sul situa-se no lugar do Alto do Pai Mó, freguesia de Barcarena, concelho de Oeiras, e ocupa uma área de cerca de 170000 m2, confinando com prédios, cujos proprietários são os a seguir indicados:
 
 a) A norte: Octávio Garcia, residente em Oeiras;
 
@@ -128,9 +146,9 @@ Sebastião Lucas, residente em Queijas;
 
 Octávio Garcia, residente em Oeiras.
 
-###### Art. 3.º A zona de libertação primária a que alude o artigo 7.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), bem como o limite de 1000 m referente à zona secundária e previsto no artigo 10.º, I, do mesmo decreto-lei, encontram-se demarcados na planta topográfica, na escala de 1:25000, incluída na parte final deste diploma.
+Art. 3.º A zona de libertação primária a que alude o artigo 7.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), bem como o limite de 1000 m referente à zona secundária e previsto no artigo 10.º, I, do mesmo decreto-lei, encontram-se demarcados na planta topográfica, na escala de 1:25000, incluída na parte final deste diploma.
 
-###### Art. 4.º - 1. Na zona de libertação primária é proibida, salvo autorização dada pelos CTT, qualquer acção que envolva:
+Art. 4.º - 1. Na zona de libertação primária é proibida, salvo autorização dada pelos CTT, qualquer acção que envolva:
 
 a) A instalação ou manutenção, ainda que temporária, de estruturas ou outros obstáculos metálicos;
 
@@ -154,7 +172,7 @@ b) Só poderá ser autorizada a implantação de qualquer obstáculo fixo ou mó
 
 II - Na restante área da zona secundária, até ao afastamento de 4000 m a contar dos limites do Centro Radioeléctrico, só será permitida a montagem de linhas de energia eléctrica de tensão composta superior a 5 kV, desde que não prejudiquem o funcionamento do Centro.
 
-###### Art. 5.º A Direcção dos Serviços Radioeléctricos dos CTT é a entidade competente para:
+Art. 5.º A Direcção dos Serviços Radioeléctricos dos CTT é a entidade competente para:
 
 a) Conceder as autorizações a que se faz referência nos n.os 1 e 2 do artigo anterior;
 
@@ -164,16 +182,16 @@ c) Fiscalizar o cumprimento das disposições legais respeitantes à presente se
 
 d) Aplicar, nos termos do artigo 24.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), as multas decorrentes das infracções verificadas.
 
-###### Art. 6.º Das decisões tomadas nos termos das alíneas b) e d) do artigo anterior cabe recurso para o Ministro dos Transportes e Comunicações.
+Art. 6.º Das decisões tomadas nos termos das alíneas b) e d) do artigo anterior cabe recurso para o Ministro dos Transportes e Comunicações.
 
 José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - José Augusto Fernandes.
 
-**Promulgado em 12 de Abril de 1976.**
+Promulgado em 12 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/10600/10141016.pdf))](https://files.diariodarepublica.pt/1s/1976/05/10600/10141016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/10600/10141016.pdf)
 
-**O Ministro dos Transportes e Comunicações, José Augusto Fernandes.**
+O Ministro dos Transportes e Comunicações, José Augusto Fernandes.

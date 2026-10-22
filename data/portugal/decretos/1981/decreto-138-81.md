@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/138-1981-569136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14ff366e3d5849baa6c039ecb9f5acc3fa330c882d454381324e75f61a29b5e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14446417c427e575f86b118752539d893c1df14d64166ba2ee647bc7a9416079
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Classificação Internacional de Produtos e de Serviços a FIM do Registo das Marcas
+- Convenção
+- Marca
+- Nice
+- Portugal
+- Prestação de Serviços
+- Propriedade Industrial
 relationships:
 - type: amended_by
   target: pt:dre:534639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534639:por
+  label: "Estendida ao Território de Macau a Convenção aprovada pelo presente diploma, pelo DEC.135/99.1999.04.22.PR, DR.IS-A\
+    \ [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/135-1999-534639
+  date: '1999-04-22'
+- type: amended_by
+  target: pt:dre:434413:por
+  label: "Tornado público a aplicação ao território de Macau da Convenção aprovada para ratificação pelo presente diploma\
+    \ pelo AV.99/99.1999.07.20.MNE, DR.IS-A [192] de 18/Ago/1999\0999\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/99-1999-434413
+  date: '1999-07-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:07Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +110,15 @@ de 5 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo de Nice Relativo à Classificação Internacional dos Produtos e Serviços aos Quais se Aplicam as Marcas de Fábrica ou de Comércio, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo de Nice Relativo à Classificação Internacional dos Produtos e Serviços aos Quais se Aplicam as Marcas de Fábrica ou de Comércio, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 17 de Outubro de 1981.**
+Assinado em 17 de Outubro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Arrangement de Nice Concernant le Classification Internationale des Produits et des Services aux Fins de l'Enregistrement de Marques, du 15 juin 1957, revisé à Stockholm le 14 juillet 1967 et à Genève le 13 mai 1977.
 

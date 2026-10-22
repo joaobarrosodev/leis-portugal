@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-1979-392619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cb11e5866aed763e2625ad9b87f86e12d063b1b5b24b0bb23aaf5c106f181c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4defc04f161819229185e680159aa4b0ff6c41c76a717ddd126fb331dc96b162
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Luxemburgo
+- Portugal
+- Segurança Social
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:59Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 30 de Janeiro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Segundo Acordo Complementar à Convenção entre Portugal e o Luxemburgo sobre Segurança Social, de 12 de Fevereiro de 1965, assinado em Lisboa em 20 de Maio de 1977, cujos textos em português e francês acompanham o presente decreto.
+Artigo único. É aprovado para ratificação o Segundo Acordo Complementar à Convenção entre Portugal e o Luxemburgo sobre Segurança Social, de 12 de Fevereiro de 1965, assinado em Lisboa em 20 de Maio de 1977, cujos textos em português e francês acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 16 de Janeiro de 1979.**
+Assinado em 16 de Janeiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Segundo Acordo Complementar à Convenção entre Portugal e o Luxemburgo sobre Segurança Social, assinada em 12 de Fevereiro de 1965
 
@@ -155,7 +159,7 @@ Parágrafo 2 - O trabalhador salariado ou assimilado, admitido ao benefício das
 
 A seguir ao artigo 10.º da Convenção, é inserido um artigo 10.º-bis, com a seguinte redacção:
 
-###### Art. 10.º-bis - Parágrafo 1 - Um titular de uma pensão ou de uma renda devida ao abrigo da legislação de uma Parte Contratante ou um titular de pensões ou rendas devidas ao abrigo das legislações das duas Partes Contratantes beneficia, bem como os seus familiares, de prestações em espécie durante uma estada temporária no território da Parte Contratante que não é a da sua residência, quando o seu estado venha a necessitar de imediata assistência médica, incluindo a hospitalização.
+Art. 10.º-bis - Parágrafo 1 - Um titular de uma pensão ou de uma renda devida ao abrigo da legislação de uma Parte Contratante ou um titular de pensões ou rendas devidas ao abrigo das legislações das duas Partes Contratantes beneficia, bem como os seus familiares, de prestações em espécie durante uma estada temporária no território da Parte Contratante que não é a da sua residência, quando o seu estado venha a necessitar de imediata assistência médica, incluindo a hospitalização.
 
 Parágrafo 2 - As disposições dos parágrafos 3 e 4 do artigo 10.º da presente Convenção são aplicáveis por analogia.
 
@@ -171,7 +175,7 @@ Parágrafo 1 - As prestações em espécie concedidas ao abrigo das disposiçõe
 
 A seguir ao artigo 14.º da Convenção é inserido um artigo 14.º-bis, com a seguinte redacção:
 
-###### Art. 14.º-bis - Parágrafo 1 - Quando um trabalhador salariado ou assimilado sujeito à legislação de uma Parte Contratante ou um titular de uma pensão ou de uma renda, ou um membro da sua família, falece no território da outra Parte, a morte é considerada como tendo ocorrido no território da primeira Parte.
+Art. 14.º-bis - Parágrafo 1 - Quando um trabalhador salariado ou assimilado sujeito à legislação de uma Parte Contratante ou um titular de uma pensão ou de uma renda, ou um membro da sua família, falece no território da outra Parte, a morte é considerada como tendo ocorrido no território da primeira Parte.
 
 Parágrafo 2 - A instituição competente toma a seu cargo o subsídio por morte, mesmo se o beneficiário se encontrar no território da outra Parte Contratante.
 
@@ -199,7 +203,7 @@ Parágrafo 1 - Um trabalhador salariado ou assimilado ocupado no território de 
 
 O artigo 24.º da Convenção passa a ter a seguinte redacção:
 
-###### Art. 24.º - Um titular de uma pensão ou de uma renda de velhice, invalidez, sobrevivência, acidente de trabalho ou doença profissional tem direito aos abonos de família, independentemente da Parte Contratante em que residam o titular da pensão ou da renda ou os seus descendentes, nos termos seguintes:
+Art. 24.º - Um titular de uma pensão ou de uma renda de velhice, invalidez, sobrevivência, acidente de trabalho ou doença profissional tem direito aos abonos de família, independentemente da Parte Contratante em que residam o titular da pensão ou da renda ou os seus descendentes, nos termos seguintes:
 
 a) O titular de uma pensão ou de uma renda devida ao abrigo da legislação de uma das Partes Contratantes, em conformidade com a legislação dessa Parte, tendo em conta o artigo 23.º da Convenção;
 
@@ -209,7 +213,7 @@ b) O titular de pensões ou de rendas devidas ao abrigo das legislações das du
 
 A seguir ao artigo 38.º da Convenção é inserido um artigo 38.º - bis, com a seguinte redacção:
 
-###### Art. 38.º - bis - Sob reserva do consentimento das Partes Contratantes, a República de Cabo Verde pode aderir à presente Convenção.
+Art. 38.º - bis - Sob reserva do consentimento das Partes Contratantes, a República de Cabo Verde pode aderir à presente Convenção.
 
 A adesão à Convenção confere os mesmos direitos e estabelece as mesmas obrigações que a ratificação. Um protocolo de adesão pode prever as disposições especiais eventualmente necessárias para o efeito, dentro do quadro das disposições da Convenção.
 
@@ -313,7 +317,7 @@ ARTICLE 8
 
 Après l'article 10 de la Convention il est inséré un article 10-bis, de la teneur suivante:
 
-###### Art. 10-bis - Paragraphe 1er - Un titulaire d'une pension ou d'une rente due au titre de la législation d'une Partie contractante ou un titulaire de pensions ou de rentes dues au titre des législations des deux Parties contractantes bénéficie ainsi que les membres de sa famille des prestations en nature au cours d'un séjour temporaire sur le territoire de la Partie contractante autre que celui où ils résident, lorsque leur état vient à nécessiter imédiatement des soins médicaux, y compris l'hospitalisation.
+Art. 10-bis - Paragraphe 1er - Un titulaire d'une pension ou d'une rente due au titre de la législation d'une Partie contractante ou un titulaire de pensions ou de rentes dues au titre des législations des deux Parties contractantes bénéficie ainsi que les membres de sa famille des prestations en nature au cours d'un séjour temporaire sur le territoire de la Partie contractante autre que celui où ils résident, lorsque leur état vient à nécessiter imédiatement des soins médicaux, y compris l'hospitalisation.
 
 Paragraphe 2 - Les dispositions des paragraphes 3 et 4 de l'article 10 de la présente Convention sont applicables par analogie.
 
@@ -329,7 +333,7 @@ ARTICLE 10
 
 Après l'article 14 de la Convention il est inséré un article 14-bis, de la teneur suivante:
 
-###### Art. 14-bis - Paragraphe 1er - Lorsqu'un travailleur salarié ou assimilé soumis à la législation d'une Partie contractante ou un titulaire d'une pension ou d'une rente ou un membre de sa famille décède sur le territoire de l'autre Partie, le décès est considéré comme étant survenu sur le territoire de la première Partie.
+Art. 14-bis - Paragraphe 1er - Lorsqu'un travailleur salarié ou assimilé soumis à la législation d'une Partie contractante ou un titulaire d'une pension ou d'une rente ou un membre de sa famille décède sur le territoire de l'autre Partie, le décès est considéré comme étant survenu sur le territoire de la première Partie.
 
 Paragraphe 2 - L'institution compétente prend à sa charge l'allocation au décès même si le bénéficiaire se trouve sur le territoire de l'autre Partie contractante.
 
@@ -357,7 +361,7 @@ ARTICLE 14
 
 L'article 24 de la Convention a la teneur suivante:
 
-###### Art. 24 - Un titulaire d'une pension ou d'une rente de vieillesse, d'invalidité, de survie, d'accident du travail ou de maladie professionnelle a droit aux allocations familiales selon les règles suivantes, quelle que soit la Partie contractante sur le territoire de laquelle résident le titulaire de pension ou de rente ou les enfants:
+Art. 24 - Un titulaire d'une pension ou d'une rente de vieillesse, d'invalidité, de survie, d'accident du travail ou de maladie professionnelle a droit aux allocations familiales selon les règles suivantes, quelle que soit la Partie contractante sur le territoire de laquelle résident le titulaire de pension ou de rente ou les enfants:
 
 a) Le titulaire d'une pension ou d'une rente due au titre de la législation d'une seule Partie contractante, conformément à la législation de cette Partie, compte tenu de l'article 23 de la Convention;
 
@@ -367,7 +371,7 @@ ARTICLE 15
 
 Après l'article 38 de la Convention il est inséré un article 38-bis, de la teneur suivante:
 
-###### Art. 38-bis - Sous réserve du consentement des Parties contractantes, la République du Cap Vert peut adhérer à la présente Convention.
+Art. 38-bis - Sous réserve du consentement des Parties contractantes, la République du Cap Vert peut adhérer à la présente Convention.
 
 L'adhésion à la Convention confère les mêmes droits et entraîne le mêmes obligations que la ratification. Un protocole d'adhésion peut prévoir les dispositions particulières éventuellement nécessaires à cet effet dans le cadre des dispositions de la Convention.
 

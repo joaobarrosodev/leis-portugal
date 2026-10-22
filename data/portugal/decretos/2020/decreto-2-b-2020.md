@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 66/2020, 2º Suplemento, Série I de 2020-04-02
   number: '66'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 31-(2) a 31-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06602/0000200020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2-b/2020/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-b-2020-131068124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8092eb3d23b424aebbbf4cb5946309426446f9e74226cac3f858f8153f9cae4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eee96e867029489f7319464399610d5228b0ad2173987971ede7707c138c703
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,101 +66,101 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - ACTO Administrativo
+- Administração de Aeroportos
+- Administração de Portos
 - Aeroporto
 - Agência Funerária
-- Instituto da Segurança Social
-- Tempo de Serviço
-- Crime
+- Agricultura
+- Álcool
+- Arrendamento Urbano não Habitacional
 - Assistência Médica
 - Assistência Medicamentosa
-- Proteção Civil
-- Pessoal de Saúde
-- Investigação Científica e Tecnológica
+- Atendimento Público
+- Autarquia Local
+- Autoridade para as Condições do Trabalho
+- Aviação Civil
+- Aviação Civil Internacional
 - Circulação de Pessoas
-- Medicina Privada
-- Transporte Marítimo
-- Estabelecimento Comercial
 - Comércio a Retalho
+- Comércio Eletrónico
 - Comércio por Grosso
-- Mar
-- Direção Geral da Saúde
-- Ministro da Saúde
-- Transporte Aéreo
-- Terceira Idade
-- Arrendamento Urbano não Habitacional
-- Transporte Rodoviário
-- Transporte Ferroviário
+- Condições de Higiene e Segurança no Trabalho
+- Contrato de Trabalho
+- Controlo Sanitário
+- Crime
 - Cruz Vermelha Portuguesa
 - Definição de Competências
-- Regulamentação de Atos Legislativos
-- Controlo Sanitário
-- Álcool
+- Direção Geral da Saúde
+- Doença Infecciosa
+- Doente Crónico
+- Emprego
+- Epidemia
 - Equipamento Social
-- Saúde Pública
-- Aviação Civil Internacional
+- Estabelecimento Comercial
+- Estabelecimento Hospitalar
 - Estabelecimento Industrial
 - Estado de Emergência
-- Administração de Portos
-- Serviço Nacional de Saúde
-- Segurança Pública
 - Fiscalização
 - Fixação de Preços
-- Medicamento
 - Funeral
-- Ministro da Justiça
-- Ministro dos Negócios Estrangeiros
+- Informação de Saúde
+- Instituto da Segurança Social
+- Investigação Científica e Tecnológica
 - Isolamento Profiláctico
 - Junta de Freguesia
 - Livre Circulação de Mercadorias
+- Loja do Cidadão
+- Madeira.região Autónoma
+- Mar
+- Material Médico-Cirúrgico
+- Medicamento
+- Medicina Privada
 - Mercado Abastecedor
 - Mercado Agrícola
+- Militar
+- Ministro da Administração Interna
 - Ministro da Agricultura
+- Ministro da Defesa Nacional
+- Ministro da Justiça
+- Ministro da Modernização do Estado e da Administração Pública
+- Ministro da Saúde
+- Ministro de Estado da Economia e da Transição Digital
+- Ministro do Ambiente e da Ação Climática
 - Ministro do MAR
+- Ministro do Trabalho Solidariedade e Segurança Social
+- Ministro dos Negócios Estrangeiros
+- Mobilidade de Pessoal
 - Organismo do Estado
 - Ovar
 - Páscoa
-- Sanção Penal
-- Doença Infecciosa
-- Epidemia
-- Doente Crónico
-- Prazo de Validade
-- Serviço Público
-- Prestação de Serviços
-- Emprego
-- Madeira.região Autónoma
-- Presidência do Conselho de Ministros
-- Administração de Aeroportos
-- Aviação Civil
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
-- Teletrabalho
-- Informação de Saúde
-- Estabelecimento Hospitalar
-- Agricultura
-- Requisição Civil
-- Mobilidade de Pessoal
-- Militar
-- Material Médico-Cirúrgico
-- Ministro da Defesa Nacional
+- Pessoal de Saúde
 - Portos
-- Loja do Cidadão
-- Ministro da Administração Interna
-- Açores
-- Comércio Eletrónico
-- Sistema de Informação da Organização do Estado
-- Atendimento Público
-- Trabalhador por Conta de Outrem
-- Autarquia Local
-- Unidade de Saúde Pública
-- Venda Ambulante
+- Prazo de Validade
+- Presidência do Conselho de Ministros
+- Prestação de Serviços
 - Procuradoria Geral da República
-- Ministro do Trabalho Solidariedade e Segurança Social
+- Proteção Civil
+- Regulamentação de Atos Legislativos
+- Requisição Civil
+- Sanção Penal
+- Saúde Pública
+- Segurança Pública
+- Serviço Nacional de Saúde
+- Serviço Público
+- Sistema de Informação da Organização do Estado
+- Teletrabalho
+- Tempo de Serviço
+- Terceira Idade
+- Trabalhador por Conta de Outrem
+- Transporte Aéreo
+- Transporte Ferroviário
+- Transporte Marítimo
+- Transporte Rodoviário
+- Unidade de Saúde Pública
 - Veículo de Aluguer sem Condutor
-- Ministro de Estado da Economia e da Transição Digital
-- Ministro da Modernização do Estado e da Administração Pública
-- Ministro do Ambiente e da Ação Climática
-- Autoridade para as Condições do Trabalho
+- Venda Ambulante
 relationships:
 - type: amended_by
   target: pt:dre:131908499:por
@@ -206,16 +206,93 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/71/2020/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/71/2020/03/15/p/dre
+- type: cites
+  target: pt:dre:126869983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131068115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:131908499:por
+  label: Revogado pelo(a) Decreto n.º 2-C/2020 - Diário da República n.º 76/2020, 1º Suplemento, Série I de 2020-04-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/2-c-2020-131908499
+  date: '2020-04-17'
 article_structure:
   article_count: 47
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:30Z'
   warnings: []
   errors: []
 ---
@@ -366,7 +443,7 @@ t) Outras atividades de natureza análoga ou por outros motivos de força maior 
 
 ###### Artigo 7.º — Execução a nível local
 
-**O Primeiro-Ministro procede à nomeação das autoridades que coordenam a execução da declaração do estado de emergência no território continental, a nível local, nos termos do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual.**
+O Primeiro-Ministro procede à nomeação das autoridades que coordenam a execução da declaração do estado de emergência no território continental, a nível local, nos termos do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual.
 
 ###### Artigo 8.º — Teletrabalho
 
@@ -726,15 +803,15 @@ O presente decreto entra em vigor às 00h de 3 de abril de 2020.
 
 Visto e aprovado em Conselho de Ministros de 2 de abril de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
 
-**Assinado em 2 de abril de 2020.**
+Assinado em 2 de abril de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de abril de 2020.**
+Referendado em 2 de abril de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — [a que se referem o artigo 9.º, a alínea a) do n.º 2 do artigo 18.º, a alínea b) do n.º 1 e a alínea c) do n.º 2 do artigo 43.º]
 
@@ -921,3 +998,5 @@ Máquinas de vending, com as exceções do presente decreto.
 43 - Estabelecimentos de venda de produtos fitofarmacêuticos e biocidas;
 
 44 - Estabelecimentos de venda de medicamentos veterinários.
+
+100000220

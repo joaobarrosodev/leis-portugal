@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/2008/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-2008-249243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d540cdcabb95b8b6324fc18e2efb1dbc49a8191d1622884136ef70dd73e3ead
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38b96616807e0087648652fa98059bfbbbb2ae9789e0104f5c532abf267a90ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Juventude
+- Arábia Saudita
+- Comércio
 - Comissão Mista
 - Convenção
-- Portugal
-- Saúde
-- Exposição
-- Informação
-- Cooperação Tecnológica
-- Investimento
-- Arábia Saudita
-- Propriedade Industrial
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Industrial
+- Cooperação Tecnológica
 - Cultura
+- Desporto
+- Exposição
+- Informação
+- Investimento
+- Juventude
+- Portugal
+- Propriedade Industrial
 - Propriedade Intelectual
 - Riade
-- Comércio
-- Desporto
+- Saúde
+- Turismo
 relationships: []
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:03Z'
   warnings: []
   errors: []
 ---
@@ -118,15 +118,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Manuel Pedro Cunha da Silva Pereira - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Ana Maria Teodoro Jorge - Maria de Lurdes Reis Rodrigues - Manuel Frederico Tojal de Valsassina Heitor - José António de Melo Pinto Ribeiro.
 
-**Assinado em 5 de Maio de 2008.**
+Assinado em 5 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Maio de 2008.**
+Referendado em 6 de Maio de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO GERAL DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E O REINO DA ARÁBIA SAUDITA
 
@@ -232,7 +232,7 @@ Pelo Reino da Arábia Saudita:
 
 Saud Al Faisal, Ministro dos Negócios Estrangeiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09700/0286602870.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09700/0286602870.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09700/0286602870.pdf)
 
 GENERAL AGREEMENT ON CO-OPERATION BETWEEN THE PORTUGUESE REPUBLIC AND THE KINGDOM OF SAUDI ARABIA
 

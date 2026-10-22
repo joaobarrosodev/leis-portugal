@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/18/2003/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/18-2003-239672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17adba8f3fbbce67951fda2b28b2f915ce3db5db7603ba021051471d37fbff43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8565be229db5490c5a1ee37cc5371ccf829ee5e1be57f05209ee33fdf049cbab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - Alienação de Imóveis
 - ÁREA Crítica de Recuperação e Reconversão Urbanística
-- Política de Solos
 - Câmara Municipal
+- Política de Solos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/1996/07/31/p/dre
@@ -80,16 +80,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/329-b/2000/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/329-b/2000/12/22/p/dre
+- type: cites
+  target: pt:dre:406886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516973:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:14:43Z'
   warnings: []
   errors: []
 ---
@@ -128,14 +144,14 @@ Compete à Câmara Municipal de Mértola promover, em colaboração com as demai
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 2003. - José Manuel Durão Barroso - Isaltino Afonso de Morais.
 
-**Assinado em 31 de Março de 2003.**
+Assinado em 31 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Abril de 2003.**
+Referendado em 3 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/04/094b00/25642565.pdf)

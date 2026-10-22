@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/7/2008/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-2008-246367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0a411db901636758ee10dd5c60858f52484f958996341f7d9d35f73f7cfebe8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ae3049594bbf756a6efd05c7430665f5884a5544cbf148890728a44e19643e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comissão de Coordenação e Desenvolvimento Regional
 - Definição de Competências
 - Fiscalização
 - Lisboa
-- Comissão de Coordenação e Desenvolvimento Regional
 - Medidas Preventivas
+- Porto
 - Rede Ferroviária
 - Rede Ferroviária Portuguesa de Alta Velocidade
 - Refer
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:613680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603004:por
+  label: "Determinado, que as plantas com os números de ordem 01-014 e 02-014, publicadas em anexo ao presente decreto, sejam\
+    \ alteradas e substituídas pelas plantas identificadas com os números de ordem 03-004 e 04-004, pela RES.12/2009.27.01.2009.PCM,\
+    \ DR.IS [18] de 27.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/12-2009-603004
+  date: '2009-01-27'
+- type: amended_by
+  target: pt:dre:613680:por
+  label: "Prorrogado por um ano o prazo de vigência das medidas preventivas, definidos os traçados dos troços Lisboa-Vila\
+    \ Franca de Xira e Oliveira do Bairro-Porto e alteradas e substituídas as plantas identificadas com os números de ordem\
+    \ 01-004 a 04-004 (troço compreendido entre Lisboa e Vila Franca de Xira) bem como as identificadas com os números de\
+    \ ordem 01-009 a 09-009 (troço compreendido entre Oliveira do Bairro e o Porto) anexas ao presente diploma, na redacção\
+    \ da Res 12/2009, de 27-Jan, da PCM, pela RES.31/2010.15.04.2010.PCM, DR.IS [73] de 15.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/31-2010-613680
+  date: '2010-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/52/2005/08/31/p/dre
   label: null
@@ -88,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/183/2005/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/183/2005/11/28/p/dre
+- type: cites
+  target: pt:dre:248262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482791:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:02Z'
   warnings: []
   errors: []
 ---
@@ -182,14 +210,14 @@ O presente decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
 
-**Assinado em 14 de Março de 2008.**
+Assinado em 14 de Março de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Março de 2008.**
+Referendado em 17 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0178301797.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0178301797.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0178301797.pdf)

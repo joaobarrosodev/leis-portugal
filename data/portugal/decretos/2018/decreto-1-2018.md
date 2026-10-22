@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/1/2018/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-2018-114509688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eac5174d58bfaab7b83de549b7617c03b2668edf2dec3e55d560e9982aa4272b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f16f8596d2abd2adc86679c6f23d010a253d574218586df49db115ed4e1a875b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
 - Consulado
 - Convenção
-- Portugal
-- Profissão Diplomática
+- Croácia
+- Família
 - Missão Diplomática
 - Pessoal Diplomático
+- Portugal
+- Profissão Diplomática
 - Trabalho Remunerado
 - Zagreb
-- Croácia
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:36Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +107,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de novembro de 2017. - António Luís Santos da Costa - Ana Paula Baptista Grade Zacarias.
 
-**Assinado em 21 de dezembro de 2017.**
+Assinado em 21 de dezembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de janeiro de 2018.**
+Referendado em 4 de janeiro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA CROÁCIA SOBRE O EXERCÍCIO DE ATIVIDADES REMUNERADAS DE MEMBROS DA FAMÍLIA DO PESSOAL DAS MISSÕES DIPLOMÁTICAS E CONSULARES.
 
@@ -221,11 +221,11 @@ Feito em Zagrebe em 18 de maio de 2017, em dois originais, nas línguas portugue
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf)
 
 Pela República da Croácia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF CROATIA ON THE GAINFUL OCCUPATION OF MEMBERS OF THE FAMILY OF MEMBERS OF DIPLOMATIC MISSIONS OR CONSULAR POSTS.
 
@@ -355,8 +355,10 @@ Done at Zagreb on 18th May 2017, in two originals, each in the portuguese, croat
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf)
 
 For the Republic of Croatia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00800/0035700361.pdf)
+
+111039258

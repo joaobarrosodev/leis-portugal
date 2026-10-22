@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 27/1974, 1º Suplemento, Série I de 1974-02-01
   number: '27'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 182-(2) a 182-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/02/02701/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-1974-419220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d0daf715b1e497e00037dd56d1bbff2a1cbd11af36c72fbdb24c71c51375d41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e2807b58eef06590411512ab009e57415e09b579d6d4efb79cfa9a7ece042fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Regulamento sobre Tempos de VOO e Repouso do Pessoal Navegante dos Transportes Aéreos Comerciais
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:326119:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:632468:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:326119:por
+  label: "Revogado pelo DEC LEI.56/85.04.03.1985.MTSS, DR.IS [52] de 04.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1985-326119
+  date: '1985-03-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:42Z'
   warnings: []
   errors: []
 ---
@@ -104,19 +116,19 @@ REGULAMENTO SOBRE TEMPOS DE VOO E REPOUSO DO PESSOAL NAVEGANTE DOS TRANSPORTES A
 
 Âmbito do Regulamento
 
-###### Artigo 1.º As disposições do presente Regulamento são aplicáveis a todos os tripulantes de aviões na execução de todas as operações relativas aos transportes aéreos comerciais.
+Artigo 1.º As disposições do presente Regulamento são aplicáveis a todos os tripulantes de aviões na execução de todas as operações relativas aos transportes aéreos comerciais.
 
 Vigência
 
-###### Art. 2.º Este Regulamento entra em vigor no dia 1 de Fevereiro de 1974.
+Art. 2.º Este Regulamento entra em vigor no dia 1 de Fevereiro de 1974.
 
 Revisões
 
-###### Art. 3.º Sem prejuízo das alterações consideradas urgentes, o presente Regulamento fica sujeito a revisões ordinárias de dois em dois anos, devendo as entidades interessadas que pretendam fazer propostas para esse efeito apresentá-las à Direcção-Geral da Aeronáutica Civil com três meses de antecedência.
+Art. 3.º Sem prejuízo das alterações consideradas urgentes, o presente Regulamento fica sujeito a revisões ordinárias de dois em dois anos, devendo as entidades interessadas que pretendam fazer propostas para esse efeito apresentá-las à Direcção-Geral da Aeronáutica Civil com três meses de antecedência.
 
 Definições
 
-###### Art. 4.º Na aplicação das disposições do presente Regulamento ter-se-ão em conta as seguintes definições:
+Art. 4.º Na aplicação das disposições do presente Regulamento ter-se-ão em conta as seguintes definições:
 
 Ano - período de doze meses consecutivos;
 
@@ -154,61 +166,61 @@ Máximos de tempo de voo e de trabalho por período de serviço de voo e limites
 
 #### SECÇÃO I
 
-###### Art. 5.º - 1. Os tempos de voo e de trabalho constantes dos quadros I e II são os máximos permitidos e variam com o tipo de avião, a constituição da tripulação e o número de aterragens a executar.
+Art. 5.º - 1. Os tempos de voo e de trabalho constantes dos quadros I e II são os máximos permitidos e variam com o tipo de avião, a constituição da tripulação e o número de aterragens a executar.
 
 I) Aviões de hélice
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/02/02701/00020006.pdf))](https://files.diariodarepublica.pt/1s/1974/02/02701/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/02/02701/00020006.pdf)
 
 II) Aviões de reacção (subsónicos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/02/02701/00020006.pdf))](https://files.diariodarepublica.pt/1s/1974/02/02701/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/02/02701/00020006.pdf)
 
 2. Os limites semanais de período de trabalho indicados nos quadros I e II poderão elevar-se uma vez em cada mês para quarenta e oito horas. O limite semanal do tempo de voo referido no quadro II poderá elevar-se uma vez em cada mês para trinta e cinco horas.
 
 3. Os limites mensais de tempo de voo referidos nos quadros I e II poderão elevar-se, uma vez em cada trimestre, para cento e quinze e noventa e cinco horas, respectivamente.
 
-###### Art. 6.º Sempre que a tripulação seja reforçada em 100% da constituição da tripulação normal, os máximos de tempo de voo e período de trabalho constantes do artigo 5.º serão aumentados de três horas, respeitando-se o número de aterragens indicado.
+Art. 6.º Sempre que a tripulação seja reforçada em 100% da constituição da tripulação normal, os máximos de tempo de voo e período de trabalho constantes do artigo 5.º serão aumentados de três horas, respeitando-se o número de aterragens indicado.
 
-###### Art. 7.º O maior tempo de voo no decurso de um período de serviço de voo não poderá exceder quatro horas sempre que na constituição de uma tripulação exista apenas um piloto.
+Art. 7.º O maior tempo de voo no decurso de um período de serviço de voo não poderá exceder quatro horas sempre que na constituição de uma tripulação exista apenas um piloto.
 
 #### SECÇÃO II — Tripulantes de cabina
 
-###### Art. 8.º O número mínimo de tripulantes na cabina em assistência a passageiros deve respeitar a proporcionalidade de 1/35 lugares da versão do avião utilizado em cada caso.
+Art. 8.º O número mínimo de tripulantes na cabina em assistência a passageiros deve respeitar a proporcionalidade de 1/35 lugares da versão do avião utilizado em cada caso.
 
-###### Art. 9.º - 1. Os máximos de tempo de voo e período de trabalho são os constantes do artigo 5.º
+Art. 9.º - 1. Os máximos de tempo de voo e período de trabalho são os constantes do artigo 5.º
 
 2. Os máximos de tempo de voo e de período de trabalho indicados para a tripulação C constantes do artigo 5.º não poderão ser excedidos quando exista apenas um tripulante de serviço na cabina.
 
-###### Art. 10.º A tripulação considera-se reforçada sempre que o número de tripulantes constante do artigo 8.º seja aumentado em 50%. Os máximos de tempo de voo e período de trabalho serão os constantes do artigo 6.º
+Art. 10.º A tripulação considera-se reforçada sempre que o número de tripulantes constante do artigo 8.º seja aumentado em 50%. Os máximos de tempo de voo e período de trabalho serão os constantes do artigo 6.º
 
 #### SECÇÃO III — Verificadores
 
-###### Art. 11.º - 1. Quando qualquer tripulante, no decurso de um período de serviço de voo, desempenhe as funções de verificador, contará 50% do tempo de voo e 100% do período de trabalho efectuado.
+Art. 11.º - 1. Quando qualquer tripulante, no decurso de um período de serviço de voo, desempenhe as funções de verificador, contará 50% do tempo de voo e 100% do período de trabalho efectuado.
 
 2. Se durante um período de serviço de voo for necessário que o tripulante com as funções de verificador assuma o lugar de qualquer outro tripulante integrado na tripulação normal, ficará sujeito aos máximos estabelecidos no artigo 5.º
 
 #### SECÇÃO IV — Instrutores
 
-###### Art. 12.º Qualquer tripulante desempenhando as funções de instrutor de voo de pilotos ou de mecânicos de voo não poderá exceder, no decurso de um período de voo de instrução, o máximo de cinco horas de tempo de voo e dez horas de período de trabalho.
+Art. 12.º Qualquer tripulante desempenhando as funções de instrutor de voo de pilotos ou de mecânicos de voo não poderá exceder, no decurso de um período de voo de instrução, o máximo de cinco horas de tempo de voo e dez horas de período de trabalho.
 
 Disposições gerais
 
-###### Art. 13.º Quando um tripulante no decurso de um período de serviço de voo não atingir os máximos fixados no artigo 5.º e for integrado noutra tripulação, só poderá continuar o serviço de voo até atingir aqueles máximos.
+Art. 13.º Quando um tripulante no decurso de um período de serviço de voo não atingir os máximos fixados no artigo 5.º e for integrado noutra tripulação, só poderá continuar o serviço de voo até atingir aqueles máximos.
 
-###### Art. 14.º - 1. O serviço de assistência prestado por um tripulante será considerado como período de trabalho enquanto não tiver iniciado o serviço de voo, mas somente para efeitos dos limites semanais e mensais estabelecidos no artigo 5.º
+Art. 14.º - 1. O serviço de assistência prestado por um tripulante será considerado como período de trabalho enquanto não tiver iniciado o serviço de voo, mas somente para efeitos dos limites semanais e mensais estabelecidos no artigo 5.º
 
 2. O serviço de assistência contará 100% ou 33% do período de trabalho, consoante for prestado nas instalações da entidade patronal ou fora dela.
 
-###### Art. 15.º Entre um período de trabalho no solo e um período de serviço de voo deverá ser cumprido um período de repouso de duração igual ao período de trabalho no solo acrescido de duas horas.
+Art. 15.º Entre um período de trabalho no solo e um período de serviço de voo deverá ser cumprido um período de repouso de duração igual ao período de trabalho no solo acrescido de duas horas.
 
-###### Art. 16.º - 1. O início da contagem do tempo de voo (saída dos calços) deverá verificar-se dentro das quatro horas seguintes à hora de apresentação do tripulante para iniciar um período de serviço de voo.
+Art. 16.º - 1. O início da contagem do tempo de voo (saída dos calços) deverá verificar-se dentro das quatro horas seguintes à hora de apresentação do tripulante para iniciar um período de serviço de voo.
 
 2. Quando não se verifique a condição referida no n.º 1 deste artigo, o tripulante será substituído e beneficiará de um período de repouso de acordo com o artigo 15.º, antes de iniciar novo período de trabalho.
 
 3. Nos locais onde existam condições adequadas de repouso horizontal para os tripulantes, ou onde não se disponha de quaisquer outros tripulantes utilizáveis, não serão aplicáveis os n.os 1 e 2 deste artigo.
 
-###### Art. 17.º - 1. O período de repouso de um tripulante terá uma duração igual ao maior dos dois valores seguintes:
+Art. 17.º - 1. O período de repouso de um tripulante terá uma duração igual ao maior dos dois valores seguintes:
 
 1,5 do período de serviço de voo; ou
 
@@ -218,70 +230,70 @@ Oito horas.
 
 3. O período de repouso constitui, na totalidade, tempo de repouso dos tripulantes e não poderá ser interrompido por motivo de serviço.
 
-###### Art. 18.º Serão considerados como um único os períodos de serviço de voo entre os quais não haja um período de repouso.
+Art. 18.º Serão considerados como um único os períodos de serviço de voo entre os quais não haja um período de repouso.
 
-###### Art. 19.º - 1. Se todo ou parte de um período de serviço de voo estiver compreendido entre as 2 e as 7 horas (hora local do aeródromo de chegada), além de um período de repouso, o tripulante não poderá ser nomeado para qualquer serviço entre as 0 e as 9 horas na noite seguinte (hora local do aeródromo de chegada).
+Art. 19.º - 1. Se todo ou parte de um período de serviço de voo estiver compreendido entre as 2 e as 7 horas (hora local do aeródromo de chegada), além de um período de repouso, o tripulante não poderá ser nomeado para qualquer serviço entre as 0 e as 9 horas na noite seguinte (hora local do aeródromo de chegada).
 
 2. O n.º 1 deste artigo não é aplicável aos tripulantes que por condicionalismos locais de operação executem os seus períodos de serviço de voo com carácter de regularidade entre as 5 horas e 30 minutos e as 23 horas (horas locais do ponto de partida).
 
-###### Art. 20.º - 1. Quando um tripulante se deslocar como passageiro ou extratripulante (extra-crew), mas por motivo de serviço, contará 100% do período de trabalho e 50% do tempo de voo, para os efeitos dos limites estabelecidos no artigo 5.º e para cálculo do período de repouso subsequente.
+Art. 20.º - 1. Quando um tripulante se deslocar como passageiro ou extratripulante (extra-crew), mas por motivo de serviço, contará 100% do período de trabalho e 50% do tempo de voo, para os efeitos dos limites estabelecidos no artigo 5.º e para cálculo do período de repouso subsequente.
 
 2. Quando um tripulante se deslocar como passageiro ou extratripulante (extra-crew), com a finalidade de continuar o serviço de voo, contará 100% do período de trabalho e do tempo de voo gastos no transporte para efeitos de determinação dos máximos constantes do artigo 5.º
 
 3. Após ter completado um serviço de voo, um tripulante poderá com o seu acordo regressar à base, local da sua residência, como passageiro ou extratripulante (extra-crew), onde beneficiará obrigatoriamente de um período de repouso igual a uma vez e meia o período mínimo de repouso a que tiver direito e contará 100% do período de trabalho e 50% do tempo de voo gastos no transporte para efeitos dos limites semanais e mensais estabelecidos no artigo 5.º
 
-###### Art. 21.º - 1. Quando um tripulante regressa à base após executar um serviço de voo que inclui mudança de longitude igual ou superior a 60º, beneficiará de quarenta horas de período de repouso, incluindo duas noites consecutivas.
+Art. 21.º - 1. Quando um tripulante regressa à base após executar um serviço de voo que inclui mudança de longitude igual ou superior a 60º, beneficiará de quarenta horas de período de repouso, incluindo duas noites consecutivas.
 
 2. Quando um tripulante executar um serviço de voo de ida e regresso à base, sem período de repouso intermédio, envolvendo mudança de longitude igual ou superior a 60º, beneficiará de um período de repouso subsequente de quarenta e oito horas, incluindo duas noites consecutivas.
 
-###### Art. 22.º - 1. Os tripulantes que não estejam a desempenhar funções efectivas a bordo deverão dispor de meios de descanso em número pelo menos igual ao dos tripulantes nestas condições.
+Art. 22.º - 1. Os tripulantes que não estejam a desempenhar funções efectivas a bordo deverão dispor de meios de descanso em número pelo menos igual ao dos tripulantes nestas condições.
 
 2. Consideram-se meios adequados para descanso beliches, cadeiras tipo spleeprettes ou ainda assentos reclináveis com descanso para os pés, de conforto não inferior ao proporcionado aos passageiros.
 
-###### Art. 23.º - 1. Todos os tripulantes terão um período livre na base, de quarenta e oito horas consecutivas, em cada semana. Os períodos de repouso não serão considerados como descanso semanal.
+Art. 23.º - 1. Todos os tripulantes terão um período livre na base, de quarenta e oito horas consecutivas, em cada semana. Os períodos de repouso não serão considerados como descanso semanal.
 
 2. Uma vez iniciado o período de descanso semanal, este não poderá ser interrompido.
 
 3. Em cada mês a totalidade dos descansos semanais somará obrigatoriamente quatro períodos de quarenta e oito horas.
 
-###### Art. 24.º A contagem dos tempos de voo e de períodos de trabalho dos tripulantes escalados em operações conjuntas de aviões de hélice e de reacção, para efeitos da aplicação dos limites estabelecidos no artigo 5.º, faz-se aplicando a seguinte fórmula:
+Art. 24.º A contagem dos tempos de voo e de períodos de trabalho dos tripulantes escalados em operações conjuntas de aviões de hélice e de reacção, para efeitos da aplicação dos limites estabelecidos no artigo 5.º, faz-se aplicando a seguinte fórmula:
 
 (HRS HÉLICE/LIM HÉLICE) + (HRS REACÇÃO/LIM REACÇÃO) =< 1
 
 em que HRS HÉLICE significa o número de horas de voo já efectuado em aviões de hélice e LIM HÉLICE significa o máximo de horas autorizado para o mesmo tipo de avião.
 
-###### Art. 25.º Em caso de reconhecida impossibilidade de cumprimento integral, durante um período limitado de tempo, do preceituado no presente Regulamento, poderá a entidade aeronáutica competente, ouvida a empresa interessada e os representantes do pessoal navegante, autorizar normas de operação provisórias para esse período de tempo.
+Art. 25.º Em caso de reconhecida impossibilidade de cumprimento integral, durante um período limitado de tempo, do preceituado no presente Regulamento, poderá a entidade aeronáutica competente, ouvida a empresa interessada e os representantes do pessoal navegante, autorizar normas de operação provisórias para esse período de tempo.
 
 Disposições transitórias
 
-###### Art. 26.º Durante um período de um ano, a contar da data de entrada em vigor do presente Regulamento, podem as empresas, quando necessário, continuar a aplicar o limite de quarenta e oito horas do período de trabalho semanal. Expirado aquele prazo, não deverá ser excedido o limite do período de trabalho indicado nos quadros I e II do artigo 5.º
+Art. 26.º Durante um período de um ano, a contar da data de entrada em vigor do presente Regulamento, podem as empresas, quando necessário, continuar a aplicar o limite de quarenta e oito horas do período de trabalho semanal. Expirado aquele prazo, não deverá ser excedido o limite do período de trabalho indicado nos quadros I e II do artigo 5.º
 
 Fiscalização e penalidades
 
-###### Art. 27.º Compete à Direcção-Geral da Aeronáutica Civil a fiscalização da observância do disposto no presente Regulamento.
+Art. 27.º Compete à Direcção-Geral da Aeronáutica Civil a fiscalização da observância do disposto no presente Regulamento.
 
-###### Art. 28.º As empresas de transporte aéreo ficam obrigadas a facultar à Direcção-Geral da Aeronáutica Civil todos os elementos necessários ao exercício da fiscalização referida no artigo anterior.
+Art. 28.º As empresas de transporte aéreo ficam obrigadas a facultar à Direcção-Geral da Aeronáutica Civil todos os elementos necessários ao exercício da fiscalização referida no artigo anterior.
 
-###### Art. 29.º Será punida com multa de 1000$00 a 5000$00 a entidade patronal que não observar os tempos de voo e repouso estabelecidos neste Regulamento ou, salvo o caso especial do artigo 25.º, considerar no seu planeamento operações de que resultem necessariamente violação daqueles limites.
+Art. 29.º Será punida com multa de 1000$00 a 5000$00 a entidade patronal que não observar os tempos de voo e repouso estabelecidos neste Regulamento ou, salvo o caso especial do artigo 25.º, considerar no seu planeamento operações de que resultem necessariamente violação daqueles limites.
 
-###### Art. 30.º Os limites máximo e mínimo fixados no artigo anterior serão elevados para o dobro nos casos de reincidência.
+Art. 30.º Os limites máximo e mínimo fixados no artigo anterior serão elevados para o dobro nos casos de reincidência.
 
-###### Art. 31.º As multas de que tratam os artigos precedentes serão graduadas pela autoridade aeronáutica competente em função da gravidade da infracção e da culpabilidade do infractor.
+Art. 31.º As multas de que tratam os artigos precedentes serão graduadas pela autoridade aeronáutica competente em função da gravidade da infracção e da culpabilidade do infractor.
 
-###### Art. 32.º - 1. Os quantitativos das multas constituem receita do Estado e deverão ser pagos pelos infractores nas tesourarias da Fazenda Pública, no prazo de oito dias, a contar da notificação, por meio de guias que lhes serão entregues nesse acto.
+Art. 32.º - 1. Os quantitativos das multas constituem receita do Estado e deverão ser pagos pelos infractores nas tesourarias da Fazenda Pública, no prazo de oito dias, a contar da notificação, por meio de guias que lhes serão entregues nesse acto.
 
 2. O duplicado da guia comprovativa de pagamento deverá ser apresentado ou enviado pelos interessados aos serviços nele indicados no prazo de oito dias.
 
 3. O disposto neste artigo não prejudica a aplicação do § 3.º do artigo 63.º do Código Penal nos pagamentos feitos em juízo.
 
-###### Art. 33.º Se a multa não for paga voluntariamente, o respectivo auto será remetido ao tribunal comum competente para decidir da aplicação dessa sanção.
+Art. 33.º Se a multa não for paga voluntariamente, o respectivo auto será remetido ao tribunal comum competente para decidir da aplicação dessa sanção.
 
-###### Art. 34.º Este decreto revoga e substitui o [Decreto n.º 407/71](https://diariodarepublica.pt/dr/detalhe/decreto/407-1971-632468), de 24 de Setembro.
+Art. 34.º Este decreto revoga e substitui o [Decreto n.º 407/71](https://diariodarepublica.pt/dr/detalhe/decreto/407-1971-632468), de 24 de Setembro.
 
 Marcello Caetano - Joaquim Dias da Silva Pinto - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 30 de Janeiro de 1974.**
+Promulgado em 30 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

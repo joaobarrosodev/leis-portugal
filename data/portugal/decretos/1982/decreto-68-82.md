@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/68-1982-391822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdce32006742412c7341ae02d2bce4d612a09d59ce8e1e581e7002272041e0e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e94f7a8b9e6fa1d1ffae8a85fce17636d325e1dfde0d7b43afe8a676afae1de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Despesas Públicas
+- Ministério das Finanças e do Plano
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:38Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +94,11 @@ de 5 de Junho
 
 Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1978-296224), de 13 de Maio, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais, no montante de 1485246 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais, no montante de 1485246 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/12800/15961597.pdf))](https://files.diariodarepublica.pt/1s/1982/06/12800/15961597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/12800/15961597.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das Receitas do Estado
 
@@ -115,13 +122,13 @@ Grupo 12 «Habitação, Obras Públicas e Transportes»:
 
 Departamento dos transportes:
 
-###### Artigo 01 «Fundo Especial de Transportes Terrestres» ... 1380337
+Artigo 01 «Fundo Especial de Transportes Terrestres» ... 1380337
 
-###### Artigo 04 «Juntas autónomas dos portos» ... 2890
+Artigo 04 «Juntas autónomas dos portos» ... 2890
 
 ... 1485246
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubricas nos orçamentos:
+Art. 3.º São autorizadas as seguintes alterações de rubricas nos orçamentos:
 
 11 - Ministério da Agricultura, Comércio e Pescas
 
@@ -137,8 +144,8 @@ Gabinete de Estudos e Planeamento - Dotação normal.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Vítor Pereira Crespo - Basílio Adolfo Mendonça Horta da Franca - Ricardo Manuel Simões Bayão Horta - José Carlos Pinto Soromenho Viana Baptista - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 21 de Maio de 1982.**
+Promulgado em 21 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

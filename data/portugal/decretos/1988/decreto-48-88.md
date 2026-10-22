@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48-1988-361308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72653691ef034378678ba392a1d35ba1b5953defbdf5f7ac237f1eb9e7fb27ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c30ada6fcf9adc02d7f065bdcc8abe1b36e9ae6992d4a9859b997ac197eff29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- EUA
+- Portugal
+- Segurança Social
+relationships:
+- type: corrected_by
+  target: pt:dre:244906:por
+  label: Rectificado pela DECL.DD3822.1989.02.28.PCM DR.IS [49]SUPL DE 28/FEV/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-244906
+  date: '1989-02-28'
 article_structure:
-  article_count: 24
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 23
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:52Z'
   warnings: []
   errors: []
 ---
@@ -86,25 +95,25 @@ de 28 de Dezembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo sobre Segurança Social entre a República Portuguesa e os Estados Unidos da América, assinado em Lisboa em 30 de Março de 1988, cujos textos em português e em inglês, fazendo igualmente fé, se publicam em anexo.
+Artigo único. É aprovado, para ratificação, o Acordo sobre Segurança Social entre a República Portuguesa e os Estados Unidos da América, assinado em Lisboa em 30 de Março de 1988, cujos textos em português e em inglês, fazendo igualmente fé, se publicam em anexo.
 
 Visto e aprovado em Conselho de Ministros de 10 de Novembro de 1988. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - José Albino da Silva Peneda.
 
 Ratificado em 10 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Dezembro de 1988.**
+Referendado em 13 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO SOBRE SEGURANÇA SOCIAL ENTRE A REPÚBLICA PORTUGUESA E OS ESTADOS UNIDOS DA AMÉRICA
 
 O Governo da República Portuguesa e o Governo dos Estados Unidos da América, desejando regular as relações entre os dois países no campo da Segurança Social, acordaram no seguinte:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º
 
@@ -168,7 +177,7 @@ ii) A legislação relativa aos regimes especiais para determinadas categorias d
 
 2 - Salvo o disposto em contrário no presente Acordo, qualquer disposição da legislação de um Estado Contratante que restrinja o direito a prestações pecuniárias ou o seu pagamento apenas pelo facto de uma pessoa residir fora ou estar ausente do território desse Estado Contratante não se aplicará a pessoas que residam no território do outro Estado Contratante.
 
-# PARTE II — Disposições relativas à legislação aplicável
+## PARTE II — Disposições relativas à legislação aplicável
 
 ###### Artigo 4.º
 
@@ -202,7 +211,7 @@ As autoridades competentes dos dois Estados Contratantes podem acordar em permit
 
 2 - Uma pessoa que tenha estado sujeita à legislação de um Estado Contratante tem direito a inscrever-se em qualquer seguro facultativo continuado previsto na legislação desse Estado Contratante nas mesmas condições que um nacional desse Estado Contratante, tomando em conta, se necessário, os períodos de seguro cumpridos ao abrigo da legislação do outro Estado Contratante, sempre que a pessoa resida no território do primeiro Estado Contratante.
 
-# PARTE III — Disposições relativas às prestações
+## PARTE III — Disposições relativas às prestações
 
 ###### Artigo 9.º
 
@@ -236,7 +245,7 @@ As disposições seguintes aplicam-se a Portugal:
 
 Os períodos de seguro de um Estado Contratante que tenham sido cumpridos ao abrigo de um regime de pensões de segurança social ao qual não seja aplicável o presente Acordo, mas que tenham sido tomados em conta por um regime abrangido pela legislação desse Estado Contratante referida no artigo 2.º, devem ser considerados pela instituição do outro Estado Contratante como períodos de seguro para efeito de totalização.
 
-# PARTE IV — Disposições diversas
+## PARTE IV — Disposições diversas
 
 ###### Artigo 12.º
 
@@ -294,7 +303,7 @@ O presente Acordo pode ser alterado no futuro por acordos adicionais que, a part
 
 2 - Se um tal diferendo não puder ser resolvido dentro do prazo de seis meses, qualquer dos Estados Contratantes pode submeter o assunto a arbitragem vinculativa a uma comissão arbitral cuja composição e procedimento serão acordados pelos Estados Contratantes.
 
-# PARTE V — Disposições transitórias e finais
+## PARTE V — Disposições transitórias e finais
 
 ###### Artigo 21.º
 

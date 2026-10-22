@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-1981-389451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1643c944781ac2cb7a02604100a6401b416b1f9ab16f937689bdf1aa55923f2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bbd4ac793378a6c0fea6e7dfeca936a298f6506b3c433b2fa1ec8e76c9f3986
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Brasil
+- Convenção
+- Cooperação Económica
+- Cooperação Industrial
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:53Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 4 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil sobre Cooperação Económica e Industrial, assinado em Lisboa em 3 de Fevereiro de 1981, cujo texto, em português acompanha o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil sobre Cooperação Económica e Industrial, assinado em Lisboa em 3 de Fevereiro de 1981, cujo texto, em português acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 16 de Março de 1981.**
+Assinado em 16 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FEDERATIVA DO BRASIL SOBRE COOPERAÇÃO ECONÓMICA E INDUSTRIAL
 
@@ -105,11 +110,11 @@ Desejosos de fortalecer os tradicionais laços de amizade que unem os seus país
 
 acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes encorajarão e procurarão desenvolver mutuamente a cooperação económica e industrial entre instituições, organizações e empresas interessadas nos respectivos países.
 
-ARTIGO II
+###### ARTIGO II
 
 As formas, modalidades e condições para a cooperação dentro do quadro deste Acordo serão negociadas e acordadas pelas instituições, organizações e empresas interessadas, com base nas leis e demais actos normativos dos respectivos países, e poderão incidir, entre outras, sobre as seguintes actividades:
 
@@ -129,21 +134,21 @@ As formas, modalidades e condições para a cooperação dentro do quadro deste 
 
 8) Colaboração com vista ao desenvolvimento de relações entre empresas para a realização de estudos de viabilidade.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes procurarão facilitar, na medida do possível, as formalidades relacionadas com a preparação, contratação e implementação da cooperação dentro do quadro deste Acordo.
 
-ARTIGO IV
+###### ARTIGO IV
 
 A Comissão Económica Luso-Brasileira, criada pelo Acordo de Comércio, assinado em Lisboa a 7 de Setembro de 1966, sem prejuízo da sua competência original, manter-se-á como órgão de consulta e coordenação para os assuntos decorrentes do presente Acordo, enquanto este for válido.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - A Comissão Económica Luso-Brasileira reunir-se-á, alternadamente, em Lisboa e em Brasília, sempre que os dois Governos julguem necessário.
 
 2 - Nos casos em que se revelem urgentes e sempre que as duas Partes considerem oportuno, os projectos e as acções a realizar no quadro de colaboração recíproca poderão ser apreciados através dos canais diplomáticos.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - As Partes Contratantes notificar-se-ão, por via diplomática, do cumprimento das formalidades constitucionais exigidas por ambos os países para a entrada em vigor deste Acordo. O Acordo entrará em vigor trinta dias após a data da última dessas notificações.
 

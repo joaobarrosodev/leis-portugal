@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/13800/0391203928.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/20/2014/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-2014-55021014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e25e3748556cd27f8edfcae84c4a1364d0a038847275e20ac21088136df9ed5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce713e174ffb3eddf73527213699dd6d0dfa93f03a69b35ada9258b5824307b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
-- Países Ibero-Americanos
+- Chile
 - Convenção
-- Portugal
 - Direito do Trabalho
+- Doença Profissional
 - Invalidez
 - Madrid
-- Chile
-- Doença Profissional
-- Protecção na Doença
+- Países Ibero-Americanos
+- Portugal
 - Proteção Social
+- Protecção na Doença
 - Regime Contributivo da Segurança Social
 - Santiago do Chile
 - Segurança Social
@@ -84,14 +84,14 @@ subjects:
 relationships: []
 article_structure:
   article_count: 38
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:15Z'
   warnings: []
   errors: []
 ---
@@ -116,17 +116,17 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 8 de maio de 2014. - Pedro Passos Coelho - Luís Álvaro Barbosa de Campos Ferreira - Luís Pedro Russo da Mota Soares.
 
-**Assinado em 3 de junho de 2014.**
+Assinado em 3 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de junho de 2014.**
+Referendado em 5 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
-## TÍTULO I
+TÍTULO I
 
 Regras gerais e disposições sobre legislação aplicável
 
@@ -246,7 +246,7 @@ As disposições do Capítulo 2 não se aplicam nos casos em que, em conformidad
 
 3 - Se o interessado não apresentar o certificado mencionado no n.º 2, a instituição competente pode solicitá-lo à instituição competente do outro Estado Parte.
 
-## TÍTULO II
+TÍTULO II
 
 Disposições sobre as prestações
 
@@ -374,7 +374,7 @@ As decisões definitivas adoptadas por cada uma das instituições competentes e
 
 O direito às prestações por acidente de trabalho ou doença profissional é determinado de acordo com a legislação do Estado Parte à qual o trabalhador se encontra sujeito na data em que ocorre o acidente ou se verifica a doença.
 
-## TÍTULO III
+TÍTULO III
 
 Disposições sobre cooperação administrativa
 
@@ -416,7 +416,7 @@ As instituições competentes e os organismos de ligação dos Estados Parte dev
 
 2 - O pagamento das prestações efectua-se nas datas previstas na legislação da instituição pagadora.
 
-## TÍTULO IV
+TÍTULO IV
 
 Disposições sobre o Comité Técnico-Administrativo
 
@@ -432,7 +432,7 @@ Disposições sobre o Comité Técnico-Administrativo
 
 2 - Sem prejuízo do disposto no número anterior, as decisões do Comité podem ser adoptadas por maioria absoluta dos seus membros, se bem que, em tal caso, os Estados Parte cujos representantes no Comité as não aprovem podem reservar-se o direito de não aplicação dessas decisões no seu território.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições finais
 
@@ -596,7 +596,7 @@ Direcção-Geral da Segurança Social (DGSS), Lisboa
 
 Álvaro de Mendonça e Moura, Embaixador da República Portuguesa em Madrid.
 
-## TITULO I
+TITULO I
 
 Reglas generales y disposiciones sobre legislación aplicable
 
@@ -740,7 +740,7 @@ Admisión al seguro voluntario
 
 3 - Si el interesado no presenta el certificado señalado en el apartado 2, la Institución Competente podrá solicitarlo de la Institución Competente del otro Estado Parte.
 
-## TÍTULO II
+TÍTULO II
 
 Disposiciones sobre las prestaciones
 
@@ -890,7 +890,7 @@ Disposición general
 
 El derecho a las prestaciones derivadas de accidente de trabajo o enfermedad profesional será determinado de acuerdo con la legislación del Estado Parte a la que el trabajador se hallase sujeto en la fecha de producirse el accidente o de contraerse la enfermedad.
 
-## TÍTULO III
+TÍTULO III
 
 Disposiciones sobre cooperación administrativa
 
@@ -944,7 +944,7 @@ Pago de las prestaciones
 
 2 - El pago de las prestaciones tendrá lugar en las fechas previstas por la legislación de la Institución pagadora.
 
-## TITULO IV
+TITULO IV
 
 Disposiciones sobre el Comité Técnico Administrativo
 
@@ -964,7 +964,7 @@ Adopción de las decisiones sobre el Convenio o el Acuerdo
 
 2 - No obstante lo anterior, las decisiones del Comité podrán ser adoptadas por la mayoría absoluta de sus miembros, si bien, en tales supuestos, los Estados Parte cuyos representantes en el Comité no aprueben la decisión, podrán efectuar reserva sobre la no aplicación de aquélla en su territorio.
 
-## TÍTULO V
+TÍTULO V
 
 Disposiciones finales
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/1996/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-1996-571629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eee9e9e0467e476d0e4609ea8fb14087ec70161bf4ea424b81b1b3ca524124b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35c8fb4f93d1f94e7064015155983b3881b63139058b6d2ef95f349ad5e53865
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Brasil
 - Convenção
 - Cooperação Consular
-- Portugal
 - Lisboa
-- Brasil
 - Países Terceiros
+- Portugal
 - Protecção e Assistência Consular
 relationships:
 - type: amended_by
   target: pt:dre:667971:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667971:por
+  label: "Aprovado o Protocolo Adicional à Convenção pelo DEC.37/99.1999.09.28.MNE DR.IS-A [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/37-1999-667971
+  date: '1999-09-28'
 article_structure:
-  article_count: 1
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:24Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +109,15 @@ Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama.
 
-**Assinado em 25 de Março de 1996.**
+Assinado em 25 de Março de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Março de 1996.**
+Referendado em 27 de Março de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO DE COOPERAÇÃO CONSULAR ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FEDERATIVA DO BRASIL PARA PROTECÇÃO E ASSISTÊNCIA CONSULAR AOS SEUS NACIONAIS EM TERCEIROS PAÍSES.
 
@@ -130,27 +135,27 @@ Tendo em consideração o artigo 8.º da Convenção de Viena sobre Relações C
 
 acordam no seguinte:
 
-Artigo I
+###### Artigo I
 
 A República Portuguesa e a República Federativa do Brasil, a seguir denominadas Partes Contratantes, assegurarão, na medida do possível e nos termos das convenções internacionais sobre relações consulares de que cada uma seja signatária, e nos locais a serem previamente especificados por comunicação entre ambas as chancelarias, a protecção consular dos interesses de nacionais do Brasil ou de Portugal onde não exista uma repartição consular brasileira ou posto consular português.
 
-Artigo II
+###### Artigo II
 
 O disposto no artigo I aplicar-se-á sob reserva de aceitação dos Estados receptores interessados e mediante pedido de consentimento ou notificação apropriada, bem como nos precisos termos dos artigos seguintes.
 
-Artigo III
+###### Artigo III
 
 1 - Os postos ou repartições consulares de cada uma das Partes Contratantes promoverão, sempre que solicitados, a inscrição dos cidadãos da outra Parte, residentes na sua área de jurisdição ou que ali se encontrem ocasionalmente, passando-lhes a respectiva cédula de matrícula ou certificado de inscrição consular.
 
 2 - O impresso para o processo individual de inscrição consular e o impresso para a cédula de matrícula ou certificado de inscrição serão fornecidos pelo Ministério dos Negócios Estrangeiros de Portugal e pelo Ministério das Relações Exteriores do Brasil.
 
-Artigo IV
+###### Artigo IV
 
 1 - Em casos de urgência, os agentes consulares poderão emitir títulos de viagem única ou títulos de nacionalidade válidos para o regresso ao território de cada uma das Partes.
 
 2 - Os impressos de documentos de viagem referidos no número anterior serão fornecidos pelos respectivos Ministérios.
 
-Artigo V
+###### Artigo V
 
 1 - Os agentes consulares de cada uma das Partes Contratantes poderão efectuar repatriações e prestar socorros aos cidadãos da outra que residam na sua área de jurisdição ou nela se encontrem ocasionalmente, a pedido destes, e desde que provem encontrar-se permanente ou temporariamente desprovidos de recursos e não tenham possibilidades locais de os conseguir.
 
@@ -158,27 +163,27 @@ Artigo V
 
 3 - Cada uma das Partes Contratantes reembolsará a outra dos adiantamentos efectuados e das despesas feitas pelos seus agentes consulares no interesse exclusivo da Parte beneficiária ou dos seus nacionais, de acordo com critérios a serem definidos pelos Ministérios das Partes Contratantes.
 
-Artigo VI
+###### Artigo VI
 
 Os postos ou as repartições consulares de cada uma das Partes Contratantes prestarão assistência aos nacionais tripulantes de barcos e aeronaves arvorando o pavilhão da outra, quando solicitados pelo respectivo capitão ou comandante.
 
-Artigo VII
+###### Artigo VII
 
 Os agentes consulares de cada uma das Partes Contratantes poderão, por solicitação expressa das autoridades da outra, exercer a favor de cidadãos da parte beneficiária outras funções que, segundo a prática internacional, cabem nas atribuições dos postos consulares.
 
-Artigo VIII
+###### Artigo VIII
 
 As modalidades de protecção e assistência consular previstas neste Acordo serão objecto de regulamentação específica a ser aprovada por troca de notas.
 
-Artigo IX
+###### Artigo IX
 
 Cada uma das Partes Contratantes poderá suspender a aplicação de qualquer disposição do presente Acordo, desde que notifique a outra com 30 dias de antecedência, por via diplomática.
 
-Artigo X
+###### Artigo X
 
 Quaisquer dúvidas ou dificuldades de interpretação surgidas na aplicação deste Acordo serão solucionadas por via diplomática.
 
-Artigo XI
+###### Artigo XI
 
 1 - O presente Acordo entrará em vigor 30 dias após a data da segunda das notas pelas quais as duas Partes comunicarem reciprocamente a sua aprovação, em conformidade com os processos constitucionais de ambos os Países.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/604-1974-465402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4e0c451a03715708ef9b4203fc2078e9c53212e522bb357559a1a67f562ab97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53705477d08693932bd8b59e042626ae75063e029d406cd64e2efe3b4796b6ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:28Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +104,9 @@ A alteração introduzida pelo presente diploma, ao condicionar a realização d
 
 Nestes termos, usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos a seguir indicados do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passam a ter a seguinte redacção:
+Artigo único. Os artigos a seguir indicados do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passam a ter a seguinte redacção:
 
-###### Art. 100.º Os requerimentos referidos no artigo anterior, dos quais deverá constar a completa identidade e morada do requerente ou do seu representante legal, serão instruídos com os seguintes elementos:
+Art. 100.º Os requerimentos referidos no artigo anterior, dos quais deverá constar a completa identidade e morada do requerente ou do seu representante legal, serão instruídos com os seguintes elementos:
 
 a) ...
 
@@ -124,7 +128,7 @@ f) Certidão emanada da Junta Autónoma de Estradas atestando que é possível a
 
 ...
 
-###### Art. 140.º Os horários das carreiras serão fixados pela Direcção-Geral de Transportes Terrestres, tendo em atenção o interesse público, a utilização mais produtiva pelo concessionário do seu pessoal e material e o disposto no artigo 81.º
+Art. 140.º Os horários das carreiras serão fixados pela Direcção-Geral de Transportes Terrestres, tendo em atenção o interesse público, a utilização mais produtiva pelo concessionário do seu pessoal e material e o disposto no artigo 81.º
 
 § 1.º Os horários aprovados nos termos do corpo deste artigo poderão prever maior frequência de ligações entre pontos do percurso de carreiras interurbanas em que se verifique especial intensidade de tráfego, desde que daí não resulte concorrência efectiva a outros concessionários ou ao caminho de ferro.
 
@@ -138,8 +142,8 @@ f) Certidão emanada da Junta Autónoma de Estradas atestando que é possível a
 
 Vasco dos Santos Gonçalves - José Augusto Fernandes.
 
-**Promulgado em 6 de Novembro de 1974.**
+Promulgado em 6 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

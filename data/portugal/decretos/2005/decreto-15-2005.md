@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/15/2005/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-2005-248182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adf10db3f2176e707b978ac76c6efaa88bf4168c0f96f7a7a1191199e168a0f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 115d7919f4cd44d7086d7b0b7069062d9e6fd7e69aa33e97a7b9b66f06d3009c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Lisboa
+- Portugal
 - Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
@@ -77,13 +77,13 @@ relationships: []
 article_structure:
   article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:03Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Mário Lino Soares Correia.
 
-**Assinado em 14 de Agosto de 2005.**
+Assinado em 14 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Agosto de 2005.**
+Referendado em 18 de Agosto de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA TURQUIA SOBRE TRANSPORTES INTERNACIONAIS RODOVIÁRIOS DE PASSAGEIROS E MERCADORIAS.
 
@@ -444,7 +444,7 @@ Direcção-Geral de Viação, Ministério da Administração Interna, Avenida da
 
 b) Na República da Turquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf))](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf)
 
 6 - Artigo 15.º - As autoridades competentes das Partes deverão assegurar procedimentos de controlo simplificados para veículos que transportem animais vivos ou mercadorias perecíveis, os quais deverão obedecer às condições previstas nos acordos internacionais relativos a esses tipos de transportes a que Portugal e a Turquia estejam obrigados.
 
@@ -456,7 +456,7 @@ Direcção-Geral de Transportes Terrestres, Ministério das Obras Públicas, Tra
 
 b) Na República da Turquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf))](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf)
 
 Feito em Lisboa, em 11 de Maio de 2005, em três originais, nas línguas portuguesa, turca e inglesa, fazendo fé todos os textos igualmente. Em caso de divergência de interpretação, prevalecerá a versão inglesa do Protocolo.
 
@@ -854,7 +854,7 @@ Direcção-Geral de Viação, Ministério da Administração Interna, Avenida da
 
 b) In the Turkish Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf))](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf)
 
 6 - Article 15. - The competent authorities of the Parties shall ensure simplified control procedures for vehicles transporting livestock or perishable foodstuffs, which must be subject to the conditions of international agreements concerning such transport, which are binding both for the Portuguese Republic and Turkey.
 
@@ -866,7 +866,7 @@ Direcção-Geral de Transportes Terrestres, Ministério das Obras Públicas, Tra
 
 b) In the Turkish Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf))](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/09/168a00/53045317.pdf)
 
 Done in Lisbon, on the 11 of May of 2005, in three originals, each in portuguese, turkish and english languages, all texts being equally authentic. In case of divergence of interpretation, the english text of the Protocol shall prevail.
 

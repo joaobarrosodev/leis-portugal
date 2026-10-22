@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/106-1980-462057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7256a0bdc5f50e5c0f66cc7f4fd35c29a206d763984f74e26fd1aad771c043e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed878d2181b240bd73a97d0385d843857814b38199a0feab0f0b28ce482ffa92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Convenção
+- Doença Profissional
+- OIT
+- Poluição
+- Poluição Sonora
+- Portugal
+- Proteção do Ambiente
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:374993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374993:por
+  label: "Estendido ao território de Macau a convenção aprovada para ratificação pelo presente diploma, pelo DEC.163/99.1999.07.08.PR\
+    \ DR.IS-A [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/163-1999-374993
+  date: '1999-07-08'
+- type: amended_by
+  target: pt:dre:670991:por
+  label: "Tornada pública a aplicação a Macau da Convenção nº 148 de OIT pelo AV.143/99.1999.09.10.MNE,DR.IS-A [230] de 01/Out/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/143-1999-670991
+  date: '1999-09-10'
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:18Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +112,17 @@ de 15 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único - 1 - É aprovada, para ratificação, a Convenção n.º 148, Relativa à Protecção dos Trabalhadores contra os Riscos Profissionais Devidos a Poluição do Ar, ao Ruído e às Vibrações nos Locais de Trabalho, adoptada pela Conferência Internacional do Trabalho na sua 63.ª sessão, cujos textos em inglês e francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único - 1 - É aprovada, para ratificação, a Convenção n.º 148, Relativa à Protecção dos Trabalhadores contra os Riscos Profissionais Devidos a Poluição do Ar, ao Ruído e às Vibrações nos Locais de Trabalho, adoptada pela Conferência Internacional do Trabalho na sua 63.ª sessão, cujos textos em inglês e francês e respectiva tradução para português vão anexos ao presente decreto.
 
 2 - Com base no disposto no n.º 1 do artigo 2.º da Convenção, é excluída da ratificação a parte referente a vibrações.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Assinado em 23 de Setembro de 1980.**
+Assinado em 23 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention 148
 
@@ -541,9 +562,9 @@ Depois de ter decidido que estas propostas tomariam a forma de uma Convenção i
 
 adopta, neste dia 20 de Junho de 1977, a seguinte Convenção, que será denominada Convenção sobre o Ambiente de Trabalho (Poluição do Ar, Ruído e Vibrações), 1977:
 
-# PARTE I — Âmbito e definições
+## PARTE I — Âmbito e definições
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1 - A presente Convenção aplica-se a todos os ramos de actividade económica.
 
@@ -551,7 +572,7 @@ adopta, neste dia 20 de Junho de 1977, a seguinte Convenção, que será denomin
 
 3 - Qualquer Membro que ratificar a presente Convenção deverá, no primeiro relatório sobre a sua aplicação, que é obrigado a apresentar em virtude do artigo 22.º da Constituição da Organização Internacional do Trabalho, indicar os ramos que foram objecto da exclusão em cumprimento do n.º 2 do presente artigo, indicando os motivos dessa exclusão, e expor, nos relatórios ulteriores, a situação da sua legislação e da sua prática no respeitante a esses ramos, especificando em que medida cumpriu ou se tenciona pôr em prática a Convenção no que respeita aos ramos em questão.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1 - Qualquer Membro pode, após consulta às organizações representativas dos empregadores e dos trabalhadores, se as houver, aceitar as obrigações previstas pela presente Convenção, separadamente, no que respeita:
 
@@ -565,7 +586,7 @@ c) Às vibrações.
 
 3 - Todo o Membro que, quando da sua ratificação, não tiver aceitado as obrigações previstas pela presente Convenção para todas as categorias de riscos deverá posteriormente, quando considerar que as circunstâncias o permitem, informar o director-geral da Repartição Internacional do Trabalho de que aceita as obrigações previstas pela Convenção relativamente a uma ou mais das categorias anteriormente excluídas da sua aceitação.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Para os fins da presente Convenção:
 
@@ -575,15 +596,15 @@ b) O termo «ruído» designa todos os sons que possam causar a perda da audiç�
 
 c) O termo «vibrações» designa todas as vibrações transmitidas ao corpo humano por estruturas sólidas e que sejam nocivas para a saúde ou perigosas de qualquer forma.
 
-# PARTE II — Disposições gerais
+## PARTE II — Disposições gerais
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - A legislação nacional deverá prescrever que se tomem medidas nos locais de trabalho para prevenir os riscos profissionais devidos à poluição do ar, ao ruído e às vibrações, limitá-los e proteger os trabalhadores contra esses riscos.
 
 2 - As modalidades de aplicação das medidas prescritas poderão ser adoptadas através de normas técnicas, de manuais de directivas práticas ou de outros meios apropriados.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - Ao aplicar as disposições da presente Convenção, a autoridade competente deverá agir em consulta com as organizações mais representativas dos empregadores e trabalhadores interessados.
 
@@ -593,21 +614,21 @@ c) O termo «vibrações» designa todas as vibrações transmitidas ao corpo hu
 
 4 - Os representantes do empregador e dos trabalhadores da empresa deverão ter a possibilidade de acompanhar os inspectores quando estes verificarem a aplicação das medidas prescritas nesta Convenção, a não ser que estes considerem, de acordo com instruções gerais da autoridade competente, que isso pode prejudicar a eficácia da sua fiscalização.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1 - Os empregadores serão responsabilizados pela aplicação das medidas prescritas.
 
 2 - Sempre que várias entidades patronais empreendam simultaneamente actividades no mesmo local de trabalho, terão o dever de colaborar a fim de aplicar as medidas prescritas, sem prejuízo da responsabilidade de cada empregador pela saúde e pela segurança dos trabalhadores que emprega. Nos casos apropriados, a autoridade competente prescreverá os processos gerais segundo os quais deverá efectuar-se essa colaboração.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1 - Os trabalhadores terão o dever de respeitar as instruções de segurança destinadas a prevenir os riscos profissionais devidos à poluição do ar, ao ruído e às vibrações nos locais de trabalho, a limitá-los e a assegurar a protecção contra esses riscos.
 
 2 - Os trabalhadores ou os seus representantes terão direito a apresentar propostas, a obter informações, a obter uma formação e a recorrer à instância apropriada para assegurar a protecção contra os riscos profissionais devidos à poluição do ar, ao ruído e às vibrações nos locais de trabalho.
 
-# PARTE III — Medidas de prevenção e protecção
+## PARTE III — Medidas de prevenção e protecção
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - A autoridade competente deverá fixar os critérios que permitam definir os riscos de exposição à poluição do ar, ao ruído e às vibrações nos locais de trabalho e, sendo caso disso, deverá precisar, com base nesses critérios, os limites de exposição.
 
@@ -615,7 +636,7 @@ c) O termo «vibrações» designa todas as vibrações transmitidas ao corpo hu
 
 3 - Os critérios e os limites de exposição deverão ser fixados, completados e revistos com regularidade, à luz dos conhecimentos e dos novos dados nacionais e internacionais, tendo em conta, na medida do possível, todos os aumentos dos riscos profissionais resultantes da exposição simultânea a vários factores nocivos no local de trabalho.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Tanto quanto possível, todos os riscos devidos à poluição do ar, ao ruído e às vibrações deverão ser eliminados dos locais de trabalho:
 
@@ -623,11 +644,11 @@ a) Através de medidas técnicas aplicadas às novas instalações ou aos novos 
 
 b) Por medidas complementares de organização do trabalho.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Quando as medidas tomadas em virtude do artigo 9.º não reduzirem a poluição do ar, o ruído e as vibrações nos locais de trabalho aos limites especificados no artigo 8.º, os empregadores deverão fornecer e manter em bom estado o equipamento de protecção individual apropriado. A entidade patronal não deverá obrigar um trabalhador a trabalhar sem o equipamento de protecção individual fornecido em virtude do presente artigo.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1 - O estado de saúde dos trabalhadores expostos ou susceptíveis de serem expostos aos riscos profissionais devidos à poluição do ar, ao ruído ou às vibrações nos locais de trabalho deverá ser objecto de vigilância, com intervalos apropriados, nas circunstâncias e de acordo com as modalidades fixadas pela autoridade competente. Essa vigilância deverá incluir um exame médico de admissão e exames periódicos, em condições determinadas pela autoridade competente.
 
@@ -637,11 +658,11 @@ Quando as medidas tomadas em virtude do artigo 9.º não reduzirem a poluição 
 
 4 - As medidas tomadas para pôr em prática a presente Convenção não deverão afectar desfavoravelmente os direitos dos trabalhadores estabelecidos pela legislação sobre a segurança social ou o seguro social.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 A utilização de processos, substâncias, máquinas ou materiais, especificados pela autoridade competente, que implique a exposição de trabalhadores aos riscos profissionais devidos à poluição do ar, ao ruído ou às vibrações nos locais de trabalho deverá ser notificada à autoridade competente, a qual poderá, conforme os casos, autorizá-la, segundo determinadas condições, ou proibi-la.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Todas as pessoas interessadas:
 
@@ -649,17 +670,17 @@ a) Deverão ser informadas de maneira adequada e apropriada dos riscos profissio
 
 b) Deverão também receber, previamente, instruções adequadas e apropriadas acerca dos meios disponíveis para prevenir esses riscos, limitá-los e proteger contra eles os trabalhadores.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Deverão tomar-se medidas, tendo em conta as condições e os recursos nacionais, para promover a investigação no domínio da prevenção e da limitação dos riscos devidos à poluição do ar, ao ruído e às vibrações nos locais de trabalho.
 
-# PARTE IV — Medidas de aplicação
+## PARTE IV — Medidas de aplicação
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Segundo as modalidades e nas circunstâncias fixadas pela autoridade competente, os empregadores deverão designar uma pessoa competente, ou recorrer a um serviço exterior ou comum a várias empresas, para tratar das questões de prevenção e limitação da poluição do ar, do ruído e das vibrações nos locais de trabalho.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Cada Membro deverá:
 
@@ -667,13 +688,13 @@ a) Tomar, por via legislativa ou por qualquer outro método, de acordo com a pr�
 
 b) Encarregar serviços de inspecção apropriados do contrôle da aplicação das disposições da Convenção ou verificar que é assegurada uma inspecção adequada.
 
-# PARTE V — Disposições finais
+## PARTE V — Disposições finais
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 As ratificações formais desta Convenção serão comunicadas ao director-geral da Repartição Internacional do Trabalho e por ele registadas.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1 - Esta Convenção obrigará apenas os Membros da Organização Internacional do Trabalho cuja ratificação tiver sido registada pelo director-geral.
 
@@ -681,27 +702,27 @@ As ratificações formais desta Convenção serão comunicadas ao director-geral
 
 3 - Em seguida, esta Convenção entrará em vigor para cada Membro doze meses após a data em que tiver sido registada a sua ratificação.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 1 - Qualquer Membro que tiver ratificado esta Convenção poderá, decorrido um período de dez anos a contar da data da entrada em vigor inicial da Convenção, denunciar a Convenção no seu conjunto ou relativamente a uma ou mais categorias de riscos atrás citados no artigo 2.º, por comunicação enviada ao director-geral da Repartição Internacional do Trabalho e por ele registada. A denúncia apenas terá efeito um ano depois de ter sido registada.
 
 2 - Qualquer Membro que tiver ratificado esta Convenção e que, no prazo de um ano após ter expirado o período de dez anos mencionado no parágrafo anterior, não fizer uso da faculdade de denúncia prevista no presente artigo ficará obrigado por um novo período de dez anos e poderá depois denunciar a presente Convenção, nas condições previstas neste artigo, no termo de cada período de dez anos.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 1 - O director-geral da Repartição Internacional do Trabalho participará a todos os Membros da Organização Internacional do Trabalho o registo de todas as ratificações e denúncias que lhe forem comunicadas pelos Membros da Organização.
 
 2 - Ao notificar os Membros da Organização do registo da segunda ratificação que lhe tiver sido comunicada, o director-geral chamará a atenção dos Membros da Organização para a data da entrada em vigor desta Convenção.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 O director-geral da Repartição Internacional do Trabalho comunicará ao Secretário-Geral das Nações Unidas, para efeitos de registo, de acordo com o artigo 102.º da Carta das Nações Unidas, informações completas sobre todas as ratificações e todos os actos de denúncia que tiver registado, de acordo com os artigos anteriores.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Sempre que o considere necessário, o Conselho de Administração da Repartição Internacional do Trabalho apresentará à Conferência Geral um relatório sobre a aplicação da presente Convenção e examinará a oportunidade de inscrever na ordem do dia da Conferência a questão da sua revisão total ou parcial.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 1 - No caso de a Conferência adoptar uma nova Convenção que implique revisão total ou parcial desta Convenção, e salvo disposição em contrário da nova Convenção:
 
@@ -711,6 +732,6 @@ b) A partir da data da entrada em vigor da nova Convenção revista, esta Conven
 
 2 - Esta Convenção manter-se-á, em todo o caso, em vigor, na sua forma e conteúdo, para os Membros que a tiverem ratificado e que não ratificarem a Convenção revista.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 As versões francesa e inglesa do texto desta Convenção são igualmente autênticas.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/591-1973-411630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e6c2e03df18a9599d99d9ec4be6e99d3bebedc45a18e075be25dbe0120f70bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3513a7f04115790063c3fa4486939c0a18dce82d03a5b9cb40d64ff23e72189
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:52Z'
   warnings: []
   errors: []
 ---
@@ -89,8 +89,8 @@ Usando da faculdade conferida pelo n.º 1.º do artigo 81.º da Constituição:
 
 Hei por bem, sob proposta do Presidente do Conselho, nomear Subsecretário de Estado do Exército o coronel Carlos Henriques Pereira Viana Dias de Lemos, Subsecretário de Estado do Trabalho o Dr. António Morgado Pinto Cardoso e Subsecretário de Estado da Segurança Social o Dr. Duarte Cardoso Ivo Cruz.
 
-**Assinado em 7 de Novembro de 1973.**
+Assinado em 7 de Novembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ. - Marcello Caetano.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ. - Marcello Caetano.

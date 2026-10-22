@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1979-392622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d8a8553b586b88aee756f94a3e2801c5272d43359dbdce7ec83b15a4ec3c521
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86b544b32d4a5d68a0889a479284a6131a996165be5367781590fab16230c416
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Droga
+- Portugal
+- Viena
 relationships:
 - type: amended_by
   target: pt:dre:532445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532445:por
+  label: "Estendido ao território de Macau a aplicação da Convenção aprovada para Adesão pelo presente diploma, pelo DEC.183/99.1999.08.28.PR\
+    \ DR.IS-A [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/183-1999-532445
+  date: '1999-08-28'
+- type: corrected_by
+  target: pt:dre:383237:por
+  label: Rectificado pela DECL.DD7196.17.03.1979.PCM, DR.IS [64] de 17.03.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-383237
+  date: '1979-03-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:32Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +105,15 @@ de 30 de Janeiro
 
 Usando da faculdade conferida pelo artigo 200.º, n.º 1, alínea c), da Constituição da República Portuguesa, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção sobre as Substâncias Psicotrópicas, de 1971, aberta para assinatura em Viena em 21 de Fevereiro de 1971, cujo texto, em francês e respectiva tradução, em português, vão anexos ao presente decreto.
+Artigo único. É aprovada, para adesão, a Convenção sobre as Substâncias Psicotrópicas, de 1971, aberta para assinatura em Viena em 21 de Fevereiro de 1971, cujo texto, em francês e respectiva tradução, em português, vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 2 de Janeiro de 1979.**
+Promulgado em 2 de Janeiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION SUR LES SUBSTANCES PSYCHOTROPES
 
@@ -704,19 +719,19 @@ Listes des substances figurant aux tableaux (ver nota *)
 
 Liste des substances figurant au tableau I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf))](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
 
 Liste des substances figurant au tableau II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf))](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
 
 Liste des substances figurant au tableau III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf))](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
 
 Liste des substances figurant au tableau IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf))](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
 
 (nota *) Les noms figurant en italique dans la colonne de gauche sont des Dénominations communes internationales (DCI). À l'exception du (+)-Lysergide, les autres dénominations ou noms communs ne sont indiqués que si aucune DCI n'a encore été proposée.
 
@@ -1234,7 +1249,7 @@ e) Artigo 31.
 
 ###### ARTIGO 33 — Notificação
 
-**O Secretário-Geral notificará a todos os Estados mencionados no parágrafo 1 do artigo 25:**
+O Secretário-Geral notificará a todos os Estados mencionados no parágrafo 1 do artigo 25:
 
 a) As assinaturas, ratificações ou adesões de acordo com o artigo 25;
 
@@ -1252,18 +1267,18 @@ Lista das substâncias (ver nota *)
 
 Substâncias da lista I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf))](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
 
 Substâncias da lista II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf))](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
 
 Substâncias da lista III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf))](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
 
 Substâncias da lista IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf))](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/02500/01230146.pdf)
 
 (nota *) Os nomes que aparecem em itálico na coluna da esquerda são as denominações comuns internacionais (DCI). Com uma excepção [(+)-Lisergida], somente se indicam outros nomes comuns quando ainda não tenha sido proposta nenhuma DCI.

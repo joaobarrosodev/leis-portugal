@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/2006/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-2006-168219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98d428848dc31325f6b146d962f5df270c670132ee1cc00ee5e5140c21e4e6c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3282e42231843dc18d7f1ecef3edba1887716aada8310e23307fc0fa0db8a15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Londres
-- Resíduo
 - OMI
 - Poluição Marinha
 - Poluição pelos Navios
-relationships: []
+- Portugal
+- Resíduo
+relationships:
+- type: cites
+  target: pt:dre:663571:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:38Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +109,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Fernandes da Silva Braga - Luís Filipe Marques Amado - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
 
-**Assinado em 19 de Dezembro de 2005.**
+Assinado em 19 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Dezembro de 2005.**
+Referendado em 19 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ANNEX
 
@@ -327,7 +331,7 @@ Standard discharge connections
 
 Standard dimensions of flanges for discharge connections
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/005b00/01450154.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/005b00/01450154.pdf)](https://files.diariodarepublica.pt/1s/2006/01/005b00/01450154.pdf)
 
 For ships having a moulded depth of five metres and less, the inner diameter of the discharge connection may be 38 millimetres.
 
@@ -481,7 +485,9 @@ Date: ...
 
 (nota 3) Insert the date of expiry as specified by the Administration in accordance with regulation 8.1 of annex IV of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation 1.8 of annex IV of the Convention.
 
-## ANEXO — Anexo IV da MARPOL 73/78 revisto
+## ANEXO
+
+## Anexo IV da MARPOL 73/78 revisto
 
 ## ANEXO IV — Regras para a prevenção da poluição por esgotos sanitários dos navios
 
@@ -681,7 +687,7 @@ Uniões universais de descarga
 
 Dimensões padrão das flanges das uniões de descarga
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/005b00/01450154.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/005b00/01450154.pdf)](https://files.diariodarepublica.pt/1s/2006/01/005b00/01450154.pdf)
 
 Para os navios de pontal igual ou inferior a 5 m, o diâmetro interior da união de descarga pode ser de 38 mm.
 
@@ -719,7 +725,7 @@ Instalações de recepção
 
 (nota 2) V. recomendação sobre normas internacionais para linhas de orientação de efluentes para execução de testes de sistemas de tratamento de esgotos sanitários, adoptadas pela Organização através da Resolução MEPC.2 (VI). Para navios existentes, aceitam-se especificações nacionais.
 
-## APÊNDICE
+APÊNDICE
 
 Modelo do Certificado
 
@@ -793,7 +799,7 @@ Confirmação da prorrogação do certificado válido por um período inferior a
 
 O navio cumpre com as disposições relevantes da Convenção e o presente Certificado deve, de acordo com a regra 8.3 do anexo IV da Convenção, ser válido até .../.../...
 
-**Assinado... (assinatura do oficial autorizado).**
+Assinado... (assinatura do oficial autorizado).
 
 Local: ...
 
@@ -805,7 +811,7 @@ Confirmação da prorrogação do certificado depois de concluída a vistoria de
 
 O navio cumpre com as disposições relevantes da Convenção e o presente Certificado deve, de acordo com a regra 8.4 do anexo IV da Convenção, ser válido até .../.../...
 
-**Assinado ... (assinatura do oficial autorizado).**
+Assinado ... (assinatura do oficial autorizado).
 
 Local: ...
 
@@ -817,7 +823,7 @@ Confirmação da prorrogação da validade do certificado para que o navio compl
 
 O presente certificado deve, em conformidade com a regra 8.5 ou 8.6 (ver nota *) do anexo IV da Convenção, ser aceite como válido até .../.../...
 
-**Assinado ... (assinatura do oficial autorizado).**
+Assinado ... (assinatura do oficial autorizado).
 
 Local: ...
 

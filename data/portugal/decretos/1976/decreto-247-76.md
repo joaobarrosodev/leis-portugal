@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08300/06960697.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/247-1976-502813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 725abc71e3858e7280394d2a67542796d17f33e36651224f113b3f62642325eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6196763b3e9d3c3cf1c1a7607f079f73e9c77b40ea7ea1d04cfc350050c31e57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carta de Condução
+- Desalojado
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:546824:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:422789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:431382:por
+  label: Rectificado o artigo 3.º pela DECL.DD8293.02.07.1976.PCM, DR.IS [153] de 02.07.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-431382
+  date: '1976-07-02'
+- type: repealed_by
+  target: pt:dre:546824:por
+  label: "Revogado pelo DR.31/85.09.05.1985.MES, DR.IS [106]Supl de 09.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/31-1985-546824
+  date: '1985-05-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:23Z'
   warnings: []
   errors: []
 ---
@@ -101,18 +122,18 @@ Com fundamento no § único do artigo 1.º do [Decreto-Lei n.º 39672](https://d
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os titulares de cartas de condução emitidas nas colónias em data anterior à da sua independência ou até esta se verificar podem trocá-las gratuitamente durante o período de validade das mesmas, nos termos do n.º 5 do artigo 47.º do Código da Estrada, com dispensa de outra documentação, na direcção ou secção de viação com jurisdição na área onde tenham fixado a sua residência, ou em qualquer daqueles organismos, caso residam no estrangeiro.
+Artigo 1.º Os titulares de cartas de condução emitidas nas colónias em data anterior à da sua independência ou até esta se verificar podem trocá-las gratuitamente durante o período de validade das mesmas, nos termos do n.º 5 do artigo 47.º do Código da Estrada, com dispensa de outra documentação, na direcção ou secção de viação com jurisdição na área onde tenham fixado a sua residência, ou em qualquer daqueles organismos, caso residam no estrangeiro.
 
-###### Art. 2.º De igual faculdade e regime beneficiam os titulares de licenças de instrutor emitidas nas colónias em data anterior à da sua independência ou até esta se verificar, durante o período de validade das mesmas.
+Art. 2.º De igual faculdade e regime beneficiam os titulares de licenças de instrutor emitidas nas colónias em data anterior à da sua independência ou até esta se verificar, durante o período de validade das mesmas.
 
-###### Art. 3.º Para os casos de extravio ou de caducidade dos títulos referidos no artigo anterior, o director-geral de Viação poderá fixar, por despacho, as condições de troca e de revalidação.
+Art. 3.º Para os casos de extravio ou de caducidade dos títulos referidos no artigo anterior, o director-geral de Viação poderá fixar, por despacho, as condições de troca e de revalidação.
 
-###### Art. 4.º O presente diploma entra em vigor na data da sua publicação.
+Art. 4.º O presente diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - José Augusto Fernandes.
 
-**Promulgado em 27 de Março de 1976.**
+Promulgado em 27 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

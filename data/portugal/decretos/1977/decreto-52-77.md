@@ -48,36 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/52-1977-140079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fefdbe166001a74c78516df7eb3f911bfddbac288608b43763b477e3a03ad9cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37a074104cb273e8d01b0a14121712231f1c398f5519d5d1ad8c6d4e32a995d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Budapeste
+- Convenção
+- Hungria
+- Portugal
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Internacional
+- Transporte Rodoviário
+relationships:
+- type: cites
+  target: pt:dre:631384:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:446921:por
+  label: Retificados os n.ºs 5.1 e 5.2 do texto do Protocolo, parte III «Disposições comuns» pelo(a) Declaração - Diário da
+    República n.º 81/1978, Série I de 1978-04-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-446921
+  date: '1978-04-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:39Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +106,15 @@ de 13 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo em que o Governo da República Portuguesa e o Governo da República Popular da Hungria e respectivo Protocolo sobre Transportes Internacionais de Pessoas e de Mercadorias por Estrada, assinado em Budapeste em 13 de Maio de 1976, cujos textos em francês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo em que o Governo da República Portuguesa e o Governo da República Popular da Hungria e respectivo Protocolo sobre Transportes Internacionais de Pessoas e de Mercadorias por Estrada, assinado em Budapeste em 13 de Maio de 1976, cujos textos em francês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 22 de Março de 1977.**
+Assinado em 22 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Accord entre le Gouvernement de la République Portugaise et le Gouvernement de la République Populaire Hongroise concernant les transports internationaux de personnes et de marchandises par route.
 

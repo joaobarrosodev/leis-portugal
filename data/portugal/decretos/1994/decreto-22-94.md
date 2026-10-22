@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/22/1994/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-1994-230115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 848f73d651680fdf62258fd858df36154f09d2d4dd320ba023e4e25f82ac0280
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0db85fe5b20e716fd61d12ad57796fab45761744f7b9083c69f5cbd67ce1b894
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Recursos Hídricos
 - Direito Internacional Público
+- Domínio Público Hídrico
 - Gestão dos Recursos
 - Helsínquia
 - Nova Iorque
+- Portugal
 - Proteção do Ambiente
-- Domínio Público Hídrico
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:538653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538653:por
+  label: "Aprovado o Protocolo sobre Água e Saúde à Convenção aprovada para ratificação pelo presente diploma pelo Dec.20/2006.17.07.2006.MNE,\
+    \ DR.IS [150] de 04.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/20-2006-538653
+  date: '2006-07-17'
 article_structure:
-  article_count: 29
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 28
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:10Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +106,19 @@ de 26 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção sobre a Protecção e a Utilização dos Cursos de Água Transfronteiriços e dos Lagos Internacionais, concluída em Helsínquia a 17 de Março de 1992 e assinada em Nova Iorque a 9 de Junho de 1992, cuja versão autêntica em língua inglesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção sobre a Protecção e a Utilização dos Cursos de Água Transfronteiriços e dos Lagos Internacionais, concluída em Helsínquia a 17 de Março de 1992 e assinada em Nova Iorque a 9 de Junho de 1992, cuja versão autêntica em língua inglesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1994. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia.
 
 Ratificado em 8 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Junho de 1994.**
+Referendado em 11 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION ON THE PROTECTION AND USE OF TRANSBOUNDARY ATERCOURSES AND INTERNATIONAL LAKES
 
@@ -694,7 +700,7 @@ No âmbito da presente Convenção:
 
 7) "Melhor tecnologia disponível" (a sua definição figura no anexo I da presente Convenção).
 
-# PARTE I — Disposições aplicáveis a todas as Partes
+## PARTE I — Disposições aplicáveis a todas as Partes
 
 ###### Artigo 2.º — Disposições gerais
 
@@ -798,7 +804,7 @@ As Partes deverão apoiar as iniciativas internacionais apropriadas que procuram
 
 As disposições da presente Convenção não devem interferir com os direitos nem com as obrigações das Partes de proteger, de acordo com o seu sistema jurídico nacional e os regulamentos supranacionais aplicáveis, a informação relacionada com o segredo industrial e comercial e também da propriedade intelectual, ou da segurança nacional.
 
-# PARTE II — Disposições aplicáveis às Partes Ribeirinhas
+## PARTE II — Disposições aplicáveis às Partes Ribeirinhas
 
 ###### Artigo 9.º — Cooperação bilateral e multinacional
 
@@ -900,7 +906,7 @@ c) Os resultados das colheitas de amostras de água e de efluentes efectuados pa
 
 2 - As Partes Ribeirinhas deverão assegurar que o público possa ter acesso a essas informações em qualquer momento oportuno e que possa tomar conhecimento delas gratuitamente. Para além disso, as Partes deverão pôr à disposição dos membros do público meios suficientes para que eles possam obter cópias dessas informações mediante o pagamento de um preço justo.
 
-# PARTE III — Disposições institucionais e finais
+## PARTE III — Disposições institucionais e finais
 
 ###### Artigo 17.º — Reunião das Partes
 
@@ -928,7 +934,7 @@ f) Considerar e executar qualquer outra acção adicional que possa revelar-se n
 
 ###### Artigo 19.º — Secretariado
 
-**O secretário executivo da Comissão Económica para a Europa deverá exercer as seguintes funções de secretariado:**
+O secretário executivo da Comissão Económica para a Europa deverá exercer as seguintes funções de secretariado:
 
 a) Convocar e preparar as reuniões das Partes;
 
@@ -968,7 +974,7 @@ A presente Convenção está aberta à assinatura dos Estados membros da Comiss�
 
 ###### Artigo 24.º — Depositário
 
-**O Secretário-Geral da Organização das Nações Unidas deverá funcionar como depositário da presente Convenção.**
+O Secretário-Geral da Organização das Nações Unidas deverá funcionar como depositário da presente Convenção.
 
 ###### Artigo 25.º — Ratificação, aceitação, aprovação e adesão
 

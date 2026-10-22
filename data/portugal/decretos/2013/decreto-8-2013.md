@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/8/2013/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-2013-260883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2124c3a7b404245178b7b473c5824c3e927bf95069b2378f98d8e3a9f9f1bb90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 009f43c765c5c176d95184f328f1a10956452feda8bce259d598b629f1128e72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Zona Económica Exclusiva
 - Convenção
-- Portugal
 - Espanha
 - Frota de Pesca
-- Pesca
 - Ilhas Canárias
-- Pesca Artesanal
 - Madeira.região Autónoma
+- Pesca
+- Pesca Artesanal
 - Porto
-relationships: []
+- Portugal
+- Zona Económica Exclusiva
+relationships:
+- type: amended_by
+  target: pt:dre:497865:por
+  label: "Tornado público que foram cumpridas as formalidades constitucionais internas de aprovação do Acordo entre a República\
+    \ Portuguesa e o Reino de Espanha para o exercício da Atividade da Frota de Pesca Artesanal das Canárias e da Madeira,\
+    \ aprovado pelo presente diploma, pelo DR.IS [89]AV.81/2013.09.07.2013.MNE, DR.IS [130] de 09.07.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/81-2013-497865
+  date: '2013-07-09'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:03Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +114,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 4 de abril de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Assinado em 24 de abril de 2013.**
+Assinado em 24 de abril de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de abril de 2013.**
+Referendado em 30 de abril de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA PARA O EXERCÍCIO DA ATIVIDADE DA FROTA DE PESCA ARTESANAL DAS CANÁRIAS E DA MADEIRA
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/32/1993/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/32-1993-645307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06ad645b2c098648d2c0d9a6e6ea0e6d1e74e54bf559ada511ff89f822f07f2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0180ee69589ca55c9892a68b22ee9ac404a804e415f517e9546b5aabdfbb7e2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cabo Verde
 - Convenção
 - Cooperação Técnica
-- Portugal
 - Pesca
-- Cabo Verde
-relationships: []
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:457471:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:34Z'
   warnings: []
   errors: []
 ---
@@ -91,21 +95,21 @@ de 7 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Acordo Especial de Cooperação no Domínio das Pescas entre a República Portuguesa e a República de Cabo Verde, assinado em Lisboa a 23 de Novembro de 1992, cujo texto original segue em anexo ao presente decreto.
+Artigo 1.º É aprovado o Acordo Especial de Cooperação no Domínio das Pescas entre a República Portuguesa e a República de Cabo Verde, assinado em Lisboa a 23 de Novembro de 1992, cujo texto original segue em anexo ao presente decreto.
 
-###### Art. 2.º É revogado o [Decreto n.º 117/80](https://diariodarepublica.pt/dr/detalhe/decreto/117-1980-457471), de 5 de Novembro, que aprovou o Acordo de Cooperação no Domínio da Pesca entre o Governo da República Portuguesa e o Governo da República de Cabo Verde.
+Art. 2.º É revogado o [Decreto n.º 117/80](https://diariodarepublica.pt/dr/detalhe/decreto/117-1980-457471), de 5 de Novembro, que aprovou o Acordo de Cooperação no Domínio da Pesca entre o Governo da República Portuguesa e o Governo da República de Cabo Verde.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1993. - Aníbal António Cavaco Silva - Domingos Manuel Martins Jerónimo - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Assinado em 26 de Maio de 1993.**
+Assinado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Maio de 1993.**
+Referendado em 29 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ESPECIAL DE COOPERAÇÃO NO DOMÍNIO DAS PESCAS ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE.
 

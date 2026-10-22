@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/473-1976-431034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 942328ba9394c185ed48c71314741eb78741da9788a52ad23afc358c00f85033
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8b05c440865fde145dda4f777da71a87e40e7ff77b06328438cc1a50c24884f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formas de Provimento
+- Gabinete de Estudos e Planeamento
+- Ministério das Finanças
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:400795:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400795:por
+  label: "Criado um lugar de assessor no quadro de pessoal aprovado pelo presente diploma, na redacção da Port 474/80, de\
+    \ 05-Ago, pela PORT.865/84.20.11.1984.PCM, DR.IS [269] de 20.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-1984-400795
+  date: '1984-11-20'
+- type: cites
+  target: pt:dre:253025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:31Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +114,7 @@ Assim, nos termos do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarep
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O quadro de pessoal do Gabinete de Estudos e Planeamento do Ministério das Finanças é o constante do mapa anexo ao presente diploma e o provimento dos respectivos lugares será efectuado nos termos seguintes:
+Artigo 1.º O quadro de pessoal do Gabinete de Estudos e Planeamento do Ministério das Finanças é o constante do mapa anexo ao presente diploma e o provimento dos respectivos lugares será efectuado nos termos seguintes:
 
 a) O director do Gabinete será nomeado nas condições previstas na lei e provido em comissão de serviço, pelo prazo de três anos, renovável, e, sendo já servidor do Estado, sem perda da antiguidade ou outros direitos adquiridos;
 
@@ -118,24 +136,24 @@ e) O provimento dos lugares a que se referem as alíneas b), c) e d) deste artig
 
 f) A nomeação será logo definitiva quando recair em funcionários que já tenham provimento definitivo em lugar da mesma natureza.
 
-###### Art. 2.º - 1. O pessoal actualmente ao serviço do Gabinete, incluindo o que está em regime de prestação de serviços, será integrado nos lugares criados pelo presente diploma desde que possua as habilitações legais requeridas, mediante lista nominativa a aprovar pelo Ministro das Finanças, onde constem o lugar em que cada funcionário fica provido e o carácter provisório ou definitivo do provimento.
+Art. 2.º - 1. O pessoal actualmente ao serviço do Gabinete, incluindo o que está em regime de prestação de serviços, será integrado nos lugares criados pelo presente diploma desde que possua as habilitações legais requeridas, mediante lista nominativa a aprovar pelo Ministro das Finanças, onde constem o lugar em que cada funcionário fica provido e o carácter provisório ou definitivo do provimento.
 
 2. Os provimentos que se fizerem nos termos do número anterior produzirão todos os seus efeitos sem dependência de outras formalidades, além do visto do Tribunal de Contas, nos termos do artigo 4.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, e da publicação da correspondente lista nominativa no Diário da República.
 
-###### Art. 3.º As dúvidas e casos omissos suscitados na interpretação deste diploma serão esclarecidos por despacho do Ministro das Finanças.
+Art. 3.º As dúvidas e casos omissos suscitados na interpretação deste diploma serão esclarecidos por despacho do Ministro das Finanças.
 
-###### Art. 4.º Este diploma entra em vigor na data da sua publicação.
+Art. 4.º Este diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 3 de Junho de 1976.**
+Promulgado em 3 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/06/14000/13421343.pdf))](https://files.diariodarepublica.pt/1s/1976/06/14000/13421343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/06/14000/13421343.pdf)
 
-**O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha.

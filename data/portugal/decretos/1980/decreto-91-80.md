@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/91-1980-461868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca940eeae1ebca5c80157885e88d2dc82442d9ae2bb4c6f92fc85dc72727b2a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50a0a134be844e0d7a281fb32c246b0225302107b6228e3bc223f51940c7ed5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Científica
+- Cooperação Cultural
+- Grécia
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:15Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 23 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre o Governo da República Portuguesa, e o Governo da República Helénica sobre Cooperação Cultural e Científica, assinado em Atenas, a 10 de Julho de 1980, cujos textos em português, francês e grego vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo entre o Governo da República Portuguesa, e o Governo da República Helénica sobre Cooperação Cultural e Científica, assinado em Atenas, a 10 de Julho de 1980, cujos textos em português, francês e grego vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 21 de Agosto de 1980.**
+Assinado em 21 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo de Cooperação Cultural e Científica entre Portugal e a Grécia
 
@@ -103,7 +108,7 @@ O Governo da República Portuguesa e o Governo da República Helénica, desejoso
 
 Educação e ciência
 
-ARTIGO I
+###### ARTIGO I
 
 As duas Partes Contratantes esforçar-se-ão por desenvolver a cooperação nos seguintes domínios do ensino e da ciência. Para esse efeito:
 
@@ -121,15 +126,15 @@ As duas Partes Contratantes esforçar-se-ão por desenvolver a cooperação nos 
 
 Cultura
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes Contratantes favorecerão o intercâmbio de documentação e de informações entre as instituições ou associações culturais e artísticas dos respectivos países.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes poderão conceder, na base da reciprocidade, bolsas de especialização no domínio do aperfeiçoamento e da formação artística e cultural.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Contratantes esforçar-se-ão por assegurar no seu território um melhor conhecimento da cultura da outra Parte, através de:
 
@@ -143,37 +148,37 @@ Intercâmbio de grupos artísticos;
 
 Semanas de cinema.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes favorecerão, na medida do possível, iniciativas de casas editoras dos seus países com vista à tradução e publicação de obras literárias do outro país.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Partes Contratantes favorecerão o desenvolvimento de relações e trocas de informações entre os seus museus e arquivos e bibliotecas nacionais.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As Partes Contratantes favorecerão a colaboração entre instituições especializadas nos domínios da conservação e restauro do património cultural, nomeadamente de monumentos históricos.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Cada uma das Partes Contratantes adoptará as medidas necessárias para garantir a protecção dos bens culturais da outra Parte, bem como para impedir a sua importação e exportação ilícitas.
 
 Rádio e televisão
 
-ARTIGO IX
+###### ARTIGO IX
 
 Cada Parte Contratante facilitará a difusão de programas de rádio e televisão da outra Parte.
 
 Desporto
 
-ARTIGO X
+###### ARTIGO X
 
 As Partes Contratantes favorecerão o desenvolvimento do intercâmbio nos domínios dos desportos, da educação física e da juventude, assim como de publicações.
 
 Disposições várias
 
-ARTIGO XI
+###### ARTIGO XI
 
 1 - Tendo em vista a aplicação do presente Acordo, será constituída uma comissão mista luso-grega, de composição paritária.
 
@@ -185,7 +190,7 @@ Esta comissão poderá convocar para as reuniões peritos a título de conselhei
 
 3 - Todas as trocas previstas no presente Acordo efectuar-se-ão com base no princípio da reciprocidade.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1 - O presente Acordo deverá ser ratificado e entrará em vigor trinta dias após a troca dos instrumentos de ratificação.
 
@@ -305,4 +310,4 @@ Pour le Gouvernement de la République Hellénique:
 
 (Assinatura ilegível.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/22000/28772880.pdf))](https://files.diariodarepublica.pt/1s/1980/09/22000/28772880.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/22000/28772880.pdf)

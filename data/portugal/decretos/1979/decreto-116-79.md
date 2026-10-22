@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/116-1979-363886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57e171718e5420abae04441ae5394dae068decef696e8f66b9d8f46a1d250097
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84c92589e4742dc399813e5c221ec9f8bc255249a4f27da9fac3b579b7dc72e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Constitucional
+- Gestão de Recursos Humanos
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:232941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673410:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:46Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +114,7 @@ Considerando que a prática do funcionamento dos serviços permite a redução d
 
 O Conselho da Revolução decreta, nos termos do n.º 1 do artigo 285.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao mapa anexo ao [Decreto n.º 654-A/76](https://diariodarepublica.pt/dr/detalhe/decreto/654-a-1976-673410), de 31 de Julho, são introduzidas as seguintes alterações:
+Artigo 1.º Ao mapa anexo ao [Decreto n.º 654-A/76](https://diariodarepublica.pt/dr/detalhe/decreto/654-a-1976-673410), de 31 de Julho, são introduzidas as seguintes alterações:
 
 1 - Serviços de apoio:
 
@@ -130,7 +150,7 @@ b) Núcleo de apoio documental:
 
 2 serventes ... U
 
-###### Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos:
+Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos:
 
 a) A partir de 1 de Agosto de 1978, em relação aos funcionários de justiça que prestam serviço na secretaria da Comissão Constitucional;
 
@@ -138,8 +158,8 @@ b) A partir de 1 de Julho de 1979, em relação aos técnicos superiores princip
 
 Visto e aprovado em Conselho da Revolução em 11 de Abril de 1979.
 
-**Promulgado em 29 de Setembro de 1979.**
+Promulgado em 29 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.

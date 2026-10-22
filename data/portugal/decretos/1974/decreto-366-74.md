@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/366-1974-475720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:34:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06a94a40f486f08f52cd3ab21463952e13f56fb6f9eaeb739978a65008ceb059
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a529bec11c55636528694527e823aee88784c262be2bb1a2ffe01d603b934c62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ relationships:
   target: pt:dre:160893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:160893:por
+  label: "Mantido em vigor, pelo DEC LEI.123/75.11.03.1975.PCM, DG.IS [59] de 11.03.1975, nos termos do nº2 do artº 17.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-1975-160893
+  date: '1975-03-11'
+- type: cites
+  target: pt:dre:476134:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:34:10Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +107,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Em todos os Ministérios civis será criada, no prazo de dez dias, a contar da entrada em vigor deste diploma, uma comissão ministerial para o saneamento e reclassificação, composta por três membros, a nomear pelo respectivo Ministro de entre os trabalhadores do departamento, um dos quais será designado presidente.
+Artigo 1.º - 1. Em todos os Ministérios civis será criada, no prazo de dez dias, a contar da entrada em vigor deste diploma, uma comissão ministerial para o saneamento e reclassificação, composta por três membros, a nomear pelo respectivo Ministro de entre os trabalhadores do departamento, um dos quais será designado presidente.
 
 2. Haverá também uma comissão ministerial para o saneamento e reclassificação na Presidência do Conselho de Ministros, a nomear pelo Primeiro-Ministro, e cuja competência abrangerá o pessoal do respectivo quadro único, e ainda o pessoal de todos os organismos dela dependentes.
 
-###### Art. 2.º As comissões para o saneamento e reclassificação tomarão posse no prazo de cinco dias após a publicação do despacho da sua designação, perante o Primeiro-Ministro ou o Ministro do departamento respectivo, entram imediatamente em funções, e consideram-se extintas no dia 31 de Dezembro do corrente ano.
+Art. 2.º As comissões para o saneamento e reclassificação tomarão posse no prazo de cinco dias após a publicação do despacho da sua designação, perante o Primeiro-Ministro ou o Ministro do departamento respectivo, entram imediatamente em funções, e consideram-se extintas no dia 31 de Dezembro do corrente ano.
 
-###### Art. 3.º - 1. As mesmas comissões funcionarão em estreita colaboração e segundo o plano e directrizes coordenativas traçadas pela Comissão Interministerial de Reclassificação, e têm por principais atribuições as seguintes:
+Art. 3.º - 1. As mesmas comissões funcionarão em estreita colaboração e segundo o plano e directrizes coordenativas traçadas pela Comissão Interministerial de Reclassificação, e têm por principais atribuições as seguintes:
 
 a) Inquirir por sua iniciativa quaisquer factos que visem a aplicação do [Decreto-Lei n.º 277/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1974-476134), de 25 de Junho;
 
@@ -114,17 +123,17 @@ c) Elaborar, com base nos elementos reunidos, propostas para a suspensão, trans
 
 2. Quaisquer comissões que tenham sido ou vierem a ser constituídas no âmbito dos serviços, com vista ao saneamento das instituições públicas, devem agir em estreita colaboração com as comissões ministeriais previstas neste diploma, devendo igualmente submeter-se às orientações por elas traçadas, e dar-lhes conta dos resultados das suas actividades na consecução das finalidades impostas pelo [Decreto-Lei n.º 277/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1974-476134).
 
-###### Art. 4.º A competência das comissões ministeriais para o saneamento e reclassificação não substitui, nem por qualquer forma prejudica a competência e poderes atribuídos pelo [Decreto-Lei n.º 277/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1974-476134), de 25 de Junho, aos titulares de quaisquer pastas ministeriais.
+Art. 4.º A competência das comissões ministeriais para o saneamento e reclassificação não substitui, nem por qualquer forma prejudica a competência e poderes atribuídos pelo [Decreto-Lei n.º 277/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1974-476134), de 25 de Junho, aos titulares de quaisquer pastas ministeriais.
 
-###### Art. 5.º O Governo estabelecerá, por sua iniciativa ou proposta da Comissão Interministerial de Reclassificação, critérios gerais a observar no funcionamento das comissões criadas pelo presente diploma.
+Art. 5.º O Governo estabelecerá, por sua iniciativa ou proposta da Comissão Interministerial de Reclassificação, critérios gerais a observar no funcionamento das comissões criadas pelo presente diploma.
 
-###### Art. 6.º - 1. As comissões ministeriais de inquérito para o saneamento e reclassificação devem ouvir o funcionário ou agente, sempre que entendam haver motivo para que lhe possa ser aplicada alguma das medidas legais, mandando reduzir a escrito a sua defesa quando esta for prestada oralmente.
+Art. 6.º - 1. As comissões ministeriais de inquérito para o saneamento e reclassificação devem ouvir o funcionário ou agente, sempre que entendam haver motivo para que lhe possa ser aplicada alguma das medidas legais, mandando reduzir a escrito a sua defesa quando esta for prestada oralmente.
 
 2. As mesmas comissões poderão requisitar todos os elementos e documentos necessários à instrução dos processos de que se ocupem a qualquer entidade pública ou privada, e, bem assim, proceder a quaisquer diligências necessárias à obtenção de uma decisão conscienciosa.
 
 3. Em caso de difícil averiguação, as comissões ministeriais poderão propor a designação de um relator para proceder a quaisquer diligências de instrução, findas as quais apresentará relatório fundamentado sobre as respectivas conclusões.
 
-###### Art. 7.º As propostas e pareceres referidos no artigo 3.º deverão conter ou ser acompanhados dos seguintes elementos:
+Art. 7.º As propostas e pareceres referidos no artigo 3.º deverão conter ou ser acompanhados dos seguintes elementos:
 
 1.º Identificação completa e situação actualizada dentro do serviço do funcionário ou agente a que se referem;
 
@@ -136,13 +145,13 @@ c) Elaborar, com base nos elementos reunidos, propostas para a suspensão, trans
 
 5.º Indicação da medida a aplicar ao funcionário ou agente, nos termos legais.
 
-###### Art. 8.º A Comissão Interministerial de Reclassificação poderá devolver à comissão ministerial competente qualquer proposta dela oriunda, quando reconheça a sua deficiente fundamentação, ou a carência de quaisquer diligências ou de meios probatórios que considere necessários.
+Art. 8.º A Comissão Interministerial de Reclassificação poderá devolver à comissão ministerial competente qualquer proposta dela oriunda, quando reconheça a sua deficiente fundamentação, ou a carência de quaisquer diligências ou de meios probatórios que considere necessários.
 
-###### Art. 9.º As deliberações da Comissão Interministerial de Reclassificação, bem como das comissões ministeriais, serão tomadas por maioria dos seus membros, sendo a votação rigorosamente secreta, e não sendo permitida qualquer declaração de vencido.
+Art. 9.º As deliberações da Comissão Interministerial de Reclassificação, bem como das comissões ministeriais, serão tomadas por maioria dos seus membros, sendo a votação rigorosamente secreta, e não sendo permitida qualquer declaração de vencido.
 
-###### Art. 10.º Os membros das comissões a que se refere o artigo 1.º são designados nos despachos que as instituem e podem ser exonerados e substituídos a todo o tempo por decisão do Ministro competente.
+Art. 10.º Os membros das comissões a que se refere o artigo 1.º são designados nos despachos que as instituem e podem ser exonerados e substituídos a todo o tempo por decisão do Ministro competente.
 
-###### Art. 11.º O presidente da Comissão Interministerial de Reclassificação e os presidentes das comissões ministeriais de saneamento e reclassificação têm, designadamente, as seguintes funções:
+Art. 11.º O presidente da Comissão Interministerial de Reclassificação e os presidentes das comissões ministeriais de saneamento e reclassificação têm, designadamente, as seguintes funções:
 
 a) Dirigir e coordenar os trabalhos das comissões a que presidem;
 
@@ -150,7 +159,7 @@ b) Convocar as reuniões, e, de uma maneira geral, definir e estabelecer a ordem
 
 c) Assinar todo o expediente relativo às actividades a desenvolver pelas comissões, podendo corresponder-se com quaisquer autoridades do País, seja qual for a sua categoria.
 
-###### Art. 12.º - 1. A Comissão Interministerial de Reclassificação e as comissões referidas no artigo 1.º deste diploma funcionam, respectivamente, junto da Presidência do Conselho de Ministros e dos Gabinetes dos Ministros competentes.
+Art. 12.º - 1. A Comissão Interministerial de Reclassificação e as comissões referidas no artigo 1.º deste diploma funcionam, respectivamente, junto da Presidência do Conselho de Ministros e dos Gabinetes dos Ministros competentes.
 
 2. Às referidas comissões será agregado o pessoal de apoio jurídico, técnico e administrativo que for necessário ao seu funcionamento, mediante proposta dos seus presidentes ao respectivo membro do Governo, que o designará por despacho.
 
@@ -158,24 +167,24 @@ c) Assinar todo o expediente relativo às actividades a desenvolver pelas comiss
 
 4. As comissões poderão ainda agregar outros cidadãos que ofereçam a sua colaboração, mediante despacho de concordância do respectivo membro do Governo.
 
-###### Art. 13.º - 1. As propostas ou pareceres que as comissões apresentem, tendo em vista a transferência de funcionários e agentes, deverão explicitar as características e qualificações reconhecidas àqueles nos respectivos processos e as que forem exigidas pelas novas funções a desempenhar.
+Art. 13.º - 1. As propostas ou pareceres que as comissões apresentem, tendo em vista a transferência de funcionários e agentes, deverão explicitar as características e qualificações reconhecidas àqueles nos respectivos processos e as que forem exigidas pelas novas funções a desempenhar.
 
 2. Para o efeito assinalado no número anterior, a Comissão Interministerial de Reclassificação adoptará os procedimentos que entender convenientes, cabendo aos organismos e serviços prestar àquela a mais pronta colaboração no sentido de se conseguirem as soluções mais favoráveis à Administração.
 
-###### Art. 14.º As disposições do presente diploma e quaisquer medidas que venham a ser tomadas pelas comissões não afectam quaisquer providências ou medidas que hajam sido já tomadas anteriormente pelos titulares das pastas dos vários departamentos ministeriais, que deverão, assim, manter-se inteiramente.
+Art. 14.º As disposições do presente diploma e quaisquer medidas que venham a ser tomadas pelas comissões não afectam quaisquer providências ou medidas que hajam sido já tomadas anteriormente pelos titulares das pastas dos vários departamentos ministeriais, que deverão, assim, manter-se inteiramente.
 
-###### Art. 15.º O presente diploma não se aplica à reclassificação e saneamento de quaisquer elementos pertencentes aos três ramos das forças armadas, bem como de quaisquer elementos integrados nas forças militarizadas.
+Art. 15.º O presente diploma não se aplica à reclassificação e saneamento de quaisquer elementos pertencentes aos três ramos das forças armadas, bem como de quaisquer elementos integrados nas forças militarizadas.
 
-###### Art. 16.º As referências feitas neste diploma a funcionários ou agentes dos Ministérios entendem-se aplicáveis aos funcionários ou agentes pertencentes a quaisquer entidades de direito público que de algum modo dependam desses Ministérios.
+Art. 16.º As referências feitas neste diploma a funcionários ou agentes dos Ministérios entendem-se aplicáveis aos funcionários ou agentes pertencentes a quaisquer entidades de direito público que de algum modo dependam desses Ministérios.
 
-###### Art. 17.º Todas as dúvidas suscitadas na interpretação e aplicação do presente decreto regulamentar serão resolvidas por despacho do Primeiro-Ministro.
+Art. 17.º Todas as dúvidas suscitadas na interpretação e aplicação do presente decreto regulamentar serão resolvidas por despacho do Primeiro-Ministro.
 
-###### Art. 18.º Este diploma entra imediatamente em vigor.
+Art. 18.º Este diploma entra imediatamente em vigor.
 
 Vasco dos Santos Gonçalves.
 
-**Promulgado em 7 de Agosto de 1974.**
+Promulgado em 7 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

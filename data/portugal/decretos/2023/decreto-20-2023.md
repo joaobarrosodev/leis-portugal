@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14600/0000400011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/20/2023/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-2023-216254973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6a84d1bbf91234033d689e3eea48c74ea23e777aa497bda4a2234b7c4d35ac7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb761065bdf80bc61eb9319f6d5c21b1dce384384142232829d803d9bb4ac835
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,25 @@ subjects:
 - Convenção
 - Cooperação
 - Cooperação Bilateral
-- Política de Cooperação
-- Cooperação Técnica
-- Portugal
-- República Dominicana
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Técnica
+- Política de Cooperação
+- Portugal
+- República Dominicana
 - Santo Domingo
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:23Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de junho de 2023. - Mariana Guimarães Vieira da Silva - João Titterington Gomes Cravinho.
 
-**Assinado em 13 de julho de 2023.**
+Assinado em 13 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de julho de 2023.**
+Referendado em 14 de julho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO-QUADRO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DOMINICANA
 
@@ -427,3 +427,5 @@ João Gomes Cravinho, Ministro de los Negocios Extranjeros.
 Por la República Dominicana:
 
 Roberto Álvarez, Ministro de Relaciones Exteriores.
+
+116692784

@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/127-1979-367634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33e700a84142da547716f24c1f6afd13e84b97eff9e5faae6d253136dfa4408d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36816eb2c3d29dadabe71c5561b1acf69cd2a636506623ace8bbe533d035f8c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Financeira
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:56Z'
   warnings: []
   errors: []
 ---
@@ -86,37 +89,37 @@ de 20 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Crédito entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia, assinado em Bucareste em 22 de Março de 1979, cujos textos em português e romeno acompanham o presente decreto.
+Artigo único. É aprovado o Acordo de Crédito entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia, assinado em Bucareste em 22 de Março de 1979, cujos textos em português e romeno acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 26 de Setembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 23 de Outubro de 1979.**
+Assinado em 23 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo de Crédito entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia.
 
 O Governo da República Portuguesa e o Governo da República Socialista da Roménia, adiante denominados as Partes Contratantes, no desejo de incentivar a realização de objectivos económicos de interesse comum e a fim de criar novas possibilidades de promoção de cooperação económica e técnica, com base nos princípios da igualdade de direitos e de vantagem mútua, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 O Governo da República Socialista da Roménia concede ao Governo da República Portuguesa um crédito de 100 milhões de dólares dos Estados Unidos. Este crédito será utilizado pela Parte Portuguesa no pagamento de estudos, projectos, instrumentos e equipamentos produzidos na República Socialista da Roménia e exportados para Portugal, destinados aos sectores da indústria transformadora, incluindo a indústria química, da indústria mineira e de transportes e comunicações.
 
-ARTIGO II
+###### ARTIGO II
 
 Com vista à exportação de estudos, projectos, instrumentos e equipamentos no quadro do presente Acordo, proceder-se-á à assinatura de contratos, no período de dois anos a partir da data da entrada em vigor do presente Acordo, entre, por um lado, as pessoas jurídicas devidamente autorizadas pelo Governo Português, incluindo as empresas e serviços públicos, e, por outro lado, as organizações romenas legalmente autorizadas a exercer o comércio externo.
 
 O período em questão poderá ser prorrogado por acordo entre as duas Partes Contratantes.
 
-ARTIGO III
+###### ARTIGO III
 
 Todas as importações complementares que se revelem necessárias à realização dos objectivos enunciados no artigo I do presente Acordo, assim como as despesas de transporte dos bens financiados e das importações complementares, não são abrangidas pelo crédito concedido, sendo suportadas pela Parte Portuguesa em divisas e nas condições acordadas com o fornecedor respectivo do terceiro país. As importações poderão ser efectuadas quer pela Parte Romena quer pela Parte Portuguesa.
 
 Os serviços, incluindo a assistência técnica concedida pela Parte Romena a Portugal, bem como a concedida no momento das importações complementares, tendo em vista a execução dos objectivos industriais realizados, serão pagos fora do âmbito do crédito concedido, em condições a estabelecer nos contratos entre as organizações autorizadas dos dois países.
 
-ARTIGO IV
+###### ARTIGO IV
 
 O valor FOB («franco-frontière») dos contratos relativos às remessas romenas mencionadas nos artigos I e II do presente Acordo será pago pela Parte Portuguesa em dólares dos Estados Unidos livremente convertíveis, em conformidade com as cláusulas contratuais estipuladas para o efeito, do seguinte modo:
 
@@ -134,7 +137,7 @@ Nos contratos de valor igual ou inferior a 5 milhões de dólares dos Estados Un
 
 A duração efectiva do período do crédito será acordada entre o vendedor e o comprador para cada contrato
 
-ARTIGO V
+###### ARTIGO V
 
 O crédito utilizado vencerá juros a uma taxa fixa anual, em função da duração do período de crédito:
 
@@ -148,7 +151,7 @@ O juro será pago em dólares dos Estados Unidos livremente convertíveis, na me
 
 O juro calculado será pago sem dedução de impostos ou quaisquer outros encargos, sendo estes por conta do comprador.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Relativamente à parte do crédito, de 85% do valor das entregas romenas, e aos juros respectivos, as organizações exportadoras romenas emitirão letras que serão aceites pelos importadores portugueses e individualmente avalisadas por um dos bancos portugueses seguintes escolhido pelo comprador para cada transacção:
 
@@ -164,7 +167,7 @@ Caixa Geral de Depósitos - até à importância de USA $35000000.
 
 O aceite e o aval nos saques emitidos pelos exportadores romenos serão assegurados por uma garantia de aval prestada pelos bancos portugueses acima mencionados, em conformidade com o respectivo contrato.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Para efeitos da contabilização do valor das remessas romenas objecto do crédito previto neste Acordo, o Banco Romeno do Comércio Externo abrirá, em nome de cada um dos bancos portugueses mencionados no artigo VI que dão o seu aval às letras relativas à transacção, uma conta em dólares dos Estados Unidos, denominada «Conta Acordo de Crédito».
 
@@ -172,15 +175,15 @@ O Banco Romeno do Comércio Externo levará a débito destas contas o valor das 
 
 Os bancos portugueses acima mencionados procederão, em conjunto com o Banco Romeno do Comércio Externo, ao necessário arranjo técnico e bancário para a execução do presente Acordo, num período de três meses a partir da data da entrada em vigor deste Acordo.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Todas as obrigações de pagamento decorrentes dos contratos assinados no quadro do presente Acordo serão estabelecidas e definidas em dólares dos Estados Unidos livremente convertíveis.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Todas as questões decorrentes da aplicação do presente Acordo serão examinadas e resolvidas nas reuniões bilaterais da Comissão Mista prevista no Acordo Comercial a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia, assinado a 14 de Junho de 1975.
 
-ARTIGO X
+###### ARTIGO X
 
 O presente Acordo será aprovado em conformidade com a legislação em vigor no país de cada Parte Contratante e entrará em vigor na data da última notificação relativa à aprovação pelas autoridades competentes dos dois países.
 
@@ -196,4 +199,4 @@ Pelo Governo da República Socialista da Roménia:
 
 (Assinatura ilegível.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26800/29642967.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26800/29642967.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26800/29642967.pdf)

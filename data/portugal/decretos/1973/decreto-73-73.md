@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/73-1973-684616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e2b551f1b7a6011914e697ff1311bf35aee48c2a7c3f45693e699810d58e445
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d5cc6e12e46b64074fe3f60a937f0e8c9fb298cc7860a06699415707baa7bcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquitecto
+- Autarquia Local
+- Câmara Municipal
+- Construção Civil
+- Licenciamento de Obras
+- Loteamento Urbano
+- Prédio Urbano
+- Projeto
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:491903:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491903:por
+  label: "Revogado, a partir de 01.11.2009, pela LEI.31/2009.03.07.2009.AR, DR.IS [127] de 03.07.2009, sem prejuízo do disposto\
+    \ nos artigos 25º e 26º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2009-491903
+  date: '2009-07-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:09Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +116,7 @@ Ouvido o Ministro da Educação Nacional;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Disposições gerais)
 
@@ -109,7 +128,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4 - A declaração a que se refere o artigo 6.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril, deverá ser subscrita pelos autores do projecto ou das respectivas partes, quando estas existam.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Loteamentos urbanos)
 
@@ -119,7 +138,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 3 - Os projectos das infra-estruturas serão elaborados e subscritos por arquitectos, engenheiros ou agentes técnicos de engenharia, de acordo com as suas especialidades e nos termos da legislação em vigor.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Edifícios)
 
@@ -131,7 +150,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. - É obrigatória a intervenção de arquitectos nos projectos de novos edifícios e nos de alteração em edifícios existentes, que envolvam modificações na sua expressão plástica, nas áreas aprovadas pelo Governo para este efeito, sob proposta das câmaras municipais interessadas.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Estruturas de edifícios)
 
@@ -141,7 +160,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 3 - Salvo prescrição regulamentar em contrário, os engenheiros e os agentes técnicos de engenharia de especialidades não previstas no n.º 1, os arquitectos e os construtores civis diplomados poderão projectar estruturas simples, de fácil dimensionamento e de execução corrente.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Instalações especiais e equipamento)
 
@@ -153,7 +172,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4 - Salvo disposição legal em contrário, os arquitectos e construtores civis diplomados poderão projectar instalações simples cujo dimensionamento, decorrendo da aplicação directa dos regulamentos ou de disposições técnicas oficiais, dispense outra justificação.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Disposição transitória)
 
@@ -161,7 +180,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 2 - Na falta de técnicos com as qualificações previstas neste diploma ou nas condições referidas no número antecedente e apenas durante o período em que na área do concelho interessado e dos concelhos limítrofes se mantiver tal carência, poderão as câmaras municipais aceitar projectos elaborados e subscritos por técnicos de qualificação diferente e por indivíduos não diplomados, aos quais já tenha sido reconhecida idoneidade para o efeito, desde que domiciliados naquela área, sem prejuízo, porém, do disposto nos artigos 4.º e 5.º
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Intervenção das câmaras municipais)
 
@@ -171,7 +190,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 3 - Das decisões tomadas pelas câmaras municipais no âmbito do presente diploma cabe recurso para o Ministro das Obras Públicas, através da Direcção-Geral dos Serviços de Urbanização.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Disposição final)
 
@@ -179,8 +198,8 @@ As dúvidas e omissões que se verifiquem na aplicação das disposições conti
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 15 de Fevereiro de 1973.**
+Promulgado em 15 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

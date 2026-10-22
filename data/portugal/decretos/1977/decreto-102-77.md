@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/102-1977-255439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4022fbda6d4563d01150f11cd5e7054e8f8e1fc1b0f322ab5dd7dcb351cf4fa7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2334d95aa77722991031c426a3785f5dfdc5ffc7c1952f75ea96b11bfec4616
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Militar
+- Força Aérea
+- Graduação Militar
+- Pessoal de Enfermagem
+- Progressão na Carreira
+- Promoção Profissional
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:336755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684795:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:16Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +116,14 @@ Considerando o disposto no artigo 6.º do [Decreto-Lei n.º 350/75](https://diar
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º As vacaturas verificadas no quadro de enfermeiros capitães graduados pára-quedistas, referidas na [Portaria n.º 508/76](https://diariodarepublica.pt/dr/detalhe/portaria/508-1976-429636), de 12 de Agosto, são preenchidas pela promoção por escolha do Chefe do Estado-Maior da Força Aérea, mediante parecer da comissão técnica da Força Aérea, dos enfermeiros tenentes graduados pára-quedistas com, pelo menos, cinco anos de serviço neste posto.
+Artigo 1.º As vacaturas verificadas no quadro de enfermeiros capitães graduados pára-quedistas, referidas na [Portaria n.º 508/76](https://diariodarepublica.pt/dr/detalhe/portaria/508-1976-429636), de 12 de Agosto, são preenchidas pela promoção por escolha do Chefe do Estado-Maior da Força Aérea, mediante parecer da comissão técnica da Força Aérea, dos enfermeiros tenentes graduados pára-quedistas com, pelo menos, cinco anos de serviço neste posto.
 
-###### Art. 2.º Os enfermeiros equiparados, na situação referida no artigo 3.º do [Decreto n.º 63/73](https://diariodarepublica.pt/dr/detalhe/decreto/63-1973-684795), de 26 de Fevereiro, não são abrangidos pelo disposto no artigo 1.º deste diploma.
+Art. 2.º Os enfermeiros equiparados, na situação referida no artigo 3.º do [Decreto n.º 63/73](https://diariodarepublica.pt/dr/detalhe/decreto/63-1973-684795), de 26 de Fevereiro, não são abrangidos pelo disposto no artigo 1.º deste diploma.
 
 Visto e aprovado em Conselho da Revolução em 6 de Julho de 1977.
 
-**Promulgado em 22 de Julho de 1977.**
+Promulgado em 22 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

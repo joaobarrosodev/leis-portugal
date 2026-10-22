@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/78-1976-506848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bb7bb5d4a36e7ee0e52adbd036db9cebe062a0d73d6241ec4ebcf13220521cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29d0325b79e994a83a340a8bc299a9f971f977f83451e362aec598b4033e343b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Cooperação Bilateral
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:17Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 27 de Janeiro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo Geral de Cooperação e Amizade entre Portugal e a República de Cabo Verde, assinado em 5 de Julho de 1975, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo Geral de Cooperação e Amizade entre Portugal e a República de Cabo Verde, assinado em 5 de Julho de 1975, cujo texto vai anexo ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 16 de Janeiro de 1976.**
+Assinado em 16 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO GERAL DE COOPERAÇÃO E AMIZADE ENTRE PORTUGAL E CABO VERDE
 
@@ -110,17 +115,17 @@ Considerando, finalmente, a identidade de ideais progressistas que orientam os d
 
 As Partes Contratantes decidiram concluir o seguinte Protocolo de Acordo Geral de Cooperação e Amizade:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1. As Partes Contratantes reconhecem a existência de especiais laços de amizade e de solidariedade entre os respectivos povos e prosseguirão uma política comum de cooperação com vista a reforçar esses laços.
 
 2. As formas de cooperação recíproca nos vários domínios, designadamente no económico, financeiro, técnico, científico, cultural, judicial, diplomático e consular, serão definidas por acordos especiais que concretizarão o presente Acordo Geral.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As Partes Contratantes propõem-se celebrar um acordo cultural visando reforçar o intercâmbio cultural e artístico entre os dois povos, assim como a difusão da língua comum, com respeito mútuo das culturas portuguesa e cabo-verdiana.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1. O Estado Português compromete-se a cooperar, dentro das suas possibilidades e quando solicitado, no processo de desenvolvimento científico e técnico de Cabo Verde, nomeadamente:
 
@@ -134,71 +139,71 @@ d) Facilitando o acesso dos cidadãos de Cabo Verde aos estabelecimentos portugu
 
 2. O Estado de Cabo Verde, à medida que dispuser de condições, facultará a Portugal cooperação em termos análogos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O Estado Português permitirá e estimulará a continuação em Cabo Verde ao serviço do Estado de Cabo Verde, pelo período que este considerar necessário, dos funcionários públicos portugueses que o desejem e que para tal sejam indicados pelas competentes autoridades cabo-verdianas.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. Os cidadãos portugueses que, por acordo entre os dois Estados, prestem serviço em Cabo Verde a título de cooperação técnica ficarão abrangidos por um estatuto a definir pelas Partes Contratantes.
 
 2. Por acordo das Partes poderão ser integrados no mesmo estatuto funcionários públicos de nacionalidade portuguesa, em exercício de funções à data da independência.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1. As Partes Contratantes colaborarão mediante consultas entre os respectivos serviços oficiais e permuta de informações e documentos.
 
 2. No interesse de qualquer das Partes ou dos seus cidadãos serão passadas cópias e certidões dos documentos constantes dos arquivos da outra.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 No âmbito das questões económicas e financeiras de interesse mútuo, as Partes Contratantes consultar-se-ão regularmente, procederão, em conjunto ou em separado, aos estudos necessários e efectuarão trocas de informações e documentação naquele domínio.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 As Partes Contratantes, desejosas de promover, pelo aumento das trocas comerciais recíprocas, o desenvolvimento equilibrado das suas relações económicas, celebrarão um acordo especial de comércio compatível com as obrigações internacionais assumidas, neste domínio, pelos dois países.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Os transportes marítimos e aéreos, dada a importância que assumem para as relações entre os dois Estados, serão objecto de um acordo a celebrar entre as Partes Contratantes.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 As Partes Contratantes propõem-se celebrar um acordo, em matéria diplomática e consular, em ordem à protecção dos interesses dos Estados de Portugal e de Cabo Verde e dos respectivos cidadãos.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1. Os nacionais de cada uma das Partes Contratantes beneficiam, no território da outra, do tratamento de nacionais desta no que respeita ao acesso às profissões liberais e seu exercício.
 
 2. A título excepcional e temporário, no território de uma Parte Contratante o acesso a certas profissões liberais poderá, todavia, ser reservado prioritariamente aos seus nacionais com vista a facultar-lhes maior qualificação e experiência nas suas actividades profissionais.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1. Cada uma das Partes reconhece aos nacionais da outra o direito ao trabalho e fixará os demais direitos civis e políticos que os nacionais de uma delas poderão ter no território da outra, incluindo a sua admissão ao exercício de funções públicas.
 
 2. Cada uma das Partes Contratantes obriga-se a respeitar, no seu território, o livre gozo e exercício de direitos pelas pessoas singulares e colectivas nacionais da outra Parte e abster-se-á de tomar qualquer medida discriminativa contra as pessoas e bens nacionais da outra Parte.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1. Os nacionais de cada uma das Partes não podem ser colectados no território da outra com taxas, contribuições ou impostos, seja qual for a sua denominação ou natureza, diferentes ou mais elevados que os cobrados aos seus próprios nacionais.
 
 2. As Partes Contratantes adoptarão as providências necessárias destinadas a reprimir a evasão fiscal e a evitar a dupla tributação.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Logo que possível, as Partes encetarão negociações destinadas a regular o estatuto pessoal e o regime de bens dos cidadãos portugueses residentes em Cabo Verde e dos cidadãos cabo-verdianos residentes em Portugal.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1. Com o fim de assegurar a melhor aplicação do presente Acordo, os dois Governos decidem criar uma comissão mista permanente de cooperação, composta de representantes do Estado Português e do Estado de Cabo Verde.
 
 2. A comissão mista apreciará em geral a forma como decorrem as relações de cooperação entre as Partes Contratantes e proporá à aceitação delas as providências necessárias à aplicação do presente Acordo e das convenções especiais de cooperação que vierem a ser concluídas.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Qualquer diferendo relacionado com a interpretação ou aplicação dos acordos especiais previstos neste Acordo Geral que não seja solucionado por negociação diplomática poderá ser decidido por uma entidade arbitral a escolher pelas Partes Contratantes.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 O presente Acordo entrará em vigor na data da troca de instrumentos de ratificação e terá duração indeterminada, podendo ser denunciado por qualquer das Partes Contratantes mediante aviso prévio de um ano.
 

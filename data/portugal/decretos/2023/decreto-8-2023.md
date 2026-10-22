@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/10200/0003000034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/8/2023/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-2023-213558635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9857f4aaa4c7e7f4fc5d6202bad8ec8767a1887113bea32f1e07e15cbe8283a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abe0fa3f2ea5ae659ccfa8e26585c2e34e28cb60f14f0733adf49fade04a1d09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Mar
 - Convenção
 - Cooperação Comercial
-- Política de Cooperação
-- Moçambique
-- Portugal
-- Lisboa
 - Cooperação Económica
+- Lisboa
+- Mar
+- Moçambique
+- Política de Cooperação
+- Portugal
 relationships: []
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:40Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +107,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 27 de abril de 2023. - Mariana Guimarães Vieira da Silva - Paulo Alexandre Nascimento Cafôfo - António José da Costa Silva - João Saldanha de Azevedo Galamba - Maria do Céu de Oliveira Antunes.
 
-**Assinado em 11 de maio de 2023.**
+Assinado em 11 de maio de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de maio de 2023.**
+Referendado em 18 de maio de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE MOÇAMBIQUE NO DOMÍNIO DOS ASSUNTOS DO MAR
 
@@ -266,3 +266,5 @@ Ana Paula Vitorino, Ministra do Mar.
 Pela República de Moçambique:
 
 Agostinho Mondlane, Ministro do Mar, Águas Interiores e Pescas.
+
+116498302

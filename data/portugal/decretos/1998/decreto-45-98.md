@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/45/1998/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-1998-222179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:09:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c1d02f46b6c439a9b74af07f485ff95242a3f4650ca5e705ef7b2e30940e677
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a628f605c6fddb2efefc054fb63049162414aa5286847c2a4ceaad44591d082
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:09:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
+- Cuba
 - Havana
 - Investimento
 - Investimento no Estrangeiro
-- Cuba
+- Portugal
 relationships: []
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:09:20Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +99,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1998. - António Manuel de Oliveira Guterres - Francisco Manuel Seixas da Costa - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura.
 
-**Assinado em 22 de Outubro de 1998.**
+Assinado em 22 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Outubro de 1998.**
+Referendado em 28 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CUBA SOBRE A PROMOÇÃO E A PROTECÇÃO RECÍPROCAS DE INVESTIMENTOS.
 
@@ -219,7 +219,7 @@ No caso de uma das Partes Contratantes ou a entidade por ela designada efectuar 
 
 4 - Se os prazos fixados no n.º 3 deste artigo não forem observados, qualquer das Partes Contratantes poderá, na falta de qualquer outro acordo, solicitar ao Presidente do Tribunal Internacional de Justiça que proceda às necessárias nomeações. Se o Presidente estiver impedido ou for nacional de uma das Partes Contratantes, as nomeações caberão ao Vice-Presidente. Se este também estiver impedido ou for nacional de uma das Partes Contratantes, as nomeações caberão ao membro do Tribunal que se siga na hierarquia, desde que esse membro não seja nacional de qualquer das Partes Contratantes.
 
-**O presidente do tribunal arbitral tem de ser nacional de um Estado com o qual ambas as Partes Contratantes mantenham relações diplomáticas.**
+O presidente do tribunal arbitral tem de ser nacional de um Estado com o qual ambas as Partes Contratantes mantenham relações diplomáticas.
 
 5 - O tribunal arbitral decidirá por maioria de votos. As suas decisões serão definitivas e obrigatórias para ambas as Partes Contratantes. A cada Parte Contratante caberá suportar as despesas do respectivo árbitro, bem como da respectiva representação no processo perante o tribunal arbitral. Ambas as Partes Contratantes suportarão em partes iguais as despesas do presidente, bem como as demais despesas. O tribunal arbitral poderá adoptar um regulamento diferente quanto às despesas. O tribunal arbitral definirá as suas próprias regras processuais.
 

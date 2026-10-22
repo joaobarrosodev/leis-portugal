@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/685-1974-466868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac748c193170971325d3c718154983de99e851c7a949f9fb86d9fd3b1baf84a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a989ecfc6317db924152b506d13fc404f3f9d6e4210a4ce583ce4886148d000
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação de Conhecimentos
+- Comandante
+- Conselho Escolar
+- Escola Naval
+- Estado Maior da Armada
+- Instrução Militar
+- Pessoal Docente
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:147987:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:00Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +100,9 @@ Havendo conveniência em separar as funções de comandante do corpo de alunos d
 
 Usando da faculdade conferida pela Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 23.º, 75.º e 78.º do Regulamento da Escola Naval, aprovado pelo [Decreto n.º 454/70](https://diariodarepublica.pt/dr/detalhe/decreto/454-1970-147987), de 1 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 23.º, 75.º e 78.º do Regulamento da Escola Naval, aprovado pelo [Decreto n.º 454/70](https://diariodarepublica.pt/dr/detalhe/decreto/454-1970-147987), de 1 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 23.º ...
+Art. 23.º ...
 
 a) ...
 
@@ -100,7 +112,7 @@ c) Chefe do gabinete de formação técnico-naval respectivo;
 
 d) Comandante da respectiva companhia.
 
-###### Art. 75.º ...
+Art. 75.º ...
 
 a) ...
 
@@ -118,7 +130,7 @@ g) Serviço de internato;
 
 h) Secretaria do corpo de alunos.
 
-###### Art. 78.º - 1. ...
+Art. 78.º - 1. ...
 
 2. ...
 
@@ -142,14 +154,14 @@ i) Dirigir a secretaria do corpo de alunos;
 
 j) Orientar superiormente as actividades relacionadas com o regime de internato dos alunos.
 
-###### Art. 2.º São revogados os artigos 80.º e 81.º do Regulamento da Escola Naval.
+Art. 2.º São revogados os artigos 80.º e 81.º do Regulamento da Escola Naval.
 
-###### Art. 3.º É revogada a anotação (3) do Anexo B do Regulamento da Escola Naval.
+Art. 3.º É revogada a anotação (3) do Anexo B do Regulamento da Escola Naval.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.
 
-**Promulgado em 19 de Novembro de 1974.**
+Promulgado em 19 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

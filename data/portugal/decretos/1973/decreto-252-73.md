@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/252-1973-422217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce210cdef592a1e24851bc5609f5f6d2db95617fb1a148e3c37d0dd6100f84df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2e55c776ffe887c2dbcf592fb4626caee1c35e5269994d83d11a20aac7fd653
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142287:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:38Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +97,15 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º São criados no quadro complementar do Instituto do Café de Angola os lugares que constam do mapa anexo ao presente diploma.
+Artigo 1.º São criados no quadro complementar do Instituto do Café de Angola os lugares que constam do mapa anexo ao presente diploma.
 
-###### Art. 2.º - 1. O recrutamento do pessoal far-se-á por concurso documental ou de provas práticas, consoante as disposições relativas a cada categoria.
+Art. 2.º - 1. O recrutamento do pessoal far-se-á por concurso documental ou de provas práticas, consoante as disposições relativas a cada categoria.
 
 2. Os concursos serão abertos com observância das regras aplicáveis do Estatuto do Funcionalismo Ultramarino.
 
 3. Em princípio será dada preferência ao pessoal técnico social e técnico agrícola que tiver realizado estágio rural nas equipas de acção social do Instituto do Café de Angola ou em qualquer serviço do Estado de Angola que execute trabalhos de desenvolvimento comunitário.
 
-###### Art. 3.º O ingresso e a promoção no quadro complementar obedecerão às seguintes regras:
+Art. 3.º O ingresso e a promoção no quadro complementar obedecerão às seguintes regras:
 
 1. Técnico de serviço social de 1.ª classe. - Por promoção entre técnicos de serviço social de 2.ª classe com mais de três anos de serviço na categoria, boas informações e que tenham revelado capacidade de chefia;
 
@@ -177,7 +181,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 37. Tractorista auxiliar. - Por concurso de provas práticas entre indivíduos com a adequada preparação profissional e possuindo todo o tipo de cartas de condução.
 
-###### Art. 4.º - 1. Aos funcionários do quadro complementar poderão ser atribuídos cumulativamente gratificação e subsídio diário, sem prejuízo da percepção de subsídios de isolamento, de renda de casa, ajudas de custo ou outros que vigorem no Estado de Angola.
+Art. 4.º - 1. Aos funcionários do quadro complementar poderão ser atribuídos cumulativamente gratificação e subsídio diário, sem prejuízo da percepção de subsídios de isolamento, de renda de casa, ajudas de custo ou outros que vigorem no Estado de Angola.
 
 2. Os quantitativos e as normas de atribuição da gratificação e do subsídio diário serão fixados por despacho do Governador-Geral.
 
@@ -185,15 +189,15 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. A gratificação e os subsídios previstos no n.º 1 do presente artigo não são devidos quando o funcionário, nos termos do número anterior, exercer qualquer outra actividade oficial ou particular remunerada.
 
-###### Art. 5.º O provimento dos lugares criados pelo presente decreto só se efectuará à medida das necessidades e consoante as disponibilidades financeiras.
+Art. 5.º O provimento dos lugares criados pelo presente decreto só se efectuará à medida das necessidades e consoante as disponibilidades financeiras.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 7 de Maio de 1973.**
+Promulgado em 7 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.
 
@@ -201,6 +205,6 @@ Quadro complementar do Instituto do Café de Angola
 
 (Pessoal para a promoção social e cooperação)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/11700/08520854.pdf))](https://files.diariodarepublica.pt/1s/1973/05/11700/08520854.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/11700/08520854.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

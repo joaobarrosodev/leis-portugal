@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/14100/18021806.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1982-395318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97701fb1b7e74ed7906ec01a9d3bde06cbd21049c3e5d2a2f27cd555d974cfda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a309aeb16f51f6a017a573fbd6ae1b7bb0b29077e7eab771a8a18b52a61c6e5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Gabinete para a Pesquisa e Exploração de Petróleo
+- Licenciamento
+- Petróleo
+- Prospecção de Petróleo
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:571214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:570321:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571214:por
+  label: "Revogado pelo DEC LEI.141/90.1990.05.02.MIE DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1990-571214
+  date: '1990-05-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:49Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +117,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - A licença de prospecção petrolífera (adiante referida por licença) autoriza a realização dos seguintes tipos ou métodos de prospecção:
+Artigo 1.º - 1 - A licença de prospecção petrolífera (adiante referida por licença) autoriza a realização dos seguintes tipos ou métodos de prospecção:
 
 a) Levantamentos magnéticos, gravimétricos ou sísmicos;
 
@@ -116,7 +131,7 @@ d) Levantamentos geoquímicos, com exclusão de colheita de amostras mais profun
 
 3 - Para efeito do presente diploma, entende-se por petróleo toda a concentração ou mistura natural de hidrocarbonetos líquidos ou gasosos, incluindo todas as substâncias de qualquer natureza que com eles se encontrem em combinação, suspensão ou mistura, com exclusão dos hidrocarbonetos sólidos naturais, e de todas as concentrações cuja exploração só possa ser feita através da extracção das próprias rochas.
 
-###### Art. 2.º - 1 - A atribuição da licença referida no artigo anterior é da competência do Ministro da Indústria, Energia e Exportação (adiante designado por Ministro).
+Art. 2.º - 1 - A atribuição da licença referida no artigo anterior é da competência do Ministro da Indústria, Energia e Exportação (adiante designado por Ministro).
 
 2 - Tal licença poderá incidir sobre o mar territorial e na subárea do continente da zona económica exclusiva e ser atribuída a pessoas singulares ou colectivas, públicas ou privadas, nacionais ou estrangeiras, sem prejuízo do disposto no n.º 3 do artigo 10.º
 
@@ -128,7 +143,7 @@ b) As áreas que estiverem afectas a concessões, em vigor, do direito de prospe
 
 c) Outras áreas que o Governo entenda dever excluir do âmbito territorial das licenças.
 
-###### Art. 3.º - 1 - A licença não concede ao respectivo titular, relativamente à área por ela abrangida, qualquer direito:
+Art. 3.º - 1 - A licença não concede ao respectivo titular, relativamente à área por ela abrangida, qualquer direito:
 
 a) De prospectar petróleo em exclusivo, podendo o Ministro livremente atribuir licenças a terceiros sobre parte ou a totalidade da área abrangida por licenças em vigor;
 
@@ -136,15 +151,15 @@ b) De exigir, preferir ou ter qualquer prioridade na outorga de concessões, ou 
 
 2 - A atribuição desta licença de nenhum modo prejudica ou impede a adjudicação ou outorga, pelo Ministro ou quaisquer outras entidades, e nos termos das disposições normativas pertinentes, de autorizações, licenças ou concessões relativas a quaisquer recursos naturais, sobre parte ou a totalidade das áreas cobertas por licenças de prospecção em vigor.
 
-###### Art. 4.º - 1 - A todo o tempo podem ser adjudicadas ou outorgadas a terceiros concessões ou outros títulos válidos relativos a prospecção, pesquisa, desenvolvimento e exploração de petróleo ou de outros recursos naturais, vivos ou não, em toda ou parte da área abrangida por licenças em vigor, sem que o Estado incorra por esse facto em qualquer responsabilidade ou tenha de reembolsar quaisquer importâncias já pagas por titulares das licenças.
+Art. 4.º - 1 - A todo o tempo podem ser adjudicadas ou outorgadas a terceiros concessões ou outros títulos válidos relativos a prospecção, pesquisa, desenvolvimento e exploração de petróleo ou de outros recursos naturais, vivos ou não, em toda ou parte da área abrangida por licenças em vigor, sem que o Estado incorra por esse facto em qualquer responsabilidade ou tenha de reembolsar quaisquer importâncias já pagas por titulares das licenças.
 
 2 - Quando venha a ocorrer a circunstância prevista no número antecedente, o Gabinete para a Pesquisa e Exploração de Petróleo (adiante designado por GPEP) deverá notificar por escrito, com 1 mês de antecedência, os titulares das licenças da atribuição de concessão, ou outro título, no âmbito dos hidrocarbonetos.
 
 3 - A licença permanecerá em vigor relativamente à parte da área não coberta por concessões ou outros títulos válidos, salvo renúncia do respectivo titular.
 
-###### Art. 5.º A licença é intransmissível e será válida por um prazo de 3 anos, contados da data da respectiva atribuição.
+Art. 5.º A licença é intransmissível e será válida por um prazo de 3 anos, contados da data da respectiva atribuição.
 
-###### Art. 6.º - 1 - A licença extingue-se:
+Art. 6.º - 1 - A licença extingue-se:
 
 a) Quando expire o prazo referido no artigo antecedente;
 
@@ -158,7 +173,7 @@ d) Nos casos a que se refere o artigo 4.º
 
 3 - No caso da alínea d) do n.º 1, a extinção coincidirá com o dia da celebração do contrato ou outorga do competente título, salvo se um prazo mais curto constar do respectivo despacho.
 
-###### Art. 7.º - 1 - A licença não autoriza o respectivo titular a executar quaisquer trabalhos ou actividades de prospecção petrolífera fora dos limites da respectiva área.
+Art. 7.º - 1 - A licença não autoriza o respectivo titular a executar quaisquer trabalhos ou actividades de prospecção petrolífera fora dos limites da respectiva área.
 
 2 - Excepcionalmente pode o Ministro autorizar, nos termos e condições que entender convenientes, que o titular da licença realize trabalhos de prospecção petrolífera em zonas adjacentes aos limites externos da respectiva área, desde que:
 
@@ -166,13 +181,13 @@ a) Considere tal necessário para se obter uma melhor informação sobre a área
 
 b) Seja ouvido o eventual titular de direitos relativos à prospecção, pesquisa, desenvolvimento e exploração de petróleo sobre as referidas zonas adjacentes.
 
-###### Art. 8.º - 1 - O titular da licença é obrigado a entregar gratuitamente ao GPEP, e livres de quaisquer encargos, logo que cada operação se completar, cópia de todos os dados de campo, qualquer que seja a respectiva natureza, tais como relatórios de operações, bandas magnéticas com os pertinentes documentos, dados processados, bem como os demais resultados derivados dos levantamentos ou operações de prospecção, tais como interpretações, relatórios, mapas geológicos ou estruturais, secções.
+Art. 8.º - 1 - O titular da licença é obrigado a entregar gratuitamente ao GPEP, e livres de quaisquer encargos, logo que cada operação se completar, cópia de todos os dados de campo, qualquer que seja a respectiva natureza, tais como relatórios de operações, bandas magnéticas com os pertinentes documentos, dados processados, bem como os demais resultados derivados dos levantamentos ou operações de prospecção, tais como interpretações, relatórios, mapas geológicos ou estruturais, secções.
 
 2 - Todos os documentos e dados referidos no número anterior serão mantidos confidenciais pelo GPEP, por um prazo de 3 anos, contados a partir da data da sua entrada no GPEP, salvo acordo em contrário entre o titular e o Ministro.
 
 ### CAPÍTULO II — Do pedido de licença
 
-###### Art. 9.º - 1 - O pedido de licença e respectiva documentação anexa, dirigido ao Ministro, será entregue em triplicado no GPEP e deve incluir, obrigatoriamente:
+Art. 9.º - 1 - O pedido de licença e respectiva documentação anexa, dirigido ao Ministro, será entregue em triplicado no GPEP e deve incluir, obrigatoriamente:
 
 a) Nome ou denominação, direcção ou sede, e a nacionalidade do requerente, bem como do responsável que servirá de ligação com as autoridades portuguesas, designadamente o GPEP;
 
@@ -188,7 +203,7 @@ d) Guia de depósito comprovativo do pagamento a que se refere o artigo 19.º
 
 4 - Quaisquer observações ao pedido, formuladas pelos destinatários referidos no número antecedente, deverão dar entrada no GPEP até ao vigésimo dia, contado a partir da data da entrega do pedido.
 
-###### Art. 10.º - 1 - Dentro dos 30 dias seguintes à entrada do pedido no GPEP, este serviço remeterá o processo, devidamente habilitado com o seu parecer, para efeito de decisão governamental.
+Art. 10.º - 1 - Dentro dos 30 dias seguintes à entrada do pedido no GPEP, este serviço remeterá o processo, devidamente habilitado com o seu parecer, para efeito de decisão governamental.
 
 2 - Considerar-se-á tacitamente indeferido o pedido se sobre ele não recair decisão dentro dos 30 dias seguintes ao termo do prazo fixado no número antecedente.
 
@@ -200,7 +215,7 @@ d) Guia de depósito comprovativo do pagamento a que se refere o artigo 19.º
 
 ### CAPÍTULO III — Da actividade de prospecção
 
-###### Art. 11.º - 1 - Todos os projectos de trabalhos de prospecção devem ser submetidos ao GPEP, para aprovação, com a antecedência mínima de 60 dias antes do início de quaisquer trabalhos, incluindo os elementos seguintes:
+Art. 11.º - 1 - Todos os projectos de trabalhos de prospecção devem ser submetidos ao GPEP, para aprovação, com a antecedência mínima de 60 dias antes do início de quaisquer trabalhos, incluindo os elementos seguintes:
 
 a) Informação precisa e detalhada sobre as áreas ou locais objecto de levantamentos ou trabalhos de prospecção, contendo a posição das respectivas linhas em mapa de escala apropriada;
 
@@ -218,9 +233,9 @@ e) Previsão temporal do início, progresso e conclusão dos levantamentos ou tr
 
 4 - Qualquer alteração significativa dos projectos de trabalhos aprovados carece de prévia autorização do GPEP.
 
-###### Art. 12.º O titular da licença deve entregar ao GPEP, até ao fim dos meses de Janeiro, Abril, Julho e Outubro de cada ano, um relatório circunstanciado relativo ao progresso dos levantamentos e demais trabalhos efectuados no trimestre anterior.
+Art. 12.º O titular da licença deve entregar ao GPEP, até ao fim dos meses de Janeiro, Abril, Julho e Outubro de cada ano, um relatório circunstanciado relativo ao progresso dos levantamentos e demais trabalhos efectuados no trimestre anterior.
 
-###### Art. 13.º - 1 - Os levantamentos e, em geral, toda a actividade de prospecção devem ser executados ou implementados de modo seguro e prudente, e não deverão interferir, para além do razoável, com outras actividades a desenvolver no mar territorial e na subárea do continente da zona económica exclusiva.
+Art. 13.º - 1 - Os levantamentos e, em geral, toda a actividade de prospecção devem ser executados ou implementados de modo seguro e prudente, e não deverão interferir, para além do razoável, com outras actividades a desenvolver no mar territorial e na subárea do continente da zona económica exclusiva.
 
 2 - O titular da licença, bem como os seus empreiteiros ou prestadores de serviços, devem tomar os cuidados necessários para que na área da licença ou na zona referida no número antecedente a navegação e a pesca não sejam dificultadas, obstruídas ou impedidas, salvo o estritamente necessário.
 
@@ -232,13 +247,13 @@ e) Previsão temporal do início, progresso e conclusão dos levantamentos ou tr
 
 6 - As autorizações e licenças que o titular ou terceiros que com ele cooperem obtenham do Estado e demais entidades públicas não exime das responsabilidades em que possam incorrer nos termos dos números antecedentes.
 
-###### Art. 14.º - 1 - Por razões especiais o Ministro pode suspender, no todo ou em parte, a execução de quaisquer operações ou trabalhos de prospecção, ainda que em curso, proibir a respectiva realização em determinadas partes da área da licença ou impor condições apropriadas nos levantamentos e trabalhos de prospecção.
+Art. 14.º - 1 - Por razões especiais o Ministro pode suspender, no todo ou em parte, a execução de quaisquer operações ou trabalhos de prospecção, ainda que em curso, proibir a respectiva realização em determinadas partes da área da licença ou impor condições apropriadas nos levantamentos e trabalhos de prospecção.
 
 2 - O Estado não será responsável por quaisquer prejuízos ou danos resultantes das decisões tomadas ao abrigo do disposto no número anterior.
 
 3 - Quando medidas tomadas nos termos deste artigo resultem de circunstâncias não imputáveis ao titular da licença ou a terceiros que com ele cooperem, o Ministro, a pedido daquele, pode prorrogar o prazo da licença por período adequado ou modificar, de modo conveniente, as obrigações que impendem sobre o seu titular.
 
-###### Art. 15.º - 1 - Sempre que o julgar necessário pode o GPEP, através dos seus agentes devidamente credenciados, inspeccionar e fiscalizar as actividades de prospecção para assegurar que todos os levantamentos, trabalhos e operações estejam a decorrer em conformidade com as normas legais ou regulamentares, condições da licença e demais regras aplicáveis.
+Art. 15.º - 1 - Sempre que o julgar necessário pode o GPEP, através dos seus agentes devidamente credenciados, inspeccionar e fiscalizar as actividades de prospecção para assegurar que todos os levantamentos, trabalhos e operações estejam a decorrer em conformidade com as normas legais ou regulamentares, condições da licença e demais regras aplicáveis.
 
 2 - Para esse fim, os agentes credenciados do GPEP terão acesso, em qualquer momento, aos meios e instrumentos de levantamento e operações de prospecção, podendo permanecer nos navios ou outros aparelhos pelo tempo considerado conveniente.
 
@@ -252,7 +267,7 @@ e) Previsão temporal do início, progresso e conclusão dos levantamentos ou tr
 
 7 - O disposto neste artigo entende-se sem prejuízos da legítima protecção do software ou know-how do titular ou de terceiros que com ele cooperem.
 
-###### Art. 16.º - 1 - O titular da licença deve:
+Art. 16.º - 1 - O titular da licença deve:
 
 a) Caso o GPEP assim o determine, manter em local apropriado da área emersa do território continental português o registo completo e actualizado da actividade desenvolvida;
 
@@ -264,13 +279,13 @@ c) Acatar prontamente, embora sem prejuízo do direito de reclamação, as instr
 
 3 - Ao terminar os seus trabalhos, qualquer que seja a causa ou o motivo, o titular da licença é obrigado a remover oportunamente equipamentos, instalações e demais meios utilizados.
 
-###### Art. 17.º - 1 - Quaisquer descobertas de interesse histórico, tais como as resultantes de naufrágios, efectuadas durante ou para os levantamentos ou operações de prospecção, deverão ser imediatamente comunicadas ao Ministro.
+Art. 17.º - 1 - Quaisquer descobertas de interesse histórico, tais como as resultantes de naufrágios, efectuadas durante ou para os levantamentos ou operações de prospecção, deverão ser imediatamente comunicadas ao Ministro.
 
 2 - O titular da licença tomará as providências necessárias para que as mencionadas descobertas não sejam danificadas ou destruídas, podendo o Ministro ordenar as diligências aconselháveis para tanto.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 18.º - 1 - No prazo de 30 dias, contado da data da publicação da licença, o respectivo titular prestará uma caução no montante de 5000000$00 para garantir o cumprimento de todas as obrigações a que se encontra vinculado, bem como para assegurar o pagamento de indemnização por quaisquer prejuízos causados ao Estado ou a terceiros ou a recursos naturais de qualquer espécie, e o pagamento de multas que lhe sejam aplicadas.
+Art. 18.º - 1 - No prazo de 30 dias, contado da data da publicação da licença, o respectivo titular prestará uma caução no montante de 5000000$00 para garantir o cumprimento de todas as obrigações a que se encontra vinculado, bem como para assegurar o pagamento de indemnização por quaisquer prejuízos causados ao Estado ou a terceiros ou a recursos naturais de qualquer espécie, e o pagamento de multas que lhe sejam aplicadas.
 
 2 - A caução referida no número anterior será prestada por meio de depósito efectuado à ordem do director do GPEP, na Caixa Geral de Depósitos, Crédito e Previdência, ou mediante garantia bancária aceite pelo mesmo director.
 
@@ -278,7 +293,7 @@ c) Acatar prontamente, embora sem prejuízo do direito de reclamação, as instr
 
 4 - Se se verificar, quando do pedido de restituição, litígio entre o titular e o Estado ou terceiros decorrente das actividades desenvolvidas ao abrigo da licença, o exercício do direito à restituição da caução fica suspenso até à solução definitiva do litígio.
 
-###### Art. 19.º - 1 - Sem prejuízo do disposto no número seguinte, o titular da licença pagará ao Estado, por depósito na Caixa Geral de Depósitos, Crédito e Previdência até ao fim do mês de Janeiro de cada ano civil, uma importância de 300000$00.
+Art. 19.º - 1 - Sem prejuízo do disposto no número seguinte, o titular da licença pagará ao Estado, por depósito na Caixa Geral de Depósitos, Crédito e Previdência até ao fim do mês de Janeiro de cada ano civil, uma importância de 300000$00.
 
 2 - O primeiro pagamento deverá efectuar-se, para efeito da instrução do processo de atribuição da licença, nos termos da alínea d) do n.º 1 do artigo 9.º, e será considerado provisório até à atribuição desta licença.
 
@@ -288,25 +303,25 @@ c) Acatar prontamente, embora sem prejuízo do direito de reclamação, as instr
 
 5 - Com ressalva do disposto no n.º 3, o titular não tem direito ao reembolso das importâncias definitivas já pagas, qualquer que seja o modo porque se extinga a licença.
 
-###### Art. 20.º - 1 - Excepcionalmente, o Ministro pode autorizar a realização de trabalhos de prospecção petrolífera concretamente determinados, desde que se realizem para benefício directo do Estado ou em cooperação directa com o GPEP, sem atribuição de uma licença nos termos deste decreto-lei.
+Art. 20.º - 1 - Excepcionalmente, o Ministro pode autorizar a realização de trabalhos de prospecção petrolífera concretamente determinados, desde que se realizem para benefício directo do Estado ou em cooperação directa com o GPEP, sem atribuição de uma licença nos termos deste decreto-lei.
 
 2 - No caso previsto no número anterior, o Ministro fixará as condições a que se submeterão os trabalhos de prospecção autorizados, podendo designadamente remeter para o disposto no presente decreto-lei.
 
-###### Art. 21.º - 1 - O Governo poderá, através de decreto regulamentar, elaborar os regulamentos que entender convenientes para a boa execução do presente decreto-lei.
+Art. 21.º - 1 - O Governo poderá, através de decreto regulamentar, elaborar os regulamentos que entender convenientes para a boa execução do presente decreto-lei.
 
 2 - Os regulamentos previstos neste artigo obrigarão os titulares de licenças atribuídas à data da sua entrada em vigor em tudo o que não contrariarem o disposto naquelas licenças e planos ou projectos de levantamentos ou operações de prospecção aprovados.
 
-###### Art. 22.º O montante da caução prevista no artigo 18.º poderá ser actualizado, por portaria do Ministro, quando tal se mostre necessário, mas o novo montante só será aplicável à atribuição de novas licenças.
+Art. 22.º O montante da caução prevista no artigo 18.º poderá ser actualizado, por portaria do Ministro, quando tal se mostre necessário, mas o novo montante só será aplicável à atribuição de novas licenças.
 
-###### Art. 23.º As dúvidas surgidas na interpretação ou aplicação do presente decreto-lei serão resolvidas por despacho do Ministro.
+Art. 23.º As dúvidas surgidas na interpretação ou aplicação do presente decreto-lei serão resolvidas por despacho do Ministro.
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Junho de 1982.**
+Promulgado em 8 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Modelo da licença a que se refere o n.º 4 do artigo 10.º do Decreto-Lei n.º 245/82, de 22 de Junho
 
@@ -324,4 +339,4 @@ Hei por bem conceder a ..., nos termos do diploma acima referido, licença para,
 
 Ministério da Indústria, Energia e Exportação, ... de ... de ...
 
-**O Ministro da Indústria, Energia e Exportação, ...**
+O Ministro da Indústria, Energia e Exportação, ...

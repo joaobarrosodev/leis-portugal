@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 119/1990, 1º Suplemento, Série I de 1990-05-24
   number: '119'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2348-(2) a 2348-(83)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf
 entry_into_force_dates: []
@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/14-1990-477117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbc959c0ded34c0a648a013ec9a7cb8878731d7396d231cd0edd08e737230f75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32b4cfcef51980078861495e50a7ff8c8f69b4423aec24ff8e5d707f5be2f491
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Equipamento de Veículo
+- Genebra
+- Homologação
+- Normalização
+- Portugal
+- Regulamento 43
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:676853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:51Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +99,19 @@ de 24 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Regulamento n.º 43, sobre prescrições uniformes relativas à homologação de vidro de segurança e dos materiais para vidros aplicáveis em veículos a motor e seus reboques, anexo ao Acordo Relativo à Adopção de Condições Uniformes de Homologação e ao Reconhecimento Recíproco de Homologação dos Equipamentos e Peças de Veículos a Motor, concluído em Genebra a 20 de Março de 1958 e aprovado para adesão pelo [Decreto n.º 138-A/79](https://diariodarepublica.pt/dr/detalhe/decreto/138-a-1979-676853), de 22 de Dezembro, cujo texto original em inglês e a respectiva tradução para português vão anexos a este diploma.
+Artigo único. É aprovado o Regulamento n.º 43, sobre prescrições uniformes relativas à homologação de vidro de segurança e dos materiais para vidros aplicáveis em veículos a motor e seus reboques, anexo ao Acordo Relativo à Adopção de Condições Uniformes de Homologação e ao Reconhecimento Recíproco de Homologação dos Equipamentos e Peças de Veículos a Motor, concluído em Genebra a 20 de Março de 1958 e aprovado para adesão pelo [Decreto n.º 138-A/79](https://diariodarepublica.pt/dr/detalhe/decreto/138-a-1979-676853), de 22 de Dezembro, cujo texto original em inglês e a respectiva tradução para português vão anexos a este diploma.
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 1990. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 6 de Março de 1990.**
+Assinado em 6 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Março de 1990.**
+Referendado em 9 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Revised and amended version incorporating the 01 (ver nota *) series of amendments as well as supplements no. 02 (ver nota *) and 03 (ver nota *) to the original version of Regulation no. 43 - Uniform Provisions Concernig the Approval of Safety Glazing and Glazing Materials.
 
@@ -369,7 +381,7 @@ The purpose of this test is to determine that the inner face of a safety-glass p
 
 8.2.1 - Safety-glass panes shall be subjected to the tests listed in the following table:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 8.2.2 - A safety-glass pane shall be approved if it meets all the requirements prescribed in the relevant provisions referred to in the table above.
 
@@ -443,7 +455,7 @@ The Parties to the Agreement which apply this Regulation shall communicate to th
 
 ANNEX 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Approval no. ... Extension no. ...
 
@@ -779,7 +791,7 @@ Seat-back angle (beta);
 
 R-point coordinates (A, B, C) relative to the centre of the upper edge of the windscreen.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 ANNEX 2
 
@@ -789,61 +801,61 @@ Arrangements of approval marks
 
 Toughened-glass windscreens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The above approval mark affixed to a toughened-glass windscreen shows that the component concerned has been approved in the Netherlands (E 4) pursuant to Regulation no. 43 under approval no. 002439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation no. 43 in its original form or as amended by supplements no. 1, 2 and/or 3, as the case may be.
 
 Toughened-glass windscreens faced with plastics material
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The above approval mark affixed to a toughened-glass windscreen faced with plastics material shows that the component concerned has been approved in the Netherlands (E 4) pursuant to Regulation no. 43 under approval no. 002439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation no. 43 in its original form as amended by supplements no. 1 and 2 and/or 3, as the case may be.
 
 Ordinary laminated-glass windscreens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The above approval mark affixed to an ordinary laminated-glass windscreen shows that the component concerned has been approved in the Netherlands (E 4) pursuant to Regulation no. 43 under approval no. 002439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation no. 43 in its original form or as amended by supplements no. 1, 2 and/or 3, as the case may be.
 
 Ordinary laminated-glass windscreens faced with plastics material
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The above approval mark affixed to an ordinary laminated-glass windscreen faced with plastics material shows that the component concerned has been approved in the Netherlands (E 4) pursuant to Regulation no. 43 under approval no. 002439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation no. 43 in its original form as amended by supplements no. 1 and 2 and/or 3, as the case may be.
 
 Treated laminated-glass windscreens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The above approval affixed to a treated laminated-glass windscreen shows that the component concerned has been approved in the Netherlands (E 4) pursuant to Regulation no. 43 under approval no. 002439. The approval number indicates that be approval was granted in accordance with the requirements of Regulation no. 43 in its original form or as amended by supplements no. 1, 2 and/or 3, as the case may be.
 
 Glass-plastics windscreens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The above approval mark affixed to a glass-plastics windscreen shows that the component concerned has been approved in the Netherlands (E 4) pursuant to Regulation no. 43 under approval no. 002439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation no. 43 in its original form as amended by supplements no. 1 and 2 and/or 3, as the case may be.
 
 Glass panes other than windscreens having a regular light transmittance < 70 per cent
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The above approval mark affixed to a glass pane other than a windscreen to which the requirements of annex 3, paragraph 9.1.4.2, are applicable shows that the component concerned has been approved in the Netherlands (E 4) pursuant to Regulation no. 43 under approval no. 002439. The approval number indicates that be approval was granted in accordance with the requirements of Regulation no. 43 in its original form as amended by supplements no. 1 and 2 and/or 3, as the case may be.
 
 Double-glazed units having a regular light transmittance < 70 per cent
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The above approval mark affixed to a double-glazed unit shows that the component concerned has been approved in the Netherlands (E 4) pursuant to Regulation no. 43 under approval no. 002439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation no. 43 in its original form as amended by supplements no. 1, 2 and 3.
 
 Uniformity-toughened glass panes to be used as windscreens for slow moving vehicles which by construction cannot exceed 30 km/h
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The above approval mark affixed to a uniformly-toughened glass pane shows that the component concerned intended to be used as a windscreen on a slow-moving vehicle which, by construction, cannot exceed 30 km/h, has been approved in the Netherlands (E 4) pursuant to Regulation no. 43 under approval no. 002439. The approval number indicates that be approval was granted in accordance with the requirements of Regulation no. 43 in its original form as amended by supplements no. 1, 2 and 3.
 
 Glass panes other than windscreens having a regular light transmittance (maior ou igual) 70 per cent
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The above approval mark affixed to a glass pane other than a windscreen to which the requirements of annex 3, paragraph 9.1.4.1, are applicable shows that the component concerned has been approved in the Netherlands (E 4) pursuant to Regulation no. 43 under approval no. 002439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation no. 43 in its original form or as amended by supplements no. 1, 2 and/or 3, as the case may be.
 
@@ -875,7 +887,7 @@ General test conditions
 
 The lower frame rests on a steel box about 150 mm high. The test piece is held in place by the upper frame, the mass of which is about 3 kg. The supporting frame is welded onto a sheet of steel of about 12 mm thick resting on the floor with an interposed sheet of rubber about 3 mm thick and of hardness 50 IRHD.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 2.1.2 - Test conditions:
 
@@ -949,7 +961,7 @@ The dimensions shall be in accordance with figure 2.
 
 The total mass of the apparatus shall be 10 kg +/-0.2 kg.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 3.1.2 - Means for dropping the headform weight freely from a height to be specified, or means for giving the weight a velocity equivalent to that obtained by the free fall.
 
@@ -973,7 +985,7 @@ Relative humidity: 60 +/-20 per cent.
 
 The flat test piece, having a length of 1,100 mm +5 mm/-2 mm and a width of 500 mm +5 mm/-2 mm, shall be kept at a constant temperature of 20ºC +/-5ºC for at least four hours immediately preceding the test.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Fix the test piece in the supporting frames (paragraph 3.1.3); the torque on the bolts shall ensure that the movement of the test piece during the test will not exceed 2 mm. The plane of the test piece shall be substantially perpendicular to the incident direction of the weight. The weight shall strike the test piece within 40 mm of its geometric centre on that face which represents the inward face of the safety-glass pane when the latter is mounted on the vehicle, and shall be allowed to make only one impact.
 
@@ -1003,7 +1015,7 @@ A horizontal turntable, with centre clamp, which revolves counter-clockwise at 6
 
 Two weighted parallel arms each carrying a special abrasive wheel freely rotating on a ball-bearing horizontal spindle; each wheel rests on the test specimen under the pressure exerted by a mass of 500 g.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The turntable of the abrading instrument shall rotate regularly, substantially in one plane (the deviation from this plane shall not be greater than +/-0.05 mm at a distance of 1.6 mm from the turntable periphery).
 
@@ -1029,7 +1041,7 @@ The whole apparatus shall be checked at regular intervals by means of calibratio
 
 If haze measurements are made using equipment or methods differing from those defined above, the results shall be corrected, if necessary, to bring them into agreement with those obtained by the apparatus described above.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 4.2 - Test conditions:
 
@@ -1065,7 +1077,7 @@ Any treatment with ultrasonic equipment shall be avoided. After cleaning, the te
 
 Take four readings as indicated in the following table:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Repeat readings for T(índice 1), T(índice 2), T(índice 3) and T(índice 4) with other specified positions of the test piece to determine uniformity.
 
@@ -1107,7 +1119,7 @@ If samples are cut from windscreens, one edge of each such sample shall be part 
 
 5.2 - Indices of difficulty of the secondary characteristics:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The other secondary characteristics are not involved.
 
@@ -1161,7 +1173,7 @@ After exposure, measure the regular light transmittance again in the exposed are
 
 6.2 - Indices of difficulty of the secondary characteristics:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The other secondary characteristics are not involved.
 
@@ -1199,7 +1211,7 @@ Precautions shall be taken to prevent condensate from the walls or ceiling of th
 
 7.2 - Indices of difficulty of the secondary characteristics:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The other secondary characteristics are not involved.
 
@@ -1221,7 +1233,7 @@ Two test pieces 300 mm x 300 mm shall be placed in an enclosure at a temperature
 
 8.2 - Indices of difficulty of secondary characteristics:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The other secondary characteristics are not involved.
 
@@ -1263,7 +1275,7 @@ However, for agricultural and forestry tractors and for construction-site vehicl
 
 9.1.3 - Índices of difficulty of the secondary characteristics:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The other secondary characteristics are not involved.
 
@@ -1289,7 +1301,7 @@ Anti-clockwise deviation should be regarded as positive and clockwise deviation 
 
 9.2.1.1.3 - Optical distortion at a point M: the optical-distortion maximum for all directions M-M (pertence a) from the point M.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Notes:
 
@@ -1315,7 +1327,7 @@ Aperture approximately 1/2.5;
 
 The projector is shown schematically in figure 7. A diaphragm of 8 mm in diameter is positioned approximately 10 mm from the front lens.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.2.1.2.2 - Slides (rasters) consisting, for example, of an array of bright circular shapes on a dark background (see figure 8). The slides shall be of sufficiently high quality and contrast to enable measurement to be carried out with an error of less than 5 per cent.
 
@@ -1325,13 +1337,13 @@ In the absence of the safety-glass pane to be examined, the dimensions of the ci
 
 where (Delta)x = 4 mm (see figures 6 and 9).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.2.1.2.3 - Support stand, preferably one permitting vertical and horizontal scanning, as well as rotation of the safety-glass pane.
 
 9.2.1.2.4 - Checking template for measuring changes in dimensions where a rapid assessment is required. A suitable design is shown in figure 10.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.2.1.3 - Procedure.
 
@@ -1437,7 +1449,7 @@ P(índice 4) - A plane passing througt the straight line OQ and forming and angl
 
 A windscreen type shall be considered satisfactory with respect to optical distortion if, in the four samples submitted for testing, optical distortion does not exceed the values given below for each zone:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.2.6.1 - For vehicles of categories M and N, no measurements shall be made in a periphesal area 25 mm wide.
 
@@ -1495,7 +1507,7 @@ When target a) (see figure 11) is used, the primary and secondary images of the 
 
 When target b) (see figure 11) is used, the secondary image of the spot shifts beyond the point of tangency with the inside edge of the circle, i. e., whether the limit value of n is exceeded.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.3.1.2 - Collimation-telescope test.
 
@@ -1545,13 +1557,13 @@ No other secondary characteristics are not involved.
 
 Four samples shall be submitted for testing.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.3.5 - Interpretation of results.
 
 A windscreen type shall be considered satisfactory with respect to secondary-image separation if, in the four samples submitted for testing, separation of the primary and secondary images does not exceed the values given below for each zone:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.3.5.1 - For vehicles of categories M and N, no measurements shall be made in a peripheral area 25 mm wide.
 
@@ -1615,7 +1627,7 @@ The bottom of the chamber has vent holes, and the top has a vent slot all around
 
 The combustion chamber is placed on four feet, 10 mm high. The chamber may have a hole at one end for the introduction of the sample holder containing the sample; in the opposite end, a hole is provided for the gas-supply line. Melted material is caught in a pan (see figure 17) which is placed on the bottom of the chamber between vent holes without covering any vent hole area.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 10.4.2 - Sample holder, consisting of two U-shaped metal plates or frames of corrosion-proof material. Dimensions are given in figure 18.
 
@@ -1633,7 +1645,7 @@ The small ignition source is provided by a Bunsen burner having an inside diamet
 
 The gas supplied to the burner shall have a calorific value of about 38 MJ/m3 (for example natural gas).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 10.4.5 - Metal comb, at least 110 mm in length, with seven or eight smooth rounded teeth per 25 mm.
 
@@ -1661,7 +1673,7 @@ In this case the potential burning distance corresponds to the length of the sam
 
 c) Samples less than 60 mm wide and less than 356 mm long, and samples 60 mm to 100 mm wide and less than 138 mm long, cannot be tested according to the present method, nor can samples less than 3 mm wide.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 10.5.2 - Sampling.
 
@@ -1741,7 +1753,7 @@ The test pieces shall be completely immersed in the test fluid and held for one 
 
 11.3 - Indices of difficulty of the secondary characteristics:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The other secondary characteristics are not concerned.
 
@@ -1979,7 +1991,7 @@ Category IV - 6.5 mm < e.
 
 2.1 - Indices of difficulty of the secondary characteristics:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 No other secondary characteristics are involved.
 
@@ -2015,7 +2027,7 @@ If the height of segment of the samples submitted is less than or equal to 100 m
 
 The number of samples in each group shall be as follows, according to the shape category defined in paragraph 1.1.3 above:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 2.4 - Test method.
 
@@ -2081,7 +2093,7 @@ and is repeated on a new sample which either conforms to the requirements of par
 
 3.1.1 - Indices of difficulty of the secondary characteristics:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The other secondary characteristic (namely, incorporation or otherwise of conductors) is not involved.
 
@@ -2095,7 +2107,7 @@ Six test pieces shall be subjected to testing for each thickness category define
 
 3.1.3.2 - The height of drop (from the underface of the ball to the upper surface of the test piece) shall be as indicated in the following table, according to thickness of the glass pane:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 3.1.4 - Interpretation of results.
 
@@ -2269,7 +2281,7 @@ Ten specimens shall be tested at a temperature of +40ºC +/-2ºC and ten at a te
 
 4.3.3.2 - The height of drop for the various thickness categories and the mass of the detached fragments are given in the table below:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 4.3.4 - Interpretation of results.
 
@@ -2409,7 +2421,7 @@ Four flat square test pieces of 300 mm x 300 mm (+10 mm/-0 mm) side shall be sub
 
 4.3.2 - The height of drop (from the underface of the ball to the upper face of the test piece) shall be as indicated in the following table as a function of nominal thickness:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 4.4 - Interpretation of results.
 
@@ -2515,7 +2527,7 @@ Treated laminated-glass windscreens shall be subjected to:
 
 4.1 - Indices of difficulty of the secondary characteristics:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 4.2 - Number of test pieces or samples.
 
@@ -2823,7 +2835,7 @@ Six flat test pieces measuring 1,100 mm x 500 mm (+5 mm/-2 mm) shall be subjecte
 
 4.1 - The provisions of annex 7, paragraph 4, shall apply, with the exception of the table in paragraph 4.3.2, to be replaced by:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 4.2 - However the provision in annex 7, paragraph 4.4.1.2, is not relevant.
 
@@ -3065,13 +3077,13 @@ ANNEX 14
 
 Measurement of the height of segment and position of the points of impact
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 In the case of a safety-glass pane having a simple curvature, the height of segment will be equal to h(índice 1) maximum.
 
 In the case of a safety-glass pane having a double curvature, the height of segment will be equal to h(índice 1) maximum + h(índice 2) maximum.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 The points 2 shown in figures 3-a), 3-b) and 3-c) are examples of the sites for point 2 prescribed in annex 5, paragraph 2.5.
 
@@ -3087,7 +3099,7 @@ Procedure for determining test areas on windscreens of M(índice 1) category veh
 
 Table 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 1.3 - Correction for design seat-back angles other than 25º.
 
@@ -3095,7 +3107,7 @@ Table 1
 
 Table 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 2 - Test areas.
 
@@ -3121,7 +3133,7 @@ A vertical plane passing through V(índice 1) and V(índice 2) and forming an an
 
 A plane symmetrical with respect to the former plane in relation to the longitudinal median plane of the vehicle.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 ANNEX 16
 
@@ -3275,7 +3287,7 @@ The back and seat pans are constructed of reinforced plastics and metal; they si
 
 Lower leg segments are connected to the seat pan assembly at the T-bar joining the knees, which is a lateral extension of the adjustable thigh bar. Quadrants are incorporated in the lower leg segments to measure knee angles. Shoes and foot assemblies are calibrated to measure the foot angle. Two spirit levels orient the device in space. Body element weights are placed at the corresponding centres of gravity to provide seat penetration equivalent to a 76 kg male. All joints of the 3 DH machine should be checked for free movement without encountering any noticeable friction.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 (nota *) For details of the construction of the 3 DH machine refer to Society of Automotive Engineers (SAE), 400 Commonwealth Drive, Warrendale, Pennsylvania 15096, United States of America.
 
@@ -3291,7 +3303,7 @@ Three-dimensional reference system
 
 3 - The co-ordinates of the R point and the H point are determined in relation to the fiducial marks defined by the vehicle manufacturer.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 (nota *) The reference system corresponds to ISO Standard 4130 - 1978.
 
@@ -3469,7 +3481,7 @@ However, for toughened-glass windscreens, this first series of tests shall be ca
 
 3.1.1.4 - During the production run the check tests shall be carried out at the following minimum frequency:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 3.1.1.5 - A check shall be carried out at the end of the production run on one of the last glass panes manufactured.
 
@@ -3881,7 +3893,7 @@ A finalidade deste ensaio é verificar se a face interna de um vidro de seguran�
 
 8.2.1 - Os vidros de segurança devem ser submetidos aos ensaios enumerados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 8.2.2 - Um vidro de segurança será homologado se cumprir todos os requisitos prescritos nas cláusulas eferidas no quadro anterior.
 
@@ -3953,7 +3965,7 @@ Se o detentor de uma homologação concedida por aplicação do presente Regulam
 
 As Partes do Acordo aplicando o presente Regulamento comunicarão ao Secretariado da Organização das Nações Unidas os nomes e endereços dos serviços técnicos responsáveis pelos ensaios de homologação e dos serviços administrativos que concedem a homologação, às quais devem ser enviadas as fichas de homologação, ou de extensão, ou de recusa, ou de cancelamento de homologação, emitidas noutros países.
 
-## ANEXO N.º 1 — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+## ANEXO N.º 1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Homologação n.º ... Extensão n.º ...
 
@@ -3993,7 +4005,7 @@ Homologação n.º ... Extensão n.º ...
 
 (nota 2) Denominação da Administração.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Pára-brisas de vidro temperado
 
@@ -4027,7 +4039,7 @@ Observações: ...
 
 Documentos anexos: lista de pára-brisas (v. apêndice n.º 8).
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Vidros uniformemente temperados
 
@@ -4075,7 +4087,7 @@ Observações: ...
 
 Documentos anexos: lista de pára-brisas (quando aplicável) (v. apêndice n.º 8).
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
 Pára-brisas de vidro estratificado
 
@@ -4113,7 +4125,7 @@ Observações: ...
 
 Documentos anexos: lista de pára-brisas (v. apêndice n.º 8).
 
-## APÊNDICE N.º 4
+APÊNDICE N.º 4
 
 Vidros estratificados não destinados a pára-brisas
 
@@ -4155,7 +4167,7 @@ Bandas antiencandeamento incorporadas (sim/não): ...
 
 Observações: ...
 
-## APÊNDICE N.º 5
+APÊNDICE N.º 5
 
 Pára-brisas do vidro plástico
 
@@ -4195,7 +4207,7 @@ Observações: ...
 
 Documentos anexos: lista de pára-brisas (v. apêndice n.º 8).
 
-## APÊNDICE N.º 6
+APÊNDICE N.º 6
 
 Chapa de vidro plástico não destinada a pára-brisas
 
@@ -4233,7 +4245,7 @@ Bandas antiencandeamento incorporadas (sim/não): ...
 
 Observações: ...
 
-## APÊNDICE N.º 7
+APÊNDICE N.º 7
 
 Unidades de vidro duplo
 
@@ -4259,7 +4271,7 @@ Uma ficha para cada vidro de uma unidade assimétrica de vidro duplo, de acordo 
 
 Observações: ...
 
-## APÊNDICE N.º 8
+APÊNDICE N.º 8
 
 Conteúdo de lista de pára-brisas (ver nota 4)
 
@@ -4283,7 +4295,7 @@ Curvatura (r);
 
 Ponto R de coordenadas (A, B, C) relativas ao centro do bordo superior do pára-brisas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 ## ANEXO N.º 2 — Composição das marcas de homologação
 
@@ -4291,61 +4303,61 @@ Ponto R de coordenadas (A, B, C) relativas ao centro do bordo superior do pára-
 
 Pára-brisas de vidro temperado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Esta marca de homologação aposta num pára-brisas de vidro temperado atesta que o componente em questão foi homologado na Holanda (E4) de acordo com o Regulamento n.º 43, com o número de homologação 002439. Este número indica que a homologação foi concedida em conformidade com os requisitos do Regulamento n.º 43 na sua versão original ou corrigida pelos suplementos n.os 1, 2 e ou 3, conforme os casos.
 
 Pára-brisas de vidro temperado revestidos com material plástico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Esta marca de homologação aposta num pára-brisas de vidro temperado revestido com material plástico evidencia que o componente em questão foi homologado na Holanda (E4) de acordo com o Regulamento n.º 43, com o número de homologação 002439. Este número indica que a homologação foi concedida em conformidade com os requisitos do Regulamento n.º 43 na sua versão original corrigida pelos suplementos n.os 1 e 2 e ou 3, conforme os casos.
 
 Pára-brisas de vidro estratificado comum
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Esta marca de homologação aposta num pára-brisas de vidro estratificado comum atesta que o componente em questão foi homologado na Holanda (E4) segundo o Regulamento n.º 43, com o número de homologação 002439. Este número indica que a homologação foi concedida em conformidade com os requisitos do Regulamento n.º 43 na sua versão original ou corrigida pelos suplementos n.os 1, 2 e ou 3, conforme os casos.
 
 Pára-brisas de vidro estratificado comum revestidos a material plástico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Esta marca de homologação aposta num pára-brisas de vidro estratificado comum revestido com material plástico atesta que o componente em questão foi homologada na Holanda (E4) segundo o Regulamento n.º 43, com o número de homologação 002439. Este número indica que a homologação foi concedida em conformidade com os requisitos do Regulamento n.º 43 na sua versão original corrigida pelos suplementos n.os 1, 2 e ou 3, conforme os casos.
 
 Pára-brisas de vidro estratificado tratado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Esta marca de homologação aposta num pára-brisas de vidro estratificado tratado atesta que o componente em questão foi homologado na Holanda (E4) segundo o Regulamento n.º 43, com o número de homologação 002439. Este número indica que a homologação foi concedida em conformidade com os requisitos do Regulamento n.º 43 na sua versão original ou corrigida pelos suplementos n.os 1, 2 e ou 3, conforme o caso.
 
 Pára-brisas de vidro plástico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Esta marca de homologação aposta num pára-brisas de vidro plástico atesta que o componente em questão foi homologado na Holanda (E4) segundo o Regulamento n.º 43, com o número de homologação 002439. Este número indica que a homologação foi concedida em conformidade com os requisitos do Regulamento n.º 43 na sua versão original corrigida pelos suplementos n.os 1 e 2 e ou 3, conforme o caso.
 
 Vidros não destinados a pára-brisas com uma transmitância luminosa média inferior a 70%
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Esta marca de homologação aposta numa chapa de vidro não destinada a pára-brisas, à qual são aplicáveis os requisitos do anexo n.º 3, parágrafo 9.1.4.2, evidencia que o componente em questão foi homologado na Holanda (E4) segundo o Regulamento n.º 43, com o número de homologação 002439. Este número indica que a homologação foi concedida em conformidade com os requisitos do Regulamento n.º 43 na sua versão original corrigida pelos suplementos n.os 1 e 2 e ou 3, conforme o caso.
 
 Unidades de vidro duplo com transmitância luminosa média inferior a 70%
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Esta marca de homologação aposta numa unidade de vidro duplo atesta que o componente em questão foi homologado na Holanda (E4) segundo o Regulamento n.º 43, com o número de homologação 002439. Este número indica que a homologação foi concedida em conformidade com os requisitos do Regulamento n.º 43 na sua versão original corrigida pelos suplementos n.os 1, 2 e 3.
 
 Vidros uniformemente temperados par pára-brisas de veículos de marcha lenta que por construção não possam exceder os 30 km/h
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Esta marca de homologação aposta num vidro uniformemente temperado atesta que o componente em questão, destinado a ser utilizado como pára-brisas em veículos de marcha lenta que, por construção, não possam exceder os 30 km/h foi aprovado na Holanda (E4) segundo o Regulamento n.º 43, com o número de homologação 002439. Este número indica que a homologação foi concedida em conformidade com os requisitos do Regulamento n.º 43 na sua versão original corrigida pelos suplementos n.os 1, 2 e 3.
 
 Vidros não destinados a pára-brisas com uma transmitância luminosa média maior ou igual a 70%
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Esta marca de homologação aposta num vidro não destinado a pára-brisas, ao qual se aplicam os requisitos do anexo n.º 3, parágrafo 9.1.4.1, atesta que o componente em questão foi homologado na Holanda (E4) segundo o Regulamento n.º 43, com o número de homologação 002439. Este número indica que a homologação foi concedida em conformidade com os requisitos do Regulamento n.º 43 na sua versão original ou corrigida pelos suplementos n.os 1, 2 e ou 3, conforme o caso.
 
@@ -4375,7 +4387,7 @@ Esta marca de homologação aposta num vidro não destinado a pára-brisas, ao q
 
 A moldura inferior assenta numa caixa metálica com cerca de 150 mm de altura. O provete de ensaio é mantido em posição pela moldura superior, cuja massa deve ser de cerca de 3 kg. A caixa metálica de suporte é soldada sobre uma chapa de aço com cerca de 12 mm de espessura, assente no pavimento sobre uma placa intermédia de borracha, com cerca de 3 mm de espessura e dureza de 50 IRHD.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 2.1.2 - Condições de ensaio:
 
@@ -4447,7 +4459,7 @@ A esfera deverá percutir o provete apenas uma vez.
 
 As dimensões devem ser da ordem das indicadas na figura 2. A massa total do acessório deve ser de cerca de 10 Kg (mais ou menos)0,2 kg.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 3.1.2 - Meios para fazer cair livremente o peso em forma de cabeça de uma altura a especificar, ou meios para lhe permitir uma velocidade equivalente à verificada na queda livre.
 
@@ -4471,7 +4483,7 @@ Humidade relativa: 60% (mais ou menos)20%.
 
 O proveto plano, tendo um comprimento de 1100 mm +4 mm/-2 mm e uma largura de 500 mm +5 mm/-2 mm deve ser mantido à temperatura constante de 20ºC (mais ou menos)5ºC pelo menos durante as quatro horas precedentes do ensaio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 3.3.1 - Fixar o provete nas molduras de suporte (parágrafo 3.1.3); o binário dos parafusos deverá garantir que o provete não se desloque mais que 2 mm no decorrer do ensaio. O plano do provete deverá ser praticamente perpendicular à direcção de incidência do peso. Este deve percutir o provete dentro de uma distância de 40 mm ao seu centro geométrico, sobre a superfície que representará a face interior do vidro de segurança, quando ele estiver montado num veículo, devendo apenas ocorrer um impacte.
 
@@ -4501,7 +4513,7 @@ Mesa giratória horizontal, com grampo central, que acciona um conta-rotações,
 
 Dois braços paralelos com pesos, suportando cada um deles um roda abrasiva especial rodando livremente num rolamento de esferas de eixo horizontal; cada roda exerce sobre o provete a ensaiar uma pressão correspondente à massa de 500 g.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 A mesa rotativa do abrasímetro deverá rodar normalmente, essencialmente no mesmo plano (não deverá apresentar um desvio desse plano superior a (mais ou menos)0,05 mm, a uma distância de 1,6 mm da periferia da mesa).
 
@@ -4529,7 +4541,7 @@ O conjunto do aparelho deverá ser revisto periodicamente com padrões calibrado
 
 Se as medições da atenuação de visibilidade forem feitas com equipamentos ou métodos diferentes dos que atrás se definiram, os resultados deverão ser corrigidos, se necessário, para ficarem de acordo com os obtidos pelo aparelho descrito atrás.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 4.2 - Condições de ensaio:
 
@@ -4565,7 +4577,7 @@ Deverá ser evitado qualquer tratamento com equipamento de ultra-sons. Depois de
 
 Devem ser feitas quatro leituras, conforme se indica no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Repetir as leituras para T(índice 1), T(índice 2), T(índice 3) e T(índice 4) com outras posições especificadas do provete para testar a sua uniformidade.
 
@@ -4609,7 +4621,7 @@ Se os provetes forem cortados de pára-brisas, um bordo de cada um deles deve se
 
 5.2 - Índices de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 As outras características secundárias não estão aqui envolvidas.
 
@@ -4657,7 +4669,7 @@ Depois desta exposição, medir de novo a transmitância luminosa regular na ár
 
 6.2 - Índices de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 As outras características secundárias não têm aqui intervenção.
 
@@ -4695,7 +4707,7 @@ Devem ser tomadas precauções para evitar que as condensações que possam ocor
 
 7.2 - Índices de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 As outras características secundárias não estão envolvidas.
 
@@ -4717,7 +4729,7 @@ Dois provetes de 300 mm x 300 mm são colocados num local fechado, a uma tempera
 
 8.2 - Índices de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 As outras características secundárias não são envolvidas.
 
@@ -4761,7 +4773,7 @@ Contudo, para tractores agrícolas e florestais e para veículos de construção
 
 9.1.3 - Índices de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 As outras características secundárias não estão envolvidas.
 
@@ -4787,7 +4799,7 @@ Será positivo o desvio contrário ao movimento dos ponteiros do relógio e nega
 
 9.2.1.1.3 - Distorção óptica no ponto M: é a distorção óptica máxima para todas as direcções M-M' a partir do ponto M.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.2.1.2 - Aparelhagem.
 
@@ -4807,7 +4819,7 @@ Lâmpada de 250 W de quartzo halogéneo (usada com um filtro verde).
 
 O projector é mostrado esquematicamente na figura 7. A cerca de 10 mm da lente da objectiva é aplicado um diafragma de diâmetro de 8 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.2.1.2.2 - Miras formadas, por exemplo, por uma rede de círculos claros sobre um fundo escuro (v. fig. 8), montadas como diapositivos. Estas miras devem ser de alta qualidade e bem contrastadas, para permitirem efectuar medições com um erro inferior a 5%.
 
@@ -4817,13 +4829,13 @@ R(índice 1) + R(índice 2)/R(índice 1) x (Delta)x
 
 com (Delta)x = 4 mm (ver figs. 6 e 9).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.2.1.2.3 - Cavalete de suporte, de preferência móvel, permitindo varrimentos na horizontal e na vertical, bem como a rotação do vidro de segurança.
 
 9.2.1.2.4 - Dispositivo de controlo, para medição das variações de dimensões, quando se pretende uma estimativa rápida. Uma forma adequada é apresentada na figura 10.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.2.1.3 - Procedimento.
 
@@ -4927,7 +4939,7 @@ P(índice 4) - plano que contém a recta OQ e faz um ângulo de 8º abaixo do pl
 
 Um tipo de pára-brisas deverá ser considerado satisfatório no que se refere à distorção óptica quando, nos quatro provetes submetidos a ensaio, a distorção óptica não ultrapassa, em cada zona, os seguintes valores máximos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.2.6.1 - Para veículos de categorias M e N não serão feitas medições numa área periférica de 25 mm de largura.
 
@@ -4971,7 +4983,7 @@ O alvo iluminado consiste numa caixa iluminada, de dimensões aproximadas 300 mm
 
 A caixa deve ser iluminada por uma fonte luminosa adequada. Pode ser conveniente usar outros tipos de alvo, tais como os representados na figura 14. É também admissível a substituição do sistema de alvo por um sistema de projecção e observar as imagens resultantes num écran.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.3.1.1.2 - Procedimento.
 
@@ -5007,7 +5019,7 @@ Quando o provete que apresenta uma imagem secundária é colocado entre o telesc
 
 (A distância entre o ponto negro e o ponto luminoso ao centro do sistema de coordenadas polares representa desvio óptico.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.3.1.2.3 - Expressão dos resultados.
 
@@ -5043,7 +5055,7 @@ Deverão ser ensaiadas quatro amostras.
 
 Um tipo de pára-brisas deve ser considerado como satisfatório em relação à separação da imagem secundária se, nos quatro provetes ensaiados, a separação das imagens primária e secundária não exceder os valores indicados no quadro seguinte para cada zona:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 9.3.5.1 - Para veículos de categorias M e N não devem ser feitas medições numa área periférica de 25 mm de largura.
 
@@ -5111,7 +5123,7 @@ A câmara de combustão apoia-se em quatro pés, de altura de 10 mm. Ela pode te
 
 A chapa inferior está equipada com cavilhas e a superior com os correspondentes furos, de modo a garantir o suporte eficaz da amostra. As cavilhas servem igualmente de pontos de medição do início e do fim da distância queimada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 O seu suporte é feito com arames termo-resistentes de diâmetro de 0,25 mm sustentando a armação a espaços de 25 mm na parte inferior da armação em forma de U (v. fig. 19).
 
@@ -5125,7 +5137,7 @@ Uma pequena fonte de ignição é obtida com um bico de Bunsen de diâmetro inte
 
 O gás fornecido ao queimador deverá ter um poder calorífico de cerca de 38 MJ/m3 (por exemplo, gás natural).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 10.4.5 - Pente metálico de comprimento mínimo de 110 mm, com sete ou oito dentes arredondados e polidos de 25 mm.
 
@@ -5151,7 +5163,7 @@ b) Para amostras com a largura de 60 mm a 100 mm, o comprimento deverá ser pelo
 
 c) Amostras com largura inferior a 60 mm e comprimento inferior a 356 mm e amostras com largura entre 60 mm e 100 mm e comprimento inferior a 138 mm, não podem ser ensaiadas de acordo com este método, nem tão-pouco amostras com largura inferior a 3 mm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 10.5.2 - Amostragem.
 
@@ -5231,7 +5243,7 @@ Os provetes devem ser completamente mergulhados no fluido de ensaio e assim mant
 
 11.3 - Índices de dificuldade das catacterísticas secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 As outras características secundárias não têm intervenção.
 
@@ -5465,7 +5477,7 @@ Categoria IV - 6,5 mm < e.
 
 2.1 - Índices de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 Não há outras características secundárias envolvidas.
 
@@ -5495,7 +5507,7 @@ Se a altura de segmento das amostras ensaiadas é menor ou igual a 100 mm, os en
 
 Os números de amostras em cada grupo deverão ser os seguintes, de acordo com a categoria de forma definida no parágrafo 1.1.3 anterior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 2.4 - Método de ensaio.
 
@@ -5561,7 +5573,7 @@ e é repetido sobre uma nova amostra que ou está de acordo com os requisitos do
 
 3.1.1 - Índices de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 As outras características secundárias (nomeadamente, incorporação ou ausência de condutores) não estão envolvidas.
 
@@ -5575,7 +5587,7 @@ Para cada categoria de espessura definida no parágrafo 1.1.4 anterior deverão 
 
 3.1.3.2 - A altura de queda (desde a face inferior da esfera até à face superior do provete) deverá ser tirada da tabela seguinte, em função da espessura da chapa de vidro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 3.1.4 - Interpretação dos resultados.
 
@@ -5747,7 +5759,7 @@ Deverão ser ensaiados 10 provetes a uma temperatura de +40ºC (mais ou menos)2�
 
 4.3.3.2 - A altura de queda para as diferentes categorias de espessuras e a massa de fragmentos separados são dadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 4.3.4 - Interpretação dos resultados.
 
@@ -5887,7 +5899,7 @@ Deverão ser ensaiados quatro provetes planos de dimensões de 300 mm x 300 mm (
 
 4.3.2 - A altura de queda (desde a face inferior da esfera até à face superior do provete) deverá estar de acordo com as indicações do quadro seguinte, em função da espessura nominal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 4.4 - Interpretação dos resultados.
 
@@ -5993,7 +6005,7 @@ Os pára-brisas de vidro estratificado tratado deverão ser submetidos:
 
 4.1 - Índices de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 4.2 - Número de provetes ou amostras.
 
@@ -6295,7 +6307,7 @@ Deverão ser ensaiados seis provetes planos, de dimensões de 1100 mm x 500 mm (
 
 4.1 - As prescrições do anexo n.º 7, parágrafo 4, deverão aqui ser aplicadas, com excepção da tabela do parágrafo 4.3.2, a substituir por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 4.2 - No entanto, o disposto no anexo n.º 7, parágrafo 4.4.1.2, não é relevante.
 
@@ -6533,7 +6545,7 @@ etc.
 
 ## ANEXO N.º 14 — Medição da altura de segmento e posição dos pontos de impacte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 ## ANEXO N.º 15 — Procedimento para determinação das zonas de ensaio em pára-brisas para veículos de categoria M(índice 1) em relação aos pontos V
 
@@ -6545,7 +6557,7 @@ etc.
 
 Tabela n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 1.3 - Correcção para os ângulos previstos de inclinação das costas do banco do condutor diferentes de 25º.
 
@@ -6553,7 +6565,7 @@ Tabela n.º 1
 
 Tabela n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 2 - Zonas de ensaio.
 
@@ -6579,7 +6591,7 @@ Um plano vertical passando por V(índice 1) e V(índice 2) e fazendo um ângulo 
 
 Um plano simétrico do anterior, relativamente ao plano longitudinal médio do veículo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 ## ANEXO N.º 16
 
@@ -6721,7 +6733,7 @@ Esse lugar deverá ser:
 
 4.16.2 - No caso da fila ou filas de trás, um lugar do lado de fora.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Descrição da máquina tridimensional do ponto H (máquina 3 DH) (ver nota *)
 
@@ -6737,9 +6749,9 @@ Os segmentos inferiores das pernas são unidos ao conjunto do assento da máquin
 
 A máquina corresponde à descrição contida na norma ISO 6549 - 1980.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Sistema tridimensional de referência
 
@@ -6751,9 +6763,9 @@ Sistema tridimensional de referência
 
 (nota *) Este sistema de referência corresponde à norma ISO 4130 -1978.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
 Valores de referência relativos a posições sentadas
 
@@ -6927,7 +6939,7 @@ Contudo, para pára-brisas de vidro temperado, esta primeira série de ensaios d
 
 3.1.1.4 - Durante o ciclo de produção os ensaios de verificação deverão ser realizados com a seguinte frequência mínima:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11901/00020083.pdf)
 
 3 1.1.5 - Deverá ser feita uma verificação no final de um ciclo de produção sobre uma das últimas chapas de vidro fabricado.
 

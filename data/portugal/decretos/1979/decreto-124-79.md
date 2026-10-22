@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/124-1979-367791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85e1ad77d371293b1d824a5f48bf0a01167ba8a9bdcddf92dcc3859037a1b98b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aec6515654770fd921a34898b26e9bf25872082f357eb598c79c57368eb4fbc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:53Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +89,15 @@ de 14 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia Relativo aos Transportes Internacionais Rodoviários de Pessoas e Mercadorias, assinado em Bucareste em 22 de Março de 1979, cujos textos em português e romeno acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia Relativo aos Transportes Internacionais Rodoviários de Pessoas e Mercadorias, assinado em Bucareste em 22 de Março de 1979, cujos textos em português e romeno acompanham o presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 15 de Outubro de 1979.**
+Assinado em 15 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia Relativo aos Transportes Internacionais Rodoviários de Pessoas e Mercadorias.
 
@@ -297,4 +299,4 @@ Pelo Governo da República Socialista da Roménia:
 
 (Assinatura ilegível.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26300/29192925.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26300/29192925.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26300/29192925.pdf)

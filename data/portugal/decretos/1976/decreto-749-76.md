@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/749-1976-409696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b05d60cac1a6dd37f1564c09d73d16358d3b2aea9f33168bfc3c52c3fa378c50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 886c824c2364782f8fe74773b2a5c1eb8b67536e3f952647f0c43c6d55c77d15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco Nacional Ultramarino
+- Contrato
+- Direcção Geral da Junta do Crédito Público
+- Empréstimo
+- Obrigações do Tesouro
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:05Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +99,9 @@ Com fundamento no artigo 6.º do [Decreto-Lei n.º 48234](https://diariodarepubl
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizada a Junta do Crédito Público celebrar com o Banco Nacional Ultramarino contrato regulador das condições em que, pelo mesmo Banco, serão executadas tarefas administrativas ligadas ao serviço do empréstimo amortizável interno denominado «Obrigações do Tesouro, 1975 - Nacionalização do Banco de Portugal».
+Artigo 1.º É autorizada a Junta do Crédito Público celebrar com o Banco Nacional Ultramarino contrato regulador das condições em que, pelo mesmo Banco, serão executadas tarefas administrativas ligadas ao serviço do empréstimo amortizável interno denominado «Obrigações do Tesouro, 1975 - Nacionalização do Banco de Portugal».
 
-###### Art. 2.º O encargo resultante das remunerações a lagar ao Banco Nacional Ultramarino, fixadas no contrato referido no artigo anterior, será da importância de 1869694$50 e não poderá exceder as seguintes quantias em cada ano:
+Art. 2.º O encargo resultante das remunerações a lagar ao Banco Nacional Ultramarino, fixadas no contrato referido no artigo anterior, será da importância de 1869694$50 e não poderá exceder as seguintes quantias em cada ano:
 
 1976 ... 121418$60
 
@@ -138,8 +147,8 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 8 de Outubro de 1976.**
+Promulgado em 8 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

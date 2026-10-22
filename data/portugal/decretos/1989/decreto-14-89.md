@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/14-1989-615805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81c03e2f6e3d783d489ba140bba9ee9fffa046a4ab295c721a89d745762fa237
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db67234197ebc409c6d9c1da8e2fa4652db73fda738917a9686dcbb9272a66ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Equipamento de Veículo
+- Portugal
+- Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:534775:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534775:por
+  label: "Publicitada a adopção e respectiva obrigatoriedade das Emendas ao Regulamento nº 109 do Acordo aprovado para adesão\
+    \ pelo presente diploma, pelo AV.203/2005.28.03.2005.MNE, DR.IS-A [89] de 09.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/203-2005-534775
+  date: '2005-03-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:57Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +102,19 @@ de 18 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Regulamento n.º 54 sobre Disposições Uniformes Relativas à Homologação dos Pneus para Veículos Comerciais e Seus Reboques, anexo ao Acordo Relativo à Adopção de Condições Uniformes de Homologação e ao Reconhecimento Recíproco de Homologação dos Equipamentos e Partes de Veículos a Motor, concluído em Genebra a 20 de Março de 1958, cujo texto original em francês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado o Regulamento n.º 54 sobre Disposições Uniformes Relativas à Homologação dos Pneus para Veículos Comerciais e Seus Reboques, anexo ao Acordo Relativo à Adopção de Condições Uniformes de Homologação e ao Reconhecimento Recíproco de Homologação dos Equipamentos e Partes de Veículos a Motor, concluído em Genebra a 20 de Março de 1958, cujo texto original em francês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1989. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 30 de Março de 1989.**
+Assinado em 30 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Março de 1989.**
+Referendado em 30 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Accord concernant l'adoption de conditions uniformes d'homologation et la reconnaissance réciproque de l'homologation des équipements et pièces de véhicules à moteur.
 
@@ -189,7 +200,7 @@ Prescriptions uniformes relatives à l'homologation des pneumatiques pour véhic
 
 2.16.1.3.1 - Les valeurs des symboles d exprimées en millimètres et en pouces sont indiquées ci-dessous:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 2.17 - Diamètre nominal de la jante (d), le diamètre de la jante sur laquelle un pneumatique est destiné à être monté (ver nota 1);
 
@@ -217,7 +228,7 @@ Prescriptions uniformes relatives à l'homologation des pneumatiques pour véhic
 
 2.27.2 - Les catégories de vitesse sont celles indiquées dans le tableau ci-après (ver nota 2):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 2.28 - Tableau de variation des charges en fonction de la vitesse, le tableau figurant à l'annexe 8 indiquant, en fonction des indices de capacité de charge et des symboles de catégorie de vitesse nominale, les variations de charge que peut supporter un pneumatique lorsqu'il est utilisé à des vitesses différentes de celle correspondant à son symbole de catégorie de vitesse nominale. Ces variations de charge ne sont pas aplicables avec les symboles de capacité de charge et catégories de vitesse supplémentaires obtenus lorsque les dispositions du paragraphe 6.2.5 sont appliquées.
 
@@ -247,7 +258,7 @@ Prescriptions uniformes relatives à l'homologation des pneumatiques pour véhic
 
 3.1.7 - L'indication de la date de fabrication, qui est constituée par un groupe de trois chiffres, les deux premiers indiquant la semaine et le dernier le millésime de l'année de fabrication. Toutefois, cette indication, qui peu n'être apposée que sur un seul flanc, ne sera exigée, pour tout pneumatique présenté à l'homologation, que deux ans après la date d'entrée en vigueur du présent Règlement;
 
-3.1.8 - Dans le cas des pneumatiques retaillables, sur chaque flanc, le symbole [([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf) d'au moins 20 mm de diamètre ou le mot «Regroovable», moulé en creux ou en relief;
+3.1.8 - Dans le cas des pneumatiques retaillables, sur chaque flanc, le symbole [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf) d'au moins 20 mm de diamètre ou le mot «Regroovable», moulé en creux ou en relief;
 
 3.1.9 - L'indication de la pression de gonflage à adopter pour les essais d'endurance charge/vitesse par l'indice PSI, l'interprétation duquel figure à l'annexe 7, appendice 2. Toutefois, cette indication, qui peu n'être apposée que sur un seul flanc, ne sera exigée, pour tout pneumatique présenté à l'homologation, que deux ans après la date d'entrée en vigueur du présent Règlement.
 
@@ -359,7 +370,7 @@ tels que figurant sur le flanc du pneumatique dans la désignation de celui-ci c
 
 6.1.4.2 - Elle peut dépasser cette valeur de 4% pour les pneumatiques à structure radiale et de 8% pour les pneumatiques à structure diagonale. Toutefois, pour les pneumatiques ayant une grosseur de boudin d'une valeur supérieure à 305 mm et pour lesquels le montage en jumelé est prévu, le dépassement par rapport à la valeur nominale ne doit pas être supérieur à +2% pour les pneumatiques à structure radiale ni à +4% pour les pneumatiques à structure diagonale.
 
-6.1.5 - Spécifications relatives au diamètre extérieur des pneumatiques. - Le diamètre extérieur du pneumatique ne doit pas différer de la valeur D déterminée en application du paragraphe 6.1.2 ci-dessus de plus de (mais ou menos)1,5% (ver nota 5) pour pneumatiques utilisés sur route et de [([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf) pour pneumatiques utilisés hors de la route.
+6.1.5 - Spécifications relatives au diamètre extérieur des pneumatiques. - Le diamètre extérieur du pneumatique ne doit pas différer de la valeur D déterminée en application du paragraphe 6.1.2 ci-dessus de plus de (mais ou menos)1,5% (ver nota 5) pour pneumatiques utilisés sur route et de [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf) pour pneumatiques utilisés hors de la route.
 
 6.2 - Essai d'endurance charge/vitesse.
 
@@ -421,13 +432,13 @@ tels que figurant sur le flanc du pneumatique dans la désignation de celui-ci c
 
 Figure explicative
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 ANNEXE 1
 
 [Format nominal: A4 (210 mm x 297 mm)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 Comunication concernant l'homologation (ou le refus ou le retrait d'une homologation ou l'arrêt définitif de la production) d'un type de pneumatique, en application du Règlement nº 54
 
@@ -503,7 +514,7 @@ ANNEXE 2
 
 Exemple de la marque d'homologation
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 La marque d'homologation ci-dessus, apposée sur un pneumatique, indique que ce type de pneumatique a été homologué aux Pays-Bas (E4), sous le nº 002439. Les deux premiers chiffres du numéro d'homologation indiquent que l'homologation a été accordée conformément aux dispositions du Règlement nº 54 sous sa forme originale.
 
@@ -513,7 +524,7 @@ ANNEXE 3
 
 Schéma des inscriptions du pneumatique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 Ces inscriptions définissent un pneumatique:
 
@@ -551,13 +562,13 @@ ANNEXE 4
 
 Liste des symboles des indices de capacité de charge
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 ANNEXE 5
 
 Désignation et cotes d'encombrement des pneumatiques
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 ANNEXE 6
 
@@ -613,7 +624,7 @@ Appendice 1
 
 Programme d'essai d'endurance
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 Notes. - 1 - Les pneumatiques pour «applications spéciales» (voir paragraphe 2.1.3 du Règlement) doivent être essayés à une vitesse égale à 85% de la vitesse prescrite pour les pneumatiques équivalents du type normal.
 
@@ -623,13 +634,13 @@ Appendice 2
 
 Rapport entre l'indice de pression et les unités de pression
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 ANNEXE 8
 
 Variation de la capacité de charge en fonction de la vitesse
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 Acordo Respeitante à Adopção de Condições Uniformes de Homologação e Reconhecimento Recíproco da Homologação dos Equipamentos e Partes de Veículos a Motor.
 
@@ -707,7 +718,7 @@ Disposições uniformes relativas à homologação dos pneus para veículos come
 
 2.16.1.3.1 - Os valores dos símbolos d expressos em milímetros e em polegadas são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 2.17 - Diâmetro nominal da jante (d), o diâmetro da jante em que o pneu se destina a ser montado (ver nota 1);
 
@@ -735,7 +746,7 @@ Disposições uniformes relativas à homologação dos pneus para veículos come
 
 2.27.2 - As categorias de velocidade são as do quadro (ver nota 2):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 2.28 - Tabela de variação das cargas em função da velocidade. - A tabela do anexo 8 indica, em função dos índices de capacidade de carga e dos símbolos da categoria de velocidade nominal, as variações de carga que um pneu pode suportar se for usado a velocidades diferentes das correspondentes ao seu símbolo de categoria de velocidade nominal. Estas variações de carga não se consideram nos casos em que são aplicadas as variações de carga adicional e categorias indicadas no parágrafo 6.2.5.
 
@@ -877,7 +888,7 @@ todos estes valores de acordo com a designação mostrada na parede lateral do p
 
 6.1.4.2 - A largura máxima do pneu pode exceder este valor em 4%, no caso de pneus radiais, e 8% no caso de pneus de estrutura diagonal. No entanto, para pneus com largura superior a 305 mm e para os quais é prevista a montagem dupla, em relação ao valor nominal, não pode ser superior a 2% em pneus radiais e a 4% nos diagonais.
 
-6.1.5 - Especificações relativas ao diâmetro exterior dos pneus. - O diâmetro dos pneus não deve diferir do valor D determinado em aplicação do parágrafo 6.1.2 em mais do que (mais ou menos)1,5% (ver nota 5) no caso dos pneus para utilização em estrada e [([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf) para os de utilização fora da estrada.
+6.1.5 - Especificações relativas ao diâmetro exterior dos pneus. - O diâmetro dos pneus não deve diferir do valor D determinado em aplicação do parágrafo 6.1.2 em mais do que (mais ou menos)1,5% (ver nota 5) no caso dos pneus para utilização em estrada e [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf) para os de utilização fora da estrada.
 
 6.2 - Ensaio de resistência carga/velocidade.
 
@@ -941,11 +952,11 @@ todos estes valores de acordo com a designação mostrada na parede lateral do p
 
 Figura explicativa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 ## ANEXO 1 — [Formato nominal: A4 (210 mm x 297 mm)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 Comunicação relativa à homologação (ou recusa ou retirada ou suspensão definitiva de homologação) de um tipo de pneu, em aplicação do Regulamento n.º 54
 
@@ -1019,7 +1030,7 @@ São anexos à presente comunicação os documentos seguintes fornecidos pelo re
 
 ## ANEXO 2 — Exemplo de marca de homologação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 A marca de homologação acima, aposta num pneu, indica que este tipo de pneu foi homologado nos Países Baixos (E 4) com o n.º 002439. Os primeiros dois dígitos do número de aprovação indicam que esta foi feita de acordo com o requerido pelo Regulamento n.º 54 na sua versão original.
 
@@ -1027,7 +1038,7 @@ Nota. - O número de homologação deve ser colocado próximo do círculo e disp
 
 ## ANEXO 3 — Esquema das inscrições do pneu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 Estas inscrições definem um pneu:
 
@@ -1063,11 +1074,11 @@ d) Se o parágrafo 6.2.5 deste Regulamento é aplicado, os índices de capacidad
 
 ## ANEXO 4 — Lista de símbolos dos índices de capacidade de carga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 ## ANEXO 5 — Designação da medida do pneu e dimensões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 ## ANEXO 6 — Método para a medição de pneus
 
@@ -1115,13 +1126,13 @@ Programa do ensaio de resistência
 
 Programa de ensaio de resistência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
-## Apêndice 2
+Apêndice 2
 
 Relação entre índices de pressão e unidades de pressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
 
 Notas. - 1 - Pneus para «uso especial» (v. parágrafo 2.1.3 do Regulamento) deverão ser ensaiados a uma velocidade igual a 85% da velocidade prescrita para pneus equivalentes ao tipo normal.
 
@@ -1129,4 +1140,4 @@ Notas. - 1 - Pneus para «uso especial» (v. parágrafo 2.1.3 do Regulamento) de
 
 ## ANEXO 8 — Variação da capacidade de carga em função da velocidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09000/16801713.pdf)

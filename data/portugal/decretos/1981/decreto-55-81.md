@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/55-1981-579120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2113103fabcba47aa1830ef6e3178dacbc17aed58098c1ee382a1ee79fc63a2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6db4c632e98c7d9a8230fdac0deb17f483de2919585dc0f7525b9ea0aae23a28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Embaixador
+- Exoneração
+- Paris
+- Representante Permanente de Portugal Junto da Unesco
+- Unesco
+relationships:
+- type: corrected_by
+  target: pt:dre:580323:por
+  label: Rectificado pela DECL.DD6524.26.06.1981.PR, DR.IS [153] de 07.07.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-580323
+  date: '1981-06-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:07Z'
   warnings: []
   errors: []
 ---
@@ -85,12 +95,12 @@ validation:
 
 de 11 de Junho
 
-**O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:
 
 É exonerada, a seu pedido e sob proposta do Governo, do cargo de representante permanente de Portugal na Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) a embaixatriz Maria de Lourdes Ruivo da Silva Matos Pintasilgo.
 
-**Assinado em 26 de Maio de 1981.**
+Assinado em 26 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro dos Negócios Estrangeiros, André Roberto Delaunay Gonçalves Pereira.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro dos Negócios Estrangeiros, André Roberto Delaunay Gonçalves Pereira.

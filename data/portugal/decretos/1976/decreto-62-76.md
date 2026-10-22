@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/62-1976-505983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e88c6cad37bcfd38056aa7c37061c85c0ddcedd8574b138f85310bb02adc60b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9febbe3c5a2b25abc9e3c91ae35d0b16019e11767c7f2958cafd46d15e4901cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aeroporto
+- Definição de Competências
+- Direcção Geral da Aeronáutica Civil
+- Diretor Geral
+- Fiscalização
+- Lisboa
+- Medidas Preventivas
+- Obras Públicas
+- Ordenamento do Território
+- Política de Solos
+- Servidão Aeronáutica
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:27Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +117,9 @@ Considerando que se deu oportunamente cumprimento ao disposto no [Decreto-Lei n.
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão aeronáutica os terrenos adjacentes ao Aeroporto de Rio Frio abrangidos na planta anexa ao presente diploma e que dele faz parte integrante.
+Artigo 1.º Ficam sujeitos a servidão aeronáutica os terrenos adjacentes ao Aeroporto de Rio Frio abrangidos na planta anexa ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º - 1. Na área sujeita a servidão é estabelecida uma zona geral de protecção, que compreende as seguintes zonas diferenciadas:
+Art. 2.º - 1. Na área sujeita a servidão é estabelecida uma zona geral de protecção, que compreende as seguintes zonas diferenciadas:
 
 a) Zona 1 (de ocupação) - Área de terreno destinada às instalações do aeroporto resultantes do cumprimento do plano director do seu desenvolvimento;
 
@@ -107,9 +131,9 @@ d) Zona 4 (zona de protecção de rádio-ajudas) - Totalmente contida na zona ge
 
 2. Com excepção dos troços do limite da zona de ocupação representados pela estrada nacional n.º 4 e pela extrema oriental da Herdade de Rio Frio, todos os restantes limites das zonas definidas no n.º 1 deste artigo são representados por segmentos rectilíneos unindo pontos definidos pelas seguintes coordenadas rectangulares com origem no ponto central (Melriça):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01900/01370140.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01900/01370140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01900/01370140.pdf)
 
-###### Art. 3.º - 1. Na 1.ª zona de protecção é proibida, sem autorização prévia da Direcção-Geral da Aeronáutica Civil, a execução dos trabalhos e actividades seguintes:
+Art. 3.º - 1. Na 1.ª zona de protecção é proibida, sem autorização prévia da Direcção-Geral da Aeronáutica Civil, a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas;
 
@@ -131,7 +155,7 @@ i) Quaisquer outros trabalhos que possam prejudicar a segurança da organizaçã
 
 2. A proibição exarada no n.º 1 deste artigo não abrange as obras de conservação de edificações porventura existentes.
 
-###### Art. 4.º - 1. Na 2.ª zona de protecção serão permitidas as construções isoladas e outros trabalhos que não infrinjam as normas de desobstrução.
+Art. 4.º - 1. Na 2.ª zona de protecção serão permitidas as construções isoladas e outros trabalhos que não infrinjam as normas de desobstrução.
 
 2. No entanto, na mesma zona, sem prévia autorização da Direcção-Geral da Aeronáutica Civil, são proibidas:
 
@@ -143,9 +167,9 @@ c) Construção de áreas urbanizadas ou centros industriais;
 
 d) Outros trabalhos ou actividades que possam prejudicar a segurança da organização ou das instalações do aeroporto e das missões que lhe competem.
 
-###### Art. 5.º Em toda a zona geral de protecção fica proibido, sem licença prévia da Direcção-Geral da Aeronáutica Civil, o lançamento para o ar de projécteis ou objectos susceptíveis de porem em risco a segurança da navegação aérea (incluindo fogos de artifício e outros), bem como a execução de todas as construções, instalações ou quaisquer actividades que possam conduzir à criação de interferências nas comunicações rádio avião-aeroporto ou produzir poeiras ou fumos susceptíveis de alterarem as condições de visibilidade.
+Art. 5.º Em toda a zona geral de protecção fica proibido, sem licença prévia da Direcção-Geral da Aeronáutica Civil, o lançamento para o ar de projécteis ou objectos susceptíveis de porem em risco a segurança da navegação aérea (incluindo fogos de artifício e outros), bem como a execução de todas as construções, instalações ou quaisquer actividades que possam conduzir à criação de interferências nas comunicações rádio avião-aeroporto ou produzir poeiras ou fumos susceptíveis de alterarem as condições de visibilidade.
 
-###### Art. 6.º Na área sujeita a servidão é estabelecida uma superfície geral de desobstrução constituída pelas seguintes zonas parcelares:
+Art. 6.º Na área sujeita a servidão é estabelecida uma superfície geral de desobstrução constituída pelas seguintes zonas parcelares:
 
 a) Zona A - Superfície horizontal com a cota de 64 m em relação ao nível médio das águas do mar limitada por um contorno resultante da intersecção com uma superfície de geratriz vertical e cuja directriz é uma linha formada de troços rectilíneos ligados por curvas, que, envolvendo o conjunto das pistas, fica afastada 5 km dos pontos mais exteriores desse conjunto;
 
@@ -163,32 +187,32 @@ Zona G - Superfície correspondente a um corredor de descolagem que não ficou t
 
 Zona H - Superfície horizontal, com a cota de 164 m, que confina com o limite exterior da superfície cónica e se estende até 15000 m do ponto de referência (M = - 58921; P = - 160342).
 
-###### Art. 7.º - 1. Dentro das zonas A a B referidas no artigo 6.º não é permitida a existência de quaisquer plantações, estruturas, fios ou cabos aéreos e outros obstáculos, fixos ou móveis, cujas alturas excedam as cotas nelas indicadas para as zonas em patamar ou as calculadas para as zonas de cota variável, considerando uniforme a inclinação destas dentro dos limites assinalados para cada uma.
+Art. 7.º - 1. Dentro das zonas A a B referidas no artigo 6.º não é permitida a existência de quaisquer plantações, estruturas, fios ou cabos aéreos e outros obstáculos, fixos ou móveis, cujas alturas excedam as cotas nelas indicadas para as zonas em patamar ou as calculadas para as zonas de cota variável, considerando uniforme a inclinação destas dentro dos limites assinalados para cada uma.
 
 2. Na área da zona G referida no artigo 6.º poderão ser consentidas, mediante autorização da Direcção-Geral da Aeronáutica Civil, estruturas ou outros acidentes que ultrapassem a cota de 164 m, devidamente assinalados com marcas e luzes, desde que de tal não resulte perigo para a segurança das operações aéreas.
 
-###### Art. 8.º Dentro da área de desobstrução e nos corredores de aproximação das pistas, embora não se excedam as cotas dos obstáculos admitidas, são proibidos, sem prévia autorização, o estabelecimento de locais onde haja concentração de público e a construção de escolas, igrejas, hospitais, abarracamentos e aglomerados de habitações.
+Art. 8.º Dentro da área de desobstrução e nos corredores de aproximação das pistas, embora não se excedam as cotas dos obstáculos admitidas, são proibidos, sem prévia autorização, o estabelecimento de locais onde haja concentração de público e a construção de escolas, igrejas, hospitais, abarracamentos e aglomerados de habitações.
 
-###### Art. 9.º Os proprietários ou utentes de quaisquer obstáculos existentes dentro das áreas abrangidas pelo presente decreto poderão ser obrigados a estabelecer, operar e manter à sua custa as marcas e luzes que se tornem necessárias para indicar aos pilotos dos aviões a presença desses obstáculos, se isso for imposto por razões de segurança aérea.
+Art. 9.º Os proprietários ou utentes de quaisquer obstáculos existentes dentro das áreas abrangidas pelo presente decreto poderão ser obrigados a estabelecer, operar e manter à sua custa as marcas e luzes que se tornem necessárias para indicar aos pilotos dos aviões a presença desses obstáculos, se isso for imposto por razões de segurança aérea.
 
-###### Art. 10.º Compete à Direcção-Geral da Aeronáutica Civil a fiscalização e autorização de trabalhos nas zonas sujeitas a servidão, bem como ordenar a demolição de obras nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
+Art. 10.º Compete à Direcção-Geral da Aeronáutica Civil a fiscalização e autorização de trabalhos nas zonas sujeitas a servidão, bem como ordenar a demolição de obras nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
 
-###### Art. 11.º - 1. As autorizações previstas no presente diploma serão solicitadas ao director-geral da Aeronáutica Civil, por intermédio das câmaras municipais respectivas, nos termos do disposto no 3 do artigo 9.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril, mediante o envio de um exemplar do projecto da obra que se pretende realizar e de uma planta de localização à escala de 1:5000, devidamente referenciada por coordenadas.
+Art. 11.º - 1. As autorizações previstas no presente diploma serão solicitadas ao director-geral da Aeronáutica Civil, por intermédio das câmaras municipais respectivas, nos termos do disposto no 3 do artigo 9.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril, mediante o envio de um exemplar do projecto da obra que se pretende realizar e de uma planta de localização à escala de 1:5000, devidamente referenciada por coordenadas.
 
 2. As autorizações da Direcção-Geral da Aeronáutica Civil deverão ser sempre precedidas de parecer do Gabinete do Novo Aeroporto de Lisboa e, quando se trate de implantação de possíveis obstáculos nas áreas de sobreposição com a servidão da Base Aérea n.º 6, Montijo, também do Estado-Maior da Força Aérea.
 
-###### Art. 12.º Das decisões tomadas pela Direcção-Geral da Aeronáutica Civil, quer relativamente à concessão de autorização para a execução de trabalhos e outras actividades, quer ainda relativamente à demolição de obras, cabe recurso hierárquico para o Secretário de Estado dos Transportes e Comunicações.
+Art. 12.º Das decisões tomadas pela Direcção-Geral da Aeronáutica Civil, quer relativamente à concessão de autorização para a execução de trabalhos e outras actividades, quer ainda relativamente à demolição de obras, cabe recurso hierárquico para o Secretário de Estado dos Transportes e Comunicações.
 
-###### Art. 13.º Este diploma entra em vigor na data da sua publicação.
+Art. 13.º Este diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 14 de Dezembro de 1975.**
+Promulgado em 14 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01900/01370140.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01900/01370140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01900/01370140.pdf)
 
-**O Ministro dos Transportes e Comunicações, José Augusto Fernandes.**
+O Ministro dos Transportes e Comunicações, José Augusto Fernandes.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/1992/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-1992-143717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 993b9337b4a68cb4f7a8ca394b277b5129c74ce3cff848a0371f136fe7a00521
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fa943ecbb76c25b1912ec3525b7a020a8f8cd3c34a90656ed12c75eefa69ede
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Adesão à Comunidade Europeia
 - CEE
 - Convenção
-- Portugal
 - Espanha
-- Adesão à Comunidade Europeia
+- Portugal
 - Turquia
 relationships:
 - type: cites
@@ -118,15 +118,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1987/822/oj
 article_structure:
-  article_count: 28
+  article_count: 27
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:49Z'
   warnings: []
   errors: []
 ---
@@ -137,19 +137,19 @@ de 21 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo, assinado em Bruxelas em 10 de Agosto de 1987, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo de Associação entre a Comunidade Económica Europeia e a Turquia, assinado em Ancara em 12 de Setembro de 1963, com as modificações introduzidas na Acta Final assinada em Bruxelas em 23 de Novembro de 1970 e na Acta Final assinada em Ancara a 30 de Junho de 1973, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo, assinado em Bruxelas em 10 de Agosto de 1987, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo de Associação entre a Comunidade Económica Europeia e a Turquia, assinado em Ancara em 12 de Setembro de 1963, com as modificações introduzidas na Acta Final assinada em Bruxelas em 23 de Novembro de 1970 e na Acta Final assinada em Ancara a 30 de Junho de 1973, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Assinado em 1 de Abril de 1991.**
+Assinado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Abril de 1991.**
+Referendado em 3 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO AO ACORDO QUE CRIA UMA ASSOCIAÇÃO ENTRE A COMUNIDADE ECONÓMICA EUROPEIA E A TURQUIA, NA SEQUÊNCIA DA ADESÃO DO REINO DE ESPANHA E DA REPÚBLICA PORTUGUESA À COMUNIDADE.
 
@@ -169,7 +169,7 @@ Sua Majestade a Rainha da Dinamarca:
 
 Jakob Esper Larsen, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Werner Ungerer, embaixador extraordinário e plenipotenciário;
 
@@ -177,15 +177,15 @@ Sua Majestade o Rei de Espanha:
 
 Carlos Westendorp y Cabeza, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 François Scheer, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 John H. F. Campbell, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Pietro Calamia, embaixador extraordinário plenipotenciário;
 
@@ -197,7 +197,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 P. C. Nieman, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Leonardo Mathias, embaixador extraordinário e plenipotenciário;
 
@@ -211,7 +211,7 @@ Jakob Esper Larsen, embaixador extraordinário e plenipotenciário, representant
 
 Jean Durieux, conselheiro extraordinário na Direcção-Geral das Relações Externas da Comissão;
 
-**O Presidente da República da Turquia:**
+O Presidente da República da Turquia:
 
 Pulat Tacar, embaixador extraordinário e plenipotenciário, delegado permanente junto da Comunidade Económica Europeia, chefe da Missão da República da Turquia;
 
@@ -269,7 +269,7 @@ Relativamente aos produtos referidos no anexo I, o direito de base é o aplicado
 
 Relativamente aos produtos a seguir mencionados, os direitos de base são os indicados em relação a cada um deles:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/01/017a00/03400433.pdf))](https://files.diariodarepublica.pt/1s/1992/01/017a00/03400433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/017a00/03400433.pdf)
 
 ###### Artigo 5.º
 
@@ -689,4 +689,4 @@ São imediatamente aplicáveis, aquando da entrada em vigor do presente Protocol
 
 O presente Protocolo é redigido em duplo exemplar em língua alemã, dinamarquesa, espanhola, francesa, grega, inglesa, italiana, neerlandesa, portuguesa e turca, fazendo fé qualquer dos textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/01/017a00/03400433.pdf))](https://files.diariodarepublica.pt/1s/1992/01/017a00/03400433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/017a00/03400433.pdf)

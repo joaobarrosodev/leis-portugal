@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/73-1978-296988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8236ba7d6b222c000908d270b70dfd1749edd4d361521f96cebcd8592ea2e422
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d3839ba73df3c43fb7507c42a9115c85a820c5403409c9faec746c46328762d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Berna
+- Convenção
+- Direito de Autor
+- Património Cultural
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:534629:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534629:por
+  label: "Estendida ao Território de Macau a Convenção aprovada pelo presente diploma, pelo DEC.133/99.1999.04.22.PR, DR.IS-A\
+    \ [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/133-1999-534629
+  date: '1999-04-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:04Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +101,17 @@ de 26 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Acto de Paris da Convenção de Berna para a Protecção das Obras Literárias e Artísticas, concluída a 9 de Setembro de 1886, completada em Paris a 4 de Maio de 1896, revista em Berlim a 13 de Novembro de 1908, completada em Berna a 20 de Março de 1914 e revista em Roma a 2 de Junho de 1928, em Bruxelas a 26 de Junho de 1948, em Estocolmo a 14 de Julho de 1967 e em Paris a 24 de Julho de 1971.
+Artigo único. É aprovado, para adesão, o Acto de Paris da Convenção de Berna para a Protecção das Obras Literárias e Artísticas, concluída a 9 de Setembro de 1886, completada em Paris a 4 de Maio de 1896, revista em Berlim a 13 de Novembro de 1908, completada em Berna a 20 de Março de 1914 e revista em Roma a 2 de Junho de 1928, em Bruxelas a 26 de Junho de 1948, em Estocolmo a 14 de Julho de 1967 e em Paris a 24 de Julho de 1971.
 
 O Acto de Paris da Convenção de Berna para a Protecção das Obras Literárias e Artísticas entrou em vigor em 10 de Outubro de 1974; o seu texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Augusto Nunes de Sá Machado.
 
-**Assinado em 11 de Julho de 1978.**
+Assinado em 11 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention de Berne pour la protection des oeuvres littéraires et artistiques du 9 septembre 1886, complétée à Paris le 4 mai 1896, révisée à Berlin le 13 novembre 1908, complétée à Berne le 20 mars 1914 et révisée à Rome le 2 juin 1928, à Bruxelles le 26 juin 1948, à Stockholm le 14 juillet 1967 et à Paris le 24 juillet 1971.
 
@@ -1492,7 +1503,9 @@ c) Em caso de contestação sobre a interpretação dos diversos textos, o texto
 
 3) Quando todos os países da União se tornarem membros da Organização, os direitos, obrigações e bens do Secretariado da União são entregues ao Secretariado Internacional da Organização.
 
-## ANEXO — ARTIGO I
+## ANEXO
+
+###### ARTIGO I
 
 1) Qualquer país considerado, em conformidade com a prática estabelecida pela Assembleia Geral das Nações Unidas, como um país em vias de desenvolvimento, que ratificar o presente Acto, de que o presente Anexo faz parte integrante, ou que a ele aderir e que, tendo em conta a sua situação económica e as suas necessidades sociais ou culturais, não se considera na possibilidade de no imediato tomar as disposições próprias para assegurar a protecção de todos os direitos tal como previstos no presente Acto, pode, por meio de uma notificação depositada junto do director-geral, no momento do depósito do seu instrumento de ratificação ou adesão ou, sob reserva do artigo V, 1), c), em qualquer data posterior, declarar que invocará o benefício da faculdade prevista pelo artigo II ou da prevista pelo artigo III ou de uma e de outra dessas faculdades. Pode, em vez de invocar o benefício da faculdade previsto pelo artigo II, fazer uma declaração em conformidade com o artigo V, 1), a).
 
@@ -1510,7 +1523,7 @@ b) Qualquer declaração feita nos termos da alínea 1) e notificada após expir
 
 b) A faculdade de reciprocidade prevista no artigo 30, 2), b), segunda frase, não pode, até à data em que expira o prazo aplicável em conformidade com o artigo 1, 3), ser exercida relativamente às obras cujo país de origem seja um país que fez uma declaração em conformidade com o artigo V, 1), a).
 
-ARTIGO II
+###### ARTIGO II
 
 1) Qualquer país que declarou que invocará o benefício da faculdade prevista pelo presente artigo ficará habilitado, pelo que toca as obras publicadas sob forma impressa ou sob qualquer outra forma análoga de reprodução, a substituir o direito exclusivo de tradução previsto pelo artigo 8 por um regime de licenças não exclusivas e inalienáveis, concedidas pela autoridade competente nas condições em seguida indicadas e em conformidade com o artigo IV.
 
@@ -1554,7 +1567,7 @@ c) Desde que todos os critérios e condições enumerados na subalínea a) sejam
 
 d) Sob reserva das subalíneas a) a c), as disposições das alíneas precedentes são aplicáveis à concessão e ao exercício de qualquer licença concedida em virtude da presente alínea.
 
-ARTIGO III
+###### ARTIGO III
 
 1) Qualquer país que declarou que invocara o benefício da faculdade prevista pelo presente artigo ficará habilitado a substituir o direito exclusivo de reprodução previsto pelo artigo 9 por um regime de licenças não exclusivas e inalienáveis, concedidas pela autoridade competente nas condições abaixo indicadas e em conformidade com o artigo IV.
 
@@ -1598,7 +1611,7 @@ ii) Quando a tradução não for feita numa língua de uso generalizado no país
 
 b) O presente artigo é igualmente aplicável à reprodução áudio-visual de fixações lícitas áudio-visuais enquanto elas constituam ou incorporem obras protegidas, assim como à tradução do texto que as acompanha para uma língua de uso geral no país em que a licença é pedida, ficando bem entendido que as fixações áudio-visuais em causa foram concebidas e publicadas para fins exclusivamente escolares e universitários.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1) Qualquer licença referida no artigo II ou no artigo III apenas poderá ser concedida se o requerente, em conformidade com as disposições em vigor no país em causa justificar ter pedido ao titular do direito a autorização para elaborar uma tradução e publicá-la ou para reproduzir e publicar a edição, conforme o caso, e não ter podido obter a sua autorização, ou, após as devidas diligências da sua parte, não o ter podido localizar. Ao mesmo tempo que formula esse pedido junto do titular do direito, o requerente deve informar do facto qualquer centro nacional ou internacional de informação referido na alínea 2).
 
@@ -1630,7 +1643,7 @@ ii) Sejam assegurados o pagamento e a transferência dessa remuneração; se exi
 
 b) Medidas apropriadas serão tomadas no quadro da legislação nacional para que seja garantida uma tradução correcta da obra ou uma reprodução exacta da edição em causa, conforme o caso.
 
-ARTIGO V
+###### ARTIGO V
 
 1) a) Qualquer país habilitado a declarar que invocará o benefício da faculdade prevista pelo artigo II pode, quando ratificar o presente Acto, ou a ele aderir, em vez de fazer tal declaração:
 
@@ -1646,7 +1659,7 @@ c) Qualquer país que tenha feito uma declaração em conformidade com a present
 
 3) Qualquer país que tenha deixado de ser considerado como país em vias de desenvolvimento, tal como referido no artigo I, 1), poderá, dois anos o mais tardar antes de expirar o prazo aplicável em conformidade com o artigo I, 3), fazer a declaração prevista no artigo 30, 2), b), primeira fase, não obstante o facto de não se tratar de um país estranho à União. Esta declaração produzirá efeito na data em que expira o prazo aplicável em conformidade com o artigo I, 3).
 
-ARTIGO VI
+###### ARTIGO VI
 
 1) Qualquer país da União pode declarar, a partir da data do presente Acto e em qualquer momento antes de passar a estar ligado pelos artigos 1 a 21 e pelo presente Anexo:
 

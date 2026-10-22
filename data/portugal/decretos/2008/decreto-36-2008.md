@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/36/2008/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-2008-452908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02dd22fcb92d7ca29a82cc6d36db0584bcaf2b7bd58d984370d9eff29bc36e6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a22848b025a65d9fe0e31368aa6f91a265dc4d3a87a246ce63bde5aa1b7a6c1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
 subjects:
 - Autoridade Nacional de Segurança
 - Convenção
-- Portugal
 - Documentação Classificada
-- Segurança da Informação
+- Portugal
 - Praga
 - República Checa
+- Segurança da Informação
 relationships: []
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:42Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira.
 
-**Assinado em 15 de Setembro de 2008.**
+Assinado em 15 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Setembro de 2008.**
+Referendado em 16 de Setembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA CHECA RELATIVO À TROCA E À PROTECÇÃO MÚTUA DE INFORMAÇÃO CLASSIFICADA
 
@@ -146,7 +146,7 @@ e) «Terceira Parte» designa qualquer organização internacional ou Estado que
 
 A equivalência dos respectivos graus de classificação de segurança é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf)
 
 ###### Artigo 4.º — Autoridades de segurança competentes
 
@@ -158,7 +158,7 @@ Autoridade Nacional de Segurança;
 
 Pela República Checa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf)
 
 2 - As autoridades de segurança competentes informar-se-ão mutuamente sobre os seus elementos de contacto oficial.
 
@@ -212,13 +212,13 @@ b) As traduções e o número de reproduções devem ser limitadas ao necessári
 
 c) A tradução deve ter uma menção apropriada na língua para a qual é traduzida indicando que contém informação classificada da Parte transmissora.
 
-2 - A informação classificada marcada como muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) tajné apenas pode ser traduzida ou reproduzida mediante autorização escrita da autoridade de segurança competente da Parte transmissora, nos termos do respectivo direito em vigor.
+2 - A informação classificada marcada como muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) tajné apenas pode ser traduzida ou reproduzida mediante autorização escrita da autoridade de segurança competente da Parte transmissora, nos termos do respectivo direito em vigor.
 
-3 - A informação classificada marcada como muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) tajné não pode ser destruída e deve ser devolvida à autoridade de segurança competente da Parte transmissora.
+3 - A informação classificada marcada como muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) tajné não pode ser destruída e deve ser devolvida à autoridade de segurança competente da Parte transmissora.
 
 4 - Para a destruição da informação classificada marcada como secreto/tajné é necessário o consentimento prévio, por escrito, da autoridade de segurança competente da Parte transmissora.
 
-5 - A informação classificada marcada até confidencial/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) deve ser destruída nos termos do respectivo direito em vigor da Parte destinatária.
+5 - A informação classificada marcada até confidencial/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) deve ser destruída nos termos do respectivo direito em vigor da Parte destinatária.
 
 6 - No caso de uma situação que torne impossível proteger e devolver informação classificada criada ou transmitida nos termos do presente Acordo, a informação classificada deverá ser de imediato destruída. A Parte destinatária deverá notificar a autoridade de segurança competente da Parte transmissora da destruição da informação classificada sem demora.
 
@@ -348,9 +348,9 @@ Fernando Manuel Oliveira de Castro Brandão, Embaixador de Portugal em Praga.
 
 Pela República Checa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) Navrátil, Director da Autoridade Nacional de Segurança.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) Navrátil, Director da Autoridade Nacional de Segurança.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE CZECH REPUBLIC CONCERNING THE EXCHANGE AND THE MUTUAL PROTECTION OF CLASSIFIED INFORMATION
 
@@ -390,7 +390,7 @@ Security classification levels
 
 The equivalence of the respective security classification levels is as follows:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf)
 
 Article 4
 
@@ -404,7 +404,7 @@ Autoridade Nacional de Segurança;
 
 For the Czech Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf)
 
 2 - The competent security authorities shall provide each other with their official contact details.
 
@@ -466,13 +466,13 @@ b) Translations and the number of reproductions shall be limited to that require
 
 c) The translation shall bear an appropriate annotation in the language of translation indicating that it contains Classified Information of the Originating Party.
 
-2 - Classified Information marked as muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) tajné shall be translated or reproduced only upon the written consent of the competent security authority of the Originating Party, according to the respective Law in force.
+2 - Classified Information marked as muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) tajné shall be translated or reproduced only upon the written consent of the competent security authority of the Originating Party, according to the respective Law in force.
 
-3 - Classified Information marked as muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) tajné shall not be destroyed and shall be returned to the competent security authority of the Originating Party.
+3 - Classified Information marked as muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) tajné shall not be destroyed and shall be returned to the competent security authority of the Originating Party.
 
 4 - For the destruction of Classified Information marked as secreto/tajné the prior written consent of the competent security authority of the Originating Party is required.
 
-5 - Classified Information marked up to confidencial/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) shall be destroyed according to the respective Law in force of the Receiving Party.
+5 - Classified Information marked up to confidencial/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) shall be destroyed according to the respective Law in force of the Receiving Party.
 
 6 - In case of a situation that makes it impossible to protect and return Classified Information generated or released according to the present Agreement, the Classified Information shall be destroyed immediately. The Receiving Party shall notify the competent security authority of the Originating Party of the destruction of the Classified Information without delay.
 
@@ -624,4 +624,4 @@ Fernando Manuel Oliveira de Castro Brandão, The Portuguese Ambassador in Prague
 
 For the Czech Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) Navrátil, The Director of the National Security Authority.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19600/0716007169.pdf) Navrátil, The Director of the National Security Authority.

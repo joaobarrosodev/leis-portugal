@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47-1977-139924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19a93a3ae79b1d376d6c52a7782a5a0b3165e5919a55d82a34a73ee71b25a8d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65e76111721f778ecb572db4892ec273ca498b55226b86abd28ce5eb8053116c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cabo Verde
+- Convenção
+- Cooperação Consular
+- Portugal
+relationships:
+- type: corrected_by
+  target: pt:dre:252470:por
+  label: Rectificado pela DECL.DD8329.01.06.1977.PCM, DR.IS [127] de 01.06.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-252470
+  date: '1977-06-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:34Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +96,15 @@ de 9 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Consular entre o Governo da República Portuguesa e o Governo da República de Cabo Verde, assinado em 21 de Janeiro de 1977, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Consular entre o Governo da República Portuguesa e o Governo da República de Cabo Verde, assinado em 21 de Janeiro de 1977, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 24 de Março de 1977.**
+Assinado em 24 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo de Cooperação Consular entre o Governo da República Portuguesa e o Governo da República de Cabo Verde
 
@@ -113,37 +122,37 @@ Decidiram concluir o seguinte
 
 Acordo de Cooperação Consular
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1. A República Portuguesa e a República de Cabo Verde, a seguir denominadas Partes Contratantes, assegurarão, na medida do possível e nos termos das convenções internacionais sobre relações consulares de que cada uma seja signatária, a protecção consular dos interesses e nacionais de Cabo Verde ou Portugal onde não exista um posto consular cabo-verdiano ou português ou onde o respectivo agente consular não puder exercer eficazmente as suas funções.
 
 2. Os postos consulares de cada uma das Partes Contratantes prestarão colaboração aos postos consulares da outra, ainda que situados na mesma área de jurisdição, sempre que solicitada a sua assistência em matéria relacionada com o exercício de funções consulares.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 O disposto no artigo 1.º aplicar-se-á sob reserva de aceitação dos Estados receptores interessados e mediante pedido de consentimento ou notificação apropriada, bem como nos precisos termos dos artigos seguintes.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Os funcionários enviados por cada uma das Partes Contratantes, devidamente credenciados, poderão ser recebidos nos postos consulares da outra, a fim de se inteirarem dos assuntos que digam respeito aos respectivos Estados e seus nacionais, ficando, contudo, sob a orientação do chefe do posto.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O Estado Português compromete-se, na medida das suas possibilidades, e a pedido do Estado de Cabo Verde, a prestar assistência para a formação e aperfeiçoamento do pessoal consular da República de Cabo Verde.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. Os postos consulares de cada uma das Partes Contratantes promoverão, sempre que solicitados, a inscrição dos cidadãos da outra residentes na sua área de jurisdição ou que ali se encontrem ocasionalmente, passando-lhes a respectiva cédula ou certificado de inscrição.
 
 2. O impresso para o processo individual e o impresso para a cédula ou certificado de inscrição serão fornecidos pelos respectivos Ministérios dos Negócios Estrangeiros.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1. Os agentes consulares de cada uma das Partes Contratantes poderão, em nome da outra, agir na qualidade de notário e de conservador do registo civil e exercer funções similares, assim como certas funções de carácter administrativo, desde que não contrariem as leis e os regulamentos desta última e do Estado receptor.
 
 2. Os impressos destinados à prática dos actos consulares mencionados no número anterior, assim como os livros de assentos e de extractos, serão fornecidos pelos respectivos Ministérios dos Negócios Estrangeiros.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1. Os postos consulares de cada uma das Partes Contratantes receberão os pedidos de passaporte apresentados por cidadãos nacionais da outra e transmiti-los-ão, devidamente documentados e acompanhados da importância do respectivo emolumento e custo do impresso, ao Ministério dos Negócios Estrangeiros da Parte beneficiária ou à representação diplomática ou consular, segundo critério a definir por esse Ministério.
 
@@ -153,7 +162,7 @@ O Estado Português compromete-se, na medida das suas possibilidades, e a pedido
 
 4. Os impressos para documentos de viagem, nomeadamente para pedidos de passaporte, serão fornecidos pelo respectivo Ministério dos Negócios Estrangeiros.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1. Os postos consulares de cada uma das Partes Contratantes poderão receber pedidos de vistos de entrada formulados por cidadãos estrangeiros que pretendam entrar em território da outra e transmiti-los ao Ministério dos Negócios Estrangeiros desta, que os emitirá.
 
@@ -161,7 +170,7 @@ O Estado Português compromete-se, na medida das suas possibilidades, e a pedido
 
 3. Em casos excepcionais, nomeadamente quando se trate de diplomatas ou de técnicos cuja presença imediata seja de interesse para cada uma das Partes Contratantes, a transmissão do pedido poderá ser feita por via telegráfica, dele constando o nome do interessado, data de nascimento, nacionalidade, profissão, número de passaporte ou outro documento com que viajem e a entidade que pretendam contactar.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1. Os agentes consulares de cada uma das Partes Contratantes poderão efectuar repatriações e prestar socorros aos cidadãos da outra que residam na sua área de jurisdição ou nela se encontrem ocasionalmente, a pedido destes, e desde que provem encontrar-se permanente ou temporariamente desprovidos de recursos e não tenham possibilidades locais de os conseguir.
 
@@ -169,41 +178,41 @@ O Estado Português compromete-se, na medida das suas possibilidades, e a pedido
 
 3. Cada uma das Partes Contratantes reembolsará à outra os adiantamentos efectuados e as despesas feitas pelos agentes consulares no interesse exclusivo da Parte beneficiária ou dos seus nacionais.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Os postos consulares de cada uma das Partes Contratantes procurarão salvaguardar os interesses dos nacionais da outra, nos casos de sucessão verificados no território do Estado receptor, e os interesses dos menores e incapazes, particularmente quando para eles for requerida a tutela ou curatela.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Os postos consulares de cada uma das Partes Contratantes prestarão assistência aos nacionais da outra junto das autoridades locais do Estado receptor nas questões relativas aos seus interesses particulares e comerciais e assisti-los-ão, na medida do possível, perante os tribunais locais.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Os postos consulares de cada uma das Partes Contratantes transmitirão os actos judiciais e extrajudiciais e procurarão dar cumprimento a cartas rogatórias em conformidade com a prática internacional em vigor e de acordo com as leis e regulamentos do Estado receptor.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Os postos consulares de cada uma das Partes Contratantes prestarão assistência aos barcos e aeronaves arvorando o pavilhão da outra quando solicitados pelo respectivo capitão ou comandante.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Os agentes consulares de cada uma das Partes Contratantes poderão, por indicação expressa das autoridades da outra, e a transmitir através do respectivo Ministério dos Negócios Estrangeiros, exercer a favor de cidadãos da Parte beneficiária outras funções que, segundo a prática internacional, cabem nas atribuições dos postos consulares.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Cada uma das Partes Contratantes poderá suspender a aplicação de qualquer disposição do presente Acordo, desde que notifique a outra com trinta dias de antecedência.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1. Os emolumentos recebidos pela prática dos actos consulares referidos no presente Acordo e cobrados em conformidade com a tabela de emolumentos consulares vigente para cada uma das Partes reverterão a favor daquela que pratica os referidos actos consulares.
 
 2. Exceptuam-se os emolumentos relativos à emissão de passaportes e de vistos de entrada em território de cada uma das Partes, que reverterão a favor dos respectivos Tesouros.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Quaisquer dúvidas ou dificuldades surgidas na interpretação e aplicação deste Acordo serão solucionadas por troca de notas diplomáticas.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1. O presente Acordo entrará, provisoriamente, em vigor na data da sua assinatura e, definitivamente, na data da troca dos instrumentos de ratificação, de acordo com os procedimentos constitucionais vigentes em cada uma das Partes Contratantes.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 110/1979, 1º Suplemento, Série I de 1979-05-14
   number: '110'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 898-(1) a 898-(54)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf
 entry_into_force_dates: []
@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/41-1979-420578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87bb760826f9dd11b738be1c5e077c825adc7c9396730ec6e7b64a750f5998e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea235c37dc5d72a30a41d35c4c1fc7ab522fe288dd4e212a15b8706f60611543
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Científica
+- Cooperação Internacional
+- Cooperação Técnica
+- Cooperação Tecnológica
+- COST
+- Meteorologia
+- Oceanografia
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:12Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +96,15 @@ de 14 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo Internacional para o Estabelecimento de Uma Rede Europeia Experimental de Estações Oceânicas - «Projecto COST 43», cujo texto em francês e respectiva tradução em português seguem em anexo.
+Artigo único. É aprovado para ratificação o Acordo Internacional para o Estabelecimento de Uma Rede Europeia Experimental de Estações Oceânicas - «Projecto COST 43», cujo texto em francês e respectiva tradução em português seguem em anexo.
 
 Visto e aprovado em Conselho de Ministros de 11 de Abril de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 25 de Abril de 1979.**
+Assinado em 25 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACCORD INTERNATIONAL POUR LA MISE EN PLACE D'UN RÉSEAU EUROPÉEN EXPÉRIMENTAL DE STATIONS OCÉANIQUES.
 
@@ -479,7 +488,7 @@ Espagne: 11 stations SADO; navires de mise en place, de récupération et d'entr
 
 2) Liste et emplacement des stations SADO:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 3) Paramètres:
 
@@ -565,11 +574,11 @@ Espagne: navires d'entretien et de récupération intervenant en tant que de bes
 
 Royaume-Uni: navires d'entretien et de récupération intervenant en tant que de besoin.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 2) Liste et emplacement des stations SADO:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 3) Paramètres:
 
@@ -649,11 +658,11 @@ Norvège: 5,5 stations SADO; navires de mise en place, d'entretien et de récup�
 
 Royaume-Uni: 2,5 stations SADO; navires de mise en place, d'entretien et de récupération intervenant en tant que de besoin; installations d'étalonnage/interétalonnage.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 2) Liste et emplacement des SADO:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 3) Paramètres:
 
@@ -703,11 +712,11 @@ Stations n.º 9 - HF (déplacement de fréquence ou picollo).
 
 5) Stations au sol:
 
-Norvège - Bergen, [([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf);
+Norvège - Bergen, [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf);
 
 Royaume-Uni - Bracknell;
 
-Féroé - [([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf).
+Féroé - [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf).
 
 6) Station centrale:
 
@@ -741,7 +750,7 @@ Mise en place des stations n.os 8 et 9.
 
 1980 - Evaluation des résultats obtenus par le réseau pilote en vue de son utilisation comme base d'un réseau européen intégré.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 D) Méditerranée
 
@@ -757,7 +766,7 @@ Espagne: 1 SADO; mise en place, entretien et récupération des SADO; station ce
 
 2) Liste et emplacement des SADO:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 3) Paramètres (paramètres proposés par ordre de priorité):
 
@@ -825,19 +834,19 @@ Suède: 2 SADO: navires de mise en place, d'entretien et de récupération.
 
 Royaume-Uni: 3 SADO; navires de mise en place, d'entretien et de récupération; installations d'étalonnage/interétalonnage.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 Mer du Nord
 
 2) Liste et emplacement des SADO:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 Baltique
 
 2) Liste et emplacement des SADO:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 Les stations n.os 13 et 14 comprennent une tour fixe pour capteurs météorologiques et une bouée équipée de capteurs océanographiques.
 
@@ -845,13 +854,13 @@ Les stations n.os 13 et 14 comprennent une tour fixe pour capteurs météorologi
 
 Les paramètres ci-dessous seront mesurés par les SADO en Mer du Nord et transmis en temps réel:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 3) Paramètres:
 
 Les paramètres ci-dessous seront mesurés dans la Mer Baltique et transmis en temps réel:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 4) Système de transmission:
 
@@ -1309,13 +1318,13 @@ TABLEAU 1
 
 Cloisons
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 TABLEAU 2
 
 Ponts
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 QUATRIÈME PARTIE
 
@@ -1473,13 +1482,13 @@ Formulaire-type recommandé pour l'immatriculation des SADO
 
 Exemple
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 ANNEXE 5
 
 Barème des récompenses visées à l'article 9, paragraphe 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 ACORDO INTERNACIONAL PARA O ESTABELECIMENTO DE UMA REDE EUROPEIA EXPERIMENTAL DE ESTAÇÕES OCEÂNICAS
 
@@ -1863,7 +1872,7 @@ Espanha: 11 estações SADO; navios de lançamento, de recuperação e de manute
 
 2) Relação e localização das estações SADO:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 3) Parâmetros:
 
@@ -1953,7 +1962,7 @@ Reino Unido: navios de manutenção e de recuperação, intervindo sempre que ne
 
 2) Relação e localização das estações SADO:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 3) Parâmetros.
 
@@ -2033,7 +2042,7 @@ Reino Unido: 2,5 estações SADO; navios de lançamento, de manutenção e de re
 
 2) Relação e localização dos SADO:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 3) Parâmetros:
 
@@ -2083,11 +2092,11 @@ Estação n.º 9 - HF (variação de frequência ou Piccolo).
 
 5) Estações em terra:
 
-Noruega - Bergen, [([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf);
+Noruega - Bergen, [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf);
 
 Reino Unido - Bracknell;
 
-Feroé - [([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf).
+Feroé - [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf).
 
 6) Estação central:
 
@@ -2135,7 +2144,7 @@ Espanha: 1 SADO; lançamento, manutenção e recuperação dos SADO; estação c
 
 2) Relação e localização dos SADO:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 3) Parâmetros (parâmetros propostos por ordem de prioridade):
 
@@ -2207,11 +2216,11 @@ Reino Unido: 3 SADO; navios de lançamento, manutenção e recuperação; instal
 
 Mar do Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 Báltico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 As estações n.os 13 e 14 comportam uma torre fixa para sensores meteorológicos e uma bóia equipada com sensores oceanográficos.
 
@@ -2219,11 +2228,11 @@ As estações n.os 13 e 14 comportam uma torre fixa para sensores meteorológico
 
 Os parâmetros a seguir mencionados serão medidos pelos SADO no mar Norte e transmitidos em tempo real:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 Os parâmetros seguintes serão medidos no mar Báltico e transmitidos em tempo real:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 4) Sistema de transmissão:
 
@@ -2653,13 +2662,13 @@ QUADRO N.º 1
 
 Anteparas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 QUADRO N.º 2
 
 Pavimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 QUARTA PARTE
 
@@ -2815,8 +2824,8 @@ Maquinaria e instalações eléctricas
 
 Exemplo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
 
 ## ANEXO 5 — Tabela de alvíssaras referidas no artigo 9.º, parágrafo 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11001/00010054.pdf)

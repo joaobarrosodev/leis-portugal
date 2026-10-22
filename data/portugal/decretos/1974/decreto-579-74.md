@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/579-1974-471506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 824558f70de9e42c2d33ae9b8fae085bd2c0fd77b49aaccfd0cce10936cf8482
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4291b77081aec1f152d492766090d918f678d69f18e83ad104832b88156547de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Naval
+- Fiscalização
+- Guarda Fiscal
+- Material de Construção
+- Setenave
 relationships:
 - type: amended_by
   target: pt:dre:3363155:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3363155:por
+  label: "Extinto o posto fiscal de Mitrena, pela PORT.397/2004(2ªSérie).05.03.2004.MF, DR.IIS [88] de 14.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/397-2004-3363155
+  date: '2004-03-05'
+- type: cites
+  target: pt:dre:411622:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:20Z'
   warnings: []
   errors: []
 ---
@@ -99,51 +113,51 @@ I
 
 Das instalações
 
-###### Artigo 1.º As instalações da Setenave - Estaleiros Navais de Setúbal, S. A. R. L., sitas em Setúbal, serão resguardadas pelo lado de terra por uma vedação de rede, tipo «dine», de altura não inferior a 3 m, fazendo-se todo o movimento de entrada e saída de pessoas e objectos por um único portão, devidamente fiscalizado.
+Artigo 1.º As instalações da Setenave - Estaleiros Navais de Setúbal, S. A. R. L., sitas em Setúbal, serão resguardadas pelo lado de terra por uma vedação de rede, tipo «dine», de altura não inferior a 3 m, fazendo-se todo o movimento de entrada e saída de pessoas e objectos por um único portão, devidamente fiscalizado.
 
-###### Art. 2.º - 1. Junto das instalações do estaleiro funcionará um posto fiscal, com o efectivo de um graduado e das praças julgadas necessárias para o seu conveniente funcionamento, de harmonia com as instruções especiais aduaneiras.
+Art. 2.º - 1. Junto das instalações do estaleiro funcionará um posto fiscal, com o efectivo de um graduado e das praças julgadas necessárias para o seu conveniente funcionamento, de harmonia com as instruções especiais aduaneiras.
 
 2. Todas as despesas com a criação e manutenção do posto serão de conta da empresa proprietária do estaleiro.
 
 3. A empresa fornecerá instalações para o serviço da Guarda Fiscal, as quais deverão ser previamente aprovadas pelo seu Comando-Geral.
 
-###### Art. 3.º - 1. No recinto do estaleiro haverá instalações para serem utilizadas apenas pelos funcionários aduaneiros que ali vão fazer serviço, as quais deverão ser previamente aprovadas pela Alfândega.
+Art. 3.º - 1. No recinto do estaleiro haverá instalações para serem utilizadas apenas pelos funcionários aduaneiros que ali vão fazer serviço, as quais deverão ser previamente aprovadas pela Alfândega.
 
 2. As despesas de estabelecimento e manutenção das instalações referidas no n.º 1 deste artigo serão suportadas pela empresa proprietária do estaleiro.
 
-###### Art. 4.º Sempre que o entenda conveniente, a Alfândega mandará visitar as instalações do estaleiro, não só para averiguar das condições de segurança fiscal, mas também daquelas que digam respeito à defesa dos interesses do Estado, e, assim, poder examinar os livros de escrituração e contabilidade e pedir esclarecimentos que julgue necessários sobre a existência de materiais, peças e máquinas e sua aplicação, os quais lhe deverão ser fornecidos com o mínimo de dilação e a maior clareza.
+Art. 4.º Sempre que o entenda conveniente, a Alfândega mandará visitar as instalações do estaleiro, não só para averiguar das condições de segurança fiscal, mas também daquelas que digam respeito à defesa dos interesses do Estado, e, assim, poder examinar os livros de escrituração e contabilidade e pedir esclarecimentos que julgue necessários sobre a existência de materiais, peças e máquinas e sua aplicação, os quais lhe deverão ser fornecidos com o mínimo de dilação e a maior clareza.
 
-###### Art. 5.º - 1. Nas instalações da Setenave é permitida a constituição de depósitos afiançados, nos termos dos artigos 127.º e seguintes da Reforma Aduaneira, a fim de serem recolhidos aprestos e sobresselentes de navios e material para a construção e reparação navais.
+Art. 5.º - 1. Nas instalações da Setenave é permitida a constituição de depósitos afiançados, nos termos dos artigos 127.º e seguintes da Reforma Aduaneira, a fim de serem recolhidos aprestos e sobresselentes de navios e material para a construção e reparação navais.
 
 2. O prazo estabelecido na Reforma Aduaneira pode ser prorrogado pelo director-geral, em casos justificados, por períodos sucessivos de seis meses.
 
 3. Permite-se o processamento de despacho de reexportação para a saída das mercadorias, aludidas no n.º 1 deste artigo, armazenadas nos depósitos afiançados.
 
-###### Art. 6.º Relativamente aos impressos especiais referidos nos artigos seguintes, a Setenave deve respeitar os modelos previamente estabelecidos pela Alfândega.
+Art. 6.º Relativamente aos impressos especiais referidos nos artigos seguintes, a Setenave deve respeitar os modelos previamente estabelecidos pela Alfândega.
 
 II
 
 Movimentação de ferramentas e materiais
 
-###### Art. 7.º O embarque e desembarque de ferramentas nacionais ou nacionalizadas portáteis para utilização a bordo dos navios faz-se livremente, desde que as caixas acondicionadoras, de modelo previamente aprovado pela Alfândega, conservem no tampo relações discriminativas das ferramentas, autenticadas pelos serviços aduaneiros.
+Art. 7.º O embarque e desembarque de ferramentas nacionais ou nacionalizadas portáteis para utilização a bordo dos navios faz-se livremente, desde que as caixas acondicionadoras, de modelo previamente aprovado pela Alfândega, conservem no tampo relações discriminativas das ferramentas, autenticadas pelos serviços aduaneiros.
 
-###### Art. 8.º - 1. O embarque e desembarque de ferramentas e máquinas-ferramentas, nacionais ou nacionalizadas para utilização a bordo dos navios, faz-se livremente, desde que se encontrem devidamente referenciadas com a marca do estaleiro e com o número de fabrico.
+Art. 8.º - 1. O embarque e desembarque de ferramentas e máquinas-ferramentas, nacionais ou nacionalizadas para utilização a bordo dos navios, faz-se livremente, desde que se encontrem devidamente referenciadas com a marca do estaleiro e com o número de fabrico.
 
 2. O estaleiro deverá fornecer previamente à Alfândega listas discriminativas das ferramentas e máquinas-ferramentas, com a indicação do respectivo número de fabrico.
 
-###### Art. 9.º - 1. O embarque e desembarque de ferramentas nacionais ou nacionalizadas, para utilização a bordo dos navios, que não se encontrem nas condições mencionadas nos artigos anteriores faz-se mediante relações, em duplicado, emitidas pelo estaleiro, donde constem, além do nome e da contramarca do navio, todos os elementos indispensáveis a uma perfeita e rápida identificação e sejam indicadas as quantidades por cada tipo de ferramenta.
+Art. 9.º - 1. O embarque e desembarque de ferramentas nacionais ou nacionalizadas, para utilização a bordo dos navios, que não se encontrem nas condições mencionadas nos artigos anteriores faz-se mediante relações, em duplicado, emitidas pelo estaleiro, donde constem, além do nome e da contramarca do navio, todos os elementos indispensáveis a uma perfeita e rápida identificação e sejam indicadas as quantidades por cada tipo de ferramenta.
 
 2. A relação acompanhará as ferramentas, ficando o original em poder da praça da Guarda Fiscal em serviço a bordo, a qual, depois de feitas e anotadas as conferências de entrada e saída, o remeterá, por intermédio do respectivo posto fiscal, à Delegação Aduaneira de Setúbal, onde será arquivado no processo da embarcação.
 
 3. O duplicado da relação, uma vez anotadas as conferências de embarque e desembarque, será entregue aos serviços do estaleiro.
 
-###### Art. 10.º - 1. A entrada a bordo de materiais nacionais ou nacionalizados faz-se por meio de relações, em duplicado, emitidas pelo estaleiro, donde constem a quantidade e qualidade dos materiais.
+Art. 10.º - 1. A entrada a bordo de materiais nacionais ou nacionalizados faz-se por meio de relações, em duplicado, emitidas pelo estaleiro, donde constem a quantidade e qualidade dos materiais.
 
 2. O original da relação, com a indicação do nome da embarcação e da respectiva contramarca, fica na posse do agente de fiscalização em serviço no navio, o qual, depois de anotar a conferência de embarque dos materiais e o desembarque da parte sobrante, quando a houver, procederá, no que respeita ao destino, de conformidade com o preceituado no n.º 2 do artigo 9.º
 
 3. O duplicado da relação, depois de anotado o embarque dos materiais e o desembarque da parte sobrante, quando a houver, deverá ser restituído aos serviços do estaleiro.
 
-###### Art. 11.º - 1. O desembarque de peças, aparelhos e maquinismos em uso num navio, para efeito de reparação ou beneficiação nas oficinas do estaleiro, faz-se por meio de relações em duplicado, donde constem os elementos de identificação do navio, nomeadamente a contramarca, nome e nacionalidade, assim como os dos aludidos objectos, com a indicação da natureza, marcas e números de fabrico e das respectivas quantidades.
+Art. 11.º - 1. O desembarque de peças, aparelhos e maquinismos em uso num navio, para efeito de reparação ou beneficiação nas oficinas do estaleiro, faz-se por meio de relações em duplicado, donde constem os elementos de identificação do navio, nomeadamente a contramarca, nome e nacionalidade, assim como os dos aludidos objectos, com a indicação da natureza, marcas e números de fabrico e das respectivas quantidades.
 
 2. A relação, devidamente datada e assinada pela Setenave, será entregue, para conferência de saída das peças, aparelhos ou maquinismos, à praça da Guarda Fiscal em serviço a bordo, conservando esta em seu poder o original, para nele dar baixa dos objectos à medida que forem reembarcando.
 
@@ -169,17 +183,17 @@ III
 
 Regulamentação do processamento dos despachos de reexportação
 
-###### Art. 12.º Os despachos de reexportação de mercadorias destinadas à construção e reparação de navios no estaleiro da Setenave - Estaleiros Navais de Setúbal, S. A. R. L., processar-se-ão com as formalidades constantes dos artigos seguintes.
+Art. 12.º Os despachos de reexportação de mercadorias destinadas à construção e reparação de navios no estaleiro da Setenave - Estaleiros Navais de Setúbal, S. A. R. L., processar-se-ão com as formalidades constantes dos artigos seguintes.
 
-###### Art. 13.º - 1. Os despachos de reexportação de aprestos e sobresselentes de navios e de material para construção e reparação navais, quando saídos dos depósitos afiançados sitos no estaleiro, podem compreender mercadorias pertencentes a mais de uma contramarca.
+Art. 13.º - 1. Os despachos de reexportação de aprestos e sobresselentes de navios e de material para construção e reparação navais, quando saídos dos depósitos afiançados sitos no estaleiro, podem compreender mercadorias pertencentes a mais de uma contramarca.
 
 2. As mercadorias submetidas a despacho de reexportação provenientes dos depósitos afiançados, aludidas no n.º 1 do artigo, serão dispensadas de reverificação e a verificação limitar-se-á à identificação dos volumes.
 
-###### Art. 14.º - 1. Os despachos de reexportação de mercadorias a chegar do estrangeiro destinadas à construção e à reparação navais podem ser previamente processados, apresentando-se posteriormente os conhecimentos legalizados no prazo de oito dias.
+Art. 14.º - 1. Os despachos de reexportação de mercadorias a chegar do estrangeiro destinadas à construção e à reparação navais podem ser previamente processados, apresentando-se posteriormente os conhecimentos legalizados no prazo de oito dias.
 
 2. Para os efeitos de levantamento da mercadoria da Alfândega, devem ser cumpridas todas as outras formalidades respeitantes ao pagamento das imposições do bilhete, identificação e entrega dos materiais ou peças despachadas.
 
-###### Art. 15.º - 1. A saída das mercadorias armazenadas em depósitos afiançados sitos no estaleiro e a sua entrada a bordo do navio a que se destinam ou a sua entrega no local de construção faz-se através de relações, em triplicado, emitidas pela interessada, donde constem todos os elementos necessários ao posterior preenchimento do despacho de reexportação.
+Art. 15.º - 1. A saída das mercadorias armazenadas em depósitos afiançados sitos no estaleiro e a sua entrada a bordo do navio a que se destinam ou a sua entrega no local de construção faz-se através de relações, em triplicado, emitidas pela interessada, donde constem todos os elementos necessários ao posterior preenchimento do despacho de reexportação.
 
 2. As mercadorias, depois de identificadas à saída dos depósitos afiançados pela Guarda Fiscal, devem seguir acompanhadas das relações e de fiscalização para bordo dos navios, onde será conferido o embarque e colhido o recibo do capitão ou seu substituto legal ou da entidade responsável pela construção, conforme os casos.
 
@@ -195,18 +209,18 @@ Regulamentação do processamento dos despachos de reexportação
 
 8. Os triplicados das relações, depois de visados pela fiscalização, serão restituídos aos serviços da Setenave.
 
-###### Art. 16.º - 1. Têm também despacho de reexportação os materiais, cativos de direitos, destinados a navios estrangeiros que passem ao largo da costa portuguesa, cujo processamento fica sujeito às formalidades referidas nos artigos 14.º e 15.º, consoante a origem das mercadorias.
+Art. 16.º - 1. Têm também despacho de reexportação os materiais, cativos de direitos, destinados a navios estrangeiros que passem ao largo da costa portuguesa, cujo processamento fica sujeito às formalidades referidas nos artigos 14.º e 15.º, consoante a origem das mercadorias.
 
 2. As mercadorias seguem para bordo com fiscalização e acompanhadas da guia de reexportação ou de relação, conforme procedam de uma estância aduaneira ou de depósitos afiançados sitos no estaleiro, devendo o capitão ou seu substituto legal passar recibo nesse documento.
 
-###### Art. 17.º Nos despachos de entrada em armazéns externos e nos despachos de reexportação, pode a interessada preencher a declaração mencionando unicamente o número da posição pautal e o dizer correspondente, atribuindo-lhe a taxa mais elevada, dentro do regime pautal que lhe seja aplicável, constante dos artigos pautais compreendidos na respectiva posição, desde que declare no acto do despacho que a ela se sujeita, no caso de ser devida.
+Art. 17.º Nos despachos de entrada em armazéns externos e nos despachos de reexportação, pode a interessada preencher a declaração mencionando unicamente o número da posição pautal e o dizer correspondente, atribuindo-lhe a taxa mais elevada, dentro do regime pautal que lhe seja aplicável, constante dos artigos pautais compreendidos na respectiva posição, desde que declare no acto do despacho que a ela se sujeita, no caso de ser devida.
 
-###### Art. 18.º As mercadorias que saírem dos depósitos afiançados da Setenave para importação no País ficam sujeitas a verificação e reverificação efectivas e ao pagamento dos respectivos direitos, salvo quando se faça a prova de que estão deles isentos.
+Art. 18.º As mercadorias que saírem dos depósitos afiançados da Setenave para importação no País ficam sujeitas a verificação e reverificação efectivas e ao pagamento dos respectivos direitos, salvo quando se faça a prova de que estão deles isentos.
 
 Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 23 de Outubro de 1974.**
+Promulgado em 23 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/541-1973-412269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a533cd3421e99992806d768428e7f50b4c74ad37a751183b6ca146fc3dffd68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75c4029dad564bb072832cec32afdd5759ae0c75641f412a47c7c6521686447f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:412018:por
+  label: "Rectificado o artigo 1.º, artigos 260.º do capítulo 9.º e 1266.º do capítulo 12.º, e o artigo 3.º pela RECT.DD230.19.11.1973.PC,\
+    \ DG.IS [270] de 19.11.1973\0\0"
+  source: null
+  date: '1973-11-19'
 article_structure:
-  article_count: 20
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:23Z'
   warnings: []
   errors: []
 ---
@@ -88,57 +98,57 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 112254251$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 112254251$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
 Secretaria de Estado do Orçamento
 
-### Capítulo 16.º «Direcção-Geral das Alfândegas»:
+Capítulo 16.º «Direcção-Geral das Alfândegas»:
 
-###### Artigo 247.º «Bens não duradouros», n.º 6 «Outros bens não duradouros» ... (126) 500000$00
+Artigo 247.º «Bens não duradouros», n.º 6 «Outros bens não duradouros» ... (126) 500000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 6.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 6.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 91.º «Bens não duradouros», n.º 3 «Outros bens não duradouros», alínea 9 «Serviço Meteorológico Nacional» ... 18460000$00
+Artigo 91.º «Bens não duradouros», n.º 3 «Outros bens não duradouros», alínea 9 «Serviço Meteorológico Nacional» ... 18460000$00
 
-### Capítulo 7.º «Direcção-Geral dos Serviços Hidráulicos»:
+Capítulo 7.º «Direcção-Geral dos Serviços Hidráulicos»:
 
-###### Artigo 127.º «Bens duradouros», n.º 5 «Equipamento de secretaria» ... (67) 163500$00
+Artigo 127.º «Bens duradouros», n.º 5 «Equipamento de secretaria» ... (67) 163500$00
 
-###### Artigo 128.º «Bens não duradouros», n.º 3 «Consumos de secretaria» ... (68) 25000$00
+Artigo 128.º «Bens não duradouros», n.º 3 «Consumos de secretaria» ... (68) 25000$00
 
-###### Artigo 129.º «Conservação e aproveitamento de bens» ... (69) 47000$00
+Artigo 129.º «Conservação e aproveitamento de bens» ... (69) 47000$00
 
-###### Artigo 130.º «Despesas gerais de funcionamento», n.º 4 «Comunicações» ... (71) 26500$00
+Artigo 130.º «Despesas gerais de funcionamento», n.º 4 «Comunicações» ... (71) 26500$00
 
-###### Artigo 133.º «Investimentos», n.º 3 «Maquinaria e equipamento» ... (72) 869500$00
+Artigo 133.º «Investimentos», n.º 3 «Maquinaria e equipamento» ... (72) 869500$00
 
-### Capítulo 28.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 28.º «Direcção-Geral dos Serviços de Urbanização»:
 
 Levantamentos topográficos e planos de urbanização
 
-###### Artigo 544.º «Transferências - Sector público», n.º 1 «Autarquias locais» ... 5526208$00
+Artigo 544.º «Transferências - Sector público», n.º 1 «Autarquias locais» ... 5526208$00
 
 ... 25117708$00
 
 Ministério da Educação Nacional
 
-### Capítulo 8.º «Direcção-Geral do Ensino Básico»:
+Capítulo 8.º «Direcção-Geral do Ensino Básico»:
 
 Serviços do Ensino Primário
 
 Direcção dos distritos escolares, escolas primárias e postos escolares
 
-###### Artigo 1189.º «Despesas gerais de funcionamento», n.º 2 «Locação de bens» ... (31) 149600$00
+Artigo 1189.º «Despesas gerais de funcionamento», n.º 2 «Locação de bens» ... (31) 149600$00
 
-### Capítulo 12.º «Direcção-Geral da Educação Física e Desportos»:
+Capítulo 12.º «Direcção-Geral da Educação Física e Desportos»:
 
-###### Artigo 1266.º «Conservação e aproveitamento de bens» ... 130000$00
+Artigo 1266.º «Conservação e aproveitamento de bens» ... 130000$00
 
-###### Artigo 1267.º «Despesas gerais de funcionamento», n.º 4 «Encargos não especificados» ... 20000$00
+Artigo 1267.º «Despesas gerais de funcionamento», n.º 4 «Encargos não especificados» ... 20000$00
 
 ... 299600$00
 
@@ -146,25 +156,25 @@ Ministério da Economia
 
 Secretaria de Estado da Indústria
 
-### Capítulo 17.º «Inspecção-Geral dos Produtos Agrícolas e Industriais»:
+Capítulo 17.º «Inspecção-Geral dos Produtos Agrícolas e Industriais»:
 
-###### Artigo 364.º «Deslocações», n.º 1 «Despesas em conta de receitas próprias» ... 25000$00
+Artigo 364.º «Deslocações», n.º 1 «Despesas em conta de receitas próprias» ... 25000$00
 
-###### Artigo 370.º «Bens não duradouros», n.º 5 «Outros bens não duradouros», alínea 1 «Trabalhos executados por conta de particulares ou de outros serviços públicos» ... 330000$00
+Artigo 370.º «Bens não duradouros», n.º 5 «Outros bens não duradouros», alínea 1 «Trabalhos executados por conta de particulares ou de outros serviços públicos» ... 330000$00
 
-### Capítulo 24.º «Contas de ordem»:
+Capítulo 24.º «Contas de ordem»:
 
-###### Artigo 450.º «Direcção-Geral dos Serviços Agrícolas», n.º 6 «Estação de Cultura Mecânica» ... 1000000$00
+Artigo 450.º «Direcção-Geral dos Serviços Agrícolas», n.º 6 «Estação de Cultura Mecânica» ... 1000000$00
 
-###### Artigo 453.º «Fundo de Fomento de Exportação», n.º 1 «Serviços gerais» ... 19751173$40
+Artigo 453.º «Fundo de Fomento de Exportação», n.º 1 «Serviços gerais» ... 19751173$40
 
 ... 21106173$40
 
 Ministério das Comunicações
 
-### Capítulo 9.º «Contas de ordem»:
+Capítulo 9.º «Contas de ordem»:
 
-###### Artigo 260.º «Juntas Autónomas dos Portos do Algarve»:
+Artigo 260.º «Juntas Autónomas dos Portos do Algarve»:
 
 Portimão ... 100000$00
 
@@ -174,9 +184,9 @@ Lagos ... 90000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 5.º «Direcção-Geral dos Hospitais»:
+Capítulo 5.º «Direcção-Geral dos Hospitais»:
 
-###### Artigo 118.º «Transferências - Sector público»:
+Artigo 118.º «Transferências - Sector público»:
 
 N.º 1) «Estabelecimentos hospitalares», alínea 1 «Comparticipação nos encargos de sustentação dos Hospitais Civis de Lisboa, ...» ... 3599366$50
 
@@ -184,55 +194,55 @@ N.º 3) «Instituto Nacional de Sangue», alínea 1 «Comparticipação nos enca
 
 N.º 5) «Subsídios para manutenção de escolas de enfermagem ...» ... 1095160$10
 
-###### Artigo 119.º «Transferências - Instituições particulares», n.º 1 «Estabelecimentos hospitalares», alínea 2 «Subsídios de cooperação às Misericórdias para sustentação dos seus hospitais ...» ... 331973$10
+Artigo 119.º «Transferências - Instituições particulares», n.º 1 «Estabelecimentos hospitalares», alínea 2 «Subsídios de cooperação às Misericórdias para sustentação dos seus hospitais ...» ... 331973$10
 
-### Capítulo 8.º «Contas de ordem»:
+Capítulo 8.º «Contas de ordem»:
 
-###### Artigo 143.º «Direcção-Geral da Assistência Social», n.º 1 «Acção familiar e social», alínea 1 «Comparticipação nos encargos de sustentação do Instituto da Família e Acção Social...» ... 59244269$90
+Artigo 143.º «Direcção-Geral da Assistência Social», n.º 1 «Acção familiar e social», alínea 1 «Comparticipação nos encargos de sustentação do Instituto da Família e Acção Social...» ... 59244269$90
 
 ... 65040769$60
 
 ... 112254251$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 2.º, grupo 3, artigo 44.º «Serviços gerais e licenciamentos concedidos a empresas» ... 25000$00
+Capítulo 2.º, grupo 3, artigo 44.º «Serviços gerais e licenciamentos concedidos a empresas» ... 25000$00
 
-### Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 1131500$00
+Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 1131500$00
 
-### Capítulo 5.º, grupo 1, artigo 88.º «Serviços autónomos e empresas públicas» ... 5796499$70
+Capítulo 5.º, grupo 1, artigo 88.º «Serviços autónomos e empresas públicas» ... 5796499$70
 
-### Capítulo 5.º, grupo 1, artigo 90.º «Autarquias locais» ... 149600$00
+Capítulo 5.º, grupo 1, artigo 90.º «Autarquias locais» ... 149600$00
 
-### Capítulo 7.º, grupo 8, artigo 112.º «Serviços dos edifícios e monumentos nacionais» ... 18460000$00
+Capítulo 7.º, grupo 8, artigo 112.º «Serviços dos edifícios e monumentos nacionais» ... 18460000$00
 
-### Capítulo 7.º, grupo 10, artigo 123.º «Publicações e impressos: Serviços de administração financeira» ... 500000$00
+Capítulo 7.º, grupo 10, artigo 123.º «Publicações e impressos: Serviços de administração financeira» ... 500000$00
 
-### Capítulo 7.º, grupo 10, artigo 124.º «Trabalhos de conta de terceiros: Serviços de inspecção agrícola e industrial» ... 330000$00
+Capítulo 7.º, grupo 10, artigo 124.º «Trabalhos de conta de terceiros: Serviços de inspecção agrícola e industrial» ... 330000$00
 
-### Capítulo 7.º, grupo 10, artigo 129.º «Diversos serviços e bens não duradouros:
+Capítulo 7.º, grupo 10, artigo 129.º «Diversos serviços e bens não duradouros:
 
 Serviços recreativos - Estádio Nacional» ... 150000$00
 
-### Capítulo 15.º, artigo 183.º «Direcção-Geral dos Serviços Agrícolas: Estação de Cultura Mecânica» ... 1000000$00
+Capítulo 15.º, artigo 183.º «Direcção-Geral dos Serviços Agrícolas: Estação de Cultura Mecânica» ... 1000000$00
 
-### Capítulo 15.º, artigo 186.º «Fundo de Fomento de Exportação: Serviços gerais» ... 19751173$40
+Capítulo 15.º, artigo 186.º «Fundo de Fomento de Exportação: Serviços gerais» ... 19751173$40
 
-### Capítulo 15.º, artigo 192.º «Juntas autónomas dos portos» ... 190000$00
+Capítulo 15.º, artigo 192.º «Juntas autónomas dos portos» ... 190000$00
 
-### Capítulo 15.º, artigo 195.º «Direcção-Geral da Assistência Social: Instituto da Família e Acção Social» ... 59244269$90
+Capítulo 15.º, artigo 195.º «Direcção-Geral da Assistência Social: Instituto da Família e Acção Social» ... 59244269$90
 
 Receita extraordinária:
 
-### Capítulo 5.º, grupo 1, artigo 197.º «Fundos autónomos» ... 5526208$00
+Capítulo 5.º, grupo 1, artigo 197.º «Fundos autónomos» ... 5526208$00
 
 ... 112254251$00
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 3.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério das Finanças:
 
@@ -276,8 +286,8 @@ A observação (31) aposta à dotação do capítulo 8.º, artigo 1189.º, n.º 
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 9 de Outubro de 1973.**
+Promulgado em 9 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/53-1979-383241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6194cd45d760da2d6ccc6fa941623c088b295e143cec98a5fe5db2767910ed8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34f4e481cf9bb0d245bdf476c20fd8ecc45183fc227db7699a685d8f91afcd3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Brasil
+- Convenção
+- Marinha Mercante
+- Navegação Marítima
+- Portugal
+- Transporte Marítimo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:23Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 12 de Junho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo sobre Transporte e Navegação Marítima entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil, assinado em Brasília em 23 de Maio de 1978, cujo texto, em duplicado, acompanha o presente decreto.
+Artigo único. É aprovado o Acordo sobre Transporte e Navegação Marítima entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil, assinado em Brasília em 23 de Maio de 1978, cujo texto, em duplicado, acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 25 de Maio de 1979.**
+Assinado em 25 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo entro e Governo da República Portuguesa e o Governo da República Federativa do Brasil sobre Transporte e Navegação Marítima.
 
@@ -109,7 +115,7 @@ Reconhecendo a necessidade de assegurar a eficiência e regularidade dos transpo
 
 acordam no que se segue:
 
-ARTIGO I
+###### ARTIGO I
 
 1 - No transporte marítimo de mercadorias entre os portos dos dois países, especialmente o decorrente do seu intercâmbio comercial, as Partes Contratantes terão direito a igual participação.
 
@@ -117,17 +123,17 @@ ARTIGO I
 
 3 - No âmbito do presente Acordo, a legislação em vigor em qualquer dos dois países que reserve, ou de alguma forma incentive, o transporte em navios de uma das Partes Contratantes será aplicada nos mesmos termos quando o transporte foi efectuado por navios da outra Parte Contratante.
 
-ARTIGO II
+###### ARTIGO II
 
 1 - As Partes Contratantes comprometem-se a estabelecer tarifas de frete justas e procedimentos que garantam fretes internacionalmente competitivos.
 
 2 - As Partes Contratantes comprometem-se ainda a não recorrer a práticas discriminatórias no que se refere à carga a transportar e a evitar demoras no embarque das mercadorias além do prazo que for estabelecido de comum acordo pelas autoridades marítimas competentes de ambos os países.
 
-ARTIGO III
+###### ARTIGO III
 
 As autoridades marítimas competentes das Partes Contratantes designarão os armadores que participarão no transporte marítimo entre os dois países, trocando entre si as listas desses armadores.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - Para efeitos do presente Acordo, consideram-se navios mercantes de bandeira portuguesa e brasileira os navios registados no território de cada uma das Partes Contratantes, em conformidade com a sua respectiva legislação, com exclusão de:
 
@@ -141,7 +147,7 @@ c) Navios de pesca.
 
 3 - As autoridades marítimas competentes darão conhecimento recíproco sempre que forem afretados navios para utilização no tráfego marítimo entre os dois países.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - No que respeita ao livre acesso aos portos, à sua utilização para embarque e desembarque de passageiros e mercadorias e ainda à utilização dos serviços destinados à navegação e ao exercício de operações comerciais, cada uma das Partes Contratantes assegurará nos seus portos aos navios da outra Parte Contratante e aos membros da sua tripulação o mesmo tratamento que conceder aos seus próprios navios e tripulantes.
 
@@ -153,17 +159,17 @@ b) Ao exercício de actividades reservadas por cada Parte Contratante aos seus o
 
 c) A situações abrangidas por disposições legais relativas à entrada e permanência de cidadãos estrangeiros.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Partes Contratantes tomarão as medidas necessárias para diminuir o tempo de permanência dos navios nos portos e para simplificar, quanto possível, as formalidades administrativas, aduaneiras e sanitárias em vigor.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - Os certificados de nacionalidade, de arqueação e outros documentos de bordo emitidos e reconhecidos por uma das Partes Contratantes serão também reconhecidos pelas autoridades marítimas competentes da outra Parte Contratante.
 
 2 - O cálculo dos impostos e das taxas de navegação será efectuado com base nos certificados de arqueação, sem que seja necessário proceder a nova arqueação.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - Cada uma das Partes Contratantes reconhece os documentos de identidade dos membros da tripulação, desde que emitidos pelas autoridades competentes da outra Parte Contratante.
 
@@ -175,7 +181,7 @@ Para a República Portuguesa, a «Cédula Marítima».
 
 3 - A expressão «membros da tripulação» significa qualquer pessoa admitida a bordo de um navio para o exercício de funções ligadas à sua exploração ou à sua manutenção e incluída no rol de matrícula ou da tripulação do navio.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - Se um navio pertencente a uma das Partes Contratantes naufragar, encalhar ou sofrer qualquer dano ou avaria ao largo da costa da outra Parte, o navio e a sua carga gozarão dos mesmos direitos e suportarão os mesmos encargos que, em iguais circunstâncias, forem atribuídos a um navio desta Parte e à sua carga.
 
@@ -187,27 +193,27 @@ ARTIGO IX
 
 5 - As disposições do presente artigo não prejudicam a aplicação das normas em vigor em cada uma das Partes Contratantes no que respeita à armazenagem temporária de mercadorias.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - Aos armadores que vierem a ser designados nos termos do artigo III do presente Acordo cabe a organização do tráfego entre os dois países, para o que elaborarão acordos de tarifas e serviços, de divisão de carga e rateio de fretes.
 
 2 - Os acordos referidos no número anterior, as condições gerais de transporte e as tarifas de frete que vierem a ser acordadas pelos armadores dos dois países serão submetidos à aprovação das autoridades marítimas competentes, o mesmo se verificando relativamente a quaisquer modificações ou revisões que venham a ter lugar nesta matéria, devendo aquelas autoridades pronunciar-se num prazo máximo de sessenta dias contados a partir da data em que foi solicitada a respectiva aprovação.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Eventuais divergências entre os armadores das Partes Contratantes serão submetidas à apreciação das autoridades marítimas competentes com vista à respectiva resolução.
 
-ARTIGO XII
+###### ARTIGO XII
 
 As Partes Contratantes promoverão as diligências necessárias com vista à rápida liquidação e transferência das importâncias resultantes do pagamento dos fretes aos armadores dos dois países, designados para participarem no tráfego.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1 - Para efeitos de execução do presente Acordo, é criada uma comissão mista, que se reunirá uma vez por ano, alternadamente em Portugal e no Brasil, em data acordada ou extraordinariamente, a pedido de uma das Partes Contratantes.
 
 2 - A composição da comissão prevista no n.º 1 será definida pelas autoridades marítimas competentes das duas Partes Contratantes.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 No presente Acordo as Partes Contratantes aceitam como autoridades marítimas competentes:
 
@@ -215,7 +221,7 @@ Para a República Portuguesa, a Direcção-Geral da Marinha de Comércio (DGMC),
 
 Para a República Federativa do Brasil, a Superintendência Nacional da Marinha Mercante (SUNAMAM), do Ministério dos Transportes.
 
-ARTIGO XV
+###### ARTIGO XV
 
 1 - O presente Acordo entrará em vigor noventa dias após a troca de notas diplomáticas, nas quais as Partes Contratantes comunicarão o cumprimento das disposições constitucionais relativas à sua aprovação.
 

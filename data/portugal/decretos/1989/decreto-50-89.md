@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/50-1989-549395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30617a967c12530671913a67d43036ac5bd78533945acbbcee89649d2866a09c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c1615a4068a108d7327b129391519c83d85e0762bc184d93dea33fe7e41d5c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Investigação Agronómica
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:32Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +91,19 @@ de 18 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República de Cabo Verde no Âmbito da Investigação Agrária, feito no Mindelo, a 13 de Junho de 1988, cujo texto original, em português, vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República de Cabo Verde no Âmbito da Investigação Agrária, feito no Mindelo, a 13 de Junho de 1988, cujo texto original, em português, vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 7 de Setembro de 1989. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Álvaro Roque de Pinho Bissaia Barreto - Roberto Artur da Luz Carneiro.
 
-**Assinado em 5 de Outubro de 1989.**
+Assinado em 5 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1989.**
+Referendado em 6 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DE CABO VERDE NO ÂMBITO DA INVESTIGAÇÃO AGRÁRIA
 
@@ -107,11 +111,11 @@ O Governo da República Portuguesa e o Governo da República de Cabo Verde, dese
 
 I - Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 A cooperação científica e técnica no âmbito da investigação agrária entre os dois países far-se-á através da mobilização das estruturas do Instituto da Cooperação Económica (ICE), do Instituto de Investigação Científica Tropical (IICT) e do Instituto Nacional de Investigação Agrária (INIA), pelo lado português, e da Direcção-Geral da Cooperação Internacional (DGCI) e do Instituto Nacional de Investigação Agrária (INIA/CV), pelo lado cabo-verdiano, adiante designadas por Partes.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1 - As Partes desde já estabelecem como domínios de cooperação as ciências agrárias, as ciências da terra, as ciências da engenharia geográfica e as ciências biológicas.
 
@@ -129,7 +133,7 @@ e) Cursos, estágios e outras acções de formação profissional;
 
 f) Exposições, seminários, reuniões e conferências.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 As Partes promoverão, por intermédio das suas estruturas e organismos interessados em acções concretas de cooperação, ou ainda com o apoio de outras instituições nacionais, estrangeiras ou internacionais, o estabelecimento de programas próprios ou conjuntos nos quais se explicitarão:
 
@@ -143,17 +147,17 @@ d) A atribuição das tarefas;
 
 e) O financiamento necessário e a sua distribuição.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 No âmbito do presente Acordo, as Partes apoiarão quanto possível os programas de trabalho de investigadores e técnicos do outro país, pertencentes aos quadros do IICT, do INIA, do ICE e do INIA/CV ou por qualquer forma cooperantes com estas entidades.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 As Partes concordam com a participação dos respectivos investigadores e técnicos em missões de estudo, cursos, estágios e acções de formação, efectuados a cargo de uma delas e eventualmente não abrangidos pelo disposto no artigo 3.º
 
 II - Disposições financeiras
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1 - O financiamento dos programas a que se refere o artigo 3.º far-se-á através das disponibilidades das Partes a definir anualmente.
 
@@ -163,7 +167,7 @@ II - Disposições financeiras
 
 4 - No caso de estágios e bolsas a realizar em Portugal, o ICE suportará os encargos locais nos termos da sua regulamentação própria.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1 - As Partes assegurarão aos investigadores e técnicos do outro país, da forma que considerarem mais adequada, a assistência sanitária em casos de emergência.
 
@@ -171,15 +175,15 @@ II - Disposições financeiras
 
 III - Disposições finais
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Representantes do IICT, do INIA, do ICE e do INIA/CV realizarão encontros anuais, alternadamente em Lisboa e na Praia, a fim de proceder à formulação dos programas e à análise dos resultados da cooperação em curso e, extraordinariamente, sempre que necessário e de comum acordo.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 O texto do presente Acordo poderá ser modificado através de negociações directas ou através da troca de correspondência entre as Partes.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1 - O presente Acordo entrará em vigor na data em que vier a ser comunicado que se encontram cumpridas as formalidades exigidas pela ordem jurídica interna de cada uma das Partes.
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 303/1974, 5º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 1670-(92) a 1670-(93)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30305/00920093.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/788-1974-236128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be6dc6ea6cf1c901e54ae3ef4a607e24e71e86a48da7bcade82c8cf857754846
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d12d0623652e4772bae806020fc0a041069b08556926592a7f717971d5b88941
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:33Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Ministério das Finanças
 
@@ -114,7 +118,7 @@ Ministério do Trabalho
 
 Despesas do ano de 1973, referentes a material de educação, cultura e recreio, outros bens não duradouros, representação, comunicações, gratificações, deslocações e vencimentos, contraídas pelo Gabinete do Ministro, Secretaria-Geral, Inspecção do Trabalho, Direcção-Geral da Previdência e Inspecção da Previdência Social ... 3943050$50
 
-###### Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão mencionadas, as seguintes quantias:
+Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão mencionadas, as seguintes quantias:
 
 Ministério do Equipamento Social e do Ambiente
 
@@ -126,8 +130,8 @@ Encargos do ano de 1973, referentes a trabalhos especiais diversos, contraídos 
 
 Vasco dos Santos Gonçalves - Victor Manuel Rodrigues Alves - Ernesto Augusto Melo Antunes - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - António de Almeida Santos - Manuel da Costa Brás - Francisco Salgado Zenha - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar - José Augusto Fernandes - Manuel Rodrigues de Carvalho - José Inácio da Costa Martins - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

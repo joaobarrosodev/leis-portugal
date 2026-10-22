@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/41-1973-684861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62db4f836fb85c2ff6a476e389bc5fa9a06796489abedc626cfdaa8520bf1436
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9c941a7a373f44c0ce40838ce378bc6f1457c0542eb54b52086ac9a1321a433
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:08Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ Reconhecendo-se a conveniência em simplificar a execução dos serviços do Tes
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. As entregas no Banco de Portugal, como caixa geral do Tesouro no continente e ilhas adjacentes, continuarão a efectuar-se nos termos da legislação em vigor, mas as guias que as devem acompanhar, inclusive as de passagens de fundos das tesourarias da Fazenda Pública, serão processadas, pelo menos, em quadruplicado.
+Artigo 1.º - 1. As entregas no Banco de Portugal, como caixa geral do Tesouro no continente e ilhas adjacentes, continuarão a efectuar-se nos termos da legislação em vigor, mas as guias que as devem acompanhar, inclusive as de passagens de fundos das tesourarias da Fazenda Pública, serão processadas, pelo menos, em quadruplicado.
 
 2. Em substituição do recibo que vem sendo passado, o Banco poderá, por processo mecânico, apor, em cada exemplar das guias, a declaração de «Recebido», com a respectiva data e a assinatura do empregado responsável.
 
-###### Art. 2.º A relação dos recibos que vem sendo organizada é substituída pela relação das guias de que trata o artigo anterior, e obedecerá ao modelo a estabelecer por acordo entre a Direcção-Geral da Fazenda Pública e o Banco de Portugal.
+Art. 2.º A relação dos recibos que vem sendo organizada é substituída pela relação das guias de que trata o artigo anterior, e obedecerá ao modelo a estabelecer por acordo entre a Direcção-Geral da Fazenda Pública e o Banco de Portugal.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 1 de Fevereiro de 1973.**
+Promulgado em 1 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

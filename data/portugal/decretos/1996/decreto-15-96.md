@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/15/1996/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-1996-437775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70698562890cd24dd0f30910db87b56b433b55f8c079d91c79e90480a1f9127c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8096d002d04e0cde13579565b4dbfe8481e6938337c07753db2d353a9a33c28a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/31/1993/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/31/1993/10/04/p/dre
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645701:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:10Z'
   warnings: []
   errors: []
 ---
@@ -107,18 +123,18 @@ Considerando o disposto no artigo 5.º do [Decreto-Lei n.º 176-A/88](https://di
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O prazo a que se refere o n.º 3 do artigo 1.º do [Decreto n.º 31/93](https://diariodarepublica.pt/dr/detalhe/decreto/31-1993-645701), de 4 de Outubro, é prorrogado pelo período de um ano contado a partir de 5 de Outubro de 1995.
+Artigo único. O prazo a que se refere o n.º 3 do artigo 1.º do [Decreto n.º 31/93](https://diariodarepublica.pt/dr/detalhe/decreto/31-1993-645701), de 4 de Outubro, é prorrogado pelo período de um ano contado a partir de 5 de Outubro de 1995.
 
 Presidência do Conselho de Ministros, 28 de Março de 1996.
 
 António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
 
-**Assinado em 16 de Maio de 1996.**
+Assinado em 16 de Maio de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Maio de 1996.**
+Referendado em 20 de Maio de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

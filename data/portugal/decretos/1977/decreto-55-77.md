@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/55-1977-139963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 637d5c41b067a56b1cf15d42c594a56843b76f6effa6c95fa0f22c79249e2b22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89cf9a2bdee5f2434ab87ea55b59e66d85e1c0aeb68f0fe535448804f29bb0a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Comercial
+- Equador
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:42Z'
   warnings: []
   errors: []
 ---
@@ -87,29 +92,29 @@ de 14 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição o seguinte:
 
-###### Artigo único. É aprovado o Acordo Comercial entre o Governo da República Portuguesa e o Governo da República do Equador, assinado em Lisboa em 16 de Dezembro de 1976, cujos textos em português e espanhol acompanham o presente decreto.
+Artigo único. É aprovado o Acordo Comercial entre o Governo da República Portuguesa e o Governo da República do Equador, assinado em Lisboa em 16 de Dezembro de 1976, cujos textos em português e espanhol acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 22 de Março de 1977.**
+Assinado em 22 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo Comercial entre o Governo da República Portuguesa e o Governo da República de Equador
 
 O Governo da República Portuguesa e o Governo da República do Equador (designados em seguida por Partes Contratantes), animados do desejo de incrementar a amizade entre os dois países e de desenvolver as suas relações comerciais numa base de igualdade e benefício mútuo, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Ambas as Partes Contratantes desenvolverão todos os esforços, de conformidade com as leis e regulamentos em vigor nos países respectivos, para intensificar as trocas comerciais entre os dois países.
 
-ARTIGO II
+###### ARTIGO II
 
 Para realizar os objectivos do presente Acordo e com vista a facilitar o comércio entre os dois países as Partes Contratantes conceder-se-ão o tratamento de nação mais favorecida em tudo o que respeita às relações comerciais. O tratamento de nação mais favorecida aplicar-se-á, nomeadamente, aos direitos aduaneiros e às taxas e impostos a que as mercadorias poderão ser submetidas aquando da sua importação ou exportação, assim como à sua cobrança e aos regulamentos e formalidades aduaneiras.
 
-ARTIGO III
+###### ARTIGO III
 
 As disposições do artigo II não se aplicam às vantagens:
 
@@ -117,23 +122,23 @@ a) Concedidas ou que poderão ser concedidas no futuro por uma Parte Contratante
 
 b) Resultantes de uniões aduaneiras ou de zonas de trocas livres concluídas, ou que poderão ser concluídas no futuro por uma das Partes Contratantes e ou de acordos regionais e subregionais de integração económica em que qualquer das Partes participe ou venha a participar.
 
-ARTIGO IV
+###### ARTIGO IV
 
 O intercâmbio de mercadorias entre as Partes Contratantes realizar-se-á com base nas listas A e B anexas ao presente Acordo e dele fazendo parte integrante. Estas listas de produtos têm carácter meramente indicativo, não incluindo a troca de outras mercadorias nelas não mencionadas.
 
-ARTIGO V
+###### ARTIGO V
 
 Nos termos do presente Acordo, a liquidação de todas as transacções será efectuada em divisas livremente convertíveis e em conformidade com as leis e os regulamentos em vigor em cada um dos dois países.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Os preços das mercadorias objecto de intercâmbio entre os dois países serão fixados nos respectivos contratos comerciais de acordo com os preços em vigor no mercado internacional.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Com vista a encorajar o desenvolvimento do comércio entre os dois países, as Partes Contratantes concederão reciprocamente as facilidades necessárias à organização de feiras e exposições comerciais no quadro das suas leis e regulamentos respectivos.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Em conformidade com as leis e regulamentos em vigor em cada um dos dois países, serão isentos de direitos aduaneiros, aquando da sua entrada no território aduaneiro de uma das Partes Contratantes, os seguintes artigos provenientes do território da outra Parte Contratante:
 
@@ -143,11 +148,11 @@ Em conformidade com as leis e regulamentos em vigor em cada um dos dois países,
 
 3. Artigos e materiais destinados às feiras e exposições, com a condição de serem reexportados.
 
-ARTIGO IX
+###### ARTIGO IX
 
 A fim de facilitar a concretização dos objectivos enunciados no presente Acordo, as Partes Contratantes acordam em que organizações ou empresas dos dois países poderão negociar acordos a longo prazo sobre mercadorias que apresentem um interesse particular para os dois países.
 
-ARTIGO X
+###### ARTIGO X
 
 É instituída uma Comissão Mista, composta de representantes dos dois Governos, e que ficará encarregada de velar pelo bom funcionamento do presente Acordo.
 
@@ -155,11 +160,11 @@ Ela poderá submeter aos dois Governos todas as propostas que tendam a melhorar 
 
 A Comissão Mista reunirá a pedido de uma das Partes Contratantes, alternadamente em Quito e em Lisboa.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As disposições do presente Acordo manter-se-ão aplicáveis a todos os contratos e operações comerciais concluídos no período da sua validade, mas que não tenham sido inteiramente executados até data da sua expiração.
 
-ARTIGO XII
+###### ARTIGO XII
 
 O presente Acordo entrará em vigor depois da notificação recíproca da sua aprovação segundo os processos previstos pelas leis em vigor em cada um dos Estados.
 
@@ -321,4 +326,4 @@ Equipamento elevatório.
 
 Construção e reparação naval.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/08700/08320835.pdf))](https://files.diariodarepublica.pt/1s/1977/04/08700/08320835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/08700/08320835.pdf)

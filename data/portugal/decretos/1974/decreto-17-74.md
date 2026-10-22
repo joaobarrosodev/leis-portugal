@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-1974-406968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da3736549cc502b50dcaa1e40d2cf412d698b474cdf8ae875f366af1bcedf208
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b0d6e1f45b6812e3a518f718bb58bdb35afa432b85092779391224cea04a34a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688474:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:09Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +110,18 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Nas empreitadas de obras públicas que corram total ou parcialmente por conta das autarquias locais em Angola, Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor serão observadas, na parte aplicável, as disposições do [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418), de 19 de Fevereiro de 1969, tornado extensivo ao ultramar pela [Portaria n.º 555/71](https://diariodarepublica.pt/dr/detalhe/portaria/555-1971-633499), de 12 de Outubro.
+Artigo 1.º Nas empreitadas de obras públicas que corram total ou parcialmente por conta das autarquias locais em Angola, Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor serão observadas, na parte aplicável, as disposições do [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418), de 19 de Fevereiro de 1969, tornado extensivo ao ultramar pela [Portaria n.º 555/71](https://diariodarepublica.pt/dr/detalhe/portaria/555-1971-633499), de 12 de Outubro.
 
-###### Art. 2.º Serão também observadas pelas autarquias locais das mesmas províncias, na parte aplicável, as disposições do [Decreto n.º 341/72](https://diariodarepublica.pt/dr/detalhe/decreto/341-1972-688474), de 29 de Agosto, em tudo o que diga respeito à aquisição de todos os fornecimentos de materiais e equipamento de obras públicas.
+Art. 2.º Serão também observadas pelas autarquias locais das mesmas províncias, na parte aplicável, as disposições do [Decreto n.º 341/72](https://diariodarepublica.pt/dr/detalhe/decreto/341-1972-688474), de 29 de Agosto, em tudo o que diga respeito à aquisição de todos os fornecimentos de materiais e equipamento de obras públicas.
 
-###### Art. 3.º Quando julgado necessário, poderão os Governos dos Estados de Angola e Moçambique, bem como os das outras províncias, adaptar os regimes do [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418) e do [Decreto n.º 341/72](https://diariodarepublica.pt/dr/detalhe/decreto/341-1972-688474) às condições das respectivas autarquias locais, ou isentar desses regimes aquelas onde a sua aplicação não se considere conveniente.
+Art. 3.º Quando julgado necessário, poderão os Governos dos Estados de Angola e Moçambique, bem como os das outras províncias, adaptar os regimes do [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418) e do [Decreto n.º 341/72](https://diariodarepublica.pt/dr/detalhe/decreto/341-1972-688474) às condições das respectivas autarquias locais, ou isentar desses regimes aquelas onde a sua aplicação não se considere conveniente.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 18 de Janeiro de 1974.**
+Promulgado em 18 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - B. Rebelo de Sousa.

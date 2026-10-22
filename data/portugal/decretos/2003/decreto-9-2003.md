@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/2003/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-2003-216174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b8a095eb0f47a91f5ea8ccb9574b5dc8fff2b9304f738e246dc1565882dd235
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 944ab411a558c6b5a450459ec0274c94c01820c59589ec37f3c07eb6609c4f46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Cooperação Científica
 - Cooperação Cultural
 - Malta
+- Portugal
 relationships: []
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:22Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - José Luís Fazenda Arnaut Duarte - José David Gomes Justino - Pedro Lynce de Faria - Pedro Manuel da Cruz Roseta.
 
-**Assinado em 21 de Fevereiro de 2003.**
+Assinado em 21 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Fevereiro de 2003.**
+Referendado em 28 de Fevereiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO DE COOPERAÇÃO CIENTÍFICA E CULTURAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE MALTA
 
@@ -192,11 +192,11 @@ Feito em Malta em 9 de Outubro de 1994, em dois exemplares originais, nas língu
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
 
 Pela República de Malta:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
 
 O embaixador de Portugal, José César Paulouro das Neves, e o embaixador de Malta, Joseph Cassar, reunidos em Roma no dia 31 de Dezembro de 1999, rectificaram, nos termos dos artigos 48.º, n.º 3, e 79.º, n.º 1, alínea b), da Convenção de Viena sobre o Direito dos Tratados, um erro material verificado na redacção do último parágrafo da versão original em língua portuguesa do Acordo de Cooperação Científica e Cultural entre a República Portuguesa e a República de Malta, assinado em Malta em 9 de Outubro de 1994, o qual passará a ter a seguinte redacção:
 
@@ -204,11 +204,11 @@ O embaixador de Portugal, José César Paulouro das Neves, e o embaixador de Mal
 
 O Embaixador de Portugal:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
 
 O Embaixador de Malta:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
 
 AGREEMENT ON CULTURAL AND SCIENTIFIC COOPERATION BETWEEN THE GOVERNMENT OF PORTUGAL AND THE GOVERNMENT OF MALTA.
 
@@ -290,11 +290,11 @@ Done at 9th on October, in two originals, each in the Portuguese and English lan
 
 For the Government of Portugal:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
 
 For the Government of Malta:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
 
 The Ambassador of Portugal, José César Paulouro das Neves, and the Ambassador of Malta, Joseph Cassar, gathered in Rome on the 21 of December 1999, have corrected, in accordance with the articles 48, paragraph 3, and 79, paragraph 1-b), of the Vienna Convention on the Law of the Treaties, an error relating to the wording of the last paragraph of the original version in portuguese language of the Agreement on Cultural and Scientific Cooperation between the Republic of Portugal and the Republic of Malta, signed in Malta, on the 9 of October, 1994, which shall read as follows:
 
@@ -302,8 +302,8 @@ The Ambassador of Portugal, José César Paulouro das Neves, and the Ambassador 
 
 The Ambassador of Portugal:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
 
 The Ambassador of Malta:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)](https://files.diariodarepublica.pt/1s/2003/03/065a00/18351838.pdf)

@@ -47,36 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-1977-141649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:46:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b9ff268b362428745f78394446d9a6e0db7cc1225855071500b4efd76011c96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a91013c2ed4f02a8c750d8c549d8ea64e6376df58ffe8b5bec305777cb99bc08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:46:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Biblioteca Geral da Universidade de Coimbra
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:396301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675195:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:46:42Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +120,20 @@ Considerando que no quadro do pessoal do Instituto Português de Oncologia de Fr
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Ao cargo de fotógrafo de 3.ª classe do quadro do pessoal da Biblioteca Geral da Universidade de Coimbra, aprovado pelo [Decreto-Lei n.º 436/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/436-1976-427077), de 28 de Agosto, passa a competir a categoria O.
+Artigo 1.º - 1. Ao cargo de fotógrafo de 3.ª classe do quadro do pessoal da Biblioteca Geral da Universidade de Coimbra, aprovado pelo [Decreto-Lei n.º 436/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/436-1976-427077), de 28 de Agosto, passa a competir a categoria O.
 
 2. Considera-se automaticamente provido no cargo referido no número anterior o seu actual titular, independentemente de possuir ou não as habilitações fixadas na lei geral.
 
-###### Art. 2.º Os futuros provimentos neste cargo ficam condicionados à posse do 2.º ciclo do ensino liceal ou habilitação equiparada.
+Art. 2.º Os futuros provimentos neste cargo ficam condicionados à posse do 2.º ciclo do ensino liceal ou habilitação equiparada.
 
-###### Art. 3.º Os encargos resultantes da promulgação do presente diploma serão, no corrente ano económico, suportados em conta das disponibilidades das dotações orçamentais afectas à Biblioteca, as quais poderão, se necessário, ser reforçadas.
+Art. 3.º Os encargos resultantes da promulgação do presente diploma serão, no corrente ano económico, suportados em conta das disponibilidades das dotações orçamentais afectas à Biblioteca, as quais poderão, se necessário, ser reforçadas.
 
-###### Art. 4.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 4 de Fevereiro de 1977.**
+Promulgado em 4 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

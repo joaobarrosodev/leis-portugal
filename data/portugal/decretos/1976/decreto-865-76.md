@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/865-1976-407680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75ec866ccb14486b0f90aa4e77824eb9b9d0e1d2085a4c249416098c518f3fc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0d27d29991b3f75351448bb91666b150d2678c8a66821bec32fcc71abda1b2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Definição de Competências
+- Ministério dos Transportes e Comunicações
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:385392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:385392:por
+  label: "Alterado o quadro de pessoal regulamentado pelo presente diploma, pela PORT.439/84.05.07.1984.PCM, DR.IS [154] de\
+    \ 05.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/439-1984-385392
+  date: '1984-07-05'
+- type: cites
+  target: pt:dre:322962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:43Z'
   warnings: []
   errors: []
 ---
@@ -98,41 +124,41 @@ Ao abrigo do disposto no artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/76](https:
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Auditoria Jurídica do Ministério dos Transportes e Comunicações, adiante abreviadamente designada por Auditoria, constitui um órgão de consulta jurídica e de apoio legislativo dependente directamente do respectivo Ministro.
+Artigo 1.º A Auditoria Jurídica do Ministério dos Transportes e Comunicações, adiante abreviadamente designada por Auditoria, constitui um órgão de consulta jurídica e de apoio legislativo dependente directamente do respectivo Ministro.
 
-###### Art. 2.º A Auditoria ocupar-se-á dos assuntos de natureza jurídica que lhe sejam submetidos pelos membros do Governo do Ministério, competindo-lhe, designadamente:
+Art. 2.º A Auditoria ocupar-se-á dos assuntos de natureza jurídica que lhe sejam submetidos pelos membros do Governo do Ministério, competindo-lhe, designadamente:
 
 a) Elaborar pareceres, informações, projectos de diplomas legislativos e estudos jurídicos;
 
 b) Intervir em quaisquer sindicâncias, inquéritos ou averiguações sempre que para a instrução dos respectivos processos se torne indispensável o recurso a pessoal da Auditoria.
 
-###### Art. 3.º A Secretaria-Geral do Ministério dos Transportes e Comunicações prestará à Auditoria todo o apoio administrativo indispensável ao exercício das suas atribuições.
+Art. 3.º A Secretaria-Geral do Ministério dos Transportes e Comunicações prestará à Auditoria todo o apoio administrativo indispensável ao exercício das suas atribuições.
 
 ### CAPÍTULO II — Pessoal
 
-###### Art. 4.º A Auditoria disporá do pessoal constante do quadro anexo ao presente diploma, do qual faz parte integrante.
+Art. 4.º A Auditoria disporá do pessoal constante do quadro anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 5.º O pessoal da Auditoria agrupa-se de harmonia com a classificação seguinte:
+Art. 5.º O pessoal da Auditoria agrupa-se de harmonia com a classificação seguinte:
 
 a) Pessoal dirigente;
 
 b) Pessoal técnico.
 
-###### Art. 6.º A Auditoria é dirigida por um auditor jurídico designado nos termos do Estatuto Judiciário.
+Art. 6.º A Auditoria é dirigida por um auditor jurídico designado nos termos do Estatuto Judiciário.
 
-###### Art. 7.º Sem prejuízo do disposto no artigo 10.º, o preenchimento dos lugares do quadro da Auditoria far-se-á sempre pela classe mais baixa da categoria de consultor jurídico, através de concurso documental, a que poderão candidatar-se licenciados em Direito que reúnam as necessárias condições legais.
+Art. 7.º Sem prejuízo do disposto no artigo 10.º, o preenchimento dos lugares do quadro da Auditoria far-se-á sempre pela classe mais baixa da categoria de consultor jurídico, através de concurso documental, a que poderão candidatar-se licenciados em Direito que reúnam as necessárias condições legais.
 
-###### Art. 8.º - 1. O acesso às classes de consultor jurídico principal e de consultor jurídico de 1.ª classe far-se-á, através de concurso documental, de entre os consultores jurídicos do quadro da Auditoria, da classe imediatamente inferior, que contem, pelo menos, três anos de bom e efectivo serviço nessa classe.
+Art. 8.º - 1. O acesso às classes de consultor jurídico principal e de consultor jurídico de 1.ª classe far-se-á, através de concurso documental, de entre os consultores jurídicos do quadro da Auditoria, da classe imediatamente inferior, que contem, pelo menos, três anos de bom e efectivo serviço nessa classe.
 
 2. Os concursos de promoção a que se refere o número anterior incidirão, essencialmente, sobre o trabalho produzido na Auditoria, podendo o Ministro dos Transportes e Comunicações, sempre que não haja candidatos suficientes com o tempo mínimo de serviço, autorizar que sejam opositores facultativos nesses concursos os consultores jurídicos sem o tempo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
 
-###### Art. 9.º O provimento do pessoal técnico do quadro da Auditoria será efectuado por nomeação.
+Art. 9.º O provimento do pessoal técnico do quadro da Auditoria será efectuado por nomeação.
 
-###### Art. 10.º O exercício de funções de consultor jurídico na Auditoria não depende de inscrição em associações de classe.
+Art. 10.º O exercício de funções de consultor jurídico na Auditoria não depende de inscrição em associações de classe.
 
-###### Art. 11.º O exercício de funções em regime liberal para entidades públicas ou privadas alheias ao Ministério dos Transportes e Comunicações depende de autorização ministerial e far-se-á sempre sem prejuízo do serviço público.
+Art. 11.º O exercício de funções em regime liberal para entidades públicas ou privadas alheias ao Ministério dos Transportes e Comunicações depende de autorização ministerial e far-se-á sempre sem prejuízo do serviço público.
 
-###### Art. 12.º - 1. O primeiro preenchimento dos lugares do quadro da Auditoria efectuar-se-á, por escolha do Ministro dos Transportes e Comunicações, de entre licenciados em Direito já vinculados à Administração Pública por qualquer título, de preferência prestando serviço, à data da publicação deste diploma, nos departamentos seguintes:
+Art. 12.º - 1. O primeiro preenchimento dos lugares do quadro da Auditoria efectuar-se-á, por escolha do Ministro dos Transportes e Comunicações, de entre licenciados em Direito já vinculados à Administração Pública por qualquer título, de preferência prestando serviço, à data da publicação deste diploma, nos departamentos seguintes:
 
 a) Auditoria Jurídica do Ministério das Obras Públicas;
 
@@ -140,7 +166,7 @@ b) Qualquer organismo do Ministério dos Transportes e Comunicações.
 
 2. O provimento dos servidores a que se refere a alínea a) do número anterior dependerá de despacho de concordância do Ministro das Obras Públicas.
 
-###### Art. 13.º - 1. O provimento do pessoal a que se refere o artigo anterior resultará de lista nominal onde conste o lugar em que cada funcionário fica provido, aprovada pelo Ministro dos Transportes e Comunicações e publicada no Diário da República no prazo de trinta dias, a contar da data da publicação do presente diploma.
+Art. 13.º - 1. O provimento do pessoal a que se refere o artigo anterior resultará de lista nominal onde conste o lugar em que cada funcionário fica provido, aprovada pelo Ministro dos Transportes e Comunicações e publicada no Diário da República no prazo de trinta dias, a contar da data da publicação do presente diploma.
 
 2. Na elaboração da lista a que se refere o número anterior levar-se-ão em conta o mérito e a antiguidade dos interessados, que serão providos sem degradação da categoria de que sejam titulares, com dispensa de concurso.
 
@@ -148,22 +174,22 @@ b) Qualquer organismo do Ministério dos Transportes e Comunicações.
 
 4. Os lugares que não forem preenchidos nos termos do n.º 1 deste artigo sê-lo-ão nos termos dos artigos 7.º, 8.º e 9.º deste diploma.
 
-###### Art. 14.º Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Ministério dos Transportes e Comunicações, com os necessários ajustamentos e reforços indispensáveis à cobertura das despesas previstas.
+Art. 14.º Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Ministério dos Transportes e Comunicações, com os necessários ajustamentos e reforços indispensáveis à cobertura das despesas previstas.
 
-###### Art. 15.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações, ouvidos os Ministros da Administração Interna e das Finanças, quando for caso disso.
+Art. 15.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações, ouvidos os Ministros da Administração Interna e das Finanças, quando for caso disso.
 
-###### Art. 16.º Este diploma entra em vigor na data da sua publicação.
+Art. 16.º Este diploma entra em vigor na data da sua publicação.
 
 Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 7 de Dezembro de 1976.**
+Promulgado em 7 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro e vencimentos do pessoal a que se refere o artigo 4.º do Decreto n.º 865/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/29800/28252826.pdf))](https://files.diariodarepublica.pt/1s/1976/12/29800/28252826.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/29800/28252826.pdf)
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

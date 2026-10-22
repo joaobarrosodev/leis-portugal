@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 302/1977, 3º Suplemento, Série I de 1977-12-31
   number: '302'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3178-(37) a 3178-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30203/00370037.pdf
 entry_into_force_dates: []
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/185-1977-404490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 337d80e2e0311dda465508047053c9709fd4c09218121e2cb49d94cef53ffb3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 844bdf2d0d70bf34270826fa2c70368265525624bb2b805d9a10801adbaadbd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Gestão Orçamental
+- Ministério das Finanças
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:46:38Z'
   warnings: []
   errors: []
 ---
@@ -88,32 +100,32 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 17901040$30, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 17901040$30, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30203/00370037.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30203/00370037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30203/00370037.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
 Receitas correntes:
 
-### Capítulo 02, grupo 03 «Outros», artigo 28 «Fiscalização de actividades comerciais e industriais» ... 1700000$00
+Capítulo 02, grupo 03 «Outros», artigo 28 «Fiscalização de actividades comerciais e industriais» ... 1700000$00
 
-### Capítulo 05, grupo 01 «Sector público», artigo 02 «Serviços autónomos» ... 8701040$30
+Capítulo 05, grupo 01 «Sector público», artigo 02 «Serviços autónomos» ... 8701040$30
 
 Receitas de capital:
 
 Contas de ordem:
 
-### Capítulo 15, grupo 04 «Agricultura e pescas: Fomento agrário», artigo 01 «Direcção-Geral dos Serviços Agrícolas: Serviços centrais» ... 7500000$00
+Capítulo 15, grupo 04 «Agricultura e pescas: Fomento agrário», artigo 01 «Direcção-Geral dos Serviços Agrícolas: Serviços centrais» ... 7500000$00
 
 ... 17901040$30
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 21 de Dezembro de 1977.**
+Promulgado em 21 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 298/1979, 3º Suplemento, Série I de 1979-12-28
   number: '298'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3414-(24) a 3414-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29803/00240025.pdf
 entry_into_force_dates: []
@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/144-b-1979-510005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81ec9a75b9745186649965f4009f22566009bb088399cd21ddfa7392498832ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e919fdf838b4cb955e5eee80ebdeb2360ac4f871573610349ee2d7a9f3642f29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola
+- Convenção
+- Cooperação Cultural
+- Portugal
+- Rectificação de Numero de Diploma
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:22Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 28 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Cultural entre o Governo da República Portuguesa e o Governo da República Popular de Angola, assinado em Lisboa aos 20 de Julho de 1979, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Cultural entre o Governo da República Portuguesa e o Governo da República Popular de Angola, assinado em Lisboa aos 20 de Julho de 1979, cujo texto vai anexo ao presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 17 de Dezembro de 1979.**
+Assinado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo Cultural entre o Governo da República Portuguesa e o Governo da República Popular de Angola
 
@@ -112,13 +117,13 @@ Guiados pelos princípios do respeito recíproco pela propriedade intelectual e 
 
 decidiram concluir o seguinte Acordo Cultural:
 
-###### Artigo 1.º As Partes Contratantes procurarão promover:
+Artigo 1.º As Partes Contratantes procurarão promover:
 
 a) Visitas de estudo e de informação, individuais ou em grupo, e participação em congressos e outras reuniões de escritores, historiadores, artistas, professores, cientistas, técnicos e outras personalidades representativas destes domínios;
 
 b) Intercâmbio de investigadores e especialistas, individualmente ou integrados em missões.
 
-###### Art. 2.º - 1 - Cada uma das Partes Contratantes procurará contribuir para o mais amplo conhecimento dos valores culturais da outra, nomeadamente por meio de:
+Art. 2.º - 1 - Cada uma das Partes Contratantes procurará contribuir para o mais amplo conhecimento dos valores culturais da outra, nomeadamente por meio de:
 
 a) Conferências, colóquios e outras reuniões de carácter análogo;
 
@@ -132,23 +137,23 @@ e) Intercâmbio de filmes, de gravações em disco ou noutro material, de livros
 
 2 - Cada uma das Partes Contratantes, tendo em vista o desenvolvimento das suas relações culturais, reconhece a importância da comunicação social para a divulgação da vida e da cultura dos dois povos.
 
-###### Art. 3.º As Partes Contratantes incentivarão a cooperação e o intercâmbio entre as respectivas instituições ou estabelecimentos oficiais de carácter científico, cultural ou técnico que tenham directa incidência no desenvolvimento do processo cultural dos dois povos, nomeadamente através de:
+Art. 3.º As Partes Contratantes incentivarão a cooperação e o intercâmbio entre as respectivas instituições ou estabelecimentos oficiais de carácter científico, cultural ou técnico que tenham directa incidência no desenvolvimento do processo cultural dos dois povos, nomeadamente através de:
 
 a) Concessão de bolsas de estudo a nacionais da outra Parte para iniciar ou prosseguir estudos, estágios, cursos de especialização ou de aperfeiçoamento, em condições a fixar;
 
 b) Estudo das condições que permitam o reconhecimento e eventual equivalência ou equiparação de graus ou títulos académicos, diplomas ou certificados de estudo, feitos em qualquer das Partes.
 
-###### Art. 4.º Cada Parte Contratante incentivará a criação, nos estabelecimentos de ensino superior, de disciplinas e cursos destinados ao estudo dos domínios culturais da outra Parte.
+Art. 4.º Cada Parte Contratante incentivará a criação, nos estabelecimentos de ensino superior, de disciplinas e cursos destinados ao estudo dos domínios culturais da outra Parte.
 
-###### Art. 5.º Ambas as Partes consultar-se-ão mutuamente com o objectivo de estudar o intercâmbio no domínio das bibliotecas, museus e cinematecas, com vista ao estudo e divulgação das respectivas culturas.
+Art. 5.º Ambas as Partes consultar-se-ão mutuamente com o objectivo de estudar o intercâmbio no domínio das bibliotecas, museus e cinematecas, com vista ao estudo e divulgação das respectivas culturas.
 
-###### Art. 6.º As Partes Contratantes procurarão transmitir em publicações de divulgação ou de carácter científico o correcto conhecimento da história, dos valores culturais e da vida da outra Parte, com base na documentação trocada para o efeito.
+Art. 6.º As Partes Contratantes procurarão transmitir em publicações de divulgação ou de carácter científico o correcto conhecimento da história, dos valores culturais e da vida da outra Parte, com base na documentação trocada para o efeito.
 
-###### Art. 7.º Cada uma das Partes Contratantes procurará incentivar o desenvolvimento de condições favoráveis ao intercâmbio e eventual edição e co-edição de obras literárias, científicas, técnicas e artísticas de autores nacionais da outra Parte.
+Art. 7.º Cada uma das Partes Contratantes procurará incentivar o desenvolvimento de condições favoráveis ao intercâmbio e eventual edição e co-edição de obras literárias, científicas, técnicas e artísticas de autores nacionais da outra Parte.
 
-###### Art. 8.º As Partes Contratantes concordam em adoptar as medidas necessárias, visando a difusão da língua portuguesa, bem como a sua utilização em organismos ou reuniões internacionais em que ambas ou cada uma das Partes participem.
+Art. 8.º As Partes Contratantes concordam em adoptar as medidas necessárias, visando a difusão da língua portuguesa, bem como a sua utilização em organismos ou reuniões internacionais em que ambas ou cada uma das Partes participem.
 
-###### Art. 9.º No espírito das recomendações da UNESCO relativamente a património cultural e em conformidade com a legislação própria de cada país, as Partes Contratantes concordam de imediato em:
+Art. 9.º No espírito das recomendações da UNESCO relativamente a património cultural e em conformidade com a legislação própria de cada país, as Partes Contratantes concordam de imediato em:
 
 a) Tomar as medidas necessárias para assegurar a preservação dos monumentos e espécies históricas e artísticas, relativas à outra Parte, existentes nos respectivos territórios;
 
@@ -156,17 +161,17 @@ b) Aceitar que peritos dos dois países, devidamente credenciados, possam examin
 
 c) Estudar, de comum acordo, o regime recíproco mais conveniente com o fim de impedir e reprimir o tráfego ilegal de obras de arte, documentos e outros objectos de valor histórico.
 
-###### Art. 10.º Ambas as Partes concederão as necessárias facilidades alfandegárias, isenção de direitos e demais taxas aduaneiras relativas à entrada no seu território de todo o material não destinado a fins comerciais e que tenha por objectivo a efectivação das actividades decorrentes do presente Acordo.
+Art. 10.º Ambas as Partes concederão as necessárias facilidades alfandegárias, isenção de direitos e demais taxas aduaneiras relativas à entrada no seu território de todo o material não destinado a fins comerciais e que tenha por objectivo a efectivação das actividades decorrentes do presente Acordo.
 
-###### Art. 11.º O presente Acordo poderá vir a ser particularizado por posteriores Acordos complementares.
+Art. 11.º O presente Acordo poderá vir a ser particularizado por posteriores Acordos complementares.
 
-###### Art. 12.º Para execução deste Acordo será constituída uma comissão mista, de composição paritária, encarregada de apresentar sugestões, recomendações, pareceres e elementos técnicos de estudo, tendo em vista a elaboração de programas de intercâmbio e de cooperação.
+Art. 12.º Para execução deste Acordo será constituída uma comissão mista, de composição paritária, encarregada de apresentar sugestões, recomendações, pareceres e elementos técnicos de estudo, tendo em vista a elaboração de programas de intercâmbio e de cooperação.
 
 A referida comissão reunir-se-á uma vez por ano, alternadamente, em Portugal e em Angola.
 
 A comissão poderá solicitar a presença de peritos para as suas reuniões na qualidade de conselheiros ou assessores.
 
-###### Art. 13.º O presente Acordo entra em vigor na data da troca de notas pelas quais cada uma das Partes comunica à outra que se encontram cumpridas as formalidades exigidas pela respectiva ordem jurídica interna.
+Art. 13.º O presente Acordo entra em vigor na data da troca de notas pelas quais cada uma das Partes comunica à outra que se encontram cumpridas as formalidades exigidas pela respectiva ordem jurídica interna.
 
 O presente Acordo é válido para os anos de 1979 e 1980, sendo automaticamente renovável por períodos sucessivos de um ano, podendo, a todo o momento, ser denunciado por escrito por qualquer das Partes Contratantes, mediante aviso prévio de seis meses.
 

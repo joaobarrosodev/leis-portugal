@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/36/1992/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1992-274820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15ece0082f5e68c09f07cbc2449ffddc4ab72e3545bfc9737c2c590fae950540
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5b725bad464552a00c90fdb7bfdd6328f1acffc235443e1fbe558fe9b131e1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcobaça
-- Regime Florestal
 - Câmara Municipal
+- Regime Florestal
 - Resinagem Nacional
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:497209:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:54Z'
   warnings: []
   errors: []
 ---
@@ -98,24 +102,24 @@ Atendendo a que a referida autarquia não se opõe à permuta das parcelas e ao 
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É excluída do regime florestal parcial a que foi submetida pelo [Decreto n.º 3264](https://diariodarepublica.pt/dr/detalhe/decreto/3264-1917-497209), de 27 de Julho de 1917, uma parcela de terreno, integrada na Alva da Água de Madeiros, com 0,27 ha, pertencente à Câmara Municipal de Alcobaça e situada a nascente da estrada florestal que liga São Pedro de Muel a Pataias, conforme demarcação na planta anexa ao presente diploma, do qual faz parte integrante.
+Artigo 1.º - 1 - É excluída do regime florestal parcial a que foi submetida pelo [Decreto n.º 3264](https://diariodarepublica.pt/dr/detalhe/decreto/3264-1917-497209), de 27 de Julho de 1917, uma parcela de terreno, integrada na Alva da Água de Madeiros, com 0,27 ha, pertencente à Câmara Municipal de Alcobaça e situada a nascente da estrada florestal que liga São Pedro de Muel a Pataias, conforme demarcação na planta anexa ao presente diploma, do qual faz parte integrante.
 
 2 - É incluída no regime florestal parcial, passando a fazer parte integrante da Alva da Água de Madeiros, uma parcela de terreno com 0,52 ha pertencente à sociedade anónima denominada Resinagem Nacional, S. A., e situada a poente da estrada referida no número anterior, conforme demarcação na planta em anexo ao presente diploma.
 
-###### Art. 2.º A desafectação e afectação das parcelas de terreno resultantes do disposto no artigo anterior só serão efectivadas depois de a Câmara Municipal de Alcobaça e a Resinagem Nacional, S. A., terem procedido às respectivas demarcações, de acordo com orientações técnicas emitidas pela Direcção-Geral das Florestas.
+Art. 2.º A desafectação e afectação das parcelas de terreno resultantes do disposto no artigo anterior só serão efectivadas depois de a Câmara Municipal de Alcobaça e a Resinagem Nacional, S. A., terem procedido às respectivas demarcações, de acordo com orientações técnicas emitidas pela Direcção-Geral das Florestas.
 
 Presidência do Conselho de Ministros, 8 de Junho de 1992.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro dos Santos Amaro.
 
-**Assinado em 2 de Julho de 1992.**
+Assinado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Julho de 1992.**
+Referendado em 3 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/177b00/36333634.pdf))](https://files.diariodarepublica.pt/1s/1992/08/177b00/36333634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/177b00/36333634.pdf)

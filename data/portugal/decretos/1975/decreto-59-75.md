@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/59-1975-159754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5535da9968df1de1f919b0895c2637fb6a405a8170114467912fc7f958ceb182
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7587555bad03af2d168caa3e4e21c51f68611dd0db45805428933f4594ceca5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:19Z'
   warnings: []
   errors: []
 ---
@@ -86,13 +86,13 @@ de 15 de Fevereiro
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Comercial entre o Governo da República Tunisina e o Governo da República Portuguesa, concluído em Tunes, em 9 de Novembro de 1974, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo Comercial entre o Governo da República Tunisina e o Governo da República Portuguesa, concluído em Tunes, em 9 de Novembro de 1974, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Vasco dos Santos Gonçalves - Victor Manuel Rodrigues Alves - Ernesto Augusto de Melo Antunes - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - António de Almeida Santos - Manuel da Costa Brás - Francisco Salgado Zenha - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar - José Augusto Fernandes - Manuel Rodrigues de Carvalho - José Inácio da Costa Martins - Maria de Lourdes Pintasilgo - Joaquim Jorge de Pinho Campinos.
 
-**Assinado em 6 de Fevereiro de 1975.**
+Assinado em 6 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
 Presidente da República, FRANCISCO DA COSTA GOMES.
 

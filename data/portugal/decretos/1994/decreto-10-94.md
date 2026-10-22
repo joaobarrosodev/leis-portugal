@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/1994/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1994-275459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50a9132a845260b33aac3d5133e0272e42218e7fac9e2c9547c6f4d807798434
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8788de600d3725a7c25d7e3746f0fdc4cacedb1a7dae693a0a5ce5c6d1a7ead9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - OMI
+- Portugal
 relationships: []
 article_structure:
-  article_count: 20
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 12
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:58Z'
   warnings: []
   errors: []
 ---
@@ -89,19 +89,19 @@ de 10 de Março
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas, para aceitação, as Emendas à Convenção da Organização Marítima Internacional, concluídas em Londres a 7 de Novembro de 1991, cuja versão autêntica em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. São aprovadas, para aceitação, as Emendas à Convenção da Organização Marítima Internacional, concluídas em Londres a 7 de Novembro de 1991, cuja versão autêntica em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 1994. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Manuel Dias Loureiro - José Manuel Durão Barroso - Luís Fernando Mira Amaral - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
 Ratificado em 11 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Fevereiro de 1994.**
+Referendado em 16 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ANEX
 
@@ -271,7 +271,7 @@ O texto da alínea b) é substituído por:
 
 b) Tendo em conta as disposições da parte XVI e as relações mantidas com outros organismos pelos respectivos Comités de acordo com os artigos 28.º, 33.º, 38.º, 43.º e 48.º, o Conselho deverá, entre as sessões da Assembleia, ser responsável pelas relações com outras organizações.
 
-# PARTE XI
+## PARTE XI
 
 Um novo texto é inserido, como segue:
 
@@ -305,13 +305,13 @@ O Comité de Facilitação deverá reunir pelo menos uma vez por ano. Deverá el
 
 A despeito de algo em contrário nesta Convenção, sujeito, no entanto, às disposições do artigo 47.º, o Comité de Facilitação, enquanto no exercício de funções que lhe tenham sido conferidas por ou em qualquer convenção internacional ou outro instrumento, deverá respeitar as disposições relevantes da convenção ou instrumento em questão, particularmente no que diz respeito às regras que governam o procedimento a ser seguido.
 
-###### Artigo 56.º (renumerado como artigo 61.º)
+Artigo 56.º (renumerado como artigo 61.º)
 
 O texto é substituído pelo seguinte:
 
 Qualquer membro que falte ao cumprimento das suas obrigações financeiras para com a Organização no prazo de um ano contado a partir da data do seu vencimento não terá direito a voto na Assembleia, no Conselho, no Comité de Segurança Marítima, no Comité Jurídico, no Comité de Protecção do Meio Marinho, no Comité de Cooperação Técnica ou no Comité de Facilitação, salvo se a Assembleia, se assim o entender, derrogar esta disposição.
 
-###### Artigo 57.º (renumerado como artigo 62.º)
+Artigo 57.º (renumerado como artigo 62.º)
 
 O texto é substituído pelo seguinte:
 
@@ -347,11 +347,11 @@ Artigos 47.º a 77:
 
 Os artigos 47.º a 77.º são renumerados como artigos 52.º a 82.
 
-###### Artigo 66.º (renumerado como artigo 71.º):
+Artigo 66.º (renumerado como artigo 71.º):
 
 A referência ao artigo 73.º é substituída pela referência ao artigo 78.º
 
-## Apêndice II:
+Apêndice II:
 
 A referência no cabeçalho do artigo 65.º é substituída pela referência ao artigo 70.º
 
@@ -359,18 +359,18 @@ Artigos 67.º e 68.º (renumerados como artigos 72.º e 73.º, respectivamente):
 
 As referências ao artigo 66.º são substituídas por referências ao artigo 71.º
 
-###### Artigo 70.º (renumerado como artigo 75.º):
+Artigo 70.º (renumerado como artigo 75.º):
 
 A referência ao artigo 69.º é substituída pela referência ao artigo 74.º
 
-###### Artigo 72.º (renumerado como artigo 77.º):
+Artigo 72.º (renumerado como artigo 77.º):
 
 A referência na alínea d) ao artigo 71.º é substituída pela referência ao artigo 76.º
 
-###### Artigo 73.º (renumerado como artigo 78.º):
+Artigo 73.º (renumerado como artigo 78.º):
 
 A referência na alínea b) ao artigo 72.º é substituída pela referência ao artigo 77.º
 
-###### Artigo 74.º (remunerado como artigo 79.º):
+Artigo 74.º (remunerado como artigo 79.º):
 
 A referência ao artigo 71.º é substituída pela referência ao artigo 76.º

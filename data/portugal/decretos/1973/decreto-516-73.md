@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/23900/18121815.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/516-1973-413185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c455b590ead28b2d965c72678f091f536c773da20edcf956dbb0d3f59c096f86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0249f9e81ff4dc85d374757d520d453df95196d7d8a6b7a006cafe5f62d8f0b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Concurso
+- Direcção Geral da Contabilidade Pública
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:463983:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569561:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:471528:por
+  label: "Revogado o art. 35º pelo DEC LEI.597/74.07.11.1974.MF, DG.IS [259] de 07.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/597-1974-471528
+  date: '1974-11-07'
+- type: repealed_by
+  target: pt:dre:365889:por
+  label: "Revogado pelo DEC LEI.499/79.1979.12.14.PCM DR.IS [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/499-1979-365889
+  date: '1979-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:12Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +122,15 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º A execução dos serviços e actividades da Direcção-Geral da Contabilidade Pública compete ao pessoal do quadro aprovado pelo [Decreto-Lei n.º 488/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1973-495303), de 29 de Setembro.
+Artigo 1.º A execução dos serviços e actividades da Direcção-Geral da Contabilidade Pública compete ao pessoal do quadro aprovado pelo [Decreto-Lei n.º 488/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1973-495303), de 29 de Setembro.
 
-###### Art. 2.º O director-geral, os seus adjuntos e os directores de contabilidade podem corresponder-se directamente, no desempenho das suas funções, com quaisquer entidades e serviços, civis e militares, dentro e fora do território nacional.
+Art. 2.º O director-geral, os seus adjuntos e os directores de contabilidade podem corresponder-se directamente, no desempenho das suas funções, com quaisquer entidades e serviços, civis e militares, dentro e fora do território nacional.
 
-###### Art. 3.º Aos funcionários que revelem no desempenho das suas funções profundos conhecimentos técnicos e grande dedicação pelo serviço, dos quais resultem assinaláveis vantagens para a Direcção-Geral da Contabilidade Pública, poderão ser concedidos prémios de produtividade pelo Ministro das Finanças, mediante proposta do director-geral, devidamente justificada e fundamentada.
+Art. 3.º Aos funcionários que revelem no desempenho das suas funções profundos conhecimentos técnicos e grande dedicação pelo serviço, dos quais resultem assinaláveis vantagens para a Direcção-Geral da Contabilidade Pública, poderão ser concedidos prémios de produtividade pelo Ministro das Finanças, mediante proposta do director-geral, devidamente justificada e fundamentada.
 
-###### Art. 4.º O Ministro das Finanças pode conceder bolsas de estudo aos funcionários que mais se destaquem no aproveitamento profissional, quer para frequência de cursos, quer para especialização no ultramar ou no estrangeiro.
+Art. 4.º O Ministro das Finanças pode conceder bolsas de estudo aos funcionários que mais se destaquem no aproveitamento profissional, quer para frequência de cursos, quer para especialização no ultramar ou no estrangeiro.
 
-###### Art. 5.º - 1. Consideram-se trabalhos extraordinários, a remunerar dentro dos limites legalmente estabelecidos, os seguintes:
+Art. 5.º - 1. Consideram-se trabalhos extraordinários, a remunerar dentro dos limites legalmente estabelecidos, os seguintes:
 
 a) A planificação do Orçamento Geral do Estado;
 
@@ -114,7 +140,7 @@ c) Quaisquer outros trabalhos que, não podendo ser executados nas horas normais
 
 2. Os trabalhos previstos no número anterior, sempre que tal se mostre conveniente, poderão também ser efectuados em regime de tarefas aprovadas pelo Ministro das Finanças, mediante plano previamente fixado e devidamente justificado.
 
-###### Art. 6.º Os funcionários que exerçam cargos de direcção serão substituídos, nas suas ausências ou impedimentos, pela forma seguinte:
+Art. 6.º Os funcionários que exerçam cargos de direcção serão substituídos, nas suas ausências ou impedimentos, pela forma seguinte:
 
 a) O director-geral, pelos seus adjuntos, segundo uma ordem estabelecida e aprovada por despacho ministerial ou, na sua falta, pelo mais antigo;
 
@@ -126,11 +152,11 @@ d) Se houver conveniência para o serviço, o director-geral, sob proposta aprov
 
 #### SECÇÃO II — Da competência
 
-###### Art. 7.º Compete ao director-geral a superintendência dos serviços da Direcção-Geral da Contabilidade Pública, subordinado ao Ministro das Finanças, directamente ou através do Secretário de Estado do Orçamento.
+Art. 7.º Compete ao director-geral a superintendência dos serviços da Direcção-Geral da Contabilidade Pública, subordinado ao Ministro das Finanças, directamente ou através do Secretário de Estado do Orçamento.
 
-###### Art. 8.º O director-geral pode despachar directamente todos os assuntos que, por sua natureza, disposição de lei ou determinação ministerial não devam ser sujeitos a despacho superior, podendo delegar parte da sua competência nos seus adjuntos.
+Art. 8.º O director-geral pode despachar directamente todos os assuntos que, por sua natureza, disposição de lei ou determinação ministerial não devam ser sujeitos a despacho superior, podendo delegar parte da sua competência nos seus adjuntos.
 
-###### Art. 9.º Aos adjuntos do director-geral compete:
+Art. 9.º Aos adjuntos do director-geral compete:
 
 1.º Desempenhar as funções próprias do director-geral, de conformidade com as indicações que dele receberem;
 
@@ -138,7 +164,7 @@ d) Se houver conveniência para o serviço, o director-geral, sob proposta aprov
 
 3.º Praticar, a título permanente e por delegação, actos da competência do director-geral.
 
-###### Art. 10.º - 1. Aos directores de contabilidade é atribuída a orientação dos serviços a seu cargo, competindo-lhes:
+Art. 10.º - 1. Aos directores de contabilidade é atribuída a orientação dos serviços a seu cargo, competindo-lhes:
 
 a) Orientar, promover e fiscalizar os trabalhos confiados aos respectivos serviços;
 
@@ -162,31 +188,31 @@ b) Emitir parecer sobre todos os processos de inspecção que lhe sejam presente
 
 3. O limite da competência dos directores de contabilidade que não resulte da lei é fixado por despacho ministerial ou do director-geral.
 
-###### Art. 11.º No exercício das suas funções junto da Presidência do Conselho e dos diferentes Ministérios os directores de contabilidade são, para todos os efeitos, os representantes ou delegados do director-geral junto das entidades responsáveis por aqueles departamentos ministeriais e dos serviços que nestes se integram.
+Art. 11.º No exercício das suas funções junto da Presidência do Conselho e dos diferentes Ministérios os directores de contabilidade são, para todos os efeitos, os representantes ou delegados do director-geral junto das entidades responsáveis por aqueles departamentos ministeriais e dos serviços que nestes se integram.
 
-###### Art. 12.º Incumbe especialmente aos subdirectores de contabilidade coordenar a actividade do sector a seu cargo e assegurar, dentro dele, a execução das ordens do respectivo director de contabilidade ou de quem suas vezes fizer, devendo fornecer os esclarecimentos, notas e informações necessários para a conveniente instrução dos processos.
+Art. 12.º Incumbe especialmente aos subdirectores de contabilidade coordenar a actividade do sector a seu cargo e assegurar, dentro dele, a execução das ordens do respectivo director de contabilidade ou de quem suas vezes fizer, devendo fornecer os esclarecimentos, notas e informações necessários para a conveniente instrução dos processos.
 
-###### Art. 13.º Aos técnicos financeiro, económico e jurídico compete efectuar estudos e dar pareceres, sobre matéria da respectiva especialidade, que forem determinados pelo director-geral.
+Art. 13.º Aos técnicos financeiro, económico e jurídico compete efectuar estudos e dar pareceres, sobre matéria da respectiva especialidade, que forem determinados pelo director-geral.
 
-###### Art. 14.º Os inspectores têm por função executar os serviços de inspecção que lhes forem distribuídos, de acordo com as instruções que receberem, e, bem assim, propor as medidas que entendam convenientes para o aperfeiçoamento das actividades que prosseguem.
+Art. 14.º Os inspectores têm por função executar os serviços de inspecção que lhes forem distribuídos, de acordo com as instruções que receberem, e, bem assim, propor as medidas que entendam convenientes para o aperfeiçoamento das actividades que prosseguem.
 
-###### Art. 15.º - 1. Os adjuntos dos directores de contabilidade, como seus auxiliares e substitutos, exercerão as suas atribuições cumulativamente com as de subdirector de contabilidade e, naquela qualidade de adjuntos, poderão praticar quaisquer actos da competência dos directores de contabilidade, desde que sejam por estes autorizados.
+Art. 15.º - 1. Os adjuntos dos directores de contabilidade, como seus auxiliares e substitutos, exercerão as suas atribuições cumulativamente com as de subdirector de contabilidade e, naquela qualidade de adjuntos, poderão praticar quaisquer actos da competência dos directores de contabilidade, desde que sejam por estes autorizados.
 
 2. Os directores de contabilidade ficam solidariamente responsáveis pelos actos praticados pelos seus adjuntos, dentro do limite das autorizações concedidas.
 
-###### Art. 16.º Mantém-se a competência conferida por lei ao pessoal dos quadros da Direcção-Geral da Contabilidade Pública não referida especialmente no presente diploma.
+Art. 16.º Mantém-se a competência conferida por lei ao pessoal dos quadros da Direcção-Geral da Contabilidade Pública não referida especialmente no presente diploma.
 
 #### SECÇÃO III — Do provimento
 
-###### Art. 17.º As nomeações para os lugares do quadro da Direcção-Geral da Contabilidade Pública são de carácter vitalício, salvo o disposto nos artigos seguintes e sem prejuízo do disposto no artigo 26.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 17.º As nomeações para os lugares do quadro da Direcção-Geral da Contabilidade Pública são de carácter vitalício, salvo o disposto nos artigos seguintes e sem prejuízo do disposto no artigo 26.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 18.º - 1. O director-geral e os seus adjuntos são nomeados em comissão de serviço, por três anos, renovável por iguais períodos.
+Art. 18.º - 1. O director-geral e os seus adjuntos são nomeados em comissão de serviço, por três anos, renovável por iguais períodos.
 
 2. São provisórias, por dois anos, prorrogáveis por mais um ano, as nomeações para os lugares de técnico de 2.ª classe e de inspector de 2.ª classe, bem como para secretário de contabilidade de 3.ª classe, quando não tenham sido admitidos anteriormente como estagiários.
 
 3. Findo o período da respectiva validade, as nomeações provisórias referidas no número anterior convertem-se em definitivas ou caducam mediante despacho ministerial.
 
-###### Art. 19.º - 1. Os secretários de contabilidade de 2.ª e 3.ª classes que obtenham aprovação no respectivo grau do curso que frequentarem serão promovidos à categoria imediata, pela ordem da sua classificação, segundo as vagas que se verificarem no quadro.
+Art. 19.º - 1. Os secretários de contabilidade de 2.ª e 3.ª classes que obtenham aprovação no respectivo grau do curso que frequentarem serão promovidos à categoria imediata, pela ordem da sua classificação, segundo as vagas que se verificarem no quadro.
 
 2. Serão contratados os estagiários de contabilidade.
 
@@ -196,15 +222,15 @@ b) Emitir parecer sobre todos os processos de inspecção que lhe sejam presente
 
 #### SECÇÃO IV — Dos cursos
 
-###### Art. 20.º A preparação, aperfeiçoamento e reciclagem do pessoal técnico do quadro da Direcção-Geral da Contabilidade Pública serão feitos, obrigatoriamente, através de cursos para acesso a lugares de secretário de contabilidade.
+Art. 20.º A preparação, aperfeiçoamento e reciclagem do pessoal técnico do quadro da Direcção-Geral da Contabilidade Pública serão feitos, obrigatoriamente, através de cursos para acesso a lugares de secretário de contabilidade.
 
-###### Art. 21.º O curso para acesso a lugares de secretário de contabilidade compõe-se de 1.º, 2.º e 3.º graus, cada um com a duração de dois anos.
+Art. 21.º O curso para acesso a lugares de secretário de contabilidade compõe-se de 1.º, 2.º e 3.º graus, cada um com a duração de dois anos.
 
-###### Art. 22.º - 1. Poderão ser organizados seminários para o pessoal dirigente e técnico de inspecção, com vista à actualização de conhecimentos profissionais e de integração em novas técnicas com eles relacionadas.
+Art. 22.º - 1. Poderão ser organizados seminários para o pessoal dirigente e técnico de inspecção, com vista à actualização de conhecimentos profissionais e de integração em novas técnicas com eles relacionadas.
 
 2. Poderão ainda realizar-se cursos eventuais de aperfeiçoamento e reciclagem, em ordem a elevar o nível técnico e cultural de todos os funcionários da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 23.º - 1. O aproveitamento dos cursos será verificado mediante provas realizadas no seu termo.
+Art. 23.º - 1. O aproveitamento dos cursos será verificado mediante provas realizadas no seu termo.
 
 2. Nos cursos de duração superior a seis meses haverá provas de frequência.
 
@@ -214,13 +240,13 @@ b) Emitir parecer sobre todos os processos de inspecção que lhe sejam presente
 
 5. As restantes condições serão estabelecidas em portaria, sob proposta do director-geral.
 
-###### Art. 24.º - 1. A falta de aprovação nos cursos de acesso produz os efeitos estabelecidos na lei geral para a reprovação em concursos, salvo se for devida a doença prolongada ou impedimento em serviço militar obrigatório.
+Art. 24.º - 1. A falta de aprovação nos cursos de acesso produz os efeitos estabelecidos na lei geral para a reprovação em concursos, salvo se for devida a doença prolongada ou impedimento em serviço militar obrigatório.
 
 2. Os funcionários que, por virtude de doença prolongada ou de prestação de serviço militar obrigatório, não possam frequentar ou tenham de interromper os cursos de preparação que lhes competirem serão, mediante requerimento, admitidos a exame de equivalência após o regresso ao serviço.
 
 #### SECÇÃO V — Dos concursos
 
-###### Art. 25.º - 1. Haverá concursos de prestação de provas para provimento nos lugares de:
+Art. 25.º - 1. Haverá concursos de prestação de provas para provimento nos lugares de:
 
 a) Subdirector de contabilidade;
 
@@ -232,25 +258,25 @@ d) Escriturário-dactilógrafo de 2.ª classe.
 
 2. São documentais os concursos para provimento nos lugares de secretário de contabilidade de 3.ª classe e de estagiário de contabilidade, bem como de técnico de 2.ª classe e de inspector de 2.ª classe.
 
-###### Art. 26.º - 1. São candidatos ao concurso para a categoria de subdirector de contabilidade os secretários de contabilidade de 1.ª classe, com três anos de permanência na categoria, com boas informações de serviço.
+Art. 26.º - 1. São candidatos ao concurso para a categoria de subdirector de contabilidade os secretários de contabilidade de 1.ª classe, com três anos de permanência na categoria, com boas informações de serviço.
 
 2. Verificando-se insuficiência de candidatos para o preenchimento das vagas que ocorrerem durante o prazo de validade dos concursos, poderá o Ministro das Finanças, no concurso seguinte, autorizar a admissão dos candidatos das categorias indicadas no n.º 1, com qualquer tempo de serviço e boas informações.
 
-###### Art. 27.º - 1. São candidatos ao concurso para a categoria de terceiro-mecanógrafo os indivíduos dos 18 aos 35 anos de idade, com a habilitação do 2.º ciclo liceal ou curso equivalente e conhecimentos de mecanografia.
+Art. 27.º - 1. São candidatos ao concurso para a categoria de terceiro-mecanógrafo os indivíduos dos 18 aos 35 anos de idade, com a habilitação do 2.º ciclo liceal ou curso equivalente e conhecimentos de mecanografia.
 
 2. O limite máximo de idade não é de observar se o candidato for já funcionário do Estado.
 
-###### Art. 28.º - 1. São candidatos ao concurso para a categoria de escriturário-dactilógrafo de 1.ª classe os escriturários-dactilógrafos de 2.ª classe.
+Art. 28.º - 1. São candidatos ao concurso para a categoria de escriturário-dactilógrafo de 1.ª classe os escriturários-dactilógrafos de 2.ª classe.
 
-###### Art. 29.º - 1. São candidatos ao concurso para a categoria de escriturário-dactilógrafo de 2.ª classe os indivíduos dos 18 aos 35 anos de idade, com a habilitação correspondente à escolaridade obrigatória.
+Art. 29.º - 1. São candidatos ao concurso para a categoria de escriturário-dactilógrafo de 2.ª classe os indivíduos dos 18 aos 35 anos de idade, com a habilitação correspondente à escolaridade obrigatória.
 
 2. O limite máximo de idade não é de observar se o candidato for já funcionário do Estado.
 
-###### Art. 30.º - 1. As provas dos concursos são, em regra, escritas e orais.
+Art. 30.º - 1. As provas dos concursos são, em regra, escritas e orais.
 
 2. As provas dos concursos para as categorias de terceiro-mecanógrafo e de escriturário-dactilógrafo são escritas e práticas.
 
-###### Art. 31.º - 1. Nos concursos documentais, a ordenação dos candidatos será feita segundo a classificação final do curso.
+Art. 31.º - 1. Nos concursos documentais, a ordenação dos candidatos será feita segundo a classificação final do curso.
 
 2. Em caso de igualdade dessa classificação, são condições de preferência:
 
@@ -262,15 +288,15 @@ d) Escriturário-dactilógrafo de 2.ª classe.
 
 4) Ter mais idade.
 
-###### Art. 32.º - 1. Os júris dos concursos são constituídos pelo director-geral, que será o presidente, e por dois vogais designados pelo Ministro das Finanças, sob proposta do director-geral, entre os directores de contabilidade da Direcção-Geral da Contabilidade Pública.
+Art. 32.º - 1. Os júris dos concursos são constituídos pelo director-geral, que será o presidente, e por dois vogais designados pelo Ministro das Finanças, sob proposta do director-geral, entre os directores de contabilidade da Direcção-Geral da Contabilidade Pública.
 
 2. Nos concursos para as categorias de estagiário de contabilidade, terceiro-mecanógrafo e escriturário-dactilógrafo, a presidência pertence a um dos adjuntos do director-geral.
 
-###### Art. 33.º Nos cursos em que o provimento dos funcionários da Direcção-Geral da Contabilidade Pública obedeça à realização de concurso, este far-se-á segundo as normas aplicáveis do [Decreto n.º 43625](https://diariodarepublica.pt/dr/detalhe/decreto/43625-1961-569561), de 27 de Abril de 1961, em tudo o que não se encontre contrariado pelo presente diploma.
+Art. 33.º Nos cursos em que o provimento dos funcionários da Direcção-Geral da Contabilidade Pública obedeça à realização de concurso, este far-se-á segundo as normas aplicáveis do [Decreto n.º 43625](https://diariodarepublica.pt/dr/detalhe/decreto/43625-1961-569561), de 27 de Abril de 1961, em tudo o que não se encontre contrariado pelo presente diploma.
 
 ### CAPÍTULO II — Das disposições transitórias
 
-###### Art. 34.º Os actuais funcionários da Direcção-Geral da Contabilidade Pública cuja situação não corresponda às categorias de funcionário estabelecidas no presente diploma passam a ocupar os lugares a seguir indicados, sem quaisquer formalidades, salvo a anotação do Tribunal de Contas:
+Art. 34.º Os actuais funcionários da Direcção-Geral da Contabilidade Pública cuja situação não corresponda às categorias de funcionário estabelecidas no presente diploma passam a ocupar os lugares a seguir indicados, sem quaisquer formalidades, salvo a anotação do Tribunal de Contas:
 
 a) Os chefes de repartição:
 
@@ -304,24 +330,24 @@ g) Os escriturários-dactilógrafos de 2.ª classe além do quadro ou em regime 
 
 Os de escriturário-dactilógrafo de 2.ª classe.
 
-###### Art. 35.º - 1. Serão organizados cursos acelerados, a frequentar pelos actuais terceiros-oficiais que sejam colocados em lugares de estagiário de contabilidade, para acesso à categoria imediata.
+Art. 35.º - 1. Serão organizados cursos acelerados, a frequentar pelos actuais terceiros-oficiais que sejam colocados em lugares de estagiário de contabilidade, para acesso à categoria imediata.
 
 2. Os cursos a que se refere o número anterior obedecerão a condições especiais a fixar por despacho ministerial, sob proposta do director-geral.
 
-###### Art. 36.º Enquanto não houver candidatos aprovados em número suficiente nos cursos estabelecidos no presente decreto, manter-se-á o actual regime de concursos e condições da sua validade, podendo requerer a sua apresentação aos mesmos, quando abertos, os funcionários da categoria imediatamente inferior à que se destinarem os concursos.
+Art. 36.º Enquanto não houver candidatos aprovados em número suficiente nos cursos estabelecidos no presente decreto, manter-se-á o actual regime de concursos e condições da sua validade, podendo requerer a sua apresentação aos mesmos, quando abertos, os funcionários da categoria imediatamente inferior à que se destinarem os concursos.
 
-###### Art. 37.º - 1. Mantêm-se válidos, pelo prazo legal, os concursos realizados para chefes de secção, primeiros-oficiais, segundos-oficiais e terceiros-oficiais do quadro da Direcção-Geral da Contabilidade Pública, podendo os indivíduos aprovados ser colocados, respectivamente, em lugares de subdirector de contabilidade, secretário de contabilidade de 1.ª e 2.ª classes e estagiário de contabilidade, quando lhes competir a respectiva vaga.
+Art. 37.º - 1. Mantêm-se válidos, pelo prazo legal, os concursos realizados para chefes de secção, primeiros-oficiais, segundos-oficiais e terceiros-oficiais do quadro da Direcção-Geral da Contabilidade Pública, podendo os indivíduos aprovados ser colocados, respectivamente, em lugares de subdirector de contabilidade, secretário de contabilidade de 1.ª e 2.ª classes e estagiário de contabilidade, quando lhes competir a respectiva vaga.
 
 2. Estes funcionários ficam do mesmo modo obrigados à frequência do respectivo curso para acesso à categoria imediata.
 
 3. Os concursos que se encontrem em vias de realização serão ultimados segundo a legislação em vigor.
 
-###### Art. 38.º É garantida a incorporação nos quadros da Direcção-Geral da Contabilidade Pública aos funcionários que se encontram actualmente na situação de licença ilimitada, observadas as condições estabelecidas na lei geral, ou destacados noutros serviços do Estado, e em organismos de coordenação económica ou corporativos, ficando com direito à colocação na categoria que lhes couber nos termos do artigo 34.º
+Art. 38.º É garantida a incorporação nos quadros da Direcção-Geral da Contabilidade Pública aos funcionários que se encontram actualmente na situação de licença ilimitada, observadas as condições estabelecidas na lei geral, ou destacados noutros serviços do Estado, e em organismos de coordenação económica ou corporativos, ficando com direito à colocação na categoria que lhes couber nos termos do artigo 34.º
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 4 de Outubro de 1973.**
+Promulgado em 4 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

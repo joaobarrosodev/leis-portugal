@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/111-1982-376456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:59:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 267a97dcca4d72fed8015b41686e2fe5292a64528f41a656ac83500e3b18961f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0307703f40b07fa604044b5133df25e01d722c08ba07bfedcd767f06607f5ec3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:59:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Exame Médico
+- OIT
+- Portugal
+- Trabalho de Menores
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:59:02Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 7 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção n.º 78, relativa ao exame médico de aptidão de crianças e adolescentes para o emprego em trabalhos não industriais, adoptada pela Conferência Internacional do Trabalho na sua 29.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção n.º 78, relativa ao exame médico de aptidão de crianças e adolescentes para o emprego em trabalhos não industriais, adoptada pela Conferência Internacional do Trabalho na sua 29.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 12 de Agosto de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 14 de Setembro de 1982.**
+Assinado em 14 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention nº 78
 
@@ -273,7 +278,7 @@ Depois de ter decidido que estas propostas tomariam a forma de uma convenção i
 
 adopta, neste dia 9 de Outubro de 1946, a convenção que se segue, e que será denominada «Convenção sobre o Exame Médico dos Adolescentes (Trabalhos não Industriais), 1946»:
 
-# PARTE I — Disposições legais
+## PARTE I — Disposições legais
 
 ###### ARTIGO 1.º
 
@@ -343,7 +348,7 @@ a) As medidas de identificação que deverão ser adoptadas para controlar a apl
 
 b) Os outros métodos de vigilância que deverão ser adoptados para assegurar uma aplicação rigorosa da Convenção.
 
-# PARTE II — Disposições especiais para determinados países
+## PARTE II — Disposições especiais para determinados países
 
 ###### ARTIGO 8.º
 
@@ -361,7 +366,7 @@ b) Os outros métodos de vigilância que deverão ser adoptados para assegurar u
 
 3 - Todo o membro relativamente ao qual esteja em vigor uma declaração feita em conformidade com o parágrafo 1 do presente artigo deve indicar todos os anos, no seu relatório sobre a aplicação da presente Convenção, em que medida têm sido feitos progressos com vista à aplicação integral das disposições da Convenção.
 
-# PARTE III — Disposições finais
+## PARTE III — Disposições finais
 
 ###### ARTIGO 10.º
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21600/0401004016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/2016/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2016-75708273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bbe9b0c6eddc7cf12e787d9d9d4dcdc6e4b9566c976273a6deb65834d07f3c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f67411b3cbcbd20a20d414fe79fe6bd76e70806318cf7f1f68d17e579df3c1eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Artesanato
+- Comércio
 - Convenção
 - Cooperação Bilateral
-- Portugal
+- Cooperação Económica
+- Cooperação Internacional
 - Definição de Competências
-- Artesanato
-- Recursos Minerais
+- Energia
 - Grupo de Trabalho
 - Indústria
 - Investimento
-- Cooperação Económica
-- Cooperação Internacional
-- Energia
 - Pequenas e Médias Empresas
 - PME
-- Comércio
+- Portugal
+- Recursos Minerais
 - Tunes
 - Tunísia
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:159754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333564:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:55Z'
   warnings: []
   errors: []
 ---
@@ -116,15 +124,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de junho de 2016. - António Luís Santos da Costa - Maria Margarida Ferreira Marques - Manuel de Herédia Caldeira Cabral.
 
-**Assinado em 9 de agosto de 2016.**
+Assinado em 9 de agosto de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de agosto de 2016.**
+Referendado em 11 de agosto de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO DE COOPERAÇÃO ECONÓMICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA TUNÍSIA
 
@@ -252,7 +260,7 @@ Pela República da Tunísia:
 
 Mohamed Nouri Jouini, Ministro do Desenvolvimento e da Cooperação Internacional.
 
-## ANEXO AO ACORDO DE COOPERAÇÃO ECONÓMICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA TUNÍSIA
+ANEXO AO ACORDO DE COOPERAÇÃO ECONÓMICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA TUNÍSIA
 
 A República Portuguesa e a República da Tunísia, tendo presente o espírito do artigo 3.º do Acordo de Cooperação Económica entre a República Portuguesa e a República da Tunísia, acordam as seguintes actividades prioritárias:
 
@@ -312,7 +320,7 @@ No domínio do comércio e da monitorização do mercado:
 
 - Reforço da cooperação entre Portugal e a Tunísia, na área do artesanato, nomeadamente em matéria de formação, acompanhamento dos artesãos e das empresas de artesanato, desenvolvimento do sector do artesanato e da sua comercialização/distribuição.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21600/0401004016.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21600/0401004016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21600/0401004016.pdf)
 
 ACCORD DE COOPERATION ECONOMIQUE ENTRE LA REPUBLIQUE PORTUGAISE ET LA REPUBLIQUE TUNISIENNE
 

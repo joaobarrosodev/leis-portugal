@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25600/37483749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/117-1980-457471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f9aed4ccfe67b097eeb88c5eaba918e9e76c0dbf0d2b4711e1d0faa9c6b8483
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3859f567bc03ad8158e1b3a66f6b4fbe0b43cee4459f80be208a92a7763431d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Pesca
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:645307:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:645307:por
+  label: Revoga pelo(a) Decreto n.º 32/93 - Diário da República n.º 235/1993, Série I-A de 1993-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/32-1993-645307
+  date: '1993-10-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:28Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +100,15 @@ de 5 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação no Domínio da Pesca entre o Governo da República de Cabo Verde e o Governo da República Portuguesa, assinado na Cidade da Praia aos 20 dias do mês de Abril de 1980, cujo texto em português acompanha o presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação no Domínio da Pesca entre o Governo da República de Cabo Verde e o Governo da República Portuguesa, assinado na Cidade da Praia aos 20 dias do mês de Abril de 1980, cujo texto em português acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 25 de Outubro de 1980.**
+Assinado em 25 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo de Cooperação no Domínio da Pesca entre o Governo da República de Cabo Verde e o Governo da República Portuguesa.
 
@@ -113,11 +122,11 @@ Conscientes da importância da cooperação no domínio da pesca e indústrias d
 
 Decidem concluir o seguinte Acordo:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O Governo de Cabo Verde e o Governo de Portugal comprometem-se a promover, favorecer e apoiar o desenvolvimento da cooperação científica, técnica e económica, no domínio da pesca e indústrias dela derivadas, entre os dois países.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 No domínio científico e técnico, a cooperação será desenvolvida mediante:
 
@@ -127,7 +136,7 @@ b) Planeamento e realização, conjunta ou coordenada, de programas e projectos 
 
 c) Permuta de informações e documentação sobre legislação nacional e legislação internacional relativas às pescas e protecção do ambiente aquático.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 A cooperação referida no artigo anterior poderá ser realizada pelos seguintes meios:
 
@@ -141,37 +150,37 @@ d) Acções de cooperação nos domínios da construção e reparação navais;
 
 e) Qualquer outro meio acordado pelas Partes contratantes.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 No domínio económico, a cooperação poderá ser desenvolvida através da realização conjunta de projectos industriais e comerciais para a exploração dos recursos pesqueiros das áreas marítimas sob jurisdição das Partes contratantes, em condições a acordar entre elas.
 
 Neste contexto, e quando for de interesse mútuo para os dois Estados, os Governos de ambos os países permitirão a constituição de empresas de capital misto luso-cabo-verdiano para captura e processamento do pescado e comercialização deste e seus derivados.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Cada uma das Partes contratantes permitirá que navios de pesca pertencentes à outra Parte operem na sua zona económica exclusiva.
 
 O número de navios e as condições de exercício da pesca serão fixados anualmente entre os dois países.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Sempre que os navios de pesca pertencentes a um dos países estiverem operando na zona económica exclusiva do outro deverão, prioritariamente, em igualdade de condições oferecidas por terceiros países, utilizar as instalações portuárias do outro, para efeitos de reparações, abastecimento e armazenagem dos produtos da pesca. Deverão ainda observar as leis e regulamentos em vigor neste último.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Os programas e projectos de cooperação a que se refere este Acordo serão elaborados em comum pelas Partes contratantes.
 
 Quando a sua execução não possa ser regulamentada no quadro do Acordo de Cooperação Científica e Técnica, assinado em 5 de Julho de 1975, esses programas e projectos serão objecto de convénios especiais em que serão definidos os objectivos, o calendário de execução, as obrigações de cada uma das Partes contratantes, as modalidades de financiamento e quaisquer outras condições a acordar.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Os dois Governos consultar-se-ão regularmente no que respeita à política mundial de pesca no quadro das organizações internacionais de pesca, designadamente de âmbito regional, a fim de coordenarem as respectivas posições relativas a problemas de interesse comum.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 As Partes contratantes comprometem-se a manter, com regularidade, contactos com vista à execução do presente Acordo, para o que será criada uma subcomissão técnica que actuará no âmbito da Comissão Mista Permanente de Cooperação.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 O presente Acordo entra em vigor na data da última das notas pelas quais as Partes se comuniquem estarem cumpridas as formalidades constitucionais de aprovação do Acordo. Será válido por três anos e prorrogável por períodos sucessivos de um ano, salvo denúncia de uma das Partes, por escrito, com uma antecedência mínima de seis meses da data da sua expiração.
 

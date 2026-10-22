@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/172-1977-280246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:46:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4852cc5f357ff547e1180d06a20cb18bc30a2c3c23db581739e1f58c4b1f1225
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16f76c961d65e0ee3ba0dc5722686affaec5c14c89790aae82a66f4c6548f49b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:46:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproveitamento Hidroeléctrico
+- Caderno de Encargos
+- Contrato de Concessão
+- Convenção
+- EDP
+- Espanha
+- Portugal
+- RIO Minho
 relationships:
 - type: amended_by
   target: pt:dre:386002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:295783:por
+  label: Alterado o art. 7.º do caderno de encargos da concessão do aproveitamento hidroeléctrico do troço internacional do
+    rio Minho (escalão de Sela), publicado em anexo, pelo(a) Decreto n.º 44/78 - Diário da República n.º 100/1978, Série I
+    de 1978-05-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/44-1978-295783
+  date: '1978-05-02'
+- type: cites
+  target: pt:dre:263541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:46:25Z'
   warnings: []
   errors: []
 ---
@@ -101,19 +148,19 @@ Assim, nos termos do 2.º Protocolo Adicional ao Convénio de 29 de Maio de 1968
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É outorgada à Electricidade de Portugal - Empresa Pública (EDP), com sede em Lisboa, a concessão do aproveitamento da energia das águas do rio Minho, no seu troço internacional, limitado, a montante, pela confluência do rio Trancoso com o rio Minho e, a jusante, pela secção imediatamente a montante da confluência do rio Mouro também com o rio Minho, nas condições estabelecidas no Convénio assinado em 29 de Maio de 1968, entre Portugal e Espanha, aprovado pelo [Decreto-Lei n.º 48661](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48661-1968-263541), de 5 de Novembro de 1968, para Regular o Uso e Aproveitamento Hidráulico dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes, e seus protocolos adicionais, aprovados por aquele mesmo diploma e pelo [Decreto n.º 292/76](https://diariodarepublica.pt/dr/detalhe/decreto/292-1976-502041), de 23 de Abril, e em conformidade com as disposições do caderno de encargos que fica fazendo parte integrante deste decreto e baixa assinado pelo Secretário de Estado da Energia e Minas.
+Artigo 1.º - 1 - É outorgada à Electricidade de Portugal - Empresa Pública (EDP), com sede em Lisboa, a concessão do aproveitamento da energia das águas do rio Minho, no seu troço internacional, limitado, a montante, pela confluência do rio Trancoso com o rio Minho e, a jusante, pela secção imediatamente a montante da confluência do rio Mouro também com o rio Minho, nas condições estabelecidas no Convénio assinado em 29 de Maio de 1968, entre Portugal e Espanha, aprovado pelo [Decreto-Lei n.º 48661](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48661-1968-263541), de 5 de Novembro de 1968, para Regular o Uso e Aproveitamento Hidráulico dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes, e seus protocolos adicionais, aprovados por aquele mesmo diploma e pelo [Decreto n.º 292/76](https://diariodarepublica.pt/dr/detalhe/decreto/292-1976-502041), de 23 de Abril, e em conformidade com as disposições do caderno de encargos que fica fazendo parte integrante deste decreto e baixa assinado pelo Secretário de Estado da Energia e Minas.
 
 2 - Esta outorga é feita com dispensa de todas as formalidades prescritas no [Decreto n.º 5787-IIII](https://diariodarepublica.pt/dr/detalhe/decreto/5787-iiii-1919-274808), de 10 de Maio de 1919, no regulamento aprovado pelo [Decreto n.º 6287](https://diariodarepublica.pt/dr/detalhe/decreto/6287-1919-351149), de 20 de Dezembro de 1919, e no [Decreto n.º 13112](https://diariodarepublica.pt/dr/detalhe/decreto/13112-1927-460375), de 24 de Janeiro de 1927.
 
-###### Art. 2.º Os terrenos sujeitos à jurisdição portuguesa, a ocupar pelas obras e pela albufeira do aproveitamento, ficam situados nas freguesias de Ceivães, Messegães e Valadares, do concelho de Monção, e nas freguesias de Penso, Alvaredo, Remoães, Prado, Paderne, Melgaço, Chaviães, Paços e Cristoval, do concelho de Melgaço.
+Art. 2.º Os terrenos sujeitos à jurisdição portuguesa, a ocupar pelas obras e pela albufeira do aproveitamento, ficam situados nas freguesias de Ceivães, Messegães e Valadares, do concelho de Monção, e nas freguesias de Penso, Alvaredo, Remoães, Prado, Paderne, Melgaço, Chaviães, Paços e Cristoval, do concelho de Melgaço.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos - Henrique Medina Carreira - Alfredo Jorge Nobre da Costa - João Orlindo de Almeida Pina.
 
-**Promulgado em 30 de Novembro de 1977.**
+Promulgado em 30 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO
 
@@ -183,4 +230,4 @@ Enquanto não for definido um regime tributário para a concessionária, conform
 
 A concessionária é obrigada a cumprir as leis e regulamentos vigentes, na parte em que lhe forem aplicáveis, designadamente as disposições do Convénio Luso-Espanhol aprovado pelo [Decreto-Lei n.º 48661](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48661-1968-263541), de 5 de Novembro de 1968, e seus protocolos adicionais, e ainda as prescrições e regulamentos que, ao abrigo deste Convénio, ou respeitando as suas cláusulas, sejam ou venham a ser aprovados.
 
-**O Secretário de Estado da Energia e Minas, Ricardo Bayão Horta.**
+O Secretário de Estado da Energia e Minas, Ricardo Bayão Horta.

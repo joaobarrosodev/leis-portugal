@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/674-1973-411172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:31:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e4e26b5311a2700d1a560293ed99088c830d00995013d6dfb513e2b91e383ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11b666569ed26b4b86045f4ada67539ed87549854bffcd80cabce443b0eca18c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:31:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério da Economia
+- Ministério das Comunicações
+- Ministério das Finanças
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:31:43Z'
   warnings: []
   errors: []
 ---
@@ -88,51 +97,51 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 5370000$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 5370000$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
 Secretaria de Estado do Tesouro
 
-### Capítulo 6.º «Tribunal de Contas»:
+Capítulo 6.º «Tribunal de Contas»:
 
-###### Artigo 81.º-A «Transferências - Sector público»:
+Artigo 81.º-A «Transferências - Sector público»:
 
 N.º 1 «Cofre do Tribunal de Contas» ... 2000000$00
 
 Ministério do Interior
 
-### Capítulo 5.º «Polícia de Segurança Pública»:
+Capítulo 5.º «Polícia de Segurança Pública»:
 
-###### Artigo 88.º «Bens duradouros», n.º 1 «Material de defesa e segurança» ... 1500000$00
+Artigo 88.º «Bens duradouros», n.º 1 «Material de defesa e segurança» ... 1500000$00
 
 Ministério da Justiça
 
-### Capítulo 7.º «Serviços médico-legais»:
+Capítulo 7.º «Serviços médico-legais»:
 
 Instituto de Medicina Legal de Lisboa
 
-###### Artigo 590.º «Gratificações variáveis ou eventuais» (27) ... 35000$00
+Artigo 590.º «Gratificações variáveis ou eventuais» (27) ... 35000$00
 
 Ministério da Economia
 
 Secretaria de Estado da Indústria
 
-### Capítulo 17.º «Inspecção-Geral dos Produtos Agrícolas e Industriais»:
+Capítulo 17.º «Inspecção-Geral dos Produtos Agrícolas e Industriais»:
 
-###### Artigo 372.º «Despesas gerais de funcionamento», n.º 6 «Encargos não especificados», alínea 2 «Participações em multas» ... 25000$00
+Artigo 372.º «Despesas gerais de funcionamento», n.º 6 «Encargos não especificados», alínea 2 «Participações em multas» ... 25000$00
 
-### Capítulo 24.º «Contas de ordem»:
+Capítulo 24.º «Contas de ordem»:
 
-###### Artigo 451.º «Direcção-Geral dos Serviços Pecuários», n.º 5 «Estações de fomento pecuário» ... 210000$00
+Artigo 451.º «Direcção-Geral dos Serviços Pecuários», n.º 5 «Estações de fomento pecuário» ... 210000$00
 
 ... 235000$00
 
 Ministério das Comunicações
 
-### Capítulo 9.º «Contas de ordem»:
+Capítulo 9.º «Contas de ordem»:
 
-###### Artigo 260.º «Juntas autónomas dos portos»:
+Artigo 260.º «Juntas autónomas dos portos»:
 
 Do Norte:
 
@@ -146,25 +155,25 @@ Do Distrito de Ponta Delgada ... 100000$00
 
 ... 5370000$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
-### Capítulo 3.º, grupo 1, artigo 59.º «Serviços médico-legais» ... 35000$00
+Capítulo 3.º, grupo 1, artigo 59.º «Serviços médico-legais» ... 35000$00
 
-### Capítulo 3.º, grupo 2, artigo 66.º «Multas e penalidades diversas» ... 25000$00
+Capítulo 3.º, grupo 2, artigo 66.º «Multas e penalidades diversas» ... 25000$00
 
-### Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 1500000$00
+Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 1500000$00
 
-### Capítulo 5.º, grupo 1, artigo 88.º «Serviços autónomos e empresas públicas» ... 2000000$00
+Capítulo 5.º, grupo 1, artigo 88.º «Serviços autónomos e empresas públicas» ... 2000000$00
 
-### Capítulo 15.º, artigo 184.º «Direcção-Geral dos Serviços Pecuários: Estação de Fomento Pecuário» ... 210000$00
+Capítulo 15.º, artigo 184.º «Direcção-Geral dos Serviços Pecuários: Estação de Fomento Pecuário» ... 210000$00
 
-### Capítulo 15.º, artigo 192.º «Juntas autónomas dos portos» ... -1600000$00
+Capítulo 15.º, artigo 192.º «Juntas autónomas dos portos» ... -1600000$00
 
 ... 5370000$00
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Justiça:
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Justiça:
 
 A observação (27) aposta à dotação do capítulo 7.º, artigo 590.º, é alterada para:
 
@@ -172,8 +181,8 @@ Sujeita a duplo cabimento a quantia de 185000$00.
 
 Marcello Caetano - César Henrique Moreira Baptista - António Maria de Mendonça Lino Neto - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 19 de Dezembro de 1973.**
+Promulgado em 19 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

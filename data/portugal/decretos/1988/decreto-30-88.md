@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/30-1988-370251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f028ade2ba013de8bcaa7814180a92e47baa4fc88452cb69ffe05ce3039a4456
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9682bfe61cfc297b256c308c96650f630ef5c7735c31c57aafcd84722924bcef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Internacional de Limites entre Portugal e Espanha
+- Convenção
+- Espanha
+- Pesca
+- Pesca Fluvial
+- Portugal
+- Regulamento
 relationships: []
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:34Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +94,17 @@ de 8 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Regulamento da Pesca nos Troços Fluviais Fronteiriços entre Portugal e Espanha, à excepção do Troço Internacional do Rio Minho e da Zona sob Jurisdição Marítima do Rio Guadiana, elaborado no âmbito da Comissão Internacional de Limites entre Portugal e Espanha e aprovado na respectiva reunião plenária realizada em Lisboa de 15 a 17 de Julho de 1987, cujos textos originais em português e espanhol vão anexos ao presente decreto.
+Artigo único. É aprovado o Regulamento da Pesca nos Troços Fluviais Fronteiriços entre Portugal e Espanha, à excepção do Troço Internacional do Rio Minho e da Zona sob Jurisdição Marítima do Rio Guadiana, elaborado no âmbito da Comissão Internacional de Limites entre Portugal e Espanha e aprovado na respectiva reunião plenária realizada em Lisboa de 15 a 17 de Julho de 1987, cujos textos originais em português e espanhol vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 14 de Julho de 1988. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Assinado em 14 de Agosto de 1988.**
+Assinado em 14 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1988.**
+Referendado em 23 de Agosto de 1988.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.
 
@@ -295,4 +302,4 @@ Para estes efeitos, a Comissão Internacional a que se refere o artigo 10.º des
 
 4.ª O presente Regulamento poderá ser denunciado a todo o momento por qualquer dos Estados por notificação escrita ao outro Estado. A denúncia produzirá os seus efeitos seis meses após a referida notificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20800/37103716.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20800/37103716.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20800/37103716.pdf)

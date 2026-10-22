@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/100-1982-396679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e8655b72a4c24afae20604952ba974cad807c575c1eb1902ebc5372e8f912ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f2520c01d1712d27727034d8d871501d57d5407e1bb1e2d59231b2a8b9f558c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formas de Provimento
+- Observatório Astronómico
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:527424:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527424:por
+  label: "Substituído o quadro de pessoal anexo ao presente diploma pela Port.215/97.1997.04.01.PCM DR.IS-B [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/215-1997-527424
+  date: '1997-04-01'
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:52Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +121,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro de pessoal do Observatório Astronómico de Lisboa é o constante do mapa anexo ao presente diploma.
+Artigo 1.º O quadro de pessoal do Observatório Astronómico de Lisboa é o constante do mapa anexo ao presente diploma.
 
-###### Art. 2.º - 1 - As formas de recrutamento e o regime de provimento do pessoal investigador são os previstos no [Decreto-Lei n.º 415/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1980-461651), de 27 de Setembro.
+Art. 2.º - 1 - As formas de recrutamento e o regime de provimento do pessoal investigador são os previstos no [Decreto-Lei n.º 415/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1980-461651), de 27 de Setembro.
 
 2 - As formas de recrutamento e o regime de provimento do pessoal técnico superior são os previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
@@ -110,7 +135,7 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 6 - O pessoal auxiliar, compreendendo as carreiras de contínuo e de guarda e as auxiliares de limpeza, rege-se pelo disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673) e na lei geral.
 
-###### Art. 3.º - 1 - O pessoal que venha prestando serviço no Observatório Astronómico de Lisboa será provido em lugares do quadro anexo ao presente diploma, com a salvaguarda dos direitos e regalias já adquiridos e com respeito pelas disposições legais aplicáveis, designadamente o n.º 3 da alínea b) do artigo 4.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio.
+Art. 3.º - 1 - O pessoal que venha prestando serviço no Observatório Astronómico de Lisboa será provido em lugares do quadro anexo ao presente diploma, com a salvaguarda dos direitos e regalias já adquiridos e com respeito pelas disposições legais aplicáveis, designadamente o n.º 3 da alínea b) do artigo 4.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio.
 
 2 - A transição dos actuais funcionários e agentes do Observatório Astronómico de Lisboa para as carreiras e categorias previstas no quadro anexo ao presente diploma, para efeitos do disposto no número anterior, far-se-á por diploma individual de provimento, com observância dos requisitos habilitacionais legalmente estabelecidos, e de acordo com as seguintes regras:
 
@@ -120,24 +145,24 @@ b) Os actuais astrónomos que sejam reclassificados em categorias da carreira de
 
 c) Os restantes funcionários transitarão, consoante os casos e com salvaguarda das habilitações legais: para categoria igual à que o funcionário ou agente já possui; para categoria que integre as funções que o funcionário ou agente desempenha, remunerada pela mesma letra de vencimento; para categoria que integre as funções que o funcionário ou agente desempenha, remunerada pela letra de vencimento imediatamente superior, quando não haja coincidência de remunerações, desde que se verifique extinção de carreiras ou categorias.
 
-###### Art. 4.º - 1 - O director do Observatório Astronómico de Lisboa será nomeado pelo Ministro da Educação de entre os investigadores de mais elevada categoria do respectivo quadro.
+Art. 4.º - 1 - O director do Observatório Astronómico de Lisboa será nomeado pelo Ministro da Educação de entre os investigadores de mais elevada categoria do respectivo quadro.
 
 2 - O subdirector do Observatório Astronómico de Lisboa será nomeado pelo Ministro da Educação de entre os investigadores do respectivo quadro, por proposta do director.
 
 3 - O director e o subdirector do Observatório Astronómico de Lisboa terão direito a gratificações de montante a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa.
 
-###### Art. 5.º As dúvidas suscitadas na aplicação e interpretação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa, consoante as respectivas competências.
+Art. 5.º As dúvidas suscitadas na aplicação e interpretação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa, consoante as respectivas competências.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Pias - João José Fraústo da Silva - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 4 de Agosto de 1982.**
+Promulgado em 4 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA
 
 Quadro de pessoal do Observatório Astronómico de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/19800/25202521.pdf))](https://files.diariodarepublica.pt/1s/1982/08/19800/25202521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19800/25202521.pdf)

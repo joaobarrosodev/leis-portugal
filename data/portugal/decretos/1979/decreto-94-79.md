@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/94-1979-378542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d10d17cecb0acc28cf9931d4ea1c25df2cdd7645a294b6e39a7cab5b9e5fdd0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c55ae3e7b4da8698dfa8d7bd6453e7fc6630ca5ab3d71c8a32ef38e4af735228
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bruxelas
+- Classificação de Mercadorias
+- Convenção
+- Nomenclatura Pautal
+- Pauta Aduaneira
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:281664:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:03Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +102,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. Os textos em francês e português da Convenção sobre a Nomenclatura para a Classificação das Mercadorias nas Pautas Aduaneiras, feita em Bruxelas em 15 de Dezembro de 1950 e aprovada para ratificação pelo [Decreto-Lei n.º 42905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42905-1960-281664), de 6 de Abril de 1960, passam a ser os que seguem em anexo a este decreto.
+Artigo único. Os textos em francês e português da Convenção sobre a Nomenclatura para a Classificação das Mercadorias nas Pautas Aduaneiras, feita em Bruxelas em 15 de Dezembro de 1950 e aprovada para ratificação pelo [Decreto-Lei n.º 42905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42905-1960-281664), de 6 de Abril de 1960, passam a ser os que seguem em anexo a este decreto.
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convenção sobre a Nomenclatura para a Classificação das Mercadorias nas Pautas Aduaneiras
 
@@ -120,7 +130,7 @@ Entendendo que o melhor meio de obter resultados a este respeito é elaborar uma
 
 convencionaram o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Para os fins da presente Convenção:
 
@@ -132,7 +142,7 @@ c) Entende-se por «Conselho» o Conselho de Cooperação Aduaneira visado no pa
 
 d) Entende-se por «secretário-geral» o secretário-geral do Conselho.
 
-ARTIGO II
+###### ARTIGO II
 
 a) Cada Parte Contratante elaborará a sua pauta aduaneira de conformidade com a Nomenclatura, sob reserva das adaptações formais indispensáveis para dar efeito a essa Nomenclatura, segundo a sua legislação nacional: a pauta assim elaborada será aplicada de conformidade com a Nomenclatura a partir da data em que a presente Convenção entrar em vigor relativamente a essa Parte Contratante.
 
@@ -146,13 +156,13 @@ iii) A inserir as regras gerais para a interpretação da Nomenclatura.
 
 c) Nenhuma disposição do presente artigo impede as Partes Contratantes de criar, dentro das posições da Nomenclatura, subposições para a classificação das mercadorias na sua pauta aduaneira.
 
-ARTIGO III
+###### ARTIGO III
 
 a) O Conselho fica encarregado de velar pela boa execução da presente Convenção, a fim de assegurar a sua uniforme interpretação e aplicação.
 
 b) Com este fim, o Conselho instituirá uma comissão, denominada «Comissão da Nomenclatura», na qual terão o direito de estar representados os membros do Conselho aos quais se aplique a presente Convenção.
 
-ARTIGO IV
+###### ARTIGO IV
 
 A Comissão da Nomenclatura exercerá, sob autoridade do Conselho e segundo as suas directrizes, as funções seguintes:
 
@@ -168,7 +178,7 @@ e) Proporá ao Conselho os projectos de emendas à presente Convenção que ente
 
 f) Exercerá, no referente à classificação das mercadorias nas pautas aduaneiras, quaisquer outros poderes ou funções que o Conselho nela delegar.
 
-ARTIGO V
+###### ARTIGO V
 
 a) A Comissão da Nomenclatura reunirá, pelo menos, três vezes por ano.
 
@@ -176,15 +186,15 @@ b) Elegerá um presidente e um ou mais vice-presidentes.
 
 c) Elaborará o seu regulamento interno por decisão tomada por maioria de dois terços dos seus membros. Este regulamento será submetido à aprovação do Conselho.
 
-ARTIGO VI
+###### ARTIGO VI
 
 O anexo à presente Convenção faz parte integrante desta, e qualquer referência a esta Convenção aplica-se igualmente a esse anexo.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As Partes Contratantes não assumem, pela presente Convenção, nenhum compromisso no que se refere às taxas dos direitos aduaneiros.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 a) Todas as disposições de outros acordos internacionais são ab-rogadas entre as Partes Contratantes, na medida em que forem contrárias à presente Convenção.
 
@@ -192,7 +202,7 @@ b) A presente Convenção não derroga as obrigações que uma Parte Contratante
 
 No entanto, as Partes Contratantes tomarão, desde que as circunstâncias o permitam, e em todos os casos, na altura de renovação de acordos, todas as medidas destinadas a torná-los conformes com as disposições da presente Convenção.
 
-ARTIGO IX
+###### ARTIGO IX
 
 a) Qualquer divergência entre duas ou várias Partes Contratantes, no que se refere à interpretação ou à aplicação da presente Convenção, será regulada, tanto quanto possível, por meio de negociações directas entre as ditas Partes.
 
@@ -202,21 +212,19 @@ c) Se a Comissão da Nomenclatura não puder resolver a divergência apresentá-
 
 d) As partes em litígio podem convencionar antecipadamente aceitar as recomendações da Comissão ou do Conselho.
 
-ARTIGO X
+###### ARTIGO X
 
 A presente Convenção estará patente até 31 de Março de 1951 à assinatura de qualquer Governo que tiver assinado a Convenção para Criação do Conselho.
 
-ARTIGO XI
+###### ARTIGO XI
 
 a) A presente Convenção será ratificada.
 
 b) Os instrumentos de ratificação serão depositados no Ministério dos Negócios Estrangeiros da Bélgica, que desse depósito notificará os Governos signatários e aderentes, assim como o secretário-geral. Todavia, nenhum Governo poderá depositar o instrumento de ratificação da presente Convenção sem previamente depositar o instrumento de ratificação da Convenção para Criação do Conselho.
 
-ARTIGO XII
+###### ARTIGO XII — (Revogado pelo Protocolo de Rectificação de 1 de Julho de 1955, artigo 6.)
 
-(Revogado pelo Protocolo de Rectificação de 1 de Julho de 1955, artigo 6.)
-
-ARTIGO XIII
+###### ARTIGO XIII
 
 a) O Governo de qualquer Estado não signatário da presente Convenção que tiver ratificado a Convenção para Criação do Conselho ou a ela tiver aderido poderá aderir à presente Convenção a partir de 1 de Abril de 1951.
 
@@ -224,7 +232,7 @@ b) Os instrumentos de adesão serão depositados no Ministério dos Negócios Es
 
 c)(Revogado pelo Protocolo de Rectificação de 1 de Julho de 1955, artigo 6.)
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 a) A presente Convenção é firmada para duração ilimitada, mas qualquer Parte Contratante poderá denunciá-la, em qualquer momento, decorridos cinco anos sobre a data da sua entrada em vigor.
 
@@ -232,7 +240,7 @@ A denúncia tornar-se-á efectiva ao expirar o prazo de um ano, a contar da data
 
 b) Qualquer Parte Contratante que denuncie a Convenção para Criação do Conselho deixará de ser parte na presente Convenção.
 
-ARTIGO XV
+###### ARTIGO XV
 
 a) Qualquer Governo poderá declarar, quer no momento de ratificação ou adesão, quer ulteriormente, por notificação ao Ministério dos Negócios Estrangeiros da Bélgica, que a presente Convenção é extensiva aos territórios cujas relações internacionais estão sob a sua responsabilidade; a Convenção será aplicável aos ditos territórios três meses depois da data da recepção dessa notificação no Ministério dos Negócios Estrangeiros da Bélgica, mas não antes da data da entrada em vigor da presente Convenção em relação a esse Governo.
 
@@ -240,7 +248,7 @@ b) Qualquer Governo que, em virtude do parágrafo a) anterior, tiver aceite a pr
 
 c) O Ministério dos Negócios Estrangeiros da Bélgica informará todos os Governos signatários e aderentes, assim como o secretário-geral, de qualquer notificação que receber, em virtude do presente artigo.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 a) O Conselho poderá recomendar às Partes Contratantes emendas à presente Convenção.
 

@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1990-573491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff8c05d27f22f27e65dbfa33fde79ba1388e2dfae109fca41fe5a78143966ce2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2071d7b0d8144ca2e6e67ad0de849ccf63e0381504e9f97316d2c49e4283d415
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bissau
+- Convenção
+- Cooperação Jurídica
+- Guiné-Bissau
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:12Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +91,19 @@ de 9 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Jurídica entre a República Portuguesa e a República da Guiné-Bissau, assinado em Bissau, a 5 de Março de 1989, em dois exemplares originais, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Jurídica entre a República Portuguesa e a República da Guiné-Bissau, assinado em Bissau, a 5 de Março de 1989, em dois exemplares originais, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 1990. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 24 de Julho de 1990.**
+Assinado em 24 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Julho de 1990.**
+Referendado em 26 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO ADICIONAL AO ACORDO DE COOPERAÇÃO JURÍDICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU.
 

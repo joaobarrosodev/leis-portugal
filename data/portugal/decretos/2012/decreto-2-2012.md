@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/2012/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-2012-543025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:21:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecd75b90934d563ab335e6c1ceaa64a392e6ea4e42934a26888aeca5c9bbb4fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c7434882414a996a1533a3ebb3b64015bd89a89d102c199a6662de98fe0a7dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:21:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Impacte Ambiental
 - Convenção
 - Cooperação Transfronteira
-- Portugal
+- Croácia
 - Espoo
 - ONU
-- Avaliação de Impacte Ambiental
-- Croácia
+- Portugal
 relationships:
 - type: cites
   target: celex:31985L0337
@@ -89,13 +89,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:21:09Z'
   warnings: []
   errors: []
 ---
@@ -116,15 +116,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 2011. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Assinado em 13 de Janeiro de 2012.**
+Assinado em 13 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Janeiro de 2012.**
+Referendado em 16 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO VII — Decisão III/7
 
@@ -192,7 +192,7 @@ No Apêndice VI, após o n.º 2, aditar um novo número com a seguinte redacçã
 
 «3 - Os n.os 1 e 2 são aplicáveis, mutatis mutandis, a qualquer protocolo da Convenção.»
 
-## APÊNDICE
+APÊNDICE
 
 Lista de actividades
 
@@ -450,4 +450,4 @@ In both cases transfers of piped drinking water are excluded.
 
 (3) For the purposes of this Convention, «airport» means an airport which complies with the definition in the 1944 Chicago Convention setting up the International Civil Aviation Organization (annex 14).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03300/0075600760.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03300/0075600760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03300/0075600760.pdf)

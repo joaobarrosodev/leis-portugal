@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-1977-492444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ced59d45b0114fa8181754c901afc8cb20e1134dc23cfec31bea6ff2e7a6182
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13be910726013b5b920d4a63212713e188d3c2fd940d7e3235877db62f879e58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Lisboa
+- Palop
+- Pensões
+- Portugal
+- Proteção Social
+- Segurança Social
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:37Z'
   warnings: []
   errors: []
 ---
@@ -86,45 +93,45 @@ de 8 de Janeiro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Especial entre a República Portuguesa e a República da Guiné-Bissau Relativo às Instituições de Previdência, assinado em 21 de Junho de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Especial entre a República Portuguesa e a República da Guiné-Bissau Relativo às Instituições de Previdência, assinado em 21 de Junho de 1976, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 22 de Dezembro de 1976.**
+Assinado em 22 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo Especial entre a República Portuguesa e a República da Guiné-Bissau Relativo às Instituições de Previdência
 
 Considerando a necessidade de assegurar tanto os direitos dos pensionistas das instituições de previdência da República da Guiné-Bissau, designadamente do Montepio das Alfândegas, da Caixa de Previdência dos Funcionários Públicos e da Caixa de Auxílio dos Correios e Telecomunicações, com os direitos dessas mesmas instituições, o Governo da República da Guiné-Bissau e o Governo da República Portuguesa acordam no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O Governo da República da Guiné-Bissau assegura aos já pensionistas a manutenção das suas pensões, independentemente da sua nacionalidade e do local da sua residência.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 O Governo da República da Guiné-Bissau assegura a restituição da correspondente reserva, nos termos dos respectivos regulamentos e estatutos, aos pensionistas que hajam abandonado ou queiram abandonar o país e manifestem o desejo de não continuar a manter a qualidade de pensionistas.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 O Governo da República da Guiné-Bissau assegura aos pensionistas exonerados ou demitidos os direitos presentemente previstos nos regulamentos e estatutos das respectivas instituições.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O Governo da República da Guiné-Bissau assegura primeira prioridade na transferência dos montantes que resultarem da aplicação dos artigos anteriores, desde que os interessados residam no exterior.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 O Governo da República Portuguesa assegura a efectivação dos descontos aos funcionários regressados a Portugal após o reconhecimento da independência da República da Guiné-Bissau que no presente mantenham ainda essa qualidade, promovendo o depósito dos mesmos descontos à ordem das respectivas instituições.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Exceptuam-se do disposto no artigo anterior os casos em que pelo Governo da República da Guiné-Bissau tenha havido lugar à aplicação do Decreto n.º 60/75, de 6 de Dezembro.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 O presente Acordo entrará em vigor na data da sua assinatura.
 

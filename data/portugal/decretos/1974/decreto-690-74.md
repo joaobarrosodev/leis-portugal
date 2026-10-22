@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/690-1974-466823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac8af8986963489c9e9f069b7d1e27c645b9eb82c1d44f153e714128e34ebe18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3eefa0ed1bb50b2ec346fa571183db1b7feba5242842aefe8a542b7b4f0b5eee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adjudicação de Obras Públicas
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Despesas Públicas
+- Direcção do Serviço de Fortificações e Obras do Exército
+- Obras Públicas
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446364:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:05Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +103,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo artigo 1.º da [Lei n.º 4/74](https://diariodarepublica.pt/dr/detalhe/lei/4-1974-446364), de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção do Serviço de Fortificações e Obras Militares a celebrar contrato para a execução da empreitada de construção de novas instalações do Serviço Cartográfico do Exército, 2.ª fase, até ao montante de 20800000$00, ainda que as propostas dos concorrentes sejam apresentadas pelo valor total da obra.
+Artigo 1.º É autorizada a Direcção do Serviço de Fortificações e Obras Militares a celebrar contrato para a execução da empreitada de construção de novas instalações do Serviço Cartográfico do Exército, 2.ª fase, até ao montante de 20800000$00, ainda que as propostas dos concorrentes sejam apresentadas pelo valor total da obra.
 
-###### Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá exceder, em cada ano, as seguintes quantias:
+Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá exceder, em cada ano, as seguintes quantias:
 
 Em 1974 ... 10800000$00
 
@@ -99,10 +113,10 @@ Em 1975 ... 10000000$00
 
 2. A importância fixada para o ano de 1975 será adicionada do saldo apurado do ano de 1974.
 
-**O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior do Exército, Carlos Alberto Idães Soares Fabião. - O Ministro da Defesa Nacional, Victor Manuel Rodrigues Alves. - O Ministro das Finanças, José da Silva Lopes.**
+O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior do Exército, Carlos Alberto Idães Soares Fabião. - O Ministro da Defesa Nacional, Victor Manuel Rodrigues Alves. - O Ministro das Finanças, José da Silva Lopes.
 
-**Promulgado em 26 de Novembro de 1974.**
+Promulgado em 26 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/13100/12511253.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/441-1976-427377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cff544af4eb1cb79d2082f3aa53d00fbda4cb3610cb47237ade9f862ecd6a57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8910bda6e7d6403361fafd1e14531ba6439c298e3ec49c0627496f8ef103b8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão para o Lançamento do Programa de Aproveitamento Integrado das Pirites
+- Pirites
+- Programa de Aproveitamento Integrado das Pirites
 relationships:
 - type: amended_by
   target: pt:dre:600512:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:600512:por
+  label: Extinta, a partir de 10.03.1982, a Comissão para o Lançamento do Programa de Aproveitamento Integrado das Pirites,
+    constituída pelo presente diploma, pelo(a) Decreto n.º 25/82 - Diário da República n.º 32/1982, Série I de 1982-02-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/25-1982-600512
+  date: '1982-02-08'
+- type: cites
+  target: pt:dre:473881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:23Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +124,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É constituída no Ministério da Indústria e Tecnologia e na directa dependência do Secretário de Estado da Energia e Minas a Comissão para o Lançamento do Programa de Aproveitamento Integrado das Pirites.
+Artigo 1.º É constituída no Ministério da Indústria e Tecnologia e na directa dependência do Secretário de Estado da Energia e Minas a Comissão para o Lançamento do Programa de Aproveitamento Integrado das Pirites.
 
-###### Art. 2.º A Comissão fica incumbida de:
+Art. 2.º A Comissão fica incumbida de:
 
 a) Proceder à revisão, integração e consolidação dos estudos e trabalhos já realizados, em ordem ao lançamento, no mais curto prazo, do programa para o aproveitamento integrado das pirites;
 
@@ -123,15 +136,15 @@ c) Promover, para o efeito de se resolverem esses problemas, a organização dos
 
 d) Estabelecer, a fim de ser submetido a decisão governamental, o esquema que, através da conjugação coordenadora dos planos dos sectores económicos conexos e das unidades industriais existentes ou a criar nesses sectores, permita executar o referido programa com o máximo de vantagens.
 
-###### Art. 3.º O Secretário de Estado da Energia e Minas definirá, por despacho, os termos em que a Comissão instituída por este decreto deve accionar o esquema adoptado para a execução do programa para o aproveitamento integrado das pirites.
+Art. 3.º O Secretário de Estado da Energia e Minas definirá, por despacho, os termos em que a Comissão instituída por este decreto deve accionar o esquema adoptado para a execução do programa para o aproveitamento integrado das pirites.
 
-###### Art. 4.º A Comissão, para os efeitos do disposto no artigo 2.º, submeterá à aprovação do Secretário de Estado da Energia e Minas:
+Art. 4.º A Comissão, para os efeitos do disposto no artigo 2.º, submeterá à aprovação do Secretário de Estado da Energia e Minas:
 
 a) O plano global das actividades a empreender, no prazo de trinta dias, contados da data da respectiva constituição;
 
 b) Programas de trabalhos e relatórios de actividades, conforme for determinado pelo mesmo Secretário de Estado.
 
-###### Art. 5.º - 1. Para o exercício das suas funções, a Comissão pode, com a aprovação do Secretário de Estado da Energia e Minas:
+Art. 5.º - 1. Para o exercício das suas funções, a Comissão pode, com a aprovação do Secretário de Estado da Energia e Minas:
 
 a) Organizar os respectivos serviços de apoio;
 
@@ -139,9 +152,9 @@ b) Constituir núcleos de trabalho.
 
 2. No exercício das suas funções, a Comissão pode, ainda, corresponder-se com quaisquer entidades públicas ou privadas e estabelecer com elas os contactos que considerar convenientes, ficando umas e outras obrigadas a prestar-lhe as informações, os pareceres ou elementos de que precisar.
 
-###### Art. 6.º A Comissão palra o Lançamento do Programa de Aproveitamento Integrado das Pirites será constituída por despacho do Ministro da Indústria e Tecnologia, devendo incluir um elemento do Gabinete da Área de Sines, quer pelo volume de informação de que este dispõe, quer pela indispensável coordenação que é necessário assegurar relativamente à sua inserção no complexo urbano-industrial-portuário a cargo daquele organismo.
+Art. 6.º A Comissão palra o Lançamento do Programa de Aproveitamento Integrado das Pirites será constituída por despacho do Ministro da Indústria e Tecnologia, devendo incluir um elemento do Gabinete da Área de Sines, quer pelo volume de informação de que este dispõe, quer pela indispensável coordenação que é necessário assegurar relativamente à sua inserção no complexo urbano-industrial-portuário a cargo daquele organismo.
 
-###### Art. 7.º - 1. O Ministro da Indústria e Tecnologia poderá, ainda, quando for necessário para a constituição dos serviços de apoio e dos núcleos de trabalho da Comissão:
+Art. 7.º - 1. O Ministro da Indústria e Tecnologia poderá, ainda, quando for necessário para a constituição dos serviços de apoio e dos núcleos de trabalho da Comissão:
 
 a) Destacar pessoal de quaisquer serviços do Ministério da Indústria e Tecnologia;
 
@@ -153,24 +166,24 @@ d) Contratar ou assalariar pessoal, nacional ou estrangeiro.
 
 2. O destacamento a que se refere a alínea a) do número anterior será feito em regime de comissão de serviço, se necessário, nos termos do despacho que o determinar.
 
-###### Art. 8.º Os encargos resultantes da execução do presente diploma serão suportados por verbas adequadas a inscrever no orçamento do Ministério da Indústria e Tecnologia.
+Art. 8.º Os encargos resultantes da execução do presente diploma serão suportados por verbas adequadas a inscrever no orçamento do Ministério da Indústria e Tecnologia.
 
-###### Art. 9.º A Comissão goza de autonomia administrativa.
+Art. 9.º A Comissão goza de autonomia administrativa.
 
-###### Art. 10.º O Ministro da Indústria e Tecnologia, ouvido o Ministro das Finanças, fixará, por despacho, tendo em atenção o limite estabelecido no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro:
+Art. 10.º O Ministro da Indústria e Tecnologia, ouvido o Ministro das Finanças, fixará, por despacho, tendo em atenção o limite estabelecido no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro:
 
 a) As remunerações dos membros da Comissão instituída por este diploma;
 
 b) As remunerações do pessoal afecto aos serviços de apoio e aos núcleos de trabalho de que tratam as alíneas a) e b) do n.º 1 do artigo 5.º
 
-###### Art. 11.º As dúvidas suscitadas pela interpretação e pela aplicação do presente decreto serão resolvidas por despacho do Ministro da Indústria e Tecnologia.
+Art. 11.º As dúvidas suscitadas pela interpretação e pela aplicação do presente decreto serão resolvidas por despacho do Ministro da Indústria e Tecnologia.
 
-###### Art. 12.º Este diploma entra em vigor à data da sua publicação.
+Art. 12.º Este diploma entra em vigor à data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 28 de Maio de 1976.**
+Promulgado em 28 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

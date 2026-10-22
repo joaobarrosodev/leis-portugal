@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/121-1979-363284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5caf23a4af603b5d4bdd894c0fa2dc8e0d10682e7d22c897c4bd7b863520a182
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72a7c9b7e637e9c0891bffe0ef80b91106b6df1748bbd001fc5cdbf5af387a7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bulgária
+- Convenção
+- Cooperação Bilateral
+- Lisboa
+- Portugal
+- Relações Diplomáticas
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:51Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +93,19 @@ de 9 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada a Convenção Consular entre a República Portuguesa e a República Popular da Bulgária, assinada em Lisboa em 30 de Novembro de 1977, cujos textos em português e em búlgaro acompanham o presente decreto.
+Artigo único. É aprovada a Convenção Consular entre a República Portuguesa e a República Popular da Bulgária, assinada em Lisboa em 30 de Novembro de 1977, cujos textos em português e em búlgaro acompanham o presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 15 de Outubro de 1979.**
+Assinado em 15 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convenção Consular entre a República Portuguesa e a República Popular da Bulgária
 
-**O Presidente da República Portuguesa e o Conselho de Estado da República Popular da Bulgária, desejosos de desenvolver ulteriormente as relações de amizade:**
+O Presidente da República Portuguesa e o Conselho de Estado da República Popular da Bulgária, desejosos de desenvolver ulteriormente as relações de amizade:
 
 Decidiram celebrar a presente Convenção e designaram como plenipotenciários para este efeito, o Presidente da República Portuguesa, Mário Soares, o Conselho de Estado da República Popular da Bulgária, Petar Mladenov, os quais, após terem trocado os respectivos plenos poderes reconhecidos em boa e devida forma, concordaram nas seguintes disposições:
 
@@ -253,7 +259,7 @@ Os arquivos e documentos consulares serão sempre invioláveis, onde quer que se
 
 ###### ARTIGO 18
 
-**O chefe titular do posto consular beneficia da inviolabilidade pessoal. Não poder ser sujeito a prisão ou a detenção sob qualquer forma.**
+O chefe titular do posto consular beneficia da inviolabilidade pessoal. Não poder ser sujeito a prisão ou a detenção sob qualquer forma.
 
 Os membros do posto consular e os membros da sua família que vivam com eles, bem como os membros da família do chefe do posto consular que com ele vivam, beneficiam da inviolabilidade pessoal.
 
@@ -541,4 +547,4 @@ Pelo Conselho de Estado da República Popular da Bulgária:
 
 Petar Mladenov.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25900/28492863.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25900/28492863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25900/28492863.pdf)

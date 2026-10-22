@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/66-1979-381755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f36a133f3ad4e4f7ceebdf4cc32b4601ccafdd87ed7d1a7f16e6cec77510cf61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 041563e925690b5b762c6b479ad9b55529900e80e874facf5d084a9ba73c4a46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- Segurança Social
 relationships: []
 article_structure:
-  article_count: 57
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 56
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:37Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +91,15 @@ Considerando o interesse de que se reveste para a comunidade portuguesa na Suéc
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção de Segurança Social entre a República Portuguesa e o reino da Suécia, assinada em Lisboa em 25 de Outubro de 1978, cujo texto em português, sueco e inglês vai anexo ao presente decreto, bem assim como o texto do Acordo Administrativo para aplicação daquela convenção, assinado em Lisboa na mesma data.
+Artigo único. É aprovada, para ratificação, a Convenção de Segurança Social entre a República Portuguesa e o reino da Suécia, assinada em Lisboa em 25 de Outubro de 1978, cujo texto em português, sueco e inglês vai anexo ao presente decreto, bem assim como o texto do Acordo Administrativo para aplicação daquela convenção, assinado em Lisboa na mesma data.
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 28 de Maio de 1979.**
+Assinado em 28 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convenção de Segurança Social entre a República Portuguesa e o Reino da Suécia
 
@@ -470,7 +473,7 @@ Acordo Administrativo para Aplicação da Convenção sobre Segurança Social en
 
 Em conformidade com o artigo 31.º da Convenção sobre Segurança Social, concluída este dia entre Portugal e a Suécia, as autoridades administrativas competentes dos dois Estados acordaram nas seguintes disposições, com vista à aplicação da mesma Convenção.
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Organismos de ligação
 
@@ -482,7 +485,7 @@ Na Suécia, o Instituto Nacional de Seguro Social e o Instituto do Mercado do Tr
 
 2 - As obrigações dos organismos de ligação são as estabelecidas neste Acordo com vista à aplicação da Convenção, os organismos de ligação poderão comunicar directamente entre si, bem como com os interessados ou os seus representantes, e prestar-se-ão mutuamente os seus bons ofícios.
 
-# PARTE II — Aplicação das disposições que determinam a legislação aplicável
+## PARTE II — Aplicação das disposições que determinam a legislação aplicável
 
 ###### Artigo 2.º — Destacamento
 
@@ -492,7 +495,7 @@ Em Portugal, pela caixa de previdência em que o trabalhador está inscrito;
 
 Na Suécia, pelo Instituto Nacional de Seguro Social.
 
-# PARTE III — Aplicação das disposições relativas a diferentes categorias de prestações
+## PARTE III — Aplicação das disposições relativas a diferentes categorias de prestações
 
 ### CAPÍTULO 1.º — Doença, maternidade e parto
 
@@ -554,7 +557,7 @@ Os artigos 6.º e 7.º devem aplicar-se relativamente ao pagamento das anuidades
 
 Quando uma pessoa, com referência ao capítulo 4.º do título III da Convenção, requerer prestações pecuniárias, no caso de desemprego, numa das Partes Contratantes, devem ser obtidas, se necessário, informações do organismo de ligação da outra Parte.
 
-# PARTE IV — Disposições finais
+## PARTE IV — Disposições finais
 
 ###### Artigo 11.º — Formulários
 
@@ -584,7 +587,7 @@ For the Portuguese Government:
 
 Paulo Manuel Laje David Ennes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/16000/15071530.pdf))](https://files.diariodarepublica.pt/1s/1979/07/16000/15071530.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/16000/15071530.pdf)
 
 Convention on Social Security between the Republic of Portugal and the Kingdom of Sweden
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/1994/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-1994-510802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1d064c17a1a4e4e2ae3a65ba032fb0557f775f5169926478db48d288eb9d809
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b1de2943708940b2df89f5ec67ab0b56de0b87af17295a488d6164d3efa59b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho da Europa
 - Controlo Anti-doping
 - Convenção
-- Portugal
-- Estrasburgo
-- Conselho da Europa
 - Desporto
+- Estrasburgo
+- Portugal
 relationships: []
 article_structure:
-  article_count: 20
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:07Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 20 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção contra o Doping, aberta à assinatura dos Estados membros do Conselho da Europa a 16 de Novembro de 1989, cuja versão autêntica em língua francesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção contra o Doping, aberta à assinatura dos Estados membros do Conselho da Europa a 16 de Novembro de 1989, cuja versão autêntica em língua francesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1993. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso - António Fernando Couto dos Santos.
 
 Ratificado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION CONTRE LE DOPAGE
 
@@ -714,7 +714,9 @@ acordam no seguinte:
 
 As Partes comprometem-se a tomar, na medida em que as respectivas disposições constitucionais o permitam, as medidas necessárias para efectivarem as disposições contidas na presente Convenção, visando a redução e, a longo prazo, a eliminação do «doping no desporto.
 
-###### Artigo 2.º — Definição e campo de aplicação da Convenção
+Artigo 2.º
+
+Definição e campo de aplicação da Convenção
 
 1 - Para os fins da presente Convenção:
 
@@ -726,13 +728,17 @@ c) Entendem-se por «desportistas» as pessoas de ambos os sexos que habitualmen
 
 2 - Até à aprovação pelo grupo de fiscalização, nos termos do artigo 11.º, n.º 1, alínea b), de uma lista das classes farmacológicas de agentes de doping e de métodos de doping proibidas será aplicável a lista de referência contida no anexo à presente Convenção.
 
-###### Artigo 3.º — Coordenação a nível interno
+Artigo 3.º
+
+Coordenação a nível interno
 
 1 - As Partes coordenarão as políticas e as acções dos seus serviços governamentais e de outros organismos públicos envolvidos na luta contra o doping no desporto.
 
 2 - As Partes providenciarão pela aplicação prática da presente Convenção e, em particular, pela satisfação das exigências contidas no artigo 7.º, confiando - se for caso disso - a efectivação de determinadas disposições contidas na presente Convenção a uma autoridade desportiva governamental ou não governamental designada para o efeito ou a uma organização desportiva.
 
-###### Artigo 4.º — Medidas destinadas a limitar a disponibilidade e a utilização de agentes de doping e de métodos de doping proibidos
+Artigo 4.º
+
+Medidas destinadas a limitar a disponibilidade e a utilização de agentes de doping e de métodos de doping proibidos
 
 1 - Conforme os casos, as Partes adoptarão uma legislação, regulamentos ou medidas administrativas para reduzir a disponibilidade - nomeadamente mediante disposições que visem controlar a respectiva circulação, detenção, importação, distribuição e venda -, bem assim a utilização no desporto de agentes de doping e de métodos de doping proibidos e, em particular, de esteróides anabolisantes.
 
@@ -750,7 +756,9 @@ d) Encorajarão e facilitarão a conclusão pelas organizações desportivas de 
 
 4 - As Partes reservam-se o direito de adoptarem regulamentos antidoping e de organizarem controlos antidoping por sua própria iniciativa e sob a sua responsabilidade, com a condição de que tais controlos sejam compatíveis com os princípios pertinentes da presente Convenção.
 
-###### Artigo 5.º — Laboratórios
+Artigo 5.º
+
+Laboratórios
 
 1 - As Partes comprometem-se:
 
@@ -766,13 +774,17 @@ b) Empreender programas apropriados de pesquisa e de desenvolvimento relativos a
 
 c) Publicar e difundir rapidamente os novos dados obtidos na sequência das suas pesquisas.
 
-###### Artigo 6.º — Educação
+Artigo 6.º
+
+Educação
 
 1 - As Partes comprometem-se a elaborar e a pôr em execução - se for caso disso, em colaboração com as organizações desportivas competentes e com os meios de comunicação de massas - programas educativos e campanhas de informação que realcem os perigos da utilização do doping para a saúde e o atentado dos valores éticos do desporto que o doping implica. Estes programas e campanhas dirigir-se-ão não só aos jovens que frequentem os estabelecimentos escolares e clubes desportivos e respectivos pais, mas também aos atletas adultos, aos responsáveis e directores desportivos e aos treinadores. Quanto às pessoas que trabalham no campo da medicina, estes programas educativos sublinham a importância do respeito dela deontologia médica.
 
 2 - As Partes comprometem-se a encorajar e a promover - em colaboração com as organizações desportivas regionais, nacionais e internacionais interessadas - as pesquisas que se prendam com a elaboração de programas de formação fisiológica e psicológica, que assentem em bases científicas e no respeito pela integridade do ser humano.
 
-###### Artigo 7.º — Colaboração com as organizações desportivas no que se refere às medidas que estas devem tomar
+Artigo 7.º
+
+Colaboração com as organizações desportivas no que se refere às medidas que estas devem tomar
 
 1 - As Partes comprometem-se a encorajar as suas organizações desportivas e - através destas - as organizações desportivas internacionais a elaborarem e porem em prática todas as medidas adequadas decorrentes da sua competência na luta contra o doping no desporto.
 
@@ -810,7 +822,9 @@ e) Utilizarem plena e eficazmente os equipamentos postos à sua disposição par
 
 f) Pesquisarem métodos científicos de treino adaptados a cada desporto e elaborarem os princípios fundamentais destinados a proteger os desportistas de todas as idades.
 
-###### Artigo 8.º — Cooperação internacional
+Artigo 8.º
+
+Cooperação internacional
 
 1 - As Partes cooperarão estreitamente nos domínios abrangidos pelas disposições da presente Convenção e encorajam uma cooperação análoga entre as respectivas organizações desportivas.
 
@@ -824,11 +838,15 @@ c) Instituir uma cooperação bilateral e multilateral entre os respectivos orga
 
 3 - As Partes que disponham de laboratórios criados ou em funcionamento em conformidade com os critérios definidos no artigo 5.º comprometem-se a ajudar as outras Partes a adquirirem a experiência, a competência e as técnicas que lhes são necessárias para a criação dos seus próprios laboratórios.
 
-###### Artigo 9.º — Comunicação de informações
+Artigo 9.º
+
+Comunicação de informações
 
 Cada parte transmitirá ao Secretário-Geral do Conselho da Europa, numa das línguas oficiais do Conselho da Europa, todas as informações pertinentes relativas às medidas legislativas ou outras que tenha tomado no sentido de respeitar as disposições contidas na presente Convenção.
 
-###### Artigo 10.º — Grupo de fiscalização
+Artigo 10.º
+
+Grupo de fiscalização
 
 1 - Para os fins da presente Convenção, constitui-se um grupo de fiscalização.
 
@@ -846,7 +864,7 @@ Cada parte transmitirá ao Secretário-Geral do Conselho da Europa, numa das lí
 
 8 - Sob reserva das disposições contidas na presente Convenção, o grupo de fiscalização estabelecerá o seu regulamento interno, adoptando-o por consenso.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - O grupo de fiscalização fica encarregue de fazer respeitar a aplicação das disposições contidas na presente Convenção. Pode, particularmente:
 
@@ -866,11 +884,13 @@ g) Formular qualquer proposta que vise o melhoramento da eficácia da presente C
 
 2 - Para cumprimento da sua missão, o grupo de fiscalização poderá, por sua própria iniciativa, fixar reuniões de grupos de peritos.
 
-###### Artigo 12.º
+Artigo 12.º
 
 Após cada uma das suas reuniões, o grupo de fiscalização enviará ao Comité de Ministros do Conselho da Europa um relatório sobre os seus trabalhos e sobre o funcionamento da Convenção.
 
-###### Artigo 13.º — Modificações aos artigos da presente Convenção
+Artigo 13.º
+
+Modificações aos artigos da presente Convenção
 
 1 - As modificações aos artigos da presente Convenção poderão ser propostas por uma Parte, pelo Comité de Ministros do Conselho da Europa ou pelo grupo de fiscalização.
 
@@ -886,7 +906,7 @@ Após cada uma das suas reuniões, o grupo de fiscalização enviará ao Comité
 
 Cláusulas finais
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - A presente Convenção fica aberta à assinatura dos Estados membros do Conselho da Europa, dos outros Estados partes na Convenção cultural europeia e dos Estados não membros que tenham participado na elaboração da presente Convenção e que exprimam o seu consentimento em ficarem obrigados pela:
 
@@ -896,19 +916,19 @@ b) Assinatura, sob reserva de ratificação, aceitação ou aprovação, seguida
 
 2 - Os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do Secretário-Geral.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - A Convenção entrará em vigor no primeiro dia do mês seguinte à expiração de um prazo de um mês a contar da data em que cinco Estados - dos quais pelo menos quatro Estados sejam membros do Conselho da Europa - tenham expresso o seu consentimento em ficarem obrigados pela Convenção em conformidade com o disposto no artigo 14.º
 
 2 - Para qualquer Estado signatário que exprima em data posterior o seu consentimento em ficar obrigado pela presente Convenção, esta entrará em vigor no primeiro dia do mês seguinte à expiração de um prazo de um mês a contar da data da assinatura ou do depósito do instrumento de ratificação, aceitação ou aprovação.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - Após a entrada em vigor da presente Convenção e após consulta às Partes, o Comité de Ministros do Conselho da Europa poderá convidar qualquer Estado não membro do Conselho da Europa a aderir à presente Convenção, mediante uma decisão tomada pela maioria prevista no artigo 20.º, alínea d), do Estatuto do Conselho da Europa e por unanimidade dos representantes dos Estados contratantes com representação no Comité de Ministros.
 
 2 - A presente Convenção entrará em vigor, para qualquer Estado aderente, no primeiro dia do mês seguinte à expiração de um prazo de um mês a contar da data do depósito do instrumento de adesão junto do Secretário-Geral.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - Qualquer Estado poderá, no momento da assinatura ou do depósito do instrumento de ratificação, aceitação, aprovação ou adesão, designar o território ou os territórios aos quais se aplicará a presente Convenção.
 
@@ -916,15 +936,15 @@ b) Assinatura, sob reserva de ratificação, aceitação ou aprovação, seguida
 
 3 - Qualquer declaração formulada em virtude dos dois números anteriores poderá ser retirada, relativamente a qualquer território designado na declaração, mediante notificação dirigida ao Secretário-Geral. A retirada produzirá efeitos no primeiro dia do mês seguinte à expiração de um prazo de seis meses a contar da data de recepção da notificação pelo Secretário-Geral.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - Qualquer Parte poderá, a qualquer momento, denunciar a presente Convenção mediante notificação dirigida ao Secretário-Geral.
 
 2 - A denúncia produzirá efeitos no primeiro dia do mês seguinte à expiração de um prazo de seis meses a contar da data da recepção da notificação pelo Secretário-Geral.
 
-###### Artigo 19.º
+Artigo 19.º
 
-**O Secretário-Geral notificará as Partes, os outros Estados membros do Conselho da Europa, os outros Estados partes na Convenção Cultural Europeia, os Estados que tenham participado na elaboração da presente Convenção e qualquer outro Estado que a ela tenha aderido ou tenha sido convidado a aderir:**
+O Secretário-Geral notificará as Partes, os outros Estados membros do Conselho da Europa, os outros Estados partes na Convenção Cultural Europeia, os Estados que tenham participado na elaboração da presente Convenção e qualquer outro Estado que a ela tenha aderido ou tenha sido convidado a aderir:
 
 a) De qualquer assinatura em conformidade com o disposto no artigo 14.º;
 
@@ -948,7 +968,9 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, assina
 
 Feito em Estrasburgo, a 16 de Novembro de 1989, em francês e inglês, fazendo ambos os textos igualmente fé, num único exemplar, que será depositado nos arquivos do Conselho da Europa. O Secretário-Geral do Conselho da Europa enviará uma cópia certificada a cada um dos Estados membros do Conselho da Europa, bem como aos outros Estados partes na Convenção Cultural Europeia, aos Estados não membros que tenham participado na elaboração da presente Convenção e a qualquer Estado convidado a aderir à presente Convenção.
 
-## ANEXO — Lista de referência de classes de substâncias dopantes e de métodos de doping
+ANEXO
+
+Lista de referência de classes de substâncias dopantes e de métodos de doping
 
 I - Classes de agentes de doping:
 

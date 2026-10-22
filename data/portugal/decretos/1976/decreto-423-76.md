@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12600/12181220.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/423-1976-426913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc22c014a0eaf2dc7a409d318a8c47224d8db5cd993636161c574da784d79ae3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b29f4a04439eb86a0e78dde4840a16bde810bfbbfc5390a3305c546ebf7ec93d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Planeamento e Controle
+- Ministério das Obras Públicas
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:461785:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:154453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:461785:por
+  label: "Revogado pelo DEC LEI.406/80.26.09.1980.PCM, DR.IS [223] de 26.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/406-1980-461785
+  date: '1980-09-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:13Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +136,11 @@ De acordo com o n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diario
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Gabinete de Planeamento, criado pelo [Decreto-Lei n.º 673/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/673-1970-154453), de 31 de Dezembro, passa a ser designado por Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas.
+Artigo 1.º O Gabinete de Planeamento, criado pelo [Decreto-Lei n.º 673/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/673-1970-154453), de 31 de Dezembro, passa a ser designado por Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas.
 
-###### Art. 2.º Todos os agentes da função pública do Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas serão incluídos no quadro único anexo a este diploma, que dele faz parte integrante.
+Art. 2.º Todos os agentes da função pública do Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas serão incluídos no quadro único anexo a este diploma, que dele faz parte integrante.
 
-###### Art. 3.º A integração do pessoal existente no ex-Gabinete de Planeamento no quadro do Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas será efectuada segundo as regras seguintes:
+Art. 3.º A integração do pessoal existente no ex-Gabinete de Planeamento no quadro do Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas será efectuada segundo as regras seguintes:
 
 a) Abrange todos os agentes, quer pertençam ao quadro fixado pelo artigo 8.º do [Decreto-Lei n.º 673/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/673-1970-154453), de 31 de Dezembro, quer se encontrem além dele e independentemente da forma de provimento;
 
@@ -116,9 +152,9 @@ d) Efectuar-se-á através de lista nominativa publicada no Diário da Repúblic
 
 e) Não haverá perda de antiguidade na categoria quando os servidores forem integrados em lugares da mesma categoria ou em lugares com categorias novas, pelo facto de os anteriores terem sido extintos.
 
-###### Art. 4.º O pessoal que à data da publicação do presente diploma contar três anos de serviço na categoria, com boas informações, qualificação e mérito, será, mediante proposta do director-geral do Gabinete de Planeamento e Contrôle devidamente fundamentada, integrado em classes ou categorias superiores, desde que possua as habilitações literárias fixadas para provimento nas mesmas.
+Art. 4.º O pessoal que à data da publicação do presente diploma contar três anos de serviço na categoria, com boas informações, qualificação e mérito, será, mediante proposta do director-geral do Gabinete de Planeamento e Contrôle devidamente fundamentada, integrado em classes ou categorias superiores, desde que possua as habilitações literárias fixadas para provimento nas mesmas.
 
-###### Art. 5.º O recrutamento do pessoal para preenchimento dos lugares vagos do quadro que não sejam preenchidos ao abrigo do artigo 3.º será efectuado de harmonia com as regras seguintes:
+Art. 5.º O recrutamento do pessoal para preenchimento dos lugares vagos do quadro que não sejam preenchidos ao abrigo do artigo 3.º será efectuado de harmonia com as regras seguintes:
 
 a) Pessoal dirigente:
 
@@ -142,40 +178,40 @@ c) Pessoal de apoio administrativo e auxiliar, nos termos da lei geral, exigindo
 
 6. Escriturários-dactilógrafos: por concurso de prestação de provas, de entre indivíduos com habilitação correspondente à escolaridade obrigatória.
 
-###### Art. 6.º Relativamente à categoria de litógrafo, quando se verifique a impossibilidade de recrutar este pessoal, com as habilitações mínimas exigidas ao abrigo do n.º 5 da alínea c) do artigo 5.º, poderá o provimento recair em indivíduos que demonstrem, mediante provas práticas, aptidão para o exercício das respectivas funções.
+Art. 6.º Relativamente à categoria de litógrafo, quando se verifique a impossibilidade de recrutar este pessoal, com as habilitações mínimas exigidas ao abrigo do n.º 5 da alínea c) do artigo 5.º, poderá o provimento recair em indivíduos que demonstrem, mediante provas práticas, aptidão para o exercício das respectivas funções.
 
-###### Art. 7.º Até à definição do regime de admissão do pessoal técnico e técnico auxiliar, por via de concurso documental, as vagas existentes serão preenchidas nos termos da alínea b) do artigo 5.º, com dispensa das formalidades do concurso.
+Art. 7.º Até à definição do regime de admissão do pessoal técnico e técnico auxiliar, por via de concurso documental, as vagas existentes serão preenchidas nos termos da alínea b) do artigo 5.º, com dispensa das formalidades do concurso.
 
-###### Art. 8.º - 1. A promoção de pessoal técnico e técnico auxiliar efectuar-se-á através de concurso documental que incida principalmente sobre o trabalho produzido.
+Art. 8.º - 1. A promoção de pessoal técnico e técnico auxiliar efectuar-se-á através de concurso documental que incida principalmente sobre o trabalho produzido.
 
 2. As formas de promoção do pessoal de apoio administrativo serão fixadas em portaria conjunta do Ministro das Obras Públicas e do Ministro da Administração Interna.
 
-###### Art. 9.º Os concursos documentais para recrutamento e promoção do pessoal do Gabinete, a que se referem os artigos 5.º e 8.º, constarão de portaria a aprovar dentro de cento e oitenta dias, a contar da data da publicação deste diploma.
+Art. 9.º Os concursos documentais para recrutamento e promoção do pessoal do Gabinete, a que se referem os artigos 5.º e 8.º, constarão de portaria a aprovar dentro de cento e oitenta dias, a contar da data da publicação deste diploma.
 
-###### Art. 10.º Relativamente aos grupos do quadro do pessoal do Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas, o alargamento de lugares por conta de vagas em categorias superiores, nos termos do artigo 1.º do [Decreto-Lei n.º 27199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27199-1936-323371), de 16 de Novembro de 1936, é extensível a outras categorias além das de ingresso.
+Art. 10.º Relativamente aos grupos do quadro do pessoal do Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas, o alargamento de lugares por conta de vagas em categorias superiores, nos termos do artigo 1.º do [Decreto-Lei n.º 27199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27199-1936-323371), de 16 de Novembro de 1936, é extensível a outras categorias além das de ingresso.
 
-###### Art. 11.º Quando a conveniência do serviço o aconselhar, os lugares do quadro do Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas poderão ser ocupados temporariamente em regime de requisição, ficando o serviço de origem com a possibilidade de prover interinamente a vaga deixada pelo funcionário, nos casos em que a lei geral o admite.
+Art. 11.º Quando a conveniência do serviço o aconselhar, os lugares do quadro do Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas poderão ser ocupados temporariamente em regime de requisição, ficando o serviço de origem com a possibilidade de prover interinamente a vaga deixada pelo funcionário, nos casos em que a lei geral o admite.
 
-###### Art. 12.º Para a realização de estudos que exijam elevado nível técnico poderão ser destacados temporariamente para o Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas, por despacho ministerial, mediante proposta do director-geral, técnicos de outros departamentos do Ministério das Obras Públicas, os quais permanecerão, relativamente ao serviço de origem, na situação de serviço efectivo.
+Art. 12.º Para a realização de estudos que exijam elevado nível técnico poderão ser destacados temporariamente para o Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas, por despacho ministerial, mediante proposta do director-geral, técnicos de outros departamentos do Ministério das Obras Públicas, os quais permanecerão, relativamente ao serviço de origem, na situação de serviço efectivo.
 
-###### Art. 13.º Mediante despacho ministerial, poderão ser autorizados contratos com entidades estranhas ao serviço para realização de estudos, inquéritos ou outros trabalhos de carácter eventual que se mostrem necessários para o desempenho das atribuições do Gabinete.
+Art. 13.º Mediante despacho ministerial, poderão ser autorizados contratos com entidades estranhas ao serviço para realização de estudos, inquéritos ou outros trabalhos de carácter eventual que se mostrem necessários para o desempenho das atribuições do Gabinete.
 
-###### Art. 14.º O Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas poderá ainda contratar além do quadro ou admitir em regime de prestação de serviços a tempo total ou parcial outros servidores, sempre que necessário, com obediência das regras em vigor sobre excedentes de pessoal na função pública.
+Art. 14.º O Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas poderá ainda contratar além do quadro ou admitir em regime de prestação de serviços a tempo total ou parcial outros servidores, sempre que necessário, com obediência das regras em vigor sobre excedentes de pessoal na função pública.
 
-###### Art. 15.º - 1. O presente decreto entra em vigor na data da sua publicação.
+Art. 15.º - 1. O presente decreto entra em vigor na data da sua publicação.
 
 2. Fica revogado o artigo 8.º do [Decreto-Lei n.º 673/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/673-1970-154453), de 31 de Dezembro.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 17 de Maio de 1976.**
+Promulgado em 17 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro do pessoal a que se refere o n.º 1 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/12600/12181220.pdf))](https://files.diariodarepublica.pt/1s/1976/05/12600/12181220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/12600/12181220.pdf)
 
-**O Ministro das Obras Públicas, Álvaro Augusto Veiga de Oliveira.**
+O Ministro das Obras Públicas, Álvaro Augusto Veiga de Oliveira.

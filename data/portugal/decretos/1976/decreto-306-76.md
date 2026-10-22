@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/306-1976-502188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70266d24e757e7c9e22562aa866f6ea143b54f51d4d891c96c2d544f99cb561b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcc11770cabf37b88ddd823581fcc38890f9b413e7195b433e89c995a8bf92bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa de Previdência
+- CASA do POVO
+- Junta Médica
+- Pensão de Invalidez
+- Pensionista
+- Pensões
+- Previdência Social
+- Segurança Social
+- Trabalhador Rural
+relationships:
+- type: cites
+  target: pt:dre:666342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:38Z'
   warnings: []
   errors: []
 ---
@@ -93,22 +110,22 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 4, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 82.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 82.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a ter a seguinte redacção:
 
-###### Art. 82.º - 1. Os inválidos pensionistas, enquanto não completarem a idade estatutária de reforma por velhice, serão sujeitos, sem quaisquer encargos, a exame por uma comissão de revisão, constituída nos termos do n.º 1 do artigo 79.º, sempre que a direcção o entender e, obrigatoriamente, no terceiro ano, para se verificar se as condições que motivaram a concessão da pensão se mantêm.
+Art. 82.º - 1. Os inválidos pensionistas, enquanto não completarem a idade estatutária de reforma por velhice, serão sujeitos, sem quaisquer encargos, a exame por uma comissão de revisão, constituída nos termos do n.º 1 do artigo 79.º, sempre que a direcção o entender e, obrigatoriamente, no terceiro ano, para se verificar se as condições que motivaram a concessão da pensão se mantêm.
 
 2. A aplicação do número anterior quanto à revisão obrigatória no terceiro ano fica condicionada à informação constante do relatório elaborado pela comissão de verificação de invalidez de que se trata de doença invalidante e irrecuperável no período em causa. Caso contrário a revisão efectuar-se-á anualmente.
 
-###### Art. 2.º O artigo 69.º do [Decreto n.º 445/70](https://diariodarepublica.pt/dr/detalhe/decreto/445-1970-666342), de 23 de Setembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 69.º do [Decreto n.º 445/70](https://diariodarepublica.pt/dr/detalhe/decreto/445-1970-666342), de 23 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 69.º - 1. Os pensionistas de invalidez, enquanto não completarem a idade de 70 anos, serão sujeitos, sem quaisquer encargos, a exame pelos serviços médicos da respectiva Caixa de Previdência e Abono de Família sempre que a direcção da Casa do Povo o entender e, obrigatoriamente, no terceiro ano após a constatação da invalidez, para se verificar se as condições que motivaram a concessão da pensão se mantêm.
+Art. 69.º - 1. Os pensionistas de invalidez, enquanto não completarem a idade de 70 anos, serão sujeitos, sem quaisquer encargos, a exame pelos serviços médicos da respectiva Caixa de Previdência e Abono de Família sempre que a direcção da Casa do Povo o entender e, obrigatoriamente, no terceiro ano após a constatação da invalidez, para se verificar se as condições que motivaram a concessão da pensão se mantêm.
 
 2. A aplicação do número anterior quanto a revisão obrigatória no terceiro ano fica condicionada à informação constante do relatório elaborado pela comissão de verificação de invalidez de que se trata de doença invalidante e irrecuperável no período em causa. Caso contrário a revisão efectuar-se-á anualmente.
 
 José Baptista Pinheiro de Azevedo - João Pedro Tomás Rosa - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 12 de Abril de 1976.**
+Promulgado em 12 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

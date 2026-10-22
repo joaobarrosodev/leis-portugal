@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/2014/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-2014-570682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d0467c695a8a86929da4412dfd315ca593693a4765bc3f672657e5ddadc669c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25ce6712f14e78ee60b2ae02ae032d075491a94709833706780e898128d29b5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Proteção dos Animais
 - Convenção
-- Portugal
+- Espécie Protegida
 - Europa
 - Londres
 - Morcego
+- Portugal
 - Proteção do Ambiente
-- Espécie Protegida
+- Proteção dos Animais
+- Vida Selvagem
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/31/1995/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/31/1995/08/18/p/dre
+- type: cites
+  target: pt:dre:434621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:29Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +118,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 19 de dezembro de 2013. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Jorge Manuel Lopes Moreira da Silva.
 
-**Assinado em 14 de janeiro de 2014.**
+Assinado em 14 de janeiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de janeiro de 2014.**
+Referendado em 16 de janeiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 AMENDMENT TO THE AGREEMENT ON THE CONSERVATION OF POPULATIONS OF EUROPEAN BATS SIGNED AT LONDON ON 4 DECEMBER, 1991
 

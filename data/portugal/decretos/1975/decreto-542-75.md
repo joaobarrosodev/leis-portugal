@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/542-1975-312216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7e855a331a354b6ee48871d292c20cf5f5c5f944f2a251fdde902e08e5138ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cec8c081144a24922919b416c9de346fdfe8d49d8ce4da9d9f3deefcf41ee25c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Escolar
+- Escola Naval
+- Recursos Humanos
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:147987:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:04Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +97,9 @@ Havendo conveniência em fazer participar os alunos na actividade pedagógica da
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 17.º, 23.º, 24.º, 35.º e 42.º do Regulamento da Escola Naval, aprovado pelo [Decreto n.º 454/70](https://diariodarepublica.pt/dr/detalhe/decreto/454-1970-147987), de 1 de Outubro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 17.º, 23.º, 24.º, 35.º e 42.º do Regulamento da Escola Naval, aprovado pelo [Decreto n.º 454/70](https://diariodarepublica.pt/dr/detalhe/decreto/454-1970-147987), de 1 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 17.º - 1. O conselho escolar é presidido pelo comandante e constituído pelo imediato, pelo director da instrução, pelos professores, pelos instrutores, pelo comandante do corpo de alunos, por dois alunos de cada ano eleitos pelos alunos que o constituem e pelo secretário da Escola, que servirá de secretário do conselho.
+Art. 17.º - 1. O conselho escolar é presidido pelo comandante e constituído pelo imediato, pelo director da instrução, pelos professores, pelos instrutores, pelo comandante do corpo de alunos, por dois alunos de cada ano eleitos pelos alunos que o constituem e pelo secretário da Escola, que servirá de secretário do conselho.
 
 2. ...
 
@@ -99,7 +107,7 @@ Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, 
 
 ...
 
-###### Art. 23.º A comissão de disciplina tem composição variável conforme as classes e as companhias dos alunos cuja apreciação seja o objectivo da sua reunião, dela fazendo parte os seguintes elementos:
+Art. 23.º A comissão de disciplina tem composição variável conforme as classes e as companhias dos alunos cuja apreciação seja o objectivo da sua reunião, dela fazendo parte os seguintes elementos:
 
 a) Imediato;
 
@@ -115,13 +123,13 @@ f) Chefe do serviço de internato;
 
 g) Quatro alunos, um por cada curso, eleitos pelos respectivos cursos.
 
-###### Art. 24.º - 1. A comissão de disciplina tem como presidente o imediato e como secretário o comandante de companhia mais moderno que dela fizer parte.
+Art. 24.º - 1. A comissão de disciplina tem como presidente o imediato e como secretário o comandante de companhia mais moderno que dela fizer parte.
 
 2. ...
 
 ...
 
-###### Art. 35.º - 1. ...
+Art. 35.º - 1. ...
 
 2. ...
 
@@ -131,14 +139,14 @@ g) Quatro alunos, um por cada curso, eleitos pelos respectivos cursos.
 
 ...
 
-###### Art. 42.º - 1. O gabinete de formação académica é chefiado pelo professor efectivo que há mais tempo se encontre no exercício das suas funções e constituído por todos os professores das cadeiras a ele adstritas e por quatro alunos, sendo um do 1.º ano, um do 2.º ano, um do 3.º ano e um do 4.º ano, eleitos pelos respectivos anos.
+Art. 42.º - 1. O gabinete de formação académica é chefiado pelo professor efectivo que há mais tempo se encontre no exercício das suas funções e constituído por todos os professores das cadeiras a ele adstritas e por quatro alunos, sendo um do 1.º ano, um do 2.º ano, um do 3.º ano e um do 4.º ano, eleitos pelos respectivos anos.
 
 2. Os gabinetes de formação técnico-naval são chefiados pelos oficiais da Armada mais graduados ou antigos que deles façam parte e constituídos por todos os professores e instrutores das cadeiras e instruções que a cada um digam respeito e por quatro alunos, um de cada ano, das respectivas classes, eleitos pelos respectivos cursos.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 23 de Setembro de 1975.**
+Promulgado em 23 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

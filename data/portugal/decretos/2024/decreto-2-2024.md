@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/15300/0001200014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/2024/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-2024-875899345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d9d8e24c4acfff8cd726126fb7fdf1ba6b56b9c1fb088b52578e74cb09bc1c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcdbf1f0c389d30b4f324c836ab51dcdbce86f105b28f543bd111aca8aed443b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Cadastro das Áreas de Floresta
-- Ordenamento do Território
 - Baldio
-- Tarouca
+- Cadastro das Áreas de Floresta
 - Comunidade Local de Compartes
+- Empresa
+- Ordenamento do Território
 - Sistema de Gestão Integrada de Fogos Rurais
-relationships: []
+- Tarouca
+relationships:
+- type: cites
+  target: pt:dre:680006:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:43Z'
   warnings: []
   errors: []
 ---
 
 # Decreto n.º 2/2024
 
-A empresa Blowing Glow - Unipessoal, L.<sup>da</sup>, pretende instalar, numa área com a dimensão de 34,54 hectares do perímetro florestal da serra de Leomil, no concelho de Tarouca, a Central Solar Fotovoltaica Douro Solar.
+A empresa Blowing Glow - Unipessoal, L.da, pretende instalar, numa área com a dimensão de 34,54 hectares do perímetro florestal da serra de Leomil, no concelho de Tarouca, a Central Solar Fotovoltaica Douro Solar.
 
 A referida área é um terreno baldio pertencente à comunidade local dos compartes dos baldios da freguesia de Vila Chã da Beira, do concelho de Tarouca, submetida ao regime florestal parcial pelo [Decreto n.º 39964](https://diariodarepublica.pt/dr/detalhe/decreto/39964-1954-680006), de 13 de dezembro de 1954, publicado no Diário do Governo, 1.ª série, n.º 277, de 13 de dezembro de 1954, passando a integrar o perímetro florestal da serra de Leomil.
 
@@ -136,24 +140,28 @@ O presente decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de julho de 2024. - Joaquim José Miranda Sarmento - José Manuel Ferreira Fernandes.
 
-**Assinado em 23 de julho de 2024.**
+Assinado em 23 de julho de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de julho de 2024.**
+Referendado em 30 de julho de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 1.º)
 
 Área a excluir do regime florestal parcial
 
-![](https://files.diariodarepublica.pt/images/875899345/875838950.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/875899345/875838950.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)
 
 Área a submeter ao regime florestal parcial
 
-![](https://files.diariodarepublica.pt/images/875899345/875838951.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/875899345/875838951.png) |
+| --- |
+
+117990233

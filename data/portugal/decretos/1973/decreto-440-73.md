@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/440-1973-413868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae052016eac592c17205cd18930e3d201b4180cfd470c0b6ebacb441242f2178
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39346c2717788b1df3a829e19845ecdfe38a27baff62b023f5f19b7edb4416b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério da Economia
+- Ministério da Habitação e Obras Públicas
+- Ministério da Justiça
+- Ministério das Comunicações
+- Ministério das Finanças
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:412806:por
+  label: "Rectificado o artigo 4.º pela RECT.DD244.21.09.1973.PC, DG.IS [222] de 21.09.1973\0\0"
+  source: null
+  date: '1973-09-21'
 article_structure:
-  article_count: 25
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:20Z'
   warnings: []
   errors: []
 ---
@@ -88,61 +104,61 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 117107961$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 117107961$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério da Justiça
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores»:
+Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores»:
 
 Serviços centrais
 
-###### Artigo 415.º «Abono para falhas» ... 733$00
+Artigo 415.º «Abono para falhas» ... 733$00
 
 instituto de Reeducação de S. Fiel
 
-###### Artigo 485.º «Abono para falhas» ... 1200$00
+Artigo 485.º «Abono para falhas» ... 1200$00
 
 Instituto de Reeducação de Vila Fernando
 
-###### Artigo 506.º «Abono para falhas» ... 700$00
+Artigo 506.º «Abono para falhas» ... 700$00
 
 ... 2633$00
 
 Ministério das Obras Públicas
 
-### Capítulo 6.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 6.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 91.º «Bens não duradouros», n.º 3 «Outros bens não duradouros», alínea 5 «Edifícios da Direcção-Geral dos Serviços Pecuários» ... 282202$80
+Artigo 91.º «Bens não duradouros», n.º 3 «Outros bens não duradouros», alínea 5 «Edifícios da Direcção-Geral dos Serviços Pecuários» ... 282202$80
 
-### Capítulo 7.º «Direcção-Geral dos Serviços Hidráulicos»:
+Capítulo 7.º «Direcção-Geral dos Serviços Hidráulicos»:
 
-###### Artigo 118.º «Vencimentos e salários»:
+Artigo 118.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos» (13)
 
 Alínea 1 «Pessoal dos quadros aprovados por lei»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/09/20700/15711573.pdf))](https://files.diariodarepublica.pt/1s/1973/09/20700/15711573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/09/20700/15711573.pdf)
 
 Ministério da Economia
 
-### Capítulo 24.º «Contas de ordem».
+Capítulo 24.º «Contas de ordem».
 
-###### Artigo 450.º «Direcção-Geral dos Serviços Agrícolas», n.º 1 «Serviços centrais», alínea 2 «Aplicação de outras receitas» ... 5500000$00
+Artigo 450.º «Direcção-Geral dos Serviços Agrícolas», n.º 1 «Serviços centrais», alínea 2 «Aplicação de outras receitas» ... 5500000$00
 
 Ministério das Comunicações
 
-### Capítulo 9.º «Contas de ordem»:
+Capítulo 9.º «Contas de ordem»:
 
-###### Artigo 256.º «Administração-Geral do Porto de Lisboa» ... 101000000$00
+Artigo 256.º «Administração-Geral do Porto de Lisboa» ... 101000000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 4.º «Direcção-Geral de Saúde»:
+Capítulo 4.º «Direcção-Geral de Saúde»:
 
 Direcção-Geral
 
-###### Artigo 64.º «Transferências - Sector público»:
+Artigo 64.º «Transferências - Sector público»:
 
 N.º 1 «Subsídios a serviços e estabelecimentos oficiais de saúde e assistência»:
 
@@ -168,23 +184,23 @@ Alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assi
 
 ... 117107961$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
-### Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 6313200$00
+Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 6313200$00
 
-### Capítulo 5.º, grupo 1, artigo 88.º «Serviços autónomos e empresas públicas» ... 4012558$20
+Capítulo 5.º, grupo 1, artigo 88.º «Serviços autónomos e empresas públicas» ... 4012558$20
 
-### Capítulo 7.º, grupo 8, artigo 112.º «Serviços dos edifícios e monumentos nacionais» ... 282202$80
+Capítulo 7.º, grupo 8, artigo 112.º «Serviços dos edifícios e monumentos nacionais» ... 282202$80
 
-### Capítulo 15.º, artigo 183.º «Direcção-Geral dos Serviços Agrícolas: Serviços centrais» ... 5500000$00
+Capítulo 15.º, artigo 183.º «Direcção-Geral dos Serviços Agrícolas: Serviços centrais» ... 5500000$00
 
-### Capítulo 15.º, artigo 188.º «Administração-Geral do Porto de Lisboa» ... 101000000$00
+Capítulo 15.º, artigo 188.º «Administração-Geral do Porto de Lisboa» ... 101000000$00
 
 ... 117107961$00
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério das Obras Públicas:
+Art. 3.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério das Obras Públicas:
 
 Separata 1
 
@@ -210,7 +226,7 @@ O Fundo de Desemprego suporta a quantia de 20703371$00.
 
 (17) O Fundo de Desemprego suporta a quantia de 228000$00.
 
-###### Art. 4.º São autorizadas as seguintes alterações ao orçamento privativo da Administração-Geral do Porto de Lisboa:
+Art. 4.º São autorizadas as seguintes alterações ao orçamento privativo da Administração-Geral do Porto de Lisboa:
 
 Reforços
 
@@ -218,27 +234,27 @@ Despesa ordinária:
 
 Despesas correntes:
 
-###### Artigo 7.º «Participações e prémios» ... 5000000$00
+Artigo 7.º «Participações e prémios» ... 5000000$00
 
-###### Artigo 8.º «Deslocações» ... 200000$00
+Artigo 8.º «Deslocações» ... 200000$00
 
-###### Artigo 11.º «Vestuário e artigos pessoais - Compensação de encargos» ... 400000$00
+Artigo 11.º «Vestuário e artigos pessoais - Compensação de encargos» ... 400000$00
 
-###### Artigo 13.º «Remunerações por serviços auxiliares» ... 750000$00
+Artigo 13.º «Remunerações por serviços auxiliares» ... 750000$00
 
-###### Artigo 14.º «Remunerações diversas - Em numerário» ... 1600000$00
+Artigo 14.º «Remunerações diversas - Em numerário» ... 1600000$00
 
-###### Artigo 15.º «Remunerações diversas - Previdência social» ... 1000000$00
+Artigo 15.º «Remunerações diversas - Previdência social» ... 1000000$00
 
-###### Artigo 19.º «Bens duradouros», n.º 8 «Outros bens duradouros» ... 300000$00
+Artigo 19.º «Bens duradouros», n.º 8 «Outros bens duradouros» ... 300000$00
 
-###### Artigo 20.º «Bens não duradouro»:
+Artigo 20.º «Bens não duradouro»:
 
 N.º 2 «Combustíveis e lubrificantes» ... 500000$00
 
 N.º 6 «Outros bens não duradouros» ... 500000$00
 
-###### Artigo 22.º «Despesas gerais de funcionamento»:
+Artigo 22.º «Despesas gerais de funcionamento»:
 
 N.º 1 «Encargos próprios das instalações» ... 700000$00
 
@@ -250,21 +266,21 @@ Alínea 2 «Outros trabalhos» ... 100000$00
 
 N.º 8) «Encargos não especificados» ... 200000$00
 
-###### Artigo 23.º «Transferências - Sector público», n.º 1 «Caixa Geral de Aposentações» ... 60000$00
+Artigo 23.º «Transferências - Sector público», n.º 1 «Caixa Geral de Aposentações» ... 60000$00
 
-###### Artigo 24.º «Transferências - Empresas» ... 13600000$00
+Artigo 24.º «Transferências - Empresas» ... 13600000$00
 
-###### Artigo 26.º «Transferências - Particulares» ... 300000$00
+Artigo 26.º «Transferências - Particulares» ... 300000$00
 
 Despesas de capital:
 
-###### Artigo 28.º «Investimentos»:
+Artigo 28.º «Investimentos»:
 
 N.º 1 «Material de transporte» ... 90000$00
 
 N.º 8 «Encargos não especificados» ... 200000$00
 
-###### Artigo 29.º «Transferências - Sector público», n.º 2 «Fundo de melhoramentos» ... 41000000$00
+Artigo 29.º «Transferências - Sector público», n.º 2 «Fundo de melhoramentos» ... 41000000$00
 
 ... 101000000$00
 
@@ -274,7 +290,7 @@ Receita ordinária:
 
 Receitas correntes:
 
-###### Artigo 5.º «Venda de serviços e bens não duradouros», n.º 6 «Diversos - Outros sectores»:
+Artigo 5.º «Venda de serviços e bens não duradouros», n.º 6 «Diversos - Outros sectores»:
 
 Alínea 5 «Tráfego de mercadorias» ... 52000000$00
 
@@ -286,14 +302,14 @@ Alínea 20 «Pessoal» ... 3300000$00
 
 Receitas de capital:
 
-###### Artigo 8.º «Transferências», n.º 1 «Sector público» ... 37000000$00
+Artigo 8.º «Transferências», n.º 1 «Sector público» ... 37000000$00
 
 ... 101000000$00
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Agosto de 1973.**
+Promulgado em 3 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

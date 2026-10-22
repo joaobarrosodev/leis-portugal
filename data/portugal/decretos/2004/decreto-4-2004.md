@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/2004/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2004-210797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4c621fd3c45ae159f94d9b172bedf8c7e6e8425aa10a2c04afa0841dcea0ca2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bc2062e460c50aa9c5d87a20421bb45837c4602cf4633406faa4c7e08e29ba0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
+- Cooperação Científica
 - Cooperação Tecnológica
 - Macau.cidade
+- Portugal
 - Região Administrativa Especial de Macau
-- Cooperação Científica
 relationships: []
 article_structure:
-  article_count: 0
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:52Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +103,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Maria da Graça Martins da Silva Carvalho.
 
-**Assinado em 10 de Março de 2004.**
+Assinado em 10 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Março de 2004.**
+Referendado em 14 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO DE COOPERAÇÃO CIENTÍFICA E TECNOLÓGICA ENTRE A REPÚBLICA PORTUGUESA E A REGIÃO ADMINISTRATIVA ESPECIAL DE MACAU DA REPÚBLICA POPULAR DA CHINA.
 
@@ -135,9 +135,7 @@ Considerando as disposições do Acordo Quadro de Cooperação entre a Repúblic
 
 celebram o presente Acordo nos termos constantes das disposições seguintes:
 
-Artigo I
-
-Objecto do Acordo
+###### Artigo I — Objecto do Acordo
 
 1 - O presente Acordo tem por objecto o desenvolvimento da cooperação científica e tecnológica entre as Partes, na base dos princípios da igualdade e do benefício mútuo.
 
@@ -147,9 +145,7 @@ Objecto do Acordo
 
 4 - As actividades de cooperação previstas no presente Acordo serão reguladas por normas e protocolos específicos a serem acordados entre as Partes.
 
-Artigo II
-
-Domínio de cooperação
+###### Artigo II — Domínio de cooperação
 
 A cooperação a que faz referência o artigo I inclui:
 
@@ -169,9 +165,7 @@ g) Partilha de experiências no domínio do ensino experimental das ciências e 
 
 h) Qualquer outra modalidade de cooperação científica e tecnológica acordada entre as Partes.
 
-Artigo III
-
-Disposições financeiras
+###### Artigo III — Disposições financeiras
 
 A partilha dos encargos decorrentes das actividades de cooperação estabelecidas no âmbito deste Acordo será objecto de protocolos específicos, de acordo com as seguintes condições:
 
@@ -181,15 +175,11 @@ b) A repartição de encargos financeiros em outros casos especiais será regula
 
 c) Os encargos financeiros serão suportados pelas Partes Contratantes. As Partes podem, igualmente, por acordo conjunto recorrer a financiamentos exteriores, nomeadamente de organizações regionais e internacionais, com vista à realização de programas de cooperação.
 
-Artigo IV
-
-Propriedade intelectual e industrial
+###### Artigo IV — Propriedade intelectual e industrial
 
 O acesso das Partes Contratantes aos benefícios das inovações tecnológicas e descobertas científicas que resultem das actividades de cooperação conduzidas no âmbito deste Acordo será regulado por protocolo específico a acordar entre as Partes.
 
-Artigo V
-
-Aplicação do Acordo
+###### Artigo V — Aplicação do Acordo
 
 1 - O Ministério da Ciência e da Tecnologia, por parte de Portugal, e o Secretário para os Transportes e Obras Públicas, por parte de Macau, são responsáveis pela condução deste Acordo.
 
@@ -205,17 +195,13 @@ c) A comissão mista identificará as acções a serem desenvolvidas no quadro d
 
 d) A comissão mista pode ainda recomendar novas acções e formas de cooperação e novas áreas susceptíveis de alargar o âmbito da cooperação científica e tecnológica.
 
-Artigo VI
-
-Resolução de diferendos
+###### Artigo VI — Resolução de diferendos
 
 1 - Qualquer diferendo que surja entre as Partes Contratantes resultante da aplicação ou interpretação deste Acordo será resolvido por via diplomática.
 
 2 - O presente Acordo não prejudica quaisquer direitos ou obrigações que decorram de outros acordos bilaterais ou multilaterais entre qualquer das Partes Contratantes e terceiros e não produzirá quaisquer efeitos sobre os direitos e obrigações das Partes Contratantes derivados de acordos e ou tratados internacionais a assinar no futuro pelas Partes.
 
-Artigo VII
-
-Entrada em vigor e revisão do Acordo
+###### Artigo VII — Entrada em vigor e revisão do Acordo
 
 1 - O presente Acordo entrará em vigor 30 dias após a data da última notificação pelas Partes, por escrito, cumpridos os respectivos procedimentos legais internos exigidos para a sua entrada em vigor.
 

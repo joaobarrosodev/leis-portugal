@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/318-1973-420989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c54d5889564ddb963332f81fd2542d82226eda9bedd061f143e5756ce56789c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5684e05bfaf7648180c42310d6b33d2f5d8500c46b609e7ae4dbda8f064aafab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:16Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +93,16 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Ficam autorizados os órgãos legislativos dos Estados Portugueses de Angola e Moçambique a alterar as taxas dos direitos do capítulo 87.º das respectivas pautas mínimas por forma a incentivar o estabelecimento da montagem de veículos automóveis.
+Artigo 1.º Ficam autorizados os órgãos legislativos dos Estados Portugueses de Angola e Moçambique a alterar as taxas dos direitos do capítulo 87.º das respectivas pautas mínimas por forma a incentivar o estabelecimento da montagem de veículos automóveis.
 
-###### Art. 2.º A importação nas províncias ultramarinas de veículos automóveis montados em Angola e Moçambique fica sujeita a descontos nos direitos iguais aos constantes das tabelas aplicáveis naqueles Estados à importação dos veículos saídos das suas linhas de montagem.
+Art. 2.º A importação nas províncias ultramarinas de veículos automóveis montados em Angola e Moçambique fica sujeita a descontos nos direitos iguais aos constantes das tabelas aplicáveis naqueles Estados à importação dos veículos saídos das suas linhas de montagem.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 8 de Junho de 1973.**
+Promulgado em 8 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.

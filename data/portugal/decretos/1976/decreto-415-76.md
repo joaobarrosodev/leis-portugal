@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/415-1976-426898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba2200212cce78efd9077992c0dff673cdf0dcc9b1f556c0ed786f9383476c7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7dca2ae7df06fc4ffc9d9ef5264b28976c8a0808f29a9736be02db00b522538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comércio
+- Preço
+- Produto Vitivinícola
+- Rectificação de TIPO de Diploma
+- Região Demarcada do Douro
+- Venda
+- Vinho
+relationships:
+- type: cites
+  target: pt:dre:500913:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:11Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +105,19 @@ Assim:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os termos de classificação e os preços relativos aos vinhos da colheita de 1975 que, na Região Demarcada do Douro, sejam propostos para venda ao respectivo organismo vinícola regional são os constantes da tabela anexa ao presente diploma, estudada e elaborada pelo mesmo organismo.
+Artigo único. Os termos de classificação e os preços relativos aos vinhos da colheita de 1975 que, na Região Demarcada do Douro, sejam propostos para venda ao respectivo organismo vinícola regional são os constantes da tabela anexa ao presente diploma, estudada e elaborada pelo mesmo organismo.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Joaquim Jorge Magalhães Mota - Joaquim Jorge de Pinho Campinos - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 10 de Maio de 1976.**
+Promulgado em 10 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Tabela para intervenção por compra de vinhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/12400/12031204.pdf))](https://files.diariodarepublica.pt/1s/1976/05/12400/12031204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/12400/12031204.pdf)
 
 NOTAS
 
@@ -120,4 +131,4 @@ De 31 de Maio a 31 de Julho de 1976 - 0,1, excepto nas classes 2.ª-B e vinhos d
 
 A partir de 31 de Julho de 1976 - 0,2, excepto nas classes alta qualidade, 2.ª-B e vinhos de queima.
 
-**O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.**
+O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.

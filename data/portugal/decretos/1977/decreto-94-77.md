@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/15300/16661666.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/94-1977-250587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50773b346b5d1907b493ca11cef886f443bd8acf8155365d212214437e0924b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69b37a7a84a2d5a53ae680be92add6fbcd0c7151844f46e6e38566a3ef3b789a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Hospitalar de são JOÃO da Madeira-oliveira de Azeméis
+- Criação de Serviços
+- Estabelecimento Hospitalar
+- Hospital Distrital
+- Oliveira de Azeméis
+- Regime de Instalação
+- são JOÃO da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:393665:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:393665:por
+  label: "Revogado pelo DR.3/79.24.02.1979.MAS, DR.IS [47] de 24.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-1979-393665
+  date: '1979-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:24Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +132,11 @@ Ao abrigo do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.p
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É criado o Centro Hospitalar de S. João da Madeira/Oliveira de Azeméis - adiante designado apenas por Centro - com personalidade jurídica e autonomia administrativa.
+Artigo 1.º - 1. É criado o Centro Hospitalar de S. João da Madeira/Oliveira de Azeméis - adiante designado apenas por Centro - com personalidade jurídica e autonomia administrativa.
 
 2. O Centro é um complexo funcional de estabelecimentos e serviços hospitalares, com órgãos centrais de administração e direcção técnica e serviços de apoio comuns.
 
-###### Art. 2.º - 1. O Centro é constituído pelos estabelecimentos seguintes:
+Art. 2.º - 1. O Centro é constituído pelos estabelecimentos seguintes:
 
 a) Hospital Distrital de Oliveira de Azeméis;
 
@@ -116,24 +144,24 @@ b) Hospital Distrital de S. João de Madeira.
 
 2. Mediante portaria do Ministro dos Assuntos Sociais, podem integrar-se no Centro outros estabelecimentos ou serviços.
 
-###### Art. 3.º As funções próprias do Centro e dos estabelecimentos integrados, bem como a composição e competência dos órgãos de administração e direcção técnica e condições de funcionamento, serão estabelecidas por portaria do Ministro dos Assuntos Sociais, nos termos da Lei Orgânica Hospitalar.
+Art. 3.º As funções próprias do Centro e dos estabelecimentos integrados, bem como a composição e competência dos órgãos de administração e direcção técnica e condições de funcionamento, serão estabelecidas por portaria do Ministro dos Assuntos Sociais, nos termos da Lei Orgânica Hospitalar.
 
-###### Art. 4.º O Centro rege-se em tudo quanto não estiver previsto neste diploma pela legislação aplicável aos estabelecimentos hospitalares oficiais.
+Art. 4.º O Centro rege-se em tudo quanto não estiver previsto neste diploma pela legislação aplicável aos estabelecimentos hospitalares oficiais.
 
-###### Art. 5.º - 1. O pessoal dos estabelecimentos integrados constará de quadro único.
+Art. 5.º - 1. O pessoal dos estabelecimentos integrados constará de quadro único.
 
 2. O pessoal que transitar dos estabelecimentos integrados manterá todos os direitos e regalias de que vinha fruindo, designadamente o de continuar a descontar para as instituições de previdência em que estiver inscrito, contando-se para efeitos de aposentação todo o tempo de serviço prestado, nos termos da legislação aplicável.
 
-###### Art. 6.º - 1. O Centro fica sujeito ao regime financeiro estabelecido pelo [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, e pelo Estatuto Hospitalar.
+Art. 6.º - 1. O Centro fica sujeito ao regime financeiro estabelecido pelo [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, e pelo Estatuto Hospitalar.
 
 2. As tabelas de encargos a vigorar no Centro serão fixadas em despacho do Secretário de Estado da Saúde.
 
-###### Art. 7.º O Centro fica em regime de instalação, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 7.º O Centro fica em regime de instalação, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Armando Bacelar.
 
-**Promulgado em 25 de Junho de 1977.**
+Promulgado em 25 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

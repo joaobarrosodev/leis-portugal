@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1989-620940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c25b2c2e311bd3ed603276b15cc3dbe4e07fd964add068d65f966bc6720fa6bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6616351a2b8f405aa8bd6f4b7b95c3800c13e1dd2bb978278b1aee54f12a94bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- Transporte Aéreo
+- Venezuela
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:10Z'
   warnings: []
   errors: []
 ---
@@ -87,21 +91,21 @@ de 30 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo, por troca de notas, entre o Governo Português e o Governo da Venezuela, de 24 de Abril e 20 de Maio de 1986, que modifica o anexo e o quadro de rotas do Acordo sobre Transporte Aéreo entre Portugal e a Venezuela, assinado em Lisboa em 16 de Maio de 1956, cujo texto original em espanhol e respectiva tradução em português vão anexos ao presente decreto.
+Artigo único. É aprovado o Acordo, por troca de notas, entre o Governo Português e o Governo da Venezuela, de 24 de Abril e 20 de Maio de 1986, que modifica o anexo e o quadro de rotas do Acordo sobre Transporte Aéreo entre Portugal e a Venezuela, assinado em Lisboa em 16 de Maio de 1956, cujo texto original em espanhol e respectiva tradução em português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 11 de Maio de 1989. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 16 de Junho de 1989.**
+Assinado em 16 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Junho de 1989.**
+Referendado em 20 de Junho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/14800/25702572.pdf))](https://files.diariodarepublica.pt/1s/1989/06/14800/25702572.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/14800/25702572.pdf)
 
 A Embaixada de Portugal apresenta os seus atenciosos cumprimentos ao Exmo. Ministério das Relações Exteriores da Venezuela e tem a honra de acusar a recepção da sua nota DGSECI/T1423, de 24 de Abril de 1986, cujo teor é o seguinte:
 

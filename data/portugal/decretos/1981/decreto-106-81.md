@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/106-1981-576558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afd927b9adbebce3de91b35442d9e9560be355ddd289839fd11d9fc10316be77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 408fa6818584705b1ab55c809a4ddac35ef2f8b8ca52fb561ed95ca2a6c3c655
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério das Finanças e do Plano
+- Orçamento Geral do Estado
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:31Z'
   warnings: []
   errors: []
 ---
@@ -88,36 +96,36 @@ Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diar
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 355022 contos, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 355022 contos, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/18100/20452045.pdf))](https://files.diariodarepublica.pt/1s/1981/08/18100/20452045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/18100/20452045.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
 Receitas de capital:
 
-### Capítulo 15 «Contas de ordem»:
+Capítulo 15 «Contas de ordem»:
 
 Grupo 01 «Encargos Gerais da Nação»: ... (Em contos)
 
-###### Artigo 05 «Fundo do Teatro» ... 7500
+Artigo 05 «Fundo do Teatro» ... 7500
 
 Grupo 04 «Administração Interna»: ... (Em contos)
 
-###### Artigo 01 «Serviço Nacional de Bombeiros» ... 203953
+Artigo 01 «Serviço Nacional de Bombeiros» ... 203953
 
 Grupo 13 «Transportes e Comunicações»: ... (Em contos)
 
-###### Artigo 04 «Juntas autónomas dos portos» ... 143569
+Artigo 04 «Juntas autónomas dos portos» ... 143569
 
 ... 355022
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro da Administração Interna, Fernando Monteiro do Amaral. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro dos Transportes e Comunicações, José Carlos Bento Soromenho Viana Baptista.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro da Administração Interna, Fernando Monteiro do Amaral. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro dos Transportes e Comunicações, José Carlos Bento Soromenho Viana Baptista.
 
-**Promulgado em 31 de Julho de 1981.**
+Promulgado em 31 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

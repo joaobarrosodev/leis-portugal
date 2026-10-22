@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/00900/00680069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97c866dfbfe690bfdddff12b4b8a78c1b850d2b6e030f5cdf48da6a9609b5b6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35b53b3e2e6d9ff0402b31350b8e4705027d714dac3be30cd7cac2c462910df9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Património Natural
+- Proteção do Ambiente
+- Recursos Naturais
+- Reserva Natural
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:584781:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425299:por
+  label: Alterado o n.º 1 do art. 3.º pelo DEC.37/78.17.04.1978.MHOP, DR.IS [89] de 17.04.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/37-1978-425299
+  date: '1978-04-17'
+- type: repealed_by
+  target: pt:dre:584781:por
+  label: "Revogado pelo DEC LEI.19/93.23.01.1993.MARN, DR.IS-A [19] de 23.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-1993-584781
+  date: '1993-01-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:31Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +110,7 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Cada parque, reserva ou outra área classificada disporá, em razão da importância e dimensão respectiva, de todos ou alguns dos seguintes órgãos e serviços:
+Artigo 1.º - 1 - Cada parque, reserva ou outra área classificada disporá, em razão da importância e dimensão respectiva, de todos ou alguns dos seguintes órgãos e serviços:
 
 a) Director;
 
@@ -108,7 +124,7 @@ e) Serviços administrativos e auxiliares.
 
 2 - O regulamento de cada área classificada estabelecerá as disposições quanto à constituição dos respectivos órgãos e serviços e quais os meios destinados a assegurar a respectiva administração e conservação que não constem do presente diploma.
 
-###### Art. 2.º - 1 - O director será designado por despacho do Secretário de Estado do Ambiente, sob proposta do presidente do Serviço Nacional de Parques, Reservas e Património Paisagístico, de entre os técnicos deste Serviço com formação de engenheiro agrónomo, engenheiro silvicultor, arquitecto paisagista, biólogo, médico veterinário ou possuidor de licenciatura com formação de biologia e ecologia.
+Art. 2.º - 1 - O director será designado por despacho do Secretário de Estado do Ambiente, sob proposta do presidente do Serviço Nacional de Parques, Reservas e Património Paisagístico, de entre os técnicos deste Serviço com formação de engenheiro agrónomo, engenheiro silvicultor, arquitecto paisagista, biólogo, médico veterinário ou possuidor de licenciatura com formação de biologia e ecologia.
 
 2 - Compete ao director:
 
@@ -126,7 +142,7 @@ f) Assegurar a execução na área do parque, reserva ou outra área classificad
 
 g) Apresentar ao Serviço Nacional de Parques, Reservas e Património Paisagístico as sugestões e relatórios que respeitem à sua competência e à do conselho geral.
 
-###### Art. 3.º - 1 - O conselho geral é um órgão consultivo presidido pelo director do parque, reserva ou outra área classificada, cujos membros serão designados por despacho do Secretário de Estado do Ambiente, e tem como vogais um representante da comissão científica e um representante de cada serviço público e autarquias locais mais directamente interessados nas finalidades da respectiva instituição e que constarão do regulamento específico de cada área classificada.
+Art. 3.º - 1 - O conselho geral é um órgão consultivo presidido pelo director do parque, reserva ou outra área classificada, cujos membros serão designados por despacho do Secretário de Estado do Ambiente, e tem como vogais um representante da comissão científica e um representante de cada serviço público e autarquias locais mais directamente interessados nas finalidades da respectiva instituição e que constarão do regulamento específico de cada área classificada.
 
 2 - Compete ao conselho geral:
 
@@ -136,23 +152,23 @@ b) Apreciar e emitir parecer sobre os projectos, empreendimentos ou quaisquer in
 
 c) Apresentar ao director sugestões de medidas ou normas tendentes a melhor atingir os fins do parque, reserva ou outra área classificada.
 
-###### Art. 4.º - 1 - O conselho geral reúne ordinariamente uma vez em cada trimestre ou extraordinariamente sempre que for convocado pelo director ou por um mínimo de um terço dos seus membros.
+Art. 4.º - 1 - O conselho geral reúne ordinariamente uma vez em cada trimestre ou extraordinariamente sempre que for convocado pelo director ou por um mínimo de um terço dos seus membros.
 
 2 - Os membros do conselho geral têm direito a senhas de presença nos termos da lei geral.
 
-###### Art. 5.º A comissão científica é um órgão consultivo para as questões culturais e científicas relativas aos parques, reservas e outras áreas classificadas, cujos membros serão designados por despacho do Secretário de Estado do Ambiente, e será formada por representantes de estabelecimento de investigação, ensino superior e associações culturais julgados convenientes e que constarão do regulamento de cada área classificada.
+Art. 5.º A comissão científica é um órgão consultivo para as questões culturais e científicas relativas aos parques, reservas e outras áreas classificadas, cujos membros serão designados por despacho do Secretário de Estado do Ambiente, e será formada por representantes de estabelecimento de investigação, ensino superior e associações culturais julgados convenientes e que constarão do regulamento de cada área classificada.
 
-###### Art. 6.º - 1 - Os membros da comissão científica escolherão, anualmente, entre si um presidente e dois vogais para secretariar.
+Art. 6.º - 1 - Os membros da comissão científica escolherão, anualmente, entre si um presidente e dois vogais para secretariar.
 
 2 - A comissão científica reunirá ordinariamente duas vezes por ano e extraordinariamente sempre que for convocada pelo seu presidente ou por um mínimo de dois terços dos seus membros.
 
 3 - Os membros da comissão científica que residam fora das áreas dos parques, reservas ou outras áreas classificadas têm direito ao pagamento das deslocações e ajudas de custo nos termos da lei geral.
 
-###### Art. 7.º Aos serviços técnicos compete assegurar o funcionamento do equipamento recreático ou outro, bem como resolver todas as questões de ordem técnica dos parques, reservas ou outras áreas classificadas.
+Art. 7.º Aos serviços técnicos compete assegurar o funcionamento do equipamento recreático ou outro, bem como resolver todas as questões de ordem técnica dos parques, reservas ou outras áreas classificadas.
 
-###### Art. 8.º Aos serviços administrativos e auxiliares compete assegurar o expediente, a contabilidade e a gestão do património de cada parque, reserva ou outra área classificada.
+Art. 8.º Aos serviços administrativos e auxiliares compete assegurar o expediente, a contabilidade e a gestão do património de cada parque, reserva ou outra área classificada.
 
-###### Art. 9.º - 1 - O Secretário de Estado do Ambiente poderá constituir grupos de trabalho a quem seja confiada a preparação dos planos de ordenamento e a colaboração dos regulamentos dos parques, reservas e outras áreas classificadas.
+Art. 9.º - 1 - O Secretário de Estado do Ambiente poderá constituir grupos de trabalho a quem seja confiada a preparação dos planos de ordenamento e a colaboração dos regulamentos dos parques, reservas e outras áreas classificadas.
 
 2 - Os planos de ordenamento a que se refere o número anterior serão aprovados por despacho do Secretário de Estado do Ambiente.
 
@@ -160,14 +176,14 @@ c) Apresentar ao director sugestões de medidas ou normas tendentes a melhor ati
 
 4 - Enquanto não forem aprovados os planos de ordenamento e os regulamentos respectivos, os parques, reservas e outras áreas classificadas serão administrados e dirigidos por comissões instaladoras cuja composição, atribuições e competência dos seus membros serão definidas por despacho do Secretário de Estado do Ambiente, sob proposta do Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 10.º As necessidades em pessoal técnico, técnico auxiliar, administrativo e auxiliar dos parques, reservas e outras áreas classificadas serão satisfeitas pelo Serviço Nacional de Parques, Reservas e Património Paisagístico.
+Art. 10.º As necessidades em pessoal técnico, técnico auxiliar, administrativo e auxiliar dos parques, reservas e outras áreas classificadas serão satisfeitas pelo Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 11.º As dúvidas resultantes de interpretação do presente diploma serão resolvidas por despacho do Secretário de Estado do Ambiente.
+Art. 11.º As dúvidas resultantes de interpretação do presente diploma serão resolvidas por despacho do Secretário de Estado do Ambiente.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 27 de Dezembro de 1977.**
+Promulgado em 27 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

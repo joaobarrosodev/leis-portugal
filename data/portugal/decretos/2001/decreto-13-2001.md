@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/13/2001/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-2001-371215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:11:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d4c20e4082e415a3a527dccbe3948dff4ed0fa8e29868116b206d81a4f348c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 791d25c014c08d49ef169bf7abd4cf6008fae09dbfcbc932dbb9ca509a6f4ef6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:11:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Mista
-- Transporte Terrestre
-- Convenção
-- Portugal
-- Espanha
-- Salamanca
 - Comissão Mista Luso-espanhola nos Domínios dos Transportes Terrestres e das Infra-estruturas de Transporte
+- Convenção
+- Espanha
+- Portugal
+- Salamanca
+- Transporte Terrestre
 relationships: []
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:11:20Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +96,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura.
 
-**Assinado em 8 de Fevereiro de 2001.**
+Assinado em 8 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Fevereiro de 2001.**
+Referendado em 15 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA RELATIVO À INSTITUIÇÃO DE UMA COMISSÃO MISTA NOS DOMÍNIOS DOS TRANSPORTES TERRESTRES E DAS INFRA-ESTRUTURAS DE TRANSPORTE.
 

@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/97-1979-370669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39416d0744379981451e0e255b7f89a744969cd56743bf1a2e4a9a5043c2ba7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36b436e51cfc110b363ed9e9bffe90360bb0af4995a949f4586c4a898e2327fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação de Recreio
+- Regulamento Provisório das Embarcações de Recreio
 relationships:
 - type: amended_by
   target: pt:dre:469195:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469195:por
+  label: "Mantido em vigor até 30-Nov de 1996 o Regulamento provisório das embarcações de recreio, aprovado pelo Dec Lei 439/75,\
+    \ de 16-Ago DG.IS [188], pelo DEC LEI.38/96.1996.05.06.MEPAT DR.IS-A [105], com a redacção que lhe foi dada pelo presente\
+    \ diploma, pelo Dec Lei 167/88 de 14-Mai DR.IS [112] e pelo Dec Lei 202/92 de 29-Set DR.IS-A [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1996-469195
+  date: '1996-05-06'
+- type: cites
+  target: pt:dre:314625:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:364170:por
+  label: Rectificado pela DECL.DD7162.24.10.1979.PCM, DR.IS [246] de 24.10.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-364170
+  date: '1979-10-24'
+- type: corrected_by
+  target: pt:dre:581865:por
+  label: Rectificado pela DECL.DD991.1979.12.11.PCM DR.IS [2] de 03.01.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-581865
+  date: '1979-12-11'
+- type: repealed_by
+  target: pt:dre:631866:por
+  label: "Revogado o Dec Lei 439/75 de 16-Ago, na redacção constante do presente diploma, pelo DEC LEI.329/95.1995.12.09.MM,\
+    \ DR.IS-A [283]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1995-631866
+  date: '1995-12-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:07Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +124,9 @@ Tornando-se imperioso solucionar algumas dificuldades surgidas na matéria:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 36.º, 37.º, 38.º, 40.º e 42.º do Regulamento Provisório das Embarcações de Recreio, aprovado pelo [Decreto-Lei n.º 439/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1975-314625), de 16 de Agosto, passam a ter a seguinte redacção:
+Artigo único. Os artigos 36.º, 37.º, 38.º, 40.º e 42.º do Regulamento Provisório das Embarcações de Recreio, aprovado pelo [Decreto-Lei n.º 439/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1975-314625), de 16 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 36.º As graduações que poderão ser obtidas pelos desportistas náuticos, após exame efectuado, sob a responsabilidade da Direcção-Geral dos Estudos Náuticos (DGEN), pelas escolas da sua dependência, pelas repartições marítimas (RM), pelas escolas dependentes da Direcção-Geral dos Desportos e pelos clubes náuticos que forem devidamente autorizados para o efeito, bem como o tipo de embarcações e condições em que os mesmos as poderão comandar, são as seguintes:
+Art. 36.º As graduações que poderão ser obtidas pelos desportistas náuticos, após exame efectuado, sob a responsabilidade da Direcção-Geral dos Estudos Náuticos (DGEN), pelas escolas da sua dependência, pelas repartições marítimas (RM), pelas escolas dependentes da Direcção-Geral dos Desportos e pelos clubes náuticos que forem devidamente autorizados para o efeito, bem como o tipo de embarcações e condições em que os mesmos as poderão comandar, são as seguintes:
 
 a) Principiante - embarcações locais até 1 tAB, navegação diurna até à distância de 2 milhas da borda-d'água, em zonas vigiadas. Potência máxima instalada: 10 cv;
 
@@ -111,7 +140,7 @@ e) Patrão de alto mar - embarcações do alto até 200 tAB, navegação oceâni
 
 § único. As cartas de patrão actualmente existentes habilitam para as condições de comando e para o tipo de embarcações a que se refere categoria de patrão de vela e motor, devendo ser objecto de troca até 31 de Dezembro de 1980, data a partir da qual se consideram extintas.
 
-###### Art. 37.º A obtenção das cartas referentes às diversas graduações depende da aprovação em prévio exame e a sua passagem será requerida pelos interessados, directamente ou por intermédio de clubes náuticos, às RM.
+Art. 37.º A obtenção das cartas referentes às diversas graduações depende da aprovação em prévio exame e a sua passagem será requerida pelos interessados, directamente ou por intermédio de clubes náuticos, às RM.
 
 § 1.º O requerimento é feito em impresso modelo n.º 7, acompanhado de atestado médico e três fotografias tipo passe.
 
@@ -187,7 +216,7 @@ Aos marinheiros de 1.ª classe e marinheiros pescadores.
 
 2 - As cartas de desportista náutico, a conceder nos termos do número anterior, serão emitidas pelas RM, a requerimento dos interessados, acompanhado de prova da respectiva categoria profissional e do atestado médico a que se refere o n.º 2 do artigo 38.º deste Regulamento.
 
-###### Art. 38.º São condições indispensáveis para se ser submetido a exame de desportista náutico:
+Art. 38.º São condições indispensáveis para se ser submetido a exame de desportista náutico:
 
 a) Possuir as necessárias condições físicas, comprovadas por atestado médico;
 
@@ -205,9 +234,9 @@ g) Ter apresentado autorização por escrito, e reconhecida, do pai ou tutor, no
 
 h) Ter para qualquer das cartas de patrão a graduação imediatamente anterior.
 
-###### Art. 39.º ...
+Art. 39.º ...
 
-###### Art. 40.º As cartas são válidas para todo o território nacional.
+Art. 40.º As cartas são válidas para todo o território nacional.
 
 § 1.º As RM manterão cadastro actualizado das cartas que emitem, com numeração própria seguida das iniciais constantes do anexo A, e enviarão à DGPM as fichas (modelo n.º 17) devidamente preenchidas.
 
@@ -219,14 +248,14 @@ h) Ter para qualquer das cartas de patrão a graduação imediatamente anterior.
 
 ...
 
-###### Art. 42.º ...
+Art. 42.º ...
 
 § único. A obtenção de novas cartas, em substituição das caducadas nos termos deste artigo, é feita mediante novo pedido de passagem de carta (artigo 37.º) e apresentação de novo atestado médico artigo 38.º, alínea a)].
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1979. - Carlos Alberto da Mota Pinto - José Ricardo Marques da Costa.
 
-**Promulgado em 13 de Agosto de 1979.**
+Promulgado em 13 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

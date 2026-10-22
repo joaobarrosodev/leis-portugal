@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/579-1976-430581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 556e3cd81dea2178e6c7d0a7ea2f74a6b7ef7831fd511cee4f1e768080d8c1b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71620ab7f40f4c5261ed27ffbf7618e161829ff42a3a1421d9ed7cc93bbb714e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cidade do México
+- Convenção
+- Estatuto
+- Organização Mundial do Turismo
 relationships:
 - type: amended_by
   target: pt:dre:66849064:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492445:por
+  label: Tornado público que o embaixador de Portugal em Berna depositou junto do Governo Suíço, em 4 de Novembro de 1976,
+    o instrumento de ratificação dos Estatutos da Organização Mundial de Turismo pelo(a) Aviso - Diário da República n.º 6/1977,
+    Série I de 1977-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1977-492445
+  date: '1977-01-08'
+- type: amended_by
+  target: pt:dre:66674005:por
+  label: Aprovada a Emenda ao art. 38.º dos Estatutos da Organização Mundial do Turismo aprovados, para ratificação, pelo
+    presente diploma, pelo(a) Resolução da Assembleia da República n.º 24/2015 - Diário da República n.º 45/2015, Série I
+    de 2015-03-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/24-2015-66674005
+  date: '2015-03-05'
+- type: amended_by
+  target: pt:dre:66849064:por
+  label: Aprovada a Emenda ao art. 38.º dos Estatutos da Organização Mundial do Turismo e a Emenda ao Parágrafo 12 das Regras
+    de Financiamento, anexas aos Estatutos da Organização, aprovados, para ratificação, pelo presente diploma, pelo(a) Resolução
+    da Assembleia da República n.º 29/2015 - Diário da República n.º 60/2015, Série I de 2015-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/29-2015-66849064
+  date: '2015-03-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:15Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +115,15 @@ de 21 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovados para ratificação os Estatutos da Organização Mundial de Turismo, concluídos na Assembleia Geral Extraordinária da União dos Organismos Oficiais de Turismo, realizada na Cidade do México em 27 de Setembro de 1970, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. São aprovados para ratificação os Estatutos da Organização Mundial de Turismo, concluídos na Assembleia Geral Extraordinária da União dos Organismos Oficiais de Turismo, realizada na Cidade do México em 27 de Setembro de 1970, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Joaquim Jorge de Pinho Campinos - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 8 de Julho de 1976.**
+Assinado em 8 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ORGANISATION MONDIALE DU TOURISME (OMT)
 
@@ -850,7 +875,7 @@ A partir da entrada em vigor dos presentes Estatutos, os direitos e obrigações
 
 ###### ARTIGO 45.º
 
-**O Secretário-Geral da UIOOT na data da entrada em vigor dos presentes Estatutos agirá na qualidade de Secretário-Geral da Organização até à data da eleição, pela Assembleia, do Secretário-Geral da Organização.**
+O Secretário-Geral da UIOOT na data da entrada em vigor dos presentes Estatutos agirá na qualidade de Secretário-Geral da Organização até à data da eleição, pela Assembleia, do Secretário-Geral da Organização.
 
 Feito no México em 27 de Setembro de 1970.
 
@@ -858,7 +883,7 @@ O texto dos presentes Estatutos é uma cópia exacta do texto autenticado pelas 
 
 Cópia certificada, verdadeira e completa
 
-**O Secretário-Geral da União Internacional dos Organismos Oficiais de Turismo:**
+O Secretário-Geral da União Internacional dos Organismos Oficiais de Turismo:
 
 Robert C. Lonati.
 
@@ -904,6 +929,6 @@ O texto das presentes Regras de financiamento, anexo aos Estatutos da Organizaç
 
 Cópia certificada conforme e completa.
 
-**O Secretário-Geral da União dos Organismos Oficiais de Turismo:**
+O Secretário-Geral da União dos Organismos Oficiais de Turismo:
 
 Robert C. Lonati

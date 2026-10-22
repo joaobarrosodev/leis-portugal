@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/277-1975-335908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a066385b46bfb4c20aa485d661c3b17874730915dfcc451366c5d45a97ea37a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f372b0b78bfcc4933c8daa4ba599caff1332ccaea1f403e3fb215995ccf873d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Évora
+- Prédio Militar
+- Região Militar
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:55Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +105,9 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea b), 12.º e 13.º da [Le
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, 4.º, da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área de terreno com a largura de 30 m, medidos para o exterior dos limites do prédio militar onde funciona o Distrito de Recrutamento e Mobilização n.º 16, em Évora.
+Artigo 1.º Fica sujeita a servidão militar a área de terreno com a largura de 30 m, medidos para o exterior dos limites do prédio militar onde funciona o Distrito de Recrutamento e Mobilização n.º 16, em Évora.
 
-###### Art. 2.º Na área referida no artigo anterior é proibida, sem licença devidamente condicionada da autoridade militar competente:
+Art. 2.º Na área referida no artigo anterior é proibida, sem licença devidamente condicionada da autoridade militar competente:
 
 a) Fazer construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -103,15 +115,15 @@ b) Fazer depósitos permanentes ou temporários de materiais explosivos ou infla
 
 c) Instalar linhas de energia eléctrica ou de ligações telegráficas ou telefónicas, quer aéreas, quer subterrâneas.
 
-###### Art. 3.º Ao comandante da Região Militar de Évora compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência no artigo anterior.
+Art. 3.º Ao comandante da Região Militar de Évora compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência no artigo anterior.
 
-###### Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao chefe do Distrito de Recrutamento e Mobilização n.º 16, ao Comando da Região Militar de Évora e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
+Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao chefe do Distrito de Recrutamento e Mobilização n.º 16, ao Comando da Região Militar de Évora e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
 
-###### Art. 5.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da delegação do Serviço de Fortificações e Obras Militares na Região Militar de Évora.
+Art. 5.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da delegação do Serviço de Fortificações e Obras Militares na Região Militar de Évora.
 
-###### Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o titular do departamento do Exército; das decisões respeitantes a demolições previstas no artigo anterior cabe recurso para o comandante da Região Militar de Évora, e da decisão deste, para o titular do departamento do Exército.
+Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o titular do departamento do Exército; das decisões respeitantes a demolições previstas no artigo anterior cabe recurso para o comandante da Região Militar de Évora, e da decisão deste, para o titular do departamento do Exército.
 
-###### Art. 7.º A área descrita no artigo 1.º vai demarcada na planta topográfica de Évora, na escala de 1:1000, organizando-se oito colecções, com a classificação de «Reservado», que terão os seguintes destinos:
+Art. 7.º A área descrita no artigo 1.º vai demarcada na planta topográfica de Évora, na escala de 1:1000, organizando-se oito colecções, com a classificação de «Reservado», que terão os seguintes destinos:
 
 Uma ao Estado-Maior-General das Forças Armadas (4.ª Divisão);
 
@@ -125,12 +137,12 @@ Duas ao Ministério da Administração Interna;
 
 Uma ao Ministério do Equipamento Social e do Ambiente.
 
-###### Art. 8.º Este decreto entra imediatamente em vigor.
+Art. 8.º Este decreto entra imediatamente em vigor.
 
 Vasco dos Santos Gonçalves - Silvano Ribeiro - António Carlos Magalhães Arnão Metelo - José Augusto Fernandes.
 
-**Promulgado em 22 de Maio de 1975.**
+Promulgado em 22 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

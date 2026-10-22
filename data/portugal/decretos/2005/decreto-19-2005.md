@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/2005/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-2005-141851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b36e89825c87ca1f6b4e2907b40f156c52ffe3b4c48e6a9697985b3e51009e1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 041a2f7b16fa5849eae2cf9afa8d50f19376c537ace750f8c45f59aa43da8aa3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - KIEV
+- Portugal
 - Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
@@ -76,13 +76,13 @@ relationships: []
 article_structure:
   article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:07Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +101,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - João Titterington Gomes Cravinho - Fernando Pereira Serrasqueiro - Mário Lino Soares Correia.
 
-**Assinado em 14 de Agosto de 2005.**
+Assinado em 14 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Agosto de 2005.**
+Referendado em 18 de Agosto de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A UCRÂNIA SOBRE TRANSPORTES INTERNACIONAIS RODOVIÁRIOS DE PASSAGEIROS E MERCADORIAS.
 

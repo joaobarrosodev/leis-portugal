@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/133-1980-459035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b9471341610d41f0208999ffcd1386dd0ecf50ec1733ce8515a3a54ba08c8ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d8ac28350ddea084ac794d110d9b96064822709b529848c02dd38ce3f791e4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Desemprego
+- Naufrágio
+- OIT
+- Pessoal do MAR
+- Portugal
+- Proteção no Desemprego
 relationships:
 - type: amended_by
   target: pt:dre:683066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683066:por
+  label: "Estendida a convenção ao território de Macau pelo DEC.207/99.1999.11.09.PR DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/207-1999-683066
+  date: '1999-11-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:44Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +103,15 @@ de 28 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção n.º 8, Relativa à Indemnização por Desemprego em Caso de Perda por Naufrágio, adoptada pela Conferência Internacional do Trabalho na sua 2.ª sessão, cujo texto em francês e respectiva tradução para português são anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção n.º 8, Relativa à Indemnização por Desemprego em Caso de Perda por Naufrágio, adoptada pela Conferência Internacional do Trabalho na sua 2.ª sessão, cujo texto em francês e respectiva tradução para português são anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 24 de Outubro de 1980. - Francisco Sá Carneiro.
 
-**Assinado em 20 de Novembro de 1980.**
+Assinado em 20 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Convenção n.º 8
 
@@ -115,23 +127,23 @@ Após ter decidido que essas propostas seriam redigidas sob a forma de uma conve
 
 adopta a seguinte convenção, que será denominada Convenção sobre a Indemnização por Desemprego (Naufrágio), 1920, a ratificar pelos Membros da Organização Internacional do Trabalho, em conformidade com as disposições da Constituição da Organização Internacional do Trabalho:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1 - Para aplicação da presente Convenção, o termo «marítimo» é aplicável a todas as pessoas empregadas a bordo de qualquer navio que efectue navegação marítima.
 
 2 - Para aplicação da presente Convenção, o termo «navio» deve compreender todos os barcos, navios ou embarcações, qualquer que seja o seu tipo, de propriedade pública ou privada, que efectuem navegação marítima, com exclusão dos navios de guerra.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1 - Em caso de perda de qualquer navio por naufrágio, o armador ou a pessoa com a qual o marítimo celebrou um contrato para trabalhar a bordo do navio deverá pagar a cada um dos marítimos empregados nesse navio uma indemnização que obvie ao desemprego resultante da perda do navio por naufrágio.
 
 2 - Esta indemnização será paga por cada dia do período efectivo de desemprego do marítimo, à taxa do salário pagável ao marítimo em virtude do contrato, mas o montante total da indemnização pagável a cada marítimo por força da presente Convenção poderá ser limitado a dois meses de salário.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Estas indemnizações gozarão dos mesmos privilégios que os salários em atraso e os marítimos poderão recorrer, para as receberem, a processos idênticos aos usados para aqueles.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - Qualquer Membro da Organização Internacional do Trabalho que ratifique a presente Convenção compromete-se a aplicá-la às suas colónias, possessões ou protectorados não plenamente autónomos, com as seguintes reservas:
 
@@ -141,31 +153,31 @@ b) Que as modificações que forem necessárias para adaptar a Convenção às c
 
 2 - Cada Membro deverá notificar a Repartição Internacional do Trabalho da sua decisão relativamente a cada uma das suas colónias ou possessões ou a cada um dos seus protectorados não plenamente autónomos.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 As ratificações oficiais da presente Convenção, nas condições estabelecidas pela Constituição da Organização Internacional do Trabalho, serão comunicadas ao director-geral da Repartição Internacional do Trabalho e por ele registadas.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Logo que as ratificações de dois Membros da Organização Internacional do Trabalho tiverem sido registadas na Repartição Internacional do Trabalho, o director-geral desta Repartição notificará deste facto todos os Membros da Organização Internacional do Trabalho.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 A presente Convenção entrará em vigor na data em que esta notificação tiver sido efectuada pelo director-geral da Repartição Internacional do Trabalho; a Convenção vinculará apenas os Membros que tiverem registado a sua ratificação na Repartição Internacional do Trabalho. Seguidamente, a presente Convenção entrará em vigor, relativamente a qualquer outro Membro, na data em que a ratificação desse mesmo Membro tiver sido registada na Repartição Internacional do Trabalho.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Sob reserva das disposições do artigo 7.º, o Membro que ratifique a presente Convenção compromete-se a aplicar as suas disposições o mais tardar até 1 de Julho de 1922 e a tomar as medidas que forem necessárias para tornar efectivas estas disposições.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Qualquer Membro que tiver ratificado a presente Convenção poderá denunciá-la decorrido um período de cinco anos, a contar da data da entrada em vigor inicial da Convenção, por comunicação dirigida ao director-geral da Repartição Internacional do Trabalho e por ele registada. A denúncia apenas produzirá efeitos um ano depois de ter sido registada na Repartição Internacional do Trabalho.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Sempre que o considere necessário, o Conselho de Administração da Repartição Internacional do Trabalho apresentará à Conferência Geral um relatório sobre a aplicação da Convenção e considerará a conveniência de incluir na ordem de trabalhos da Conferência a sua revisão total ou parcial.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 As versões francesa e inglesa da presente Convenção são igualmente autênticas.
 

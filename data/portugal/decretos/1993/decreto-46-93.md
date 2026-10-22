@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/46/1993/12/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46-1993-551817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2815de5ba96e994be67ccb881632f9d47c0a5c5d62c925f95837cbccf043e2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4eb4fc2a5f43b8414e135dd7c48a17a22d196b73e3739e3a54876edf707f408
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,14 +73,14 @@ subjects:
 relationships: []
 article_structure:
   article_count: 13
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:45Z'
   warnings: []
   errors: []
 ---
@@ -91,25 +91,25 @@ de 3 de Dezembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Administrativo Relativo às Modalidades de Aplicação da Convenção sobre Segurança Social entre o Governo da República Portuguesa e o Governo da Austrália, assinado em Camberra em 10 de Agosto de 1992, cujo texto original nas línguas portuguesa e inglesa segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Administrativo Relativo às Modalidades de Aplicação da Convenção sobre Segurança Social entre o Governo da República Portuguesa e o Governo da Austrália, assinado em Camberra em 10 de Agosto de 1992, cujo texto original nas línguas portuguesa e inglesa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1993. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - José Albino da Silva Peneda.
 
-**Assinado em 3 de Novembro de 1993.**
+Assinado em 3 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1993.**
+Referendado em 4 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ADMINISTRATIVO RELATIVO ÀS MODALIDADES DE APLICAÇÃO DA CONVENÇÃO SOBRE SEGURANÇA SOCIAL ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA AUSTRÁLIA.
 
 Em conformidade com o artigo 23.º da Convenção sobre Segurança Social entre o Governo da República Portuguesa e o Governo da Austrália, assinada em 30 de Abril de 1991, as autoridades competentes portuguesas e australianas estabelecem o Acordo Administrativo para aplicação daquela Convenção, com as disposições seguintes:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Definições
 
@@ -167,13 +167,13 @@ Para a Austrália, o International Operations Branch, Department of Social Secur
 
 4 - O Departamento de Relações Internacionais e Convenções de Segurança Social e o International Branch of the Department of Social Security elaboram inicialmente os formulários e demais documentos necessários para a aplicação da Convenção e do Acordo, cabendo aos organismos de ligação proceder à revisão e actualização desses formulários e documentos com vista a assegurar aquela aplicação.
 
-# PARTE II — Determinação da legislação aplicável
+## PARTE II — Determinação da legislação aplicável
 
 ###### Artigo 4.º — Certificado relativo à legislação aplicável
 
 Para efeitos da aplicação da legislação portuguesa nos termos do artigo 8.º da Convenção, a instituição competente emite um certificado relativo à legislação aplicável declarando que o interessado continua sujeito à legislação portuguesa e indicando o período de validade do mesmo.
 
-# PARTE III — Aplicação das disposições relativas às prestações e instrução dos requerimentos
+## PARTE III — Aplicação das disposições relativas às prestações e instrução dos requerimentos
 
 ###### Artigo 5.º — Apresentação do requerimento
 
@@ -219,7 +219,7 @@ Em relação à Austrália, o respectivo organismo de ligação informará a ins
 
 5 - O formulário para o relatório médico referido no n.º 2 é o estabelecido e actualizado para esse efeito.
 
-# PARTE IV — Disposições diversas
+## PARTE IV — Disposições diversas
 
 ###### Artigo 9.º — Assistência mútua
 
@@ -241,13 +241,15 @@ As instituições competentes ou os organismos de ligação de ambas as Partes p
 
 Os organismos de ligação das duas Partes comunicam, a pedido, as estatísticas dos pagamentos efectuados em aplicação da Convenção, incluindo elementos sobre o número de titulares de prestações e o montante pago por cada tipo de prestação.
 
-# PARTE V — Artigo 13.º
+## PARTE V
+
+###### Artigo 13.º
 
 Disposições finais
 
 O presente Acordo Administrativo entra em vigor na mesma data da Convenção e terá a mesma duração.
 
-**Assinado em Camberra em 10 de Agosto de 1992, em duplicado, em português e inglês, fazendo qualquer dos textos igualmente fé.**
+Assinado em Camberra em 10 de Agosto de 1992, em duplicado, em português e inglês, fazendo qualquer dos textos igualmente fé.
 
 Pela Autoridade Competente de Portugal:
 

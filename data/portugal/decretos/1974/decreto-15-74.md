@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-1974-408283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 505d16c90c7469488b4a2351d7a1d9878adce48f0d288ca1d65d26dd58277370
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f11bd30cf9020ef153ae7bba11b6e45e90c6d0ce0d2ef72023f7de32c29ad25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:141633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215774:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:02Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +100,7 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º O quadro comum dos serviços de educação do ultramar, com a constituição que lhe foi dada pelo [Decreto-Lei n.º 49367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49367-1969-215774), de 8 de Novembro de 1969, e pelo artigo 1.º do [Decreto n.º 346/70](https://diariodarepublica.pt/dr/detalhe/decreto/346-1970-141633), de de 23 de Julho, é acrescido dos seguintes lugares:
+Artigo 1.º O quadro comum dos serviços de educação do ultramar, com a constituição que lhe foi dada pelo [Decreto-Lei n.º 49367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49367-1969-215774), de 8 de Novembro de 1969, e pelo artigo 1.º do [Decreto n.º 346/70](https://diariodarepublica.pt/dr/detalhe/decreto/346-1970-141633), de de 23 de Julho, é acrescido dos seguintes lugares:
 
 Moçambique:
 
@@ -104,16 +112,16 @@ Subdirector escolar ... 1
 
 Subinspector escolar ... 2
 
-###### Art. 2.º O provimento dos lugares criados pelo presente decreto rege-se pelos artigos 18.º e 19.º do [Decreto-Lei n.º 49367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49367-1969-215774), de 8 de Novembro de 1969, no que se refere, respectivamente, aos directores escolares e subdirectores escolares; e artigo 8.º do [Decreto n.º 346/70](https://diariodarepublica.pt/dr/detalhe/decreto/346-1970-141633), de 23 de Julho, quanto ao inspectores escolares e subinspectores escolares.
+Art. 2.º O provimento dos lugares criados pelo presente decreto rege-se pelos artigos 18.º e 19.º do [Decreto-Lei n.º 49367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49367-1969-215774), de 8 de Novembro de 1969, no que se refere, respectivamente, aos directores escolares e subdirectores escolares; e artigo 8.º do [Decreto n.º 346/70](https://diariodarepublica.pt/dr/detalhe/decreto/346-1970-141633), de 23 de Julho, quanto ao inspectores escolares e subinspectores escolares.
 
-###### Art. 3.º A execução deste decreto fica condicionada à existência de disponibilidades orçamentais.
+Art. 3.º A execução deste decreto fica condicionada à existência de disponibilidades orçamentais.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 9 de Janeiro de 1974.**
+Promulgado em 9 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - B. Rebelo de Sousa.

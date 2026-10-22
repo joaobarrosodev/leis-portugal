@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/22/2005/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-2005-147613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 447b3241746fa104cb20afa5e4325aafd87c287be57233646ec20e670e61b964
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d6cffee1565badb33e4e4820adf4b4385a334ae3d9a34ab279d1b07b876c345
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Tratado Internacional sobre os Recursos Fitogenéticos para a Alimentação e a Agricultura
-- Portugal
-- Investigação Agronómica
-- FAO
-- Diversidade Biológica
-- Cooperação Internacional
-- Alimentação
-- Recursos Genéticos
 - Agricultura
+- Alimentação
+- Convenção
+- Cooperação Internacional
+- Diversidade Biológica
+- FAO
+- Investigação Agronómica
+- Portugal
+- Recursos Genéticos
 - Roma
+- Tratado Internacional sobre os Recursos Fitogenéticos para a Alimentação e a Agricultura
 - Vegetais
 relationships: []
 article_structure:
   article_count: 58
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:11Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +110,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 12 de Agosto de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Jaime de Jesus Lopes Silva.
 
-**Assinado em 8 de Setembro de 2005.**
+Assinado em 8 de Setembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Setembro de 2005.**
+Referendado em 9 de Setembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 INTERNATIONAL TREATY ON PLANT GENETIC RESOURCES FOR FOOD AND AGRICULTURE TRANSMITTAL OF CERTIFIED TRUE COPIES OF THE TREATY.
 
@@ -704,11 +704,11 @@ List of crops covered under the multilateral system
 
 Food crops
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)
 
 Forages
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)
 
 ANNEX II
 
@@ -868,7 +868,7 @@ Desejosos de concluir um acordo internacional no âmbito da Organização das Na
 
 acordaram no seguinte:
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 ###### Artigo 1.º — Objectivos
 
@@ -900,7 +900,7 @@ Por «centro de diversidade vegetal» entende-se uma zona geográfica com um ní
 
 O presente Tratado diz respeito aos recursos fitogenéticos para a alimentação e a agricultura.
 
-# PARTE II — Disposições gerais
+## PARTE II — Disposições gerais
 
 ###### Artigo 4.º — Obrigações gerais
 
@@ -964,7 +964,7 @@ d) Executar a estratégia de financiamento do artigo 18.º
 
 As Partes Contratantes acordam em promover a concessão de assistência técnica às Partes Contratantes, nomeadamente às que são países em desenvolvimento ou países com economias de transição, através da ajuda bilateral ou de organizações internacionais adequadas, para facilitar a aplicação do presente Tratado.
 
-# PARTE III — Direitos dos agricultores
+## PARTE III — Direitos dos agricultores
 
 ###### Artigo 9.º — Direitos dos agricultores
 
@@ -980,7 +980,7 @@ c) O direito de participar na tomada de decisões, a nível nacional, sobre ques
 
 9.3 - Nada no presente artigo deverá ser interpretado como limitativo dos direitos que possam assistir aos agricultores de conservar, utilizar, trocar e vender sementes e material de propagação produzidos na exploração, sob reserva das disposições da legislação nacional e segundo as circunstâncias.
 
-# PARTE IV — Sistema multilateral de acesso e partilha de benefícios
+## PARTE IV — Sistema multilateral de acesso e partilha de benefícios
 
 ###### Artigo 10.º — Sistema multilateral de acesso e partilha de benefícios
 
@@ -1068,7 +1068,7 @@ ii) As Partes Contratantes acordam em que o acordo tipo de transferência de mat
 
 13.6 - As Partes Contratantes examinarão as modalidades de uma estratégia de contribuição voluntária para a partilha dos benefícios, graças à qual as indústrias alimentares que beneficiem dos recursos fitogenéticos para a alimentação e a agricultura contribuam para o sistema multilateral.
 
-# PARTE V — Elementos de apoio
+## PARTE V — Elementos de apoio
 
 ###### Artigo 14.º — Plano de Acção Mundial
 
@@ -1124,7 +1124,7 @@ g) Caso a conservação correcta das colecções ex situ na posse dos CIIA seja 
 
 17.3 - As Partes Contratantes cooperarão com a Comissão dos Recursos Genéticos para a Alimentação e a Agricultura da FAO, na reavaliação periódica da situação dos recursos fitogenéticos para a alimentação e a agricultura a nível mundial, de maneira a facilitar a actualização do Plano de Acção Mundial progressivo referido no artigo 14.º
 
-# PARTE VI — Disposições financeiras
+## PARTE VI — Disposições financeiras
 
 ###### Artigo 18.º — Recursos financeiros
 
@@ -1150,7 +1150,7 @@ f) As Partes Contratantes, o sector privado, sob reserva do disposto no artigo 1
 
 18.5 - As Partes Contratantes acordam em que seja dada prioridade à execução dos planos e programas acordados em benefício dos agricultores dos países em desenvolvimento, especialmente dos países menos desenvolvidos, bem como dos países com economias de transição que conservam e utilizam de maneira sustentável os recursos fitogenéticos para a alimentação e a agricultura.
 
-# PARTE VII — Disposições institucionais
+## PARTE VII — Disposições institucionais
 
 ###### Artigo 19.º — Órgão director
 
@@ -1320,13 +1320,15 @@ Os textos do presente Tratado em árabe, chinês, espanhol, francês, inglês e 
 
 Culturas alimentares
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)
 
 Forragens
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)](https://files.diariodarepublica.pt/1s/2005/09/185a00/57005726.pdf)
 
-## ANEXO II — Parte 1
+## ANEXO II
+
+## Parte 1
 
 Arbitragem
 
@@ -1408,7 +1410,7 @@ A sentença será vinculativa para as partes no diferendo. Será irrecorrível s
 
 Qualquer divergência que possa emergir entre as partes no diferendo sobre a interpretação ou a execução da sentença poderá ser submetida por qualquer das partes no diferendo ao tribunal arbitral que proferiu a sentença.
 
-# Parte 2
+Parte 2
 
 Conciliação
 

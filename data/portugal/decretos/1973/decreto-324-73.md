@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 152/1973, 1º Suplemento, Série I de 1973-06-30
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1124-(1) a 1124-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf
 entry_into_force_dates: []
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/324-1973-255580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7684afcd7500cad2e154d72c9ef9cfdd666c6fc46ed19ae61ffa106397114beb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffb1e7e54796ee4b3963a96bafe2e5cbd4ddf1674acb9779980f150f9051b7d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo Europeu
+- Convenção
+- Duração do Trabalho
+- Genebra
+- Portugal
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Internacional
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:371440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371440:por
+  label: "Alterado o Acordo aprovado para ratificação pelo presente diploma, pela RES.49/99.1999.04.16.AR DR.IS-A [150] e\
+    \ suprimidos os arts. 6.º e 7.º do antecipado Acordo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/49-1999-371440
+  date: '1999-04-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:19Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +106,15 @@ de 30 de Junho
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Europeu Relativo ao Trabalho das Tripulações dos Veículos Que Efectuam Transportes Internacionais Rodoviários (AETR) e seu Protocolo de Assinatura, concluídos em Genebra em 1 de Julho de 1970, cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo Europeu Relativo ao Trabalho das Tripulações dos Veículos Que Efectuam Transportes Internacionais Rodoviários (AETR) e seu Protocolo de Assinatura, concluídos em Genebra em 1 de Julho de 1970, cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 15 de Junho de 1973.**
+Assinado em 15 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Accord européen relatif au travail dos équipages des véhicules effectuant des transports internationaux par route (AETR) et Protocole de signature, en date, à Genève, du 1er juillet 1970.
 
@@ -509,13 +524,13 @@ e) Des rapports hebdomadaires.
 
 6. Chaque Partie contractante fixe, pour les livrets délivrés sur son territoire, la manière selon laquelle le membre d'équipage doit faire figurer les périodes de ses activités professionnelles autres que les périodes de conduite. À cette fin, chaque Partie contractante peut choisir l'une des manières suivantes:
 
-a) Les périodes d'activités professionnelles autres que la conduite seront relevées sous le symbole [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) sans distinction entre périodes consacrés à des travaux effectifs et autres périodes de service;
+a) Les périodes d'activités professionnelles autres que la conduite seront relevées sous le symbole [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) sans distinction entre périodes consacrés à des travaux effectifs et autres périodes de service;
 
 b) Les périodes d'activités professionnelles autres que la conduite seront relevées en distinguant:
 
 Sous le symbole les travaux effectifs autres que la conduite;
 
-Sous le symbole [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) les périodes de service autres que celles visées par les symboles [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) et [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf).
+Sous le symbole [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) les périodes de service autres que celles visées par les symboles [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) et [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf).
 
 7. Chaque Partie contractante peut prescrire pour les livrets individuels de contrôle délivrés sur son territoire:
 
@@ -525,7 +540,7 @@ b) La tenue du feuillet quotidien en plus d'un exemplaire;
 
 c) Des indications ou rubriques additionnelles ou des variantes, à condition que la présentation générale du livret ne soit pas modifié et que les numéros ou lettres majuscules en regard des rubriques qui figurent au modèle qui suit soient inchangés;
 
-d) Toute modification ou indication complémentaire que les dispositions arrêtées en application du paragraphe 6 ci-dessus rendraient nécessaires en ce qui concerne le symboles correspondant aux rubriques 7 [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) 7a [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) 14 [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) et 14a [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) du feuillet quotidien;
+d) Toute modification ou indication complémentaire que les dispositions arrêtées en application du paragraphe 6 ci-dessus rendraient nécessaires en ce qui concerne le symboles correspondant aux rubriques 7 [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) 7a [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) 14 [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) et 14a [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) du feuillet quotidien;
 
 e) De ne pas remplir les cases en regard des rubriques Ha, Hb et/ou I du rapport hebdomadaire;
 
@@ -535,19 +550,19 @@ Modèle de livret individuel de contrôle
 
 a) Page de couverture
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
 
 b) Instructions
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
 
 c) Feuillet quotidien
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
 
 d) Feuillet quotidien
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
 
 Note 1
 
@@ -561,7 +576,7 @@ Dans la case 12, le fait d'indiquer 12 heures de durée totale de repos ininterr
 
 e) Rapport hebdomadaire
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
 
 Protocole de signature
 
@@ -971,13 +986,13 @@ e) Relatórios semanais.
 
 6 - Cada uma das Partes contratantes estabelecerá, para os livretes emitidos no seu território, o modo como o membro da tripulação fará constar os períodos de actividade profissional que não sejam períodos de condução. Para esse efeito, cada Parte contratante pode escolher um dos processos seguintes:
 
-a) Os períodos de actividade profissional que não sejam de condução serão indicados sob o símbolo [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) sem distinção entre períodos consagrados a trabalhos efectivos e outros períodos de serviço;
+a) Os períodos de actividade profissional que não sejam de condução serão indicados sob o símbolo [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) sem distinção entre períodos consagrados a trabalhos efectivos e outros períodos de serviço;
 
 b) Os períodos de actividade profissional que não sejam de condução serão registados, distinguindo-se:
 
-Sob o símbolo [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) os trabalhos efectivos, além da condução;
+Sob o símbolo [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) os trabalhos efectivos, além da condução;
 
-Sob o símbolo [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) os períodos de serviço que não os visados pelos símbolos [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) e [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
+Sob o símbolo [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) os períodos de serviço que não os visados pelos símbolos [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) e [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
 
 7 - Cada Parte contratante pode determinar, para os livretes individuais de contrôle emitidos no seu território:
 
@@ -987,7 +1002,7 @@ b) O preenchimento de mais de um exemplar da folha diária;
 
 c) Indicações ou rubricas adicionais ou variantes, com a condição de não ser modificada a apresentação geral do livrete, nem alterados os números ou letras maiúsculas correspondentes às rubricas que figuram no modelo;
 
-d) Qualquer modificação ou indicação complementar que as disposições tomadas em aplicação do n.º 6 possam tornar necessárias, no que se refere aos símbolos correspondentes às rubricas 7 [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) 7a [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) 14 [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) e 14a [([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) da folha diária;
+d) Qualquer modificação ou indicação complementar que as disposições tomadas em aplicação do n.º 6 possam tornar necessárias, no que se refere aos símbolos correspondentes às rubricas 7 [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) 7a [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) 14 [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) e 14a [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf) da folha diária;
 
 e) O não preenchimento dos espaços relativos às rubricas Ha, Hb e/ou I do relatório semanal;
 
@@ -997,19 +1012,19 @@ Modelo de livrete individual de «contrôle»
 
 a) Capa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
 
 b) Instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
 
 c) Folha diária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
 
 d) Folha diária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
 
 Nota 1
 
@@ -1023,7 +1038,7 @@ No espaço 12, o facto de se indicarem 12 horas de tempo total de repouso ininte
 
 e) Relatório semanal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15201/00010031.pdf)
 
 Protocolo de Assinatura
 

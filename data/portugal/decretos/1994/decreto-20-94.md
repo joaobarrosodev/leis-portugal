@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/20/1994/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-1994-297221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a8bed6004d420c5aabfb661fb1980a46ac6eb6432d40f2dfbb5baf0f0b2bbd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebf0c0b220cae16a4b1ddbb66d7b3a161c691963dd2114d3e6a470d7a7791b35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
+- Portugal
 - Praga
 - República Checa
 relationships: []
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:10Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 21 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre a República Portuguesa e a República Checa sobre a Promoção e Protecção de Investimentos, assinado em Praga, em 12 de Novembro de 1993, cujas versões autênticas nas línguas portuguesa, checa e inglesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo entre a República Portuguesa e a República Checa sobre a Promoção e Protecção de Investimentos, assinado em Praga, em 12 de Novembro de 1993, cujas versões autênticas nas línguas portuguesa, checa e inglesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1994. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Assinado em 1 de Junho de 1994.**
+Assinado em 1 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Junho de 1994.**
+Referendado em 3 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA CHECA SOBRE A PROMOÇÃO E A PROTECÇÃO DE INVESTIMENTOS.
 
@@ -227,7 +227,7 @@ c) A um árbitro ou a um tribunal internacional ad hoc, estabelecido segundo as 
 
 3 - O tribunal arbitral será constituído para cada caso da seguinte forma: no prazo de dois meses a contar da data da recepção do pedido de arbitragem, cada Parte Contratante nomeará um membro. Ambos os membros proporão, de comum acordo, um nacional de um terceiro Estado como presidente, que será nomeado pelas duas Partes Contratantes.
 
-**O presidente será designado no prazo de três meses, a contar da data da nomeação dos outros dois membros.**
+O presidente será designado no prazo de três meses, a contar da data da nomeação dos outros dois membros.
 
 4 - Se as necessárias nomeações não tiverem sido efectuadas dentro dos prazos fixados no n.º 3 deste artigo, poderá ser solicitado ao presidente do Tribunal Internacional de Justiça que proceda às mesmas. Se o presidente estiver impedido ou for nacional de uma das Partes Contratantes, as nomeações caberão ao vice-presidente. Se este também estiver impedido ou for nacional de uma das Partes Contratantes, as nomeações caberão ao membro do tribunal que se siga na hierarquia e que não seja nacional de qualquer das Partes Contratantes.
 
@@ -267,7 +267,7 @@ Pela República Checa:
 
 Ivan Kocáník.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/167a00/39994007.pdf))](https://files.diariodarepublica.pt/1s/1994/07/167a00/39994007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/167a00/39994007.pdf)
 
 AGREEMENT BETWEEN THE GOVERNMENT OF THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE CZECH REPUBLIC FOR THE PROMOTION AND RECIPROCAL PROTECTION OF INVESTMENTS.
 

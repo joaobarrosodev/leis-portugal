@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/117-1977-286347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9da4c64489a5d0b3d6c70b5b735e5c8daf5ab770b85a700e76f2216d2ee669f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3c8e22232eb00c0c02ce777bc69fecee8b73a201c0f4d6b8290144bfe589453
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Funcionário Público
+- Instituto Português de Oncologia de Francisco Gentil
+- Pessoal Técnico de Diagnóstico e Terapêutica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:396301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:29Z'
   warnings: []
   errors: []
 ---
@@ -91,24 +108,24 @@ Considerando que os estagiários de laboratório actualmente em serviço no Inst
 
 Ao abrigo do disposto no [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal do Instituto Português de Oncologia de Francisco Gentil, a que se refere o [Decreto-Lei n.º 99/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1972-396301), de 25 de Março, na parte respeitante ao pessoal técnico - IV) Serviços de diagnóstico e terapêutica - é alterado nos termos constantes do mapa anexo ao presente diploma.
+Artigo 1.º O quadro do pessoal do Instituto Português de Oncologia de Francisco Gentil, a que se refere o [Decreto-Lei n.º 99/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1972-396301), de 25 de Março, na parte respeitante ao pessoal técnico - IV) Serviços de diagnóstico e terapêutica - é alterado nos termos constantes do mapa anexo ao presente diploma.
 
-###### Art. 2.º Os actuais estagiários de laboratório serão providos em lugares de técnico de laboratório de 2.ª classe, mediante lista nominativa aprovada pelo Ministro da Educação e Investigação Científica e publicada no Diário da República, sem dependência de quaisquer formalidades, salvo o visto do Tribunal de Contas.
+Art. 2.º Os actuais estagiários de laboratório serão providos em lugares de técnico de laboratório de 2.ª classe, mediante lista nominativa aprovada pelo Ministro da Educação e Investigação Científica e publicada no Diário da República, sem dependência de quaisquer formalidades, salvo o visto do Tribunal de Contas.
 
-###### Art. 3.º Os encargos resultantes da execução do presente diploma serão satisfeitos no corrente ano económico pelas disponibilidades das verbas para pessoal inscritas no orçamento do Instituto Português de Oncologia de Francisco Gentil.
+Art. 3.º Os encargos resultantes da execução do presente diploma serão satisfeitos no corrente ano económico pelas disponibilidades das verbas para pessoal inscritas no orçamento do Instituto Português de Oncologia de Francisco Gentil.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia - José Dias dos Santos Pais.
 
-**Promulgado em 23 de Agosto de 1977.**
+Promulgado em 23 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 1.º do Decreto n.º 117/77
 
 Pessoal técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/20800/21842185.pdf))](https://files.diariodarepublica.pt/1s/1977/09/20800/21842185.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/20800/21842185.pdf)
 
-**O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.**
+O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.

@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-1988-355952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a204b2119f825fcdf32d18cf3058759a54dce556b79afc11543ba5e1b13432b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12d59fccf97a5270d4e03badbcf7d47960ef98edfd30c88fb20eda0c3f711618
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Londres
+- Poluição Marinha
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:684400:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684400:por
+  label: "Estendida ao Território de Macau a aplicação das Emendas à Convenção aprovadas pelo presente diploma, pelo DEC.223/99.1999.11.16.PR,\
+    \ DR.IS-A [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/223-1999-684400
+  date: '1999-11-16'
+- type: cites
+  target: pt:dre:468851:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:35Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +105,19 @@ de 15 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas as Resoluções LDC 5(3), de 12 de Outubro de 1978, LDC 6(3), da mesma data, e LDC 12(5), de 24 de Setembro de 1980, que introduzem emendas no texto e nos anexos da Convenção para a Prevenção da Poluição Marinha Causada por Operações de Imersão de Detritos e Outros Produtos (Convenção de Londres - LDC), aprovada pelo [Decreto n.º 2/78](https://diariodarepublica.pt/dr/detalhe/decreto/2-1978-468851), de 7 de Janeiro, e estabelecem as «Regras para o controle de incineração de detritos e outros produtos do mar» e as «Instruções técnicas» que as completam, cujos textos originais em inglês e as respectivas traduções para português vão anexos ao presente decreto.
+Artigo único. São aprovadas as Resoluções LDC 5(3), de 12 de Outubro de 1978, LDC 6(3), da mesma data, e LDC 12(5), de 24 de Setembro de 1980, que introduzem emendas no texto e nos anexos da Convenção para a Prevenção da Poluição Marinha Causada por Operações de Imersão de Detritos e Outros Produtos (Convenção de Londres - LDC), aprovada pelo [Decreto n.º 2/78](https://diariodarepublica.pt/dr/detalhe/decreto/2-1978-468851), de 7 de Janeiro, e estabelecem as «Regras para o controle de incineração de detritos e outros produtos do mar» e as «Instruções técnicas» que as completam, cujos textos originais em inglês e as respectivas traduções para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Junho de 1988. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - José Manuel Durão Barroso - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 8 de Agosto de 1988.**
+Assinado em 8 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1988.**
+Referendado em 10 de Agosto de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Resolution LDC.5(3)
 
@@ -363,11 +377,11 @@ Aditar ao anexo II o seguinte parágrafo:
 
 E) Na emissão de autorizações especiais para a incineração de substâncias e outros materiais incluídos na lista deste anexo, as Partes Contratantes aplicarão as Regras para o Controle da Incineração de Detritos e Outros Produtos no Mar, estabelecidas no apêndice ao anexo I, e terão em especial consideração as Instruções Técnicas para o Controle da Incineração de Detritos e Outros Produtos no Mar, adoptadas através de consultas pelas Partes Contratantes, no âmbito e limites definidos nestas Regras e Instruções.
 
-## APÊNDICE
+APÊNDICE
 
 Regras para o Controle da Incineração de Detritos e Outros Produtos no Mar
 
-# PARTE I — Regra 1
+## PARTE I — Regra 1
 
 Definições
 
@@ -395,7 +409,9 @@ b) Aos pesticidas e seus subprodutos não previstos no anexo I.
 
 5 - Na emissão das autorizações indicadas nos parágrafos 3 e 4 desta regra, as Partes Contratantes terão em conta, para cada detrito em particular, todas as disposições aplicáveis destas Regras e as Instruções Técnicas do Controle da Incineração dos Detritos e Outros Produtos no Mar.
 
-# PARTE II — Regra 3
+PARTE II
+
+Regra 3
 
 Aprovação e vistorias do sistema de incineração
 
@@ -515,7 +531,7 @@ Interim Technical Guidelines on the Control of Incineration of Wastes and Other 
 
 1.2 - Under these amendments, the Contracting Parties shall, in the issue of permits for incineration, apply the Regulations for the Control of Incineration of Wastes and Other Matter at Sea and take full account of the Technical Guidelines on the Control of Incineration of Wastes and Other Matter at Sea, adopted by the Contracting Parties in consultation. The requirements for the issue of permits for different types of wastes are summarized in the following table.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21400/37733791.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21400/37733791.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21400/37733791.pdf)
 
 1.3 - The present Guidelines have been developed on the basis of existing scientific knowledge of the incineration process and on a knowledge of current technology. Although the state of knowledge on the incineration of liquid organochlorine wastes in existing vessels has enable specific guidelines to be drawn up covering the incineration of these wastes, there remain types of wastes where knowledge is insufficient at present. Scientific work and technical development is, however, proceeding and consequently these Guidelines should be kept under review as the results of further research and investigation become available.
 
@@ -729,7 +745,7 @@ Instruções Técnicas para o Controle da Incineração de Detritos e Outros Pro
 
 1.2 - Nos termos desta emenda, as Partes Contratantes, na emissão de autorizações para incineração, aplicarão as Regras para o Controle da Incineração de Detritos e Outros Produtos no Mar e terão em especial consideração as Instruções Técnicas para o Controle da Incineração de Detritos e Outros Produtos no Mar, adoptadas através de consultas pelas Partes Contratantes. Os requisitos para emissão de autorizações para diferentes tipos de detritos estão resumidos no seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21400/37733791.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21400/37733791.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21400/37733791.pdf)
 
 1.3 - As presentes Instruções foram elaboradas com base nos actuais conhecimentos científicos sobre os processos de incineração e tendo em conta a tecnologia existente Embora o estado de conhecimentos sobre a incineração de detritos organo-clorados líquidos nos navios existentes tenha possibilitado a elaboração de instruções abrangendo a incineração destes detritos, existem certos tipos de resíduos sobre os quais os conhecimentos actuais são ainda insuficientes. Prosseguem, contudo, os trabalhos de investigação científica e o desenvolvimento nesta área; consequentemente, as presentes Instruções estarão sujeitas a revisão, de modo a reflectirem quaisquer progressos alcançados neste campo como resultado de trabalhos adicionais de pesquisa e investigação.
 
@@ -871,7 +887,7 @@ Instruções Técnicas para o Controle da Incineração de Detritos e Outros Pro
 
 5.3.3 - A Organização dará às notificações sobre autorizações de incineração o mesmo tratamento que o dispensado às autorizações de imersão.
 
-## APÊNDICE
+APÊNDICE
 
 Modelo de relatório sobre a notificação de autorizações de incineração
 
@@ -1081,7 +1097,7 @@ Também solicita ao secretário-geral da Organização Marítima Consultiva Inte
 
 Convida as Partes Contratantes a aceitar as modificações com a brevidade possível.
 
-## ANEXO
+ANEXO
 
 Modificações à Convenção para a Prevenção da Poluição Marinha Causada por Operações de Imersão de Detritos e Outros Produtos, sobre resolução de diferendos.
 
@@ -1099,9 +1115,9 @@ Nas reuniões das Partes Contratantes, convocadas de acordo com o artigo XIV, as
 
 O apêndice mencionado no artigo XV, já modificado como acima se indica, é o seguinte:
 
-## APÊNDICE
+APÊNDICE
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1 - A pedido de uma Parte Contratante dirigido a outra Parte Contratante, pode ser constituído um tribunal arbitral (daqui em diante designado por «Tribunal»), em aplicação do artigo XI da presente Convenção. O pedido de arbitragem constará de uma exposição do caso, acompanhada de quaisquer documentos probatórios.
 
@@ -1113,13 +1129,13 @@ ii) Das disposições da Convenção cuja interpretação ou aplicação constit
 
 3 - O secretário-geral transmitirá esta informação a todas as Partes Contratantes.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1 - O Tribunal será constituído por um único árbitro, se assim for acordado entre as partes no diferendo no prazo de 30 dias a contar da data da recepção do pedido de arbitragem.
 
 2 - Em caso de morte, incapacidade ou ausência do árbitro, as partes no diferendo podem acordar na sua substituição num prazo de 30 dias a contar da sua morte, incapacidade ou ausência.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1 - Quando as partes no diferendo não chegarem a acordo acerca da constituição de um tribunal em conformidade com o artigo 2.º deste apêndice, o Tribunal será constituído por três membros:
 
@@ -1135,23 +1151,23 @@ ii) Um terceiro árbitro a designar por acordo entre os dois árbitros primeiram
 
 5 - O secretário-geral da Organização manterá uma lista de árbitros constituída por pessoas qualificadas designadas pelas Partes Contratantes. Cada uma das Partes Contratantes pode designar, para inclusão nessa lista, quatro pessoas que podem não ter necessariamente a nacionalidade dessa Parte. Se as partes no diferendo não apresentarem ao secretário-geral, dentro dos limites dos prazos estabelecidos, uma lista acordada de pessoas qualificadas, nos termos dos n.os 2, 3 e 4 deste artigo, o secretário-geral escolherá, da lista por ele mantida, o árbitro ou árbitros ainda não designados.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O Tribunal pode apreciar e julgar pedidos reconvencionais provenientes directamente da matéria do diferendo.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Cada uma das partes no diferendo é responsável pelas despesas de preparação do seu próprio caso. A remuneração dos membros do Tribunal e todas as outras despesas gerais decorrentes da arbitragem serão suportadas igualmente pelas partes no diferendo. O Tribunal manterá um registo de todas as suas despesas e entregará às partes uma nota final dessas despesas.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Qualquer Parte Contratante que tenha um interesse de natureza jurídica que possa vir a ser afectado pela decisão do caso pode, depois de notificar por escrito as partes no diferendo que originalmente iniciaram o processo, intervir no procedimento de arbitragem com o consentimento do Tribunal, desde que suporte as suas próprias despesas. Tal interveniente tem o direito de apresentar provas, articulados e alegações orais sobre as matérias que motivaram a sua intervenção, de acordo com os procedimentos estabelecidos nos termos do artigo 7.º deste apêndice, mas não tem quaisquer direitos no que respeita à composição do Tribunal.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Qualquer tribunal constituído em conformidade com as disposições deste apêndice estabelecerá o seu regulamento interno.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - Salvo no caso em que o Tribunal funcione com um único árbitro, as suas decisões, quanto ao regulamento interno, local de reunião e qualquer questão relacionada com o diferendo pendente, serão tomadas por maioria de votos dos seus membros. Contudo, a ausência ou abstenção de qualquer dos membros do Tribunal que tenha sido nomeado por uma das partes no diferendo não constitui impedimento a que o Tribunal tome uma decisão. Em caso de empate, o presidente terá voto de qualidade.
 
@@ -1163,7 +1179,7 @@ ii) Autorizarão o Tribunal a entrar no seu território para ouvir testemunhas o
 
 3 - O não cumprimento por uma das partes no diferendo das disposições do n.º 2 deste artigo não impedirá o Tribunal de tomar uma decisão e de pronunciar a sentença.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 O Tribunal pronunciará a sentença no prazo de cinco meses a contar da data da sua constituição, a não ser que considere necessário prolongar esse prazo por um novo período não excedendo cinco meses. A sentença do Tribunal será acompanhada por relatório, donde constem os respectivos fundamentos. A sentença é definitiva e sem recurso e será comunicada ao secretário-geral da Organização, o qual informará as Partes Contratantes. As partes no diferendo darão de imediato cumprimento à sentença.
 
@@ -1239,7 +1255,7 @@ Decide que, para os efeitos considerados nos artigos XIV, 4, a), e XV, 2, da Con
 
 Solicita ao secretário-geral da Organização que informe as Parte Contratantes das emendas acima mencionadas.
 
-## ANEXO
+ANEXO
 
 Emendas aos anexos da Convenção para a Prevenção da Poluição Marinha Causada por Operações de Imersão de Detritos e Outros Produtos, relativas a alterações à lista de substâncias e produtos.
 

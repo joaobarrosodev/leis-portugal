@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 12/2021, 1º Suplemento, Série I de 2021-01-19
   number: '12'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 10-(2) a 10-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01201/0000200033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3-b/2021/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-b-2021-154483156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b03c2b3dc6e70c4040a9e7d7ed3e68ba9faaa75c4bb383a96619396f2b23c19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff5dd3ab33af43ae9533edc5ebe68924fa982f47a0a30d544c07b1a78e7087c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,56 +66,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento de BENS Essenciais
+- Ação Social
 - Acesso ao Emprego
 - Acolhimento Familiar
 - Advogado
 - Aeroporto
+- Alimentação
+- ANA
 - Análises Clínicas
 - Aquisição de Bens e Serviços
+- Artigo Desportivo
 - Assistência Médica
 - Assistência Medicamentosa
+- Atendimento Público
+- Autarquia Local
 - Autoridade de Segurança Alimentar e Económica
-- Publicidade
+- Autoridade para as Condições do Trabalho
+- Avaliação de Conhecimentos
 - Circulação de Pessoas
-- Estabelecimento Comercial
+- Combustível
 - Comissão Nacional de Eleições
 - Comunicações Eletrónicas
+- Confidencialidade
 - Conselho de Ministros
+- Controlo Sanitário
+- Cuidados Médicos
+- Dados Pessoais
 - Definição de Competências
 - Definição de Funções
-- Regulamentação de Atos Legislativos
-- Controlo Sanitário
+- Direito de Voto
+- Doença Infecciosa
 - Domicílio Fiscal
 - Eleição Presidencial
-- Artigo Desportivo
+- Epidemia
+- Equipamento de Proteção
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
-- Combustível
-- Ação Social
-- Presidente da República
+- Estabelecimento Hospitalar
+- Governo XXII
 - Horário de Funcionamento
 - Lista
 - Patologia Clínica
-- Doença Infecciosa
-- Epidemia
 - Prazo
 - Presidente da Câmara
-- Alimentação
-- Cuidados Médicos
-- Confidencialidade
-- Avaliação de Conhecimentos
-- ANA
-- Teletrabalho
-- Estabelecimento Hospitalar
+- Presidente da República
+- Publicidade
+- Regulamentação de Atos Legislativos
 - Saldos
-- Dados Pessoais
-- Atendimento Público
+- Teletrabalho
 - Trabalho ao Domicilio
-- Autarquia Local
 - Venda a Domicilio
-- Direito de Voto
-- Governo XXII
-- Equipamento de Proteção
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:159432418:por
@@ -161,16 +161,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:114627386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116029384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144272529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147933283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149103950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153917314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153959843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159432418:por
+  label: Revogado pelo(a) Decreto n.º 4/2021 - Diário da República n.º 50-A/2021, Série I de 2021-03-13, nos termos dos seus
+    arts. 53.º e 54.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/4-2021-159432418
+  date: '2021-03-13'
 article_structure:
-  article_count: 60
+  article_count: 55
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:53Z'
   warnings: []
   errors: []
 ---
@@ -273,7 +335,9 @@ x) ...
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -309,7 +373,9 @@ h) Aos estabelecimentos de prestação de serviços de aluguer de veículos de m
 
 i) Aos estabelecimentos situados no interior de aeroportos situados em território continental, após o controlo de segurança dos passageiros.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, os estabelecimentos de restauração e similares, independentemente da área de venda ou prestação de serviços, funcionam exclusivamente para efeitos de atividade de confeção destinada a consumo fora do estabelecimento através de entrega ao domicílio, diretamente ou através de intermediário, bem como para disponibilização de refeições ou produtos embalados à porta do estabelecimento ou ao postigo (take-away).
 
@@ -321,7 +387,9 @@ i) Aos estabelecimentos situados no interior de aeroportos situados em territór
 
 5 - (Anterior n.º 2.)
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -347,11 +415,15 @@ Limitação à circulação entre concelhos
 
 É proibida a circulação para fora do concelho do domicílio no período compreendido entre as 20:00 h de sexta-feira e as 05:00 h de segunda-feira, sem prejuízo das exceções previstas no artigo 11.º do [Decreto n.º 9/2020](https://diariodarepublica.pt/dr/detalhe/decreto/9-2020-149103950), de 21 de novembro, as quais são aplicáveis com as necessárias adaptações, sendo também permitidas as deslocações para efeitos da participação, em qualquer qualidade, no âmbito da campanha eleitoral ou da eleição do Presidente da República, nos termos do [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1976-655916), de 3 de maio, na sua redação atual, designadamente para efeitos do exercício do direito de voto.
 
-###### Artigo 15.º-A — Proibição de publicidade de práticas comerciais com redução de preço
+Artigo 15.º-A
+
+Proibição de publicidade de práticas comerciais com redução de preço
 
 É proibida a publicidade, a atividade publicitária ou a adoção de qualquer outra forma de comunicação comercial, designadamente em serviços da sociedade da informação, que possam ter como resultado o aumento do fluxo de pessoas a frequentar estabelecimentos que, nos termos do presente decreto, estejam abertos ao público, designadamente através da divulgação de saldos, promoções ou liquidações.
 
-###### Artigo 35.º-A — Proibição de acesso a espaços públicos
+Artigo 35.º-A
+
+Proibição de acesso a espaços públicos
 
 Sem prejuízo do disposto no n.º 9 do anexo i do presente decreto, compete ao presidente da câmara municipal territorialmente competente:
 
@@ -383,15 +455,15 @@ O presente decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de janeiro de 2021. - António Luís Santos da Costa.
 
-**Assinado em 19 de janeiro de 2021.**
+Assinado em 19 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de janeiro de 2021.**
+Referendado em 19 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -1061,7 +1133,7 @@ IVA - Imposto sobre valor acrescentado, apresentado em percentagem.
 
 Os valores de spread aplicáveis são os que constam na tabela seguinte, para o GPL butano e GPL propano, para as tipologias T3 e T5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01201/0000200033.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01201/0000200033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01201/0000200033.pdf)
 
 3 - O preço regulado para o mês M é determinado no primeiro dia do mês e aplica-se a partir do terceiro dia útil do mês M até ao segundo dia útil do mês M+1.
 
@@ -1261,7 +1333,7 @@ b) A sinalização da proibição de utilização de bancos de jardim, parques i
 
 ###### Artigo 36.º — Execução a nível local
 
-**O Primeiro-Ministro procede à nomeação das autoridades que coordenam a execução da declaração do estado de emergência no território continental, a nível local, nos termos do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual.**
+O Primeiro-Ministro procede à nomeação das autoridades que coordenam a execução da declaração do estado de emergência no território continental, a nível local, nos termos do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual.
 
 ###### Artigo 37.º — Defesa nacional
 
@@ -1544,3 +1616,5 @@ Esplanadas;
 51 - Notários.
 
 52 - Atividades e estabelecimentos enunciados nos números anteriores, ainda que integrados em centros comerciais.
+
+113900534

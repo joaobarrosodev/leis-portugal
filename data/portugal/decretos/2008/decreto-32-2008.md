@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/32/2008/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/32-2008-452938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1a3192cd9a2f4586259fa41dbddd91ddada3507a4ee4a67250e1f37bf178bc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 243dd59828689f98a40702d677c5dffbacfda463936b1b203f1ca9546cc1a30f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Autoridade Nacional de Segurança
 - Convenção
+- Luxemburgo
 - Portugal
 - Segurança da Informação
 - Segurança Internacional
-- Luxemburgo
 relationships: []
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:38Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +103,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira.
 
-**Assinado em 15 de Setembro de 2008.**
+Assinado em 15 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Setembro de 2008.**
+Referendado em 16 de Setembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O GRÃO-DUCADO DO LUXEMBURGO RELATIVO À TROCA E À PROTECÇÃO MÚTUA DE INFORMAÇÃO CLASSIFICADA
 
@@ -199,7 +199,7 @@ b) O acesso à informação classificada é limitado às pessoas que, para poder
 
 As Partes acordam que os seguintes graus de classificação de segurança são equivalentes e correspondem aos graus de classificação de segurança previstos no respectivo direito em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19300/0705907071.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19300/0705907071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19300/0705907071.pdf)
 
 ###### Artigo 7.º — Assistência aos procedimentos de credenciação de segurança
 
@@ -495,7 +495,7 @@ Niveaux de classification de sécurité et équivalences
 
 Les Parties reconnaissent que les niveaux suivants de classification de sécurité sont équivalents et correspondent aux niveaux de classification de sécurité spécifiés dans les lois applicables en la matière.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19300/0705907071.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19300/0705907071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19300/0705907071.pdf)
 
 Article 7
 
@@ -819,7 +819,7 @@ Equivalence of the security classification levels
 
 The Parties agree that the following security classification levels are equivalent and correspond to the security classification levels specified in the respective law in force:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19300/0705907071.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19300/0705907071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19300/0705907071.pdf)
 
 Article 7
 

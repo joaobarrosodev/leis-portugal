@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/470-1973-412801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a36bf76a67baa43e437ac992077e4b9f18153a9d045f218f3fac2d4ac9767ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ec77d03d9793782d5041f6d99f46d4e52e6be99a648284886edd593f34e6157
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Enfermagem
+- Enfermagem
+- Escola de Enfermagem
+- Idade Mínima
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:291954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668920:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:43Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +106,16 @@ Reconhecendo-se a necessidade de facultar o acesso ao curso de enfermagem geral 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A alínea a) do artigo 10.º do [Decreto n.º 38885](https://diariodarepublica.pt/dr/detalhe/decreto/38885-1952-668920), de 28 de Agosto de 1952, com a forma dada pelo [Decreto n.º 46448](https://diariodarepublica.pt/dr/detalhe/decreto/46448-1965-291954), de 20 de Julho de 1965, e alterada pelo [Decreto n.º 256/71](https://diariodarepublica.pt/dr/detalhe/decreto/256-1971-644157), ide 15 de Junho, passa a ter a seguinte redacção:
+Artigo único. A alínea a) do artigo 10.º do [Decreto n.º 38885](https://diariodarepublica.pt/dr/detalhe/decreto/38885-1952-668920), de 28 de Agosto de 1952, com a forma dada pelo [Decreto n.º 46448](https://diariodarepublica.pt/dr/detalhe/decreto/46448-1965-291954), de 20 de Julho de 1965, e alterada pelo [Decreto n.º 256/71](https://diariodarepublica.pt/dr/detalhe/decreto/256-1971-644157), ide 15 de Junho, passa a ter a seguinte redacção:
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 a) Idade não inferior a 16 anos, no caso de admissão ao curso de enfermagem geral, ou não inferior a 17, no caso dos restantes cursos.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 29 de Agosto de 1973.**
+Promulgado em 29 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

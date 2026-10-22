@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07500/0216102168.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/14/2019/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/14-2019-122110907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8724c95e6fd25de12bc3d84471c1356beff140889446658c0824088cf734150e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96cd4fc103f8bd4aa95858654c420e651cd50a0d553001d2037d1d8ae1518049
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
+- Exploração do Espaço
 - Londres
 - Moscovo
+- Portugal
 - Responsabilidade Internacional
 - Utilização do Espaço
-- Exploração do Espaço
 - Washington
 relationships:
 - type: cites
@@ -88,15 +88,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/resolconsmin/55/2019/03/13/p/dre
 article_structure:
-  article_count: 0
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:05Z'
   warnings: []
   errors: []
 ---
@@ -119,15 +119,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 21 de março de 2019. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - João Alberto Sobrinho Teixeira.
 
-**Assinado em 27 de março de 2019.**
+Assinado em 27 de março de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de abril de 2019.**
+Referendado em 8 de abril de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 CONVENTION ON INTERNATIONAL LIABILITY FOR DAMAGE CAUSED BY SPACE OBJECTS
 
@@ -353,7 +353,7 @@ Acreditando que o estabelecimento de tais regras e procedimentos contribuirá pa
 
 acordaram no seguinte:
 
-Artigo I
+###### Artigo I
 
 Para os fins da presente Convenção:
 
@@ -369,15 +369,15 @@ ii) Um Estado de cujo território ou de cujas instalações é lançado um objet
 
 d) O termo «objeto espacial» inclui partes componentes de um objeto espacial e também o seu veículo de lançamento e peças desse veículo.
 
-Artigo II
+###### Artigo II
 
 Um Estado de lançamento é responsável pelo pagamento de indemnização por danos causados pelos seus objetos espaciais na superfície da Terra ou a aeronaves em voo.
 
-Artigo III
+###### Artigo III
 
 Na eventualidade de danos causados em local situado fora da superfície da Terra a um objeto espacial de um Estado de lançamento ou a pessoa ou a bem a bordo de tal objeto espacial por um objeto espacial de outro Estado de lançamento, este último só é responsável se o dano lhe for imputável por culpa sua ou de pessoas pelas quais deva responder.
 
-Artigo IV
+###### Artigo IV
 
 1 - Na eventualidade de um dano causado fora da superfície da Terra a um objeto espacial de um Estado de lançamento ou a pessoa ou bem a bordo de tal objeto espacial por um objeto espacial de outro Estado de lançamento e, consequentemente, de danos causados a um terceiro Estado, ou às suas pessoas singulares ou coletivas, os primeiros dois Estados são solidariamente responsáveis perante o terceiro Estado, dentro dos limites abaixo indicados:
 
@@ -387,7 +387,7 @@ b) Se o dano for causado a um objeto espacial de um terceiro Estado ou a pessoas
 
 2 - Em todos os casos de responsabilidade solidária mencionados no n.º 1, a obrigação de indemnização pelo dano será repartida entre os primeiros dois Estados de acordo com o seu grau de culpa; se não for possível estabelecer o grau de culpa de cada um desses Estados, a obrigação de indemnização deve ser repartida em proporções iguais entre os dois. Tal repartição será efetuada sem prejuízo do direito que assiste ao terceiro Estado de exigir, a qualquer ou a todos os Estados de lançamento, que são solidariamente responsáveis, a indemnização total devida nos termos desta Convenção.
 
-Artigo V
+###### Artigo V
 
 1 - Sempre que dois ou mais Estados lancem, conjuntamente, um objeto espacial, esses Estados serão solidariamente responsáveis por quaisquer danos causados.
 
@@ -395,13 +395,13 @@ Artigo V
 
 3 - Um Estado de cujo território ou em cujas instalações é lançado um objeto espacial é considerado como participante no lançamento conjunto.
 
-Artigo VI
+###### Artigo VI
 
 1 - Sem prejuízo do disposto no n.º 2 do presente artigo, a responsabilidade de um Estado de lançamento é excluída na medida em que esse Estado prove que o dano resultou total ou parcialmente de negligência grosseira ou de ato ou omissão praticados com a intenção de causar um dano da parte de um Estado demandante ou de pessoas singulares ou coletivas que o representem.
 
 2 - Não se concederá exclusão de responsabilidade nos casos em que o dano tiver resultado de atividades conduzidas por um Estado de lançamento que não estejam em conformidade com o direito internacional, em particular, com a Carta das Nações Unidas e o Tratado sobre os Princípios Que Regem as Atividades dos Estados na Exploração e Utilização do Espaço Exterior, Incluindo a Lua e Outros Corpos Celestes.
 
-Artigo VII
+###### Artigo VII
 
 As disposições da presente Convenção não se aplicam a danos causados por um objeto espacial de um Estado de lançamento a:
 
@@ -409,7 +409,7 @@ a) Nacionais do mesmo Estado de lançamento;
 
 b) Cidadãos Estrangeiros, durante o tempo em que estiverem a manusear tal objeto espacial, a partir do momento do seu lançamento ou em qualquer momento ulterior até a sua descida ou durante o tempo em que estiverem nas imediações de uma área prevista para lançamento ou recuperação, em resultado de convite por tal Estado de lançamento.
 
-Artigo VIII
+###### Artigo VIII
 
 1 - Um Estado que sofrer danos, ou cujas pessoas singulares ou coletivas sofram danos, pode apresentar a um Estado de lançamento um pedido de pagamento de indemnização por tal dano.
 
@@ -417,11 +417,11 @@ Artigo VIII
 
 3 - Se nem o Estado da nacionalidade, nem o Estado em cujo território se efetuou o dano apresentar uma queixa ou notificar a sua intenção de apresentar queixa, outro Estado pode, em relação a dano sofrido por um seu residente permanente, apresentar a queixa ao Estado de lançamento.
 
-Artigo IX
+###### Artigo IX
 
 O pedido de indemnização por danos deve ser apresentado a um Estado de lançamento por via diplomática. Se determinado Estado não mantiver relações diplomáticas com o Estado de lançamento em questão, pode o primeiro Estado pedir a um outro Estado que apresente a sua queixa ao Estado de lançamento ou que, de alguma forma, represente os seus interesses em conformidade com esta Convenção. Pode igualmente apresentar a sua queixa por intermédio do Secretário-Geral das Nações Unidas, caso o Estado demandante e o Estado de lançamento sejam ambos membros das Nações Unidas.
 
-Artigo X
+###### Artigo X
 
 1 - O pedido de indemnização por danos poderá ser apresentado ao Estado de lançamento no prazo máximo de um ano após a data da ocorrência do dano ou da identificação do Estado de lançamento responsável.
 
@@ -429,31 +429,31 @@ Artigo X
 
 3 - Os prazos indicados nos n.os 1 e 2 do presente artigo são aplicáveis mesmo se a extensão total do dano não seja conhecida. Nesse caso, contudo, o Estado demandante tem o direito de rever o seu pedido e submeter documentação adicional depois do termo do prazo definido, até um ano após o conhecimento da extensão total do dano.
 
-Artigo XI
+###### Artigo XI
 
 1 - A apresentação de um pedido de indemnização ao Estado de lançamento ao abrigo da presente Convenção não requer o esgotamento prévio dos recursos internos que possam estar à disposição do Estado demandante ou de pessoa singular ou coletiva que represente.
 
 2 - Nada na presente Convenção impede que um Estado, ou as pessoas singulares ou coletivas que este represente, apresente o seu pedido de indemnização às instâncias jurisdicionais ou órgãos administrativos de um Estado de lançamento. Um Estado não pode, contudo, apresentar um pedido de indemnização ao abrigo da presente Convenção por um dano que seja objeto de um pedido já apresentado junto das instâncias jurisdicionais ou das entidades administrativas de um Estado de lançamento, nem ao abrigo de um outro acordo internacional vinculativo para os Estados interessados.
 
-Artigo XII
+###### Artigo XII
 
 O montante da indemnização que o Estado de lançamento será obrigado a pagar pelo dano nos termos da presente Convenção será determinado em conformidade com o direito internacional e aos princípios de justiça e equidade, de forma a que a compensação seja de molde a restabelecer a pessoa física ou jurídica, Estado ou organização internacional na situação que teria existido no caso de o dano não ter ocorrido.
 
-Artigo XIII
+###### Artigo XIII
 
 A menos que o Estado demandante e o Estado que deve reparar conforme a presente Convenção acordem noutra forma de indemnização, esta será paga na moeda do Estado demandante ou, se o Estado demandante assim o requerer, na moeda do Estado que deve pagar a indemnização.
 
-Artigo XIV
+###### Artigo XIV
 
 Se, no prazo de um ano a contar da data em que o Estado demandante notificou o Estado de lançamento de que submeteu a documentação justificativa do seu pedido, o pedido de indemnização não tiver sido resolvido por via de negociações diplomáticas segundo o artigo ix, as partes interessadas constituem, a pedido de qualquer delas, uma Comissão de Resolução de Pedidos.
 
-Artigo XV
+###### Artigo XV
 
 1 - A Comissão de Resolução dos Pedidos é constituída por três membros: um designado pelo Estado demandante, um membro designado pelo Estado de lançamento e um terceiro membro, o Presidente, escolhido por comum acordo entre as partes. Cada parte procede a esta designação no prazo de dois meses a contar do pedido de constituição da Comissão de Resolução dos Pedidos.
 
 2 - Se nenhum acordo for alcançado na escolha do Presidente, dentro do prazo de quatro meses após o pedido para estabelecimento da Comissão de Resolução dos Pedidos, qualquer das duas partes poderá pedir ao Secretário-Geral das Nações Unidas para nomear o Presidente dentro de um prazo adicional de dois meses.
 
-Artigo XVI
+###### Artigo XVI
 
 1 - Se uma das partes não proceder à designação que lhe compete dentro do prazo previsto, o Presidente, a pedido da outra parte, constituirá por sua própria iniciativa uma Comissão de Resolução de Pedidos.
 
@@ -465,15 +465,15 @@ Artigo XVI
 
 5 - Com exceção das decisões e sentenças emitidas nos casos em que a Comissão é constituída por um só membro, todas as decisões e sentenças da Comissão são adotadas por maioria.
 
-Artigo XVII
+###### Artigo XVII
 
 A composição da Comissão de Resolução de Pedidos não será alargada no caso de dois ou mais Estados demandantes ou dois ou mais Estados de lançamento serem partes num procedimento perante a Comissão. Os Estados demandantes partes num tal procedimento designam conjuntamente um membro da Comissão da mesma forma e nas mesmas condições em que houvesse apenas um Estado demandante. Se dois ou mais Estados de lançamento são partes num tal procedimento, eles designam, da mesma forma, um membro da Comissão. Se os Estados demandantes ou os Estados de lançamento não procederem à designação no prazo fixado, o Presidente constituirá por sua própria iniciativa a Comissão.
 
-Artigo XVIII
+###### Artigo XVIII
 
 A Comissão de Resolução de Pedidos decidirá sobre o mérito do pedido de indemnização e fixa, se for o caso, o montante da indemnização a pagar.
 
-Artigo XIX
+###### Artigo XIX
 
 1 - A Comissão de Resolução de Pedidos atuará de acordo com as disposições do artigo xii.
 
@@ -483,15 +483,15 @@ Artigo XIX
 
 4 - A Comissão torna pública a sua decisão ou a sua sentença. A Comissão cede uma cópia certificada da decisão ou sentença a cada uma das partes e ao Secretário-Geral das Nações Unidas.
 
-Artigo XX
+###### Artigo XX
 
 As despesas relativas à Comissão de Resolução de Pedidos são repartidas igualmente entre as Partes, salvo se a Comissão decidir de forma diferente.
 
-Artigo XXI
+###### Artigo XXI
 
 Se o dano causado por um objeto espacial representar um perigo em grande escala para a vida humana ou comprometer seriamente as condições de vida da população ou o funcionamento dos centros vitais, os Estados partes e, em particular, o Estado de lançamento examinarão a possibilidade de fornecer uma assistência apropriada e rápida ao Estado que tenha sofrido o dano, quando este o solicitar. O disposto neste artigo não prejudica, no entanto, os direitos e obrigações dos Estados partes decorrentes da presente Convenção.
 
-Artigo XXII
+###### Artigo XXII
 
 1 - Na presente Convenção, com exceção dos artigos xxiv e xxvii, as referências aos Estados são consideradas aplicáveis a qualquer organização internacional intergovernamental que se dedique a atividades espaciais, se esta organização declarar que aceita os direitos e as obrigações previstos na presente Convenção e se uma maioria dos Estados Membros da organização são Estados partes da presente Convenção e do Tratado sobre os Princípios Que Regem as Atividades dos Estados na Exploração e Utilização do Espaço Exterior, Incluindo a Lua e Outros Corpos Celestes.
 
@@ -505,13 +505,13 @@ b) Apenas no caso em que a organização não tenha pago a soma acordada ou fixa
 
 4 - Qualquer pedido de indemnização formulado em conformidade com a presente Convenção pelo dano causado a uma organização que tenha feito uma declaração em conformidade com o parágrafo 1 do presente artigo deve ser apresentado por um Estado membro da organização que seja parte da presente Convenção.
 
-Artigo XXIII
+###### Artigo XXIII
 
 1 - As disposições da presente Convenção não afetam outros acordos internacionais em vigor nas relações entre os Estados Partes nestes acordos.
 
 2 - Nenhuma disposição da presente Convenção impedirá os Estados de concluírem acordos internacionais que reafirmem, suplementem ou desenvolvam as suas disposições.
 
-Artigo XXIV
+###### Artigo XXIV
 
 1 - A presente Convenção é aberta à assinatura de todos os Estados. Qualquer Estado que não tenha assinado esta Convenção antes da sua entrada em vigor em conformidade com o n.º 3 do presente artigo poderá aderir a esta em qualquer momento.
 
@@ -525,22 +525,24 @@ Artigo XXIV
 
 6 - Esta Convenção será registada pelos Governos Depositários em conformidade com o artigo 102 da Carta das Nações Unidas.
 
-Artigo XXV
+###### Artigo XXV
 
 Qualquer Estado Parte da presente Convenção pode propor emendas a esta Convenção. As emendas vigoram para cada Estado Parte na Convenção que aceite as emendas a partir de sua aceitação pela maioria dos Estados Partes na Convenção e, a partir de então, para cada um dos restantes Estados Partes, na data de sua aceitação das referidas emendas.
 
-Artigo XXVI
+###### Artigo XXVI
 
 Dez anos após a entrada em vigor da presente Convenção, a questão da revisão da Convenção será incluída na ordem de trabalhos provisória da Assembleia Geral das Nações Unidas tendo em vista examinar, à luz da aplicação da Convenção durante esse período, a necessidade de revisão. No entanto, cinco anos após a entrada em vigor da Convenção, será convocada uma conferência dos Estados Partes na Convenção, a pedido de um terço dos Estados Partes na Convenção e com o consentimento da maioria dos Estados Partes, a fim de reexaminar a presente Convenção.
 
-Artigo XXVII
+###### Artigo XXVII
 
 Qualquer Estado Parte na presente Convenção pode, um ano após a entrada em vigor da Convenção, comunicar a sua intenção de a denunciar, mediante notificação escrita dirigida aos governos depositários. Esta denúncia produzirá efeitos um ano após a data de receção da notificação.
 
-Artigo XXVIII
+###### Artigo XXVIII
 
 A presente Convenção, cujos textos em inglês, russo, francês espanhol e chinês fazem igualmente fé, será depositada nos arquivos dos Governos Depositários. As cópias devidamente certificadas da presente Convenção serão enviadas pelos Governos Depositários aos governos dos Estados que tenham assinado a Convenção ou a ela aderido.
 
 Em testemunho do que, os abaixo assinados, devidamente autorizados para o efeito, assinaram a presente Convenção.
 
 Feita em três exemplares, em Londres, Moscovo e Washington, aos vinte e nove dias do mês de março de mil novecentos e setenta e dois.
+
+112214098

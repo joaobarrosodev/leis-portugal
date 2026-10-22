@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/10200/09790981.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/66-1977-251656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfa6bc6317edf34c1be2f108d8b180788ca82dcd3f648e459bc3ea333f169619
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fea40c39c7fc251d82b269f75cb9e1c50df7b2e869e84f79fc2417b03b695480
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equipamento Industrial
+- Equipamento Térmico
+- Normas de Construção
+- Normas de Segurança
+- Proteção do Consumidor
+- Rectificação de Numero de Diploma
+- Rectificação de TIPO de Diploma
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:693588:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141628:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:252026:por
+  label: Retificado para DR 25/77 o presente diploma, pelo(a) Declaração - Diário da República n.º 117/1977, Série I de 1977-05-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-252026
+  date: '1977-05-20'
+- type: repealed_by
+  target: pt:dre:288221:por
+  label: "Revogado, sem prejuízo de os aparelhos e equipamentos fabricados de harmonia com as respectivas disposições poderem\
+    \ ser colocados no mercado ou em serviço até 31 de Dezembro de 1995, pelo DEC LEI.130/92.06.07.1992.MIE, DR.IS-A [153]\
+    \ de 06.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1992-288221
+  date: '1992-07-06'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:52Z'
   warnings: []
   errors: []
 ---
@@ -90,23 +114,23 @@ de 3 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. - 1. É aprovado o Regulamento dos Aparelhos Termodomésticos e Termoindustriais a Gás e Seus Dispositivos ou Acessórios, anexo ao presente diploma.
+Artigo único. - 1. É aprovado o Regulamento dos Aparelhos Termodomésticos e Termoindustriais a Gás e Seus Dispositivos ou Acessórios, anexo ao presente diploma.
 
 2. O Regulamento a que se refere o número precedente entra em vigor noventa dias após a data da publicação do [Decreto-Lei n.º 74/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1977-141628), de 28 de Fevereiro.
 
 Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 18 de Abril de 1977.**
+Promulgado em 18 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DOS APARELHOS TERMODOMÉSTICOS E TERMOINDUSTRIAIS A GÁS E SEUS DISPOSITIVOS OU ACESSÓRIOS.
 
 ### CAPÍTULO I — Domínio de aplicação
 
-###### Artigo 1.º - 1. O presente Regulamento aplica-se a todos os aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios.
+Artigo 1.º - 1. O presente Regulamento aplica-se a todos os aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios.
 
 2. Para efeitos de aplicação do [Decreto-Lei n.º 74/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1977-141628), de 28 de Fevereiro, e do presente Regulamento, consideram-se aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios, nomeadamente os que a seguir se enumeram:
 
@@ -144,7 +168,7 @@ Reguladores de pressão para gases combustíveis.
 
 ### CAPÍTULO II — Aprovação de protótipos
 
-###### Art. 2.º - 1. A aprovação de protótipos de aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios deve ser pedida pelo fabricante ou importador, em requerimento dirigido a um organismo de contrôle reconhecido e acompanhado dos seguintes elementos, com excepção, para os dispositivos e acessórios, daqueles que apenas digam respeito a aparelhos:
+Art. 2.º - 1. A aprovação de protótipos de aparelhos termodomésticos e termoindustriais a gás e seus dispositivos ou acessórios deve ser pedida pelo fabricante ou importador, em requerimento dirigido a um organismo de contrôle reconhecido e acompanhado dos seguintes elementos, com excepção, para os dispositivos e acessórios, daqueles que apenas digam respeito a aparelhos:
 
 a) Nome e endereço do fabricante ou importador e certificado do registo ou pedido de registo da marca por ele adoptada;
 
@@ -180,25 +204,25 @@ i) Indicação de conformidade com as normas, recomendações ou especificaçõe
 
 2. Os fabricantes nacionais devem ainda indicar o sistema do contrôle de qualidade utilizado na produção e nomeadamente o número de pessoas integradas exclusivamente na aplicação desse sistema.
 
-###### Art. 3.º - 1. A apreciação dos pedidos será baseada na documentação apresentada pelo requerente e nos resultados dos ensaios executados.
+Art. 3.º - 1. A apreciação dos pedidos será baseada na documentação apresentada pelo requerente e nos resultados dos ensaios executados.
 
 2. Quando se trate de modelos de importação, a apreciação poderá ser feita com base em certificados e relatórios de ensaio emitidos por organismos de contrôle estrangeiros reconhecidos pelo departamento competente do MIT com os quais o interessado deverá instruir os pedidos de aprovação de protótipos, podendo ser nestes casos dispensada a execução dos ensaios de aprovação em Portugal.
 
 3. Na hipótese de alterações num modelo já aprovado, os organismos de contrôle reconhecidos decidirão se elas implicam ou não a necessidade de novos ensaios.
 
-###### Art. 4.º Não serão aprovados os protótipos que não obedeçam às normas aplicáveis e às prescrições do presente Regulamento.
+Art. 4.º Não serão aprovados os protótipos que não obedeçam às normas aplicáveis e às prescrições do presente Regulamento.
 
-###### Art. 5.º - 1. Sempre que um protótipo seja aprovado, o organismo de contrôle reconhecido emitirá o respectivo certificado e dele enviará cópia ao departamento competente do MIT.
+Art. 5.º - 1. Sempre que um protótipo seja aprovado, o organismo de contrôle reconhecido emitirá o respectivo certificado e dele enviará cópia ao departamento competente do MIT.
 
 2. Os organismos de contrôle reconhecidos fornecerão ainda aos fabricantes ou importadores as estampilhas, carimbos ou punções, destinados à aposição nos aparelhos, dispositivos ou acessórios de características idênticas às dos protótipos aprovados.
 
 3. As estampilhas destinam-se a ser apostas nos aparelhos; os carimbos ou punções destinam-se a ser apostos nos dispositivos ou acessórios.
 
-###### Art. 6.º Os protótipos submetidos a apreciação serão devolvidos ao interessado acompanhados do respectivo relatório de ensaio.
+Art. 6.º Os protótipos submetidos a apreciação serão devolvidos ao interessado acompanhados do respectivo relatório de ensaio.
 
-###### Art. 7.º O plano do relatório de ensaio, o certificado de aprovação e as estampilhas, carimbos ou punções serão de modelo aprovado pelo departamento competente do MIT.
+Art. 7.º O plano do relatório de ensaio, o certificado de aprovação e as estampilhas, carimbos ou punções serão de modelo aprovado pelo departamento competente do MIT.
 
-###### Art. 8.º Concedida a aprovação de um protótipo, o fabricante ou importador fica obrigado a:
+Art. 8.º Concedida a aprovação de um protótipo, o fabricante ou importador fica obrigado a:
 
 a) Reservar a marca e modelo de cada protótipo aprovado unicamente para os aparelhos, dispositivos ou acessórios iguais a esse protótipo e manter permanentemente as características iniciais em todos os aparelhos, dispositivos ou acessórios da mesma marca e modelo;
 
@@ -208,21 +232,21 @@ c) Mencionar na chapa das características os elementos requeridos pela respecti
 
 d) Não indicar, publicitariamente ou em catálogos, características que não correspondam às constatadas nos ensaios de aprovação, nem mencionar quaisquer indicações enunciadas por forma a inferirem-se conclusões que não correspondam àquelas em que se baseou a aprovação.
 
-###### Art. 9.º - 1. A aprovação é concedida, a título precário, pelo período de um ano. Decorrido este período, decidir-se-á, em face das informações obtidas no mercado, nos ensaios de comprovação das características e na utilização, e do estudo dos inquéritos de acidentes que porventura se produzam, da possibilidade de conceder uma aprovação válida por cinco anos ou impor a introdução de alterações no modelo.
+Art. 9.º - 1. A aprovação é concedida, a título precário, pelo período de um ano. Decorrido este período, decidir-se-á, em face das informações obtidas no mercado, nos ensaios de comprovação das características e na utilização, e do estudo dos inquéritos de acidentes que porventura se produzam, da possibilidade de conceder uma aprovação válida por cinco anos ou impor a introdução de alterações no modelo.
 
 2. A aprovação poderá ser renovada mediante o cumprimento das formalidades fixadas no artigo 3.º e seguintes, apenas com dispensa da aprovação precária prevista na primeira parte do número anterior.
 
 3. A aprovação será retirada logo que deixem de se verificar as condições necessárias à sua concessão, designadamente quando o aparelho, dispositivo ou acessório em causa origine acidentes graves.
 
-###### Art. 10.º Sempre que o fabricante ou importador deixe de comercializar um dado modelo de aparelho, dispositivo ou acessório, deve dar conhecimento desse facto ou organismo de contrôle reconhecido.
+Art. 10.º Sempre que o fabricante ou importador deixe de comercializar um dado modelo de aparelho, dispositivo ou acessório, deve dar conhecimento desse facto ou organismo de contrôle reconhecido.
 
 ### CAPÍTULO III — Comprovação de características
 
-###### Art. 11.º - 1. Os organismos de contrôle reconhecidos deverão realizar mensalmente a comprovação das características de construção e funcionamento de um modelo de aparelho, dispositivo ou acessório, recolhido ao acaso entre os já aprovados. Os ensaios de comprovação serão efectuados num aparelho, dispositivo ou acessório daquele modelo, obtido por escolha, também ao acaso, entre aqueles que se encontrem no mercado.
+Art. 11.º - 1. Os organismos de contrôle reconhecidos deverão realizar mensalmente a comprovação das características de construção e funcionamento de um modelo de aparelho, dispositivo ou acessório, recolhido ao acaso entre os já aprovados. Os ensaios de comprovação serão efectuados num aparelho, dispositivo ou acessório daquele modelo, obtido por escolha, também ao acaso, entre aqueles que se encontrem no mercado.
 
 2. As despesas com a aquisição dos aparelhos, dispositivos ou acessórios, bem como com a realização dos respectivos ensaios, constituirão encargo dos organismos que procedam à comprovação das características.
 
-###### Art. 12.º - 1. Quando for encontrado qualquer aparelho, dispositivo ou acessório que, por razões acidentais ou consequentes de deficiente contrôle de qualidade, não corresponda precisamente às características do protótipo que serviu de base à aprovação, poderão ser tomadas, em relação ao fabricante ou importador, sucessivamente, as seguintes medidas:
+Art. 12.º - 1. Quando for encontrado qualquer aparelho, dispositivo ou acessório que, por razões acidentais ou consequentes de deficiente contrôle de qualidade, não corresponda precisamente às características do protótipo que serviu de base à aprovação, poderão ser tomadas, em relação ao fabricante ou importador, sucessivamente, as seguintes medidas:
 
 a) Aviso;
 
@@ -240,18 +264,18 @@ e) Não aceitação de pedidos de aprovação de qualquer aparelho, dispositivo 
 
 Organismos de «contrôle»
 
-###### Art. 13.º Os organismos de contrôle só poderão ser reconhecidos para efeito da delegação prevista no n.º 2 do artigo 3.º do [Decreto-Lei n.º 74/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1977-141628), de 28 de Fevereiro, se forem pessoas jurídicas de nacionalidade portuguesa, consideradas competentes para efectuar a aprovação de protótipos, podendo, no entanto, complementar as suas possibilidades apoiando-se em laboratórios, que indicarão.
+Art. 13.º Os organismos de contrôle só poderão ser reconhecidos para efeito da delegação prevista no n.º 2 do artigo 3.º do [Decreto-Lei n.º 74/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1977-141628), de 28 de Fevereiro, se forem pessoas jurídicas de nacionalidade portuguesa, consideradas competentes para efectuar a aprovação de protótipos, podendo, no entanto, complementar as suas possibilidades apoiando-se em laboratórios, que indicarão.
 
-###### Art. 14.º O pedido de reconhecimento, dirigido ao departamento competente do MIT, será instruído com os documentos necessários à verificação dos requisitos enumerados no artigo anterior e acompanhado de declaração de que o requerente efectuará o contrôle de fabrico para que for solicitado por qualquer fabricante e dará seguimento a todos os pedidos de aprovação de protótipos que lhe forem apresentados nos termos regulamentares, sem prejuízo do disposto no artigo 12.º, n.º 1, alínea e).
+Art. 14.º O pedido de reconhecimento, dirigido ao departamento competente do MIT, será instruído com os documentos necessários à verificação dos requisitos enumerados no artigo anterior e acompanhado de declaração de que o requerente efectuará o contrôle de fabrico para que for solicitado por qualquer fabricante e dará seguimento a todos os pedidos de aprovação de protótipos que lhe forem apresentados nos termos regulamentares, sem prejuízo do disposto no artigo 12.º, n.º 1, alínea e).
 
-###### Art. 15.º O pedido será apreciado com base em critérios de competência técnica e integridade.
+Art. 15.º O pedido será apreciado com base em critérios de competência técnica e integridade.
 
-###### Art. 16.º O reconhecimento poderá depender do número de organismos de contrôle reconhecidos já existentes e das exigências impostas pelos contingentes de fabrico, importação e exportação.
+Art. 16.º O reconhecimento poderá depender do número de organismos de contrôle reconhecidos já existentes e das exigências impostas pelos contingentes de fabrico, importação e exportação.
 
-###### Art. 17.º As provas documentais exigidas pelo artigo 14.º deverão ser renovadas, de dez em dez anos.
+Art. 17.º As provas documentais exigidas pelo artigo 14.º deverão ser renovadas, de dez em dez anos.
 
-###### Art. 18.º O reconhecimento será retirado sempre que deixem de se verificar as condições necessárias à sua concessão ou não seja feita a renovação das provas exigidas pelo artigo anterior, o que implicará, em qualquer dos casos, a caducidade da delegação prevista no n.º 2 do artigo 3.º do [Decreto-Lei n.º 74/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1977-141628), de 28 de Fevereiro.
+Art. 18.º O reconhecimento será retirado sempre que deixem de se verificar as condições necessárias à sua concessão ou não seja feita a renovação das provas exigidas pelo artigo anterior, o que implicará, em qualquer dos casos, a caducidade da delegação prevista no n.º 2 do artigo 3.º do [Decreto-Lei n.º 74/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1977-141628), de 28 de Fevereiro.
 
-###### Art. 19.º Os organismos de contrôle reconhecidos ficam obrigados a permitir o livre acesso dos funcionários do departamento competente do MIT, devidamente identificados, às suas instalações, sem aviso prévio, facultando-lhes todas as informações que forem exigidas.
+Art. 19.º Os organismos de contrôle reconhecidos ficam obrigados a permitir o livre acesso dos funcionários do departamento competente do MIT, devidamente identificados, às suas instalações, sem aviso prévio, facultando-lhes todas as informações que forem exigidas.
 
-**O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.**
+O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.

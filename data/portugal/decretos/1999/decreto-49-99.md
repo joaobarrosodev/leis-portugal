@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/49/1999/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49-1999-682873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:10:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b586213429d0263547d16d772f92d74a5e7d3909a518c6219f6057c8525241e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ef5b9315aab23d24f62abb15a796e587a76a9b27959e37623c545236d515e60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:10:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Convenção
-- Portugal
+- Embarcação
 - Fiscalização
 - Londres
 - OMI
+- Portugal
 - Salvaguarda da VIDA Humana no MAR
 - Segurança Marítima
 - Transporte de Carga
 - Vistoria
-relationships: []
+relationships:
+- type: corrected_by
+  target: pt:dre:346961:por
+  label: Rectificado pelo AV.22/2001.2001.03.14.MNE DR.IS-A [77] de 31/Mar/2001
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/22-2001-346961
+  date: '2001-03-14'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:10:29Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +109,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Cardona Gomes Cravinho.
 
-**Assinado em 15 de Outubro de 1999.**
+Assinado em 15 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOL OF 1988 RELATING TO THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966
 
@@ -548,7 +553,7 @@ Type B ships
 
 Freeboard increase over tabular freeboard for type B ships, for ships with hatch covers not complying with regulation 15, 7), or regulation 16
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
 
 7) Type B ships, which in position 1 have hatchways fitted with hatch covers compleying with the requirements of regulation 15, 7), or regulation 16, shall, except as provided in paragraphs 8) to 13) inclusive of this regulation, be assigned freeboards based on table B of regulation 28.
 
@@ -832,13 +837,13 @@ Type B with reduced freeboard;
 
 Type B with increased freeboard.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
 
 Allowance for fresh water for all freeboards other than timber ... mm. For timber freeboards ... mm.
 
 The upper edge of the deck line from which these freeboards are measured is ... mm ... deck at side.
 
-[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
+[[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
 
 This is to certify:
 
@@ -1182,9 +1187,7 @@ Considerando que tais necessidades poderão, de uma melhor forma, ser supridas a
 
 acordam no seguinte:
 
-Artigo I
-
-Obrigações gerais
+###### Artigo I — Obrigações gerais
 
 1 - As Partes comprometem-se a dar cumprimento às disposições do presente Protocolo e seus anexos, os quais constituem parte integrante do mesmo. Qualquer referência ao Protocolo constitui, em simultâneo, uma referência aos anexos.
 
@@ -1192,17 +1195,13 @@ Obrigações gerais
 
 3 - Quando necessário, as Partes do presente Protocolo aplicarão as disposições da Convenção e do Protocolo aos navios autorizados a arvorar a bandeira de um Estado que não seja Parte da Convenção nem do Protocolo, de modo a garantir que esses navios não mais beneficiem de tratamento preferencial.
 
-Artigo II
-
-Certificados existentes
+###### Artigo II — Certificados existentes
 
 1 - Independentemente de quaisquer outras disposições do presente Protocolo, qualquer certificado internacional das linhas de carga que seja válido quando o presente Protocolo entre em vigor relativamente ao governo do Estado cuja bandeira o navio está autorizado o arvorar continuará válido até que expire o seu prazo de validade.
 
 2 - As Partes deste Protocolo não deverão emitir certificados nos termos da Convenção Internacional das Linhas de Carga, 1966, de 5 de Abril de 1966.
 
-Artigo III
-
-Comunicação de informações
+###### Artigo III — Comunicação de informações
 
 As Partes do presente Protocolo comprometem-se a comunicar ao Secretário-Geral da Organização Marítima Internacional (a seguir designada por «a Organização») e a depositar junto dele:
 
@@ -1212,9 +1211,7 @@ b) Uma lista de inspectores nomeados ou de organismos reconhecidos que estejam a
 
 c) Um número suficiente de modelos dos certificados emitidos em conformidade com as disposições do presente Protocolo.
 
-Artigo IV
-
-Assinatura, ratificação, aceitação, aprovação e adesão
+###### Artigo IV — Assinatura, ratificação, aceitação, aprovação e adesão
 
 1 - O presente Protocolo ficará aberto para assinatura, na sede da Organização, de 1 de Março de 1989 a 28 de Fevereiro de 1990, e manter-se-á aberto à adesão após essa data. Sob reserva das disposições do parágrafo 3, os Estados poderão tornar-se Partes do Protocolo por:
 
@@ -1228,9 +1225,7 @@ c) Adesão.
 
 3 - O Protocolo só poderá ser objecto de assinatura sem reservas, quanto à ratificação, aceitação, aprovação ou adesão, por parte dos Estados que assinaram, sem reservas, a Convenção, que a aceitaram ou que a ela aderiram.
 
-Artigo V
-
-Entrada em vigor
+###### Artigo V — Entrada em vigor
 
 1 - O presente Protocolo entrará em vigor 12 meses após a data em que se encontrem reunidas as seguintes condições:
 
@@ -1246,9 +1241,7 @@ conquanto este Protocolo não entre em vigor antes de 1 de Fevereiro de 1992.
 
 4 - Qualquer instrumento de ratificação, de aceitação, de aprovação ou de adesão entre Partes do Protocolo depositado após a data em que uma emenda ao presente Protocolo ou uma emenda à Convenção seja considerada como aceite, nos termos do artigo VI, aplicar-se-á ao Protocolo ou à Convenção, no seu texto emendado.
 
-Artigo VI
-
-Emendas
+###### Artigo VI — Emendas
 
 1 - O presente Protocolo e, entre as Partes deste, a Convenção poderão ser emendados por qualquer dos processos previstos nos parágrafos seguintes.
 
@@ -1300,9 +1293,7 @@ b) Uma Parte que tenha aceite uma emenda adoptada nos termos da alínea f), ii),
 
 7 - O Secretário-Geral da Organização informará todas as Partes do presente Protocolo de qualquer emenda que entre em vigor nos termos deste artigo, assim como da data de entrada em vigor dessa emenda.
 
-Artigo VII
-
-Denúncia
+###### Artigo VII — Denúncia
 
 1 - O presente Protocolo pode ser denunciado, em qualquer momento, por qualquer das Partes depois de decorrido um período de cinco anos a contar da data em que o Protocolo entre em vigor relativamente a essa Parte.
 
@@ -1312,9 +1303,7 @@ Denúncia
 
 4 - Uma denúncia da Convenção por uma Parte considerar-se-á uma denúncia do presente Protocolo por essa mesma Parte e produzirá efeito na mesma data em que a denúncia da Convenção o produzir, de acordo com o parágrafo 3 do artigo 30 da Convenção.
 
-Artigo VIII
-
-Depositário
+###### Artigo VIII — Depositário
 
 1 - O presente Protocolo será depositado junto do Secretário-Geral da Organização (a seguir designado por «o depositário»).
 
@@ -1332,9 +1321,7 @@ b) Remeter cópias autenticadas do presente Protocolo aos governos de todos os E
 
 3 - Logo que o presente Protocolo entre em vigor, o depositário remeterá uma cópia autenticada do mesmo ao Secretariado das Nações Unidas, para registo e publicação, de acordo com o artigo 102 da Carta das Nações Unidas.
 
-Artigo IX
-
-Línguas
+###### Artigo IX — Línguas
 
 O presente Protocolo é reduzido a escrito num exemplar único, nas línguas árabe, chinesa, inglesa, francesa, russa e espanhola, sendo os seus textos igualmente autênticos.
 
@@ -1344,7 +1331,7 @@ Como testemunho do que os abaixo assinados, devidamente autorizados para o efeit
 
 ## ANEXO A — Modificações e adições aos artigos da Convenção Internacional das Linhas de Carga, 1966
 
-###### Artigo 2, «Definições». - O texto existente do parágrafo 8) é substituído pelo seguinte:
+Artigo 2, «Definições». - O texto existente do parágrafo 8) é substituído pelo seguinte:
 
 «8) O comprimento considera-se igual a 96% do comprimento total, medido numa linha de água situada a uma distância da linha da quilha igual a 85% do pontal mínimo de traçado ou à distância da face de vante da roda de proa até ao eixo da madre do leme, naquela linha de água, se este valor for superior. Quando o contorno da roda de proa for côncavo acima da linha de água correspondente, a 85% do pontal mínimo de traçado, tanto a extremidade de proa do comprimento total como a face de vante da roda de proa serão tomados na projecção vertical para essa linha de água localizada no ponto mais a ré do contorno da roda de proa (acima daquela linha de água). Nos navios projectados com diferença de imersão, a linha de água na qual se mede este comprimento deverá ser paralela à linha de água do projecto.»
 
@@ -1354,17 +1341,17 @@ Juntar um novo parágrafo, o 9), com o seguinte texto:
 
 Artigos 3, 12, 16 e 21. - Do texto existente destes artigos deverão retirar-se todas as referências a 1966, relativas ao certificado internacional das linhas de carga.
 
-###### Artigo 4, «Aplicação». - O texto do parágrafo 3) é substituído pelo seguinte:
+Artigo 4, «Aplicação». - O texto do parágrafo 3) é substituído pelo seguinte:
 
 «3) As regras contidas no anexo I aplicam-se a navios novos, salvo disposição em contrário.»
 
-###### Artigo 5, «Excepções». - Na alínea c) do parágrafo 2) as palavras «Punta Norte» são substituídas por «Punta Rasa» (Cabo San Antonio)».
+Artigo 5, «Excepções». - Na alínea c) do parágrafo 2) as palavras «Punta Norte» são substituídas por «Punta Rasa» (Cabo San Antonio)».
 
-###### Artigo 13, «Vistorias, inspecções e marcações». - O título existente é substituído pelo seguinte: «Vistorias e marcações».
+Artigo 13, «Vistorias, inspecções e marcações». - O título existente é substituído pelo seguinte: «Vistorias e marcações».
 
 Nas l. 1, 4 e 7 substituir as palavras «vistorias, inspecções e marcações» por «vistorias e marcações».
 
-###### Artigo 14, «Vistorias e inspecções iniciais e periódicas dos navios». - O título é substituído pelo seguinte: «Vistorias iniciais, anuais e de renovação».
+Artigo 14, «Vistorias e inspecções iniciais e periódicas dos navios». - O título é substituído pelo seguinte: «Vistorias iniciais, anuais e de renovação».
 
 O texto existente é substituído pelo seguinte:
 
@@ -1386,9 +1373,9 @@ iv) Foram prestadas as informações exigidas pela regra 10.
 
 2) As vistorias anuais referidas na alínea c) do parágrafo 1 deste artigo ficarão registadas no certificado internacional das linhas de carga ou no certificado internacional de isenção das linhas de carga, passado aos navios isentos ao abrigo das disposições do parágrafo 2) do artigo 6 da presente Convenção.»
 
-###### Artigo 16, «Emissão de certificados». - Suprimir o parágrafo 4).
+Artigo 16, «Emissão de certificados». - Suprimir o parágrafo 4).
 
-###### Artigo 17, «Certificados emitidos por outro governo». - O título existente é substituído pelo seguinte: «Certificados emitidos ou autenticados por outro governo».
+Artigo 17, «Certificados emitidos por outro governo». - O título existente é substituído pelo seguinte: «Certificados emitidos ou autenticados por outro governo».
 
 O texto do parágrafo 1) é substituído pelo seguinte:
 
@@ -1396,11 +1383,11 @@ O texto do parágrafo 1) é substituído pelo seguinte:
 
 No parágrafo 4) suprimir a referência a 1966.
 
-###### Artigo 18, «Modelos dos certificados». - O texto é substituído pelo seguinte:
+Artigo 18, «Modelos dos certificados». - O texto é substituído pelo seguinte:
 
 «Os certificados obedecerão aos modelos de impresso constantes do anexo III da presente Convenção. Se a língua utilizada não for o inglês ou o francês, o texto incluirá tradução numa destas línguas.»
 
-###### Artigo 19, «Prazo de validade dos certificados». - Este título é substituído pelo seguinte: «Duração e validade dos certificados».
+Artigo 19, «Prazo de validade dos certificados». - Este título é substituído pelo seguinte: «Duração e validade dos certificados».
 
 O texto existente é substituído pelo seguinte:
 
@@ -1450,7 +1437,7 @@ b) O prazo de validade de um certificado internacional de isenção das linhas d
 
 11) O certificado passado a um navio por uma Administração perde a validade se esse navio mudar de bandeira.»
 
-###### Artigo 21, «Controlo». - Na alínea c) do parágrafo 1) a referência a «parágrafo 3)» é substituída por «parágrafo 9)».
+Artigo 21, «Controlo». - Na alínea c) do parágrafo 1) a referência a «parágrafo 3)» é substituída por «parágrafo 9)».
 
 ## ANEXO B — Modificações e adições aos anexos da Convenção Internacional das Linhas de Carga, 1966
 
@@ -1592,7 +1579,7 @@ Navios do tipo B
 
 Aumento do bordo livre, em relação ao bordo livre tabular, para os navios do tipo B cujas coberturas das escotilhas não satisfazem às disposições do parágrafo 7) da regra 15 ou da regra 16
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
 
 7) Aos navios do tipo B que em situação de categoria 1 tenham escotilhas dotadas de coberturas em conformidade com as disposições do parágrafo 7) da regra 15 ou da regra 16, salvo disposições em contrário dos parágrafos 8) a 13), inclusive, da presente regra, serão atribuídos os bordos livres indicados na tabela B da regra 28.
 
@@ -1874,11 +1861,11 @@ Tipo B com bordo livre reduzido;
 
 Tipo B com bordo livre aumentado.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
 
 Dedução para todos os bordos livres em água doce, com excepção do bordo livre para o transporte de madeira...mm. Para os bordos livres para transporte de madeira...mm.
 
-[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
+[[(ver imagem no documento original)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)](https://files.diariodarepublica.pt/1s/1999/11/263a00/79167943.pdf)
 
 O limite superior da «linha de pavimento» a partir do qual são medidos os bordos livres está a ... mm da intersecção do prolongamento da superfície superior do pavimento com a superfície exterior do costado.
 
@@ -1920,7 +1907,7 @@ Certifica-se que a vistoria anual prevista pela alínea c) do parágrafo 1) do a
 
 Vistoria anual:
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -1930,7 +1917,7 @@ Data ...
 
 Vistoria anual:
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -1940,7 +1927,7 @@ Data ...
 
 Vistoria anual:
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -1950,7 +1937,7 @@ Data ...
 
 Vistoria anual:
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -1962,7 +1949,7 @@ Vistoria anual efectuada de acordo com a alínea c) do parágrafo 8) do artigo 1
 
 Certifica-se que a vistoria anual efectuada de acordo com a alínea c) do parágrafo 8) do artigo 19 da Convenção permitiu verificar que o navio satisfaz às disposições da Convenção.
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -1974,7 +1961,7 @@ Confirmação da prorrogação de um certificado válido por um período inferio
 
 O navio satisfaz inteiramente às disposições da Convenção, sendo o presente certificado válido, de acordo com o parágrafo 3) do artigo 19 da Convenção, até ...
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -1986,7 +1973,7 @@ Confirmação da realização da vistoria de renovação, nos termos do parágra
 
 O navio satisfaz às disposições pertinentes da Convenção, sendo o presente certificado válido, de acordo com o parágrafo 4) do artigo 19, até ...
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -1998,7 +1985,7 @@ Confirmação da prorrogação da validade do Certificado até que o navio chegu
 
 De acordo com o parágrafo 5)/6) (ver nota 1) do artigo 19 da Convenção, o presente certificado é válido até ...
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -2012,7 +1999,7 @@ Confirmação da antecipação da data de aniversário no caso de aplicação do
 
 De acordo com o parágrafo 8) do artigo 19 da Convenção, a nova data de aniversário é a seguinte ...
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -2140,7 +2127,7 @@ Vistoria anual efectuada em conformidade com a alínea c) do parágrafo 8) do ar
 
 Certifica-se que a vistoria anual exigida nos termos da alínea c) do parágrafo 8) do artigo 19 da Convenção permitiu verificar que o navio satisfaz inteiramente às disposições da Convenção.
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -2152,7 +2139,7 @@ Confirmação da prorrogação do prazo de validade de um certificado válido po
 
 O navio obedece inteiramente aos requisitos da Convenção, pelo que este certificado será válido, nos termos do parágrafo 3) do artigo 19, até ...
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -2164,7 +2151,7 @@ Confirmação da conclusão de uma vistoria de renovação por aplicação do pa
 
 O navio obedece inteiramente aos requisitos da Convenção, pelo que este certificado será válido, nos termos do parágrafo 4) do artigo 19, até ...
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -2176,7 +2163,7 @@ Confirmação da prorrogação do prazo de validade do certificado até o navio 
 
 De acordo com o parágrafo 5)/6) (ver nota 1) do artigo 19 da Convenção, o presente certificado é válido até ...
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Data ...
 
@@ -2190,7 +2177,7 @@ Confirmação da antecipação da data de aniversário por aplicação do parág
 
 Em conformidade com o parágrafo 8) do artigo 19 da Convenção, a nova data de aniversário é a seguinte: ...
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 
@@ -2200,7 +2187,7 @@ Data ...
 
 Em conformidade com o parágrafo 8) do artigo 19 da Convenção, a nova data de aniversário é a seguinte: ...
 
-**Assinado ... (assinatura do funcionário autorizado).**
+Assinado ... (assinatura do funcionário autorizado).
 
 Local ...
 

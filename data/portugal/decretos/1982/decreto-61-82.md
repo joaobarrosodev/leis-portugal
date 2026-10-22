@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/61-1982-392387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b6fc022897c13b8407130340eb1186a0a5a076f572a315c1689565d0bf75919
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76f12be1a4ea7497a35954b483b21131293519ec6605e16bcace27de935a9659
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Faro
+- Ordenamento Florestal
+- Política Florestal
+- Silves
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:32Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +97,20 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea d) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São submetidos ao regime florestal total os terrenos, com uma área de 922 ha, que constituem a propriedade do Estado denominada «Herdade da Parra», situados na freguesia de São Marcos da Serra, concelho de Silves, distrito de Faro.
+Artigo 1.º São submetidos ao regime florestal total os terrenos, com uma área de 922 ha, que constituem a propriedade do Estado denominada «Herdade da Parra», situados na freguesia de São Marcos da Serra, concelho de Silves, distrito de Faro.
 
-###### Art. 2.º Estes terrenos, com os limites definidos em carta anexa, ficam a constituir a Mata Nacional da Herdade da Parra e serão geridos pela Direcção-Geral de Ordenamento e Gestão Florestal, de harmonia com o Decreto de 24 de Dezembro de 1901 e demais legislação em vigor.
+Art. 2.º Estes terrenos, com os limites definidos em carta anexa, ficam a constituir a Mata Nacional da Herdade da Parra e serão geridos pela Direcção-Geral de Ordenamento e Gestão Florestal, de harmonia com o Decreto de 24 de Dezembro de 1901 e demais legislação em vigor.
 
-###### Art. 3.º As receitas provenientes da exploração da referida propriedade serão inscritas nas contas de ordem da Direcção-Geral de Ordenamento e Gestão Florestal.
+Art. 3.º As receitas provenientes da exploração da referida propriedade serão inscritas nas contas de ordem da Direcção-Geral de Ordenamento e Gestão Florestal.
 
-###### Art. 4.º Todos os encargos resultantes da execução do presente diploma serão suportados pelas dotações da Direcção-Geral de Ordenamento e Gestão Florestal enquanto as receitas provenientes da exploração não forem suficientes para solver o mencionado encargo.
+Art. 4.º Todos os encargos resultantes da execução do presente diploma serão suportados pelas dotações da Direcção-Geral de Ordenamento e Gestão Florestal enquanto as receitas provenientes da exploração não forem suficientes para solver o mencionado encargo.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 12 de Maio de 1982.**
+Promulgado em 12 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/11900/14121413.pdf))](https://files.diariodarepublica.pt/1s/1982/05/11900/14121413.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/11900/14121413.pdf)

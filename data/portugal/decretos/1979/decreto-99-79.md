@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/99-1979-369980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bad4cff793c7913718b35637b435d3ca44b061c17cd8808635fb284ab029e3c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 698502c09138c67a1f984805cdf1a695b062d87c9bf620b742baf98f6c2f6a9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Marinha Mercante
+- Portugal
+- Senegal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:08Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 14 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República do Senegal no Domínio da Marinha Mercante, assinado em Lisboa em 10 de Outubro de 1978, cujos textos em línguas portuguesa e francesa acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República do Senegal no Domínio da Marinha Mercante, assinado em Lisboa em 10 de Outubro de 1978, cujos textos em línguas portuguesa e francesa acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 29 de Junho de 1979.**
+Assinado em 29 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES**
+O Presidente da República, ANTÓNIO RAMALHO EANES
 
 Acordo entre o Senegal e Portugal no Domínio da Marinha Mercante
 
@@ -129,7 +133,7 @@ Reafirmando o direito dos dois Países a transportar uma parte substancial e cad
 
 acordaram no que segue:
 
-ARTIGO I
+###### ARTIGO I
 
 O presente Acordo tem por objectivo:
 
@@ -141,7 +145,7 @@ Evitar todas as medidas susceptíveis de prejudicar o desenvolvimento dos transp
 
 Contribuir, de um modo geral, para o desenvolvimento das relações económicas e comerciais entre os dois países.
 
-ARTIGO II
+###### ARTIGO II
 
 Para fins do presente Acordo:
 
@@ -159,13 +163,13 @@ d) As embarcações de pesca.
 
 2 - O termo «membro da tripulação» significará qualquer pessoa empregada a bordo incluída no rol de matrícula e portadora de um documento conferindo-lhe a qualidade de marítimo.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes tomarão todas as medidas necessárias à cooperação em matéria de formação e assistência técnica no domínio marítimo.
 
 Favorecerão, nomeadamente, a formação e aperfeiçoamento dos quadros tanto navegantes como de terra.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As duas Partes Contratantes empreenderão esforços tendo em vista o desenvolvimento das relações efectivas de trabalho entre as autoridades responsáveis pelos transportes marítimos nos seus Países.
 
@@ -173,17 +177,17 @@ Procederão, nomeadamente, a consultas mútuas e a trocas de informações de do
 
 Promoverão o desenvolvimento de contactos entre as suas respectivas empresas de navegação e as administrações portuárias com o objectivo de obter uma maior eficácia dos transportes a que o presente Acordo se refere.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes cooperarão de modo a eliminar todos os obstáculos que possam dificultar o desenvolvimento da navegação entre os portos dos dois Países e abster-se-ão de qualquer medida susceptível de limitar as possibilidades dos navios da outra Parte Contratante em participar, numa base equitativa nos transportes entre os seus portos e os portos de terceiros países.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - Cada uma das Partes Contratantes reconhecerá os documentos de nacionalidade dos navios, os certificados de arqueação e outros documentos do navio, emitidos ou reconhecidos pela outra Parte Contratante.
 
 2 - Os direitos e taxas serão calculados com base nos documentos acima referidos.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - Os navios das duas Partes Contratantes participarão numa base equitativa e mutualmente vantajosa no transporte das mercadorias que constituem o conjunto das trocas comerciais entre os portos da República Portuguesa e os portos da República do Senegal.
 
@@ -191,25 +195,25 @@ ARTIGO VII
 
 3 - As disposições do presente artigo não impedirão a participação de navios de terceiros países no tráfego entre os portos da República Portuguesa e os da República do Senegal.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Cada uma das Partes Contratantes dará aos navios da outra Parte Contratante o tratamento mais favorável possível no que se refere à entrada, estadia e saída dos portos, utilização das instalações portuárias para a carga e descarga de mercadorias, embarque e desembarque de passageiros e à efectivação de qualquer outra operação comercial ou marítima necessária.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Aos navios afretados por armadores das duas Partes Contratantes e utilizados nos transportes a que se refere este Acordo aplicar-se-ão, nos portos da outra Parte, as disposições do artigo VIII do presente Acordo.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - Tendo por finalidade atingir resultados o mais satisfatórios possíveis, as empresas de navegação designadas pelas autoridades competentes de Portugal e do Senegal harmonizarão as suas actividades e a sua política comercial por forma a utilizar, da melhor maneira, a sua capacidade de transporte.
 
 2 - Qualquer Acordo celebrado entre armadores dos dois Países deverá ser submetido, primeiramente, a aprovação das respectivas autoridades competentes, conforme à legislação de cada Estado.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As duas Partes Contratantes tomarão, dentro do limite da sua lei e regulamentos portuários, todas as medidas necessárias tendentes a facilitar e acelerar o tráfego marítimo, a evitar atrasos injustificados dos navios e a simplificar, tanto quanto possível, as formalidades alfandegárias e outras em vigor nos portos.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1 - Se um navio de uma das Partes Contratantes naufragar, encalhar ou sofrer qualquer outra avaria nas águas territoriais da outra Parte Contratante, o navio e a sua carga gozarão, no território desta última Parte, dos mesmos benefícios e privilégios, e suportarão os mesmos encargos que um navio dessa Parte e sua carga.
 
@@ -221,7 +225,7 @@ ARTIGO XII
 
 5 - As disposições do parágrafo anterior não anulam a aplicação da regulamentação relativa ao armazenamento temporário de mercadorias.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Cada uma das Partes Contratantes reconhecerá os documentos de identidade de marítimo emitidos pelas autoridades competentes da outra Parte Contratante.
 
@@ -231,13 +235,13 @@ a) Para os marítimos dos navios da República Portuguesa a «Cédula Marítima�
 
 b) Para os marítimos dos navios da República do Senegal o «Livret Professionel Maritime».
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 Os possuidores dos documentos de identidade mencionados no artigo XIII do presente Acordo podem, na qualidade de membros da tripulação do navio de uma Parte Contratante, permanecer temporariamente em terra, sem visto, durante a permanência do navio num porto da outra Parte Contratante, com a condição de ser enviada às autoridades competentes uma lista da tripulação, conforme às regras em vigor nesse porto.
 
 Os membros da tripulação, nas suas idas a terra e regresso a bordo, deverão submeter-se ao contrôle alfandegário e ao da fronteira.
 
-ARTIGO XV
+###### ARTIGO XV
 
 1 - Os titulares dos documentos de identidade especificados no artigo XIII do presente Acordo poderão, na qualidade de passageiros de qualquer meio de transporte, entrar no território, para regressarem aos seus navios, ou por qualquer outra razão que seja aceite pelas autoridades competentes desta Parte Contratante.
 
@@ -245,13 +249,13 @@ ARTIGO XV
 
 3 - No caso de o titular do documento de identidade de marítimo referido no artigo XIII não ser cidadão de uma das Partes Contratantes, serão concedidos os vistos especificados no presente artigo, para a entrada ou trânsito no território da outra Parte Contratante, desde que seja garantido o regresso ao território da Parte Contratante que emitiu o documento.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 1 - As disposições dos artigos XIV e XV do presente Acordo não prejudicam a aplicação das disposições legais em vigor no território das duas Partes Contratantes, no que respeita à entrada, permanência e saída de estrangeiros.
 
 2 - Cada uma das Partes Contratantes reserva-se o direito de proibir a entrada no seu território aos detentores dos documentos de marítimo, acima mencionados, que considerem indesejáveis.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 1 - Se um membro da tripulação de um navio de uma das Partes Contratantes cometer a bordo deste navio uma infracção, aquando da permanência deste navio nas águas territoriais da outra Parte Contratante, as autoridades desta outra Parte não o processarão sem o acordo da autoridade consular ou diplomática do País de que o navio arvora bandeira.
 
@@ -267,7 +271,7 @@ d) Um processo judicial for indispensável para combater o tráfico de estupefac
 
 3 - As disposições do presente artigo não constituem obstáculo ao exercício dos direitos das autoridades locais no que respeita à aplicação da legislação sobre o contrôle e investigação.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 1 - Para efeitos de execução do presente Acordo, é criada uma comissão mista, que submeterá as recomendações às autoridades competentes das duas Partes Contratantes.
 
@@ -275,7 +279,7 @@ ARTIGO XVIII
 
 3 - A composição e as competências da comissão prevista no n.º 1 do presente artigo serão definidas pelas autoridades marítimas competentes das duas Partes Contratantes.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 O presente Acordo entrará provisoriamente em vigor na data da sua assinatura e definitivamente a partir do momento em que as Partes Contratantes se tenham notificado mutuamente, por via diplomática, do cumprimento das formalidades constitucionais inerentes a cada Parte.
 

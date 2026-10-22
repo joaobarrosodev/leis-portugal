@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22
   number: '15'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 29-(15) a 29-(49)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01501/0001500049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3-c/2021/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-c-2021-154946853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9f6334760161cb7730810be54d3186488bdc209f9af5e7cd0c78f5dbcfa4c1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ec15ec846b8c83efed3b0c1d919975771595a685be63d2b44820200cf2bd31d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,49 +66,70 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento de BENS Essenciais
-- Deficiente
-- Acção de Formação
+- Ação Social
 - Ação Social Escolar
+- Acção de Formação
 - Acesso à Informação
 - Acolhimento Familiar
 - Administração do Ensino
+- Administração Pública
 - AMA
 - Aquisição de Bens e Serviços
 - Assistência Medicamentosa
-- Indústria Automóvel
+- Autarquia Local
 - Centro Hospitalar
-- Estabelecimento Comercial
 - Comissão de Protecção de Crianças e Jovens
 - Controlo Médico
-- Definição de Competências
-- Regulamentação de Atos Legislativos
 - Controlo Sanitário
-- Ensino Cooperativo
-- Administração Pública
-- Férias
-- Ação Social
-- Ensino Secundário
-- Doença Infecciosa
-- Epidemia
-- Proteção à Infância
-- Estabelecimento de Ensino
-- Serviço Público
-- Ensino Básico
 - Cuidados Médicos
-- Presidência do Conselho de Ministros
+- Deficiente
+- Definição de Competências
+- Doença Infecciosa
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino Secundário
 - Ensino Superior
-- Ministro da Presidência
-- Ministério dos Negócios Estrangeiros
-- Loja do Cidadão
-- Gabinete de Inspecção
-- Trabalhador por Conta de Outrem
-- Autarquia Local
+- Epidemia
 - Equipamento de Proteção
+- Estabelecimento Comercial
+- Estabelecimento de Ensino
+- Férias
+- Gabinete de Inspecção
+- Indústria Automóvel
+- Loja do Cidadão
+- Ministério dos Negócios Estrangeiros
+- Ministro da Presidência
+- Presidência do Conselho de Ministros
+- Proteção à Infância
+- Regulamentação de Atos Legislativos
+- Serviço Público
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:159432418:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155739190:por
+  label: Prorrogada até às 23:59 h do dia 14 de fevereiro de 2021 a vigência do Dec 3-A/2021 de 14-jan, na versão alterada
+    e republicada pelo presente diploma, pelo(a) Decreto n.º 3-D/2021 - Diário da República n.º 20/2021, 1º Suplemento, Série
+    I de 2021-01-2, que determinou que a suspensão prevista no n.º 1 do art. 31.º-A daquele diploma vigora até ao dia 5 de
+    fevereiro de 2021, com as especificidades e exceções constantes dos n.ºs 2 a 5 do seu art. 3.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/3-d-2021-155739190
+  date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:157397591:por
+  label: Alterado a partir das 00:00 h de 15.02.2021, o art. 25.º, revogado o art 27.º e a al. a) do n.º 1 e o n.º 2 do art.
+    31.º-A, e prorrogada até às 23:59 h do dia 01.03.2021, a vigência do Dec 3-A/2021, de 14-jan, na versão alterada e republicada
+    do presente diploma, pelo(a) Decreto n.º 3-E/2021 - Diário da República n.º 30/2021, 2º Suplemento, Série I de 2021-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/3-e-2021-157397591
+  date: '2021-02-12'
+- type: amended_by
+  target: pt:dre:158507655:por
+  label: Prorrogada até às 23:59 h do dia 16 de março de 2021 a vigência do Dec 3-A/2021 de 14-jan, na versão alterada e republicada
+    pelo presente diploma, pelo(a) Decreto n.º 3-F/2021 - Diário da República n.º 40/2021, 3º Suplemento, Série I de 2021-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/3-f-2021-158507655
+  date: '2021-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -149,16 +170,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:114627386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116029384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144272529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149103950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153917314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153959843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154483156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159432418:por
+  label: Revogado o Dec 3-A/2021 de 14-jan, na versão republicada pelo presente diploma, pelo(a) Decreto n.º 4/2021 - Diário
+    da República n.º 50-A/2021, Série I de 2021-03-13, nos termos dos seus arts. 53.º e 54.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/4-2021-159432418
+  date: '2021-03-13'
 article_structure:
-  article_count: 63
+  article_count: 58
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:56Z'
   warnings: []
   errors: []
 ---
@@ -279,7 +362,9 @@ x) [...].
 
 4 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -311,7 +396,9 @@ h) [...];
 
 i) [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [Revogado].
 
@@ -335,7 +422,9 @@ e) A difusão de informação, instrumentos de apoio e práticas inovadoras de g
 
 6 - O membro do Governo responsável pela área dos negócios estrangeiros adapta o disposto no presente artigo aos serviços periféricos externos do Ministério dos Negócios Estrangeiros.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 O membro do Governo responsável pela área da administração interna, com faculdade de delegação:
 
@@ -375,7 +464,9 @@ c) As atividades letivas e não letivas presenciais das instituições de ensino
 
 7 - Ficam excecionadas do disposto no n.º 1 as respostas de lar residencial e residência autónoma.
 
-###### Artigo 31.º-B — Trabalhadores de serviços essenciais
+Artigo 31.º-B
+
+Trabalhadores de serviços essenciais
 
 1 - É identificado em cada agrupamento de escolas um estabelecimento de ensino e, em cada concelho, creches, creches familiares ou amas que promovam o acolhimento dos filhos ou outros dependentes a cargo de trabalhador cuja mobilização para o serviço ou prontidão obste a que prestem assistência aos mesmos na sequência da suspensão prevista no artigo anterior, e que sejam:
 
@@ -391,7 +482,9 @@ d) Trabalhadores de serviços de gestão e manutenção de infraestruturas essen
 
 3 - São serviços essenciais, para efeitos do disposto no n.º 1, os definidos em portaria do membro do Governo responsável pela Presidência do Conselho de Ministros.
 
-###### Artigo 31.º-C — Suspensão de atividades formativas
+Artigo 31.º-C
+
+Suspensão de atividades formativas
 
 1 - Ficam igualmente suspensas as atividades formativas desenvolvidas em regime presencial realizadas por entidades formadoras de natureza pública, privada, cooperativa ou social.
 
@@ -421,15 +514,15 @@ O presente decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de janeiro de 2021. - António Luís Santos da Costa.
 
-**Assinado em 21 de janeiro de 2021.**
+Assinado em 21 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de janeiro de 2021.**
+Referendado em 21 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -1083,7 +1176,7 @@ IVA - Imposto sobre valor acrescentado, apresentado em percentagem.
 
 Os valores de spread aplicáveis são os que constam na tabela seguinte, para o GPL butano e GPL propano, para as tipologias T3 e T5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01501/0001500049.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01501/0001500049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01501/0001500049.pdf)
 
 3 - O preço regulado para o mês M é determinado no primeiro dia do mês e aplica-se a partir do terceiro dia útil do mês M até ao segundo dia útil do mês M+1.
 
@@ -1345,7 +1438,7 @@ b) A sinalização da proibição de utilização de bancos de jardim, parques i
 
 ###### Artigo 36.º — Execução a nível local
 
-**O Primeiro-Ministro procede à nomeação das autoridades que coordenam a execução da declaração do estado de emergência no território continental, a nível local, nos termos do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual.**
+O Primeiro-Ministro procede à nomeação das autoridades que coordenam a execução da declaração do estado de emergência no território continental, a nível local, nos termos do n.º 4 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, na sua redação atual.
 
 ###### Artigo 37.º — Defesa nacional
 
@@ -1630,3 +1723,5 @@ Esplanadas;
 52 - Notários.
 
 53 - Atividades e estabelecimentos enunciados nos números anteriores, ainda que integrados em centros comerciais.
+
+113910546

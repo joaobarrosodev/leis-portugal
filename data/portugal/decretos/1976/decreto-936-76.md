@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 303/1976, 3º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2900-(73) a 2900-(73)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30303/00730073.pdf
 entry_into_force_dates: []
@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/936-1976-391224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c34497355567dfb09108250e23265536f8f031fd1e9f936ddba40cf213c4e667
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b63e6fa8e22f9a241c516474f4a4847a05fd6513be22dac736c276a011e6e9fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Aquisição de Imóveis
+- Autorização de Despesas
+- BENS Imóveis
+- Despesas Públicas
+- Direcção Geral do Património
+- Lisboa
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:08Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +102,9 @@ Tendo em vista o disposto no artigo 6.º do [Decreto-Lei n.º 48234](https://dia
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral do Património a celebrar escritura para aquisição, pela importância de 134500000$00, de um prédio urbano sito na Avenida de Gago Coutinho, lote municipal n.º 1617, ainda sem número de polícia, construído no terreno descrito na 1.ª Conservatória do Registo Predial de Lisboa sob o n.º 19388, a fl. 173 v.º do livro B-72.
+Artigo 1.º É autorizada a Direcção-Geral do Património a celebrar escritura para aquisição, pela importância de 134500000$00, de um prédio urbano sito na Avenida de Gago Coutinho, lote municipal n.º 1617, ainda sem número de polícia, construído no terreno descrito na 1.ª Conservatória do Registo Predial de Lisboa sob o n.º 19388, a fl. 173 v.º do livro B-72.
 
-###### Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior, a custear por conta de dotação inscrita no orçamento do Ministério das Obras Públicas, será satisfeito da seguinte forma:
+Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior, a custear por conta de dotação inscrita no orçamento do Ministério das Obras Públicas, será satisfeito da seguinte forma:
 
 Em 1976 ... 40000000$00
 
@@ -103,8 +114,8 @@ Em 1978 ... 40700000$00
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - João Orlindo de Almeida Pina.
 
-**Promulgado em 30 de Dezembro de 1976.**
+Promulgado em 30 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

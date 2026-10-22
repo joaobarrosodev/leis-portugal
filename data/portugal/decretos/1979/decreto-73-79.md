@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/73-1979-381985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4695aaf063d004c6b0a2b4aac064c46cbde45ae8b6a57326c19340d7f61880bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fb0fbba9de074980c48e64117fd0f1f8b492e2f91792874ffe4beb5dca0b59a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Convenção
+- Genebra
+- Portugal
+- Trigo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:43Z'
   warnings: []
   errors: []
 ---
@@ -86,13 +91,13 @@ de 21 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo que prorroga pela quarta vez a Convenção de Comércio do Trigo, 1971, feito em Genebra a 23 de Março de 1978, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Protocolo que prorroga pela quarta vez a Convenção de Comércio do Trigo, 1971, feito em Genebra a 23 de Março de 1978, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz. Assinado em 9 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 1978 Protocols for the fourth extension of the Wheat Trade Convention and Food Aid Convention constituting the International What Agreement, 1971
 
@@ -236,11 +241,15 @@ Considerando que a Convenção sobre o Comércio do Trigo de 1971 (daqui em dian
 
 Acordaram no que segue:
 
-###### ARTIGO 1 — Prorrogação, substituição e termo da Convenção
+ARTIGO 1
+
+Prorrogação, substituição e termo da Convenção
 
 Sob reserva das disposições contidas no artigo 2.º do presente Protocolo, a Convenção permanecerá em vigor entre as Partes do presente Protocolo até 30 de Junho de 1978. No caso de, antes de 30 de Junho de 1979, entrar em vigor um novo acordo internacional abrangendo o trigo, o presente Protocolo manter-se-á em vigor apenas até à data da entrada em vigor desse acordo.
 
-###### ARTIGO 2 — Disposições da Convenção não aplicáveis
+ARTIGO 2
+
+Disposições da Convenção não aplicáveis
 
 Serão consideradas como não aplicáveis, a partir de 1 de Julho de 1978, as seguintes disposições da Convenção:
 
@@ -252,23 +261,33 @@ c) Parágrafo 1 do artigo 27;
 
 d) Artigos 29 a 31, inclusive.
 
-###### ARTIGO 3 — Definições
+ARTIGO 3
+
+Definições
 
 Qualquer referência feita no presente Protocolo a «Governo» ou «Governos» será considerada como abrangendo igualmente a Comunidade Económica Europeia (designada adiante como «A Comunidade»). De igual modo, qualquer referência feita no presente Protocolo a «assinatura» ou a «depósito de instrumentos de ratificação, aceitação, aprovação ou conclusão», a «instrumentos de adesão» ou a «declaração de aplicação provisória» por um Governo será considerada, no caso da Comunidade, como incluindo a assinatura ou a declaração de aplicação provisória, em nome da Comunidade, pela autoridade competente, e o depósito do instrumento exigido pelas normas institucionais da Comunidade para a conclusão de acordos internacionais.
 
-###### ARTIGO 4 — Finanças
+ARTIGO 4
+
+Finanças
 
 A contribuição inicial de qualquer membro exportador ou importador que adira ao presente Protocolo ao abrigo do seu parágrafo 1, b), do artigo 7.º, deverá ser calculada pelo Conselho tendo em conta os votos que lhe venham a ser atribuídos e o que reste do ano cerealífero em curso; não serão, porém, alterados, relativamente a outros membros exportadores ou importadores, os cálculos feitos para o ano cerealífero em curso.
 
-###### ARTIGO 5 — Assinaturas
+ARTIGO 5
+
+Assinaturas
 
 De 26 de Abril a 17 de Maio de 1978, inclusive, fica o presente Protocolo aberto à assinatura, em Washington, pelos Governos dos países partes na Convenção, prorrogada pelo Protocolo de 1976; ou que a 23 de Março de 1978 sejam provisoriamente considerados partes na Convenção, prorrogada pelo Protocolo de 1976; ou que sejam membros das Nações Unidas, das suas agências especializadas ou da Agência Internacional de Energia Atómica, e que constem do anexo A ou do anexo B da Convenção.
 
-###### ARTIGO 6 — Ratificação, aceitação, aprovação ou conclusão
+ARTIGO 6
+
+Ratificação, aceitação, aprovação ou conclusão
 
 O presente Protocolo fica sujeito a ratificação, aceitação, aprovação ou conclusão, por parte de cada Governo signatário, de acordo com as respectivas normas constitucionais ou institucionais. Os instrumentos de ratificação, aceitação, aprovação ou conclusão serão depositados até 23 de Junho de 1978 junto do Governo dos Estados Unidos da América, salvo as prorrogações de prazo concedidas pelo Conselho a qualquer Governo signatário que não tenha depositado até àquela data o seu instrumento de ratificação, aceitação, aprovação ou conclusão.
 
-###### ARTIGO 7 — Adesão
+ARTIGO 7
+
+Adesão
 
 1 - O presente Protocolo fica aberto para adesão:
 
@@ -280,13 +299,17 @@ b) A partir de 23 de Junho de 1978, ao Governo de qualquer Estado membro das Na�
 
 3 - Sempre que, para fins de aplicação da Convenção e do presente Protocolo, é feita referência aos membros mencionados no anexo A ou B da Convenção, qualquer membro cujo Governo tenha aderido à Convenção nas condições prescritas pelo Conselho, ou ao presente Protocolo ao abrigo do parágrafo 1, b), deste artigo, será considerado como fazendo parte do anexo aplicável.
 
-###### ARTIGO 8 — Aplicação provisória
+ARTIGO 8
+
+Aplicação provisória
 
 Qualquer Governo signatário poderá depositar, junto do Governo dos Estados Unidos da América, uma declaração da aplicação provisória do presente Protocolo.
 
 Qualquer outro Governo em condições para assinar o presente Protocolo, ou cuja candidatura de adesão foi aprovada pelo Conselho, poderá igualmente depositar, junto do Governo dos Estados Unidos da América, uma declaração de aplicação provisória. Qualquer Governo que deposite uma tal declaração deverá aplicar provisoriamente o presente Protocolo e será provisoriamente considerado como parte no mesmo.
 
-###### ARTIGO 9 — Entrada em vigor
+ARTIGO 9
+
+Entrada em vigor
 
 1 - O presente Protocolo entrará em vigor nos seguintes termos para os Governos que até 23 de Junho de 1978 tenham depositado os seus instrumentos de ratificação, aceitação, aprovação, conclusão ou adesão, ou feito as suas declarações de aplicação provisória, de acordo com os artigos 6, 7 e 8 do presente Protocolo:
 
@@ -300,15 +323,21 @@ Se esses instrumentos de ratificação, aceitação, aprovação, conclusão ou 
 
 3 - Se o presente Protocolo não entrar em vigor ao abrigo do parágrafo 1 do presente artigo, os Governos que tenham depositado os seus instrumentos de ratificação, aceitação, aprovação, conclusão ou adesão, ou as suas declarações de aplicação provisória, poderão decidir, de comum acordo, que o mesmo entrará em vigor para os Governos que tenham depositado os seus instrumentos de ratificação, aceitação, aprovação, conclusão ou adesão, ou as suas declarações de aplicação provisória.
 
-###### ARTIGO 10 — Notificação por parte do Governo depositário
+ARTIGO 10
+
+Notificação por parte do Governo depositário
 
 O Governo dos Estados Unidos da América, como Governo depositário, deverá notificar todos os Governos signatários e aderentes de todas as assinaturas, ratificações, aceitações, aprovações, conclusões e aplicações provisórias do presente Protocolo e das adesões ao mesmo, assim como de quaisquer notificações e avisos recebidos ao abrigo do artigo 27 da Convenção e das notificações recebidas ao abrigo do artigo 28 da Convenção.
 
-###### ARTIGO 11 — Cópias autênticas do presente Protocolo
+ARTIGO 11
+
+Cópias autênticas do presente Protocolo
 
 O Governo depositário deverá enviar, o mais rapidamente possível após a entrada em vigor definitiva do presente Protocolo, cópias autênticas do mesmo em línguas espanhola, francesa, inglesa e russa ao Secretário-Geral das Nações Unidas, para registo, de acordo com o artigo 102 da Carta das Nações Unidas. Quaisquer emendas ao presente Protocolo deverão ser do mesmo modo comunicadas.
 
-###### ARTIGO 12 — Relação do Preâmbulo com o presente Protocolo
+ARTIGO 12
+
+Relação do Preâmbulo com o presente Protocolo
 
 O presente Protocolo inclui o Preâmbulo aos Protocolos de 1978 prorrogando pela quarta vez o Acordo Internacional do Trigo de 1971.
 

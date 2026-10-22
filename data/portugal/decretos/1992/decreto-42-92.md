@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/42/1992/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-1992-225810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f446d3b2601c28fbfda59b6dc484287b533e5ecba56c4fb5e2de9d419d6d7a56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ede736e53cb630c18bf52b03f2507e6d64fd79efa8aef02e9da7c6d8d30b1965
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,39 @@ reuse:
 subjects:
 - Contrastaria
 - Convenção
-- Portugal
 - Metal Precioso
+- Portugal
 - Viena
 relationships:
 - type: amended_by
   target: pt:dre:203013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667276:por
+  label: "Aprovada a alteração ao nº 1 do art. 1º da Convenção aprovada para ratificação pelo Dec 56/82 de 29-Abr, na redacção\
+    \ do presente diploma, pelo DEC.39/99.1999.10.19.MNE, DR.IS-A [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/39-1999-667276
+  date: '1999-10-19'
+- type: amended_by
+  target: pt:dre:203013:por
+  label: "Aprovadas as emendas (alteração do art. 2º e alteração dos anexos I e II no que se refere ao metal precioso paládio,\
+    \ bem como o aditamento da marca para artefacto de paládio à tabela que obedece ao nº 3 do art. 4º do anexo II) à Convenção\
+    \ sobre o Controlo e Marcação de Artigos de Metais Preciosos, aprovada para ratificação pelo Dec 56/82 de 29-Abr, tendo\
+    \ as anteriores emendas sido aprovadas pelo presente diploma, pelo DEC.2/2006.03.01.2006.MNE, DR.IS-A [2] de 03.01.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/2-2006-203013
+  date: '2006-01-03'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:00Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +111,19 @@ de 13 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas, para ratificação, as alterações aos artigos 10 e 12 da Convenção sobre o Controlo e a Marcação de Artefactos de Metais Preciosos, assinada em Viena em 15 de Novembro de 1972, cujo texto em inglês e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. São aprovadas, para ratificação, as alterações aos artigos 10 e 12 da Convenção sobre o Controlo e a Marcação de Artefactos de Metais Preciosos, assinada em Viena em 15 de Novembro de 1972, cujo texto em inglês e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Duarte Ivo Cruz.
 
 Ratificado em 16 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Setembro de 1992.**
+Referendado em 20 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 (Agreed by the Standing Committee on 18 May 1988.)
 

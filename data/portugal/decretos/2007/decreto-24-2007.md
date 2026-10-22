@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/24/2007/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-2007-629122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a616c074bca09f621113dd75098a119d5709db3a0f38e24b218441644a9c77ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67ba82ddef2d7979c7406592c76983863f8f6fc4aeb734f2b85b6dfb0003c026
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,31 +69,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
+- Admissão de Estrangeiros
+- Apátrida
 - CE Países
 - Cidadão Estrangeiro
 - Comunidade Europeia
 - Convenção
-- Portugal
 - Entrada de Estrangeiros
 - Expulsão de Estrangeiros
 - Fronteiras
+- Imigração
 - Moscovo
-- Apátrida
+- Portugal
 - Repatriamento
 - Rússia
-- Admissão de Estrangeiros
 relationships: []
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:57Z'
   warnings: []
   errors: []
 ---
@@ -114,15 +114,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Rui Carlos Pereira.
 
-**Assinado em 4 de Outubro de 2007.**
+Assinado em 4 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Outubro de 2007.**
+Referendado em 4 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 PROTOCOLO DE APLICAÇÃO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA FEDERAÇÃO DA RÚSSIA RELATIVO AO ESTABELECIMENTO DOS PRAZOS DE RESPOSTA A UM PEDIDO DE READMISSÃO, EM CONFORMIDADE COM O ACORDO DE READMISSÃO CONCLUÍDO ENTRE A COMUNIDADE EUROPEIA E A FEDERAÇÃO DA RÚSSIA EM 25 DE MAIO DE 2006.
 
@@ -162,4 +162,4 @@ O presente Protocolo entrará em vigor a partir da data de recepção pelo Comit
 
 Feito em Moscovo, em 1 de Fevereiro de 2007, em dois exemplares, cada um em línguas portuguesa e russa, fazendo ambos os textos igualmente fé.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20100/0765207653.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20100/0765207653.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20100/0765207653.pdf)

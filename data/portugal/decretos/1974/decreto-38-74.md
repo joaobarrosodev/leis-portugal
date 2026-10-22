@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/38-1974-407372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:34:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8e474937a90c2f9ed7509dbd849223ea467a6a5d58c14b7be853f861c1d5c7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6df63db13d0a1234ac0939ffd91c80ef0d80aaa521de4229c00166a69a15c6b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:246827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490390:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:34:15Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +102,7 @@ Considerando, ainda, a necessidade de um maior aproveitamento de efectivos, facu
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Podem ser admitidos à Escola Central de Sargentos os primeiros-sargentos que, embora completando 46 anos de idade antes de 1 de Outubro do ano em que lhes competiria a respectiva nomeação, respeitando as condições referidas no artigo 3.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, obedeçam a uma das seguintes condições:
+Artigo 1.º - 1. Podem ser admitidos à Escola Central de Sargentos os primeiros-sargentos que, embora completando 46 anos de idade antes de 1 de Outubro do ano em que lhes competiria a respectiva nomeação, respeitando as condições referidas no artigo 3.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, obedeçam a uma das seguintes condições:
 
 a) Terem obtido 13 ou mais valores de classificação nas provas de escalonamento efectuadas de acordo com o determinado no [Decreto n.º 46892](https://diariodarepublica.pt/dr/detalhe/decreto/46892-1966-490390), de 9 de Março de 1966;
 
@@ -104,9 +112,9 @@ c) Sejam condecorados com uma das seguintes condecorações: Ordem Militar da To
 
 2. Para beneficiarem do disposto no número anterior, os primeiros-sargentos devem requerer a respectiva admissão à Escola Central de Sargentos, até 1 de Outubro do ano precedente.
 
-###### Art. 2.º A determinação do ano em que competiria aos primeiros-sargentos o ingresso na Escola Central de Sargentos, para efeito do requerimento a que se refere o n.º 2 do artigo 1.º deste diploma, será obtida pela média do número de sargentos nomeados para cada lote anual de frequência da Escola Central de Sargentos, nos últimos cinco anos, na respectiva escala.
+Art. 2.º A determinação do ano em que competiria aos primeiros-sargentos o ingresso na Escola Central de Sargentos, para efeito do requerimento a que se refere o n.º 2 do artigo 1.º deste diploma, será obtida pela média do número de sargentos nomeados para cada lote anual de frequência da Escola Central de Sargentos, nos últimos cinco anos, na respectiva escala.
 
-###### Art. 3.º - 1. Pode ser concedida antecipação do ingresso na Escola Central de Sargentos:
+Art. 3.º - 1. Pode ser concedida antecipação do ingresso na Escola Central de Sargentos:
 
 a) De um ano, aos primeiros-sargentos nas condições referidas no n.º 1 do artigo 1.º deste diploma;
 
@@ -114,16 +122,16 @@ b) De um ou mais anos, aos primeiros-sargentos que, nas condições do artigo 3.
 
 2. Para beneficiarem do constante do número anterior deste artigo, os interessados devem requerer nos termos do n.º 2 do artigo 1.º deste diploma.
 
-###### Art. 4.º - 1. A inclusão na escala de promoção, após o final do curso que frequentarem na Escola Central de Sargentos, dos primeiros-sargentos que venham a beneficiar das presentes disposições será a correspondente à classificação obtida no respectivo curso.
+Art. 4.º - 1. A inclusão na escala de promoção, após o final do curso que frequentarem na Escola Central de Sargentos, dos primeiros-sargentos que venham a beneficiar das presentes disposições será a correspondente à classificação obtida no respectivo curso.
 
 2. Exceptuam-se os primeiros-sargentos já considerados eliminados para o ano lectivo de 1974-1975, por atingirem o limite de idade antes de 1 de Outubro de 1974, os quais ingressarão naquela escala por ordem decrescente das classificações que obtenham na Escola Central de Sargentos, à esquerda do último sargento aprovado no mesmo curso e admitido nas condições normais do concurso.
 
-###### Art. 5.º (transitório). No ano lectivo de 1974-1975, o prazo para entrega do requerimento a que se refere o n.º 2 do artigo 1.º deste diploma será fixado por despacho ministerial.
+Art. 5.º (transitório). No ano lectivo de 1974-1975, o prazo para entrega do requerimento a que se refere o n.º 2 do artigo 1.º deste diploma será fixado por despacho ministerial.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha - Manuel Artur Cotta Agostinho Dias - Alberto de Andrade e Silva.
 
-**Promulgado em 28 de Janeiro de 1974.**
+Promulgado em 28 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

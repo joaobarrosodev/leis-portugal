@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/1992/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-1992-151722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e45fa0cccc4389d1c3578177c170ce464fb045ecd7b4d321d47ddced419699c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc7b0b9f5055df8a74a6690e09a1ed5d87ddffb2149460285aff91fc38159039
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Medidas Preventivas
+- Ordenamento do Território
 - Plano de Urbanização
 - VILA NOVA de GAIA
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:10Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +100,7 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Para efeitos da aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas, pelo prazo de dois anos, a área definida na planta anexa a este diploma, que dele faz parte integrante.
+Artigo 1.º - 1 - Para efeitos da aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas, pelo prazo de dois anos, a área definida na planta anexa a este diploma, que dele faz parte integrante.
 
 2 - As medidas referidas no número anterior consistem na sujeição a prévia autorização da Câmara Municipal de Vila Nova de Gaia, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, da prática dos actos ou actividades seguintes:
 
@@ -112,20 +116,20 @@ e) Destruição do solo vivo e do coberto vegetal.
 
 3 - É competente para fiscalizar o cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a Câmara Municipal de Vila Nova de Gaia.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Presidência do Conselho de Ministros, 30 de Dezembro de 1991.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Assinado em 21 de Janeiro de 1992.**
+Assinado em 21 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1992.**
+Referendado em 24 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/034b00/07800781.pdf))](https://files.diariodarepublica.pt/1s/1992/02/034b00/07800781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/034b00/07800781.pdf)

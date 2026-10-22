@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-1990-333342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32a635f31e2b51a2bbfa86f2894f3cb5eb17339bc489fbd0d57d16c74fd139a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e304e427ff5bd1b9d9e5d206c85a4cc107a3ea1118019adce3d3908df8b82aaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Grécia
+- Portugal
+- Transporte Aéreo
 relationships: []
 article_structure:
-  article_count: 21
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 20
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:28Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +91,19 @@ de 21 de Março
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo de Transporte Aéreo entre o Governo da República de Portugal e o Governo da República Helénica, assinado em Atenas a 16 de Maio de 1986, cujo texto original na língua inglesa e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo de Transporte Aéreo entre o Governo da República de Portugal e o Governo da República Helénica, assinado em Atenas a 16 de Maio de 1986, cujo texto original na língua inglesa e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1990. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - João Maria Leitão de Oliveira Martins.
 
 Ratificado em 6 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES**
+O Presidente da República, MÁRIO SOARES
 
-**Referendado em 8 de Março de 1990.**
+Referendado em 8 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE TRANSPORTE AÉREO ENTRE O GOVERNO DA REPÚBLICA DE PORTUGAL E O GOVERNO DA REPÚBLICA HELÉNICA.
 
@@ -297,13 +301,15 @@ Feito em Atenas, no dia 16 de Maio de 1986, em duplicado, na língua inglesa.
 
 Pelo Governo da República de Portugal:
 
-**O Ministro dos Negócios Estrangeiros, Pedro Pires de Mirando.**
+O Ministro dos Negócios Estrangeiros, Pedro Pires de Mirando.
 
 Pelo Governo da República Helénica:
 
-**O Ministro dos Negócios Estrangeiros, Karolos Papoulias.**
+O Ministro dos Negócios Estrangeiros, Karolos Papoulias.
 
-## ANEXO — SECÇÃO I
+## ANEXO
+
+#### SECÇÃO I
 
 1 - Rotas a explorar nos dois sentidos pela empresa designada pelo Governo da República de Portugal:
 

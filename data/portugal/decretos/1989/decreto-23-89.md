@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-1989-609872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4db095f9b2f58f043f249fa686ab8b84a01781465bea9dfc02b6902afac61efa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccb4be4e6c3205973cac427f27e7465b47d1c5ae2d2894dc09b000884527690d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Polícia Judiciária
+- Subsídio de Risco
+relationships:
+- type: cites
+  target: pt:dre:195072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380091:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:06Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +108,7 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os montantes previstos no artigo 1.º do [Decreto Regulamentar n.º 12/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1986-195072), de 23 de Abril, passam a ser os seguintes:
+Artigo 1.º Os montantes previstos no artigo 1.º do [Decreto Regulamentar n.º 12/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1986-195072), de 23 de Abril, passam a ser os seguintes:
 
 a) Pessoal dirigente - 13690$00;
 
@@ -106,20 +120,20 @@ d) Agente ou agente-motorista - 11270$00;
 
 e) Restante pessoal - 8050$00.
 
-###### Art. 2.º Os encargos resultantes da execução do presente decreto serão suportados, no presente ano, por verbas administradas pelo Gabinete de Gestão Financeira do Ministério da Justiça, no excedente às dotações atribuídas no Orçamento do Estado.
+Art. 2.º Os encargos resultantes da execução do presente decreto serão suportados, no presente ano, por verbas administradas pelo Gabinete de Gestão Financeira do Ministério da Justiça, no excedente às dotações atribuídas no Orçamento do Estado.
 
-###### Art. 3.º O presente diploma entra em vigor no dia 1 de Junho de 1989.
+Art. 3.º O presente diploma entra em vigor no dia 1 de Junho de 1989.
 
 Presidência do Conselho de Ministros, 7 de Abril de 1989.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Assinado em 11 de Maio de 1989.**
+Assinado em 11 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 Maio de 1989.**
+Referendado em 11 Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

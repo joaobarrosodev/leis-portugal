@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-1990-554835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 771bc5cfa01aa7dc8bcec1f6585a30c5ddb696e0ebec8cad5444779df459df8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9266bd94501e4168fad5d643c9e7d8476790836d84809af8a7f7ede85f52ff14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Bruxelas
+- CECA
+- Comissão CE
+- Convenção
+- Portugal
+- Trabalhador
+- Tratado CECA
 relationships:
 - type: amended_by
   target: pt:dre:300580:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515222:por
+  label: "Aprovadas as alterações ao art. 11º e ao nº 2 do art. 12º da Convenção pelo DEC.11/95.29.04.1995.MNE, DR.IS-A [100]\
+    \ de 29.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/11-1995-515222
+  date: '1995-04-29'
+- type: amended_by
+  target: pt:dre:300580:por
+  label: "Alterada a redacção da al. a) do nº 4 e aditado um novo parágrafo à al. a) do nº 1, ambos do art. 6º da convenção\
+    \ pelo DEC.6/2002.2002.03.25.MNE, DR.IS-A [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/6-2002-300580
+  date: '2002-03-25'
 article_structure:
-  article_count: 20
+  article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:16Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +111,19 @@ de 25 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada a Convenção entre o Governo Português e a Comissão das Comunidades Europeias para Definir as Condições e Modalidades de Concessão dos Auxílios Previstos na Alínea c) do N.º 1 e na Alínea b) do N.º 2 do Artigo 56.º do Tratado de Paris Constitutivo da Comunidade Europeia do Carvão e do Aço, assinada em Bruxelas, em 13 de Julho de 1989, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovada a Convenção entre o Governo Português e a Comissão das Comunidades Europeias para Definir as Condições e Modalidades de Concessão dos Auxílios Previstos na Alínea c) do N.º 1 e na Alínea b) do N.º 2 do Artigo 56.º do Tratado de Paris Constitutivo da Comunidade Europeia do Carvão e do Aço, assinada em Bruxelas, em 13 de Julho de 1989, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 1990. - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - António José de Castro Bagão Félix.
 
-**Assinado em 7 de Setembro de 1990.**
+Assinado em 7 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1990.**
+Referendado em 11 de Setembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENÇÃO ENTRE A COMISSÃO DAS COMUNIDADES EUROPEIAS E O GOVERNO PORTUGUÊS PARA DEFINIR AS CONDIÇÕES E MODALIDADES DE CONCESSÃO DOS AUXÍLIOS PREVISTOS NA ALÍNEA c) DO N.º 1 E NA ALÍNEA b) DO N.º 2 DO ARTIGO 56.º DO [TRATADO CECA](https://diariodarepublica.pt/application/external/ceca).
 

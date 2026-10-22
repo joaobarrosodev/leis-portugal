@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/1997/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-1997-383021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63a62b4d92d0c741d104bcc4c31c944d7ebb0f9fefe80240cb76a8d6710e3c84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 785efeb44e763840336fb149c581af66536baab0a06ff39bbcae761502f5db10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Monumento Natural
 - Instituto da Conservação da Natureza
+- Monumento Natural
 - Proteção do Ambiente
-- Zona de Proteção
 - Protecção do Património
 - Sintra
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:48Z'
   warnings: []
   errors: []
 ---
@@ -168,18 +172,18 @@ A fiscalização do disposto no presente diploma compete ao ICN, em colaboraçã
 
 Presidência do Conselho de Ministros, 6 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Rodrigues Pereira Penedos - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.
 
-**Promulgado em Coimbra, sede da Associação Nacional dos Municípios Portugueses, em 7 de Abril de 1997.**
+Promulgado em Coimbra, sede da Associação Nacional dos Municípios Portugueses, em 7 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Abril de 1997.**
+Referendado em 10 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/103b00/20672069.pdf))](https://files.diariodarepublica.pt/1s/1997/05/103b00/20672069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/103b00/20672069.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/103b00/20672069.pdf))](https://files.diariodarepublica.pt/1s/1997/05/103b00/20672069.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/103b00/20672069.pdf)
 
 O ponto 25, no cruzamento dos dois principais trilhos conhecidos, tem as seguintes coordenadas: M = 97578,893; P = 98690,362; cota = 189,26.

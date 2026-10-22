@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 148/1982, 1º Suplemento, Série I de 1982-06-30
   number: '148'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1938-(1) a 1938-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/14801/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-a-1982-295793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f50727973030ba6130775f2c7543425dc2993479a9f1f26bec3464aeffaffa3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9c601712f1803244c71debc95710f23fe69e3daec38903ebb80f5c595218333
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto de Compensação
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:312437:por
+  label: "Revogado o artigo 2.º pelo DEC LEI.145/83.02.04.1983.MFP, DR.IS [76] de 02.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-1983-312437
+  date: '1983-04-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:00Z'
   warnings: []
   errors: []
 ---
@@ -114,15 +164,15 @@ Usando da autorização legislativa concedida pelo artigo 28.º da [Lei n.º 40/
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 22.º e 23.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 22.º e 23.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, passam a ter a seguinte redacção:
 
-###### Art. 22.º Os proprietários dos veículos automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos no [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação da seguinte taxa anual:
+Art. 22.º Os proprietários dos veículos automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos no [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação da seguinte taxa anual:
 
 a) Veículos ligeiros de passageiros e mistos até 2500 kg de peso bruto ... 42000$00
 
 b) Os restantes veículos ... 12000$00
 
-###### Art. 23.º - 1 - Estão isentos do imposto de compensação:
+Art. 23.º - 1 - Estão isentos do imposto de compensação:
 
 a) O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados;
 
@@ -160,22 +210,22 @@ f) Os automóveis ligeiros de passageiros matriculados anteriormente a 1950, des
 
 6 - Os veículos abrangidos pelo número anterior só poderão circular desde que estejam comprovadamente a ser utilizados em serviço de experiência ou demonstração ou ainda quando se desloquem entre estabelecimentos de venda e de ou para fábricas de montagem ou oficinas de reparação.
 
-###### Art. 2.º As instituições privadas de solidariedade social às quais tenha sido reconhecida a isenção do imposto de compensação, mas que se não encontrem ainda registadas nos termos do estatuto aprovado pelo [Decreto-Lei n.º 519-G2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-g2-1979-157007), de 29 de Dezembro, deverão, para efeitos de manutenção de tal benefício, proceder àquele registo dentro dos seis meses seguintes à publicação deste diploma.
+Art. 2.º As instituições privadas de solidariedade social às quais tenha sido reconhecida a isenção do imposto de compensação, mas que se não encontrem ainda registadas nos termos do estatuto aprovado pelo [Decreto-Lei n.º 519-G2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-g2-1979-157007), de 29 de Dezembro, deverão, para efeitos de manutenção de tal benefício, proceder àquele registo dentro dos seis meses seguintes à publicação deste diploma.
 
-###### Art. 3.º - 1 - As prestações do imposto de compensação são sempre devidas por inteiro e uma única vez em cada trimestre, independentemente da verificação de quaisquer alterações à situação do veículo durante aquele período.
+Art. 3.º - 1 - As prestações do imposto de compensação são sempre devidas por inteiro e uma única vez em cada trimestre, independentemente da verificação de quaisquer alterações à situação do veículo durante aquele período.
 
 2 - Quando de facto gerador da obrigação tributária ocorrer no último mês do trimestre, só é devido o imposto a partir do trimestre seguinte.
 
 3 - O disposto no número anterior não se aplica a situações de perda da isenção transitória prevista no artigo 24.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963.
 
-###### Art. 4.º O Governo elaborará o regulamento para a boa execução do presente diploma, através do qual, designadamente, se fixarão as competências em matéria de liquidação e revisão tributária, o sistema e a forma de cobrança e as penalidades.
+Art. 4.º O Governo elaborará o regulamento para a boa execução do presente diploma, através do qual, designadamente, se fixarão as competências em matéria de liquidação e revisão tributária, o sistema e a forma de cobrança e as penalidades.
 
-###### Art. 5.º O disposto nos artigos 1.º e 3.º deste diploma produz efeitos a partir de 1 de Julho do corrente ano.
+Art. 5.º O disposto nos artigos 1.º e 3.º deste diploma produz efeitos a partir de 1 de Julho do corrente ano.
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 1982. - Diogo Pinto Freitas do Amaral - João Maurício Fernandes Salgueiro.
 
-**Promulgado em 30 de Junho de 1982.**
+Promulgado em 30 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

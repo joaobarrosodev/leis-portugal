@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/22/2013/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-2013-497844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:21:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a83d5f37994f32581e2d6ecff4a46ac1a71de7287cb3d5c1e9486efa47a02777
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f7c38b7e097afdb1287f66497daf8f0ce9bd5a04be4af13ff0e195211388b5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:21:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Obra de Arte
-- Investigação Científica e Tecnológica
 - Comunicação Social
 - Convenção
-- Política de Cooperação
 - Cooperação Técnica
-- Portugal
+- Cooperação Tecnológica
+- Desporto
 - Divulgação Cultural
+- Ensino Básico
+- Ensino Superior
 - Intercâmbio Académico
 - Intercâmbio Cultural
-- Cooperação Tecnológica
+- Investigação Científica e Tecnológica
+- Obra de Arte
 - Política Cultural
-- Política de Investigação e Desenvolvimento
+- Política de Cooperação
 - Política de Educação
-- Ensino Básico
+- Política de Investigação e Desenvolvimento
 - Política de Juventude
-- Ensino Superior
+- Portugal
 - Singapura
-- Desporto
 relationships: []
 article_structure:
   article_count: 16
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:21:48Z'
   warnings: []
   errors: []
 ---
@@ -117,15 +117,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 30 de maio de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - Nuno Paulo de Sousa Arrobas Crato.
 
-**Assinado em 3 de julho de 2013.**
+Assinado em 3 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de julho de 2013.**
+Referendado em 5 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE SINGAPURA NOS DOMÍNIOS DA EDUCAÇÃO, CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR, CULTURA, ARTES, JUVENTUDE, DESPORTO E COMUNICAÇÃO SOCIAL.
 

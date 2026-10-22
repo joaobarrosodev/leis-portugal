@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/492-1973-413062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65af06dd704ea647f8b6ac1b3fbdd60a891730bc1c5e7b3f6b5305605079d2a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d1e0fcad81b2318d72339eae3fd3425457fa50cffc13cc304247ced393d2db8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- CABO Verde.Colónia Portuguesa
+- Comunicações
+- Conselho de Administração
+- Conselho Fiscal
+- CTTU
+- Definição de Competências
+- Macau.Colónia Portuguesa
+- Ministro do Ultramar
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- São Tomé e Príncipe.Colónia Portuguesa
+- Serviço Postal
+- Telefone
+- Timor.Colónia Portuguesa
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:341420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:341420:por
+  label: "Dada nova redacção ao art. 142º pelo DEC LEI.506-A/75.18.09.1975.PCM, DG.IS [216-Supl] de 18.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/506-a-1975-341420
+  date: '1975-09-18'
+- type: cites
+  target: pt:dre:279273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589160:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:411102:por
+  label: "Rectificada a alínea a) do n.º 3 do artigo 148.º e o mapa II, pela RECT.DD232.30.11.1973.PC, DG.IS [280] de 30.11.1973\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-411102
+  date: '1973-11-30'
+- type: corrected_by
+  target: pt:dre:407348:por
+  label: "Rectificados os mapas I e II anexos ao presente diploma, pela RECT.DD293.06.02.1974.PC, DG.IS [31] de 06.02.1974\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1974-407348
+  date: '1974-02-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:54Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +154,7 @@ DIPLOMA ORGÂNICO DOS SERVIÇOS DE CORREIOS E TELECOMUNICAÇÕES DO ULTRAMAR
 
 ### CAPÍTULO I — Objecto dos serviços
 
-###### Artigo 1.º - 1. O serviço público de correios, telégrafos e telefones nas províncias ultramarinas portuguesas é desempenhado pelos serviços de correios e telecomunicações, os quais manterão a abreviatura de C. T. T. U., ocupando-se de:
+Artigo 1.º - 1. O serviço público de correios, telégrafos e telefones nas províncias ultramarinas portuguesas é desempenhado pelos serviços de correios e telecomunicações, os quais manterão a abreviatura de C. T. T. U., ocupando-se de:
 
 a) Serviços postais;
 
@@ -114,7 +166,7 @@ d) Caixas económicas postais.
 
 2. Além dos serviços referidos no número anterior, poderão os C. T. T. U. exercer, por determinação dos Governadores das províncias e ouvidos os respectivos conselhos de administração, quaisquer outras actividades complementares ou subsidiárias que a tradição e a índole da exploração imponham ou a experiência e o progresso técnico aconselhem.
 
-###### Art. 2.º - 1. As matérias referidas nas alíneas a) e b) do n.º 1 do artigo anterior serão objecto de regulamentação que terá por base as disposições das convenções, acordos e regulamentos internacionais e que será expedida:
+Art. 2.º - 1. As matérias referidas nas alíneas a) e b) do n.º 1 do artigo anterior serão objecto de regulamentação que terá por base as disposições das convenções, acordos e regulamentos internacionais e que será expedida:
 
 a) Pelos Governadores das províncias relativamente ao regime interno;
 
@@ -126,15 +178,15 @@ c) Pelo Ministro do Ultramar, ouvido o Ministro das Comunicações, relativament
 
 3. As dúvidas que, quanto ao regime internacional, se suscitem na aplicação das respectivas convenções, acordos e regulamentos serão decididas pelo Ministro do Ultramar.
 
-###### Art. 3.º As matérias enumeradas na alínea c) do n.º 1 do artigo 1.º serão objecto de regulamentação do Ministro do Ultramar.
+Art. 3.º As matérias enumeradas na alínea c) do n.º 1 do artigo 1.º serão objecto de regulamentação do Ministro do Ultramar.
 
-###### Art. 4.º A matéria referida na alínea d) do n.º 1 do artigo 1.º será objecto de regulamentação a expedir pelos Governadores das províncias.
+Art. 4.º A matéria referida na alínea d) do n.º 1 do artigo 1.º será objecto de regulamentação a expedir pelos Governadores das províncias.
 
 ### CAPÍTULO II — Da autonomia dos serviços
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 5.º Os C. T. T. U. constituem em cada província um organismo dotado de personalidade jurídica e com autonomia administrativa e financeira, sob a seguinte designação:
+Art. 5.º Os C. T. T. U. constituem em cada província um organismo dotado de personalidade jurídica e com autonomia administrativa e financeira, sob a seguinte designação:
 
 a) Nas províncias de Angola e Moçambique:
 
@@ -144,9 +196,9 @@ b) Nas restantes províncias:
 
 Repartição Provincial dos Serviços de Correios e Telecomunicações.
 
-###### Art. 6.º Os serviços prestados em cada província pelos respectivos C. T. T. U. são pagos por quem os utilizar, sem exclusão dos organismos da administração pública.
+Art. 6.º Os serviços prestados em cada província pelos respectivos C. T. T. U. são pagos por quem os utilizar, sem exclusão dos organismos da administração pública.
 
-###### Art. 7.º - 1. Os C. T. T. U. têm património próprio, constituído pelos bens mobiliários e imobiliários que constem dos respectivos inventários ou derivem do resultado das suas contas de gerência.
+Art. 7.º - 1. Os C. T. T. U. têm património próprio, constituído pelos bens mobiliários e imobiliários que constem dos respectivos inventários ou derivem do resultado das suas contas de gerência.
 
 2. Passam para o património dos C. T. T. U. todos os prédios rústicos ou urbanos pertencentes ao património das províncias e presentemente ocupados por esses serviços.
 
@@ -154,19 +206,19 @@ Repartição Provincial dos Serviços de Correios e Telecomunicações.
 
 4. Em caso de dúvida, é título bastante para determinar a transferência prevista no número anterior a simples declaração feita pelos C. T. T. U. e confirmada pelo Governador da província de que os referidos imóveis se encontram ocupados por esse organismo.
 
-###### Art. 8.º - 1. O Governador da província exerce a fiscalização superior sobre os C. T. T. U., mandando verificar, sempre que o julgue conveniente, se os princípios consignados neste diploma são devidamente cumpridos.
+Art. 8.º - 1. O Governador da província exerce a fiscalização superior sobre os C. T. T. U., mandando verificar, sempre que o julgue conveniente, se os princípios consignados neste diploma são devidamente cumpridos.
 
 2. Quando a fiscalização se referir aos serviços de contabilidade e tesouraria, dela poderão ser encarregadas as inspecções de finanças.
 
-###### Art. 9.º - 1. Os C. T. T. U têm orçamento privativo, no qual se consignam os recursos indispensáveis à cobertura do total das despesas, de modo a assegurar-se sempre o seu equilíbrio.
+Art. 9.º - 1. Os C. T. T. U têm orçamento privativo, no qual se consignam os recursos indispensáveis à cobertura do total das despesas, de modo a assegurar-se sempre o seu equilíbrio.
 
 2. As receitas e despesas dos orçamentos dos C. T. T. U. serão sempre incluídas, pela sua totalidade e em globo, no orçamento geral da respectiva província, de acordo com o n.º 1 da base LVII da Lei Orgânica do Ultramar Português.
 
-###### Art. 10.º - 1. Os C. T. T. U. dispõem livremente de todas as suas receitas para fazer face aos seus encargos, podendo receber um subsídio arbitrado pelo Governador e inscrito no orçamento geral da província, quando circunstâncias excepcionais não permitam o equilíbrio orçamental ou quando sejam necessários investimentos extraordinários.
+Art. 10.º - 1. Os C. T. T. U. dispõem livremente de todas as suas receitas para fazer face aos seus encargos, podendo receber um subsídio arbitrado pelo Governador e inscrito no orçamento geral da província, quando circunstâncias excepcionais não permitam o equilíbrio orçamental ou quando sejam necessários investimentos extraordinários.
 
 2. O subsídio mencionado no n.º 1 será entregue pelos serviços de finanças, por duodécimos, mediante requisição do conselho de administração dos C. T. T. U., salvo quando destinado a investimentos extraordinários, caso em que a entrega será feita pela forma mais conveniente.
 
-###### Art. 11.º - 1. Constituem receitas dos C. T. T. U.:
+Art. 11.º - 1. Constituem receitas dos C. T. T. U.:
 
 a) Os rendimentos da sua exploração;
 
@@ -188,13 +240,13 @@ f) O produto de empréstimos.
 
 5. Os títulos de crédito e os rendimentos do património dos C. T. T. U. podem servir de caução aos empréstimos contraídos.
 
-###### Art. 12.º - 1. As despesas com as pensões e outras remunerações ao pessoal aposentado ou aguardando aposentação dos C. T. T. U. constituem encargo do seu orçamento, devendo as importâncias necessárias para o efeito ser entregues, por duodécimos, nos cofres dos serviços provinciais de finanças.
+Art. 12.º - 1. As despesas com as pensões e outras remunerações ao pessoal aposentado ou aguardando aposentação dos C. T. T. U. constituem encargo do seu orçamento, devendo as importâncias necessárias para o efeito ser entregues, por duodécimos, nos cofres dos serviços provinciais de finanças.
 
 2. As importâncias descontadas ao pessoal para compensação de aposentação constituem receita própria dos C. T. T. U., a escriturar sob a rubrica «Compensação de aposentação».
 
 #### SECÇÃO II — Do conselho de administração
 
-###### Art. 13.º - 1. Os C. T. T. U. são administrados em cada província por um conselho de administração.
+Art. 13.º - 1. Os C. T. T. U. são administrados em cada província por um conselho de administração.
 
 2. Nas províncias de Angola e Moçambique, o conselho de administração é composto pelo director provincial dos C. T. T. U., como presidente, e pelos directores dos serviços centrais, como vogais.
 
@@ -212,17 +264,17 @@ Um representante dos serviços provinciais de finanças de categoria não inferi
 
 7. Os substitutos que sejam convocados e assistam a um número de reuniões superior a metade do total das realizadas no mês terão direito a receber, em vez de senhas de presença, a gratificação que couber ao funcionário substituído, recebendo este apenas as senhas de presença correspondentes às reuniões a que tenha assistido.
 
-###### Art. 14.º - 1. O conselho de administração reúne ordinariamente uma vez por semana, no dia e hora que o presidente designar, e extraordinariamente sempre que a urgência dos assuntos o justifique e o presidente o ache conveniente.
+Art. 14.º - 1. O conselho de administração reúne ordinariamente uma vez por semana, no dia e hora que o presidente designar, e extraordinariamente sempre que a urgência dos assuntos o justifique e o presidente o ache conveniente.
 
 2. Nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor serão havidas como condicionais, e, em consequência, submetidas a decisão do Governador da província, as deliberações sobre autorização de despesas que não tenham tido voto de concordância do representante dos serviços provinciais de finanças.
 
 3. Às reuniões dos conselhos de administração dos C. T. T. U. de Angola e Moçambique assistirá sempre um representante do conselho fiscal por este designado, para os efeitos expressamente indicados no artigo 26.º do presente diploma.
 
-###### Art. 15.º - 1. Das sessões do conselho de administração são lavradas actas, que devem ser assinadas pelos membros presentes, pelo representante do conselho fiscal relativamente a Angola e Moçambique e pelo secretário.
+Art. 15.º - 1. Das sessões do conselho de administração são lavradas actas, que devem ser assinadas pelos membros presentes, pelo representante do conselho fiscal relativamente a Angola e Moçambique e pelo secretário.
 
 2. Só as deliberações que constem das actas assinadas poderão ser invocadas para quaisquer efeitos ou fins.
 
-###### Art. 16.º Nas províncias de Angola e Moçambique compete ao conselho de administração, além da superintendência na administração dos C. T. T. U, nomeadamente o seguinte:
+Art. 16.º Nas províncias de Angola e Moçambique compete ao conselho de administração, além da superintendência na administração dos C. T. T. U, nomeadamente o seguinte:
 
 a) Submeter à apreciação do governador-geral, acompanhados do parecer do conselho fiscal, sendo caso disso:
 
@@ -282,9 +334,9 @@ o) Fixar os fundos permanentes de selos e outros fundos permanentes necessários
 
 p) Atribuir as funções de exactor nas estações centrais, fixar os montantes das cauções a prestar pelos exactores funcionários dos C. T. T. U. e autorizar a sua restituição ou anulação depois de julgadas extintas pelo Tribunal Administrativo, ou a sua transferência com relação ao desempenho de outras funções, quando requerida pelos funcionários interessados.
 
-###### Art. 17.º As aberturas de crédito e reforços de verba realizados ao abrigo do disposto na alínea e) do artigo anterior são dispensados do visto do Tribunal Administrativo e publicação no Boletim Oficial.
+Art. 17.º As aberturas de crédito e reforços de verba realizados ao abrigo do disposto na alínea e) do artigo anterior são dispensados do visto do Tribunal Administrativo e publicação no Boletim Oficial.
 
-###### Art. 18.º O conselho de administração dos C. T. T. U. das restantes províncias tem atribuições e competência idênticas aos de Angola e de Moçambique, com as seguintes ressalvas:
+Art. 18.º O conselho de administração dos C. T. T. U. das restantes províncias tem atribuições e competência idênticas aos de Angola e de Moçambique, com as seguintes ressalvas:
 
 a) Os limites previstos nas alíneas h) e j) do artigo 16.º são fixados, respectivamente, em 600000$00 e 300000$00;
 
@@ -294,19 +346,19 @@ c) As aberturas de crédito serão sempre ordenadas pelo Governador da provínci
 
 d) Os pareceres do conselho fiscal serão substituídos pela declaração do voto proferido pelo vogal representante dos serviços provinciais de finanças.
 
-###### Art. 19.º O conselho de administração não pode assumir encargos que não possam ser satisfeitos pelos fundos ou disponibilidades orçamentais dos C. T. T. U.
+Art. 19.º O conselho de administração não pode assumir encargos que não possam ser satisfeitos pelos fundos ou disponibilidades orçamentais dos C. T. T. U.
 
-###### Art. 20.º Os membros do conselho de administração são solidariamente responsáveis, nos termos da legislação vigente, por todos os bens móveis, imóveis e semoventes existentes que forem adquiridos ou que passarem por qualquer título para a propriedade ou posse dos C. T. T. U., e de igual modo são responsáveis, civil e criminalmente, pela gerência dos bens, títulos, valores e rendimentos a seu cargo.
+Art. 20.º Os membros do conselho de administração são solidariamente responsáveis, nos termos da legislação vigente, por todos os bens móveis, imóveis e semoventes existentes que forem adquiridos ou que passarem por qualquer título para a propriedade ou posse dos C. T. T. U., e de igual modo são responsáveis, civil e criminalmente, pela gerência dos bens, títulos, valores e rendimentos a seu cargo.
 
-###### Art. 21.º - 1. Além da responsabilidade civil que lhes couber, os membros do conselho de administração respondem disciplinarmente pela violação dos direitos adquiridos ou lesão dos interesses legítimos ocasionada pelas deliberações que hajam votado.
+Art. 21.º - 1. Além da responsabilidade civil que lhes couber, os membros do conselho de administração respondem disciplinarmente pela violação dos direitos adquiridos ou lesão dos interesses legítimos ocasionada pelas deliberações que hajam votado.
 
 2. A responsabilidade disciplinar estabelecida no n.º 1 é extensiva aos funcionários dos C. T. T. U. que tiverem prestado informações sobre a qual se tenha baseado a deliberação, e bem assim àqueles que, devendo ter informado contrariamente, o não hajam feito por escrito, nos termos legais.
 
-###### Art. 22.º O presidente do conselho de administração fará executar as respectivas deliberações, competindo-lhe ainda representar o mesmo conselho em juízo e fora dele, podendo delegar esta última representação em qualquer vogal ou funcionário dos C. T. T. U. nos termos em que o próprio conselho autorizar.
+Art. 22.º O presidente do conselho de administração fará executar as respectivas deliberações, competindo-lhe ainda representar o mesmo conselho em juízo e fora dele, podendo delegar esta última representação em qualquer vogal ou funcionário dos C. T. T. U. nos termos em que o próprio conselho autorizar.
 
 #### SECÇÃO III — Do conselho fiscal
 
-###### Art. 23.º - 1. Os C. T. T. U. de Angola e Moçambique têm um conselho fiscal composto por um presidente e dois vogais.
+Art. 23.º - 1. Os C. T. T. U. de Angola e Moçambique têm um conselho fiscal composto por um presidente e dois vogais.
 
 2. O presidente é um juiz desembargador do Tribunal Administrativo, escolhido pelo respectivo presidente; a designação dos vogais será feita bienalmente pelo Governador-Geral e recairá sobre um funcionário dos Serviços Provinciais de Finanças e outro dos Serviços Provinciais de Planeamento e Integração Económica, ambos de categoria não inferior a director de 2.ª classe ou equivalente.
 
@@ -318,11 +370,11 @@ d) Os pareceres do conselho fiscal serão substituídos pela declaração do vot
 
 6. Os substitutos que sejam convocados e assistam a um número de reuniões superior a metade do total das realizadas no mês terão direito a receber, em vez de senhas de presença, a gratificação que couber ao funcionário substituído, recebendo este apenas as senhas de presença correspondentes às reuniões a que tiver assistido.
 
-###### Art. 24.º - 1. O conselho fiscal tem uma reunião ordinária mensal e as reuniões extraordinárias que o seu presidente convocar, só podendo deliberar validamente quando estiver presente a totalidade dos seus membros.
+Art. 24.º - 1. O conselho fiscal tem uma reunião ordinária mensal e as reuniões extraordinárias que o seu presidente convocar, só podendo deliberar validamente quando estiver presente a totalidade dos seus membros.
 
 2. Em tudo quanto respeitar ao funcionamento do conselho fiscal são aplicáveis as disposições fixadas para o conselho de administração que não colidam com o estabelecido na presente secção.
 
-###### Art. 25.º Compete ao conselho fiscal:
+Art. 25.º Compete ao conselho fiscal:
 
 a) Velar pela observância das disposições do presente diploma, nomeadamente em face do que constar das actas das reuniões do conselho de administração;
 
@@ -334,7 +386,7 @@ d) Acompanhar a execução dos programas de desenvolvimento e financeiros e dos 
 
 e) Exercer em especial a fiscalização sobre a legalidade e cabimento das despesas autorizadas pelo conselho de administração, e bem assim sobre as deliberações deste que versem as matérias constantes das alíneas e), f), g), h), i), j), o) e p) do artigo 16.º
 
-###### Art. 26.º - 1. A competência fixada na alínea e) do artigo anterior é exercida por um dos membros do conselho fiscal, que, como seu delegado, assistirá às reuniões do conselho de administração e nelas emite desde logo o seu voto.
+Art. 26.º - 1. A competência fixada na alínea e) do artigo anterior é exercida por um dos membros do conselho fiscal, que, como seu delegado, assistirá às reuniões do conselho de administração e nelas emite desde logo o seu voto.
 
 2. Se o delegado do conselho fiscal votar em discordância com a deliberação do conselho de administração, será o assunto submetido ao conselho fiscal.
 
@@ -344,7 +396,7 @@ e) Exercer em especial a fiscalização sobre a legalidade e cabimento das despe
 
 ### CAPÍTULO III — Monopólio do Estado
 
-###### Art. 27.º - 1. Constituem monopólio do Estado nas províncias ultramarinas:
+Art. 27.º - 1. Constituem monopólio do Estado nas províncias ultramarinas:
 
 a) Os serviços de transporte e distribuição de cartas, bilhetes-postais ou correspondências de qualquer natureza fechadas de forma a não se poder verificar o seu conteúdo sem violação;
 
@@ -372,43 +424,43 @@ g) As recepções ou transmissões radioeléctricas autorizadas nos termos do re
 
 3. O transporte e distribuição de correspondências postais destinadas a autoridades ou particulares não podem ser feitos pelo pessoal das sociedades ou empresas de caminho de ferro, de navegação marítima ou aérea, ou outras semelhantes, sem intervenção dos C. T. T. U.
 
-###### Art. 28.º Os serviços que constituem monopólio do Estado, nos termos do artigo anterior, são exclusivamente desempenhados por intermédio dos órgãos a que se refere o capítulo IX, salvo quando por lei especial seja determinado o contrário.
+Art. 28.º Os serviços que constituem monopólio do Estado, nos termos do artigo anterior, são exclusivamente desempenhados por intermédio dos órgãos a que se refere o capítulo IX, salvo quando por lei especial seja determinado o contrário.
 
-###### Art. 29.º O estabelecimento de instalações de telecomunicações privadas independentes da rede geral da respectiva província, fora dos limites de uma habitação, propriedade rural, fábrica ou estabelecimento industrial ou comercial, quando não prejudique os interesses do Estado nem importe inconveniente para o público, pode ser objecto de autorização especial, dada nos termos do artigo 48.º
+Art. 29.º O estabelecimento de instalações de telecomunicações privadas independentes da rede geral da respectiva província, fora dos limites de uma habitação, propriedade rural, fábrica ou estabelecimento industrial ou comercial, quando não prejudique os interesses do Estado nem importe inconveniente para o público, pode ser objecto de autorização especial, dada nos termos do artigo 48.º
 
-###### Art. 30.º - 1. Consideram-se nulas e de nenhum efeito todas as concessões e autorizações nas matérias de que tratam os artigos 28.º e 29.º, feitas por qualquer corpo administrativo ou por qualquer entidade a quem o presente decreto não confira competência.
+Art. 30.º - 1. Consideram-se nulas e de nenhum efeito todas as concessões e autorizações nas matérias de que tratam os artigos 28.º e 29.º, feitas por qualquer corpo administrativo ou por qualquer entidade a quem o presente decreto não confira competência.
 
 2. Os corpos administrativos não podem intervir, directa ou indirectamente, na exploração das estações e redes dos C. T. T. U.
 
-###### Art. 31.º A venda pública de selos e outros valores postais pode ser objecto de licença, a conceder pelo director provincial ou chefe de repartição provincial dos C. T. T. U., tendo em vista as conveniências do público, sendo também da sua competência as licenças de utilização de máquinas de franquiar, nos termos do respectivo regulamento.
+Art. 31.º A venda pública de selos e outros valores postais pode ser objecto de licença, a conceder pelo director provincial ou chefe de repartição provincial dos C. T. T. U., tendo em vista as conveniências do público, sendo também da sua competência as licenças de utilização de máquinas de franquiar, nos termos do respectivo regulamento.
 
-###### Art. 32.º Os Governadores das províncias podem, em circunstâncias excepcionais, suspender temporariamente o serviço de algumas ou de todas as correspondências públicas - postais, por telecomunicações ou de outra espécie -, tanto nas linhas dos C. T. T. U. como nas das companhias dos caminhos de ferro ou em quaisquer outras, comunicando imediatamente o facto ao Ministro do Ultramar.
+Art. 32.º Os Governadores das províncias podem, em circunstâncias excepcionais, suspender temporariamente o serviço de algumas ou de todas as correspondências públicas - postais, por telecomunicações ou de outra espécie -, tanto nas linhas dos C. T. T. U. como nas das companhias dos caminhos de ferro ou em quaisquer outras, comunicando imediatamente o facto ao Ministro do Ultramar.
 
 ### CAPÍTULO IV — Do estabelecimento e exploração
 
-###### Art. 33.º A criação, abertura, classificação e encerramento de estações ou postos postais, e/ou de telecomunicações e ambulâncias postais são feitos por alvará, assinado pelo director provincial ou chefe de repartição provincial dos C. T. T. U.
+Art. 33.º A criação, abertura, classificação e encerramento de estações ou postos postais, e/ou de telecomunicações e ambulâncias postais são feitos por alvará, assinado pelo director provincial ou chefe de repartição provincial dos C. T. T. U.
 
-###### Art. 34.º Podem ser estabelecidas ambulâncias postais nos comboios dos caminhos de ferro e a bordo dos navios que escalem regularmente os portos das províncias ultramarinas, bem como em meios de transporte apropriados no interior de cada província.
+Art. 34.º Podem ser estabelecidas ambulâncias postais nos comboios dos caminhos de ferro e a bordo dos navios que escalem regularmente os portos das províncias ultramarinas, bem como em meios de transporte apropriados no interior de cada província.
 
-###### Art. 35.º - 1. Os C. T. T. U. devem aproveitar, para a condução das malas postais, todos os meios de transporte terrestres, marítimos, fluviais ou aéreos existentes, por forma que as comunicações postais sejam tão rápidas, regulares e eficientes quanto possível.
+Art. 35.º - 1. Os C. T. T. U. devem aproveitar, para a condução das malas postais, todos os meios de transporte terrestres, marítimos, fluviais ou aéreos existentes, por forma que as comunicações postais sejam tão rápidas, regulares e eficientes quanto possível.
 
 2. Para efeitos do disposto no número anterior, quando os meios de transporte a utilizar pertençam a empresas ou simples particulares, o transporte das malas deve ser ajustado por meio de contrato, se outra forma não estiver prevista.
 
 3. Os contratos referidos no número anterior realizam-se por meio de concurso público, nos termos fixados pelos regulamentos, podendo cada arrematação limitar-se a uma ou mais carreiras ou a todas as que interessem determinada região de uma província, e, quando as circunstâncias do serviço o exigirem, dispensar-se as formalidades do concurso público, modificar-se as condições gerais da arrematação e fazer o respectivo contrato por ajuste particular.
 
-###### Art. 36.º - 1. Os serviços oficiais ou particulares dos caminhos de ferro nas províncias ultramarinas devem pôr, nas condições que forem estabelecidas, à disposição dos C. T. T. U. carruagens apropriadas para o serviço de ambulâncias postais.
+Art. 36.º - 1. Os serviços oficiais ou particulares dos caminhos de ferro nas províncias ultramarinas devem pôr, nas condições que forem estabelecidas, à disposição dos C. T. T. U. carruagens apropriadas para o serviço de ambulâncias postais.
 
 2. Nos comboios que não transportem ambulâncias postais serão postos à disposição dos C. T. T. U., nas condições que forem estabelecidas, os compartimentos adequados à condução das malas postais, manipulação das correspondências e acomodação dos empregados que as acompanhem.
 
-###### Art. 37.º Os capitães ou mestres de navios ou embarcações e os comandantes das aeronaves nacionais de qualquer espécie são obrigados a transportar, nas condições já estabelecidas ou a estabelecer, as malas do correio e encomendas postais que lhes forem confiadas nos portos e aeroportos portugueses de partida, escala ou arribada e a entregá-las no seu destino imediatamente após a visita alfandegária, não sendo permitida a saída das embarcações ou aeronaves pelas autoridades competentes, sem o cumprimento das formalidades de natureza postal legalmente aplicáveis e sendo os mesmos capitães ou mestres e comandantes e, bem assim, os donos, agentes ou consignatários dos navios e aeronaves responsáveis pelas infracções dos regulamentos postais cometidos a bordo.
+Art. 37.º Os capitães ou mestres de navios ou embarcações e os comandantes das aeronaves nacionais de qualquer espécie são obrigados a transportar, nas condições já estabelecidas ou a estabelecer, as malas do correio e encomendas postais que lhes forem confiadas nos portos e aeroportos portugueses de partida, escala ou arribada e a entregá-las no seu destino imediatamente após a visita alfandegária, não sendo permitida a saída das embarcações ou aeronaves pelas autoridades competentes, sem o cumprimento das formalidades de natureza postal legalmente aplicáveis e sendo os mesmos capitães ou mestres e comandantes e, bem assim, os donos, agentes ou consignatários dos navios e aeronaves responsáveis pelas infracções dos regulamentos postais cometidos a bordo.
 
-###### Art. 38.º - 1. Aos navios de grande curso ou de grande cabotagem, nacionais ou estrangeiros, que façam escala regular nos portos das províncias ultramarinas, pode ser concedida a patente de paquete.
+Art. 38.º - 1. Aos navios de grande curso ou de grande cabotagem, nacionais ou estrangeiros, que façam escala regular nos portos das províncias ultramarinas, pode ser concedida a patente de paquete.
 
 2. Os navios a que tenha sido concedida patente de paquete na metrópole ou numa província ultramarina são considerados paquetes nas outras províncias, devendo no segundo caso ser dado conhecimento ao Ministério do Ultramar.
 
-###### Art. 39.º As patentes de paquete são conferidas pelos directores provinciais ou chefes de repartição provincial dos C. T. T. U., em face de requerimento em que se declare, além dos nomes dos navios e portos de escala, que as autoridades de bordo se sujeitam a todas as prescrições dos regulamentos postais e se obrigam a pôr à disposição do correio o espaço conveniente e apropriado para a arrecadação dos volumes postais e a manipulação, em viagem, das correspondências, quando for necessário, e a reservar, nas condições que forem estabelecidas, transporte e acomodações em 1.ª ou 2.ª classe, conforme a categoria, aos funcionários encarregados do serviço postal a bordo.
+Art. 39.º As patentes de paquete são conferidas pelos directores provinciais ou chefes de repartição provincial dos C. T. T. U., em face de requerimento em que se declare, além dos nomes dos navios e portos de escala, que as autoridades de bordo se sujeitam a todas as prescrições dos regulamentos postais e se obrigam a pôr à disposição do correio o espaço conveniente e apropriado para a arrecadação dos volumes postais e a manipulação, em viagem, das correspondências, quando for necessário, e a reservar, nas condições que forem estabelecidas, transporte e acomodações em 1.ª ou 2.ª classe, conforme a categoria, aos funcionários encarregados do serviço postal a bordo.
 
-###### Art. 40.º Os navios que tiverem obtido patente de paquete gozam dos seguintes privilégios, sem prejuízo das preferências dadas aos navios nacionais e na medida das possibilidades das instalações portuárias:
+Art. 40.º Os navios que tiverem obtido patente de paquete gozam dos seguintes privilégios, sem prejuízo das preferências dadas aos navios nacionais e na medida das possibilidades das instalações portuárias:
 
 a) Preferência no registo, tanto à entrada como à saída do porto, e bem assim no ancoradouro;.
 
@@ -424,13 +476,13 @@ f) Despacho por entrada e saída, tanto aos domingos como nos dias feriados, sob
 
 g) Facilidades para os capitães se fazerem representar em todas as formalidades do expediente das alfândegas pelos seus agentes ou consignatários.
 
-###### Art. 41.º O transporte de malas faz-se nos termos das convenções, acordos e regulamentos nacionais e internacionais e dos acordos e contratos que forem negociados.
+Art. 41.º O transporte de malas faz-se nos termos das convenções, acordos e regulamentos nacionais e internacionais e dos acordos e contratos que forem negociados.
 
-###### Art. 42.º - 1. Para o estabelecimento de linhas, cabos e outros equipamentos de telecomunicações, instalações pneumáticas ou quaisquer outras, quer aéreas, quer subterrâneas, pertencentes aos C. T. T. U. e destinadas à permutação rápida de correspondências, podem aproveitar-se as ruas, praças, estradas, caminhos e cursos de água, bem como os caminhos de ferro e quaisquer vias de comunicação que sejam do domínio público, contanto que se respeite o fim a que é destinado esse domínio.
+Art. 42.º - 1. Para o estabelecimento de linhas, cabos e outros equipamentos de telecomunicações, instalações pneumáticas ou quaisquer outras, quer aéreas, quer subterrâneas, pertencentes aos C. T. T. U. e destinadas à permutação rápida de correspondências, podem aproveitar-se as ruas, praças, estradas, caminhos e cursos de água, bem como os caminhos de ferro e quaisquer vias de comunicação que sejam do domínio público, contanto que se respeite o fim a que é destinado esse domínio.
 
 2. Ficam, nestes casos, a cargo dos C. T. T. U. as reparações dos prejuízos causados pelos trabalhos da construção ou da reparação das instalações.
 
-###### Art. 43.º - 1. Para o estabelecimento das linhas e equipamentos a que se refere o artigo antecedente, podem os C. T. T. U.:
+Art. 43.º - 1. Para o estabelecimento das linhas e equipamentos a que se refere o artigo antecedente, podem os C. T. T. U.:
 
 a) Colocar postes e outros apoios em terrenos pertencentes a particulares;
 
@@ -450,43 +502,43 @@ e) Estabelecer condutores subterrâneos através de terrenos particulares.
 
 5. O estabelecimento das linhas de telecomunicações ao longo das vias férreas deve fazer-se por forma que não prejudique os serviços de exploração e segurança dos comboios, e o das linhas aéreas, nas ruas e praças, por forma que não prejudique a boa aparência dos monumentos e edifícios públicos ou particulares.
 
-###### Art. 44.º - 1. Os proprietários dos terrenos onde se achem estabelecidas linhas aéreas de telecomunicações dos C. T. T. U. ou declaradas de utilidade pública e os dos terrenos confinantes com quaisquer vias de comunicação ao longo das quais estejam estabelecidas as referidas linhas são obrigados a não consentir nem conservar neles plantações que possam prejudicar aquelas linhas na sua exploração.
+Art. 44.º - 1. Os proprietários dos terrenos onde se achem estabelecidas linhas aéreas de telecomunicações dos C. T. T. U. ou declaradas de utilidade pública e os dos terrenos confinantes com quaisquer vias de comunicação ao longo das quais estejam estabelecidas as referidas linhas são obrigados a não consentir nem conservar neles plantações que possam prejudicar aquelas linhas na sua exploração.
 
 2. Igual obrigação incumbe aos serviços públicos.
 
-###### Art. 45.º Os Governadores das províncias podem declarar a expropriação, por utilidade pública, dos terrenos cuja aquisição se torne necessária para o estabelecimento de quaisquer estações, linhas, cabos e outros equipamentos e instalações pertencentes aos C. T. T. U.
+Art. 45.º Os Governadores das províncias podem declarar a expropriação, por utilidade pública, dos terrenos cuja aquisição se torne necessária para o estabelecimento de quaisquer estações, linhas, cabos e outros equipamentos e instalações pertencentes aos C. T. T. U.
 
-###### Art. 46.º - 1. Os proprietários ou locatários de terrenos ou edifícios aproveitados para os fins indicados no n.º 1 do artigo 44.º são obrigados a permitir o acesso às suas propriedades a quaisquer pessoas encarregadas do estudo, construção ou reparação das instalações e a consentir a sua permanência nos prédios enquanto durarem os trabalhos.
+Art. 46.º - 1. Os proprietários ou locatários de terrenos ou edifícios aproveitados para os fins indicados no n.º 1 do artigo 44.º são obrigados a permitir o acesso às suas propriedades a quaisquer pessoas encarregadas do estudo, construção ou reparação das instalações e a consentir a sua permanência nos prédios enquanto durarem os trabalhos.
 
 2. Os proprietários ou locatários serão sempre indemnizados dos eventuais prejuízos provenientes desses trabalhos, pertencendo aos tribunais ordinários a decisão dos pleitos relativos a estas indemnizações, no caso de desacordo.
 
-###### Art. 47.º Os direitos conferidos aos C. T. T. U. pelos artigos 42.º a 45.º não podem ser transferidos para as empresas ou indivíduos concessionários das autorizações a que se refere o artigo 29.º nem aplicados ao estabelecimento de quaisquer instalações que não sejam exploradas pelos C. T. T. U., salvo quando se tratar das que forem montadas por particulares em virtude de concessão com a declaração de utilidade pública.
+Art. 47.º Os direitos conferidos aos C. T. T. U. pelos artigos 42.º a 45.º não podem ser transferidos para as empresas ou indivíduos concessionários das autorizações a que se refere o artigo 29.º nem aplicados ao estabelecimento de quaisquer instalações que não sejam exploradas pelos C. T. T. U., salvo quando se tratar das que forem montadas por particulares em virtude de concessão com a declaração de utilidade pública.
 
-###### Art. 48.º - 1. As autorizações a que se refere o artigo 29.º deste diploma são dadas por portaria provincial.
+Art. 48.º - 1. As autorizações a que se refere o artigo 29.º deste diploma são dadas por portaria provincial.
 
 2. Da portaria a que se refere o número anterior constarão todas as condições que se julgue necessário impor, incluindo as respectivas taxas.
 
-###### Art. 49.º As estações e linhas de telecomunicações dos caminhos de ferro do Estado podem ser aproveitadas para o serviço telegráfico público interno, pela forma que os Governadores das províncias fixarem em diploma especial, devendo, contudo, ser respeitadas as regras de exploração, execução e fiscalização dos serviços estabelecidas nos regulamentos de telecomunicações, nacionais e internacionais, em vigor.
+Art. 49.º As estações e linhas de telecomunicações dos caminhos de ferro do Estado podem ser aproveitadas para o serviço telegráfico público interno, pela forma que os Governadores das províncias fixarem em diploma especial, devendo, contudo, ser respeitadas as regras de exploração, execução e fiscalização dos serviços estabelecidas nos regulamentos de telecomunicações, nacionais e internacionais, em vigor.
 
-###### Art. 50.º As linhas ou redes de telecomunicações que tenham de ser estabelecidas para o serviço de incêndios e outros serviços de carácter municipal ficam a cargo dos respectivos corpos administrativos, mas só podem ser montadas mediante autorização do Governador da província, dada por intermédio dos C. T. T. U., aos quais compete sempre a respectiva fiscalização.
+Art. 50.º As linhas ou redes de telecomunicações que tenham de ser estabelecidas para o serviço de incêndios e outros serviços de carácter municipal ficam a cargo dos respectivos corpos administrativos, mas só podem ser montadas mediante autorização do Governador da província, dada por intermédio dos C. T. T. U., aos quais compete sempre a respectiva fiscalização.
 
-###### Art. 51.º As instalações a que se refere o artigo 29.º deste diploma ficam sujeitas à fiscalização do governo da província, que a exercerá por intermédio dos C. T. T. U., e ao pagamento das contribuições gerais impostas pelos corpos ou corporações administrativos, mas não podem ser obrigadas ao pagamento de impostos, taxas ou licenças especiais tributando o estabelecimento ou exploração das respectivas estações, linhas ou redes lançados por corpos ou corporações administrativos.
+Art. 51.º As instalações a que se refere o artigo 29.º deste diploma ficam sujeitas à fiscalização do governo da província, que a exercerá por intermédio dos C. T. T. U., e ao pagamento das contribuições gerais impostas pelos corpos ou corporações administrativos, mas não podem ser obrigadas ao pagamento de impostos, taxas ou licenças especiais tributando o estabelecimento ou exploração das respectivas estações, linhas ou redes lançados por corpos ou corporações administrativos.
 
 ### CAPÍTULO V — Do uso público
 
-###### Art. 52.º É permitido a todos fazer uso dos serviços públicos explorados pelos C. T. T. U. ou por empresa concessionária, observadas as restrições estabelecidas nos respectivos regulamentos.
+Art. 52.º É permitido a todos fazer uso dos serviços públicos explorados pelos C. T. T. U. ou por empresa concessionária, observadas as restrições estabelecidas nos respectivos regulamentos.
 
-###### Art. 53.º O sigilo das correspondências postais ou por telecomunicações importa a proibição absoluta de revelar o seu texto, bem como a de prestar indicações donde se possa depreender o sentido dele ou que possam conduzir ao seu descobrimento.
+Art. 53.º O sigilo das correspondências postais ou por telecomunicações importa a proibição absoluta de revelar o seu texto, bem como a de prestar indicações donde se possa depreender o sentido dele ou que possam conduzir ao seu descobrimento.
 
-###### Art. 54.º Nenhuma autoridade estranha aos C. T. T. U. poderá neles intervir, salvo sendo requisitada pelos respectivos empregados ou por causa de crimes praticados por eles ou contra eles durante o serviço, sendo expressamente proibido, sem ordem do Ministro do Ultramar ou do Governador da província:
+Art. 54.º Nenhuma autoridade estranha aos C. T. T. U. poderá neles intervir, salvo sendo requisitada pelos respectivos empregados ou por causa de crimes praticados por eles ou contra eles durante o serviço, sendo expressamente proibido, sem ordem do Ministro do Ultramar ou do Governador da província:
 
 a) Abrir inquéritos acerca do modo como são desempenhados os serviços dos C. T. T. U;
 
 b) Exercer qualquer espécie de intervenção em assuntos inerentes ao monopólio do Estado indicado neste decreto.
 
-###### Art. 55.º Quando para a formação do corpo de delito for necessário proceder ao exame de originais, cópias dos telegramas e fitas, as autoridades às quais competir a instrução do processo requisitarão aos C. T. T. U. onde existirem esses documentos a sua apresentação, indicando todos os elementos de que tiverem conhecimento, para facilidade da busca, e o dia e hora em que o exame deve verificar-se.
+Art. 55.º Quando para a formação do corpo de delito for necessário proceder ao exame de originais, cópias dos telegramas e fitas, as autoridades às quais competir a instrução do processo requisitarão aos C. T. T. U. onde existirem esses documentos a sua apresentação, indicando todos os elementos de que tiverem conhecimento, para facilidade da busca, e o dia e hora em que o exame deve verificar-se.
 
-###### Art. 56.º - 1. Os originais dos telegramas, fitas telegráficas e mais documentos relacionados com o sigilo das correspondências só podem ser patenteados às seguintes autoridades e funcionários públicos:
+Art. 56.º - 1. Os originais dos telegramas, fitas telegráficas e mais documentos relacionados com o sigilo das correspondências só podem ser patenteados às seguintes autoridades e funcionários públicos:
 
 a) Ministro do Ultramar;
 
@@ -518,19 +570,19 @@ n) Chefes das estações.
 
 3. A faculdade consignada neste artigo é restrita, em relação a cada autoridade ou funcionário, à área da sua jurisdição.
 
-###### Art. 57.º - 1. A nenhuma autoridade estranha aos C. T. T. U. é permitido abrir ou fazer abrir as malas ou sacos do correio, qualquer que seja o fundamento ou razão alegados.
+Art. 57.º - 1. A nenhuma autoridade estranha aos C. T. T. U. é permitido abrir ou fazer abrir as malas ou sacos do correio, qualquer que seja o fundamento ou razão alegados.
 
 2. Os regulamentos determinarão, porém, os casos em que, por suspeita fundamentada, essa abertura deve ser feita, perante alguma autoridade, pelos empregados dos C. T. T. U.
 
-###### Art. 58.º - 1. As correspondências postais e telegráficas, enquanto não chegarem às mãos dos destinatários, pertencem aos remetentes, salvo as disposições expressas nos regulamentos.
+Art. 58.º - 1. As correspondências postais e telegráficas, enquanto não chegarem às mãos dos destinatários, pertencem aos remetentes, salvo as disposições expressas nos regulamentos.
 
 2. O remetente das correspondências postais e telegráficas, provada a sua identidade, tem direito, nos termos regulamentares, a retirar ou suspender a sua transmissão ou entrega e a rectificar o respectivo endereço.
 
 3. A administração reserva-se o direito de afixar ou permitir que sejam afixados nos invólucros das cartas ou outras correspondências etiquetas ou carimbos com anúncios, nos termos que serão designados em regulamento especial.
 
-###### Art. 59.º As cartas caídas em refugo terão o destino indicado nos regulamentos.
+Art. 59.º As cartas caídas em refugo terão o destino indicado nos regulamentos.
 
-###### Art. 60.º - 1. Os Governadores das províncias podem ordenar que os expedidores ou os apresentadores de correspondências postais e telegramas contrários à moral e à ordem pública, obrigatoriamente apreendidos, sejam perseguidos e entregues ao Poder Judicial como agentes dos crimes e delitos contidos nas expressões empregadas, não se modificando a responsabilidade criminal do expedidor e do apresentante pelo facto da sustação de transmissão ou de entrega de um telegrama ao destinatário.
+Art. 60.º - 1. Os Governadores das províncias podem ordenar que os expedidores ou os apresentadores de correspondências postais e telegramas contrários à moral e à ordem pública, obrigatoriamente apreendidos, sejam perseguidos e entregues ao Poder Judicial como agentes dos crimes e delitos contidos nas expressões empregadas, não se modificando a responsabilidade criminal do expedidor e do apresentante pelo facto da sustação de transmissão ou de entrega de um telegrama ao destinatário.
 
 2. Igual procedimento poderá ser ordenado contra os utentes dos telefones ou de aparelhos telegráficos que nas suas comunicações usem expressões contrárias à moral e à ordem pública, independentemente da imediata retirada do aparelho telefónico ou telegráfico do assinante, sem ser devida qualquer indemnização.
 
@@ -538,7 +590,7 @@ n) Chefes das estações.
 
 ### CAPÍTULO VI — Das taxas
 
-###### Art. 61.º - 1. O Ministro do Ultramar fixará as taxas dos serviços postais e das telecomunicações nas relações entre as províncias e destas com países estrangeiros, de harmonia com as convenções, acordos, regulamentos e outros diplomas em vigor.
+Art. 61.º - 1. O Ministro do Ultramar fixará as taxas dos serviços postais e das telecomunicações nas relações entre as províncias e destas com países estrangeiros, de harmonia com as convenções, acordos, regulamentos e outros diplomas em vigor.
 
 2. O Ministro do Ultramar, ouvido o Ministro das Comunicações, fixará também as taxas dos serviços postais e de telecomunicações nas relações entre as províncias e a metrópole.
 
@@ -546,7 +598,7 @@ n) Chefes das estações.
 
 4. Além das taxas referidas nos n.os 1 a 3 do presente artigo, nenhuns outros encargos ou taxas poderão onerar as correspondências postais e de telecomunicações, salvo os direitos, impostos e imposições aduaneiras que forem contados nos termos das leis aplicáveis e os selos fiscais devidos de harmonia com o regulamento e tabela do imposto do selo em vigor.
 
-###### Art. 62.º - 1. O tráfego postal e por telecomunicações privativo dos C. T. T. U. está isento de todas as taxas, incluindo as sobretaxas aéreas.
+Art. 62.º - 1. O tráfego postal e por telecomunicações privativo dos C. T. T. U. está isento de todas as taxas, incluindo as sobretaxas aéreas.
 
 2. São isentos de todas as taxas postais:
 
@@ -582,19 +634,19 @@ i) As correspondências postais franquiadas caídas em refugo devolvidas nos ter
 
 6. Quaisquer outras isenções de taxas postais ou telegráficas só podem ser estabelecidas por acto legislativo do Ministro do Ultramar.
 
-###### Art. 63.º São obrigatoriamente observadas nas províncias ultramarinas as isenções aceites nas convenções e acordos internacionais.
+Art. 63.º São obrigatoriamente observadas nas províncias ultramarinas as isenções aceites nas convenções e acordos internacionais.
 
-###### Art. 64.º Os equivalentes da moeda local de cada província ultramarina numa moeda diferente, para efeitos de cobrança de taxas e de pagamento de contas no serviço postal e de telecomunicações internacional, serão fixados pelo Ministro do Ultramar, segundo o câmbio em vigor e tendo em conta os encargos de transferência com margem para possíveis oscilações cambiais.
+Art. 64.º Os equivalentes da moeda local de cada província ultramarina numa moeda diferente, para efeitos de cobrança de taxas e de pagamento de contas no serviço postal e de telecomunicações internacional, serão fixados pelo Ministro do Ultramar, segundo o câmbio em vigor e tendo em conta os encargos de transferência com margem para possíveis oscilações cambiais.
 
 ### CAPÍTULO VII — Da responsabilidade do Estado
 
-###### Art. 65.º - 1. Os C. T. T. U. indemnizarão os seus utentes pela perda ou deterioração dos objectos e valores que manipulem e reembolsá-los-ão de taxas pagas por serviços total ou parcialmente não prestados ou prestados deficientemente, nos casos, condições e limites estabelecidos nas convenções, acordos, regulamentos e tabelas aplicáveis.
+Art. 65.º - 1. Os C. T. T. U. indemnizarão os seus utentes pela perda ou deterioração dos objectos e valores que manipulem e reembolsá-los-ão de taxas pagas por serviços total ou parcialmente não prestados ou prestados deficientemente, nos casos, condições e limites estabelecidos nas convenções, acordos, regulamentos e tabelas aplicáveis.
 
 2. Quando a responsabilidade da indemnização ou reembolso couber a outra entidade com ou através da qual são executados os serviços, os C. T. T. U. promoverão junto dela todas as diligências necessárias até à ultimação do pagamento ao interessado.
 
 3. O disposto no n.º 1 aplica-se também às perdas e deteriorações ocorridas nos meios de transporte utilizados pelos C. T. T. U., tenham ou não estes últimos recurso a indemnização por parte da entidade transportadora.
 
-###### Art. 66.º - 1. Não há lugar a indemnizações pelos prejuízos indirectos ou consequências da perda ou deterioração de objectos e valores ou de serviços total ou parcialmente não prestados ou prestados deficientemente.
+Art. 66.º - 1. Não há lugar a indemnizações pelos prejuízos indirectos ou consequências da perda ou deterioração de objectos e valores ou de serviços total ou parcialmente não prestados ou prestados deficientemente.
 
 2. O direito a indemnização ou reembolso não existe ou cessa:
 
@@ -616,47 +668,47 @@ h) Em casos de força maior, como guerra, revolta, incêndio, naufrágio, inunda
 
 i) Noutros casos previstos nos regulamentos.
 
-###### Art. 67.º Os C. T. T. U. ficam sub-rogados nos direitos das pessoas indemnizadas logo que paguem as indemnizações.
+Art. 67.º Os C. T. T. U. ficam sub-rogados nos direitos das pessoas indemnizadas logo que paguem as indemnizações.
 
 ### CAPÍTULO VIII — Da protecção penal
 
-###### Art. 68.º - 1. Os crimes de destruição ou danificação de estações ou receptáculos postais, postes, linhas, cabos, aparelhos ou estações de telecomunicações, incluindo centrais, centros e terminais, bem como de oposição, com violência ou ameaça, ao seu estabelecimento e reparação, serão punidos nos termos do Código Penal, ficando o agente obrigado a indemnizações pelos danos causados.
+Art. 68.º - 1. Os crimes de destruição ou danificação de estações ou receptáculos postais, postes, linhas, cabos, aparelhos ou estações de telecomunicações, incluindo centrais, centros e terminais, bem como de oposição, com violência ou ameaça, ao seu estabelecimento e reparação, serão punidos nos termos do Código Penal, ficando o agente obrigado a indemnizações pelos danos causados.
 
 2. Quando os crimes referidos no n.º 1 sejam praticados por negligência, inadvertência ou inconsideração do agente, a pena aplicável será a de multa até 2500$00, ou quantia equivalente em moeda local, além das despesas de reparação, se as houver.
 
-###### Art. 69.º - 1. A falsificação e emissão fraudulenta de selos e mais fórmulas de franquia, o rompimento, subtracção e violação das malas e das correspondências postais e telegráficas, os danos causados pela transgressão das leis e regulamentos dos C. T. T. U. e quaisquer outros actos cometidos contra os referidos serviços, declarados puníveis pela lei penal, serão punidos nos termos dessa lei.
+Art. 69.º - 1. A falsificação e emissão fraudulenta de selos e mais fórmulas de franquia, o rompimento, subtracção e violação das malas e das correspondências postais e telegráficas, os danos causados pela transgressão das leis e regulamentos dos C. T. T. U. e quaisquer outros actos cometidos contra os referidos serviços, declarados puníveis pela lei penal, serão punidos nos termos dessa lei.
 
 2. As contravenções das disposições das convenções, acordos, regulamentos e outros diplomas relativos aos C. T. T. U. serão punidas pela forma como estiver estabelecido nos mesmos diplomas.
 
-###### Art. 70.º Aquele que por qualquer forma embaraçar o transporte das malas postais ou o serviço do distribuição das correspondências postais ou telegráficas, ainda que não seja com a intenção de subtrair ou devassar aquelas correspondências, incorrerá na pena de um a seis meses de prisão correccional ou de multa até 50000$00, ou quantia equivalente em moeda local.
+Art. 70.º Aquele que por qualquer forma embaraçar o transporte das malas postais ou o serviço do distribuição das correspondências postais ou telegráficas, ainda que não seja com a intenção de subtrair ou devassar aquelas correspondências, incorrerá na pena de um a seis meses de prisão correccional ou de multa até 50000$00, ou quantia equivalente em moeda local.
 
-###### Art. 71.º - 1. Os proprietários ou locatários de terrenos ou edifícios que, depois de avisados, impedirem ou embaraçarem a colocação, reparação ou desmontagem dos receptáculos postais ou de linhas, cabos e outros equipamentos de telecomunicações dos C. T. T. U. ou declaradas de utilidade pública, ou se opuserem aos respectivos estudos, serão punidos como agentes do crime de desobediência qualificada.
+Art. 71.º - 1. Os proprietários ou locatários de terrenos ou edifícios que, depois de avisados, impedirem ou embaraçarem a colocação, reparação ou desmontagem dos receptáculos postais ou de linhas, cabos e outros equipamentos de telecomunicações dos C. T. T. U. ou declaradas de utilidade pública, ou se opuserem aos respectivos estudos, serão punidos como agentes do crime de desobediência qualificada.
 
 2. Os proprietários dos terrenos onde estejam estabelecidas linhas de telecomunicações pertencentes aos C. T. T. U. ou declaradas de utilidade pública e, ainda, os proprietários dos terrenos confinantes com quaisquer vias de comunicação ao longo das quais estejam estabelecidas as mesmas linhas, que consentirem ou conservarem neles plantações ou que, sem observância da formalidade estabelecida na última parte do n.º 3 do artigo 43.º, neles efectuem construções que possam prejudicar aquelas linhas ou a sua exploração e que, intimados, não destruírem as mesmas plantações ou construções, serão processados pelo crime de desobediência qualificada, podendo os C. T. T. U. mandá-las destruir.
 
-###### Art. 72.º Os directores, gerentes ou empregados de qualquer empresa individual ou colectiva que, em nome desta, ordenarem qualquer acto que seja considerado crime ou contravenção de disposições legais dos C. T. T. U. serão responsáveis civil e criminalmente por esse acto e a empresa será solidária com o seu agente no que respeita à responsabilidade civil.
+Art. 72.º Os directores, gerentes ou empregados de qualquer empresa individual ou colectiva que, em nome desta, ordenarem qualquer acto que seja considerado crime ou contravenção de disposições legais dos C. T. T. U. serão responsáveis civil e criminalmente por esse acto e a empresa será solidária com o seu agente no que respeita à responsabilidade civil.
 
-###### Art. 73.º Aquele que, sem autorização, estabelecer estações, postos, linhas ou outros sistemas de telecomunicações e estações ou receptáculos postais será processado pelo crime de desobediência qualificada e perderá o material de que se servir, o qual ficará sendo pertença dos C. T. T. U.
+Art. 73.º Aquele que, sem autorização, estabelecer estações, postos, linhas ou outros sistemas de telecomunicações e estações ou receptáculos postais será processado pelo crime de desobediência qualificada e perderá o material de que se servir, o qual ficará sendo pertença dos C. T. T. U.
 
-###### Art. 74.º Aquele que sem prévio consentimento transferir uma autorização dada nos termos dos artigos 29.º e 48.º perderá o material respectivo a favor dos C. T. T. U.
+Art. 74.º Aquele que sem prévio consentimento transferir uma autorização dada nos termos dos artigos 29.º e 48.º perderá o material respectivo a favor dos C. T. T. U.
 
-###### Art. 75.º - 1. Aquele que deixar de observar quaisquer condições gerais ou particulares relativas a uma autorização dada nos termos do artigo 48.º e não as cumprir no prazo de quarenta e oito horas depois de intimado, será processado pelo crime de desobediência qualificada, sendo cancelada a autorização, sem que derive deste procedimento qualquer direito de indemnização.
+Art. 75.º - 1. Aquele que deixar de observar quaisquer condições gerais ou particulares relativas a uma autorização dada nos termos do artigo 48.º e não as cumprir no prazo de quarenta e oito horas depois de intimado, será processado pelo crime de desobediência qualificada, sendo cancelada a autorização, sem que derive deste procedimento qualquer direito de indemnização.
 
 2. O material das instalações será apreendido e garantirá aos C. T. T. U. o pagamento que lhe for devido e só será entregue depois de pago o respectivo débito e todas as despesas consequentes feitas pelos mesmos serviços.
 
-###### Art. 76.º - 1. Os funcionários dos C. T. T. U. que por qualquer forma deixarem de guardar o sigilo profissional definido no presente diploma incorrerão nas penas que o Código Penal prescrever para tal crime e serão demitidos dos seus lugares.
+Art. 76.º - 1. Os funcionários dos C. T. T. U. que por qualquer forma deixarem de guardar o sigilo profissional definido no presente diploma incorrerão nas penas que o Código Penal prescrever para tal crime e serão demitidos dos seus lugares.
 
 2. Os empregados dos C. T. T. U. que não fizerem parte dos quadros e os indivíduos empregados temporariamente nos mesmos serviços são equiparados aos funcionários dos quadros para os efeitos do n.º 1 e de punição dos crimes por eles praticados.
 
-###### Art. 77.º - 1. O capitão ou mestre de navio nacional ou o comandante de aeronave nacional que à chegada aos portos ou aeroportos do seu destino ou escala não entregar as malas do correio e de encomendas postais que lhe tiverem sido confiadas incorrerá na multa de 12500$00 ou quantia equivalente em moeda local, aplicada pelo Governador da província por despacho lavrado no auto da ocorrência, ouvido o director provincial ou chefe da repartição provincial dos C. T. T. U.
+Art. 77.º - 1. O capitão ou mestre de navio nacional ou o comandante de aeronave nacional que à chegada aos portos ou aeroportos do seu destino ou escala não entregar as malas do correio e de encomendas postais que lhe tiverem sido confiadas incorrerá na multa de 12500$00 ou quantia equivalente em moeda local, aplicada pelo Governador da província por despacho lavrado no auto da ocorrência, ouvido o director provincial ou chefe da repartição provincial dos C. T. T. U.
 
 2. O dono, agente ou consignatário do navio ou aeronave é sempre responsável pela multa imposta, quando não for paga pelo capitão, mestre ou comandante.
 
-###### Art. 78.º - 1. Aquele que, autorizado a vender selos e outras fórmulas de franquia, efectuar a venda por preços superiores aos fixados incorrerá na pena de seis dias a um mês de prisão correccional e ser-lhe-á cancelada a autorização.
+Art. 78.º - 1. Aquele que, autorizado a vender selos e outras fórmulas de franquia, efectuar a venda por preços superiores aos fixados incorrerá na pena de seis dias a um mês de prisão correccional e ser-lhe-á cancelada a autorização.
 
 2. Àquele que, sem autorização, vender habitualmente selos e outras fórmulas de franquia ser-lhe-ão apreendidos os valores que tiver à venda e incorrerá em multa correspondente ao décuplo do seu valor.
 
-###### Art. 79.º - 1. Àquele que de uma localidade para outra efectuar o transporte de correspondências fora das condições permitidas nos regulamentos, e em contravenção do disposto na alínea a) do n.º 1 do artigo 27.º do presente decreto, será aplicada multa equivalente a cem vezes o porte que lhe corresponder como se fossem cartas não fraquiadas.
+Art. 79.º - 1. Àquele que de uma localidade para outra efectuar o transporte de correspondências fora das condições permitidas nos regulamentos, e em contravenção do disposto na alínea a) do n.º 1 do artigo 27.º do presente decreto, será aplicada multa equivalente a cem vezes o porte que lhe corresponder como se fossem cartas não fraquiadas.
 
 2. As mesmas correspondências, quando franquiadas, mas com os selos não inutilizados pela estação postal de procedência, serão consideradas como não tendo franquia.
 
@@ -666,15 +718,15 @@ i) Noutros casos previstos nos regulamentos.
 
 5. Incorrerão na pena do n.º 1 os capitães, mestres, comandantes, tripulantes e passageiros de qualquer meio de transporte, nacional ou estrangeiro, aos quais, no acto da visita da alfândega ou saúde, forem encontradas, não manifestadas, correspondências cujo transporte e distribuição constituam monopólio do Estado.
 
-###### Art. 80.º As autoridades ou os funcionários que nas cartas ou nos maços de serviço público incluírem correspondências particulares incorrerão na pena de multa que for fixada pelo Governador da província, sob proposta do director provincial ou chefe da repartição provincial dos C. T. T. U.
+Art. 80.º As autoridades ou os funcionários que nas cartas ou nos maços de serviço público incluírem correspondências particulares incorrerão na pena de multa que for fixada pelo Governador da província, sob proposta do director provincial ou chefe da repartição provincial dos C. T. T. U.
 
-###### Art. 81.º As importâncias relativas às taxas, portes, multas, indemnizações ou a qualquer outro serviço ou penalidade devidas nos termos deste decreto, convenções, acordos, regulamentos ou outros diplomas legais, quando não pagas voluntariamente pelos responsáveis, serão cobradas pelo processo das execuções fiscais, o qual terá por base a conta formulada pelos C. T. T. U., se outro procedimento especial não estiver previsto nos respectivos diplomas.
+Art. 81.º As importâncias relativas às taxas, portes, multas, indemnizações ou a qualquer outro serviço ou penalidade devidas nos termos deste decreto, convenções, acordos, regulamentos ou outros diplomas legais, quando não pagas voluntariamente pelos responsáveis, serão cobradas pelo processo das execuções fiscais, o qual terá por base a conta formulada pelos C. T. T. U., se outro procedimento especial não estiver previsto nos respectivos diplomas.
 
 ### CAPÍTULO IX — Da orgânica
 
 #### SECÇÃO I — Da constituição dos serviços
 
-###### Art. 82.º - 1. Em Angola e Moçambique, as Direcções Provinciais dos C. T. T. U. são constituídas por:
+Art. 82.º - 1. Em Angola e Moçambique, as Direcções Provinciais dos C. T. T. U. são constituídas por:
 
 a) Serviços centrais, com acção em toda a área da província;
 
@@ -692,7 +744,7 @@ podendo os Governadores criar departamentos regionais, mediante proposta do cons
 
 #### SECÇÃO II — Dos serviços centrais
 
-###### Art. 83.º - 1. Os serviços centrais de Angola e Moçambique dividem-se em:
+Art. 83.º - 1. Os serviços centrais de Angola e Moçambique dividem-se em:
 
 Secretaria Central
 
@@ -866,11 +918,11 @@ a) O museu dos C. T. T. U., quando existir, ficará a cargo do 1.º Departamento
 
 b) Os serviços notariais ficarão a cargo da Secretaria Central, nas províncias de Angola e Moçambique, e da Secretaria, nas restantes províncias.
 
-###### Art. 84.º - 1. Além dos órgãos a que se refere o artigo 83.º e sem prejuízo da estrutura nele definida, poderão ser criados pelo Governador, sob proposta do conselho de administração, os órgãos que se mostrarem necessários para o bom funcionamento dos serviços.
+Art. 84.º - 1. Além dos órgãos a que se refere o artigo 83.º e sem prejuízo da estrutura nele definida, poderão ser criados pelo Governador, sob proposta do conselho de administração, os órgãos que se mostrarem necessários para o bom funcionamento dos serviços.
 
 2. Nos decretos provinciais respectivos serão definidas a constituição e atribuições dos órgãos que forem criados.
 
-###### Art. 85.º - 1. Os serviços centrais das províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor dividem-se em:
+Art. 85.º - 1. Os serviços centrais das províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor dividem-se em:
 
 Secretaria;
 
@@ -910,11 +962,11 @@ Sector industrial.
 
 4. Os departamentos criados ao abrigo do número anterior serão chefiados, em regra, por directores de 3.ª classe.
 
-###### Art. 86.º Nas províncias onde existir o serviço da caixa económica postal, esta constituirá uma secção distinta, integrando-se no 1.º Departamento, se este existir.
+Art. 86.º Nas províncias onde existir o serviço da caixa económica postal, esta constituirá uma secção distinta, integrando-se no 1.º Departamento, se este existir.
 
 #### SECÇÃO III — Dos laboratórios, dos depósitos de materiais, das oficinas, das bibliotecas e dos museus
 
-###### Art. 87.º - 1. Na sede das direcções provinciais e repartições provinciais poderão funcionar laboratórios privativos, aos quais incumbirá, nomeadamente:
+Art. 87.º - 1. Na sede das direcções provinciais e repartições provinciais poderão funcionar laboratórios privativos, aos quais incumbirá, nomeadamente:
 
 a) A verificação e reparação técnica dos maquinismos, aparelhos, instrumentos, utensílios e materiais adquiridos e instalados nas várias dependências dos serviços;
 
@@ -924,7 +976,7 @@ b) A realização de exames, análises, experiências e quaisquer outros estudos
 
 3. Em Angola e Moçambique os laboratórios funcionarão sob a orientação técnica das direcções dos serviços técnicos.
 
-###### Art. 88.º - 1. Nas sedes das direcções provinciais e repartições provinciais funciona um depósito de materiais, ao qual incumbe:
+Art. 88.º - 1. Nas sedes das direcções provinciais e repartições provinciais funciona um depósito de materiais, ao qual incumbe:
 
 a) A arrecadação e conservação de maquinismos, aparelhos, instrumentos, combustíveis e lubrificantes, mobiliário, utensílios, impressos e artigos de expediente e outros materiais;
 
@@ -934,7 +986,7 @@ c) A escrituração do movimento do depósito e elaboração do respectivo inven
 
 2. Quando as necessidades do serviço o exigirem, poderão, nos órgãos regionais e distritais, existir depósitos ou armazéns de materiais agregados aos órgãos técnicos industriais.
 
-###### Art. 89.º - 1. Nas sedes das direcções e repartições provinciais poderão funcionar oficinas privativas, às quais incumbirá:
+Art. 89.º - 1. Nas sedes das direcções e repartições provinciais poderão funcionar oficinas privativas, às quais incumbirá:
 
 a) A construção e reparação dos maquinismos, aparelhos, instrumentos, utensílios, móveis e outros artigos;
 
@@ -944,7 +996,7 @@ c) A escrituração do movimento e trabalhos das oficinas.
 
 2. Quando as necessidades do serviço o exigirem, poderão existir oficinas nos órgãos regionais e distritais.
 
-###### Art. 90.º Nas sedes das direcções e repartições provinciais há uma biblioteca privativa, à qual incumbe:
+Art. 90.º Nas sedes das direcções e repartições provinciais há uma biblioteca privativa, à qual incumbe:
 
 a) A guarda e a conservação do Diário do Governo, Boletins Oficiais, boletins e guias oficiais dos CTT, compilações de legislação, publicações oficiais e das secretarias da União Postal Universal e da União Internacional de Telecomunicações, e bem assim dos livros, revistas e outras obras que interessem à instrução técnica e profissional do pessoal;
 
@@ -954,7 +1006,7 @@ c) O fornecimento, para consulta, das publicações, livros, etc., aos diversos 
 
 d) A escrituração do movimento da biblioteca.
 
-###### Art. 91.º - 1. Nas sedes das direcções e repartições provinciais poderá existir um museu privativo, ao qual incumbirá:
+Art. 91.º - 1. Nas sedes das direcções e repartições provinciais poderá existir um museu privativo, ao qual incumbirá:
 
 a) Reunir, restaurar, arrumar e conservar os utensílios, aparelhos, instrumentos, carimbos e outros objectos que possam interessar ao conhecimento da história dos correios, telégrafos e telefones e demonstrar a sua evolução;
 
@@ -964,7 +1016,7 @@ c) A organização de folhetos, catálogos e inventários dos artigos à sua gua
 
 #### SECÇÃO IV — Dos serviços regionais
 
-###### Art. 92.º - 1. Nas províncias de Angola e Moçambique, os serviços regionais podem ser desempenhados por direcções ou repartições regionais, repartições distritais e departamentos distritais, cujo número, localização, área de jurisdição, constituição e atribuições serão fixados pelo Governador-Geral, sob proposta do conselho de administração.
+Art. 92.º - 1. Nas províncias de Angola e Moçambique, os serviços regionais podem ser desempenhados por direcções ou repartições regionais, repartições distritais e departamentos distritais, cujo número, localização, área de jurisdição, constituição e atribuições serão fixados pelo Governador-Geral, sob proposta do conselho de administração.
 
 2. A repartição ou departamento distrital, de área em regra circunscrita à de um distrito, poderá abranger estações de dois ou mais distritos quando o seu número e movimento o justifiquem.
 
@@ -972,11 +1024,11 @@ c) A organização de folhetos, catálogos e inventários dos artigos à sua gua
 
 4. A direcção ou repartição regional, de área abrangendo vários distritos, será criada quando a complexidade e importância dos serviços de determinada região imponham desconcentração diferente para os sectores administrativos, de exploração e técnicos.
 
-###### Art. 93.º No distrito cuja sede seja também a capital da província não existirão órgãos regionais, ficando as respectivas estações directamente subordinados aos serviços centrais.
+Art. 93.º No distrito cuja sede seja também a capital da província não existirão órgãos regionais, ficando as respectivas estações directamente subordinados aos serviços centrais.
 
 #### SECÇÃO V — Das estações e postos
 
-###### Art. 94.º - 1. A exploração dos C. T. T. U. é executada por estações, postos e outras dependências afectas aos referidos serviços.
+Art. 94.º - 1. A exploração dos C. T. T. U. é executada por estações, postos e outras dependências afectas aos referidos serviços.
 
 2. Quanto à natureza dos serviços que prestam, as estações e postos classificam-se em:
 
@@ -1014,13 +1066,13 @@ o) Posto de venda de selos.
 
 5. O serviço de vales poderá ser executado por secção especial.
 
-###### Art. 95.º Em localidade onde houver vários estações, a estação principal denomina-se «central» e será sempre de 1.ª classe, denominando-se as restantes «urbanas» da classe a que pertençam.
+Art. 95.º Em localidade onde houver vários estações, a estação principal denomina-se «central» e será sempre de 1.ª classe, denominando-se as restantes «urbanas» da classe a que pertençam.
 
-###### Art. 96.º - 1. A classificação ou nomenclatura técnica das estações de telecomunicações segundo os seus equipamentos técnicos, incluindo as que não têm relações com o público, quer para uso interno, quer para estatísticas, nomeadamente as publicadas pela União Internacional das Telecomunicações faz-se segundo as normas deste organismo.
+Art. 96.º - 1. A classificação ou nomenclatura técnica das estações de telecomunicações segundo os seus equipamentos técnicos, incluindo as que não têm relações com o público, quer para uso interno, quer para estatísticas, nomeadamente as publicadas pela União Internacional das Telecomunicações faz-se segundo as normas deste organismo.
 
 2. Para garantir a uniformidade de classificação na lista geral das estações e postos dos C. T. T. U., a editar pelos serviços do Ministério do Ultramar, e a possível analogia com a classificação observada nos CTT metropolitanos e com o eventual emprego de abreviaturas designativas, deverão os referidos serviços do Ministério do Ultramar emitir instruções.
 
-###### Art. 97.º As estações serão, em regra, chefiadas:
+Art. 97.º As estações serão, em regra, chefiadas:
 
 a) As centrais, por funcionários de categoria não inferior a primeiro-oficial ou equiparado;
 
@@ -1030,29 +1082,29 @@ c) As de 2.ª classe, por funcionários de categoria não inferir a operador ou 
 
 d) As de 3.ª classe, por funcionários de categoria não inferior a distribuidor de 1.ª classe ou equiparado.
 
-###### Art. 98.º Quando o condicionalismo local exigir o estabelecimento de estações de 3.ª classe de pequena importância ou de postos para que não haja disponível pessoal dos C. T. T. U., poderão o serviço e chefia dessas estações ou postos ser entregues a funcionário dos serviços de administração civil ou pessoa com idoneidade bastante, à qual deverá ser atribuída uma gratificação pelo Governador da província, sob proposta do conselho de administração.
+Art. 98.º Quando o condicionalismo local exigir o estabelecimento de estações de 3.ª classe de pequena importância ou de postos para que não haja disponível pessoal dos C. T. T. U., poderão o serviço e chefia dessas estações ou postos ser entregues a funcionário dos serviços de administração civil ou pessoa com idoneidade bastante, à qual deverá ser atribuída uma gratificação pelo Governador da província, sob proposta do conselho de administração.
 
-###### Art. 99.º Os postos podem ser instalados em estabelecimentos e recintos públicos ou privados - neste último caso com prévia autorização dos seus proprietários ou locatários -, de modo a permitirem a acomodação conveniente dos serviços e do público, cabendo-lhes em regra executar o serviço de correspondências ordinárias e o serviço telefónico.
+Art. 99.º Os postos podem ser instalados em estabelecimentos e recintos públicos ou privados - neste último caso com prévia autorização dos seus proprietários ou locatários -, de modo a permitirem a acomodação conveniente dos serviços e do público, cabendo-lhes em regra executar o serviço de correspondências ordinárias e o serviço telefónico.
 
 ### CAPÍTULO X — Da contabilidade, das tesourarias e dos exactores
 
 #### SECÇÃO I — Da contabilidade
 
-###### Art. 100.º A escrituração geral da contabilidade dos C. T. T. U. é centralizada nas repartições dos serviços financeiros em Angola e Moçambique e nos correspondentes órgãos nas restantes províncias, de acordo com o respectivo regulamento.
+Art. 100.º A escrituração geral da contabilidade dos C. T. T. U. é centralizada nas repartições dos serviços financeiros em Angola e Moçambique e nos correspondentes órgãos nas restantes províncias, de acordo com o respectivo regulamento.
 
-###### Art. 101.º Toda a receita, seja qual for a sua natureza, dará entrada nos cofres por meio de guias ou outros documentos, previamente liquidados, em que se descreva claramente a sua proveniência, sendo visados pelo chefe da repartição dos serviços financeiros nas províncias de Angola e Moçambique, ou dos correspondentes órgãos nas restantes províncias.
+Art. 101.º Toda a receita, seja qual for a sua natureza, dará entrada nos cofres por meio de guias ou outros documentos, previamente liquidados, em que se descreva claramente a sua proveniência, sendo visados pelo chefe da repartição dos serviços financeiros nas províncias de Angola e Moçambique, ou dos correspondentes órgãos nas restantes províncias.
 
-###### Art. 102.º - 1. Nenhuma despesa, seja qual for a sua natureza, poderá ser liquidada sem que esteja autorizada pelo conselho de administração.
+Art. 102.º - 1. Nenhuma despesa, seja qual for a sua natureza, poderá ser liquidada sem que esteja autorizada pelo conselho de administração.
 
 2. Dentro de quantitativos globais autorizados pelo conselho de administração, as autorizações de pagamento de despesas parciais são da competência do director provincial ou do chefe da repartição provincial, cumpridas as formalidades legais.
 
 3. As despesas de vencimentos e demais remunerações certas ao pessoal, e bem assim as de outra natureza consideradas urgentes ou inadiáveis ou que o conselho de administração reconheça como certas, podem ser realizadas sem sua autorização prévia, devendo contudo as que não respeitem a pessoal ser submetidas à sanção daquele conselho dentro do prazo que este fixar.
 
-###### Art. 103.º - 1. As contas da escrituração geral dos C. T. T. U. são encerradas, por balanço, no fim de cada ano civil.
+Art. 103.º - 1. As contas da escrituração geral dos C. T. T. U. são encerradas, por balanço, no fim de cada ano civil.
 
 #### SECÇÃO II — Das tesourarias
 
-###### Art. 104.º - 1. Na sede dos C. T. T. U. de cada província ultramarina e, quando tal for determinado por portaria do Governador, sob proposta do conselho de administração, na sede dos órgãos regionais e distritais de Angola e Moçambique, bem como nos órgãos regionais das restantes províncias, haverá uma tesouraria na directa dependência do órgão a que estiverem atribuídos os assuntos financeiros.
+Art. 104.º - 1. Na sede dos C. T. T. U. de cada província ultramarina e, quando tal for determinado por portaria do Governador, sob proposta do conselho de administração, na sede dos órgãos regionais e distritais de Angola e Moçambique, bem como nos órgãos regionais das restantes províncias, haverá uma tesouraria na directa dependência do órgão a que estiverem atribuídos os assuntos financeiros.
 
 2. Às tesourarias compete, designadamente:
 
@@ -1066,7 +1118,7 @@ d) Os depósitos e levantamentos bancários;
 
 e) O movimento dos valores da Caixa Económicas Postal, nas províncias onde exista, quando não houver tesouraria privativa desta.
 
-###### Art. 105.º - 1. São claviculários dos cofres principais das tesourarias:
+Art. 105.º - 1. São claviculários dos cofres principais das tesourarias:
 
 a) Na sede da direcção provincial dos serviços de Angola e Moçambique: o chefe do 2.º Departamento da Repartição dos Serviços Financeiros, o chefe da 3.ª Secção do mesmo Departamento e o tesoureiro;
 
@@ -1096,33 +1148,33 @@ g) Quando se verifique superiormente que por incúria ou desleixo não foi exerc
 
 #### SECÇÃO III — Dos exactores
 
-###### Art. 106.º - 1. Os tesoureiros, fiéis de depósito de materiais, chefes de estação de 1.ª e 2.ª classes e chefes das secções especiais de vales são considerados exactores e obrigados a prestar caução por meio de depósito em dinheiro, títulos de dívida pública, hipoteca ou seguro, ou ainda a requerimento dos interessados, por descontos mensais sucessivos e ininterruptos nos seus vencimentos, de montante correspondente a 10% desses vencimentos, até perfazerem a importância total da caução.
+Art. 106.º - 1. Os tesoureiros, fiéis de depósito de materiais, chefes de estação de 1.ª e 2.ª classes e chefes das secções especiais de vales são considerados exactores e obrigados a prestar caução por meio de depósito em dinheiro, títulos de dívida pública, hipoteca ou seguro, ou ainda a requerimento dos interessados, por descontos mensais sucessivos e ininterruptos nos seus vencimentos, de montante correspondente a 10% desses vencimentos, até perfazerem a importância total da caução.
 
 2. Nas estações centrais dos serviços dos C. T. T. U., sempre que pelo conselho de administração seja reconhecida essa necessidade, as funções de exactor poderão ser cometidas a funcionários com a categoria de primeiro-oficial de exploração, aos quais incumbirá a arrecadação e entrega de todas as receitas, podendo nas províncias de governo simples ser essas funções cometidas a funcionários com a categoria de segundo-oficial de exploração.
 
 3. As cauções dos exactores das estações centrais e de 1.ª e 2.ª classes, bem como das secções especiais de vales, serão prestadas por descontos mensais sucessivos e ininterruptos nos respectivos vencimentos, os quais começarão obrigatoriamente a partir do mês em que se iniciem as funções, salvo se o interessado requerer e pagar ou prestar a caução integral por qualquer das outras formas previstas no n.º 1 até à data em que tenha de entrar no exercício das respectivas funções.
 
-###### Art. 107.º Os quantitativos das cauções a que se refere o artigo anterior são fixados pelo conselho de administração, tendo em atenção o movimento da tesouraria, depósito de materiais, estação ou secção de vales em que o funcionário estiver colocado, ou das funções que lhe forem cometidas.
+Art. 107.º Os quantitativos das cauções a que se refere o artigo anterior são fixados pelo conselho de administração, tendo em atenção o movimento da tesouraria, depósito de materiais, estação ou secção de vales em que o funcionário estiver colocado, ou das funções que lhe forem cometidas.
 
-###### Art. 108.º Os funcionários que forem nomeados para os lugares e funções referidos nos n.os 1 e 2 do artigo 106.º só entrarão no exercício de funções depois de cumprido o preceituado sobre as cauções a que estiverem obrigados, sem prejuízo do estabelecido no n.º 3 do referido artigo.
+Art. 108.º Os funcionários que forem nomeados para os lugares e funções referidos nos n.os 1 e 2 do artigo 106.º só entrarão no exercício de funções depois de cumprido o preceituado sobre as cauções a que estiverem obrigados, sem prejuízo do estabelecido no n.º 3 do referido artigo.
 
-###### Art. 109.º - 1. As cauções dos funcionários, quando estes deixarem de ser exactores, serão restituídas ou anuladas, depois de julgadas extintas pelo Tribunal Administrativo e após autorização do conselho de administração.
+Art. 109.º - 1. As cauções dos funcionários, quando estes deixarem de ser exactores, serão restituídas ou anuladas, depois de julgadas extintas pelo Tribunal Administrativo e após autorização do conselho de administração.
 
 2. Quando um funcionário que exerça ou tenha exercido funções de exactor, para as quais descontou ou prestou caução, seja nomeado para exercer outra função de exactor, poderá a caução descontada ou prestada anteriormente ser transferida para garantia da nova função de exactor, desde que assim seja requerido pelo interessado e aprovado pelo conselho de administração.
 
-###### Art. 110.º - 1. O Fundo de Cauções, nas províncias onde existir, pode ser mantido ou extinto pelo Governador, sob proposta do conselho de administração, em conformidade com as garantias que ofereça.
+Art. 110.º - 1. O Fundo de Cauções, nas províncias onde existir, pode ser mantido ou extinto pelo Governador, sob proposta do conselho de administração, em conformidade com as garantias que ofereça.
 
 2. No caso de se manter o Fundo de Cauções, será dispensada a prestação de cauções prevista nos artigos anteriores.
 
-###### Art. 111.º As contas de responsabilidade serão organizadas, verificadas, registadas e relatadas nas condições estabelecidas pelo conselho de administração e enviadas directamente ao Tribunal Administrativo, para julgamento, nos prazos legais.
+Art. 111.º As contas de responsabilidade serão organizadas, verificadas, registadas e relatadas nas condições estabelecidas pelo conselho de administração e enviadas directamente ao Tribunal Administrativo, para julgamento, nos prazos legais.
 
-###### Art. 112.º - 1. O Governador não permitirá a saída de quaisquer exactores para fora da província sem que tenham sido organizadas as suas contas de responsabilidade, ou entregues todos os documentos necessários à sua organização, o que deverá constar de declaração feita em duplicado e passada pelas direcções ou repartições provinciais, sendo um dos exemplares entregue ao interessado.
+Art. 112.º - 1. O Governador não permitirá a saída de quaisquer exactores para fora da província sem que tenham sido organizadas as suas contas de responsabilidade, ou entregues todos os documentos necessários à sua organização, o que deverá constar de declaração feita em duplicado e passada pelas direcções ou repartições provinciais, sendo um dos exemplares entregue ao interessado.
 
 2. Excepcionalmente, e nos casos em que os exactores se encontrem em perigo iminente de vida, poderá o Governador, depois de ponderar esta circunstância e por seu despacho expresso, autorizar a saída do exactor independentemente da organização e verificação das suas contas de responsabilidade.
 
 3. Sempre que a saída do exactor seja autorizada nos termos do número antecedente, as respectivas contas de responsabilidade deverão ser imediatamente organizadas pela direcção ou repartição provincial dos C. T. T. U. e ter o subsequente andamento, devendo o Governador, se deste andamento resultar a verificação de alcance, comunicar imediatamente o facto ao Ministro do Ultramar, solicitando-lhe ao mesmo tempo as medidas que, resultantes do respectivo processo, forem julgadas necessárias, inclusive as respeitantes ao abono de vencimentos.
 
-###### Art. 113.º - 1. Para seus substitutos em impedimentos ocasionais e transitórios, os exactores deverão propor um funcionário dos C. T. T. U. de categoria não superior à sua, os quais actuarão sob a responsabilidade daqueles e não terão de prestar caução.
+Art. 113.º - 1. Para seus substitutos em impedimentos ocasionais e transitórios, os exactores deverão propor um funcionário dos C. T. T. U. de categoria não superior à sua, os quais actuarão sob a responsabilidade daqueles e não terão de prestar caução.
 
 2. Quando por qualquer motivo, nomeadamente licença graciosa, se prever demorado o impedimento transitório dos exactores, deve o director dos serviços administrativos e financeiros em Angola e Moçambique ou o chefe da repartição provincial nas restantes províncias mandar proceder a balanço dos valores à sua guarda e encerrar a respectiva conta de responsabilidade, dando-se início a novo período da responsabilidade de um substituto, designado nos termos legais e sujeito a caução.
 
@@ -1132,15 +1184,15 @@ g) Quando se verifique superiormente que por incúria ou desleixo não foi exerc
 
 ### CAPÍTULO XI — Da inspecção e fiscalização dos serviços
 
-###### Art. 114.º - 1. Nas províncias de Angola e Moçambique haverá inspecções provinciais com sede oficial em Luanda e Lourenço Marques.
+Art. 114.º - 1. Nas províncias de Angola e Moçambique haverá inspecções provinciais com sede oficial em Luanda e Lourenço Marques.
 
 2. Aos inspectores provinciais compete inspeccionar periodicamente os serviços dos C. T. T. U. da província onde têm a sede oficial e os das outras províncias, quando determinado por despacho do Ministro do Ultramar, elaborando, num caso e noutro, relatórios, que serão remetidos ao Ministério do Ultramar e ao governo da província interessada.
 
 3. A inspecção limitar-se-á normalmente aos serviços desempenhados depois da última inspecção e, salvo instruções em contrário dadas pelo Ministro do Ultramar ou pelo Governador, não irá além dos últimos cinco anos.
 
-###### Art. 115.º Quando se torne preciso verificar documentos que se encontrem afectos ou estejam arquivados em instâncias e tribunais, o inspector provincial deverá solicitar que lhe seja facultado o seu exame.
+Art. 115.º Quando se torne preciso verificar documentos que se encontrem afectos ou estejam arquivados em instâncias e tribunais, o inspector provincial deverá solicitar que lhe seja facultado o seu exame.
 
-###### Art. 116.º - 1. Quando, por virtude de assalto, roubo, furto ou ainda por qualquer circunstância anormal, forem destruídos, arrebatados ou extraviados documentos, valores ou dinheiro dos cofres dos C. T. T. U., proceder-se-á simultaneamente a inquérito e a balanço para se apurarem os valores que faltem.
+Art. 116.º - 1. Quando, por virtude de assalto, roubo, furto ou ainda por qualquer circunstância anormal, forem destruídos, arrebatados ou extraviados documentos, valores ou dinheiro dos cofres dos C. T. T. U., proceder-se-á simultaneamente a inquérito e a balanço para se apurarem os valores que faltem.
 
 2. No inquérito procurar-se-á averiguar se o funcionário a cargo de quem estavam o cofre ou cofres adoptava as precauções necessárias para acautelar os valores e se foi ou não alheio às causas que determinaram o seu descaminho.
 
@@ -1148,21 +1200,21 @@ g) Quando se verifique superiormente que por incúria ou desleixo não foi exerc
 
 4. Será anulada a importância dos documentos que não puderem ser substituídos por segunda via.
 
-###### Art. 117.º Quando os inspectores provinciais, ao realizarem uma inspecção, reconhecerem a conveniência de proceder a qualquer inquérito, deverão efectuá-lo independentemente de ordem superior.
+Art. 117.º Quando os inspectores provinciais, ao realizarem uma inspecção, reconhecerem a conveniência de proceder a qualquer inquérito, deverão efectuá-lo independentemente de ordem superior.
 
-###### Art. 118.º Aos inspectores provinciais, quando em serviço de inspecção, inquérito ou sindicância, será agregado um funcionário dos C. T. T. U. para os auxiliar nesses serviços como secretário.
+Art. 118.º Aos inspectores provinciais, quando em serviço de inspecção, inquérito ou sindicância, será agregado um funcionário dos C. T. T. U. para os auxiliar nesses serviços como secretário.
 
-###### Art. 119.º - 1. Os inspectores provinciais podem corresponder-se directamente com todas as entidades da província e, por intermédio do Governador, com o Ministro do Ultramar.
+Art. 119.º - 1. Os inspectores provinciais podem corresponder-se directamente com todas as entidades da província e, por intermédio do Governador, com o Ministro do Ultramar.
 
 2. Em matéria de serviço técnico, os inspectores provinciais podem também corresponder-se directamente com os departamentos do Ministério do Ultramar que se ocupam dos assuntos relativos aos C. T. T. U.
 
-###### Art. 120.º Os serviços decorrentes das inspecções serão executados numa secretaria, podendo os inspectores provinciais requisitar aos directores provinciais ou chefes das repartições provinciais o pessoal e o material que julgarem indispensável.
+Art. 120.º Os serviços decorrentes das inspecções serão executados numa secretaria, podendo os inspectores provinciais requisitar aos directores provinciais ou chefes das repartições provinciais o pessoal e o material que julgarem indispensável.
 
 ### CAPÍTULO XII
 
 Do «Boletim dos Correios e Telecomunicações»
 
-###### Art. 121.º - 1. Nas províncias onde o desenvolvimento dos C. T. T. U. o justifique, editar-se-á periodicamente um boletim designado Boletim dos Correios e Telecomunicações, que deverá conter:
+Art. 121.º - 1. Nas províncias onde o desenvolvimento dos C. T. T. U. o justifique, editar-se-á periodicamente um boletim designado Boletim dos Correios e Telecomunicações, que deverá conter:
 
 a) Sumários de leis, decretos-leis, decretos, diplomas legislativos, decretos provinciais e portarias, bem como os textos de convenções, acordos e regulamentos, quando a sua impressão não seja feita em separata;
 
@@ -1178,21 +1230,21 @@ e) Ordens de serviço.
 
 ### CAPÍTULO XIII — Da prestação do serviço
 
-###### Art. 122.º O regime da prestação de serviço do pessoal dos C. T. T. U. é o preceituado na lei geral, com as excepções constantes do presente decreto.
+Art. 122.º O regime da prestação de serviço do pessoal dos C. T. T. U. é o preceituado na lei geral, com as excepções constantes do presente decreto.
 
-###### Art. 123.º - 1. O serviço normal do pessoal dos C. T. T. U. terá a duração de trinta e seis horas semanais, exceptuado o pessoal de manipulação postal, telegráfica e telefónica, de instalação e de conservação de redes, linhas e estações, das oficinas, transportes, depósitos e armazéns de materiais, e o pessoal menor, cujo serviço normal terá a duração de quarenta e quatro horas semanais.
+Art. 123.º - 1. O serviço normal do pessoal dos C. T. T. U. terá a duração de trinta e seis horas semanais, exceptuado o pessoal de manipulação postal, telegráfica e telefónica, de instalação e de conservação de redes, linhas e estações, das oficinas, transportes, depósitos e armazéns de materiais, e o pessoal menor, cujo serviço normal terá a duração de quarenta e quatro horas semanais.
 
 2. Considera-se serviço extraordinário o que for executado além dos tempos fixados para o serviço normal semanal, não devendo cada unidade ser escalada para prestar mais do que doze horas extraordinárias semanais efectivas, tratando-se de pessoal burocrático, e vinte e duas horas extraordinárias semanais efectivas, tratando-se do restante pessoal.
 
 3. Não se considera serviço extraordinário o que for executado em regime de «turnos», desde que a sua duração total em cada dia não exceda o número de horas de serviço normal.
 
-###### Art. 124.º Qualquer estação ou posto, mediante requisição particular ou oficial, poderá funcionar com horários mais longos do que o normal, desde que os interessados paguem os encargos correspondentes à alteração do horário.
+Art. 124.º Qualquer estação ou posto, mediante requisição particular ou oficial, poderá funcionar com horários mais longos do que o normal, desde que os interessados paguem os encargos correspondentes à alteração do horário.
 
-###### Art. 125.º - 1. Todo o serviço extraordinário prestado pelo pessoal dos C. T. T. U. será remunerado com base no valor correspondente à hora de serviço normal do respectivo funcionário.
+Art. 125.º - 1. Todo o serviço extraordinário prestado pelo pessoal dos C. T. T. U. será remunerado com base no valor correspondente à hora de serviço normal do respectivo funcionário.
 
 2. A remuneração do serviço extraordinário prestado no período compreendido entre as 20 e as 24 horas terá o acréscimo de 50%, o qual será de 100% no período compreendido entre as 0 e as 7 horas e nos domingos e feriados.
 
-###### Art. 126.º - 1. Considera-se trabalho nocturno o que for efectuado pelo pessoal dos C. T. T. U., ainda que em regime de turnos, entre as 20 horas de um dia e as 8 horas do dia que se lhe seguir.
+Art. 126.º - 1. Considera-se trabalho nocturno o que for efectuado pelo pessoal dos C. T. T. U., ainda que em regime de turnos, entre as 20 horas de um dia e as 8 horas do dia que se lhe seguir.
 
 2. O trabalho nocturno prestado por todo o pessoal, desde que efectuado dentro do período referido no n.º 1 que antecede, dá direito ao abono de uma gratificação, por hora, cujo montante será fixado pelos Governadores, sob proposta do respectivo conselho de administração.
 
@@ -1202,7 +1254,7 @@ e) Ordens de serviço.
 
 Dos quadros de pessoal dos C. T. T. U.
 
-###### Art. 127.º O pessoal dos C. T. T. U. distribui-se pelos seguintes quadros permanentes, sob as designações e com as categorias que se indicam:
+Art. 127.º O pessoal dos C. T. T. U. distribui-se pelos seguintes quadros permanentes, sob as designações e com as categorias que se indicam:
 
 a) Quadro do pessoal superior:
 
@@ -1500,11 +1552,11 @@ Contínuo de 2.ª classe ... U
 
 Contínuo de 3.ª classe ... V
 
-###### Art. 128.º - 1. O pessoal superior forma um quadro comum, sendo a distribuição das unidades que o integram a que consta do mapa I anexo ao presente decreto, o qual será automaticamente actualizado sempre que sejam criados lugares, ao abrigo do n.º 2 do presente artigo.
+Art. 128.º - 1. O pessoal superior forma um quadro comum, sendo a distribuição das unidades que o integram a que consta do mapa I anexo ao presente decreto, o qual será automaticamente actualizado sempre que sejam criados lugares, ao abrigo do n.º 2 do presente artigo.
 
 2. É atribuída aos Governadores-Gerais de Angola e Moçambique competência para aumentar por decreto provincial o número de lugares de director de 1.ª e 2.ª classes que se mostrem indispensáveis para o exercício de chefia das direcções e repartições regionais ou distritais que ao abrigo deste diploma sejam criadas.
 
-###### Art. 129.º - 1. Nos C. T. T. U. haverá o pessoal de exploração, técnico, administrativo e de serviços gerais que for necessário, constituindo quadros gerais privativos, cuja composição será fixada em diploma a publicar em cada província, não podendo modificar-se a classificação de categorias e as designações previstas no artigo 127.º e no mapa II anexo ao presente diploma orgânico.
+Art. 129.º - 1. Nos C. T. T. U. haverá o pessoal de exploração, técnico, administrativo e de serviços gerais que for necessário, constituindo quadros gerais privativos, cuja composição será fixada em diploma a publicar em cada província, não podendo modificar-se a classificação de categorias e as designações previstas no artigo 127.º e no mapa II anexo ao presente diploma orgânico.
 
 2. Além do pessoal dos quadros gerais privativos, haverá em cada província o pessoal auxiliar, especial e eventual que as conveniências de serviço exigirem e conste dos mapas de despesa do respectivo orçamento privativo, subordinando-se a sua admissão às disposições gerais em vigor que sejam aplicáveis.
 
@@ -1512,13 +1564,13 @@ Contínuo de 3.ª classe ... V
 
 4. Poderão ser instituídos pelos Governadores das províncias escolas ou centros de formação profissionais e outros sectores de actividade específica dos C. T. T. U., cumprindo-lhes igualmente fixar, em decreto provincial e sob proposta do conselho de administração, a composição dos respectivos quadros especiais de pessoal, que serão privativos, e suas remunerações.
 
-###### Art. 130.º - 1. O provimento dos lugares do quadro comum do pessoal superior, a efectuar sob a forma de nomeação, é da competência do Ministro do Ultramar.
+Art. 130.º - 1. O provimento dos lugares do quadro comum do pessoal superior, a efectuar sob a forma de nomeação, é da competência do Ministro do Ultramar.
 
 2. O provimento dos lugares dos quadros privativos do pessoal de exploração, técnico e administrativo será feito pelos Governadores, que determinarão em portaria, sob proposta do conselho de administração, a forma que, em relação a cada uma das designações, tal provimento deverá revestir.
 
 3. A forma de provimento dos lugares dos quadros de serviços gerais, auxiliar e especiais será o contrato e o assalariamento, conforme vier a ser estabelecido pelos Governadores das províncias, competindo igualmente a estes autorizar os provimentos que tenham por base um contrato, e aos conselhos de administração os que devam efectuar-se em regime de assalariamento.
 
-###### Art. 131.º - 1. Em Angola e Moçambique um dos directores de 1.ª classe, licenciado em Engenharia Electrotécnica, de preferência, ou em Economia e (ou) Finanças, a designar pelo Ministro do Ultramar, desempenhará em comissão de serviço as funções de director provincial dos C. T. T. U. respectivos, competindo aos restantes as funções de directores dos serviços centrais e regionais.
+Art. 131.º - 1. Em Angola e Moçambique um dos directores de 1.ª classe, licenciado em Engenharia Electrotécnica, de preferência, ou em Economia e (ou) Finanças, a designar pelo Ministro do Ultramar, desempenhará em comissão de serviço as funções de director provincial dos C. T. T. U. respectivos, competindo aos restantes as funções de directores dos serviços centrais e regionais.
 
 2. O substituto legal do director provincial será o director de serviços centrais para o efeito designado pelo Governador-Geral.
 
@@ -1526,7 +1578,7 @@ Contínuo de 3.ª classe ... V
 
 4. O substituto legal do chefe de repartição provincial será o director de 2.ª classe que exercer as funções de adjunto referidas no artigo 129.º, n.º 3, ou, na sua falta, um funcionário a designar pelo Governador.
 
-###### Art. 132.º - 1. Os cargos de chefia, mesmo quando não constituam uma categoria nos quadros, conferem a quem os desempenhe uma posição hierárquica superior à dos funcionários da mesma categoria que nesse sector prestem serviço.
+Art. 132.º - 1. Os cargos de chefia, mesmo quando não constituam uma categoria nos quadros, conferem a quem os desempenhe uma posição hierárquica superior à dos funcionários da mesma categoria que nesse sector prestem serviço.
 
 2. Pertence ao director provincial ou chefe de repartição provincial a designação dos substitutos dos chefes de qualquer órgão dos C. T. T. U., sempre que a lei não disponha expressamente sobre a matéria.
 
@@ -1534,43 +1586,43 @@ Contínuo de 3.ª classe ... V
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 133.º - 1. Para provimento em lugares dos quadros de pessoal dos C. T. T. U. devem mostrar-se satisfeitas as condições estabelecidas na lei geral que não sejam excepcionadas no presente decreto.
+Art. 133.º - 1. Para provimento em lugares dos quadros de pessoal dos C. T. T. U. devem mostrar-se satisfeitas as condições estabelecidas na lei geral que não sejam excepcionadas no presente decreto.
 
 2. A idade mínima para ingresso nos quadros dos C. T. T. U. é fixada em 18 anos, salvo com relação a praticantes e aprendizes, para os quais se faculta a admissão a partir dos 16 e 14 anos, respectivamente.
 
 3. A situação de aprendiz não poderá em caso algum prolongar-se para além de dois anos.
 
-###### Art. 134.º - 1. Nos quadros indicados no artigo 127.º cada grupo constitui uma carreira, em que se ingressa pelo lugar que nele corresponde à categoria mais baixa e se é promovido sucessivamente aos lugares que na respectiva escala se lhe seguem.
+Art. 134.º - 1. Nos quadros indicados no artigo 127.º cada grupo constitui uma carreira, em que se ingressa pelo lugar que nele corresponde à categoria mais baixa e se é promovido sucessivamente aos lugares que na respectiva escala se lhe seguem.
 
 2. Relativamente aos grupos que se desdobram em subgrupos, a carreira inicia-se indiferentemente pelo lugar inferior de cada subgrupo, desenvolvendo-se separadamente em cada um deles, e prossegue em comum pelos lugares que figuram no grupo.
 
 3. Sem prejuízo das regras enunciadas nos números anteriores, o ingresso poderá efectuar-se também em lugares intermédios ou superiores de uma carreira, conforme for expressamente consentido no presente diploma ou noutros diplomas especiais para os C. T. T. U.
 
-###### Art. 135.º - 1. Salvo para os lugares que neste decreto expressamente se especifiquem, o estabelecimento de esquemas de selecção dos candidatos a ingresso e promoção nos quadros de pessoal dos C. T. T. U. cabe aos Governadores das províncias, sob proposta dos conselhos de administração, ouvidos os serviços competentes do Ministério do Ultramar.
+Art. 135.º - 1. Salvo para os lugares que neste decreto expressamente se especifiquem, o estabelecimento de esquemas de selecção dos candidatos a ingresso e promoção nos quadros de pessoal dos C. T. T. U. cabe aos Governadores das províncias, sob proposta dos conselhos de administração, ouvidos os serviços competentes do Ministério do Ultramar.
 
 2. Sempre que o esquema adoptado seja designado simplesmente por escolha, serão tomados em conjunto todos os elementos existentes no processo individual de cada candidato susceptíveis de revelarem aptidão para o cargo, nomeadamente as informações anuais, as habilitações académicas e profissionais não académicas, o cadastro disciplinar, a antiguidade, os louvores, as condecorações e a qualidade do desempenho de cargos superiores ou de especial responsabilidade.
 
-###### Art. 136.º - 1. À promoção para lugares intermédios e superiores de uma carreira dos quadros privativos de cada província, salvo a excepção prevista no n.º 2 do presente artigo, só poderão candidatar-se os funcionários dos C. T. T. U. dessa província que reúnam as condições exigidas neste decreto ou nos regulamentos provinciais.
+Art. 136.º - 1. À promoção para lugares intermédios e superiores de uma carreira dos quadros privativos de cada província, salvo a excepção prevista no n.º 2 do presente artigo, só poderão candidatar-se os funcionários dos C. T. T. U. dessa província que reúnam as condições exigidas neste decreto ou nos regulamentos provinciais.
 
 2. Sempre que nos quadros privativos de uma província não existam, ou se não encontrem dotados, lugares de categoria imediatamente superior, conforme previsto na respectiva carreira, poderão os funcionários com, pelo menos, a categoria da letra L candidatar-se à promoção para os quadros privativos de qualquer das outras províncias, em igualdade de condições com os funcionários respectivos.
 
-###### Art. 137.º - 1. O chamamento a concurso ou a outros esquemas de selecção de pessoal dependerá de requerimento dos indivíduos que reunirem as condições estabelecidas na lei aplicável, a dar entrada em qualquer departamento dos C. T. T. U. das províncias ou no Ministério do Ultramar dentro dos prazos fixados nos correspondentes anúncios ou avisos publicados na folha oficial.
+Art. 137.º - 1. O chamamento a concurso ou a outros esquemas de selecção de pessoal dependerá de requerimento dos indivíduos que reunirem as condições estabelecidas na lei aplicável, a dar entrada em qualquer departamento dos C. T. T. U. das províncias ou no Ministério do Ultramar dentro dos prazos fixados nos correspondentes anúncios ou avisos publicados na folha oficial.
 
 2. O requerimento de que trata o número anterior deverá ser acompanhado de todos os documentos que possam interessar ao provimento em causa e não figurem já no processo individual do candidato.
 
 3. A menos que seja anunciado previamente o seu prazo de validade, entender-se-á que a classificação ou graduação dos candidatos valerá apenas para as vagas que se verifiquem à data da publicação no Boletim Oficial da respectiva lista de classificações.
 
-###### Art. 138.º - 1. Relativamente aos quadros privativos dos C. T. T. U. de cada província, a disposição prevista no n.º 2 do artigo 134.º será condicionada essencialmente pelos programas de política de pessoal estabelecidos pelo respectivo conselho de administração.
+Art. 138.º - 1. Relativamente aos quadros privativos dos C. T. T. U. de cada província, a disposição prevista no n.º 2 do artigo 134.º será condicionada essencialmente pelos programas de política de pessoal estabelecidos pelo respectivo conselho de administração.
 
 2. Em regra, o preenchimento das vagas dos lugares de uma carreira que possam ser ocupados por via de ingresso e de promoção far-se-á alternadamente; poderá, porém, o Governador da província, ponderadas as circunstâncias e sob proposta do conselho de administração, determinar que tal preenchimento se faça por forma diversa.
 
-###### Art. 139.º - 1. Quando nas províncias de governo simples não existirem funcionários dos C. T. T. U. que reúnam as condições para provimento de lugares de categoria superior à letra Q dos respectivos quadros, ou quando as circunstâncias o recomendarem, poderá o Ministro do Ultramar, sob proposta fundamentada do conselho de administração e parecer favorável do Governador da província em causa, determinar que os lugares vagos sejam preenchidos em comissão de serviço, com a duração de dois anos, por funcionários dos quadros de Angola e Moçambique que possuam as correspondentes categorias.
+Art. 139.º - 1. Quando nas províncias de governo simples não existirem funcionários dos C. T. T. U. que reúnam as condições para provimento de lugares de categoria superior à letra Q dos respectivos quadros, ou quando as circunstâncias o recomendarem, poderá o Ministro do Ultramar, sob proposta fundamentada do conselho de administração e parecer favorável do Governador da província em causa, determinar que os lugares vagos sejam preenchidos em comissão de serviço, com a duração de dois anos, por funcionários dos quadros de Angola e Moçambique que possuam as correspondentes categorias.
 
 2. A comissão de serviço referida no número anterior é obrigatória e poderá ser objecto de uma única renovação, por um ano, finda a qual o funcionário regressará ao seu quadro de origem ou, desejando-o, será transferido para o quadro da província em que se encontre a prestar serviço.
 
 3. Enquanto se mantiverem em comissão de serviço, os funcionários a que se refere o presente artigo perceberão todas as remunerações certas a que tinham direito em Angola ou Moçambique e um subsídio diário cujo montante será fixado no despacho que determinar a comissão, cabendo à província em que a comissão se efectuar o abono das remunerações normais que nela estejam fixadas para o lugar desempenhado e do subsídio diário que for fixado, e à província a cujo quadro o funcionário pertença o abono da diferença que se verificar.
 
-###### Art. 140.º Independentemente do que dispõe a lei geral sobre transferências, a pedido, de uma para outra província ultramarina de funcionários pertencentes aos quadros privativos, em relação aos C. T. T. U. ter-se-á em conta o seguinte:
+Art. 140.º Independentemente do que dispõe a lei geral sobre transferências, a pedido, de uma para outra província ultramarina de funcionários pertencentes aos quadros privativos, em relação aos C. T. T. U. ter-se-á em conta o seguinte:
 
 a) Os funcionários de categoria igual ou superior à letra G que se mantenham na categoria durante um período mínimo de seis anos numa mesma província serão obrigatoriamente transferidos, se o requererem, para a província que no requerimento indicarem, em qualquer vaga do respectivo ramo que nela exista ou, não existindo, na primeira vaga que nela venha a verificar-se;
 
@@ -1578,7 +1630,7 @@ b) Os chefes de serviço de 2.ª e 3.ª classes dos ramos administrativo e de ex
 
 #### SECÇÃO II — Do pessoal superior
 
-###### Art. 141.º - 1. Os lugares de director de 2.ª classe serão livremente providos por escolha do Ministro do Ultramar de entre os directores de 3.ª classe com pelo menos três anos de serviço efectivo na categoria.
+Art. 141.º - 1. Os lugares de director de 2.ª classe serão livremente providos por escolha do Ministro do Ultramar de entre os directores de 3.ª classe com pelo menos três anos de serviço efectivo na categoria.
 
 2. Para os efeitos do número anterior serão obrigatoriamente consideradas as vagas existentes e as possibilidades de colocação e exercício de funções dos funcionários a promover, em harmonia com o seguinte condicionamento:
 
@@ -1590,7 +1642,7 @@ c) Os directores de 2.ª classe, a promover de entre os directores de 3.ª class
 
 3. Para as promoções a que se refere o presente artigo será organizada no Ministério do Ultramar lista graduada dos candidatos, em cuja elaboração serão consideradas as graduações propostas pelos conselhos de administração no uso da faculdade que lhes é conferida pelo artigo 16.º, alínea a), n.º 8.º, bem como as vagas existentes e respectivo condicionamento de preenchimento.
 
-###### Art. 142.º - 1. Os lugares de director de 2.ª classe podem também ser preenchidos, em primeiro provimento, por livre escolha do Ministro do Ultramar de entre indivíduos habilitados com o curso superior e que hajam prestado serviços nos C. T. T. U., em qualquer situação ou regime, durante o mínimo de cinco anos, com boas informações.
+Art. 142.º - 1. Os lugares de director de 2.ª classe podem também ser preenchidos, em primeiro provimento, por livre escolha do Ministro do Ultramar de entre indivíduos habilitados com o curso superior e que hajam prestado serviços nos C. T. T. U., em qualquer situação ou regime, durante o mínimo de cinco anos, com boas informações.
 
 2. Atentas as vagas existentes, serão de exigir os seguintes cursos superiores:
 
@@ -1600,9 +1652,9 @@ b) Licenciatura em Economia e (ou) Finanças, em relação aos lugares que permi
 
 3. Aos provimentos a efectuar ao abrigo do disposto neste artigo é aplicável o estabelecido no artigo 141.º, n.º 3.
 
-###### Art. 143.º As transferências dos directores de 1.ª e de 2.ª classes de uma para outra província ou do Ministério do Ultramar para as províncias respeitarão sempre os condicionamentos de colocação e exercício de funções expressos nos artigos antecedentes.
+Art. 143.º As transferências dos directores de 1.ª e de 2.ª classes de uma para outra província ou do Ministério do Ultramar para as províncias respeitarão sempre os condicionamentos de colocação e exercício de funções expressos nos artigos antecedentes.
 
-###### Art. 144.º - 1. Os lugares de director de 1.ª classe serão providos por livre escolha do Ministro do Ultramar de entre os directores de 2.ª classe das províncias e do Ministério do Ultramar com, pelo menos, três anos na categoria.
+Art. 144.º - 1. Os lugares de director de 1.ª classe serão providos por livre escolha do Ministro do Ultramar de entre os directores de 2.ª classe das províncias e do Ministério do Ultramar com, pelo menos, três anos na categoria.
 
 2. Para os efeitos do número antecedente, serão obrigatoriamente consideradas as vagas existentes e as possibilidades de colocação e exercício de funções dos funcionários a promover, em harmonia com o seguinte condicionamento:
 
@@ -1616,11 +1668,11 @@ c) Os directores de 1.ª classe, a escolher de entre os directores de 2.ª class
 
 4. O condicionamento referido no n.º 2 influirá sempre nas transferências dos directores de 1.ª classe de uma para outra província ou de e para o Ministério do Ultramar.
 
-###### Art. 145.º Os lugares de inspector provincial serão providos por livre escolha do Ministro do Ultramar de entre os directores de 1.ª classe, em regra licenciados em Engenharia Electrotécnica.
+Art. 145.º Os lugares de inspector provincial serão providos por livre escolha do Ministro do Ultramar de entre os directores de 1.ª classe, em regra licenciados em Engenharia Electrotécnica.
 
 #### SECÇÃO III — Dos quadros gerais privativos
 
-###### Art. 146.º - 1. A habilitação académica correspondente à escolaridade obrigatória, segundo a idade dos candidatos, é suficiente para ingresso em qualquer dos grupos dos quadros privativos fixados no artigo 127.º, exceptuados os seguintes lugares, para os quais se exigem as habilitações que vão indicadas:
+Art. 146.º - 1. A habilitação académica correspondente à escolaridade obrigatória, segundo a idade dos candidatos, é suficiente para ingresso em qualquer dos grupos dos quadros privativos fixados no artigo 127.º, exceptuados os seguintes lugares, para os quais se exigem as habilitações que vão indicadas:
 
 a) Terceiro-oficial, de exploração e administrativo, telefonista internacional e arquivista de 2.ª classe - 2.º ciclo liceal ou equivalente;
 
@@ -1634,11 +1686,11 @@ c) Operador, operador de 2.ª classe de telex, telefonista principal de 2.ª cla
 
 4. Em Macau, as habilitações indicadas no n.º 1 podem ser substituídas pelas que o Governador considerar suficientes, ouvido o conselho de administração.
 
-###### Art. 147.º - 1. O provimento do lugar de tesoureiro de 2.ª classe será feito por escolha, obrigatoriamente de entre terceiros-oficiais do quadro do pessoal administrativo com qualquer tempo de serviço na categoria.
+Art. 147.º - 1. O provimento do lugar de tesoureiro de 2.ª classe será feito por escolha, obrigatoriamente de entre terceiros-oficiais do quadro do pessoal administrativo com qualquer tempo de serviço na categoria.
 
 2. O provimento do lugar de fiel de depósito de 2.ª classe será igualmente feito por escolha, de entre terceiros-oficiais do quadro do pessoal administrativo com qualquer tempo de serviço na categoria, e de entre fiéis de armazém de 1.ª classe que contem mais de cinco anos na categoria e que se encontrem habilitados com o curso de formação especializada adequado.
 
-###### Art. 148.º - 1. A candidatura a lugares de ingresso ou intermédios para os quais, nos termos do artigo 146.º, se exige habilitação académica específica é também permitida aos funcionários dos C. T. T. U. que, não a possuindo, preencham as condições estabelecidas no n.º 3 do presente artigo.
+Art. 148.º - 1. A candidatura a lugares de ingresso ou intermédios para os quais, nos termos do artigo 146.º, se exige habilitação académica específica é também permitida aos funcionários dos C. T. T. U. que, não a possuindo, preencham as condições estabelecidas no n.º 3 do presente artigo.
 
 2. Poderão candidatar-se:
 
@@ -1682,9 +1734,9 @@ f) Estarem habilitados com o curso de formação especializada adequado, relativ
 
 4. Os cursos de formação básica e especializada referidos no n.º 2 do artigo 147.º e no n.º 3 do presente artigo serão ministrados, exclusivamente, nas escolas ou centros de formação dos C. T. T. U.
 
-###### Art. 149.º Os indivíduos que ao abrigo do artigo 148.º ingressarem em lugares que fazem parte de uma carreira, enquanto nela se mantiverem e independentemente do nível das suas habilitações académicas, têm direitos de promoção idênticos aos dos demais funcionários da mesma categoria dentro da carreira.
+Art. 149.º Os indivíduos que ao abrigo do artigo 148.º ingressarem em lugares que fazem parte de uma carreira, enquanto nela se mantiverem e independentemente do nível das suas habilitações académicas, têm direitos de promoção idênticos aos dos demais funcionários da mesma categoria dentro da carreira.
 
-###### Art. 150.º - 1. Os lugares intermédios ou superiores das carreiras dos quadros gerais para os quais, conforme previsto no n.º 3 do artigo 134.º, pode efectuar-se o ingresso directo ou em primeiro provimento são os seguintes:
+Art. 150.º - 1. Os lugares intermédios ou superiores das carreiras dos quadros gerais para os quais, conforme previsto no n.º 3 do artigo 134.º, pode efectuar-se o ingresso directo ou em primeiro provimento são os seguintes:
 
 a) Chefe de serviços administrativos de 2.ª classe;
 
@@ -1700,7 +1752,7 @@ b) Que possuam o curso de Electrotecnia e Máquinas dos institutos industriais e
 
 c) Que possuam o 3.º ciclo liceal ou equivalente, relativamente ao lugar indicado na alínea c).
 
-###### Art. 151.º - 1. Nos quadros gerais dos C. T. T. U., à promoção a lugares intermédios e superiores de uma carreira poderão candidatar-se também funcionários dos mesmos quadros não integrados nessa carreira.
+Art. 151.º - 1. Nos quadros gerais dos C. T. T. U., à promoção a lugares intermédios e superiores de uma carreira poderão candidatar-se também funcionários dos mesmos quadros não integrados nessa carreira.
 
 2. A candidatura referida no número anterior só será de admitir:
 
@@ -1716,11 +1768,11 @@ e) Do lugar de tesoureiro principal para o de chefe de serviços administrativos
 
 f) Dos lugares de tesoureiro de 2.ª classe, nas províncias em que não existam ou não estejam dotados lugares de categoria imediatamente superior na carreira, para o de primeiro-oficial administrativo.
 
-###### Art. 152.º - 1. À promoção para os lugares de chefe de serviços técnicos de 2.ª classe poderão candidatar-se os técnicos-chefes dos vários subgrupos que nesta categoria contem o mínimo de três anos de serviço.
+Art. 152.º - 1. À promoção para os lugares de chefe de serviços técnicos de 2.ª classe poderão candidatar-se os técnicos-chefes dos vários subgrupos que nesta categoria contem o mínimo de três anos de serviço.
 
 2. Para o preenchimento das vagas de chefe de serviços técnicos de 1.ª e 2.ª classes serão sempre tidas em consideração as possibilidades de colocação e exercício de funções dos funcionários a promover, atenta a especialidade característica do subgrupo a que pertençam ou tenham pertencido.
 
-###### Art. 153.º - 1. Os directores de 3.ª classe serão promovidos por escolha de entre os chefes de serviço de 1.ª classe do respectivo quadro de pessoal que contem nesta categoria o mínimo de três anos de serviço.
+Art. 153.º - 1. Os directores de 3.ª classe serão promovidos por escolha de entre os chefes de serviço de 1.ª classe do respectivo quadro de pessoal que contem nesta categoria o mínimo de três anos de serviço.
 
 2. A regra contida no n.º 2 do artigo 152.º será igualmente observada no preenchimento das vagas de director de 3.ª classe.
 
@@ -1732,23 +1784,23 @@ b) No quadro do pessoal de exploração: a chefia de qualquer dos departamentos 
 
 c) No quadro do pessoal técnico: a chefia de qualquer departamento das divisões dos serviços de telecomunicações por fios ou de radiocomunicações de Angola e de Moçambique, do 2.º departamento dos serviços industriais das mesmas províncias, do departamento dos serviços técnicos e industriais das províncias de cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor, quando tais lugares existam, e ainda dos departamentos regionais e distritais.
 
-###### Art. 154.º A passagem da 3.ª à 2.ª classe e da 2.ª à 1.ª classe dos operadores radiotelegrafistas, que constituem o grupo II do quadro do pessoal de exploração, processar-se-á a requerimento dos interessados quando completem cinco e dez anos de efectivo serviço, respectivamente.
+Art. 154.º A passagem da 3.ª à 2.ª classe e da 2.ª à 1.ª classe dos operadores radiotelegrafistas, que constituem o grupo II do quadro do pessoal de exploração, processar-se-á a requerimento dos interessados quando completem cinco e dez anos de efectivo serviço, respectivamente.
 
-###### Art. 155.º - 1. A passagem da 2.ª à 1.ª classe, da 1.ª classe à classe principal e da classe principal à classe de chefe dos distribuidores-carteiros, que constituem o grupo IV do quadro do pessoal de exploração, processar-se-á, a requerimento dos interessados, quando completem cinco, dez e quinze anos de efectivo serviço, respectivamente.
+Art. 155.º - 1. A passagem da 2.ª à 1.ª classe, da 1.ª classe à classe principal e da classe principal à classe de chefe dos distribuidores-carteiros, que constituem o grupo IV do quadro do pessoal de exploração, processar-se-á, a requerimento dos interessados, quando completem cinco, dez e quinze anos de efectivo serviço, respectivamente.
 
 2. A passagem da 3.ª à 2.ª classe, da 2.ª à 1.ª classe, da 1.ª classe à classe principal e da classe principal à classe de chefe dos distribuidores, que constituem o grupo III do quadro do pessoal de exploração, processar-se-á, a requerimento dos interessados, quando completem dois, cinco, dez e quinze anos de efectivo serviço, respectivamente.
 
-###### Art. 156.º A passagem da 3.ª à 2.ª classe, da 2.ª à 1.ª classe e da 1.ª classe à classe principal dos dactilógrafos, que constituem o grupo I do quadro do pessoal de serviços gerais, processar-se-á, a requerimento dos interessados, quando completem cinco, dez e quinze anos de efectivo serviço, respectivamente.
+Art. 156.º A passagem da 3.ª à 2.ª classe, da 2.ª à 1.ª classe e da 1.ª classe à classe principal dos dactilógrafos, que constituem o grupo I do quadro do pessoal de serviços gerais, processar-se-á, a requerimento dos interessados, quando completem cinco, dez e quinze anos de efectivo serviço, respectivamente.
 
-###### Art. 157.º A passagem da 3.ª à 2.ª classe e da 2.ª à 1.ª classe dos contínuos, que constituem o grupo II do quadro do pessoal de serviços gerais, processar-se-á, a requerimento dos interessados quando completem cinco e dez anos de efectivo serviço, respectivamente.
+Art. 157.º A passagem da 3.ª à 2.ª classe e da 2.ª à 1.ª classe dos contínuos, que constituem o grupo II do quadro do pessoal de serviços gerais, processar-se-á, a requerimento dos interessados quando completem cinco e dez anos de efectivo serviço, respectivamente.
 
-###### Art. 158.º Os lugares de chefe do pessoal menor serão providos de entre os contínuos de 1.ª classe e funcionários de outros grupos de categoria não inferior à da letra S que o requeiram, por escolha do Governador da província, sob proposta do conselho de administração, nas condições que forem definidas de acordo com o disposto no n.º 3 do artigo 130.º
+Art. 158.º Os lugares de chefe do pessoal menor serão providos de entre os contínuos de 1.ª classe e funcionários de outros grupos de categoria não inferior à da letra S que o requeiram, por escolha do Governador da província, sob proposta do conselho de administração, nas condições que forem definidas de acordo com o disposto no n.º 3 do artigo 130.º
 
-###### Art. 159.º Os Governadores das províncias ultramarinas, ouvidos os conselhos de administração, conforme a respectiva competência, regulamentarão todas as matérias que interessem ao pessoal dos quadros privativos e não estejam especialmente definidas no presente decreto.
+Art. 159.º Os Governadores das províncias ultramarinas, ouvidos os conselhos de administração, conforme a respectiva competência, regulamentarão todas as matérias que interessem ao pessoal dos quadros privativos e não estejam especialmente definidas no presente decreto.
 
 ### CAPÍTULO XVI — Das funções do pessoal
 
-###### Art. 160.º Em regra, as funções genéricas correspondentes às principais categorias são:
+Art. 160.º Em regra, as funções genéricas correspondentes às principais categorias são:
 
 a) Inspector provincial - as de Inspecção aos C. T. T. U. e quaisquer inquéritos e sindicâncias ou outras missões especiais ordenadas superiormente;
 
@@ -1800,7 +1852,7 @@ za) Fiel de armazém de 1.ª e de 2.ª classes - as de chefe de armazéns de mat
 
 zb) Bibliotecário-arquivista - as de chefe de secção da biblioteca e arquivo das secretarias centrais de Angola e Moçambique.
 
-###### Art. 161.º - 1. Além das funções referidas no artigo anterior, podem os funcionários abaixo designados exercer outras funções, a saber:
+Art. 161.º - 1. Além das funções referidas no artigo anterior, podem os funcionários abaixo designados exercer outras funções, a saber:
 
 a) Os chefes de serviço de exploração de 2.ª classe, as de chefe das estações centrais;
 
@@ -1812,7 +1864,7 @@ c) Os primeiros-oficiais de exploração, as de chefe das estações centrais, d
 
 ### CAPÍTULO XVII — Das atribuições e competências
 
-###### Art. 162.º Aos inspectores provinciais compete:
+Art. 162.º Aos inspectores provinciais compete:
 
 a) Inspeccionar os diferentes serviços dos C. T. T. U., verificando se são cumpridas as leis e regulamentos e se a escrituração está regularmente feita e em dia;
 
@@ -1824,7 +1876,7 @@ d) Dar balanço aos cofres dos C. T. T. U. e da Caixa Económica Postal e verifi
 
 e) Realizar as missões que lhes forem superiormente determinadas.
 
-###### Art. 163.º Aos directores provinciais e chefes de repartição provincial compete manter os serviços em estado de perfeita eficiência, nomeadamente:
+Art. 163.º Aos directores provinciais e chefes de repartição provincial compete manter os serviços em estado de perfeita eficiência, nomeadamente:
 
 a) Dirigir, ordenar e orientar superiormente os serviços, prescrevendo as instruções que mais convierem ao seu bom funcionamento, em conformidade com as leis e regulamentos em vigor;
 
@@ -1860,13 +1912,13 @@ q) Ordenar o pagamento de todas as despesas autorizadas pelo conselho de adminis
 
 r) Orientar a elaboração do relatório anual do conselho de administração, que, acompanhado das estatísticas postais e das telecomunicações, deverá ser enviado ao Ministério do Ultramar e ao governo da província até ao fim do mês de Junho seguinte ao ano civil a que disser respeito.
 
-###### Art. 164.º - 1. Os directores provinciais poderão delegar nos directores dos serviços centrais e nos directores regionais e chefes de órgãos regionais e distritais as atribuições que por lei lhes são conferidas, excepto as referentes à competência disciplinar.
+Art. 164.º - 1. Os directores provinciais poderão delegar nos directores dos serviços centrais e nos directores regionais e chefes de órgãos regionais e distritais as atribuições que por lei lhes são conferidas, excepto as referentes à competência disciplinar.
 
 2. Os chefes de repartição provincial poderão delegar nos seus adjuntos e nos chefes de órgãos regionais e distritais as atribuições que por lei lhes são conferidas, excepto as referentes à competência disciplinar.
 
 3. Compete ao adjunto do chefe de repartição provincial cooperar com este, executando os serviços que por ele lhe forem determinados ou delegados, incluindo a chefia da secretaria da repartição ou de qualquer dos departamentos criados ao abrigo do n.º 3 do artigo 85.º
 
-###### Art. 165.º - 1. Aos directores dos serviços centrais compete manter os serviços em estado de perfeita eficiência, nomeadamente:
+Art. 165.º - 1. Aos directores dos serviços centrais compete manter os serviços em estado de perfeita eficiência, nomeadamente:
 
 a) Dirigir, orientar e fiscalizar o serviço a seu cargo e sob a sua jurisdição, vigiar pelo exacto cumprimento das leis, regulamentos e instruções em vigor para a boa execução dos serviços, mantendo a ordem e a disciplina;
 
@@ -1880,11 +1932,11 @@ e) Propor os melhoramentos que mais convenham aos serviços.
 
 2. Aos chefes de repartição dos serviços centrais competem as atribuições do número anterior em relação aos serviços correspondentes.
 
-###### Art. 166.º - 1. Ao chefe da secretaria central das direcções provinciais e da secretaria das repartições provinciais compete dirigir os serviços a eles atribuídos, de acordo com a orientação traçada pelo director provincial ou chefe da repartição provincial.
+Art. 166.º - 1. Ao chefe da secretaria central das direcções provinciais e da secretaria das repartições provinciais compete dirigir os serviços a eles atribuídos, de acordo com a orientação traçada pelo director provincial ou chefe da repartição provincial.
 
 2. Ao chefe de secretaria das direcções de serviços centrais, das direcções regionais, das repartições regionais e distritais e dos departamentos distritais e regionais compete dirigir os serviços que as mesmas secretarias executarem, de acordo com a orientação traçada pelo respectivo chefe.
 
-###### Art. 167.º Aos directores regionais, chefes de repartição regional e distrital e aos chefes de departamento regional e distrital compete manter os respectivos serviços em estado de perfeita eficiência, nomeadamente:
+Art. 167.º Aos directores regionais, chefes de repartição regional e distrital e aos chefes de departamento regional e distrital compete manter os respectivos serviços em estado de perfeita eficiência, nomeadamente:
 
 a) Dirigir os serviços da região ou distrito e vigiar pela boa e pontual execução e exacto cumprimento das leis, regulamentos e instruções em vigor, expedindo para esse fim a todas as dependência as ordens ou instruções complementares necessárias;
 
@@ -1906,9 +1958,9 @@ i) Propor, quando não possam ser resolvidos por si, os melhoramentos que mais c
 
 j) Visar as guias de entrega e levantamento dos valores da tesouraria.
 
-###### Art. 168.º Aos chefes de departamento das direcções dos serviços centrais e das repartições provinciais, de secção, de estação e de sector compete dirigir e orientar os serviços que chefiam, de acordo com as instruções recebidas dos seus superiores hierárquicos, distribuir o serviço pelos seus subordinados e fiscalizar a sua execução.
+Art. 168.º Aos chefes de departamento das direcções dos serviços centrais e das repartições provinciais, de secção, de estação e de sector compete dirigir e orientar os serviços que chefiam, de acordo com as instruções recebidas dos seus superiores hierárquicos, distribuir o serviço pelos seus subordinados e fiscalizar a sua execução.
 
-###### Art. 169.º Aos tesoureiros compete:
+Art. 169.º Aos tesoureiros compete:
 
 a) A arrecadação de todas os importâncias provenientes da exploração dos serviços da cobrança de letras, cheques ou quaisquer outros títulos e seu depósito;
 
@@ -1922,7 +1974,7 @@ e) O pagamento de vales postais, ordens postais e outros títulos e o seu regist
 
 f) A assinatura e inutilização, com o carimbo marca do dia, de todos os documentos respeitantes ao movimento da tesouraria.
 
-###### Art. 170.º Aos fiéis de depósito de material compete:
+Art. 170.º Aos fiéis de depósito de material compete:
 
 a) A guarda e conservação dos materiais, impressos, expediente e mais artigos destinados aos serviços e escrituração da sua entrada e saída;
 
@@ -1936,7 +1988,7 @@ e) A actualização da escrituração do depósito, por forma a saber-se prontam
 
 f) A organização do inventário anual do depósito de material.
 
-###### Art. 171.º Aos chefes de oficinas das direcções provinciais e aos mecânicos principais das repartições provinciais que forem designados para chefiar as respectivas oficinas compete:
+Art. 171.º Aos chefes de oficinas das direcções provinciais e aos mecânicos principais das repartições provinciais que forem designados para chefiar as respectivas oficinas compete:
 
 a) Dirigir os trabalhos da oficina, em conformidade com o respectivo regulamento e ordens superiores, distribuir os trabalhos pelo pessoal sob as suas ordens, dando as instruções necessárias à sua boa execução, fiscalizar o exacto cumprimento do horário de trabalho, manter a ordem e a disciplina do pessoal sob as suas ordens e participar as faltas e irregularidades que notarem;
 
@@ -1946,33 +1998,33 @@ c) Tomar as providências urgentes em relação aos trabalhos a seu cargo, quand
 
 d) Requisitar a tempo os materiais de que carecerem para a boa marcha dos trabalhos confiados à oficina.
 
-###### Art. 172.º Aos restantes funcionários não mencionados neste capítulo compete executar as tarefas de acordo com as normas e instruções de serviço e outras que os respectivos superiores hierárquicos lhes transmitirem.
+Art. 172.º Aos restantes funcionários não mencionados neste capítulo compete executar as tarefas de acordo com as normas e instruções de serviço e outras que os respectivos superiores hierárquicos lhes transmitirem.
 
 ### CAPÍTULO XVIII — Da formação profissional do pessoal
 
-###### Art. 173.º - 1. Os C. T. T. U. promoverão, na medida das possibilidades e necessidades, a formação básica, a formação especializada e o aperfeiçoamento profissional do seu pessoal, quer directamente nos seus centros de formação profissional, quer facultando-lhe, nos termos legais, estágios, cursos e a participação em congressos, assembleias, reuniões, simpósios e conferências na respectiva província ou fora dela.
+Art. 173.º - 1. Os C. T. T. U. promoverão, na medida das possibilidades e necessidades, a formação básica, a formação especializada e o aperfeiçoamento profissional do seu pessoal, quer directamente nos seus centros de formação profissional, quer facultando-lhe, nos termos legais, estágios, cursos e a participação em congressos, assembleias, reuniões, simpósios e conferências na respectiva província ou fora dela.
 
 2. Esta formação profissional não conferirá grau académico, podendo, porém, o aproveitamento obtido ser certificado, nomeadamente, para os efeitos especificados no presente decreto, nos termos do regulamento sobre o funcionamento geral dos centros de formação profissional dos C. T. T. U., a aprovar por portaria do Governador da província.
 
 3. Os funcionários e agentes habilitados com os cursos de formação profissional poderão ainda beneficiar das valorizações e preferências que forem estabelecidas nos termos do artigo 159.º do presente decreto.
 
-###### Art. 174.º - 1. Para efeitos do disposto no artigo anterior, serão utilizados, em regra, instrutores que sejam funcionários dos próprios serviços, podendo, em casos justificados, recrutar-se indivíduos estranhos aos serviços dos C. T. T. U.
+Art. 174.º - 1. Para efeitos do disposto no artigo anterior, serão utilizados, em regra, instrutores que sejam funcionários dos próprios serviços, podendo, em casos justificados, recrutar-se indivíduos estranhos aos serviços dos C. T. T. U.
 
 2. Aos instrutores serão abonadas as remunerações que forem fixadas pela portaria a que se refere o n.º 2 do artigo 173.º
 
-###### Art. 175.º - 1. Os Governadores promoverão, quando o julgarem oportuno, a criação, ao abrigo do disposto no artigo 84.º, do gabinete de organização e métodos, ao qual será confiada a orientação, coordenação e centralização dos assuntos de que trata o presente capítulo.
+Art. 175.º - 1. Os Governadores promoverão, quando o julgarem oportuno, a criação, ao abrigo do disposto no artigo 84.º, do gabinete de organização e métodos, ao qual será confiada a orientação, coordenação e centralização dos assuntos de que trata o presente capítulo.
 
 2. Enquanto não exista o gabinete, a competência referida no número anterior caberá às secretarias centrais das direcções provinciais ou às secretarias das repartições provinciais.
 
-###### Art. 176.º - 1. O Ministro do Ultramar poderá autorizar, tendo em vista o disposto no artigo 173.º, que os funcionários dos C. T. T. U. em situação legal na metrópole efectuem um estágio não superior a três meses em organismos especializados adequados, com o fim de se aperfeiçoarem ou estudarem quaisquer assuntos que interessem aos serviços, com direito a um subsídio diário a fixar no respectivo despacho de autorização.
+Art. 176.º - 1. O Ministro do Ultramar poderá autorizar, tendo em vista o disposto no artigo 173.º, que os funcionários dos C. T. T. U. em situação legal na metrópole efectuem um estágio não superior a três meses em organismos especializados adequados, com o fim de se aperfeiçoarem ou estudarem quaisquer assuntos que interessem aos serviços, com direito a um subsídio diário a fixar no respectivo despacho de autorização.
 
 2. Igualmente poderá mandar ao estrangeiro, sob proposta dos Governadores das províncias, funcionários dos C. T. T. U., a fim de se especializarem ou estudarem qualquer assunto que aos mesmos serviços diga respeito, bem como poderá mandar também funcionários dos mesmos serviços ou do Ministério aos congressos, assembleias, reuniões e conferências que se realizem no estrangeiro e versem assuntos relacionados com os serviços dos correios e telecomunicações.
 
-###### Art. 177.º Os funcionários a que se refere o artigo 176.º devem apresentar, dentro dos prazos que lhes forem fixados, relatórios que permitam ajuizar do aproveitamento obtido ou resultante das respectivas missões, sem prejuízo do disposto no artigo 44.º do Estatuto do Funcionalismo Ultramarino.
+Art. 177.º Os funcionários a que se refere o artigo 176.º devem apresentar, dentro dos prazos que lhes forem fixados, relatórios que permitam ajuizar do aproveitamento obtido ou resultante das respectivas missões, sem prejuízo do disposto no artigo 44.º do Estatuto do Funcionalismo Ultramarino.
 
 ### CAPÍTULO XIX — Dos direitos e deveres do pessoal
 
-###### Art. 178.º - 1. Os funcionários dos C. T. T. U., além dos direitos e deveres gerais de todos os funcionários públicos, têm as seguintes prerrogativas:
+Art. 178.º - 1. Os funcionários dos C. T. T. U., além dos direitos e deveres gerais de todos os funcionários públicos, têm as seguintes prerrogativas:
 
 a) Prender, em flagrante delito, tanto os indivíduos que os ultrajarem no exercício das suas funções como os delinquentes por crimes comuns, conduzindo-os imediatamente à presença das respectivas autoridades ou dos funcionários seus superiores;
 
@@ -1988,9 +2040,9 @@ f) Não poderem ser obrigados a depor perante qualquer tribunal ou autoridade se
 
 2. O bilhete de identidade referido na alínea d) do número anterior é o previsto no Estatuto do Funcionalismo Ultramarino, no qual deverão ser transcritos os seus privilégios e isenções e registados os números e marcas das armas de que forem portadores.
 
-###### Art. 179.º Os funcionários dos C. T. T. U. usarão uniforme especial, com distintivos que indiquem a sua categoria dentro do respectivo quadro, em todos os serviços em que estiverem em contacto com o público, conforme o plano e modelo que forem estabelecidos.
+Art. 179.º Os funcionários dos C. T. T. U. usarão uniforme especial, com distintivos que indiquem a sua categoria dentro do respectivo quadro, em todos os serviços em que estiverem em contacto com o público, conforme o plano e modelo que forem estabelecidos.
 
-###### Art. 180.º - 1. Os funcionários dos C. T. T. U. terão ainda os seguintes direitos:
+Art. 180.º - 1. Os funcionários dos C. T. T. U. terão ainda os seguintes direitos:
 
 a) A assistência médica, médico-cirúrgica, medicamentosa e hospitalar, extensiva aos seus familiares, nos termos a estabelecer pelo Governador, sob proposta do conselho de administração;
 
@@ -2008,27 +2060,27 @@ e) A subsídio diário, quando previsto em legislação especial.
 
 4. O direito a habitação poderá incluir o respectivo mobiliário, necessário a uma conveniente instalação, para os casos e nas condições que forem estabelecidos.
 
-###### Art. 181.º A aposentação dos funcionários dos C. T. T. U. rege-se pelas normas estabelecidas na legislação geral.
+Art. 181.º A aposentação dos funcionários dos C. T. T. U. rege-se pelas normas estabelecidas na legislação geral.
 
-###### Art. 182.º - 1. Além das penas disciplinares a que estão sujeitos nos termos da lei geral, os funcionários e agentes dos C. T. T. U. sob cuja responsabilidade se tenha extraviado ou deteriorado qualquer objecto postal ou omitida a transmissão total de um telegrama ficam obrigados ao pagamento das indemnizações e reembolsos a que os interessados tiverem direito perante o Estado nos termos regulamentares.
+Art. 182.º - 1. Além das penas disciplinares a que estão sujeitos nos termos da lei geral, os funcionários e agentes dos C. T. T. U. sob cuja responsabilidade se tenha extraviado ou deteriorado qualquer objecto postal ou omitida a transmissão total de um telegrama ficam obrigados ao pagamento das indemnizações e reembolsos a que os interessados tiverem direito perante o Estado nos termos regulamentares.
 
 2. Ficam os mesmos funcionários ou agentes sujeitos a idêntica obrigação pelas taxas dos telegramas indevidamente transmitidos sem prévia e total cobrança, quando esta não for possível posteriormente.
 
 3. A igual procedimento ficam sujeitos os funcionários e agentes que não tenham cobrado as taxas devidas por chamadas telefónicas urbanas, interurbanas ou para o exterior, efectuadas a partir de postos telefónicos dos C. T. T. U., quando não possa realizar-se a cobrança posteriormente.
 
-###### Art. 183.º - 1. É vedado aos funcionários e agentes dos C. T. T. U. o serviço de correspondente noticioso da imprensa ou radiodifusão sonora e visual e o de representante de empresas jornalísticas ou agências de notícias.
+Art. 183.º - 1. É vedado aos funcionários e agentes dos C. T. T. U. o serviço de correspondente noticioso da imprensa ou radiodifusão sonora e visual e o de representante de empresas jornalísticas ou agências de notícias.
 
 2. Os funcionários dos C. T. T. U. na situação de actividade no quadro não podem desempenhar funções alheias aos serviços sem autorização do Governador da província respectiva, mediante parecer favorável do director provincial ou chefe da repartição provincial.
 
-###### Art. 184.º O pessoal dos C. T. T. U. é obrigado, em tempo de paz ou de guerra, a coadjuvar ou desempenhar os serviços de telecomunicações e posta militar, nos termos da legislação especial sobre a matéria.
+Art. 184.º O pessoal dos C. T. T. U. é obrigado, em tempo de paz ou de guerra, a coadjuvar ou desempenhar os serviços de telecomunicações e posta militar, nos termos da legislação especial sobre a matéria.
 
-###### Art. 185.º - 1. Os funcionários dos C. T. T. U. deverão lavrar autos de todos os factos ocorridos contra as leis relativas aos serviços, intimar ou mandar intimar peritos para exame do corpo de delito, procedendo em tudo como lhes for atribuído pelos referidos diplomas.
+Art. 185.º - 1. Os funcionários dos C. T. T. U. deverão lavrar autos de todos os factos ocorridos contra as leis relativas aos serviços, intimar ou mandar intimar peritos para exame do corpo de delito, procedendo em tudo como lhes for atribuído pelos referidos diplomas.
 
 2. Os autos referidos no número anterior serão enviados no prazo de três dias ao respectivo agente do Ministério Público ou juiz instrutor, por intermédio do órgão de que dependa o autuante, e farão fé em juízo até prova em contrário.
 
 ### CAPÍTULO XX — Disposições diversas
 
-###### Art. 186.º - 1. Os Governadores das províncias ultramarinas poderão instituir, sob proposta do conselho de administração dos C. T. T. U., os serviços sociais, aos quais incumbirá a promoção de iniciativas e obras de carácter social a favor dos funcionários dos C. T. T. U., no activo ou na situação de aposentação, e respectivas famílias, tais como cantinas, parques de férias, creches, casas de habitação e outras, bem como determinar a fusão e integração nestes serviços das instituições já existentes ligadas aos C. T. T. U. que tenham objectivos semelhantes, incluindo as que hajam sido fundadas e subscritas pelos próprios funcionários dos C. T. T. U., com a concordância dos órgãos administrativos destas.
+Art. 186.º - 1. Os Governadores das províncias ultramarinas poderão instituir, sob proposta do conselho de administração dos C. T. T. U., os serviços sociais, aos quais incumbirá a promoção de iniciativas e obras de carácter social a favor dos funcionários dos C. T. T. U., no activo ou na situação de aposentação, e respectivas famílias, tais como cantinas, parques de férias, creches, casas de habitação e outras, bem como determinar a fusão e integração nestes serviços das instituições já existentes ligadas aos C. T. T. U. que tenham objectivos semelhantes, incluindo as que hajam sido fundadas e subscritas pelos próprios funcionários dos C. T. T. U., com a concordância dos órgãos administrativos destas.
 
 2. A orientação superior dos serviços sociais competirá ao director provincial ou chefe de repartição provincial, que nomeará uma comissão administrativa, constituída por três funcionários dos C. T. T. U., à qual caberá administrar os referidos fundos e executar o necessário para o bom funcionamento e desenvolvimento dos serviços sociais, bem como organizar e prestar, na qualidade de exactor, conta de responsabilidade dos fundos que gere, por anos económicos, que remeterá aos serviços administrativos e financeiros, para os trâmites legais.
 
@@ -2070,19 +2122,19 @@ n) Todas as demais receitas que por lei pertencem às instituições a integrar 
 
 7. Aos sócios e subscritores das referidas instituições que já não sejam funcionários dos C. T. T. U. é facultado pedir a desistência ou exoneração daquelas qualidades, sendo-lhes, neste caso, restituída uma importância a fixar pelo conselho de administração dos C. T. T. U., tendo em atenção o montante das quotizações pagas.
 
-###### Art. 187.º O Serviço de Valores Postais, directamente dependente da Direcção-Geral de Obras Públicas e Comunicações, será chefiado, em comissão ordinária, por um director de 1.ª classe, nos termos do artigo 5.º do [Decreto n.º 37050](https://diariodarepublica.pt/dr/detalhe/decreto/37050-1948-372642), de 8 de Setembro de 1948.
+Art. 187.º O Serviço de Valores Postais, directamente dependente da Direcção-Geral de Obras Públicas e Comunicações, será chefiado, em comissão ordinária, por um director de 1.ª classe, nos termos do artigo 5.º do [Decreto n.º 37050](https://diariodarepublica.pt/dr/detalhe/decreto/37050-1948-372642), de 8 de Setembro de 1948.
 
-###### Art. 188.º Os directores de 1.ª e 2.ª classes dos C. T. T. U. que prestem serviço no organismo competente do Ministério do Ultramar podem ser livremente transferidos pelo Ministro para ocupar qualquer vaga que na respectiva categoria e especialidade venha a verificar-se no quadro comum a que se refere o n.º 1 do artigo 128.º do presente decreto.
+Art. 188.º Os directores de 1.ª e 2.ª classes dos C. T. T. U. que prestem serviço no organismo competente do Ministério do Ultramar podem ser livremente transferidos pelo Ministro para ocupar qualquer vaga que na respectiva categoria e especialidade venha a verificar-se no quadro comum a que se refere o n.º 1 do artigo 128.º do presente decreto.
 
-###### Art. 189.º - 1. Às quantias em dívida aos C. T. T. U., respectivos juros e demais encargos são aplicáveis as disposições reguladoras das execuções fiscais.
+Art. 189.º - 1. Às quantias em dívida aos C. T. T. U., respectivos juros e demais encargos são aplicáveis as disposições reguladoras das execuções fiscais.
 
 2. Para cobrança coerciva das dívidas aos C. T. T. U., seja qual for a sua origem, natureza ou título, têm força executiva, nos termos e para os efeitos do Código das Execuções Fiscais, as certidões elaboradas nos seus órgãos, as quais servirão de base à execução.
 
-###### Art. 190.º Nas províncias em que não haja organismos oficiais a quem incumba especialmente o licenciamento e fiscalização das instalações de produção, transporte e distribuição de energia eléctrica, continuarão tais atribuições a pertencer aos C. T. T. U.
+Art. 190.º Nas províncias em que não haja organismos oficiais a quem incumba especialmente o licenciamento e fiscalização das instalações de produção, transporte e distribuição de energia eléctrica, continuarão tais atribuições a pertencer aos C. T. T. U.
 
-###### Art. 191.º A data limite para a apresentação da estatística postal estabelecida no § 1.º do artigo 52.º do respectivo regulamento, aprovado pelo [Decreto n.º 42821](https://diariodarepublica.pt/dr/detalhe/decreto/42821-1960-279273), de 26 de Janeiro de 1960, é alterada para 30 de Abril.
+Art. 191.º A data limite para a apresentação da estatística postal estabelecida no § 1.º do artigo 52.º do respectivo regulamento, aprovado pelo [Decreto n.º 42821](https://diariodarepublica.pt/dr/detalhe/decreto/42821-1960-279273), de 26 de Janeiro de 1960, é alterada para 30 de Abril.
 
-###### Art. 192.º - 1. Em matéria de disciplina, são aplicáveis aos funcionários dos C. T. T. U. as correspondentes disposições do Estatuto do Funcionalismo Ultramarino, ressalvado o que se dispõe nos n.os 2 e 3 deste artigo.
+Art. 192.º - 1. Em matéria de disciplina, são aplicáveis aos funcionários dos C. T. T. U. as correspondentes disposições do Estatuto do Funcionalismo Ultramarino, ressalvado o que se dispõe nos n.os 2 e 3 deste artigo.
 
 2. A aplicação das penas disciplinares previstas no artigo 354.º do Estatuto do Funcionalismo Ultramarino aos funcionários dos C. T. T. U. defere-se em harmonia com a seguinte escala de competências, envolvendo sempre a competência disciplinar dos superiores a dos seus inferiores hierárquicos dentro do serviço:
 
@@ -2100,17 +2152,17 @@ e) As dos n.os 8.º e 9.º, quando se trate de funcionários do quadro superior,
 
 ### CAPÍTULO XXI — Disposições transitórias
 
-###### Art. 193.º - 1. A estrutura dos departamentos centrais e regionais estabelecida no presente decreto só se tornará efectiva à medida que os Governadores das respectivas províncias o julguem oportuno e as disponibilidades financeiras o permitam, podendo ser determinado entretanto que a jurisdição de uma repartição ou departamento distrital abranja mais de um distrito.
+Art. 193.º - 1. A estrutura dos departamentos centrais e regionais estabelecida no presente decreto só se tornará efectiva à medida que os Governadores das respectivas províncias o julguem oportuno e as disponibilidades financeiras o permitam, podendo ser determinado entretanto que a jurisdição de uma repartição ou departamento distrital abranja mais de um distrito.
 
 2. Continuarão a ser pagas ao pessoal dos C. T. T. U. as remunerações acessórias autorizadas pela legislação em vigor, enquanto a respectiva matéria não for regulamentada na província de acordo com o preceituado neste diploma.
 
-###### Art. 194.º - 1. Os funcionários que no actual quadro comum do pessoal superior ocupem lugares de inspector e de director de 1.ª e 2.ª classes transitam para idênticas categorias do quadro do pessoal superior, por despacho do Ministro do Ultramar, simplesmente anotado pelo Tribunal de Contas, e entrarão em funções na data da sua publicação no Diário do Governo, com dispensa de posse.
+Art. 194.º - 1. Os funcionários que no actual quadro comum do pessoal superior ocupem lugares de inspector e de director de 1.ª e 2.ª classes transitam para idênticas categorias do quadro do pessoal superior, por despacho do Ministro do Ultramar, simplesmente anotado pelo Tribunal de Contas, e entrarão em funções na data da sua publicação no Diário do Governo, com dispensa de posse.
 
 2. Os funcionários que no actual quadro comum do pessoal superior ocupem lugares de director de 3.ª classe transitam para os lugares de director de 3.ª classe dos quadros privativos das províncias em que se encontrem colocados, por despacho do respectivo Governador, simplesmente anotado pelo Tribunal Administrativo, e entrarão em funções na data da sua publicação no Boletim Oficial, com dispensa de posse.
 
 3. Com excepção dos assalariados, os funcionários dos actuais quadros privativos transitarão para os lugares que nos quadros gerais, estabelecidos pelos Governadores na sequência do indicado no n.º 2 do artigo 130.º, tenham idêntica designação, por despacho do respectivo Governador, simplesmente anotado pelo Tribunal Administrativo, e entrarão em funções na data da sua publicação no Boletim Oficial com dispensa de posse para aqueles cuja anterior forma de provimento fosse a de nomeação vitalícia.
 
-###### Art. 195.º - 1. Os directores de 1.ª e 2.ª classes existentes à data da entrada em vigor do presente decreto poderão ocupar qualquer dos cargos estabelecidos na presente orgânica para aquela categoria de funcionários.
+Art. 195.º - 1. Os directores de 1.ª e 2.ª classes existentes à data da entrada em vigor do presente decreto poderão ocupar qualquer dos cargos estabelecidos na presente orgânica para aquela categoria de funcionários.
 
 2. Enquanto não houver directores de 1.ª e 2.ª classes licenciados em Economia e/ou Finanças ou promovidos a estas categorias a partir de director de 3.ª classe do quadro do pessoal administrativo, poderão os actuais directores de 1.ª e 2.ª classes que hajam ascendido ou venham a ascender, no prazo de dois anos, a estas categorias por via de promoção dos quadros privativos, desempenhar os cargos que, por virtude da presente orgânica, deveriam ser preenchidos por aqueles.
 
@@ -2122,7 +2174,7 @@ e) As dos n.os 8.º e 9.º, quando se trate de funcionários do quadro superior,
 
 6. Os lugares que ficarem vagos nos quadros do pessoal dos C. T. T. U. após a transição dos funcionários e agentes dos mesmos serviços, nos termos das disposições do presente decreto, poderão ser preenchidos por livre escolha do Ministro do Ultramar ou dos Governadores das províncias ultramarinas, sob proposta do conselho de administração dos C. T. T. U. da respectiva província, de entre funcionários de categoria imediatamente inferior, por despacho simplesmente anotado pelo Tribunal de Contas ou pelo Tribunal Administrativo, conforme os casos, com dispensa de concurso, tempo de serviço na categoria, habilitações literárias e quaisquer outras formalidades.
 
-###### Art. 196.º - 1. Sem prejuízo do disposto no n.º 3 do artigo 194.º, na transição do pessoal dos actuais quadros privativos, incluindo os dois quadros especiais, para os novos quadros gerais observar-se-ão as normas constantes dos números seguintes.
+Art. 196.º - 1. Sem prejuízo do disposto no n.º 3 do artigo 194.º, na transição do pessoal dos actuais quadros privativos, incluindo os dois quadros especiais, para os novos quadros gerais observar-se-ão as normas constantes dos números seguintes.
 
 2. Para os lugares dos quadros do pessoal de exploração que a seguir se mencionam, transitam os funcionários, de nomeação vitalícia ou por contrato, que se indicam:
 
@@ -2320,49 +2372,49 @@ h) Contínuo de 3.ª classe - contínuos de qualquer classe com menos de cinco a
 
 6. Poderão ainda transitar para lugares de mecânico de 2.ª classe do quadro do pessoal técnico, até ao limite das vagas existentes, por escolha dos Governadores, sob proposta dos respectivos conselhos de administração ou, se estes não existirem, dos chefes da repartição provincial, os condutores ou motoristas de automóveis, contratados, com mais de quinze anos de efectivo serviço e boas informações.
 
-###### Art. 197.º - 1. O pessoal que nos quadros privativos se encontre provido em regime de interinidade e de assalariamento - dentro ou fora dos quadros - poderá ser mandado transitar pelos Governadores das províncias, sob proposta dos conselhos de administração, para os quadros gerais, especiais ou auxiliar, conforme o tipo e categoria das funções exercidas e a exercer, com dispensa de concurso, habilitações literárias e limite de idade.
+Art. 197.º - 1. O pessoal que nos quadros privativos se encontre provido em regime de interinidade e de assalariamento - dentro ou fora dos quadros - poderá ser mandado transitar pelos Governadores das províncias, sob proposta dos conselhos de administração, para os quadros gerais, especiais ou auxiliar, conforme o tipo e categoria das funções exercidas e a exercer, com dispensa de concurso, habilitações literárias e limite de idade.
 
 2. A forma da sua transição para os novos quadros será a que for estabelecida pelos Governadores, para os quadros especiais ou auxiliar, e a de contrato, para a hipótese de a sua transição ser determinada para os quadros gerais.
 
-###### Art. 198.º Os Governadores das províncias, ao estabelecerem os quadros especiais e auxiliar, determinarão as regras de transição do pessoal não contemplado pelas disposições anteriores.
+Art. 198.º Os Governadores das províncias, ao estabelecerem os quadros especiais e auxiliar, determinarão as regras de transição do pessoal não contemplado pelas disposições anteriores.
 
-###### Art. 199.º - 1. Nos casos em que, por aplicação do disposto neste capítulo, se verifique diminuição dos actuais vencimentos, será abonada, a título de compensação, aos referidos funcionários, enquanto não forem promovidos à categoria imediata da sua carreira ou ingressarem em categoria superior de outra carreira e estiverem na actividade do serviço, um complemento igual à diferença entre o actual e o novo vencimento.
+Art. 199.º - 1. Nos casos em que, por aplicação do disposto neste capítulo, se verifique diminuição dos actuais vencimentos, será abonada, a título de compensação, aos referidos funcionários, enquanto não forem promovidos à categoria imediata da sua carreira ou ingressarem em categoria superior de outra carreira e estiverem na actividade do serviço, um complemento igual à diferença entre o actual e o novo vencimento.
 
 2. Aos funcionários nestas condições é mantido o direito à pensão de aposentação, calculada sobre os anteriores vencimentos.
 
-###### Art. 200.º Sempre que a transição de um funcionário de um lugar para outro se opere por força das disposições do presente diploma, entender-se-á como exercido no novo lugar o tempo de serviço prestado no anterior.
+Art. 200.º Sempre que a transição de um funcionário de um lugar para outro se opere por força das disposições do presente diploma, entender-se-á como exercido no novo lugar o tempo de serviço prestado no anterior.
 
-###### Art. 201.º Os actuais funcionários de nomeação que venham a ser integrados nos quadros especiais e auxiliar manterão, enquanto estiverem ao serviço dos C. T. T. U e a despeito do disposto no n.º 3 do artigo 130.º, aquela forma de provimento com todos os direitos e obrigações que lhes são inerentes.
+Art. 201.º Os actuais funcionários de nomeação que venham a ser integrados nos quadros especiais e auxiliar manterão, enquanto estiverem ao serviço dos C. T. T. U e a despeito do disposto no n.º 3 do artigo 130.º, aquela forma de provimento com todos os direitos e obrigações que lhes são inerentes.
 
-###### Art. 202.º - 1. Os actuais chefes de secção de exploração, primeiros-oficiais, segundos-oficiais ou terceiros-oficiais, e ainda os operadores do quadro do pessoal de exploração que prestem serviço nas repartições ou secções dos serviços administrativos e financeiros, poderão transitar para os lugares de chefe de serviços administrativos de 3.ª classe, primeiro-oficial, segundo-oficial ou terceiro-oficial administrativo e ajudante administrativo principal, respectivamente, se o requererem no prazo de trinta dias a contar da data da publicação do presente decreto.
+Art. 202.º - 1. Os actuais chefes de secção de exploração, primeiros-oficiais, segundos-oficiais ou terceiros-oficiais, e ainda os operadores do quadro do pessoal de exploração que prestem serviço nas repartições ou secções dos serviços administrativos e financeiros, poderão transitar para os lugares de chefe de serviços administrativos de 3.ª classe, primeiro-oficial, segundo-oficial ou terceiro-oficial administrativo e ajudante administrativo principal, respectivamente, se o requererem no prazo de trinta dias a contar da data da publicação do presente decreto.
 
 2. A transição referida no número anterior, deferida pelo Governador da província mediante parecer do director provincial ou chefe de repartição provincial dos C. T. T. U., far-se-á somente depois de os actuais chefes de secção, primeiros-oficiais, segundos-oficiais ou terceiros-oficiais e aspirantes administrativos terem transitado para os correspondentes lugares do quadro do pessoal administrativo.
 
 3. Os operadores do quadro do pessoal de exploração poderão transitar também para lugares de terceiro-oficial administrativo, desde que possuam o 2.º ciclo do liceu, ou habilitações equivalentes, ou que possuam o 1.º ciclo do liceu e satisfaçam às condições definidas na alínea b) do artigo 148.º
 
-###### Art. 203.º - 1. Os movimentos de que trata o presente capítulo serão feitos, independentemente de idade e habilitações literárias, de acordo com o estabelecido no presente diploma.
+Art. 203.º - 1. Os movimentos de que trata o presente capítulo serão feitos, independentemente de idade e habilitações literárias, de acordo com o estabelecido no presente diploma.
 
 2. Até que sejam publicados os despachos previstos no artigo 194.º e no n.º 1 deste artigo, o pessoal dos C. T. T. U. manterá as suas categorias e situações e continuará a ser abonado dos seus vencimentos e outras remunerações pelas verbas que actualmente suportam os respectivos encargos.
 
-###### Art. 204.º Os lugares criados pelo presente diploma serão providos à medida das necessidades e desde que inscritos nos respectivos orçamentos privativos, de acordo com as disponibilidades orçamentais.
+Art. 204.º Os lugares criados pelo presente diploma serão providos à medida das necessidades e desde que inscritos nos respectivos orçamentos privativos, de acordo com as disponibilidades orçamentais.
 
-###### Art. 205.º O presente decreto entrará em vigor nas províncias de Angola e de Moçambique no dia 1 de Janeiro de 1974, e nas restantes províncias nas datas que forem fixadas por portaria do Ministro do Ultramar, ficando nessas datas revogada em cada província toda a legislação que expressa ou tacitamente contrarie as suas disposições, nomeadamente o [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
+Art. 205.º O presente decreto entrará em vigor nas províncias de Angola e de Moçambique no dia 1 de Janeiro de 1974, e nas restantes províncias nas datas que forem fixadas por portaria do Ministro do Ultramar, ficando nessas datas revogada em cada província toda a legislação que expressa ou tacitamente contrarie as suas disposições, nomeadamente o [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
 
-###### Art. 206.º Nas províncias onde exista Caixa Económica Postal continuam a vigorar as disposições aplicáveis do [Decreto n.º 15490](https://diariodarepublica.pt/dr/detalhe/decreto/15490-1928-589160), de 18 de Maio de 1928.
+Art. 206.º Nas províncias onde exista Caixa Económica Postal continuam a vigorar as disposições aplicáveis do [Decreto n.º 15490](https://diariodarepublica.pt/dr/detalhe/decreto/15490-1928-589160), de 18 de Maio de 1928.
 
-###### Art. 207.º - 1. O Ministro do Ultramar fará publicar as disposições regulamentares de carácter geral ou interessando a mais de uma província que forem necessárias.
+Art. 207.º - 1. O Ministro do Ultramar fará publicar as disposições regulamentares de carácter geral ou interessando a mais de uma província que forem necessárias.
 
 2. Os Governadores das províncias ultramarinas expedirão, sob proposta dos respectivos conselhos de administração dos C. T. T. U., os regulamentos de âmbito provincial que se mostrarem convenientes.
 
-###### Art. 208.º Todas as dúvidas e omissões que surjam na aplicação, interpretação e execução do presente decreto serão resolvidas por despacho do Ministro do Ultramar.
+Art. 208.º Todas as dúvidas e omissões que surjam na aplicação, interpretação e execução do presente decreto serão resolvidas por despacho do Ministro do Ultramar.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 17 de Agosto de 1973.**
+Promulgado em 17 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -2372,7 +2424,7 @@ Quadro comum do pessoal superior dos serviços dos correios, telégrafos e telef
 
 (Artigo 128.º, n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23300/17081744.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23300/17081744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23300/17081744.pdf)
 
 MAPA II
 
@@ -2618,4 +2670,4 @@ Contínuo de 2.ª classe ... U
 
 Contínuo de 3.ª classe ... V
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

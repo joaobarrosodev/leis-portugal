@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/14/1991/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/14-1991-466190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1f758faabf03a29a40c1ca76b098c93e17727f92bb39e4017eef3ea8c219101
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebbd8139d595036f0398d9f8e305e818622a27eea6ddcd90767e1135596921cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Certificado de Qualidade
 - Convenção
 - Cooperação Técnica
-- Portugal
 - Equipamento Eléctrico
-- RFA
-- Certificado de Qualidade
 - Normas de Segurança
+- Portugal
+- RFA
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:36Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +94,19 @@ de 5 de Março
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Especial, por troca de notas, concluído em Lisboa, em 27 de Agosto de 1990, entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha, relativo ao projecto, no âmbito da cooperação técnica luso-alemã, «Instalação de Institutos Portugueses de Controlo de Segurança e da Qualidade de Equipamentos e Componentes Eléctricos», cujos textos originais em língua portuguesa e em língua alemã seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Especial, por troca de notas, concluído em Lisboa, em 27 de Agosto de 1990, entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha, relativo ao projecto, no âmbito da cooperação técnica luso-alemã, «Instalação de Institutos Portugueses de Controlo de Segurança e da Qualidade de Equipamentos e Componentes Eléctricos», cujos textos originais em língua portuguesa e em língua alemã seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - Fernando Nunes Ferreira Real.
 
-**Assinado em 8 de Fevereiro de 1991.**
+Assinado em 8 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Fevereiro de 1991.**
+Referendado em 11 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Ministério dos Negócios Estrangeiros.
 
@@ -184,6 +184,6 @@ Desejo informar V. Ex.ª de que o Governo Português aceita a proposta do Govern
 
 Queira aceitar, Excelência, os protestos da minha mais elevada consideração.
 
-**O Ministro dos Negócios Estrangeiros, João de Deus Pinheiro.**
+O Ministro dos Negócios Estrangeiros, João de Deus Pinheiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/053a00/11041106.pdf))](https://files.diariodarepublica.pt/1s/1991/03/053a00/11041106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/053a00/11041106.pdf)

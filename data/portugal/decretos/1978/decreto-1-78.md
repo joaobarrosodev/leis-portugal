@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-1978-468849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d69f9c62b39d0a7c307972e7a4e850b57b893d12a1ecdd8a974b972a35095bfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ee81e99e26ad42634bd4f6e5e843565a9b3fee6f0298341b9fad69753bd6390
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Erupção Vulcânica
+- Meio Marinho
+- Paris
+- Poluição Marinha
+- Portugal
+- Proteção do Ambiente
+- Resíduo
 relationships:
 - type: amended_by
   target: pt:dre:674576:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:370439:por
+  label: "Alterados os arts. 3 º, 4º e 16º da Convenção para Prevenção da Poluição Marinha de origem Telúnica, aprovado para\
+    \ ratificação no presente diploma pelo Protocolo aprovado para ratificação pelo DEC.25/88.1988.09.02.MNE, DR.IS [203]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/25-1988-370439
+  date: '1988-09-02'
+- type: amended_by
+  target: pt:dre:674576:por
+  label: "A presente Convenção foi substituida pela Convenção para a Protecção do Meio Marinho do Atlantico Nordeste aprovada\
+    \ para ratificação pelo DEC.59/97.1997.10.31.MNE, a partir da sua entrada em vigor e nos termos do seu art. 31º.\01º.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/59-1997-674576
+  date: '1997-10-31'
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:31Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +112,15 @@ de 7 de Janeiro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção para a Prevenção da Poluição Marinha de Origem Telúrica, concluída em Paris em 1974, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção para a Prevenção da Poluição Marinha de Origem Telúrica, concluída em Paris em 1974, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Assinado em 21 de Dezembro de 1977.**
+Assinado em 21 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION FOR THE PREVENTION OF MARINE POLLUTION FROM LAND-BASED SOURCES
 
@@ -515,13 +536,13 @@ Recordando a Convenção para a Prevenção da Poluição Marinha Causada por Op
 
 acordaram nas seguintes disposições:
 
-###### ARTIGO 1
+ARTIGO 1
 
 1. As Partes Contratantes comprometem-se a tomar todas as medidas possíveis para evitar a poluição do mar, o que significa a introdução pelo homem, directa ou indirectamente, de substâncias ou de energia no meio ambiente marinho (incluindo os estuários), provocando efeitos susceptíveis de colocar em perigo a saúde do homem, de causar danos aos recursos vivos e ao sistema ecológico marinho, de prejudicar as possibilidades de recreio ou de dificultar outras utilizações legítimas do mar.
 
 2. As Partes Contratantes tomarão, individualmente e em comum, medidas para combater a poluição marinha de origem telúrica, de acordo com as disposições da presente Convenção, e harmonizarão as suas políticas a esse respeito.
 
-###### ARTIGO 2
+ARTIGO 2
 
 A presente Convenção aplica-se à zona marítima compreendida dentro dos seguintes limites:
 
@@ -533,7 +554,7 @@ ii) O mar Mediterrâneo e os mares secundários até ao ponto de intersecção d
 
 b) A região do oceano Atlântico a norte de 59º de latitude norte e entre 44º de longitude oeste e 42º de longitude oeste.
 
-###### ARTIGO 3
+ARTIGO 3
 
 Para os fins da presente Convenção:
 
@@ -549,7 +570,7 @@ ii) A partir da costa, incluindo a introdução através de canalizações subma
 
 iii) A partir de estruturas artificiais localizadas sob jurisdição de uma Parte Contratante dentro dos limites da zona de aplicação da presente Convenção.
 
-###### ARTIGO 4
+ARTIGO 4
 
 1. As Partes Contratantes comprometem-se a:
 
@@ -567,7 +588,7 @@ b) Tendo em vista a redução ou, quando necessário, a eliminação da poluiç�
 
 4. As Partes Contratantes podem, além disso, conjuntamente ou individualmente, segundo os casos, definir programas ou medidas, tendo em vista a prevenção, redução ou eliminação da poluição de origem telúrica da zona marítima provocada por uma substância que não conste do Anexo A da presente Convenção, se os dados científicos tiverem estabelecido que esta substância pode constituir para a zona marítima um perigo grave, e, se for necessário, tomar medidas urgentes.
 
-###### ARTIGO 5
+ARTIGO 5
 
 1. As Partes Contratantes comprometem-se a adoptar as medidas necessárias para prevenir e, quando necessário, eliminar a poluição de origem telúrica da zona marítima provocada por substâncias radioactivas referidas na parte III do anexo A da presente Convenção.
 
@@ -579,7 +600,7 @@ b) Ter em conta os processos de contrôle em contínuo recomendados por essas or
 
 c) Coordenar o seu contrôle em contínuo e os seus estudos das substâncias radioactivas de acordo com os artigos 10 e 11 da presente Convenção.
 
-###### ARTIGO 6
+ARTIGO 6
 
 1. Com o fim de preservar e de melhorar a qualidade do meio ambiente marinho, as Partes Contratantes, sem prejuízo das disposições do artigo 4, esforçar-se-ão por:
 
@@ -597,7 +618,7 @@ c) A qualidade e a possibilidade de absorção das águas receptoras da zona mar
 
 d) A necessidade de uma política integrada de acção compatível com os imperativos da protecção do meio ambiente.
 
-###### ARTIGO 7
+ARTIGO 7
 
 As Partes Contratantes acordam em aplicar as medidas que adoptarem de modo a:
 
@@ -605,11 +626,11 @@ Não aumentar a poluição nos mares situados além da zona de aplicação da pr
 
 Não aumentar a poluição de outras origens além da de origem telúrica na zona marítima coberta pela presente Convenção.
 
-###### ARTIGO 8
+ARTIGO 8
 
 Nenhuma das disposições da presente Convenção deve ser interpretada como impedindo as Partes Contratantes de tomar medidas mais drásticas, no que se refere à luta contra a poluição marinha de origem telúrica.
 
-###### ARTIGO 9
+ARTIGO 9
 
 1. Quando a poluição de origem telúrica, proveniente do território de uma Parte Contratante e provocada por substâncias não enumeradas na parte I do anexo A da presente Convenção, é susceptível de prejudicar os interesses de uma ou mais das outras Partes à presente Convenção, as Partes Contratantes interessadas comprometem-se a consultarem-se, a pedido de uma delas, a fim de negociar um acordo de cooperação.
 
@@ -619,11 +640,11 @@ Nenhuma das disposições da presente Convenção deve ser interpretada como imp
 
 4. As Partes Contratantes signatárias destes acordos especiais informarão, por intermédio da comissão, as outras Partes Contratantes do conteúdo desses acordos, bem como dos progressos realizados no seu cumprimento.
 
-###### ARTIGO 10
+ARTIGO 10
 
 As Partes Contratantes acordam em estabelecer programas complementares ou conjuntos de investigação científica e técnica, compreendendo a investigação dos melhores métodos de eliminação ou de substituição de substâncias nocivas, com o fim de diminuir a poluição marinha de origem telúrica; comprometem-se a comunicar mutuamente as informações assim obtidas. Para isso terão em consideração os trabalhos efectuados neste domínio pelas organizações e instituições internacionais competentes.
 
-###### ARTIGO 11
+ARTIGO 11
 
 As Partes Contratantes acordam em elaborar progressivamente e em desenvolver, na zona de aplicação da presente Convenção, um sistema de observação permanente de parâmetros, que permita:
 
@@ -635,27 +656,27 @@ Para este efeito, as Partes Contratantes elaborarão as modalidades práticas de
 
 Os programas terão em consideração os programas análogos executados de acordo com as convenções já em vigor e pelas organizações e instituições internacionais competentes.
 
-###### ARTIGO 12
+ARTIGO 12
 
 1. Cada uma das Partes Contratantes compromete-se a fazer respeitar as disposições da presente Convenção e a tomar no seu território as medidas adequadas para prevenir e sancionar todo o comportamento contrário às disposições da presente Convenção.
 
 2. As Partes Contratantes informarão a comissão das medidas legislativas e administrativas tomadas, tendo em vista a aplicação das disposições do parágrafo precedente.
 
-###### ARTIGO 13
+ARTIGO 13
 
 As Partes Contratantes comprometem-se a prestar a assistência mútua, quando necessária, para evitar os acidentes que podem provocar poluição de origem telúrica, para minimizar e eliminar as consequências de tais acidentes e a trocar informações para esse mesmo fim.
 
-###### ARTIGO 14
+ARTIGO 14
 
 1. As disposições da presente Convenção não podem ser invocadas contra uma Parte Contratante, na medida em que esta esteja impedida, devido a uma poluição que tenha a sua origem no território de um Estado não contratante, de assegurar a sua completa aplicação.
 
 2. Contudo, esta Parte Contratante esforçar-se-á para cooperar com o dito Estado, a fim de tornar possível a completa aplicação da presente Convenção.
 
-###### ARTIGO 15
+ARTIGO 15
 
 Uma comissão, composta por representantes de cada uma das Partes Contratantes, é criada pela presente Convenção. A comissão reunir-se-á a intervalos regulares e a qualquer momento, quando, por força de circunstâncias especiais, assim for decidido, de acordo com o regulamento interno.
 
-###### ARTIGO 16
+ARTIGO 16
 
 A comissão terá por missão:
 
@@ -675,7 +696,7 @@ g) Fazer, de acordo com o artigo 18, recomendações relativas a eventuais modif
 
 h) Preencher quaisquer outras funções, em caso de necessidade, nos termos da presente Convenção.
 
-###### ARTIGO 17
+ARTIGO 17
 
 As Partes Contratantes transmitirão à comissão, segundo um programa padrão:
 
@@ -685,7 +706,7 @@ b) As informações disponíveis, tão detalhadas quanto possível, sobre as sub
 
 As Partes Contratantes esforçar-se-ão por melhorar progressivamente as técnicas que permitam reunir essas informações, as quais poderão contribuir para a revisão dos programas de redução de poluição, estabelecidos de acordo com o artigo 4 da presente Convenção.
 
-###### ARTIGO 18
+ARTIGO 18
 
 1. A comissão estabelecerá o seu regulamento interno, que será adoptado por unanimidade de votos.
 
@@ -699,29 +720,29 @@ Se não for possível alcançar a unanimidade, a comissão pode, contudo, adopta
 
 4. A comissão pode adoptar recomendações para alterações ao anexo A da presente Convenção por um voto de uma maioria de três quartos dos seus membros, as quais serão submetidas à aprovação dos Governos das Partes Contratantes. Qualquer Governo de uma Parte Contratante, que não esteja apto a aprovar uma alteração, notificará por escrito o Governo depositário num prazo de duzentos dias após a recomendação de alteração ter sido adoptada na comissão. Na ausência de qualquer notificação deste género, a alteração entrará em vigor para todas as Partes Contratantes duzentos dias após o voto na comissão. O Governo depositário notificará, logo que possível, as Partes Contratantes da recepção de qualquer notificação.
 
-###### ARTIGO 19
+ARTIGO 19
 
 Nas áreas da sua competência, as Comunidades Económicas Europeias exercerão o seu direito de voto com um número de votos igual ao número dos seus Estados membros, que são Partes Contratantes à presente Convenção.
 
 As Comunidades Económicas Europeias não exercerão o seu direito de voto nos casos em que os seus Estados membros exerçam o seu e vice-versa.
 
-###### ARTIGO 20
+ARTIGO 20
 
 O Governo depositário convocará a primeira reunião da comissão, logo que possível, após a entrada em vigor da presente Convenção.
 
-###### ARTIGO 21
+ARTIGO 21
 
 Qualquer diferendo entre as Partes Contratantes relacionado com a interpretação ou a aplicação da presente Convenção e que não possa ser solucionado pelas Partes interessadas, por exemplo, por inquérito ou por uma conciliação no âmbito da comissão, será, a pedido de uma dessas Partes, submetido a arbitragem, de acordo com as condições fixadas no anexo B da presente Convenção.
 
-###### ARTIGO 22
+ARTIGO 22
 
 A presente Convenção estará aberta em Paris, de 4 de Junho de 1974 a 30 de Junho de 1975, à assinatura dos Estados convidados à Conferência Diplomática sobre a Convenção para a Prevenção da Poluição Marinha de Origem Telúrica, realizada em Paris, bem como à assinatura das Comunidades Económicas Europeias.
 
-###### ARTIGO 23
+ARTIGO 23
 
 A presente Convenção será submetida a ratificação, aceitação ou aprovação. Os instrumentos de ratificação, aceitação ou de aprovação serão depositados junto do Governo da República Francesa.
 
-###### ARTIGO 24
+ARTIGO 24
 
 1. Depois de 30 de Junho de 1975, a presente Convenção estará aberta à adesão dos Estados referidos no artigo 22, bem como à adesão das Comunidades Económicas Europeias.
 
@@ -733,23 +754,23 @@ A presente Convenção será submetida a ratificação, aceitação ou aprovaç�
 
 5. Os instrumentos de adesão serão depositados junto do Governo da República Francesa.
 
-###### ARTIGO 25
+ARTIGO 25
 
 1. A presente Convenção entrara em vigor no trigésimo dia a partir da data do depósito do sétimo instrumento de ratificação, de aceitação, de aprovação ou de adesão.
 
 2. Para cada uma das Partes Contratantes que ratifique, aceite ou aprove a presente Convenção ou que a ela adira após o depósito do sétimo instrumento de ratificação, aceitação, aprovação ou adesão, a presente Convenção entrará em vigor no trigésimo dia após o depósito por essa Parte Contratante do seu instrumento de ratificação, de aceitação, aprovação ou de adesão.
 
-###### ARTIGO 26
+ARTIGO 26
 
 A qualquer momento, dois anos após a data de entrada em vigor da presente Convenção em relação a uma Parte Contratante, essa Parte Contratante poderá denunciar a Convenção por notificação escrita endereçada ao Governo depositário. A denúncia terá efeito um ano após a data em que foi recebida.
 
-###### ARTIGO 27
+ARTIGO 27
 
 1. O Governo depositário convocará, a pedido da comissão, por decisão tomada por uma maioria de dois terços dos seus membros, uma conferência com o fim de rever ou de modificar a presente Convenção.
 
 2. Aquando da adesão de um Estado, nas condições previstas nos parágrafos 2, 3 e 4 do artigo 24, a zona marítima do artigo 2 poderá ser modificada por proposta da comissão, adoptada por unanimidade de votos. Estas modificações entrarão em vigor após aprovação unânime pelas Partes Contratantes.
 
-###### ARTIGO 28
+ARTIGO 28
 
 O Governo depositário informará as Partes Contratantes e as referidas no artigo 22:
 
@@ -759,7 +780,7 @@ b) Da data em que a presente Convenção entrará em vigor em aplicação do art
 
 c) Do depósito das notificações de aprovação de denúncia e da entrada em vigor das alterações à presente Convenção e aos seus anexos, em aplicação dos artigos 18 e 27.
 
-###### ARTIGO 29
+ARTIGO 29
 
 O original da presente Convenção, cujos textos em francês e inglês fazem igualmente fé, será depositado junto do Governo da República francesa, que enviará cópias autenticadas às Partes Contratantes e aos Estados previstos no artigo 22 e enviará ainda uma cópia autenticada ao Secretário-Geral das Nações Unidas, para registo e publicação, segundo o disposto no artigo 102 das Nações Unidas.
 
@@ -779,7 +800,7 @@ c) A tendência para a bioacumulação.
 
 Estes critérios não são necessariamente de igual importância para uma substância ou um grupo de substâncias determinadas, e outros factores, tais como o local e quantidades derramadas, devem ser tomados em consideração.
 
-# PARTE I
+## PARTE I
 
 As substâncias seguintes estão incluídas nesta parte:
 
@@ -805,7 +826,7 @@ iii) Porque se considera que a poluição provocada por estas substâncias exige
 
 5. Óleos e hidrocarbonetos persistentes de origem petrolífera.
 
-# PARTE II
+## PARTE II
 
 As substâncias seguintes estão incluídas nesta parte, porque, embora apresentando características análogas às substâncias da parte I e necessitando de um contrôle rigoroso, parecem menos nocivas ou tornam-se inofensivas mais rapidamente nos processos naturais:
 
@@ -831,39 +852,41 @@ Zinco.
 
 5. Substâncias que, segundo a comissão, têm um efeito nocivo sobre o gosto e ou o odor de produtos, para consumo humano, derivados do meio marinho.
 
-# PARTE III
+## PARTE III
 
 As substâncias seguintes estão incluídas na presente parte porque, embora apresentando características análogas às substâncias da parte I e devendo ser objecto de um contrôle rigoroso, com o fim de prevenir e, se necessário, eliminar a poluição de que são a causa, são já objecto de estudo, de recomendações e instituições internacionais; estas substâncias estão submetidas às disposições do artigo 5:
 
 Substâncias radioactivas, incluindo resíduos.
 
-## ANEXO B — ARTIGO 1
+## ANEXO B
+
+###### ARTIGO 1
 
 A não ser que as partes ao diferendo decidam de outra forma, o processo de arbitragem será conduzido de acordo com as disposições do presente anexo.
 
-###### ARTIGO 2
+ARTIGO 2
 
 1. Por petição endereçada por uma Parte Contratante a outra Parte Contratante, de acordo com o artigo 21 da Convenção, será constituído um tribunal arbitral. O pedido de arbitragem indicará o assunto da petição, incluindo, nomeadamente, os artigos da Convenção cuja interpretação ou aplicação estão em litígio.
 
 2. A Parte Contratante informará a comissão de que pediu a constituição de um tribunal arbitral, do nome da outra parte ao diferendo, bem como os artigos da Convenção cuja interpretação ou aplicação são, na sua opinião, objecto de diferendo. A comissão comunicará as informações assim recebidas a todas as Partes Contratantes à Convenção.
 
-###### ARTIGO 3
+ARTIGO 3
 
 O tribunal arbitral será composto por três membros: cada uma das partes ao diferendo nomeará um árbitro; os dois árbitros assim nomeados designarão de comum acordo o terceiro árbitro, que assumirá a presidência do tribunal. Este último não deverá ser da nacionalidade de uma das partes ao diferendo, nem ter a sua residência habitual em território de uma dessas partes, nem se encontrar ao serviço de uma das duas, nem se ter já ocupado do assunto, a qualquer título.
 
-###### ARTIGO 4
+ARTIGO 4
 
 1. Se num prazo de dois meses após a nomeação do segundo árbitro o presidente do tribunal arbitral não tiver sido designado, o Secretário-Geral das Nações Unidas procederá, a pedido de qualquer das partes ao diferendo, à designação de um novo prazo de dois meses.
 
 2. Se num prazo de dois meses após a recepção da petição uma das partes ao diferendo não tiver procedido à nomeação de um árbitro a outra parte poderá informar o Secretário-Geral das Nações Unidas, que designará o presidente do tribunal arbitral, num novo prazo de dois meses. Após a sua designação, o presidente do tribunal pedirá à parte que não nomeou árbitro para o fazer num prazo de dois meses. Expirando este prazo, informará o Secretário-Geral das Nações Unidas, que procederá a esta nomeação num prazo de dois meses.
 
-###### ARTIGO 5
+ARTIGO 5
 
 1. O tribunal arbitral decidirá segundo as regras do direito internacional e, em particular, da presente Convenção.
 
 2. Qualquer tribunal arbitral constituído nos termos do presente anexo estabelecerá as suas próprias regras de procedimento.
 
-###### ARTIGO 6
+ARTIGO 6
 
 1. As decisões do tribunal arbitral, tanto nos processos como na essência, serão tomadas por maioria de votos dos seus membros.
 
@@ -875,12 +898,12 @@ O tribunal arbitral será composto por três membros: cada uma das partes ao dif
 
 5. A ausência ou a falta de uma das partes ao diferendo não constituirá impedimento ao processo.
 
-###### ARTIGO 7
+ARTIGO 7
 
 1. A sentença do tribunal arbitral será acompanhada por uma declaração de razões. Será definitiva e obrigatória para as partes ao diferendo.
 
 2. Qualquer diferendo que possa surgir entre as partes, no que diz respeito à interpretação ou à execução da sentença, poderá ser submetido, por qualquer dessas partes, ao tribunal arbitral que a proclamou ou, se este último não puder ser disso encarregado, a um tribunal constituído para este efeito, da mesma forma que o primeiro.
 
-###### ARTIGO 8
+ARTIGO 8
 
 As comunidades económicas Europeias, como qualquer outra Parte Contratante à Convenção, têm o direito de comparecer, como parte requerente ou requerida, perante o tribunal arbitral.

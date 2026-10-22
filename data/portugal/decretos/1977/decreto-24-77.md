@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-1977-140523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35dc1b0c31babf8534f2a0f8f580d349247b36ff1d88b6ea65c04e085d7e8070
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 271aa39a683c09af71cc1039f8d599396d03eead8e1c987c78b9d7a79d3098df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cabo Verde
+- Convenção
+- Portugal
+- Saúde
+relationships:
+- type: corrected_by
+  target: pt:dre:252575:por
+  label: Rectificado pela DECL.DD8328.01.06.1977.PCM, DR.IS [127] de 01.06.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-252575
+  date: '1977-06-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:03Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +95,15 @@ de 3 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo no Dominio da Saúde entre o Governo da República Portuguesa e o Governo da República de Cabo Verde, assinado em 4 de Novembro de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo no Dominio da Saúde entre o Governo da República Portuguesa e o Governo da República de Cabo Verde, assinado em 4 de Novembro de 1976, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 14 de Fevereiro de 1977.**
+Assinado em 14 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo no Domínio da Saúde entre o Governo da República Portuguesa e o Governo da República de Cabo Verde.
 
@@ -106,13 +115,13 @@ Reconhecendo a importância da cooperação no domínio da saúde e as vantagens
 
 As Partes Contratantes decidem concluir o seguinte Acordo:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1. O Estado Português compromete-se, na medida das suas possibilidades e quando solicitado pelo Estado de Cabo Verde, a assegurar o tratamento em Portugal de nacionais cabo-verdianos até quinze doentes por mês.
 
 2. O internamento destes doentes e o seu tratamento serão feitos nos diversos estabelecimentos hospitalares oficiais, dentro das disponibilidades existentes, cabendo a coordenação do processo de encaminhamento dos doentes a entidade portuguesa a designar.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1. O Estado de Cabo Verde, através da sua Embaixada em Lisboa, compromete-se a:
 
@@ -124,7 +133,7 @@ c) Promover a sua deslocação até ao local de alojamento.
 
 2. O Estado de Cabo Verde compromete-se ainda a fazer acompanhar os doentes de uma história clínica elaborada naquele Estado.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Ficam a cargo do Estado de Cabo Verde os encargos relativos a:
 
@@ -138,7 +147,7 @@ d) Próteses;
 
 e) Funeral e ou repatriamento do corpo, em caso de morte.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1. Ficam a cargo do Estado Português os encargos relativos a internamento e tratamento dos doentes, incluindo exames radiológicos e biológicos, quando os mesmos se efectuarem em estabelecimentos hospitalares ou suas dependências.
 
@@ -146,7 +155,7 @@ e) Funeral e ou repatriamento do corpo, em caso de morte.
 
 3. Quando os doentes tenham alta e regressem ao Estado de Cabo Verde, o hospital onde o tratamento foi realizado enviará relatório confidencial do tratamento à autoridade sanitária cabo-verdiana.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. Os estabelecimentos e serviços de saúde do Estado Português podem receber cidadãos do Estado de Cabo Verde, tendo em vista a formação de técnicos médicos e paramédicos, quer no domínio da medicina hospitalar, quer no domínio da saúde pública.
 
@@ -154,15 +163,15 @@ e) Funeral e ou repatriamento do corpo, em caso de morte.
 
 3. A execução do disposto nos números anteriores far-se-á nos termos do Acordo a celebrar nos domínios do ensino e da formação profissional.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 O Estado Português colaborará, na medida das suas possibilidades e quando solicitado, nos programas de saúde pública a empreender pelo Estado de Cabo Verde, nomeadamente no que se refere à epidemiologia e profilaxia de doenças transmissíveis, em condições a estabelecer entre ambas as Partes.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 As Partes Contratantes reconhecem o carácter de urgência que presidiu à celebração deste Acordo, o que determinou a impossibilidade de nele serem contemplados outros problemas de cooperação no domínio da saúde, que serão objecto de acordo complementar posterior.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 O presente Acordo entrará em vigor a partir da data da sua assinatura pelas Partes Contratantes e poderá ser denunciado por qualquer delas mediante aviso prévio de noventa dias.
 

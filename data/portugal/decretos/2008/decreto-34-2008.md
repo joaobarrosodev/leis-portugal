@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/34/2008/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-2008-452927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa41977ef0a2baf7c4b7129ef421eaf718115369a122a5c133c163e48f1e43d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 877f96d284b9eee7c7ae36635d461ad0896f6a37aefafcda3dcf1bce40277064
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Autoridade Nacional de Segurança
 - Convenção
-- Portugal
 - Documentação Classificada
 - Lisboa
+- Portugal
 - Segurança da Informação
 relationships: []
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:39Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +103,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira.
 
-**Assinado em 15 de Setembro de 2008.**
+Assinado em 15 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Setembro de 2008.**
+Referendado em 16 de Setembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA POLÓNIA SOBRE A PROTECÇÃO MÚTUA DE INFORMAÇÃO CLASSIFICADA
 
@@ -165,7 +165,7 @@ l) «Guia de classificação de segurança do projecto» designa a parte da inst
 
 Para a República Portuguesa - Autoridade Nacional de Segurança, Presidência do Conselho de Ministros, Avenida da Ilha da Madeira, 1, 1400-204 Lisboa, Portugal;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
 
 2 - Cada uma das Partes informará a outra, através dos canais diplomáticos, de qualquer alteração relativa à informação referida no n.º 1 do presente artigo.
 
@@ -173,7 +173,7 @@ Para a República Portuguesa - Autoridade Nacional de Segurança, Presidência d
 
 As Partes acordam que os seguintes graus de classificação de segurança são equivalentes e correspondem aos graus de segurança especificados no respectivo direito em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
 
 ###### Artigo 6.º — Regras de segurança
 
@@ -203,7 +203,7 @@ As Partes acordam que os seguintes graus de classificação de segurança são e
 
 ###### Artigo 8.º — Tradução, reprodução e destruição
 
-1 - A informação classificada marcada como [([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)/Muito secreto/Top secret só poderá ser traduzida ou reproduzida após autorização escrita da autoridade nacional de segurança da Parte transmissora.
+1 - A informação classificada marcada como [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)/Muito secreto/Top secret só poderá ser traduzida ou reproduzida após autorização escrita da autoridade nacional de segurança da Parte transmissora.
 
 2 - As traduções e reproduções de informação classificada deverão obedecer aos seguintes procedimentos:
 
@@ -215,7 +215,7 @@ c) As traduções e o número de cópias a efectuar deverão ser limitadas às r
 
 d) As traduções deverão ter a indicação, na língua para que foram traduzidas, de que contém informação classificada recebida da Parte transmissora.
 
-3 - A informação classificada marcada como [([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)/Muito secreto/Top secret não poderá ser destruída, devendo ser devolvida à autoridade nacional de segurança da Parte transmissora.
+3 - A informação classificada marcada como [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)/Muito secreto/Top secret não poderá ser destruída, devendo ser devolvida à autoridade nacional de segurança da Parte transmissora.
 
 4 - A destruição de informação classificada marcada como Secreto/Tajne/Secret efectuada deverá ser notificada previamente à Parte transmissora.
 
@@ -361,11 +361,11 @@ Feito em Lisboa, aos 2 de Agosto de 2007, em dois originais em português, polac
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
 
 Pela República da Polónia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF POLAND ON MUTUAL PROTECTION OF CLASSIFIED INFORMATION
 
@@ -427,7 +427,7 @@ Responsible authorities
 
 For the Portuguese Republic - Autoridade Nacional de Segurança, Presidência do Conselho de Ministros, Avenida da Ilha da Madeira, 1, 1400-204 Lisboa, Portugal;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
 
 2 - The Parties shall inform each other, through diplomatic channels, about any modification concerning the information provided in paragraph 1 of the present article.
 
@@ -437,7 +437,7 @@ Security classifications and equivalences
 
 The Parties agree that the following security classification levels are equivalent and correspond to the security classification levels specified in the law in force of each Party:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
 
 Article 6
 
@@ -473,7 +473,7 @@ Article 8
 
 Translation, reproduction and destruction
 
-1 - Classified information marked as [([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)/Muito secreto/Top secret shall be translated or reproduced only upon the written permission of the national security authority of the transmitting Party.
+1 - Classified information marked as [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)/Muito secreto/Top secret shall be translated or reproduced only upon the written permission of the national security authority of the transmitting Party.
 
 2 - Translations and reproductions of classified information shall be made in accordance with the following procedures:
 
@@ -485,7 +485,7 @@ c) The translations and the number of reproductions shall be limited to the requ
 
 d) The translations shall bear an appropriate note in the language into which it is translated indicating that it contains classified information received from the transmitting Party.
 
-3 - Classified Information marked as [([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)/Muito secreto/Top secret shall not be destroyed and it shall be returned to the national security authority of the transmitting Party.
+3 - Classified Information marked as [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)/Muito secreto/Top secret shall not be destroyed and it shall be returned to the national security authority of the transmitting Party.
 
 4 - Destruction of classified information marked as Tajne/Secreto/Secret shall be notified to the transmitting Party.
 
@@ -653,8 +653,8 @@ Done at Lisbon, on August 2, 2007 in two originals, each one in the portuguese, 
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
 
 For the Republic of Poland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0710607117.pdf)

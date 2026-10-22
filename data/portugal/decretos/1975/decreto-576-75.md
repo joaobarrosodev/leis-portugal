@@ -48,36 +48,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/576-1975-311632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25a5e1b18c4fbb6772f388a2c9b9ba34f19a638cdcdfe73de76071370a512b79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87ac69d50160948fd38bc6fe3a89a794b4281b4fa8e545982738547bce06e4d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo
+- Comércio
+- Política de Cooperação
+- Portugal
+- Roménia
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:11Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +93,15 @@ de 7 de Outubro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Comércio a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia, assinado em Bucareste em 14 de Junho de 1975, bem como a declaração relativa ao disposto no artigo 3 do Acordo em apreço, cujos textos em português vão anexos ao presente decreto.
+Artigo único. É aprovado o Acordo de Comércio a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia, assinado em Bucareste em 14 de Junho de 1975, bem como a declaração relativa ao disposto no artigo 3 do Acordo em apreço, cujos textos em português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Jorge Fernando Branco de Sampaio.
 
-**Assinado em 15 de Setembro de 1975.**
+Assinado em 15 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Acordo de Comércio a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia:
 
@@ -110,17 +115,17 @@ Considerando a existência de condições favoráveis à intensificação e à d
 
 Acordaram no seguinte:
 
-###### ARTIGO 1
+ARTIGO 1
 
 No âmbito das regulamentações em vigor em cada um dos países, as Partes Contratantes tomarão todas as medidas necessárias para promover um desenvolvimento harmonioso e tanto quanto possível equilibrado das suas trocas comerciais e serviços que lhes respeitam, bem como a diversificação dessas trocas, em conformidade com as disposições do presente Acordo.
 
-###### ARTIGO 2
+ARTIGO 2
 
 Com este objectivo, as Partes Contratantes reafirmam que, no quadro das suas relações comerciais, se concederão mutuamente o tratamento de nação mais favorecida, tal como foi estipulado no GATT.
 
 Cada Parte Contratante aplicará às importações de mercadorias originárias e provenientes de outra Parte Contratante um tratamento tão favorável como o concedido às mercadorias similares importadas de outros países beneficiando do tratamento da nação mais favorecida.
 
-###### ARTIGO 3
+ARTIGO 3
 
 O tratamento da nação mais favorecida, segundo o disposto no artigo 2, não se aplicará às vantagens:
 
@@ -128,21 +133,21 @@ Que uma das Partes Contratantes conceda ou venha a conceder aos países limítro
 
 Resultantes da participação actual ou futura de uma das Partes Contratantes numa reunião aduaneira ou numa zona de comércio livre.
 
-###### ARTIGO 4
+ARTIGO 4
 
 1. Os contratos relativos ao fornecimento de mercadorias e às prestações de serviços respeitantes ao comércio externo serão concluídos, do lado português, pelas pessoas físicas e jurídicas habilitadas a exercer o comércio externo, e do lado romeno, pelas empresas do comércio externo romeno agindo como pessoas jurídicas independentes ou por pessoas jurídicas independentes habilitadas, segundo os regulamentos em vigor, a exercer o comércio externo.
 
 2. Com vista a contribuir para a estabilidade das trocas entre os dois países, as Partes Contratantes encararão favoravelmente a conclusão de contratos a longo prazo entre as empresas dos dois países.
 
-###### ARTIGO 5
+ARTIGO 5
 
 As mercadorias que constituem objecto das trocas entre Portugal e a Roménia serão destinadas ao consumo no país importador, sem que possam ser reexportadas para terceiros países, salvo acordo prévio do país de origem.
 
-###### ARTIGO 6
+ARTIGO 6
 
 As Partes Contratantes conceder-se-ão, com vista a obter um melhor conhecimento dos respectivos mercados, facilidades recíprocas no que respeita ao envio de missões especializadas e à organização de semanas técnicas, e autorizarão reciprocamente, em conformidade com as leis e regulamentações em vigor nos dois países, a organização de exposições e a participação em feiras e salões permanentes ou temporários, e fornecerão o seu apoio à organização e ao funcionamento dessas exposições, feiras e salões.
 
-###### ARTIGO 7
+ARTIGO 7
 
 As Partes Contratantes autorizarão, de acordo com as suas leis, regulamentos e disposições em vigor, a importação e a exportação, com isenção de direitos aduaneiros, taxas e outros encargos da mesma natureza que não tenham o carácter de um pagamento de serviços, de:
 
@@ -156,11 +161,11 @@ d) Equipamentos e outros produtos, em regime de importação temporária, destin
 
 e) Embalagens marcadas, importadas vazias para serem reexportadas cheias, ou importadas cheias para serem reexportadas vazias ou cheias.
 
-###### ARTIGO 8
+ARTIGO 8
 
 As Partes Contratantes acordaram que os pagamentos resultantes das operações realizadas no quadro do presente Acordo serão efectuados em divisas livremente convertíveis e em conformidade com a regulamentação de câmbios em vigor em cada país.
 
-###### ARTIGO 9
+ARTIGO 9
 
 1. As Partes Contratantes decidem constituir uma comissão mista governamental, que reunirá em sessão plenária uma vez por ano, alternadamente em Bucareste e em Lisboa, e que poderá igualmente ser convocada em sessão extraordinária a pedido de uma das Partes Contratantes.
 
@@ -170,7 +175,7 @@ As Partes Contratantes acordaram que os pagamentos resultantes das operações r
 
 4. A comissão mista governamental pode constituir, se se revelar necessário, subcomissões e grupos de trabalho, para o exame de questões particulares decorrentes das relações comerciais entre os dois países, incluindo as que respeitem a domínios colaterais, tais como a colaboração económica, técnica e científica, os transportes, os investimentos, o financiamento, os pagamentos, etc.
 
-###### ARTIGO 10
+ARTIGO 10
 
 O presente Acordo será submetido para aprovação às autoridades competentes dos dois países, em conformidade com as disposições legais em vigor em cada um deles.
 
@@ -180,7 +185,7 @@ O Acordo será prorrogado automaticamente por novos períodos de um ano, desde q
 
 As disposições do presente Acordo continuarão a ser aplicadas às transacções comerciais em execução na data de expiração da validade do mesmo até à sua consumação definitiva.
 
-###### ARTIGO 11
+ARTIGO 11
 
 O presente Acordo substitui o Acordo Comercial concluído entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia, assinado em Bucareste, em 7 de Dezembro de 1967.
 

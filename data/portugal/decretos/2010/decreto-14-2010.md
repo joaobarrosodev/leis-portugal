@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/14/2010/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/14-2010-307647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fe4903b30465915406e1b8e59b8a89fd2ed54f7687363ee5493287c0f649b90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa05d64672bdac356f6be40174fa43a0282912d3ca746130adabf7517ab7b5f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Acesso à Informação
 - Convenção
-- Portugal
 - Espanha
+- Portugal
 - Registo Civil
 - Registo Comercial
 - Zamora
@@ -77,13 +77,13 @@ relationships: []
 article_structure:
   article_count: 11
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:34Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Alberto de Sousa Martins.
 
-**Assinado em 14 de Outubro de 2010.**
+Assinado em 14 de Outubro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Outubro de 2010.**
+Referendado em 14 de Outubro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA RELATIVO AO ACESSO A INFORMAÇÕES EM MATÉRIA DE REGISTO CIVIL E COMERCIAL
 
@@ -208,11 +208,11 @@ Feito em Zamora, em 22 de Janeiro de 2009, em dois originais, nas línguas portu
 
 Pela República Portuguesa:
 
-**O Ministro da Justiça, Alberto Costa.**
+O Ministro da Justiça, Alberto Costa.
 
 Pelo Reino de Espanha:
 
-**O Ministro da Justiça, Mariano Fernández Bermejo.**
+O Ministro da Justiça, Mariano Fernández Bermejo.
 
 ACUERDO ENTRE LA REPÚBLICA PORTUGUESA Y EL REINO DE ESPAÑA SOBRE EL ACCESO A INFORMACIÓN EN MATERIA DE REGISTRO CIVIL Y MERCANTIL
 

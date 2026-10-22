@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/55/2008/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/55-2008-440566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81435bb9b56764b43dfc320abac9b35e36c219a58cf9f05770fb7fa85a56f177
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 285dd69224b599eecdaaea1de354aebcf805f187066b61ea3c8073f282a6c817
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,21 @@ subjects:
 - África do Sul
 - Cabora Bassa
 - Convenção
-- Moçambique
-- Portugal
 - Hidroeléctrica de Cabora Bassa
 - Maputo
+- Moçambique
+- Portugal
 relationships: []
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:59Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +105,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos.
 
-**Assinado em 28 de Outubro de 2008.**
+Assinado em 28 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Outubro de 2008.**
+Referendado em 30 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA DA ÁFRICA DO SUL, O GOVERNO DA REPÚBLICA DE MOÇAMBIQUE E O GOVERNO DA REPÚBLICA PORTUGUESA RELATIVO A ALTERAÇÕES AO ACORDO RESPEITANTE AO PROJECTO DE CAHORA BASSA DE 2 DE MAIO DE 1984.
 
@@ -163,17 +163,17 @@ Em fé do que os abaixo assinados, encontrando-se devidamente autorizados para o
 
 27 de Novembro de 2007.
 
-**A Ministra de Minas e Energia da República da África do Sul:**
+A Ministra de Minas e Energia da República da África do Sul:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf))](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
 
-**O Ministro da Energia da República de Moçambique:**
+O Ministro da Energia da República de Moçambique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf))](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
 
-**O Ministro de Estado e das Finanças da República Portuguesa:**
+O Ministro de Estado e das Finanças da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf))](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
 
 ## ANEXO 1 — Modificações do Acordo Originário
 
@@ -287,15 +287,15 @@ Done at Maputo on this 27 day of November 2007.
 
 For and on behalf of the Government of the Republic of South Africa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf))](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
 
 For and on behalf of the Government of the Republic of Mozambique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf))](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
 
 For and on behalf of the Republic of Portugal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf))](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/23100/0853108535.pdf)
 
 SCHEDULE 1
 

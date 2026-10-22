@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/2004/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-2004-210799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e1c9ed21d29cfd73ea8b1c12d236ab745c4c77217393175ae81e2b442eaab94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51b265e230dd2500084f64c05c127cfbf56b47bd583a704998256b4f868075ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Brasília
-- Formação Profissional
-- Convenção
-- Portugal
-- Combate à Droga
-- Droga
 - Brasil
+- Brasília
+- Combate à Droga
+- Convenção
+- Droga
+- Formação Profissional
+- Portugal
 relationships: []
 article_structure:
-  article_count: 0
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:53Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +105,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Nuno Albuquerque Morais Sarmento - Luís Filipe Pereira.
 
-**Assinado em 10 de Março de 2004.**
+Assinado em 10 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Março de 2004.**
+Referendado em 14 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 PROTOCOLO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FEDERATIVA DO BRASIL PARA A REDUÇÃO DA PROCURA, COMBATE À PRODUÇÃO E REPRESSÃO AO TRÁFICO ILÍCITO DE DROGAS E SUBSTÂNCIAS PSICOTRÓPICAS, PARA O ESTABELECIMENTO DE UM PLANO DE FORMAÇÃO DE TÉCNICOS.
 
@@ -127,45 +127,45 @@ Considerando o disposto no artigo II do supracitado Acordo:
 
 Acordam no seguinte:
 
-Artigo I
+###### Artigo I
 
 As Partes Outorgantes estabelecerão um Plano de Formação de Técnicos para desenvolver acções formativas do pessoal técnico responsável pela recolha, tratamento e divulgação dos dados relevantes em matéria de caracterização do fenómeno e prevenção das toxicodependências.
 
-Artigo II
+###### Artigo II
 
 Os órgãos executantes do presente Protocolo serão, pelo lado da República Portuguesa, o Ministério da Saúde, através do Instituto Português da Droga e da Toxicodependência (IPDT) e pelo lado da República Federativa do Brasil, a Secretaria Nacional Antidrogas (SENAD).
 
-Artigo III
+###### Artigo III
 
 Comprometem-se as Partes Outorgantes, em matéria de prevenção primária das toxicodependências, a desenvolver todos os esforços necessários para a uniformização de procedimentos técnico-científicos aplicáveis à recolha, tratamento e divulgação de informação.
 
-Artigo IV
+###### Artigo IV
 
 Comprometem-se as Partes Outorgantes a trocar, periodicamente, informação referente às toxicodependências e, ainda, a prestar mutuamente toda a assistência técnico-científica para um melhor conhecimento do fenómeno da droga e da toxicodependência.
 
-Artigo V
+###### Artigo V
 
 O Ministério da Saúde, através do IPDT, assegura a comparticipação financeira para o desenvolvimento do acima estipulado, até o montante de (euro) 125000 por ano, durante o prazo máximo de três anos.
 
-Artigo VI
+###### Artigo VI
 
 1 - O Ministério da Saúde, através do IPDT, e a SENAD assegurarão que o presente Protocolo seja implementado de forma rápida e eficaz.
 
 2 - O presente Protocolo poderá ser modificado, se tal for considerado relevante por ambas as Partes.
 
-Artigo VII
+###### Artigo VII
 
 O presente Protocolo entrará em vigor 30 dias após a data da última notificação por escrito e por via diplomática de que foram cumpridas todas as formalidades exigidas por cada uma das ordens jurídicas nacionais.
 
-**Assinado em Brasília, aos 12 dias do mês de Junho de 2002, em dois exemplares originais em língua portuguesa, sendo ambos os textos igualmente autênticos.**
+Assinado em Brasília, aos 12 dias do mês de Junho de 2002, em dois exemplares originais em língua portuguesa, sendo ambos os textos igualmente autênticos.
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)
 
 Pela República Federativa do Brasil:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)
 
 PROTOCOLO DE COOPERAÇÃO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA PORTUGUESA PARA A REDUÇÃO DA PROCURA, COMBATE À PRODUÇÃO E REPRESSÃO AO TRÁFICO ILÍCITO DE DROGAS E SUBSTÂNCIAS PSICOTRÓPICAS, PARA O ESTABELECIMENTO DE UM PLANO DE FORMAÇÃO DE TÉCNICOS.
 
@@ -179,42 +179,42 @@ Considerando o disposto no artigo II do supracitado Acordo:
 
 Ajustam o seguinte:
 
-Artigo I
+###### Artigo I
 
 As Partes Contratantes estabelecerão um Plano de Formação de Técnicos para desenvolver acções formativas do pessoal técnico responsável pela coleta, tratamento e divulgação dos dados relevantes em matéria de caracterização do fenómeno e prevenção das toxicodependências.
 
-Artigo II
+###### Artigo II
 
 Os órgãos executores do presente Protocolo serão, pelo lado da República Federativa do Brasil, a Secretaria Nacional Antidrogas (SENAD) e, pelo lado da República Portuguesa, o Ministério da Saúde, através do Instituto Português da Droga e da Toxicodependência (IPDT).
 
-Artigo III
+###### Artigo III
 
 Comprometem-se as Partes Contratantes, em matéria de prevenção primária das toxicodependências, a desenvolver todos os esforços necessários para a uniformização de procedimentos técnico-científicos aplicáveis à coleta, tratamento e divulgação de informação.
 
-Artigo IV
+###### Artigo IV
 
 Comprometem-se as Partes Contratantes a trocar, periodicamente, informação referente às toxicodependências e, ainda, a prestar mutuamente toda a assistência técnico-científica para um melhor conhecimento do fenómeno da droga e da toxicodependência.
 
-Artigo V
+###### Artigo V
 
 O Ministério da Saúde, através do IPDT, assegura a comparticipação financeira para o desenvolvimento do acima estipulado, até o montante de (euro) 125000 por ano, durante o prazo máximo de três anos.
 
-Artigo VI
+###### Artigo VI
 
 1 - O Ministério da Saúde, através do IPDT, e a SENAD assegurarão que o presente Protocolo seja implementado de forma rápida e eficaz.
 
 2 - O presente Protocolo poderá ser modificado, se tal for considerado relevante por ambas as Partes.
 
-Artigo VII
+###### Artigo VII
 
 O presente Protocolo entrará em vigor 30 dias após a data da última notificação por escrito e por via diplomática de que foram cumpridas todas as formalidades exigidas por cada uma das ordens jurídicas nacionais.
 
-**Assinado em Brasília, aos 12 do mês de Junho de 2002, em dois exemplares originais em língua portuguesa, sendo ambos os textos igualmente autênticos.**
+Assinado em Brasília, aos 12 do mês de Junho de 2002, em dois exemplares originais em língua portuguesa, sendo ambos os textos igualmente autênticos.
 
 Pela República Federativa do Brasil:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)](https://files.diariodarepublica.pt/1s/2004/03/073a00/19291931.pdf)

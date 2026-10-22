@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/145-1976-507577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fcc44af5ca5e24e25569c54fe7d1ebe59f2bcab875c66f8a80b7e326d23b269
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 119f3c89f3741b7e1058ceac4240e983ca86e30326bab57effeb600dee607eaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bucareste
+- Convenção
+- Cooperação Científica
+- Cooperação Cultural
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:56Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 19 de Fevereiro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República Socialista da Roménia, assinado em Bucareste a 6 de Janeiro de 1975, cujo texto em português vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República Socialista da Roménia, assinado em Bucareste a 6 de Janeiro de 1975, cujo texto em português vai anexo ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Ernesto Augusto de Melo Antunes - Vítor Manuel Rodrigues Alves.
 
-**Assinado em 10 de Fevereiro de 1976.**
+Assinado em 10 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO CULTURAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA SOCIALISTA DA ROMÉNIA
 
@@ -109,7 +114,7 @@ Desejando promover o conhecimento mútuo dos resultados obtidos pelos dois povos
 
 Decidiram concluir o presente Acordo com base no respeito recíproco dos princípios da soberania e da independência nacionais, da igualdade dos direitos e das vantagens mútuas e da não ingerência nos assuntos internos.
 
-ARTIGO I
+###### ARTIGO I
 
 As duas partes favorecerão o desenvolvimento da cooperação entre as instituições científicas e de investigação dos dois países através:
 
@@ -117,7 +122,7 @@ a) De visitas recíprocas de cientistas e de investigadores científicos, com fi
 
 b) De trocas de livros e publicações científicas e outros materiais de informação científico.
 
-ARTIGO II
+###### ARTIGO II
 
 As duas partes favorecerão o desenvolvimento das relações no domínio do ensino através:
 
@@ -131,23 +136,23 @@ d) Do envio recíproco de documentação e informações sobre a economia, a geo
 
 e) De trocas de publicações da especialidade e outros materiais documentais e de informação no domínio do ensino.
 
-ARTIGO III
+###### ARTIGO III
 
 Cada parte concederá reciprocamente bolsas de estudo e de especialização a fim de permitir que os cidadãos da outra parte efectuem estudos, trabalhos, investigações no seu território ou aperfeiçoem a sua formação artístico-cultural e técnico-científica.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Cada parte estudará as possibilidades de equivalência recíproca dos títulos, graus e diplomas de ensino e científicos obtidos no território da outra parte.
 
 Para esse efeito, cada parte porá à disposição da outra parte a documentação necessária e fará as propostas adequadas.
 
-ARTIGO V
+###### ARTIGO V
 
 As duas partes, a pedido, prestarão reciprocamente assistência nos domínios da ciência, do ensino, da protecção sanitária e noutros domínios, pelo envio de especialistas para trabalharem no outro país durante períodos limitados.
 
 O envio de especialistas realizar-se-á com base em protocolos concluídos entre os Ministérios e as instituições competentes dos dois países, que estabelecerão as condições concretas de actividade e de remuneração dos especialistas. Com esta finalidade, serão celebrados contratos entre o país que recebe os especialistas e os especialistas da outra parte.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As duas partes favorecerão a cooperação no domínio da literatura, do teatro, da música, das artes plásticas, da cinematografia, bem como noutros domínios da actividade cultural e artística, através:
 
@@ -161,33 +166,33 @@ d) Da tradução e publicação de obras literárias e científicas do outro pa�
 
 e) Da organização recíproca de actividades científicas e artístico-culturais por ocasião das festas nacionais dos dois países.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As duas partes facilitarão o desenvolvimento das relações entre os museus, bibliotecas e outras instituições culturais através da troca de livros, publicações e microfilmes de carácter social, cultural, artístico e técnico-científico.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As duas partes favorecerão a cooperação directa entre as agências de imprensa, as estações de radiodifusão e de televisão dos dois países, bem como a troca de visitas de jornalistas e repórteres.
 
-ARTIGO IX
+###### ARTIGO IX
 
 As duas partes facilitarão os convites recíprocos dirigidos a personalidades nos domínios da ciência, do ensino, da cultura e da arte, a fim de participarem em congressos, conferências, festivais e outras manifestações de carácter internacional organizados nos respectivos países.
 
-ARTIGO X
+###### ARTIGO X
 
 As duas partes favorecerão o desenvolvimento do intercâmbio nos domínios do turismo e dos desportos.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Cada parte assegurará condições normais para o desenvolvimento das actividades da outra parte, assim como para a divulgação, através dos meios de comunicação social, das suas realizações culturais, científicas e artísticas, com base nas estipulações do presente Acordo e em conformidade com as regulamentações em vigor em cada território.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Para a entrada em vigor do presente Acordo, as duas partes estabelecerão programas periódicos, concretizando actividades a realizar, bem como as condições necessárias à sua organização e financiamento.
 
 As negociações para o estabelecimento dos programas realizar-se-ão alternadamente nas capitais dos dois países.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Para a execução das disposições do artigo anterior, será constituída uma comissão mista, composta de oito membros, encarregada de apresentar sugestões, recomendações e pareceres às partes contratantes, com vista à elaboração dos programas de intercâmbio cultural e científico.
 
@@ -199,7 +204,7 @@ A comissão mista poderá criar subcomissões ou grupos de trabalho, com o fim d
 
 A comissão mista poderá convocar peritos para as suas reuniões, na qualidade de conselheiros ou assessores.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 O presente Acordo será submetido à aprovação dos organismos competentes das duas partes e entrará em vigor na data da última notificação da aprovação.
 

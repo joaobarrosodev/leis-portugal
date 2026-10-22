@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/147a00/16401643.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/16/1996/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-1996-426771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 274d136027d133a1516778b232dea9c5a879c8e241e2b1dc4bb908c974524229
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab1981e93ea80e4054152f1fd00d6e25f320688c622878334a08c35b47365d4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Espanha
 - Madrid
-- RIO Maças
 - Ponte Internacional
+- Portugal
+- RIO Maças
 relationships:
 - type: amended_by
   target: pt:dre:404522:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:404522:por
+  label: "Revogado pelo Dec.62/97.1997.12.11.MNE DR.IS-A [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/62-1997-404522
+  date: '1997-12-11'
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:11Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +103,19 @@ de 27 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição da República Portuguesa, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Convénio entre a República Portuguesa e o Reino de Espanha para a Construção de Uma Ponte Internacional sobre o Rio Maçãs entre as localidades de Quintanilha (Portugal) e San Martín de Pedroso (Espanha), assinado em Madrid a 18 de Janeiro de 1996, cujas versões autênticas nas línguas portuguesa e espanhola seguem em anexo.
+Artigo único. É aprovado o Convénio entre a República Portuguesa e o Reino de Espanha para a Construção de Uma Ponte Internacional sobre o Rio Maçãs entre as localidades de Quintanilha (Portugal) e San Martín de Pedroso (Espanha), assinado em Madrid a 18 de Janeiro de 1996, cujas versões autênticas nas línguas portuguesa e espanhola seguem em anexo.
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.
 
-**Assinado em 7 de Junho de 1996.**
+Assinado em 7 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Junho de 1996.**
+Referendado em 12 de Junho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONVÉNIO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA PARA A CONSTRUÇÃO DE UMA PONTE INTERNACIONAL SOBRE O RIO MAÇÃS ENTRE AS LOCALIDADES DE QUINTANILHA (PORTUGAL) E SAN MARTÍN DE PEDROSO (ESPANHA).
 
@@ -238,4 +243,4 @@ Pelo Reino de Espanha:
 
 Carlos Westendorp, Ministro dos Assuntos Exteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/147a00/16401643.pdf))](https://files.diariodarepublica.pt/1s/1996/06/147a00/16401643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/147a00/16401643.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/31/2002/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-2002-647077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:13:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1c03f15626ecb50babfbbf46f72e6654eb844b549e4b447d3dc1eeefa383b16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 634e8a42a9a1ec00d6cddc7b1bfadd4d40225e624a40a43f6b8e7afaf9a38d53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:13:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -98,13 +98,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:13:56Z'
   warnings: []
   errors: []
 ---
@@ -127,15 +127,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 24 de Julho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva - Pedro Lynce de Faria - Luís Filipe Pereira - António José de Castro Bagão Félix - Isaltino Afonso de Morais.
 
-**Assinado em 5 de Setembro de 2002.**
+Assinado em 5 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2002.**
+Referendado em 13 de Setembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 DECISÃO DOS REPRESENTANTES DOS GOVERNOS DOS ESTADOS MEMBROS, REUNIDOS NO CONSELHO DE 27 DE FEVEREIRO DE 2002, RELATIVA ÀS CONSEQUÊNCIAS FINANCEIRAS DA CESSAÇÃO DE VIGÊNCIA DO [Tratado CECA](https://diariodarepublica.pt/application/external/ceca)[CECA](https://diariodarepublica.pt/application/external/ceca) E AO FUNDO DE INVESTIGAÇÃO DO CARVÃO E DO AÇO.
 
@@ -181,7 +181,7 @@ A presente Decisão será publicada no Jornal Oficial.
 
 Feita em Bruxelas, em 27 de Fevereiro de 2002.
 
-**O Presidente, F. J. Conde de Saro.**
+O Presidente, F. J. Conde de Saro.
 
 ## ANEXO I — Medidas necessárias à execução da presente Decisão
 
@@ -451,13 +451,13 @@ Se necessário, por exemplo para formular um parecer sobre questões de interess
 
 2.2.1 - Grupo consultivo do carvão. - O grupo consultivo do carvão tem a seguinte composição:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/09/225b00/66226632.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/09/225b00/66226632.pdf)](https://files.diariodarepublica.pt/1s/2002/09/225b00/66226632.pdf)
 
 Os membros devem possuir uma sólida base de conhecimentos e experiência pessoal em pelo menos um dos seguintes domínios: extracção e ou utilização do carvão; ambiente, e questões sociais, nomeadamente aspectos relacionados com a segurança.
 
 2.2.2 - Grupo consultivo do aço. - O grupo consultivo do aço tem a seguinte composição:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/09/225b00/66226632.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/09/225b00/66226632.pdf)](https://files.diariodarepublica.pt/1s/2002/09/225b00/66226632.pdf)
 
 Os membros devem possuir uma sólida base de conhecimentos e experiência pessoal em pelo menos um dos seguintes domínios: matérias-primas; fabrico de ferro fundido; fabrico do aço; vazamento contínuo; laminagem a quente e ou laminagem a frio; acabamento e ou tratamento de superfície do aço; desenvolvimento de classes e ou de produtos de aço; aplicações e propriedades do aço, e questões ambientais, e sociais, nomeadamente aspectos relacionados com a segurança.
 
@@ -553,7 +553,7 @@ A Comissão elaborará o mandato para a realização do exercício de acompanham
 
 (nota *) Jornal Oficial, L 184, de 17 de Julho de 1999, p. 23 (rectificação, in Jornal Oficial, L 269, de 19 de Outubro de 1999, p. 45).
 
-## APÊNDICE A
+APÊNDICE A
 
 Programa de investigação do Fundo de Investigação do Carvão e do Aço
 
@@ -589,7 +589,7 @@ e) Produtos finais de ferro, aço ordinário ou aço especial (revestidos ou nã
 
 f) Produtos da 1.ª fase de processamento do aço capazes de melhorar a posição competitiva dos produtos siderúrgicos acima referidos, como produtos tubulares, produtos estirados e polidos, e produtos laminados ou formados a frio.
 
-## APÊNDICE B
+APÊNDICE B
 
 Programa de investigação do Fundo de Investigação do Carvão e do Aço
 
@@ -653,7 +653,7 @@ g) A redução das emissões devidas à utilização do carvão.
 
 Será dada preferência aos projectos que integrem técnicas complementares como a absorção do metano ou do dióxido de carbono, a extracção de metano das jazidas de carvão, a gaseificação subterrânea do carvão, etc.
 
-## APÊNDICE C
+APÊNDICE C
 
 Programa de investigação do Fundo de Investigação do Carvão e do Aço
 

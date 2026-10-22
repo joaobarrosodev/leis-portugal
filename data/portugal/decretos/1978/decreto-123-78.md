@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/123-1978-325961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:49:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66940bd5c2da854866f474ac74d31e38479b110def9581deb956d5b704d52225
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee6da6448adf75fc1f77a4bedb72f99b61610e3bdd757580286d9bef1bd6edea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia das Lezírias
+- Empresa Pública
+- Estatuto
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O ESTATUTO DA COMPANHIA DAS LEZÍRIAS PELO DECRETO-LEI NUMERO 306/87, PUBLICADO NO DIÁRIO DA REPÚBLICA,\
+    \ I SÉRIE, NUMERO 179, DE 6/8/87.\0 6/8/87.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:610010:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:417052:por
+  label: "Substituído o Estatuto da Companhia das Lezírias, E. P., aprovado pelo presente diploma, pelo DEC LEI.306/87.06.08.1987.MAPA,\
+    \ DR.IS [179] de 06.08.1987\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/306-1987-417052
+  date: '1987-08-06'
+- type: amended_by
+  target: pt:dre:610010:por
+  label: "Transformada em pessoa colectiva de direito privado sob a forma de sociedade anónima de capitais maioritariamente\
+    \ públicos, passando a denominar-se Companhia das Lezírias, S. A., a Companhia das Lezírias, E. P., criada pelo presente\
+    \ diploma, pelo DEC LEI.182/89.31.05.1989.MAPA, DR.IS [124] de 31.05.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/182-1989-610010
+  date: '1989-05-31'
+- type: cites
+  target: pt:dre:310474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 41
+  article_count: 40
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:49:00Z'
   warnings: []
   errors: []
 ---
@@ -99,33 +128,33 @@ A estes princípios fundamentais obedece o estatuto que é aprovado pelo present
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Companhia das Lezírias do Tejo e Sado, nacionalizada pelo [Decreto-Lei n.º 628/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1975-310474), de 13 de Novembro, é uma empresa pública dotada de personalidade jurídica, autonomia administrativa e financeira e de património próprio, que passa a denominar-se Companhia das Lezírias - Empresa Pública, abreviadamente CL-EP.
+Artigo 1.º - 1 - A Companhia das Lezírias do Tejo e Sado, nacionalizada pelo [Decreto-Lei n.º 628/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1975-310474), de 13 de Novembro, é uma empresa pública dotada de personalidade jurídica, autonomia administrativa e financeira e de património próprio, que passa a denominar-se Companhia das Lezírias - Empresa Pública, abreviadamente CL-EP.
 
 2- A CL-EP rege-se pela legislação aplicável às empresas públicas, pelo estatuto anexo a este diploma, que dele faz parte integrante, e, subsidiariamente, pelas normas de direito privado.
 
-###### Art. 2.º - 1 - Passa para a titularidade da CL-EP, a partir da data da entrada em vigor deste diploma, a universalidade dos bens, direitos e obrigações a que se refere o [Decreto-Lei n.º 628/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1975-310474), de 13 de Novembro.
+Art. 2.º - 1 - Passa para a titularidade da CL-EP, a partir da data da entrada em vigor deste diploma, a universalidade dos bens, direitos e obrigações a que se refere o [Decreto-Lei n.º 628/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1975-310474), de 13 de Novembro.
 
 2 - A transferência prevista no número anterior opera-se por virtude do presente diploma, que servirá de título bastante para todos os efeitos legais, incluindo os de registo.
 
 3 - Em caso de dúvida, constitui título comprovativo, para efeito do disposto no número anterior, a simples declaração feita pelo conselho de gerência da CL-EP, confirmada pela Direcção-Geral do Património, de que os bens se incluem entre os referidos no citado [Decreto-Lei n.º 628/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1975-310474), de 13 de Novembro.
 
-###### Art. 3.º - 1 - Transitarão para a CL-EP, independentemente de quaisquer formalidades, os trabalhadores permanentes que à data da entrada em vigor deste decreto-lei estiverem ao serviço da Companhia das Lezírias do Tejo e Sado.
+Art. 3.º - 1 - Transitarão para a CL-EP, independentemente de quaisquer formalidades, os trabalhadores permanentes que à data da entrada em vigor deste decreto-lei estiverem ao serviço da Companhia das Lezírias do Tejo e Sado.
 
 2 - A lista dos trabalhadores permanentes que transitam para a CL-EP será comunicada ao Ministro da Tutela no prazo de trinta dias, a contar da entrada em vigor deste diploma.
 
-###### Art. 4.º Os poderes de tutela do Governo sobre a CL-EP são exercidos pelo Ministro da Agricultura e Pescas.
+Art. 4.º Os poderes de tutela do Governo sobre a CL-EP são exercidos pelo Ministro da Agricultura e Pescas.
 
-###### Art. 5.º Considera-se extinta, a partir da data da entrada em vigor deste diploma, a Companhia das Lezírias do Tejo e Sado.
+Art. 5.º Considera-se extinta, a partir da data da entrada em vigor deste diploma, a Companhia das Lezírias do Tejo e Sado.
 
-###### Art. 6.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Tutela ou por despacho conjunto deste e dos Ministros competentes em razão da matéria, quando a dúvida a resolver respeite a mais de um Ministério.
+Art. 6.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Tutela ou por despacho conjunto deste e dos Ministros competentes em razão da matéria, quando a dúvida a resolver respeite a mais de um Ministério.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Apolinário José Barbosa da Cruz Vaz Portugal.
 
-**Promulgado em 27 de Outubro de 1978.**
+Promulgado em 27 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DA COMPANHIA DAS LEZÍRIAS - EMPRESA PÚBLICA (CL-EP)
 
@@ -597,4 +626,4 @@ A situação dos trabalhadores da CL-EP que sejam chamados a ocupar cargos nos �
 
 A CL-EP fica sujeita à tributação directa e indirecta, nos termos legais.
 
-**O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.**
+O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.

@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/96-1982-397918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bc52c8c9e4b25a626f5802b97913ed3e6e9f277e43d3531dbc2135c087a05eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e81875e9683728b8d88e2abcaada21bd2ea51e6eedae76c7d8c26a0e78dc6802
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério das Finanças e do Plano
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:374458:por
+  label: Rectificado pela DECL.DD6018.19.08.1982.PCM, DR.IS [202] de 01.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-374458
+  date: '1982-08-19'
 article_structure:
-  article_count: 6
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:08Z'
   warnings: []
   errors: []
 ---
@@ -86,43 +98,45 @@ de 13 de Agosto
 
 Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1978-296224), de 13 de Maio, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças do Plano créditos especiais no montante de 211466 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor.
+Artigo 1.º São abertos no Ministério das Finanças do Plano créditos especiais no montante de 211466 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/18600/23852386.pdf))](https://files.diariodarepublica.pt/1s/1982/08/18600/23852386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/18600/23852386.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
 Receitas correntes:
 
-### Capítulo 05 «Transferências», grupo 06 «Exterior», artigo 03 «Transferências diversas» ... 3517
+Capítulo 05 «Transferências», grupo 06 «Exterior», artigo 03 «Transferências diversas» ... 3517
 
 Receitas de capital:
 
-### Capítulo 15 «Contas de ordem»:
+Capítulo 15 «Contas de ordem»:
 
 Grupo 07 «Agricultura, Comércio e Pescas»:
 
-###### Artigo 06 «Direcção-Geral de Protecção da Produção Agrícola» ... 1000
+Artigo 06 «Direcção-Geral de Protecção da Produção Agrícola» ... 1000
 
 Grupo 10 «Educação e das Universidades»:
 
-###### Artigo 03 «Serviços sociais de estabelecimentos do ensino superior» ... 7000
+Artigo 03 «Serviços sociais de estabelecimentos do ensino superior» ... 7000
 
 Grupo 12 «Habitação, Obras Públicas e Transportes»:
 
 Departamento dos Transportes:
 
-###### Artigo 04 «Juntas autónomas dos portos» ... 179949
+Artigo 04 «Juntas autónomas dos portos» ... 179949
 
 Grupo 14 «Cultura e Coordenação Científica»:
 
-###### Artigo 14 «Cinemateca Portuguesa» ... 5000
+Artigo 14 «Cinemateca Portuguesa» ... 5000
 
-###### Artigo 05 «Fundo de Fomento Cultural» ... 15000
+Artigo 05 «Fundo de Fomento Cultural» ... 15000
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Agricultura, Comércio e Pescas:
+211466
+
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Agricultura, Comércio e Pescas:
 
 À dotação descrita no capítulo 22.º, divisão 01, classificação funcional 8.09.0, classe económica 44.09, alínea B, é aposta a seguinte observação:
 
@@ -130,8 +144,8 @@ Grupo 14 «Cultura e Coordenação Científica»:
 
 Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva - Basílio Adolfo Mendonça Horta da Franca - Francisco António Lucas Pires - José Carlos Pinto Soromenho Viana Baptista - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 20 de Julho de 1982.**
+Promulgado em 20 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

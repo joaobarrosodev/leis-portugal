@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/12900/12201222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46-1979-383827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d720d76262e81a83780846437e7204d3641c301ded084e965946c8830d24742c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11d892fded569fa8e7b4f9d318720319ba6e633989b0f7083fc6a16e46cb4a5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional de Turismo
+- Orgânica
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:419074:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:385390:por
+  label: "Dada nova redacção do n.º 1 do art. 11.º do presente diploma, pelo DEC.31/84.05.07.1984.PCM, DR.IS [154] de 05.07.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/31-1984-385390
+  date: '1984-07-05'
+- type: cites
+  target: pt:dre:231319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232699:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:419074:por
+  label: Revogado pelo(a) Decreto-Lei n.º 234/87 - Diário da República n.º 134/1987, Série I de 1987-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-1987-419074
+  date: '1987-06-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:17Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +132,9 @@ A prática ditará as alterações que porventura se mostre aconselhável introd
 
 Assim, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Conselho Nacional de Turismo, também designado abreviadamente por Conselho, é um órgão de coordenação e consulta para o sector do turismo, que funciona na Secretaria de Estado do Turismo, junto do Gabinete do Secretário de Estado, e passará a regular-se pelo disposto no presente diploma.
+Artigo 1.º O Conselho Nacional de Turismo, também designado abreviadamente por Conselho, é um órgão de coordenação e consulta para o sector do turismo, que funciona na Secretaria de Estado do Turismo, junto do Gabinete do Secretário de Estado, e passará a regular-se pelo disposto no presente diploma.
 
-###### Art. 2.º - 1 - Ao Conselho Nacional de Turismo compete pronunciar-se sobre todos os assuntos respeitantes ao sector do turismo que sejam submetidos à sua consideração pelo presidente ou vice-presidente e em especial:
+Art. 2.º - 1 - Ao Conselho Nacional de Turismo compete pronunciar-se sobre todos os assuntos respeitantes ao sector do turismo que sejam submetidos à sua consideração pelo presidente ou vice-presidente e em especial:
 
 a) Dar parecer sobre os planos gerais elaborados pelos serviços oficiais de turismo;
 
@@ -128,7 +150,7 @@ f) Formular recomendações e propor medidas consideradas adequadas para o secto
 
 2 - O Conselho poderá ainda, por iniciativa própria, analisar quaisquer questões relativas ao sector do turismo, elaborando os respectivos estudos.
 
-###### Art. 3.º - 1 - O Conselho Nacional de Turismo será presidido pelo Ministro do Comércio e Turismo e terá como vice-presidente o Secretário de Estado do Turismo, que o substituirá nas suas faltas e impedimentos.
+Art. 3.º - 1 - O Conselho Nacional de Turismo será presidido pelo Ministro do Comércio e Turismo e terá como vice-presidente o Secretário de Estado do Turismo, que o substituirá nas suas faltas e impedimentos.
 
 2 - O presidente poderá delegar no vice-presidente os poderes que lhe são conferidos pelo presente diploma.
 
@@ -138,7 +160,7 @@ f) Formular recomendações e propor medidas consideradas adequadas para o secto
 
 5 - A composição do Conselho poderá ser alterada por portaria do Ministro do Comércio e Turismo.
 
-###### Art. 4.º São vogais permanentes do Conselho:
+Art. 4.º São vogais permanentes do Conselho:
 
 1) O director-geral do Turismo;
 
@@ -194,13 +216,13 @@ f) Formular recomendações e propor medidas consideradas adequadas para o secto
 
 27) Um representante do Sindicato dos Profissionais de Informação Turística.
 
-###### Art. 5.º - 1 - Os representantes dos departamentos do Estado no Conselho serão designados pelos titulares das pastas respectivas e deverão ter a categoria de director-geral ou equivalente.
+Art. 5.º - 1 - Os representantes dos departamentos do Estado no Conselho serão designados pelos titulares das pastas respectivas e deverão ter a categoria de director-geral ou equivalente.
 
 2 - Os representantes dos serviços do Estado e das empresas públicas deverão ser membros dos respectivos órgãos de gestão.
 
 3 - Os representantes das demais entidades deverão ser membros dos respectivos órgãos de direcção.
 
-###### Art. 6.º - 1 - Os representantes dos órgãos locais de turismo no Conselho serão eleitos entre os existentes em cada uma das zonas geográficas previstas no n.º 15) do artigo 4.º
+Art. 6.º - 1 - Os representantes dos órgãos locais de turismo no Conselho serão eleitos entre os existentes em cada uma das zonas geográficas previstas no n.º 15) do artigo 4.º
 
 2 - Para este efeito, as zonas geográficas são definidas do seguinte modo:
 
@@ -212,7 +234,7 @@ c) A zona de Lisboa compreende o distrito de Lisboa;
 
 d) A zona do Algarve compreende o distrito de Faro.
 
-###### Art. 7.º - 1 - O Conselho Nacional de Turismo pode funcionar em plenário ou por secções.
+Art. 7.º - 1 - O Conselho Nacional de Turismo pode funcionar em plenário ou por secções.
 
 2 - O plenário é constituído pelo presidente, vice-presidente, vogais permanentes e vogais convidados.
 
@@ -228,64 +250,64 @@ d) A zona do Algarve compreende o distrito de Faro.
 
 4 - O presidente ou vice-presidente poderá ainda, quando o julgar conveniente, determinar a constituição no âmbito do Conselho de comissões para tratarem de temas específicos, definindo a sua composição.
 
-###### Art. 8.º - 1 - As secções poderão funcionar isoladamente ou em conjunto.
+Art. 8.º - 1 - As secções poderão funcionar isoladamente ou em conjunto.
 
 2 - As secções funcionarão de acordo com o que for estabelecido no regimento a que se refere o artigo 18.º
 
-###### Art. 9.º - 1 - As secções serão presididas pelo director-geral do Turismo, que poderá fazer-se substituir por um seu representante.
+Art. 9.º - 1 - As secções serão presididas pelo director-geral do Turismo, que poderá fazer-se substituir por um seu representante.
 
 2 - Os vogais do Conselho poderão fazer-se substituir, nas reuniões e trabalhos das secções, por representantes.
 
 3 - É aplicável ao funcionamento das secções o disposto no n.º 4 do artigo 3.º, pertencendo a iniciativa da convocação dos vogais convidados ao respectivo presidente.
 
-###### Art. 10.º O Conselho, em plenário ou nas secções, funciona com qualquer número de membros e delibera por maioria de votos dos vogais presentes, tendo o presidente, em caso de empate, voto de qualidade.
+Art. 10.º O Conselho, em plenário ou nas secções, funciona com qualquer número de membros e delibera por maioria de votos dos vogais presentes, tendo o presidente, em caso de empate, voto de qualidade.
 
-###### Art. 11.º - 1 - O plenário do Conselho reúne, ordinariamente, duas vezes por ano, nos meses de Maio e Novembro, e, extraordinariamente, sempre que for convocado pelo seu presidente, oficiosamente ou a solicitação de um terço dos seus vogais permanentes.
+Art. 11.º - 1 - O plenário do Conselho reúne, ordinariamente, duas vezes por ano, nos meses de Maio e Novembro, e, extraordinariamente, sempre que for convocado pelo seu presidente, oficiosamente ou a solicitação de um terço dos seus vogais permanentes.
 
 2 - As secções reunirão quando convocadas pelo seu presidente.
 
-###### Art. 12.º - 1 - Das sessões do Conselho, em plenário ou nas secções, serão lavradas actas, das quais devem constar, resumidamente, o teor dos debates, as deliberações tomadas e as declarações de voto, se as houver.
+Art. 12.º - 1 - Das sessões do Conselho, em plenário ou nas secções, serão lavradas actas, das quais devem constar, resumidamente, o teor dos debates, as deliberações tomadas e as declarações de voto, se as houver.
 
 2 - As actas das sessões plenárias serão assinadas pelo presidente, pelo secretário do Conselho e pelos membros que apresentarem declarações de voto.
 
 3 - As actas das reuniões das secções serão assinadas pelos membros presentes.
 
-###### Art. 13.º - 1 - Quando a natureza das questões suscitadas o aconselhe, poderão ser designados relatores, a quem caberá elaborar o respectivo estudo e projecto de deliberação do Conselho.
+Art. 13.º - 1 - Quando a natureza das questões suscitadas o aconselhe, poderão ser designados relatores, a quem caberá elaborar o respectivo estudo e projecto de deliberação do Conselho.
 
 2 - Os relatores poderão ser designados de entre os vogais do Conselho ou dos seus assessores.
 
-###### Art. 14.º - 1 - O Conselho terá um secretário, sem voto, designado pelo Ministro do Comércio e Turismo.
+Art. 14.º - 1 - O Conselho terá um secretário, sem voto, designado pelo Ministro do Comércio e Turismo.
 
 2 - Ao secretário compete assegurar e dirigir o expediente e o apoio administrativo do Conselho.
 
 3 - O secretário será designado de entre os funcionários dos quadros do pessoal da Secretaria de Estado do Turismo.
 
-###### Art. 15.º - 1 - O Ministro do Comércio e Turismo poderá designar para assessores do Conselho os técnicos que se mostrem necessários.
+Art. 15.º - 1 - O Ministro do Comércio e Turismo poderá designar para assessores do Conselho os técnicos que se mostrem necessários.
 
 2 - Os assessores poderão ser designados de entre os funcionários dos quadros do pessoal da Secretaria de Estado do Turismo ou contratados em regime de prestação de serviços.
 
-###### Art. 16.º - 1 - O Conselho será apoiado administrativamente pelos serviços do Gabinete do Secretário de Estado do Turismo.
+Art. 16.º - 1 - O Conselho será apoiado administrativamente pelos serviços do Gabinete do Secretário de Estado do Turismo.
 
 2 - As despesas inerentes ao funcionamento do Conselho Nacional de Turismo serão suportadas por verbas próprias inscritas no orçamento do Gabinete do Secretário de Estado do Turismo.
 
 3 - As funções de membro do Conselho não serão remuneradas.
 
-###### Art. 17.º Os membros permanentes do Conselho deverão ser indicados pelas respectivas entidades no prazo máximo de um mês, contado da data da entrada em vigor do presente diploma.
+Art. 17.º Os membros permanentes do Conselho deverão ser indicados pelas respectivas entidades no prazo máximo de um mês, contado da data da entrada em vigor do presente diploma.
 
-###### Art. 18.º - 1 - O Conselho elaborará o regimento interno do seu funcionamento no prazo de trinta dias a contar da data da sua primeira reunião.
+Art. 18.º - 1 - O Conselho elaborará o regimento interno do seu funcionamento no prazo de trinta dias a contar da data da sua primeira reunião.
 
 2 - O regimento previsto no número anterior entrará em vigor depois de homologado por despacho do Ministro do Comércio e Turismo e publicado na 1.ª série do Diário da República.
 
 3 - Enquanto não entrar em vigor o regimento interno do Conselho, competirá ao seu presidente estabelecer as regras necessárias para o seu funcionamento, nomeadamente sobre a composição das secções, as questões reservadas ao plenário e as destinadas às secções.
 
-###### Art. 19.º As dúvidas suscitadas na aplicação do presente diploma serão reguladas por despacho normativo do Ministro do Comércio e Turismo.
+Art. 19.º As dúvidas suscitadas na aplicação do presente diploma serão reguladas por despacho normativo do Ministro do Comércio e Turismo.
 
-###### Art. 20.º É revogado o [Decreto n.º 40753](https://diariodarepublica.pt/dr/detalhe/decreto/40753-1956-232699), de 6 de Setembro de 1956.
+Art. 20.º É revogado o [Decreto n.º 40753](https://diariodarepublica.pt/dr/detalhe/decreto/40753-1956-232699), de 6 de Setembro de 1956.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Abel Pinto Repolho Correia.
 
-**Promulgado em 15 de Maio de 1979.**
+Promulgado em 15 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

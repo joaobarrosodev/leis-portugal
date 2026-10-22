@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/23/1994/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-1994-230118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4eb62934d315a96cfd0648d0daf4a00853436204985e3f3c3d1cd47ca728d13c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e33bc07c33d6e247bbeb887cf895d9c0490b6b8ae0201960dadf258123df2a4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ subjects:
 - Cooperação Económica
 relationships: []
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:10Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +88,19 @@ de 26 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da Roménia sobre Promoção e Protecção Recíproca de Investimentos, assinado em Bucareste a 17 de Novembro de 1993, cujas versões autênticas nas línguas portuguesa, romena e inglesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da Roménia sobre Promoção e Protecção Recíproca de Investimentos, assinado em Bucareste a 17 de Novembro de 1993, cujas versões autênticas nas línguas portuguesa, romena e inglesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1994. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Assinado em 25 de Junho de 1994.**
+Assinado em 25 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Junho de 1994.**
+Referendado em 29 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA ROMÉNIA SOBRE PROMOÇÃO E PROTECÇÃO RECÍPROCA DE INVESTIMENTOS.
 
@@ -272,7 +272,7 @@ Pelo Governo da Roménia:
 
 Dan Mogos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/171a00/41214129.pdf))](https://files.diariodarepublica.pt/1s/1994/07/171a00/41214129.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/171a00/41214129.pdf)
 
 AGREEMENT BETWEEN THE GOVERNMENT OF THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF ROMANIA FOR THE PROMOTION AND MUTUAL PROTECTION OF INVESTMENTS.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/602-1973-411782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddc23815722dc04019522c8964f500a11ecdbe0b619e8e4eec54b99a994cd261
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eeb518665100911be1675e7ea6a1568f113b9fe86d3906c47b66888e77c0bf21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:56Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as Repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de «Despesas de anos económicos findos» inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as Repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de «Despesas de anos económicos findos» inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -114,9 +118,9 @@ Ministério da Saúde e Assistência
 
 Encargo do ano de 1972, respeitante a gratificações ao director do serviço de inspecção, aos inspectores técnicos e subinspectores técnicos, contraído pela Secretaria-Geral do Ministério ... 45000$00
 
-###### Art. 2.º É autorizada a 8.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da verba descrita no capítulo 9.º, artigo 182.º, n.º 4 «Comunicações», do actual orçamento em vigor do Ministério das Obras Públicas, a quantia de 39449$20, respeitante a chamadas telefónicas da Direcção-Geral das Construções Escolares e a reembolsar pelo Comissariado do Desemprego.
+Art. 2.º É autorizada a 8.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da verba descrita no capítulo 9.º, artigo 182.º, n.º 4 «Comunicações», do actual orçamento em vigor do Ministério das Obras Públicas, a quantia de 39449$20, respeitante a chamadas telefónicas da Direcção-Geral das Construções Escolares e a reembolsar pelo Comissariado do Desemprego.
 
-###### Art. 3.º Ficam igualmente autorizados a satisfazer as quantias abaixo indicadas, pelas verbas competentes dos seus actuais orçamentos privativos, os seguintes serviços:
+Art. 3.º Ficam igualmente autorizados a satisfazer as quantias abaixo indicadas, pelas verbas competentes dos seus actuais orçamentos privativos, os seguintes serviços:
 
 Hospital de Sobral Cid
 
@@ -132,8 +136,8 @@ Encargo dos anos de 1971 e 1972, respeitante à rectificação às diárias, com
 
 Marcello Caetano - Horário José de Sá Viana Rebelo - João Mota Pereira de Campos - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 30 de Outubro de 1973.**
+Promulgado em 30 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Republica, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da Republica, AMÉRICO DEUS RODRIGUES THOMAZ.

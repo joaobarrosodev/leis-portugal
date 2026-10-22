@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/108-1981-575899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02e1f06e8362bd0285bb0c8ef30bedce794f2dad84ff4f62bbef5b4e04028d60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09d32d5dbd2b742d7fad4dfcfff71f6a7eea2c0502e44eac983d1be396414ed2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Científica
+- Cooperação Técnica
+- Portugal
+- RFA
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:34Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 21 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha sobre Cooperação nos Domínios da Investigação e Desenvolvimento Tecnológico, assinado em Bona em 15 de Junho de 1981, cujo texto nas línguas portuguesa e alemã acompanha o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha sobre Cooperação nos Domínios da Investigação e Desenvolvimento Tecnológico, assinado em Bona em 15 de Junho de 1981, cujo texto nas línguas portuguesa e alemã acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 11 de Agosto de 1981.**
+Assinado em 11 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha sobre Cooperação nos Domínios da Investigação e Desenvolvimento Tecnológico.
 
@@ -203,4 +208,4 @@ Pelo Governo da República Federal da Alemanha:
 
 (Assinatura ilegível.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/19100/21672170.pdf))](https://files.diariodarepublica.pt/1s/1981/08/19100/21672170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19100/21672170.pdf)

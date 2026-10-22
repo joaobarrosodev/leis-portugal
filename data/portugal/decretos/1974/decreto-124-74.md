@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/124-1974-412208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbe87af078a6f012185d3e3bf486cd2ef5b5b6a79152005e607c769820439a6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c27fc0ef941f30c6f2c05c86e3fe120dd001a2a8d37a486876b5a72c6159d2d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:193647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:52Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +117,7 @@ Considerando o disposto no § único do artigo 1.º do [Decreto-Lei n.º 39672](
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 5.º, 6.º, 7.º, 8.º, 9.º, 30.º, 38.º e 47.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 5.º, 6.º, 7.º, 8.º, 9.º, 30.º, 38.º e 47.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
 
 ###### ARTIGO 1.º — Liberdade de trânsito
 
@@ -175,7 +195,7 @@ A contravenção ao preceituado na última parte do n.º 6 e no n.º 7 será pun
 
 3. Os veículos automóveis, além das restrições constantes do número anterior e da alínea b) do n.º 1 do artigo 24.º, estão sujeitos aos limites máximos de velocidade instantânea a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/07400/04110414.pdf))](https://files.diariodarepublica.pt/1s/1974/03/07400/04110414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/07400/04110414.pdf)
 
 A velocidade dos veículos articulados e dos automóveis pesados de mercadorias e mistos com reboque será a que corresponder ao peso bruto do conjunto.
 
@@ -355,12 +375,12 @@ Nos casos previstos no primeiro e segundo parágrafos deste número, sempre que 
 
 12. ...
 
-###### Art. 2.º O presente diploma entra em vigor imediatamente, salvo o disposto no n.º 15 do artigo 38.º do Código da Estrada, que só será aplicável a partir do dia 1 de Novembro de 1974.
+Art. 2.º O presente diploma entra em vigor imediatamente, salvo o disposto no n.º 15 do artigo 38.º do Código da Estrada, que só será aplicável a partir do dia 1 de Novembro de 1974.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 13 de Março de 1974.**
+Promulgado em 13 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/1995/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-1995-223468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f8dbff3248c36ba7ca6e86b59ee83f972b2d5468d5cb4199880851a58720df8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dd2844d1dcdfc8c4f03285f77f2b20232cc1e3a5b838727baf26dbe075f0e76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
+- Cooperação Científica
 - Cooperação Técnica
-- Portugal
 - Espanha
 - Madrid
-- Cooperação Científica
+- Portugal
 relationships: []
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:04Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 22 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Científica e Tecnológica entre Portugal e Espanha, assinado em Madrid a 16 de Março de 1994, cujas versões autênticas, nas línguas portuguesa e castelhana, seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Científica e Tecnológica entre Portugal e Espanha, assinado em Madrid a 16 de Março de 1994, cujas versões autênticas, nas línguas portuguesa e castelhana, seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1995. - Aníbal António Cavaco Silva. - Luís Francisco Valente de Oliveira. - José Manuel Durão Barroso.
 
-**Assinado em 9 de Março de 1995.**
+Assinado em 9 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Março de 1995.**
+Referendado em 13 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO CIENTÍFICA E TECNOLÓGICA ENTRE PORTUGAL E ESPANHA
 
@@ -160,4 +160,4 @@ Pelo Reino de Espanha:
 
 Elias Fereres Castiel, Secretário de Estado das Universidades e Investigação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/095a00/23162317.pdf))](https://files.diariodarepublica.pt/1s/1995/04/095a00/23162317.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/095a00/23162317.pdf)

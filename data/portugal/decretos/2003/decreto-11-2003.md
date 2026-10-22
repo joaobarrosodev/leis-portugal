@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/11/2003/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-2003-231114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:14:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7a922ab78f5170e4d8bfde930e821683e520858464fa678b232f051b2debb55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4850d28c2d4aef3b206d77e0384284277b5de4172b1550ec9e86b9220e391d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:14:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
+- Apoio ao Investimento
 - Bósnia-herzegovina
 - Convenção
-- Portugal
-- Apoio ao Investimento
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
+- Portugal
+- Protecção do Investimento
 - Sarajevo
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:14:30Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva.
 
-**Assinado em 21 de Fevereiro de 2003.**
+Assinado em 21 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Fevereiro de 2003.**
+Referendado em 28 de Fevereiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A BÓSNIA-HERZEGOVINA SOBRE A PROMOÇÃO E A PROTECÇÃO RECÍPROCAS DE INVESTIMENTOS.
 
@@ -328,11 +328,11 @@ Feito em Sarajevo, no dia 12 do mês de Março do ano de 2002, em dois originais
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
 
 Pela Bósnia-Herzegovina:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
 
 PROTOCOLO
 
@@ -346,11 +346,11 @@ Feito em Sarajevo, no dia 13 do mês de Março do ano de 2002, em dois originais
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
 
 Pela Bósnia-Herzegovina:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
 
 [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
 
@@ -590,11 +590,11 @@ Done at Sarajevo this 12th day of March 2002 in two originals in the Portuguese,
 
 For the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
 
 For Bosnia and Herzegovina:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
 
 PROTOCOL
 
@@ -608,8 +608,8 @@ Done at Sarajevo this 12 day of March 2002 in two originals in the Portuguese, B
 
 For the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
 
 For Bosnia and Herzegovina:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)](https://files.diariodarepublica.pt/1s/2003/03/071a00/19181930.pdf)

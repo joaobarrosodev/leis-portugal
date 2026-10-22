@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/30/1995/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/30-1995-429398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d981484a13c9fdd0dd5984f36f2566fb1584e7e08ec4cfc212a71ff2868e2418
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75a961bdbb260cfbd6dec0f2b417a4d7c38da17efc82dc59efa9a4ebccd37751
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Café
 - Comércio Internacional
 - Convenção
-- Portugal
-- Importação
-- Café
-- Londres
-- Organização Internacional do CAFÉ
 - Cooperação Internacional
 - Exportação
+- Importação
+- Londres
+- Organização Internacional do CAFÉ
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:568144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:568144:por
+  label: "Aprovada a prorrogação da vigência (entre 1 de Outubro de 1999 e 30 de Setembro de 2001) do Convénio Internacional\
+    \ do Café de 1994, aprovado, para ratificação, no presente diploma, pelo DEC.47/2001.28.11.2001.MNE, DR.IS-B [276] de\
+    \ 28.11.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/47-2001-568144
+  date: '2001-11-28'
 article_structure:
-  article_count: 51
+  article_count: 50
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:47Z'
   warnings: []
   errors: []
 ---
@@ -99,19 +106,19 @@ de 17 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Convénio Internacional do Café de 1994, cuja versão autêntica em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Convénio Internacional do Café de 1994, cuja versão autêntica em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Durão Barroso - Fernando Manuel Barbosa Faria de Oliveira.
 
 Ratificado em 6 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Julho de 1995.**
+Referendado em 10 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 INTERNATIONAL COFFEE AGREEMENT 1994
 

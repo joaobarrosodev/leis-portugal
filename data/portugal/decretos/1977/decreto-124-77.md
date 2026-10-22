@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/124-1977-278533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87015a74150ee23d96bfe1270c3117e458cc070f702339bbd3216b31f73fb5cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daa9ddcb398e1c2e54d60144dabe5e3217e5270a96cd28a05bc44db7288b4333
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Científica
+- Cooperação Cultural
+- Lisboa
+- México
+- Política de Cooperação
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:38Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +94,15 @@ de 23 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Cultural e Científico entre o Governo da República Portuguesa e o Governo dos Estados Unidos do México, assinado em Lisboa a 9 de Fevereiro de 1977, cujo texto em português vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Cultural e Científico entre o Governo da República Portuguesa e o Governo dos Estados Unidos do México, assinado em Lisboa a 9 de Fevereiro de 1977, cujo texto em português vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 3 de Setembro de 1977.**
+Assinado em 3 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO CULTURAL E CIENTÍFICO ENTRE A REPÚBLICA PORTUGUESA E OS ESTADOS UNIDOS DO MÉXICO
 
@@ -107,15 +114,15 @@ Considerando que a cooperação entre os dois países contribuirá para um mais 
 
 Acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes estimularão o intercâmbio de experiências e dos mais recentes conhecimentos nos domínios da cultura, das artes, da educação e da ciência.
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes favorecerão, na medida do possível, o estudo e a difusão no seu país da língua, cultura e história da outra Parte.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes fomentarão:
 
@@ -123,7 +130,7 @@ a) As relações entre as suas competentes instituições nos campos da cultura,
 
 b) O intercâmbio de material entre as referidas instituições.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes proporcionarão apoio recíproco na preparação de especialistas nos campos da cultura, das artes, da educação e da ciência, e para isso concordam em:
 
@@ -131,19 +138,19 @@ a) Promover o intercâmbio de investigadores, professores, peritos e técnicos n
 
 b) Estimular o intercâmbio de estudantes e pós-graduados, mediante a atribuição de bolsas.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes estimularão a realização de negociações entre as instituições competentes para o reconhecimento e equivalência recíprocos de estudos, títulos e graus académicos, de acordo com as disposições legais vigentes em cada país.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Para melhor conhecimento mútuo nos campos da cultura e das artes, as Partes favorecerão o intercâmbio de escritores, artistas e agrupamentos artísticos.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As Partes, na medida do possível, apoiarão o intercâmbio de pessoas, individualmente ou em grupo, mencionado nos artigos IV e VI, e proporcionarão as condições necessárias para a realização dos objectivos desse intercâmbio.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As Partes estimularão ainda o intercâmbio de:
 
@@ -157,7 +164,7 @@ d) Experiências e publicações entre as suas bibliotecas, arquivos, museus e o
 
 e) Exposições de arte, bibliográficas e documentais.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1. Para a execução do presente Acordo será constituída uma comissão mista, de composição paritária, encarregada de apresentar sugestões, recomendações e pareceres às Partes Contratantes, tendo em vista a elaboração dos programas de intercâmbio.
 
@@ -165,11 +172,11 @@ ARTIGO IX
 
 3. A comissão mista poderá convocar peritos para as suas reuniões, na qualidade de conselheiros ou assessores.
 
-ARTIGO X
+###### ARTIGO X
 
 O presente Acordo será válido por um período de cinco anos e será prorrogado tacitamente por iguais períodos, salvo se uma das Partes o denunciar, por escrito, pelo menos um ano antes da data da sua expiração.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O presente Acordo entrará em vigor na data da última notificação do cumprimento dos actos da aprovação.
 

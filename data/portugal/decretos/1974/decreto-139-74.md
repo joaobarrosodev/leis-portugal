@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/139-1974-411809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd2d8280d9ca7e8b6bc837b03c80a131107f37f494dcffaccd1b3a1185e666b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0056856bdc16538a9ea9ad02845c57a45471865f28d37404374c5de862ea95ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Espanha
+- Madrid
+- Ponte Internacional
+- Portugal
+- RIO Erges
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:57Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +93,17 @@ de 5 de Abril
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1. É aprovado o texto da Convenção entre os Governos da República Portuguesa e do Estado Espanhol Relativa à Construção de Uma Ponte Internacional sobre o Rio Erges na Fronteira Luso-Espanhola, assinada em Lisboa em 22 de Novembro de 1973.
+Artigo único. - 1. É aprovado o texto da Convenção entre os Governos da República Portuguesa e do Estado Espanhol Relativa à Construção de Uma Ponte Internacional sobre o Rio Erges na Fronteira Luso-Espanhola, assinada em Lisboa em 22 de Novembro de 1973.
 
 2. O texto da Convenção, em língua portuguesa e espanhola, segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 27 de Março de 1974.**
+Assinado em 27 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 CONVENÇÃO ENTRE OS GOVERNOS DA REPÚBLICA PORTUGUESA E DO ESTADO ESPANHOL RELATIVA À CONSTRUÇÃO DE UMA PONTE INTERNACIONAL SOBRE O RIO ERGES NA FRONTEIRA LUSO-ESPANHOLA.
 
@@ -151,7 +157,7 @@ A Comissão, para além da sua função técnica, estabelecerá, tendo em conta 
 
 A Comissão será composta por um número igual de representantes portugueses e espanhóis, assistidos pelos peritos que forem considerados necessários.
 
-**O presidente da delegação portuguesa será oportunamente designado pelas autoridades respectivas.**
+O presidente da delegação portuguesa será oportunamente designado pelas autoridades respectivas.
 
 A delegação espanhola será presidida pelo engenheiro director da obra.
 
@@ -209,4 +215,4 @@ A presente Convenção entrará em vigor logo que hajam sido cumpridos os trâmi
 
 Feito em Lisboa em dois exemplares, em língua portuguesa e espanhola, fazendo fé igualmente ambos os textos, a 22 de Novembro de 1973.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/08100/04930496.pdf))](https://files.diariodarepublica.pt/1s/1974/04/08100/04930496.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08100/04930496.pdf)

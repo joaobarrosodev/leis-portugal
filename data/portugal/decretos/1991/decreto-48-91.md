@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/48/1991/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48-1991-682205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21a734e2dd506440dd6b33da03df92d5eec7b5ccfc01b1a0f48a5b0648d31c9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1d33861789a5cdef5ab654941e7827129f9081c073d8c3c3c44774157f03d98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega
-- Modernização Administrativa
 - Convenção
+- Modernização Administrativa
+- Política Pautal
 - Portugal
 - Quioto
-- Política Pautal
 relationships:
 - type: cites
   target: celex:31985D0204
   label: null
   source: http://data.europa.eu/eli/dec/1985/204/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:07Z'
   warnings: []
   errors: []
 ---
@@ -103,21 +103,21 @@ Assim:
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado, para aceitação, o Anexo B.1, relativo à introdução no consumo, da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, concluída em Quioto em 18 de Maio de 1973, cujas versões em língua francesa e portuguesa se publicam em anexo ao presente decreto.
+Artigo 1.º É aprovado, para aceitação, o Anexo B.1, relativo à introdução no consumo, da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, concluída em Quioto em 18 de Maio de 1973, cujas versões em língua francesa e portuguesa se publicam em anexo ao presente decreto.
 
-###### Art. 2.º A aceitação do Anexo B.1 fica subordinada às mesmas reservas formuladas pela Comunidade Económica Europeia em relação às práticas recomendadas 19 e 52 e à norma 28, cujo texto se publica em anexo ao presente decreto.
+Art. 2.º A aceitação do Anexo B.1 fica subordinada às mesmas reservas formuladas pela Comunidade Económica Europeia em relação às práticas recomendadas 19 e 52 e à norma 28, cujo texto se publica em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Manuel Durão Barroso.
 
 Ratificado em 2 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1991.**
+Referendado em 12 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ANNEXE I
 
@@ -751,7 +751,7 @@ Renseignements concernant la mise à la consommation
 
 Les autorités douanières font en sorte que toute personne intéressée puisse se procurer sans difficulté touts renseignements utiles concernant le régime de la mise à la consommation.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/181a00/39523971.pdf))](https://files.diariodarepublica.pt/1s/1991/08/181a00/39523971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/181a00/39523971.pdf)
 
 Appendice II de l'Annexe B.1
 
@@ -767,9 +767,11 @@ Notes
 
 5 - L'espace réservé aux rubriques imposées par les administrations et qui ne sont pas prévues dans le modèle de formule-cadre peut être pris sur l'espace d'utilisation libre.
 
-## ANEXO I — ANEXO B.1
+## ANEXO I
 
-## Anexo relativo à introdução no consumo
+## ANEXO B.1
+
+Anexo relativo à introdução no consumo
 
 Introdução
 
@@ -1397,9 +1399,9 @@ Informações relativas à introdução no consumo
 
 As autoridades aduaneiras asseguram que qualquer pessoa interessada possa obter sem dificuldade todas as informações úteis relativas ao regime da introdução no consumo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/181a00/39523971.pdf))](https://files.diariodarepublica.pt/1s/1991/08/181a00/39523971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/181a00/39523971.pdf)
 
-## Apêndice II do Anexo B.1
+Apêndice II do Anexo B.1
 
 Notas
 

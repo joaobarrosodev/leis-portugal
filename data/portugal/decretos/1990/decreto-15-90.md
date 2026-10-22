@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-1990-574914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b07f80decc618c41da6ef9211599c18364905b6869a1e3e9287d59e48887ce8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 860e1b2e56444fd017fd06a3fc05872d5f58f67c33aaff3d017722c1ec8fdef9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Convenção
+- Cooperação Internacional
+- Exportação
+- Livre Circulação de Mercadorias
+- Política Pautal
+- Portugal
+- Quioto
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:51Z'
   warnings: []
   errors: []
 ---
@@ -90,21 +98,21 @@ Considerando o disposto no artigo 395.º do Acto anexo ao Tratado de Adesão:
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado, para aceitação, o anexo C.1, relativo à exportação, a título definitivo, da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, concluída em Kyoto, em 18 de Maio de 1973, cujo texto original em francês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo 1.º É aprovado, para aceitação, o anexo C.1, relativo à exportação, a título definitivo, da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, concluída em Kyoto, em 18 de Maio de 1973, cujo texto original em francês e a respectiva tradução para português vão anexos ao presente decreto.
 
-###### Art. 2.º A aceitação do anexo C.1 fica subordinada às reservas formuladas pela Comunidade Económica Europeia em relação à norma 21 e à prática recomendada 10, cujo texto se publica em anexo ao presente decreto.
+Art. 2.º A aceitação do anexo C.1 fica subordinada às reservas formuladas pela Comunidade Económica Europeia em relação à norma 21 e à prática recomendada 10, cujo texto se publica em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 5 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro.
 
 Ratificado em 4 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Maio de 1990.**
+Referendado em 8 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Reservas formuladas pela Comunidade relativamente ao anexo C.1 da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros
 
@@ -358,7 +366,7 @@ Renseignements concernant l'exportation à titre définitif
 
 24 - Norme - Les autorités douanières font en sorte que toute personne intéressée puisse se procurer sans difficulté tous renseignements utiles concernant l'exportation à titre définitif.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf)
 
 Appendice II de l'annexe C.1
 
@@ -374,7 +382,7 @@ Notes:
 
 5 - L'espace réservé aux rubriques imposées par les administrations et qui ne sont pas prévues dans le modèle de formule-cadre peut être pris sur l'espace d'utilisation libre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf)
 
 Versão em francês das reservas a formular em relação ao anexo C.1 da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros
 
@@ -384,7 +392,9 @@ Pratique recommandé 10 et norme 21.
 
 Mêmes reserves que celles qui ont été formulées par la Communauté économique européenne.
 
-## ANEXO C.1 — Anexo relativo à exportação a título definitivo
+## ANEXO C.1
+
+## Anexo relativo à exportação a título definitivo
 
 Introdução
 
@@ -622,9 +632,9 @@ Informações relativas à exportação a título definitivo
 
 24 - Norma - As autoridades aduaneiras asseguram que qualquer pessoa interessada possa obter sem dificuldade todas as informações úteis relativas à exportação a título definitivo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf)
 
-## Apêndice II do anexo C.1
+Apêndice II do anexo C.1
 
 Notas:
 
@@ -638,4 +648,4 @@ Notas:
 
 5 - O espaço reservado às rubricas impostas pelas administrações e que não estão previstas no modelo da fórmula padrão pode ser atribuído ao espaço de utilização livre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12000/23522360.pdf)

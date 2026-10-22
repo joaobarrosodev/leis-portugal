@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/23/1993/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-1993-374859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69b459a9293d8a5ec8ff840f78ef6735e8ac6783006f78196e4f61bb240e1d4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8ff1de7030440d1a632e0c68dec5fdd7e14aa7971cdca7c1b2d5aaa9aebfc1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Comissão de Coordenação da Região do Algarve
 - Lagos
 - Medidas Preventivas
+- Ordenamento do Território
 - Zona de Proteção
 relationships:
 - type: cites
@@ -79,16 +79,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:25Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +131,7 @@ Assim:
 
 Ao abrigo do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Fica sujeita a medidas preventivas, nos termos do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a área definida na planta anexa ao presente diploma, do qual faz parte integrante, cujo original, à escala 1:25000, se encontra arquivado na Comissão de Coordenação da Região do Algarve.
+Artigo 1.º - 1 - Fica sujeita a medidas preventivas, nos termos do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a área definida na planta anexa ao presente diploma, do qual faz parte integrante, cujo original, à escala 1:25000, se encontra arquivado na Comissão de Coordenação da Região do Algarve.
 
 2 - A área sujeita a medidas preventivas é definida pelos seguintes limites:
 
@@ -137,7 +149,7 @@ Por caminho carreteiro para sul, ao longo do vale da ribeira dos Lagos, flectind
 
 Por caminho para sueste até à estrada municipal n.º 535.
 
-###### Art. 2.º - 1 - Na área abrangida pelas medidas preventivas ficam sujeitos a prévia autorização da Comissão de Coordenação da Região do Algarve, adiante designada por CCRALG, os actos e actividades seguintes:
+Art. 2.º - 1 - Na área abrangida pelas medidas preventivas ficam sujeitos a prévia autorização da Comissão de Coordenação da Região do Algarve, adiante designada por CCRALG, os actos e actividades seguintes:
 
 a) Criação de novos núcleos populacionais, incluindo loteamentos urbanos;
 
@@ -159,24 +171,24 @@ f) Destruição do solo vivo e do coberto vegal.
 
 5 - A autorização da CCRALG é concedida no prazo de 60 dias a contar da data de recepção do processo ou dos elementos e pareceres referidos nos n.os 3 e 4.
 
-###### Art. 3.º - 1 - As obras e os trabalhos efectuados com inobservância das medidas previstas no presente diploma podem ser embargados e demolidos, bem como reposta a configuração do terreno, imputando-se os respectivos encargos ao infractor.
+Art. 3.º - 1 - As obras e os trabalhos efectuados com inobservância das medidas previstas no presente diploma podem ser embargados e demolidos, bem como reposta a configuração do terreno, imputando-se os respectivos encargos ao infractor.
 
 2 - A fiscalização da observância do disposto no presente diploma, bem como a iniciativa do embargo ou da demolição, cabe à CCRALG ou aos órgãos dos municípios territorialmente competentes.
 
-###### Art. 4.º Sem prejuízo do estabelecido no artigo anterior, as infracções ao disposto no artigo 2.º ficam sujeitas ao regime sancionatório previsto nos Decretos-Leis n.os [445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) e [448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 20 e 29 de Novembro, respectivamente.
+Art. 4.º Sem prejuízo do estabelecido no artigo anterior, as infracções ao disposto no artigo 2.º ficam sujeitas ao regime sancionatório previsto nos Decretos-Leis n.os [445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) e [448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 20 e 29 de Novembro, respectivamente.
 
 Presidência do Conselho de Ministros, 15 de Março de 1993.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha.
 
-**Assinado em 26 de Maio de 1993.**
+Assinado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/150b00/35303531.pdf))](https://files.diariodarepublica.pt/1s/1993/06/150b00/35303531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/150b00/35303531.pdf)

@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/104-1980-462015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54cc9e3b48c84f8fd73c4ce7cb3689e20483354baed2b7651e350b7f38a60537
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cec639116706efcc171fdd6419d563da9dc246e3afd9b9d1ba2243348e5210f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Educação Especial
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:434579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:14Z'
   warnings: []
   errors: []
 ---
@@ -94,30 +104,30 @@ Nestes termos:
 
 Ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, o Governo decreta, ao abrigo da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aditados aos quadros únicos a que se refere o [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, os lugares constantes do mapa anexo ao presente diploma.
+Artigo 1.º São aditados aos quadros únicos a que se refere o [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, os lugares constantes do mapa anexo ao presente diploma.
 
-###### Art. 2.º O primeiro provimento dos lugares referidos no artigo anterior far-se-á, sem prejuízo da habilitação literária legalmente estabelecida, de entre o pessoal que, a qualquer título, vem prestando serviço na Divisão de Ensino Especial da Direcção-Geral do Ensino Básico, do Ministério da Educação e Ciência, e de acordo com as seguintes regras:
+Art. 2.º O primeiro provimento dos lugares referidos no artigo anterior far-se-á, sem prejuízo da habilitação literária legalmente estabelecida, de entre o pessoal que, a qualquer título, vem prestando serviço na Divisão de Ensino Especial da Direcção-Geral do Ensino Básico, do Ministério da Educação e Ciência, e de acordo com as seguintes regras:
 
 a) Para a categoria de ingresso na carreira para a qual detenha as habilitações necessárias;
 
 b) Para a categoria imediatamente superior à referida na alínea anterior, desde que possua, pelo menos, três anos de serviço no exercício das actuais funções.
 
-###### Art. 3.º O pessoal abrangido pelo presente diploma transitará obrigatoriamente para o Instituto de Ensino Especial.
+Art. 3.º O pessoal abrangido pelo presente diploma transitará obrigatoriamente para o Instituto de Ensino Especial.
 
-###### Art. 4.º Os encargos resultantes da aplicação do presente diploma serão suportados pela rubrica 02 do orçamento do Ministério da Educação e Ciência.
+Art. 4.º Os encargos resultantes da aplicação do presente diploma serão suportados pela rubrica 02 do orçamento do Ministério da Educação e Ciência.
 
-###### Art. 5.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Ciência e do Secretário de Estado da Reforma Administrativa, consoante a sua natureza.
+Art. 5.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Ciência e do Secretário de Estado da Reforma Administrativa, consoante a sua natureza.
 
-###### Art. 6.º Esse diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º Esse diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - Vítor Pereira Crespo.
 
-**Promulgado em 6 de Outubro de 1980.**
+Promulgado em 6 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo a que se refere o artigo 1.º do Decreto n.º 104/80, de 14 de Outubro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23800/33743375.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23800/33743375.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23800/33743375.pdf)

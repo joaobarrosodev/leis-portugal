@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-1982-599933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d83e00ecd2057621291db74e92945dec54c395d39db04af079347f35fb119b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03513b035eebf0397c4cf3493b6ebd136ed6cadc8d3f3b80c99fb7a5b9cf8426
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Paris
+- Portugal
+- Proteção dos Animais
+- Transporte Internacional
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:07Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 11 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Europeia sobre a Protecção dos Animais em Transporte Internacional, aberta à assinatura em 13 de Dezembro de 1968, e respectivo Protocolo adicional, aberto à assinatura em 10 de Maio de 1979, cujos textos originais e respectivas traduções em português seguem em anexo ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção Europeia sobre a Protecção dos Animais em Transporte Internacional, aberta à assinatura em 13 de Dezembro de 1968, e respectivo Protocolo adicional, aberto à assinatura em 10 de Maio de 1979, cujos textos originais e respectivas traduções em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1982. - Diogo Pinto Freitas do Amaral.
 
-**Assinado em 15 de Fevereiro de 1982.**
+Assinado em 15 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION EUROPÉENNE SUR LA PROTECTION DES ANIMAUX EN TRANSPORT INTERNATIONAL
 
@@ -669,7 +674,9 @@ Considerando que um progresso nesta matéria pode ser atingido pela adopção de
 
 acordaram no que segue:
 
-### CAPÍTULO I — ARTIGO 1.º
+### CAPÍTULO I
+
+###### ARTIGO 1.º
 
 1 - Cada uma das Partes Contratantes deverá aplicar as disposições relativas aos transportes internacionais de animais contidas na presente Convenção.
 
@@ -679,7 +686,7 @@ acordaram no que segue:
 
 4 - Cada uma das Partes Contratantes tomará as medidas necessárias a fim de evitar ou reduzir ao mínimo todo e qualquer sofrimento aos animais, em caso de greve ou de qualquer caso de força maior que impeça a estrita aplicação, no seu território, da presente Convenção. Para este efeito deverá inspirar-se nos princípios nela enunciados.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A presente Convenção aplica-se aos transportes internacionais:
 
@@ -697,7 +704,7 @@ e) De animais de sangue frio (capítulo VI).
 
 A) Disposições gerais
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1 - Antes do seu carregamento com vista a um transporte internacional, os animais devem ser inspeccionados por um veterinário autorizado do país exportador, que se assegure da sua aptidão para a viagem. Por veterinário autorizado entende-se um veterinário designado pela autoridade competente em aplicação das disposições da presente Convenção.
 
@@ -707,15 +714,15 @@ A) Disposições gerais
 
 4 - Em certos casos determinados por acordo entre as Partes Contratantes interessadas as disposições do presente artigo poderão não ser aplicadas.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Os animais que se preveja venham a parir no período correspondente ao transporte ou que tenham parido há menos de 48 horas não devem ser considerados aptos para a viagem.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 O veterinário autorizado do país exportador, do país de trânsito ou do país importador pode prescrever um período de repouso, no lugar que ele designe, durante o qual os animais receberão os cuidados necessários.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1 - Os animais devem dispor de espaço suficiente e devem, salvo indicações especiais em contrário, poder deitar-se.
 
@@ -733,21 +740,21 @@ O veterinário autorizado do país exportador, do país de trânsito ou do país
 
 8 - Os touros de idade superior a 18 meses deverão, de preferência, ser presos; serão munidos de uma argola nasal utilizada exclusivamente para o seu manejo.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1 - Quando animais de diferentes espécies são transportados num mesmo meio de transporte, devem ser separados por espécies. Devem, além disso, ser previstas medidas particulares para evitar os inconvenientes que possam resultar da presença, na mesma viagem, de espécies naturalmente hostis entre si. Quando o carregamento de um mesmo meio de transporte é composto de animais de diferentes idades, os adultos devem ser separados dos mais novos; esta restrição não se aplicará, contudo, às fêmeas que viajem com os filhos que amamentam. No que se refere aos bovinos, solípedes e suínos, os machos adultos não castrados devem ser separados das fêmeas; os varrões devem ainda ser separados uns dos outros, assim como os garanhões.
 
 2 - Nos compartimentos onde se encontram animais não deve ser colocada mercadoria que possa prejudicar o seu bem-estar.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Para o carregamento e descarregamento de animais deve ser utilizado equipamento apropriado, como pontes, rampas ou passarelas. Este equipamento deve ser provido de um soalho não escorregadio e, se necessário, de uma protecção lateral. Os animais não devem ser erguidos pela cabeça, cornos ou patas, por ocasião do carregamento ou descarregamento.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 O soalho dos meios de transporte ou das embalagens deverá ser suficientemente sólido para resistir ao peso dos animais transportados. Não deve ser escorregadio, nem ter interstícios. Deve ser revestido de uma camada de palha ou forragem suficiente para absorver os dejectos, a menos que possa ser substituída por um outro processo que apresente, no mínimo, as mesmas vantagens.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 A fim de assegurar durante o transporte os cuidados necessários aos animais, estes devem ser acompanhados, excepto quando:
 
@@ -757,7 +764,7 @@ b) O transportador toma a seu cargo as funções de tratador;
 
 c) O expedidor encarregou um mandatário de cuidar dos animais em locais de paragem apropriados.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1 - O tratador ou o mandatário do expedidor deve cuidar dos animais, dar-lhes de beber, alimentá-los e, se necessário, ordenhá-los.
 
@@ -765,125 +772,125 @@ c) O expedidor encarregou um mandatário de cuidar dos animais em locais de para
 
 3 - A fim de poder assegurar tais cuidados, o tratador deve ter à sua disposição, se necessário, um meio de iluminação adequado.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Os animais doentes ou feridos durante o transporte devem receber a assistência de um veterinário o mais rapidamente possível, e, se for necessário proceder ao seu abate, este deve ser efectuado de maneira a evitar, na medida do possível, todo e qualquer sofrimento.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Os animais não devem ser carregados senão em meios de transporte ou embalagens cuidadosamente limpos. Os cadáveres de animais, o estrume e os dejectos devem ser retirados logo que possível.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Os animais devem ser transportados o mais rapidamente possível e os atrasos, especialmente os resultantes de correspondência, devem ser reduzidos ao mínimo.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Com vista a acelerar o cumprimento das formalidades no momento da importação ou do trânsito, todo e qualquer transporte de animais será comunicado logo que possível aos postos de controle. Para essas formalidades, deverá ser concedida prioridade aos transportes de animais.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Os postos onde é feito o controle sanitário e onde exista um tráfico importante e regular de animais devem ter acomodações que permitam aos animais repousar, alimentar-se e beber água.
 
 B) Disposições especiais para os transportes por caminho de ferro
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Os vagões utilizados no transporte de animais devem estar munidos de um símbolo indicando a presença de animais vivos. Na falta de vagões especiais para o transporte de animais os vagões utilizados devem ser cobertos, aptos a circular a grande velocidade e munidos de aberturas de ventilação suficientemente largas. Estas aberturas devem ser concebidas de modo a evitar a fuga dos animais e a garantir a sua segurança. As paredes interiores destes vagões devem ser de madeira ou de qualquer outro material apropriado, sem asperezas e munidas de argolas ou de barras colocadas a uma altura conveniente.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Os solípedes devem ser presos ao longo da mesma parede ou de frente uns para os outros. Todavia, os animais jovens e não adestrados não devem ser presos.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Os animais de grande porte devem ser dispostos nos vagões por forma a permitir ao tratador circular entre eles.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Quando, de acordo com as disposições do artigo 7.º, for necessário proceder à separação dos animais, esta pode ser realizada prendendo os animais em partes separadas do vagão se a superfície deste o permitir ou por meio de divisórias apropriadas.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 Aquando da formação dos comboios e de qualquer outra manobra dos vagões, devem ser tomadas todas as precauções para evitar as atrelagens violentas dos vagões que transportam animais.
 
 C) Disposições especiais para os transportes por estrada
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Os veículos devem ser concebidos por forma que os animais não possam fugir e ser equipados de modo a garantir a segurança dos animais; devem, além disso, possuir uma cobertura que assegure uma protecção eficaz contra as intempéries.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Nos veículos utilizados para o transporte de animais de grande porte que devem normalmente estar presos devem ser instalados dispositivos para o efeito. Quando a compartimentação dos veículos for necessária deve ser realizada através de divisórias resistentes.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 Os veículos devem possuir uma rampa que satisfaça as condições previstas no artigo 8.º
 
 D) Disposições especiais para os transportes por água
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 O equipamento dos navios deve permitir o transporte de animais sem que estes sejam expostos a ferimentos ou sofrimentos evitáveis.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 Os animais não devem ser transportados nas partes descobertas, excepto quando em embalagens convenientemente arrumadas ou em contentores fixos aprovados pela autoridade competente e que assegurem uma protecção eficaz contra o mar e as intempéries.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Os animais devem ser presos ou convenientemente colocados nas áreas ou embalagens.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Devem ser preparadas passagens apropriadas para dar acesso às áreas ou embalagens onde se encontram os animais. Deve prever-se um dispositivo que assegure a iluminação.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 O número de tratadores deve ser suficiente, atendendo ao número de animais transportados e à duração da travessia.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 Todos os locais do navio ocupados pelos animais devem possuir dispositivo de escoamento de águas e ser mantidos em bom estado de limpeza.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 Um instrumento do tipo aprovado pela autoridade competente deve estar disponível a bordo para proceder ao abate dos animais em caso de necessidade.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 Os navios utilizados no transporte de animais devem abastecer-se, antes da partida, de reservas de água potável e de alimentos apropriados julgados suficientes, pelas autoridades competentes do país expedidor, tanto em relação à espécie e ao número de animais transportados como à duração do transporte.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 Devem ser tomadas medidas com vista a isolar, durante o transporte, os animais doentes ou feridos, e, se necessário, devem ser-lhes prestados os primeiros cuidados.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 As disposições dos artigos 25.º a 33.º não se aplicam aos transportes de animais efectuados em veículos ferroviários ou rodoviários carregados em ferry-boats ou navios semelhantes.
 
 E) Disposições especiais para os transportes por ar
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 Os animais devem ser colocados em embalagens ou compartimentos adequados à espécie transportada. Podem ser autorizadas derrogações desde que sejam feitas acomodações apropriadas para controlar os animais.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 Devem ser tomadas precauções para evitar temperaturas demasiado altas ou demasiado baixas a bordo, tendo em conta a espécie. Devem, além disso, ser evitadas fortes variações da pressão do ar.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 Um instrumento do tipo aprovado pela autoridade competente deve estar disponível a bordo dos aviões de carga para o abate dos animais em caso de necessidade.
 
 ### CAPÍTULO III — Aves e coelhos domésticos
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 As disposições dos seguintes artigos do capítulo II aplicam-se mutatis mutandis aos transportes de aves e coelhos domésticos: artigos 6.º, n.os 1 a 3, 7.º, 13.º a 17.º, inclusive, 21.º, 22.º, 25.º a 30.º, inclusive, 32.º e 34.º a 36.º, inclusive.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 1 - Os animais doentes ou feridos não devem ser considerados aptos para a viagem. Os que se ferirem ou adoecerem durante o transporte devem receber os primeiros cuidados logo que possível e, se necessário, ser submetidos a um exame veterinário.
 
@@ -897,45 +904,45 @@ b) Transportes de duração inferior a 24 horas quando se trate de aves recém-n
 
 ### CAPÍTULO IV — Cães e gatos domésticos
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 1 - As disposições do presente capítulo aplicam-se aos transportes de cães e gatos domésticos, à excepção daqueles que são acompanhados pelo seu proprietário ou pelo representante deste.
 
 2 - As disposições dos seguintes artigos do capítulo II aplicam-se mutatis mutandis aos transportes de cães e gatos: artigos 4.º, 6.º, n.os 1 a 3, inclusive, 7.º, 9.º, 10.º, 11.º, n.os 1 e 3, 12.º a 17.º, inclusive, 20.º a 23.º, inclusive, 25.º a 29.º, inclusive, e 31.º a 37.º, inclusive.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 Os animais transportados devem ser alimentados a intervalos que não excedam 24 horas e deve ser-lhes dado de beber a intervalos que não ultrapassem 12 horas. Instruções redigidas de maneira clara, respeitantes ao aprovisionamento dos animais, devem acompanhá-los. As cadelas com o cio devem ser separadas dos machos.
 
 ### CAPÍTULO V — Outros mamíferos e aves
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 1 - As disposições do presente capítulo aplicam-se aos transportes dos mamíferos e aves não referidos nos capítulos anteriores.
 
 2 - As disposições dos seguintes artigos do capítulo II aplicam-se mutatis mutandis aos transportes das espécies tratadas neste capítulo: artigos 4.º, 5.º, 6.º, n.os 1 a 3, inclusive, 7.º a 10.º, inclusive, 11.º, n.os 1 e 3, 12.º a 17.º, inclusive, e 20.º a 37.º, inclusive.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 Os animais devem unicamente ser transportados em veículos ou embalagens apropriados, nos quais será aposta, se necessário, uma menção indicando que se trata de animais selvagens, assustadiços ou perigosos. Além disso, instruções redigidas de maneira clara, respeitantes ao aprovisionamento e aos cuidados especiais a ter com os animais, devem acompanhá-los.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 Os cervídeos não devem ser transportados no período em que refazem as hastes, a menos que sejam tomadas precauções especiais.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 Aos animais a que se aplica o presente capítulo devem ser dispensados cuidados em conformidade com as instruções previstas no artigo 43.º
 
 ### CAPÍTULO VI — Animais de sangue frio
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 Os animais de sangue frio devem ser transportados em embalagens e condições tais que, designadamente quanto ao espaço, à ventilação, à temperatura, à provisão de água e à oxigenação, sejam apropriadas à espécie considerada.
 
 ### CAPÍTULO VII — Resolução dos litígios
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 1 - Em caso de contestação respeitante à interpretação ou à aplicação das disposições da presente Convenção, as autoridades competentes das Partes Contratantes interessadas procederão a consultas mútuas. Cada uma das Partes Contratantes notificará o Secretário-Geral do Conselho da Europa dos nomes e direcções das suas autoridades competentes.
 
@@ -945,7 +952,7 @@ Os animais de sangue frio devem ser transportados em embalagens e condições ta
 
 ### CAPÍTULO VIII — Disposições finais
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 1 - A presente Convenção fica aberta à assinatura dos Estados membros do Conselho da Europa. Será ratificada ou aceite. Os instrumentos de ratificação ou de aceitação serão depositados junto do Secretário-Geral do Conselho da Europa.
 
@@ -953,13 +960,13 @@ Os animais de sangue frio devem ser transportados em embalagens e condições ta
 
 3 - Entrará em vigor em relação a qualquer Estado signatário que a ratifique ou a aceite posteriormente 6 meses após a data do depósito do respectivo instrumento de ratificação ou aceitação.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 1 - Após a entrada em vigor da presente Convenção, o Comité de Ministros do Conselho da Europa poderá convidar qualquer Estado não membro do Conselho a aderir à presente Convenção.
 
 2 - A adesão efectuar-se-á mediante o depósito, junto do Secretário-Geral do Conselho da Europa, de um instrumento de adesão que produzirá efeitos 6 meses após a data do seu depósito.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 1 - Qualquer Parte Contratante pode, no momento da assinatura ou no momento do depósito do seu instrumento de ratificação, de aceitação ou de adesão, designar o território ou territórios a que se aplicará a presente Convenção.
 
@@ -967,7 +974,7 @@ Os animais de sangue frio devem ser transportados em embalagens e condições ta
 
 3 - Qualquer declaração feita nos termos do número anterior poderá ser retirada, no que respeita a qualquer território designado nessa declaração, nas condições previstas no artigo 51.º da presente Convenção.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 1 - A presente Convenção vigorará por tempo indeterminado.
 
@@ -975,9 +982,9 @@ Os animais de sangue frio devem ser transportados em embalagens e condições ta
 
 3 - A denúncia produzirá efeitos 6 meses após a data da recepção da notificação pelo Secretário-Geral.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer Estado que tenha aderido à presente Convenção do seguinte:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer Estado que tenha aderido à presente Convenção do seguinte:
 
 a) De todas as assinaturas;
 
@@ -1005,23 +1012,23 @@ Considerando que, tendo competência nas matérias abrangidas pela Convenção, 
 
 acordaram no que segue:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O artigo 48.º da Convenção é completado pelo número seguinte:
 
 4 - A Comunidade Económica Europeia poderá tornar-se Parte Contratante na presente Convenção pela sua assinatura. Relativamente à Comunidade, a Convenção entrará em vigor 6 meses após a data da assinatura.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 No artigo 52.º da Convenção, as palavras «qualquer Estado que tenha aderido à presente Convenção» são substituídas pelas palavras «qualquer Parte Contratante que não seja membro do Conselho».
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 O artigo 47.º, n.º 2, da Convenção é completado pela alínea seguinte:
 
 No caso de litígio entre duas Partes Contratantes das quais uma seja Estado membro da Comunidade Económica Europeia, sendo a Comunidade Parte Contratante, a outra Parte Contratante deverá formular o pedido de arbitragem, simultaneamente a este Estado membro e à Comunidade, os quais lhe notificarão conjuntamente, num prazo de 3 meses após a recepção do pedido, se o Estado membro ou a Comunidade, ou o Estado membro e a Comunidade conjuntamente, se constituem parte do litígio. Na falta dessa notificação no prazo referido, presumir-se-á que o Estado membro e a Comunidade constituem uma mesma parte no litígio para efeitos da aplicação das disposições relativas à constituição e procedimento do tribunal arbitral. Do mesmo modo se procederá quando o Estado membro e a Comunidade se constituam conjuntamente parte no litígio.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - O presente Protocolo adicional fica aberto à assinatura dos Estados membros do Conselho da Europa que tenham assinado a Convenção, os quais poderão tornar-se Partes no Protocolo adicional mediante:
 
@@ -1033,17 +1040,17 @@ b) A assinatura com reserva de ratificação, aceitação ou aprovação, seguid
 
 3 - Os instrumentos de ratificação, aceitação, aprovação ou adesão serão depositados junto do Secretário-Geral do Conselho da Europa.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 O presente Protocolo adicional entrará em vigor quando todas as Partes Contratantes na Convenção se tenham tornado Partes no Protocolo adicional nos termos referidos no artigo 4.º
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 A partir da data da sua entrada em vigor, o presente Protocolo adicional passará a fazer parte integrante da Convenção. Após essa data, nenhum Estado poderá tornar-se Parte Contratante na Convenção sem se tornar ao mesmo tempo Parte Contratante no Protocolo adicional.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, as Partes na Convenção e a Comissão da Comunidade Económica Europeia:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, as Partes na Convenção e a Comissão da Comunidade Económica Europeia:
 
 a) De todas as assinaturas sem reserva de ratificação, aceitação ou aprovação;
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/90-1973-684440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2753c1f064621f6c1291441dd4893217f70b4d24b874b3588f27c0b111fb0629
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2be696e7117dc9285e5bccf9ef32b8646570bcb3c00e83a18c596b7e4d96cf12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:638082:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:32Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +94,18 @@ Considerando o fim a que o terreno se destina e dado o parecer favorável dos se
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial a que foi submetida pelo [Decreto n.º 39764](https://diariodarepublica.pt/dr/detalhe/decreto/39764-1954-638082), publicado no Diário do Governo, 1.ª série, n.º 179, de 16 de Agosto de 1954, uma parcela de terreno baldio do perímetro florestal da serra de Arga, com a superfície de cerca de 200 m2, e restituída à administração da Junta de Freguesia de Arcozelo, a fim de se proceder à criação de uma zona de protecção de captação de água para abastecimento e reforço do caudal da rede da vila de Ponte de Lima.
+Artigo 1.º É excluída do regime florestal parcial a que foi submetida pelo [Decreto n.º 39764](https://diariodarepublica.pt/dr/detalhe/decreto/39764-1954-638082), publicado no Diário do Governo, 1.ª série, n.º 179, de 16 de Agosto de 1954, uma parcela de terreno baldio do perímetro florestal da serra de Arga, com a superfície de cerca de 200 m2, e restituída à administração da Junta de Freguesia de Arcozelo, a fim de se proceder à criação de uma zona de protecção de captação de água para abastecimento e reforço do caudal da rede da vila de Ponte de Lima.
 
-###### Art. 2.º Não poderá ser abatido o arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que, para o efeito, elaborará um auto de marca de corte extraordinário.
+Art. 2.º Não poderá ser abatido o arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que, para o efeito, elaborará um auto de marca de corte extraordinário.
 
-###### Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino conveniente.
+Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino conveniente.
 
-###### Art. 4.º A entrega desta parcela de terreno só será efectivada depois de a Junta de Freguesia de Arcozelo proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 4.º A entrega desta parcela de terreno só será efectivada depois de a Junta de Freguesia de Arcozelo proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 Marcello Caetano - José Eduardo Mendes Ferrão.
 
-**Promulgado em 22 de Fevereiro de 1973.**
+Promulgado em 22 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/20400/0004300062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/7/2020/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-2020-145875117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad1547707a4578b2b32da68e0e856f2b64fd031e9feaf0e2df717c3ba66d4731
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dd5b9c71ecd0b28346e4619475f5142bfb60545b96cb8342b32e7cf9da588d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Turismo
-- Juventude
 - Comunicação Social
-- Política de Cooperação
-- Educação
-- Portugal
 - Cooperação Cultural
-- Irão
 - Desporto
+- Educação
+- Irão
+- Juventude
+- Política de Cooperação
+- Portugal
+- Turismo
 relationships: []
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:35Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +105,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de outubro de 2020. - O Ministro de Estado, da Economia e da Transição Digital, Pedro Gramaxo de Carvalho Siza Vieira - O Ministro de Estado, da Economia e da Transição Digital, Pedro Gramaxo de Carvalho Siza Vieira - O Ministro de Estado e dos Negócios Estrangeiros, Augusto Ernesto Santos Silva - O Secretário de Estado do Cinema, Audiovisual e Media, Nuno Artur Neves Melo da Silva - O Ministro da Ciência, Tecnologia e Ensino Superior, Manuel Frederico Tojal de Valsassina Heitor - O Ministro da Educação, Tiago Brandão Rodrigues.
 
-**Assinado em 7 de outubro de 2020.**
+Assinado em 7 de outubro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de outubro de 2020.**
+Referendado em 9 de outubro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ISLÂMICA DO IRÃO NAS ÁREAS DA LÍNGUA, EDUCAÇÃO, CULTURA, DESPORTO, JUVENTUDE, TURISMO E COMUNICAÇÃO SOCIAL
 
@@ -283,7 +283,7 @@ Pela República Islâmica do Irão:
 
 Ali Jannati, Ministro da Cultura e da Orientação Islâmica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/20400/0004300062.pdf))](https://files.diariodarepublica.pt/1s/2020/10/20400/0004300062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/20400/0004300062.pdf)
 
 COOPERATION AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE ISLAMIC REPUBLIC OF IRAN IN THE FIELDS OF LANGUAGE, EDUCATION, CULTURE, SPORTS, YOUTH, TOURISM AND MASS MEDIA
 
@@ -506,3 +506,5 @@ Rui Chancerelle de Machete, Minister of State and Foreign Affairs.
 For the Islamic Republic of Iran:
 
 Ali Jannati, Minister of Culture and Islamic Guidance.
+
+113630075

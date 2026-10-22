@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ff4f3aaf4dbbbe0808c1c91f0994f2983c63c590bbb373241313648a1a4b3f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e27f7f77f33cf7efdf6ce6fc3a53f890468632deebafad451d8b92d6acfb157d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Pos-graduação
+- Ensino Superior
+- Equivalência de Habilitações Literárias
+- Estudante
+- Faculdade de Letras
+- Instituto Universitário dos Açores
+- Licenciatura
+- Plano de Estudos
+- Universidade de Aveiro
+- Universidade do Minho
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:662140:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451667:por
+  label: "Alterado o plano de estudos de todas as variantes do curso de Línguas e Literaturas Clássicas e o plano de estudos\
+    \ das variantes com disciplinas de Latim do curso de Línguas e Literaturas Modernas fixados no presente diploma, pela\
+    \ PORT.633/83.31.05.1983.ME, DR.IS [125] de 31.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/633-1983-451667
+  date: '1983-05-31'
+- type: cites
+  target: pt:dre:252466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532624:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:298417:por
+  label: Retificados o n.º 6 do preâmbulo, a divisão A do II grupo do n.º 1 do art. 3.º, o n.º 3 do art. 15.º e n.º 3 do art.
+    22.º pelo(a) Declaração - Diário da República n.º 145/1978, Série I de 1978-06-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-298417
+  date: '1978-06-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:46Z'
   warnings: []
   errors: []
 ---
@@ -168,9 +205,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece os planos de estudo académicos dos cursos de licenciatura ministrados nas Faculdades de Letras e nas unidades de ensino dos mesmos domínios na Universidade do Minho, na Universidade de Aveiro, no Instituto Universitário dos Açores e na Universidade Nova de Lisboa, com excepção quanto a esta de adaptações respeitantes aos cursos de línguas e literaturas modernas.
+Artigo 1.º O presente diploma estabelece os planos de estudo académicos dos cursos de licenciatura ministrados nas Faculdades de Letras e nas unidades de ensino dos mesmos domínios na Universidade do Minho, na Universidade de Aveiro, no Instituto Universitário dos Açores e na Universidade Nova de Lisboa, com excepção quanto a esta de adaptações respeitantes aos cursos de línguas e literaturas modernas.
 
-###### Art. 2.º - 1 - Fica assim constituído o quadro permanente das disciplinas constantes dos cursos referidos no artigo anterior:
+Art. 2.º - 1 - Fica assim constituído o quadro permanente das disciplinas constantes dos cursos referidos no artigo anterior:
 
 1.ª secção
 
@@ -372,7 +409,7 @@ História do Teatro - anual (Faculdade de Letras de Coimbra).
 
 2 - Além das disciplinas curriculares de línguas modernas e das que integram o quadro permanente, haverá também nas Faculdades de Letras e no âmbito das Letras das outras instituições universitárias o ensino de disciplinas de opção aprovadas por despacho do Ministro da Educação e Cultura.
 
-###### Art. 3.º - 1 - São as seguintes as licenciaturas previstas no presente decreto e os planos dos estudos respectivos:
+Art. 3.º - 1 - São as seguintes as licenciaturas previstas no presente decreto e os planos dos estudos respectivos:
 
 I - Línguas e Literaturas Clássicas
 
@@ -1270,7 +1307,7 @@ Opção.
 
 2 - Mediante proposta fundamentada do conselho científico e do conselho pedagógico da escola, em sessão conjunta, e aprovada por despacho do Ministro da Educação e Cultura, poderão funcionar cursos de licenciatura com menos de dez inscrições no 1.º ano. Os cursos de licenciatura nas variantes de Línguas e Literaturas Clássicas funcionarão, porém, com qualquer número de inscrições.
 
-###### Art. 4.º Compõe-se, supletivamente, como segue, o elenco das disciplinas de opção a que se refere o artigo anterior.
+Art. 4.º Compõe-se, supletivamente, como segue, o elenco das disciplinas de opção a que se refere o artigo anterior.
 
 I - Línguas e Literaturas Clássicas
 
@@ -2014,7 +2051,7 @@ Línguas Clássicas.
 
 Línguas Modernas.
 
-###### Art. 5.º - 1 - O elenco constante do artigo 4.º, na parte não abrangida pelo n.º 1 do artigo 2.º, poderá ser modificado, em cada escola, por iniciativa fundamentada do conselho científico e do conselho pedagógico respectivos, reunidos em sessão conjunta, e aprovada por despacho do Ministro da Educação e Cultura.
+Art. 5.º - 1 - O elenco constante do artigo 4.º, na parte não abrangida pelo n.º 1 do artigo 2.º, poderá ser modificado, em cada escola, por iniciativa fundamentada do conselho científico e do conselho pedagógico respectivos, reunidos em sessão conjunta, e aprovada por despacho do Ministro da Educação e Cultura.
 
 2 - A partir do ano lectivo o de 1979-1980, o conselho científico e o conselho pedagógico de cada escola determinarão, até ao fim do mês de Junho do ano em curso, de acordo com as possibilidades do respectivo corpo docente nessa data, as disciplinas de opção singulares e seriadas, de entre as incluídas no elenco em vigor, que se leccionam no ano escolar imediato.
 
@@ -2022,7 +2059,7 @@ Línguas Modernas.
 
 4 - Sem prejuízo das opções previstas no plano de licenciatura que frequentar, poderá o aluno fazer ainda, complementarmente, a partir do 2.º ano, outras disciplinas optativas. A aprovação nestas disciplinas constará da carta de curso.
 
-###### Art. 6.º - 1 - À designação das seguintes opções corresponde uma área de conhecimento, e não uma única disciplina:
+Art. 6.º - 1 - À designação das seguintes opções corresponde uma área de conhecimento, e não uma única disciplina:
 
 Línguas Clássicas.
 
@@ -2060,7 +2097,7 @@ Sociologia.
 
 4 - Cada opção seriada no curso de Geografia constitui um conjunto de disciplinas que o aluno frequentará, de acordo com a sequência estabelecida, durante o curso ou obtida a licenciatura.
 
-###### Art. 7.º - 1 - A disciplina de Literatura Neolatina incluirá uma introdução sobre o latim renascentista.
+Art. 7.º - 1 - A disciplina de Literatura Neolatina incluirá uma introdução sobre o latim renascentista.
 
 2 - A disciplina de Introdução aos Estudos Literários compreenderá, além de uma introdução aos conceitos fundamentais da crítica e da história literárias, uma iniciação prática na técnica de análise de textos literários.
 
@@ -2074,39 +2111,39 @@ Sociologia.
 
 7 - Nas diciplinas de Hebraico e de Árabe, ter-se-á em especial atenção a respectiva incidência, dos séculos VIII a XVII, na Península Ibérica.
 
-###### Art. 8.º - 1 - O conselho científico e o conselho pedagógico de cada escola, em reunião conjunta, poderão organizar seminários em qualquer curso de licenciatura.
+Art. 8.º - 1 - O conselho científico e o conselho pedagógico de cada escola, em reunião conjunta, poderão organizar seminários em qualquer curso de licenciatura.
 
 2 - Os seminários serão regidos por doutorados ou professores equiparados. Os assistentes com publicações de reconhecido mérito na especialidade poderão ser autorizados pelo conselho científico a reger seminários.
 
-###### Art. 9.º - 1 - O ensino revestir-se-á de carácter teórico e prático, ou teórico-prático, conforme a índole da disciplina e as normas emanadas do conselho científico e do conselho pedagógico, em reunião conjunta.
+Art. 9.º - 1 - O ensino revestir-se-á de carácter teórico e prático, ou teórico-prático, conforme a índole da disciplina e as normas emanadas do conselho científico e do conselho pedagógico, em reunião conjunta.
 
 2 - O ensino teórico consiste, fundamentalmente, em exposições sobre pontos essenciais da matéria, suas inter-relações e pistas de abordagem e controvérsias que suscitam.
 
 3 - Os trabalhos práticos desenvolvem-se, de acordo com a índole das disciplinas, em sessões consagradas à discussão da matéria teórica, com a participação activa e contínua dos alunos, em exercícios práticos, orais ou escritos, em actividades de campo, gabinete ou laboratório, em análises críticas ou interpretativas, na classificação ou na leitura, de textos, documentos, mapas, inscrições, moedas, selos, peças de arte ou de arqueologia, em visitas e excursões de estudo.
 
-###### Art. 10.º - 1 - As disciplinas constantes dos planos de estudos, salvo quando leccionadas em regime de seminário, não terão carácter monográfico, nem carácter compendiário. Comportarão, todavia, o mínimo de três temas ou problemas.
+Art. 10.º - 1 - As disciplinas constantes dos planos de estudos, salvo quando leccionadas em regime de seminário, não terão carácter monográfico, nem carácter compendiário. Comportarão, todavia, o mínimo de três temas ou problemas.
 
 2 - A escolaridade semanal de cada disciplina variará entre o mínimo de três e o máximo de seis horas de aula ou seminário. O limite máximo tem em atenção, especialmente, as disciplinas de línguas ou que impliquem trabalhos de campo.
 
 3 - O estudo das disciplinas plurianuais de Literatura Moderna far-se-á segundo uma ordem cronologicamente regressiva.
 
-###### Art. 11.º - 1 - A partir de 1979, o conselho científico e o conselho pedagógico providenciarão, em reunião conjunta, para que se afixem, no mês de Junho de cada ano, os programas relativos ao ano escolar seguinte.
+Art. 11.º - 1 - A partir de 1979, o conselho científico e o conselho pedagógico providenciarão, em reunião conjunta, para que se afixem, no mês de Junho de cada ano, os programas relativos ao ano escolar seguinte.
 
 2 - Providenciarão, igualmente, em reunião conjunta, para que se verifique uma coordenação satisfatória, em matéria de programa, entre as disciplinas do mesmo ano e entre os anos do percurso académico da mesma disciplina.
 
 3 - Os programas serão acompanhados do elenco das obras de consulta, obrigatória ou recomendável, assinalando-se devidamente as primeiras.
 
-###### Art. 12.º - 1 - A informação final da licenciatura será a resultante da media aritmética de todas as classificações das disciplinas, tomando-se como uma unidade a fracção não inferior a cinco décimas. A média aritmética será alterada sempre que, quando incluídas no seu cálculo, as classificações das disciplinas de opção complementar beneficiem o aluno. A classificação do seminário, quando o houver, entrará no cálculo daquela média como correspondente a duas disciplinas.
+Art. 12.º - 1 - A informação final da licenciatura será a resultante da media aritmética de todas as classificações das disciplinas, tomando-se como uma unidade a fracção não inferior a cinco décimas. A média aritmética será alterada sempre que, quando incluídas no seu cálculo, as classificações das disciplinas de opção complementar beneficiem o aluno. A classificação do seminário, quando o houver, entrará no cálculo daquela média como correspondente a duas disciplinas.
 
 2 - O conselho científico e o conselho pedagógico proporão superiormente, em reunião conjunta, o critério a seguir na ponderação das opções complementares.
 
-###### Art. 13.º Os licenciados nas variantes de Línguas e Literaturas Clássicas ficam habilitados à profissionalização em Línguas Clássicas. Para se habilitarem à profissionalização na Língua e Literatura Moderna da variante respectiva terão de completar a preparação com as disciplinas de Linguística e Literatura previstas no plano de estudos correspondente de Línguas e Literaturas Modernas.
+Art. 13.º Os licenciados nas variantes de Línguas e Literaturas Clássicas ficam habilitados à profissionalização em Línguas Clássicas. Para se habilitarem à profissionalização na Língua e Literatura Moderna da variante respectiva terão de completar a preparação com as disciplinas de Linguística e Literatura previstas no plano de estudos correspondente de Línguas e Literaturas Modernas.
 
-###### Art. 14.º - 1 - Os planos de estudo agora aprovados começarão a ser ministrados no ano lectivo de 1978-1979.
+Art. 14.º - 1 - Os planos de estudo agora aprovados começarão a ser ministrados no ano lectivo de 1978-1979.
 
 2 - A integração de alunos nos planos de estudo referidos no número anterior será feita, imediatamente a seguir à entrada em vigor deste diploma, pelos conselhos científico e pedagógico da escola, em reunião conjunta.
 
-###### Art. 15.º - 1 - É extinto o bacharelato, no âmbito das Faculdades de Letras, a partir do fim do ano escolar de 1978-1979, e no das outras instituições universitárias com ensino de Letras, a partir do fim do ano escolar de 1979-1980.
+Art. 15.º - 1 - É extinto o bacharelato, no âmbito das Faculdades de Letras, a partir do fim do ano escolar de 1978-1979, e no das outras instituições universitárias com ensino de Letras, a partir do fim do ano escolar de 1979-1980.
 
 2 - Os alunos que tiverem concluído o bacharelato até ao fim dos prazos estabelecidos no n.º 1 farão a licenciatura, se o desejarem, com mais um ano de estudos. Aqueles que até ao fim do ano escolar de 1977-1978 reunirem as condições de passagem para o 5.º ano poderão frequentá-lo em 1978-1979.
 
@@ -2114,7 +2151,7 @@ Sociologia.
 
 4 - A obtenção do grau de licenciado implica a aprovação em número de disciplinas não inferior ao estabelecido no plano de estudos agora aprovado.
 
-###### Art. 16.º - 1 - Haverá no âmbito das Letras das Universidades e Institutos Universitários cursos de pós-graduação, designados pelo nome da unidade de ensino que o confere e pela especialidade em que forem realizados.
+Art. 16.º - 1 - Haverá no âmbito das Letras das Universidades e Institutos Universitários cursos de pós-graduação, designados pelo nome da unidade de ensino que o confere e pela especialidade em que forem realizados.
 
 2 - A criação de cursos de pós-graduação poderá fazer-se a partir do ano de 1979-1980, mediante aprovação do Ministro da Educação e Cultura, sob proposta do conselho científico competente. Da proposta devem constar, entre outros elementos, o plano dos estudos e o nome, categoria e currículo dos docentes.
 
@@ -2122,7 +2159,7 @@ Sociologia.
 
 4 - A concessão do diploma de pós-graduação implica um trabalho de investigação orientado pelo director do seminário principal e concretizado numa dissertação.
 
-###### Art. 17.º - 1 - As regências dos cursos de pós-graduação competem a doutorados ou professores equiparados. Aos outros docentes podem também ser distribuídas essas regências, desde que sejam licenciados com dissertação e autores de publicações de mérito, na especialidade, reconhecido pelo conselho científico.
+Art. 17.º - 1 - As regências dos cursos de pós-graduação competem a doutorados ou professores equiparados. Aos outros docentes podem também ser distribuídas essas regências, desde que sejam licenciados com dissertação e autores de publicações de mérito, na especialidade, reconhecido pelo conselho científico.
 
 2 - A dissertação será discutida, publicamente, perante um júri constituído por três professores da especialidade. Podem integrar ainda o júri, quando necessário, os docentes que se encontrarem nos termos da segunda parte do n.º 1 ou que beneficiem do disposto no artigo 18.º do presente diploma. Pertence ao conselho científico da escola fazer a nomeação do júri, que incluirá obrigatoriamente o orientador.
 
@@ -2136,40 +2173,40 @@ Sociologia.
 
 7 - A classificação final do curso com Muito Bom confere dispensa de todas as provas complementares do doutoramento, quando feito na mesma especialidade.
 
-###### Art. 18.º - 1 - Podem inscrever-se em curso de pós-graduação os licenciados em Letras pelas Universidades portuguesas ou, ainda, por Universidades estrangeiras, quando equiparados nos termos legais.
+Art. 18.º - 1 - Podem inscrever-se em curso de pós-graduação os licenciados em Letras pelas Universidades portuguesas ou, ainda, por Universidades estrangeiras, quando equiparados nos termos legais.
 
 A inscrição estará sempre aberta aos assistentes eventuais da disciplina, grupo de disciplinas ou conjunto de disciplinas afins das de curso. A frequência será objecto de limitação quantitativa para outros candidatos.
 
 2 - O prazo para a inscrição referido no número anterior, bem como os critérios de ordenação dos respectivos candidatos, serão fixados anualmente por despacho do Ministro da Educação e Cultura, sob proposta do conselho científico competente. Do mesmo modo se fixará também o limite quantitativo das frequências.
 
-###### Art. 19.º - 1 - Os assistentes eventuais contratados a partir do ano lectivo de 1979-1980 deverão frequentar o curso de pós-graduação adequado à sua especialização. O diploma deste curso é habilitação científica suficiente para a passagem de assistente eventual a assistente e a participação nas respectivas aulas ou seminários contará como tempo de serviço.
+Art. 19.º - 1 - Os assistentes eventuais contratados a partir do ano lectivo de 1979-1980 deverão frequentar o curso de pós-graduação adequado à sua especialização. O diploma deste curso é habilitação científica suficiente para a passagem de assistente eventual a assistente e a participação nas respectivas aulas ou seminários contará como tempo de serviço.
 
 2 - Quando na própria escola não existir o curso de pós-graduação adequado à especialização do assistente eventual, a sua frequência noutra escola, desde que aprovada pelo conselho directivo e pelo conselho científico, dará direito a ajudas de custo e a abono de transporte.
 
-###### Art. 20.º Consideram-se, para todos os efeitos legais, habilitados com o curso de pós-graduação os licenciados que tenham obtido o grau mediante a apresentação e defesa da dissertação a que se referem os Decretos n.os 18003 e 41341, respectivamente de 25 de Fevereiro de 1930 e de 30 de Outubro de 1957, sempre que no acto da licenciatura tenham obtido classificação não inferior a 14 valores.
+Art. 20.º Consideram-se, para todos os efeitos legais, habilitados com o curso de pós-graduação os licenciados que tenham obtido o grau mediante a apresentação e defesa da dissertação a que se referem os Decretos n.os 18003 e 41341, respectivamente de 25 de Fevereiro de 1930 e de 30 de Outubro de 1957, sempre que no acto da licenciatura tenham obtido classificação não inferior a 14 valores.
 
-###### Art. 21.º - 1 - Além dos cursos de pós-graduação previstos nos artigos anteriores, podem as escolas promover cursos de actualização ou aperfeiçoamento, com duração não superior a oito meses lectivos.
+Art. 21.º - 1 - Além dos cursos de pós-graduação previstos nos artigos anteriores, podem as escolas promover cursos de actualização ou aperfeiçoamento, com duração não superior a oito meses lectivos.
 
 2 - O conselho científico respectivo proporá, fundamentadamente, ao Ministro da Educação e Cultura o regime de cada um destes cursos.
 
-###### Art. 22.º - 1 - Consideram-se licenciados todos os que, ao abrigo do [Decreto n.º 18003](https://diariodarepublica.pt/dr/detalhe/decreto/18003-1930-532624), de 25 de Fevereiro de 1930, do [Decreto n.º 41341](https://diariodarepublica.pt/dr/detalhe/decreto/41341-1957-252466), de 30 de Outubro de 1957, e do [Decreto n.º 48627](https://diariodarepublica.pt/dr/detalhe/decreto/48627-1968-264099), de 12 de Outubro de 1968, hajam concluído a parte escolar da respectiva licenciatura.
+Art. 22.º - 1 - Consideram-se licenciados todos os que, ao abrigo do [Decreto n.º 18003](https://diariodarepublica.pt/dr/detalhe/decreto/18003-1930-532624), de 25 de Fevereiro de 1930, do [Decreto n.º 41341](https://diariodarepublica.pt/dr/detalhe/decreto/41341-1957-252466), de 30 de Outubro de 1957, e do [Decreto n.º 48627](https://diariodarepublica.pt/dr/detalhe/decreto/48627-1968-264099), de 12 de Outubro de 1968, hajam concluído a parte escolar da respectiva licenciatura.
 
 2 - Consideram-se bacharéis todos aqueles que, ao abrigo do [Decreto n.º 18003](https://diariodarepublica.pt/dr/detalhe/decreto/18003-1930-532624), de 25 de Fevereiro de 1930, e do [Decreto n.º 41341](https://diariodarepublica.pt/dr/detalhe/decreto/41341-1957-252466), de 30 de Outubro de 1957, hajam concluído quinze disciplinas curriculares que incluam as que são actualmente consideradas habilitação própria para o ensino preparatório e secundário.
 
 3 - A informação final dos licenciados e bacharéis a que se refere o número anterior é igual à média aritmética, arredondada, das classificações atribuídas às disciplinas que compunham o elenco necessário à obtenção da licenciatura ou bacharelato, tratando-se da reforma de 1930, e à valorização, arredondada, resultante da ponderação da média aritmética das classificações nas disciplinas do grupo e da nota do seminário, tratando-se da legislação posterior. A média das classificações nas disciplinas não pertencentes ao grupo será atendida quando constitua factor de correcção, para mais, da média nas disciplinas do grupo.
 
-###### Art. 23.º - 1 - As Universidades ou Institutos Universitários que ministrem cursos previstos no presente diploma e disponham ou venham a dispor de Faculdades ou departamentos orientados para a formação psico-pedagógica de professores poderão propor a organização de cursos de licenciatura com a duração de cinco anos.
+Art. 23.º - 1 - As Universidades ou Institutos Universitários que ministrem cursos previstos no presente diploma e disponham ou venham a dispor de Faculdades ou departamentos orientados para a formação psico-pedagógica de professores poderão propor a organização de cursos de licenciatura com a duração de cinco anos.
 
 2 - Os cursos referidos no número anterior integrarão as disciplinas obrigatórias e o sistema de opções constante do presente diploma.
 
 3 - Os cursos propostos e os respectivos planos de estudo serão aprovados por portaria do Ministro da Educação e Cultura, sob parecer da Direcção-Geral do Ensino Superior, nos termos que forem legalmente estabelecidos.
 
-###### Art. 24.º As dúvidas suscitadas na interpretação ou aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura.
+Art. 24.º As dúvidas suscitadas na interpretação ou aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura.
 
 Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 15 de Maio de 1978.**
+Promulgado em 15 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

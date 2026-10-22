@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/2001/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-2001-331856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:11:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71b6a94b931dff86ef5df23e552d044c44242083b3ee0ec57d8c74c403256be1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ff0363a739085483773b5bf8b719ddede967f6c0dc32129334a1b26d750e84f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:11:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Lisboa
+- Portugal
 - Relações Consulares
 relationships: []
 article_structure:
   article_count: 52
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:11:31Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +97,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 2001. - Jaime José Matos da Gama - Luís Filipe Marques Amado.
 
-**Assinado em 8 de Maio de 2001.**
+Assinado em 8 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Maio de 2001.**
+Referendado em 10 de Maio de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONVENÇÃO CONSULAR ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA TUNISINA
 
@@ -523,7 +523,7 @@ Quando um navio do Estado que envia se encontre num porto do Estado receptor, o 
 
 O capitão e qualquer membro da tripulação poderão igualmente, para os mesmos fins, dirigir-se ao posto consular em cuja área de jurisdição se encontra o navio, e serão, se for o caso, munidos para esse fim de um salvo conduto emitido pelas autoridades do Estado receptor. Se estas autoridades a tal se opuserem, deverão informar imediatamente o posto consular competente.
 
-**O chefe do posto consular poderá solicitar a assistência das autoridades do Estado receptor em todos os assuntos respeitantes ao exercício das funções previstas no presente artigo. Estas autoridades deverão prestar tal assistência, a menos que tenham razões válidas para, num caso particular, a recusarem.**
+O chefe do posto consular poderá solicitar a assistência das autoridades do Estado receptor em todos os assuntos respeitantes ao exercício das funções previstas no presente artigo. Estas autoridades deverão prestar tal assistência, a menos que tenham razões válidas para, num caso particular, a recusarem.
 
 ###### Artigo 39.º
 
@@ -579,7 +579,7 @@ Estas autoridades tomarão todas as medidas necessárias para o salvamento do na
 
 Se o navio naufragar ou encalhar ou for abandonado num porto ou constituir um perigo para a navegação nas águas territoriais do Estado receptor, as autoridades competentes poderão igualmente fazer adoptar todas as medidas necessárias para evitar os prejuízos que possam ser causados pelo navio.
 
-**O chefe de posto consular estará autorizado a tomar, na qualidade de representante do armador, as disposições que este último pudesse tomar se estivesse presente, no que respeita ao destino do navio, em conformidade com as disposições da legislação territorial. Salvo se o capitão estiver munido de poderes especiais do armador que o habilitem para este efeito ou se os interessados, proprietários do navio e da carga, armadores, seguradoras, assegurando a representação de todos os interesses sem excepção, pagarem as despesas já efectuadas e derem caução para as que falte regularizar.**
+O chefe de posto consular estará autorizado a tomar, na qualidade de representante do armador, as disposições que este último pudesse tomar se estivesse presente, no que respeita ao destino do navio, em conformidade com as disposições da legislação territorial. Salvo se o capitão estiver munido de poderes especiais do armador que o habilitem para este efeito ou se os interessados, proprietários do navio e da carga, armadores, seguradoras, assegurando a representação de todos os interesses sem excepção, pagarem as despesas já efectuadas e derem caução para as que falte regularizar.
 
 Nenhum direito ou taxa aplicável à importação de mercadorias no território será cobrado pelas autoridades do Estado receptor relativamente aos objectos transportados pelo navio naufragado ou encalhado ou abandonado ou que deste façam parte, a menos que estes objectos sejam desembarcados para uso ou consumo no território.
 

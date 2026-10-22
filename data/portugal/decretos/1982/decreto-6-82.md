@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-1982-601357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a60b279dea65d0b0d1b785cf090ee97e01015933300805727e79062dccddb011
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ce382d97ef654c53aa7bb42905239eb50e449e19c40d05ec25f55df63272fdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armador
+- Bruxelas
+- Convenção
+- Marinha Mercante
+- Navegação Marítima
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:31Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 21 de Janeiro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo que altera a Convenção Internacional sobre o Limite de Responsabilidade dos Proprietários de Navios de Alto Mar de 1957, feito em Bruxelas em 21 de Dezembro de 1979, cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Protocolo que altera a Convenção Internacional sobre o Limite de Responsabilidade dos Proprietários de Navios de Alto Mar de 1957, feito em Bruxelas em 21 de Dezembro de 1979, cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 30 de Dezembro de 1981.**
+Assinado em 30 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 PROTOCOLE PORTANT MODIFICATION DE LA CONVENTION INTERNATIONALE SUR LA LIMITATION DE LA RESPONSABILITÉ DES PROPRIÉTAIRES DE NAVIRES DE MER DU 10 OCTOBRE 1957.
 
@@ -197,11 +203,11 @@ PROTOCOLO QUE ALTERA A CONVENÇÃO INTERNACIONAL SOBRE O LIMITE DE RESPONSABILID
 
 As Partes Contratantes do presente Protocolo, que são também Partes da Convenção Internacional sobre o Limite de Responsabilidade dos Proprietários de Navios de Alto Mar, feita em Bruxelas em 10 de Outubro de 1957, convencionam o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Para efeitos do presente Protocolo, o termo «Convenção» significa a Convenção Internacional sobre o Limite de Responsabilidade dos Proprietários de Navios de Alto Mar e o seu Protocolo de assinatura, feitos em Bruxelas em 10 de Outubro de 1957.
 
-ARTIGO II
+###### ARTIGO II
 
 1 - O parágrafo 1) do artigo 3.º da Convenção é substituído pelo texto seguinte:
 
@@ -233,11 +239,11 @@ A unidade monetária mencionada neste parágrafo corresponde a 65,5 miligramas d
 
 3 - O parágrafo 7) do artigo 3.º da Convenção passará a ser o parágrafo 9) do artigo 3.º
 
-ARTIGO III
+###### ARTIGO III
 
 O presente Protocolo fica aberto à assinatura dos Estados que tenham assinado a Convenção ou que sejam Partes dela.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - O presente Protocolo será ratificado.
 
@@ -245,7 +251,7 @@ ARTIGO IV
 
 3 - Os instrumentos de ratificação serão depositados junto do Governo Belga.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - Os Estados não contemplados no artigo III poderão aderir ao presente Protocolo.
 
@@ -253,19 +259,19 @@ ARTIGO V
 
 3 - Os instrumentos de adesão serão depositados junto do Governo Belga.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - O presente Protocolo entrará em vigor três meses após a data do depósito de seis instrumentos de ratificação ou de adesão.
 
 2 - Para os Estados que ratifiquem o presente Protocolo ou a ele adiram após o sexto depósito, o presente Protocolo entrará em vigor três meses após o depósito do seu instrumento de ratificação ou de adesão.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - As Partes Contratantes poderão denunciar o presente Protocolo, mediante notificação ao Governo Belga.
 
 2 - A denúncia produzirá efeito um ano após a data da recepção da notificação pelo Governo Belga.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - Qualquer Estado poderá, aquando da assinatura da ratificação, da adesão ou em qualquer outro momento posterior, notificar por escrito ao Governo Belga quais são, de entre os territórios cujas relações internacionais são por ele asseguradas, aqueles a que se aplica o presente Protocolo. O Protocolo será aplicável aos ditos territórios três meses após a data da recepção dessa notificação pelo Governo Belga, mas nunca antes da data da entrada em vigor do presente Protocolo em relação a esse Estado.
 
@@ -273,7 +279,7 @@ ARTIGO VIII
 
 3 - As Partes Contratantes que tenham subscrito uma declaração nos termos do parágrafo 1) do presente artigo poderão, a todo o tempo, avisar o Governo Belga que o Protocolo deixa de se aplicar aos territórios em questão. Esta denúncia produzirá efeito um ano após a data da recepção pelo Governo Belga da notificação da denúncia.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O Governo Belga notificará os Estados signatários e aderentes:
 

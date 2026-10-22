@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/16/2011/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-2011-673416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bec261098ea3be276748926dc99e86546b892a5d82dfcc002fb3b076fc71a14d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6216050c454dab3b9f05f14ed2b6f979d40d15044556d713ac2de4ee3d5932ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ subjects:
 - BENS Classificados
 - Braga
 - Carregal do SAL
-- Imóvel Classificado
-- Património Cultural
+- Coimbra
 - Estremoz
+- Imóvel Classificado
 - Interesse Público
 - Matosinhos
-- Coimbra
 - Património Arquitectónico
+- Património Cultural
 - Protecção do Património
 - Salvaterra de Magos
 relationships:
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:183211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:50Z'
   warnings: []
   errors: []
 ---
@@ -201,44 +209,44 @@ h) As Piscinas de Marés de Leça da Palmeira, na freguesia de Leça da Palmeira
 
 Visto e aprovado em Conselho de Ministros de 3 de Março de 2011. - José Sócrates Carvalho Pinto de Sousa. - Maria Gabriela da Silveira Ferreira Canavilhas.
 
-**Assinado em 14 de Abril de 2011.**
+Assinado em 14 de Abril de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 18 de Abril de 2011.**
+Referendado em 18 de Abril de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — [alínea a) do artigo único]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
 
 ## ANEXO II — [alínea b) do artigo único]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
 
 ## ANEXO III — [alínea c) do artigo único]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
 
 ## ANEXO IV — [alínea d) do artigo único]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
 
 ## ANEXO V — [alínea e) do artigo único]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
 
 ## ANEXO VI — [alínea f) do artigo único]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
 
 ## ANEXO VII — [alínea g) do artigo único]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
 
 ## ANEXO VIII — [alínea h) do artigo único]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10100/0293602940.pdf)

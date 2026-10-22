@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/96-1981-579690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34d7e3779bc1c03549a1f68cf7e6728ebebaf4b66e6586dd23ccb61e96e455c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aa578febf2965bb5c786453db8a36495cc57eab7baca378030b1088eb46df12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Guatemala
+- Montreal
+- Portugal
+- Transporte Aéreo
+- Transporte Internacional
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:47Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 24 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovados, para ratificação, os Protocolos n.os 1, 2, 3 e 4 de Montreal, assinados em Montreal em 25 de Setembro de 1975, que modificam a Convenção de Varsóvia para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional, de 12 de Outubro de 1929, bem como o Protocolo da Guatemala de 1971, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto.
+Artigo único. São aprovados, para ratificação, os Protocolos n.os 1, 2, 3 e 4 de Montreal, assinados em Montreal em 25 de Setembro de 1975, que modificam a Convenção de Varsóvia para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional, de 12 de Outubro de 1929, bem como o Protocolo da Guatemala de 1971, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 14 de Julho de 1981.**
+Assinado em 14 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 PROTOCOLE ADDITIONNEL Nº 1 PORTANT MODIFICATION DE LA CONVENTION POUR L'UNIFICATION DE CERTAINES RÈGLES RELATIVES AU TRANSPORT AÉRIEN INTERNATIONAL, SIGNÉE A VARSOVIE LE 12 OCTOBRE 1929.
 
@@ -209,11 +215,11 @@ acordam o seguinte:
 
 ### CAPÍTULO I — Modificações à Convenção
 
-ARTIGO I
+###### ARTIGO I
 
 A Convenção que as disposições do presente capítulo modificam é a Convenção de Varsóvia de 1929.
 
-ARTIGO II
+###### ARTIGO II
 
 O artigo 22.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -231,21 +237,21 @@ Todavia, os Estados que não sejam membros do Fundo Monetário Internacional e c
 
 ### CAPÍTULO II — Âmbito de aplicação da Convenção modificada
 
-ARTIGO III
+###### ARTIGO III
 
 A Convenção modificada pelo presente Protocolo aplica-se ao transporte internacional definido no artigo 1.º da Convenção, desde que os pontos de partida e de destino estejam situados quer no território de dois Estados Partes do presente Protocolo, quer no território de um só Estado Parte do presente Protocolo, se estiver prevista uma escala em território de outro Estado.
 
 ### CAPÍTULO III — Disposições finais
 
-ARTIGO IV
+###### ARTIGO IV
 
 Entre as Partes do presente Protocolo, a Convenção e o Protocolo serão considerados e interpretados como um só instrumento e serão denominados Convenção de Varsóvia modificada pelo Protocolo Adicional n.º 1 de Montreal de 1975.
 
-ARTIGO V
+###### ARTIGO V
 
 Até à data da sua entrada em vigor, de acordo com as disposições do artigo VII, o presente Protocolo ficará aberto à assinatura de todos os Estados.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - O presente Protocolo será submetido à ratificação dos Estados signatários.
 
@@ -253,13 +259,13 @@ ARTIGO VI
 
 3 - Os instrumentos de ratificação serão depositados junto do Governo da República Popular da Polónia.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - Quando o presente Protocolo tiver obtido as ratificações de trinta Estados signatários, entrará em vigor entre esses Estados no nonagésimo dia após o depósito do trigésimo instrumento de ratifição. Para cada Estado que o ratificar posteriormente, entrará em vigor no nonagésimo dia após o depósito do seu instrumento de ratificação.
 
 2 - Desde a sua entrada em vigor, o presente Protocolo será registado junto da Organização das Nações Unidas pelo Governo da República Popular da Polónia.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - Após a sua entrada em vigor, o presente Protocolo ficará aberto à adesão de qualquer Estado não signatário.
 
@@ -267,7 +273,7 @@ ARTIGO VIII
 
 3 - A adesão será efectuada pelo depósito do instrumento de adesão junto do Governo da República Popular da Polónia e produzirá os seus efeitos no nonagésimo dia seguinte a esse depósito
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - Qualquer Parte do presente Protocolo poderá denunciá-lo por notificação feita ao Governo da República Popular da Polónia.
 
@@ -275,19 +281,19 @@ ARTIGO IX
 
 3 - Entre as Partes do presente Protocolo, a denúncia da Convenção por uma delas, de acordo com o artigo 39.º, não deve ser interpretada como a denúncia da Convenção modificada pelo presente Protocolo.
 
-ARTIGO X
+###### ARTIGO X
 
 Não será admitida qualquer reserva ao presente Protocolo.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O Governo da República Popular da Polónia informará rapidamente todos os Estados Partes da Convenção de Varsóvia ou dessa Convenção tal como está modificada, todos os Estados que assinarem o presente Protocolo ou a ele aderirem, assim como a Organização da Aviação Civil Internacional, da data de cada assinatura, da data do depósito de cada instrumento de ratificação ou de adesão, da data da entrada em vigor do presente Protocolo e todas as outras informações úteis.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Entre as Partes do presente Protocolo que sejam igualmente Partes da Convenção complementar da Convenção de Varsóvia para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional efectuado por uma pessoa que não seja o transportador contratual, assinada em Guadalajara em 18 de Setembro de 1961 (a seguir denominada Convenção de Guadalajara), qualquer referência à Convenção de Varsóvia contida na Convenção de Guadalajara se aplicará também à Convenção de Varsóvia modificada pelo Protocolo Adicional n.º 1 de Montreal de 1975, nos casos em que o transporte efectuado em virtude do contrato mencionado no parágrafo b) do artigo 1.º da Convenção de Guadalajara se regule pelo presente Protocolo.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 O presente Protocolo ficará aberto à assinatura na sede da Organização de Aviação Civil Internacional até ao 1.º de Janeiro de 1976 e, posteriormente, até à sua entrada em vigor de acordo com o artigo VII, no Ministério dos Negócios Estrangeiros do Governo da República Popular da Polónia. A Organização da Aviação Civil Internacional informará rapidamente o Governo da República Popular da Polónia de qualquer assinatura e da sua data durante o período em que o Protocolo se encontre aberto à assinatura na sede da Organização da Aviação Civil Internacional.
 
@@ -411,11 +417,11 @@ acordam no seguinte:
 
 ### CAPÍTULO I — Modificações à Convenção
 
-ARTIGO I
+###### ARTIGO I
 
 A Convenção que as disposições do presente capítulo modificam é a Convenção de Varsóvia modificada na Haia em 1955.
 
-ARTIGO II
+###### ARTIGO II
 
 O artigo 22.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -439,21 +445,21 @@ Todavia, os Estados que não sejam membros do Fundo Monetário Internacional e c
 
 ### CAPÍTULO II — Âmbito de aplicação da Convenção modificada
 
-ARTIGO III
+###### ARTIGO III
 
 A Convenção modificada na Haia em 1955 e pelo presente Protocolo aplica-se ao transporte internacional definido no artigo 1.º da Convenção desde que os pontos de partida e de destino estejam situados quer no território de dois Estados Partes do presente Protocolo, quer no território de um só Estado Parte do presente Protocolo, se estiver prevista uma escala em território de outro Estado.
 
 ### CAPÍTULO III — Disposições finais
 
-ARTIGO IV
+###### ARTIGO IV
 
 Entre as Partes do presente Protocolo, a Convenção de Varsóvia emendada na Haia em 1955 e o presente Protocolo serão considerados e interpretados como um só instrumento e serão denominados Convenção de Varsóvia modificada na Haia em 1955 e pelo Protocolo Adicional n.º 2 de Montreal de 1975.
 
-ARTIGO V
+###### ARTIGO V
 
 Até à data da sua entrada em vigor de acordo com as disposições do artigo VII, o presente Protocolo ficará aberto à assinatura de todos os Estados.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - O presente Protocolo será submetido à ratificação dos Estados signatários.
 
@@ -461,13 +467,13 @@ ARTIGO VI
 
 3 - Os instrumentos de ratificação serão depositados junto do Governo da República Popular da Polónia.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - Quando o presente Protocolo tiver obtido as ratificações de trinta Estados signatários, estará em vigor entre esses Estados no nonagésimo dia após o depósito do trigésimo instrumento de ratificação. Para cada Estado que o ratifica posteriormente, entrará em vigor no nonagésimo dia após o depósito do seu instrumento de ratificação.
 
 2 - Desde a sua entrada em vigor, o presente Protocolo será registado junto da Organização das Nações Unidas pelo Governo da República Popular da Polónia.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - Após a sua entrada em vigor, o presente Protocolo ficará aberto à adesão de qualquer Estado não signatário.
 
@@ -475,7 +481,7 @@ ARTIGO VIII
 
 3 - Os instrumentos de adesão serão depositados junto do Governo da República Popular da Polónia e produzirão os seus efeitos no nonagésimo dia após a data do seu depósito.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - Qualquer parte do presente Protocolo poderá denunciá-lo por notificação feita ao Governo da República Popular da Polónia.
 
@@ -483,19 +489,19 @@ ARTIGO IX
 
 3 - Para as Partes do presente Protocolo, a denúncia da Convenção de Varsóvia por uma delas, de acordo com o artigo 39.º da referida Convenção, ou do Protocolo da Haia, de acordo com o artigo XXIV do referido Protocolo, não deve ser interpretada como denúncia da Convenção de Varsóvia modificada na Haia em 1955 e pelo Protocolo Adicional n.º 2 de Montreal de 1975.
 
-ARTIGO X
+###### ARTIGO X
 
 Não será admitida qualquer reserva ao presente Protocolo. Todavia, qualquer Estado poderá, em qualquer momento, declarar, por notificação feita ao Governo da República Popular da Polónia, que a Convenção, modificada pelo presente Protocolo, não se aplicará ao transporte de pessoas, de mercadorias e de bagagens efectuado para as suas autoridades militares a bordo de aeronaves matriculadas no referido Estado e cuja capacidade total tenha sido reservada por tais autoridades ou por conta das mesmas.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O Governo da República Popular da Polónia informará rapidamente todos os Estados Partes da Convenção de Varsóvia ou dessa Convenção tal como está modificada, todos os Estados que assinarem o presente Protocolo ou a ele aderirem, assim como a Organização da Aviação Civil Internacional, da data de cada assinatura, da data do depósito de cada instrumento de ratificação ou de adesão, da data da entrada em vigor do presente Protocolo e de todas as outras informações úteis.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Entre as Partes do presente Protocolo que sejam igualmente Partes da Convenção complementar da Convenção de Varsóvia para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional efectuado por uma pessoa que não seja o transportador contratual, assinada em Guadalajara em 18 de Setembro de 1961 (a seguir denominada Convenção de Guadalajara), qualquer referência à Convenção de Varsóvia contida na Convenção de Guadalajara aplicar-se-á à Convenção de Varsóvia modificada na Haia em 1955 e pelo Protocolo Adicional n.º 2 de Montreal de 1975 nos casos em que o transporte efectuado em virtude do contrato mencionado na alínea b) do artigo 1.º do Convenção de Guadalajara se regule pelo presente Protocolo.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 O presente Protocolo ficará aberto à assinatura na sede da Organização da Aviação Civil Internacional até ao 1.º de Janeiro de 1976 e, posteriormente, até à sua entrada em vigor de acordo com o artigo VII, no Ministério dos Negócios Estrangeiros do Governo da República Popular da Polónia. A Organização da Aviação Civil Internacional informará rapidamente o Governo da República Popular da Polónia de qualquer assinatura e da sua data durante o período em que o Protocolo se encontre aberto à assinatura na sede da Organização da Aviação Civil Internacional.
 
@@ -641,11 +647,11 @@ concordam no seguinte:
 
 ### CAPÍTULO I — Modificações à Convenção
 
-ARTIGO I
+###### ARTIGO I
 
 A Convenção que as disposições do presente capítulo modificam é a Convenção de Varsóvia modificada na Haia em 1955 e na Guatemala em 1971.
 
-ARTIGO II
+###### ARTIGO II
 
 O artigo 22.º da Convenção é suprimido e substituído pelas seguintes disposições:
 
@@ -673,7 +679,7 @@ c) As custas e outras despesas processuais, incluindo os honorários de advogado
 
 Todavia, os Estados que não sejam membros do Fundo Monetário Internacional e cuja lei não permita aplicar as disposições das alíneas 1 e 2, a), do artigo 22.º, podem, no momento da ratificação ou da adesão ou posteriormente, declarar que o limite de responsabilidade do transportador, nas acções judiciais propostas no seu território, é fixado na quantia de 1500000 unidades monetárias por passageiro no que respeita à alínea 1, a), do artigo 22.º; 62500 unidades monetárias por passageiro no que respeita à alínea 1, b), do artigo 22.º, 15000 unidades monetárias por passageiro no que respeita à alínea 1, c), do artigo 22.º e 250 unidades monetárias por quilograma no que respeita à alínea 2, a), do artigo 22.º Um Estado que aplique as disposições desta alínea pode também declarar que a quantia mencionada mas alíneas 2 e 3 do artigo 42.º é a quantia de 187500 unidades monetárias. Esta unidade monetária corresponde a 65,5 mg de ouro fino de 900/1000. Estas quantias podem ser convertidas em moeda nacional em números redondos. A conversão desta quantia em moeda nacional efectuar-se-á de acordo com a lei do Estado interessado.
 
-ARTIGO III
+###### ARTIGO III
 
 No artigo 42.º da Convenção, as alíneas 2 e 3 são suprimidas e substituídas pelas seguintes:
 
@@ -683,21 +689,21 @@ No artigo 42.º da Convenção, as alíneas 2 e 3 são suprimidas e substituída
 
 ### CAPÍTULO II — Âmbito de aplicação da Convenção modificada
 
-ARTIGO IV
+###### ARTIGO IV
 
 A Convenção modificada na Haia em 1955 e na Guatemala em 1971, assim como pelo presente Protocolo, aplica-se ao transporte internacional definido no artigo 1.º da Convenção, desde que os pontos de partida e de destino estejam situados quer no território de dois Estados Partes do presente Protocolo, quer no território de um só Estado Parte do presente Protocolo, se estiver prevista uma escala em território de outro Estado.
 
 ### CAPÍTULO III — Disposições finais
 
-ARTIGO V
+###### ARTIGO V
 
 Entre as Partes do presente Protocolo, a Convenção de Varsóvia modificada na Haia em 1955 e na Guatemala em 1971 e o presente Protocolo serão considerados e interpretados como um só instrumento e serão denominados Convenção de Varsóvia modificada na Haia em 1955 e na Guatemala em 1971 e pelo Protocolo Adicional n.º 3 de Montreal de 1975.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Até à data da sua entrada em vigor, de acordo com as disposições do artigo VIII, o presente Protocolo ficará aberto à assinatura de todos os Estados.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - O presente Protocolo será submetido à ratificação dos Estados signatários.
 
@@ -705,7 +711,7 @@ ARTIGO VII
 
 3 - Os instrumentos de ratificação serão depositados junto do Governo da República Popular da Polónia.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - Quando o presente Protocolo tiver obtido as ratificações de trinta Estados signatários, entrará em vigor entre esses Estados no nonagésimo dia após o depósito do trigésimo instrumento de ratificação.
 
@@ -713,7 +719,7 @@ Para cada Estado que o ratificar posteriormente, entrará em vigor no nonagésim
 
 2 - Desde a sua entrada em vigor, o presente Protocolo será registado junto da Organização das Nações Unidas pelo Governo da República Popular da Polónia.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - Após a sua entrada em vigor, o presente Protocolo ficará aberto à adesão de qualquer Estado não signatário.
 
@@ -721,7 +727,7 @@ ARTIGO IX
 
 3 - Os instrumentos de adesão serão depositados junto do Governo da República Popular da Polónia e produzirão os seus efeitos no nonagésimo dia após a data do seu depósito.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - Qualquer Parte no presente Portocolo poderá denunciá-lo por notificação feita ao Governo da República Popular da Polónia.
 
@@ -729,7 +735,7 @@ ARTIGO X
 
 3 - Para as Partes do presente Protocolo, a denúncia da Convenção de Varsóvia por uma delas, de acordo com o artigo 39.º da referida Convenção, ou do Protocolo da Haia, de acordo com o artigo XXIV do referido Protocolo, ou do Protocolo da Guatemala, de acordo com o artigo XXII do referido Protocolo, não deve ser interpretada como a denúncia da Convenção de Varsóvia modificada na Haia em 1955, na Guatemala em 1971 e pelo Protocolo Adicional n.º 3 de Montreal de 1975.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1 - Somente poderão ser feitas as seguintes reservas ao presente Protocolo:
 
@@ -741,15 +747,15 @@ c) Qualquer Estado pode, no momento da ratificação do Protocolo n.º 4 de Mont
 
 2 - Qualquer Estado que tenha formulado uma reserva de acordo com a alínea anterior poderá em qualquer momento retirá-la por notificação feita ao Governo da República Popular da Polónia.
 
-ARTIGO XII
+###### ARTIGO XII
 
 O Governo da República Popular da Polónia informará rapidamente todos os Estados Partes da Convenção de Varsóvia ou dessa Convenção tal como está emendada, todos os Estados que assinarem o presente Protocolo ou a ele aderirem, assim como a Organização da Aviação Civil internacional, da data de cada assinatura, da data do depósito de cada instrumento de ratificação ou de adesão, da data da entrada em vigor do presente Protocolo e todas as outras informações úteis.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Entre as Partes do presente Protocolo que sejam igualmente Partes da Convenção complementar da Convenção de Varsóvia para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional efectuado por uma pessoa que não seja o transportador contratual, assinada em Guadalajara em 18 de Setembro de 1961 (a seguir denominada Convenção de Guadalajara), qualquer referência à Convenção de Varsóvia contida na Convenção de Guadalajara se aplicará à Convenção de Varsóvia modificada na Haia em 1955, na Guatemala em 1971 e pelo Protocolo Adicional n.º 3 de Montreal de 1975, nos casos em que o transporte efectuado em virtude do contrato mencionado no parágrafo b) do artigo 1.º da Convenção de Guadalajara se regule pelo presente Protocolo.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 O presente Protocolo ficará aberto à assinatura na sede da Organização da Aviação Civil Internacional até ao 1.º de Janeiro de 1976 e, posteriormente, até à sua entrada em vigor de acordo com o artigo VIII, no Ministério dos Negócios Estrangeiros do Governo da República Popular da Polónia. A Organização da Aviação Civil Internacional informará rapidamente o Governo da República Popular da Polónia de qualquer assinatura e da sua data durante o período em que o Protocolo se encontre aberto à assinatura na sede da Organização da Aviação Civil Internacional.
 
@@ -1079,11 +1085,11 @@ acordam no seguinte:
 
 ### CAPÍTULO I — Modificações à Convenção
 
-ARTIGO I
+###### ARTIGO I
 
 A Convenção que as disposições do presente capítulo modificam é a Convenção de Varsóvia modificado na Haia em 1955.
 
-ARTIGO II
+###### ARTIGO II
 
 O n.º 2 do artigo 2.º da Convenção é suprimido e substituído pelos seguintes n.os 2 e 3:
 
@@ -1091,7 +1097,7 @@ O n.º 2 do artigo 2.º da Convenção é suprimido e substituído pelos seguint
 
 3 - Ressalvado o disposto no n.º 2 do presente artigo, as disposições da presente Convenção não se aplicarão ao transporte de remessas postais.
 
-ARTIGO III
+###### ARTIGO III
 
 No capítulo II da Convenção, a secção III (artigos 5.º a 16.º) é suprimida e substituída pelos seguintes artigos:
 
@@ -1185,7 +1191,7 @@ O expedidor e o destinatário podem fazer valer todos os direitos que lhe são r
 
 2 - O transportador não está obrigado a verificar a exactidão ou suficiência dessas informações e documentos.
 
-ARTIGO IV
+###### ARTIGO IV
 
 O artigo 18.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1209,7 +1215,7 @@ d) Acto de autoridade pública executado em conexão com a entrada, saída ou tr
 
 5 - O período do transporte aéreo não compreende nenhum transporte terrestre, marítimo ou fluvial efectuado fora de um aeródromo. Todavia, quando um tal transporte é efectuado em execução do contrato de transporte aéreo para efeito de carregamento, entrega ou transbordo, presume-se, salvo prova em contrário, que qualquer dano resulta de um facto sobrevindo durante o transporte aéreo.
 
-ARTIGO V
+###### ARTIGO V
 
 O artigo 20.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1217,7 +1223,7 @@ O artigo 20.º da Convenção é suprimido e substituído pelo seguinte:
 
 No transporte de passageiros e de bagagens e em caso de dano resultante de atraso no transporte de mercadorias, o transportador não é responsável se prova que ele e os seus propostos tomaram todas as medidas necessárias para evitar o prejuízo ou que lhe era impossível tomá-las.
 
-ARTIGO VI
+###### ARTIGO VI
 
 O artigo 21.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1227,7 +1233,7 @@ O artigo 21.º da Convenção é suprimido e substituído pelo seguinte:
 
 2 - No transporte de mercadorias, o transportador é exonerado, no todo ou em parte, da sua responsabilidade se fizer a prova de que foi a culpa da pessoa que reclama a indemnização ou da pessoa de quem ela faz derivar os seus direitos que causou o dano ou para ele contribuiu.
 
-ARTIGO VII
+###### ARTIGO VII
 
 No artigo 22.º da Convenção:
 
@@ -1249,7 +1255,7 @@ O valor, em direito especial de saque, da moeda nacional de uma Alta Parte Contr
 
 Todavia, os Estados que não sejam membros do Fundo Monetário Internacional e cuja lei não permita aplicar a disposição da alínea b) do n.º 2 do artigo 22.º podem, no momento da ratificação ou da adesão ou posteriormente, declarar que o limite de responsabilidade do transportador nas acções judiciais propostas no seu território é fixado na quantia de duzentas e cinquenta unidades monetárias por quilograma, correspondendo esta unidade monetária a 65,5 mg de ouro fino de 900/1000. Esta quantia pode ser convertida em moeda nacional em números redondos. A conversão desta quantia em moeda nacional efectuar-se-á de acordo com a lei do Estado interessado.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 O artigo 24.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1259,7 +1265,7 @@ O artigo 24.º da Convenção é suprimido e substituído pelo seguinte:
 
 2 - No transporte de mercadorias, qualquer acção de responsabilidade qualquer que seja o seu fundamento, quer se fundamente na presente Convenção, quer num contrato ou acto ilícito ou em qualquer outra causa, não pode ser exercida senão nas condições e com os limites de responsabilidade previstos na presente Convenção, sem prejuízo da determinação das pessoas com legitimidade para a acção e dos seus direitos respectivos. Estes limites de responsabilidade constituem limites máximos e não podem ser ultrapassados quaisquer que sejam as circunstâncias que estejam na origem da responsabilidade.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O artigo 25.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1267,13 +1273,13 @@ O artigo 25.º da Convenção é suprimido e substituído pelo seguinte:
 
 No transporte de passageiros e de bagagens, os limites de responsabilidade previstos no artigo 22.º não se aplicam se se provar que o dano resulta de acto ou omissão do transportador ou dos seus propostos, quer com a intenção de provocar dano quer temerariamente e com a consciência de que o dano resultaria provavelmente de um acto ou omissão, contanto que, no caso de acto ou omissão dos propostos, terá também de se provar que estes agiram no exercício das suas funções.
 
-ARTIGO X
+###### ARTIGO X
 
 O n.º 3 do artigo 25.º-A da Convenção é suprimido e substituído pelo seguinte:
 
 3 - No transporte de passageiros e de bagagens, as disposições dos n.os 1 e 2 do presente artigo não se aplicam se se provar que o dano resulta de um acto ou omissão do proposto, seja com a intenção de provocar o dano, seja temerariamente e com consciência de que o dano resultaria provavelmente desse acto ou omissão.
 
-ARTIGO XI
+###### ARTIGO XI
 
 A seguir ao artigo 30.º da Convenção insere-se o seguinte artigo:
 
@@ -1281,7 +1287,7 @@ A seguir ao artigo 30.º da Convenção insere-se o seguinte artigo:
 
 A presente Convenção não prejudica de qualquer modo a questão de saber se a pessoa considerada responsável, de acordo com as suas disposições, tem ou não o direito de regresso contra qualquer outra pessoa.
 
-ARTIGO XII
+###### ARTIGO XII
 
 O artigo 33.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1289,7 +1295,7 @@ O artigo 33.º da Convenção é suprimido e substituído pelo seguinte:
 
 Sob reserva do disposto no n.º 3 do artigo 5.º, nada na presente Convenção pode impedir o transportador de recusar a conclusão de um contrato de transporte ou de estabelecer regulamentos que não estejam em contradição com as disposições da presente Convenção.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 O artigo 34.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1299,21 +1305,21 @@ As disposições dos artigos 3.º a 8.º, inclusive, relativas aos títulos de t
 
 ### CAPÍTULO II — Âmbito de aplicação da Convenção modificada
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 A Convenção de Varsóvia modificada na Haia em 1955 e pelo presente Protocolo aplica-se ao transporte internacional definido no artigo 1.º da Convenção, desde que os pontos de partida e de destino estejam situados quer no território de dois Estados Partes do presente Protocolo, quer no território de um só Estado Parte do presente Protocolo, se estiver prevista uma escala em território de outro Estado.
 
 ### CAPÍTULO III — Disposições finais
 
-ARTIGO XV
+###### ARTIGO XV
 
 Entre as Partes do presente Protocolo, a Convenção de Varsóvia modificada na Haia em 1955 e o presente Protocolo serão considerados e interpretados como um só instrumento denominado Convenção de Varsóvia modificada na Haia em 1955 e pelo Protocolo n.º 4 de Montreal de 1975.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 Até à data da sua entrada em vigor, de acordo com a disposição do artigo XVIII, o presente Protocolo ficará aberto à assinatura de todos os Estados.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 1 - O presente Protocolo será submetido à ratificação dos Estados signatários.
 
@@ -1321,13 +1327,13 @@ ARTIGO XVII
 
 3 - Os instrumentos de ratificação serão depositados junto do Governo da República Popular da Polónia.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 1 - Quando o presente Protocolo tiver obtido as ratificações de trinta Estados signatários, entrará em vigor entre esses Estados no nonagésimo dia após o depósito do trigésimo instrumento de ratificação. Para cada Estado que a ratificar posteriormente, entrará em vigor no nonagésimo dia após o depósito do seu instrumento de ratificação.
 
 2 - Desde a sua entrada em vigor, o presente Protocolo será registado junto da Organização das Nações Unidas pelo Governo da República Popular da Polónia.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 1 - Após a sua entrada em vigor, o presente Protocolo ficará aberto à adesão de qualquer Estado não signatário.
 
@@ -1335,7 +1341,7 @@ ARTIGO XIX
 
 3 - Os instrumentos de adesão serão depositados junto do Governo da República Popular da Polónia e produzirão os seus efeitos no nonagésimo dia após a data do seu depósito.
 
-ARTIGO XX
+###### ARTIGO XX
 
 1 - Qualquer Parte no presente Protocolo poderá denunciá-lo por notificação feita ao Governo da República Popular da Polónia.
 
@@ -1343,7 +1349,7 @@ ARTIGO XX
 
 3 - Entre as Partes do presente Protocolo, a denúncia da Convenção de Varsóvia por uma delas, de acordo com o artigo 39.º da referida Convenção, ou do Protocolo da Haia, de acordo com o artigo XXIV do referido Protocolo, não deve ser interpretada como a denúncia da Convenção de Varsóvia modificada na Haia em 1955 e pelo Protocolo n.º 4 de Montreal de 1975.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 1 - Somente poderão ser feitas as seguintes reservas ao presente Protocolo:
 
@@ -1353,15 +1359,15 @@ b) Qualquer Estado pode, no momento da ratificação do Protocolo Adicional n.º
 
 2 - Qualquer Estado que tenha formulado uma reserva de acordo com o número anterior poderá em qualquer momento retirá-la por notificação feita ao Governo da República Popular da Polónia.
 
-ARTIGO XXII
+###### ARTIGO XXII
 
 O Governo da República Popular da Polónia informará rapidamente todos os Estados Partes da Convenção de Varsóvia ou dessa Convenção, tal como está modificada, todos os Estados que assinarem o presente Protocolo ou a ele aderirem, assim como a Organização da Aviação Civil internacional, da data de cada assinatura, da data do depósito de cada instrumento de ratificação ou de adesão, da data da entrada em vigor do presente Protocolo e todas as outras informações úteis.
 
-ARTIGO XXIII
+###### ARTIGO XXIII
 
 Entre as Partes do presente Protocolo que sejam igualmente Partes da Convenção complementar da Convenção de Varsóvia, para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional, efectuado por uma pessoa que não seja o transportador contratual, assinada em Guadalajara em 18 de Setembro de 1961 (a seguir denominada Convenção de Guadalajara), qualquer referência à Convenção de Varsóvia contida na Convenção de Guadalajara aplicar-se-á à Convenção de Varsóvia modificada na Haia em 1955 e pelo Protocolo n.º 4 de Montreal de 1975, nos casos em que o transporte efectuado em virtude do contrato mencionado na alínea b) do artigo 1.º da Convenção de Guadalajara é regulado pelo presente Protocolo.
 
-ARTIGO XXIV
+###### ARTIGO XXIV
 
 Se dois ou mais Estados Partes do presente Protocolo forem também Partes do Protocolo da Guatemala de 1971 ou do Protocolo Adicional n.º 3 de Montreal de 1975, aplicam-se entre eles as seguintes regras:
 
@@ -1369,7 +1375,7 @@ a) As disposições resultantes do regime estabelecido pelo presente Protocolo r
 
 b) As disposições resultantes do regime estabelecido pelo Protocolo da Guatemala de 1971 ou pelo Protocolo Adicional n.º 3 de Montreal de 1975 relativas aos passageiros e bagagens prevalecerão sobre as disposições resultantes do regime estabelecido pelo presente Protocolo.
 
-ARTIGO XXV
+###### ARTIGO XXV
 
 O presente Protocolo ficará aberto à assinatura na sede da Organização da Aviação Civil Internacional até 1 de Janeiro de 1976 e, posteriormente, até à sua entrada em vigor, de acordo com o artigo XVIII, no Ministério dos Negócios Estrangeiros da República Popular da Polónia. A Organização da Aviação Civil Internacional informará rapidamente o Governo da República Popular da Polónia de qualquer assinatura e da sua data durante o período em que o Protocolo está aberto à assinatura na sede da Organização da Aviação Civil Internacional.
 
@@ -1643,11 +1649,11 @@ acordam no seguinte:
 
 ### CAPÍTULO I — Modificações à Convenção
 
-ARTIGO I
+###### ARTIGO I
 
 A Convenção que as disposições do presente capítulo modificam é a Convenção de Varsóvia modificada na Haia em 1955.
 
-ARTIGO II
+###### ARTIGO II
 
 O artigo 3.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1663,7 +1669,7 @@ b) Se os pontos de partida e de destino estão situados no território de uma Al
 
 3 - A inobservância das disposições dos números anteriores não afecta nem a existência nem a validade do contrato de transporte, que não deixará de estar submetido às normas da presente Convenção, incluindo as que se referem à limitação de responsabilidade.
 
-ARTIGO III
+###### ARTIGO III
 
 O artigo 4.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1679,7 +1685,7 @@ b) Se os pontos de partida e de destino estão situados no território de uma Al
 
 3 - A inobservância das disposições dos números anteriores não afecta nem a existência nem a validade do contrato de transporte, que não deixará de estar submetido às normas da presente Convenção, incluindo as que se referem à limitação de responsabilidade.
 
-ARTIGO IV
+###### ARTIGO IV
 
 O artigo 17.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1691,7 +1697,7 @@ O artigo 17.º da Convenção é suprimido e substituído pelo seguinte:
 
 3 - Sem prejuízo de disposições em contrário, nesta Convenção o termo «bagagem» abrange tanto a bagagem registada como os objectos que o passageiro transporta consigo.
 
-ARTIGO V
+###### ARTIGO V
 
 No artigo 18.º da Convenção, os n.os 1 e 2 serão suprimidos e substituídos pelos seguintes:
 
@@ -1699,7 +1705,7 @@ No artigo 18.º da Convenção, os n.os 1 e 2 serão suprimidos e substituídos 
 
 2 - O transporte aéreo, para os efeitos do número anterior, abrange o período durante o qual as mercadorias se encontram à guarda do transportador quer num aeródromo quer a bordo do uma aeronave ou em qualquer outro lugar, em caso de aterragem fora de um aeródromo.
 
-ARTIGO VI
+###### ARTIGO VI
 
 O artigo 20.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1709,7 +1715,7 @@ O artigo 20.º da Convenção é suprimido e substituído pelo seguinte:
 
 2. No transporte de carga, o transportador não é responsável pelo dano resultante de destruição, perda, avaria ou atraso, se provar que ele e os seus propostos tomaram todas as medidas necessárias para evitar o dano ou lhes era impossível tomá-las.
 
-ARTIGO VII
+###### ARTIGO VII
 
 O artigo 21.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1717,7 +1723,7 @@ O artigo 21.º da Convenção é suprimido e substituído pelo seguinte:
 
 Se o transportador provar que foi falta da pessoa que pede a indemnização que causou o dano ou para ele contribuiu, será total ou parcialmente exonerado da sua responsabilidade para com essa pessoa na medida em que tal falta tiver causado o dano ou para ele contribuído. Se o pedido de indemnização é formulado por pessoa que não é passageiro, com fundamento na morte ou lesão corporal deste último, o transportador ficará igualmente exonerado, total ou parcialmente, da sua responsabilidade na medida em que provar que a falta desse passageiro causou o dano ou para ele contribuiu.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 O artigo 22.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1743,7 +1749,7 @@ c) As custas e outras despesas processuais, incluindo os honorários de advogado
 
 4 - As quantias expressas em francos no presente artigo e no artigo 42.º consideram-se como referidas à unidade monetária constituída por 65,5 mg de ouro fino de 900/1000. Estas quantias poderão ser convertidas em moeda nacional, em números redondos. A conversão destas quantias noutras moedas nacionais que não sejam moeda-ouro efectuar-se-á, em caso de processo judicial, de acordo com o valor-ouro destas moedas nacionais na data do julgamento.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O artigo 24.º da Convenção é suprimido e substituído pelo seguinte:
 
@@ -1753,7 +1759,7 @@ O artigo 24.º da Convenção é suprimido e substituído pelo seguinte:
 
 2 - No transporte de passageiros e bagagem, qualquer acção de responsabilidade, seja qual for o seu fundamento, quer se baseie na presente Convenção, quer num contrato ou num acto ilícito ou em qualquer outra causa, só poderá ser exercida nas condições e limites previstos na presente Convenção, sem prejuízo da determinação das pessoas com legitimidade para a acção e dos seus direitos respectivos. Estes limites de responsabilidade constituem um máximo que não poderá ser ultrapassado, quaisquer que sejam as circunstâncias que tenham dado origem à referida responsabilidade.
 
-ARTIGO X
+###### ARTIGO X
 
 É suprimido o artigo 25.º da Convenção e substituído pelo seguinte:
 
@@ -1761,7 +1767,7 @@ ARTIGO X
 
 O limite de responsabilidade previsto no n.º 2 do artigo 22.º não será aplicável se se provar que o dano resulta de acto ou omissão do transportador ou dos seus propostos, quer com intenção de provocar o dano, quer temerariamente e com a consciência de que o dano resultaria provavelmente desse acto ou omissão, contanto que, no caso de acto ou omissão dos propostos, se prove também que estes agiram no exercício das suas funções.
 
-ARTIGO XI
+###### ARTIGO XI
 
 No artigo 25.º-A da Convenção, os n.os 1 e 3 são suprimidos e substituídos pelos seguintes:
 
@@ -1769,13 +1775,13 @@ No artigo 25.º-A da Convenção, os n.os 1 e 3 são suprimidos e substituídos 
 
 3 - As disposições dos n.os 1 e 2 do presente artigo não serão aplicáveis ao transporte de carga se se provar que o dano resulta de um acto ou omisão do proposto, quer com intenção de provocar o dano, quer temerariamente e com a consciência de que o dano resultaria provavelmente desse acto ou omissão.
 
-ARTIGO XII
+###### ARTIGO XII
 
 No artigo 28.º da Convenção, o actual n.º 2 passa a ser o n.º 3 e é acrescentado o n.º 2 seguinte:
 
 2 - Com referência ao dano resultante da morte, lesão corporal ou atraso do passageiro, destruição, perda, avaria ou atraso da bagagem, a acção de responsabilidade pode ser intentada perante um dos tribunais referidos no n.º 1 do presente artigo ou, no território de uma Alta Parte Contratante, perante o tribunal em cuja área de jurisdição o transportador tenha um estabelecimento, se o passageiro tem o seu domicílio ou residência permanente no território da mesma Alta Parte Contratante.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Em seguida ao artigo 30.º da Convenção insere-se o artigo seguinte:
 
@@ -1783,7 +1789,7 @@ Em seguida ao artigo 30.º da Convenção insere-se o artigo seguinte:
 
 A presente Convenção não prejudica, de qualquer modo, a questão de saber se a pessoa considerada responsável, de acordo com as suas disposições, tem ou não direito de regresso contra qualquer outra pessoa.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 Em seguida ao artigo 35.º da Convenção insere-se o artigo seguinte:
 
@@ -1799,7 +1805,7 @@ c) Não dará lugar a qualquer discriminação entre os transportadores no que s
 
 d) Se um passageiro tiver contribuído para o sistema, qualquer pessoa que tiver sofrido danos em consequência da morte ou de lesão corporal desse passageiro terá direito aos benefícios do sistema.
 
-ARTIGO XV
+###### ARTIGO XV
 
 Em seguida ao artigo 41.º da Convenção insere-se o artigo seguinte:
 
@@ -1815,21 +1821,21 @@ Em seguida ao artigo 41.º da Convenção insere-se o artigo seguinte:
 
 ### CAPÍTULO II — Âmbito de aplicação da Convenção modificada
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 A Convenção de Varsóvia modificada na Haia em 1955 e pelo presente Protocolo aplica-se ao transporte internacional definido no artigo 1.º da Convenção, quando os pontos de partida e de destino estejam situados quer no território de dois Estados Partes no presente Protocolo quer no território de um único Estado Parte no presente Protocolo, se estiver prevista uma escala no território de um outro Estado.
 
 ### CAPÍTULO III — Disposições protocolares
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 Entre as Partes do presente Protocolo, a Convenção de Varsóvia modificada na Haia em 1955 e o presente Protocolo serão considerados e interpretados como um único instrumento, que se denominará Convenção de Varsóvia modificada na Haia em 1955 e em Guatemala em 1971.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 Até à data da entrada em vigor, de harmonia com as disposições do artigo XX, o presente Protocolo permanecerá aberto para assinatura de todos os Estados membros das Nações Unidas ou de algum dos seus organismos especializados ou da Organização Internacional de Energia Atómica ou partes dos Estatutos do Tribunal Internacional da Justiça e de todo o Estado convidado pela Assembleia Geral das Nações Unidas a tomar-se parte do presente Protocolo.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 1 - O presente Protocolo será submetido à ratificação dos Estados signatários.
 
@@ -1837,13 +1843,13 @@ ARTIGO XIX
 
 3 - Os instrumentos de ratificação serão depositados junto da Organização da Aviação Civil internacional.
 
-ARTIGO XX
+###### ARTIGO XX
 
 1 - O presente Protocolo entrará em vigor no nonagésimo dia após o depósito do trigésimo instrumento de ratificação, sob a condição de o total do tráfego aéreo internacional regular - expresso em passageiros-quilómetro e tal como resulta das estatísticas publicadas para o ano de 1970 pela Organização da Aviação Civil Internacional - das empresas de aviação de cinco Estados que tiverem ratificado o presente Protocolo representar, pelo menos, 40% do total do tráfego aéreo internacional regular das empresas de aviação dos países membros da Organização da Aviação Civil Internacional registado no decurso desse mesmo ano. Se no momento do depósito do trigésimo instrumento de ratificação esta condição se não verificar, o Protocolo só entrará em vigor no nonagésimo dia após a mesma se verificar. Com relação a cada Estado que o tiver ratificado após o depósito do último instrumento de ratificação necessário à sua entrada em vigor, o presente Protocolo entrará em vigor no nonagésimo dia após o depósito do respectivo instrumento de ratificação.
 
 2 - Depois da sua entrada em vigor, o presente Protocolo será registado junto da Organização das Nações Unidas pela Organização da Aviação Civil Internacional.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 1 - Após a sua entrada em vigor, o presente Protocolo permanecerá aberto para adesão de todo o Estado referido no artigo XVIII.
 
@@ -1851,7 +1857,7 @@ ARTIGO XXI
 
 3 - A adesão será efectuada mediante o depósito de um instrumento de adesão junto da Organização da Aviação Civil Internacional e produzirá efeitos no nonagésimo dia a contar da data do depósito.
 
-ARTIGO XXII
+###### ARTIGO XXII
 
 1 - Toda a Parte do presente Protocolo poderá denunciá-lo por notificação feita à Organização da Aviação Civil Internacional.
 
@@ -1859,7 +1865,7 @@ ARTIGO XXII
 
 3 - Entre as Partes do presente Protocolo, a denúncia da Convenção de Varsóvia, de acordo com o seu artigo 39.º, ou do Protocolo da Haia, de acordo com o seu artigo XXIV, não poderá ser interpretada como uma denúncia da Convenção de Varsóvia modificada na Haia em 1955 e em Guatemala em 1971.
 
-ARTIGO XXIII
+###### ARTIGO XXIII
 
 1 - Só serão admitidas as seguintes reservas ao presente Protocolo:
 
@@ -1869,15 +1875,15 @@ b) Um Estado pode a todo o momento declarar, por meio de notificação feita à 
 
 2 - Todo o Estado que tiver formulado uma reserva nos termos do número anterior poderá retirá-la em qualquer momento mediante notificação feita à Organização da Aviação Civil Internacional.
 
-ARTIGO XXIV
+###### ARTIGO XXIV
 
 A Organização da Aviação Civil Internacional informará com a maior brevidade todos os Estados signatários ou os que tiverem aderido ao presente Protocolo da data de depósito de cada instrumento de ratificação ou adesão e da data da entrada em vigor do presente Protocolo, bem como de quaisquer outras informações pertinentes.
 
-ARTIGO XXV
+###### ARTIGO XXV
 
 Entre as Partes do presente Protocolo que são igualmente Partes da Convenção complementar da Convenção de Varsóvia para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional efectuado por pessoa que não seja o transportador contratual, assinada em Guadalajara em 18 de Setembro de 1961 (a seguir designada por Convenção de Guadalajara), toda a referência à Convenção de Varsóvia contida na Convenção de Guadalajara abrangerá a Convenção de Varsóvia modificada na Haia em 1955 e em Guatemala em 1971 nos casos em que o transporte efectuado de acordo com o contrato referido na alínea b) do artigo 1.º da Convenção do Guadalajara é regulado pelo presente Protocolo.
 
-ARTIGO XXVI
+###### ARTIGO XXVI
 
 O presente Protocolo permanecerá aberto para assinatura de qualquer Estado referido no artigo XVIII no Ministério das Relações Exteriores da República de Guatemala até 30 de Setembro de 1971 e, depois, até à sua entrada em vigor nos termos do artigo XX, na Organização da Aviação Civil Internacional. O Governo da República de Guatemala informará com a maior brevidade a Organização da Aviação Civil Internacional de qualquer assinatura e da data desta no período em que o Protocolo estiver aberto para assinatura em Guatemala.
 

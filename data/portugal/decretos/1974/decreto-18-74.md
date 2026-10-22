@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/01/02400/00910096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/18-1974-406964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 932f56da182264b1601e49d832a466bed2e597fc578569af8b0c3ee33a114be6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f20ffe48689440989d640d7f8095e915e4e84e6d80faf3b55c8d6b53299b859
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Presidência do Conselho
+- Regulamento
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:302483:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311826:por
+  label: "Mantido em vigor o regulamento, pelo DEC LEI.579/75.1975.10.11.PCM, DG.IS [236], em tudo o que não estiver expressamente\
+    \ alterado pelo referido diploma diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/579-1975-311826
+  date: '1975-10-11'
+- type: amended_by
+  target: pt:dre:375836:por
+  label: "Mantido em vigor o regulamento, pelo DEC LEI.389/82.1982.09.17.PCM, DR.IS [216], em tudo o que não estiver expressamente\
+    \ alterado pelo referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/389-1982-375836
+  date: '1982-09-17'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676444:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:412650:por
+  label: Rectificado o n.º 1 do artigo 15.º pela DECL.DD9480.06.03.1974.PC, DG.IS [55] de 06.03.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-412650
+  date: '1974-03-06'
+- type: repealed_by
+  target: pt:dre:302483:por
+  label: "Revogado pelo DEC LEI.19-A/93.1993.01.25.PCM, DR.IS-A [20]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-a-1993-302483
+  date: '1993-01-25'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:09Z'
   warnings: []
   errors: []
 ---
@@ -92,29 +133,29 @@ Considerando o disposto no artigo 7.º, n.º 1, do [Decreto-Lei n.º 308/72](htt
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único - 1. É aprovado o Regulamento dos Serviços Sociais da Presidência do Conselho, anexo ao presente diploma, que dele faz parte integrante e vai assinado pelos Ministros de Estado, do Interior e dos Negócios Estrangeiros.
+Artigo único - 1. É aprovado o Regulamento dos Serviços Sociais da Presidência do Conselho, anexo ao presente diploma, que dele faz parte integrante e vai assinado pelos Ministros de Estado, do Interior e dos Negócios Estrangeiros.
 
 2. O Presidente do Conselho poderá delegar num membro do Governo os poderes que lhe são conferidos no referido Regulamento.
 
 Marcello Caetano.
 
-**Promulgado em 19 de Janeiro de 1974.**
+Promulgado em 19 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DOS SERVIÇOS SOCIAIS DA PRESIDÊNCIA DO CONSELHO
 
 ### CAPÍTULO I — Da denominação, âmbito e fins
 
-###### Artigo 1.º Os Serviços Sociais da Presidência do Conselho, criados pelo [Decreto-Lei n.º 308/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1972-676444), de 17 de Agosto, que no presente diploma se designam simplesmente por Serviços Sociais, constituem um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira, dependente da Presidência do Conselho.
+Artigo 1.º Os Serviços Sociais da Presidência do Conselho, criados pelo [Decreto-Lei n.º 308/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1972-676444), de 17 de Agosto, que no presente diploma se designam simplesmente por Serviços Sociais, constituem um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira, dependente da Presidência do Conselho.
 
-###### Art. 2.º - 1. Os Serviços Sociais da Presidência do Conselho abrangem os funcionários dos serviços e organismos dela dependentes, incluindo os da Secretaria de Estado da Informação e Turismo, bem como os do Ministério do Interior e os do Ministério dos Negócios Estrangeiros.
+Art. 2.º - 1. Os Serviços Sociais da Presidência do Conselho abrangem os funcionários dos serviços e organismos dela dependentes, incluindo os da Secretaria de Estado da Informação e Turismo, bem como os do Ministério do Interior e os do Ministério dos Negócios Estrangeiros.
 
 2. Os Serviços Sociais têm por fim auxiliar a satisfação das necessidades de ordem económica, social e cultural dos beneficiários e seus familiares e, bem assim, desenvolver os laços de solidariedade entre eles.
 
-###### Art. 3.º - 1. A acção dos Serviços Sociais poderá exercer-se através das seguintes modalidades:
+Art. 3.º - 1. A acção dos Serviços Sociais poderá exercer-se através das seguintes modalidades:
 
 a) Organização de refeitórios, cantinas ou outros meios destinados a proporcionar refeições a preços razoáveis;
 
@@ -144,11 +185,11 @@ j) Actividades de natureza cultural, desportiva e recreativa.
 
 5. Para cada uma das modalidades a prosseguir será elaborado um regulamento próprio, onde serão definidas as condições para a concessão dos benefícios.
 
-###### Art. 4.º A acção dos Serviços Sociais deverá ser exercida de maneira a evitar, em relação a cada beneficiário, acumulação de regalias da mesma natureza, concedidas por estes Serviços ou por outras instituições.
+Art. 4.º A acção dos Serviços Sociais deverá ser exercida de maneira a evitar, em relação a cada beneficiário, acumulação de regalias da mesma natureza, concedidas por estes Serviços ou por outras instituições.
 
-###### Art. 5.º Para a prossecução das suas finalidades os Serviços Sociais poderão colaborar com instituições similares, em realizações de interesse comum, e bem assim fazer acordos ou contratos com outras entidades, designadamente cooperativas e estabelecimentos comerciais e industriais.
+Art. 5.º Para a prossecução das suas finalidades os Serviços Sociais poderão colaborar com instituições similares, em realizações de interesse comum, e bem assim fazer acordos ou contratos com outras entidades, designadamente cooperativas e estabelecimentos comerciais e industriais.
 
-###### Art. 6.º - 1. Para assegurar a fruição de regalias pelo maior número possível de beneficiários poderão ser criadas delegações dos Serviços Sociais nas localidades onde tenham sede serviços regionais dos departamentos referidos no n.º 1 do artigo 2.º
+Art. 6.º - 1. Para assegurar a fruição de regalias pelo maior número possível de beneficiários poderão ser criadas delegações dos Serviços Sociais nas localidades onde tenham sede serviços regionais dos departamentos referidos no n.º 1 do artigo 2.º
 
 2. Os Serviços Sociais poderão ainda promover a constituição de secções ou núcleos de actividade junto dos serviços ou organismos onde essa criação se justifique.
 
@@ -158,7 +199,7 @@ j) Actividades de natureza cultural, desportiva e recreativa.
 
 #### SECÇÃO I — Das condições de admissão
 
-###### Art. 7.º - 1. Podem ser beneficiários dos Serviços Sociais:
+Art. 7.º - 1. Podem ser beneficiários dos Serviços Sociais:
 
 a) Servidores que exerçam funções de carácter permanente, seja qual for a forma de provimento;
 
@@ -174,21 +215,21 @@ d) Servidores a aguardar aposentação ou aposentados, com excepção dos que o 
 
 4. O pessoal pertencente a outros Ministérios que preste serviço nos departamentos referidos no n.º 1 do artigo 2.º poderá também ser abrangido pelos benefícios dos Serviços Sociais, desde que não usufrua de regalias semelhantes nos serviços a que pertence.
 
-###### Art. 8.º - 1. A inscrição dos beneficiários é gratuita e far-se-á mediante o preenchimento de uma proposta, da qual constem os elementos de identificação do funcionário, o serviço a que pertence, a categoria profissional e a composição do agregado familiar.
+Art. 8.º - 1. A inscrição dos beneficiários é gratuita e far-se-á mediante o preenchimento de uma proposta, da qual constem os elementos de identificação do funcionário, o serviço a que pertence, a categoria profissional e a composição do agregado familiar.
 
 2. As propostas serão autenticadas pelo chefe do serviço respectivo e acompanhadas dos elementos de comprovação que se mostrem necessários.
 
-###### Art. 9.º A qualidade de beneficiário prova-se por cartão de identidade, de modelo a aprovar pela direcção, e só emitido depois de liquidada a primeira quota.
+Art. 9.º A qualidade de beneficiário prova-se por cartão de identidade, de modelo a aprovar pela direcção, e só emitido depois de liquidada a primeira quota.
 
 #### SECÇÃO II — Dos direitos e deveres
 
-###### Art. 10.º São direitos dos beneficiários:
+Art. 10.º São direitos dos beneficiários:
 
 a) Fruir as regalias que lhes sejam concedidas pelos Serviços Sociais, nos termos do presente Regulamento e dos regulamentos de cada uma das modalidades;
 
 b) Formular por escrito à direcção as sugestões ou observações que julgarem convenientes, com vista a melhor organização ou funcionamento dos serviços.
 
-###### Art. 11.º São deveres dos beneficiários:
+Art. 11.º São deveres dos beneficiários:
 
 a) Cumprir as disposições legais e regulamentares que lhes digam respeito;
 
@@ -196,7 +237,7 @@ b) Responder com exactidão aos questionários que lhes sejam dirigidos pelos Se
 
 #### SECÇÃO III — Das quotizações
 
-###### Art. 12.º - 1. Os beneficiários contribuirão para os encargos dos Serviços Sociais com as quotizações mensais que forem fixadas por despacho do Presidente do Conselho, tendo em atenção os grupos de ordenados a que se refere o artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 12.º - 1. Os beneficiários contribuirão para os encargos dos Serviços Sociais com as quotizações mensais que forem fixadas por despacho do Presidente do Conselho, tendo em atenção os grupos de ordenados a que se refere o artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 2. Os assalariados contribuirão com a quota correspondente ao escalão de remuneração que lhes competir, multiplicando o seu salário diário por 30.
 
@@ -206,7 +247,7 @@ b) Responder com exactidão aos questionários que lhes sejam dirigidos pelos Se
 
 #### SECÇÃO IV — Da suspensão de direitos e cancelamento de inscrições
 
-###### Art. 13.º - 1. Serão suspensos dos benefícios dos Serviços Sociais:
+Art. 13.º - 1. Serão suspensos dos benefícios dos Serviços Sociais:
 
 a) Os funcionários que passem ao regime de comissão de serviço ou análogo fora dos quadros dos organismos abrangidos pela acção dos Serviços Sociais, desde que disponham de idênticos benefícios no departamento a que ficarem afectos;
 
@@ -220,7 +261,7 @@ d) Os beneficiários que cedam a favor de terceiros quaisquer vantagens ou auxí
 
 3. Durante o período da suspensão, a direcção dos Serviços Sociais poderá permitir que sejam mantidas as regalias directamente atribuíveis aos familiares do beneficiário.
 
-###### Art. 14.º Será cancelada a inscrição nos Serviços Sociais:
+Art. 14.º Será cancelada a inscrição nos Serviços Sociais:
 
 a) Aos funcionários exonerados, demitidos ou cujos contratos sejam dados por findos, salvo nos casos abrangidos pela parte final da alínea c) do n.º 1 do artigo 7.º;
 
@@ -232,13 +273,13 @@ d) Aos beneficiários que se encontrem em atraso no pagamento de quotas pelo per
 
 e) Aos beneficiários que pratiquem infracções, consideradas graves pela direcção, contra os Serviços Sociais ou os seus órgãos.
 
-###### Art. 15.º - 1. A aplicação das penas previstas nos artigos 13.º, n.º 1, alíneas c) e d), e 14.º, n.º 1, alínea e), do presente Regulamento, compete à direcção dos Serviços Sociais, mediante a instauração de processo disciplinar, em que se terá em conta a situação do agregado familiar do beneficiário.
+Art. 15.º - 1. A aplicação das penas previstas nos artigos 13.º, n.º 1, alíneas c) e d), e 14.º, n.º 1, alínea e), do presente Regulamento, compete à direcção dos Serviços Sociais, mediante a instauração de processo disciplinar, em que se terá em conta a situação do agregado familiar do beneficiário.
 
 2. Da decisão da direcção cabe recurso para o Presidente do Conselho ou para os Ministros do Interior ou dos Negócios Estrangeiros, consoante o serviço a que pertença o beneficiário.
 
 ### CAPÍTULO III — Dos órgãos dos Serviços Sociais
 
-###### Art. 16.º Os órgãos os Serviços Sociais são:
+Art. 16.º Os órgãos os Serviços Sociais são:
 
 a) A direcção;
 
@@ -246,25 +287,25 @@ b) O conselho consultivo;
 
 c) A comissão verificadora de contas.
 
-###### Art. 17.º - 1. Os funcionários designados para a direcção dos Serviços Sociais terão direito a uma gratificação de montante a fixar pelo Presidente do Conselho.
+Art. 17.º - 1. Os funcionários designados para a direcção dos Serviços Sociais terão direito a uma gratificação de montante a fixar pelo Presidente do Conselho.
 
 2. Aos membros do conselho consultivo e da comissão verificadora de contas serão atribuídas senhas de presença, nos termos da legislação em vigor.
 
 #### SECÇÃO I — Da direcção
 
-###### Art. 18.º - 1. Os Serviços Sociais são superiormente orientados por uma direcção, imediatamente subordinada ao Presidente do Conselho.
+Art. 18.º - 1. Os Serviços Sociais são superiormente orientados por uma direcção, imediatamente subordinada ao Presidente do Conselho.
 
 2. A direcção é constituída por um presidente, um vice-presidente e três vogais.
 
-###### Art. 19.º - 1. O presidente e o vice-presidente são nomeados pelo Presidente do Conselho, ouvidos os Ministros do Interior e dos Negócios Estrangeiros, de entre funcionários de serviços e organismos de qualquer dos respectivos departamentos, devendo o primeiro ser de categoria não inferior a director de serviços.
+Art. 19.º - 1. O presidente e o vice-presidente são nomeados pelo Presidente do Conselho, ouvidos os Ministros do Interior e dos Negócios Estrangeiros, de entre funcionários de serviços e organismos de qualquer dos respectivos departamentos, devendo o primeiro ser de categoria não inferior a director de serviços.
 
 2. Os cargos de presidente e vice-presidente são exercidos pelo período de três anos, que poderá ser prorrogado anualmente.
 
-###### Art. 20.º - 1. Os vogais servirão pelo período de três anos, renovável anualmente, e pertencerão a cada um dos departamentos abrangidos pela acção dos Serviços Sociais.
+Art. 20.º - 1. Os vogais servirão pelo período de três anos, renovável anualmente, e pertencerão a cada um dos departamentos abrangidos pela acção dos Serviços Sociais.
 
 2. A nomeação dos vogais será feita, consoante os casos, pelo Presidente do Conselho, pelo Ministro do Interior ou pelo dos Negócios Estrangeiros, mediante proposta dos secretários-gerais dos respectivos departamentos.
 
-###### Art. 21.º - 1. Compete à direcção:
+Art. 21.º - 1. Compete à direcção:
 
 a) Representar os Serviços Sociais em todos os actos em que estes tenham de intervir;
 
@@ -290,17 +331,17 @@ l) Praticar os demais actos necessários ao bom funcionamento dos Serviços Soci
 
 2. A aprovação a que se referem as alíneas b), f) e g) do número anterior será dada pelo Presidente do Conselho.
 
-###### Art. 22.º - 1. A direcção terá uma sessão ordinária por mês e as extraordinárias que forem convocadas pelo presidente.
+Art. 22.º - 1. A direcção terá uma sessão ordinária por mês e as extraordinárias que forem convocadas pelo presidente.
 
 2. As deliberações serão tomadas por maioria de votos, tendo o presidente voto de qualidade em caso de empate.
 
 3. As sessões serão secretariadas por um dos vogais, a designar pela direcção, o qual poderá ser coadjuvado no exercício das funções de secretário por algum funcionário dos Serviços Sociais, designado pelo presidente da direcção.
 
-###### Art. 23.º - 1. Para obrigar os Serviços Sociais são necessárias as assinaturas do presidente da direcção ou, no seu impedimento, do vice-presidente e de um vogal.
+Art. 23.º - 1. Para obrigar os Serviços Sociais são necessárias as assinaturas do presidente da direcção ou, no seu impedimento, do vice-presidente e de um vogal.
 
 2. Compete à direcção designar o vogal a que se refere o número anterior, bem como o seu substituto.
 
-###### Art. 24.º Compete especialmente ao presidente da direcção:
+Art. 24.º Compete especialmente ao presidente da direcção:
 
 a) Presidir às reuniões da direcção, orientando a ordem dos trabalhos;
 
@@ -314,9 +355,9 @@ e) Propor a convocação do conselho consultivo, para reunir extraordinariamente
 
 f) Apresentar a despacho ministerial os assuntos que careçam de resolução superior.
 
-###### Art. 25.º Compete especialmente ao vice-presidente coadjuvar o presidente e substituí-lo nas suas faltas e impedimentos.
+Art. 25.º Compete especialmente ao vice-presidente coadjuvar o presidente e substituí-lo nas suas faltas e impedimentos.
 
-###### Art. 26.º Aos vogais da direcção compete essencialmente:
+Art. 26.º Aos vogais da direcção compete essencialmente:
 
 a) Estudar e informar os assuntos a seu cargo, respeitantes às diversas actividades dos Serviços Sociais;
 
@@ -326,11 +367,11 @@ c) Superintender nas modalidades de acção para que forem designados por despac
 
 #### SECÇÃO II — Do conselho consultivo
 
-###### Art. 27.º - 1. O conselho consultivo será presidido por um funcionário com a categoria de director-geral, pertencente a qualquer dos departamentos referidos no n.º 1 do artigo 2.º, e dele farão parte um representante de cada um dos serviços e organismos dependentes da Presidência do Conselho, do Ministério do Interior e do Ministério dos Negócios Estrangeiros que não pertença aos restantes órgãos de administração dos Serviços Sociais.
+Art. 27.º - 1. O conselho consultivo será presidido por um funcionário com a categoria de director-geral, pertencente a qualquer dos departamentos referidos no n.º 1 do artigo 2.º, e dele farão parte um representante de cada um dos serviços e organismos dependentes da Presidência do Conselho, do Ministério do Interior e do Ministério dos Negócios Estrangeiros que não pertença aos restantes órgãos de administração dos Serviços Sociais.
 
 2. O presidente do conselho consultivo será designado pelo Presidente do Conselho, ouvidos os Ministros do Interior e dos Negócios Estrangeiros; os vogais serão designados pelos organismos que representam.
 
-###### Art. 28.º Compete ao conselho consultivo:
+Art. 28.º Compete ao conselho consultivo:
 
 a) Dar parecer sobre os planos de acção a executar pelos Serviços Sociais e apreciar os resultados obtidos;
 
@@ -342,7 +383,7 @@ d) Apresentar as sugestões tendentes a fomentar ou aperfeiçoar as actividades 
 
 e) Pronunciar-se sobre os factos relativamente aos quais recaiam queixas ou reclamações dos beneficiários, desde que a direcção entenda dever submetê-los à sua apreciação.
 
-###### Art. 29.º - 1. O conselho consultivo terá uma sessão ordinária por trimestre e reunirá extraordinariamente quando for julgado conveniente pelo seu presidente ou por solicitação da direcção.
+Art. 29.º - 1. O conselho consultivo terá uma sessão ordinária por trimestre e reunirá extraordinariamente quando for julgado conveniente pelo seu presidente ou por solicitação da direcção.
 
 2. Às sessões do conselho consultivo deverão assistir o presidente e os demais membros da direcção cuja presença se torne aconselhável.
 
@@ -350,11 +391,11 @@ e) Pronunciar-se sobre os factos relativamente aos quais recaiam queixas ou recl
 
 #### SECÇÃO III — Da comissão verificadora de contas
 
-###### Art. 30.º - 1. A comissão verificadora de contas será constituída por três membros, sendo um de cada departamento dos referidos no n.º 1 do artigo 2.º, e a sua designação será feita pelo Presidente do Conselho, ouvidos os Ministros do Interior e dos Negócios Estrangeiros.
+Art. 30.º - 1. A comissão verificadora de contas será constituída por três membros, sendo um de cada departamento dos referidos no n.º 1 do artigo 2.º, e a sua designação será feita pelo Presidente do Conselho, ouvidos os Ministros do Interior e dos Negócios Estrangeiros.
 
 2. O Presidente do Conselho designará qual dos membros deverá presidir à comissão.
 
-###### Art. 31.º Compete especialmente à comissão verificadora de contas:
+Art. 31.º Compete especialmente à comissão verificadora de contas:
 
 a) Efectuar os exames e conferência de documentos que se tornem necessários;
 
@@ -364,9 +405,9 @@ c) Emitir parecer sobre os assuntos da sua competência que lhe sejam submetidos
 
 ### CAPÍTULO IV — Dos serviços e do pessoal
 
-###### Art. 32.º Os Serviços Sociais terão os serviços de administração geral necessários ao seu funcionamento e os serviços especiais exigidos pelas actividades referidas no artigo 3.º
+Art. 32.º Os Serviços Sociais terão os serviços de administração geral necessários ao seu funcionamento e os serviços especiais exigidos pelas actividades referidas no artigo 3.º
 
-###### Art. 33.º - 1. Os Serviços Sociais terão o pessoal indispensável à boa execução dos seus fins.
+Art. 33.º - 1. Os Serviços Sociais terão o pessoal indispensável à boa execução dos seus fins.
 
 2. O funcionamento dos Serviços Sociais será assegurado por funcionários de serviços e organismos dependentes da Presidência do Conselho, bem como dos Ministérios do Interior e dos Negócios Estrangeiros, através de alguma das seguintes modalidades:
 
@@ -376,13 +417,13 @@ b) Em regime de acumulação, sem prejuízo das funções principais, sendo em t
 
 3. Os vencimentos dos funcionários a que respeita a alínea a) do número anterior serão pagos por verba global a inscrever para esse fim no orçamento dos Serviços Sociais, podendo ser preenchidos interinamente os respectivos lugares nos quadros de origem.
 
-###### Art. 34.º - 1. A direcção poderá propor ao Presidente do Conselho que seja contratado ou assalariado o pessoal indispensável ao eficiente prosseguimento das finalidades dos Serviços Sociais.
+Art. 34.º - 1. A direcção poderá propor ao Presidente do Conselho que seja contratado ou assalariado o pessoal indispensável ao eficiente prosseguimento das finalidades dos Serviços Sociais.
 
 2. O pessoal contratado ou assalariado nos termos do número anterior para os serviços especiais ficará abrangido, se for caso disso, pelas respectivas caixas de previdência, competindo aos Serviços Sociais o pagamento dos encargos correspondentes às entidades patronais.
 
 ### CAPÍTULO V — Das receitas e despesas
 
-###### Art. 35.º - 1. Constituem receitas dos Serviços Sociais:
+Art. 35.º - 1. Constituem receitas dos Serviços Sociais:
 
 a) A quotização dos beneficiários;
 
@@ -400,11 +441,11 @@ f) Quaisquer outras receitas que lhes sejam atribuídas.
 
 3. As receitas serão depositadas na Caixa Geral de Depósitos, à ordem da direcção, e movimentadas por meio de cheques assinados por dois membros da direcção, nos termos do n.º 1 do artigo 23.º
 
-###### Art. 36.º - 1. As despesas dos Serviços Sociais serão as que resultem do desenvolvimento das respectivas actividades, em conformidade com os orçamentos superiormente aprovados.
+Art. 36.º - 1. As despesas dos Serviços Sociais serão as que resultem do desenvolvimento das respectivas actividades, em conformidade com os orçamentos superiormente aprovados.
 
 2. A direcção pode delegar em qualquer dos seus membros a competência para realizar despesas de natureza corrente, cujo montante não exceda 20000$00.
 
-###### Art. 37.º Dependem de despacho do Presidente do Conselho:
+Art. 37.º Dependem de despacho do Presidente do Conselho:
 
 a) A aquisição, construção ou remodelação de imóveis;
 
@@ -418,7 +459,7 @@ e) Os contratos de arrendamento para instalação dos serviços;
 
 f) Outros actos ou despesas que o Presidente do Conselho determine devam ser submetidos à sua prévia autorização.
 
-###### Art. 38.º - 1. As contas anuais serão submetidas à aprovação do Presidente do Conselho, até ao fim de Abril do ano seguinte àquele a que respeitem, acompanhadas do parecer da comissão verificadora de contas.
+Art. 38.º - 1. As contas anuais serão submetidas à aprovação do Presidente do Conselho, até ao fim de Abril do ano seguinte àquele a que respeitem, acompanhadas do parecer da comissão verificadora de contas.
 
 2. A aprovação a que se refere o número anterior corresponde, para efeitos de prestação e julgamento de contas, a quitação dos directores, sem prejuízo de revisão, a determinar pelo Presidente do Conselho, nos casos admitidos no artigo 6.º do [Decreto-Lei n.º 29174](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29174-1938-348761), de 24 de Novembro de 1938.
 
@@ -426,14 +467,14 @@ f) Outros actos ou despesas que o Presidente do Conselho determine devam ser sub
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 39.º - 1. As actividades das organizações de pessoal existentes nos serviços ou organismos dependentes dos departamentos referidos no n.º 1 do artigo 2.º e que exerçam alguma das modalidades previstas no artigo 3.º deste Regulamento poderão ser integradas ou coordenadas pelos Serviços Sociais, de forma a evitarem-se duplicações de benefícios.
+Art. 39.º - 1. As actividades das organizações de pessoal existentes nos serviços ou organismos dependentes dos departamentos referidos no n.º 1 do artigo 2.º e que exerçam alguma das modalidades previstas no artigo 3.º deste Regulamento poderão ser integradas ou coordenadas pelos Serviços Sociais, de forma a evitarem-se duplicações de benefícios.
 
 2. Junto dos serviços ou organismos referidos no número anterior não poderão ser criadas novas organizações de pessoal de fins análogos aos dos Serviços Sociais.
 
 3. As organizações referidas no n.º 1 deste artigo deverão fornecer os elementos que a direcção dos Serviços Sociais solicitar.
 
-###### Art. 40.º - 1. A direcção dos Serviços Sociais submeterá à consideração superior, ouvido o conselho consultivo, as alterações do presente Regulamento que a experiência torne aconselháveis.
+Art. 40.º - 1. A direcção dos Serviços Sociais submeterá à consideração superior, ouvido o conselho consultivo, as alterações do presente Regulamento que a experiência torne aconselháveis.
 
 2. As dúvidas suscitadas na execução deste Regulamento e os casos omissos serão resolvidos por despacho do Presidente do Conselho, sob proposta da direcção.
 
-**O Ministro de Estado, João Mota Pereira de Campos. - O Ministro do Interior, César Henrique Moreira Baptista. - O Ministro dos Negócios Estrangeiros, Rui Manuel de Medeiros d'Espiney Patrício.**
+O Ministro de Estado, João Mota Pereira de Campos. - O Ministro do Interior, César Henrique Moreira Baptista. - O Ministro dos Negócios Estrangeiros, Rui Manuel de Medeiros d'Espiney Patrício.

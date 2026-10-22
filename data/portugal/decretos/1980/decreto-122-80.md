@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/122-1980-458393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be4c4b9bb0bd3d4a467cfe86c9f352bbdfd099cc84bf248fa0f638691db2de12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f281cfb627fa029a629a9a9ee542d94528cd8b91f64924c93b4901d82558ce93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Instituto Universitário da Beira Interior
+- Instituto Universitário de Trás-os-montes e ALTO Douro
+- Licenciatura
 relationships:
 - type: amended_by
   target: pt:dre:665925:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:665925:por
+  label: Extintas as disciplinas de formação básica da licenciatura em engenharia electrotécnica, criadas pelo presente diploma,
+    pelo(a) Portaria n.º 333/87 - Diário da República n.º 94/1987, Série I de 1987-04-23, à medida que entre em funcionamento
+    o curso criado pelo n.º 1 daquela portaria, de acordo com o anexo II publicado em anexo à mesma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/333-1987-665925
+  date: '1987-04-23'
+- type: cites
+  target: pt:dre:369628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370006:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:33Z'
   warnings: []
   errors: []
 ---
@@ -131,8 +150,8 @@ Os convénios a que se refere o artigo 1.º serão objecto de prévia homologaç
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Vítor Pereira Crespo.
 
-**Promulgado em 28 de Outubro de 1980.**
+Promulgado em 28 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

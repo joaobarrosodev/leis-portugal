@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/87-1979-378961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e48a6bd3f31ecbf719e69a611dc905a841bf35c9c07967a0bec4de4f88cbb7a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 278bbca38576e43f4f989d82f16359ad630c86b8d6171ed19c5fabc2cf289d8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Energia Elétrica
+- Moçambique
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:57Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 20 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Especial de Cooperação no Domínio do Sector Eléctrico entre a República Portuguesa e a República Popular de Moçambique, assinado em 20 de Fevereiro de 1978 no Maputo, cujo texto acompanha o presente decreto.
+Artigo único. É aprovado o Acordo Especial de Cooperação no Domínio do Sector Eléctrico entre a República Portuguesa e a República Popular de Moçambique, assinado em 20 de Fevereiro de 1978 no Maputo, cujo texto acompanha o presente decreto.
 
 Visito e aprovado em Conselho de Ministros de 4 de Julho de 1979. - Carlos Alberto da Mota Pinto - José Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 23 de Julho de 1979.**
+Assinado em 23 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo Especial de Cooperação no Domínio do Sector Eléctrico entre a República Popular de Moçambique e a República Portuguesa.
 
@@ -111,17 +115,17 @@ Considerando o nível internacional da qualidade e eficiência dos equipamentos 
 
 Decidem as Partes acordar o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1 - O Governo da República Popular de Moçambique e o Governo da República Portuguesa comprometem-se a estimular a continuação dos trabalhadores portugueses em Moçambique ao serviço das empresas e organismos do sector eléctrico.
 
 2 - O Governo da República Popular de Moçambique e o Governo da República Portuguesa atribuem aos trabalhadores mencionados no número anterior o direito de optar, mediante declaração, pelo estatuto de cooperante, previsto no Acordo Geral de Cooperação.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 O Governo da República Portuguesa, na medida das suas possibilidades, permitirá e facilitará, nos termos do artigo 9.º do Acordo Geral de Cooperação, o recrutamento para a República Popular de Moçambique do pessoal qualificado necessário ao preenchimento dos quadros das empresas e organismos do sector eléctrico, incluindo o que se destinar a acções de formação e aperfeiçoamento profissional dos trabalhadores moçambicanos.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1 - A prestação de serviço dos trabalhadores cooperantes portugueses será regulada por contrato escrito celebrado entre o trabalhador e a empresa ou organismo respectivo.
 
@@ -129,7 +133,7 @@ O Governo da República Portuguesa, na medida das suas possibilidades, permitir�
 
 3 - O visto referido no número anterior será efectuado, em nome e representação dos respectivos Governos, pelos organismos ou entidades competentes e pelas embaixadas ou por quem para o efeito seja designado.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Serão suportados pelas empresas ou organismos que empreguem trabalhadores cooperantes os seguintes encargos:
 
@@ -145,7 +149,7 @@ e) Indemnizações que decorrerem das condições contratuais;
 
 f) Pagamento de 10% do valor total dos vencimentos dos trabalhadores abrangidos pelo presente Acordo, desde a sua admissão ao serviço da empresa até à data da assinatura do Acordo, como compensações dos direitos que os trabalhadores cooperantes teriam adquirido nas modalidades de invalidez, velhice e morte, se tivessem estado abrangidos pelas instituições de previdência em Portugal.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - O Governo da República Popular de Moçambique assegura ao trabalhador cooperante o direito de receber mensalmente em Portugal um montante não inferior a 25% da sua remuneração mensal bruta, sem prejuízo de condições mais favoráveis que sejam estabelecidas no contrato.
 
@@ -157,7 +161,7 @@ f) Pagamento de 10% do valor total dos vencimentos dos trabalhadores abrangidos 
 
 5 - O Governo da República Popular de Moçambique assegura o pagamento em Portugal das importâncias referidas na alínea f) do artigo 4.º em duas prestações anuais, a iniciar, dois anos após a assinatura do presente Acordo.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1 - As prestações pecuniárias previstas no presente Acordo e nos contratos serão expressas:
 
@@ -171,11 +175,11 @@ b) Em dólares dos Estados Unidos da América, os valores referidos nas alíneas
 
 4 - Para efeitos da conversão em dólares dos Estados Unidos da América das prestações pecuniárias previstas nos n.os 1 e 3 do artigo 5.º utilizar-se-á a taxa de câmbio vigente em Moçambique na data da assinatura de cada contrato individual; e para efeitos de idêntica conversão relativamente a indemnizações ou compensações que decorram das alíneas c), d), e) e f) do artigo 4.º utilizar-se-á a taxa de câmbio vigente em Moçambique no primeiro dia útil do corrente ano de 1978.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Na altura do seu regresso definitivo, correspondente ao termo do contrato ou suas renovações, o trabalhador cooperante e sua família terá o direito de transferir para o seu país os seus bens mobiliários de uso pessoal e doméstico, bem como a viatura automóvel, desde que adquirida há mais de um ano, ficando isentos de tributação ou de quaisquer direitos de exportação.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - O Governo da República Portuguesa assegurará colocação ao trabalhador cooperante desde que este tenha terminado o contrato com as empresas ou organismos do sector eléctrico com uma prestação de serviço mínima de cinco anos em Moçambique, dos quais dois obrigatoriamente prestados ao abrigo do contrato de trabalho celebrado nos termos do artigo 3.º do presente Acordo.
 
@@ -183,19 +187,19 @@ Na altura do seu regresso definitivo, correspondente ao termo do contrato ou sua
 
 3 - O disposto no n.º 1 deste artigo não se aplica quando a empresa ou organismo tenha rescindido o contrato com justa causa ou o trabalhador cooperante o tenha rescindido sem justa causa.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Os Governos dos dois Países comprometem-se a que as respectivas empresas ou organismos do sector eléctrico dêem preferência, em igualdade de circunstâncias e sempre que tal exceda a capacidade dos meios locais, aos equipamentos técnicos e, para a realização de projectos, aos gabinetes de estudos técnicos do outro País.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Uma Comissão Mista composta de membros nomeados pelos dois Governos reunir-se-á pelo menos uma vez por ano, em princípio alternadamente em cada um dos Países, para apreciar a forma como decorrem as relações de cooperação no sector eléctrico entre Moçambique e Portugal e propor as providências necessárias à aplicação do presente Acordo.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 As lacunas e omissões deste Acordo serão integradas pelo Acordo Geral de Cooperação entre a República Popular de Moçambique e a República Portuguesa.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1 - O presente Acordo entrará em vigor na data da sua assinatura.
 

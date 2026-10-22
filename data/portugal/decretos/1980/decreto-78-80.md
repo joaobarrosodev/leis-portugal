@@ -47,40 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/78-1980-464031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-02-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac34cdbb035029b70d2b8bf952191fca3542fd0bcc54feeb1b0164ad060c0bf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d0aed2322a99715d981478048166f4cead994efe52d8e3a186c1f00e7313252
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Saneamento Político
 relationships:
 - type: amended_by
   target: pt:dre:600534:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:507575:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:01Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +101,14 @@ Convindo definir a data em que todos os pedidos de reabilitação devem ser ulti
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os requerimentos a que alude o artigo 7.º do [Decreto-Lei n.º 139/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1976-507575), de 19 de Fevereiro, têm de ser apresentados até 31 de Dezembro de 1980, ficando proibida a recepção depois desta data.
+Artigo 1.º Os requerimentos a que alude o artigo 7.º do [Decreto-Lei n.º 139/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1976-507575), de 19 de Fevereiro, têm de ser apresentados até 31 de Dezembro de 1980, ficando proibida a recepção depois desta data.
 
-###### Art. 2.º A CARSR tomará as providências que entender convenientes para a total revisão dos processos pendentes, tão rapidamente quanto possível, à medida que os julgamentos a que se refere o artigo 309.º da Constituição tenham lugar.
+Art. 2.º A CARSR tomará as providências que entender convenientes para a total revisão dos processos pendentes, tão rapidamente quanto possível, à medida que os julgamentos a que se refere o artigo 309.º da Constituição tenham lugar.
 
 Visto e aprovado em Conselho da Revolução em 29 de Julho de 1980.
 
-**Promulgado em 6 de Agosto de 1980.**
+Promulgado em 6 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

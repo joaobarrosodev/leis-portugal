@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/610-1975-310602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17e20fd2fec8c7947b2a576c8a9c0234e318720b2c34d128021a067844f527e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 087a98ab38cdb798af9e6fd37e49da95b0de6503add97095a5108a7f048d5ec8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Coimbra
+- Exército
+- Região Militar
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:25Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +104,9 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea b), 12.º e 13.º da [Le
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a faixa de terreno com a largura de 30 m, medidos para o exterior dos limites da propriedade militar do Quartel-General da Região Militar de Coimbra, em Coimbra.
+Artigo 1.º Fica sujeita a servidão militar a faixa de terreno com a largura de 30 m, medidos para o exterior dos limites da propriedade militar do Quartel-General da Região Militar de Coimbra, em Coimbra.
 
-###### Art. 2.º Na área descrita no artigo anterior é proibido, sem licença devidamente condicionada da autoridade militar competente:
+Art. 2.º Na área descrita no artigo anterior é proibido, sem licença devidamente condicionada da autoridade militar competente:
 
 a) Fazer construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -104,15 +116,15 @@ c) Alterar o relevo e a configuração do solo por meio de escavações ou aterr
 
 d) Instalar linhas de energia eléctrica ou de ligações telegráficas ou telefónicas, quer aéreas, quer subterrâneas.
 
-###### Art. 3.º Ao comandante da Região Militar de Coimbra compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência no artigo anterior.
+Art. 3.º Ao comandante da Região Militar de Coimbra compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência no artigo anterior.
 
-###### Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comandante da unidade, ao Comando da Região Militar de Coimbra e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
+Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comandante da unidade, ao Comando da Região Militar de Coimbra e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
 
-###### Art. 5.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras Militares na Região Militar de Coimbra.
+Art. 5.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras Militares na Região Militar de Coimbra.
 
-###### Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o titular do Departamento do Exército; das decisões respeitantes a demolições previstas no artigo anterior cabe recurso para o comandante da Região Militar de Coimbra, e da decisão deste, para o titular do Departamento do Exército.
+Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o titular do Departamento do Exército; das decisões respeitantes a demolições previstas no artigo anterior cabe recurso para o comandante da Região Militar de Coimbra, e da decisão deste, para o titular do Departamento do Exército.
 
-###### Art. 7.º A área descrita no artigo 1.º vai demarcada na planta topográfica de Coimbra, na escala de 1:1000, organizando-se oito colecções com a classificação de «Reservado», que terão os seguintes destinos:
+Art. 7.º A área descrita no artigo 1.º vai demarcada na planta topográfica de Coimbra, na escala de 1:1000, organizando-se oito colecções com a classificação de «Reservado», que terão os seguintes destinos:
 
 Uma ao Ministério da Defesa Nacional;
 
@@ -126,12 +138,12 @@ Duas ao Ministério da Administração Interna;
 
 Uma ao Ministério do Equipamento Social.
 
-###### Art. 8.º Este decreto entra em vigor na data da publicação.
+Art. 8.º Este decreto entra em vigor na data da publicação.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 31 de Outubro de 1975.**
+Promulgado em 31 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

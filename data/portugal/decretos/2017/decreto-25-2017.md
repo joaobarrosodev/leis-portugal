@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/15500/0469404695.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/25/2017/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/25-2017-107995242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e8c30b6e1de2163497a686a3fe432fbfab6858faaa4a8cd70604b7b70ff0bf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e9e378bf666169217bbe47dc11df60a56dded57b817f209840d4bb1688592ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
+- type: cites
+  target: pt:dre:145192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:14Z'
   warnings: []
   errors: []
 ---
@@ -103,19 +115,19 @@ O Governo decreta, nos termos da alínea e) do artigo 199.º da Constituição, 
 
 Considerando o disposto no n.º 2 do artigo 24.º do [Decreto-Lei n.º 204/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2006-545648), de 27 de outubro, conjugado com o disposto no artigo 30.º do [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), de 29 de dezembro e no artigo 20.º do [Decreto-Lei n.º 40-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1998-399178), de 27 de fevereiro;
 
-**O Ministro Plenipotenciário de 1.ª classe Henrique Manuel Vilela da Silveira Borges, a exercer o cargo de Embaixador de Portugal em Buenos Aires, é promovido a Embaixador, com efeitos a 30 de dezembro de 2016, na vaga resultante da passagem à situação de disponibilidade do Embaixador José de Bouza Serrano, continuando a exercer o referido cargo.**
+O Ministro Plenipotenciário de 1.ª classe Henrique Manuel Vilela da Silveira Borges, a exercer o cargo de Embaixador de Portugal em Buenos Aires, é promovido a Embaixador, com efeitos a 30 de dezembro de 2016, na vaga resultante da passagem à situação de disponibilidade do Embaixador José de Bouza Serrano, continuando a exercer o referido cargo.
 
 Em 6 de janeiro de 2017. - O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.
 
-**Assinado em 9 de janeiro de 2017.**
+Assinado em 9 de janeiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de janeiro de 2017.**
+Referendado em 9 de janeiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — Fundamentação da promoção à categoria de Embaixador do Ministro Plenipotenciário de 1.ª Classe, Henrique Manuel Vilela da Silveira Borges
 

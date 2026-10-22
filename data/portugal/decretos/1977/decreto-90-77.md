@@ -47,36 +47,37 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/90-1977-250039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e97974ae51e7b405c38375fbb3c152d8e405c15bcc6666ee5d788b14c187704
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bfa0db8ce8aee03a21876dd53fafae34ec6d13ea24eeff58177d11036762dd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- EFTA
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:18Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +88,17 @@ de 27 de Junho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovadas para ratificação a Decisão do Conselho EFTA n.º 16 de 1976 e a Decisão do Conselho Misto da Associação EFTA-Finlândia n.º 10 de 1976, adoptadas na 32.ª reunião simultânea, realizada em 16 de Dezembro de 1976, cujos textos em inglês e respectiva tradução para português e seus anexos vão juntos ao presente decreto.
+Artigo 1.º São aprovadas para ratificação a Decisão do Conselho EFTA n.º 16 de 1976 e a Decisão do Conselho Misto da Associação EFTA-Finlândia n.º 10 de 1976, adoptadas na 32.ª reunião simultânea, realizada em 16 de Dezembro de 1976, cujos textos em inglês e respectiva tradução para português e seus anexos vão juntos ao presente decreto.
 
-###### Art. 2.º Estas disposições entram em vigor no dia 1 de Janeiro de 1977.
+Art. 2.º Estas disposições entram em vigor no dia 1 de Janeiro de 1977.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 18 de Abril de 1977.**
+Assinado em 18 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Decision of the Council no. 10 of 1976
 
@@ -137,7 +138,7 @@ decides:
 
 2. Any import duty applied by virtue of this authorization may not, on and after each of the dates indicated in the timetables below, exceed the percentage of the basis duty specified against that date. After 31st December 1984, Portugal shall not apply any import duty on any product listed in the Annex.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
 
 3. The Secretary-General shall deposit the text of this Decision with the Government of Sweden.
 
@@ -145,15 +146,15 @@ List of products
 
 PART I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
 
 PART II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
 
 PART III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
 
 Decisão do Conselho Misto n.º 10 de 1976
 
@@ -193,14 +194,14 @@ decide:
 
 2. Qualquer direito de importação aplicado em consequência desta autorização não pode, a partir de cada uma das datas indicadas nos calendários que seguem, exceder a percentagem do direito de base especificada em relação a essa data. Depois de 31 de Dezembro de 1984, Portugal não aplicará direitos de importação a qualquer dos produtos referidos no Anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
 
 3. O Secretário-Geral depositará o texto da presente Decisão junto do Governo da Suécia.
 
 Lista de produtos
 
-# PARTE I — [([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
+## PARTE I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
 
-# PARTE II — [([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
+## PARTE II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
 
-# PARTE III — [([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)
+## PARTE III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14600/16061622.pdf)

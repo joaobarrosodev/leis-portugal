@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16400/0506705080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/28/2017/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-2017-108052024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60eda8e14b65b55a6329835886db40625b844261e3f9e2617b5669f6831e2a14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 069af35b01fbab644970aa12e5175aeba4e3547dc4137bca8e82b7240a84fdf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Convenção
+- Embarcação
 - Portugal
-- Registo de Navios
 - Quénia
+- Registo de Navios
 relationships:
 - type: amended_by
   target: pt:dre:1135578392:por
@@ -79,13 +79,13 @@ relationships:
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:20Z'
   warnings: []
   errors: []
 ---
@@ -112,15 +112,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de junho de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Ana Paula Mendes Vitorino.
 
-**Assinado em 10 de julho de 2017.**
+Assinado em 10 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de julho de 2017.**
+Referendado em 18 de julho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 Nairobi International Convention on the Removal of Wrecks, 2007
 
@@ -548,7 +548,7 @@ Certificate of Insurance or Other Financial Security in Respect of Liability for
 
 Issued in accordance with the provisions of article 12 of the Nairobi International Convention on the Removal of Wrecks, 2007
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/08/16400/0506705080.pdf))](https://files.diariodarepublica.pt/1s/2017/08/16400/0506705080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/08/16400/0506705080.pdf)
 
 Explanatory Notes:
 
@@ -944,7 +944,7 @@ Em fé do que os abaixo assinados, devidamente autorizado pelos seus respetivos 
 
 Emitido nos termos do disposto no artigo 12.º da Convenção Internacional sobre a Remoção de Destroços, 2007
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/08/16400/0506705080.pdf))](https://files.diariodarepublica.pt/1s/2017/08/16400/0506705080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/08/16400/0506705080.pdf)
 
 Notas explicativas:
 

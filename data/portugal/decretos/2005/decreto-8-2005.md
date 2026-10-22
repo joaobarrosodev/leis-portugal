@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/8/2005/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-2005-579539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4973b8290965e3342bbeb9be55d5cff8df07fbc164430d7831e168e262af5cb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2ee092d073d644dce2293d355d49540593c736993a5ee7ce7ee04a36691f368
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito de Preferência
 - ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Autarquia Local
+- Direito de Preferência
 - Património Histórico
 - Tomar
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/38/1999/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/38/1999/10/07/p/dre
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671973:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:21Z'
   warnings: []
   errors: []
 ---
@@ -116,12 +136,12 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o
 
 Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - José Luís Fazenda Arnaut Duarte - Luís José de Mello e Castro Guedes.
 
-**Assinado em 28 de Fevereiro de 2005.**
+Assinado em 28 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Março de 2005.**
+Referendado em 7 de Março de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/358-1973-421459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 012369ce85dd3102ceb94353a77442b474f3c0771f9e75644c6d3e660afe49df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a35abd733baf528341f0df59e90d023b31fd4d65702b3789792bbeff378a3671
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Caixa de Previdência
+- Contribuições da Segurança Social
+- Idade de Reforma
+- Incapacidade Permanente
+- Incapacidade Temporária
+- Pensão de Invalidez
+- Pensão de Reforma
+- Prestações da Segurança Social
+- Previdência Social
+- Regulamento Geral das Caixas Sindicais de Previdência
 relationships:
 - type: amended_by
   target: pt:dre:376794:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251778:por
+  label: "Dada nova redação ao arts. 50º do Regulamento Geral das Caixas Sindicais de Previdência, aprovado pelo Dec 45266\
+    \ de 23-set 1963, alterado pelo presente diploma, pelo DR.26/77.04.05.1977.MAS, DR.IS [103] de 04.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-1977-251778
+  date: '1977-05-04'
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:38Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +130,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 24.º, 48.º, 50.º e 78.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963 (Regulamento Geral das Caixas Sindicais de Previdência), passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 24.º, 48.º, 50.º e 78.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963 (Regulamento Geral das Caixas Sindicais de Previdência), passam a ter a seguinte redacção:
 
-###### Art. 24.º Consideram-se, para todos os efeitos deste Regulamento, como equivalentes à entrada de contribuições:
+Art. 24.º Consideram-se, para todos os efeitos deste Regulamento, como equivalentes à entrada de contribuições:
 
 a) ...
 
@@ -119,7 +140,7 @@ b) Os impedimentos de trabalho que dêem direito aos subsídios referidos nos ar
 
 ...
 
-###### Art. 48.º - 1. O subsídio diário é igual a 60% do salário médio dos dois primeiros meses que antecedem o segundo mês anterior ao da baixa, não sendo para o efeito de considerar aqueles em que se registem menos de vinte dias de contribuições.
+Art. 48.º - 1. O subsídio diário é igual a 60% do salário médio dos dois primeiros meses que antecedem o segundo mês anterior ao da baixa, não sendo para o efeito de considerar aqueles em que se registem menos de vinte dias de contribuições.
 
 2. Se, no entanto, no período de seis meses que precede o segundo mês anterior ao da baixa não houver pelo menos dois com vinte ou mais dias de retribuições, o salário médio a que se refere o número anterior respeitará aos dois melhores meses daquele período.
 
@@ -129,7 +150,7 @@ b) Os impedimentos de trabalho que dêem direito aos subsídios referidos nos ar
 
 ...
 
-###### Art. 50.º - 1. O subsídio será pago no montante previsto no artigo 48.º pelo prazo máximo de 1460 dias em cada impedimento por doença.
+Art. 50.º - 1. O subsídio será pago no montante previsto no artigo 48.º pelo prazo máximo de 1460 dias em cada impedimento por doença.
 
 2. Se, atingido o limite de tempo fixado no número anterior, se mantiver o impedimento, o beneficiário passará ao regime de protecção na invalidez, nos termos da secção V deste capítulo.
 
@@ -139,16 +160,16 @@ b) Os impedimentos de trabalho que dêem direito aos subsídios referidos nos ar
 
 ...
 
-###### Art. 78.º - 1. ...
+Art. 78.º - 1. ...
 
 2. A pensão poderá também ser solicitada pela caixa de previdência e abono de família em que estiver inscrito o beneficiário, quando este se encontre a receber tratamento nos respectivos serviços médicos, após ter beneficiado, no mesmo impedimento por doença, de 360 dias de concessão de subsídio.
 
-###### Art. 2.º Os artigos 24.º e 48.º, com a nova redacção dada pelo presente diploma, entram em vigor em 1 de Julho de 1973, com ressalva dos artigos 50.º e 78.º, que produzirão efeitos a partir de 1 de Janeiro de 1974.
+Art. 2.º Os artigos 24.º e 48.º, com a nova redacção dada pelo presente diploma, entram em vigor em 1 de Julho de 1973, com ressalva dos artigos 50.º e 78.º, que produzirão efeitos a partir de 1 de Janeiro de 1974.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 4 de Julho de 1973.**
+Promulgado em 4 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

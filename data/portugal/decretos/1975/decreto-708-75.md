@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/708-1975-311000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c973d5fc99834b9ad9ecf4e2132278dde22ff3b83c74f04ffcc1c8577cd8fcc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73ce15ed59bf93e35e1186eede552e2f02db0ff912b329bd15a8e95d4a4caa2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Ministério das Finanças
+- Orçamento Geral do Estado
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:56Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +97,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Defesa Nacional
 
@@ -126,7 +135,7 @@ Ministério do Trabalho
 
 Encargos do ano de 1974, relativos a comunicações, deslocações, gratificações, vencimentos e telefones individuais, a processar pela Secretaria-Geral, Inspecção-Geral do Trabalho em Angra do Heroísmo, Braga, Bragança, Guarda e Vila Franca de Xira, Tribunal do Trabalho de Tomar e Direcção-Geral da Previdência ... 713718$70
 
-###### Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas inscritas nos orçamentos em vigor, as seguintes quantias:
+Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas inscritas nos orçamentos em vigor, as seguintes quantias:
 
 Defesa Nacional
 
@@ -138,7 +147,7 @@ Ministério do Equipamento Social e do Ambiente
 
 Despesas do ano de 1974 respeitantes a deslocações, a satisfazer pela Direcção-Geral dos Serviços Hidráulicos em conta da correspondente dotação inscrita no capítulo 7.º, artigo 157.º ... 30$00
 
-###### Art. 3.º Ficam autorizados a satisfazer as quantias abaixo indicadas, pelas verbas consignadas a «Despesas de anos findos», dos seus actuais orçamentos privativos, os seguintes serviços:
+Art. 3.º Ficam autorizados a satisfazer as quantias abaixo indicadas, pelas verbas consignadas a «Despesas de anos findos», dos seus actuais orçamentos privativos, os seguintes serviços:
 
 Colónia Penitenciária de Alcoentre
 
@@ -154,8 +163,8 @@ Despesas do ano de 1974 relativas a comunicações e remunerações por serviço
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Luís Cordes da Ponte Marques do Carmo - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota - Joaquim Jorge de Pinho Campinos - Ernesto Augusto de Melo Antunes - Álvaro Augusto Veiga de Oliveira - Walter Ruivo Pinto Gomes Rosa - Vítor Manuel Rodrigues Alves - João Pedro Tomás Rosa - Jorge de Carvalho Sá Borges - António de Almeida Santos.
 
-**Promulgado em 9 de Dezembro de 1975.**
+Promulgado em 9 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

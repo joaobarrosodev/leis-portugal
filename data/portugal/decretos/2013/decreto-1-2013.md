@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/1/2013/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-2013-258173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:21:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0a43724e37698b9a25f3593c521f2dd9c8a12004442b7c03ba150c0023c82aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4f3d9feae4979f4d9419c71cb20dc4845df125afbee5de33910c67fc5fd5870
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:21:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Cazaquistão
 - Convenção
-- Portugal
 - Passaporte
+- Portugal
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:21:35Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +99,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 27 de dezembro de 2012. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Miguel Bento Martins Costa Macedo e Silva.
 
-**Assinado em 17 de janeiro de 2013.**
+Assinado em 17 de janeiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de janeiro de 2013.**
+Referendado em 21 de janeiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO CAZAQUISTÃO SOBRE SUPRESSÃO DE VISTOS PARA TITULARES DE PASSAPORTES DIPLOMÁTICOS
 
@@ -309,4 +309,4 @@ For the the Republic Kazakhstan:
 
 Kanat Saudabayev, The Secretary of State Minister of Foreign Affairs of the Republic of Kazakhstan.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/01/02100/0059200597.pdf))](https://files.diariodarepublica.pt/1s/2013/01/02100/0059200597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/01/02100/0059200597.pdf)

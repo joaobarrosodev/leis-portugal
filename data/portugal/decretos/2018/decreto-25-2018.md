@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/23900/0575505758.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/25/2018/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/25-2018-117343944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c953a526d4a23c9241f3fd10a5d5fd976ce671db5b824e8be6e5abddc08efc07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 388be7705d6213eecce4f9352e8591de4b9b2b6444c1722e84b36411a0e15bd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Convenção
 - Cooperação Bilateral
+- Espanha
+- Frota de Pesca
+- Lisboa
+- Pesca
 - Política de Cooperação
 - Portugal
-- Espanha
-- Lisboa
-- Frota de Pesca
-- Pesca
 relationships:
 - type: cites
   target: celex:32003R1954
@@ -90,13 +90,13 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:51Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +115,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 15 de novembro de 2018. - António Luís Santos da Costa - José Luís Pereira Carneiro - Ana Paula Mendes Vitorino.
 
-**Assinado em 30 de novembro de 2018.**
+Assinado em 30 de novembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de dezembro de 2018.**
+Referendado em 6 de dezembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO SOBRE AS CONDIÇÕES DE EXERCÍCIO DA ATIVIDADE DAS FROTAS PORTUGUESA E ESPANHOLA NAS ÁGUAS DE AMBOS OS PAÍSES ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA.
 
@@ -420,3 +420,5 @@ b) No obstante lo dispuesto en el párrafo anterior, los horarios de descarga y 
 ## ANEXO II — Declaración conjunta
 
 En relación con el Acuerdo entre la República Portuguesa y el Reino de España sobre las condiciones para el ejercicio de la actividad de las flotas portuguesa y española en las aguas de los dos países, a República Portuguesa y el Reino de España consideran que ninguna de las disposiciones contenidas en el mismo deberán afectar a las delimitaciones de los espacios marítimos o fluviales entre ambos Estados ni a las posiciones mantenidas por cada uno respecto de las referidas delimitaciones.
+
+111892829

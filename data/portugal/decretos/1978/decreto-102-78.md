@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 217/1978, 1º Suplemento, Série I de 1978-09-20
   number: '217'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1990-(1) a 1990-(109)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf
 entry_into_force_dates: []
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/102-1978-452546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9e94c7fbb0c9abb333f94add07bbdfd3cf87ca7d52703ac3597cbeea620565a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87ef140bb35824aafcf9194bb55888d9673bd9a09bee7d90583767c32bade598
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- TIR
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:170487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401056:por
+  label: "Alterado pelo DEC.76/84.1984.11.27.MNE, DR.IS [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/76-1984-401056
+  date: '1984-11-27'
+- type: amended_by
+  target: pt:dre:179351:por
+  label: "Inserida, depois da nota 0.8.3, a nova nota explicativa 0.8.5, art. 8.º, no Anexo 6 da Convenção aprovada para adesão,\
+    \ pelo presente diploma, pelo AV.DD2733.05.08.1985.MNE, DR.IS [202] de 03.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1985-179351
+  date: '1985-08-05'
+- type: amended_by
+  target: pt:dre:666765:por
+  label: "Tornada pública a entrada em vigor das Emendas à Convenção TIR aprovada para Adesão pelo presente diploma, pelo\
+    \ AV.151/99.1999.09.20.MNE, DR.IS-A [240] de 14/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/151-1999-666765
+  date: '1999-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:34Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +112,15 @@ de 20 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para adesão a Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias Efectuado ao Abrigo das Cadernetas TIR (Convenção TIR - 1975), cujo texto em francês e respectiva tradução em português seguem em anexo.
+Artigo único. É aprovada para adesão a Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias Efectuado ao Abrigo das Cadernetas TIR (Convenção TIR - 1975), cujo texto em francês e respectiva tradução em português seguem em anexo.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Augusto Nunes de Sá Machado.
 
-**Assinado em 11 de Julho de 1978.**
+Assinado em 11 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION DOUANIÈRE RELATIVE AU TRANSPORT INTERNATIONAL DE MARCHANDISES SOUS LE COUVERT DE CARNETS TIR (CONVENTION TIR)
 
@@ -619,7 +640,7 @@ MODÈLE DU CARNET TIR
 
 Le carnet TIR est imprimé en français, à l'exception de la page 1 de la couverture dont les rubriques sont également imprimées en englais; les «Règles relatives à l'utilisation du carnet TIR» sont reproduites en version anglaise à la page 3 de ladite couverture.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 ANNEXE 2
 
@@ -713,7 +734,7 @@ c) Une lanière faite d'une matière appropriée, d'une seule pièce et non exte
 
 Lorsqu'il existe un dispositif spécial (chicane, etc.) empêchant d'avoir accès au compartiment réservé au chargemente sans laisser de traces visibles, un rabat ne sera pas exigé.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 ANNEXE 3
 
@@ -789,7 +810,7 @@ Procédure d'annotation du certificat d'agrément
 
 22 - Lorsque les autorités douanières jugent qu'un véhicule présente des défauts d'importance mineure qui ne créent aucun risque de fraude, la poursuite de l'utilisation de ce véhicule pour le transport de marchandises sous le couvert de carnets TIR pourra être autorisée. Le porteur du certificat d'agrément sera avisé de cette défectuosité et devra faire remettre son véhicule en état dans des délais raisonnables.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 ANNEXE 5
 
@@ -1037,7 +1058,7 @@ b) Matières textiles non extensibles, y compris le tissu plastifié ou caoutcho
 
 3.0.20 - Procédure d'annotation du certificat d'agrément. - Pour annuler une mention relative à des défectuosités lorsque le véhicule aura été remis dans un état satisfaisant, il suffira d'apposer, dans la rubrique nº 11 prévue à cet effet, la mention «Défectuosités réparées», le nom, la signature et le cachet de l'autorité compétente intéressée.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 ANNEXE 7
 
@@ -1143,7 +1164,7 @@ Dispositions transitoires
 
 Seront autorisés jusqu'au 1er janvier 1977 les embouts qui sont conformes au croquis nº 5 joint au présent Règlement, même si leur rivet creux, d'un modèle agréé antérieurement, a une ouverture dont les dimensions sont inférieures à celles qui sont indiquées sur ledit croquis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 DEUXIÈME PARTIE
 
@@ -1213,7 +1234,7 @@ Dispositions particulières à l'agrément à un stade postérieur à la fabrica
 
 17 - L'autorité compétente procédera à l'inspection d'autant de conteneurs qu'elle le jugera nécessaire et délivrera, après avoir constaté que se conteneur ou ces conteneurs satisfont aux conditions techniques indiquées à la première partie, un certificat d'agrément conforme au modèle n.º III reproduit à l'appendice 3 de la présente partie et valable uniquement pour le nombre de conteneurs agréés. Ce certificat, qui portera le numéro ou les numéros d'ordre du constructeur du conteneur ou des conteneurs auxquels il se rapporte, autorisera le demandeur à apposer sur chaque conteneur agréé la plaque d'agrément prévue au paragraphe 5 de la présente partie.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 TROISIÈME PARTIE
 
@@ -1229,7 +1250,7 @@ Le croquis joint à la présente troisième partie donne un exemple de système 
 
 Si deux conteneurs bâchés, agréés pour le transport sous scellement douanier, ont été combinés de telle sorte qu'ils constituent un seul conteneur recouvert d'une seule bâche et satisfaisant aux conditions de transport sous scellement douanier, il ne sera pas éxigé de certificat d'agrément distinct ou de plaque d'agrément distincte pour cet ensemble.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 ANNEXE 8
 
@@ -1709,7 +1730,7 @@ Se, após a entrada em vigor da presente Convenção, o número de Estados que s
 
 ###### ARTIGO 61.º — Pedidos, comunicações e objecções
 
-**O Secretário-Geral da Organização das Nações Unidas comunicará a todas as Partes contratantes e a todos os Estados visados no parágrafo 1 do artigo 52.º da presente Convenção todos os pedidos, comunicações ou objecções feitos nos termos dos artigos 59.º e 60.º acima, assim como a data da entrada em vigor de uma emenda.**
+O Secretário-Geral da Organização das Nações Unidas comunicará a todas as Partes contratantes e a todos os Estados visados no parágrafo 1 do artigo 52.º da presente Convenção todos os pedidos, comunicações ou objecções feitos nos termos dos artigos 59.º e 60.º acima, assim como a data da entrada em vigor de uma emenda.
 
 ###### ARTIGO 62.º — Conferência de revisão
 
@@ -1747,7 +1768,7 @@ Feito em Genebra, aos 14 de Novembro de 1975, num único exemplar, em línguas i
 
 A caderneta TIR é impressa em francês, com excepção da página 1 da capa, cujas rubricas são igualmente impressas em inglês; as «Regras relativas à utilização da caderneta TIR» são reproduzidas em inglês, na página 3 da referida capa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 ## ANEXO 2
 
@@ -1835,7 +1856,7 @@ c) Por uma correia, de matéria apropriada, não extensível, feita de uma só p
 
 Não se exigirá a aba se for aplicado um dispositivo especial (chicana, por exemplo) que impeça o acesso ao interior do compartimento reservado à carga sem ficarem traços visíveis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 ## ANEXO 3
 
@@ -1913,7 +1934,7 @@ Anotação do certificado de aprovação
 
 ## ANEXO 4 — MODELO DO CERTIFICADO DE APROVAÇÃO DE UM VEÍCULO RODOVIÁRIO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 ## ANEXO 5 — PLACAS TIR
 
@@ -2157,9 +2178,11 @@ b) Matérias têxteis não extensíveis, compreendendo os tecidos com borracha o
 
 3.0.20 - Processo de anotação do certificado de aprovação. - Quando o veículo for submetido a uma reparação considerada satisfatória, para anular uma menção relativa a defeitos bastará apor na rubrica 11, prevista para este fim, a menção «Defeitos reparados», seguida do nome, assinatura e carimbo da autoridade competente interessada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
-## ANEXO 7 — ANEXO RELATIVO À APROVAÇÃO DE CONTENTORES
+## ANEXO 7
+
+## ANEXO RELATIVO À APROVAÇÃO DE CONTENTORES
 
 1.ª PARTE
 
@@ -2255,7 +2278,7 @@ Não se exigirá a aba se for aplicado um dispositivo especial (chicana, por exe
 
 Até 1 de Janeiro de 1977 serão autorizadas as ponteiras que se apresentem em conformidade com o desenho n.º 5 junto ao presente Regulamento, cujo rebite oco, de um modelo aprovado anteriormente, apresente, porém, um orifício de dimensões inferiores às indicadas no referido desenho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 2.ª PARTE
 
@@ -2325,7 +2348,7 @@ Disposições especiais relativas à aprovação num estádio posterior ao fabri
 
 17 - A autoridade competente inspeccionará os contentores que considerar necessário e, depois de ter constatado que o contentor ou os contentores obedecem às condições técnicas indicadas na 1.ª parte, emitirá um certificado de aprovação, conforme o modelo n.º III reproduzido no apêndice 3 desta parte, válido unicamente para o número de contentores aprovados. Este certificado mencionará o número ou os números de ordem do construtor do contentor ou dos contentores a que diz respeito e autorizará o requerente a apor em cada contentor aprovado a placa de aprovação prevista no parágrafo 5 desta parte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 3.ª PARTE
 
@@ -2341,7 +2364,7 @@ O desenho junto a esta 3.ª parte dá um exemplo de um sistema para a fixação 
 
 Se dois contentores com toldo, aprovados para o transporte sob regime de selagem aduaneira, forem unidos de tal modo que passem a constituir um só contentor, coberto pelo mesmo toldo, que obedeça às condições prescritas para o transporte sob regime de selagem aduaneira, não se exigirá um certificado de aprovação ou uma placa de aprovação distintos para o conjunto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21701/00010109.pdf)
 
 ## ANEXO 8 — COMPOSIÇÃO E REGULAMENTO INTERNO DO COMITÉ DE GESTÃO
 
@@ -2353,7 +2376,7 @@ ii) O Comité pode decidir que as administrações competentes dos Estados visad
 
 ###### ARTIGO 2.º
 
-**O Secretário-Geral da Organização das Nações Unidas fornecerá os serviços de secretaria ao Comité.**
+O Secretário-Geral da Organização das Nações Unidas fornecerá os serviços de secretaria ao Comité.
 
 ###### ARTIGO 3.º
 
@@ -2361,7 +2384,7 @@ O Comité elegerá, na sua primeira sessão de cada ano, um presidente e um vice
 
 ###### ARTIGO 4.º
 
-**O Secretário-Geral da Organização das Nações Unidas convocará o Comité todos os anos, sob os auspícios da Comissão Económica para a Europa, e também a pedido das administrações competentes de, pelo menos, cinco Estados que sejam Partes contratantes.**
+O Secretário-Geral da Organização das Nações Unidas convocará o Comité todos os anos, sob os auspícios da Comissão Económica para a Europa, e também a pedido das administrações competentes de, pelo menos, cinco Estados que sejam Partes contratantes.
 
 ###### ARTIGO 5.º
 

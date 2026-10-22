@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/135-1981-562588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1c517a6f10605a925e1c30ad2396e0f05d266d0bef6734be467d5b396a4538a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbcc0a43d1c5dabbdb4d1c533ae7f5b67012b678c51df75a3b7c3bd5104375a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Argentina
+- Convenção
+- Cooperação Científica
+- Cooperação Técnica
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:08Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 28 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º do Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Científica e Técnica entre a República Portuguesa e a República Argentina, assinado em Buenos Aires em 26 de Junho de 1981, cujo texto, em português e castelhano, acompanha o presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Científica e Técnica entre a República Portuguesa e a República Argentina, assinado em Buenos Aires em 26 de Junho de 1981, cujo texto, em português e castelhano, acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 14 de Outubro de 1981.**
+Assinado em 14 de Outubro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO DE COOPERAÇÃO CIENTÍFICA E TÉCNICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ARGENTINA
 
@@ -106,11 +111,11 @@ Considerando o seu comum interesse em promover a cooperação científica e téc
 
 acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 A cooperação prevista no presente Acordo terá por objectivos promover o progresso científico e técnico e contribuir eficazmente para o desenvolvimento económico e social de ambos os países, mediante a aplicação dos seus conhecimentos e capacidades científicas e tecnológicas nas áreas e sectores de interesse e benefício mútuo.
 
-ARTIGO II
+###### ARTIGO II
 
 Em conformidade com o assinalado no artigo I, a cooperação terá por modalidade principal de realização a execução conjunta e coordenada de programas e projectos destinados a promover:
 
@@ -118,7 +123,7 @@ a) O progresso da investigação científica e do desenvolvimento experimental e
 
 b) A transferência dos conhecimentos, tecnologias e experiências de cada uma das Partes para a outra, mediante a prestação de serviços de consultoria.
 
-ARTIGO III
+###### ARTIGO III
 
 As acções de cooperação poderão revestir qualquer forma sobre a qual ambas as Partes Contratantes estejam de acordo, nomeadamente:
 
@@ -130,7 +135,7 @@ c) Utilização, em projectos comuns, de instalações e equipamentos científic
 
 d) Concessão de facilidades para a participação de cientistas e tecnólogos de cada uma das Partes em reuniões de ciência e tecnologia organizadas pela outra.
 
-ARTIGO IV
+###### ARTIGO IV
 
 A realização de programas e projectos oficiais de cooperação compreendidos no âmbito deste Acordo e os pormenores complementares serão objecto de acordos específicos, concertados pela via diplomática, os quais, por sua vez:
 
@@ -142,23 +147,23 @@ c) Determinarão o alcance da difusão da informação relacionada com os progra
 
 d) Preverão o modo e o montante da contribuição governamental e privada para os programas e projectos acordados.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes, tendo em consideração as respectivas legislações, fomentarão o intercâmbio e a utilização de tecnologia patenteada e não patenteada de propriedade de pessoas físicas ou jurídicas de cada uma delas, com domicílio nos seus respectivos territórios.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Partes Contratantes fomentarão, em conformidade com as respectivas legislações, a participação dos organismos e instituições privados de cada uma das Partes nos programas e projectos de cooperação previstos no presente Acordo. Essa participação será concretizada no âmbito dos acordos específicos mencionados no artigo IV.
 
-ARTIGO VII
+###### ARTIGO VII
 
 No que respeita ao intercâmbio de pessoal científico e técnico previsto no artigo III, os custos da viagem de um país para o outro serão suportados pela Parte que envia; a Parte que recebe tomará a seu cargo as despesas de alojamento, manutenção, assistência médica e transporte local, a não ser que os acordos específicos previstos no artigo IV estabeleçam outro procedimento.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Quando a cooperação for de carácter oficial, os rendimentos pessoais dos especialistas e familiares imediatos e os bens, equipamentos e materiais que sejam importados e ou exportados para o cumprimento deste Acordo e dos acordos previstos no artigo IV estarão isentos do pagamento de direitos de importação e ou exportação, taxas, impostos e demais tributos devidos, em conformidade com a legislação nacional do Estado onde as acções de cooperação forem efectivadas e sob condição de reciprocidade.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - É criada uma Comissão Mista Científica e Tecnológica, que terá por função promover, acompanhar e avaliar a aplicação do presente Acordo e dos acordos específicos previstos no artigo IV.
 
@@ -168,19 +173,19 @@ ARTIGO IX
 
 4 - A Comissão Mista fará as recomendações que entenda apropriadas e poderá sugerir a designação de grupos de peritos para o estudo de questões particulares. Estes grupos poderão ser convocados, por via diplomática, fora das reuniões da Comissão Mista, a pedido de uma das Partes e de comum acordo entre ambas.
 
-ARTIGO X
+###### ARTIGO X
 
 As Partes Contratantes, quando o entendam apropriado, e de comum acordo, podem convidar organizações e instituições de terceiros países ou organismos internacionais a participar em programas e projectos de cooperação previstos no artigo IV.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Ambas as Partes Contratantes designarão nos seus respectivos países o organismo encarregado de coodenar as acções de carácter governamental que internamente se realizem para o cumprimento do presente Acordo.
 
-ARTIGO XII
+###### ARTIGO XII
 
 O presente Acordo entrará em vigor após a notificação recíproca do cumprimento das formalidades constitucionais de ambos os países, acordando as Partes Contratantes na sua aplicação provisória a partir da data da assinatura.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 O presente Acordo será válido por tempo indeterminado, podendo ser denunciado por qualquer das Partes Contratantes.
 
@@ -198,4 +203,4 @@ Pelo Governo da República Argentina:
 
 (Assinatura ilegível.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28502852.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28502852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28502852.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/15/1993/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-1993-275054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf90e347dfc806be635bcfb784cc9cdea7db3b25766305b2fc304d3f992165f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84dbe36f569f8d03ef9cba44c785c11c334f6efb6c32d3a5d5d6f39fe7167a62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Obra de Arte
 - Convenção
-- Portugal
-- Património Cultural
 - Índia
+- Obra de Arte
+- Património Cultural
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:16Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 11 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo, por troca de notas, entre a República Portuguesa e a República da Índia Relativo à Restituição de Objectos e Valores, concluído em Nova Deli a 6 de Abril de 1992, cuja versão autêntica em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo, por troca de notas, entre a República Portuguesa e a República da Índia Relativo à Restituição de Objectos e Valores, concluído em Nova Deli a 6 de Abril de 1992, cuja versão autêntica em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 8 de Abril de 1993. - Aníbal António Cavaco Silva - José Manuel Durão Barroso.
 
-**Assinado em 26 de Abril de 1993.**
+Assinado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Embaixada de Portugal, Nova Deli.
 

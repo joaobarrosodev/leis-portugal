@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/2010/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-2010-335463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0be748715422f8e6dc1bac79f1f21ddc317d6b41699090104cfd3eedc65acb1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b1a0fa1bc07008e6644c4ae85c8c88976dcd1838b33ebc4db22a6ecd1c0978f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
-- Convenção
-- Portugal
-- Qatar
-- Lisboa
 - Apoio ao Investimento
+- Convenção
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
+- Lisboa
+- Portugal
+- Protecção do Investimento
+- Qatar
 relationships: []
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:29Z'
   warnings: []
   errors: []
 ---
@@ -111,15 +111,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - Manuel Pedro Cunha da Silva Pereira - José António Fonseca Vieira da Silva.
 
-**Assinado em 31 de Maio de 2010.**
+Assinado em 31 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de Junho de 2010.**
+Referendado em 2 de Junho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO ESTADO DO QATAR SOBRE A PROMOÇÃO E A PROTECÇÃO RECÍPROCA DE INVESTIMENTOS
 
@@ -331,7 +331,7 @@ Pelo Governo do Estado do Qatar:
 
 Fahad Bin Jassim Al Thani, Ministro do Comércio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11200/0198101990.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11200/0198101990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11200/0198101990.pdf)
 
 AGREEMENT BETWEEN THE GOVERNMENT OF THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE STATE OF QATAR ON THE RECIPROCAL PROMOTION AND PROTECTION OF INVESTMENTS.
 

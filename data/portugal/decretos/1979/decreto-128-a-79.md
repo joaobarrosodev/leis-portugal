@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 271/1979, 1º Suplemento, Série I de 1979-11-23
   number: '271'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3026-(1) a 3026-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/27101/00010002.pdf
 entry_into_force_dates: []
@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/128-a-1979-196533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd5bdbc7a82f02d98244b212f47260a93ba7904acb3923322651335800965dbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e737b49957708b79d9c9af24650af0f073045d20da982e3437e4d6038b406ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comunicação Social
+- Criação de Serviços
+- Faculdade de Ciências Sociais e Humanas
+- Licenciatura
+- Universidade NOVA de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:233695:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:57Z'
   warnings: []
   errors: []
 ---
@@ -109,14 +118,14 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa o curso de licenciatura em Comunicação Social.
+Artigo 1.º É criado na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa o curso de licenciatura em Comunicação Social.
 
-###### Art. 2.º Mediante portaria do Ministro da Educação serão regulamentadas a organização curricular e as condições de funcionamento do curso ora criado e de outros cursos existentes no País no domínio das ciências sociais.
+Art. 2.º Mediante portaria do Ministro da Educação serão regulamentadas a organização curricular e as condições de funcionamento do curso ora criado e de outros cursos existentes no País no domínio das ciências sociais.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Luís Eugénio Caldas Veiga da Cunha - Alberto José dos Santos Ramalheira.
 
-**Promulgado em 9 de Novembro de 1979.**
+Promulgado em 9 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

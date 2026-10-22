@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/103-1982-375853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b5da62ec91a148b939849a8ce4379abd8ae38ff95ddd3a6a5ba3caece8ddd22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 676fc2b5e1e9a82b53d926e69b72de2c87a887ba520b50dd5c3a564c23b17641
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- China
+- Convenção
+- Cooperação Científica
+- Cooperação Cultural
+- Cooperação Técnica
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:54Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 20 de Setembro
 
 Usando da faculdade conferida pela alínea c) do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Cultural, Científica e Técnica entre o Governo da República Portuguesa e o Governo da República Popular da China, feito em Beijing em 8 de Abril de 1982, cujos textos em português e inglês vão anexos ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Cultural, Científica e Técnica entre o Governo da República Portuguesa e o Governo da República Popular da China, feito em Beijing em 8 de Abril de 1982, cujos textos em português e inglês vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 24 de Agosto de 1982.**
+Assinado em 24 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Agreement between the Government of the Portuguese Republic and the Government of the People's Republic of China on Cooperation in the Fields of Culture, Science and Technology.
 
@@ -215,7 +221,7 @@ Desejosos de reforçar, no mútuo interesse, as relações amigáveis entre os 2
 
 decidiram concluir o seguinte Acordo:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Signatárias desenvolverão as suas relações nos domínios da educação e da investigação científica através de:
 
@@ -227,11 +233,11 @@ c) Concessão recíproca de bolsas de estudo a estudantes pós-graduados e inves
 
 d) Fomento da troca de teses académicas, compêndios, livros e outros materiais entre as instituições de educação e de investigação científica dos 2 países.
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes Signatárias deverão encorajar a cooperação entre as instituições de investigação científica dos 2 países e estabelecer contactos entre os seus docentes universitários e investigadores, tendo em vista a organização de seminários, colóquios, congressos, cursos, estágios e programas conjuntos de investigação.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Signatárias desenvolverão a cooperação mútua nos domínios da história e da geografia através de:
 
@@ -241,7 +247,7 @@ b) Prossecução, na medida do possível, de estudos da história da outra Parte
 
 c) Possível cooperação recíproca entre investigadores.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Signatárias procurarão desenvolver no domínio da cultura o conhecimento da literatura, da música, do cinema, do teatro, das artes plásticas, da etnografia, do folclore e do património cultural dos respectivos povos através de:
 
@@ -255,35 +261,35 @@ d) Tradução e publicação de obras literárias, artísticas e culturais;
 
 e) Troca de livros, publicações e material informativo entre museus, bibliotecas e outras instituições culturais dos dois países.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Signatárias facilitarão a divulgação de livros, filmes, gravações e outros meios áudio-visuais destinados a melhorar o conhecimento mútuo dos 2 povos.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Partes Signatárias comprometem-se a adoptar as medidas necessárias para impedir e reprimir o tráfego ilegal de obras de arte, documentos e outros objectos de valor histórico.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Cada Parte concederá bolsas de estudo e de especialização a fim de permitir que os cidadãos da outra Parte efectuem estudos, trabalhos e investigações no seu país ou aperfeiçoem a sua formação educacional, literário-artística ou técnico-científica.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As Partes Signatárias facilitarão a cooperação entre os organismos de imprensa, rádio e televisão dos 2 países e encorajarão visitas mútuas de jornalistas e profissionais da rádio e TV.
 
-ARTIGO IX
+###### ARTIGO IX
 
 As Partes Signatárias encorajarão o intercâmbio entre organizações juvenis e desportivas.
 
-ARTIGO X
+###### ARTIGO X
 
 Cada Parte Signatária facilitará a participação de representantes da outra Parte em cursos, festivais, competições, conferências e simpósios de carácter internacional, organizados no seu país, nos domínios abrangidos pelo presente Acordo.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As Partes Signatárias encorajarão e facilitarão a cooperação e o intercâmbio nos domínios da saúde pública e da medicina entre as competentes instituições dos 2 países.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Para o cumprimento dos objectivos do presente Acordo, será criada pelas Partes Signatárias uma comissão mista, constituída por igual número de representantes dos 2 Governos, que se reunirá de 3 em 3 anos, por acordo das Partes Signatárias ou a pedido de uma delas, alternadamente em Lisboa e Beijing.
 
@@ -299,11 +305,11 @@ d) Recomendar às Partes temas de interesse para qualquer delas no âmbito do Ac
 
 e) Aconselhar, de um modo geral, a cada um dos Governos as medidas a adoptar com vista a uma melhor aplicação do Acordo.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Este Acordo será válido por um período de 5 anos a partir da sua entrada em vigor e considerar-se-á automaticamente renovado por períodos sucessivos de 5 anos se nenhuma das Partes Signatárias o denunciar, através dos canais diplomáticos, pelo menos 6 meses antes da data em que expira.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 Este Acordo será aprovado segundo os procedimentos legais que vigoram em cada um dos países, e entrará em vigor a partir da data em que se proceda às respectivas notificações.
 

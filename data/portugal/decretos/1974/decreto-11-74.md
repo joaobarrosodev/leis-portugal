@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-1974-408315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7c4ba5558ee50bdb3603eb1251e95a77ee66d0b131d9fdfce8324c3da5c0540
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 419c887a1d5632a81a52be125fd6419f1b55c2f5271be28baba463a2471bdb36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,26 @@ relationships:
   target: pt:dre:314444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:305808:por
+  label: Alterado o art. 1.º pelo(a) Decreto n.º 412-F/75 - Diário do Governo n.º 181/1975, 3º Suplemento, Série I de 1975-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/412-f-1975-305808
+  date: '1975-08-07'
+- type: amended_by
+  target: pt:dre:314444:por
+  label: Alterado o art. 1.º pelo(a) Decreto n.º 418/75 - Diário do Governo n.º 183/1975, Série I de 1975-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/418-1975-314444
+  date: '1975-08-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:44Z'
   warnings: []
   errors: []
 ---
@@ -101,20 +111,20 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É autorizado o Governo de Macau a segurar ao Banco Nacional Ultramarino e ao Banco de Fomento Nacional, ou a qualquer deles, os riscos emergentes das garantias bancárias que vierem a ser prestadas e dos créditos documentários que vierem a ser abertos até ao montante total em capital de 4000 milhões de ienes, acrescidos dos juros e demais encargos que forem devidos, e, ainda, a assumir a responsabilidade por diferenças de câmbio que porventura se verificarem, tudo em consequência do contrato de adjudicação da central termoeléctrica de Coloane, a realizar, em regime de pagamentos diferidos, entre a Companhia de Electricidade de Macau, S. A. R. L. e a empresa japonesa Mitsubishi Corporation.
+Artigo 1.º É autorizado o Governo de Macau a segurar ao Banco Nacional Ultramarino e ao Banco de Fomento Nacional, ou a qualquer deles, os riscos emergentes das garantias bancárias que vierem a ser prestadas e dos créditos documentários que vierem a ser abertos até ao montante total em capital de 4000 milhões de ienes, acrescidos dos juros e demais encargos que forem devidos, e, ainda, a assumir a responsabilidade por diferenças de câmbio que porventura se verificarem, tudo em consequência do contrato de adjudicação da central termoeléctrica de Coloane, a realizar, em regime de pagamentos diferidos, entre a Companhia de Electricidade de Macau, S. A. R. L. e a empresa japonesa Mitsubishi Corporation.
 
-###### Art. 2.º - 1. As operações financeiras a realizar pelos dois Bancos ou por qualquer deles, com contragarantia do Governo de Macau, serão as estipuladas no contrato a firmar entre a Companhia de Electricidade de Macau, S. A. R. L., e a Mitsubishi Corporation, respeitante à adjudicação a que se alude no artigo precedente.
+Art. 2.º - 1. As operações financeiras a realizar pelos dois Bancos ou por qualquer deles, com contragarantia do Governo de Macau, serão as estipuladas no contrato a firmar entre a Companhia de Electricidade de Macau, S. A. R. L., e a Mitsubishi Corporation, respeitante à adjudicação a que se alude no artigo precedente.
 
 2. As condições do contrato a celebrar nos termos do número anterior ficam sujeitas à aprovação do Governador de Macau.
 
-###### Art. 3.º A província de Macau gozará de privilégio creditório sobre a Companhia de Electricidade de Macau, S. A. R. L., nos termos dos artigos 735.º, n.º 2, 747.º, n.º 1, alínea a), e 748.º, n.º 1, alínea a), do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
+Art. 3.º A província de Macau gozará de privilégio creditório sobre a Companhia de Electricidade de Macau, S. A. R. L., nos termos dos artigos 735.º, n.º 2, 747.º, n.º 1, alínea a), e 748.º, n.º 1, alínea a), do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 9 de Janeiro de 1974.**
+Promulgado em 9 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Macau. - B. Rebelo de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/2013/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2013-260658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04ecf0c3e29fc2845a3edf8485384fa8cbaf8e7a55f9bf1b2cc4466730a9a9d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55a9a2c2c21c1af43c605df826a372be1d846d625197fe6fa0caf15d592b0067
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,27 @@ subjects:
 - BENS Classificados
 - Imóvel Classificado
 - Património Histórico
-- Protecção do Património
 - Porto
+- Protecção do Património
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:00Z'
   warnings: []
   errors: []
 ---
@@ -118,14 +122,14 @@ Ao abrigo do disposto no n.º 1 do artigo 28.º da [Lei n.º 107/2001](https://d
 
 Visto e aprovado em Conselho de Ministros de 27 de março de 2013. - Pedro Passos Coelho.
 
-**Assinado em 23 de abril de 2013.**
+Assinado em 23 de abril de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de abril de 2013.**
+Referendado em 26 de abril de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08500/0269902699.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08500/0269902699.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08500/0269902699.pdf)

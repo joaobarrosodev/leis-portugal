@@ -48,40 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/137-1977-277131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd7599b035b41abe3caba4cf18667a803f0fcf156aed5786bf6de2f46668b1d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe6854d25d02b49cc85a51cc58d0a0c55595de6b983b4fa4c5969e3ad5eab703
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- CEE
+- Circulação de Mercadorias
+- Convenção
+- Cooperação Financeira
+- Direitos Aduaneiros
+- Pauta Aduaneira
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERAÇÕES INTRODUZIDAS PELO PROTOCOLO TRANSITÓRIO AO ACORDO ENTRE A REPÚBLICA PORTUGUESA E A COMUNIDADE ECONÓMICA\
+    \ EUROPEIA, APROVADO PELO DECRETO 140/82, DE 821231, PUBLICADO NO DR.IS, 301, SUPL, DE 821231: DERROGADAS AS DISPOSIÇÕES\
+    \ DO PRESENTE PROTOCOLO, PARA CERTOS PRODUTOS DA LISTA A E B, DO ANEXO D E DO ANEXO I. DERROGADO O ARTIGO 6. DERROGADO\
+    \ O DISPOSTO NO PRESENTE PROTOCOLO RELATIVAMENTE AO DESARMAMENTO PAUTAL. DERROGADO O DISPOSTO NO PRESENTE PROTOCOLO RELATIVAMENTE\
+    \ AOS DIREITOS ADUANEIROS PARA CERTOS PRODUTOS. PRORROGADO, ATE 31 DE DEZEMBRO DE 1985, O ARTIGO 7, PELO PROTOCOLO DE\
+    \ PRE-ADESAO AO ACORDO ENTRE A REPÚBLICA PORTUGUESA E A COMUNIDADE ECONÓMICA EUROPEIA APROVADO PELO DECRETO 52/85, DE\
+    \ 13 DE DEZEMBRO, PUBLICADO NO DR.IS, 287, DE 851213.\0O, PUBLICADO NO DR.IS, 287, DE 851213.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:311456:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311456:por
+  label: "Tornado à República Helénica parte contratante do Protocolo Adicional ao Acordo entre a República Portuguesa e a\
+    \ Comunidade Económica Europeia, aprovado para ratificação pelo presente diploma, pelo DEC.19/83.1983.03.01.MNE, DR.IS\
+    \ [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/19-1983-311456
+  date: '1983-03-01'
+- type: cites
+  target: pt:dre:286511:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
+  article_count: 34
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:50Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +121,17 @@ de 21 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovados, para ratificação, o Protocolo Adicional ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia de 22 de Julho de 1972 e, nos termos da [Lei n.º 66/77](https://diariodarepublica.pt/dr/detalhe/lei/66-1977-286511), de 2 de Setembro, o Protocolo Financeiro entre a República Portuguesa e a Comunidade Económica Europeia, celebrados em Bruxelas em 20 de Setembro de 1976, cujos textos seguem em anexos ao presente decreto.
+Artigo 1.º São aprovados, para ratificação, o Protocolo Adicional ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia de 22 de Julho de 1972 e, nos termos da [Lei n.º 66/77](https://diariodarepublica.pt/dr/detalhe/lei/66-1977-286511), de 2 de Setembro, o Protocolo Financeiro entre a República Portuguesa e a Comunidade Económica Europeia, celebrados em Bruxelas em 20 de Setembro de 1976, cujos textos seguem em anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - José Manuel de Medeiros Ferreira.
 
-**Assinado em 15 de Outubro de 1977.**
+Assinado em 15 de Outubro de 1977.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 PROTOCOLO ADICIONAL AO ACORDO ENTRE A REPÚBLICA PORTUGUESA E A COMUNIDADE ECONÓMICA EUROPEIA
 
-**O Presidente da República Portuguesa, por um lado, S. M. o Rei dos Belgas, S. M. a Rainha da Dinamarca, o Presidente da República Federal da Alemanha, o Presidente da República Francesa, o Presidente da Irlanda, o Presidente da República Italiana, S. A. R. o Grão-Duque do Luxemburgo, S. M. a Rainha dos Países Baixos, S. M. a Rainha do Reino Unido da Grã-Bretanha e da Irlanda do Norte e o Conselho das Comunidades Europeias, por outro lado,**
+O Presidente da República Portuguesa, por um lado, S. M. o Rei dos Belgas, S. M. a Rainha da Dinamarca, o Presidente da República Federal da Alemanha, o Presidente da República Francesa, o Presidente da Irlanda, o Presidente da República Italiana, S. A. R. o Grão-Duque do Luxemburgo, S. M. a Rainha dos Países Baixos, S. M. a Rainha do Reino Unido da Grã-Bretanha e da Irlanda do Norte e o Conselho das Comunidades Europeias, por outro lado,
 
 Desejando manifestar a vontade mútua de alargar e de reforçar os laços que os unem, na base do Acordo entre a República Portuguesa e a Comunidade Económica Europeia, e de favorecer assim a aproximação entre Portugal e a Comunidade,
 
@@ -110,7 +139,7 @@ Resolvidos a estabelecer uma ampla cooperação que contribuirá para o desenvol
 
 Decidiram concluir o presente Protocolo e designaram para o efeito como plenipotenciários:
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 José Medeiros Ferreira, Ministro dos Negócios Estrangeiros;
 
@@ -120,21 +149,21 @@ Renaat van Elslande, Ministro dos Negócios Estrangeiros;
 
 S. M. a Rainha da Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Hans-Dietrich Genscher, Ministro Federal dos Negócios Estrangeiros;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Louis de Guiringaud, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Garret Fitzgerald, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Arnaldo Forlani, Ministro dos Negócios Estrangeiros;
 
@@ -172,13 +201,13 @@ Em derrogação do disposto no artigo 3.º do Acordo, os produtos classificados 
 
 Os montantes para o ano de 1976 dos plafonds aos quais, em conformidade com o artigo 2.º do Protocolo n.º 1 do Acordo, são submetidas as importações, na Comunidade, dos produtos enumerados no quadro seguinte, originários de Portugal, são elevados para:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 ###### Artigo 4.º
 
 1. Para os produtos enumerados no quadro seguinte, originários de Portugal, a Comunidade na sua composição original e a Irlanda abrem, durante o período compreendido entre 1 de Janeiro de 1976 e 31 de Dezembro de 1983, contingentes comunitários anuais isentos de direitos cujos montantes são os a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 2. Se a data de entrada em vigor do Protocolo não coincidir com o início do ano civil, os contingentes indicados no parágrafo 1 são abertos pro rata temporis.
 
@@ -188,11 +217,11 @@ Os montantes para o ano de 1976 dos plafonds aos quais, em conformidade com o ar
 
 Reino Unido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 Dinamarca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 4. O anexo A do Protocolo n.º 1 é suprimido.
 
@@ -202,13 +231,13 @@ Dinamarca
 
 Em derrogação do disposto no artigo 3.º do Acordo, no artigo 4.º do Protocolo n.º 1 e no parágrafo 5 do artigo 2.º do Protocolo n.º 2, os direitos de importação aplicados em Portugal aos produtos que figuram no anexo I, originários da Comunidade, são eliminados progressivamente nas proporções e segundo o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 ###### Artigo 6.º
 
 Em derrogação do disposto nos artigos 3.º e 5.º do Acordo e no artigo 4.º do Protocolo n.º 1, Portugal pode aplicar um direito que não exceda 20% ad valorem à importação dos produtos que figuram no anexo II, originários da Comunidade. Os direitos de importação assim introduzidos são eliminados progressivamente em relação à Comunidade, nas proporções e segundo o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 ###### Artigo 7.º
 
@@ -220,7 +249,7 @@ B - Produtos agrícolas
 
 Para os produtos a seguir enumerados, originários de Portugal, os direitos de importação na Comunidade são reduzidos nas proporções indicadas para cada um deles e segundo as condições previstas no artigo 6.º do Protocolo n.º 8 do Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 ###### Artigo 9.º
 
@@ -230,7 +259,7 @@ O artigo 4.º do Protocolo n.º 8 do Acordo é substituído pelo texto seguinte:
 
 Para os produtos a seguir enumerados, originários de Portugal, os direitos de importação na Comunidade são reduzidos nas proporções e dentro dos limites dos contingentes pautais comunitários anuais indicados para cada um deles, segundo as condições previstas no artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 ## TÍTULO II — Cooperação no domínio social
 
@@ -320,25 +349,25 @@ Pelo Presidente da República Portuguesa:
 
 José Medeiros Ferreira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 ## ANEXO I — Produtos a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 ## ANEXO II — Produtos a que se refere o artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 PROTOCOLO FINANCEIRO ENTRE A REPÚBLICA PORTUGUESA E A COMUNIDADE ECONÓMICA EUROPEIA
 
-**O Presidente da República Portuguesa, por um lado, S. M. o Rei dos Belgas, S. M. a Rainha da Dinamarca, o Presidente da República Federal da Alemanha, o Presidente da República Francesa, o Presidente da Irlanda, o Presidente da República Italiana, S. A. R. o Grão-Duque do Luxemburgo, S. M. a Rainha dos Países Baixos, S. M. a Rainha do Reino Unido da Grã-Bretanha e da Irlanda do Norte e o Conselho das Comunidades Europeias, por outro lado,**
+O Presidente da República Portuguesa, por um lado, S. M. o Rei dos Belgas, S. M. a Rainha da Dinamarca, o Presidente da República Federal da Alemanha, o Presidente da República Francesa, o Presidente da Irlanda, o Presidente da República Italiana, S. A. R. o Grão-Duque do Luxemburgo, S. M. a Rainha dos Países Baixos, S. M. a Rainha do Reino Unido da Grã-Bretanha e da Irlanda do Norte e o Conselho das Comunidades Europeias, por outro lado,
 
 Empenhados em prosseguir a acção iniciada pela Comunidade visando pôr à disposição de Portugal uma ajuda excepcional de urgência, com o fim de favorecer o desenvolvimento acelerado da economia portuguesa no quadro da cooperação entre Portugal e a Comunidade Económica Europeia,
 
 Designaram como plenipotenciários:
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 José Medeiros Ferreira, Ministro dos Negógios Estrangeiros;
 
@@ -348,21 +377,21 @@ Renaat van Elslande, Ministro dos Negócios Estrangeiros;
 
 S. M. a Rainha da Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Hans-Dietrich Genscher, Ministro Federal dos Negócios Estrangeiros;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Louis de Guiringaud, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Garret Fitzgerald, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Arnaldo Forlani, Ministro dos Negócios Estrangeiros;
 
@@ -468,7 +497,7 @@ Pelo Presidente da República Portuguesa:
 
 José Medeiros Ferreira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 ACTA FINAL
 
@@ -510,7 +539,7 @@ Pelo Presidente da República Portuguesa:
 
 José Medeiros Ferreira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 Declaração comum relativa à noção de «Partes Contratantes»
 
@@ -558,13 +587,13 @@ Sr. Presidente,
 
 Durante as negociações que conduziram à conclusão de um Protocolo Adicional ao Acordo entre a Comunidade Económica Europeia e a República Portuguesa, os volumes dos plafonds para os produtos têxteis e do vestuário, para o ano de 1976, foram fixados aos níveis indicados no artigo 3.º do Protocolo Adicional. Além disso, durante o ano de 1976, Portugal tomará as medidas necessárias a fim de que as suas exportações, com destino ao Reino Unido, dos produtos seguidamente indicados não ultrapassem os seguintes níveis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 Muito agradeço a V. Ex.ª se digne comunicar-me o acordo do Governo Português sobre o que precede.
 
 Queira aceitar, Sr. Presidente, a expressão da minha mais alta consideração.
 
-**O Presidente da Delegação da Comunidade.**
+O Presidente da Delegação da Comunidade.
 
 Carta n.º 2
 
@@ -574,7 +603,7 @@ Por carta de hoje, dignou-se V. Ex.ª comunicar-me o seguinte:
 
 Durante as negociações que conduziram à conclusão de um Protocolo Adicional ao Acordo entre a Comunidade Económica Europeia e a República Portuguesa, os volumes dos plafonds para os produtos têxteis e do vestuário, para o ano de 1976, foram fixados aos níveis indicados no artigo 3.º do Protocolo Adicional. Além disso, durante o ano de 1976, Portugal tomará as medidas necessárias a fim de que as suas exportações, com destino ao Reino Unido, dos produtos seguidamente indicados não ultrapassem os seguintes níveis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf))](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/24400/25302549.pdf)
 
 Muito agradeço a V. Ex.ª se digne comunicar-me o acordo do Governo Português sobre o que precede.
 
@@ -582,7 +611,7 @@ Tenho a honra de comunicar a V. Ex.ª o acordo do meu Governo sobre o que preced
 
 Queira aceitar, Sr. Presidente, a expressão da minha mais alta consideração.
 
-**O Presidente da Delegação Portuguesa.**
+O Presidente da Delegação Portuguesa.
 
 Troca de cartas relativa ao artigo 6.º do Protocolo Adicional
 
@@ -598,7 +627,7 @@ Muito agradeço a V. Ex.ª se digne comunicar-me o acordo do Governo Português 
 
 Queira aceitar, Sr. Presidente, a expressão da minha mais alta consideração.
 
-**O Presidente da Delegação da Comunidade.**
+O Presidente da Delegação da Comunidade.
 
 Carta n.º 2
 
@@ -616,7 +645,7 @@ Tenho a honra de comunicar a V. Ex.ª o acordo do meu Governo sobre o que preced
 
 Queira aceitar, Sr. Presidente, a expressão da minha mais alta consideração.
 
-**O Presidente da Delegação Portuguesa.**
+O Presidente da Delegação Portuguesa.
 
 Troca de cartas relativa à mão-de-obra portuguesa que trabalha na Comunidade
 
@@ -634,7 +663,7 @@ Muito agradeço a V. Ex.ª se digne acusar a recepção desta carta.
 
 Queira aceitar, Sr. Presidente, a expressão da minha mais alta consideração.
 
-**O Presidente da Delegação da Comunidade.**
+O Presidente da Delegação da Comunidade.
 
 Carta n.º 2
 
@@ -654,7 +683,7 @@ Tenho a honra de acusar a recepção da carta de V. Ex.ª
 
 Queira aceitar, Sr. Presidente, a expressão da minha mais alta consideração.
 
-**O Presidente da Delegação Portuguesa.**
+O Presidente da Delegação Portuguesa.
 
 Troca de cartas relativa à cooperação industrial e tecnológica
 
@@ -676,7 +705,7 @@ Muito agradeço a V. Ex.ª se digne comunicar-me o acordo do Governo Português 
 
 Queira aceitar, Sr. Presidente, a expressão da minha mais alta consideração.
 
-**O Presidente da Delegação da Comunidade.**
+O Presidente da Delegação da Comunidade.
 
 Carta n.º 2
 
@@ -700,4 +729,4 @@ Tenho a honra de comunicar a V. Ex.ª o acordo do meu Governo sobre o que preced
 
 Queira aceitar, Sr. Presidente, a expressão da minha mais alta consideração.
 
-**O Presidente da Delegação Portuguesa.**
+O Presidente da Delegação Portuguesa.

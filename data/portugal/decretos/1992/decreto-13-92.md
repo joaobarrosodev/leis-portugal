@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/13/1992/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-1992-158614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0872b7b73702012490dcc5077002b9e7a863324ef3bce31905bd217947f3387
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d0b9c7c70b2353b81b24854a177ce1e210a75adb6b6c0d27787c49e911a15c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Avião
 - Convenção
-- Portugal
+- Embarcação
 - Imersão de Resíduos
 - Meio Marinho
-- Resíduo
 - OSLO
-- Proteção do Ambiente
 - Poluição Marinha
 - Poluição pelos Navios
+- Portugal
+- Proteção do Ambiente
+- Resíduo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:29Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +98,19 @@ de 20 de Fevereiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Protocolo Que Emenda a Convenção para a Prevenção da Poluição Marítima Causada por Operações de Imersão Efectuadas por Navios e Aeronaves, adoptado em 14 de Junho de 1987, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para adesão, o Protocolo Que Emenda a Convenção para a Prevenção da Poluição Marítima Causada por Operações de Imersão Efectuadas por Navios e Aeronaves, adoptado em 14 de Junho de 1987, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Novembro de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares.
 
 Ratificado em 21 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1992.**
+Referendado em 4 de Fevereiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOL AMENDING THE CONVENTION FOR THE PREVENTION OF MARINE POLLUTION BY DUMPING FROM SHIPS AND AIR CRAFT.
 
@@ -180,7 +180,7 @@ The original of this Protocol, of which the English and French texts are equaly 
 
 PROTOCOLO QUE EMENDA A CONVENÇÃO PARA A PREVENÇÃO DA POLUIÇÃO MARÍTIMA CAUSADA POR OPERAÇÕES DE IMERSÃO EFECTUADAS POR NAVIOS E AERONAVES.
 
-Artigo I
+###### Artigo I
 
 O artigo 2 da Convenção deverá ser emendado forma a ficar como segue:
 
@@ -194,52 +194,52 @@ ii) O mar Mediterrâneo e os mares secundários até ao ponto de intersecção d
 
 b) A parte do oceano Atlântico a norte da latitude de 59º norte e entre as longitudes de 42º e 44º oeste.
 
-Artigo II
+###### Artigo II
 
 O artigo 15, 1), c), da Convenção será emendado de forma a ficar como segue:
 
 c) Pelos navios e aeronaves que se pense estarem a praticar a imersão dentro das suas águas interiores ou das suas águas territoriais.
 
-Artigo III
+###### Artigo III
 
 O artigo 15, 2), da Convenção será emendado de forma a ficar como segue:
 
 Cada Parte Contratante compromete-se a emitir instruções aos seus navios e aeronaves de inspecção marítima, assim como outros serviços qualificados, no sentido de assinalarem às suas autoridades nacionais quaisquer incidentes ou situações no alto mar ou na parte do mar adjacente e para além das águas territoriais, sob sua jurisdição de acordo com o direito internacional, que façam suspeitar que aí ocorreu ou está prestes a ocorrer uma imersão em contravenção das disposições da presente Convenção. A Parte Contratante em questão informará do facto, se assim o julgar apropriado, qualquer outra Parte Contratante interessada.
 
-Artigo IV
+###### Artigo IV
 
 Ao artigo 19 da Convenção será acrescentado o seguinte parágrafo:
 
 4) «Área marítima» significa a parcela das águas interiores de uma Parte Contratante por ela designada para efeitos desta Convenção, as águas territoriais da Parte Contratante, a parte do mar adjacente às águas territoriais e para além destas, sob jurisdição da Parte Contratante de acordo com o direito internacional, e o alto mar.
 
-Artigo V
+###### Artigo V
 
 O artigo 22 desta Convenção deverá ser emendado de forma a ficar como segue:
 
 Esta Convenção, tal como emendada pelos Protocolos, foi aberta à assinatura em 5 de Dezembro de 1989 e em 6 de Março de 1990 ficará aberta à adesão de todos os Estados designados no artigo 20. As Partes Contratantes poderão, por unanimidade, convidar outros Estados a aderir à Convenção, como emendada. Os instrumentos de adesão serão depositados junto do Governo da Noruega.
 
-Artigo VI
+###### Artigo VI
 
 Este Protocolo estará aberto em Oslo, de 5 de Dezembro de 1989 a 5 de Março de 1990, à assinatura dos Estados que forem Partes Contratantes da Convenção na data de abertura deste Protocolo à assinatura.
 
-Artigo VII
+###### Artigo VII
 
 Este Protocolo estará sujeito a ratificação, aceitação ou aprovação. Os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do Governo da Noruega.
 
-Artigo VIII
+###### Artigo VIII
 
 Este Protocolo estará aberto à adesão de qualquer Estado referido no artigo 22 da Convenção que não tenha assinado este Protocolo. Os instrumentos de adesão serão depositados junto do Governo da Noruega.
 
-Artigo IX
+###### Artigo IX
 
 Este Protocolo entrará em vigor no 1.º dia do 2.º mês a seguir à data na qual todos os Estados referidos no artigo VI deste Protocolo tenham depositado os seus instrumentos de ratificação, aceitação, aprovação ou adesão.
 
 Para qualquer Estado que venha a aderir a este Protocolo depois da sua entrada em vigor, este Protocolo entrará em vigor no 1.º dia do 2.º mês a seguir à data em que esse Estado tiver depositado os seus instrumentos de adesão.
 
-Artigo X
+###### Artigo X
 
 O Governo depositário informará as Partes Contratantes da Convenção das assinaturas deste Protocolo e do depósito dos instrumentos de ratificação, aceitação, aprovação ou adesão, de acordo com os artigos VI, VII e VIII.
 
-Artigo XI
+###### Artigo XI
 
 O original deste Protocolo, cujo texto é igualmente autêntico em francês e em inglês, ficará depositado junto do Governo da Noruega, o qual deverá enviar cópias autenticadas às Partes Contratantes da Convenção. Enviará ainda uma cópia autenticada ao Secretário-Geral das Nações Unidas, para registo e publicação, de acordo com o artigo 102.º da Carta das Nações Unidas.

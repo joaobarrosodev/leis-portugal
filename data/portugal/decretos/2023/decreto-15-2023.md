@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/15/2023/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-2023-215647910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ada715ea4826f1768d9a1a5c09978c2fb32134053b361e981867bdab2a1b151
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6939b7f130ccf368ef6935247327961299780e76d3d3914ca37c33774246841d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,19 @@ subjects:
 - Carta de Condução
 - Colômbia
 - Convenção
-- Portugal
 - Lisboa
+- Portugal
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:18Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 15 de junho de 2023. - António Luís Santos da Costa - Paulo Alexandre Nascimento Cafofo - João Saldanha de Azevedo Galamba.
 
-**Assinado em 6 de julho de 2023.**
+Assinado em 6 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de julho de 2023.**
+Referendado em 10 de julho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA COLÔMBIA SOBRE O RECONHECIMENTO MÚTUO DE TÍTULOS DE CONDUÇÃO
 
@@ -220,11 +220,11 @@ Pela República da Colômbia:
 
 Francisco José Coy Granados, Vice-Ministro de Relações Exteriores.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf)
 
 Equivalências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf)
 
 ACUERDO ENTRE LA REPÚBLICA PORTUGUESA Y LA REPÚBLICA DE COLOMBIA SOBRE RECONOCIMIENTO MUTUO DE LICENCIAS DE CONDUCCIÓN
 
@@ -360,8 +360,10 @@ Por La República de Colombia:
 
 Francisco José Coy Granados, Viceministro de Relaciones Exteriores.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf)
 
 Equivalencias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13600/0003100038.pdf)
+
+116662246

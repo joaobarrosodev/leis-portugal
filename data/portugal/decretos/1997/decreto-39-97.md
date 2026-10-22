@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/39/1997/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-1997-144843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1e9898ac87a9299b855073d991225af9e68bf7138f3230a869ea44e27caa5fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d9f34a169f980fe9f6d9b2bf7d4f41d446fbe1e4ec55724563ea70337bb9264
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cabo Verde
 - Cidade da Praia
 - Convenção
 - Portugal
-- Relações Diplomáticas
-- Cabo Verde
 - Relações Consulares
+- Relações Diplomáticas
 relationships: []
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:05Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +99,15 @@ Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 26 de Junho de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama.
 
-**Assinado em 15 de Julho de 1997.**
+Assinado em 15 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Julho de 1997.**
+Referendado em 18 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOLO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE SOBRE A COOPERAÇÃO NO DOMÍNIO DA REPRESENTAÇÃO DIPLOMÁTICA E CONSULAR
 

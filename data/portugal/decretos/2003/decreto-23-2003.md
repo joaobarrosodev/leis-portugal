@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/23/2003/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-2003-531989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:15:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fca3647d28cc51c883ddaba3a2487bc110729fbdab171a0c182abaea27b387d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4190bc1958db3f656b670168760ac2e37f2bc30447aaeb512920be64151c1704
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:15:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Admissão de Estrangeiros
 - Bulgária
 - Cidadão Estrangeiro
+- Contrato de Trabalho
 - Convenção
 - Portugal
-- Contrato de Trabalho
 - Trabalhador Migrante
-- Admissão de Estrangeiros
 relationships: []
 article_structure:
-  article_count: 13
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:15:02Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - António José de Castro Bagão Félix.
 
-**Assinado em 2 de Maio de 2003.**
+Assinado em 2 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Maio de 2003.**
+Referendado em 6 de Maio de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA BULGÁRIA SOBRE CONTRATAÇÃO RECÍPROCA DOS RESPECTIVOS NACIONAIS.
 
@@ -192,29 +192,25 @@ Os procedimentos relativos à execução do presente Acordo no que respeita aos 
 
 2 - No caso de denúncia do presente Acordo, os direitos adquiridos durante a sua vigência não serão afectados.
 
-**Assinado em Sófia no dia 26 do mês de Setembro de 2002, em dois originais, nas línguas portuguesa e búlgara, ambos os textos fazendo igualmente fé.**
+Assinado em Sófia no dia 26 do mês de Setembro de 2002, em dois originais, nas línguas portuguesa e búlgara, ambos os textos fazendo igualmente fé.
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)
 
 Pela República da Bulgária:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)
 
 PROTOCOLO ANEXO AO ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA BULGÁRIA SOBRE CONTRATAÇÃO RECÍPROCA DOS RESPECTIVOS NACIONAIS.
 
-Artigo I
-
-Entidades responsáveis
+###### Artigo I — Entidades responsáveis
 
 1 - As entidades definidas no n.º 2 do artigo 3.º do Acordo são responsáveis pela realização do recrutamento e da selecção dos trabalhadores.
 
 2 - Podem ser autorizadas a colaborar na realização do recrutamento e na selecção dos trabalhadores outras entidades que disponham de estatuto adequado e de acordo com a legislação nacional em vigor no território da Parte Contratante.
 
-Artigo II
-
-Processo de selecção
+###### Artigo II — Processo de selecção
 
 1 - As entidades empregadoras interessadas em contratar trabalhadores nos termos do presente Acordo comunicarão o seu interesse ao organismo nacional competente mediante a apresentação de uma oferta de emprego e respectiva proposta de contrato de trabalho.
 
@@ -240,9 +236,7 @@ f) A responsabilidade pelo pagamento da viagem entre o Estado de origem e o Esta
 
 4 - A entidade empregadora deve ainda apresentar um termo de responsabilidade especificando o tipo, o regime e a localização do alojamento.
 
-Artigo III
-
-Condições de recrutamento
+###### Artigo III — Condições de recrutamento
 
 1 - Os organismos nacionais competentes procedem ao recrutamento e selecção dos candidatos de acordo com as exigências referidas nas ofertas de emprego e, bem assim, no n.º 2 do presente artigo.
 
@@ -258,9 +252,7 @@ d) Possuir exame médico de robustez física, que deverá conter as indicações
 
 3 - O candidato não deve estar interdito de entrar no Estado receptor nem estar indicado na lista comum de pessoas não admissíveis do Sistema de Informação Schengen.
 
-Artigo IV
-
-Processo de recrutamento
+###### Artigo IV — Processo de recrutamento
 
 1 - O organismo nacional competente da República da Bulgária, depois de notificados os cidadãos seleccionados, envia a lista nominativa dos candidatos, bem como os respectivos documentos, à Embaixada de Portugal na República da Bulgária, que enviará aquela lista ao organismo nacional competente da República Portuguesa, a fim de este confirmar, junto da entidade empregadora, o interesse na contratação do trabalhador e obter o parecer prévio do Serviço de Estrangeiros e Fronteiras.
 
@@ -280,22 +272,20 @@ A Embaixada da República da Bulgária na República Portuguesa emite o visto a 
 
 3 - O trabalhador receberá um guia contendo informação geral sobre as condições de vida e de trabalho no Estado receptor.
 
-Artigo V
-
-Deveres da entidade empregadora
+###### Artigo V — Deveres da entidade empregadora
 
 1 - Na República Portuguesa, após a apresentação do trabalhador, a entidade empregadora deve promover o depósito do contrato nos termos da lei.
 
 2 - Incumbe à entidade empregadora assumir os encargos com a estada no território do Estado receptor, bem como do regresso ao Estado de origem, dos trabalhadores que, por razões imputáveis àquela entidade, não venham a ocupar o posto de trabalho para o qual foram contratados.
 
-**Assinado em Sófia no dia 26 do mês de Setembro de 2002, em dois originais, nas línguas portuguesa e búlgara, ambos os textos fazendo igualmente fé.**
+Assinado em Sófia no dia 26 do mês de Setembro de 2002, em dois originais, nas línguas portuguesa e búlgara, ambos os textos fazendo igualmente fé.
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)
 
 Pela República da Bulgária:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)
 
 [(ver texto em língua búlgara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/114a00/31003104.pdf)

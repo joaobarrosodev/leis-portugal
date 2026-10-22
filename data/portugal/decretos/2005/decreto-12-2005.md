@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/12/2005/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/12-2005-235907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e6409d51e77941e343ed44aa2dae6893bc881e416f37bcd4e986fdf9f3c1128
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08dbebc23552cd7189a866cef00f43c77f37687b9788ba39726d0196e5121fbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
 subjects:
 - Acesso à Informação
 - Convenção
-- Segurança Interna
-- Portugal
 - Documentação Classificada
-- Segurança da Informação
-- Segurança Internacional
-- Paris
 - França
+- Paris
+- Portugal
+- Segurança da Informação
+- Segurança Interna
+- Segurança Internacional
 relationships: []
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:01Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 2 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Manuel Pedro Cunha da Silva Pereira.
 
-**Assinado em 23 de Junho de 2005.**
+Assinado em 23 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Junho de 2005.**
+Referendado em 27 de Junho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO SOBRE PROTECÇÃO DE INFORMAÇÕES E MATÉRIAS CLASSIFICADAS ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FRANCESA.
 
@@ -176,7 +176,7 @@ A protecção e utilização das informações e matérias classificadas trocada
 
 1 - As Partes, tendo conhecimento das medidas de segurança prescritas pelas leis e regulamentos nacionais e as normas em vigor em cada uma delas, comprometem-se a assegurar a protecção das informações e matérias classificadas trocadas e adoptam a equivalência dos graus de classificação de segurança definidos no quadro abaixo indicado:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/07/130a00/41904197.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/07/130a00/41904197.pdf)](https://files.diariodarepublica.pt/1s/2005/07/130a00/41904197.pdf)
 
 2 - A fim de manter normas de segurança comparáveis, cada Parte deve, mediante pedido, fornecer todas as informações relativas às regras de segurança, aos procedimentos e às práticas nacionais aplicáveis para garantir a segurança das informações e matérias classificadas. As Partes facilitam os contactos entre as ANS e as autoridades nacionais competentes.
 
@@ -302,11 +302,11 @@ Feito em Paris, aos 10 de Janeiro de 2005, em dois exemplares, nas línguas port
 
 Pela República Portuguesa:
 
-**O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Monteiro.**
+O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Monteiro.
 
 Pela República Francesa:
 
-**O Ministro dos Negócios Estrangeiros, Michel Barnier.**
+O Ministro dos Negócios Estrangeiros, Michel Barnier.
 
 ## ANEXO
 
@@ -398,7 +398,7 @@ Classifications de sécurité et équivalences
 
 1 - Les Parties, ayant pris connaissance des mesures de sécurité prescrites par leurs lois et leurs réglementations nationales et normes en vigueur en leur sein, s'engagent à assurer la protection des informations et matériels classifiés échangés et adoptent l'équivalence des niveaux de classification de sécurité définis dans le tableau ci-dessous:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/07/130a00/41904197.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/07/130a00/41904197.pdf)](https://files.diariodarepublica.pt/1s/2005/07/130a00/41904197.pdf)
 
 2 - Afin de maintenir des normes de sécurité comparables, chaque Partie doit, sur demande, fournir toutes les informations concernant les règles de sécurité, les procédures et les pratiques nationales appliquées pour assurer la sécurité des informations et matériels classifiés. Les Parties facilitent les contacts entre les ANS et les autorités nationales compétentes.
 

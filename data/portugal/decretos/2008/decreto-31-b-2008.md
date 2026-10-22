@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 192/2008, 1º Suplemento, Série I de 2008-10-03
   number: '192'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7056-(6) a 7056-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/19201/0000600009.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/31-b/2008/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-b-2008-566842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff82bf09a59eb613625663448445aad3921c41982e1c645a3d041b639fb85184
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 978c0abd1ed1ffb8e197db6bcac79989564e94bec8b6fc51eff2bfb74b584ac5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caracas
-- Turismo
-- Venezuela
 - Convenção
 - Cooperação Bilateral
-- Portugal
 - Lisboa
+- Portugal
+- Turismo
+- Venezuela
 relationships: []
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:37Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - António José de Castro Guerra.
 
-**Assinado em 25 de Setembro de 2008.**
+Assinado em 25 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Setembro de 2008.**
+Referendado em 29 de Setembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO COMPLEMENTAR AO ACORDO QUADRO DE COOPERACÃO NO DOMÍNIO DO TURISMO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA BOLIVARIANA DA VENEZUELA.
 

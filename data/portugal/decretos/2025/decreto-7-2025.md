@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/08900/0000200092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/7/2025/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-2025-917473204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4388311991d4aa780a7a87bf21c23b7a7eb96a42660cd2c2bdc9fab72122d62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f4eb113bad10c4591728b546e473a4ad0eca61566b9356f605542a43b80badd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
+- Convenção
+- Cooperação Internacional
+- Diversidade Biológica
+- Espaço Marítimo
 - EUA
 - Mar
-- Convenção
-- Política de Cooperação
-- Espaço Marítimo
-- Recursos do Mar
 - Meio Marinho
 - Nova Iorque
 - Peixe
-- Diversidade Biológica
-- Cooperação Internacional
+- Política de Cooperação
+- Recursos do Mar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/106/2024/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/106/2024/12/16/p/dre
+- type: cites
+  target: pt:dre:900164431:por
+  label: null
+  source: null
 article_structure:
   article_count: 78
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:59Z'
   warnings: []
   errors: []
 ---
@@ -126,15 +130,15 @@ Aprovar a declaração, a depositar juntamente com o instrumento de ratificaçã
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Pedro Reis - Maria da Graça Carvalho.
 
-**Assinado em 29 de abril de 2025.**
+Assinado em 29 de abril de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de abril de 2025.**
+Referendado em 30 de abril de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 Agreement under the United Nations Convention on the Law of the Sea on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction
 
@@ -1734,7 +1738,7 @@ Aspirando alcançar participação universal:
 
 acordaram o seguinte:
 
-# PARTE I — DISPOSIÇÕES GERAIS
+## PARTE I — DISPOSIÇÕES GERAIS
 
 ###### Artigo 1.º — Termos utilizados
 
@@ -1834,7 +1838,7 @@ n) O reconhecimento dos interesses e necessidades especiais dos países em desen
 
 3 - As Partes promovem a cooperação internacional para a investigação científica marinha e para o desenvolvimento e transferência de tecnologia marinha, em conformidade com a Convenção e em apoio aos objetivos do presente Acordo.
 
-# PARTE II — RECURSOS GENÉTICOS MARINHOS, INCLUINDO A PARTILHA JUSTA E EQUITATIVA DE BENEFÍCIOS
+## PARTE II — RECURSOS GENÉTICOS MARINHOS, INCLUINDO A PARTILHA JUSTA E EQUITATIVA DE BENEFÍCIOS
 
 ###### Artigo 9.º — Objetivos
 
@@ -2036,7 +2040,7 @@ c) Outras informações exigidas em conformidade com as decisões adotadas pela 
 
 3 - O comité de acesso e partilha de benefícios elabora um relatório com base nas informações recebidas através do Mecanismo de Intermediação de Informação, e disponibiliza-o às Partes, que podem apresentar comentários. O comité de acesso e partilha de benefícios envia o relatório, incluindo os comentários recebidos, para apreciação da Conferência das Partes. A Conferência das Partes, tendo em consideração as recomendações do comité de acesso e partilha de benefícios, pode formular diretrizes apropriadas para a implementação do presente artigo, considerando as capacidades e circunstâncias nacionais das Partes.
 
-# PARTE III — MEDIDAS TAIS COMO INSTRUMENTOS DE GESTÃO DE ÁREA, INCLUINDO ÁREAS MARINHAS PROTEGIDAS
+## PARTE III — MEDIDAS TAIS COMO INSTRUMENTOS DE GESTÃO DE ÁREA, INCLUINDO ÁREAS MARINHAS PROTEGIDAS
 
 ###### Artigo 17.º — Objetivos
 
@@ -2166,7 +2170,7 @@ c) Pode, sempre que as medidas propostas sejam da competência de outros organis
 
 3 - A Conferência das Partes cria as condições para a realização de consultas regulares, a fim de reforçar a cooperação e a coordenação com e entre instrumentos e quadros jurídicos relevantes e organismos globais, regionais, sub-regionais e setoriais relevantes, em relação aos instrumentos de gestão de área, incluindo áreas marinhas protegidas, bem como a coordenação em relação às medidas adotadas no âmbito desses instrumentos e quadros e por esses organismos.
 
-4 - Sempre que a concretização dos objetivos e a implementação da presente parte assim o exijam, a fim de promover a cooperação e a coordenação internacional no que respeita à conservação e utilização sustentável da diversidade biológica marinha das áreas além da jurisdição nacional, a Conferência das Partes pode considerar e, de acordo com o disposto nos n.<sup>os</sup>1 e 2 anteriores, pode decidir, quando apropriado, desenvolver um mecanismo para os instrumentos de gestão de área existentes, incluindo áreas marinhas protegidas, adotados pelos instrumentos e quadros jurídicos relevantes ou organismos globais, regionais, sub-regionais ou setoriais relevantes.
+4 - Sempre que a concretização dos objetivos e a implementação da presente parte assim o exijam, a fim de promover a cooperação e a coordenação internacional no que respeita à conservação e utilização sustentável da diversidade biológica marinha das áreas além da jurisdição nacional, a Conferência das Partes pode considerar e, de acordo com o disposto nos n.os1 e 2 anteriores, pode decidir, quando apropriado, desenvolver um mecanismo para os instrumentos de gestão de área existentes, incluindo áreas marinhas protegidas, adotados pelos instrumentos e quadros jurídicos relevantes ou organismos globais, regionais, sub-regionais ou setoriais relevantes.
 
 5 - As decisões e recomendações adotadas pela Conferência das Partes em conformidade com a presente parte não prejudicam a eficácia das medidas adotadas relativamente a áreas sob jurisdição nacional e devem ter em conta os direitos e deveres de todos os Estados, nos termos da Convenção. Nos casos em que as medidas propostas ao abrigo da presente parte afetem, ou se possa razoavelmente esperar que afetem as águas sobrejacentes ao leito do mar e do subsolo das áreas submarinas sobre as quais um Estado costeiro exerce direitos soberanos, em conformidade com a Convenção, essas medidas têm devidamente em conta os direitos soberanos desses Estados costeiros. São realizadas consultas para esse efeito, em conformidade com o disposto na presente parte.
 
@@ -2230,17 +2234,17 @@ c) A Parte não pode, na prática, cumprir a decisão no momento da objeção, a
 
 ###### Artigo 26.º — Monitorização e revisão
 
-1 - As Partes apresentam, individual ou coletivamente, à Conferência das Partes relatórios sobre a implementação dos instrumentos de gestão de área, incluindo áreas marinhas protegidas, criados ao abrigo da presente parte, e das medidas conexas. O relatório, assim como as informações e a revisão referidas, respetivamente, nos n.<sup>os</sup>2 e 3 seguintes, são disponibilizados publicamente pelo secretariado.
+1 - As Partes apresentam, individual ou coletivamente, à Conferência das Partes relatórios sobre a implementação dos instrumentos de gestão de área, incluindo áreas marinhas protegidas, criados ao abrigo da presente parte, e das medidas conexas. O relatório, assim como as informações e a revisão referidas, respetivamente, nos n.os2 e 3 seguintes, são disponibilizados publicamente pelo secretariado.
 
 2 - Os instrumentos e quadros jurídicos relevantes e organismos globais, regionais, sub-regionais e setoriais relevantes são convidados a prestar informações à Conferência das Partes sobre a implementação das medidas que tenham adotado para alcançar os objetivos dos instrumentos de gestão de área, incluindo áreas marinhas protegidas, estabelecidos ao abrigo da presente parte.
 
-3 - Os instrumentos de gestão de área, incluindo áreas marinhas protegidas, criados ao abrigo da presente parte, incluindo as medidas conexas, são monitorizados e revistos periodicamente pelo Órgão Científico e Técnico, tendo em consideração os relatórios e as informações referidos, respetivamente, nos n.<sup>os</sup>1 e 2 anteriores.
+3 - Os instrumentos de gestão de área, incluindo áreas marinhas protegidas, criados ao abrigo da presente parte, incluindo as medidas conexas, são monitorizados e revistos periodicamente pelo Órgão Científico e Técnico, tendo em consideração os relatórios e as informações referidos, respetivamente, nos n.os1 e 2 anteriores.
 
 4 - Na revisão referida no n.º 3 anterior, o Órgão Científico e Técnico avalia a eficácia dos instrumentos de gestão de área, incluindo áreas marinhas protegidas, criados ao abrigo da presente parte, incluindo medidas conexas e os progressos realizados para alcançar os seus objetivos, e apresenta pareceres e faz recomendações à Conferência das Partes.
 
 5 - Após a revisão, a Conferência das Partes adota, conforme necessário, decisões ou recomendações sobre a alteração, prolongamento ou revogação dos instrumentos de gestão de área, incluindo áreas marinhas protegidas, e quaisquer medidas conexas adotadas pela Conferência das Partes, com base na melhor ciência e informação científica disponíveis e, se disponível, nos conhecimentos tradicionais relevantes dos Povos Indígenas e das comunidades locais, tendo em conta a abordagem de precaução e uma abordagem ecossistémica.
 
-# PARTE IV — AVALIAÇÕES DE IMPACTE AMBIENTAL
+## PARTE IV — AVALIAÇÕES DE IMPACTE AMBIENTAL
 
 ###### Artigo 27.º — Objetivos
 
@@ -2484,11 +2488,11 @@ b) A realização de avaliações de impacte ambiental pelas Partes do presente 
 
 2 - A Conferência das Partes pode efetuar uma avaliação ambiental estratégica de uma área ou região para compilar e sintetizar as melhores informações disponíveis sobre a área ou região, avaliar os impactes atuais e os impactes potenciais futuros e identificar lacunas de dados e prioridades de investigação.
 
-3 - Ao realizar avaliações de impacte ambiental em conformidade com a presente parte, as Partes têm em conta os resultados das avaliações ambientais estratégicas relevantes realizadas nos termos dos n.<sup>os</sup>1 e 2 anteriores, quando disponíveis.
+3 - Ao realizar avaliações de impacte ambiental em conformidade com a presente parte, as Partes têm em conta os resultados das avaliações ambientais estratégicas relevantes realizadas nos termos dos n.os1 e 2 anteriores, quando disponíveis.
 
 4 - A Conferência das Partes desenvolve orientações sobre a realização de cada categoria de avaliação ambiental estratégica descrita no presente artigo.
 
-# PARTE V — CAPACITAÇÃO E TRANSFERÊNCIA DE TECNOLOGIA MARINHA
+## PARTE V — CAPACITAÇÃO E TRANSFERÊNCIA DE TECNOLOGIA MARINHA
 
 ###### Artigo 40.º — Objetivos
 
@@ -2590,7 +2594,7 @@ e) Formular recomendações para atividades de acompanhamento, incluindo sobre a
 
 3 - O comité apresenta relatórios e recomendações para consideração da Conferência das Partes que sobre os quais adota, quando apropriado, as medidas adequadas.
 
-# PARTE VI — DISPOSIÇÕES INSTITUCIONAIS
+## PARTE VI — DISPOSIÇÕES INSTITUCIONAIS
 
 ###### Artigo 47.º — Conferência das Partes
 
@@ -2700,7 +2704,7 @@ g) Desempenha outras funções que possam ser atribuídas pela Conferência das 
 
 6 - A confidencialidade das informações prestadas no âmbito do presente Acordo e os direitos correspondentes são respeitados. Nenhuma disposição do presente Acordo deve ser interpretada como exigindo a partilha de informações cuja divulgação esteja proibida em virtude do direito interno de uma Parte ou de outra legislação aplicável.
 
-# PARTE VII — MECANISMO E RECURSOS FINANCEIROS
+## PARTE VII — MECANISMO E RECURSOS FINANCEIROS
 
 ###### Artigo 52.º — Financiamento
 
@@ -2766,7 +2770,7 @@ d) A prestação de contas dos Estados Partes em desenvolvimento beneficiários,
 
 16 - A Conferência das Partes procede igualmente a uma revisão periódica do mecanismo financeiro para avaliar a adequação, a eficácia e a acessibilidade dos recursos financeiros, incluindo para implementação da capacitação e transferência de tecnologia marinha, em particular para os Estados Partes em desenvolvimento.
 
-# PARTE VIII — IMPLEMENTAÇÃO E CUMPRIMENTO
+## PARTE VIII — IMPLEMENTAÇÃO E CUMPRIMENTO
 
 ###### Artigo 53.º — Implementação
 
@@ -2786,7 +2790,7 @@ Cada Parte monitoriza a implementação das obrigações que lhe incumbem por fo
 
 4 - No decurso dos seus trabalhos, o Comité de Implementação e Cumprimento pode recorrer as informações adequadas provenientes de organismos criados pelo presente Acordo, bem como de instrumentos e quadros jurídicos relevantes e organismos regionais, sub-regionais e setoriais relevantes, conforme seja necessário.
 
-# PARTE IX — SOLUÇÃO DE CONTROVÉRSIAS
+## PARTE IX — SOLUÇÃO DE CONTROVÉRSIAS
 
 ###### Artigo 56.º — Prevenção de controvérsias
 
@@ -2824,7 +2828,7 @@ c) Um tribunal arbitral do Anexo VII;
 
 d) Um tribunal arbitral especial do Anexo VIII para uma ou mais das categorias de disputas especificadas no referido Anexo.
 
-6 - Uma Parte do presente Acordo que não seja Parte na Convenção e que não tenha emitido uma declaração é considerada como tendo aceitado a opção da alínea c) do n.º 5 anterior. Se as partes numa controvérsia tiverem aceitado o mesmo procedimento para a solução da controvérsia, a controvérsia apenas pode ser submetida a esse procedimento, a menos que as partes acordem de outra forma. Se as partes numa controvérsia não tiverem aceitado o mesmo procedimento para a solução da controvérsia, ela pode ser submetida apenas à arbitragem prevista no Anexo VII da Convenção, a menos que as partes acordem de outra forma. Os n.<sup>os</sup>6 a 8 do artigo 287.º da Convenção aplicam-se às declarações feitas nos termos do n.º 5 anterior.
+6 - Uma Parte do presente Acordo que não seja Parte na Convenção e que não tenha emitido uma declaração é considerada como tendo aceitado a opção da alínea c) do n.º 5 anterior. Se as partes numa controvérsia tiverem aceitado o mesmo procedimento para a solução da controvérsia, a controvérsia apenas pode ser submetida a esse procedimento, a menos que as partes acordem de outra forma. Se as partes numa controvérsia não tiverem aceitado o mesmo procedimento para a solução da controvérsia, ela pode ser submetida apenas à arbitragem prevista no Anexo VII da Convenção, a menos que as partes acordem de outra forma. Os n.os6 a 8 do artigo 287.º da Convenção aplicam-se às declarações feitas nos termos do n.º 5 anterior.
 
 7 - Uma Parte no presente Acordo que não seja Parte na Convenção pode, ao assinar, ratificar, aprovar, aceitar ou aderir ao presente Acordo, ou em qualquer momento posterior, sem prejuízo das obrigações decorrentes da presente parte, declarar por escrito que não aceita um ou mais dos procedimentos previstos na parte XV, secção 2, da Convenção, no que respeita a uma ou mais das categorias de controvérsias previstas no artigo 298.º da Convenção para a solução de controvérsias no âmbito da presente parte. A esta declaração aplica-se o artigo 298.º da Convenção.
 
@@ -2838,19 +2842,19 @@ d) Um tribunal arbitral especial do Anexo VIII para uma ou mais das categorias d
 
 Enquanto se aguarda a solução de uma controvérsia nos termos da presente parte, as Partes na controvérsia envidam todos os esforços para entrar em acordos provisórios de natureza prática.
 
-# PARTE X — Não Partes do presente Acordo
+## PARTE X — Não Partes do presente Acordo
 
 ###### Artigo 62.º — Não Partes do presente Acordo
 
 As Partes encorajam os que não são Parte do presente Acordo a tornarem-se Partes e a adotar as leis e regulamentos em conformidade com as suas disposições.
 
-# PARTE XI — BOA-FÉ E ABUSO DE DIREITO
+## PARTE XI — BOA-FÉ E ABUSO DE DIREITO
 
 ###### Artigo 63.º — Boa-fé e abuso de direito
 
 As Partes cumprem de boa-fé as obrigações contraídas nos termos do presente Acordo e exercem os direitos aqui reconhecidos de forma a não constituir abuso de direito.
 
-# PARTE XII — DISPOSIÇÕES FINAIS
+## PARTE XII — DISPOSIÇÕES FINAIS
 
 ###### Artigo 64.º — Direito de voto
 
@@ -2878,7 +2882,7 @@ O presente Acordo está sujeito a ratificação, aprovação ou aceitação por 
 
 2 - Para cada Estado ou organização regional de integração económica que ratifique, aprove ou aceite ou adira ao presente Acordo após o depósito do sexagésimo instrumento de ratificação, aprovação, aceitação ou adesão, o presente Acordo entra em vigor no trigésimo dia seguinte ao depósito do seu instrumento de ratificação, aprovação, aceitação ou adesão, sob reserva do disposto no n.º 1 anterior.
 
-3 - Para os efeitos dos n.<sup>os</sup> 1 e 2 anteriores, qualquer instrumento depositado por uma organização de integração económica regional não é considerado como adicional aos instrumentos depositados pelos Estados-Membros dessa organização.
+3 - Para os efeitos dos n.os 1 e 2 anteriores, qualquer instrumento depositado por uma organização de integração económica regional não é considerado como adicional aos instrumentos depositados pelos Estados-Membros dessa organização.
 
 ###### Artigo 69.º — Aplicação provisória
 
@@ -2904,7 +2908,7 @@ O artigo 70.º não impede um Estado ou uma organização regional de integraç�
 
 4 - Uma emenda pode prever, no momento de sua adoção, que para a sua entrada em vigor, seja requerido um número de ratificações, aprovações ou aceitações menor ou maior do que o estabelecido no presente artigo.
 
-5 - Para efeitos do disposto nos n.<sup>os</sup> 3 e 4 anteriores, um instrumento depositado por uma organização regional de integração económica não é considerado como adicional aos instrumentos depositados pelos Estados-Membros dessa organização.
+5 - Para efeitos do disposto nos n.os 3 e 4 anteriores, um instrumento depositado por uma organização regional de integração económica não é considerado como adicional aos instrumentos depositados pelos Estados-Membros dessa organização.
 
 6 - Um Estado ou organização regional de integração económica que venha a ser Parte no presente Acordo após a entrada em vigor de emendas, de acordo com o n.º 3 anterior, salvo manifestação em contrário desse Estado ou organização regional de integração económica:
 
@@ -2934,7 +2938,7 @@ b) As emendas adotadas numa reunião entrarão em vigor 180 dias após o final d
 
 ###### Artigo 75.º — Depositário
 
-**O Secretário-Geral das Nações Unidas atua como depositário do presente Acordo e de quaisquer emendas ou revisões do mesmo.**
+O Secretário-Geral das Nações Unidas atua como depositário do presente Acordo e de quaisquer emendas ou revisões do mesmo.
 
 ###### Artigo 76.º — Textos autênticos
 
@@ -3073,3 +3077,5 @@ ii) Normas e regras de tecnologia;
 iii) Repositório de manuais e informações relevantes para partilhar conhecimentos e capacidades sobre a forma de realizar avaliações de impacte ambiental, aprendizagens e de boas práticas;
 
 g) Desenvolvimento de programas técnicos, científicos e de investigação e desenvolvimento, incluindo atividades de investigação biotecnológica.
+
+119006223

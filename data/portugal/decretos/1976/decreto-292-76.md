@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/292-1976-502041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18b70871c3040b364d2595e47d590518199f8b0d501ee13c40f77842bbb5fd73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b6b87f9f3518207b3492f7bcfbb3ee617fd9862ec65ef86a027b2863f5d814c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproveitamento Hidroeléctrico
+- Convenção
+- Espanha
+- Guarda
+- Portugal
+- RIO Chança
+- Rio Guadiana
+- RIO LIMA
+- RIO Minho
+- RIO TEJO
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:33Z'
   warnings: []
   errors: []
 ---
@@ -88,53 +98,53 @@ de 23 de Abril
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado para ser ratificado o 2.º Protocolo Adicional ao Convénio de 29 de Maio de 1968, entre Portugal e Espanha, para Regular o Uso e o Aproveitamento Hidráulico dos Troços internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes, no que respeita ao aproveitatamento hidráulico do troço internacional do rio Minho, assinado na cidade da Guarda em 12 de Fevereiro de 1976 cujo texto original, em português, acompanha o presente decreto.
+Artigo único. É aprovado para ser ratificado o 2.º Protocolo Adicional ao Convénio de 29 de Maio de 1968, entre Portugal e Espanha, para Regular o Uso e o Aproveitamento Hidráulico dos Troços internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes, no que respeita ao aproveitatamento hidráulico do troço internacional do rio Minho, assinado na cidade da Guarda em 12 de Fevereiro de 1976 cujo texto original, em português, acompanha o presente decreto.
 
 José Baptista Pinheiro de Azevedo - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 9 de Abril de 1976.**
+Assinado em 9 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 2.º Protocolo Adicional ao Convénio de 29 de Maio de 1988, entre Portugal o Espanha, para Regular o Uso e o Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tojo, Guadiana, Chança e Seus Afluentes, no que respeita ao aproveitamento hidráulico do troço internacional do rio Minho.
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Para a construção e exploração do aproveitamento hidroeléctrico previsto no artigo 2.º do Convénio assinado em 29 de Maio de 1968, entre Portugal e Espanha, para Regular o Uso e Aproveitamento Hidráulico dos Troços Internacionais dos Rios Minho, Lima, Tejo, Guadiana, Chança e Seus Afluentes poderão igualmente ser outorgadas, por cada um dos Governos Português e Espanhol, concessões que os seus titulares necessariamente utilizarão em regime de associação.
 
 Corresponderá à Comissão Internacional prevista no artigo 17.º do referido Convénio estabelecer as cláusulas das concessões mencionadas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A associação a constituir não terá personalidade jurídica e será regulada por acordo dos concessionários, aprovado previamente pela Comissão Internacional.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 As sociedades concessionárias participarão na construção e exploração do aproveitamento na proporção de energia eléctrica a repartir pelos dois Estados.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Os Governos de Portugal e de Espanha estabelecerão os regimes adequados em ordem a facilitar a concessão de licenças e autorizações necessárias para a circulação dos capitais, mão-de-obra, materiais e equipamentos necessários à construção e futura exploração do aproveitamento hidroeléctrico objecto deste Protocolo.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Os Governos de Portugal e de Espanha, em regime de reciprocidade, não submeterão a tributação a aquisição e ocupação de terrenos e a importação de matérias-primas e bens de equipamento necessários à construção e posterior exploração do aproveitamento objecto deste Protocolo.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Os impostos estaduais ou locais que possam vir a recair sobre a associação só serão exigíveis de cada um dos concessionários pelas autoridades do seu respectivo país e na importância que corresponda à sua percentagem de participação.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 No conjunto da construção do aproveitamento, as indústrias de ambos os países participarão, na medida do possível, na proporção referida no artigo 8.º, nos fornecimentos e serviços de engenharia do projecto, obras de construção civil e fornecimentos de equipamentos mecânicos e eléctricos, procurando os concessionários associados obter as melhores condições de preços, prazos e qualidade e podendo, com esse objectivo, importar de terceiros países bens de equipamento mecânico e eléctrico.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 A energia produzida pela central hidroeléctrica e partilhada pelas duas concessionárias na proporção resultante da aplicação do Convénio será integrada na exploração das suas redes eléctricas obedecendo às condições e ao regime jurídico estipulados nas concessões nacionais de que aquelas sociedades forem respectivamente titulares.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 O presente Protocolo entrará em vigor quando as Altas Partes Contratantes tenham comunicado pela via diplomática o cumprimento dos respectivos requisitos constitucionais.
 

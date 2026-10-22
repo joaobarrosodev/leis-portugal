@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/126-1982-377974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:59:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fb1c66df6385b26d1cb400d202e40476362e45ec55d7f95caebed3a5ab41c6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cb468b71a376c85b8f188faf7e591039f1d4b23d49c0c2d809b00b2c95af0f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:59:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- IMCO
+- Portugal
 relationships: []
 article_structure:
-  article_count: 33
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 13
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:59:17Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +89,15 @@ de 9 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovadas para ratificação as emendas à Convenção Instituidora da Organização Marítima Internacional, adoptadas pelas Resoluções A.400 (X) e A.450 (XI) na 10.ª e 11.ª sessões da Assembleia Geral da IMO, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. São aprovadas para ratificação as emendas à Convenção Instituidora da Organização Marítima Internacional, adoptadas pelas Resoluções A.400 (X) e A.450 (XI) na 10.ª e 11.ª sessões da Assembleia Geral da IMO, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 29 de Outubro de 1982.**
+Assinado em 29 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 RESOLUÇÃO A.400 (X)
 
@@ -208,7 +211,7 @@ Nova Parte X
 
 Uma nova Parte X, consistindo nos novos artigos 42 a 46, é adicionada a seguir às Partes VIII e IX [acrescentadas pela Resolução A.358 (IX)], com a seguinte redacção:
 
-# PARTE X — Comité de Cooperação Técnica
+## PARTE X — Comité de Cooperação Técnica
 
 ###### ARTIGO 42
 
@@ -280,43 +283,43 @@ Os textos dos projectos de emendas à Convenção são comunicados aos Membros p
 
 As referências aos artigos mencionados nos artigos seguintes são alteradas como segue:
 
-###### Artigo 6 (agora renumerado como artigo 5): a referência ao artigo 57 é alterada para artigo 71.
+Artigo 6 (agora renumerado como artigo 5): a referência ao artigo 57 é alterada para artigo 71.
 
-###### Artigo 7 (agora renumerado como artigo 6): a referência ao artigo 57 é alterada para artigo 71.
+Artigo 7 (agora renumerado como artigo 6): a referência ao artigo 57 é alterada para artigo 71.
 
-###### Artigo 8 (agora renumerado como artigo 7): as referências aos artigos 6, 7 e 57 são alteradas para artigos 5, 6 e 71.
+Artigo 8 (agora renumerado como artigo 7): as referências aos artigos 6, 7 e 57 são alteradas para artigos 5, 6 e 71.
 
-###### Artigo 9 (agora renumerado como artigo 8): a referência ao artigo 58 é alterada para artigo 72.
+Artigo 9 (agora renumerado como artigo 8): a referência ao artigo 58 é alterada para artigo 72.
 
-###### Artigo 19 (agora renumerado como artigo 18): a referência ao artigo 17 é alterada para artigo 16.
+Artigo 19 (agora renumerado como artigo 18): a referência ao artigo 17 é alterada para artigo 16.
 
-###### Artigo 27 (agora renumerado como artigo 26): a referência ao artigo 16, alínea i), é alterada para artigo 15, alínea j).
+Artigo 27 (agora renumerado como artigo 26): a referência ao artigo 16, alínea i), é alterada para artigo 15, alínea j).
 
-###### Artigo 29 [emendado pela Resolução A.358 (IX) e agora renumerado como artigo 28]: a referência à Parte XII é alterada para artigo 25.
+Artigo 29 [emendado pela Resolução A.358 (IX) e agora renumerado como artigo 28]: a referência à Parte XII é alterada para artigo 25.
 
-###### Artigo 32 [acrescentado pela Resolução A.358 (IX) e agora renumerado como artigo 31]: a referência ao artigo 28 é alterada para artigo 27.
+Artigo 32 [acrescentado pela Resolução A.358 (IX) e agora renumerado como artigo 31]: a referência ao artigo 28 é alterada para artigo 27.
 
-###### Artigo 34 [acrescentado pela Resolução A.358 (IX) e agora renumerado como artigo 33]: a referência, na alínea c), ao artigo 26 é alterada para artigo 25.
+Artigo 34 [acrescentado pela Resolução A.358 (IX) e agora renumerado como artigo 33]: a referência, na alínea c), ao artigo 26 é alterada para artigo 25.
 
-###### Artigo 37 [acrescentado pela Resolução A.358 (IX) e agora renumerado como artigo 36]: a referência ao artigo 33 é alterada para artigo 32.
+Artigo 37 [acrescentado pela Resolução A.358 (IX) e agora renumerado como artigo 36]: a referência ao artigo 33 é alterada para artigo 32.
 
-###### Artigo 39 [acrescentado pela Resolução A.358 (IX) e agora renumerado como artigo 38]: as referências, nas alíneas d) e e), ao artigo 26 são alteradas para artigo 25.
+Artigo 39 [acrescentado pela Resolução A.358 (IX) e agora renumerado como artigo 38]: as referências, nas alíneas d) e e), ao artigo 26 são alteradas para artigo 25.
 
-###### Artigo 42 [acrescentado pela Resolução A.358 (IX) e agora renumerado como artigo 41]: a referência ao artigo 38 é alterada para o artigo 37.
+Artigo 42 [acrescentado pela Resolução A.358 (IX) e agora renumerado como artigo 41]: a referência ao artigo 38 é alterada para o artigo 37.
 
-###### Artigo 33 (agora renumerado como artigo 47): a referência ao artigo 23 é alterada para artigo 22.
+Artigo 33 (agora renumerado como artigo 47): a referência ao artigo 23 é alterada para artigo 22.
 
-###### Artigo 53 (agora renumerado como artigo 67): a referência ao artigo 52 é alterada para artigo 66.
+Artigo 53 (agora renumerado como artigo 67): a referência ao artigo 52 é alterada para artigo 66.
 
-###### Artigo 54 (agora renumerado como artigo 68): a referência ao artigo 52 é alterada para artigo 66.
+Artigo 54 (agora renumerado como artigo 68): a referência ao artigo 52 é alterada para artigo 66.
 
-###### Artigo 56 (agora renumerado como artigo 70): a referência ao artigo 55 é alterada para artigo 69.
+Artigo 56 (agora renumerado como artigo 70): a referência ao artigo 55 é alterada para artigo 69.
 
-###### Artigo 58 (agora renumerado como artigo 72): a referência, na alínea d), ao artigo 57 é alterada para artigo 71.
+Artigo 58 (agora renumerado como artigo 72): a referência, na alínea d), ao artigo 57 é alterada para artigo 71.
 
-###### Artigo 59 (agora renumerado como artigo 73): a referência, na alínea b), ao artigo 58 é alterada para artigo 72.
+Artigo 59 (agora renumerado como artigo 73): a referência, na alínea b), ao artigo 58 é alterada para artigo 72.
 
-###### Artigo 60 (agora renumerado como artigo 74): a referência ao artigo 57 é alterada para artigo 71.
+Artigo 60 (agora renumerado como artigo 74): a referência ao artigo 57 é alterada para artigo 71.
 
 ## ANEXO II
 

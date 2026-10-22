@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/176-1977-276603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba55673cc27ac43e9e9e841aa9402fce4250c08183315a89bb256f3eeb47959a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca0cb960014c933964c21b95cb62df5df28950e1e6c9710110e64c977dc0c328
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Gestão Orçamental
+- Ministério das Finanças
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:46:28Z'
   warnings: []
   errors: []
 ---
@@ -88,39 +100,39 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 29443965$00 destinados quer a reforçar verbas insuficientemente dotadas quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 29443965$00 destinados quer a reforçar verbas insuficientemente dotadas quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30200/31273128.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30200/31273128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30200/31273128.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
 Receitas correntes:
 
-### Capítulo 05, grupo 01 «Sector público», artigo 01 «Fundos autónomos» ... 11197965$00
+Capítulo 05, grupo 01 «Sector público», artigo 01 «Fundos autónomos» ... 11197965$00
 
-### Capítulo 05, grupo 01 «Sector público», artigo 02 «Serviços autónomos» ... 1546000$00
+Capítulo 05, grupo 01 «Sector público», artigo 02 «Serviços autónomos» ... 1546000$00
 
-### Capítulo 05, grupo 06 «Exterior», artigo 01 «Estrangeiro» ... 6500000$00
+Capítulo 05, grupo 06 «Exterior», artigo 01 «Estrangeiro» ... 6500000$00
 
 Receitas de capital:
 
-### Capítulo 10, grupo 01 «Sector público», artigo 01 «Fundos autónomos: Outros» ... 3400000$00
+Capítulo 10, grupo 01 «Sector público», artigo 01 «Fundos autónomos: Outros» ... 3400000$00
 
 Contas de ordem:
 
-### Capítulo 15, grupo 04 «Agricultura e Pescas: Fomento agrário», artigo 02 «Direcção-Geral dos Serviços Pecuários»:
+Capítulo 15, grupo 04 «Agricultura e Pescas: Fomento agrário», artigo 02 «Direcção-Geral dos Serviços Pecuários»:
 
 Laboratório Nacional de Investigação Veterinária ... 2500000$00
 
 Estação Zootécnica Nacional ... 3000000$00
 
-### Capítulo 15, grupo 09 «Transportes e comunicações: Transportes e comunicações», artigo 02 «Aeroportos» ... 1300000$00
+Capítulo 15, grupo 09 «Transportes e comunicações: Transportes e comunicações», artigo 02 «Aeroportos» ... 1300000$00
 
 ... 29443965$00
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no actual orçamento do Ministério dos Assuntos Sociais:
+Art. 3.º É autorizada a seguinte alteração de rubrica no actual orçamento do Ministério dos Assuntos Sociais:
 
 A observação (ver nota 1) aposta à dotação descrita no capítulo 04, divisão 01, classificação funcional 40.10, classificação económica 38.00, alínea 1 «Instituto Nacional de Saúde», é alterada para:
 
@@ -128,8 +140,8 @@ A observação (ver nota 1) aposta à dotação descrita no capítulo 04, divis�
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim José de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 20 de Dezembro de 1977.**
+Promulgado em 20 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

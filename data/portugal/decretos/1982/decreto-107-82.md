@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 227/1982, 1º Suplemento, Série I de 1982-09-30
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3206-(4) a 3206-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22701/00040006.pdf
 entry_into_force_dates: []
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/107-1982-643962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9d815cdc461cbfbb03d5662c6d2d0487adc05656cb63a55df5119c4902d6821
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c119521988a4303de09bc2e12a7969f3be06d5d41598363329bc909b2aa842a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Crédito Especial
+- Ministério da Cultura e Coordenação Científica
+- Ministério da Habitação Obras Públicas e Transportes
+- Ministério das Finanças e do Plano
+- Orçamento
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:378168:por
+  label: Rectificado pela DECL.DD6011.06.10.1982.PCM, DR.IS [251] de 29.10.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-378168
+  date: '1982-10-06'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:57Z'
   warnings: []
   errors: []
 ---
@@ -86,11 +102,11 @@ de 30 de Setembro
 
 Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1978-296224), de 13 de Maio, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais, no montante de 853576 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais, no montante de 853576 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00040006.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00040006.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
@@ -112,15 +128,15 @@ Grupo 12 «Habitação, Obras Públicas e Transportes»:
 
 Departamento dos Transportes:
 
-###### Artigo 02 «Administração-Geral do Porto de Lisboa» ... 450000
+Artigo 02 «Administração-Geral do Porto de Lisboa» ... 450000
 
 Grupo 14 «Cultura e Coordenação Científica:
 
-###### Artigo 02 «Instituto Português de Cinema» ... 85000
+Artigo 02 «Instituto Português de Cinema» ... 85000
 
 ... 853576
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do:
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do:
 
 16 - Ministério da Habitação, Obras Públicas e Transportes - Departamento da Habitação e Obras Públicas.
 
@@ -128,22 +144,22 @@ Grupo 14 «Cultura e Coordenação Científica:
 
 (26) «Crédito externo consignado de 317000 contos do B. E. I.».
 
-###### Art. 4.º São autorizadas as seguintes alterações no orçamento privativo da:
+Art. 4.º São autorizadas as seguintes alterações no orçamento privativo da:
 
 Administração-Geral do Porto de Lisboa
 
 Reforços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00040006.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00040006.pdf)
 
 Contrapartidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00040006.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00040006.pdf)
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - António José Tomás Gomes de Pinho - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 18 de Setembro de 1982.**
+Promulgado em 18 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

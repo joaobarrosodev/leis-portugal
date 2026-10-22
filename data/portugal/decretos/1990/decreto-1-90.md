@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-1990-313823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62f216dac271def5b648f60378956ad4b73c3fbc47ed27a66ba1fb18a1791148
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d73dbf11110732e8f737e3f7a868d4b23a323deacd841ad2d817e6921be1bd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Covilhã
+- Medidas Preventivas
+- Prorrogação de Prazo
+- Universidade da Beira Interior
+relationships:
+- type: cites
+  target: pt:dre:497445:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:46Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ Considerando que os projectos das instalações da Universidade da Beira Interio
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - É prorrogado por um ano o prazo previsto no n.º 1 do artigo 1.º do [Decreto do Governo n.º 33/87](https://diariodarepublica.pt/dr/detalhe/decreto-governo/33-1987-497445), de 2 de Novembro.
+Artigo único. - 1 - É prorrogado por um ano o prazo previsto no n.º 1 do artigo 1.º do [Decreto do Governo n.º 33/87](https://diariodarepublica.pt/dr/detalhe/decreto-governo/33-1987-497445), de 2 de Novembro.
 
 2 - O disposto no número anterior produz efeitos desde o termo do respectivo prazo.
 
@@ -98,12 +106,12 @@ Presidência do Conselho de Ministros, 20 de Novembro de 1989.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro.
 
-**Assinado em 14 de Dezembro de 1989.**
+Assinado em 14 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1989.**
+Referendado em 18 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

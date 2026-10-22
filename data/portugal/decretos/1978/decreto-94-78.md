@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/94-1978-329664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72245904b3622b47f0f8e555ee68d88ef1b32b9c094ee496b31cd381ae48a1c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 819ec03a2d7c20370028bf5c4ed5331ebc2a18903e0ce532298e7cabbeeb3bad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Coimbra
+- Junta de Freguesia
+- Oliveira do Hospital
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:26Z'
   warnings: []
   errors: []
 ---
@@ -94,12 +98,12 @@ Nos termos do n.º 1 do artigo 12.º do Código Administrativo:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. A povoação de Vila Franca do Ervedal, da freguesia de Ervedal da Beira, do concelho de Oliveira do Hospital, distrito de Coimbra, passa a denominar-se Vila Franca da Beira.
+Artigo único. A povoação de Vila Franca do Ervedal, da freguesia de Ervedal da Beira, do concelho de Oliveira do Hospital, distrito de Coimbra, passa a denominar-se Vila Franca da Beira.
 
 Mário Soares - Jaime José Matos da Gama.
 
-**Promulgado em 24 de Agosto de 1978.**
+Promulgado em 24 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

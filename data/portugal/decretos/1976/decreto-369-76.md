@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11500/11081109.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/369-1976-427999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a356b59c51595b6c921098a81ec0ba18d7270dadf3680dbcda611e0b560bd253
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b4979ff366ec9c5605018d2aa64eb995cf1e3c7bc53b88cdb7c05bafc9bf39d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Portos
+- Junta Autónoma dos Portos
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:395896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:395896:por
+  label: "Revogado pelo DEC LEI.229/82.16.06.1982.MHOPT, DR.IS [136] de 16.06.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1982-395896
+  date: '1982-06-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:00Z'
   warnings: []
   errors: []
 ---
@@ -100,17 +124,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, e ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, o Governo decreta e eu promulgo, o seguinte:
 
-###### Artigo 1.º É alterado o quadro do pessoal a que se refere o n.º 1 do artigo 27.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, que passa a ser o que consta do mapa anexo a este diploma e dele faz parte integrante.
+Artigo 1.º É alterado o quadro do pessoal a que se refere o n.º 1 do artigo 27.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, que passa a ser o que consta do mapa anexo a este diploma e dele faz parte integrante.
 
-###### Art. 2.º No preenchimento das vagas do novo quadro levar-se-ão em conta as classificações obtidas em concursos de promoção já efectuados na Direcção-Geral de Portos, os anos de bom e efectivo serviço prestado ao Estado, as habilitações literárias e outros elementos que atestem o reconhecido mérito do funcionário.
+Art. 2.º No preenchimento das vagas do novo quadro levar-se-ão em conta as classificações obtidas em concursos de promoção já efectuados na Direcção-Geral de Portos, os anos de bom e efectivo serviço prestado ao Estado, as habilitações literárias e outros elementos que atestem o reconhecido mérito do funcionário.
 
-###### Art. 3.º O primeiro provimento nas vagas do novo quadro será feito:
+Art. 3.º O primeiro provimento nas vagas do novo quadro será feito:
 
 a) De entre funcionários vitalícios e contratados do quadro da Direcção-Geral de Portos que possuam as habilitações legais;
 
 b) De entre pessoal da Direcção-Geral de Portos que possua as habilitações legais e que à data da entrada em vigor deste diploma e há mais de um ano se encontre ao serviço, com boas informações, em regime de contrato ou de assalariamento com adequado título de provimento.
 
-###### Art. 4.º A título excepcional, poderão ser providos, independentemente da idade e da habilitação:
+Art. 4.º A título excepcional, poderão ser providos, independentemente da idade e da habilitação:
 
 a) No lugar de terceiro-oficial, os actuais escriturários-dactilógrafos do quadro da Direcção-Geral de Portos que contem três ou mais anos de bom e efectivo serviço prestado ao Estado até à data da publicação do presente diploma;
 
@@ -122,17 +146,17 @@ d) No lugar de escriturário-dactilógrafo, os actuais escriturários-dactilógr
 
 e) No lugar de motorista, os actuais motoristas assalariados, com três ou mais anos de bom serviço prestado ao Estado e independentemente de qualquer título de provimento.
 
-###### Art. 5.º - 1. O provimento previsto nos artigos 3.º e 4.º resultará de lista nominativa aprovada pelo Ministro dos Transportes e Comunicações, sob proposta do director-geral, que será elaborada com audição prévia dos trabalhadores e garantindo-se a prioridade do pessoal do quadro.
+Art. 5.º - 1. O provimento previsto nos artigos 3.º e 4.º resultará de lista nominativa aprovada pelo Ministro dos Transportes e Comunicações, sob proposta do director-geral, que será elaborada com audição prévia dos trabalhadores e garantindo-se a prioridade do pessoal do quadro.
 
 2. A lista a que se refere o número anterior será publicada no Diário da República, considerando-se os funcionários providos nos respectivos lugares a partir da data dessa publicação, com dispensa de quaisquer formalidades, salvo o visto do Tribunal de Contas.
 
-###### Art. 6.º - 1. O recrutamento para escriturário-dactilógrafo passa a ser feito de entre indivíduos de idade não inferior a 18 anos nem superior a 35 anos, com a habilitação correspondente à escolaridade obrigatória segundo a idade e que tenham sido aprovados no respectivo concurso.
+Art. 6.º - 1. O recrutamento para escriturário-dactilógrafo passa a ser feito de entre indivíduos de idade não inferior a 18 anos nem superior a 35 anos, com a habilitação correspondente à escolaridade obrigatória segundo a idade e que tenham sido aprovados no respectivo concurso.
 
 2. O recrutamento para terceiros-oficiais far-se-á de acordo com o artigo 27.º, n.º 1, do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, na redacção dada pelo artigo único do [Decreto-Lei n.º 103/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1976-507194), de 4 de Fevereiro.
 
-###### Art. 7.º Sempre que a um cargo correspondam alternativamente duas classes, os funcionários serão promovidos mediante concursos de acordo com o previsto no artigo 34.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
+Art. 7.º Sempre que a um cargo correspondam alternativamente duas classes, os funcionários serão promovidos mediante concursos de acordo com o previsto no artigo 34.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
 
-###### Art. 8.º - 1. Serão organizados cursos de frequência obrigatória tendo em vista a preparação e aperfeiçoamento do pessoal no que se refere designadamente aos problemas específicos da actividade técnica e administrativa da Direcção-Geral de Portos.
+Art. 8.º - 1. Serão organizados cursos de frequência obrigatória tendo em vista a preparação e aperfeiçoamento do pessoal no que se refere designadamente aos problemas específicos da actividade técnica e administrativa da Direcção-Geral de Portos.
 
 2. Por despacho do Ministro dos Transportes e Comunicações, os actuais concursos de promoção poderão ser substituídos por cursos de formação adequados.
 
@@ -140,22 +164,22 @@ e) No lugar de motorista, os actuais motoristas assalariados, com três ou mais 
 
 4. Os cursos poderão ser professados por funcionários da Direcção-Geral ou por indivíduos estranhos com especial competência nas matérias a tratar, sendo as respectivas remunerações, nesta última hipótese, fixadas pelo Ministro dos Transportes e Comunicações, mediante proposta do director-geral.
 
-###### Art. 9.º As dúvidas e os casos omissos resultantes da aplicação do presente diploma serão resolvidos por despacho do Ministro dos Transportes e Comunicações e ainda do Ministro das Finanças, quando envolvam matéria da respectiva competência.
+Art. 9.º As dúvidas e os casos omissos resultantes da aplicação do presente diploma serão resolvidos por despacho do Ministro dos Transportes e Comunicações e ainda do Ministro das Finanças, quando envolvam matéria da respectiva competência.
 
-###### Art. 10.º Este diploma entra em vigor na data da sua publicação.
+Art. 10.º Este diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - José Augusto Fernandes.
 
-**Promulgado em 5 de Maio de 1976.**
+Promulgado em 5 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 MAPA ANEXO
 
 Pessoal e vencimentos da Direcção-Geral de Portos e Juntas Autónomas dos Fortes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/11500/11081109.pdf))](https://files.diariodarepublica.pt/1s/1976/05/11500/11081109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/11500/11081109.pdf)
 
-**O Ministro dos Transportes e Comunicações, José Augusto Fernandes.**
+O Ministro dos Transportes e Comunicações, José Augusto Fernandes.

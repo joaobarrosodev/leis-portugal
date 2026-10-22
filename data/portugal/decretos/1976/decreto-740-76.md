@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/740-1976-409677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bb0da629432cd3eb641fe2b55f930fd29473434410c0336b5accc5a3fbb388b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3010cc23d09998e3e13dffbd93012a12706ac47d03c84eac7bfcdd0c5ebf335d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contabilidade Pública
+- Direcção Geral da Contabilidade Pública
+- Ministério das Finanças
+- Orçamento
+- Orçamento Geral do Estado
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:02Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +98,7 @@ Com fundamento nas disposições do artigo 3.º) do [Decreto-Lei n.º 24914](htt
 
 O Governo decreta, nos termos do artigo 202.º, alínea g), da Constituição, o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de «Despesas de anos findos» inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de «Despesas de anos findos» inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -139,7 +148,7 @@ Ministério da Agricultura e Pescas
 
 Despesas do ano de 1975 referentes a ajudas de custo e telefones individuais, a satisfazer pelo Instituto de Reorganização Agrária e Secretaria-Geral do extinto Ministério da Economia ... 189028$70
 
-###### Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
+Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
 
 Defesa Nacional
 
@@ -155,7 +164,7 @@ Ministério da Agricultura e Pescas
 
 Encargos do ano de 1975 referentes a administração de propriedades, a pagar pelo Instituto de Reorganização Agrária, em conta da correspondente dotação inscrita no capítulo 17.º artigo 140.º n.º 1 ... 11002702$70
 
-###### Art. 3.º Ficam também autorizados a satisfazer as quantias abaixo indicadas, pelas verbas consignadas a «Despesas de anos findos» dos seus actuais orçamentos privativos, os seguintes serviços:
+Art. 3.º Ficam também autorizados a satisfazer as quantias abaixo indicadas, pelas verbas consignadas a «Despesas de anos findos» dos seus actuais orçamentos privativos, os seguintes serviços:
 
 Casa Pia de Lisboa
 
@@ -167,8 +176,8 @@ Despesas dos anos de 1974 e 1975 referentes a abono para falhas ... 3800$00
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Firmino Miguel - António Francisco Barroso de Sousa Gomes - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira - José Manuel de Medeiros Ferreira - António Poppe Lopes Cardoso - Walter Ruivo Pinto Gomes Rosa - António Miguel Morais Barreto - Francisco Manuel Marcelo Monteiro Curto - Mário Augusto Sottomayor Leal Cardia - Armando Bacelar - Emílio Rui da Veiga Peixoto Vilar - João Orlindo de Almeida Pina - Eduardo Ribeiro Pereira.
 
-**Promulgado em 8 de Outubro de 1976.**
+Promulgado em 8 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

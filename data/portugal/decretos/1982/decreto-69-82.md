@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13100/16321633.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/69-1982-395701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bc1a0dacdfc12ee8e552689b30056dc1e2e1d44766a45564fa7e73021c0bee3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8679a2780cad586f3cc88ca7ebf3bbd116b2e7ee1da6fcdbc6a453f75c4c47c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Forças Armadas
+- Tropa Paraquedista
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451630:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:40Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +152,7 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 Subespecialidades e funções
 
-###### Artigo 1.º - 1 - Na categoria de praças pára-quedistas estão englobadas as seguintes subespecialidades:
+Artigo 1.º - 1 - Na categoria de praças pára-quedistas estão englobadas as seguintes subespecialidades:
 
 a) Operadores;
 
@@ -130,7 +182,7 @@ Execução de aprendizagem.
 
 Situações, vencimentos e abonos
 
-###### Art. 2.º - 1 - As praças pára-quedistas em serviço nas tropas pára-quedistas podem encontrar-se numa das seguintes situações:
+Art. 2.º - 1 - As praças pára-quedistas em serviço nas tropas pára-quedistas podem encontrar-se numa das seguintes situações:
 
 a) Em preparação para ingresso definitivo nas tropas pára-quedistas, até ao final do tirocínio de pára-quedismo;
 
@@ -144,7 +196,7 @@ d) Readmitidas - praças que permaneçam na efectividade de serviço a seu pedid
 
 3 - Para efeito de vencimentos e abonos, são consideradas equivalentes a militares dos quadros permanentes as praças nas situações indicadas nas alíneas c) e d) do n.º 1.
 
-###### Art. 3.º - 1 - As praças pára-quedistas agrupam-se hierarquicamente segundo os seguintes postos:
+Art. 3.º - 1 - As praças pára-quedistas agrupam-se hierarquicamente segundo os seguintes postos:
 
 Primeiro-cabo;
 
@@ -156,7 +208,7 @@ Soldado.
 
 3 - As condições de admissão das praças ao curso de formação de sargentos pára-quedistas dos quadros permanentes e de ingresso nos respectivos quadros são as fixadas no [Decreto n.º 105/78](https://diariodarepublica.pt/dr/detalhe/decreto/105-1978-329025), de 29 de Setembro, estando-lhes vedada a admissão aos cursos de formação de sargentos das outras especialidades da Força Aérea.
 
-###### Art. 4.º Os efectivos das praças pára-quedistas em serviço efectivo nas tropas pára-quedistas são os seguintes:
+Art. 4.º Os efectivos das praças pára-quedistas em serviço efectivo nas tropas pára-quedistas são os seguintes:
 
 a) Praças em preparação - de acordo com as dotações orçamentadas anualmente para o pessoal desta rubrica;
 
@@ -166,7 +218,7 @@ c) Praças contratadas - de acordo com as dotações orçamentadas para o pessoa
 
 d) Praças readmitidas - de acordo com os quadros de pessoal: mapa 1, C), anexo à [Portaria n.º 508/76](https://diariodarepublica.pt/dr/detalhe/portaria/508-1976-429636), de 12 de Agosto.
 
-###### Art. 5.º - 1 - A permanência na efectividade para além do tempo normal de serviço efectivo regula-se pelas condições seguintes:
+Art. 5.º - 1 - A permanência na efectividade para além do tempo normal de serviço efectivo regula-se pelas condições seguintes:
 
 a) A situação de contratado tem início após o termo do tempo normal de serviço efectivo e pode prolongar-se por um máximo de 3 períodos de contrato, renováveis, de 1 ano cada um;
 
@@ -174,11 +226,11 @@ b) A situação de readmitido pode ter início na data em que o militar perfizer
 
 2 - O período de 3 anos referido na alínea a) do número anterior pode ser ampliado pelo Chefe do Estado-Maior da Força Aérea, a título excepcional, no caso de a praça não ter vaga como readmitida e desejar permanecer no serviço efectivo na situação de contratada aguardando vaga.
 
-###### Art. 6.º - 1 - As praças contratadas e readmitidas mantêm-se vinculadas ao serviço por meio de contratos, vigentes após deferimento do requerimento dos interessados nesse sentido.
+Art. 6.º - 1 - As praças contratadas e readmitidas mantêm-se vinculadas ao serviço por meio de contratos, vigentes após deferimento do requerimento dos interessados nesse sentido.
 
 2 - Os contratos referidos no n.º 1 são renovados de acordo com normas a estabelecer pelo Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 7.º - 1 - O tempo normal de serviço efectivo a prestar pelas praças pára-quedistas é o estabelecido na Lei do Serviço Militar, presentemente no artigo 40.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968.
+Art. 7.º - 1 - O tempo normal de serviço efectivo a prestar pelas praças pára-quedistas é o estabelecido na Lei do Serviço Militar, presentemente no artigo 40.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968.
 
 2 - As praças que tenham sido incorporadas como voluntárias ficam obrigadas a mais 1 ano de serviço para além do tempo referido no número anterior.
 
@@ -186,22 +238,22 @@ b) A situação de readmitido pode ter início na data em que o militar perfizer
 
 Disposições diversas
 
-###### Art. 8.º - 1 - As praças pára-quedistas que actualmente se encontram autorizadas a permanecer na efectividade de serviço por períodos de 3 anos ficam abrangidas pelo disposto nos n.os 1 e 2 do artigo 6.º, o termo do actual período.
+Art. 8.º - 1 - As praças pára-quedistas que actualmente se encontram autorizadas a permanecer na efectividade de serviço por períodos de 3 anos ficam abrangidas pelo disposto nos n.os 1 e 2 do artigo 6.º, o termo do actual período.
 
 2 - As praças pára-quedistas readmitidas que à data da publicação do [Decreto-Lei n.º 272/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1978-329867), de 6 de Setembro, haviam iniciado o respectivo período de readmissão com idade superior a 30 anos podem ser autorizadas a continuar na efectividade de serviço em regime de prorrogação automática de readmissão, ficando abrangidas pelo disposto no [Decreto-Lei n.º 514/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1979-365764), de 28 de Dezembro.
 
 3 - As praças pára-quedistas readmitidas que se encontram na efectividade de serviço por terem sido convocadas ao abrigo do disposto no [Decreto-Lei n.º 577-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-a-1975-451630), de 8 de Outubro, ficam nas condições referidas no número anterior, independentemente da sua idade.
 
-###### Art. 9.º - 1 - As praças pára-quedistas incorporadas directamente pelas tropas pára-quedistas são inscritas no serviço geral da Força Aérea, que é considerado a sua especialidade de origem.
+Art. 9.º - 1 - As praças pára-quedistas incorporadas directamente pelas tropas pára-quedistas são inscritas no serviço geral da Força Aérea, que é considerado a sua especialidade de origem.
 
 2 - As praças pára-quedistas a que se refere o número anterior que deixem de possuir as condições exigidas para a prática de pára-quedismo regressam à sua especialidade de origem ou são reclassificadas noutras especialidades da Força Aérea, se, entretanto, forem julgadas com a aptidão técnica necessária para o efeito, sem prejuízo do disposto no [Decreto-Lei n.º 776/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/776-1975-355357), de 31 de Dezembro.
 
-###### Art. 10.º As dúvidas e casos omissos serão resolvidos por despacho do Chefe do Estado-Maior da Força Aérea.
+Art. 10.º As dúvidas e casos omissos serão resolvidos por despacho do Chefe do Estado-Maior da Força Aérea.
 
 Visto e aprovado em Conselho da Revolução em 5 de Maio de 1982.
 
-**Promulgado em 19 de Maio de 1982.**
+Promulgado em 19 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

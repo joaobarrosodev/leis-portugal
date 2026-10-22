@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 155/1976, 1º Suplemento, Série I de 1976-07-05
   number: '155'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1476-(2) a 1476-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15501/00020003.pdf
 entry_into_force_dates: []
@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/524-a-1976-353919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfbffeef719d30df87fc9f85d68d64dd7a992fee55167e9123d8466f59ea73ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b967ddd5ba34dbc151a887eb153dc0e65913a732b2a29bf4804e8a2b21b57e3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Cidade da Praia
+- Convenção
+- Portugal
+- Sociedade de Responsabilidade Limitada
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:45Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 5 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre a República Portuguesa e a República de Cabo Verde relativo à Congel - Companhia de Pesca e Congelação de Cabo Verde, S. A. R. L., assinado em 15 de Abril de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo entre a República Portuguesa e a República de Cabo Verde relativo à Congel - Companhia de Pesca e Congelação de Cabo Verde, S. A. R. L., assinado em 15 de Abril de 1976, cujo texto vai anexo ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa. - Vítor Manuel Trigueiros Crespo - Ernesto Augusto de Melo Antunes - Vítor Manuel Ribeiro Constâncio.
 
-**Assinado em 1 de Julho de 1976.**
+Assinado em 1 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE RELATIVO À CONGEL - COMPANHIA DE PESCA E CONGELAÇÃO DE CABO VERDE, S. A. R. L.
 
@@ -115,31 +120,31 @@ c) Créditos de outras nacionalidades: 3000 contos.
 
 O Governo Português e o Governo de Cabo Verde acordam no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O Estado de Cabo Verde promoverá a convocação da assembleia geral da sociedade, com o objectivo de a dissolver, mediante acordo de credores.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 O Estado de Cabo Verde compromete-se a cobrir, até 65000 contos, a aquisição do activo da empresa.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Nos termos da lei aplicável, o valor de aquisição do activo será rateado pelos credores, na proporção dos seus créditos, prescindindo o Estado Português, o Estado de Cabo Verde e as empresas ou instituições do sector público dos respectivos países dos privilégios creditórios que detenham, com excepção dos que se referem a dívidas relativas a pagamentos efectuados ao pessoal, no montante de 5700000$00, e ao levantamento do arresto do navio Pedra Badejo.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O Estado Português aplicará a parte que lhe couber no rateio na liquidação de responsabilidades do sector público português em Cabo Verde emergentes dos acordos celebrados.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 O Estado de Cabo Verde compromete-se a iniciar desde já as diligências necessárias ao cumprimento do presente acordo.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 O Estado Português pôr-se-á à disposição do Estado de Cabo Verde, a solicitação deste, para o acompanhamento do processo de liquidação acordado.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Este acordo entrará em vigor na data da sua assinatura.
 

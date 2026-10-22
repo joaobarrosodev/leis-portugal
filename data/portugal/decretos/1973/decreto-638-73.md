@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/638-1973-410948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:31:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baa356fd1f998bd7649ff80efbbbfdf68cefa5b44435333b243a648400476794
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22624e1a524683c8055df3691b975638e82e9384aabe6045e301f89cc918f9c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:31:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:31:14Z'
   warnings: []
   errors: []
 ---
@@ -88,62 +92,62 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 2163000$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 2163000$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
 Ministério do Exército
 
-### Capítulo 5.º «Serviços do quartel-mestre»:
+Capítulo 5.º «Serviços do quartel-mestre»:
 
 Direcção do Serviço de Fortificações e Obras Militares
 
-###### Artigo 300.º «Bens duradouros», n.º 1 «Construções e grandes reparações» ... 300000$00
+Artigo 300.º «Bens duradouros», n.º 1 «Construções e grandes reparações» ... 300000$00
 
 Ministério das Obras Públicas
 
 Secretaria de Estado do Urbanismo e Habitação
 
-### Capítulo 13.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 13.º «Direcção-Geral dos Serviços de Urbanização»:
 
-###### Artigo 238.º «Despesas gerais de funcionamento», n.º 2 «Locação de bens» ... 63000$00
+Artigo 238.º «Despesas gerais de funcionamento», n.º 2 «Locação de bens» ... 63000$00
 
 Ministério da Economia
 
-### Capítulo 24.º «Contas de ordem»:
+Capítulo 24.º «Contas de ordem»:
 
-###### Artigo 450.º «Direcção-Geral dos Serviços Agrícolas», n.º 1 «Serviços centrais», alínea 1 «Condicionamento do plantio da vinha e fomento vitivinícola» ... 1500000$00
+Artigo 450.º «Direcção-Geral dos Serviços Agrícolas», n.º 1 «Serviços centrais», alínea 1 «Condicionamento do plantio da vinha e fomento vitivinícola» ... 1500000$00
 
 Ministério das Comunicações
 
-### Capítulo 14.º «Junta Autónoma dos Portos»:
+Capítulo 14.º «Junta Autónoma dos Portos»:
 
 Do Norte (Viana do Castelo)
 
-###### Artigo 374.º «Investimentos», n.º 1 «Maquinaria e equipamento» ... 300000$00
+Artigo 374.º «Investimentos», n.º 1 «Maquinaria e equipamento» ... 300000$00
 
 ... 2163000$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao orçamento geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao orçamento geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 63000$00
+Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 63000$00
 
-### Capítulo 9.º, grupo 9, artigo 135.º «Serviços gerais. - Desamortização de imóveis» ... 300000$00
+Capítulo 9.º, grupo 9, artigo 135.º «Serviços gerais. - Desamortização de imóveis» ... 300000$00
 
-### Capítulo 15.º, artigo 183.º «Direcção-Geral dos Serviços Agrícolas: Serviços centrais - Condicionamento do plantio da vinha e fomento vitivinícola» ... 1500000$00
+Capítulo 15.º, artigo 183.º «Direcção-Geral dos Serviços Agrícolas: Serviços centrais - Condicionamento do plantio da vinha e fomento vitivinícola» ... 1500000$00
 
 Receita extraordinária:
 
-### Capítulo 10.º, grupo 1, artigo 203.º «Serviços autónomos e empresas públicas» ... 300000$00
+Capítulo 10.º, grupo 1, artigo 203.º «Serviços autónomos e empresas públicas» ... 300000$00
 
 ... 2163000$00
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Alberto de Andrade e Silva - Rui Alves da Silva Sanches.
 
-**Promulgado em 21 de Novembro de 1973.**
+Promulgado em 21 de Novembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

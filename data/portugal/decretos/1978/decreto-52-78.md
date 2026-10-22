@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/12200/09400940.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/52-1978-294542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bd75b9b060ac2b125a124fd550fc3cdbad5fed921fc0c5db1bded250a33429b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c110512c6e4b560a8d22bcd4eb28236abce676a1daac8ae842cfd4f8a1f6527c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão
+- Comissariado para os Desalojados
+- Gratificação
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:139447:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:46Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +101,9 @@ Considerando ser necessário por este motivo elevar o nível daquelas gratifica�
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 1.º do [Decreto n.º 46/77](https://diariodarepublica.pt/dr/detalhe/decreto/46-1977-139447), de 6 de Abril, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º do [Decreto n.º 46/77](https://diariodarepublica.pt/dr/detalhe/decreto/46-1977-139447), de 6 de Abril, passa a ter a seguinte redacção:
 
-###### Artigo 1.º As gratificações mensais devidas aos cidadãos desalojados que integram as brigadas itinerantes e as comissões regionais, distritais e concelhias são fixadas como se segue:
+Artigo 1.º As gratificações mensais devidas aos cidadãos desalojados que integram as brigadas itinerantes e as comissões regionais, distritais e concelhias são fixadas como se segue:
 
 a) Quando seja aplicável regime de prestação de serviço a tempo completo equiparado ao da função pública:
 
@@ -109,12 +117,12 @@ b) Quando não seja aplicável o regime de prestação de serviço referido na a
 
 4000$00 aos vogais das comissões regionais e distritais.
 
-###### Art. 2.º Este diploma produz efeitos a partir de 1 de Janeiro de 1978.
+Art. 2.º Este diploma produz efeitos a partir de 1 de Janeiro de 1978.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 17 de Maio de 1978.**
+Promulgado em 17 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

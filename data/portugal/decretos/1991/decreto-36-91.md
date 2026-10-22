@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/36/1991/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1991-639488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91acbd0dd779e95f8a4a20435b37c030f6d5ac7e9edc2d3f3da3bece997610ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 810b529b4e206dbfb1420aac81764f0953beebd3980774db5e7bb38f0dd3f8b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
+- Cooperação Cultural
 - Educação
 - Portugal
-- Cooperação Cultural
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:56Z'
   warnings: []
   errors: []
 ---
@@ -90,25 +90,25 @@ de 17 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Cultural e Educacional entre a República Portuguesa e a República Federal da Nigéria, assinado em Lagos (Nigéria), a 25 de Maio de 1990, cujas versões autênticas nas línguas portuguesa e inglesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Cultural e Educacional entre a República Portuguesa e a República Federal da Nigéria, assinado em Lagos (Nigéria), a 25 de Maio de 1990, cujas versões autênticas nas línguas portuguesa e inglesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Março de 1991. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Roberto Artur da Luz Carneiro.
 
-**Assinado em 19 de Abril de 1991.**
+Assinado em 19 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Abril de 1991.**
+Referendado em 23 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Acordo de Cooperação Cultural e Educacional entre o Governo da República Portuguesa e o Governo da República Federal da Nigéria.
 
 O Governo da República Portuguesa e o Governo da República Federal da Nigéria (designados, daqui em diante, como «Partes Contratantes»), no intuito de reforçar as relações amistosas e a compreensão existente entre os dois países e de promover e encorajar a cooperação nas áreas da cultura, educação, juventude, desporto e informação, acordaram no seguinte:
 
-Artigo I
+###### Artigo I
 
 As Partes Contratantes promoverão a cooperação nas áreas da cultura, educação, desporto, juventude, informação e outras de interesse mútuo entre os dois países e, pare essa finalidade, cada uma das Partes Contratantes deverá proceder:
 
@@ -116,15 +116,15 @@ i) À troca de professores universitários e do ensino secundário, peritos, té
 
 ii) À outorga de bolsas de estudo a estudantes e licenciados para frequentarem universidades, instituições de ensino superior, institutos técnicos, laboratórios e outras instituições de educação das duas Partes.
 
-Artigo II
+###### Artigo II
 
 Cada Parte Contratante, dentro das suas possibilidades, esforçar-se-á por promover o estudo das línguas, cultura e literatura da outra Parte nas instituições de educação apropriadas do seu país.
 
-Artigo III
+###### Artigo III
 
 As Partes Contratantes encorajarão a divulgação mútua da sua cultura junto dos cidadãos da outra Parte, através da organização de programas de intercâmbio para os seus grupos teatrais e musicais, artistas, actores, músicos, escritores e jornalistas e por meio da organização de concertos, espectáculos musicais, exposições e conferências em ambos os países.
 
-Artigo IV
+###### Artigo IV
 
 1 - Com o objectivo de melhorar a compreensão e o conhecimento da cultura e civilização de cada uma das Partes, estas organizarão programas de intercâmbio de livros, periódicos, publicações culturais, revistas, jornais, fotografias, filmes e gravações áudio, bem como fornecerão informação e estatísticas sobre o desenvolvimento geral dos dois países.
 
@@ -134,17 +134,17 @@ Artigo IV
 
 4 - As Partes Contratantes facilitarão a cooperação entre as respectivas instituições que se dedicam a actividades culturais com o objectivo de realizar totalmente o presente Acordo.
 
-Artigo V
+###### Artigo V
 
 1 - Cada Parte Contratante proporcionará, tanto quanto possível, aos cidadãos da outra o mesmo tipo de facilidades de educação concedidas aos seus cidadãos.
 
 2 - Cada Parte Contratante concederá aos estudantes da outra Parte os mesmos privilégios e vantagens normalmente postos à disposição dos seus cidadãos.
 
-Artigo VI
+###### Artigo VI
 
 Cada Parte Contratante comprometer-se-á, na medida do possível, e num quadro de reciprocidade, a proporcionar a cidadãos da outra Parte a frequência de escolas, instituições de ensino superior e centros de investigação, desde que os respectivos requisitos de admissão sejam cumpridos.
 
-Artigo VII
+###### Artigo VII
 
 1 - Cada Parte Contratante esforçar-se-á por conceder bolsas a estudantes da outra Parte para frequência das suas universidades e instituições de ensino superior.
 
@@ -152,15 +152,15 @@ Artigo VII
 
 3 - No quadro de uma assistência técnica mútua, cada Parte Contratante poderá solicitar à outra Parte que ponha à sua disposição os peritos de que necessita, incluindo professores, conferencistas, outros académicos e investigadores médicos. Estes intercâmbios ocorrerão depois de os necessários contactos terem sido efectuados pelas instituições adequadas.
 
-Artigo VIII
+###### Artigo VIII
 
 Cada Parte Contratante esforçar-se-á por pôr à disposição de outra estatísticas de educação, informação e materiais que possam dar um contributo útil para o seu desenvolvimento educativo.
 
-Artigo IX
+###### Artigo IX
 
 As Partes Contratantes promoverão a cooperação entre as organizações desportivas a fim de desenvolver o desporto e com o objectivo de criar condições para a realização de competições desportivas amigáveis entre os dois países.
 
-Artigo X
+###### Artigo X
 
 Cada Parte Contratante encorajará:
 
@@ -168,39 +168,39 @@ i) A permuta de informações e peritos ligados ao desenvolvimento social nas á
 
 ii) O intercâmbio recíproco de programas nas áreas do desenvolvimento juvenil e do treino de monitores.
 
-Artigo XI
+###### Artigo XI
 
 As Partes Contratantes, para aplicação do presente Acordo, elaborarão conjuntamente e coordenarão, através dos canais diplomáticos, programas bienais de intercâmbios culturais e educacionais. As negociações com esta finalidade decorrerão alternadamente nas capitais dos dois países.
 
-Artigo XII
+###### Artigo XII
 
 As Partes Contratantes esforçar-se-ão por deter o tráfico ilegal de obras de arte ou documentos de valor histórico ou profissional, assim contribuindo para a salvaguarda e preservação do património cultural de cada uma delas.
 
-Artigo XIII
+###### Artigo XIII
 
 Os aspectos financeiros relativos à aplicação do presente Acordo serão regulados numa base comum.
 
-Artigo XIV
+###### Artigo XIV
 
 Qualquer discrepância que possa ocorrer na interpretação deste Acordo será amigavelmente resolvida pelas Partes Contratantes através de via diplomática.
 
-Artigo XV
+###### Artigo XV
 
 Qualquer emenda ou revisão deste Acordo será feita por escrito e entrará em vigor depois de ambas as Partes terem dado a sua aprovação.
 
-Artigo XVI
+###### Artigo XVI
 
 Este Acordo não afectará a validade ou execução de qualquer compromisso decorrente de outros acordos, convenções, tratados ou protocolos internacionais assinados por qualquer das Partes.
 
-Artigo XVII
+###### Artigo XVII
 
 O presente Acordo entrará em vigor na data da troca de notas declarando que ele foi aprovado em conformidade com os requisitos legais necessários das duas Partes.
 
-Artigo XVIII
+###### Artigo XVIII
 
 O presente Acordo será válido por um período de cinco anos. Posteriormente, a sua validade será, automática e sucessivamente, renovada por períodos de um ano, por acordo tácito, excepto se denunciado, por escrito, por uma das Partes Contratantes com uma antecedência de seis meses em relação à data do seu termo.
 
-Artigo XIX
+###### Artigo XIX
 
 No termo do Acordo as suas disposições e as disposições de qualquer protocolo, contrato ou acordo adicional continuarão a regulamentar quaisquer compromissos ou projectos que ainda se encontrem em fase de realização. Esses compromissos ou projectos deverão ser completados.
 

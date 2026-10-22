@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/71-1979-382175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff2f56485ba030980571b618137551d7e9ff62546b4f7848fdc68c5d3c52bfba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60ccefbefb150ae32261c0387c0c64511054c0764f662fd1bdd46775b9f64d5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola
+- Comércio
+- Convenção
+- Cooperação Económica
+- Luanda
+- Marinha Mercante
+- Navegação Marítima
+- Portugal
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:340235:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:340235:por
+  label: "Alterado o art. VI do presente Acordo pelo Protocolo de Alteração aprovado pelo DEC.17/2001.2001.05.23.MNE DR.IS-A\
+    \ [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/17-2001-340235
+  date: '2001-05-23'
+- type: corrected_by
+  target: pt:dre:378541:por
+  label: Rectificado pela DECL.DD7271.29.08.1979.PCM, DR.IS [199] de 29.08.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-378541
+  date: '1979-08-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:42Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +110,15 @@ de 18 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre a República Portuguesa e a República Popular de Angola sobre a Marinha Mercante, assinado em Luanda, em 28 de Abril de 1979, cujo texto em língua portuguesa acompanha o presente decreto.
+Artigo único. É aprovado o Acordo entre a República Portuguesa e a República Popular de Angola sobre a Marinha Mercante, assinado em Luanda, em 28 de Abril de 1979, cujo texto em língua portuguesa acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Junho de 1979. - Carlos Alberto da Mota Pinto. - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 21 de Junho de 1979.**
+Assinado em 21 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo entre a República Portuguesa e a República Popular de Angola sobre a Marinha Mercante
 
@@ -110,7 +130,7 @@ Animados por um desejo comum de intensificar e de harmonizar o intercâmbio come
 
 decidem celebrar o seguinte Acordo:
 
-ARTIGO I
+###### ARTIGO I
 
 1 - Para efeitos do presente Acordo a expressão «navio da Parte Contratante» compreende qualquer navio matriculado em conformidade com a legislação em vigor no território de cada Parte Contratante e navegando sob a sua bandeira. Ficam excluídos:
 
@@ -126,7 +146,7 @@ d) Embarcações de pesca.
 
 3 - A expressão «membro da tripulação» compreende o comandante ou qualquer pessoa efectivamente admitida a bordo de um navio para o exercício de funções ligadas à sua exploração ou à sua manutenção e incluída no rol de matrícula.
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes Contratantes adoptarão no domínio dos transportes marítimos entre os seus países princípios de igualdade, mútuo benefício e vantagens recíprocas.
 
@@ -144,23 +164,23 @@ e) Não dificultar a participação de navios de uma das Partes Contratantes nos
 
 f) Promover formas concretas de cooperação entre os armadores dos dois países nas áreas e tráfegos considerados de interesse mútuo.
 
-ARTIGO III
+###### ARTIGO III
 
 1 - Cada uma das Partes Contratantes assegurará nos seus portos aos navios da outra Parte Contratante o mesmo tratamento que concede aos seus próprios navios no que respeita à liberdade de acesso aos portos, utilização dos portos para embarque e desembarque de passageiros e cargas e facilidade de carga e descarga, utilização dos serviços destinados à navegação e exercício de operações comerciais normais.
 
 2 - O disposto no n.º 1 deste artigo não obrigará uma Parte Contratante a tornar extensivas aos navios da outra Parte Contratante as isenções relativas a normas obrigatórias de pilotagem que haja concedido aos seus próprios navios, nem tão-pouco é aplicável a situações abrangidas por disposições legais respeitantes à entrada e permanência de estrangeiros.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Contratantes adoptarão, dentro dos limites da lei e regulamentos portuários, todas as medidas apropriadas para facilitar e acelerar o tráfego marítimo, impedir demoras dos navios nos portos e acelerar e simplificar, tanto quanto possível, as formalidades administrativas, alfandegárias e sanitárias.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - Os documentos que certificam a nacionalidade dos navios, os certificados de arqueação e outros documentos do navio emitidos ou reconhecidos por uma das Partes Contratantes serão reconhecidos também pela outra Parte.
 
 2 - O cálculo e a cobrança das imposições marítimas e das taxas de navegação far-se-ão com base nos certificados de arqueação referidos no número anterior.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - As Partes Contratantes terão direito de participar, em partes iguais, no transporte marítimo das mercadorias entre os portos da República Portuguesa e os portos da República Popular de Angola.
 
@@ -172,15 +192,15 @@ ARTIGO VI
 
 5 - O que vier a ser acordado pelos armadores de ambos os países ficará sujeito à aprovação das autoridades competentes respectivas, em conformidade com a legislação de cada Estado.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As Partes Contratantes garantem a execução das diligências necessárias com vista à rápida liquidação dos fretes devidos aos armadores e à imediata transferência das verbas correspondentes.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As Partes Contratantes, conscientes das vantagens resultantes do estabelecimento de relações de cooperação no domínio dos transportes marítimos, comprometem-se a celebrar um Acordo Especial de Cooperação no Domínio dos Transportes Marítimos.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Cada Parte Contratante concederá aos portadores de documentos de identidade de marítimo emitidos pela autoridade competente da outra Parte Contratante os direitos estabelecidos nos artigos X e XI do presente Acordo.
 
@@ -190,7 +210,7 @@ Para os marítimos dos navios da República Portuguesa - Cédula Marítima de Po
 
 Para os marítimos dos navios da República Popular de Angola - Cédula Marítima de Angola.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - Aos possuidores dos documentos de identidade de marítimo especificados no artigo anterior é permitido, quando membros da tripulação de um navio de uma Parte Contratante, permanecer em terra durante a estadia do mesmo navio num porto da outra Parte Contratante, desde que figurem no rol de matrícula do navio e na lista entregue às autoridades do porto.
 
@@ -202,7 +222,7 @@ ARTIGO X
 
 5 - Cada Parte Contratante reserva-se o direito de impedir a entrada no seu território aos marítimos que considere indesejáveis.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1 - No caso de um membro da tripulação de um navio de uma das Partes Contratantes cometer qualquer infracção a bordo, encontrando-se o navio em águas territoriais da outra Parte Contratante, as autoridades judiciais desta Parte não procederão contra o respectivo infractor sem que para tal hajam obtido o necessário consentimento da entidade consular ou diplomática competente daquela Parte Contratante.
 
@@ -218,7 +238,7 @@ d) O comércio proibido de estupefacientes.
 
 3 - O disposto nos n.os 1 e 2 deste artigo não prejudica o direito de contrôle e investigação das autoridades de cada Parte Contratante, nos termos da respectiva legislação em vigor.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1 - Se um navio de uma das Partes Contratantes naufragar, encalhar, ou sofrer qualquer dano ou avaria ao largo da costa da outra Parte, o navio e a sua carga gozarão, no território desta última Parte, dos mesmos benefícios e privilégios e suportarão os mesmos encargos que forem atribuídos a um navio desta Parte e à sua carga.
 
@@ -230,17 +250,17 @@ ARTIGO XII
 
 5 - O disposto no número anterior não invalida a aplicação de normas relativas à armazenagem temporária de mercadorias.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Cada Parte Contratante garante no seu território a execução das sentenças dos tribunais da outra Parte em que estejam envolvidos os seus armadores.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1 - Com vista a apreciar a forma como decorrem as relações no sector dos transportes marítimos entre os dois países, propor as providências necessárias à aplicação do presente Acordo e resolver as dificuldades que possam surgir na sua execução, será criada uma comissão mista, constituída por membros nomeados pelos dois Governos.
 
 2 - A referida comissão integrar-se-á na comissão mista permanente de cooperação prevista no artigo 10.º do Acordo Geral de Cooperação celebrado entre as Partes Contratantes, podendo ainda reunir-se a pedido de qualquer das Partes, em lugar e data previamente acordados.
 
-ARTIGO XV
+###### ARTIGO XV
 
 1 - O presente Acordo entrará em vigor na data da troca de notas pelas quais cada uma das Partes Contratantes comunique à outra que se encontram cumpridas as formalidades exigidas pela respectiva ordem jurídica interna.
 

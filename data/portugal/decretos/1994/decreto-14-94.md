@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/14/1994/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/14-1994-264174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 579bfe5872b7bce691d5c5cb5b879fcdddcf70a9184f6306270a13c7487864dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b855f12fb5c21e22b7089db5f2766bc8ab2bac8122236ba4a93943fdd295af1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Formação Profissional
-- Formação Profissional
 - Convenção
-- Cooperação Técnica
-- Portugal
 - Cooperação Agrícola
+- Cooperação Técnica
+- Formação Profissional
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:00Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 14 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação entre a República Portuguesa e a República Democrática de São Tomé e Príncipe para a Prestação de Apoio ao Centro de Formação Profissional Agrária - CENFOPA, assinado em Lisboa em 11 de Julho de 1993, cujo texto original segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Cooperação entre a República Portuguesa e a República Democrática de São Tomé e Príncipe para a Prestação de Apoio ao Centro de Formação Profissional Agrária - CENFOPA, assinado em Lisboa em 11 de Julho de 1993, cujo texto original segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Durão Barroso - Arlindo Marques da Cunha.
 
-**Assinado em 25 de Fevereiro de 1994.**
+Assinado em 25 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Março de 1994.**
+Referendado em 1 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE PARA A PRESTAÇÃO DE APOIO AO CENTRO DE FORMAÇÃO PROFISSIONAL AGRÁRIA - CENFOPA.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/67/1997/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/67-1997-321683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3c41c352d29eddc7e323a6b45ac70e770720d76c7c1ccf02185b4bc74ef26e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b76abae738c5fa98844dcb3a64292f6b6b572b6cb5d4c0b69261995f9a2e2d26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,99 @@ relationships:
   target: pt:dre:895287960:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2594534:por
+  label: "Alterada a designação do bem classificado «Paço do Lumiar» (conjunto), para «Paço do Lumiar», assim como a respetiva\
+    \ categoria de classificação - de imóvel de interesse público (IIP) para conjunto de interesse público (CIP) - e área\
+    \ de delimitação fixada no presente diploma pela PORT.644/2012.02.11.2012.SECU-PCM, DR.IIS [212] de 02.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/644-2012-2594534
+  date: '2012-11-02'
+- type: amended_by
+  target: pt:dre:2213908:por
+  label: "Fixada a zona especial de proteção da Casa do Seixal e Capela da Madre de Deus, em Vera Cruz, Aveiro, pela PORT.740-CT/2012.24.12.2012.SECU-PCM,\
+    \ DR.IIS [248-Supl.] de 24.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/740-ct-2012-2213908
+  date: '2012-12-24'
+- type: amended_by
+  target: pt:dre:632415:por
+  label: "Alterada a designação da «Igreja de Salzedas» para «Mosteiro de Santa Maria de Salzedas» e ampliada a àrea classificada,\
+    \ fixada pelo presente diploma, pelo DEC.31-I/2012.31.12.2012.PCM, DR.IS [252-4ºSupl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/31-i-2012-632415
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:25689620:por
+  label: "Fixada a zona especial de proteção do Mosteiro de Santa Maria de Salzedas, classificado como monumento nacional\
+    \ pelo presente diploma, pela PORT.291/2014.30.04.2014.SECU-PCM, DR.IIS [83] de 30.04.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/291-2014-25689620
+  date: '2014-04-30'
+- type: amended_by
+  target: pt:dre:25704745:por
+  label: "Fixada a zona especial de proteção da Igreja, sacristia, claustro e respetiva fonte e cruzeiro de Paço de Sousa,\
+    \ no lugar do Mosteiro, freguesia de Paço de Sousa, concelho de Penafiel, distrito do Porto, classificados como monumento\
+    \ nacional conforme o Dec DD724 de 23-jun-1910, na redação do presente diploma, pela PORT.397/2014.29.05.2014.SECU-PCM,\
+    \ DR.IIS [103] de 29.05.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/397-2014-25704745
+  date: '2014-05-29'
+- type: amended_by
+  target: pt:dre:66538922:por
+  label: Alterada a área classificada, a designação e a categoria de classificação Cineteatro Tivoli e respetivo palco pelo(a)
+    Port 118/2015 - Diário da República n.º 35/2015, Série II de 2015-02-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/118-2015-66538922
+  date: '2015-02-19'
+- type: amended_by
+  target: pt:dre:74539164:por
+  label: Fixada a zona especial de proteção do Palácio Vale Flor (conjunto), incluindo o palácio, Casa da França, lavandaria,
+    cocheiras e garagem, bem como todo o jardim murado e as construções decorativas que o integram, na Rua Jau, 52 a 60, na
+    Calçada de Santo Amaro, 176 a 176-A, na Rua João de Barros, 31, na Rua Soares de Passos, 5 a 5-A, e na Travessa dos Moinhos,
+    39 a 39-A, Lisboa, freguesia de Alcântara, concelho e distrito de Lisboa, classificado como monumento nacional pelo presente
+    despacho, pelo(a) Portaria n.º 160/2016 - Diário da República n.º 102/2016, Série II de 2016-05-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/160-2016-74539164
+  date: '2016-05-27'
+- type: amended_by
+  target: pt:dre:895287960:por
+  label: Alterada a área classificada como imóvel de interesse público pelo presente diploma, pelo(a) Decreto n.º 6/2024 -
+    Diário da República n.º 213/2024, Série I de 2024-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/6-2024-895287960
+  date: '2024-11-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/1997/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/120/1997/05/16/p/dre
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:278071:por
+  label: Rectificado o anexo II pelo DEC.5/2002.2002.02.19.MC, DR.IS [42]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/5-2002-278071
+  date: '2002-02-19'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:34Z'
   warnings: []
   errors: []
 ---
@@ -148,15 +227,15 @@ Presidência do Conselho de Ministros, 30 de Outubro de 1997.
 
 António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Manuel Maria Ferreira Carrilho.
 
-**Assinado em 3 de Dezembro de 1997.**
+Assinado em 3 de Dezembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Dezembro de 1997.**
+Referendado em 9 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Monumentos nacionais
 
@@ -746,4 +825,4 @@ Conjunto megalítico de Felgueiras-Feirão, freguesias de Felgueiras e de Feirã
 
 ## ANEXO IV — Plantas de delimitação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/301b00/68926903.pdf))](https://files.diariodarepublica.pt/1s/1997/12/301b00/68926903.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/301b00/68926903.pdf)

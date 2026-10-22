@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 155/1976, 1º Suplemento, Série I de 1976-07-05
   number: '155'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1476-(4) a 1476-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15501/00040008.pdf
 entry_into_force_dates: []
@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/524-d-1976-353922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b3e205bbadbe6d8d023372079f15ff70b3d57730852e42f645d132783ae7be5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 063d5587931878974cc85deefe86a7e2446d1920d3f6fe0e8c5cfc10bc0eb537
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Lisboa
+- Portugal
+- Transporte Aéreo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:47Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 5 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Relativo a Transporte Aéreo entre Portugal e Cabo Verde, assinado em 16 de Fevereiro de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Relativo a Transporte Aéreo entre Portugal e Cabo Verde, assinado em 16 de Fevereiro de 1976, cujo texto vai anexo ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Ernesto Augusto de Melo Antunes - José Augusto Fernandes.
 
-**Assinado em 1 de Julho de 1976.**
+Assinado em 1 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO RELATIVO A TRANSPORTE AÉREO ENTRE PORTUGAL E CABO VERDE
 
@@ -106,11 +111,11 @@ Conscientes da necessidade de que esses serviços se desenvolvam de maneira orde
 
 Acordam no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 As Partes Contratantes concedem-se reciprocamente os direitos e as vantagens referidas neste Acordo com o objectivo de estabelecer serviços aéreos civis internacionais sobre as rotas especificadas no anexo ao presente Acordo.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Para os efeitos do presente Acordo, os termos seguintes significam:
 
@@ -122,7 +127,7 @@ c) «Empresa designada» compreende a empresa de transporte aéreo designada pel
 
 d) «Convenção» significa Convenção sobre Aviação Civil Internacional aberta à assinatura em Chicago aos 7 dias de Dezembro de 1944 e inclui qualquer anexo adoptado nos termos do artigo 90.º daquela Convenção e qualquer emenda aos anexos ou à Convenção dos artigos 90.º e 94.º, na medida em que aqueles anexos e emendas tenham sido adoptados pelo Governo de Portugal enquanto o Governo de Cabo Verde não tiver ratificado aquela Convenção, ou tenham sido adoptados por ambas as Partes Contratantes após aquela ratificação.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1. Cada Parte Contratante concede à outra Parte Contratante os direitos referidos no presente Acordo para a exploração de serviços aéreos internacionais regulares nas rotas especificadas no anexo a este Acordo e que dele faz parte integrante. Tais serviços e rotas são daqui em diante denominados, respectivamente, por «serviços acordados» e «rotas especificadas». As empresas de transporte aéreo designadas por cada Parte Contratante gozarão, enquanto explorem um serviço acordado numa rota especificada, dos seguintes direitos:
 
@@ -136,7 +141,7 @@ c) Embarcar e desembarcar tráfego internacional de passageiros, carga e correio
 
 3. Os horários dos serviços acordados deverão ser submetidos às autoridades aeronáuticas das duas Partes Contratantes pelo menos trinta dias antes do começo da exploração desses serviços. Qualquer modificação dos horários deverá também ser submetida à aprovação das autoridades aeronáuticas.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1. Para cada uma das rotas especificadas cada Parte Contratante terá o direito de designar, por escrito, à outra Parte Contratante uma empresa de transporte aéreo para o efeito de explorar os serviços acordados.
 
@@ -154,7 +159,7 @@ b) Esteja em vigor para o serviço de que se trate uma tarifa estabelecida de ha
 
 c) Os horários desses serviços tenham sido aprovados conforme previsto no artigo 3.º, n.º 3, do presente Acordo.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. Cada Parte Contratante terá o direito de revogar a autorização de exploração ou de suspender o exercício dos direitos especificados no artigo 3.º do presente Acordo por uma empresa de transporte aéreo designada pela outra Parte Contratante, ou ainda de sujeitar às condições que julgar necessárias o exercício daqueles direitos:
 
@@ -166,7 +171,7 @@ c) No caso de a empresa deixar por outro modo de proceder de harmonia com as con
 
 2. Salvo se a revogação, suspensão ou imposição das condições mencionadas no n.º 1 deste artigo for essencial para prevenir ulteriores infracções de leis ou regulamentos, tal direito apenas será exercido após consulta com a outra Parte Contratante.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1. As empresas designadas das duas Partes Contratantes terão justa e igual oportunidade de exploração dos serviços acordados nas rotas especificadas entre os seus respectivos territórios.
 
@@ -184,7 +189,7 @@ c) No caso de a empresa deixar por outro modo de proceder de harmonia com as con
 
 8. Sempre que um serviço de uma empresa designada de uma Parte Contratante seja operado numa rota via pontos intermédios e/ou para pontos além do território da outra Parte Contratante, uma capacidade adicional à estabelecida em conformidade com os n.os 3 a 6 deste artigo poderá ser oferecida por essa empresa mediante acordo entre as autoridades aeronáuticas das duas Partes Contratantes.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1. As tarifas a aplicar pelas empresas de uma das Partes em relação a transportes com destino ou proveniência do território da outra Parte serão estabelecidas a níveis razoáveis, tendo em devida conta todos os elementos relevantes, especialmente custo de exploração, lucro razoável e tarifas aplicadas por outras empresas.
 
@@ -200,7 +205,7 @@ c) No caso de a empresa deixar por outro modo de proceder de harmonia com as con
 
 7. Qualquer tarifa estabelecida em conformidade com o disposto no presente artigo continuará em vigor até ao estabelecimento de nova tarifa. A validade de uma tarifa não poderá, todavia, ser prorrogada em virtude deste número por período superior a doze meses, a contar da data em que deveria ter expirado.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1. As aeronaves utilizadas nos serviços internacionais pelas empresas de transporte aéreo designadas por qualquer das Partes Contratantes, bem como o equipamento regular, fornecimento de combustíveis e lubrificantes e provisões de bordo (incluindo alimentos, bebidas e tabaco), serão isentos de direitos aduaneiros, emolumentos de inspecção e outros direitos ou impostos à chegada ao território da outra Parte Contratante, desde que tal equipamento e fornecimentos permaneçam a bordo das aeronaves até ao momento em que forem reexportados.
 
@@ -214,39 +219,39 @@ c) Os combustíveis e lubrificantes destinados a serem fornecidos às aeronaves 
 
 3. Poderá exigir-se que os produtos referidos nas alíneas a), b) e c) do número anterior sejam conservados sob a superintendência ou o contrôle das alfândegas.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 O equipamento normal de bordo, bem como os produtos e as provisões existentes a bordo das aeronaves de qualquer das Partes Contratantes, apenas poderão ser descarregados no território da outra Parte Contratante com o consentimento das suas autoridades aduaneiras. Em tal caso poderão ser colocados debaixo de vigilância das ditas autoridades até ao momento de serem reexportados ou de lhes ser dado outro destino de harmonia com os regulamentos aduaneiros.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Os passageiros em trânsito pelo território de qualquer das Partes Contratantes apenas serão sujeitos a um contrôle muito simplificado. As bagagens e as mercadorias em trânsito directo serão isentas de direitos aduaneiros e de outros impostos semelhantes.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Qualquer das Partes Contratantes compromete-se a assegurar à outra Parte Contratante a livre transferência, ao câmbio oficial, dos excedentes das receitas sobre as despesas realizadas no seu território e relacionadas com a exploração dos serviços acordados pela empresa de transportes aéreos designada pela outra Parte. Sempre que o sistema de pagamentos entre as Partes Contratantes for regulado por um acordo especial, tal acordo será aplicável.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Num espírito de estreita colaboração, as autoridades aeronáuticas das Partes Contratantes consultar-se-ão de tempos a tempos, com vista a assegurar a execução e o cumprimento satisfatório das disposições do presente Acordo e seu anexo.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1. Se uma Parte Contratante considerar desejável modificar qualquer disposição do presente Acordo ou do seu anexo, poderá pedir a realização de consultas à outra Parte Contratante; tais consultas, que poderão ter lugar entre as autoridades aeronáuticas e efectuar-se, quer verbalmente, quer por correspondência, começarão dentro de um período de sessenta dias após a data do pedido para a sua realização. As modificações acordadas deste modo entrarão em vigor quando forem confirmadas por troca de notas diplomáticas.
 
 2. As alterações ao anexo poderão ter lugar por acordo directo entre as competentes autoridades aeronáuticas das Partes Contratantes.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1. O presente Acordo e o seu anexo serão considerados emendados de modo que fiquem conformes com qualquer convenção multilateral que venha a obrigar as duas Partes Contratantes.
 
 2. O Estado de Cabo Verde, enquanto não ratificar a Convenção, admite a mesma como direito subsidiário do presente Acordo.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Qualquer das Partes Contratantes poderá em qualquer altura notificar a outra Parte Contratante da sua decisão de denunciar o presente Acordo; tal notificação será simultaneamente comunicada à Organização da Aviação Civil Internacional. Neste caso, o Acordo terminará doze meses depois de recebida a notificação pela Parte Contratante à qual for dirigida, a não ser que tal notificação seja retirada por acordo mútuo antes de expirar aquele prazo. Se a parte Contratante notificada da denúncia não acusar a recepção da notificação, esta será considerada como tendo sido recebida catorze dias após a sua recepção pela Organização da Aviação Civil Internacional.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1. Se surgir um diferendo entre as Partes Contratantes relativo à interpretação ou aplicação do presente Acordo ou do seu anexo, as partes contratantes esforçar-se-ão em primeiro lugar por solucioná-lo por via de negociações.
 
@@ -254,7 +259,7 @@ Qualquer das Partes Contratantes poderá em qualquer altura notificar a outra Pa
 
 3. As Partes Contratantes comprometem-se a cumprir qualquer decisão tomada nos termos do n.º 2 deste artigo.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Este Acordo entrará em vigor na data da sua assinatura.
 
@@ -268,7 +273,7 @@ Pelo Governo da República de Cabo Verde:
 
 Osvaldo Lopes da Silva.
 
-## ANEXO AO ACORDO RELATIVO AO TRANSPORTE AÉREO ENTRE PORTUGAL E CABO VERDE
+ANEXO AO ACORDO RELATIVO AO TRANSPORTE AÉREO ENTRE PORTUGAL E CABO VERDE
 
 #### SECÇÃO I
 

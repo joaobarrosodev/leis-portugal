@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/2010/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2010-612394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d03d26ac2f57f216deb668c6258a5ac9fff27febe3bf4ad20e2452b0b91f720a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2c4c971314932ecfad60c3e734848d4e38f3525ca5045382b40aefe9a3e4d4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,21 @@ subjects:
 - Bucareste
 - Convenção
 - Cooperação Bilateral
-- Portugal
 - Documentação Classificada
 - Informação
+- Portugal
 - Segurança da Informação
 relationships: []
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:39Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +107,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira.
 
-**Assinado em 29 de Março de 2010.**
+Assinado em 29 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Março de 2010.**
+Referendado em 30 de Março de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO DE SEGURANÇA ENTRE A REPÚBLICA PORTUGUESA E A ROMÉNIA SOBRE PROTECÇÃO MÚTUA DE INFORMAÇÃO CLASSIFICADA
 
@@ -193,7 +193,7 @@ Autoridade Nacional de Segurança, Presidência do Conselho de Ministros, Rua da
 
 Pela Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)
 
 2 - De modo a manter os mesmos padrões de segurança, cada autoridade de segurança competente deverá fornecer, mediante pedido, à outra autoridade de segurança competente, informação sobre a sua organização de segurança, procedimentos e respectivo direito vigente que regula a protecção de informação classificada.
 
@@ -203,7 +203,7 @@ Pela Roménia:
 
 As Partes acordam que a equivalência das suas classificações de segurança nacionais é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)
 
 ###### Artigo 6.º — Protecção da informação classificada
 
@@ -231,9 +231,9 @@ c) As traduções e o número de cópias a efectuar deverão ser limitados às r
 
 d) As traduções deverão ter a indicação, na língua para que foram traduzidas, de que contêm informação classificada recebida da Parte Transmissora.
 
-6 - A informação classificada marcada como Muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)/Top secret apenas poderá ser traduzida ou reproduzida com autorização escrita da autoridade de segurança competente da Parte Transmissora, em conformidade com o respectivo direito vigente.
+6 - A informação classificada marcada como Muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)/Top secret apenas poderá ser traduzida ou reproduzida com autorização escrita da autoridade de segurança competente da Parte Transmissora, em conformidade com o respectivo direito vigente.
 
-7 - A informação classificada marcada como Muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)/Top secret não poderá ser destruída, devendo ser devolvida à Parte Transmissora.
+7 - A informação classificada marcada como Muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)/Top secret não poderá ser destruída, devendo ser devolvida à Parte Transmissora.
 
 8 - Para a destruição de informação classificada marcada como Secreto/Strict secret/Secret e Confidencial/Secret/Confidential é necessária a prévia autorização escrita da Parte Transmissora.
 
@@ -389,7 +389,7 @@ O presente Acordo entrará em vigor no 30.º dia após a recepção da última d
 
 A Parte em cujo território o presente Acordo for assinado submetê-lo-á para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar o número de registo atribuído.
 
-**Assinado em Bucareste a 14 de Maio de 2008, em duplicado, nas línguas portuguesa, romena e inglesa, sendo os três textos igualmente autênticos. Em caso de divergência de interpretação prevalecerá a versão em língua inglesa.**
+Assinado em Bucareste a 14 de Maio de 2008, em duplicado, nas línguas portuguesa, romena e inglesa, sendo os três textos igualmente autênticos. Em caso de divergência de interpretação prevalecerá a versão em língua inglesa.
 
 Pela República Portuguesa:
 
@@ -399,7 +399,7 @@ Pela Roménia:
 
 Marius Petrescu, Secretário de Estado Director-Geral do Ofício do Registo Nacional das Informações Secretas de Estado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)
 
 SECURITY AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND ROMANIA ON THE MUTUAL PROTECTION OF CLASSIFIED INFORMATION
 
@@ -485,7 +485,7 @@ Autoridade Nacional de Segurança, Presidência do Conselho de Ministros, Rua da
 
 For Romania:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)
 
 2 - In order to keep the same security standards, each competent security authority shall provide, upon request, to the other competent security authority, information about its security organization, procedures and the respective law in force regulating the protection of classified information.
 
@@ -497,7 +497,7 @@ Equivalence of the security classifications
 
 The Parties agree that the equivalence of their national security classifications is the following:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)
 
 Article 6
 
@@ -527,9 +527,9 @@ c) The translations and the number of reproductions shall be limited to that req
 
 d) The translations shall bear an appropriate note in the language into which it is translated indicating that it contains classified information received from the Originating Party.
 
-6 - Classified information marked as Muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)/Top secret shall be translated or reproduced only upon the written permission of the competent security authority of the Originating Party, in accordance with the respective law in force.
+6 - Classified information marked as Muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)/Top secret shall be translated or reproduced only upon the written permission of the competent security authority of the Originating Party, in accordance with the respective law in force.
 
-7 - Classified information marked as Muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf))](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)/Top secret shall not be destroyed and it shall be returned to the Originating Party.
+7 - Classified information marked as Muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/06800/0113901150.pdf)/Top secret shall not be destroyed and it shall be returned to the Originating Party.
 
 8 - For the destruction of classified information marked as Secreto/Strict secret/Secret and Confidencial/Secret/Confidential prior written consent of the Originating Party is required.
 

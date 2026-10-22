@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/111-1977-256025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2229c69d5bb4d738f5cdd3749d6fd168799d68e208d2abee6fe78010aeb36d44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6601831b7540b336df13c76ee96bfd6d67e7802213760c131da07513fdcd78a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Autorização de Despesas
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Encargos Gerais da Nação
+- Gabinete Coordenador para a Cooperação
+- Ministério da Agricultura e Pescas
+- Ministério da Defesa Nacional
+- Ministério da Educação e Investigação Científica
+- Ministério da Indústria e Tecnologia
+- Ministério da Justiça
+- Ministério das Finanças
+- Ministério das Obras Públicas
+- Ministério do Comércio e Turismo
+- Ministério do Trabalho
+- Ministério dos Negócios Estrangeiros
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:279218:por
+  label: Rectificado o art. 1.º pelo(a) Rectificação - Diário da República n.º 232/1977, Série I de 1977-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-279218
+  date: '1977-10-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:23Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +115,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -139,9 +165,9 @@ Ministério do Trabalho
 
 Encargos dos anos de 1973 a 1976, referentes a outros bens duradouros, remunerações por serviços auxiliares, equipamento de secretaria, comunicações, alimentação e alojamento, compensação de encargos, consumos de secretaria, encargos próprios das instalações, deslocações, conservação e aproveitamento de bens, alimentação, roupas e calçado e trabalhos especiais diversos, contraídos pelo Gabinete do Ministro, Conselho Coordenador, Direcção-Geral das Relações Colectivas de Trabalho: Aveiro-S. João da Madeira, Leiria, Lisboa, Portalegre, Torres Vedras e Viseu; Inspecção-Geral de Trabalho: Angra do Heroísmo, Aveiro-S. João da Madeira, Braga, Castelo Branco, Covilhã, Évora, Santarém, Viana do Castelo, e Tribunal do Trabalho do Porto ... 246619$60
 
-###### Art. 2.º É igualmente autorizada a 8.ª Delegação da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da verba inscrita no cap. 60, div. 03, C. E. 14.00 «Deslocações - Compensação de encargos», do actual orçamento do Ministério das Obras Públicas, a importância de 18797$00, respeitante a deslocações, do ano de 1976, a pagar pela Comissão das Construções Prisionais.
+Art. 2.º É igualmente autorizada a 8.ª Delegação da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da verba inscrita no cap. 60, div. 03, C. E. 14.00 «Deslocações - Compensação de encargos», do actual orçamento do Ministério das Obras Públicas, a importância de 18797$00, respeitante a deslocações, do ano de 1976, a pagar pela Comissão das Construções Prisionais.
 
-###### Art. 3.º Ficam também autorizados a satisfazer as quantias seguidamente indicadas, pelas verbas de despesas de anos findos, dos seus actuais orçamentos privativos, os seguintes serviços:
+Art. 3.º Ficam também autorizados a satisfazer as quantias seguidamente indicadas, pelas verbas de despesas de anos findos, dos seus actuais orçamentos privativos, os seguintes serviços:
 
 Gabinete Coordenador para a Cooperação
 
@@ -153,8 +179,8 @@ Encargo do ano de 1976, referente a transferências - Sector público ... 107326
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Firmino Miguel - António Francisco Barroso de Sousa Gomes - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira - José Manuel de Medeiros Ferreira - António Miguel Morais Barreto - Alfredo Jorge Nobre da Costa - Carlos Alberto da Mota Pinto - António Manuel Maldonado Gonelha - Mário Augusto Sottomayor Leal Cardia - Armando Bacelar - Emílio Rui da Veiga Peixoto Vilar - João Orlindo de Almeida Pina - Eduardo Ribeiro Pereira.
 
-**Promulgado em 9 de Agosto de 1977.**
+Promulgado em 9 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

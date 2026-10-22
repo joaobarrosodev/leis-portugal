@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/381-1974-475723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:34:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33b7329fced89a442d023df62bc8b31f31e7fd4f14d91afd54cb17650e999053
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e742f7d6823938fbad28ab6ab3c48feef264e5ccf1801c514c25c2ad93ee1b61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: corrected_by
+  target: pt:dre:473754:por
+  label: Rectificado o n.º 2 do artigo 2.º pela DECL.DD8918.11.09.1974.PCM, DG.IS [212] de 11.09.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-473754
+  date: '1974-09-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:34:17Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +92,9 @@ de 24 de Agosto
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Gabinete do Plano do Zambeze, ao abrigo do contrato para realização de estudos em regime de consultoria em vigor, a encomendar um projecto relativo ao contrôle de plantas aquáticas infestantes e desenvolvimento das pescas na albufeira de Cabora Bassa, pela quantia de 3360000$00.
+Artigo 1.º É autorizado o Gabinete do Plano do Zambeze, ao abrigo do contrato para realização de estudos em regime de consultoria em vigor, a encomendar um projecto relativo ao contrôle de plantas aquáticas infestantes e desenvolvimento das pescas na albufeira de Cabora Bassa, pela quantia de 3360000$00.
 
-###### Art. 2.º - 1. Os encargos resultantes da execução do contrato referido no artigo anterior não poderão, em cada ano, exceder as seguintes importâncias:
+Art. 2.º - 1. Os encargos resultantes da execução do contrato referido no artigo anterior não poderão, em cada ano, exceder as seguintes importâncias:
 
 Em 1974 ... 1800000$00
 
@@ -99,10 +104,10 @@ Em 1975 ... 1560000$00
 
 Vasco dos Santos Gonçalves - António de Almeida Santos - José da Silva Lopes.
 
-**Promulgado em 10 de Agosto de 1974.**
+Promulgado em 10 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - Almeida Santos.

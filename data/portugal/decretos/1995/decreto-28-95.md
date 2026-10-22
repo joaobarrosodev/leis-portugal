@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/28/1995/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1995-484409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d2bc85c3937cb770e734accecd687bf9cc9cdb16aed729fb64060c73fd73664
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34b4b725e16f886ca9f5ee1b31f242444bb3c5b8535cd5b88670b1ed6d177c65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
+- Cooperação Militar
 - Cooperação Técnica
 - Portugal
 - São Tomé
-- Cooperação Militar
 relationships: []
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:46Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 1 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional n.º 1 ao Acordo de Cooperação Técnica no Domínio Militar entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, assinado em São Tomé em 30 de Setembro de 1994, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Adicional n.º 1 ao Acordo de Cooperação Técnica no Domínio Militar entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, assinado em São Tomé em 30 de Setembro de 1994, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1995. - Aníbal António Cavaco Silva. - António Jorge de Figueiredo Lopes - José Manuel Durão Barroso.
 
-**Assinado em 6 de Julho de 1995.**
+Assinado em 6 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Julho de 1995.**
+Referendado em 10 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO ADICIONAL N.º 1 AO ACORDO DE COOPERAÇÃO TÉCNICA NO DOMÍNIO MILITAR ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE.
 
@@ -156,4 +156,4 @@ Pela República Portuguesa:
 
 António Franco, Embaixador de Portugal em São Tomé.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/176a00/48974899.pdf))](https://files.diariodarepublica.pt/1s/1995/08/176a00/48974899.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/176a00/48974899.pdf)

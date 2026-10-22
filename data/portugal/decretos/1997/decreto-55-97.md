@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/55/1997/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/55-1997-663880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8ec13d8e6aba3c72c84bcbb22ad26d735116268e376e48a88aeefde37b2019d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97e3328b65f0dbc010738af58406c9a167c0ab2d941e0836fb8028d6c7434985
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,27 +69,27 @@ reuse:
 subjects:
 - Cartografia
 - Convenção
+- Cooperação Científica
 - Cooperação Técnica
-- Moçambique
-- Portugal
 - Hidrografia
 - Instituto Hidrográfico
 - Maputo
-- Oceanografia
-- Cooperação Científica
-- Segurança Marítima
+- Moçambique
 - Navegação Marítima
+- Oceanografia
+- Portugal
+- Segurança Marítima
 relationships: []
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:20Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 1997. - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - Jaime José Matos da Gama.
 
-**Assinado em 15 de Setembro de 1997.**
+Assinado em 15 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Setembro de 1997.**
+Referendado em 18 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE MOÇAMBIQUE NOS DOMÍNIOS DO DESENVOLVIMENTO MARÍTIMO, HIDROGRAFIA, CARTOGRAFIA NÁUTICA, SEGURANÇA E AJUDAS À NAVEGAÇÃO E OCEANOGRAFIA.
 

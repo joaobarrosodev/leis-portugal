@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/106-1975-160751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b27ef7ac60f9f55871eb0b9393b8c36d9d42bb4a59957bdffd4a92f70b8af41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0521ca19a371601dcdd390979bbb8b7b8158359b08a9b8acd3feb789f63ec4f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:160753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160756:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:00Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +96,11 @@ A fim de dar execução ao disposto no [Decreto-Lei n.º 104/75](https://diariod
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. As empresas produtoras, suas organizações de venda e empresas de distribuição a que se refere o [Decreto-Lei n.º 104/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1975-160753), de 6 de Março, ficam obrigadas a publicar as respectivas tabelas de preços e condições de venda de acordo com as disposições do presente decreto.
+Artigo 1.º - 1. As empresas produtoras, suas organizações de venda e empresas de distribuição a que se refere o [Decreto-Lei n.º 104/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1975-160753), de 6 de Março, ficam obrigadas a publicar as respectivas tabelas de preços e condições de venda de acordo com as disposições do presente decreto.
 
 2. Sem prejuízo do disposto no artigo 5.º, as empresas produtoras podem dar a conhecer que os seus produtos são vendidos com base nas tabelas de preços e condições de venda das suas organizações de venda ou das empresas de distribuição, e estas podem igualmente dar a conhecer que os produtos são vendidos com base nas tabelas de preços e condições de venda das empresas produtoras.
 
-###### Art. 2.º Para os aços especiais as empresas só são obrigadas a publicar, de acordo com os números seguintes, os preços e condições de venda aplicáveis a:
+Art. 2.º Para os aços especiais as empresas só são obrigadas a publicar, de acordo com os números seguintes, os preços e condições de venda aplicáveis a:
 
 a) Aços sílico-manganés para molas de veículos;
 
@@ -108,7 +116,7 @@ f) Aços para rolamentos;
 
 g) Aços inoxidáveis e refractários.
 
-###### Art. 3.º - 1. As tabelas de preços e condições de venda publicadas devem conter pelo menos as seguintes indicações:
+Art. 3.º - 1. As tabelas de preços e condições de venda publicadas devem conter pelo menos as seguintes indicações:
 
 a) Preço base por categoria de produtos ou por qualidade e categoria de produtos;
 
@@ -152,27 +160,27 @@ b) Marca, no caso de qualidades vendidas com marca;
 
 c) Composição química das diferentes qualidades.
 
-###### Art. 4.º As tabelas de uma empresa não podem conter preços relativos a produtos que não sejam efectivamente oferecidos no mercado pela empresa em causa.
+Art. 4.º As tabelas de uma empresa não podem conter preços relativos a produtos que não sejam efectivamente oferecidos no mercado pela empresa em causa.
 
-###### Art. 5.º - 1. As tabelas e condições de venda bem como as suas modificações são aplicáveis decorridos no mínimo dois dias sobre a data do seu envio à Comissão de Regras de Concorrência para Produtos Siderúrgicos e devem ser fornecidas pelos vendedores a qualquer pessoa interessada que as solicite.
+Art. 5.º - 1. As tabelas e condições de venda bem como as suas modificações são aplicáveis decorridos no mínimo dois dias sobre a data do seu envio à Comissão de Regras de Concorrência para Produtos Siderúrgicos e devem ser fornecidas pelos vendedores a qualquer pessoa interessada que as solicite.
 
 2. Quando as modificações de tabelas e condições de venda introduzam um aumento de preços em relação às tabelas e condições de venda em vigor, só serão aplicáveis, sem prejuízo do disposto na legislação que estabelece os regimes a que podem ser submetidos os preços dos bens ou serviços vendidos no mercado interno, decorridos pelo menos quinze dias sobre a data do seu envio à Comissão de Regras de Concorrência para Produtos Siderúrgicos, não podendo ser modificadas de novo antes da sua entrada em aplicação.
 
 3. A Comissão de Regras de Concorrência para Produtos Siderúrgicos pode assegurar a difusão das tabelas e condições de venda através de uma publicação apropriada.
 
-###### Art. 6.º - 1. As condições especiais, admitidas para certas categorias de utilizadores, podem não ser publicadas nas tabelas de preços, mas devem ser notificadas à Comissão de Regras de Concorrência para Produtos Siderúrgicos, sendo-lhes aplicável o disposto no artigo anterior.
+Art. 6.º - 1. As condições especiais, admitidas para certas categorias de utilizadores, podem não ser publicadas nas tabelas de preços, mas devem ser notificadas à Comissão de Regras de Concorrência para Produtos Siderúrgicos, sendo-lhes aplicável o disposto no artigo anterior.
 
 2. A Comissão de Regras de Concorrência para Produtos Siderúrgicos, se verificar que o número ou amplitude das condições especiais admitidas justificam a sua publicação, pode obrigar a empresa a publicar na sua tabela a totalidade ou parte dessas condições.
 
-###### Art. 7.º - 1. As empresas produtoras, suas organizações de venda e empresas de distribuição devem obrigar os intermediários a que se refere o artigo 10.º do [Decreto n.º 105/75](https://diariodarepublica.pt/dr/detalhe/decreto/105-1975-160756), desta data, a conformar-se, para as tabelas de preços e condições de venda que publiquem, com as regras fixadas pelo presente decreto.
+Art. 7.º - 1. As empresas produtoras, suas organizações de venda e empresas de distribuição devem obrigar os intermediários a que se refere o artigo 10.º do [Decreto n.º 105/75](https://diariodarepublica.pt/dr/detalhe/decreto/105-1975-160756), desta data, a conformar-se, para as tabelas de preços e condições de venda que publiquem, com as regras fixadas pelo presente decreto.
 
 2. No caso em que estes intermediários não publiquem tabelas de preços e condições de venda, podem dar a conhecer, nas condições fixadas no artigo 5.º, que as tabelas de preços e condições de venda estabelecidas pelas empresas produtoras, suas organizações de venda e empresas de distribuição são aplicáveis às suas próprias vendas.
 
-###### Art. 8.º - 1. As empresas produtoras, suas organizações de venda e empresas de distribuição deverão estabelecer as suas condições de venda de maneira que os seus compradores (negociantes) se obriguem, para a revenda dos seus produtos no mesmo estado, com exclusão das vendas de armazém, a conformar-se, para as suas tabelas de preços e condições de venda, com as regras fixadas pelo presente decreto.
+Art. 8.º - 1. As empresas produtoras, suas organizações de venda e empresas de distribuição deverão estabelecer as suas condições de venda de maneira que os seus compradores (negociantes) se obriguem, para a revenda dos seus produtos no mesmo estado, com exclusão das vendas de armazém, a conformar-se, para as suas tabelas de preços e condições de venda, com as regras fixadas pelo presente decreto.
 
 2. Quando os compradores (negociantes) não incluem nas suas tabelas os seus próprios preços e condições de venda, podem satisfazer a obrigação prevista no número anterior, dando a conhecer, nas condições fixadas no artigo 5.º que os elementos das tabelas de preços e condições de venda estabelecidas pelas empresas produtoras são aplicáveis às suas próprias vendas.
 
-###### Art. 9.º As empresas têm a faculdade de não publicar preços para os seguintes produtos:
+Art. 9.º As empresas têm a faculdade de não publicar preços para os seguintes produtos:
 
 a) Gusas de afinação;
 
@@ -188,8 +196,8 @@ f) Aços com as mesmas características, ditos físicos ou magnéticos, tendo ce
 
 Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 26 de Fevereiro de 1975.**
+Promulgado em 26 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

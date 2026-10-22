@@ -46,36 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/79-1982-395324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c46153ca693f008b718c2f2ad1d4f8f49374a3903757b5f7698bde91d69b8b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6d929ce26a3b952755eb6533838550cded8f75f439dedbccacfb7caf4d22e48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Ministério da Educação e das Universidades
+- OBRA Social
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:397340:por
+  label: Rectificado pela DECL.DD6147.19.07.1982.PCM, DR.IS [172] de 28.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-397340
+  date: '1982-07-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:51Z'
   warnings: []
   errors: []
 ---
@@ -92,27 +121,27 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São aditados ao quadro de pessoal da OSMEU, a que se refere o artigo 1.º, n.º 1, do [Decreto-Lei n.º 160/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1978-297993), de 4 de Julho, e que consta do mapa a ele anexo, os lugares constantes do mapa anexo ao presente diploma.
+Artigo 1.º - 1 - São aditados ao quadro de pessoal da OSMEU, a que se refere o artigo 1.º, n.º 1, do [Decreto-Lei n.º 160/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1978-297993), de 4 de Julho, e que consta do mapa a ele anexo, os lugares constantes do mapa anexo ao presente diploma.
 
 2 - Os lugares referidos no número anterior integram-se, para todos os efeitos, nos quadros únicos de pessoal fixados pelo [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
 
-###### Art. 2.º - 1 - Os lugares de técnicos de serviço social principal e de 1.ª classe passam a ser providos, respectivamente, de entre técnicos de serviço social de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+Art. 2.º - 1 - Os lugares de técnicos de serviço social principal e de 1.ª classe passam a ser providos, respectivamente, de entre técnicos de serviço social de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico de serviço social de 2.ª classe são providos, nos termos da lei geral, de entre indivíduos habilitados com o curso de assistente social.
 
-###### Art. 3.º - 1 - Os lugares de enfermeiro de saúde pública de 2.ª classe, educador de infância, auxiliar de educação e primeiro-verificador são providos, respectivamente, nos termos das alíneas c), d), e) e f) do artigo 2.º do [Decreto-Lei n.º 160/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1978-297993), de 4 de Julho.
+Art. 3.º - 1 - Os lugares de enfermeiro de saúde pública de 2.ª classe, educador de infância, auxiliar de educação e primeiro-verificador são providos, respectivamente, nos termos das alíneas c), d), e) e f) do artigo 2.º do [Decreto-Lei n.º 160/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1978-297993), de 4 de Julho.
 
 2 - O lugar de primeiro-verificador constante do mapa anexo ao [Decreto-Lei n.º 160/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1978-297993), de 4 de Julho, deixa de ser considerado para extinguir quando vagar.
 
-###### Art. 4.º O lugar de técnico auxiliar principal é provido de entre técnicos auxiliares de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 4.º O lugar de técnico auxiliar principal é provido de entre técnicos auxiliares de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
-###### Art. 5.º - 1 - O lugar de ecónomo-chefe é provido de entre os ecónomos de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço.
+Art. 5.º - 1 - O lugar de ecónomo-chefe é provido de entre os ecónomos de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço.
 
 2 - O lugar de ecónomo de 2.ª classe é provido de entre os indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
 3 - O acesso à categoria de ecónomo de 1.ª classe far-se-á após a permanência de 5 anos na categoria anterior e classificação de serviço não inferior a Bom.
 
-###### Art. 6.º - 1 - Os lugares de cozinheiro-chefe são providos de entre os cozinheiros de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 6.º - 1 - Os lugares de cozinheiro-chefe são providos de entre os cozinheiros de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de cozinheiro de 1.ª classe são providos de entre os cozinheiros de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
@@ -120,15 +149,15 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 4 - Os lugares de ajudante de cozinheiro são providos de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 7.º À carreira de electricista aplica-se o disposto na lei geral.
+Art. 7.º À carreira de electricista aplica-se o disposto na lei geral.
 
-###### Art. 8.º À carreira de tesoureiro é aplicável o disposto no [Decreto-Lei n.º 465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro, nomeadamente no seu artigo 4.º
+Art. 8.º À carreira de tesoureiro é aplicável o disposto no [Decreto-Lei n.º 465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro, nomeadamente no seu artigo 4.º
 
-###### Art. 9.º Os lugares de servente são providos nos termos da lei geral.
+Art. 9.º Os lugares de servente são providos nos termos da lei geral.
 
-###### Art. 10.º Poderão ser preenchidos tantos lugares da categoria mais baixa da respectiva carreira quantas as vagas de categorias superiores que não possam ser preenchidas por falta de candidatos que reúnam as condições legais de promoção.
+Art. 10.º Poderão ser preenchidos tantos lugares da categoria mais baixa da respectiva carreira quantas as vagas de categorias superiores que não possam ser preenchidas por falta de candidatos que reúnam as condições legais de promoção.
 
-###### Art. 11.º - 1 - O pessoal que presta serviço na OSMEU a qualquer título transita para os lugares constantes do mapa anexo ao presente diploma, efectuando-se o respectivo provimento nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República.
+Art. 11.º - 1 - O pessoal que presta serviço na OSMEU a qualquer título transita para os lugares constantes do mapa anexo ao presente diploma, efectuando-se o respectivo provimento nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República.
 
 2 - Transita para a categoria de auxiliar de educação, de acordo com o disposto no número anterior, o pessoal habilitado com o curso geral do ensino secundário ou equivalente que exerça funções correspondentes às daquele cargo.
 
@@ -136,20 +165,20 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 4 - A transição do restante pessoal a que se refere o n.º 1 deste artigo far-se-á para a categoria de ingresso na carreira para a qual detenha as habilitações legalmente estabelecidas.
 
-###### Art. 12.º Os encargos resultantes da aplicação do presente diploma serão suportados pelo orçamento privativo da OSMEU.
+Art. 12.º Os encargos resultantes da aplicação do presente diploma serão suportados pelo orçamento privativo da OSMEU.
 
-###### Art. 13.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, consoante a sua natureza.
+Art. 13.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, consoante a sua natureza.
 
-###### Art. 14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação
+Art. 14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação
 
 Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo - Alípio Barrosa Pereira Dias - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 8 de Junho de 1982.**
+Promulgado em 8 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o n.º 1 do artigo 1.º do Decreto n.º 79/82, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14000/17681769.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14000/17681769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14000/17681769.pdf)

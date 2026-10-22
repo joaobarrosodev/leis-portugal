@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/1995/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1995-223180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3b0d6b57081c1544b24989a075253506005b9a2ccdbdfe6f4f490dca5fbdf9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aae2ce37a562d44ccc409be7c25435a2f03d47262df4cb64372ea05bf8c42e36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caracas
-- Venezuela
 - Convenção
-- Portugal
-- Fiscalização
 - Droga
+- Fiscalização
+- Portugal
+- Venezuela
 relationships: []
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:30Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 28 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre o Governo da República Portuguesa e o Governo da República da Venezuela sobre Prevenção, Controlo, Fiscalização e Repressão do Consumo Indevido e Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas, assinado em Caracas, a 17 de Junho de 1994, cujas versões autênticas nas línguas portuguesa e espanhola seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo entre o Governo da República Portuguesa e o Governo da República da Venezuela sobre Prevenção, Controlo, Fiscalização e Repressão do Consumo Indevido e Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas, assinado em Caracas, a 17 de Junho de 1994, cujas versões autênticas nas línguas portuguesa e espanhola seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
 Ratificado em 17 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Março de 1995.**
+Referendado em 20 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA VENEZUELA SOBRE PREVENÇÃO, CONTROLO, FISCALIZAÇÃO E REPRESSÃO DO CONSUMO INDEVIDO E TRÁFICO ILÍCITO DE ESTUPEFACIENTES E SUBSTÂNCIAS PSICOTRÓPICAS.
 
@@ -237,4 +237,4 @@ Pelo Governo da República da Venezuela:
 
 Miguel Angel Burelli Rivas, Ministro das Relações Exteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/099a00/23932398.pdf))](https://files.diariodarepublica.pt/1s/1995/04/099a00/23932398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/099a00/23932398.pdf)

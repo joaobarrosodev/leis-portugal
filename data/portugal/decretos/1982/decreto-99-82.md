@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/99-1982-396546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35359745f8d3b75473d8f292714d167b861e50ce892adb5fe3115ddd033283da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5248b3f77c24b8ea5d13a1f5468e2dcc0ec16b518b96dd36a75b0b27f98858a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Legalização de Actos Públicos
+- Portugal
+- Relações Diplomáticas
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:10Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 26 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Europeia sobre a Supressão da Legalização dos Actos Exarados pelos Agentes Diplomáticos e Consulares, aberta à assinatura em Paris em 11 de Dezembro de 1967, cujo texto original e a respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção Europeia sobre a Supressão da Legalização dos Actos Exarados pelos Agentes Diplomáticos e Consulares, aberta à assinatura em Paris em 11 de Dezembro de 1967, cujo texto original e a respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 15 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 3 de Agosto de 1982.**
+Assinado em 3 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENÇÃO EUROPEIA SOBRE A SUPRESSÃO DA LEGALIZAÇÃO DOS ACTOS EXARADOS PELOS AGENTES DIPLOMÁTICOS E CONSULARES.
 
@@ -169,7 +173,7 @@ No que respeita às Partes Contratantes, esta Convenção prevalecerá sobre as 
 
 ###### ARTIGO 10.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer Estado que haja aderido à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer Estado que haja aderido à presente Convenção:
 
 a) De todas as assinaturas;
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/85-1973-684464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5de6593598d2de0fd3506f0a8924c0a6bc7e8f309f0f301f05241325ba427788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8122b2464a9809081213c34e9ad03fdf1fc2e621dddec3d230f3abb86a3b2e1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558653:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:28Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +102,7 @@ Ouvido o Conselho Ultramarino, nos termos do § 3.º do artigo 136.º da Constit
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. Quando, em consequência da constituição de qualquer reserva, nos termos do artigo 25.º do Regulamento de Ocupação e Concessão de Terrenos nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, caduquem as autorizações para uso ou ocupação a título precário de terrenos ou cessem as demarcações provisórias ou dentro das áreas reservadas se encontrem ocupantes sem qualquer título, o usuário, o titular da concessão provisória ou o ocupante será notificado pela autoridade administrativa local para desocupar o terreno no prazo de trinta dias.
+Artigo 1.º - 1. Quando, em consequência da constituição de qualquer reserva, nos termos do artigo 25.º do Regulamento de Ocupação e Concessão de Terrenos nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, caduquem as autorizações para uso ou ocupação a título precário de terrenos ou cessem as demarcações provisórias ou dentro das áreas reservadas se encontrem ocupantes sem qualquer título, o usuário, o titular da concessão provisória ou o ocupante será notificado pela autoridade administrativa local para desocupar o terreno no prazo de trinta dias.
 
 2. A desocupação consistirá na restituição da posse do terreno à província, mediante auto lavrado na administração do concelho ou da circunscrição em cuja área se situar.
 
@@ -98,7 +110,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. Lavrado o auto, o administrador remeterá, no prazo de vinte e quatro horas, uma certidão do mesmo ao governo da província, para que seja junta ao processo respectivo de concessão provisória ou de uso ou ocupação a título precário.
 
-###### Art. 2.º - 1. Findo o prazo estabelecido no n.º 1 do artigo anterior sem que alguém compareça na administração do concelho ou da circunscrição para intervir no auto de restituição de posse, o Estado ocupará o terreno, sempre que possível nos quinze dias seguintes.
+Art. 2.º - 1. Findo o prazo estabelecido no n.º 1 do artigo anterior sem que alguém compareça na administração do concelho ou da circunscrição para intervir no auto de restituição de posse, o Estado ocupará o terreno, sempre que possível nos quinze dias seguintes.
 
 2. O interessado será avisado do dia e hora da diligência, por meio de carta registada com aviso de recepção, se residir em localidade em que haja distribuição domiciliária de correio, ou por meio de notificação, nos outros casos, para, querendo, comparecer no local.
 
@@ -114,7 +126,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 8. Lavrado o auto de ocupação do terreno, cumprir-se-á o disposto no n.º 4 do artigo anterior.
 
-###### Art. 3.º - 1. O protesto referido no n.º 6 do artigo anterior será irrelevante se o interessado no prazo de vinte dias não interpuser recurso hierárquico para o governador da província para obter a restituição do terreno, com fundamento em direito de propriedade reconhecida em título passado pelo cadastro, ou o pagamento do valor das benfeitorias.
+Art. 3.º - 1. O protesto referido no n.º 6 do artigo anterior será irrelevante se o interessado no prazo de vinte dias não interpuser recurso hierárquico para o governador da província para obter a restituição do terreno, com fundamento em direito de propriedade reconhecida em título passado pelo cadastro, ou o pagamento do valor das benfeitorias.
 
 2. O interessado que não tenha estado presente às diligências de ocupação pelo Estado por não ter sido avisado do dia e hora em que se realizavam, poderá no prazo de vinte dias, contado da data em que tiver conhecimento da ocupação e para os fins referidos no número anterior, interpor recurso hierárquico para o governador da província.
 
@@ -122,15 +134,15 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. O recurso não terá efeito suspensivo.
 
-###### Art. 4.º Do acto do governador que indeferir o recurso hierárquico cabe recurso contencioso, nos termos gerais de direito.
+Art. 4.º Do acto do governador que indeferir o recurso hierárquico cabe recurso contencioso, nos termos gerais de direito.
 
-###### Art. 5.º - 1. Quer o interessado que lavrou o protesto previsto no n.º 6 do artigo 2.º, quer o que se encontrar nas condições referidas no n.º 2 do artigo 3.º, desde que invoque a seu favor direito de propriedade não fundado em título passado pelo cadastro, pode propor contra a província, nos termos do n.º 2 do artigo 1035.º do Código de Processo Civil, acção de restituição de posse, contanto que o faça no prazo de um ano contado da data da ocupação ou da data em que teve conhecimento desta.
+Art. 5.º - 1. Quer o interessado que lavrou o protesto previsto no n.º 6 do artigo 2.º, quer o que se encontrar nas condições referidas no n.º 2 do artigo 3.º, desde que invoque a seu favor direito de propriedade não fundado em título passado pelo cadastro, pode propor contra a província, nos termos do n.º 2 do artigo 1035.º do Código de Processo Civil, acção de restituição de posse, contanto que o faça no prazo de um ano contado da data da ocupação ou da data em que teve conhecimento desta.
 
 2. Se a acção for julgada procedente, dar-se-á sem efeito o acto de ocupação, devendo a Administração usar o processo de expropriação.
 
 3. O artigo 1036.º do Código de Processo Civil não se aplicará na acção a que se refere o n.º 1.
 
-###### Art. 6.º - 1. Quando o interessado invocar a seu favor o direito a uma indemnização por benfeitorias introduzidas no terreno independentemente de lhe ser reconhecido tal direito, poderá requerer fundamentadamente ao juiz da comarca, no prazo referido no n.º 1 do artigo 1.º, que se proceda a uma vistoria ad perpetuam rei memoriam destinada a fixar os elementos de facto susceptíveis de desaparecer, que se efectuará conjuntamente com uma arbitragem destinada a fixar o valor das benfeitorias.
+Art. 6.º - 1. Quando o interessado invocar a seu favor o direito a uma indemnização por benfeitorias introduzidas no terreno independentemente de lhe ser reconhecido tal direito, poderá requerer fundamentadamente ao juiz da comarca, no prazo referido no n.º 1 do artigo 1.º, que se proceda a uma vistoria ad perpetuam rei memoriam destinada a fixar os elementos de facto susceptíveis de desaparecer, que se efectuará conjuntamente com uma arbitragem destinada a fixar o valor das benfeitorias.
 
 2. O requerimento dará entrada na administração do concelho ou da circunscrição no prazo referido no número anterior e deverá logo indicar o árbitro do interessado, sem o que será indeferido.
 
@@ -152,7 +164,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 11. A decisão dos árbitros deve ser apresentada no tribunal no prazo de vinte dias a partir da data da instalação de arbitragem.
 
-###### Art. 7.º - 1. A decisão dos árbitros será notificada ao requerente e ao Ministério Público no prazo de quarenta e oito horas e dela haverá recurso para o juiz de direito, a interpor no prazo de cinco dias, expondo logo o recorrente as razões da discordância com a decisão arbitral, oferecendo todos os documentos e requerendo todas as demais provas e designando o seu perito.
+Art. 7.º - 1. A decisão dos árbitros será notificada ao requerente e ao Ministério Público no prazo de quarenta e oito horas e dela haverá recurso para o juiz de direito, a interpor no prazo de cinco dias, expondo logo o recorrente as razões da discordância com a decisão arbitral, oferecendo todos os documentos e requerendo todas as demais provas e designando o seu perito.
 
 2. A cada parte é lícito indicar o total de três testemunhas, obrigando-se a apresentá-las no tribunal independentemente de notificação.
 
@@ -162,7 +174,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 5. O processo seguirá depois os trâmites estabelecidos nos artigos 33.º e seguintes, na parte aplicável, do Regulamento das Expropriações, aprovado pelo [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653), de 8 de Abril de 1961, tornado extensivo ao ultramar com as alterações introduzidas pela [Portaria n.º 23404](https://diariodarepublica.pt/dr/detalhe/portaria/23404-1968-271224), de 28 de Maio de 1968.
 
-###### Art. 8.º - 1. O valor das benfeitorias fixado pelos árbitros ou pelos tribunais será pago ao interessado se tiver direito a ser indemnizado nos termos da legislação vigente sobre terrenos vagos das províncias ultramarinas.
+Art. 8.º - 1. O valor das benfeitorias fixado pelos árbitros ou pelos tribunais será pago ao interessado se tiver direito a ser indemnizado nos termos da legislação vigente sobre terrenos vagos das províncias ultramarinas.
 
 2. Entendendo a Administração que é devido pagamento pelas benfeitorias, deverá comunicá-lo ao interessado no prazo de trinta dias a contar do trânsito em julgado da fixação do valor.
 
@@ -174,18 +186,18 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 6. Do despacho do governador que indeferir o pedido cabe recurso contencioso, a interpor nos termos gerais de direito.
 
-###### Art. 9.º - 1. Logo que for fixado o valor das benfeitorias por decisão dos árbitros, independentemente do seu trânsito em julgado, nos casos em que se tenha requerido a arbitragem, deverá proceder-se à ocupação do terreno nos termos previstos no artigo 2.º deste diploma.
+Art. 9.º - 1. Logo que for fixado o valor das benfeitorias por decisão dos árbitros, independentemente do seu trânsito em julgado, nos casos em que se tenha requerido a arbitragem, deverá proceder-se à ocupação do terreno nos termos previstos no artigo 2.º deste diploma.
 
 2. Para o efeito previsto no número anterior o agente do Ministério Público remeterá, no prazo de cinco dias, certidão da deliberação dos árbitros à autoridade administrativa local competente para proceder à ocupação.
 
-###### Art. 10.º O processo regulado nos artigos 5.º, 6.º e 7.º é considerado urgente, preferindo a todos os outros serviços judiciais, excepto o de réus presos.
+Art. 10.º O processo regulado nos artigos 5.º, 6.º e 7.º é considerado urgente, preferindo a todos os outros serviços judiciais, excepto o de réus presos.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 23 de Fevereiro de 1973.**
+Promulgado em 23 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

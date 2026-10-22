@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-1980-471950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0353b6ad93fc66ce134678e4d751919085764003afc3fdca902fc8b04c9ce55f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe90a5440ecaa45f81965bc8dc0cf2412afb7a64ab4c82211c31c2272c3539c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Genebra
+- Poluição Transfronteiriça
+- Portugal
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:164870233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480296:por
+  label: "Aprovado o Protocolo à Convenção sobre a Poluição Atmosférica Transfronteiriça a Longa Distância aprovada, para\
+    \ ratificação, pelo presente diploma, pelo DEC.20/2004.20.08.2004.MNE, DR.IS-A [196] de 20.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/20-2004-480296
+  date: '2004-08-20'
+- type: amended_by
+  target: pt:dre:106874597:por
+  label: Aprovado o Protocolo à Convenção sobre a Poluição Atmosférica Transfronteiras a Longa Distância aprovada, para ratificação,
+    pelo presente diploma, pelo(a) Decreto n.º 13/2017 - Diário da República n.º 73/2017, Série I de 2017-04-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/13-2017-106874597
+  date: '2017-04-12'
+- type: amended_by
+  target: pt:dre:115609037:por
+  label: Aprovada a alteração do texto e dos anexos II a IX e o aditamento dos anexos X e XI ao Protocolo à Convenção de 1979
+    sobre a Poluição Atmosférica Transfronteiriça a Longa Distância relativo à Redução da Acidificação, da Eutrofização e
+    do Ozono Troposférico, para ratificação, pelo presente diploma, pelo(a) Decreto n.º 19/2018 - Diário da República n.º
+    124/2018, Série I de 2018-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/19-2018-115609037
+  date: '2018-06-29'
+- type: amended_by
+  target: pt:dre:164870233:por
+  label: Aprovada a alteração do texto e dos Anexos, com exceção dos Anexos III e VII, do Protocolo à Convenção sobre a Poluição
+    Atmosférica Transfronteiras a Longa Distância relativo aos Metais Pesados, para ratificação, pelo presente diploma, pelo(a)
+    Decreto n.º 16/2021 - Diário da República n.º 111/2021, Série I de 2021-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/16-2021-164870233
+  date: '2021-06-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:31Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +122,15 @@ de 12 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção das Nações Unidas sobre Poluição Atmosférica Transfronteiras a Longa Distância, assinada em Genebra em 13 de Novembro de 1979, cuja tradução portuguesa acompanha o presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção das Nações Unidas sobre Poluição Atmosférica Transfronteiras a Longa Distância, assinada em Genebra em 13 de Novembro de 1979, cuja tradução portuguesa acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 2 de Julho de 1980.**
+Assinado em 2 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convenção sobre Poluição Atmosférica Transfronteiras a Longa Distância
 
@@ -126,7 +158,7 @@ Acordam no seguinte:
 
 Definições
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Para os fins da presente Convenção:
 
@@ -136,31 +168,31 @@ b) A expressão «poluição atmosférica transfronteiras a longa distância» d
 
 Princípios fundamentais
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As Partes Contratantes, tomando devidamente em consideração os factos e os problemas em causa, estão decididas a proteger o homem e o seu ambiente contra a poluição atmosférica e esforçar-se-ão por limitar e, tanto quanto possível, por reduzir gradualmente e evitar a poluição atmosférica, incluindo a poluição atmosférica transfronteiras a longa distância.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 No âmbito da presente Convenção, as Partes Contratantes elaborarão, o mais rapidamente possível, por meio de permuta de informações, de consultas e de actividades de pesquisa e vigilância, políticas e estratégias que lhes servirão para combater os resíduos de poluentes atmosféricos, tomando em consideração os esforços já feitos a nível nacional internacional.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 As Partes Contratantes trocarão informações e procederão à revisão das suas políticas, actividades científicas e medidas técnicas que têm por objectivo combater, na medida do possível, os resíduos de poluentes atmosféricos que possam ter efeitos nocivos, de forma a contribuir para a redução da poluição atmosférica, incluindo a poluição atmosférica transfronteiras a longa distância.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Numa primeira fase e sempre solicitadas, serão realizadas consultas entre, por um lado, as Partes Contratantes efectivamente afectadas pela poluição atmosférica transfronteiras a longa distância ou correndo o risco significativo de o serem e, por outro, entre as Partes Contratantes em cujo território e sob cuja jurisdição se verifique existir já ou poder vir a existir um importante contributo em matéria de poluição atmosférica transfronteiras a longa distância, resultante de actividades que aí se desenvolvam ou que se preveja venham a ser desenvolvidas.
 
 Gestão da qualidade do ar
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Tomando em consideração os artigos 2.º a 5.º, as investigações em curso, as permutas de informações e as actividades de vigilância e os seus resultados, o custo e a eficácia das medidas correctivas locais e outras e tendo em vista combater a poluição atmosférica, em especial a que resulta de instalações novas ou transformadas, as Partes Contratantes comprometem-se a elaborar as medidas políticas e estratégicas mais convenientes, incluindo os sistemas de gestão da qualidade do ar, e, no quadro destes sistemas, medidas de contrôle que sejam compatíveis com um desenvolvimento equilibrado, recorrendo nomeadamente à melhor tecnologia disponível e economicamente aplicável e a técnicas que produzam poucos ou nenhuns resíduos.
 
 Investigação - Desenvolvimento
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 As Partes Contratantes, de acordo com as suas necessidades, empreenderão actividades conjuntas de pesquisa e ou de desenvolvimento nos domínios seguintes:
 
@@ -178,7 +210,7 @@ f) Elaboração de programas de ensino e de formação relativos à poluição d
 
 Permuta de informações
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 As Partes Contratantes, no âmbito do órgão executivo mencionado no artigo 10.º ou bilateralmente e no seu interesse comum, trocarão informações:
 
@@ -198,7 +230,7 @@ g) Sobre as políticas e estratégias nacionais, sub-regionais e regionais de lu
 
 Execução e alargamento do programa comum de vigência contínua e de avaliação do transporte a longa distância dos poluentes atmosféricos na Europa.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 As Partes Contratantes acentuam a necessidade da execução do «programa comum de vigilância e avaliação do transporte a longa distância dos poluentes atmosféricos na Europa» (mais adiante denominado «EMEP») existente e, tendo em vista o alargamento deste programa, acordam em centrar a sua acção sobre:
 
@@ -226,7 +258,7 @@ i) O interesse em alargar as redes nacionais do EMEP para as tornar operacionais
 
 Órgão executivo
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1 - Os representantes das Partes Contratantes constituirão, no quadro dos conselheiros dos Governos dos países da CEE para os problemas do ambiente, o órgão executivo da presente Convenção e reunir-se-ão pelo menos uma vez por ano nessa qualidade.
 
@@ -244,9 +276,9 @@ c) Exercerá todas as outras funções que possam ser necessárias em virtude do
 
 Secretariado
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
-**O secretário executivo da Comissão Económica para a Europa assegurará, para o órgão executivo, as seguintes funções de secretariado:**
+O secretário executivo da Comissão Económica para a Europa assegurará, para o órgão executivo, as seguintes funções de secretariado:
 
 a) Convocação e preparação das reuniões do órgão executivo;
 
@@ -256,7 +288,7 @@ c) Todas as outras funções que lhe possam vir a ser confiadas pelo órgão exe
 
 Alterações à Convenção
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1 - As Partes Contratantes podem propor alterações à presente Convenção.
 
@@ -266,13 +298,13 @@ Alterações à Convenção
 
 Regulação dos diferendos
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Se vier a surgir um diferendo entre duas ou mais Partes Contratantes à presente Convenção quanto à interpretação ou aplicação da mesma, as ditas Partes procurarão uma solução por negociação ou por qualquer outro método de resolução de diferendos que se lhes afigure aceitável.
 
 Assinatura
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1 - A presente Convenção estará aberta para assinatura dos Estados membros da Comissão Económica para a Europa, dos Estados possuidores do estatuto consultivo junto da Comissão Económica para a Europa, em virtude do disposto no parágrafo 8 da Resolução n.º 36 (IV), de 28 de Março de 1947, do Conselho Económico e Social, e das organizações de integração económica regional constituídas por Estados soberanos membros da Comissão Económica para a Europa e com competência para negociar, concluir e aplicar acordos internacionais nas matérias abrangidas pela presente Convenção, na sede das Nações Unidas em Genebra, de 13 a 16 de Novembro de 1979, por ocasião da reunião de alto nível, no âmbito da Comissão Económica para a Europa, sobre a protecção do ambiente.
 
@@ -280,7 +312,7 @@ Assinatura
 
 Ratificação, aceitação, aprovação e adesão
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1 - A presente Convenção será submetida a ratificação, aceitação ou aprovação.
 
@@ -290,7 +322,7 @@ Ratificação, aceitação, aprovação e adesão
 
 Entrada em vigor
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1 - A presente Convenção entrará em vigor no nonagésimo dia a contar da data do depósito do vigésimo quarto instrumento de ratificação, aceitação, aprovação ou adesão.
 
@@ -298,13 +330,13 @@ Entrada em vigor
 
 Denúncia
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Cinco anos após a data de entrada em vigor da presente Convenção relativamente a uma Parte Contratante, esta poderá, em qualquer momento, denunciar a Convenção, mediante notificação por escrito, dirigida ao depositário. Esta denúncia produzirá efeitos a partir do nonagésimo dia a contar da data de recepção da notificação pelo depositário.
 
 Textos autênticos
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 O original da presente Convenção, cujos textos em inglês, francês e russo são igualmente autênticos, será entregue ao Secretário-Geral da Organização das Nações Unidas.
 

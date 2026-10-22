@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/585-1975-312834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e32e880a68158ac82f54504080e05a4d9aedc62b074540711739e862f13d8ff0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76e5a8ee04db0c3c151e5143a7f3760a10094ecf441eb958830a5f0d8a6f4dcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Gestão Orçamental
+- Ministério das Finanças
+- Orçamento Geral do Estado
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:305469:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:312412:por
+  label: Rectificado o artigo 1413.º-A do Capítulo 16.º pela DECL.DD8535.29.10.1975.PCM, DG.IS [251] de 29.10.1975
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-312412
+  date: '1975-10-29'
 article_structure:
-  article_count: 1
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:14Z'
   warnings: []
   errors: []
 ---
@@ -88,26 +102,26 @@ Com fundamento no n.º 2 do artigo 10.º do [Decreto-Lei n.º 294/75](https://di
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 2883817000$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 2883817000$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/10/24100/16301631.pdf))](https://files.diariodarepublica.pt/1s/1975/10/24100/16301631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/10/24100/16301631.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 1.º, grupo 1, artigo 5.º «Imposto complementar» ... 1400000000$00
+Capítulo 1.º, grupo 1, artigo 5.º «Imposto complementar» ... 1400000000$00
 
-### Capítulo 2.º, grupo 3, artigo 21.º «Imposto de transacções» ... 1483817000$00
+Capítulo 2.º, grupo 3, artigo 21.º «Imposto de transacções» ... 1483817000$00
 
 ... 2883817000$00
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 8 de Outubro de 1975.**
+Promulgado em 8 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

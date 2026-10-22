@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24600/0002100024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/8/2024/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-2024-900706891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baf04f38da0f8f66e77a9644e88a02cde7ea349e41838e6acf32ae01bd02d6ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfbbdd4d2991e71f12221de22f03cf737fec5e812d85d31815ca6b4eb725e6c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cessão de Imóveis
-- Regime Florestal
-- Ílhavo
 - Câmara Municipal
+- Cessão de Imóveis
+- Ílhavo
+- Regime Florestal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/12/2013/06/18/p/dre
@@ -83,16 +83,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/29/2017/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/29/2017/10/03/p/dre
+- type: cites
+  target: pt:dre:108250526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123770989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496750:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:49Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +117,7 @@ validation:
 
 O [Decreto n.º 12/2013](https://diariodarepublica.pt/dr/detalhe/decreto/12-2013-496750), de 18 de junho, procedeu à desafetação do regime florestal total de uma parcela de 4 hectares, até então integrada na Mata Nacional das Dunas da Gafanha, para instalação de uma unidade industrial de cerâmica, no âmbito da Zona Industrial da Mota. Essa exclusão foi alvo de compensação através da submissão ao regime florestal total de duas parcelas limítrofes, perfazendo 45,5 hectares, pelo artigo 3.º do referido decreto.
 
-Instalada a unidade industrial de cerâmica, foi necessário corrigir a área excluída da Mata Nacional das Dunas da Gafanha, por forma a permitir a ampliação de parte das instalações fabris, pelo que o [Decreto n.º 29/2017](https://diariodarepublica.pt/dr/detalhe/decreto/29-2017-108250526), de 3 de outubro, procedeu à desafetação do regime florestal total de 3835 m<sup>2</sup> de terrenos da Mata Nacional das Dunas da Gafanha e à reintegração nesta Mata de uma parcela de terreno com 3840 m<sup>2</sup>.
+Instalada a unidade industrial de cerâmica, foi necessário corrigir a área excluída da Mata Nacional das Dunas da Gafanha, por forma a permitir a ampliação de parte das instalações fabris, pelo que o [Decreto n.º 29/2017](https://diariodarepublica.pt/dr/detalhe/decreto/29-2017-108250526), de 3 de outubro, procedeu à desafetação do regime florestal total de 3835 m2 de terrenos da Mata Nacional das Dunas da Gafanha e à reintegração nesta Mata de uma parcela de terreno com 3840 m2.
 
 Numa segunda fase do processo de ampliação da unidade industrial de cerâmica, através do [Decreto n.º 21/2019](https://diariodarepublica.pt/dr/detalhe/decreto/21-2019-123770989), de 7 de agosto, foram excluídos da área da Mata Nacional das Dunas da Gafanha mais 2,112 hectares por forma a permitir a implantação de arruamentos, estacionamentos e espaços verdes, tendo, como compensação, sido submetida ao regime florestal total e integrada na Mata uma parcela de terreno com 2,4 hectares.
 
@@ -143,24 +159,28 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2024. - Luís Montenegro - João Manuel Moura Rodrigues.
 
-**Assinado em 6 de dezembro de 2024.**
+Assinado em 6 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de dezembro de 2024.**
+Referendado em 10 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 1.º)
 
 Área a excluir do regime florestal total
 
-![](https://files.diariodarepublica.pt/images/900706891/900710084.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/900706891/900710084.png) |
+| --- |
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 4.º)
 
 Área a submeter ao regime florestal total
 
-![](https://files.diariodarepublica.pt/images/900706891/900710085.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/900706891/900710085.png) |
+| --- |
+
+118471438

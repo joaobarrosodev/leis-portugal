@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 126/1992, 2º Suplemento, Série I-B de 1992-06-01
   number: '126'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2648-(52) a 2648-(54)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/126b02/00520054.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/26-a/1992/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/26-a-1992-181987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfc179a0c05042809542b21026009ebf8b6d24d66c8f3951974af30c01034099
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c88ac3629a506e45229b5b79c7794472c7bd4ed3aa5e3bae8b8f92901be69dd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,41 @@ relationships:
   target: pt:dre:278071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:278071:por
+  label: Rectificado a al. c) do art. único e o anexo II pelo DEC.5/2002.2002.02.19.MC, DR.IS [42]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/5-2002-278071
+  date: '2002-02-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:44Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +122,7 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Em conformidade com o disposto nos artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, no n.º 1 do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965, no n.º 1 do artigo 1.º e no n.º 1 do artigo 2.º do [Decreto-Lei n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1978-468850), de 7 de Janeiro, nas alíneas a) dos artigos 2.º e 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 30 de Abril, bem como no n.º 2 dos artigos 2.º e 3.º, no n.º 1 e no n.º 3 do artigo 4.º e no n.º 1 do artigo 7.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, e no artigo 4.º do decreto-lei n.º 216/90, de 3 de Julho, são classificados os seguintes imóveis:
+Artigo único. Em conformidade com o disposto nos artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, no n.º 1 do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965, no n.º 1 do artigo 1.º e no n.º 1 do artigo 2.º do [Decreto-Lei n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1978-468850), de 7 de Janeiro, nas alíneas a) dos artigos 2.º e 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 30 de Abril, bem como no n.º 2 dos artigos 2.º e 3.º, no n.º 1 e no n.º 3 do artigo 4.º e no n.º 1 do artigo 7.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, e no artigo 4.º do decreto-lei n.º 216/90, de 3 de Julho, são classificados os seguintes imóveis:
 
 a) Como monumentos nacionais, os constantes do anexo I ao presente diploma, do qual faz parte integrante;
 
@@ -109,15 +134,15 @@ Presidência do Conselho de Ministros, 2 de Março de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira.
 
-**Assinado em 28 de Maio de 1992.**
+Assinado em 28 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Maio de 1992.**
+Referendado em 31 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Monumentos nacionais
 

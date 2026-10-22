@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-1990-332227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aea0c625c0b77b689606d62a544417cc056d1c00a9f77711381f7a3bf51b6bbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5606669dcffde6b0ce768fe302474118c7291da4192ca18cc8e2e1bf5444041
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Cooperação Económica
+- Cooperação Financeira
+- Financiamento
+- Lisboa
+- Obras Públicas
+- Portugal
+- Projeto de Investimento
+- RFA
+relationships:
+- type: corrected_by
+  target: pt:dre:293335:por
+  label: Rectificado pela DECL.DD3242.1990.05.15.PCM, DR.IS [125]2ºSupl de 31.05.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-293335
+  date: '1990-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:48Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +101,19 @@ de 30 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Especial, por troca de notas, concluído em Lisboa, em 28 de Novembro de 1989, entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha, para reafectação de créditos no âmbito da cooperação financeira luso-alemã, cujo texto original, na língua portuguesa e na língua alemã, segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Especial, por troca de notas, concluído em Lisboa, em 28 de Novembro de 1989, entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha, para reafectação de créditos no âmbito da cooperação financeira luso-alemã, cujo texto original, na língua portuguesa e na língua alemã, segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 15 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 11 de Abril de 1990.**
+Assinado em 11 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Abril de 1990.**
+Referendado em 17 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Lisboa, 25 de Outubro de 1989.
 
@@ -185,7 +199,7 @@ Permita-me, Sr. Ministro, apresentar a V. Ex.ª os protestos da minha mais alta 
 
 York.
 
-## Anexo ao Acordo Especial entre o Governo da República Portuguesa e a República Federal da Alemanha sobre cooperação financeira de 25 de Outubro de 1989.
+Anexo ao Acordo Especial entre o Governo da República Portuguesa e a República Federal da Alemanha sobre cooperação financeira de 25 de Outubro de 1989.
 
 1 - Lista das mercadorias e serviços que, conforme o n.º 1, parágrafo 1), alínea a), do Acordo Especial, poderão ser financiados com o empréstimo:
 
@@ -199,4 +213,4 @@ Equipamentos e software para o sector do processamento de dados.
 
 3 - Está excluída do financiamento com o empréstimo a importação de bens de luxo e de bens de consumo para a procura privada, bem como de mercadorias e equipamentos que sirvam para fins militares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09900/20422044.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09900/20422044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09900/20422044.pdf)

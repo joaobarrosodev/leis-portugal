@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/59/1999/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/59-1999-655296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:10:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99766bf80482499bcb609dac9498158f78b9d1d0103c3e2c390ffe2555887fd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db67306fa5aebf0f0762d1595a04be3272834e18d2df268e7fde100afa951257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:10:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Impacte Ambiental
 - Convenção
 - Cooperação Transfronteira
-- Portugal
 - Espoo
 - ONU
-- Avaliação de Impacte Ambiental
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:178502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543025:por
+  label: "Aprovada uma emenda, adotada pela Decisão III/7, na Terceira Conferência das Partes, em Cavtat, na Croácia, a 4\
+    \ de junho de 2004, à Convenção sobre a Avaliação dos Impactes Ambientais Num Contexto Transfronteiras pelo DEC.2/2012.15.02.2012.MNE,\
+    \ DR.IS [33] de 15.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/2-2012-543025
+  date: '2012-02-15'
+- type: amended_by
+  target: pt:dre:178502:por
+  label: "Aprovado o Protocolo relativo à Convenção sobre a Avaliação dos Impactes Ambientais Num Contexto Transfronteiras,\
+    \ pelo DEC.13/2012.25.06.2012.MNE, DR.IS [121] de 25.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/13-2012-178502
+  date: '2012-06-25'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:10:39Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +118,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Cardona Gomes Cravinho - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
 
-**Assinado em 19 de Novembro de 1999.**
+Assinado em 19 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONVENTION ON ENVIRONMENTAL IMPACT ASSESSMENT IN A TRANSBOUNDARY CONTEXT
 
@@ -789,7 +802,7 @@ f) Considerarão e aplicarão qualquer outra medida que se possa vir a revelar n
 
 ###### Artigo 13.º — Secretariado
 
-**O secretário executivo da Comissão Económica para a Europa exercerá as seguintes funções de secretariado:**
+O secretário executivo da Comissão Económica para a Europa exercerá as seguintes funções de secretariado:
 
 a) Convocará e preparará as reuniões das Partes;
 
@@ -859,7 +872,7 @@ Em fé do que, os abaixo assinados, devidamente autorizados para o efeito, assin
 
 Feito em Espoo (Finlândia), em 25 de Fevereiro de 1991.
 
-## APÊNDICE I
+APÊNDICE I
 
 Lista de actividades
 
@@ -909,7 +922,7 @@ c) Encontra-se especialmente assinalada como sendo uma auto-estrada;
 
 A expressão «via rápida» designa uma estrada reservada à circulação automóvel, acessível apenas por nós ou cruzamentos regulamentados e na qual é proibido, em especial, parar e estacionar na faixa de rodagem.
 
-## APÊNDICE II
+APÊNDICE II
 
 Conteúdo do dossier de avaliação dos impactes ambientais
 
@@ -933,7 +946,7 @@ h) Se for caso disso, um resumo dos programas de monitorização e gestão e dos
 
 i) Resumo não técnico com, se for caso disso, uma apresentação visual (mapas, gráficos, etc.).
 
-## APÊNDICE III
+APÊNDICE III
 
 Critérios gerais destinados a auxiliar a determinação da importância dos impactes ambientais das actividades que não constam da lista do apêndice I
 
@@ -947,7 +960,7 @@ c) Efeitos: actividades propostas cujos efeitos são particularmente complexos e
 
 2 - As Partes envolvidas procederão, deste modo, em relação às actividades propostas cuja implantação se situe na proximidade de uma fronteira internacional e em relação às actividades propostas cuja implantação é mais afastada e poderia exercer efeitos transfronteiras importantes a longa distância.
 
-## APÊNDICE IV
+APÊNDICE IV
 
 Processo de inquérito
 
@@ -983,7 +996,7 @@ b) Permitindo, se tal for necessário, convocar e ouvir testemunhas ou peritos.
 
 14 - O parecer definitivo da comissão de inquérito será baseado em princípios científicos consagrados. A comissão de inquérito comunicará o seu parecer definitivo às Partes envolvidas no processo de inquérito e ao secretariado.
 
-## APÊNDICE V
+APÊNDICE V
 
 Análise a posteriori
 
@@ -995,7 +1008,7 @@ b) Examinar todos os impactes numa preocupação de boa gestão e a fim de poder
 
 c) Verificar a exactidão das previsões anteriores de modo que as actividades do mesmo tipo a empreender no futuro beneficiem da experiência adquirida.
 
-## APÊNDICE VI
+APÊNDICE VI
 
 Elementos da cooperação bilateral e multilateral
 
@@ -1017,7 +1030,7 @@ f) Fixação de limiares e de critérios mais específicos destinados a definir 
 
 g) Realização conjunta, se for caso disso, da avaliação dos impactes ambientais, desenvolvimento de programas de monitorização conjunta, intercalibração dos dispositivos de monitorização e harmonização de metodologias com vista a assegurar a compatibilidade dos dados e das informações obtidas.
 
-## APÊNDICE VII
+APÊNDICE VII
 
 Arbitragem
 

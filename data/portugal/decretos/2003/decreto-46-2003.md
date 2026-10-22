@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/46/2003/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46-2003-477301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:16:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a84c2d4cf4c91abe1759c91bc88ccc14d4d58205d2b46eb93d9de1c5885811f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1466192f7950fc445a5a0663d854a76ea4cf38b66e83f22f05ec97fbcf70846c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:16:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cidade do Panamá
 - Congresso
 - Convenção
-- Portugal
 - Espanha
-- Uruguai
 - Panamá
-- Cidade do Panamá
+- Portugal
 - Regulamento
 - União Postal das Américas Espanha e Portugal
+- Uruguai
 relationships: []
 article_structure:
-  article_count: 34
+  article_count: 37
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:16:22Z'
   warnings: []
   errors: []
 ---
@@ -115,23 +115,21 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva.
 
-**Assinado em 24 de Setembro de 2003.**
+Assinado em 24 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2003.**
+Referendado em 25 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 SEXTO PROTOCOLO ADICIONAL À CONSTITUIÇÃO DA UNIÃO POSTAL DAS AMÉRICAS, ESPANHA E PORTUGAL
 
 Os representantes plenipotenciários dos Governos dos países membros da União Postal das Américas, Espanha e Portugal, reunidos na cidade do Panamá, nos termos do n.º 2 do artigo 24.º da Constituição da União, adoptaram, sob reserva de ratificação, as seguintes alterações à Constituição:
 
-Artigo I
-
-(artigo 1.º, alterado)
+###### Artigo I — (artigo 1.º, alterado)
 
 Integração, território e liberdade de trânsito - Objectivos e estratégias da União
 
@@ -165,9 +163,7 @@ k) Desenvolver acções destinadas a garantir a criação de infra-estruturas po
 
 l) Em geral, melhorar, desenvolver e actualizar os serviços postais dos países membros, através de uma cooperação e colaboração estreita.
 
-Artigo II
-
-(artigo 8.º, alterado)
+###### Artigo II — (artigo 8.º, alterado)
 
 Privilégios e imunidade
 
@@ -177,15 +173,13 @@ Privilégios e imunidade
 
 3 - O pessoal da Secretaria-Geral da UPAEP também gozará destas prerrogativas sempre que cumprir missões oficiais.
 
-Artigo III
-
-Entrada em vigor e duração do Sexto Protocolo Adicional à Constituição da União Postal das Américas, Espanha e Portugal
+###### Artigo III — Entrada em vigor e duração do Sexto Protocolo Adicional à Constituição da União Postal das Américas, Espanha e Portugal
 
 O presente Protocolo Adicional será posto em execução em 1 de Janeiro de 2001 e permanecerá em vigor por tempo indeterminado.
 
 E, por ser verdade, os representantes plenipotenciários dos governos dos países membros redigiram o presente Protocolo Adicional, que terá a mesma força e o mesmo valor como se as suas disposições tivessem sido inseridas no próprio texto da Constituição, e assinam um exemplar que será depositado nos arquivos da Secretaria-Geral da União. A Secretaria-Geral entregará uma cópia a cada uma das partes.
 
-**Assinado na cidade do Panamá, em 12 de Setembro de 2000.**
+Assinado na cidade do Panamá, em 12 de Setembro de 2000.
 
 REGULAMENTO GERAL DA UNIÃO POSTAL DAS AMÉRICAS, ESPANHA E PORTUGAL
 

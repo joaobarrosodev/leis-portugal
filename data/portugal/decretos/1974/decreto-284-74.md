@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/14700/07480748.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/284-1974-476130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5c7bbe828e65a2576e38c56773d36c4dba08b6b4c6e8cfb83f6252ed24fab95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbe24606e914faa2f17a2ead10ddf40b8abd3b895b48b23477faa9b928a29117
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,26 @@ relationships:
   target: pt:dre:506647:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506647:por
+  label: Extinta, com efeitos a partir de 15.01.1976, a comissão liquidatária da ex-Direcção Geral de Segurança (DGS), criada
+    pelo presente diploma, pelo(a) Decreto n.º 113/76 - Diário do Governo n.º 33/1976, Série I de 1976-02-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/113-1976-506647
+  date: '1976-02-09'
+- type: cites
+  target: pt:dre:523190:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:37Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +102,18 @@ Considerando o disposto no [Decreto-Lei n.º 172/74](https://diariodarepublica.p
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Governo Provisório, pelo Ministro da Administração Interna, nomeará uma comissão liquidatária da ex-Direcção-Geral de Segurança, da qual farão parte um representante da Secretaria de Estado das Finanças e outro das forças armadas.
+Artigo 1.º O Governo Provisório, pelo Ministro da Administração Interna, nomeará uma comissão liquidatária da ex-Direcção-Geral de Segurança, da qual farão parte um representante da Secretaria de Estado das Finanças e outro das forças armadas.
 
-###### Art. 2.º - 1. A comissão liquidatária procederá ao apuramento e arrolamento dos bens que constituem o activo da organização dissolvida, bem como ao apuramento e liquidação do seu passivo.
+Art. 2.º - 1. A comissão liquidatária procederá ao apuramento e arrolamento dos bens que constituem o activo da organização dissolvida, bem como ao apuramento e liquidação do seu passivo.
 
 2. Os ficheiros e demais documentação ficarão confiados às forças armadas até que o Governo Provisório decida o seu destino.
 
-###### Art. 3.º Sem prejuízo dos direitos que venham a ser reconhecidos a terceiros, poderá o Governo Provisório, mediante proposta da comissão liquidatária ou por iniciativa própria, determinar a aplicação de bens a que se refere o n.º 1 do artigo anterior a qualquer fim de utilidade pública.
+Art. 3.º Sem prejuízo dos direitos que venham a ser reconhecidos a terceiros, poderá o Governo Provisório, mediante proposta da comissão liquidatária ou por iniciativa própria, determinar a aplicação de bens a que se refere o n.º 1 do artigo anterior a qualquer fim de utilidade pública.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Mário Firmino Miguel - Joaquim Jorge Magalhães Mota - Vasco Vieira de Almeida.
 
-**Promulgado em 18 de Junho de 1974.**
+Promulgado em 18 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

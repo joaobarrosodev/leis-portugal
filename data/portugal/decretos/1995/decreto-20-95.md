@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/20/1995/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-1995-464657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27c6e52eeb6b43cc2a6d25798b6e4e9d01530534d25676003962d95fe3e73ae8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d3917d89a909e60c7553f53a391eb6160d3279a12ed230b4b0079e64e78f97a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Patente
 - ACTO Constitutivo
+- Convenção
 - Espécie Protegida
+- Genebra
+- Patente
+- Portugal
 - Produção Vegetal
 - Sede
-- Genebra
 - Vegetais
 relationships: []
 article_structure:
-  article_count: 43
+  article_count: 42
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:40Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +95,19 @@ de 8 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção Internacional para a Protecção das Obtenções Vegetais, de 2 de Dezembro de 1961, revista em Genebra em 10 de Novembro de 1972 e em 23 de Outubro de 1978, cujo texto original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para adesão, a Convenção Internacional para a Protecção das Obtenções Vegetais, de 2 de Dezembro de 1961, revista em Genebra em 10 de Novembro de 1972 e em 23 de Outubro de 1978, cujo texto original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 1995. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - António Duarte Silva.
 
 Ratificado em 21 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Junho de 1995.**
+Referendado em 24 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION INTERNATIONAL POUR LA PROTECTION DES OBTENTIONS VEGETALES, DU 2 DECEMBRE 1961, REVISEE A GENEVE LE 10 DE NOVEMBRE 1972 ET LE 23 OCTOBRE 1978.
 

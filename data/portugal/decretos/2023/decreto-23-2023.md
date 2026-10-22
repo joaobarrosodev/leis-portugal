@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15800/0000900071.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/23/2023/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-2023-219991576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca71c3e2d49ae0942d8bea5b29cc36be69b36408f91b510d15fc0b67c5d5613f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa2b9091b606c48aecb71cf60f397bbdc845f79a6e7a44447ec74819d5851a3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indicação Geográfica
-- Denominação de Origem
 - Convenção
-- Portugal
+- Denominação de Origem
+- Genebra
+- Indicação Geográfica
 - Lisboa
+- Portugal
 - Propriedade Industrial
 - Registo Internacional das Marcas
 - Regulamento
-- Genebra
 relationships: []
 article_structure:
-  article_count: 59
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 46
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:26Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de junho de 2023. - Mariana Guimarães Vieira da Silva - João Titterington Gomes Cravinho.
 
-**Assinado em 21 de julho de 2023.**
+Assinado em 21 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de julho de 2023.**
+Referendado em 28 de julho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 GENEVA ACT OF THE LISBON AGREEMENT ON APPELLATIONS OF ORIGIN AND GEOGRAPHICAL INDICATIONS
 
@@ -1320,69 +1320,77 @@ ATO DE GENEBRA DO ACORDO DE LISBOA RELATIVO ÀS DENOMINAÇÕES DE ORIGEM E ÀS I
 
 Lista de artigos
 
-### Capítulo I: Introdução e disposições gerais
+Capítulo I: Introdução e disposições gerais
 
-###### Artigo 1.º: Expressões abreviadas
+Artigo 1.º: Expressões abreviadas
 
-###### Artigo 2.º: Objeto — Artigo 3.º: Autoridade competente
+###### Artigo 2.º: Objeto
 
-###### Artigo 4.º: Registo internacional
+###### Artigo 3.º: Autoridade competente
 
-### Capítulo II: Pedido e inscrição no registo internacional
+Artigo 4.º: Registo internacional
+
+Capítulo II: Pedido e inscrição no registo internacional
 
 ###### Artigo 5.º: Pedido — Artigo 6.º: Inscrição no registo internacional
 
 ###### Artigo 7.º: Taxas — Artigo 8.º: Validade das inscrições no registo internacional
 
-### Capítulo III: Proteção — Artigo 9.º: Compromisso de proteção
+### Capítulo III: Proteção
 
-###### Artigo 10.º: Proteção ao abrigo da legislação das Partes Contratantes e de outros instrumentos
+###### Artigo 9.º: Compromisso de proteção
 
-###### Artigo 11.º: Proteção de denominações de origem e de indicações geográficas registadas
+Artigo 10.º: Proteção ao abrigo da legislação das Partes Contratantes e de outros instrumentos
 
-###### Artigo 12.º: Proteção contra o caráter genérico
+Artigo 11.º: Proteção de denominações de origem e de indicações geográficas registadas
 
-###### Artigo 13.º: Salvaguardas relativas a outros direitos
+Artigo 12.º: Proteção contra o caráter genérico
 
-###### Artigo 14.º: Procedimentos de execução e vias de recurso
+Artigo 13.º: Salvaguardas relativas a outros direitos
 
-### Capítulo IV: Recusa e outras ações relativas a inscrições no registo internacional
+Artigo 14.º: Procedimentos de execução e vias de recurso
 
-###### Artigo 15.º: Recusa — Artigo 16.º: Retirada de recusa
+Capítulo IV: Recusa e outras ações relativas a inscrições no registo internacional
 
-###### Artigo 17.º: Período transitório
+###### Artigo 15.º: Recusa
 
-###### Artigo 18.º: Notificação da concessão de proteção
+###### Artigo 16.º: Retirada de recusa
+
+Artigo 17.º: Período transitório
+
+Artigo 18.º: Notificação da concessão de proteção
 
 ###### Artigo 19.º: Anulação — Artigo 20.º: Alterações e outras entradas no registo internacional
 
-### Capítulo V: Disposições administrativas
+Capítulo V: Disposições administrativas
 
-###### Artigo 21.º: Adesão à União de Lisboa
+Artigo 21.º: Adesão à União de Lisboa
 
-###### Artigo 22.º: Assembleia da União Particular
+Artigo 22.º: Assembleia da União Particular
 
-###### Artigo 23.º: Secretaria Internacional
+Artigo 23.º: Secretaria Internacional
 
-###### Artigo 24.º: Finanças — Artigo 25.º: Regulamentos
+###### Artigo 24.º: Finanças
 
-### Capítulo VI: Revisão e alteração
+###### Artigo 25.º: Regulamentos
+
+Capítulo VI: Revisão e alteração
 
 ###### Artigo 26.º: Revisão — Artigo 27.º: Alteração de determinados artigos pela Assembleia
 
-### Capítulo VII: Disposições finais
+Capítulo VII: Disposições finais
 
-###### Artigo 28.º: Adesão ao presente ato
+Artigo 28.º: Adesão ao presente ato
 
-###### Artigo 29.º: Data efetiva de ratificações e de adesões
+Artigo 29.º: Data efetiva de ratificações e de adesões
 
-###### Artigo 30.º: Inadmissibilidade de reservas
+Artigo 30.º: Inadmissibilidade de reservas
 
-###### Artigo 31.º: Aplicação do Acordo de Lisboa e do Ato de 1967
+Artigo 31.º: Aplicação do Acordo de Lisboa e do Ato de 1967
 
 ###### Artigo 32.º: Denúncia — Artigo 33.º: Línguas do presente ato; Assinatura
 
-###### Artigo 34.º: Depositário
+Artigo 34.º: Depositário
 
 ### CAPÍTULO I — Introdução e disposições gerais
 
@@ -1824,7 +1832,7 @@ REGULAMENTO DE EXECUÇÃO COMUM DO ACORDO DE LISBOA RELATIVO À PROTEÇÃO DAS D
 
 Lista de Regras
 
-### Capítulo I: Disposições preliminares e gerais
+Capítulo I: Disposições preliminares e gerais
 
 Regra 1: Definições
 
@@ -1836,7 +1844,7 @@ Regra 3: Línguas de trabalho
 
 Regra 4: Autoridade competente
 
-### Capítulo II: Pedido e registo internacional
+Capítulo II: Pedido e registo internacional
 
 Regra 5: Requisitos relativos ao pedido
 
@@ -1848,7 +1856,7 @@ Regra 7bis: Data do registo internacional efetuado ao abrigo do Ato de 1967 e da
 
 Regra 8: Taxas
 
-### Capítulo III: Recusa e outras ações relativas ao registo internacional
+Capítulo III: Recusa e outras ações relativas ao registo internacional
 
 Regra 9: Recusa
 
@@ -1870,7 +1878,7 @@ Regra 17: Cancelamento de um registo internacional
 
 Regra 18: Correções efetuadas ao registo internacional
 
-### Capítulo IV: Disposições diversas
+Capítulo IV: Disposições diversas
 
 Regra 19: Publicação
 
@@ -2411,3 +2419,5 @@ ii) Qualquer comunicação de recusa, retirada de recusa, declaração de conces
 (2) A aplicação da Regra 5, n.º 2, alínea a), iv), e da Regra 5, n.º 2, alínea b), é feita sob reserva das disposições da Regra 3, n.º 3 e n.º 4.
 
 (3) Para um registo internacional relativo a uma área geográfica localizada num país menos desenvolvido (PMD), de acordo com as listas estabelecidas pelas Nações Unidas, a taxa é reduzida a 50 % do montante especificado (arredondado para o número inteiro mais próximo). Assim, a taxa é de 500 francos suíços para um registo internacional relativo à área geográfica de origem localizada no PMD, de 250 francos suíços para uma alteração de um registo internacional relativo à área geográfica de origem localizada num país da categoria dos PMD e de 150 francos suíços referentes a uma taxa complementar para uma ou várias alterações suplementares apresentadas no mesmo pedido. Essas reduções de taxa são aplicáveis três anos após a entrada em vigor do Ato de Genebra.
+
+116740913

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/16/1995/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-1995-528066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34a73182b4b516afb271ed1f8b8370b3be97cdc2ec839c8faff12006cd22086e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e613624832b07c6cd44e7a53e3cafede8d470beee15c807a23f0ce00fddce3b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,19 @@ subjects:
 - Comunicação Social
 - Convenção
 - Cooperação Técnica
-- Portugal
 - Lisboa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:35Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 29 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional ao Acordo de Assistência Técnica e de Cooperação no Domínio da Comunicação Social entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, assinado em Lisboa, a 19 de Dezembro de 1994, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Adicional ao Acordo de Assistência Técnica e de Cooperação no Domínio da Comunicação Social entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, assinado em Lisboa, a 19 de Dezembro de 1994, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1995. - Aníbal António Cavaco Silva. - Domingos Manuel Martins Jerónimo. - Luís Manuel Gonçalves Marques Mendes.
 
-**Assinado em 4 de Maio de 1995.**
+Assinado em 4 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Protocolo Adicional ao Acordo de Assistência Técnica e de Cooperação no Domínio da Comunicação Social entre a República Portuguesa e a República Democrática de São Tomé e Príncipe.
 
@@ -116,7 +116,7 @@ Considerando o respeito mútuo pelos valores culturais próprios e pelo princíp
 
 Ambos os Estados deliberam subscrever o presente Protocolo Adicional ao Acordo de Assistência Técnica e de Cooperação no Domínio da Comunicação Social:
 
-###### Artigo 1.º O Estado Português, solicitado no âmbito e no espírito das relações de amizade e solidariedade e dos instrumentos vigentes entre ambos os Estados, e com vista a contribuir para o incremento daquelas relações, compromete-se a desenvolver as seguintes acções de cooperação:
+Artigo 1.º O Estado Português, solicitado no âmbito e no espírito das relações de amizade e solidariedade e dos instrumentos vigentes entre ambos os Estados, e com vista a contribuir para o incremento daquelas relações, compromete-se a desenvolver as seguintes acções de cooperação:
 
 a) Pela Radiotelevisão Portuguesa, S. A. (RTP), apoiará a fundo perdido o Plano de Desenvolvimento da Televisão São-Tomense (TVS), designadamente através do fornecimento e instalação de dois retransmissores em Neves e Santa Catarina e, bem assim, da prestação de assistência técnica e formação profissional;
 
@@ -124,31 +124,31 @@ b) Pela Radiodifusão Portuguesa, S. A. (RDP), será prestado apoio à Rádio Na
 
 c) Pela Agência Lusa, CIPRIL, será prestado apoio à Agência Noticiosa de São Tomé e Príncipe, através do fornecimento de equipamentos necessários à recepção, via satélite, do serviço da Lusa e, bem assim, da prestação de assistência técnica e formação profissional.
 
-###### Art. 2.º O Estado Português, no sentido de contribuir para a formação dos recursos humanos do Estado de São Tomé e Príncipe na área da comunicação social, promoverá a realização de cursos de formação profissional em entidades de comunicação social de ambos os países.
+Art. 2.º O Estado Português, no sentido de contribuir para a formação dos recursos humanos do Estado de São Tomé e Príncipe na área da comunicação social, promoverá a realização de cursos de formação profissional em entidades de comunicação social de ambos os países.
 
-###### Art. 3.º A assistência técnica, a prestar pelo Estado Português, compreenderá o apoio aos sectores das infra-estruturas e dos equipamentos, bem como estudos técnicos de projectos e de intercâmbio de informação sobre reuniões e programas internacionais no âmbito da comunicação social.
+Art. 3.º A assistência técnica, a prestar pelo Estado Português, compreenderá o apoio aos sectores das infra-estruturas e dos equipamentos, bem como estudos técnicos de projectos e de intercâmbio de informação sobre reuniões e programas internacionais no âmbito da comunicação social.
 
-###### Art. 4.º O Estado de São Tomé e Príncipe manterá uma cooperação privilegiada em Portugal no sector da televisão, nomeadamente no domínio do intercâmbio e transmissão de programas dos dois países.
+Art. 4.º O Estado de São Tomé e Príncipe manterá uma cooperação privilegiada em Portugal no sector da televisão, nomeadamente no domínio do intercâmbio e transmissão de programas dos dois países.
 
-###### Art. 5.º Nos termos do artigo anterior, o Estado de São Tomé e Príncipe compromete-se a autorizar a transmissão em directo da programação da RTP Internacional no período compreendido entre as 6 e as 19 horas locais.
+Art. 5.º Nos termos do artigo anterior, o Estado de São Tomé e Príncipe compromete-se a autorizar a transmissão em directo da programação da RTP Internacional no período compreendido entre as 6 e as 19 horas locais.
 
-###### Art. 6.º Para os efeitos do artigo anterior, o Estado de São Tomé e Príncipe compromete-se a disponibilizar à RTP, S. A, as infra-estruturas técnicas e a rede de emissão da TVS necessárias à consecução daquele objectivo.
+Art. 6.º Para os efeitos do artigo anterior, o Estado de São Tomé e Príncipe compromete-se a disponibilizar à RTP, S. A, as infra-estruturas técnicas e a rede de emissão da TVS necessárias à consecução daquele objectivo.
 
-###### Art. 7.º - 1 - O Estado de São Tomé e Príncipe compromete-se a conceder duas frequências para a instalação de dois emissores, um dos quais em São Tomé e o outro no Príncipe, para a transmissão da RTP Internacional.
+Art. 7.º - 1 - O Estado de São Tomé e Príncipe compromete-se a conceder duas frequências para a instalação de dois emissores, um dos quais em São Tomé e o outro no Príncipe, para a transmissão da RTP Internacional.
 
 2 - A entrada em funcionamento dos emissores referidos no número anterior verificar-se-á quando cessarem as emissões da RTP Internacional na rede da TVS.
 
-###### Art. 8.º - 1 - O Estado Português, pela RTP, S. A, suportará todos os encargos financeiros resultantes da utilização da rede de emissão da TVS, tais como energia eléctrica, combustíveis, manutenção dos emissores, aquisição de equipamentos, transporte e pessoal considerado indispensável para as emissões da RTPI.
+Art. 8.º - 1 - O Estado Português, pela RTP, S. A, suportará todos os encargos financeiros resultantes da utilização da rede de emissão da TVS, tais como energia eléctrica, combustíveis, manutenção dos emissores, aquisição de equipamentos, transporte e pessoal considerado indispensável para as emissões da RTPI.
 
 2 - O Estado Português compromete-se a fornecer um grupo gerador de 120 kWA, para alimentar o Centro de Produção e Emissão da TVS, e outro de 20 kWA, para o Centro Emissor de São José.
 
-###### Art. 9.º Por seu lado, o Estado de São Tomé e Príncipe compromete-se a conceder duas frequências para a instalação de dois emissores de FM, um em São Tomé e outro no Príncipe, com a potência máxima de 1 kW cada, para a transmissão das emissões da RDP Internacional em língua portuguesa.
+Art. 9.º Por seu lado, o Estado de São Tomé e Príncipe compromete-se a conceder duas frequências para a instalação de dois emissores de FM, um em São Tomé e outro no Príncipe, com a potência máxima de 1 kW cada, para a transmissão das emissões da RDP Internacional em língua portuguesa.
 
-###### Art. 10.º O Estado Português, através da RTPI e da RDPI, transmitirá os programas produzidos pela TVS e RN, acordados entre as estações de televisão e de rádio dos dois Estados.
+Art. 10.º O Estado Português, através da RTPI e da RDPI, transmitirá os programas produzidos pela TVS e RN, acordados entre as estações de televisão e de rádio dos dois Estados.
 
-###### Art. 11.º Para a concretização dos objectivos previstos nos artigos 6.º, 7.º, 8.º, 9.º e 10.º do presente Protocolo, serão celebrados acordos específicos entre a RTP, S. A., e a TVS e a RDP, S. A., e a RN.
+Art. 11.º Para a concretização dos objectivos previstos nos artigos 6.º, 7.º, 8.º, 9.º e 10.º do presente Protocolo, serão celebrados acordos específicos entre a RTP, S. A., e a TVS e a RDP, S. A., e a RN.
 
-###### Art. 12.º - 1 - Este Protocolo entrará em vigor na data da troca de notas pelas quais cada um dos Estados contratantes comunique ao outro que se encontram cumpridas as formalidades exigidas para a sua vigência pela respectiva ordem jurídica interna.
+Art. 12.º - 1 - Este Protocolo entrará em vigor na data da troca de notas pelas quais cada um dos Estados contratantes comunique ao outro que se encontram cumpridas as formalidades exigidas para a sua vigência pela respectiva ordem jurídica interna.
 
 2 - O presente Protocolo terá a duração de cinco anos, renovando-se automaticamente a sua vigência por períodos sucessivos de um ano se qualquer das Partes o não denunciar mediante aviso prévio mínimo de seis meses.
 

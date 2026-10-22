@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/148-1974-411829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd6f1e7c47bd471c3a3070c5ac61d2bd808a5c2a35df9f4a933c16c720fe93be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 348d00a7668f5b12ef09d246fbf4510e1394adb1eb1ed168f751b219f8cdb828
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: pt:dre:375412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:02Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +96,18 @@ de 11 de Abril
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. O Ministro das Comunicações ouvirá, sempre que o entenda conveniente, o Conselho Superior de Obras Públicas e Transportes sobre os processos de fixação de contingentes e de tarifas e de concessão de carreiras, de que tratam os artigos 16.º, 44.º, 54.º, 102.º e 145.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
+Artigo 1.º - 1. O Ministro das Comunicações ouvirá, sempre que o entenda conveniente, o Conselho Superior de Obras Públicas e Transportes sobre os processos de fixação de contingentes e de tarifas e de concessão de carreiras, de que tratam os artigos 16.º, 44.º, 54.º, 102.º e 145.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
 
 2. Não carecem de parecer do Conselho os processos referentes à transferência e cancelamento de concessões, a que se referem os artigos 116.º e 120.º do mesmo Regulamento.
 
-###### Art. 2.º O § 1.º do artigo 111.º do Regulamento de Transportes em Automóveis passa a ter a seguinte redacção:
+Art. 2.º O § 1.º do artigo 111.º do Regulamento de Transportes em Automóveis passa a ter a seguinte redacção:
 
 Os requerimentos referidos no corpo deste artigo poderão ser acompanhados de memória justificativa diferente da do primeiro requerimento.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 3 de Abril de 1974.**
+Promulgado em 3 de Abril de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

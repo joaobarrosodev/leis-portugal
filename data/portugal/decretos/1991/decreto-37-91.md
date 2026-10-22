@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/37/1991/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/37-1991-639713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b42f78705333477a709c190e6da365b9f7a8ef97babebf209132243fe781271
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02bc64906d99b488831bc35fc4cdaafa44a319da4677bf43e37db490a31ccc8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,45 @@ reuse:
 subjects:
 - CEE
 - Convenção
-- Portugal
 - Espanha
-- Protecção do Litoral
+- França
 - Lisboa
 - Marrocos
 - Oceano Atlântico
 - Poluição Marinha
-- França
+- Portugal
+- Protecção do Litoral
 relationships:
 - type: amended_by
   target: pt:dre:622306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493008:por
+  label: "Aprovado o Protocolo Adicional relativo ao Acordo de Cooperação para a Protecção das Costas e Águas do Atlântico\
+    \ Nordeste contra a Poluição, aprovado, para ratificação, pelo presente diploma, pelo DEC.17/2009.04.08.2009.MNE, DR.IS\
+    \ [149] de 04.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/17-2009-493008
+  date: '2009-08-04'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Integrado no Ministério da Agricultura, do Mar, do Ambiente e Ordenamento do Território o Centro Internacional de\
+    \ Luta contra a Poluição no Atlântico Nordeste, anteriormente na dependência do Ministério da Defesa Nacional, criado\
+    \ pelo art. 18º do Acordo de Cooperação para a Protecção das Costas e das Águas do Atlântico Nordeste contra a Poluição,\
+    \ aprovado para ratificação pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 article_structure:
-  article_count: 28
+  article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:57Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +116,19 @@ de 18 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo de Cooperação para a Protecção das Costas e das Águas do Atlântico Nordeste contra a Poluição, concluído em Lisboa, a 17 de Outubro de 1990, cuja versão autêntica em língua francesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo de Cooperação para a Protecção das Costas e das Águas do Atlântico Nordeste contra a Poluição, concluído em Lisboa, a 17 de Outubro de 1990, cuja versão autêntica em língua francesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 4 de Abril de 1991. - Aníbal António Cavaco Silva. - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Fernando Nunes Ferreira Real.
 
 Ratificado em 19 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Abril de 1991.**
+Referendado em 23 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACCORD DE COOPÉRATION POUR LA PROTECTION DES CÔTES ET DES EAUX DE L'ATLANTIQUE DU NORD-EST CONTRE LA POLLUTION.
 

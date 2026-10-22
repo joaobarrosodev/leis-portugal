@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/141-1975-161166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4f866dd99017093a1fcfc371ca2dec3d9ec7c6f55a7f06ecd061ffa6984b1ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd487074e7757670507a502f0e817209d04ffe46bc501d10d646679e42d1e702
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:622873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:11Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +99,9 @@ Ao abrigo do disposto no n.º 3 do artigo 3.º do [Decreto-Lei n.º 240/74](http
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ao Gabinete de Coordenação e às direcções-gerais criados na Secretaria de Estado das Pescas pelos Decretos-Leis n.os 457/74 e [240/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1974-622873), respectivamente de 13 de Setembro e 5 de Junho, é concedida autonomia administrativa.
+Artigo 1.º Ao Gabinete de Coordenação e às direcções-gerais criados na Secretaria de Estado das Pescas pelos Decretos-Leis n.os 457/74 e [240/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1974-622873), respectivamente de 13 de Setembro e 5 de Junho, é concedida autonomia administrativa.
 
-###### Art. 2.º - 1. Os serviços indicados no artigo anterior disporão de conselhos administrativos assim constituídos:
+Art. 2.º - 1. Os serviços indicados no artigo anterior disporão de conselhos administrativos assim constituídos:
 
 a) O Gabinete de Coordenação, pelo coordenador nacional das pescas e da protecção dos recursos e do ambiente aquático, que presidirá, pelos três directores-gerais e pelo director dos Serviços Administrativos Gerais;
 
@@ -107,16 +111,16 @@ b) Os das direcções-gerais, pelos directores-gerais respectivos, que presidir�
 
 3. Poderão ser constituídos para cada serviço a que se refere este artigo fundos de maneio de quantitativo a lixar pelo Secretário de Estado das Pescas, destinados ao pagamento directo de pequenas despesas.
 
-###### Art. 3.º Os conselhos administrativos prestarão contas ao Tribunal de Contas, nos termos da lei geral.
+Art. 3.º Os conselhos administrativos prestarão contas ao Tribunal de Contas, nos termos da lei geral.
 
-###### Art. 4.º - 1. Até poderem funcionar os conselhos administrativos das direcções-gerais, o Gabinete de Coordenação requisitará fndos à 11.ª Delegação da Direcção-Geral da Contabilidade Pública, de conta das verbas adequadas inscritas no orçamento do Ministério da Economia, para o efeito de satisfazer as despesas de todas as direcções-gerais da Secretaria de Estado das Pescas, incluindo as dos serviços e organismos a integrar nesta Secretaria de Estado.
+Art. 4.º - 1. Até poderem funcionar os conselhos administrativos das direcções-gerais, o Gabinete de Coordenação requisitará fndos à 11.ª Delegação da Direcção-Geral da Contabilidade Pública, de conta das verbas adequadas inscritas no orçamento do Ministério da Economia, para o efeito de satisfazer as despesas de todas as direcções-gerais da Secretaria de Estado das Pescas, incluindo as dos serviços e organismos a integrar nesta Secretaria de Estado.
 
 2. A situação prevista no número anterior cessará em data a fixar em despacho do Secretário de Estado das Pescas.
 
 Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 11 de Março de 1975.**
+Promulgado em 11 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-1978-468856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b958a1c3b3b7ae7893481d18c95a0d011f0915a9048edad2b2d31297458554e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdd46d4ce843a8e4762d4067e3bddc251bcbae3ad5ed3e3f228054a41280447a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Invalidez
+- Pensão de Sobrevivência
+- Portugal
+- Proteção na Velhice
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:415867:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:296422:por
+  label: Retificado pelo(a) Declaração - Diário da República n.º 119/1978, Série I de 1978-05-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-296422
+  date: '1978-05-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:21Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +102,15 @@ de 9 de Janeiro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo Provisório Europeu sobre os Regimes de Segurança Social Relativos à Velhice, Invalidez e Sobrevivência, respectivos anexos I, II e III e Protocolo Adicional, cujo texto segue em anexo ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo Provisório Europeu sobre os Regimes de Segurança Social Relativos à Velhice, Invalidez e Sobrevivência, respectivos anexos I, II e III e Protocolo Adicional, cujo texto segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Assinado em 20 de Dezembro de 1977.**
+Assinado em 20 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO PROVISÓRIO EUROPEU SOBRE OS REGIMES DE SEGURANÇA SOCIAL RELATIVOS À VELHICE, INVALIDEZ E SOBREVIVÊNCIA.
 
@@ -111,7 +126,7 @@ Desejosos de tornar eficazes estes princípios através da conclusão de um acor
 
 acordam no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1 - O presente Acordo aplica-se a todas as leis e regulamentos de segurança social que estejam em vigor à data da assinatura ou que posteriormente possam vir a entrar em vigor em qualquer parcela do território das Partes Contratantes, e que respeitem a:
 
@@ -127,7 +142,7 @@ c) Prestações de sobrevivência, salvo os subsídios por morte e as prestaçõ
 
 4 - Os termos «nacionais» e «território» de uma Parte Contratante terão o significado que essa Parte lhe atribuir numa declaração dirigida ao Secretário-Geral do Conselho da Europa, que, por sua vez, a comunicará a cada uma das outras Partes Contratantes.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1 - Sob reserva das disposições do artigo 9.º, os nacionais de uma das Partes Contratantes serão admitidos ao benefício das leis e regulamentos de qualquer outra Parte Contratante, nas mesmas condições que os nacionais desta última Parte Contratante, desde que:
 
@@ -139,7 +154,7 @@ c) No que respeita às prestações previstas por um regime contributivo, resida
 
 2 - Em todos os casos em que as leis e regulamentos de uma das Partes Contratantes sujeitem a limitações os direitos de um nacional desta Parte não nascido no seu território, um nacional de qualquer outra Parte Contratante nascido no território desta última é equiparado a um nacional da primeira Parte Contratante nascido no seu território.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1 - Todo o acordo relativo às leis e regulamentos referidos no artigo 1.º que foi ou poderá ser concluído entre duas ou mais Partes Contratantes é aplicável, sob reserva das disposições do artigo 9.º, a um nacional de qualquer outra Parte Contratante como se fosse nacional de uma das primeiras Partes, na medida em que o referido Acordo preveja, no que respeita a estas leis e regulamentos:
 
@@ -153,31 +168,31 @@ d) As cláusulas acessórias, assim como as medidas de aplicação relativamente
 
 2 - As disposições do parágrafo 1 do presente artigo não se aplicam a qualquer das disposições do mesmo acordo relativas às prestações não contributivas, salvo se o nacional interessado reside há pelo menos um total de quinze anos, depois dos 20 anos de idade, no território da Parte Contratante, ao abrigo de cujas leis e regulamentos invoca o benefício, e se reside normalmente, sem interrupção, há pelo menos cinco anos no momento do pedido da prestação.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Sob reserva das disposições de qualquer acordo bilateral ou multilateral aplicável no caso concreto, as prestações não liquidadas ou suspensas, na falta do presente Acordo, serão liquidadas ou restabelecidas a partir do dia da entrada em vigor do presente Acordo em relação a todas as Partes Contratantes interessadas no pedido respeitante a tais prestações, com a condição de que este pedido seja formulado no prazo de um ano a contar da referida data ou num prazo mais longo, que poderá ser fixado pela Parte Contratante ao abrigo de cuja legislação e regulamentos é invocado o benefício. Se o pedido não for formulado no referido prazo, as prestações serão liquidadas ou restabelecidas, o mais tardar, a partir da data desse pedido.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 As disposições do presente Acordo não derrogam as disposições das leis e regulamentos nacionais, das convenções internacionais ou dos acordos bilaterais ou multilaterais que sejam mais favoráveis ao beneficiário.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 O presente Acordo não derroga as disposições das leis e regulamentos nacionais relativos à participação dos segurados ou de outras categorias de pessoas interessadas na gestão da segurança social.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1 - O anexo I ao presente Acordo especifica, no que respeita a cada Parte Contratante, os regimes de segurança social, a que se aplica o artigo 1.º, e que estão em vigor em qualquer parcela do seu território à data da assinatura do presente Acordo.
 
 2 - Cada Parte Contratante notificará o Secretário-Geral do Conselho da Europa de qualquer nova lei ou novo regulamento ainda não abrangidos pelo anexo I relativamente a essa Parte. Estas notificações serão efectuadas por cada Parte Contratante num prazo de três meses a contar da publicação da referida lei ou do mencionado regulamento ou, se esta lei ou este regulamento foi publicado antes da data da ratificação do presente Acordo pela Parte Contratante interessada, da data desta ratificação.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - O anexo II ao presente Acordo especifica, no que respeita a cada Parte Contratante, os acordos por ela concluídos a que se aplica o artigo 3.º, em vigor à data da assinatura do presente Acordo.
 
 2 - Cada Parte Contratante notificará o Secretário-Geral do Conselho da Europa de qualquer novo acordo, que tenha concluído, a que se aplique o artigo 3.º Esta notificação será efectuada por cada Parte Contratante num prazo de três meses a contar da data da entrada em vigor do mesmo acordo ou, se o novo acordo entrou em vigor antes da data da ratificação do presente Acordo, da data desta ratificação.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1 - O anexo III ao presente Acordo enumera as reservas formuladas à data da sua assinatura.
 
@@ -185,11 +200,11 @@ O presente Acordo não derroga as disposições das leis e regulamentos nacionai
 
 3 - Qualquer Parte Contratante pode retirar, no todo ou em parte, uma reserva que tenha formulado através de uma notificação para este efeito dirigida ao Secretário-Geral do Conselho da Europa. Esta notificação produz efeitos no primeiro dia do mês seguinte àquele em que foi recebida, sem afectar as disposições do presente Acordo.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Os anexos referidos nos artigos precedentes fazem parte integrante do presente Acordo.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1 - As medidas necessárias à aplicação do presente Acordo, sendo caso disso, serão estabelecidas em acordos entre as autoridades competentes das Partes Contratantes.
 
@@ -199,7 +214,7 @@ Os anexos referidos nos artigos precedentes fazem parte integrante do presente A
 
 4 - A decisão do órgão arbitral ou do árbitro será tomada segundo os princípios gerais e o espírito do presente Acordo; será obrigatória e sem recurso.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 No caso de denúncia do presente Acordo por uma das Partes Contratantes:
 
@@ -207,7 +222,7 @@ a) Qualquer direito adquirido ao abrigo das disposições do presente Acordo ser
 
 b) Sob reserva das condições que poderão ter sido previstas em acordos suplementares concluídos entre as Partes Contratantes interessadas relativamente à regulamentação dos direitos em curso de aquisição, as disposições do presente Acordo continuarão aplicáveis aos pedidos de seguro e aos períodos equivalentes cumpridos anteriormente à data em que a denúncia produzir efeitos.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1 - O presente Acordo está aberto à assinatura dos Membros do Conselho da Europa. Será ratificado. Os instrumentos de ratificação serão depositados junto do Secretário-Geral do Conselho da Europa.
 
@@ -215,7 +230,7 @@ b) Sob reserva das condições que poderão ter sido previstas em acordos suplem
 
 3 - Para qualquer signatário que o ratifique ulteriormente, o Acordo entrará em vigor no primeiro dia do mês seguinte ao depósito do instrumento de ratificação.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1 - O Comité dos Ministros do Conselho da Europa pode convidar qualquer Estado não Membro do Conselho a aderir ao presente Acordo.
 
@@ -225,9 +240,9 @@ b) Sob reserva das condições que poderão ter sido previstas em acordos suplem
 
 4 - Para efeitos de aplicação do presente Acordo, qualquer informação notificada segundo as disposições do parágrafo 3 do presente artigo será considerada como fazendo parte do anexo no qual seria consignada se o Governo do Estado interessado fosse signatário do presente Acordo.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
-**O Secretário-Geral do Conselho da Europa notificará:**
+O Secretário-Geral do Conselho da Europa notificará:
 
 a) Os Membros do Conselho e o director-geral da Repartição Internacional:
 
@@ -245,7 +260,7 @@ ii) De qualquer reserva formulada em aplicação das disposições do parágrafo
 
 iii) Da retirada de qualquer reserva em aplicação das disposições do parágrafo 3 do artigo 9.º
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 O presente Acordo terá a duração de dois anos a contar da sua entrada em vigor segundo as disposições do parágrafo 2 do artigo 13.º Manter-se-á em vigor, por períodos de um ano, em relação às Partes Contratantes que não o tenham denunciado, através de notificação para este efeito dirigida ao Secretário-Geral do Conselho da Europa, pelo menos seis meses antes da expiração, quer do período preliminar de dois anos, quer de qualquer período ulterior de um ano. Esta notificação produzirá efeitos no fim do referido período.
 
@@ -773,15 +788,15 @@ Desejosos de estender aos refugiados, tal como são definidos na Convenção, o 
 
 Acordaram no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Para a aplicação do presente Protocolo, o termo «refugiado» tem o significado que lhe é atribuído pelo artigo 1.º da Convenção, sob reserva de que cada uma das Partes Contratantes faça, no momento da assinatura, da ratificação ou da adesão, uma declaração especificando qual dos significados indicados no parágrafo B do artigo 1.º da Convenção que pretende manter para efeito das obrigações por ela assumidas perante o presente Protocolo, a menos que já tenha feito essa declaração no momento da assinatura ou da ratificação da Convenção.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As disposições do Acordo Principal são aplicáveis aos refugiados nas condições previstas para os nacionais das Partes deste Acordo. Todavia, as disposições do artigo 3.º do Acordo Principal apenas são aplicadas aos refugiados nos casos em que as Partes dos acordos mencionados no mesmo artigo ratificaram o presente Protocolo ou que a ele adiram.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1 - O presente Protocolo está aberto à assinatura dos Membros do Conselho da Europa que assinaram o Acordo Principal. Será ratificado.
 

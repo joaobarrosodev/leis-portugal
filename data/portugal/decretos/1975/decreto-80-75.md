@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/80-1975-160141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37e26089404ceaf018749320669022230d2c7b7e84fea8579cd4f4182aab320a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 649bdd08aff3d6b1326dba26a28e9bd91ffa21f77122bc763616329ad00f82e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:31Z'
   warnings: []
   errors: []
 ---
@@ -156,12 +160,12 @@ O presente decreto entra imediatamente em vigor.
 
 Vasco dos Santos Gonçalves - Manuel da Costa Brás - Francisco Salgado Zenha - José Augusto Fernandes.
 
-**Promulgado em 10 de Fevereiro de 1975.**
+Promulgado em 10 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/04500/02880289.pdf))](https://files.diariodarepublica.pt/1s/1975/02/04500/02880289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/04500/02880289.pdf)
 
-**O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.**
+O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.

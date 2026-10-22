@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/128-1975-161089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39af2ff3b5a2fc2721466dc8b824ad801445a2b0a517bee925191de4e323e5de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3d8214068f1b1e9a1656655551571bcf01897112d9f0d4e85227908cd5faddc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Imposto de Camionagem
+- Imposto de Circulação
+- Imposto de Compensação
+- Licenciamento
+- Transporte de Carga
+- Transporte de Mercadorias
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA RECTIFICAÇÃO DE 27-MAI PUBLICADA NO DG.IS [129]SUPL DE 05/JUN/1975\05"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1975-06-05'
+- type: cites
+  target: pt:dre:535987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:559051:por
+  label: Retificado o art. 2.º pelo(a) Rectificação - Diário do Governo n.º 129/1975, 1º Suplemento, Série I de 1975-06-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-559051
+  date: '1975-06-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:03Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +119,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O corpo do artigo 29.º, o § único do artigo 51.º e o artigo 53.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964, passam a ter a seguinte redacção:
+Artigo 1.º O corpo do artigo 29.º, o § único do artigo 51.º e o artigo 53.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 29.º Os proprietários de veículos automóveis de carga ou mistos e seus reboques, afectos ao transporte particular de mercadorias e como tais licenciados, pagarão um imposto de circulação, que será calculado, por cada veículo, pelas seguintes fórmulas simplificadas:
+Art. 29.º Os proprietários de veículos automóveis de carga ou mistos e seus reboques, afectos ao transporte particular de mercadorias e como tais licenciados, pagarão um imposto de circulação, que será calculado, por cada veículo, pelas seguintes fórmulas simplificadas:
 
 Veículos ligeiros:
 
@@ -126,20 +151,20 @@ em que I representa o imposto anual a pagar e P o peso bruto do veículo, em ton
 
 ...
 
-###### Art. 51.º ...
+Art. 51.º ...
 
 § único. O pagamento da totalidade do imposto ou das suas prestações deverá ser feito no terceiro mês do período a que respeitam.
 
 ...
 
-###### Art. 53.º O imposto de compensação será pago trimestralmente no terceiro mês do trimestre a que respeita.
+Art. 53.º O imposto de compensação será pago trimestralmente no terceiro mês do trimestre a que respeita.
 
-###### Art. 2.º No corrente ano os impostos de circulação, compensação e camionagem de prestação anual serão pagos no mês de Maio, os de prestação semestral, nos meses de Maio a Setembro e os de prestação trimestral, nos meses de Maio, Julho, Setembro e Novembro.
+Art. 2.º No corrente ano os impostos de circulação, compensação e camionagem de prestação anual serão pagos no mês de Maio, os de prestação semestral, nos meses de Maio a Setembro e os de prestação trimestral, nos meses de Maio, Julho, Setembro e Novembro.
 
 Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.
 
-**Promulgado em 5 de Março de 1975.**
+Promulgado em 5 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

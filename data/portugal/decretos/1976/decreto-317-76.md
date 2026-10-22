@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/317-1976-427471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e361a0e4d1560f14dc042fdfe028d7d0478ec59c52ae3c6c1e35f708e602e1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 090fe2e04f41d619b85a73bc596cb098a52076f10a3396b1ecca59962b01b74b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Actualização de Pensões
+- Administração Ultramarina
+- Caixa Geral de Aposentações
+- Cálculo de Pensões
+- Função Pública
+- Funcionário Público
+- Funcionário Ultramarino
+- Pensão de Aposentação
+- Pensões
+- Remuneração
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:159883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:43Z'
   warnings: []
   errors: []
 ---
@@ -95,20 +118,20 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aditado ao artigo 4.º do [Decreto n.º 52/75](https://diariodarepublica.pt/dr/detalhe/decreto/52-1975-159883), de 8 de Fevereiro, o número adiante indicado:
+Artigo 1.º É aditado ao artigo 4.º do [Decreto n.º 52/75](https://diariodarepublica.pt/dr/detalhe/decreto/52-1975-159883), de 8 de Fevereiro, o número adiante indicado:
 
 8 - A remuneração mensal a considerar para efeitos de cálculo da pensão não poderá exceder os limites fixados no artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, com a redacção dada pelo [Decreto-Lei n.º 27/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1974-173159), de 31 de Janeiro.
 
-###### Art. 2.º Serão rectificadas as pensões de aposentação, suportadas pelo Orçamento Geral do Estado, fixadas ao abrigo do [Decreto n.º 52/75](https://diariodarepublica.pt/dr/detalhe/decreto/52-1975-159883), de 8 de Fevereiro, com inobservância do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, redacção dada pelo [Decreto-Lei n.º 27/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1974-173159), de 31 de Janeiro.
+Art. 2.º Serão rectificadas as pensões de aposentação, suportadas pelo Orçamento Geral do Estado, fixadas ao abrigo do [Decreto n.º 52/75](https://diariodarepublica.pt/dr/detalhe/decreto/52-1975-159883), de 8 de Fevereiro, com inobservância do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, redacção dada pelo [Decreto-Lei n.º 27/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1974-173159), de 31 de Janeiro.
 
-###### Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 22 de Abril de 1976.**
+Promulgado em 22 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES**
+O Presidente da República, FRANCISCO DA COSTA GOMES
 
 Para ser publicado no Boletim Oficial de Macau. - Vítor Manuel Trigueiros Crespo.

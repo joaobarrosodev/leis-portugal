@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/2023/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2023-207332024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c2eb8a9768aa57b94b8a5ca6f3ee27aafec312513242443d8816910c8fbcdb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 196c5d8a1aa02a5e78f97411a097170477c8ae60f0c25e58c8ad758b8ba4ec32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Convenção
-- Portugal
-- ONU
-- HONG KONG
 - Abate de Navios
-- Resíduo
-- Movimento Transfronteiriço de Resíduos
-- Organização não Governamental
-- Proteção do Ambiente
 - Basileia
+- Convenção
+- Gestão de Resíduos
+- HONG KONG
+- Movimento Transfronteiriço de Resíduos
+- ONU
+- Organização não Governamental
+- Portugal
+- Proteção do Ambiente
+- Resíduo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/37/1993/10/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/37/1993/10/20/p/dre
+- type: cites
+  target: pt:dre:669121:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:36Z'
   warnings: []
   errors: []
 ---
@@ -112,15 +116,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 19 de janeiro de 2023. - António Luís Santos da Costa - Francisco Gonçalo Nunes André - Pedro Miguel Ferreira Jorge Cilínio - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Assinado em 25 de janeiro de 2023.**
+Assinado em 25 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de janeiro de 2023.**
+Referendado em 31 de janeiro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 HONG KONG INTERNATIONAL CONVENTION FOR THE SAFE AND ENVIRONMENTALLY SOUND RECYCLING OF SHIPS, 2009
 
@@ -1012,7 +1016,7 @@ APPENDIX I
 
 Controls of Hazardous Materials
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 APPENDIX 2
 
@@ -1060,7 +1064,7 @@ by ___
 
 Particulars of the Ship
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 Particulars of Part I of the Inventory of Hazardous Materials
 
@@ -1176,11 +1180,11 @@ by ___
 
 Particulars of the Ship
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 Particulars of the Ship Recycling Facility(ies)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 *This number is based on the Document of Authorization to conduct Ship Recycling (DASR).
 
@@ -1256,7 +1260,7 @@ by ___
 
 (Full designation of the Competent Authority under the Convention)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 This is to verify that the Ship Recycling Facility has implemented management systems, procedures and techniques in accordance with Chapters 3 and 4 to the Annex to the Convention.
 
@@ -1348,13 +1352,13 @@ A map of the boundary of the Ship Recycling Facility and the location of Ship Re
 
 The Ship Recycling Facility is authorized to accept a ship for recycling subject to the following size limitations:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 2.2 - Safe and Environmentally Sound Management of Hazardous Materials
 
 The Ship Recycling Facility is authorized to accept a ship for recycling that contains Hazardous Materials as specified in the following table subject to the conditions noted below:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 APPENDIX 6
 
@@ -1424,7 +1428,7 @@ ___
 
 Particulars of the Ship as received for recycling
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 This confirms that:
 
@@ -1824,7 +1828,7 @@ As Partes tomarão medidas para implementar a aplicação dos requisitos constan
 
 ### CAPÍTULO 2 — Requisitos para os Navios
 
-# PARTE A — Projeto, construção, operação e manutenção de navios
+## PARTE A — Projeto, construção, operação e manutenção de navios
 
 Regra 4
 
@@ -1904,7 +1908,7 @@ Grupos Técnicos
 
 3 - Apenas os representantes das Partes podem participar na formulação de qualquer recomendação ao Comité nos termos do disposto na regra 6. Um grupo técnico deverá esforçar-se por obter unanimidade entre os representantes das Partes. Se a unanimidade não for possível, o grupo técnico deverá comunicar quaisquer pontos de vista minoritários desses representantes.
 
-# PARTE B — Preparação para a Reciclagem do Navio
+## PARTE B — Preparação para a Reciclagem do Navio
 
 Regra 8
 
@@ -1950,7 +1954,7 @@ Será elaborado um Plano de Reciclagem do Navio específico do navio pelo Estale
 
 4) Quando for utilizado mais do que um Estaleiro de Reciclagem de Navios, identificar os Estaleiros de Reciclagem de Navios a serem utilizados e especificar as atividades de reciclagem e a ordem pela qual ocorrem em cada Estaleiro de Reciclagem de Navios autorizado.
 
-# PARTE C — Vistorias e certificação
+## PARTE C — Vistorias e certificação
 
 Regra 10
 
@@ -2274,13 +2278,13 @@ Relatório após conclusão da reciclagem
 
 Quando a reciclagem parcial ou total de um navio for concluída de acordo com os requisitos da Convenção, deverá ser emitida uma Declaração de Conclusão pelo Estaleiro de Reciclagem de Navios e comunicada à(s) sua(s) Autoridade(s) Competente(s). Este relatório deverá ser compilado tal como ilustrado no apêndice 7. A(s) Autoridade(s) Competente(s) deverá enviar uma cópia da Declaração à Administração que emitiu o Certificado Internacional de Navio Pronto a Reciclar. A Declaração deverá ser emitida num prazo de 14 dias a partir da data de reciclagem parcial ou total do navio, de acordo com o Plano de Reciclagem de Navios e deverá incluir um relatório de incidentes e acidentes que originem danos à saúde humana e/ou ao ambiente, caso existam.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Controlo das Matérias Perigosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Lista de Elementos Mínimos para o Inventário de Matérias Perigosas
 
@@ -2304,7 +2308,7 @@ Substâncias radioativas
 
 Determinadas parafinas cloradas (alcanos, C-10-C13, cloro)
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Modelo do Certificado Internacional de Inventário de Matérias Perigosas
 
@@ -2326,7 +2330,7 @@ por ___
 
 Características do navio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 Dados da Parte I do Inventário de Matérias Perigosas
 
@@ -2418,7 +2422,7 @@ Data: (dd/mm/aaaa) ___
 
 * Esta página da confirmação aquando da vistoria deverá ser reproduzida e aditada ao certificado quando considerado necessário pela Administração.
 
-## APÊNDICE 4
+APÊNDICE 4
 
 Modelo do Certificado Internacional de Navio Pronto a Reciclar
 
@@ -2440,11 +2444,11 @@ por ___
 
 Características do navio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 Dados relativos ao(s) Estaleiro(s) de Reciclagem de Navios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 Dados relativos ao Inventário de Matérias Perigosas
 
@@ -2502,7 +2506,7 @@ Data: (dd/mm/aaaa) ___
 
 * Esta página da confirmação aquando da vistoria deverá ser reproduzida e aditada ao certificado quando considerado necessário pela Administração.
 
-## APÊNDICE 5
+APÊNDICE 5
 
 Modelo da Autorização do Estaleiro de Reciclagem de Navios
 
@@ -2518,7 +2522,7 @@ por ___
 
 (Designação completa da Autoridade Competente nos termos da Convenção)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 Certifica-se que o Estaleiro de Reciclagem de Navios tem implementado sistemas de gestão, procedimentos e técnicas de acordo com os Capítulos 3 e 4 do Anexo à Convenção.
 
@@ -2608,15 +2612,15 @@ Um mapa dos limites da Instalação de Reciclagem de Navios e da localização d
 
 O Estaleiro de Reciclagem de Navios está autorizado a aceitar um navio para reciclagem sujeito às seguintes limitações de dimensão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 2.2 - Gestão Segura e ambientalmente Correta de Matérias Perigosas
 
 O Estaleiro de Reciclagem de Navios está autorizado a aceitar um navio para reciclagem que contenha Matérias Perigosas tal como especificado na seguinte tabela sujeita às condições infra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
-## APÊNDICE 6
+APÊNDICE 6
 
 Modelo da Comunicação da Data Prevista para Início da Reciclagem do Navio
 
@@ -2670,7 +2674,7 @@ Encontra-se em anexo.
 
 Assinatura ___
 
-## APÊNDICE 7
+APÊNDICE 7
 
 Modelo de Declaração de Conclusão da Reciclagem do Navio
 
@@ -2684,7 +2688,7 @@ ___
 
 Características do Navio recebido para reciclagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0000400068.pdf)
 
 Confirma-se que:
 
@@ -2707,3 +2711,5 @@ Emitida em ___
 (dd/mm/aaaa)___ ___
 
 (Data de emissão) (Assinatura do proprietário do Estaleiro de reciclagem de navios ou do seu representante autorizado)
+
+116124057

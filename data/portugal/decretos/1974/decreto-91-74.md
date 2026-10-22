@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/91-1974-412655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5615c0d61bc2ffe06bdae967b178b4c92383a77c88440ed4525f0916f6ef55c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8a4975a05620903d0eaf5031e681310556de74336f52f5e0c499fb75bdda6ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: pt:dre:324352:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:412380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432584:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:53Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +111,11 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. Na Direcção de Exploração dos Transportes Aéreos, adiante designada por DETA, da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, é criada a Divisão de Manutenção e Engenharia, que adiante se designará por DME.
+Artigo 1.º - 1. Na Direcção de Exploração dos Transportes Aéreos, adiante designada por DETA, da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, é criada a Divisão de Manutenção e Engenharia, que adiante se designará por DME.
 
 2. A estrutura, as normas gerais de funcionamento, o quadro da DME, na parte em que o provimento dos seus lugares não pertença ao Ministro do Ultramar, a forma e condições desse provimento, bem como a competência do pessoal respectivo, constarão de regulamento a aprovar pelo Governador-Geral.
 
-###### Art. 2.º - 1. O pessoal dirigente da DME é o que consta do mapa I, anexo a este diploma.
+Art. 2.º - 1. O pessoal dirigente da DME é o que consta do mapa I, anexo a este diploma.
 
 2. Os lugares constantes do mapa a que se refere o n.º 1 serão providos por escolha do Ministro, sob proposta do director dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, em regime de contrato, de entre engenheiros aeronáuticos, mecânicos ou electrotécnicos de reconhecida competência.
 
@@ -115,7 +123,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4.º É extinto o lugar de subdirector de exploração do mesmo quadro, a partir da data em que, pelo Ministro, for provido o novo lugar de director de exploração adjunto.
 
-###### Art. 3.º - 1. O primeiro provimento dos lugares de pessoal dirigente da DME será feito da seguinte forma:
+Art. 3.º - 1. O primeiro provimento dos lugares de pessoal dirigente da DME será feito da seguinte forma:
 
 a) Para os lugares de superintendente de manutenção (produção) e superintendente de engenharia transitam os dois engenheiros de 1.ª classe do quadro comum de engenheiros dos Serviços de Portos, Caminhos de Ferro e Transportes actualmente ao serviço da DETA, no desempenho das funções de chefe de oficinas gerais e chefe de oficinas especiais;
 
@@ -131,7 +139,7 @@ f) Para os lugares de técnico diplomado de 2.ª classe transitam os licenciados
 
 2. A transição será feita sob proposta do Governo-Geral de Moçambique, mediante lista nominal assinada pelo Ministro, anotada pelo Tribunal de Contas e publicada no Diário do Governo, considerando-se os agentes dela constantes empossados nos novos lugares no dia da transcrição da mesma lista no Boletim Oficial respectivo.
 
-###### Art. 4.º - 1. Nos quadros privativo e de pessoal assalariado da DETA são criadas as categorias e designações funcionais constantes do mapa II, anexo a este diploma; o número de unidades respectivo constará do regulamento a que se refere o artigo 1.º, n.º 2.
+Art. 4.º - 1. Nos quadros privativo e de pessoal assalariado da DETA são criadas as categorias e designações funcionais constantes do mapa II, anexo a este diploma; o número de unidades respectivo constará do regulamento a que se refere o artigo 1.º, n.º 2.
 
 2. Nos quadros referidos no número anterior são extintas as categorias e designações funcionais constantes do mapa III, anexo a este diploma, a partir da data da transição operada nos termos do n.º 1 do artigo 5.º
 
@@ -141,25 +149,25 @@ f) Para os lugares de técnico diplomado de 2.ª classe transitam os licenciados
 
 5. Os mapas anexos a este diploma fazem parte integrante dele e baixam assinados pelo Ministro do Ultramar.
 
-###### Art. 5.º - 1. O Governador-Geral distribuirá o pessoal que actualmente ocupa os lugares cujas designações forem extintas ou alteradas pelos lugares a que se refere o n.º 1 do artigo anterior, mediante lista nominal anotada pelo Tribunal Administrativo e publicada no Boletim Oficial, considerando-se empossado nos novos lugares na data da publicação da mesma lista no Boletim Oficial.
+Art. 5.º - 1. O Governador-Geral distribuirá o pessoal que actualmente ocupa os lugares cujas designações forem extintas ou alteradas pelos lugares a que se refere o n.º 1 do artigo anterior, mediante lista nominal anotada pelo Tribunal Administrativo e publicada no Boletim Oficial, considerando-se empossado nos novos lugares na data da publicação da mesma lista no Boletim Oficial.
 
 2. O pessoal que, consoante a sua forma de provimento ou de promoção, deva mudar de categoria ou de designação funcional, ou apenas de categoria, em função do decurso do tempo, transitará na nova situação se, à data da entrada em vigor deste diploma, tiver o tempo de serviço exigido para o efeito e boas informações, pelo menos, nos últimos três anos.
 
-###### Art. 6.º Salvo se o seu preenchimento pertencer ao Ministro, o primeiro provimento dos lugares correspondentes às designações criadas, que ficarem vagos após a transição prevista no artigo anterior, poderá ser feito por escolha do Governador-Geral, mediante proposta do director dos Serviços de Portos, Caminhos de Ferro e Transportes, ouvida a DETA e tendo em atenção as habilitações ou as qualificações para o desempenho dos lugares.
+Art. 6.º Salvo se o seu preenchimento pertencer ao Ministro, o primeiro provimento dos lugares correspondentes às designações criadas, que ficarem vagos após a transição prevista no artigo anterior, poderá ser feito por escolha do Governador-Geral, mediante proposta do director dos Serviços de Portos, Caminhos de Ferro e Transportes, ouvida a DETA e tendo em atenção as habilitações ou as qualificações para o desempenho dos lugares.
 
-###### Art. 7.º Além dos abonos referidos no § único do artigo 5.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, com a redacção que lhe foi dada pelo artigo 6.º do [Decreto n.º 534/73](https://diariodarepublica.pt/dr/detalhe/decreto/534-1973-412380), de 18 de Outubro, não estão sujeitos ao desconto para compensação de aposentação os abonos de vencimento de especialidade e anuidades do pessoal navegante.
+Art. 7.º Além dos abonos referidos no § único do artigo 5.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, com a redacção que lhe foi dada pelo artigo 6.º do [Decreto n.º 534/73](https://diariodarepublica.pt/dr/detalhe/decreto/534-1973-412380), de 18 de Outubro, não estão sujeitos ao desconto para compensação de aposentação os abonos de vencimento de especialidade e anuidades do pessoal navegante.
 
-###### Art. 8.º - 1. Os novos quadros aprovados por este diploma serão dotados na medida da conveniência dos serviços e das disponibilidades financeiras, sem prejuízo do disposto nos artigos 3.º e 5.º
+Art. 8.º - 1. Os novos quadros aprovados por este diploma serão dotados na medida da conveniência dos serviços e das disponibilidades financeiras, sem prejuízo do disposto nos artigos 3.º e 5.º
 
 2. O conselho de administração dos Serviços de Portos, Caminhos de Ferro e Transportes procederá aos reajustamentos que se tornarem necessários das percentagens dos prémios de economia e dos vencimentos de especialidade.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 1 de Março de 1974.**
+Promulgado em 1 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - B. Rebelo de Sousa.
 
@@ -685,4 +693,4 @@ Torneiro-fresador de 2.ª classe.
 
 Verificador de avião.
 
-**O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.**
+O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/17/2009/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-2009-493008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ee50ac8f74bd6365454301a248bfa3fa4d4ed62a45da44fe71707bc90c60db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bce203ec28a8feab5f90b74efeae2f17c767c300a7620b0ac31b2f7922dfd649
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,34 @@ reuse:
 subjects:
 - CEE
 - Convenção
-- Portugal
 - Espanha
-- Protecção do Litoral
+- França
 - Lisboa
 - Marrocos
 - Oceano Atlântico
-- Poluição Marinha
 - Poluição
-- França
+- Poluição Marinha
+- Portugal
+- Protecção do Litoral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/37/1991/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/37/1991/05/18/p/dre
+- type: cites
+  target: pt:dre:639713:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:12Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +114,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 15 de Julho de 2009.**
+Promulgado em 15 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Julho de 2009.**
+Referendado em 16 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — PROTOCOLO ADICIONAL RELATIVO AO ACORDO DE COOPERAÇÃO PARA A PROTECÇÃO DAS COSTAS E ÁGUAS DO ATLÂNTICO NORDESTE CONTRA A POLUIÇÃO
 
@@ -158,23 +162,23 @@ Feito em Lisboa, aos vinte dias do mês de Maio de 2008, nas línguas árabe, es
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
 
 Pelo Reino de Espanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
 
 Pela República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
 
 Pelo Reino de Marrocos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
 
 Pela Comunidade Europeia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
 
 ## ANEXO II
 
@@ -222,20 +226,20 @@ Fait à Lisbonne, le vingt du mois de Mai de 2008, en langues arabe, espagnole, 
 
 Pour la République portugaise:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
 
 Pour le Royaume d'Espagne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
 
 Pour la République française:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
 
 Pour le Royaume du Maroc:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
 
 Pour la Communauté Européenne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14900/0503405036.pdf)

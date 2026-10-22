@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/2016/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-2016-73897626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 172a3dc2880a2370788991a9c8f5d7d4be1d1a95165f91f1bfb8a8d509d2672f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9839f706b45d90f9e4c65e8eadbe9e5c6b824ac8e2c8c64201f9cfb205750a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- RFA
-- Produção Cinematográfica
-- Cinema
-- Indústria Cinematográfica
 - Alemanha
+- Cinema
+- Convenção
+- Indústria Cinematográfica
+- Portugal
+- Produção Cinematográfica
+- RFA
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:54Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +103,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 11 de fevereiro de 2016. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - João Barroso Soares.
 
-**Assinado em 25 de fevereiro de 2016.**
+Assinado em 25 de fevereiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de março de 2016.**
+Referendado em 2 de março de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 O Embaixador
 
@@ -139,7 +139,7 @@ Com referência ao Acordo de 29 de abril de 1988 entre o Governo da República F
 
 A Sua Excelência
 
-**o Ministro dos Negócios Estrangeiros**
+o Ministro dos Negócios Estrangeiros
 
 da República Portuguesa
 
@@ -151,7 +151,7 @@ Caso o Governo de Vossa Excelência concorde com as propostas constantes nos pon
 
 Permita-me, Senhor Ministro, apresentar a Vossa Excelência os protestos da minha mais elevada consideração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf)
 
 Der Botschafter
 
@@ -191,9 +191,9 @@ Falls sich Ihre Regierung mit den unter den Nummern 1 bis 4 gemachten Vorschläg
 
 Genehmigen Sie, Herr Minister, die Versicherung meiner ausgezeichnetsten Hochachtung.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf)
 
-**O Ministro dos Negócios Estrangeiros**
+O Ministro dos Negócios Estrangeiros
 
 da República Portuguesa
 
@@ -229,7 +229,7 @@ Tenho a honra de comunicar a V. Exa. que o meu Governo está de acordo com as pr
 
 Permita-me apresentar a Vossa Excelência os protestos da minha mais alta consideração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf)
 
 Der Minister für auswärtige Angelegenheiten
 
@@ -267,4 +267,4 @@ Ich beehre mich, Ihnen mitzuteilen, dass meine Regierung mit den in Ihrer Note e
 
 Genehmigen Sie, Exzellenz, die Versicherung meiner ausgezeichnetsten Hochachtung.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf))](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/03/05400/0085500857.pdf)

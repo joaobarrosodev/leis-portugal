@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1988-370207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33effbd0841353351c09134996626d14cfcf1bb9461e5e8cd26ac2783320ddfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84cc55b3351342d943a23fb60298d7f7989974e7f7f879c59be989d70b6b5716
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Genebra
+- Portugal
+- Transporte de Mercadorias
+- Transporte Internacional
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:33Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 6 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Protocolo à Convenção, Relativa ao Contrato de Transporte Internacional de Mercadorias por Estrada (CMR), cujo texto original em francês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para adesão, o Protocolo à Convenção, Relativa ao Contrato de Transporte Internacional de Mercadorias por Estrada (CMR), cujo texto original em francês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
 
 Ratificado em 8 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1988.**
+Referendado em 10 de Agosto de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Protocole à la Convention relative au contrat de transport international de marchandises par route (CMR)
 
@@ -337,4 +342,4 @@ g) As declarações e notificações recebidas nos termos dos n.os 1 e 2 do arti
 
 Depois de 31 de Agosto de 1979, o original do presente Protocolo ficará depositado junto do Secretário-Geral da Organização das Nações Unidas, o qual transmitirá cópias autenticadas dele a cada um dos Estados a que se referem os n.os 1, 2 e 3 do artigo 3.º do presente Protocolo.
 
-**Assinado em Genebra aos 5 dias do mês de Julho de 1978, num único exemplar em línguas inglesa e francesa, fazendo ambos os textos igualmente fé.**
+Assinado em Genebra aos 5 dias do mês de Julho de 1978, num único exemplar em línguas inglesa e francesa, fazendo ambos os textos igualmente fé.

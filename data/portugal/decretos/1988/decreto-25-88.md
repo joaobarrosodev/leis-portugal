@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/25-1988-370439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f4bec27e45873e74281da4cc7b3e4b7e3689d6389505a743a7a566fd4874dd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd0ff81ace64c77d9af2adc2b2f2a6eb4ef216732cc9474ea4457fc5c5d501e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Erupção Vulcânica
+- Meio Marinho
+- Paris
+- Poluição Marinha
+- Portugal
+- Proteção do Ambiente
+- Resíduo
+relationships:
+- type: cites
+  target: pt:dre:468849:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:26Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +99,17 @@ de 2 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo de 26 de Março de 1986, que introduz emendas à Convenção de Paris para a Prevenção da Poluição Marinha de Origem Telúrica, de 1974, aprovada pelo [Decreto n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto/1-1978-468849), de 7 de Janeiro, cujo texto em inglês e a respectiva tradução em português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Protocolo de 26 de Março de 1986, que introduz emendas à Convenção de Paris para a Prevenção da Poluição Marinha de Origem Telúrica, de 1974, aprovada pelo [Decreto n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto/1-1978-468849), de 7 de Janeiro, cujo texto em inglês e a respectiva tradução em português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 4 de Agosto de 1988. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
 
 Ratificado em 19 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1988.**
+Referendado em 23 de Agosto de 1988.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.
 
@@ -187,33 +199,33 @@ Desejando estender o âmbito da Convenção de forma a abranger tal poluição;
 
 acordaram nas seguintes disposições:
 
-Artigo I
+###### Artigo I
 
 No artigo 3 da Convenção, depois de iii) do subparágrafo c), deve ser introduzida a seguinte cláusula:
 
 iv) Por emissões para a atmosfera com origem em terra ou em estruturas artificiais, tal como vêm definidas no subparágrafo iii) anterior.
 
-Artigo II
+###### Artigo II
 
 A primeira frase do artigo 4, parágrafo 3, deverá ser emendada pela introdução das palavras «e emissões para a atmosfera» depois das palavras «descargas nos cursos de água».
 
-Artigo III
+###### Artigo III
 
 A cláusula seguinte deverá ser introduzida no início do artigo 16, d), da Convenção:
 
 Examinar a exequibilidade de e, como for conveniente, [...]
 
-Artigo IV
+###### Artigo IV
 
 1 - Este Protocolo estará aberto à assinatura em Paris a partir de 26 de Março de 1986 até 30 de Junho de 1986 pelos Estados que forem Partes da Convenção na data da abertura do Protocolo à assinatura e pela Comunidade Económica Europeia.
 
 2 - Este protocolo será sujeito a ratificação, aceitação ou aprovação.
 
-Artigo V
+###### Artigo V
 
 Depois de 30 de Junho de 1986 este Protocolo será aberto à adesão por qualquer dos Estados referidos no artigo 24 da Convenção e pela Comunidade Económica Europeia.
 
-Artigo VI
+###### Artigo VI
 
 1 - Este Protocolo entrará em vigor no primeiro dia do segundo mês a seguir à data na qual a última das Partes Contratantes referidas no artigo IV deste Protocolo tiver depositado o seu instrumento de ratificação, aceitação, aprovação ou adesão.
 
@@ -225,11 +237,11 @@ Artigo VI
 
 5 - Os instrumentos de ratificação, aceitação, aprovação ou adesão deverão ser depositados junto do Governo da República Francesa.
 
-Artigo VII
+###### Artigo VII
 
 O governo depositário informará as Partes Contratantes e os Estados referidos no artigo 22 da Convenção da assinatura deste Protocolo, do depósito dos instrumentos de ratificação, aceitação, aprovação ou adesão, feitos com observação dos artigos IV, V e VI, e da data da entrada em vigor deste Protocolo.
 
-Artigo VIII
+###### Artigo VIII
 
 O original deste Protocolo, cujos textos em inglês e francês serão considerados igualmente autênticos, será depositado junto do Governo da República Francesa.
 

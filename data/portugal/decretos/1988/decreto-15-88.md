@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-1988-372436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeaebf942ca6157e0e89e9cf1bb4d92ad29a6c093580f7512ac72564ac296fdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa02250c96cbf149eec43dcd9736a49f4bc8068405d0747b68c1a9ce5ecf606b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Cooperação Científica
+- Cooperação Económica
+- Cooperação Técnica
+- Cooperante
+- Empresa
+- Empresa Privada
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:18Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +97,19 @@ de 14 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional n.º 3 ao Acordo de Cooperação Científica e Técnica entre a República Portuguesa e a República de Cabo Verde, assinado em Lisboa em 28 de Dezembro de 1987, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Adicional n.º 3 ao Acordo de Cooperação Científica e Técnica entre a República Portuguesa e a República de Cabo Verde, assinado em Lisboa em 28 de Dezembro de 1987, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1988. - Eurico Silva Teixeira de Melo - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 29 de Junho de 1988.**
+Assinado em 29 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Julho de 1988.**
+Referendado em 1 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Protocolo Adicional n.º 3 ao Acordo da Cooperação Científica e Técnica
 
@@ -107,7 +117,7 @@ Considerando que o Acordo de Cooperação Científica e Técnica celebrado entre
 
 A República Portuguesa e a República de Cabo Verde, tendo em conta o Acordo Geral de Cooperação e Amizade assinado entre os dois países, decidem subscrever, exclusivamente para o recrutamento e contratação de cooperantes no domínio técnico-económico, o seguinte Protocolo Adicional ao Acordo de Cooperação Científica e Técnica, doravante designado neste Protocolo como Acordo.
 
-###### Artigo 1.º - 1 - A pedido do Governo de Cabo Verde, o Governo Português poderá promover a requisição de técnicos portugueses para trabalharem como cooperantes em empresas privadas cabo-verdianas ou portuguesas operando naquele país.
+Artigo 1.º - 1 - A pedido do Governo de Cabo Verde, o Governo Português poderá promover a requisição de técnicos portugueses para trabalharem como cooperantes em empresas privadas cabo-verdianas ou portuguesas operando naquele país.
 
 2 - A prestação de serviço dos cooperantes portugueses requisitados nos termos do número anterior será efectuada ao abrigo de contrato escrito, celebrado entre o trabalhador e a entidade empregadora.
 
@@ -115,7 +125,7 @@ A República Portuguesa e a República de Cabo Verde, tendo em conta o Acordo Ge
 
 4 - Para efeitos deste artigo consideram-se empresas portuguesas as que tenham a sua sede social em Portugal e cuja maioria do capital seja portuguesa e empresas cabo-verdianas as que, segundo a legislação interna deste país, sejam como tais consideradas.
 
-###### Art. 2.º Sempre que o pedido de requisição previsto no n.º 1 do artigo anterior tenha em vista a contratação de técnicos portugueses para trabalharem no âmbito de um convénio de cooperação e assistência técnica celebrado entre uma empresa portuguesa e o Estado de Cabo Verde, ou entidade do sector público cabo-verdiano, a sua concessão fica condicionada ao prévio registo do aludido convénio no Instituto para a Cooperação Económica de Portugal.
+Art. 2.º Sempre que o pedido de requisição previsto no n.º 1 do artigo anterior tenha em vista a contratação de técnicos portugueses para trabalharem no âmbito de um convénio de cooperação e assistência técnica celebrado entre uma empresa portuguesa e o Estado de Cabo Verde, ou entidade do sector público cabo-verdiano, a sua concessão fica condicionada ao prévio registo do aludido convénio no Instituto para a Cooperação Económica de Portugal.
 
 Feito em Lisboa aos 28 de Dezembro de 1987, em dois exemplares em língua portuguesa, fazendo ambos igualmente fé.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24000/0579405797.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/27/2018/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/27-2018-117377119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fed540da3fba8a773038ca27b52b4557b9cbf45d66a218e9fff6116a0e9ee18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d117a86fa6eefd3269763b7a4ab4c52e859f9e494535815a142af4b77da601c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atenas
-- Turismo
-- Formação Profissional
 - Convenção
 - Cooperação Bilateral
-- Política de Cooperação
-- Portugal
-- Lisboa
+- Formação Profissional
+- Grécia
 - Investimento
 - Investimento Estrangeiro
-- Grécia
-relationships: []
+- Lisboa
+- Política de Cooperação
+- Portugal
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:160631107:por
+  label: Tornada pública a data da entrada em vigor do acordo aprovado pelo presente decreto, pelo(a) Aviso n.º 21/2021 -
+    Diário da República n.º 63/2021, Série I de 2021-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/21-2021-160631107
+  date: '2021-03-31'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:55Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +114,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 15 de novembro de 2018. - António Luís Santos da Costa - José Luís Pereira Carneiro - Pedro Gramaxo de Carvalho Siza Vieira.
 
-**Assinado em 30 de novembro de 2018.**
+Assinado em 30 de novembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de dezembro de 2018.**
+Referendado em 6 de dezembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO DE COOPERAÇÃO NO DOMÍNIO DO TURISMO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA HELÉNICA
 
@@ -218,7 +224,7 @@ Pela República Helénica:
 
 Nikolaos Kotzias, Ministro dos Negócios Estrangeiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/24000/0579405797.pdf))](https://files.diariodarepublica.pt/1s/2018/12/24000/0579405797.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/24000/0579405797.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE HELLENIC REPUBLIC ON COOPERATION IN THE FIELD OF TOURISM
 
@@ -347,3 +353,5 @@ Augusto Santos Silva, Minister of Foreign Affairs.
 For the Hellenic Republic:
 
 Nikolaos Kotzias, Minister of Foreign Affairs.
+
+111892878

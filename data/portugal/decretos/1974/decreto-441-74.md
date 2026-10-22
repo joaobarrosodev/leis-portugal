@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/441-1974-473730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:34:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 191d51b3b9bb5f8e9a38240c108c877d755147158ba15f84ffa52266598157d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 405dfb5f5c39bdf472464da6602050a987c14eff0f3b3fa130378234af26f847
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476287:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:34:37Z'
   warnings: []
   errors: []
 ---
@@ -88,34 +96,34 @@ Com fundamento no n.º 3 do artigo 19.º do [Decreto-Lei n.º 372/74](https://di
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 3364646500$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 3364646500$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/21300/10541056.pdf))](https://files.diariodarepublica.pt/1s/1974/09/21300/10541056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/21300/10541056.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em vigor, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em vigor, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 1.º, grupo 1, artigo 5.º «Imposto complementar» ... 550000000$00
+Capítulo 1.º, grupo 1, artigo 5.º «Imposto complementar» ... 550000000$00
 
-### Capítulo 2.º, grupo 3, artigo 17.º «Estampilhas fiscais» ... 150000000$00
+Capítulo 2.º, grupo 3, artigo 17.º «Estampilhas fiscais» ... 150000000$00
 
-### Capítulo 2.º, grupo 3, artigo 18.º «Imposto do selo» ... 605000000$00
+Capítulo 2.º, grupo 3, artigo 18.º «Imposto do selo» ... 605000000$00
 
-### Capítulo 2.º, grupo 3, artigo 21.º «Imposto de transacções» ... 2059646500$00
+Capítulo 2.º, grupo 3, artigo 21.º «Imposto de transacções» ... 2059646500$00
 
 ... 3364646500$00
 
-###### Art. 3.º As rubricas inscritas nos orçamentos dos diversos Ministérios, por força do artigo 6.º do [Decreto-Lei n.º 268/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1974-476287), de 21 de Junho, são alteradas para:
+Art. 3.º As rubricas inscritas nos orçamentos dos diversos Ministérios, por força do artigo 6.º do [Decreto-Lei n.º 268/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1974-476287), de 21 de Junho, são alteradas para:
 
 Diferenças de remunerações a conceder no corrente ano económico.
 
 Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 10 de Setembro de 1974.**
+Promulgado em 10 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/68-1979-382180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 545177bdbce02e7f02d88341c12eef36a235bbf1bc3cacb90b230b7feafd941e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b2a421ff2f76ef4037be7b4543381774e36f63da0a4e3447249e4de9b10f6e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Cultural
+- Cooperação Técnica
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:38Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 14 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovados o Acordo sobre Cooperação para o Desenvolvimento 1 de Julho de 1978-30 de Junho de 1981 e o Protocolo sobre Cooperação Alargada entre o Governo de Portugal e o Governo da Suécia, celebrados em Estocolmo no dia 8 de Dezembro de 1978, cujos textos em inglês e respectivas traduções acompanham o presente decreto.
+Artigo único. São aprovados o Acordo sobre Cooperação para o Desenvolvimento 1 de Julho de 1978-30 de Junho de 1981 e o Protocolo sobre Cooperação Alargada entre o Governo de Portugal e o Governo da Suécia, celebrados em Estocolmo no dia 8 de Dezembro de 1978, cujos textos em inglês e respectivas traduções acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Junho de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 21 de Junho de 1979.**
+Promulgado em 21 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Agreement on Development Co-operation July 1, 1978-June 30, 1981
 
@@ -175,7 +179,7 @@ ANNEX I
 
 The resources made available by Sweden through this Agreement shall be utilized for the following purposes (allocations in million Swedish kronor):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/16100/15411544.pdf))](https://files.diariodarepublica.pt/1s/1979/07/16100/15411544.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/16100/15411544.pdf)
 
 Protocol on Enlarged Co-Operation
 
@@ -211,9 +215,7 @@ Acordo sobre Cooperação para o Desenvolvimento 1 de Julho de 1978 - 30 de Junh
 
 O Governo de Portugal (a seguir designado por «Portugal») e o Governo da Suécia (a seguir designado por «Suécia»), desejando prosseguir a cooperação mútua para o desenvolvimento social e económico em Portugal, acordaram no seguinte:
 
-ARTIGO I
-
-Contribuição da Suécia
+###### ARTIGO I — Contribuição da Suécia
 
 1 - Sob reserva das disposições constantes do presente Acordo ou nele mencionadas, a Suécia porá à disposição de Portugal, durante o período de 1 de Julho de 1978 a 30 de Junho de 1981 (correspondente a um período de três anos financeiros suecos), meios materiais (financeiros, de pessoal, serviços de consultadoria técnica, equipamento e outros bens), até ao valor total de 30 milhões de coroas suecas. Serão atribuídos em cada ano financeiro 10 milhões de coroas suecas. O pagamento de tais contribuições anuais terá lugar no início de cada ano financeiro.
 
@@ -221,15 +223,11 @@ Contribuição da Suécia
 
 3 - Qualquer saldo relativo à contribuição atribuída num ano financeiro será, no termo desse período, transferido ao ano financeiro seguinte.
 
-ARTIGO II
-
-Utilização dos fundos
+###### ARTIGO II — Utilização dos fundos
 
 1 - Os fundos serão utilizados de harmonia com o presente Acordo e seu anexo I, sujeitos a quaisquer emendas introduzidas eventualmente, com as finalidades e nos termos e condições a serem acordados pelas Partes.
 
-ARTIGO III
-
-Informações
+###### ARTIGO III — Informações
 
 Portugal deverá, até 31 de Dezembro de 1979, 1980 e 1981, respectivamente, sem prejuízo das disposições de qualquer outro acordo com a Suécia, submeter à apreciação desta um relatório sobre a utilização dada aos fundos postos à disposição para cada ano financeiro, ao abrigo do presente Acordo, para as várias rubricas mencionadas no anexo I, e um relatório sobre os resultados de desenvolvimento conseguidos em cada um dos referidos domínios.
 
@@ -239,15 +237,11 @@ a) Fornecer, ou providenciar para que sejam fornecidas, à Suécia quaisquer inf
 
 b) Sempre que tal seja considerado apropriado e praticável, facilitar a representantes da Suécia o estudo das várias actividades por ela apoiadas.
 
-ARTIGO IV
-
-Referências
+###### ARTIGO IV — Referências
 
 O estabelecido nos artigos III a VII e anexos II a IV do Acordo de Cooperação para o Desenvolvimento 1976-1977, entre o Governo da Suécia e o Governo de Portugal, assinado em 20 de Junho de 1977, aplicar-se-á igualmente ao presente Acordo.
 
-ARTIGO V
-
-Autoridades competentes
+###### ARTIGO V — Autoridades competentes
 
 No que se refere:
 
@@ -259,17 +253,13 @@ c) À conclusão de qualquer outro arranjo entre as Partes, dentro do âmbito do
 
 a Swedish Internacional Development Authority (SIDA) terá competência para representar a Suécia, sob reserva de notificação em contrário feita pela Suécia a Portugal e o Ministério dos Negócios Estrangeiros terá competência para representar Portugal, sob reserva de notificação em contrário feita por Portugal à Suécia.
 
-ARTIGO VI
-
-Generalidades
+###### ARTIGO VI — Generalidades
 
 Qualquer informação ou pedido feito ao abrigo do presente Acordo deverá ser efectuado por escrito.
 
 Sempre que se torne necessário, para fins do presente Acordo, determinar o valor de qualquer outra moeda em coroas suecas, tal valor será determinado pela Suécia com base nas taxas de venda em vigor no mercado àquela data ou, caso estas não estejam fixadas, em taxa considerada razoável, a determinar pela Suécia após consulta a Portugal.
 
-ARTIGO VII
-
-Entrada em vigor e termo
+###### ARTIGO VII — Entrada em vigor e termo
 
 O presente Acordo entrará em vigor na data da sua assinatura e permanecerá válido até que ambos os Governos tenham cumprido as obrigações respectivas, ou seis meses após notificação escrita, feita por qualquer das Partes. Não terá lugar qualquer cancelamento ou suspensão de quantias despendidas ou levantadas antes da data do termo do Acordo.
 
@@ -287,7 +277,7 @@ Thord Palmlund.
 
 Os fundos atribuídos pela Suécia ao abrigo do presente Acordo serão utilizados como segue (em milhões de coroas suecas):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/16100/15411544.pdf))](https://files.diariodarepublica.pt/1s/1979/07/16100/15411544.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/16100/15411544.pdf)
 
 Protocolo sobre Cooperação Alargada
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/12/2000/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/12-2000-300669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:10:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81107ebd042147226dea734f941a3b6a62c66a4a26ba0ccb5c2e3c97d7f54c92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 517990ed344a638b3b53a020e0695f32b183c78b1b5c6781b31f510915d3f1a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:10:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Juventude
 - Convenção
 - Cooperação
-- Educação
-- Portugal
-- Lisboa
-- Paraguai
 - Cooperação Científica
 - Cooperação Cultural
 - Cultura
 - Desporto
+- Educação
+- Juventude
+- Lisboa
+- Paraguai
+- Portugal
 relationships: []
 article_structure:
-  article_count: 0
+  article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:10:49Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Fernando Manuel dos Santos Gomes - Guilherme d'Oliveira Martins - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Armando António Martins Vara.
 
-**Assinado em 19 de Junho de 2000.**
+Assinado em 19 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2000.**
+Referendado em 21 de Junho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO PARAGUAI SOBRE COOPERAÇÃO NOS DOMÍNIOS DA EDUCAÇÃO, DA CIÊNCIA, DA CULTURA, DA JUVENTUDE E DO DESPORTO.
 
@@ -124,11 +124,11 @@ Com a intenção de contribuir também por esta via para o conhecimento recípro
 
 acordaram em concluir o presente Acordo, que regulamenta o quadro geral da cooperação nos domínios acima mencionados, tal como segue:
 
-Artigo I
+###### Artigo I
 
 As Partes Contratantes desenvolverão a cooperação entre os seus países nos domínios da educação, da ciência, da cultura, da arte, da juventude e do desporto, assim como em outras áreas relacionadas de interesse recíproco, promoverão a troca de materiais e de documentação nestas esferas e facilitarão os contactos directos entre pessoas e instituições.
 
-Artigo II
+###### Artigo II
 
 As Partes Contratantes apoiarão a colaboração e a troca de experiências no domínio do ensino e da educação através:
 
@@ -146,15 +146,15 @@ f) De acções comuns incluindo o fornecimento de material documental em suporte
 
 As Partes Contratantes acordam em que, segundo os termos do presente Acordo, a colaboração no campo do ensino pode abarcar os diferentes sectores dos sistemas educativos respectivos, se assim vier a ser decidido a nível interinstitucional.
 
-Artigo III
+###### Artigo III
 
 As Partes Contratantes estimularão e apoiarão as iniciativas que conduzam ao reconhecimento recíproco dos diplomas e títulos concedidos pelas suas instituições de ensino mediante a conclusão de convénios específicos nos quais se precisem as condições e exigências impostas para a sua validade.
 
-Artigo IV
+###### Artigo IV
 
 As Partes Contratantes reconhecerão os certificados, diplomas, títulos e graus académicos concedidos em consequência da preparação, aperfeiçoamento ou especialização de quadros nas instituições da outra Parte Contratante, realizadas no âmbito de acordos bilaterais entre instituições. Com respeito ao reconhecimento recíproco de graus académicos, poderão ser concluídos convénios específicos entre os órgãos competentes de ambas as Partes Contratantes.
 
-Artigo V
+###### Artigo V
 
 As Partes Contratantes favorecerão a cooperação no domínio da ciência, da tecnologia e da investigação científica através:
 
@@ -170,7 +170,7 @@ As Partes Contratantes promoverão a realização de exposições e manifestaç�
 
 Os pormenores e as condições financeiras relativos a esta colaboração serão fixados em acordos, programas, memorandos de entendimento, protocolos ou convénios que venham a ser concluídos entre as instituições interessadas.
 
-Artigo VI
+###### Artigo VI
 
 As Partes Contratantes facilitarão um melhor conhecimento recíproco dos valores autênticos da cultura e da arte dos seus povos através:
 
@@ -182,51 +182,51 @@ c) Do intercâmbio de publicações nas várias áreas da cultura previstas no p
 
 d) Do intercâmbio e tradução de livros, jornais e outras publicações artísticas e culturais, em conformidade com a legislação interna de cada país.
 
-Artigo VII
+###### Artigo VII
 
 As Partes Contratantes facilitarão a protecção dos direitos de autor de obras culturais e artísticas de nacionais da outra Parte, de acordo com as normas legais vigentes em cada país.
 
-Artigo VIII
+###### Artigo VIII
 
 As Partes Contratantes fomentarão os convites e a participação recíproca de personalidades dos domínios do ensino e da ciência, da cultura e das artes do outro país, em congressos, conferências, festivais artísticos ou outras manifestações de carácter internacional organizadas no seu território.
 
-Artigo IX
+###### Artigo IX
 
 Segundo os seus interesses e possibilidades, as Partes Contratantes poderão acordar na abertura, com base na reciprocidade, de centros culturais nos respectivos países.
 
 As condições de abertura e funcionamento dos mesmos serão objecto de acordos separados que se concluirão entre os dois países.
 
-Artigo X
+###### Artigo X
 
 As Partes Contratantes estimularão a colaboração entre as suas instituições no campo da conservação e da valorização do património cultural.
 
-Artigo XI
+###### Artigo XI
 
 As Partes Contratantes promoverão a colaboração activa dos seus representantes e delegações no quadro da UNESCO e de outros organismos e reuniões internacionais relacionadas com a política cultural.
 
-Artigo XII
+###### Artigo XII
 
 As Partes Contratantes apoiarão e facilitarão a colaboração, sob as mais diversas formas, entre as suas instituições nacionais e locais de arquivos, museus e bibliotecas, facilitando o acesso dos cientistas e investigadores do outro país ao acervo das respectivas instituições.
 
 Estas facilidades serão concedidas com base na reciprocidade e em conformidade com as leis e regulamentos vigentes em cada país, devendo ser acordadas entre as instituições competentes.
 
-Artigo XIII
+###### Artigo XIII
 
 Para a salvaguarda do seu património nacional, cada Parte Contratante compromete-se a tomar medidas para impedir a saída e entrada ilícita de valores culturais ou espécies documentais da outra Parte de valor histórico e artístico e a fiscalizar e velar pela segurança das mesmas enquanto se encontram temporariamente no seu território.
 
-Artigo XIV
+###### Artigo XIV
 
 As Partes Contratantes apoiarão a colaboração entre cinematecas e as suas instituições cinematográficas, com o fim de realizar co-produções, a troca de películas cinematográficas, a participação recíproca em festivais organizados no outro país e a troca de cartazes de cinema, revistas e publicações especializadas.
 
-Artigo XV
+###### Artigo XV
 
 As Partes Contratantes apoiarão a colaboração entre as agências de imprensa e associações de jornalistas e repórteres dos dois países e o intercâmbio de visitas destes, assim como a acreditação de correspondentes de forma permanente ou por períodos limitados.
 
-Artigo XVI
+###### Artigo XVI
 
 As Partes Contratantes promoverão a cooperação no campo audiovisual, através do intercâmbio de emissões e programas radiofónicos e de televisão relativos ao desenvolvimento económico, social e cultural dos dois países, com o fim de fomentar o conhecimento recíproco dos seus povos e suas realizações nas áreas acima mencionadas.
 
-Artigo XVII
+###### Artigo XVII
 
 As Partes Contratantes comprometem-se a promover o estabelecimento e o desenvolvimento de amplas actividades comuns no campo da juventude, facilitando assim a aproximação e o conhecimento recíprocos, através:
 
@@ -236,23 +236,23 @@ b) Da promoção do intercâmbio de especialistas, investigadores, técnicos e e
 
 c) Do intercâmbio de publicações relativas à problemática juvenil.
 
-Artigo XVIII
+###### Artigo XVIII
 
 As Partes Contratantes fomentarão a colaboração no campo da cultura física e do desporto, na base de convénios entre as organizações correspondentes.
 
-Artigo XIX
+###### Artigo XIX
 
 As Partes Contratantes promoverão a extensão dos intercâmbios turísticos em bases não comerciais e a diversificação das formas de realização dos mesmos.
 
-Artigo XX
+###### Artigo XX
 
 As Partes Contratantes animarão e apoiarão os contactos directos no campo da saúde a todos os níveis, nomeadamente dos ministérios, academias, universidades e faculdades de medicina e institutos de investigação médica.
 
-Artigo XXI
+###### Artigo XXI
 
 As Partes Contratantes trocarão informação sobre as manifestações científicas, culturais, artísticas, juvenis e desportivas que organizem, facilitando reciprocamente a participação nas mesmas.
 
-Artigo XXII
+###### Artigo XXII
 
 Para aplicar as disposições do presente Acordo, as Partes Contratantes poderão concluir programas periódicos intergovernamentais e ou interinstitucionais de colaboração e intercâmbios, nos quais se acordarão as formas de cooperação, as modalidades de execução e financiamento das mesmas.
 
@@ -260,23 +260,23 @@ Para o mesmo fim, as Partes Contratantes poderão designar representantes ou del
 
 A comissão reunir-se-á alternadamente em Lisboa e em Assunção para concluir programas e planos de intercâmbio para analisar a execução prática das disposições dos mesmos.
 
-Artigo XXIII
+###### Artigo XXIII
 
 Cada uma das Partes facilitará, dentro do limite das suas possibilidades, a solução dos problemas de carácter administrativo e financeiro surgidos no decurso da realização das acções empreendidas no seu território pela outra Parte, em aplicação do presente Acordo.
 
-Artigo XXIV
+###### Artigo XXIV
 
 As disposições do presente Acordo não excluem a possibilidade de estabelecer uma colaboração bilateral também noutros sectores relacionados com os domínios que constituem o seu objecto.
 
-Artigo XXV
+###### Artigo XXV
 
 Este Acordo não poderá prejudicar de qualquer forma os direitos e obrigações resultantes de existentes ou futuros acordos bilaterais ou multilaterais e não produzirá efeitos sobre os direitos e obrigações das Partes, derivadas da participação em acordos ou tratados internacionais de que possam vir a ser parte.
 
-Artigo XXVI
+###### Artigo XXVI
 
 O presente Acordo entrará em vigor na data da última notificação do cumprimento das formalidades constitucionais exigidas por cada Parte Contratante.
 
-Artigo XXVII
+###### Artigo XXVII
 
 O presente Acordo terá uma validade de cinco anos e será automaticamente prorrogado, por períodos sucessivos iguais, se nenhuma das Partes o denunciar por escrito, por via diplomática. Neste caso, a denúncia produzirá efeitos após seis meses a contar da data da respectiva notificação.
 

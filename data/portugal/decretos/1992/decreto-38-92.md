@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/38/1992/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/38-1992-259064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7f03e2c19823509e09798b8c17d204abf877d63e9c86db1616b1e45d0055057
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58c0c38d2421660b3afc057d26dd8be1de2671c6c863572cdbdc0b4ce25b7261
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal do MAR
-- Higiene do Trabalho
 - Convenção
+- Higiene do Trabalho
+- Navegação Marítima
+- Pessoal do MAR
 - Portugal
-- Segurança no Trabalho
 - Salvaguarda da VIDA Humana no MAR
 - Segurança Marítima
-- Navegação Marítima
-relationships: []
+- Segurança no Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:694224:por
+  label: "Tornada pública a aplicação ao Território de Macau do Protocolo de 1978 Relativo à Convenção Internacional para\
+    \ a Salvaguarda da Vida Humana no Mar, (na versão dada pelas emendas ao Protocolo aprovadas pelo presente diploma), pelo\
+    \ AV.176/99.1999.10.12.MNE, DR.IS-A [255] de 02/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/176-1999-694224
+  date: '1999-10-12'
+- type: corrected_by
+  target: pt:dre:361326:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 149/92, PUBLICADA NO DR.IS-A, 226 4 SUPL, DE 920930.\0930.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/149-1992-361326
 article_structure:
-  article_count: 1
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:55Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +106,19 @@ de 20 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas, para adesão, as emendas ao Protocolo de 1978 relativo à Convenção Internacional para a Salvaguarda da Vida Humana no Mar, de 1974, adoptadas em 10 de Novembro de 1988, cuja versão autêntica em língua inglesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. São aprovadas, para adesão, as emendas ao Protocolo de 1978 relativo à Convenção Internacional para a Salvaguarda da Vida Humana no Mar, de 1974, adoptadas em 10 de Novembro de 1988, cuja versão autêntica em língua inglesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 2 de Julho de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Duarte Ivo Cruz - Eduardo Eugénio Castro de Azevedo Soares.
 
 Ratificado em 21 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Julho de 1992.**
+Referendado em 25 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 RESOLUTION OF THE CONFERENCE OF PARTIES TO THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, ON THE GLOBAL MARITIME DISTRESS AND SAFETY SYSTEM, ADOPTED ON 10 NOVEMBER 1988.
 
@@ -491,7 +502,7 @@ Emendas ao Protocolo de 1978 relativo à Convenção Internacional para a Salvag
 
 ### CAPÍTULO I — Disposições gerais
 
-# PARTE B — Vistorias e certificados
+## PARTE B — Vistorias e certificados
 
 Regra 8
 
@@ -511,7 +522,7 @@ Duração e validade dos certificados
 
 No parágrafo c) substituir as palavras «um certificado de segurança radiotelegráfica para navio de carga ou um certificado de segurança radiotelefónica para navio de carga» por «um certificado de Segurança radioeléctrica para navio de carga».
 
-## APÊNDICE
+APÊNDICE
 
 O modelo actual do certificado de segurança de construção para navios de carga no apêndice à Convenção SOLAS de 1974 e o actual modelo do suplemento do certificado de segurança de construção para navio de carga no apêndice ao Protocolo SOLAS de 1978 são substituídos pelos seguintes:
 
@@ -593,7 +604,7 @@ Vistoria intermédia
 
 Certifica-se que numa vistoria intermédia exigida pela regra I/10 da Convenção, modificada pelo Protocolo SOLAS de 1978, se verificou que este navio satisfaz às disposições fundamentais da Convenção.
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -601,7 +612,7 @@ Data: ...
 
 (Selo ou carimbo da autoridade, conforme apropriado)
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -617,7 +628,7 @@ Certifica-se que o navio foi vistoriado de acordo com a regra I/6, b), da Conven
 
 1.ª inspecção não programada (ver nota 4).
 
-**Assinado: ...**
+Assinado: ...
 
 Local: ...
 
@@ -629,7 +640,7 @@ Data: ...
 
 2.ª inspecção não programada (ver nota 4).
 
-**Assinado: ...**
+Assinado: ...
 
 Local: ...
 
@@ -641,7 +652,7 @@ Data: ...
 
 3.ª inspecção não programada (ver nota 4).
 
-**Assinado: ...**
+Assinado: ...
 
 Local: ...
 
@@ -653,7 +664,7 @@ Data: ...
 
 4.ª inspecção não programada (ver nota 4).
 
-**Assinado: ...**
+Assinado: ...
 
 Local: ...
 
@@ -771,7 +782,7 @@ Vistoria intermédia
 
 Certifica-se que na vistoria intermédia exigida pela regra I/10 da Convenção, modificada pelo Protocolo SOLAS de 1978, se verificou que este navio satisfaz às disposições pertinentes da Convenção.
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -787,7 +798,7 @@ Vistoria obrigatória anual (ver nota 4) (ver nota 6).
 
 Inspecção não programada (ver nota 4).
 
-**Assinado: ...**
+Assinado: ...
 
 Local: ...
 
@@ -797,7 +808,7 @@ Data: ...
 
 Conforme as disposições da regra I/14 da Convenção, modificada pelo Protocolo SOLAS de 1978, a validade deste certificado é prorrogada até ...
 
-**Assinado: ...**
+Assinado: ...
 
 Local: ...
 

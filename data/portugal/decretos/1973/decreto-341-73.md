@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/341-1973-421274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c559b040cc9700d56a3028f31aed351fcfcaadc79b9e7a98e7703b87517d4a8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf833b3071ccbf718d33be5b5136a008e4fe4d29e949efb1ad6a736d964d530e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:306646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643119:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:29Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +106,18 @@ Considerando a competência que foi atribuída ao Ministério das Comunicações
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São desafectadas do domínio público marítimo duas parcelas de terreno do estuário do rio Sado representadas na planta anexa e designadas com as letras A e B, ambas limitadas a norte pelo paralelo 38º 29' 10" N. e a sul pelo paralelo 38º 28' 15" N., sendo a parcela A limitada a oeste pelo meridiano 8º 48' 16" W. de Greenwich e a leste pelo meridiano 8º 48' 6" W. de Greenwich, e a parcela B limitada a oeste pelo meridiano 8º 47' 17" W. de Greenwich e a leste pelo meridiano 8º 47' 5" W. de Greenwich.
+Artigo 1.º São desafectadas do domínio público marítimo duas parcelas de terreno do estuário do rio Sado representadas na planta anexa e designadas com as letras A e B, ambas limitadas a norte pelo paralelo 38º 29' 10" N. e a sul pelo paralelo 38º 28' 15" N., sendo a parcela A limitada a oeste pelo meridiano 8º 48' 16" W. de Greenwich e a leste pelo meridiano 8º 48' 6" W. de Greenwich, e a parcela B limitada a oeste pelo meridiano 8º 47' 17" W. de Greenwich e a leste pelo meridiano 8º 47' 5" W. de Greenwich.
 
-###### Art. 2.º Os referidos terrenos serão destinados à expansão de um estaleiro de construção e reparação naval e às suas zonas de protecção, não podendo neles de ser construídas quaisquer obras, designadamente aterros, docas, cais, molhes ou outras obras que possam afectar o regime flúvio-marítimo sem que os respectivos projectos sejam aprovados pelo Ministro das Comunicações.
+Art. 2.º Os referidos terrenos serão destinados à expansão de um estaleiro de construção e reparação naval e às suas zonas de protecção, não podendo neles de ser construídas quaisquer obras, designadamente aterros, docas, cais, molhes ou outras obras que possam afectar o regime flúvio-marítimo sem que os respectivos projectos sejam aprovados pelo Ministro das Comunicações.
 
 Marcello Caetano - José Luís Sapateiro - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 19 de Junho de 1973.**
+Promulgado em 19 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/15700/11631164.pdf))](https://files.diariodarepublica.pt/1s/1973/07/15700/11631164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/15700/11631164.pdf)
 
-**O Secretário de Estado do Tesouro, José Luís Sapateiro. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado do Tesouro, José Luís Sapateiro. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

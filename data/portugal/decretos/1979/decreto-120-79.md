@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/120-1979-363119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a2792af76fbf8e3b86f430d2a60e4e57fa454e1d70088cfdcdfbb898563fe67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc5c32856cb393a33784a495a71b19e5386e2a2808fc7089156c7c7321eb4a35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Crédito Especial
+- Ministério das Finanças
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:51Z'
   warnings: []
   errors: []
 ---
@@ -88,68 +95,68 @@ Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diar
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 708921 contos, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 708921 contos, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25700/28232824.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25700/28232824.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25700/28232824.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
 Receitas correntes:
 
-### Capítulo 05 - Transferências
+Capítulo 05 - Transferências
 
 Grupo 01 - Sector público: ... (Em contos)
 
-###### Artigo 03 - Serviços autónomos ... 46521
+Artigo 03 - Serviços autónomos ... 46521
 
 Grupo 06 - Exterior:
 
-###### Artigo 04 - Transferências diversas ... 1850
+Artigo 04 - Transferências diversas ... 1850
 
 Receitas de capital:
 
-### Capítulo 10 - Transferências:
+Capítulo 10 - Transferências:
 
 Grupo 06 - Exterior:
 
-###### Artigo 02 - Transferências diversas ... 150
+Artigo 02 - Transferências diversas ... 150
 
-### Capítulo 15 - Contas de ordem:
+Capítulo 15 - Contas de ordem:
 
 Grupo 01 - Encargos Gerais da Nação:
 
-###### Artigo 03 - Instituto Português de Cinema ... 40000
+Artigo 03 - Instituto Português de Cinema ... 40000
 
-###### Artigo 04 - Fundo do Teatro ... 11000
+Artigo 04 - Fundo do Teatro ... 11000
 
 Grupo 05 - Agricultura e Pescas:
 
-###### Artigo 02 - Serviços regionais de agricultura ... 20080
+Artigo 02 - Serviços regionais de agricultura ... 20080
 
-###### Artigo 04 - Direcção-Geral de Extensão Rural ... 3000
+Artigo 04 - Direcção-Geral de Extensão Rural ... 3000
 
 Grupo 09 - Assuntos Sociais:
 
-###### Artigo 01 - Comissão coordenadora de Financiamento dos Serviços de Saúde:
+Artigo 01 - Comissão coordenadora de Financiamento dos Serviços de Saúde:
 
 Serviço de Luta Antituberculosa ... 439
 
 Grupo 10 - Transportes e Comunicações:
 
-###### Artigo 01 - Fundo Especial de Transportes
+Artigo 01 - Fundo Especial de Transportes
 
 Terrestres ... 577530
 
-###### Artigo 04 - Juntas autónomas dos portos ... 8351
+Artigo 04 - Juntas autónomas dos portos ... 8351
 
 ... 708921
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Alberto José dos Santos Ramalheira.
 
-**Promulgado em 20 de Outubro de 1979.**
+Promulgado em 20 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

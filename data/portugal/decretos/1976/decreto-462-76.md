@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/462-1976-427137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 025f225ac336fe30e5a6216cba5b17137cf8329abac30a74db5fdbb9d6c7e2c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fc8b286080dce6e8cc0cb941dd731ffcb632d4674e373767df090784ee57be2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditor Jurídico
+- Auditoria Jurídica
+- Ministério da Habitação Urbanismo e Construção
+- Orgânica
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:464002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:464002:por
+  label: "Extinta a Auditoria Jurídica pelo DEC LEI.352/80.03.09.1980.MHOP, DR.IS [203] de 03.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/352-1980-464002
+  date: '1980-09-03'
+- type: cites
+  target: pt:dre:183070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:26Z'
   warnings: []
   errors: []
 ---
@@ -98,41 +116,41 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, e pelo artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A Auditoria Jurídica do Ministério da Habitação, Urbanismo e Construção constitui um órgão de consulta jurídica e de apoio legislativo directamente dependente do Ministro respectivo.
+Artigo 1.º A Auditoria Jurídica do Ministério da Habitação, Urbanismo e Construção constitui um órgão de consulta jurídica e de apoio legislativo directamente dependente do Ministro respectivo.
 
-###### Art. 2.º A Auditoria Jurídica ocupar-se-á dos assuntos de natureza jurídica que lhe sejam submetidos pelos membros do Governo do Ministério da Habitação, Urbanismo e Construção, competindo-lhe, designadamente:
+Art. 2.º A Auditoria Jurídica ocupar-se-á dos assuntos de natureza jurídica que lhe sejam submetidos pelos membros do Governo do Ministério da Habitação, Urbanismo e Construção, competindo-lhe, designadamente:
 
 a) Elaborar pareceres, informações, projectos legislativos e estudos jurídicos;
 
 b) Intervir em quaisquer sindicâncias, inquéritos ou averiguações, sempre que para a instrução dos respectivos processos se torne indispensável o recurso a pessoal da Auditoria Jurídica.
 
-###### Art. 3.º A Secretaria-Geral do Ministério da Habitação, Urbanismo e Construção prestará à Auditoria Jurídica todo o apoio administrativo indispensável ao exercício das suas atribuições.
+Art. 3.º A Secretaria-Geral do Ministério da Habitação, Urbanismo e Construção prestará à Auditoria Jurídica todo o apoio administrativo indispensável ao exercício das suas atribuições.
 
-###### Art. 4.º O pessoal da Auditoria Jurídica agrupa-se de harmonia com a classificação seguinte:
+Art. 4.º O pessoal da Auditoria Jurídica agrupa-se de harmonia com a classificação seguinte:
 
 a) Pessoal dirigente;
 
 b) Pessoal técnico.
 
-###### Art. 5.º - 1. A dotação e vencimentos do pessoal dirigente e do pessoal técnico da Auditoria Jurídica são os constantes do quadro anexo a este diploma, que dele fica a constituir parte integrante.
+Art. 5.º - 1. A dotação e vencimentos do pessoal dirigente e do pessoal técnico da Auditoria Jurídica são os constantes do quadro anexo a este diploma, que dele fica a constituir parte integrante.
 
 2. A dotação do pessoal referido no número antecedente poderá ser revista sempre que as necessidades de serviço o justifiquem, por portaria conjunta dos Ministros da Habitação, Urbanismo e Construção, da Administração Interna e das Finanças.
 
-###### Art. 6.º - 1. A Auditoria Jurídica é dirigida por um auditor jurídico designado nos termos do Estatuto Judiciário.
+Art. 6.º - 1. A Auditoria Jurídica é dirigida por um auditor jurídico designado nos termos do Estatuto Judiciário.
 
 2. O auditor jurídico depende hierarquicamente do procurador-geral da República, nos termos do mesmo Estatuto.
 
-###### Art. 7.º A admissão no quadro privativo da Auditoria Jurídica processar-se-á sempre pela categoria de consultor jurídico de 2.ª classe, através de concurso documental, a que poderão candidatar-se licenciados em Direito que reúnam as necessárias condições legais.
+Art. 7.º A admissão no quadro privativo da Auditoria Jurídica processar-se-á sempre pela categoria de consultor jurídico de 2.ª classe, através de concurso documental, a que poderão candidatar-se licenciados em Direito que reúnam as necessárias condições legais.
 
-###### Art. 8.º - 1. A promoção no mesmo quadro será efectuada, igualmente através de concurso documental, de entre consultores jurídicos que tenham prestado no mínimo três anos de serviço na respectiva categoria.
+Art. 8.º - 1. A promoção no mesmo quadro será efectuada, igualmente através de concurso documental, de entre consultores jurídicos que tenham prestado no mínimo três anos de serviço na respectiva categoria.
 
 2. Os concursos incidirão essencialmente sobre o trabalho produzido na Auditoria Jurídica, podendo o Ministro da Habitação, Urbanismo e Construção, sempre que não haja candidatos suficientes com o referido tempo mínimo de serviço, autorizar que sejam opositores facultativos nos respectivos concursos de promoção os consultores jurídicos sem o tempo de serviço fixado no n.º 1 deste artigo.
 
-###### Art. 9.º O provimento do pessoal em qualquer dos lugares do quadro privativo da Auditoria Jurídica será feito por nomeação.
+Art. 9.º O provimento do pessoal em qualquer dos lugares do quadro privativo da Auditoria Jurídica será feito por nomeação.
 
-###### Art. 10.º O exercício de funções de consultor jurídico e de acessor jurídico na Auditoria Jurídica não depende da inscrição em associações de classe, ainda que não prejudique tal inscrição.
+Art. 10.º O exercício de funções de consultor jurídico e de acessor jurídico na Auditoria Jurídica não depende da inscrição em associações de classe, ainda que não prejudique tal inscrição.
 
-###### Art. 11.º- 1. O primeiro preenchimento dos lugares do quadro privativo da Auditoria Jurídica efectuar-se-á por livre escolha do Ministro da Habitação, Urbanismo e Construção, sob proposta do auditor jurídico, de entre licenciados em Direito já vinculados à administração pública por qualquer título.
+Art. 11.º- 1. O primeiro preenchimento dos lugares do quadro privativo da Auditoria Jurídica efectuar-se-á por livre escolha do Ministro da Habitação, Urbanismo e Construção, sob proposta do auditor jurídico, de entre licenciados em Direito já vinculados à administração pública por qualquer título.
 
 2. O provimento efectuado nos termos do número antecedente obedecerá ao seguinte:
 
@@ -144,22 +162,22 @@ c) Concretizar-se-á através da lista nominal a publicar no Diário da Repúbli
 
 3. Os lugares que não forem preenchidos nos termos do n.º 1 deste artigo sê-lo-ão nos termos dos artigos 7.º e 9.º deste decreto.
 
-###### Art. 12.º Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Ministério da Habitação, Urbanismo e Construção.
+Art. 12.º Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Ministério da Habitação, Urbanismo e Construção.
 
-###### Art. 13.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação, Urbanismo e Construção, ouvidos os Ministros da Administração Interna e das Finanças, quando for caso disso.
+Art. 13.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação, Urbanismo e Construção, ouvidos os Ministros da Administração Interna e das Finanças, quando for caso disso.
 
-###### Art. 14.º Este diploma entra em vigor na data da sua publicação.
+Art. 14.º Este diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Eduardo Ribeiro Pereira - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 22 de Maio de 1976.**
+Promulgado em 22 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro de vencimentos do pessoal a que se refere o artigo 5.º do Decreto n.º 462/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/06/13500/12951296.pdf))](https://files.diariodarepublica.pt/1s/1976/06/13500/12951296.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/06/13500/12951296.pdf)
 
-**O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.**
+O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.

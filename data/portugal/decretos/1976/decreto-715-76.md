@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/715-1976-408939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f65c1f934f00fe8027e2713400ca57201f04bd615c55cbf27a379911f0da66c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8be3a919227e5f4166616111707c65b151373adcfe64fd69bd8c499fa18eaad8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Circulação de Mercadorias
+- Convenção
+- Direitos Aduaneiros
+- Pauta Aduaneira
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:404491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:404491:por
+  label: Aprovado para ratificação o Acordo que prorroga o Acordo Intercalar entre a República Portuguesa e a Comunidade Económica
+    Europeia pelo(a) Decreto n.º 188/77 - Diário da República n.º 302/1977, 3º Suplemento, Série I de 1977-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/188-1977-404491
+  date: '1977-12-31'
+- type: corrected_by
+  target: pt:dre:138150:por
+  label: Rectificado o terceiro parágrafo do preâmbulo do Acordo pelo(a) Declaração - Diário da República n.º 18/1977, Série
+    I de 1977-01-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-138150
+  date: '1977-01-22'
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:57Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +108,19 @@ de 8 de Outubro
 
 O governo decreta, nos termos do artigo 200.º alínea c), da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo Intercalar entre a República Portuguesa e a Comunidade Económica Europeia, concluído em Bruxelas em 20 de Setembro de 1976, cujo texto em português vai anexo ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo Intercalar entre a República Portuguesa e a Comunidade Económica Europeia, concluído em Bruxelas em 20 de Setembro de 1976, cujo texto em português vai anexo ao presente decreto.
 
 Mário Soares - Henrique Medina Carreira - José Manuel de Medeiros Ferreira - António Miguel Morais Barreto.
 
-**Assinado em 29 de Setembro de 1976.**
+Assinado em 29 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO INTERCALAR ENTRE A REPÚBLICA PORTUGUESA E A COMUNIDADE ECONÓMICA EUROPEIA
 
-**O Presidente da República Portuguesa, por um lado, e o Conselho das Comunidades Europeias, por outro lado,**
+O Presidente da República Portuguesa, por um lado, e o Conselho das Comunidades Europeias, por outro lado,
 
 Considerando que um Protocolo Adicional ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia foi assinado neste mesmo dia;
 
@@ -134,13 +152,13 @@ Em derrogação do disposto no artigo 3.º do Acordo, os produtos classificados 
 
 Os montantes para o ano de 1976 dos plafonds aos quais, em conformidade com o artigo 2.º do Protocolo n.º 1 do Acordo, são submetidas as importações, na Comunidade, dos produtos enumerados no quadro seguinte, originários de Portugal, são elevados para:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
 
 ###### Artigo 4.º
 
 1. Para os produtos enumerados no quadro seguinte, originários de Portugal, a Comunidade na sua composição original e a Irlanda abrem anualmente e durante o período compreendido entre 1 de Janeiro de 1976 e 31 de Dezembro de 1983 contingentes pautais comunitários anuais isentos de direitos, cujos montantes são os a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
 
 2. Se a data de entrada em vigor do Protocolo não coincidir com o início do ano, civil, os contingentes indicados no parágrafo 1 são abertos pro rata temporis.
 
@@ -148,7 +166,7 @@ Os montantes para o ano de 1976 dos plafonds aos quais, em conformidade com o ar
 
 4. Durante o período compreendido entre 1 de Janeiro de 1976 e 31 de Dezembro de 1983, a Dinamarca e o Reino Unido têm a faculdade de abrir anualmente à importação dos produtos a seguir enumerados, originários de Portugal, os contingentes pautais com direito nulo até aos montantes a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
 
 4. O anexo A do Protocolo n.º 1 é suprimido.
 
@@ -158,13 +176,13 @@ Os montantes para o ano de 1976 dos plafonds aos quais, em conformidade com o ar
 
 Em derrogação do disposto no artigo 3.º do Acordo, no artigo 4.º do Protocolo n.º 1 e no parágrafo 5 do artigo 2.º do Protocolo n.º 2 os direitos de importação aplicados em Portugal aos produtos que figuram no anexo I, originário da Comunidade, são eliminados progressivamente nas proporções e segundo o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
 
 ###### Artigo 6.º
 
 Em derrogação do disposto nos artigos 3.º e 5.º do Acordo e do artigo 4.º do Protocolo n.º 1, Portugal pode aplicar um direito que não exceda 20% ad valorem à importação dos produtos que figuram no anexo II, originários da Comunidade. Os direitos de importação assim introduzidos são eliminados progressivamente em relação à Comunidade, nas proporções e segundo o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
 
 ###### Artigo 7.º
 
@@ -176,7 +194,7 @@ B - Produtos agrícolas
 
 Para os produtos a seguir enumerados, originários de Portugal, os direitos de importação na Comunidade são reduzidos nas proporções indicadas para cada um deles e segundo as condições previstas no artigo 6.º do Protocolo n.º 8 do Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
 
 ###### Artigo 9.º
 
@@ -186,13 +204,13 @@ Para os produtos a seguir enumerados, originários de Portugal, os direitos de i
 
 Para os produtos a seguir enumerados, originários de Portugal, os direitos de importação na Comunidade são reduzidos nas proporções e dentro dos limites dos contingentes pautais comunitários anuais indicados para cada um deles, segundo as condições previstas no artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
 
 2. No ano de 1976 são aplicadas, a partir da entrada em vigor do Acordo, as seguintes disposições:
 
 Para os produtos a seguir enumerados originários de Portugal, os direitos de importação na Comunidade são reduzidos nas proporções e dentro dos limites contingentes pautais comunitários anuais indicados para cada um deles, nas condições previstas no artigo 6.º do Protocolo n.º 8 do Acordo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
 
 O aumento dos volumes dos contingentes pautais em relação aos fixados no artigo 4.º do Protocolo 8 é aplicado pro rata temporis.
 
@@ -226,8 +244,8 @@ Max Van der Stöel.
 
 ## ANEXO I — Produtos a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
 
 ## ANEXO II — Produtos a que se refere o artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23600/22672278.pdf)

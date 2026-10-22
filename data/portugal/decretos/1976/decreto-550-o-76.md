@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 161/1976, 2º Suplemento, Série I de 1976-07-12
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1540-(27) a 1540-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16102/00270028.pdf
 entry_into_force_dates: []
@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/550-o-1976-181776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 354c732a076ba4322fb666451903878e35f3dd42591e08f750e25f775fac996b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4519b2412d76bf33ad28eb66c98246a9128e7bef2ca5470ebf748d24fcce2f7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Lisboa
+- Portugal
+- São Tomé e Príncipe
+- SELO Postal
+- Serviço Postal
+- Serviço Postal Universal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:06Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +94,15 @@ de 12 de Julho
 
 Usando da faculdade conferida no artigo 3.º, n.º 1, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Especial entre Portugal e S. Tomé e Príncipe para a Aplicação da Tarifa Postal Interna aos Objectos de Correspondência a Permutar entre os dois Países, assinado em 23 de Março de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Especial entre Portugal e S. Tomé e Príncipe para a Aplicação da Tarifa Postal Interna aos Objectos de Correspondência a Permutar entre os dois Países, assinado em 23 de Março de 1976, cujo texto vai anexo ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Vilar Manuel Trigueiros Crespo - Ernesto Augusto de Melo Antunes - José Augusto Fernandes.
 
-**Assinado em 1 de Julho de 1976.**
+Assinado em 1 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO ESPECIAL ENTRE PORTUGAL E S. TOMÉ E PRÍNCIPE PARA A APLICAÇÃO DA TARIFA POSTAL INTERNA AOS OBJECTOS DE CORRESPONDÊNCIA A PERMUTAR ENTRE OS DOIS PAÍSES.
 

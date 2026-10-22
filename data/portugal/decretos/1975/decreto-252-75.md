@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/252-1975-336082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 003ed7d795f10c5209d166766e0a1535769f4f77186b75b2e34d215906c0c5b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dac97f0ad8bdec58becd3889c0354a4812cca73008d1407d71595fdd59d425cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Lei Uniforme sobre a Forma de um Testamento Internacional
+- Portugal
+- Testamento Internacional
+- Washington
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:49Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 23 de Maio
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada para adesão a Convenção Relativa à Lei Uniforme sobre a Forma de Um Testamento Internacional, concluída em Washington em 26 de Outubro de 1973, cujos textos originais, em francês e respectiva tradução para português, vão anexos ao presente decreto.
+Artigo único. É aprovada para adesão a Convenção Relativa à Lei Uniforme sobre a Forma de Um Testamento Internacional, concluída em Washington em 26 de Outubro de 1973, cujos textos originais, em francês e respectiva tradução para português, vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 8 de Maio de 1975.**
+Assinado em 8 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ANNEXE
 
@@ -486,7 +491,7 @@ Desejando assegurar, em mais larga medida, o respeito pelas disposições de úl
 
 Resolveram, para este fim, celebrar uma Convenção, tendo acordado nas disposições seguintes:
 
-ARTIGO I
+###### ARTIGO I
 
 1. Cada Parte Contratante, dentro dos seis meses seguintes ao da entrada em vigor para si própria desta Convenção, obriga-se a introduzir na legislação respectiva as disposições sobre o testamento internacional constantes do Anexo da Convenção.
 
@@ -496,41 +501,41 @@ ARTIGO I
 
 4. Cada Parte Contratante submeterá ao Governo depositário o texto das normas introduzidas na sua lei, destinadas a darem execução ao disposto nesta Convenção.
 
-ARTIGO II
+###### ARTIGO II
 
 1. Cada Parte Contratante completará as disposições contidas no Anexo, designando na sua lei, dentro do período determinado no artigo anterior, as pessoas que, no seu território, estão habilitadas a tratar das matérias relativas ao testamento internacional. Cada Parte Contratante pode igualmente designar como pessoas habilitadas a actuar em relação aos seus nacionais, os agentes diplomáticos ou consulares colocados no estrangeiro, se a legislação local o não proibir.
 
 2. A Parte Contratante notificará a designação ao Governo depositário, bem como quaisquer modificações posteriores nela introduzidas.
 
-ARTIGO III
+###### ARTIGO III
 
 A competência da pessoa habilitada a tratar das matérias relativas ao testamento internacional, conferida de acordo com a lei de uma das Partes Contratantes, será reconhecida no território das restantes.
 
-ARTIGO IV
+###### ARTIGO IV
 
 O valor do certificado previsto no artigo 10.º do Anexo será reconhecido no território de todas as Partes Contratantes.
 
-ARTIGO V
+###### ARTIGO V
 
 1. As condições exigidas para ser testemunha num testamento internacional serão reguladas pela lei ao abrigo da qual foi designada a pessoa habilitada. Será aplicada a mesma regra em relação ao intérprete que eventualmente seja chamado para aquele acto.
 
 2. Contudo, ninguém poderá ser impedido de testemunhar num testamento internacional devido apenas à sua qualidade de estrangeiro.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1. As assinaturas do testador, da pessoa habilitada e das testemunhas de um testamento internacional, apostas no testamento ou no certificado, são dispensadas de qualquer legalização ou formalidade análoga.
 
 2. Todavia, as autoridades competentes das Partes Contratantes poderão, se necessário, certificar-se da autenticidade da assinatura da pessoa habilitada.
 
-ARTIGO VII
+###### ARTIGO VII
 
 A guarda e conservação de um testamento internacional serão reguladas pela lei ao abrigo da qual foi designada a pessoa habilitada.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Não será admitida qualquer reserva à Convenção ou ao seu Anexo.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1. A presente Convenção ficará aberta à assinatura em Washington, desde 26 de Outubro de 1973 a 31 de Dezembro de 1974.
 
@@ -538,25 +543,25 @@ ARTIGO IX
 
 3. Os instrumentos de ratificação serão depositados junto do Governo dos Estados Unidos da América, o qual exercerá as funções de Governo depositário.
 
-ARTIGO X
+###### ARTIGO X
 
 1. A Convenção ficará aberta à adesão sem limite de tempo.
 
 2. Os instrumentos de adesão serão depositados junto do Governo depositário.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1. A presente Convenção entrará em vigor seis meses depois da data do depósito do quinto instrumento de ratificação ou de adesão junto do Governo depositário.
 
 2. No caso de um Estado ratificar ou aderir a esta Convenção após o depósito do quinto instrumento de ratificação ou de adesão, esta entrará em vigor para si próprio seis meses depois do depósito do seu instrumento de ratificação ou de adesão.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1. Qualquer Parte Contratante pode denunciar a Convenção por meio de notificação escrita enviada ao Governo depositário.
 
 2. Esta denúncia produzirá efeito doze meses após a data em que o Governo depositário receber a notificação, mas a denúncia não afectará a validade de qualquer testamento feito durante o período em que a Convenção se encontrava em vigor no Estado denunciante.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1. Qualquer Estado, ao depositar o seu instrumento de ratificação ou de adesão, ou em momento subsequente, pode declarar em nota enviada ao Governo depositário que esta Convenção se aplicará a todos ou parte dos territórios pelos quais é responsável no domínio das relações internacionais.
 
@@ -564,17 +569,17 @@ ARTIGO XIII
 
 3. A Parte Contratante que haja feito uma declaração nos termos do n.º 1 deste artigo poderá, de acordo com o disposto no artigo XII, denunciar a Convenção em relação a todos ou parte dos territórios referidos.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1. Se um Estado tiver dois ou mais territórios em que se apliquem diferentes sistemas legais relativamente à forma dos testamentos, poderá, no momento da assinatura, ratificação ou adesão, declarar que esta Convenção se aplica a todos os seus territórios, a um só, ou a mais do que um, tendo também a faculdade de alterar o conteúdo da anterior declaração, apresentando outra a todo o tempo.
 
 2. Estas declarações serão notificadas ao Governo depositário e referirão expressamente os territórios aos quais a Convenção se aplica.
 
-ARTIGO XV
+###### ARTIGO XV
 
 Se uma das Partes Contratantes tiver dois ou mais territórios em que se apliquem diferentes sistemas legais quanto à forma dos testamentos, qualquer referência à lei interna do lugar em que o testamento for feito ou à lei ao abrigo da qual foi designada a pessoa habilitada a tratar das matérias relativas ao testamento internacional será entendida de acordo com o sistema constitucional da mesma Parte Contratante.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 1. O original da presente Convenção, redigido em inglês, francês, russo e espanhol, fazendo igualmente fé cada uma das versões, será depositado junto do Governo dos Estados Unidos da América, o qual transmitirá cópias autenticadas a cada um dos Estados signatários e aderentes e ao Instituto Internacional para a Unificação do Direito Privado.
 

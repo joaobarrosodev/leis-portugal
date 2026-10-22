@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/23/1995/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-1995-460637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1822782288561ca771d7629f69d15bc3ce3092ac97d48d3012d78553e10823c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65a493b3bc2dd815d4c39217a103999f47e4c67a644cb641ebc7925d9e8649f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
-- PERU
-- Convenção
-- Portugal
-- Lisboa
 - Apoio ao Investimento
+- Convenção
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
+- Lisboa
+- PERU
+- Portugal
+- Protecção do Investimento
 relationships: []
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:41Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +96,19 @@ de 15 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Promoção e Protecção Recíproca de Investimentos entre a República Portuguesa e a República do Peru e o Protocolo anexo, assinados em Lisboa, a 22 de Novembro de 1994, cujas versões autênticas nas línguas portuguesa e castelhana seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Promoção e Protecção Recíproca de Investimentos entre a República Portuguesa e a República do Peru e o Protocolo anexo, assinados em Lisboa, a 22 de Novembro de 1994, cujas versões autênticas nas línguas portuguesa e castelhana seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 11 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Durão Barroso - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Assinado em 21 de Junho de 1995.**
+Assinado em 21 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Junho de 1995.**
+Referendado em 24 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO PERU SOBRE A PROMOÇÃO E A PROTEÇÃO RECÍPROCA DE INVESTIMENTOS.
 
@@ -294,4 +294,4 @@ Pela República do Peru:
 
 Efrain Goldenberg Schreiber, Presidente do Conselho de Ministros e Ministro das Relações Exteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/162a00/45244531.pdf))](https://files.diariodarepublica.pt/1s/1995/07/162a00/45244531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/162a00/45244531.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/14/2005/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/14-2005-240269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0ffce828738947ffbdcc742d06a4d832a5a58451e4e09e3f51013d89cf0095e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 581853d278bb7b99b57a844312040de3e9f3ff602981c2591e7f13d514353896
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
+- Apoio ao Investimento
 - Argélia
 - Convenção
-- Portugal
-- Lisboa
-- Apoio ao Investimento
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
+- Lisboa
+- Portugal
+- Protecção do Investimento
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:03Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Manuel Pedro Cunha da Silva Pereira - Manuel António Gomes de Almeida de Pinho.
 
-**Assinado em 13 de Julho de 2005.**
+Assinado em 13 de Julho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 2005.**
+Referendado em 14 de Julho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DEMOCRÁTICA E POPULAR DA ARGÉLIA SOBRE A PROMOÇÃO E PROTECÇÃO RECÍPROCAS DE INVESTIMENTOS.
 
@@ -236,7 +236,7 @@ b) A todos os pagamentos obtidos em virtude dos ditos direitos e créditos a que
 
 4 - Se os prazos fixados no n.º 3 deste artigo não foram observados e na ausência de qualquer outro acordo, qualquer das Partes Contratantes solicita ao Presidente do Tribunal Internacional de Justiça que proceda às nomeações necessárias. Se o Presidente do Tribunal tiver a nacionalidade de uma das Partes Contratantes, ou se se encontrar impedido, as nomeações necessárias serão solicitadas ao Vice-Presidente. Se o Vice-Presidente tiver a nacionalidade de uma das Partes Contratantes, ou se se encontrar impedido, as nomeações necessárias serão solicitadas ao membro do Tribunal Internacional de Justiça que se siga na hierarquia, desde que esse membro não seja nacional de qualquer das Partes Contratantes.
 
-**O presidente do tribunal arbitral tem de ter a nacionalidade de um Estado com o qual ambas as Partes Contratantes mantenham relações diplomáticas.**
+O presidente do tribunal arbitral tem de ter a nacionalidade de um Estado com o qual ambas as Partes Contratantes mantenham relações diplomáticas.
 
 5 - O tribunal arbitral toma as suas decisões por maioria de votos e estas serão definitivas e executórias para ambas as Partes Contratantes.
 
@@ -300,11 +300,11 @@ Feito em duplicado, em Lisboa, no dia 15 de Setembro de 2004, nas línguas portu
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
 
 Pelo Governo da República Democrática e Popular da Argélia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
 
 Protocolo
 
@@ -318,11 +318,11 @@ Feito em duplicado, em Lisboa, no dia 15 de Setembro de 2004, nas línguas portu
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
 
 Pelo Governo da República Democrática e Popular da Argélia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
 
 [(ver texto em língua árabe no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
 
@@ -538,11 +538,11 @@ Fait à Lisbonne, le 15 septembre, en double exemplaire originaux, chacun en lan
 
 Pour la République Portugaise:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
 
 Pour le Gouvernement de la République Algérienne Démocratique et Populaire:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
 
 PROTOCOLE
 
@@ -556,8 +556,8 @@ Fait à Lisbonne, le 15 septembre, en double exemplaire originaux, chacun en lan
 
 Pour la République Portugaise:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
 
 Pour le Gouvernement de la République Algérienne Démocratique et Populaire:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)](https://files.diariodarepublica.pt/1s/2005/07/145a00/44084419.pdf)

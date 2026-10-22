@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-1976-506179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d696f569c3822cd8f8aa717d79ab0d2db0ee1ace8748cd686a849c37fed0f011
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a9a21e8a9dc1bedc2d876388b24e1813a67d8eb04b7b7f02d23fc1851a65963
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Comércio
+- Convenção
+- Cooperação Internacional
+- Exportação
+- Importação
+- Lisboa
+- Portugal
+- RDA
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:13Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +96,15 @@ de 14 de Janeiro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Comercial a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Democrática Alemã, assinado em Lisboa em 25 de Janeiro de 1975, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado o Acordo Comercial a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Democrática Alemã, assinado em Lisboa em 25 de Janeiro de 1975, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Joaquim Jorge de Pinho Campinos - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 30 de Dezembro de 1975.**
+Assinado em 30 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACCORD COMMERCIAL À LONG TERME ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE ET LE GOUVERNEMENT DE LA RÉPUBLIQUE DÉMOCRATIQUE ALLEMANDE.
 
@@ -271,11 +280,11 @@ ACORDO COMERCIAL A LONGO PRAZO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVE
 
 O Governo da República Portuguesa e o Governo da República Democrática Alemã, animados do desejo de desenvolver e de aprofundar as relações comerciais entre os dois Estados, dentro de um espírito de igualdade e de benefício mútuo, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes farão todos os esforços no sentido de desenvolver e facilitar o comércio entre Portugal e a República Democrática Alemã, de modo a que as trocas comerciais entre os dois países se realizem com a maior continuidade possível, de uma forma razoavelmente equilibrada, com vista à utilização plena das possibilidades que derivam do progresso das suas economias respectivas.
 
-ARTIGO II
+###### ARTIGO II
 
 Com vista a favorecer e a facilitar o comércio entre os dois Estados, as Partes Contratantes conceder-se-ão reciprocamente o tratamento da nação mais favorecida em tudo o que diz respeito às relações comerciais. O tratamento da nação mais favorecida aplicar-se-á, nomeadamente, aos direitos aduaneiros e às taxas e impostos a que poderão ser submetidas as mercadorias quando de sua importação ou exportação, bem como à sua cobrança e aos regulamentos e formalidades do regime aduaneiro.
 
@@ -287,7 +296,7 @@ b) Resultantes de uniões aduaneiras ou de zonas de comércio livre concluídas,
 
 c) Concedidas, ou que possam vir a sê-lo no futuro, por uma das Partes Contratantes a um ou vários países em vias de desenvolvimento, com vista a desenvolver e consolidar as trocas comerciais com esses países.
 
-ARTIGO III
+###### ARTIGO III
 
 As transacções de mercadorias entre a República Democrática Alemã e a República Portuguesa efectuar-se-ão na base das listas de mercadorias indicativas A (exportações da República Democrática Alemã) e B (exportações da República Portuguesa) anexas ao presente Acordo.
 
@@ -295,13 +304,13 @@ As listas de mercadorias A e B são partes integrantes do presente Acordo.
 
 As duas Partes Contratantes acordaram em que outras mercadorias, além das indicadas nas listas de mercadorias A e B, poderão igualmente ser importadas e exportadas.
 
-ARTIGO IV
+###### ARTIGO IV
 
 A importação e a exportação de mercadorias entre os dois países serão efectuadas de acordo com as disposições do presente Acordo e em conformidade com os contratos celebrados entre as organizações de comércio da República Democrática Alemã e as pessoas físicas e jurídicas portuguesas habilitadas a efectuar operações de comércio externo.
 
 As pessoas morais e físicas acima mencionadas exercerão as suas transacções comerciais a todos os respeitos em plena responsabilidade.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes permitirão, em conformidade com as suas leis e regulamentos e em termos nunca menos favoráveis do que os concedidos a qualquer outro país, a importação e a exportação de:
 
@@ -311,19 +320,19 @@ b) Ferramentas e objectos importados para montagens ou reparações;
 
 c) Mercadorias e objectos destinados a feiras e exposições permanentes ou temporárias.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Os pagamentos resultantes das trocas comerciais entre Portugal e a República Democrática Alemã serão efectuados em divisas livremente convertíveis, em conformidade com a legislação em vigor em cada um dos dois países.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Uma comissão mista reunir-se-á regularmente uma vez por ano, alternadamente, na República Democrática Alemã e em Portugal, terá por missão velar pela estrita aplicação e pela realização das disposições previstas no presente Acordo e proporá, com base nas suas experiências, medidas com vista a incrementar ulteriormente o comércio.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Qualquer emenda e modificação ao presente Acordo deverá revestir a forma escrita e exigirá o consentimento mútuo.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O presente Acordo entrará em vigor na data da sua assinatura e permanecerá válido até 31 de Dezembro de 1979. Se nenhuma das duas Partes não tiver denunciado este Acordo, por escrito, três meses antes da expiração do período de validade, ele será automaticamente prorrogado por um novo período de um ano.
 
@@ -393,7 +402,7 @@ Exportações da República Portuguesa:
 
 Lisboa, 25 de Janeiro de 1975.
 
-**O Presidente da delegação governamental da República Democrática Alemã:**
+O Presidente da delegação governamental da República Democrática Alemã:
 
 Excelência:
 
@@ -411,11 +420,11 @@ Apresento a V. Ex.ª os protestos da minha mais elevada consideração.
 
 Erich Butzke, Embaixador da RDA em Lisboa.
 
-**O Presidente da delegação governamental da República Portuguesa.**
+O Presidente da delegação governamental da República Portuguesa.
 
 Lisboa, 25 de Janeiro de 1975.
 
-**O Presidente da delegação governamental da República Democrática Alemã:**
+O Presidente da delegação governamental da República Democrática Alemã:
 
 Excelência:
 
@@ -437,4 +446,4 @@ Apresento a V. Ex.ª os protestos da minha mais elevada consideração.
 
 Erich Butzke, Embaixador da RDA em Lisboa.
 
-**O Presidente da delegação governamental da República Portuguesa.**
+O Presidente da delegação governamental da República Portuguesa.

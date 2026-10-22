@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/21-1989-611538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeee4317b5d5514de8235d1b1b9ec0e4d6efea9124e261a8dec04ab4d867661d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 435fbbc20ccb4752b88f4d17a0fb2b65319bc608c9810e92943dbc2c90c5f361
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Rural
+- Exploração Agrícola
+- Moura
+- Regime Florestal
 relationships:
 - type: amended_by
   target: pt:dre:198108:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198108:por
+  label: "Alterado o art. 1º (dada nova redacção ao art. 3º do Dec DD64/63, de 13-Abr), pelo DEC.34/96.1996.11.22.MADRP, DR.IS-B\
+    \ [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/34-1996-198108
+  date: '1996-11-22'
+- type: cites
+  target: pt:dre:452543:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:04Z'
   warnings: []
   errors: []
 ---
@@ -99,22 +113,22 @@ Dado o parecer favorável dos serviços competentes e atendendo ao disposto no �
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 3.º do decreto de 13 de Abril de 1963, publicado no Diário do Governo, 2.ª série, da mesma data, alterado pelo artigo 1.º do [Decreto do Governo n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/42-1983-452543), de 21 de Junho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do decreto de 13 de Abril de 1963, publicado no Diário do Governo, 2.ª série, da mesma data, alterado pelo artigo 1.º do [Decreto do Governo n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/42-1983-452543), de 21 de Junho, passa a ter a seguinte redacção:
 
-###### Art. 3.º A compensação anual devida à Câmara Municipal de Moura é de 4000000$00.
+Art. 3.º A compensação anual devida à Câmara Municipal de Moura é de 4000000$00.
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1989.
+Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1989.
 
 Presidência do Conselho de Ministros, 3 de Abril de 1989.
 
 Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Assinado em 27 de Abril de 1989.**
+Assinado em 27 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Maio de 1989.**
+Referendado em 2 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

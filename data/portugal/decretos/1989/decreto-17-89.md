@@ -48,36 +48,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-1989-611897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c89625746937a78abc3f3fd5f5328f8ca82578ce386f6587b37af5d14ac6594
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d20b58540e927493d92069241adc0270fa580b2c4d55bab7269666b59d0408d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Indústria Farmacêutica
+- ONU
+- Onudi
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:00Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +93,19 @@ de 2 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada a Nota de Entendimento entre o Governo da República Portuguesa e a Organização das Nações Unidas para o Desenvolvimento Industrial (UNIDO) para Cooperação no Estabelecimento do Centro para a Tecnologia, Formação, Informação e Desenvolvimento da Indústria Farmacêutica, celebrada em Lisboa a 7 de Abril de 1988, cujos textos originais, em português e inglês, vão anexos ao presente decreto.
+Artigo único. É aprovada a Nota de Entendimento entre o Governo da República Portuguesa e a Organização das Nações Unidas para o Desenvolvimento Industrial (UNIDO) para Cooperação no Estabelecimento do Centro para a Tecnologia, Formação, Informação e Desenvolvimento da Indústria Farmacêutica, celebrada em Lisboa a 7 de Abril de 1988, cujos textos originais, em português e inglês, vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 23 de Março de 1989. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Assinado em 14 de Abril de 1989.**
+Assinado em 14 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Abril de 1989.**
+Referendado em 14 de Abril de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 NOTA DE ENTENDIMENTO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO INDUSTRIAL PARA COOPERAÇÃO NO ESTABELECIMENTO DO CENTRO PARA A TECNOLOGIA, FORMAÇÃO, INFORMAÇÃO E DESENVOLVIMENTO DA INDÚSTRIA FARMACÊUTICA.
 

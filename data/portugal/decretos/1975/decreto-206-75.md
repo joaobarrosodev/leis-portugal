@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/206-1975-162161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-04-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba9d00d31ad9021c30366b6d824102e76fe221425dd3f86d1cabfd6f6d98ad40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 780d7cd98e05aae3c94941821b1143a4a184775675f54557e55f1e7836039870
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Dadra.Colónia Portuguesa
+- Damão.Colónia Portuguesa
+- Descolonização
+- Diu.Colónia Portuguesa
+- Goa.Colónia Portuguesa
+- Índia
+- Nagar Aveli.Colónia Portuguesa
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:471552:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:336320:por
+  label: Rectificado pelo(a) Rectificação - Diário do Governo n.º 106/1975, Série I de 1975-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-336320
+  date: '1975-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:34Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +105,19 @@ de 17 de Abril
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Tratado entre a Índia e Portugal Relativo ao Reconhecimento da Soberania da Índia sobre Goa, Damão, Diu, Dadrá e Nagar Aveli e Assuntos Correlativos, assinado em 31 de Dezembro de 1974 em Nova Deli, cujos textos nas línguas portuguesa e inglesa vão anexos ao presente decreto, assim como os textos das notas trocadas entre os Governos da Índia e de Portugal relativas ao artigo V daquele Tratado.
+Artigo único. É aprovado, para ratificação, o Tratado entre a Índia e Portugal Relativo ao Reconhecimento da Soberania da Índia sobre Goa, Damão, Diu, Dadrá e Nagar Aveli e Assuntos Correlativos, assinado em 31 de Dezembro de 1974 em Nova Deli, cujos textos nas línguas portuguesa e inglesa vão anexos ao presente decreto, assim como os textos das notas trocadas entre os Governos da Índia e de Portugal relativas ao artigo V daquele Tratado.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Soares.
 
-**Assinado em 5 de Abril de 1975.**
+Assinado em 5 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Tratado entre a Índia e Portugal Relativo ao Reconhecimento da Soberania da Índia sobre Goa, Damão, Diu, Dadrá e Nagar Aveli e Assuntos Correlativos.
 
-**O Presidente da República da Índia e o Presidente da República Portuguesa,**
+O Presidente da República da Índia e o Presidente da República Portuguesa,
 
 Reportando-se ao comunicado conjunto assinado em Nova Iorque, em 24 de Setembro de 1974, pelo Ministro dos Assuntos Exteriores do Governo da Índia e pelo Ministro dos Negócios Estrangeiros do Governo de Portugal, no qual se declarava, entre outras coisas, que o Governo Português estava pronto a reconhecer a plena soberania da Índia sobre os antigos territórios portugueses de Goa, Damão, Diu, Dadrá e Nagar Aveli, que se tornaram partes integrantes do território da Índia;
 
@@ -109,41 +127,41 @@ Tendo em mente o desejo dos povos da Índia e de Portugal de iniciarem uma nova 
 
 Decidiram concluir um tratado entre ambos os países para dar execução ao entendimento expresso no referido comunicado conjunto e tomar medidas para o restabelecimento de relações normais entre ambos os países, com base na igualdade de soberania e reciprocidade de benefícios, e designaram para este efeito como plenipotenciários:
 
-**O Presidente da República da Índia, S. Ex.ª o Senhor Y. B. Chavan, Ministro dos Assuntos Exteriores;**
+O Presidente da República da Índia, S. Ex.ª o Senhor Y. B. Chavan, Ministro dos Assuntos Exteriores;
 
-**O Presidente da República Portuguesa, S. Ex.ª o Dr. Mário Soares, Ministro dos Negócios Estrangeiros;**
+O Presidente da República Portuguesa, S. Ex.ª o Dr. Mário Soares, Ministro dos Negócios Estrangeiros;
 
 os quais acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Portugal reconhece que os territórios de Goa, Damão, Diu, Dadrá e Nagar Aveli se tornaram já parte da Índia e reconhece por este meio a plena soberania da Índia sobre estes territórios com efeito a partir das datas em que se tornaram partes da Índia, nos termos da Constituição da Índia.
 
-ARTIGO II
+###### ARTIGO II
 
 As relações diplomáticas entre a Índia e Portugal serão imediatamente restabelecidas.
 
-ARTIGO III
+###### ARTIGO III
 
 Ambas as Partes Contratantes acordam em resolver por meio de negociações bilaterais todas as questões entre elas, incluindo as respeitantes à propriedade, bens ou reclamações dos cidadãos dos respectivos países, bem como as questões relativas à propriedade estadual e aos bens de cada um dos Estados nos territórios do outro Estado.
 
 Ambas as Partes acordam também em resolver por meio de negociações bilaterais os direitos e as reclamações de cidadãos indianos e outros indivíduos que tiveram que regressar à Índia de territórios sob administração portuguesa, no que respeita à sua propriedade e bens.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Será concluído o mais brevemente possível um acordo cultural entre Portugal e a Índia. As Partes Contratantes acordam em tomar medidas para desenvolver contactos no campo cultural e, em particular, na promoção da língua e cultura portuguesas e na conservação de monumentos históricos e religiosos em Goa, Damão, Diu, Dadrá e Nagar Aveli.
 
-ARTIGO V
+###### ARTIGO V
 
 Portugal concorda, em princípio, na entrega à Índia de todos os arquivos, registos, papéis, documentos e outros materiais que digam respeito aos territórios mencionados no artigo I, incluindo aqueles que possam ter sido transferidos para qualquer lugar fora destes territórios. De igual modo, a Índia concorda, em princípio, na transferência para Portugal de todos os arquivos, registos, papéis, documentos e outros materiais que se possam encontrar nos territórios mencionados no artigo I e que não digam respeito principalmente a esses territórios.
 
 As modalidades da sua entrega, acesso, passagem de certidões e consulta mútuas serão estabelecidas pelas vias diplomáticas.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Qualquer questão de interpretação ou aplicação deste Tratado será solucionada entre ambos os países por meio de negociações bilaterais.
 
-ARTIGO VII
+###### ARTIGO VII
 
 O presente Tratado será sujeito a ratificação e entrará em vigor na data da troca dos instrumentos de ratificação, a qual terá lugar em Lisboa. Em fé do que os respectivos plenipotenciários assinaram este Tratado e nele apuseram os respectivos selos.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/106-1974-412424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 872e92aec6dfa13ef1c4c6d359f241e1d3be37ca35c0f675f4f7239e6a5f696a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30c4c71e7e0d593a4a18f47c8ad98bb6b45b9e205a383e008f769192ee9a113c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:42Z'
   warnings: []
   errors: []
 ---
@@ -89,8 +89,8 @@ Usando da faculdade conferida pelo n.º 1.º do artigo 81.º da Constituição:
 
 Hei por bem, sob proposta do Presidente do Conselho, nomear Secretário de Estado do Planeamento o Doutor Alberto Santos Pinheiro Xavier e Secretário de Estado da Agricultura o Prof. Engenheiro José Eduardo Mendes Ferrão.
 
-**Assinado em 15 de Março de 1974.**
+Assinado em 15 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ. - Marcello Caetano.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ. - Marcello Caetano.

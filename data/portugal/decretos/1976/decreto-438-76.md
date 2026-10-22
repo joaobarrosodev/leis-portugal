@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/438-1976-427383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0526d6604707ff85065ec3ad45c0ec204ab75b7f6c9b2018f8b8567c973cc270
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ebea495b85c25a800c40986ffde7440a2698520473867a97f276527ad6c0892
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Água
+- Comissão Instaladora
+- Conselho Nacional da ÁGUA
+- Conselho Superior de Obras Públicas e Transportes
+- Definição de Competências
+- Direcção Geral dos Serviços Hidráulicos
+- Ministro das Obras Públicas
+- Saneamento Básico
+relationships:
+- type: cites
+  target: pt:dre:183069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:21Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +116,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Até à sua constituição definitiva e publicação de legislação que regule o seu completo funcionamento, o Conselho Nacional da Água (CNA), criado pelo artigo 3.º do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro, exercerá as funções de órgão coordenador dos usos das águas de superfície e subterrâneas, quer no domínio do planeamento, quer no da conservação e exploração.
+Artigo 1.º - 1. Até à sua constituição definitiva e publicação de legislação que regule o seu completo funcionamento, o Conselho Nacional da Água (CNA), criado pelo artigo 3.º do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro, exercerá as funções de órgão coordenador dos usos das águas de superfície e subterrâneas, quer no domínio do planeamento, quer no da conservação e exploração.
 
 2. A competência consultiva que vier a ser atribuída ao CNA continuará a ser desempenhada, nesta fase de transição, pela 2.ª Secção (Hidráulica) do Conselho Superior de Obras Públicas e Transportes (CSOPT).
 
@@ -108,26 +124,26 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 4. Sempre que tal se justifique, cabe ao Ministro das Obras Públicas assegurar, com apoio no CNA, a submissão de assuntos do âmbito da gestão nacional das águas, a decisão conjunta dos membros do Governo com competência para neles intervirem.
 
-###### Art. 2.º Para efeitos do disposto no artigo anterior, será nomeada uma comissão instaladora do CNA, a designar por despacho do Ministro das Obras Públicas.
+Art. 2.º Para efeitos do disposto no artigo anterior, será nomeada uma comissão instaladora do CNA, a designar por despacho do Ministro das Obras Públicas.
 
-###### Art. 3.º Para além dos membros do Governo definidos no n.º 2 do artigo 3.º do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro, poderá também o Secretário de Estado do Ambiente solicitar ao CSOPT o exercício das funções consultivas previstas no artigo 5.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
+Art. 3.º Para além dos membros do Governo definidos no n.º 2 do artigo 3.º do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro, poderá também o Secretário de Estado do Ambiente solicitar ao CSOPT o exercício das funções consultivas previstas no artigo 5.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
 
-###### Art. 4.º - 1. O CSOPT e a Direcção-Geral dos Recursos e Aproveitamento Hidráulicos (DGRAH) assegurarão, no período de vigência do presente diploma, todo o apoio em pessoal, equipamento e alojamento necessários ao funcionamento do CNA.
+Art. 4.º - 1. O CSOPT e a Direcção-Geral dos Recursos e Aproveitamento Hidráulicos (DGRAH) assegurarão, no período de vigência do presente diploma, todo o apoio em pessoal, equipamento e alojamento necessários ao funcionamento do CNA.
 
 2. O apoio em matéria de pessoal será dado em regime de destacamento, conservando os funcionários destacados os direitos inerentes aos respectivos lugares de origem, aos quais poderão regressar em qualquer altura, a seu pedido ou mediante despacho do Ministro das Obras Públicas.
 
-###### Art. 5.º Ingressam no quadro do CSOPT, com a categoria de inspector-geral de obras públicas, ficando desde já destacados no CNA, os engenheiros que, à data da publicação do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), exerciam os cargos de subdirector-geral da Direcção-Geral dos Serviços Hidráulicos e de director dos Serviços de Saneamento.
+Art. 5.º Ingressam no quadro do CSOPT, com a categoria de inspector-geral de obras públicas, ficando desde já destacados no CNA, os engenheiros que, à data da publicação do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), exerciam os cargos de subdirector-geral da Direcção-Geral dos Serviços Hidráulicos e de director dos Serviços de Saneamento.
 
-###### Art. 6.º O CSOPT e a DGRAH podem promover, mediante simples ajuste verbal, a elaboração de quaisquer estudos, pareceres ou outros trabalhos de natureza eventual que se tornem necessários ao cumprimento das atribuições do CNA.
+Art. 6.º O CSOPT e a DGRAH podem promover, mediante simples ajuste verbal, a elaboração de quaisquer estudos, pareceres ou outros trabalhos de natureza eventual que se tornem necessários ao cumprimento das atribuições do CNA.
 
-###### Art. 7.º - 1. O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+Art. 7.º - 1. O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
 3. Até final do ano corrente, porém, os encargos emergentes da publicação do presente diploma serão suportados nos termos do n.º 2 do artigo 11.º do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 22 de Maio de 1976.**
+Promulgado em 22 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

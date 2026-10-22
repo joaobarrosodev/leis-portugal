@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/1993/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-1993-648371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89d22f94619388d5599c24c767278e3a714f884237398ba0c5d3889090728fc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eddbfcd5f09331b22f3a222a25b448165e2d3d1500b30ad302a58ad53f5eac80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
 - CEE
 - Convenção
-- Portugal
 - Decisão CE
 - Documento Aduaneiro
 - Importação
 - Importação Temporária
 - Mercadoria
-- Bruxelas
+- Portugal
 relationships:
 - type: cites
   target: celex:31989D0345
   label: null
   source: http://data.europa.eu/eli/dec/1989/345/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:43Z'
   warnings: []
   errors: []
 ---
@@ -100,18 +100,18 @@ de 12 de Fevereiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para aceitação, a emenda a que se refere a Decisão do Conselho n.º [89/345/CEE](https://data.europa.eu/eli/dec/1989/345/oj?locale=pt), de 3 de Maio, à Convenção Aduaneira sobre o Livrete ATA para a Importação Temporária de Mercadorias, aprovada, para ratificação, pelo Decreto-Lei n.º 46650, de 18 de Novembro de 1965, cuja versão autêntica em língua francesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para aceitação, a emenda a que se refere a Decisão do Conselho n.º [89/345/CEE](https://data.europa.eu/eli/dec/1989/345/oj?locale=pt), de 3 de Maio, à Convenção Aduaneira sobre o Livrete ATA para a Importação Temporária de Mercadorias, aprovada, para ratificação, pelo Decreto-Lei n.º 46650, de 18 de Novembro de 1965, cuja versão autêntica em língua francesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - João de Deus Rogado Salvador Pinheiro.
 
 Ratificado em 16 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Setembro de 1992.**
+Referendado em 20 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/036a00/05830586.pdf))](https://files.diariodarepublica.pt/1s/1993/02/036a00/05830586.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/036a00/05830586.pdf)

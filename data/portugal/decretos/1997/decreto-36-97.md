@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/36/1997/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1997-147859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 267861cb08856c83b2f63fad6ddae2dc081a4e18f59f2eec3bcaf31225056d3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10ffdb5e8b79ed7e2598cc06f89d1ee13afc0b337e8850ed2ed4c14e247b7408
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
-- Convenção
-- Portugal
-- Lisboa
 - Apoio ao Investimento
+- Convenção
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
+- Lisboa
+- Portugal
+- Protecção do Investimento
 relationships: []
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:03Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +101,15 @@ Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Augusto Carlos Serra Ventura Mateus.
 
-**Assinado em 20 de Junho de 1997.**
+Assinado em 20 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Junho de 1997.**
+Referendado em 20 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE SOBRE A PROMOÇÃO E A PROTECÇÃO MÚTUA DE INVESTIMENTOS
 

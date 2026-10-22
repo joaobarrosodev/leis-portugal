@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/15/1992/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-1992-168237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d2971c7b61d7e8e5ff385dcc305214da374506dc35180d93797fff76eec6814
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 857e7e1ed53bbcda708b6993fb54b05a99c7ef5588ed77b104ab0b80050081f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Cooperação Técnica
-- Portugal
 - Cooperação Científica
 - Cooperação Cultural
+- Cooperação Técnica
+- Portugal
 - Seychelles
 relationships: []
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:33Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 7 de Março
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Cultural, Científica e Técnica entre a República Portuguesa e a República das Seychelles, feito em Lisboa em 29 de Novembro de 1990, cujo texto original, nas línguas portuguesa e francesa, segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Cultural, Científica e Técnica entre a República Portuguesa e a República das Seychelles, feito em Lisboa em 29 de Novembro de 1990, cujo texto original, nas línguas portuguesa e francesa, segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1991. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Duarte Ivo Cruz - Diamantino Freitas Gomes Durão.
 
-**Assinado em 21 de Janeiro de 1992.**
+Assinado em 21 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1992.**
+Referendado em 24 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO CULTURAL, CIENTÍFICA E TÉCNICA
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/05100/0134201360.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/7/2017/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-2017-106589745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7347d8446c6b0955d48ea7374626f08227f0d3fc0065b5500059a7e1d887910
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b16efd5074c2dad51dbcf9d55d8ed28b7592df38e1196c4cfbdfabe6c0ab394
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Biotecnologia
-- Investigação Científica e Tecnológica
 - Convenção
-- Portugal
-- ONU
 - Cooperação Tecnológica
-- Japão
 - Diversidade Biológica
-- Recursos Genéticos
+- Investigação Científica e Tecnológica
+- Japão
 - Nagoya
+- ONU
+- Portugal
+- Recursos Genéticos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/21/1993/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/21/1993/06/21/p/dre
+- type: cites
+  target: pt:dre:268421:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:34Z'
   warnings: []
   errors: []
 ---
@@ -113,15 +117,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 24 de novembro de 2016. - António Luís Santos da Costa - Maria Margarida Ferreira Marques - Fernando António Portela Rocha de Andrade - João Pedro Soeiro de Matos Fernandes.
 
-**Assinado em 13 de janeiro de 2017.**
+Assinado em 13 de janeiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de janeiro de 2017.**
+Referendado em 18 de janeiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 PROTOCOLO DE NAGOYA SOBRE O ACESSO A RECURSOS GENÉTICOS E A PARTILHA JUSTA E EQUITATIVA DOS BENEFÍCIOS PROVENIENTES DA SUA UTILIZAÇÃO RELATIVO À CONVENÇÃO SOBRE A DIVERSIDADE BIOLÓGICA.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/2014/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-2014-571946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1553f40e72c3b33884b6f4c6778692a97c6517d712cef59d9f4f8672786d5b5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ced444e65fa1e1316dc43d30f3dc86845efb525b8da60d2c471ec60edae6894
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
 - Convenção
-- Portugal
 - DOHA
+- Portugal
 - Qatar
+- Transporte Aéreo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:34Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 20 de fevereiro de 2014. - Pedro Passos Coelho - Luís Álvaro Barbosa de Campos Ferreira - António de Magalhães Pires de Lima.
 
-**Assinado em 12 de março de 2014.**
+Assinado em 12 de março de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de março de 2014.**
+Referendado em 13 de março de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO SOBRE TRANSPORTE AÉREO ENTRE A REPÚBLICA PORTUGUESA E O GOVERNO DO ESTADO DO QATAR
 
@@ -442,13 +442,13 @@ Abdulaziz Al Noiaimi, Diretor da Autoridade da Aviação Civil.
 
 Rotas a serem operadas em ambos os sentidos pela empresa designada da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf)
 
 #### Secção 2
 
 Rotas a serem operadas em ambos os sentidos pela empresa designada do Estado do Qatar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf)
 
 Notas:
 
@@ -462,7 +462,7 @@ a) Para a empresa designada da República Portuguesa, à partida de pontos em Po
 
 b) Para a empresa designada do Estado do Qatar, à partida de pontos no Qatar, via pontos intra-União Europeia, com destino a um ponto em Portugal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf)
 
 AGREEMENT ON AIR TRANSPORT BETWEEN THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE STATE OF QATAR
 
@@ -840,13 +840,13 @@ Section 1
 
 Routes to be operated in both directions by the designated airline of the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf)
 
 Section 2
 
 Routes to be operated in both directions by the designated airline of the State of Qatar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05700/0213202150.pdf)
 
 Notes:
 

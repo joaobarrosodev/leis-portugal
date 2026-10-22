@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04200/0001000019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/2023/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-2023-207939887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97a09a407dce6a880c7e58e13ac4c6ebd66b1c2692c415225606a44189f0b5a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a00a0dc8296474a70c47047756717f2a61a46c583ce2b9bd6af3663111f8d6b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Acordo
 - CAÇA
 - Convenção
-- Política de Cooperação
-- Portugal
 - Espanha
 - Lisboa
+- Política de Cooperação
+- Portugal
 - RIO Minho
 - Trujillo
 relationships:
@@ -80,16 +80,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/13/1994/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/13/1994/05/04/p/dre
+- type: cites
+  target: pt:dre:251067:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:38Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +112,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 9 de fevereiro de 2023. - Mariana Guimarães Vieira da Silva - Paulo Alexandre Nascimento Cafôfo - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro.
 
-**Assinado em 14 de fevereiro de 2023.**
+Assinado em 14 de fevereiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de fevereiro de 2023.**
+Referendado em 17 de fevereiro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA RELATIVO À REGULAÇÃO DA CAÇA NAS ÁGUAS E MARGENS DO TROÇO INTERNACIONAL DO RIO MINHO (TIRM)
 
@@ -457,3 +461,5 @@ Augusto Santos Silva, Ministro de Estado y Negocios Extranjeros de Portugal.
 Por el Reino de España:
 
 José Manuel Albares, Ministro de Asuntos Exteriores, Unión Europea y Cooperación de España.
+
+116190689

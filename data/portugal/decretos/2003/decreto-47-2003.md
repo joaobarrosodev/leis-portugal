@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/47/2003/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47-2003-476111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:16:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6640e91570d01c3bfd2efdc074971343cde8090fa3fe5de648c00b50e7972388
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e64f24a241867658ac26a8df72bf9070490b1887604e8dc6f0533c6114de4335
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:16:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Radiocomunicações
-- Convenção
-- Portugal
 - Comunicações
+- Convenção
 - Genebra
+- Portugal
+- Radiocomunicações
 - União Internacional das Telecomunicações
 relationships: []
 article_structure:
   article_count: 15
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:16:53Z'
   warnings: []
   errors: []
 ---
@@ -119,15 +119,15 @@ Portugal reserva-se o direito de tomar todas as medidas necessárias à salvagua
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Torres da Silva.
 
-**Assinado em 24 de Setembro de 2003.**
+Assinado em 24 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2003.**
+Referendado em 25 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACTES FINALS DE LA CONFÉRENCE ADMINISTRATIVE RÉGIONALE POUR LA PLANIFICATION DU SERVICE DE RADIONAVIGATION MARITIME (RADIOPHARES) DANS LA ZONE EUROPÉENNE MARITIME.
 
@@ -375,7 +375,7 @@ Pour le Danemark:
 
 B. Wedervang.
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)
 
 IB Pforr-Weiss.
 
@@ -535,7 +535,7 @@ B. Chirkov.
 
 Pour la République socialiste fédérative de Yougoslavie:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)
 
 Protocole final (ver nota 1)
 
@@ -695,7 +695,7 @@ Estas disposições aplicam-se igualmente às consignações de frequências a e
 
 ###### Artigo 4.º — Procedimento relativo às modificações ao Plano
 
-#### Secção A - Considerações gerais
+Secção A - Considerações gerais
 
 4.1 - Sempre que um Membro Contratante se propõe efectuar uma modificação ao Plano, ou seja:
 
@@ -709,7 +709,7 @@ d) Cancelar uma consignação de frequências a uma estação de radiofarol do s
 
 deverá ser adoptado o procedimento seguinte, em simultâneo com a notificação feita em conformidade com as disposições do artigo 12.º do Regulamento (ver o artigo 5.º do presente Acordo).
 
-#### Secção B - Procedimento para modificar as características de uma consignação ou para pôr em serviço uma nova consignação
+Secção B - Procedimento para modificar as características de uma consignação ou para pôr em serviço uma nova consignação
 
 4.2 - Qualquer administração que pretenda modificar as características de uma consignação ou pôr em serviço uma nova consignação deverá, directamente ou através da IFRB, procurar obter o acordo de quaisquer outras administrações cujas consignações possam ser afectadas.
 
@@ -741,11 +741,11 @@ A Comissão informará a administração que propôs a modificação acerca dos 
 
 4.10 - Quando a Comissão conclui que não é necessário o acordo dos Membros Contratantes ou quando a Comissão é informada de que foi obtido o acordo necessário, procederá à actualização do exemplar de referência do Plano.
 
-#### Secção C - Cancelamento de consignações
+Secção C - Cancelamento de consignações
 
 4.11 - Qualquer administração que pretenda anular uma consignação existente no Plano, em consequência ou não de uma modificação (por exemplo, uma alteração de frequência), deverá informar imediatamente a IFRB. A Comissão actualizará o exemplar de referência do Plano em conformidade.
 
-#### Secção D - Actualização e publicação do Plano
+Secção D - Actualização e publicação do Plano
 
 4.12 - A IFRB manterá actualizado um exemplar de referência do Plano e dos seus apêndices, esse exemplar terá em conta a aplicação do procedimento descrito no presente artigo; para isso, a IFRB elaborará periodicamente documentos recapitulativos indicando as alterações introduzidas no Plano em consequência de modificações efectuadas em conformidade com o procedimento do presente artigo, da introdução de novas consignações conformes com o presente Acordo e de todos os cancelamentos de que a Comissão tenha sido informada.
 
@@ -855,7 +855,7 @@ Pela Dinamarca:
 
 B. Wedervang.
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)
 
 IB Pforr-Weiss.
 
@@ -947,7 +947,7 @@ Cesar Charles Solamito.
 
 Pela Noruega:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)](https://files.diariodarepublica.pt/1s/2003/10/241a00/69596971.pdf)
 
 Geir Sunde.
 

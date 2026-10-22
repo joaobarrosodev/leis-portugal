@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/8/2001/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-2001-312042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:12:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16bfd8e33f0eaabed3d0d081d7e63835b4791f04ba976b71bb5f6718f65abb99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10ad5fa8fd6199715c2ff9b10ec019df6b7a08189a0dd7977c47375ba8e6544e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:12:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Residência de Estrangeiros
-- Convenção
-- Moçambique
-- Portugal
-- CPLP
+- Admissão de Estrangeiros
 - Angola
-- Maputo
-- Funcionário Diplomático
-- Missão Diplomática
 - Brasil
 - Cabo Verde
-- Pessoal Diplomático
+- Convenção
+- CPLP
+- Funcionário Diplomático
+- Maputo
+- Missão Diplomática
+- Moçambique
 - Passaporte
-- Admissão de Estrangeiros
+- Pessoal Diplomático
+- Portugal
+- Residência de Estrangeiros
 relationships: []
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:12:21Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +103,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2000. - Jaime José Matos da Gama - Jaime José Matos da Gama - Henrique Nuno Pires Severiano Teixeira.
 
-**Assinado em 15 de Janeiro de 2001.**
+Assinado em 15 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Janeiro de 2001.**
+Referendado em 18 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO SOBRE SUPRESSÃO DE VISTOS EM PASSAPORTES DIPLOMÁTICOS, ESPECIAIS E DE SERVIÇO, ENTRE OS GOVERNOS DOS PAÍSES MEMBROS DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA.
 

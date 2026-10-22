@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13400/44404441.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/14/2007/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/14-2007-636072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75d6ea1ce9407aaa2836f576b68b21cceafa248043a60c2561b76045ebf65ada
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bb0bffe5c27bd070d633119f38796cc7a152871e14c299a6051ea3aa5a6b125
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime Florestal
 - Direcção Geral dos Recursos Florestais
 - Oliveira de Frades
-- Zona de Proteção
 - Rede Nacional de Áreas Protegidas
+- Regime Florestal
 - são Pedro do SUL
 - Vouzela
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:286959:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:286959:por
+  label: "Revogado, a partir de 01.07.2011, pelo DEC.14/2011.02.05.2011.MADRP, DR.IS [84] de 02.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/14-2011-286959
+  date: '2011-05-02'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:50Z'
   warnings: []
   errors: []
 ---
@@ -119,14 +124,14 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa. - Luís Medeiros Vieira.
 
-**Assinado em 12 de Junho de 2007.**
+Assinado em 12 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 14 de Junho de 2007.**
+Referendado em 14 de Junho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/13400/44404441.pdf))](https://files.diariodarepublica.pt/1s/2007/07/13400/44404441.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/13400/44404441.pdf)

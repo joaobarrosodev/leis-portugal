@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/101-1978-329473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a33bbfd2abcf75f5f35474b7a9c3badb7d303c05bab9a07b07d66fc2e4502cd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 772e85f6c412040b28f0bbd9df52138c36a321bbe09541b9f099433be3a0e97d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Copenhaga
+- OMS
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:33Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 19 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição Portuguesa, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Base entre a Organização Mundial de Saúde e Portugal, assinado em Copenhaga em 12 de Junho de 1978, cujo texto em francês e respectiva tradução em português vão anexos ao presente decreto.
+Artigo único. É aprovado o Acordo de Base entre a Organização Mundial de Saúde e Portugal, assinado em Copenhaga em 12 de Junho de 1978, cujo texto em francês e respectiva tradução em português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Augusto Nunes de Sá Machado.
 
-**Assinado em 17 de Agosto de 1978.**
+Assinado em 17 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Accord de base entre l'Organization mondial de la Santé et le Gouvernement du Portugal, concernant l'Établissement de rapports de coopération technique de caractère consultatif.
 
@@ -221,9 +225,7 @@ Declarando que cumprirão as suas obrigações recíprocas num espírito de coop
 
 Acordam no que se segue:
 
-ARTIGO I
-
-Estabelecimento de uma cooperação técnica de carácter consultivo
+###### ARTIGO I — Estabelecimento de uma cooperação técnica de carácter consultivo
 
 1 - A Organização acordará ao Governo uma cooperação técnica de carácter consultivo, dentro dos limites das suas possibilidades orçamentais ou sob reserva da disponibilidade dos fundos necessários. A Organização e o Governo, com base nos pedidos emanados do Governo e aprovados pela Organização, elaborarão, de comum acordo, os planos de operação para pôr em prática esta cooperação técnica de carácter consultivo.
 
@@ -251,9 +253,7 @@ c) No exercício das suas funções consultivas, os conselheiros não se poupar�
 
 6 - O Governo deverá atender todas as reclamações que terceiros possam formular contra a Organização e os seus conselheiros, agentes ou empregados; deverá pôr fora de causa a Organização e os seus conselheiros, agentes e empregados em caso de reclamação e isentá-los de toda e qualquer responsabilidade decorrente de actos executados em virtude do presente acordo, salvo se o Governo e a Organização concordarem que a dita reclamação ou a dita responsabilidade resultou de negligência grave ou de falta intencional dos interessados.
 
-ARTIGO II
-
-Participação do Governo no respeitante à cooperação técnica de carácter consultivo
+###### ARTIGO II — Participação do Governo no respeitante à cooperação técnica de carácter consultivo
 
 1 - O Governo fará todo o possível para assegurar o decorrer eficaz da cooperação técnica de carácter consultivo.
 
@@ -261,9 +261,7 @@ Participação do Governo no respeitante à cooperação técnica de carácter c
 
 3 - O Governo dará à Organização a sua colaboração activa na prestação e elaboração de conclusões, dados, estatísticas e todas as informações susceptíveis de permitir à Organização uma análise e avaliação dos resultados dos programas de cooperação técnica de carácter consultivo.
 
-ARTIGO III
-
-Obrigações administrativas e financeiras da Organização
+###### ARTIGO III — Obrigações administrativas e financeiras da Organização
 
 1 - A Organização tomará a seu cargo, na totalidade ou em parte, segundo as modalidades fixadas de comum acordo, as despesas respeitantes à cooperação técnica de carácter consultivo, pagáveis fora do país, e a seguir indicadas:
 
@@ -281,9 +279,7 @@ f) Quaisquer outras despesas efectuadas fora do País e aprovadas pela Organiza�
 
 2 - A Organização tomará a seu cargo as despesas em moeda local que não competirem ao Governo, segundo o artigo IV, parágrafo 1, do presente Acordo.
 
-ARTIGO IV
-
-Obrigações administrativas e financeiras do Governo
+###### ARTIGO IV — Obrigações administrativas e financeiras do Governo
 
 1 - O Governo participará nas despesas da cooperação técnica de carácter consultivo tomando a seu cargo ou fornecendo directamente as instalações e os serviços seguintes:
 
@@ -303,15 +299,13 @@ f) Facilidades referentes ao tratamento médico e hospitalização eventual dos 
 
 3 - Em caso de necessidade, o Governo porá à disposição da Organização, nas condições fixadas de comum acordo, a mão-de-obra, o material, os equipamentos e outros serviços ou bens que possam ser necessários à execução do seu trabalho.
 
-ARTIGO V
-
-Facilidades, privilégios e imunidades
+###### ARTIGO V — Facilidades, privilégios e imunidades
 
 1 - O Governo, se já não tiver a obrigação de o fazer, aplicará à Organização, ao seu pessoal e aos seus fundos, bens e haveres, as disposições pertinentes da Convenção sobre os Privilégios e Imunidades das Instituições Especializadas.
 
 2 - Os membros do pessoal da Organização, incluindo os conselheiros por ela contratados na qualidade de membros de pessoal afecto à realização dos fins previstos no presente Acordo, serão considerados como funcionários da Organização, no sentido daquela Convenção.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - O presente Acordo de base entrará em vigor à data da sua assinatura pelos representantes devidamente autorizados da Organização e do Governo.
 

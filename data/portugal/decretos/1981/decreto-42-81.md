@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-1981-389595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed393c1fcdd421faa473ce192c1e837921ba32eee8bb8a2a746153368b7f633d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa9a615d4daa44c244dd4eda3ad8b5642b8a0c0fe5a1ad0e30f89f2899a79c73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Constitucional
+- Gestão de Recursos Humanos
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:232941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673410:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:51Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +110,13 @@ Considerando o reajustamento de categorias e vencimentos resultante da aplicaç�
 
 O Conselho da Revolução decreta, nos termos do n.º 1 do artigo 285.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto n.º 654-A/76](https://diariodarepublica.pt/dr/detalhe/decreto/654-a-1976-673410), de 31 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto n.º 654-A/76](https://diariodarepublica.pt/dr/detalhe/decreto/654-a-1976-673410), de 31 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - A secretaria é integrada pelos elementos constantes do mapa anexo a este diploma, que são requisitados ou admitidos em comissão de serviço, nos termos da lei, sob proposta do presidente da Comissão, devendo o secretário ser, de preferência, um licenciado em Direito.
+Art. 2.º - 1 - A secretaria é integrada pelos elementos constantes do mapa anexo a este diploma, que são requisitados ou admitidos em comissão de serviço, nos termos da lei, sob proposta do presidente da Comissão, devendo o secretário ser, de preferência, um licenciado em Direito.
 
 2 - Nas suas faltas e impedimentos o secretário é substituído pelo escrivão de direito mais antigo.
 
-###### Art. 2.º O mapa anexo ao [Decreto n.º 654-A/76](https://diariodarepublica.pt/dr/detalhe/decreto/654-a-1976-673410), de 31 de Julho, passa a ter a seguinte constituição:
+Art. 2.º O mapa anexo ao [Decreto n.º 654-A/76](https://diariodarepublica.pt/dr/detalhe/decreto/654-a-1976-673410), de 31 de Julho, passa a ter a seguinte constituição:
 
 Quadro do pessoal
 
@@ -138,7 +158,7 @@ b) Núcleo de apoio documental:
 
 2 serventes ... U
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos:
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos:
 
 a) O artigo 1.º a partir de 2 de Maio de 1980;
 
@@ -146,8 +166,8 @@ b) O n.º 2 do mapa a que se refere o artigo 2.º a partir de 30 de Julho de 198
 
 Visto e aprovado em Conselho da Revolução em 1 de Outubro de 1980.
 
-**Promulgado em 25 de Fevereiro de 1981.**
+Promulgado em 25 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

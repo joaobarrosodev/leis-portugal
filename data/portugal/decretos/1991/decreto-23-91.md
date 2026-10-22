@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/23/1991/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-1991-592682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba422d6a9394b58530fa367c79a618c50f55d387d93e3e5d13eb2706b3f7deb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b28a9094788071ecdab20fb24dcd59a30403b0e3b142fef70b9af58e031bf08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Adesão à Comunidade Europeia
 - CECA
 - Convenção
-- Portugal
 - Espanha
-- Adesão à Comunidade Europeia
+- Portugal
 - Turquia
 relationships: []
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:46Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +94,19 @@ de 19 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo, assinado em Bruxelas a 10 de Agosto de 1987, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a Turquia, assinado em Bruxelas a 23 de Novembro de 1970, alterado e completado pelo Protocolo complementar assinado em Ancara, a 30 de Junho de 1973, cuja versão autêntica, em língua portuguesa, segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo, assinado em Bruxelas a 10 de Agosto de 1987, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a Turquia, assinado em Bruxelas a 23 de Novembro de 1970, alterado e completado pelo Protocolo complementar assinado em Ancara, a 30 de Junho de 1973, cuja versão autêntica, em língua portuguesa, segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 1 de Abril de 1990.**
+Assinado em 1 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Abril de 1991.**
+Referendado em 3 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO AO ACORDO ENTRE OS ESTADOS MEMBROS DA COMUNIDADE EUROPEIA DO CARVÃO E DO AÇO E A TURQUIA RELATIVO AOS PRODUTOS SUBMETIDOS À COMPETÊNCIA DA COMUNIDADE EUROPEIA DO CARVÃO E DO AÇO NA SEQUÊNCIA DA ADESÃO DO REINO DE ESPANHA E DA REPÚBLICA PORTUGUESA À COMUNIDADE.
 
@@ -120,7 +120,7 @@ Sua Majestade a Rainha da Dinamarca:
 
 Jakob Esper Larsen, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Werner Ungerer, embaixador extraordinário e plenipotenciário;
 
@@ -128,15 +128,15 @@ Sua Majestade o Rei de Espanha:
 
 Carlos Westendorp y Cabeza, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 François Scheer, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 John H. F. Campell, embaixador extraordinário e plenipotenciário.
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Pietro Calamia, embaixador extraordinário e plenipotenciário;
 
@@ -148,7 +148,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 P. C. Nieman, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Leonardo Mathias, embaixador extraordinário e plenipotenciário;
 
@@ -156,7 +156,7 @@ Sua Majestade a Rainha do Reino Unido da Grã-Bretanha e Irlanda do Norte:
 
 David H. A. Hannay Kcmg, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Turca:**
+O Presidente da República Turca:
 
 Pulat Tacar, embaixador extraordinário e plenipotenciário, delegado permamente junto da Comunidade Económica Europeia, chefe da Missão da República da Turquia;
 

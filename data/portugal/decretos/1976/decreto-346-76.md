@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/346-1976-427838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6cd1bf6c2dacf2743c3588340b12ac4ffb7426a537057e030e2b9a09c936f17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb1664fa63f532ef270d2ff53ecf0fd25dfcc728bacc5dba34370443a7a1509d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Turismo
+- Direcção Geral dos Transportes Terrestres
+- Licenciamento
+- Turismo
+- Veículo de Aluguer
+relationships:
+- type: cites
+  target: pt:dre:173160:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:55Z'
   warnings: []
   errors: []
 ---
@@ -88,23 +97,23 @@ Considerando a necessidade de actualizar algumas disposições do [Decreto n.º 
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos a seguir indicados do [Decreto n.º 28/74](https://diariodarepublica.pt/dr/detalhe/decreto/28-1974-173160), de 31 de Janeiro, passam a ter a seguinte redacção:
+Artigo único. Os artigos a seguir indicados do [Decreto n.º 28/74](https://diariodarepublica.pt/dr/detalhe/decreto/28-1974-173160), de 31 de Janeiro, passam a ter a seguinte redacção:
 
 ...
 
-###### Art. 12.º - 1. Não poderão ser utilizados no serviço de aluguer sem condutor veículos automóveis com mais de cinco anos, contados a partir da data da respectiva matrícula.
+Art. 12.º - 1. Não poderão ser utilizados no serviço de aluguer sem condutor veículos automóveis com mais de cinco anos, contados a partir da data da respectiva matrícula.
 
 2. O limite estabelecido no número anterior poderá ser prorrogado por prazos de um ano, mediante autorização da Direcção-Geral de Transportes Terrestres, após inspecção dos respectivos veículos.
 
 ...
 
-###### Art. 14.º - 1. O direito ao licenciamento a que se refere o n.º 2 do artigo 9.º poderá ser suspenso ou limitado temporariamente por despacho do director-geral de Transportes Terrestres, ouvida a Direcção-Geral do Turismo, com vista ao ajustamento da oferta de serviços de aluguer sem condutor às necessidades específicas da procura que a ela se dirija, de harmonia com o são funcionamento do mercado de transportes local e regional.
+Art. 14.º - 1. O direito ao licenciamento a que se refere o n.º 2 do artigo 9.º poderá ser suspenso ou limitado temporariamente por despacho do director-geral de Transportes Terrestres, ouvida a Direcção-Geral do Turismo, com vista ao ajustamento da oferta de serviços de aluguer sem condutor às necessidades específicas da procura que a ela se dirija, de harmonia com o são funcionamento do mercado de transportes local e regional.
 
 2. ...
 
 ...
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 1.º ...
 
@@ -120,7 +129,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 24.º - 1. ...
+Art. 24.º - 1. ...
 
 2. ...
 
@@ -130,7 +139,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 28.º - 1. ...
+Art. 28.º - 1. ...
 
 2. As empresas referidas no número anterior não poderão possuir um número de licenças referentes ao mesmo tipo e classe de veículos inferior ao número exigido pela legislação aplicável à data do licenciamento inicial, sem prejuízo do disposto no n.º 5 do artigo 2.º
 
@@ -138,8 +147,8 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 José Baptista Pinheiro de Azevedo - José Augusto Fernandes.
 
-**Promulgado em 3 de Maio de 1976.**
+Promulgado em 3 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

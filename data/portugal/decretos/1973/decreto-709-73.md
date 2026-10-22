@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 301/1973, 1º Suplemento, Série I de 1973-12-29
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2516-(1) a 2516-(85)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/709-1973-494221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:31:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fe0d8da8d738929cf8ad193a9b65ba4cd87762dac8d0d0bfb14645fc40595ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5841820e1c0f3bd1055be93cae22efa666c30b6f527e3d11a6010f4f3a840ddd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:31:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,118 @@ relationships:
   target: pt:dre:235955:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235955:por
+  label: "Elevada a importância corrigida pelo art. 8º do presente diploma, pelo DEC LEI.809/74.31.12.1974.MF, DG.IS [303-7ºSupl]\
+    \ de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/809-1974-235955
+  date: '1974-12-31'
+- type: cites
+  target: pt:dre:149425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685198:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:31:57Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +222,7 @@ Em todo o caso cumpre salientar que, em face dos mais recentes indicadores, não
 
 4. Organizado o Orçamento Geral do Estado para 1974 segundo os objectivos que atrás ficaram sucintamente anotados, obtiveram-se os seguintes números globais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 II
 
@@ -144,7 +246,7 @@ Nos restantes capítulos as variações que se observam na previsão, embora nal
 
 A distribuição, por capítulos, das receitas avaliadas para o ano de 1974 e a sua variação numérica e percentual, relativamente aos valores correspondentes do anterior período financeiro, podem apreciar-se no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 7. Atinge 12192500 contos a previsão para o próximo ano económico no capítulo «Impostos directos», havendo assim uma melhoria de 1891000 contos comparativamente com a estimativa orçamental anterior.
 
@@ -268,7 +370,7 @@ Pode, no entanto, notar-se, neste último, o aumento de 500000 contos, que deriv
 
 (Em milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 A sua análise revela imediatamente a parte referente ao aumento de vencimentos que se reflecte no próximo orçamento, com o valor de 1418,4 milhares de contos.
 
@@ -412,13 +514,13 @@ As despesas do sector extraordinário, que no orçamento para 1974 ascendem a 21
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 25. Da evolução que se tem registado nas despesas extraordinárias, comparativamente à verificada nas despesas ordinárias, dá notícia, em termos de percentagem, o quadro seguinte, que, além disso, espelha, por valores, a distribuição das despesas do sector extraordinário pelas três grandes componentes que o integram:
 
 (Milhares da contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 26. Pelo primeiro daqueles quadros verifica-se que o maior aumento se situa no Ministério das Obras Públicas (+1825,4 milhares de contos), sendo ainda de salientar os acréscimos que se registam no Ministério das Finanças (+831,3 milhares de contos), no Ministério da Educação Nacional (+789,7 milhares de contos), no orçamento dos Encargos Gerais da Nação (+584,6 milhares de contos), no Ministério das Comunicações (+451,7 milhares de contos), e no Ministério da Saúde (+308,7 milhares de contos).
 
@@ -438,7 +540,7 @@ Despesa extraordinária com a defesa nacional e segurança
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 O mapa anterior reflecte um aumento de 516,3 milhares de contos em relação ao orçamento de 1973.
 
@@ -484,7 +586,7 @@ Despesas extraordinárias com o IV Plano de Fomento, por sectores, segundo o pro
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 30. Confrontando os totais do quadro anterior, verifica-se que o maior incremento dado no orçamento para 1974 respeita às verbas atribuídas aos «Transportes e comunicações», à «Educação e cultura», à «Habitação e urbanismo», aos «Auxílios financeiros às províncias ultramarinas» e à «Agricultura, silvicultura e pecuária».
 
@@ -534,7 +636,7 @@ Despesa extraordinária com o Plano de Fomento
 
 (Milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 3 - Outras despesas extraordinárias
 
@@ -544,7 +646,7 @@ Outras despesas extraordinárias
 
 (Milhares da contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 Pelo quadro anterior verifica-se que as principais variações, comparativamente a 1973, ocorrem nos Ministérios das Finanças, da Marinha, das Obras Públicas, do Ultramar e da Economia.
 
@@ -572,7 +674,7 @@ Os dispêndios orçamentais previstos para os empreendimentos integrados no IV P
 
 35. Os meios financeiros que se projecta utilizar para cobrir a totalidade dos encargos extraordinários sintetizam-se seguidamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 NOTA FINAL
 
@@ -614,13 +716,13 @@ Na verdade, o equilíbrio do orçamento é só por si um instrumento de combate 
 
 Por outro lado, a política orçamental continuará a ser estreitamente coordenada com os demais instrumentos de combate à inflação, com particular relevo para a política monetária e para a política contratual de preços. A estes instrumentos caberão, pois, pesadas responsabilidades na difícil tarefa de assegurar a expansão através da estabilidade.
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.
 
 I
 
 RECEITAS
 
-Resumo comparativo das receitas ordinárias segundo os orçamentos de 1974 e 1973 [([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+Resumo comparativo das receitas ordinárias segundo os orçamentos de 1974 e 1973 [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 II
 
@@ -634,43 +736,43 @@ I
 
 Impostos directos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 II
 
 Impostos indirectos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 III
 
 Taxas, multas e outras penalidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 IV
 
 Rendimentos da propriedade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 V
 
 Transferências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 VI
 
 Venda de bens duradouros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 VII
 
 Venda de serviços e bens não duradouros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 Receitas de capital
 
@@ -678,37 +780,37 @@ VIII
 
 Venda de bens de investimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 IX
 
 Transferências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 X
 
 Activos financeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XI
 
 Passivos financeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XII
 
 Reposições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XIII
 
 Contas de ordem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 III
 
@@ -716,7 +818,7 @@ DESPESAS
 
 Resumo comparativo, por Ministérios, das somas fixadas nos orçamentos para os anos económicos de 1974 e 1973
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 IV
 
@@ -724,7 +826,7 @@ Resumo comparativo, por capítulos, das somas fixadas nos orçamentos para os an
 
 ENCARGOS GERAIS DA NAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 V
 
@@ -732,7 +834,7 @@ Resumo comparativo, por capítulos, das somas fixadas nos orçamentos para os an
 
 MINISTÉRIO DAS FINANÇAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 VI
 
@@ -740,7 +842,7 @@ Resumo comparativo, por capítulos, das somas fixadas nos orçamentos para os an
 
 MINISTÉRIO DO INTERIOR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 VII
 
@@ -748,7 +850,7 @@ Resumo comparativo, por capítulos, das somas fixadas nos orçamentos para os an
 
 MINISTÉRIO DA JUSTIÇA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 VIII
 
@@ -756,7 +858,7 @@ Resumo comparativo, por capítulos, das somas fixadas nos orçamentos para os an
 
 MINISTÉRIO DO EXÉRCITO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 IX
 
@@ -764,7 +866,7 @@ Resumo comparativo, por capítulos, das somas fixadas nos orçamentos para os an
 
 MINISTERIO DA MARINHA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 Nota. - Das somas fixadas estão sujeitas a reembolso as seguintes, conforme a previsão constante do orçamento das receitas no capítulo 7.º:
 
@@ -788,7 +890,7 @@ Resumo comparativo, por capítulos, das somas fixadas nos orçamentos para os an
 
 MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XI
 
@@ -796,7 +898,7 @@ Resumo comparativo, por capítulos, das somas fixadas nos orçamentos para os an
 
 MINISTÉRIO DAS OBRAS PÚBLICAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XII
 
@@ -804,7 +906,7 @@ Resumo comparativos por capítulos, das somas fixadas nos orçamentos para os an
 
 MINISTÉRIO DO ULTRAMAR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XIII
 
@@ -812,7 +914,7 @@ Resumo comparativo, por capítulos, das somas fixadas nos orçamentos para os an
 
 MINISTÉRIO DA EDUCAÇÃO NACIONAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XIV
 
@@ -822,7 +924,7 @@ MINISTÉRIO DA ECONOMIA
 
 SECRETARIAS DE ESTADO DA AGRICULTURA, DO COMÉRCIO E DA INDÚSTRIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XV
 
@@ -830,7 +932,7 @@ Resumo comparativo, por capítulos, das somas fixadas nos orçamentos para os an
 
 MINISTERIO DAS COMUNICAÇÕES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XVI
 
@@ -838,7 +940,7 @@ Resumo comparativo, por capítulos, das somas fixadas nos orçamentos para os an
 
 MINISTÉRIO DAS CORPORAÇÕES E SEGURANÇA SOCIAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XVII
 
@@ -846,7 +948,7 @@ Resumo comparativo, por capítulos, das somas fixadas para os anos económicos d
 
 MINISTÉRIO DA SAÚDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XVIII
 
@@ -856,7 +958,7 @@ ORÇAMENTO PARA O ANO ECONÓMICO DE 1974.
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XIX
 
@@ -866,7 +968,7 @@ ENCARGOS GERAIS DA NAÇÃO
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 X
 
@@ -876,7 +978,7 @@ MINISTÉRIO DAS FINANÇAS
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XX
 
@@ -886,7 +988,7 @@ MINISTÉRIO DO INTERIOR
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XXI
 
@@ -896,7 +998,7 @@ MINISTÉRIO DA JUSTIÇA
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XXII
 
@@ -906,7 +1008,7 @@ MINISTÉRIO DO EXÉRCITO
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XXIV
 
@@ -916,7 +1018,7 @@ MINISTÉRIO DA MARINHA
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XXV
 
@@ -926,7 +1028,7 @@ MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XXVI
 
@@ -936,7 +1038,7 @@ MINISTERIO DAS OBRAS PÚBLICAS
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XXVII
 
@@ -946,7 +1048,7 @@ MINISTÉRIO DO ULTRAMAR
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XXVIII
 
@@ -956,7 +1058,7 @@ MINISTÉRIO DA EDUCAÇÃO NACIONAL
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XXIX
 
@@ -966,7 +1068,7 @@ MINISTÉRIO DA ECONOMIA
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XXX
 
@@ -976,7 +1078,7 @@ MINISTÉRIO DAS COMUNICAÇÕES
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XXXI
 
@@ -986,7 +1088,7 @@ MINISTÉRIO DAS CORPORAÇÕES E SEGURANÇA SOCIAL
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 XXXII
 
@@ -996,7 +1098,7 @@ MINISTÉRIO DA SAÚDE
 
 (Em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
 Em execução da [Lei n.º 7/73](https://diariodarepublica.pt/dr/detalhe/lei/7-1973-470846), de 22 de Dezembro;
 
@@ -1006,25 +1108,25 @@ I
 
 Equilíbrio financeiro
 
-###### Artigo 1.º Os impostos directos e indirectos e os mais rendimentos e recursos do Estado no ano de 1974 são avaliados em 53060090206$00, sendo 39711035206$00 de receitas ordinárias e 13349055000$00 de receitas extraordinárias, conforme o mapa n.º 1 que faz parte do presente decreto.
+Artigo 1.º Os impostos directos e indirectos e os mais rendimentos e recursos do Estado no ano de 1974 são avaliados em 53060090206$00, sendo 39711035206$00 de receitas ordinárias e 13349055000$00 de receitas extraordinárias, conforme o mapa n.º 1 que faz parte do presente decreto.
 
-###### Art. 2.º São fixadas as despesas ordinárias e extraordinárias do Estado na metrópole para o ano de 1974 na quantia de 53057816444$00, sendo as ordinárias de 31126561444$00 e as extraordinárias de 21931255000$00, conforme o mapa n.º 2 que faz parte do presente decreto.
+Art. 2.º São fixadas as despesas ordinárias e extraordinárias do Estado na metrópole para o ano de 1974 na quantia de 53057816444$00, sendo as ordinárias de 31126561444$00 e as extraordinárias de 21931255000$00, conforme o mapa n.º 2 que faz parte do presente decreto.
 
-###### Art. 3.º As receitas dos serviços autónomos, constantes do mapa n.º 3 que faz parte do presente decreto, são avaliadas no ano de 1974 na quantia total de 3136848140$00, e em igual importância são fixadas as despesas dos mesmos serviços.
+Art. 3.º As receitas dos serviços autónomos, constantes do mapa n.º 3 que faz parte do presente decreto, são avaliadas no ano de 1974 na quantia total de 3136848140$00, e em igual importância são fixadas as despesas dos mesmos serviços.
 
 II
 
 Disposições tributárias
 
-###### Art. 4.º Continua suspensa no ano económico de 1974, e enquanto as condições do Tesouro o permitirem, a cobrança do imposto de salvação pública, criado pelo [Decreto n.º 15466](https://diariodarepublica.pt/dr/detalhe/decreto/15466-1928-592307), de 14 de Maio de 1928, e que era arrecadado em harmonia com o disposto no [Decreto n.º 30255](https://diariodarepublica.pt/dr/detalhe/decreto/30255-1940-189315), de 6 de Janeiro de 1940.
+Art. 4.º Continua suspensa no ano económico de 1974, e enquanto as condições do Tesouro o permitirem, a cobrança do imposto de salvação pública, criado pelo [Decreto n.º 15466](https://diariodarepublica.pt/dr/detalhe/decreto/15466-1928-592307), de 14 de Maio de 1928, e que era arrecadado em harmonia com o disposto no [Decreto n.º 30255](https://diariodarepublica.pt/dr/detalhe/decreto/30255-1940-189315), de 6 de Janeiro de 1940.
 
-###### Art. 5.º As taxas do artigo 2 da Tabela Geral do Imposto do Selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, e, bem assim, o emolumento a que se refere o artigo 29.º do Regulamento do Serviço e Operações das Bolsas de Fundos Públicos e Particulares e Outros Papéis de Crédito, de 10 de Outubro de 1901, a cobrar sobre os títulos cujo valor seja modificado por virtude de aumento do capital, incidem apenas sobre a importância do aumento realizado, qualquer que seja a forma utilizada na materialização desse aumento.
+Art. 5.º As taxas do artigo 2 da Tabela Geral do Imposto do Selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, e, bem assim, o emolumento a que se refere o artigo 29.º do Regulamento do Serviço e Operações das Bolsas de Fundos Públicos e Particulares e Outros Papéis de Crédito, de 10 de Outubro de 1901, a cobrar sobre os títulos cujo valor seja modificado por virtude de aumento do capital, incidem apenas sobre a importância do aumento realizado, qualquer que seja a forma utilizada na materialização desse aumento.
 
 III
 
 Garantias do equilíbrio
 
-###### Art. 6.º - 1. Em 1974 não ficam sujeitas à regra geral de duodécimos as seguintes dotações:
+Art. 6.º - 1. Em 1974 não ficam sujeitas à regra geral de duodécimos as seguintes dotações:
 
 a) De valor até 120000$00;
 
@@ -1038,17 +1140,17 @@ c) De encargos fixos mensais ou que se vençam em data certa.
 
 4. Nos serviços com orçamentos próprios a competência designada no número anterior pertence à entidade que aprovar o respectivo orçamento, sem necessidade de intervenção da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 7.º São mantidas no ano económico de 1974 as autorizações concedidas pelo [Decreto-Lei n.º 32980](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32980-1943-399832), de 20 de Agosto de 1943, reduzindo-se a três o número de duodécimos a adiantar.
+Art. 7.º São mantidas no ano económico de 1974 as autorizações concedidas pelo [Decreto-Lei n.º 32980](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32980-1943-399832), de 20 de Agosto de 1943, reduzindo-se a três o número de duodécimos a adiantar.
 
-###### Art. 8.º - 1. De harmonia com os compromissos internacionais e para ocorrer a exigências de defesa militar, é elevada em 260000 contos a importância corrigida pelo artigo 9.º do Decreto n.º 695/72, de 30 de Dezembro.
+Art. 8.º - 1. De harmonia com os compromissos internacionais e para ocorrer a exigências de defesa militar, é elevada em 260000 contos a importância corrigida pelo artigo 9.º do Decreto n.º 695/72, de 30 de Dezembro.
 
 2. Para os referidos fins e de acordo com o artigo 25.º e seu § único da [Lei n.º 2050](https://diariodarepublica.pt/dr/detalhe/lei/2050-1951-593972), de 27 de Dezembro de 1951, a verba inscrita no orçamento para 1974 poderá ser reforçada com a importância destinada ao mesmo objectivo e não despendida durante as gerências anteriores.
 
-###### Art. 9.º Os responsáveis pelas requisições de fundos processadas pelos serviços públicos com autonomia administrativa por conta de verbas orçamentais por importâncias superiores às suas necessidades mensais, embora dentro dos respectivos duodécimos, ficam incursos, independentemente de procedimento disciplinar a que possa haver lugar, na penalidade prevista no § único do artigo 2.º do Decreto com força de lei n.º 14908, de 18 de Janeiro de 1928.
+Art. 9.º Os responsáveis pelas requisições de fundos processadas pelos serviços públicos com autonomia administrativa por conta de verbas orçamentais por importâncias superiores às suas necessidades mensais, embora dentro dos respectivos duodécimos, ficam incursos, independentemente de procedimento disciplinar a que possa haver lugar, na penalidade prevista no § único do artigo 2.º do Decreto com força de lei n.º 14908, de 18 de Janeiro de 1928.
 
-###### Art. 10.º Os fundos permanentes a constituir no ano de 1974 ficam dispensados da autorização ministerial a que se refere o artigo 24.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930, desde que o responsável pelo fundo seja o mesmo e a importância em conta de cada dotação não seja superior à que foi autorizada no ano transacto.
+Art. 10.º Os fundos permanentes a constituir no ano de 1974 ficam dispensados da autorização ministerial a que se refere o artigo 24.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930, desde que o responsável pelo fundo seja o mesmo e a importância em conta de cada dotação não seja superior à que foi autorizada no ano transacto.
 
-###### Art. 11.º Com vista ao equilíbrio das contas e ao regular provimento da tesouraria, fica ainda o Ministro das Finanças, durante o ano de 1974, autorizado a:
+Art. 11.º Com vista ao equilíbrio das contas e ao regular provimento da tesouraria, fica ainda o Ministro das Finanças, durante o ano de 1974, autorizado a:
 
 a) Reduzir ou suspender as dotações orçamentais;
 
@@ -1060,7 +1162,7 @@ IV
 
 Disposições especiais
 
-###### Art. 12.º Continua suspensa a execução dos seguintes decretos:
+Art. 12.º Continua suspensa a execução dos seguintes decretos:
 
 N.º 12600, de 1 de Novembro de 1926;
 
@@ -1070,49 +1172,49 @@ N.º 17062, de 3 de Junho de 1929;
 
 N.º 22002, de 19 de Dezembro de 1932.
 
-###### Art. 13.º É prorrogado até 31 de Dezembro de 1974 o disposto no [Decreto-Lei n.º 40049](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40049-1955-539605), de 29 de Janeiro de 1955.
+Art. 13.º É prorrogado até 31 de Dezembro de 1974 o disposto no [Decreto-Lei n.º 40049](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40049-1955-539605), de 29 de Janeiro de 1955.
 
-###### Art. 14.º - 1. As dotações orçamentais relativas à investigação só poderão ser aplicadas de harmonia com planos aprovados pelo respectivo Ministro, depois de obtido o parecer favorável da Junta Nacional de Investigação Científica e Tecnológica.
+Art. 14.º - 1. As dotações orçamentais relativas à investigação só poderão ser aplicadas de harmonia com planos aprovados pelo respectivo Ministro, depois de obtido o parecer favorável da Junta Nacional de Investigação Científica e Tecnológica.
 
 2. As respectivas alterações orçamentais carecem também do parecer favorável da Junta Nacional de Investigação Científica e Tecnológica, a obter pelos serviços, antes da remessa do processo à respectiva delegação de Contabilidade Pública.
 
-###### Art. 15.º As dotações do Orçamento Geral do Estado, dos organismos de coordenação económica e dos fundos e serviços autónomos, para execução do IV Plano de Fomento, não poderão ser aplicadas sem a sua especificação em programas devidamente aprovados e visados.
+Art. 15.º As dotações do Orçamento Geral do Estado, dos organismos de coordenação económica e dos fundos e serviços autónomos, para execução do IV Plano de Fomento, não poderão ser aplicadas sem a sua especificação em programas devidamente aprovados e visados.
 
-###### Art. 16.º Os juros do empréstimo consolidado dos Centenários de 4%, 1940, correspondentes ao 1.º e 2.º semestres de 1974 e relativos aos capitais da dívida externa, já convertidos ou a converter, que excederem a quantia de 1157707600$00 serão pagos em conta das dotações inscritas no orçamento para 1974 para pagamento da dívida externa.
+Art. 16.º Os juros do empréstimo consolidado dos Centenários de 4%, 1940, correspondentes ao 1.º e 2.º semestres de 1974 e relativos aos capitais da dívida externa, já convertidos ou a converter, que excederem a quantia de 1157707600$00 serão pagos em conta das dotações inscritas no orçamento para 1974 para pagamento da dívida externa.
 
-###### Art. 17.º No ano de 1974 poderá o Ministro das Finanças conceder à Comissão dos Explosivos, por conta da verba inscrita no artigo 531.º, capítulo 13.º, do orçamento de Encargos Gerais da Nação, créditos permanentes até à importância de dois duodécimos.
+Art. 17.º No ano de 1974 poderá o Ministro das Finanças conceder à Comissão dos Explosivos, por conta da verba inscrita no artigo 531.º, capítulo 13.º, do orçamento de Encargos Gerais da Nação, créditos permanentes até à importância de dois duodécimos.
 
-###### Art. 18.º - 1. As dotações inscritas na despesa extraordinária do orçamento de Encargos Gerais da Nação respeitantes a encargos subordinados à designação «Forças militares extraordinárias no ultramar» serão distribuídas pelo Ministro da Defesa Nacional aos departamentos das forças armadas, nos termos do n.º 3 da base XI da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), de 16 de Agosto de 1956.
+Art. 18.º - 1. As dotações inscritas na despesa extraordinária do orçamento de Encargos Gerais da Nação respeitantes a encargos subordinados à designação «Forças militares extraordinárias no ultramar» serão distribuídas pelo Ministro da Defesa Nacional aos departamentos das forças armadas, nos termos do n.º 3 da base XI da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), de 16 de Agosto de 1956.
 
 2. As respectivas despesas realizar-se-ão no regime estabelecido pelo [Decreto-Lei n.º 31286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31286-1941-329246), de 28 de Maio de 1941, e estão sujeitas, na parte aplicável, às disposições da [Portaria n.º 13816](https://diariodarepublica.pt/dr/detalhe/portaria/13816-1952-602522), de 24 de Janeiro de 1952.
 
 3. A classificação e a realização das despesas não carecem, porém, do visto do Ministro das Finanças quando, relativas a obras ou aquisições, tenham lugar segundo os preceitos normais estabelecidos pelos Decretos-Leis n.os 41375 e 48234, respectivamente de 19 de Novembro de 1957 e 31 de Janeiro de 1968.
 
-###### Art. 19.º - 1. Os funcionários do quadro da Direcção-Geral do Tribunal de Contas contratados, ao abrigo do artigo 2.º do [Decreto-Lei n.º 37185](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37185-1948-369404), de 24 de Novembro de 1948, para o desempenho de funções em categoria superior manterão os seus anteriores direitos e regalias.
+Art. 19.º - 1. Os funcionários do quadro da Direcção-Geral do Tribunal de Contas contratados, ao abrigo do artigo 2.º do [Decreto-Lei n.º 37185](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37185-1948-369404), de 24 de Novembro de 1948, para o desempenho de funções em categoria superior manterão os seus anteriores direitos e regalias.
 
 2. Na satisfação dos encargos resultantes dos contratos a que se refere este artigo poderão ser utilizadas, além da dotação especialmente inscrita para tal fim, as disponibilidades da verba orçamental destinada ao pagamento de vencimentos do pessoal do quadro.
 
-###### Art. 20.º À Fundação Ricardo Espírito Santo Silva, aproveitando os seus técnicos e as suas oficinas da especialidade, serão atribuídas, enquanto não se publicar regulamento pela Direcção-Geral da Fazenda Pública, sob a superintendência desta, as funções previstas no artigo 14.º da [Lei n.º 2067](https://diariodarepublica.pt/dr/detalhe/lei/2067-1953-649973), de 28 de Dezembro de 1953.
+Art. 20.º À Fundação Ricardo Espírito Santo Silva, aproveitando os seus técnicos e as suas oficinas da especialidade, serão atribuídas, enquanto não se publicar regulamento pela Direcção-Geral da Fazenda Pública, sob a superintendência desta, as funções previstas no artigo 14.º da [Lei n.º 2067](https://diariodarepublica.pt/dr/detalhe/lei/2067-1953-649973), de 28 de Dezembro de 1953.
 
-###### Art. 21.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.ª do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer, de conta da verba de «Despesas de anos findos», descrita no orçamento do Ministério das Finanças para o ano de 1974, os encargos respeitantes a anos findos provenientes de pensões de classes inactivas, de comissões pela venda de valores selados e de emolumentos pela cobrança do imposto sucessório e da sisa.
+Art. 21.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.ª do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer, de conta da verba de «Despesas de anos findos», descrita no orçamento do Ministério das Finanças para o ano de 1974, os encargos respeitantes a anos findos provenientes de pensões de classes inactivas, de comissões pela venda de valores selados e de emolumentos pela cobrança do imposto sucessório e da sisa.
 
-###### Art. 22.º São dispensados das formalidades legais que orientam o pagamento de despesas de anos findos os encargos a satisfazer em conta da verba inscrita na alínea 1 do n.º 1) do artigo 317.º, capítulo 20.º, do orçamento do Ministério das Finanças.
+Art. 22.º São dispensados das formalidades legais que orientam o pagamento de despesas de anos findos os encargos a satisfazer em conta da verba inscrita na alínea 1 do n.º 1) do artigo 317.º, capítulo 20.º, do orçamento do Ministério das Finanças.
 
-###### Art. 23.º No ano económico de 1974, enquanto não estiverem concluídas as construções de novos edifícios dos serviços dependentes do Ministério da Justiça, serão as despesas com a sustentação de reclusos que trabalhem nas respectivas obras custeadas pelas dotações inscritas nos artigos 230.º, n.º 2), e 232.º, n.º 2), do capítulo 4.º, do orçamento do mesmo Ministério.
+Art. 23.º No ano económico de 1974, enquanto não estiverem concluídas as construções de novos edifícios dos serviços dependentes do Ministério da Justiça, serão as despesas com a sustentação de reclusos que trabalhem nas respectivas obras custeadas pelas dotações inscritas nos artigos 230.º, n.º 2), e 232.º, n.º 2), do capítulo 4.º, do orçamento do mesmo Ministério.
 
-###### Art. 24.º As compensações previstas na parte final do § 1.º do artigo 35.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, serão abonadas por conta da dotação própria inscrita no orçamento para esse fim e pelas disponibilidades da respectiva rubrica tipificada.
+Art. 24.º As compensações previstas na parte final do § 1.º do artigo 35.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, serão abonadas por conta da dotação própria inscrita no orçamento para esse fim e pelas disponibilidades da respectiva rubrica tipificada.
 
-###### Art. 25.º - 1. É acrescido no ano de 1974 com 102073520$00 limite do subsídio ordinário legalmente estabelecido para a Junta Autónoma de Estradas.
+Art. 25.º - 1. É acrescido no ano de 1974 com 102073520$00 limite do subsídio ordinário legalmente estabelecido para a Junta Autónoma de Estradas.
 
 2. Deste quantitativo, 60000000$00 são especialmente consignados à conservação corrente das estradas nacionais.
 
-###### Art. 26.º Continua suspenso no ano económico de 1974 o subsídio que se concedia à Companhia Nacional de Navegação, nos termos do [Decreto n.º 12438](https://diariodarepublica.pt/dr/detalhe/decreto/12438-1926-159332), de 7 de Outubro de 1926.
+Art. 26.º Continua suspenso no ano económico de 1974 o subsídio que se concedia à Companhia Nacional de Navegação, nos termos do [Decreto n.º 12438](https://diariodarepublica.pt/dr/detalhe/decreto/12438-1926-159332), de 7 de Outubro de 1926.
 
-###### Art. 27.º Na utilização das verbas inscritas no capítulo 1.º do orçamento do Ministério do Ultramar, quando destinadas às despesas relacionadas com viagens do Ministro e Secretários de Estado às províncias ultramarinas, são aplicáveis as normas contidas nos artigos 3.º a 6.º do [Decreto-Lei n.º 39642](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39642-1954-635180), de 10 de Maio de 1954.
+Art. 27.º Na utilização das verbas inscritas no capítulo 1.º do orçamento do Ministério do Ultramar, quando destinadas às despesas relacionadas com viagens do Ministro e Secretários de Estado às províncias ultramarinas, são aplicáveis as normas contidas nos artigos 3.º a 6.º do [Decreto-Lei n.º 39642](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39642-1954-635180), de 10 de Maio de 1954.
 
-###### Art. 28.º A comparticipação da Faculdade de Medicina da Universidade de Lisboa nas despesas do Hospital de Santa Maria só se pode efectivar em face do plano de encargos aprovado pelos Ministros das Finanças, da Educação Nacional e da Saúde.
+Art. 28.º A comparticipação da Faculdade de Medicina da Universidade de Lisboa nas despesas do Hospital de Santa Maria só se pode efectivar em face do plano de encargos aprovado pelos Ministros das Finanças, da Educação Nacional e da Saúde.
 
-###### Art. 29.º - 1. As dotações comuns consignadas a vencimentos do pessoal dos ensinos liceal, técnico, do ciclo preparatório e magistério primário, descritas no orçamento de despesa ordinária do Ministério da Educação Nacional para o ano de 1974, serão utilizadas por cada um dos respectivos estabelecimentos de ensino de harmonia com as necessidades resultantes da satisfação de encargos com o pessoal que efectivamente estiver em exercício, sendo as correspondentes informações de cabimento prestadas:
+Art. 29.º - 1. As dotações comuns consignadas a vencimentos do pessoal dos ensinos liceal, técnico, do ciclo preparatório e magistério primário, descritas no orçamento de despesa ordinária do Ministério da Educação Nacional para o ano de 1974, serão utilizadas por cada um dos respectivos estabelecimentos de ensino de harmonia com as necessidades resultantes da satisfação de encargos com o pessoal que efectivamente estiver em exercício, sendo as correspondentes informações de cabimento prestadas:
 
 Pelos respectivos estabelecimentos, tratando-se de pessoal dos quadros aprovados por lei;
 
@@ -1122,45 +1224,45 @@ Pela Direcção-Geral da Administração Escolar, nos restantes casos.
 
 3. À Direcção-Geral da Educação Permanente compete prestar informação de cabimento nos diplomas de nomeação dos regentes de cursos de educação de adultos.
 
-###### Art. 30.º As distribuições das dotações comuns atribuídas nas respectivas separatas dos ensinos secundário, do ciclo preparatório, primário e do magistério primário serão objecto de despacho do Ministro da Educação Nacional, mediante proposta apresentada pela Direcção-Geral da Administração Escolar.
+Art. 30.º As distribuições das dotações comuns atribuídas nas respectivas separatas dos ensinos secundário, do ciclo preparatório, primário e do magistério primário serão objecto de despacho do Ministro da Educação Nacional, mediante proposta apresentada pela Direcção-Geral da Administração Escolar.
 
-###### Art. 31.º - 1. As dotações consignadas no orçamento do Ministério da Educação Nacional à «Educação e cultura» e «Investigação e desenvolvimento tecnológico» só poderão ter aplicação de harmonia com planos de distribuição previamente aprovados pelo Ministro da Educação Nacional.
+Art. 31.º - 1. As dotações consignadas no orçamento do Ministério da Educação Nacional à «Educação e cultura» e «Investigação e desenvolvimento tecnológico» só poderão ter aplicação de harmonia com planos de distribuição previamente aprovados pelo Ministro da Educação Nacional.
 
 2. Dos planos constarão as estações processadoras da despesa, devendo dos mesmos, após a sua aprovação, ser remetidas cópias autênticas ao Tribunal de Contas e à 10.ª Delegação da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 32.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer de conta da verba de «Combate à peste suma (estirpe L), incluindo indemnizações», descrita na alínea 1, n.º 1), artigo 466.º, capítulo 25.º, do orçamento do Ministério da Economia para 1974, os encargos respeitantes a anos findos provenientes de indemnizações resultantes do combate à peste suína.
+Art. 32.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer de conta da verba de «Combate à peste suma (estirpe L), incluindo indemnizações», descrita na alínea 1, n.º 1), artigo 466.º, capítulo 25.º, do orçamento do Ministério da Economia para 1974, os encargos respeitantes a anos findos provenientes de indemnizações resultantes do combate à peste suína.
 
-###### Art. 33.º No ano de 1974 poderá o Ministro das Finanças conceder à Direcção-Geral dos Serviços Pecuários, por conta da verba inscrita na alínea 2 do n.º 1) do artigo capítulo 25.º, do orçamento do Ministério da Economia, um crédito permanente até à importância de dois duodécimos.
+Art. 33.º No ano de 1974 poderá o Ministro das Finanças conceder à Direcção-Geral dos Serviços Pecuários, por conta da verba inscrita na alínea 2 do n.º 1) do artigo capítulo 25.º, do orçamento do Ministério da Economia, um crédito permanente até à importância de dois duodécimos.
 
-###### Art. 34.º - 1. As dotações destinadas a suportar encargos da mesma natureza comuns aos tribunais do trabalho no orçamento da despesa ordinária do Ministério das Corporações e Segurança Social, no ano de 1974, com excepção das relativas a vencimentos, serão distribuídas mediante plano aprovado pelos Ministros das Finanças e das Corporações e Segurança Social e aplicadas por cada um dos aludidos tribunais, sem observância do disposto no § 2.º do artigo 13.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
+Art. 34.º - 1. As dotações destinadas a suportar encargos da mesma natureza comuns aos tribunais do trabalho no orçamento da despesa ordinária do Ministério das Corporações e Segurança Social, no ano de 1974, com excepção das relativas a vencimentos, serão distribuídas mediante plano aprovado pelos Ministros das Finanças e das Corporações e Segurança Social e aplicadas por cada um dos aludidos tribunais, sem observância do disposto no § 2.º do artigo 13.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
 
 2. A informação de cabimento nos diplomas de provimento de magistrados e funcionários de justiça dos mencionados tribunais será prestada pela Inspecção-Geral dos Tribunais do Trabalho.
 
-###### Art. 35.º Este decreto entra em vigor em 1 de Janeiro de 1974.
+Art. 35.º Este decreto entra em vigor em 1 de Janeiro de 1974.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 29 de Dezembro de 1973.**
+Promulgado em 29 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 N.º 1
 
 Mapa da receita ordinária e extraordinária do Estado, na metrópole, para o ano económico de 1974, a que se refere o decreto desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.
 
 N.º 2
 
 Mapa da despesa ordinária e extraordinária do Estado, na metrópole, para o ano económico de 1974, a que se refere o decreto desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf))](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30101/00010085.pdf)
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.
 
 N.º 3
 
@@ -1198,4 +1300,4 @@ Despesa de administração e assistência ... 2348800140$00
 
 ... 3136848140$00
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

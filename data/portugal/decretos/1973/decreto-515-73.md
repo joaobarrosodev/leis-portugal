@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/515-1973-413209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f693d1b81cd2b1408a655ca97075829c9b7f4dafa3d58bc58da4e3e788753229
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2beaa5d49713b1c39e320c2103f0e3de91e0f713656f30636a64d57b49b5bb57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Náutico
+- Escola Náutica Infante Dom Henrique
+- Plano de Estudos
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:312408:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:200261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:312408:por
+  label: "Revogado pelo DEC LEI.600/75.29.10.1975.MTC, DG.IS [251] de 29.10.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/600-1975-312408
+  date: '1975-10-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:11Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +116,9 @@ Nestes termos, tendo em conta o disposto no n.º 3 do artigo 24.º do [Decreto-L
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 65.º, 66.º, 67.º e 68.º, o n.º 1 do artigo 80.º, o n.º 3 do artigo 90.º e o artigo 92.º do Regulamento da Escola Náutica «Infante D. Henrique», aprovado e posto em execução pelo [Decreto n.º 348/72](https://diariodarepublica.pt/dr/detalhe/decreto/348-1972-688606), de 5 de Setembro, tomam a seguinte redacção:
+Artigo 1.º Os artigos 65.º, 66.º, 67.º e 68.º, o n.º 1 do artigo 80.º, o n.º 3 do artigo 90.º e o artigo 92.º do Regulamento da Escola Náutica «Infante D. Henrique», aprovado e posto em execução pelo [Decreto n.º 348/72](https://diariodarepublica.pt/dr/detalhe/decreto/348-1972-688606), de 5 de Setembro, tomam a seguinte redacção:
 
-###### Art. 65.º - 1. Perde o ano em qualquer disciplina ou instrução o aluno que:
+Art. 65.º - 1. Perde o ano em qualquer disciplina ou instrução o aluno que:
 
 a) Tiver média de frequência inferior a 10 valores;
 
@@ -109,21 +126,21 @@ b) Tiver dado durante o ano lectivo um número de faltas igual ou superior a um 
 
 2. O director, ouvido o conselho escolar, poderá relevar as faltas que excedam o limite fixado na alínea b) do n.º 1 deste artigo quando se reconheça que o aluno faltou por motivo de doença grave e tem bom aproveitamento.
 
-###### Art. 66.º - 1. Nas disciplinas e nas instruções que não sejam anexas a disciplinas há exames finais a que são admitidos os alunos voluntários e os alunos ordinários que nelas tenham obtido média de frequência inferior a 12 valores, mas igual ou superior a 10 valores.
+Art. 66.º - 1. Nas disciplinas e nas instruções que não sejam anexas a disciplinas há exames finais a que são admitidos os alunos voluntários e os alunos ordinários que nelas tenham obtido média de frequência inferior a 12 valores, mas igual ou superior a 10 valores.
 
 2. A dispensa de exame só se aplicará aos alunos cuja média seja 12 ou mais, sem o benefício da aproximação do n.º 2 do artigo 64.º, e que não tenham tido durante o ano qualquer nota inferior a 8 valores na disciplina ou instrução.
 
-###### Art. 67.º Quando anexa a qualquer disciplina haja a instrução prática correspondente, considera-se o conjunto como uma disciplina única, podendo ser admitido a exame final o aluno que, tendo média de frequência de 10 valores na disciplina, tenha, pelo menos, 8 valores na instrução.
+Art. 67.º Quando anexa a qualquer disciplina haja a instrução prática correspondente, considera-se o conjunto como uma disciplina única, podendo ser admitido a exame final o aluno que, tendo média de frequência de 10 valores na disciplina, tenha, pelo menos, 8 valores na instrução.
 
-###### Art. 68.º Os alunos dispensados de exame final de uma disciplina ou instrução têm o direito de efectuar esse exame, desde que assim o declarem por escrito, com vista a melhoria de classificação, mas a classificação final da disciplina ou instrução será calculada de acordo com o disposto no n.º 1 do artigo 80.º
+Art. 68.º Os alunos dispensados de exame final de uma disciplina ou instrução têm o direito de efectuar esse exame, desde que assim o declarem por escrito, com vista a melhoria de classificação, mas a classificação final da disciplina ou instrução será calculada de acordo com o disposto no n.º 1 do artigo 80.º
 
 ...
 
-###### Art. 80.º - 1. A classificação final de uma disciplina ou instrução é a média aritmética da média de frequência dessa disciplina ou instrução e da classificação do respectivo exame final, salvo se o aluno houver sido dispensado deste, caso em que será igual à média de frequência.
+Art. 80.º - 1. A classificação final de uma disciplina ou instrução é a média aritmética da média de frequência dessa disciplina ou instrução e da classificação do respectivo exame final, salvo se o aluno houver sido dispensado deste, caso em que será igual à média de frequência.
 
 2. ...
 
-###### Art. 90.º - 1. ...
+Art. 90.º - 1. ...
 
 2. ...
 
@@ -131,31 +148,31 @@ b) Tiver dado durante o ano lectivo um número de faltas igual ou superior a um 
 
 ...
 
-###### Art. 92.º Haverá na Escola Náutica uma comissão de disciplina constituída por três professores anualmente nomeados pelo director, ouvido o conselho escolar, à qual incumbirá, quando lhe for determinado pelo director, proceder ao levantamento dos processos disciplinares e, através das conclusões, propor a decisão a tomar.
+Art. 92.º Haverá na Escola Náutica uma comissão de disciplina constituída por três professores anualmente nomeados pelo director, ouvido o conselho escolar, à qual incumbirá, quando lhe for determinado pelo director, proceder ao levantamento dos processos disciplinares e, através das conclusões, propor a decisão a tomar.
 
-###### Art. 2.º É acrescentado ao mesmo Regulamento um artigo 97.º com a seguinte redacção:
+Art. 2.º É acrescentado ao mesmo Regulamento um artigo 97.º com a seguinte redacção:
 
-###### Art. 97.º Podem ser alteradas por portaria do Ministro da Marinha as disposições que se contêm nos anexos B a P e R deste Regulamento.
+Art. 97.º Podem ser alteradas por portaria do Ministro da Marinha as disposições que se contêm nos anexos B a P e R deste Regulamento.
 
-###### Art. 3.º Os anexos D, E e G a N e os n.os 3 e 5 do anexo Q do citado Regulamento são substituídos pelos que são anexos a este diploma.
+Art. 3.º Os anexos D, E e G a N e os n.os 3 e 5 do anexo Q do citado Regulamento são substituídos pelos que são anexos a este diploma.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 22 de Setembro de 1973.**
+Promulgado em 22 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ## ANEXO D — Disciplinas e instruções do curso preparatório e dos cursos de oficiais
 
 I - Disciplinas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 II - Instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 NOTA
 
@@ -163,7 +180,7 @@ O director da Escola, ouvido o conselho escolar, determinará quais as disciplin
 
 ## ANEXO E — Disciplinas de que dependem as diversas instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 ## ANEXO G — Plano do curso preparatório
 
@@ -173,11 +190,11 @@ Dar aos alunos os conhecimentos básicos para o ingresso nos cursos gerais de of
 
 a) 1.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 b) 2.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 NOTA
 
@@ -191,11 +208,11 @@ Efectuar a formação dos alunos como marinheiros e técnicos marítimos, a fim 
 
 a) 1.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 b) 2.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 ## ANEXO I — Plano do curso complementar de pilotagem
 
@@ -203,7 +220,7 @@ Objectivo
 
 Preparar os oficiais de pilotagem para o desempenho das funções de capitão dos navios da marinha mercante.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 ## ANEXO J — Plano do curso geral de máquinas marítimas
 
@@ -213,11 +230,11 @@ Efectuar a formação dos alunos como marinheiros e técnicos marítimos, a fim 
 
 a) 1.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 b) 2.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 ## ANEXO L — Plano do curso complementar de máquinas marítimas
 
@@ -227,7 +244,7 @@ Preparar os oficiais maquinistas para o desempenho das funções de chefes de se
 
 Ano lectivo único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 ## ANEXO M — Plano do curso geral de radiotecnia
 
@@ -237,11 +254,11 @@ Efectuar a formação dos alunos como marinheiros e técnicos marítimos, a fim 
 
 a) 1.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 b) 2.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 ## ANEXO N — Plano do curso complementar de radiotecnia
 
@@ -251,7 +268,7 @@ Preparar os oficiais radiotelegrafistas para o desempenho das funções de chefe
 
 Ano lectivo único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
 
 ## ANEXO Q — I - Condições de admissão
 
@@ -331,4 +348,4 @@ d) Candidatos que se destinem à frequência do curso geral de comissariado:
 
 ...
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

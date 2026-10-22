@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 26/1974, 1º Suplemento, Série I de 1974-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 178-(2) a 178-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/01/02601/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1974-173160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 107b605a99a2c89f01d216bacd17be26da3867e5c44db81b191dc44c35782af1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f8e38d91acf137d367b52fc6b0f5d62082032f24e958551821b1d65c119843c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:222264:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistiadas as contravenções previstas no presente diploma, pelo DEC LEI.720/74.18.12.1974.MESA, DG.IS [294] de\
+    \ 18.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: amended_by
+  target: pt:dre:427838:por
+  label: Alterados os arts. 12.º, 14.º, 16.º, 24.º e 28.º pelo(a) Decreto n.º 346/76 - Diário da República n.º 111/1976, Série
+    I de 1976-05-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/346-1976-427838
+  date: '1976-05-12'
+- type: cites
+  target: pt:dre:236752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585249:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O ART 29 PELO DEC 64/79 DE 05-JUL DR.IS [153].\0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-07-05'
+- type: repealed_by
+  target: pt:dre:222264:por
+  label: "Revogado nos termos do art. 35.º o presente diploma, pelo DEC LEI.354/86.23.10.1986.MOPTC, DR.IS [245] de 23.10.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/354-1986-222264
+  date: '1986-10-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:35Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +159,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O exercício da indústria de aluguer de veículos automóveis sem condutor depende de autorização a conceder pela Direcção-Geral de Transportes Terrestres, ouvida a Corporação dos Transportes e Turismo, e será titulado por alvará, de que constem os elementos de identificação do objecto do direito concedido.
+Artigo 1.º O exercício da indústria de aluguer de veículos automóveis sem condutor depende de autorização a conceder pela Direcção-Geral de Transportes Terrestres, ouvida a Corporação dos Transportes e Turismo, e será titulado por alvará, de que constem os elementos de identificação do objecto do direito concedido.
 
-###### Art. 2.º - 1. A indústria de aluguer de veículos automóveis sem condutor poderá ter por objecto a exploração de:
+Art. 2.º - 1. A indústria de aluguer de veículos automóveis sem condutor poderá ter por objecto a exploração de:
 
 a) Veículos ligeiros de passageiros;
 
@@ -140,13 +177,13 @@ c) Veículos ligeiros de características especiais, aprovadas, para o efeito, p
 
 5. Por portaria do Ministro das Comunicações, o número mínimo de veículos que constituem objecto da indústria poderá, em casos excepcionais, ouvida a Direcção-Geral do Turismo, ser fixado a nível inferior ao previsto nos números anteriores, tendo presentes as exigências do desenvolvimento turístico regional.
 
-###### Art. 3.º - 1. O alvará só será concedido a empresas colectivas com sede em território nacional que nele se proponham explorar o número mínimo de veículos fixados nos termos do artigo anterior.
+Art. 3.º - 1. O alvará só será concedido a empresas colectivas com sede em território nacional que nele se proponham explorar o número mínimo de veículos fixados nos termos do artigo anterior.
 
 2. As empresas devem constituir-se sob a forma de sociedades comerciais regulares, possuir organização administrativa e comercial adequada à sua dimensão e dispor de capital social não inferior a 1500 contos.
 
 3. A administração, direcção ou gerência social, não poderá ser exercida por quem não possua idoneidade moral e comercial devidamente comprovada, nos termos previstos na alínea d) do n.º 2 do artigo seguinte.
 
-###### Art. 4.º - 1. Dos requerimentos para a autorização do exercício da indústria deverá constar:
+Art. 4.º - 1. Dos requerimentos para a autorização do exercício da indústria deverá constar:
 
 a) A denominação e a sede social ou, tratando-se de sociedade a constituir, a identificação dos que actuam em seu nome, propondo-se constituí-la, bem como a indicação do lugar onde terá sede;
 
@@ -170,7 +207,7 @@ III) Condenação com trânsito em julgado, não suspensa, por crime doloso cont
 
 3. O despacho de autorização exarado em requerimento formulado em nome da sociedade a constituir só produzirá efeitos a partir da data da respectiva escritura de constituição, quando celebrada no prazo máximo de três meses a contar da notificação do despacho e desde que se mostrem provados os requisitos de acesso à indústria fixados no artigo anterior.
 
-###### Art. 5.º - 1. As empresas titulares de alvará poderão ser autorizadas a abrir agências ou filiais mediante despacho do director-geral de Transportes Terrestres, ouvida a Direcção-Geral do Turismo.
+Art. 5.º - 1. As empresas titulares de alvará poderão ser autorizadas a abrir agências ou filiais mediante despacho do director-geral de Transportes Terrestres, ouvida a Direcção-Geral do Turismo.
 
 2. O pedido de abertura de agências e filiais deverá fundamentar-se na comprovação:
 
@@ -180,15 +217,15 @@ b) Do seu enquadramento no processo natural de expansão da actividade da empres
 
 3. A autorização para a abertura de agência ou filial será averbada no alvará de que a empresa é titular.
 
-###### Art. 6.º - 1. As sedes, agências ou filiais das empresas que exploram a indústria de aluguer de veículos automóveis sem condutor terão sempre instalações independentes, nas quais exercerão, exclusivamente, as actividades que lhes são próprias.
+Art. 6.º - 1. As sedes, agências ou filiais das empresas que exploram a indústria de aluguer de veículos automóveis sem condutor terão sempre instalações independentes, nas quais exercerão, exclusivamente, as actividades que lhes são próprias.
 
 2. As instalações referidas no número anterior deverão obedecer aos requisitos mínimos fixados pela Direcção-Geral do Turismo, não podendo ser abertas ao público sem prévia aprovação em vistoria por essa Direcção-Geral.
 
 3. A Direcção-Geral de Transportes Terrestres organizará o cadastro dos diversos tipos de instalações sociais relativamente a cada empresa, com base nos elementos necessários à sua caracterização dimensional, fornecidos pela Direcção-Geral do Turismo após a vistoria referida no número antecedente.
 
-###### Art. 7.º O alvará é intransmissível, excepto quando a transmissão abranja a universalidade dos bens afectos à exploração.
+Art. 7.º O alvará é intransmissível, excepto quando a transmissão abranja a universalidade dos bens afectos à exploração.
 
-###### Art. 8.º - 1. Os alvarás serão cassados:
+Art. 8.º - 1. Os alvarás serão cassados:
 
 a) Se o titular não iniciar a exploração da indústria no prazo de seis meses a contar da data da notificação do despacho que a autorizou;
 
@@ -198,7 +235,7 @@ c) Por infracções repetidas e graves, susceptíveis de comprometerem os intere
 
 2. Para efeitos de cassação do alvará, ao abrigo do disposto na alínea b) do número anterior, a inexistência do número mínimo de veículos fixado nos termos do artigo 2.º terá de verificar-se por período superior a noventa dias.
 
-###### Art. 9.º - 1. Só poderão ser utilizados na exploração da indústria os veículos automóveis licenciados para o efeito pela Direcção-Geral de Transportes Terrestres.
+Art. 9.º - 1. Só poderão ser utilizados na exploração da indústria os veículos automóveis licenciados para o efeito pela Direcção-Geral de Transportes Terrestres.
 
 2. As empresas titulares de alvará têm direito ao licenciamento do número de veículos que julguem necessário ao exercício da sua actividade, sem prejuízo do disposto no n.º 1 do artigo 14.º
 
@@ -208,7 +245,7 @@ c) Por infracções repetidas e graves, susceptíveis de comprometerem os intere
 
 5. A apólice do seguro referido no número anterior deverá conformar-se com o disposto na última parte do n.º 2 do artigo 57.º do Código da Estrada.
 
-###### Art. 10.º - 1. Os requerimentos para a concessão de licenças serão entregues nas direcções de transportes em cuja área se localize a sede da sociedade requerente e deles constará sempre:
+Art. 10.º - 1. Os requerimentos para a concessão de licenças serão entregues nas direcções de transportes em cuja área se localize a sede da sociedade requerente e deles constará sempre:
 
 a) A denominação e sede social;
 
@@ -220,7 +257,7 @@ d) A instalação social a que o veículo ficará predominantemente afecto.
 
 2. Os requerimentos serão acompanhados do certificado da inspecção a que se refere o artigo seguinte.
 
-###### Art. 11.º - 1. Os veículos automóveis de aluguer sem condutor serão obrigatoriamente sujeitos a inspecção, destinada a verificar as suas condições de comodidade e de segurança:
+Art. 11.º - 1. Os veículos automóveis de aluguer sem condutor serão obrigatoriamente sujeitos a inspecção, destinada a verificar as suas condições de comodidade e de segurança:
 
 a) Quando do seu licenciamento, salvo tratando-se de veículos novos;
 
@@ -230,17 +267,17 @@ c) De dois em dois anos, a contar da primeira inspecção ou da data do licencia
 
 2. A Direcção-Geral de Transportes Terrestres poderá ordenar a inspecção dos veículos sempre que o entender conveniente.
 
-###### Art. 12.º - 1. Não poderão ser utilizados no serviço de aluguer sem condutor veículos automóveis com mais de quatro anos, contados a partir da data da respectiva matrícula.
+Art. 12.º - 1. Não poderão ser utilizados no serviço de aluguer sem condutor veículos automóveis com mais de quatro anos, contados a partir da data da respectiva matrícula.
 
 2. O limite estabelecido no número anterior poderá ser elevado, mediante autorização da Direcção-Geral de Transportes Terrestres, relativamente a veículos de elevado custo e potência.
 
-###### Art. 13.º O Ministro das Comunicações, caso isso se venha a revelar indispensável à fiscalização adequada da indústria, pode determinar que os veículos automóveis de aluguer sem condutor sejam assinalados por forma a permitir a sua fácil identificação exterior.
+Art. 13.º O Ministro das Comunicações, caso isso se venha a revelar indispensável à fiscalização adequada da indústria, pode determinar que os veículos automóveis de aluguer sem condutor sejam assinalados por forma a permitir a sua fácil identificação exterior.
 
-###### Art. 14.º - 1. O direito ao licenciamento, a que se refere o n.º 2 do artigo 9.º, poderá ser suspenso ou limitado temporariamente por despacho do director-geral de Transportes Terrestres, ouvida a Corporação dos Transportes e Turismo, com vista ao ajustamento da oferta de serviços de aluguer sem condutor às necessidades específicas da procura que a ela se dirija, de harmonia com o são funcionamento do mercado de transportes local e regional.
+Art. 14.º - 1. O direito ao licenciamento, a que se refere o n.º 2 do artigo 9.º, poderá ser suspenso ou limitado temporariamente por despacho do director-geral de Transportes Terrestres, ouvida a Corporação dos Transportes e Turismo, com vista ao ajustamento da oferta de serviços de aluguer sem condutor às necessidades específicas da procura que a ela se dirija, de harmonia com o são funcionamento do mercado de transportes local e regional.
 
 2. Serão sempre concedidas, no entanto, as licenças destinadas a substituir as que forem canceladas por virtude de reprovação em inspecção, transferência de propriedade ou cancelamento da matrícula dos respectivos veículos, desde que requeridas dentro do prazo de nove meses a contar da data do cancelamento.
 
-###### Art. 15.º - 1. As licenças serão canceladas:
+Art. 15.º - 1. As licenças serão canceladas:
 
 a) Sendo cassado o alvará;
 
@@ -266,7 +303,7 @@ d) Estejam, aquando da apreensão, afectos à instalação social encerrada nos 
 
 e) Tenham sido apreendidos.
 
-###### Art. 16.º - 1. Os contratos de aluguer dos veículos automóveis sem condutor serão celebrados na sede social ou nas suas agências ou filiais, sem prejuízo do disposto nos números seguintes.
+Art. 16.º - 1. Os contratos de aluguer dos veículos automóveis sem condutor serão celebrados na sede social ou nas suas agências ou filiais, sem prejuízo do disposto nos números seguintes.
 
 2. As agências de viagens e os serviços pertencentes a entidades públicas ou privadas especialmente destinados à recepção e assistência de turistas poderão intervir na celebração dos contratos.
 
@@ -276,13 +313,13 @@ e) Tenham sido apreendidos.
 
 5. Mediante reserva prévia, devidamente comprovada, as empresas referidas no número anterior poderão igualmente contratar nos locais onde o aluguer se inicie, ainda que neles não disponham de instalações fixas para tal fim.
 
-###### Art. 17.º - 1. O contrato de aluguer de veículos automóveis sem condutor será obrigatoriamente numerado e reduzido a escrito, em triplicado, devendo o original ser arquivado pela empresa exploradora pelo período mínimo de dois anos a partir do seu termo.
+Art. 17.º - 1. O contrato de aluguer de veículos automóveis sem condutor será obrigatoriamente numerado e reduzido a escrito, em triplicado, devendo o original ser arquivado pela empresa exploradora pelo período mínimo de dois anos a partir do seu termo.
 
 2. Do contrato deverão constar as suas condições gerais, nomeadamente as respeitantes ao preço e outras importâncias recebidas pelo locador a título de caução, à prestação de serviços complementares convencionados e à data e lugar do início do aluguer e da entrega do veículo no seu termo.
 
 3. Poderá vir a fixar-se por despacho do director-geral de Transportes Terrestres o modelo do contrato tipo a adoptar obrigatoriamente pelas empresas exploradoras, se isso se tornar indispensável para efeitos da fiscalização adequada da indústria, sendo, nesse caso, os respectivos impressos fornecidos, devidamente numerados e autenticados, pelos serviços competentes.
 
-###### Art. 18.º - 1. O preço devido pelo aluguer de veículos automóveis sem condutor resultará da aplicação cumulativa dos seguintes elementos:
+Art. 18.º - 1. O preço devido pelo aluguer de veículos automóveis sem condutor resultará da aplicação cumulativa dos seguintes elementos:
 
 a) Tarifa de aluguer, por cada dia ou fracção;
 
@@ -300,7 +337,7 @@ c) Remuneração correspondente à prestação de serviços complementares conve
 
 6. Nos casos em que as condições de celebração dos contratos, atentas as suas particularidades, não permitam a aplicação do sistema tarifário previsto no n.º 1, poderão, sob proposta das empresas exploradoras, ser aprovadas tarifas especiais adequadas aos novos esquemas de contratação.
 
-###### Art. 19.º Os veículos automóveis de matrícula estrangeira adstritos ao aluguer sem condutor, terminado o contrato ao abrigo do qual foram importados temporariamente, poderão ser realugados, desde que:
+Art. 19.º Os veículos automóveis de matrícula estrangeira adstritos ao aluguer sem condutor, terminado o contrato ao abrigo do qual foram importados temporariamente, poderão ser realugados, desde que:
 
 a) O realuguer seja feito por intermédio de uma empresa autorizada a explorar a indústria que represente em Portugal a empresa proprietária do veículo;
 
@@ -308,7 +345,7 @@ b) O realugador possa beneficiar do regime de importação temporária e se diri
 
 c) Os veículos pertencentes a empresas portuguesas beneficiem de idêntico tratamento no país de matrícula do veículo realugado.
 
-###### Art. 20.º - 1. As empresas exploradoras deverão efectuar em cada ano civil, para efeitos de fiscalização e de contrôle da indústria, um registo de todos os contratos de aluguer de veículos automóveis sem condutor, segundo a ordem da sua celebração.
+Art. 20.º - 1. As empresas exploradoras deverão efectuar em cada ano civil, para efeitos de fiscalização e de contrôle da indústria, um registo de todos os contratos de aluguer de veículos automóveis sem condutor, segundo a ordem da sua celebração.
 
 2. Os contratos que tenham por objecto o aluguer de veículos automóveis sem condutor de matrícula estrangeira estão igualmente sujeitos a registo em livro especial.
 
@@ -316,17 +353,17 @@ c) Os veículos pertencentes a empresas portuguesas beneficiem de idêntico trat
 
 4. A falsificação dos contratos ou de algum dos seus elementos será punida com a suspensão da actividade da empresa por seis meses.
 
-###### Art. 21.º - 1. Poderá ser celebrado um contrato adicional ao do aluguer do veículo automóvel sem condutor, tendo por objecto exclusivo a sua condução.
+Art. 21.º - 1. Poderá ser celebrado um contrato adicional ao do aluguer do veículo automóvel sem condutor, tendo por objecto exclusivo a sua condução.
 
 2. O serviço de condução apenas poderá ser prestado por motoristas profissionais com formação turística, bem como em veículos de categoria correspondente aos escalões tarifários superiores, nas condições fixadas por portaria conjunta do Ministro das Comunicações e do Secretário de Estado da Informação e Turismo, para o efeito.
 
 3. O disposto nos números anteriores é aplicável tanto a motoristas que sejam empregados da empresa como a indivíduos a ela estranhos contratados por seu intermédio, entendendo-se, em qualquer dos casos, que os respectivos serviços são prestados pela própria empresa.
 
-###### Art. 22.º Fica expressamente proibida a sublocação dos veículos automóveis alugados nos termos deste decreto.
+Art. 22.º Fica expressamente proibida a sublocação dos veículos automóveis alugados nos termos deste decreto.
 
-###### Art. 23.º Os veículos automóveis de aluguer sem condutor não poderão estacionar na via pública quando não alugados, salvo em lugares especialmente fixados para este efeito, designadamente os situados junto de terminais de transporte.
+Art. 23.º Os veículos automóveis de aluguer sem condutor não poderão estacionar na via pública quando não alugados, salvo em lugares especialmente fixados para este efeito, designadamente os situados junto de terminais de transporte.
 
-###### Art. 24.º - 1. Além da documentação relativa ao veículo, serão obrigatoriamente entregues ao locatário, a fim de por ele serem presentes às autoridades, quando assim lhe for exigido, o cartão de seguro, bem como duas cópias do contrato de aluguer do veículo automóvel sem condutor, com o adicional previsto no artigo 21.º, se for caso disso.
+Art. 24.º - 1. Além da documentação relativa ao veículo, serão obrigatoriamente entregues ao locatário, a fim de por ele serem presentes às autoridades, quando assim lhe for exigido, o cartão de seguro, bem como duas cópias do contrato de aluguer do veículo automóvel sem condutor, com o adicional previsto no artigo 21.º, se for caso disso.
 
 2. Uma das cópias do contrato apresentado à autoridade será por esta remetida à Direcção-Geral de Transportes Terrestres para contrôle e fiscalização posterior.
 
@@ -334,7 +371,7 @@ c) Os veículos pertencentes a empresas portuguesas beneficiem de idêntico trat
 
 4. A perda pelo locatário dos originais ou fotocópias da documentação referida no número anterior dará lugar ao pagamento da importância no montante de 500$00, destinada a ressarcir o prejuízo da empresa exploradora, salvo se no contrato for fixada para tal fim importância mais onerosa.
 
-###### Art. 25.º - 1. O funcionamento das instalações sem observância dos requisitos mínimos fixados nos termos do n.º 2 do artigo 6.º será punido com o seu encerramento até seis meses e a pena de multa prevista na alínea a) do n.º 1 do artigo seguinte.
+Art. 25.º - 1. O funcionamento das instalações sem observância dos requisitos mínimos fixados nos termos do n.º 2 do artigo 6.º será punido com o seu encerramento até seis meses e a pena de multa prevista na alínea a) do n.º 1 do artigo seguinte.
 
 2. A inobservância, ou a tentativa de inobservância, dos limites tarifários ou das tarifas especiais fixados nos termos dos n.os 4 e 6 do artigo 18.º, será punida com a suspensão da actividade até um ano e a pena de multa prevista na alínea b) do n.º 1 do artigo seguinte.
 
@@ -344,7 +381,7 @@ c) Os veículos pertencentes a empresas portuguesas beneficiem de idêntico trat
 
 5. A Direcção-Geral de Transportes Terrestres organizará o registo das sanções aplicadas nos termos do presente artigo, bem como do seguinte.
 
-###### Art. 26.º Serão punidos:
+Art. 26.º Serão punidos:
 
 1. Com a multa de 10000$00:
 
@@ -374,28 +411,28 @@ b) Qualquer infracção não expressamente prevista.
 
 6. As infracções ao disposto no presente decreto presumem-se da responsabilidade do locador, com excepção da prevista na alínea d) do n.º 1.
 
-###### Art. 27.º - 1. A fiscalização do cumprimento das disposições deste decreto incumbe à Direcção-Geral de Transportes Terrestres, à Direcção-Geral de Viação, à Guarda Nacional Republicana, à Polícia de Segurança Pública e a outras autoridades com atribuições em matéria de transportes terrestres, bem como, no âmbito da sua competência, ao Grémio dos Industriais de Transportes em Automóveis.
+Art. 27.º - 1. A fiscalização do cumprimento das disposições deste decreto incumbe à Direcção-Geral de Transportes Terrestres, à Direcção-Geral de Viação, à Guarda Nacional Republicana, à Polícia de Segurança Pública e a outras autoridades com atribuições em matéria de transportes terrestres, bem como, no âmbito da sua competência, ao Grémio dos Industriais de Transportes em Automóveis.
 
 2. A fiscalização das instalações afectas à exploração da indústria de aluguer de veículos automóveis sem condutor incumbe à Direcção-Geral de Transportes Terrestres e à Direcção-Geral do Turismo, competindo a esta última organizar os processos relativos às infracções verificadas e aplicar as respectivas sanções.
 
 3. Para efeitos do disposto na alínea d) do n.º 2 do artigo 15.º e do n.º 5 do artigo 25.º, a Direcção-Geral do Turismo dará conhecimento à Direcção-Geral de Transportes Terrestres das sanções aplicadas.
 
-###### Art. 28.º - 1. As empresas singulares ou colectivas legalmente existentes à data da publicação deste decreto deverão requerer a concessão de alvará, no prazo de um ano a contar da sua entrada em vigor, ficando dispensadas, para o efeito, das novas exigências que condicionam o acesso à indústria em conformidade com o disposto no artigo 3.º
+Art. 28.º - 1. As empresas singulares ou colectivas legalmente existentes à data da publicação deste decreto deverão requerer a concessão de alvará, no prazo de um ano a contar da sua entrada em vigor, ficando dispensadas, para o efeito, das novas exigências que condicionam o acesso à indústria em conformidade com o disposto no artigo 3.º
 
 2. As empresas referidas no número anterior não poderão, no entanto, beneficiar da concessão de novas licenças, sem prejuízo do disposto no n.º 2 do artigo 14.º, enquanto não fizerem prova de que satisfazem às condições de acesso à indústria fixadas no presente decreto.
 
 3. As instalações já existentes, que não obedeçam aos requisitos mínimos fixados nos termos do n.º 2 do artigo 6.º, deverão, sob pena de encerramento, sofrer as necessárias beneficiações no prazo de seis meses a contar da data da fixação dos referidos requisitos.
 
-###### Art. 29.º As empresas referidas no artigo anterior deverão, no prazo máximo de cinco anos a contar da entrada em vigor do presente decreto, obedecer às condições nele fixadas para o exercício da actividade, sob pena de cassação do alvará.
+Art. 29.º As empresas referidas no artigo anterior deverão, no prazo máximo de cinco anos a contar da entrada em vigor do presente decreto, obedecer às condições nele fixadas para o exercício da actividade, sob pena de cassação do alvará.
 
-###### Art. 30.º As dúvidas que se suscitarem na aplicação deste decreto serão resolvidas por despacho do Ministro das Comunicações.
+Art. 30.º As dúvidas que se suscitarem na aplicação deste decreto serão resolvidas por despacho do Ministro das Comunicações.
 
-###### Art. 31.º Ficam revogados o [Decreto n.º 41806](https://diariodarepublica.pt/dr/detalhe/decreto/41806-1958-351953), de 8 de Agosto de 1958, o [Decreto n.º 46323](https://diariodarepublica.pt/dr/detalhe/decreto/46323-1965-236752), de 3 de Maio de 1965, e a [Portaria n.º 17136](https://diariodarepublica.pt/dr/detalhe/portaria/17136-1959-585249), de 24 de Abril de 1959.
+Art. 31.º Ficam revogados o [Decreto n.º 41806](https://diariodarepublica.pt/dr/detalhe/decreto/41806-1958-351953), de 8 de Agosto de 1958, o [Decreto n.º 46323](https://diariodarepublica.pt/dr/detalhe/decreto/46323-1965-236752), de 3 de Maio de 1965, e a [Portaria n.º 17136](https://diariodarepublica.pt/dr/detalhe/portaria/17136-1959-585249), de 24 de Abril de 1959.
 
 Marcello Caetano - Pedro Mourão de Mendonça Corte Real da Silva Pinto - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 29 de Janeiro de 1974.**
+Promulgado em 29 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

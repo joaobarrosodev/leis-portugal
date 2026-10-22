@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/02200/0055000562.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/2017/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-2017-106370364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bff45c848c239897edc54f6bb0f94bd588ec889ef9771384894a53b352a5db1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ae88031beee8858062626891a3367a52b2a7dc4fd9eaf94c91581bd04caf4a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Nova Delhi
-- Segurança Social
 - Índia
-relationships: []
+- Nova Delhi
+- Portugal
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:120310674:por
+  label: Tornado Público o Acordo Administrativo relativo à aplicação da Convenção sobre Segurança Social entre a República
+    Portuguesa e a República da Índia, aprovada pelo presente Decreto, pelo(a) Aviso n.º 9/2019 - Diário da República n.º
+    42/2019, Série I de 2019-02-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9-2019-120310674
+  date: '2019-02-28'
 article_structure:
   article_count: 23
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:31Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +111,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 5 de janeiro de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - José António Fonseca Vieira da Silva.
 
-**Assinado em 13 de janeiro de 2017.**
+Assinado em 13 de janeiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de janeiro de 2017.**
+Referendado em 18 de janeiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 CONVENÇÃO SOBRE SEGURANÇA SOCIAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA ÍNDIA
 
@@ -380,7 +387,7 @@ Pela República Portuguesa, Paulo Sacadura Cabral Portas, Ministro de Estado e d
 
 Pela República da Índia, Vayalar Ravi, Ministro dos Assuntos Ultramarinos Indiano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/01/02200/0055000562.pdf))](https://files.diariodarepublica.pt/1s/2017/01/02200/0055000562.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/01/02200/0055000562.pdf)
 
 AGREEMENT ON SOCIAL SECURITY BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF INDIA
 

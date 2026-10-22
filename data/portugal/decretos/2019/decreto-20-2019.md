@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/14400/0003300044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/20/2019/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-2019-123578708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3162b264e77df768d37ffa2c42e1851016346a51815a7f2ed03feb03bd752830
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ecdd58d67eff9e8364a7897527672813ecdf22a75a433be67fa11c4650936e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
+- Genebra
 - Portugal
 - Transporte de Mercadorias
-- Genebra
 - Transporte Internacional
 relationships: []
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:11Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +102,17 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 11 de julho de 2019. - António Luís Santos da Costa - José Luís Pereira Carneiro - Pedro Nuno de Oliveira Santos.
 
-**Assinado em 16 de julho de 2019.**
+Assinado em 16 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de julho de 2019.**
+Referendado em 19 de julho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/14400/0003300044.pdf))](https://files.diariodarepublica.pt/1s/2019/07/14400/0003300044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/14400/0003300044.pdf)
 
 Protocolo Adicional à Convenção Relativa ao Contrato de Transporte Internacional de Mercadorias por Estrada (CMR) sobre a Declaração de Expedição Eletrónica
 
@@ -281,3 +281,5 @@ e) As declarações e notificações recebidas de acordo com os n.os 1 e 2 do ar
 O original do presente Protocolo será depositado junto do Secretário-Geral da Organização das Nações Unidas, o qual enviará cópias certificadas do mesmo a todos os Estados mencionados nos n.os 1, 3 e 4 do artigo 7.º do presente Protocolo.
 
 Feito em Genebra, aos vinte dias do mês de fevereiro de dois mil e oito, em um único exemplar, nas línguas inglesa e francesa, sendo ambos os textos igualmente autênticos.
+
+112466624

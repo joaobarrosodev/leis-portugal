@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/125-1979-367826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9c2309436c9bd70e4784426ce424731ad5d0b09db9edf5ad94a55eca53e7559
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 866b5863c712075921082ece3b487076a099cc358998140eba82d72a460b61cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AIEA
+- Convenção
+- Energia Nuclear
+- Investigação Científica e Tecnológica
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 40
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:56Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +91,9 @@ de 15 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição da República Portuguesa, o seguinte:
 
-###### Artigo 1.º É aprovado para aceitação com reservas o Acordo sobre Privilégios e Imunidades da Agência Internacional de Energia Atómica, aprovado pelo Conselho de Governadores em 1 de Julho de 1959, cujo texto em francês e respectiva tradução seguem anexos ao presente decreto.
+Artigo 1.º É aprovado para aceitação com reservas o Acordo sobre Privilégios e Imunidades da Agência Internacional de Energia Atómica, aprovado pelo Conselho de Governadores em 1 de Julho de 1959, cujo texto em francês e respectiva tradução seguem anexos ao presente decreto.
 
-###### Art. 2.º As reservas formuladas são as seguintes:
+Art. 2.º As reservas formuladas são as seguintes:
 
 a) Artigo III, secção 6, alíneas a) e b):
 
@@ -118,11 +123,11 @@ Esta disposição não será aplicada aos nacionais portugueses e residentes em 
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 15 de Outubro de 1979.**
+Promulgado em 15 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo sobre os privilégios e imunidades da Agência Internacional de Energia Atómica
 
@@ -138,9 +143,7 @@ O Conselho dos Governadores:
 
 2 - Convida os Estados Membros da Agência a examinar este Acordo e, se o julgarem oportuno, a aceitá-lo.
 
-ARTIGO I
-
-Definições
+###### ARTIGO I — Definições
 
 #### SECÇÃO I
 
@@ -162,9 +165,7 @@ iv) Para os fins das secções 12, 13, 14 e 27, a expressão «reuniões convoca
 
 v) Para os fins dos artigos VI e IX, a expressão «funcionários da Agência» designa o director-geral e todos os membros do pessoal da Agência, com excepção daqueles que são recrutados no próprio local e pagos à hora.
 
-ARTIGO II
-
-Personalidade jurídica
+###### ARTIGO II — Personalidade jurídica
 
 #### SECÇÃO 2
 
@@ -176,9 +177,7 @@ b) Para adquirir e dispor de bens imóveis e móveis;
 
 c) De estar em juízo.
 
-ARTIGO III
-
-Bens, fundos e haveres
+###### ARTIGO III — Bens, fundos e haveres
 
 #### SECÇÃO 3
 
@@ -218,9 +217,7 @@ c) Isentos de qualquer direito alfandegário e de todas as proibições e restri
 
 Ainda que a Agência não reivindique, em regra geral, a isenção dos direitos e das taxas de venda integrados no preço dos bens mobiliários ou imobiliários quando efectua para seu uso oficial compras importantes cujo preço compreende direitos e taxas desta natureza, os Estados partes no presente Acordo tomarão, cada vez que tal lhes seja possível, as medidas administrativas apropriadas com vista à reposição ou reembolso do montante destes direitos e taxas.
 
-ARTIGO IV
-
-Facilidades de comunicações
+###### ARTIGO IV — Facilidades de comunicações
 
 #### SECÇÃO 10
 
@@ -234,9 +231,7 @@ A Agência tem o direito de empregar códigos, bem como de expedir e receber a s
 
 A presente secção não poderá em nenhum caso ser interpretada como proibindo a adopção de medidas de segurança apropriadas, a determinar por via de acordo entre o Estado parte no presente Acordo e a Agência.
 
-ARTIGO V
-
-Representantes dos Membros
+###### ARTIGO V — Representantes dos Membros
 
 #### SECÇÃO 12
 
@@ -270,9 +265,7 @@ Os privilégios e imunidades são concedidos aos representantes dos Membros não
 
 As disposições das secções 12, 13 e 14 não são invocáveis perante as autoridades do Estado do qual a pessoa é originária ou do qual ela é ou foi representante.
 
-ARTIGO VI
-
-Funcionários
+###### ARTIGO VI — Funcionários
 
 #### SECÇÃO 17
 
@@ -314,9 +307,7 @@ Os privilégios e imunidades são concedidos aos funcionários unicamente no int
 
 A Agência colaborará em todas as ocasiões com as autoridades competentes dos Estados com vista a facilitar a boa administração da justiça, a assegurar a observação dos regulamentos de polícia e a evitar qualquer abuso ao qual os privilégios, imunidades e facilidades enunciadas no presente artigo possam dar lugar.
 
-ARTIGO VII
-
-Técnicos em missão para a Agência
+###### ARTIGO VII — Técnicos em missão para a Agência
 
 #### SECÇÃO 23
 
@@ -342,9 +333,7 @@ Nada nas alíneas c) e d) da secção 23 poderá ser interpretado como proibindo
 
 Os privilégios e imunidades são concedidos aos peritos no interesse da Agência e não para seu benefício pessoal. A Agência poderá e deverá fazer cessar a imunidade concedida a um técnico em todos os casos em que, em seu entender, esta imunidade impeça que a justiça seja feita e em que a imunidade possa cessar sem trazer prejuízo aos interesses da Agência.
 
-ARTIGO VIII
-
-Abuso de privilégios
+###### ARTIGO VIII — Abuso de privilégios
 
 #### SECÇÃO 26
 
@@ -358,9 +347,7 @@ a) Os representantes dos Membros ou as pessoas gozando de imunidades nos termos 
 
 b) No caso de um funcionário ao qual não se aplique a secção 20, nenhuma decisão de expulsão será tomada pelas autoridades territoriais sem a aprovação do Ministro dos Negócios Estrangeiros do país em questão, aprovação que não será dada senão após consulta com o director-geral da Agência; se um processo de expulsão é iniciado contra um funcionário, o director-geral da Agência terá o direito de intervir neste processo em nome da pessoa contra a qual ele foi intentado.
 
-ARTIGO IX
-
-Livre-trânsito
+###### ARTIGO IX — Livre-trânsito
 
 #### SECÇÃO 28
 
@@ -382,9 +369,7 @@ Facilidades análogas às que são mencionadas na secção 30 são concedidas ao
 
 O director-geral, os directores-gerais-adjuntos e outros funcionários de uma categoria pelo menos igual à de chefe de divisão da Agência, viajando por conta da Agência e munidos de um livre-trânsito das Nações Unidas, gozam das mesmas facilidades de viagem que os membros das missões diplomáticas de uma categoria comparável.
 
-ARTIGO X
-
-Regulamentação dos diferendos
+###### ARTIGO X — Regulamentação dos diferendos
 
 #### SECÇÃO 33
 
@@ -398,9 +383,7 @@ b) Os diferendos nos quais estiver implicado um funcionário ou um perito da Ag�
 
 A menos que, num dado caso, as partes não tenham acordado recorrer a outro modo de regulamentação, qualquer contestação referente à interpretação ou aplicação do presente Acordo será levada à apreciação do Tribunal Internacional de Justiça, em conformidade com o Estatuto do Tribunal. Se surgir um diferendo entre a Agência e um Estado Membro, e se as partes não chegarem a acordo sobre a forma de regulamentação, será pedido, em conformidade com o artigo 96 da Carta das Nações Unidas e do artigo 65 do Estatudo do Tribunal, assim como com as disposições relevantes do Acordo concluído entre a Organização das Nações Unidas e a Agência, um parecer consultivo sobre qualquer questão jurídica levantada. O parecer do Tribunal será aceite pelas partes como decisivo.
 
-ARTIGO XI
-
-Interpretação
+###### ARTIGO XI — Interpretação
 
 #### SECÇÃO 35
 
@@ -414,9 +397,7 @@ As disposições do presente Acordo não comportam qualquer limitação ou preju
 
 Nenhuma disposição do Estatuto da Agência nem nenhum direito ou obrigação que a Agência por outro modo possuir, adquirir ou assumir será revogado por simples efeito do presente Acordo.
 
-ARTIGO XII
-
-Cláusulas finais
+###### ARTIGO XII — Cláusulas finais
 
 #### SECÇÃO 38
 

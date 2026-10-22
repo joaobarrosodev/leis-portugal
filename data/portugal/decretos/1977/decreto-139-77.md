@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/139-1977-277667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b9ae194f3087ffba43deef2caa1a353cba366ea6cf610193a8b7d84bf1d0e02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 235b58da139c2324eb84be3865668554270a3b089ce9ce90bb1efb0b1ad0b0e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproveitamento Hidroeléctrico
+- Comércio Internacional
+- Convenção
+- Cooperação Económica
+- Cooperação Internacional
+- Cooperação Técnica
+- Indústria
+- Indústria Petrolífera
+- Iraque
+- Lisboa
+- Petroquímica
+- Portugal
+- Produção de Energia Elétrica
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:52Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +100,15 @@ de 28 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Comércio e de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo da República do Iraque, assinado em Lisboa aos 19 de Abril de 1977, cujos textos em inglês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo de Comércio e de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo da República do Iraque, assinado em Lisboa aos 19 de Abril de 1977, cujos textos em inglês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira - Carlos Alberto da Mota Pinto.
 
-**Assinado em 15 de Outubro de 1977.**
+Assinado em 15 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Agreement on trade and economic and technical cooperation between the Government of the Republic of Portugal and the Government of the Republic of Iraq.
 
@@ -227,7 +240,7 @@ Acordo de Comércio e de Cooperação Económica e Técnica entre o Governo da R
 
 O Governo da República Portuguesa e o Governo da República do Iraque, no desejo de desenvolver a cooperação económica, técnica e comercial entre os dois Países na base da igualdade e vantagens recíprocas, e com o fim de consolidar as relações de amizade existentes, acordaram no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 As duas Partes Contratantes farão o possível para desenvolver e intensificar a cooperação técnica e económica entre os dois países, nomeadamente nas seguintes áreas:
 
@@ -245,11 +258,11 @@ f) Refinação de petróleo e indústrias petroquímicas.
 
 Com este fim, as duas Partes Contratantes tomarão as disposições necessárias por forma a serem atingidos os objectivos consignados neste Acordo, nos termos das leis e regulamentos em vigor em ambos os países.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As duas Partes Contratantes encorajarão, facilitarão e diversificarão as trocas comerciais entre si, nos termos das leis e regulamentos em vigor em ambos os Países.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1 - A implementação da cooperação entre as Partes Contratantes e o fornecimento de bens e mercadorias basear-se-ão em contratos a serem estabelecidos entre as organizações competentes. Todas as especificações necessárias serão acordadas e incluídas nos respectivos contratos.
 
@@ -261,7 +274,7 @@ b) A rapidez na apresentação das propostas, na conclusão dos contratos e na c
 
 c) Os preços competitivos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 As duas Partes Contratantes consolidarão a cooperação económica e técnica entre os dois países através das agências, organizações e sociedades portuguesas, por todos os meios e medidas possíveis, em particular as seguintes:
 
@@ -273,7 +286,7 @@ c) Desenvolvendo os melhores esforços a fim de assegurar e acelerar a completa 
 
 d) Encorajando e facilitando o desenvolvimento da cooperação entre as agências, organizações e sociedades de ambos os países, na medida das respectivas capacidades.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - Tendo em vista a rápida transferência de tecnologia avançada para o Iraque, o Governo Português desenvolverá os possíveis esforços, por todos os meios apropriados, a fim de assegurar a transferência de tecnologia no quadro de programas anuais de assistência técnica a estabelecer pela Comissão Mista prevista no artigo 7.º do presente Acordo, ou nos termos dos contratos para projectos específicos firmados entre as respectivas organizações.
 
@@ -287,11 +300,11 @@ c) Participar na criação de centros de consultores de engenharia para design e
 
 d) Formar quadros iraquianos no campo de transporte marítimo em institutos e centros especializados.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 O Governo Português recomendará às competentes agências, organizações e sociedades portuguesas que assegurem o fornecimento segundo a prática internacional, de partes separadas e materiais necessários ao funcionamento dos projectos completos, bem como do equipamento e maquinaria a fornecer no âmbito do presente Acordo e concederá tratamento preferencial no tocante à rapidez de expedição e às quantidades dos fornecimentos. A este respeito, o Governo do Iraque concederá, pelo seu lado, as possíveis facilidades, nos termos das leis e regulamentos em vigor.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Para facilitar a implementação do presente Acordo e promover a cooperação entre os dois países, as Partes Contratantes acordaram em instituir uma Comissão Mista composta de representantes dos dois Governos. A Comissão reunirá quando necessário e a pedido de qualquer das duas Partes, alternadamente em Bagdade e em Lisboa. A Comissão terá como funções:
 
@@ -303,15 +316,15 @@ c) Preparar o programa anual de assistência técnica previsto no artigo 5.º do
 
 d) Considerar outras questões resultantes da implementação do presente Acordo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 De acordo com as leis e regulamentos em vigor em ambos os países, as duas Partes Contratantes encorajarão a sua participação em feiras internacionais a realizar em ambos os países e o estabelecimento de centros e feiras comerciais, de carácter temporário ou permanente, bem como a promover as necessárias facilidades para a importação de amostras e materiais de propaganda, assim como das respectivas embalagens. Os dois países permitirão a entrada das mercadorias e materiais necessários ao estabelecimento das feiras comerciais ou para fins de propaganda do outro país, com isenção de direitos aduaneiros ou outros encargos similares, desde que a importação das mercadorias e materiais da outra Parte seja feita a título temporário e posteriormente reexportados.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 As duas Partes Contratantes comprometem-se a não reexportar os produtos transaccionados para um terceiro país, à excepção dos casos em que se verifique aprovação prévia do país de origem.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 As duas Partes Contratantes conceder-se-ão mutuamente o tratamento de nação mais favorecida em todas as matérias respeitantes às relações comerciais entre os seus respectivos países. Fica estabelecido que este tratamento não será aplicado a:
 
@@ -321,19 +334,19 @@ b) Vantagens resultantes de uniões aduaneiras ou áreas de comércio livre que 
 
 c) Vantagens concedidas ou a conceder pela República do Iraque a países árabes.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Todos os pagamentos resultantes dos projectos e contratos a executar no quadro do presente Acordo deverão ser liquidados em qualquer moeda livremente convertível, em conformidade com as regulamentações cambiais em vigor em ambos os países.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Tendo presente o exposto no artigo 1.º deste Acordo, todas as dificuldades que possam resultar da execução dos contratos estabelecidos no seu âmbito deverão ser examinadas pela Comissão Mista Iraquiana-Portuguesa, definida no artigo 7.º, dentro de um espírito de amizade e cooperação e em conformidade com os princípios e objectivos do presente Acordo. Esta prática não exclui a aplicação das disposições previstas para a resolução de disputas que possam ser incluídas naqueles contratos.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 As disposições do presente Acordo manter-se-ão em vigor no respeitante à execução dos contratos assinados ao seu abrigo e durante o período de validade até que estejam inteiramente executadas.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Este Acordo entrará em vigor a partir da data de troca de notas confirmando a sua ratificação ou aprovação em conformidade com os requisitos constitucionais de ambos os países, e permanecerá em vigor por um período de cinco anos que será automaticamente renovado por outro período de cinco anos, a menos que qualquer dos países notifique por escrito, com seis meses de antecedência, o seu desejo de rescindir este Acordo.
 

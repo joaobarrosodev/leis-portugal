@@ -46,36 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/242-1976-502793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58ae22306f2bc35b289f91a66b14b151d9a30a77ee2ea8bf453c1d21b07a88b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8185b7b5cb19ab44a27e5f7b31aabef96dab7978de6525c80c461d9eafdf316b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Diuturnidades
+- GNR
+- Guarda Fiscal
+- PSP
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:260607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506831:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:22Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +131,7 @@ Nestes termos:
 
 Usando da faculdade conferida no artigo 3., n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os soldos a abonar mensalmente aos oficiais em serviço na Guarda Nacional Republicana (GNR), Guarda Fiscal (GF) e Polícia de Segurança Pública (PSP) serão dos quantitativos fixados para os oficiais das forças armadas.
+Artigo 1.º - 1. Os soldos a abonar mensalmente aos oficiais em serviço na Guarda Nacional Republicana (GNR), Guarda Fiscal (GF) e Polícia de Segurança Pública (PSP) serão dos quantitativos fixados para os oficiais das forças armadas.
 
 2. Os comandantes de divisão isolada, secção e adjuntos dos comandos distritais da PSP, quando oficiais subalternos, serão abonados do vencimento de primeiro-comissário.
 
@@ -120,9 +161,9 @@ Guarda e soldado ... 5600$00
 
 Guarda e soldado provisório ... 5000$00
 
-###### Art. 2.º Os soldos, ordenados e vencimentos dos militares da GNR, GF e PSP, dos comissários e dos agentes da PSP na efectividade de serviço não sofrem reduções de qualquer espécie, salvo nas situações de ausência ilegítima, de licença sem vencimento, de licença registada e de licença ilimitada, situações em que os perdem na totalidade.
+Art. 2.º Os soldos, ordenados e vencimentos dos militares da GNR, GF e PSP, dos comissários e dos agentes da PSP na efectividade de serviço não sofrem reduções de qualquer espécie, salvo nas situações de ausência ilegítima, de licença sem vencimento, de licença registada e de licença ilimitada, situações em que os perdem na totalidade.
 
-###### Art. 3.º - 1. Para efeitos de liquidação de diuturnidades relativas aos militares da GNR, GF e PSP e aos comissários e agentes da PSP, e enquanto não for publicado o despacho conjunto do diploma elaborado com base nos princípios do [Decreto-Lei n.º 461-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/461-a-1975-260607), de 25 de Agosto, das forças armadas, continuarão a ser abonados os quantitativos do antecedente estabelecidos (Decretos-Leis n.os [614/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1974-465441), [615/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/615-1974-465430) e [617/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/617-1974-465432), de 14 de Novembro).
+Art. 3.º - 1. Para efeitos de liquidação de diuturnidades relativas aos militares da GNR, GF e PSP e aos comissários e agentes da PSP, e enquanto não for publicado o despacho conjunto do diploma elaborado com base nos princípios do [Decreto-Lei n.º 461-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/461-a-1975-260607), de 25 de Agosto, das forças armadas, continuarão a ser abonados os quantitativos do antecedente estabelecidos (Decretos-Leis n.os [614/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1974-465441), [615/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/615-1974-465430) e [617/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/617-1974-465432), de 14 de Novembro).
 
 2. Os vencimentos dos alferes e tenentes oriundos da classe de sargento são acrescidos dos quantitativos das diuturnidades a que se refere o artigo 1.º do [Decreto-Lei n.º 467/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1973-412800), de 20 de Setembro (GNR e GF), e artigo 4.º do [Decreto-Lei n.º 710/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/710-1973-407941), de 31 de Dezembro (PSP), até ao máximo de quatro.
 
@@ -130,22 +171,22 @@ Guarda e soldado provisório ... 5000$00
 
 4. revogado o artigo 4.º do [Decreto-Lei n.º 467/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1973-412800), de 20 de Setembro.
 
-###### Art. 4.º É ajustada para a centena de escudos imediatamente superior a totalidade das remunerações resultantes da aplicação do presente diploma que não corresponda a múltiplo de 100$00.
+Art. 4.º É ajustada para a centena de escudos imediatamente superior a totalidade das remunerações resultantes da aplicação do presente diploma que não corresponda a múltiplo de 100$00.
 
-###### Art. 5.º - 1. O presente diploma entra em vigor na data da sua publicação, sem prejuízo do disposto nos números seguintes.
+Art. 5.º - 1. O presente diploma entra em vigor na data da sua publicação, sem prejuízo do disposto nos números seguintes.
 
 2. As remunerações estabelecidas no presente diploma serão abonadas a partir de 1 de Janeiro de 1976.
 
 3. O disposto no artigo 3.º do presente diploma produz efeitos a partir de 1 de Janeiro de 1976.
 
-###### Art. 6.º Os encargos resultantes da execução deste diploma serão suportados no corrente ano pelas disponibilidades das dotações orçamentais destinadas a «vencimentos» do pessoal das respectivas corporações, que, para o efeito, serão reforçadas, se assim for necessário.
+Art. 6.º Os encargos resultantes da execução deste diploma serão suportados no corrente ano pelas disponibilidades das dotações orçamentais destinadas a «vencimentos» do pessoal das respectivas corporações, que, para o efeito, serão reforçadas, se assim for necessário.
 
-###### Art. 7.º As dúvidas e os casos não previstos serão resolvidos por despacho dos Ministros das respectivas pastas, devendo, contudo, os assuntos ser sempre presentes ao Ministro das Finanças quando envolverem encargos financeiros.
+Art. 7.º As dúvidas e os casos não previstos serão resolvidos por despacho dos Ministros das respectivas pastas, devendo, contudo, os assuntos ser sempre presentes ao Ministro das Finanças quando envolverem encargos financeiros.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Artur Eduardo Brochado dos Santos Silva.
 
-**Promulgado em 30 de Março de 1976.**
+Promulgado em 30 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

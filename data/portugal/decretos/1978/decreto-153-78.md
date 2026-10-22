@@ -47,40 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/153-1978-324879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85e5f0c0de02ee84a683676f2d888cc35c56b4adcb41a4c19192ff019d91b03b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b5980199d4418b85c8510b6fd3024c37bcae56409cdf7e827096fec23c52488
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Industrial
 relationships:
 - type: amended_by
   target: pt:dre:441327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:239377:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:49:29Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +98,7 @@ Tendo em vista o alargamento da gama de produtos a fabricar no depósito franco 
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O § 2.º do artigo 1.º e o corpo do artigo 6.º e seu § 3.º do [Decreto n.º 47490](https://diariodarepublica.pt/dr/detalhe/decreto/47490-1967-239377), de 10 de Janeiro de 1967, passam a ter as seguintes redacções:
+Artigo 1.º O § 2.º do artigo 1.º e o corpo do artigo 6.º e seu § 3.º do [Decreto n.º 47490](https://diariodarepublica.pt/dr/detalhe/decreto/47490-1967-239377), de 10 de Janeiro de 1967, passam a ter as seguintes redacções:
 
 ###### Artigo 1.º ...
 
@@ -101,20 +106,20 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 § 2.º Neste depósito franco a empresa propõe-se fabricar, construir e montar sistemas electrónicos e suas peças, tais como aparelhos de rádio e televisão, forquetas de desvio, transformadores de saída horizontal, conjuntos de bobina de convergência, transformadores intermédios de frequência e outros componentes electrónicos, compreendendo bobinas, semicondutores, condensadores e sintonizadores, bem como fabricar cilindros, válvulas, centrais e comandos hidráulicos e pneumáticos, elevadores hidráulicos e seus sobresselentes, peças hidráulicas em geral e componentes hidráulicos e pneumáticos para a indústria automóvel, e ainda sapatos de senhora de alta qualidade.
 
-###### Art. 6.º Os materiais e peças vindo do estrangeiro entrarão no recinto do depósito franco mediante bilhetes de entrada referidos no § 5.º do artigo 146.º da Reforma Aduaneira, bilhetes esses que devem ser processados separadamente por grupos de produtos das inerentes áreas de actividade.
+Art. 6.º Os materiais e peças vindo do estrangeiro entrarão no recinto do depósito franco mediante bilhetes de entrada referidos no § 5.º do artigo 146.º da Reforma Aduaneira, bilhetes esses que devem ser processados separadamente por grupos de produtos das inerentes áreas de actividade.
 
 ...
 
 § 3.º A simplificação de formalidades do despacho de entrada no depósito franco de materiais e peças estrangeiros não dispensa o cumprimento das disposições relativas ao registo na Repartição do Comércio Externo e bem assim dos derivados das obrigações do âmbito da CEE, da EFTA, ou outras associações de idêntica natureza.
 
-###### Art. 2.º - 1 - A empresa estabelecerá separadamente as linhas de produção que digam respeito aos vários campos da sua actividade, bem como armazéns de stockagem e contabilidades distintas, por forma a propiciar à fiscalização técnica e aduaneira a conveniente facilitação.
+Art. 2.º - 1 - A empresa estabelecerá separadamente as linhas de produção que digam respeito aos vários campos da sua actividade, bem como armazéns de stockagem e contabilidades distintas, por forma a propiciar à fiscalização técnica e aduaneira a conveniente facilitação.
 
 2 - A empresa a que se refere o presente decreto passa a denominar-se DCP - Produtos Industriais, S. A. R. L., ficando esta com todas as responsabilidades fiscais da empresa General Instrument Lusitana, S. A. R. L., de que é sucessora.
 
 Alfredo Jorge Nobre da Costa - José da Silva Lopes.
 
-**Promulgado em 29 de Novembro de 1978.**
+Promulgado em 29 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/8/2012/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-2012-552552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:21:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 943470075fb6af7dd9611cf6b6de9c24b2fce550e22bd11890102a97bcc90d69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 519f2381941453e4da56d94b20e7a5b273f5cd9042a925bbbf86ba09071450f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:21:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PERU
 - Convenção
-- Portugal
 - LIMA
-- Pessoal Consular
 - Missão Diplomática
+- PERU
+- Pessoal Consular
 - Pessoal Diplomático
 - Pessoal Técnico
+- Portugal
 - Remuneração
 relationships: []
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:21:35Z'
   warnings: []
   errors: []
 ---
@@ -109,15 +109,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2012. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas.
 
-**Assinado em 28 de março de 2012.**
+Assinado em 28 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de abril de 2012.**
+Referendado em 4 de abril de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO PERU SOBRE O EXERCÍCIO DE ACTIVIDADES REMUNERADAS POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, ADMINISTRATIVO E TÉCNICO DE MISSÕES DIPLOMÁTICAS E CONSULARES.
 
@@ -221,7 +221,7 @@ O presente Acordo permanecerá em vigor por um período de tempo indeterminado.
 
 A Parte em cujo território o presente Acordo for assinado submetê-lo-á para registo junto do Secretariado das Nações Unidas, imediatamente após a sua entrada em vigor, nos termos dos artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar o número de registo correspondente.
 
-**Assinado em Lima aos 7 dias do mês de Abril de 2010, em dois exemplares originais nos idiomas português e castelhano, sendo ambos os textos igualmente autênticos e válidos.**
+Assinado em Lima aos 7 dias do mês de Abril de 2010, em dois exemplares originais nos idiomas português e castelhano, sendo ambos os textos igualmente autênticos e válidos.
 
 Pela República Portuguesa, António Braga, Secretário de Estado das Comunidades Portuguesas.
 

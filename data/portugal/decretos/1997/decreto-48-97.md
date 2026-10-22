@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/48/1997/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48-1997-641124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8deae319966239b543ab6c8ab21a87963824ce4c03e66f026f32d7702430a764
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cad3ea7be8cfee17b335ccd5f497478a72ba5e33f103801bc6916afaced18f7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Navegação Aérea
-- Convenção
-- Portugal
 - Aviação Civil Internacional
 - Comissão
+- Convenção
 - Montreal
+- Navegação Aérea
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:532451:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532451:por
+  label: "Estendida ao território de Macau a aplicação da Convenção pelo DEC.185/99.1999.08.28.PR, DR.IS-A [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/185-1999-532451
+  date: '1999-08-28'
+- type: cites
+  target: pt:dre:414216:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:13Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +114,13 @@ Visto e aprovado em Conselho de Ministros de 17 de Julho de 1997. - António Man
 
 Ratificado em 11 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Agosto de 1997.**
+Referendado em 14 de Agosto de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOL RELATING TO AN AMENDMENT TO ARTICLE 56 OF THE CONVENTION ON INTERNATIONAL CIVIL AVIATION
 
@@ -203,7 +212,7 @@ A. Alegría, Président de la 27e session de l'Assemblée - S. S. Sidhu, Secrét
 
 PROTOCOLO RELATIVO A UMA EMENDA AO ARTIGO 56.º DA CONVENÇÃO SOBRE AVIAÇÃO CIVIL INTERNACIONAL
 
-**Assinado em Montreal a 6 de Outubro de 1989**
+Assinado em Montreal a 6 de Outubro de 1989
 
 A Assembleia da Organização da Aviação Civil Internacional:
 

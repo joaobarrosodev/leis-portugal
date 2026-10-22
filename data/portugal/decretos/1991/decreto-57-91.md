@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/57/1991/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/57-1991-291921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 799eaab5e204632ff355fa89857c9fe79897750c46abd3be60eaf480229433a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fe4ef3caf4c30e32df6a9a42f470a893a94b0fb2d368d34b4a6c236ec5b124f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime Florestal
+- Câmara Municipal
 - MIRA
 - Plano de Urbanização
-- Câmara Municipal
-relationships: []
+- Regime Florestal
+relationships:
+- type: cites
+  target: pt:dre:497207:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:17Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +98,13 @@ Atendendo à necessidade do Município em disponibilizar áreas que possibilitem
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É excluída do regime florestal parcial em que foi incluída pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno do perímetro florestal das dunas de Mira, com a área de 50 ha, pertença da Câmara Municipal de Mira, demarcada na planta anexa ao presente diploma, do qual faz parte integrante.
+Artigo 1.º - 1 - É excluída do regime florestal parcial em que foi incluída pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno do perímetro florestal das dunas de Mira, com a área de 50 ha, pertença da Câmara Municipal de Mira, demarcada na planta anexa ao presente diploma, do qual faz parte integrante.
 
 2 - A referida parcela destina-se à concretização de parte do Plano Geral de Urbanização da Praia e Lagoa de Mira (Plano de Pormenor do Aglomerado A da 2.ª Residência da Praia de Mira).
 
 3 - Caso venha a ocorrer um uso diverso do referido no número anterior, a parcela de terreno será novamente integrada no perímetro florestal das dunas de Mira.
 
-###### Art. 2.º - 1 - Com a finalidade de impedir significativas alterações no ecossistema, quer sob o ponto de vista estrutural, quer paisagístico, fica a Câmara Municipal de Mira obrigada a cumprir as normas de condução e corte de arvoredo que a situação recomenda, de forma progressiva e salvaguardando o mais possível o coberto vegetal existente.
+Art. 2.º - 1 - Com a finalidade de impedir significativas alterações no ecossistema, quer sob o ponto de vista estrutural, quer paisagístico, fica a Câmara Municipal de Mira obrigada a cumprir as normas de condução e corte de arvoredo que a situação recomenda, de forma progressiva e salvaguardando o mais possível o coberto vegetal existente.
 
 2 - Cabe à Câmara Municipal de Mira o pagamento ao Estado, nos termos legais, do valor decorrente da avaliação de todo o material lenhoso da área a desafectar.
 
@@ -108,14 +112,14 @@ Presidência do Conselho de Ministros, 1 de Julho de 1991.
 
 Joaquim Fernando Nogueira - José Manuel Nunes Liberato - Arlindo Marques da Cunha - Carlos Alberto Diogo Soares Borrego.
 
-**Assinado em 6 de Setembro de 1991.**
+Assinado em 6 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1991.**
+Referendado em 10 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/220b00/50305030.pdf))](https://files.diariodarepublica.pt/1s/1991/09/220b00/50305030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/220b00/50305030.pdf)

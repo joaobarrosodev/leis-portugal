@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/79-1977-253011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59a2330b7ccf5f45c3cd49121a8b06aae6ca9e85f8b1ecf90a3256875a4118c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38f4fd9d44152be55d17afb024240f7bc82c0e354adb41a89a184d091fd08be4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Desenvolvimento Económico
+- Nova Iorque
+- ONU
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:04Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 31 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Básico entre o Governo de Portugal e o Programa das Nações Unidas para o Desenvolvimento, assinado em Nova Iorque em 22 de Dezembro de 1976, cujos textos em português e inglês acompanham o presente decreto.
+Artigo único. É aprovado o Acordo Básico entre o Governo de Portugal e o Programa das Nações Unidas para o Desenvolvimento, assinado em Nova Iorque em 22 de Dezembro de 1976, cujos textos em português e inglês acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 20 de Abril de 1977.**
+Assinado em 20 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO ENTRE O GOVERNO DE PORTUGAL E O PROGRAMA DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO
 
@@ -104,17 +109,13 @@ Considerando que o Governo de Portugal deseja solicitar a assistência do PNUD e
 
 O Governo e o PNUD (chamados adiante as Partes) assinaram o presente Acordo animados por um espírito de cooperação amistosa.
 
-ARTIGO I
-
-Alcance do Acordo
+###### ARTIGO I — Alcance do Acordo
 
 1. O presente Acordo enuncia as condições básicas nas quais o PNUD e os seus organismos de execução prestarão assistência ao Governo na realização dos seus projectos de desenvolvimento, como também as que presidirão à execução dos projectos que recebem ajuda do PNUD. Será aplicado a toda a assistência do PNUD e aos documentos do projecto ou outros instrumentos (chamados adiante Documentos do Projecto) que as Partes concluírem para definir mais detalhadamente os pormenores de tal assistência e as responsabilidades respectivas das Partes e do organismo de execução em relação a tais projectos.
 
 2. O PNUD só prestará assistência, em virtude deste Acordo, em resposta a solicitações apresentadas pelo Governo e aprovadas pelo PNUD. Conceder-se-á tal assistência ao Governo, ou à entidade que o Governo designar, e será proporcionada e recebida em conformidade com as resoluções e decisões pertinentes e aplicáveis dos órgãos competentes do PNUD e na medida em que o PNUD disponha dos fundos necessários.
 
-ARTIGO II
-
-Formas da assistência
+###### ARTIGO II — Formas da assistência
 
 1. A assistência que o PNUD pode prestar ao Governo em virtude deste Acordo será a seguinte:
 
@@ -140,9 +141,7 @@ g) Qualquer outra forma de assistência em que convenham o Governo e o PNUD.
 
 b) A missão do PNUD no País estará dotada também do pessoal que o PNUD estimar necessário para o desempenho de suas funções. O PNUD notificará periodicamente ao Governo os nomes dos membros da missão, dos seus familiares, bem como qualquer mudança na condição de tais pessoas.
 
-ARTIGO III
-
-Execução dos projectos
+###### ARTIGO III — Execução dos projectos
 
 1. O Governo será responsável pelos seus projectos de desenvolvimento que receberem ajuda do PNUD e pela realização dos seus objectivos segundo estão descritos nos Documentos do Projecto pertinentes e realizará as partes de tais projectos estipuladas nas disposições do presente Acordo e de tais Documentos do Projecto. O PNUD compromete-se a complementar e suplementar a participação do Governo em tais projectos prestando assistência ao Governo em conformalidade com o presente Acordo e com os planos de trabalho que fizerem parte dos ditos Documentos do Projecto e ajudando-o no cumprimento das suas intenções no que se refere à gestão ulterior dos projectos de investimento. O Governo indicará ao PNUD qual é o organismo de cooperação do Governo que será directamente responsável pela particiação do Governo em cada um dos projectos que receberem ajuda do PNUD. Sem que a responsabilidade geral do Governo pelos seus projectos seja prejudicada, as Partes poderão consentir em que um organismo de execução assuma a responsabilidade primordial na execução de um projecto em consulta e de acordo com o organismo de cooperação, e qualquer providência neste sentido constará do plano de trabalho, que fará parte dos Documentos do Projecto junto com as disposições necessárias, se for o caso, para a transferência de tal responsabilidade no curso da execução do projecto, para o Governo ou uma entidade designada por este.
 
@@ -160,9 +159,7 @@ Execução dos projectos
 
 8. Os direitos de patente, de autor e outros direitos análogos relacionados com qualquer invenção ou processo que se origine na assistência do PNUD em virtude do presente Acordo serão propriedade do PNUD. A não ser que as Partes, em cada caso, decidam de outra maneira, o Governo terá o direito a utilizar tais invenções ou processos no País, livres do royalties ou outros tributos semelhantes.
 
-ARTIGO IV
-
-Informação relativa aos projectos
+###### ARTIGO IV — Informação relativa aos projectos
 
 1. O Governo deverá fornecer ao PNUD informações, mapas, contas, registos, balanços, documentos e qualquer outra informação solicitada pelo PNUD em relação a todo o projecto que receber ajuda do PNUD, ou referente à sua execução, à permanência das suas condições de viabilidade e validez ou ao cumprimento pelo Governo das suas responsabilidades em virtude do presente Acordo ou dos Documentos do Projecto.
 
@@ -174,9 +171,7 @@ Informação relativa aos projectos
 
 5. As Partes consultar-se-ão mutuamente sobre a publicação, conforme o caso, de qualquer informação relativa a um projecto que receber ajuda do PNUD ou aos benefícos derivados do mesmo. Todavia, o PNUD poderá pôr à disposição dos possíveis investidores qualquer informação relativa a um projecto do investimento, a menos que o Governo solicite por escrito ao PNUD que restrinja o fornecimento da informação sobre tal projecto.
 
-ARTIGO V
-
-Participação e contribuição do Governo na execução do projecto
+###### ARTIGO V — Participação e contribuição do Governo na execução do projecto
 
 1. O Governo, no cumprimento da sua obrigação de participar e cooperar na execução dos projectos que receberem ajuda do PNUD em virtude do presente Acordo, fornecerá as seguintes contribuições em espécie, na medida em que o determinarem os Documentos do Projecto correspondentes:
 
@@ -198,9 +193,7 @@ c) Equipamento, materiais e provisões produzidos no País ou que possam ser obt
 
 7. O Governo deverá prover cada projecto, quando for preciso, de cartazes adequados que sirvam para indicar que o projecto é executado com a ajuda do PNUD e do organismo de execução.
 
-ARTIGO VI
-
-Quotas para gastos do programa e outras despesas em moeda nacional
+###### ARTIGO VI — Quotas para gastos do programa e outras despesas em moeda nacional
 
 1. Além da contribuição mencionada no artigo V supra, o Governo ajudará o PNUD, mediante o pagamento ou tomando providências para o pagamento dos seguintes custos e serviços locais, nas quantias determinadas nos Documentos do Projecto correspondente ou que hajam sido fixadas de outra forma pelo PNUD em cumprimento das decisões pertinentes dos seus órgãos directores:
 
@@ -240,21 +233,15 @@ e) Os gastos de manutenção do representante residente e dos seus ajudantes qua
 
 6. As despesas a que se referem as disposições do presente artigo, com excepção das mencionadas no parágrafo 2, serão pagas pelo Governo e administradas pelo PNUD conforme o parágrafo 5 do artigo V.
 
-ARTIGO VII
-
-Relações com a assistência procedente de outras fontes
+###### ARTIGO VII — Relações com a assistência procedente de outras fontes
 
 Caso uma delas obtenha assistência de outras fontes para a execução de um projecto, as Partes efectuarão consultas mútuas e também com o organismo de execução a fim de conseguir uma coordenação eficaz do conjunto da assistência que o Governo receber. As obrigações que o presente Acordo impõe ao Governo não serão modificadas por nenhuma providência que este possa concluir com outras entidades que cooperem com ele na execução de um projecto.
 
-ARTIGO VIII
-
-Utilização da assistência
+###### ARTIGO VIII — Utilização da assistência
 
 O Governo fará tudo o que estiver ao seu alcance para tirar o maior proveito possível da assistência prestada pelo PNUD e utilizará essa assistência para os fins a que estiver destinada. Sem restringir o alcance geral do que foi dito acima, o Governo adoptará, com este objectivo, as medidas especificadas nos Documentos do Projecto.
 
-ARTIGO IX
-
-Privilégios e imunidades
+###### ARTIGO IX — Privilégios e imunidades
 
 1. O Governo aplicará tanto às Nações Unidas e aos seus órgãos, incluindo o PNUD e os órgãos subsidiários das Nações Unidas que actuem como organismos de execução do PNUD, como aos seus bens, fundos e haveres e aos seus funcionários, inclusive o representante residente e outros membros da missão do PNUD no País, as disposições da Convenção sobre Privilégios e Imunidades das Nações Unidas.
 
@@ -272,9 +259,7 @@ b) Aos efeitos dos instrumentos sobre privilégios e imunidades mencionados ante
 
 5. A expressão «pessoas que prestem serviços» utilizada nos artigos IX, X e XIII do presente Acordo compreende os assessores em matéria operacional, Voluntários, consultores, bem como as pessoas jurídicas e físicas e os seus empregados. Nela estão compreendidas as organizações ou empresas governamentais ou não governamentais que o PNUD utilize, seja como organismo de execução ou de outra forma, para executar ou ajudar na execução da assistência que o PNUD prestar a um projecto, e os seus empregados. Nada do que está contido no presente Acordo será interpretado de modo a limitar os privilégios, imunidades ou facilidades concedidos a tais organizações ou empresas ou aos seus empregados em qualquer outro instrumento.
 
-ARTIGO X
-
-Facilidades para a prestação da assistência do PNUD
+###### ARTIGO X — Facilidades para a prestação da assistência do PNUD
 
 1. O Governo adoptará todas as medidas necessárias para que o PNUD, os seus organismos de execução, os seus consultores e demais pessoas que prestem serviços por conta deles sejam isentos dos regulamentos e outras disposições legais que possam interferir nas operações que se realizem em virtude do presente Acordo e facilitar-lhes-á o que for necessário para a rápida e eficiente realização da assistência do PNUD. Em particular, conceder-lhes-á os direitos e facilidades seguintes:
 
@@ -296,9 +281,7 @@ h) Despacho rápido nas alfândegas dos artigos mencionados nas alíneas f) e g)
 
 2. Considerando que a assistência prevista no presente Acordo é prestada em benefício do Governo e do povo de Portugal, o Governo assumirá todos os riscos decorrentes das operações que se executarem em virtude do presente Acordo. O Governo deverá responsabilizar-se por toda a reclamação apresentada por terceiros contra o PNUD ou contra um organismo de execução, contra o pessoal de qualquer deles ou contra outras pessoas que prestarem serviços em nome dele, e exonerá-los-á de qualquer reclamação ou responsabilidade resultante das operações realizadas em virtude do presente Acordo. Esta disposição não se aplicará quando as Partes ou o organismo de execução convierem em que tal reclamação ou responsabilidade foi devida a negligência grave ou a uma culpa intencional de tais pessoas.
 
-ARTIGO XI
-
-Suspensão ou termo da assistência
+###### ARTIGO XI — Suspensão ou termo da assistência
 
 1. Mediante notificação por escrito dirigida ao Governo e ao organismo de execução competente, o PNUD poderá suspender a sua assistência a qualquer projecto se, na opinião do PNUD, surgir qualquer circunstância que prejudique ou ameace prejudicar a feliz conclusão do projecto ou a realização dos seus objectivos. O PNUD poderá, na mesma notificação por escrito ou em outra posterior, indicar as condições em que está disposto a renovar a sua assistência ao projecto. Tal suspensão continuará até que o Governo aceite tais condições e o PNUD notifique por escrito ao Governo e ao organismo de execução que está disposto a renovar a sua assistência.
 
@@ -306,17 +289,13 @@ Suspensão ou termo da assistência
 
 3. As disposições deste artigo não prejudicarão nenhum dos demais direitos ou recursos que o PNUD tenha em tais circunstâncias, seja em virtude dos princípios gerais do direito seja por outros motivos.
 
-ARTIGO XII
-
-Solução de litígios
+###### ARTIGO XII — Solução de litígios
 
 1. Todo o litígio que surgir entre o PNUD e o Governo em sequência do presente Acordo ou relacionado com ele e que não seja resolvido por meio de negociações ou por outro meio de solução aceite de comum acordo será submetido à arbitragem a pedido de qualquer das Partes. Cada uma das Partes nomeará um árbitro e os dois árbitros assim nomeados designarão um terceiro árbitro, que actuará com presidente. Se dentro dos trinta dias subsequentes ao pedido de arbitragem uma das Partes não tiver ainda nomeado um árbitro, ou se dentro dos quinze dias que seguirem a nomeação dos dois árbitros não se designou o terceiro árbitro, qualquer das Partes poderá pedir ao Presidente do Tribunal Internacional de Justiça que nomeie um árbitro. Os árbitros estabelecerão o procedimento arbitral e os custos da arbitragem correrão a cargo das Partes nas proporções em que determinarem os árbitros. O laudo arbitral conterá uma exposição dos motivos em que estiver fundado e as Partes aceitá-lo-ão como solução definitiva do litígio.
 
 2. Todo o litígio entre o Governo e um assessor em matéria operacional que tenha por causa as suas condições de serviço com o Governo ou seja relacionado com os mesmas poderá ser submetido ao organismo de execução a que pertença tal acessor pelo Governo ou pelo assessor em matéria operacional interessado, e o organismo de execução utilizará os seus bons ofícios para os ajudar a chegar a um acordo. Se o litígio não puder ser resolvido de acordo com o disposto na frase anterior ou por outro meio de solução aceite de comum acordo, o assunto poderá ser submetido à arbitragem a pedido de qualquer das Partes seguindo as mesmas disposições estabelecidas no parágrafo 1 deste artigo, salvo que o árbitro não designado por nenhuma das Partes ou pelos árbitros das Partes será designado pelo secretário-geral do Tribunal Permanente de Arbitragem.
 
-ARTIGO XIII
-
-Disposições gerais
+###### ARTIGO XIII — Disposições gerais
 
 1. O presente Acordo entrará em vigor no momento da assinatura e continuará em vigor até que seja denunciado de acordo com o parágrafo 3 infra.
 

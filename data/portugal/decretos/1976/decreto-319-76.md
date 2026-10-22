@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/319-1976-427457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5a6154b94cd80d04aa368f12e3f22bac8c29e742066febc2b42179408ffa06d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02dc710395e3f541c67247ac2017b96b890f77f71c60e1099702b08c66ef5b11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Técnica dos Novos Medicamentos
+- Medicamento
 relationships:
 - type: amended_by
   target: pt:dre:478253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:244878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:478253:por
+  label: "Revogado pelo DEC LEI.72/91.08.02.1991.MS, DR.IS-A [33] de 08.02.1991, revogação esta que produzirá efeitos a partir\
+    \ da data de entrada em vigor dos diplomas legais que regulamentarem a mesma matéria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-1991-478253
+  date: '1991-02-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:44Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +118,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. A Comissão Técnica dos Novos Medicamentos, criada pelo [Decreto n.º 41448](https://diariodarepublica.pt/dr/detalhe/decreto/41448-1957-250857), de 18 de Dezembro de 1957, com as alterações introduzidas pelo [Decreto n.º 45534](https://diariodarepublica.pt/dr/detalhe/decreto/45534-1964-469228), de 17 de Janeiro de 1964, adiante designada abreviadamente por Comissão, funciona junto do Instituto Nacional de Saúde Dr. Ricardo Jorge, nos termos do artigo 25.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e artigo 5.º do [Decreto n.º 35/72](https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878), de 31 de Janeiro, e passa a ter a seguinte composição:
+Artigo 1.º - 1. A Comissão Técnica dos Novos Medicamentos, criada pelo [Decreto n.º 41448](https://diariodarepublica.pt/dr/detalhe/decreto/41448-1957-250857), de 18 de Dezembro de 1957, com as alterações introduzidas pelo [Decreto n.º 45534](https://diariodarepublica.pt/dr/detalhe/decreto/45534-1964-469228), de 17 de Janeiro de 1964, adiante designada abreviadamente por Comissão, funciona junto do Instituto Nacional de Saúde Dr. Ricardo Jorge, nos termos do artigo 25.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e artigo 5.º do [Decreto n.º 35/72](https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878), de 31 de Janeiro, e passa a ter a seguinte composição:
 
 a) Quatro vogais médicos;
 
@@ -104,7 +128,7 @@ b) Quatro vogais químico-farmacêuticos.
 
 3. O presidente da Comissão será eleito de entre os seus vogais e terá voto de qualidade.
 
-###### Art. 2.º - 1. A Comissão disporá ainda de:
+Art. 2.º - 1. A Comissão disporá ainda de:
 
 a) Um conjunto de assessores técnicos, nomeados por despacho do Secretário de Estado da Saúde, sob proposta do presidente da Comissão, a quem competirá dar pareceres especializados sobre medicamentos de determinados sectores da terapêutica, sempre que a Comissão o considere necessário;
 
@@ -118,8 +142,8 @@ c) Uma secretaria própria, com pessoal destacado do quadro administrativo do In
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 15 de Abril de 1976.**
+Promulgado em 15 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

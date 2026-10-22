@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-1975-300804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a62225dab0222c89c1445c71d254b7f9c3a459b4e440906689ba8000f16e6d8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 351fc00a25189c86cd852692006359cca15b4ba77007f2df6e6b040d4daead76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:51Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +87,17 @@ de 8 de Janeiro
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Relativo às Emendas da Convenção entre a República Portuguesa e a República Federal da Alemanha sobre Segurança Social, de 6 de Novembro de 1964, e do Acordo Complementar de 8 de Dezembro de 1966, bem como o respectivo Protocolo Final.
+Artigo único. É aprovado, para ratificação, o Acordo Relativo às Emendas da Convenção entre a República Portuguesa e a República Federal da Alemanha sobre Segurança Social, de 6 de Novembro de 1964, e do Acordo Complementar de 8 de Dezembro de 1966, bem como o respectivo Protocolo Final.
 
 O Acordo e o Protocolo Final agora aprovados para ratificação foram assinados em Lisboa, em 30 de Setembro de 1974, e os respectivos textos, em português e alemão, vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Joaquim Jorge de Pinho Campinos.
 
-**Assinado em 30 de Dezembro de 1974.**
+Assinado em 30 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO RELATIVO ÀS EMENDAS DA CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FEDERAL DA ALEMANHA SOBRE SEGURANÇA SOCIAL, DE 6 DE NOVEMBRO DE 1964, E DO ACORDO COMPLEMENTAR DE 8 DE DEZEMBRO DE 1966.
 
@@ -207,4 +207,4 @@ Pela República Federal da Alemanha:
 
 Fritz Caspari.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/00600/00130016.pdf))](https://files.diariodarepublica.pt/1s/1975/01/00600/00130016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/00600/00130016.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/1998/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-1998-218955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:09:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e79c9bb829915da8ae239d8006c9cd5b69a3f6a7ee47d8f876b223b4b603035
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 011c2bc65446ff5245e3be8a30d310cc8bd9fb48c2291c0ee4d9b12c3c5c6fe9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:09:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AIEA
+- Convenção
+- Energia Nuclear
+- Portugal
 - Radioprotecção
 - Segurança Nuclear
-- Convenção
-- Portugal
-- Energia Nuclear
 - Viena
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:09:29Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1998. - Jaime José Matos da Gama - Jaime José Matos da Gama - José Mariano Rebelo Pires Gago.
 
-**Assinado em 25 de Fevereiro de 1998.**
+Assinado em 25 de Fevereiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Fevereiro de 1998.**
+Referendado em 26 de Fevereiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONVÉNIO DE COOPERAÇÃO CIENTÍFICA E TÉCNICA ENTRE O MINISTÉRIO DA CIÊNCIA E DA TECNOLOGIA DA REPÚBLICA PORTUGUESA E O MINISTÉRIO DA EDUCAÇÃO, CIÊNCIA E CULTURA DA REPÚBLICA DE CABO VERDE.
 
@@ -128,9 +128,7 @@ Tendo em conta o apoio à mobilidade de cientistas e tecnólogos dos dois paíse
 
 As Partes celebram o presente Convénio, nos termos constantes das disposições seguintes:
 
-Artigo I
-
-Objectivos do Convénio
+###### Artigo I — Objectivos do Convénio
 
 1 - O presente Convénio tem por objecto o desenvolvimento da cooperação científica e técnica entre os dois países, numa base de igualdade e benefício mútuo.
 
@@ -140,9 +138,7 @@ Objectivos do Convénio
 
 4 - Os projectos em que seja concretizada a cooperação prevista no presente Convénio realizar-se-ão de acordo com as suas normas e os protocolos específicos que, em cada caso, sejam adoptados para precisar condições concretas da respectiva execução.
 
-Artigo II
-
-Implementação do Convénio
+###### Artigo II — Implementação do Convénio
 
 A cooperação a que faz referência o artigo I assumirá, entre outras, as seguintes formas:
 
@@ -166,9 +162,7 @@ i) Divulgação, nos seus respectivos países, dos resultados, progressos, méto
 
 j) Qualquer outra modalidade de cooperação científica e técnica requerida pelas circunstâncias e mutuamente acordada.
 
-Artigo III
-
-Encargos financeiros
+###### Artigo III — Encargos financeiros
 
 As condições de aplicação do presente Convénio, no que se refere a responsabilidades e obrigações de cada Parte, à divisão de encargos financeiros dos programas e projectos de cooperação que se efectuarem e ao regime do pessoal científico e técnico a eles adstrito, serão especificadas em protocolos que, em cada caso, venham a ser adoptados, que deverão respeitar as seguintes condições:
 
@@ -178,23 +172,17 @@ b) A repartição de encargos financeiros correspondentes a casos especiais ser�
 
 c) Os encargos financeiros serão suportados pelas Partes signatárias.
 
-Artigo IV
-
-Fundo de Apoio à Cooperação de Ligação entre Cabo Verde e Portugal
+###### Artigo IV — Fundo de Apoio à Cooperação de Ligação entre Cabo Verde e Portugal
 
 As missões de curta duração, no máximo de 15 dias, com vista à elaboração de projectos ou programas de investigação e desenvolvimento conjuntos serão financiadas pela Parte portuguesa, com cabimento no Ministério da Ciência e da Tecnologia, após prévio acordo das instituições de acolhimento e de origem dos investigadores, até ao limite de 20 missões por ano, de acordo com o modelo já experimentado do Fundo FACIL, criado em 1987.
 
-Artigo V
-
-Propriedade intelectual e industrial
+###### Artigo V — Propriedade intelectual e industrial
 
 1 - O acesso das Partes aos benefícios das inovações técnicas e descobertas científicas que eventualmente tenham lugar aquando da realização conjunta de estudos e trabalhos a que se refere a alínea e) do artigo II do presente Convénio será regulado em protocolo próprio.
 
 2 - Se as Partes assim o entenderam, o regime de propriedades intelectual e industrial aplicável a umas e outras será regulamentado mediante acordo ou protocolo especial negociado para o efeito.
 
-Artigo VI
-
-Aplicação do Convénio
+###### Artigo VI — Aplicação do Convénio
 
 1 - As entidades responsáveis pela aplicação do Convénio são o Instituto de Cooperação Científica e Tecnológica Internacional, por parte do Ministério da Ciência e da Tecnologia português, e a Direcção-Geral do Ensino Superior e Ciência, por parte do Ministério da Educação, Ciência e Cultura de Cabo Verde.
 
@@ -204,15 +192,11 @@ A comissão elaborará o seu regulamento, se assim o considerar oportuno, e pode
 
 3 - A referida comissão deverá identificar as acções susceptíveis de serem consideradas no âmbito do presente Convénio, analisar as propostas apresentadas por cada uma das Partes Contratantes e, quando for o caso, recomendar a sua aceitação. A comissão deverá proceder ao acompanhamento e análise da execução das acções em curso, propondo as medidas que se considerem necessárias para a correcta realização da cooperação entre os dois países. Nas suas reuniões, a comissão de acompanhamento ocupar-se-á, para além da programação de todas as acções de cooperação, de perspectivar novas áreas para a expansão do âmbito da cooperação científica e tecnológica.
 
-Artigo VII
-
-Resolução de diferendos
+###### Artigo VII — Resolução de diferendos
 
 Qualquer diferendo que surja entre as Partes Contratantes resultante da aplicação do presente Convénio ou da interpretação das suas cláusulas será resolvido por via diplomática.
 
-Artigo VIII
-
-Duração e revisão
+###### Artigo VIII — Duração e revisão
 
 1 - O presente Convénio entrará em vigor na data da troca dos instrumentos de ratificação e terá a duração de cinco anos, sendo tacitamente prorrogado por iguais períodos, salvo se uma das Partes comunicar à outra, por escrito e por via diplomática, com a antecipação mínima de seis meses, a sua decisão de denunciá-lo.
 
@@ -220,6 +204,6 @@ Duração e revisão
 
 Feito na cidade da Praia no dia 30 do mês de Setembro de 1997, em dois originais, em português, fazendo ambos os textos igualmente fé.
 
-**O Ministro da Ciência e da Tecnologia da República Portuguesa, José Mariano Rebelo Pires Gago.**
+O Ministro da Ciência e da Tecnologia da República Portuguesa, José Mariano Rebelo Pires Gago.
 
-**O Ministro da Educação, Ciência e Cultura da República de Cabo Verde, José Luís Livramento Monteiro.**
+O Ministro da Educação, Ciência e Cultura da República de Cabo Verde, José Luís Livramento Monteiro.

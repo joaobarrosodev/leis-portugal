@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/17600/19831983.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/61-1980-470240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e1d23e1a9ebcc0b006344970eba669a252dcfcc3bdf52ca6d3ede843497bcd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34e87c5551f21c2a5543ab16a8c130d65a8233ea2422255ddb33e98e798de262
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bombeiro
+- Gratificação
 relationships:
 - type: amended_by
   target: pt:dre:665686:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:450822:por
+  label: "Alterado o nº 2 do art. 1º, pelo DR.39/83.1983.05.09.MAI, DR.IS [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/39-1983-450822
+  date: '1983-05-09'
+- type: cites
+  target: pt:dre:327343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665686:por
+  label: Revogado pelo(a) Decreto-Lei n.º 373/93 - Diário da República n.º 258/1993, Série I-A de 1993-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-1993-665686
+  date: '1993-11-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:46Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +132,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal dos Batalhões de Sapadores Bombeiros de Lisboa e do Porto perceberá um «suplemento por serviço de prevenção e vigilância» de quantitativo mensal correspondente à percentagem de 10% do vencimento base de capitão para o chefe-ajudante, chefe de 1.ª classe e chefe de 2.ª classe e 10% do vencimento base de subchefe para o subchefe-ajudante, subchefe, cabo e sapador bombeiro, arredondado para a centena de escudos imediatamente superior.
+Artigo 1.º - 1 - O pessoal dos Batalhões de Sapadores Bombeiros de Lisboa e do Porto perceberá um «suplemento por serviço de prevenção e vigilância» de quantitativo mensal correspondente à percentagem de 10% do vencimento base de capitão para o chefe-ajudante, chefe de 1.ª classe e chefe de 2.ª classe e 10% do vencimento base de subchefe para o subchefe-ajudante, subchefe, cabo e sapador bombeiro, arredondado para a centena de escudos imediatamente superior.
 
 2 - O «suplemento por serviço de prevenção e vigilância» é considerado para os efeitos do disposto na alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação e, como tal, está sujeito aos descontos de quota para a Caixa Geral de Aposentações.
 
@@ -108,12 +140,12 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 4 - Não são abrangidos pelo disposto no n.º 1 os sapadores bombeiros recrutas.
 
-###### Art. 2.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Francisco Sá Carneiro - Eurico de Melo.
 
-**Promulgado em 18 de Julho de 1980.**
+Promulgado em 18 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/80-1978-299629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cfb8acc8fb08a09e7c757886c84d2fbf22705b3c1c7a469b83d0523b46d47d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2fb6097fd4246fd49ddad526f310537eef55d513aeec5f249471b6feb003e74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola Náutica Infante Dom Henrique
+- Fardamento
+- Igualdade de Tratamento
+- Marinha Mercante
+- Mulher
+relationships:
+- type: cites
+  target: pt:dre:302763:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:11Z'
   warnings: []
   errors: []
 ---
@@ -94,21 +103,21 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A designação do capítulo I e o corpo do seu artigo 1.º do [Decreto n.º 41607](https://diariodarepublica.pt/dr/detalhe/decreto/41607-1958-302763), de 3 de Maio de 1958, passam a ter a seguinte redacção:
+Artigo 1.º A designação do capítulo I e o corpo do seu artigo 1.º do [Decreto n.º 41607](https://diariodarepublica.pt/dr/detalhe/decreto/41607-1958-302763), de 3 de Maio de 1958, passam a ter a seguinte redacção:
 
 ### CAPÍTULO I — Artigos de fardamento dos oficiais da marinha mercante do sexo masculino
 
-###### Artigo 1.º Os artigos de fardamento dos oficiais da marinha mercante do sexo masculino são os seguintes:
+Artigo 1.º Os artigos de fardamento dos oficiais da marinha mercante do sexo masculino são os seguintes:
 
 ...
 
-###### Art. 2.º É suprimido o capítulo IV do referido decreto, passando, respectivamente, o capítulo II e o seu artigo 2.º a capítulo III e artigo 3.º e o capítulo III e seus artigos 3.º, 4.º, 5.º e 6.º a capítulo IV e artigos 4.º, 5.º, 6.º e 7.º
+Art. 2.º É suprimido o capítulo IV do referido decreto, passando, respectivamente, o capítulo II e o seu artigo 2.º a capítulo III e artigo 3.º e o capítulo III e seus artigos 3.º, 4.º, 5.º e 6.º a capítulo IV e artigos 4.º, 5.º, 6.º e 7.º
 
-###### Art. 3.º A designação do capítulo II e a redacção do artigo 2.º do mesmo diploma passam a ser as seguintes:
+Art. 3.º A designação do capítulo II e a redacção do artigo 2.º do mesmo diploma passam a ser as seguintes:
 
 ### CAPÍTULO II — Artigos de fardamento dos oficiais da marinha mercante do sexo feminino
 
-###### Art. 2.º Os artigos de fardamento dos oficiais da marinha mercante do sexo feminino são os seguintes:
+Art. 2.º Os artigos de fardamento dos oficiais da marinha mercante do sexo feminino são os seguintes:
 
 Blusão:
 
@@ -222,12 +231,12 @@ De calf azul-escuro, com 0,018 m de altura e 0,030 m de comprimento; foles later
 
 Mário Soares - Manuel Branco Ferreira Lima.
 
-**Promulgado em 7 de Julho de 1978.**
+Promulgado em 7 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/18300/16331638.pdf))](https://files.diariodarepublica.pt/1s/1978/08/18300/16331638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/18300/16331638.pdf)
 
-**O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.**
+O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.

@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/140-1978-326723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:49:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0190db8179969178198ec7e918e162f6c8345c8a6933bf2d65659b2a75c4d85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b57f4a925cb79d8cfca7e07b88d2e3c0215428e38a4948f0e2bc1e791c0c8b6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Coordenador
+- Ensino Preparatório
+- Ensino Secundário
+- Ensino Superior
+- Estágio de Formação
+- Faculdade de Ciências
+- Remuneração Acessória
+relationships:
+- type: cites
+  target: pt:dre:296866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391211:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:49:15Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +115,18 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aditado ao artigo 3.º do [Decreto n.º 925/76](https://diariodarepublica.pt/dr/detalhe/decreto/925-1976-391211), de 31 de Dezembro, um novo número, do seguinte teor:
+Artigo 1.º É aditado ao artigo 3.º do [Decreto n.º 925/76](https://diariodarepublica.pt/dr/detalhe/decreto/925-1976-391211), de 31 de Dezembro, um novo número, do seguinte teor:
 
 6 - Sempre que as circunstâncias o permitam, poderão ainda ser nomeados, como membros do núcleo de estágio, professores universitários da área das ciências de educação aos quais é aplicável o disposto no artigo 6.º deste diploma.
 
-###### Art. 2.º - 1 - Os professores do ensino superior e os professores dos ensinos preparatório e secundário referidos no n.º 2 da [Portaria n.º 438/78](https://diariodarepublica.pt/dr/detalhe/portaria/438-1978-296866), de 4 de Agosto, que, respectivamente, coordenam e orientam os estágios mencionados no artigo 2.º do [Decreto-Lei n.º 210/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1978-296998), de 27 de Julho, têm direito à gratificação mensal de 2500$00, que é vencível pelos meses em que durar o estágio.
+Art. 2.º - 1 - Os professores do ensino superior e os professores dos ensinos preparatório e secundário referidos no n.º 2 da [Portaria n.º 438/78](https://diariodarepublica.pt/dr/detalhe/portaria/438-1978-296866), de 4 de Agosto, que, respectivamente, coordenam e orientam os estágios mencionados no artigo 2.º do [Decreto-Lei n.º 210/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1978-296998), de 27 de Julho, têm direito à gratificação mensal de 2500$00, que é vencível pelos meses em que durar o estágio.
 
 2 - As nomeações dos docentes referidos no número anterior são feitas por conveniência urgente de serviço público e serão objecto de diplomas de provimento a visar pelo Tribunal de Contas.
 
 Alfredo Jorge Nobre da Costa - José da Silva Lopes - Carlos Alberto Lloyd Braga.
 
-**Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 13 de Novembro de 1978.**
+Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 13 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, TEÓFILO CARVALHO DOS SANTOS.**
+O Presidente da República Interino, TEÓFILO CARVALHO DOS SANTOS.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 297/1980, 1º Suplemento, Série I de 1980-12-26
   number: '297'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4216-(1) a 4216-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/29701/00010006.pdf
 entry_into_force_dates: []
@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/143-a-1980-568087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8abcf4e43be31e0f423f5c7c97f7d70b1598cc228ba232d91dbbe46a1ecb3ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 017e6f429afb6d967d4d98bc4a5176d8ea51736dfb107cb199cef00ce645263d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adesão à Comunidade Europeia
+- Ajuda Comunitária
+- CEE
+- Convenção
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:55Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 26 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo, por troca de cartas, entre a República Portuguesa e a Comunidade Económica Europeia Relativo à Implementação de Uma Ajuda Pré-Adesão a Favor de Portugal, assinado em Bruxelas em 3 de Dezembro de 1980, cujos textos, nas línguas portuguesa e francesa, acompanham o presente decreto.
+Artigo único. É aprovado o Acordo, por troca de cartas, entre a República Portuguesa e a Comunidade Económica Europeia Relativo à Implementação de Uma Ajuda Pré-Adesão a Favor de Portugal, assinado em Bruxelas em 3 de Dezembro de 1980, cujos textos, nas línguas portuguesa e francesa, acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 18 de Dezembro de 1980.**
+Assinado em 18 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo, por troca de cartas, entre a República Portuguesa e a Comunidade Económica Europeia Relativo à Implementação de Uma Ajuda Pré-Adesão a Favor de Portugal.
 
@@ -117,7 +122,9 @@ Colette Flesch.
 
 Lorenzo Natali.
 
-## ANEXO I — ARTIGO 1.º
+## ANEXO I
+
+###### ARTIGO 1.º
 
 A Comunidade participa, a título excepcional e nas condições a seguir discriminadas, no financiamento de acções concretas empreendidas pelo Governo Português com vista a facilitar a integração harmoniosa da economia portuguesa na Comunidade depois da adesão de Portugal às Comunidades Europeias.
 

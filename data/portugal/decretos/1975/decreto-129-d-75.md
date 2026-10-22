@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 61/1975, 4º Suplemento, Série I de 1975-03-13
   number: '61'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 390-(7) a 390-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/06104/00070007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/129-d-1975-601978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aca4724fcb8e3aae819c4bbd2c7c1128930895195b1def3a0a222ab82daab9b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 931bb44c9f63d8019acb632bf8cf656c35d7bf5642e52bef6d8abf7ee8ae9b69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:466042:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:05Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +96,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É atribuída, a título excepcional, a pensão vitalícia mensal de 11150$00 à viúva do general Humberto da Silva Delgado, D. Maria Iva Andrade da Silva Delgado.
+Artigo 1.º É atribuída, a título excepcional, a pensão vitalícia mensal de 11150$00 à viúva do general Humberto da Silva Delgado, D. Maria Iva Andrade da Silva Delgado.
 
-###### Art. 2.º A actualização da pensão prevista no artigo anterior processar-se-á de acordo com o regime jurídico geral desta matéria.
+Art. 2.º A actualização da pensão prevista no artigo anterior processar-se-á de acordo com o regime jurídico geral desta matéria.
 
-###### Art. 3.º Este diploma entra em vigor a partir da data do diploma de reintegração do general Humberto da Silva Delgado.
+Art. 3.º Este diploma entra em vigor a partir da data do diploma de reintegração do general Humberto da Silva Delgado.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - Vasco dos Santos Gonçalves - Silvano Ribeiro - José Joaquim Fragoso.
 
-**Promulgado em 13 de Março de 1975.**
+Promulgado em 13 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

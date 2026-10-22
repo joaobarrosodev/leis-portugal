@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/2002/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-2002-152924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:12:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c80408ee1069df58323878f60f835cfc01866365b650d8c5fbf026d8d58b48fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28fe1af4a6eb26a1b5636cf4f120201f97508fae909e7b6b38ced9c052559f4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:12:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/767-a/1993/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/767-a/1993/08/31/p/dre
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:12:41Z'
   warnings: []
   errors: []
 ---
@@ -210,14 +234,14 @@ b) [Decreto n.º 131/80](https://diariodarepublica.pt/dr/detalhe/decreto/131-198
 
 Visto a aprovado em Conselho de Ministros de 21 de Março de 2002. - António Manuel de Oliveira Guterres - Rui Eduardo Ferreira Rodrigues Pena - Henrique Nuno Pires Severiano Teixeira - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 7 de Maio de 2002.**
+Promulgado em 7 de Maio de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Maio de 2002.**
+Referendado em 9 de Maio de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/05/122b00/47254727.pdf)

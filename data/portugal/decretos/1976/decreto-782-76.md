@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/782-1976-409309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f77402a3385adc9c5076c3485382a365be412f03e482c67240b56ccfbcdd2aae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faa22dd39be52af09bbef9256a4e574dc29438e3c338a933c420bf3c22a725b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional de Eleições
+- Substituição de Funções
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:20Z'
   warnings: []
   errors: []
 ---
@@ -87,14 +89,14 @@ de 29 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O licenciado Manuel Vitorino Domingues de Queirós e o desembargador José de Albuquerque e Sousa são substituídos na Comissão Nacional das Eleições, respectivamente, pelos licenciados Mateus António Maniés Roque e José Maria Roque Lino.
+Artigo 1.º O licenciado Manuel Vitorino Domingues de Queirós e o desembargador José de Albuquerque e Sousa são substituídos na Comissão Nacional das Eleições, respectivamente, pelos licenciados Mateus António Maniés Roque e José Maria Roque Lino.
 
-###### Art. 2.º O presente decreto entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente decreto entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Manuel da Costa Brás - António de Almeida Santos - José Manuel de Medeiros Ferreira.
 
-**Promulgado em 18 de Outubro de 1976.**
+Promulgado em 18 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

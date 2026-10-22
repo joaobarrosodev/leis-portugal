@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/69-1974-412855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6c85383162ef92fc9fa6257bade4de56f45dc0ecc180c1160d6b89f5f5a3672
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4551da3f1a32dd9e823cfc0ef95cfd092c387de98d45333369517a9cac258c88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684579:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:04Z'
   warnings: []
   errors: []
 ---
@@ -88,24 +96,24 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério das Comunicações, um crédito especial de 107322000$00, a inscrever no segundo dos mencionados Ministérios sob a seguinte forma:
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério das Comunicações, um crédito especial de 107322000$00, a inscrever no segundo dos mencionados Ministérios sob a seguinte forma:
 
 Despesa extraordinária
 
 Outras despesas extraordinárias
 
-### Capítulo 22.º «Secretaria-Geral»:
+Capítulo 22.º «Secretaria-Geral»:
 
 Despesas de capital:
 
-###### Artigo 535.º «Transferências - Empresas»:
+Artigo 535.º «Transferências - Empresas»:
 
 N.º 1 «Subsídio extraordinário, não reembolsável, à Companhia dos Caminhos de Ferro Portugueses (C. P.), nos termos do n.º 4.º do artigo 16.º do [Decreto-Lei n.º 80/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1973-684579), de 2 de Março» ... 107322000$00
 
-###### Art. 2.º Para compensação do crédito previsto no artigo anterior, é adicionada igual importância à verba descrita em receita extraordinária, no capítulo 12.º, grupo 9 «Títulos a longo prazo - Outros sectores», artigo 205.º «Crédito interno», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação do crédito previsto no artigo anterior, é adicionada igual importância à verba descrita em receita extraordinária, no capítulo 12.º, grupo 9 «Títulos a longo prazo - Outros sectores», artigo 205.º «Crédito interno», do actual orçamento das receitas do Estado.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 13 de Fevereiro de 1974.**
+Promulgado em 13 de Fevereiro de 1974.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

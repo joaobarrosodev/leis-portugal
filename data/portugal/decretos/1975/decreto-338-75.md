@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 150/1975, 1º Suplemento, Série I de 1975-07-02
   number: '150'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 920-(2) a 920-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/15001/00020010.pdf
 entry_into_force_dates: []
@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/338-1975-640583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f520cf719f6f9ab4973a9628f784347dc8506bd8de54fa4fdc1d205ae876ce5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37129e129a8bb7b843cf67ac7dc7de34c3ae62709c04ee69d9f565f56620a349
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- HAIA
+- Obrigação Alimentar
+- Portugal
+- Proteção à Infância
+- Protecção à Família
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:05Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +92,15 @@ de 2 de Julho
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção sobre o Reconhecimento e Execução das Decisões Relativas às Obrigações Alimentares, concluída na Haia em 2 de Outubro de 1973, cujo texto original em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção sobre o Reconhecimento e Execução das Decisões Relativas às Obrigações Alimentares, concluída na Haia em 2 de Outubro de 1973, cujo texto original em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 16 de Junho de 1975.**
+Assinado em 16 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 CONVENTION CONCERNANT LA RECONNAISSANCE ET L'EXÉCUTION DE DÉCISIONS RELATIVES AUX OBLIGATIONS ALIMENTAIRES
 
@@ -424,7 +430,7 @@ Resolveram celebrar para esse efeito uma Convenção e acordaram nas seguintes d
 
 ### CAPÍTULO I — Campo de aplicação da Convenção
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 A presente Convenção é aplicável às decisões em matéria de obrigações alimentares provenientes de relações de família, de parentesco, de casamento ou de afinidade, incluindo as obrigações alimentares para com um filho ilegítimo, proferidas pelas autoridades judiciais ou administrativas de um Estado contratante entre:
 
@@ -434,7 +440,7 @@ A presente Convenção é aplicável às decisões em matéria de obrigações a
 
 É igualmente aplicável às transacções celebradas sobre esta matéria perante essas autoridades e entre essas pessoas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A Convenção é aplicável às decisões e transacções, seja qual for a sua denominação.
 
@@ -442,13 +448,13 @@ A Convenção é aplicável às decisões e transacções, seja qual for a sua d
 
 É aplicável independentemente do carácter internacional ou interno do pedido de alimentos e seja qual for a nacionalidade ou a residência habitual das partes.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Se a decisão ou a transacção não respeitar apenas a uma obrigação alimentar, o efeito da Convenção ficará limitado a esta última.
 
 ### CAPÍTULO II — Condições para o reconhecimento e execução das decisões
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Uma decisão proferida num Estado deve ser reconhecida ou declarada executória noutro Estado contratante:
 
@@ -458,7 +464,7 @@ Uma decisão proferida num Estado deve ser reconhecida ou declarada executória 
 
 As decisões provisoriamente executórias e as medidas provisórias são, embora susceptíveis de recurso ordinário, reconhecidas ou declaradas executórias no Estado requerido, se semelhantes decisões aí puderem ser proferidas e executadas.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 O reconhecimento ou a execução de decisão podem, contudo, ser recusados:
 
@@ -470,11 +476,11 @@ O reconhecimento ou a execução de decisão podem, contudo, ser recusados:
 
 4. Se a decisão for incompatível com outra proferida entre as mesmas partes e sobre a mesma matéria, quer no Estado requerido, quer noutro Estado, desde que, neste último caso, ele reúna as condições necessárias para o seu reconhecimento e execução no Estado requerido.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Sem prejuízo do disposto no artigo 5.º, uma decisão proferida à revelia só é reconhecida ou declarada executória se a petição inicial, contendo os elementos essenciais do pedido, foi dada a conhecer à parte revel nos termos previstos na lei do Estado de origem e se, atendendo às circunstâncias, essa parte dispôs de prazo suficiente para apresentar a sua defesa.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 A autoridade do Estado de origem é considerada competente no sentido da Convenção:
 
@@ -484,45 +490,45 @@ A autoridade do Estado de origem é considerada competente no sentido da Conven�
 
 3. Se o demandado se submeteu à competência daquela autoridade, quer expressamente, quer ao defender-se sobre o mérito da causa sem reservas quanto à competência.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Sem prejuízo do disposto no artigo 7.º, as autoridades de um Estado contratante que tenham proferido decisão sobre um pedido de alimentos são consideradas como competentes para os efeitos da Convenção, se esses alimentos são devidos por motivo de divórcio, de separação de pessoas e bens, de anulação ou de nulidade do casamento, decretados por autoridade daquele Estado reconhecida como competente nessa matéria pela lei do Estado requerido.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 A autoridade do Estado requerido fica vinculada aos factos sobre os quais a autoridade do Estado de origem tenha baseado a sua competência.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Se a decisão abranger vários pontos do pedido de alimentos e se o reconhecimento ou a execução não puderem ser concedidos para o todo, a autoridade do Estado requerido aplicará a Convenção à parte da decisão que puder ser reconhecida ou declarada executória.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Sempre que a decisão tiver estipulado a prestação de alimentos através de pagamentos periódicos, a execução será concedida tanto para os pagamentos vencidos como para os vincendos.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 A autoridade do Estado requerido não procederá a exame sobre o mérito da decisão, a não ser que a Convenção disponha de outro modo.
 
 ### CAPÍTULO III — Processo para o reconhecimento e execução das decisões
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 O processo para o reconhecimento ou execução da decisão é regulamentado pelo direito do Estado requerido, a não ser que a Convenção disponha de outro modo.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Pode sempre pedir-se o reconhecimento ou a execução parcial de uma decisão.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 O credor de alimentos que, no Estado de origem, tenha beneficiado, no todo ou em parte, de assistência judiciária ou de isenção das custas e despesas beneficia, em qualquer processo de reconhecimento ou de execução, da assistência mais favorável ou da mais ampla isenção prevista pelo direito do Estado requerido.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Não pode exigir-se qualquer caução ou depósito, seja sob que denominação for, para garantir o pagamento de custas e despesas nos processos a que se refere a Convenção.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 A parte que pretende o reconhecimento ou a execução de uma decisão deve apresentar:
 
@@ -542,7 +548,7 @@ Não é exigível qualquer legalização ou formalidade análoga.
 
 ### CAPÍTULO IV — Disposições complementares relativas às instituições públicas
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 A decisão proferida contra um devedor de alimentos a pedido de uma instituição pública que requer o reembolso de prestações pagas ao credor de alimentos é reconhecida e declarada executória, de acordo com a Convenção:
 
@@ -550,41 +556,41 @@ A decisão proferida contra um devedor de alimentos a pedido de uma instituiçã
 
 2. Se a existência de uma obrigação alimentar entre o credor e o devedor é prevista pela lei interna designada pelo direito internacional privado do Estado requerido.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Uma instituição pública pode, na medida das prestações pagas ao credor, requerer o reconhecimento ou a execução de uma decisão proferida entre o credor e o devedor de alimentos se, de acordo com a lei que a rege, está habilitada de pleno direito a invocar o reconhecimento ou a requerer a execução da decisão em lugar do credor.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Sem prejuízo do disposto no artigo 17.º, a instituição pública que requeira o reconhecimento ou a execução deve apresentar documento comprovativo de que satisfaz as condições previstas no artigo 18.º, n.º 1, ou no artigo 19.º e de que as prestações foram pagas ao credor de alimentos.
 
 ### CAPÍTULO V — Transacções
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 As transacções executórias no Estado de origem são reconhecidas e declaradas executórias nas mesmas condições que as decisões, na medida em que estas condições lhes sejam aplicáveis.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Os Estados contratantes cuja lei imponha restrições a transferências de fundos concederão a maior prioridade às transferências de fundos destinados ao pagamento de alimentos ou de custas e despesas respeitantes a qualquer processo abrangido pela Convenção.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 A Convenção não obsta a que outro instrumento internacional em vigor entre o Estado de origem e o Estado requerido ou o direito não convencional do Estado requerido sejam invocados para se obter o reconhecimento ou a execução de uma decisão ou de uma transacção.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 A Convenção é aplicável independentemente da data em que tenha sido proferida a decisão.
 
 Quando a decisão tiver sido proferida antes da entrada em vigor da Convenção entre o Estado de origem e o Estado requerido, só será declarada executória neste último Estado para efeito de pagamentos a realizar depois de tal entrada em vigor.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 Qualquer Estado contratante pode, a todo o tempo, declarar que as disposições da Convenção serão extensivas, nas suas relações com os Estados que tiverem feito a mesma declaração, a todo o acto autêntico, emitido por ou perante uma autoridade ou oficial público, válido e executório no Estado de origem, na medida em que estas disposições puderem ser aplicadas a esses actos.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 Qualquer Estado contratante poderá, em conformidade com o artigo 34.º, reservar-se o direito de não reconhecer nem declarar executórias:
 
@@ -600,11 +606,11 @@ b) Entre afins;
 
 Nenhum Estado contratante que tiver feito uma reserva poderá pretender a aplicação da Convenção às decisões e acordos excluídos por essa reserva.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Se um Estado contratante tiver, em matéria de obrigações alimentares, dois ou mais sistemas de direito aplicáveis a diferentes categorias de pessoas, qualquer referência à lei desse Estado visará o sistema jurídico que a sua lei designar como aplicável a uma categoria particular de pessoas.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Se um Estado contratante compreender duas ou mais unidades territoriais, nas quais são aplicáveis diferentes sistemas de direito, no que diz respeito ao reconhecimento e execução de decisões em matéria de obrigações alimentares:
 
@@ -618,19 +624,19 @@ Se um Estado contratante compreender duas ou mais unidades territoriais, nas qua
 
 Qualquer Estado contratante pode, a todo o tempo, declarar que não aplicará uma ou várias destas regras a uma ou várias disposições da Convenção.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 A presente Convenção substitui, no que diz respeito às relações entre os Estados que nela são Partes, a Convenção Relativa ao Reconhecimento e Execução de Decisões em Matéria de Obrigações Alimentares Referentes a Menores, celebrada na Haia a 15 de Abril de 1958.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 A Convenção fica aberta à assinatura dos Estados que eram membros da Conferência da Haia de Direito Internacional Privado, quando da sua 12.ª sessão.
 
 Será ratificada, aceite ou aprovada e os instrumentos de ratificação, de aceitação ou de aprovação serão depositados no Ministério dos Negócios Estrangeiros dos Países Baixos.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 Qualquer Estado que só se tenha tornado membro da Conferência depois da 12.ª sessão, ou que pertença à Organização das Nações Unidas ou a uma instituição especializada desta, ou que seja Parte do Estatuto do Tribunal Internacional de Justiça poderá aderir à presente Convenção após a sua entrada em vigor, nos termos do artigo 35.º, parágrafo 1.º
 
@@ -638,7 +644,7 @@ O instrumento de adesão será depositado no Ministério dos Negócios Estrangei
 
 A adesão só terá efeito nas relações entre o Estado aderente e os Estados contratantes que não tiverem levantado objecção à sua adesão nos doze meses após a recepção da notificação prevista no n.º 3 do artigo 37.º Tal objecção poderá igualmente ser levantada por qualquer Estado membro quando da ratificação, aceitação ou aprovação da Convenção posterior à adesão. Estas objecções serão notificadas ao Ministério dos Negócios Estrangeiros dos Países Baixos.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 Qualquer Estado, no momento da assinatura, da ratificação, da aprovação, da aceitação ou da adesão, poderá declarar que a Convenção se estenderá ao conjunto dos territórios que representa no plano internacional ou a um ou vários de entre eles. Esta declaração produzirá efeito no momento da entrada em vigor da Convenção para o dito Estado.
 
@@ -650,7 +656,7 @@ Tal objecção poderá igualmente ser levantada por qualquer Estado membro quand
 
 Estas objecções serão notificadas ao Ministério dos Negócios Estrangeiros dos Países Baixos.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 Qualquer Estado contratante que compreenda duas ou várias unidades territoriais nas quais sejam aplicáveis diferentes sistemas de direito, no que diz respeito ao reconhecimento e execução de decisões em matéria de obrigações alimentares, poderá, quando da assinatura, da ratificação, da aceitação, da aprovação ou da adesão, declarar que a presente Convenção se estenderá a todas essas unidades territoriais ou somente a uma ou várias delas e poderá, em qualquer altura, modificar essa declaração, fazendo uma outra.
 
@@ -658,7 +664,7 @@ Estas declarações serão notificadas ao Ministério dos Negócios Estrangeiros
 
 Os outros Estados contratantes poderão recusar-se a reconhecer uma decisão em matéria de obrigações alimentares se, na data em que o reconhecimento é invocado, a Convenção não for aplicável à unidade territorial onde a decisão tenha sido obtida.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 Qualquer Estado poderá, o mais tardar até ao momento da ratificação, da aceitação, da aprovação ou da adesão, fazer uma ou várias das reservas previstas no artigo 26.º Nenhuma outra reserva será permitida.
 
@@ -668,7 +674,7 @@ Qualquer Estado contratante poderá, em qualquer altura, retirar uma reserva que
 
 O efeito da reserva cessará no primeiro dia do terceiro mês do calendário depois da notificação mencionada na alínea precedente.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 A Convenção entrará em vigor no primeiro dia do terceiro mês do calendário após o depósito do terceiro instrumento de ratificação, de aceitação ou de aprovação previsto no artigo 30.º
 
@@ -680,7 +686,7 @@ Depois, a Convenção entrará em vigor:
 
 3. Para os territórios aos quais a Convenção tenha sido tornada extensiva em conformidade com o artigo 32.º, no primeiro dia do terceiro mês do calendário após o termo do prazo referido no dito artigo.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 A Convenção terá uma duração de cinco anos a partir da data da sua entrada em vigor, em conformidade com o parágrafo primeiro do artigo 35.º, mesmo para os Estados que a tiverem posteriormente ratificado, aceitado ou aprovado ou que a ela tiverem aderido.
 
@@ -690,7 +696,7 @@ A denúncia será notificada ao Ministério dos Negócios Estrangeiros dos País
 
 A denúncia só produzirá efeito relativamente ao Estado que a tenha notificado. A Convenção permanecerá em vigor para os outros Estados contratantes.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 O Ministério dos Negócios Estrangeiros dos Países Baixos notificará aos Estados membros da Conferência, assim como aos Estados que tenham aderido em conformidade com as disposições do artigo 31.º:
 

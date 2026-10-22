@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-1974-407354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:34:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 451e3823b069f5c787bd3c6afd04b9fc97ff66d532c44d38ceceeb3a497bbc24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 161ee53236072e59c151b272e843bb715490dd22480c24a95cf11d6d3e3558cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cidadão Nacional
+- Circulação de Pessoas
+- Emigração
+- Emigrante
+- Menoridade
+- Mulher
+- Passaporte
+relationships:
+- type: cites
+  target: pt:dre:164590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458673:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:34:00Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +108,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 6.º, 7.º, 8.º e 9.º do [Decreto n.º 44428](https://diariodarepublica.pt/dr/detalhe/decreto/44428-1962-164590), de 29 de Junho de 1962, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 6.º, 7.º, 8.º e 9.º do [Decreto n.º 44428](https://diariodarepublica.pt/dr/detalhe/decreto/44428-1962-164590), de 29 de Junho de 1962, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1. O passaporte de emigrante será concedido quando o interessado tiver apresentado documentos destinados a provar:
+Art. 4.º - 1. O passaporte de emigrante será concedido quando o interessado tiver apresentado documentos destinados a provar:
 
 a) A sua identidade;
 
@@ -119,7 +134,7 @@ f) Que, tratando-se de militar em qualquer situação, tem autorização do supe
 
 5. Em casos especiais devidamente justificados, poderá ser concedido passaporte de emigrante com dispensa dos documentos a que se referem as alíneas c) e e) do n.º 1 do presente artigo.
 
-###### Art. 6.º - 1. São causas de indeferimento dos pedidos de concessão de passaporte de emigrante:
+Art. 6.º - 1. São causas de indeferimento dos pedidos de concessão de passaporte de emigrante:
 
 a) A falta de qualquer dos requisitos referidos no n.º 1 do artigo 4.º, sem prejuízo do disposto nos n.os 2 a 5 do mesmo artigo;
 
@@ -129,7 +144,7 @@ c) A oposição do pedido com quaisquer outras normas legais.
 
 2. O despacho que recusar a concessão de passaporte de emigrante será fundamentado e dele cabe recurso para o Presidente do Conselho ou para o Ministro do Ultramar, consoante os casos.
 
-###### Art. 7.º - 1. O passaporte de emigrante pode ser individual ou familiar.
+Art. 7.º - 1. O passaporte de emigrante pode ser individual ou familiar.
 
 2. O passaporte individual respeita apenas a uma pessoa e é exigível a partir dos 16 anos de idade, se os menores não viajarem em companhia do seu pai ou mãe.
 
@@ -141,7 +156,7 @@ c) A oposição do pedido com quaisquer outras normas legais.
 
 6. Quando o titular do passaporte de emigrante se encontre em país estrangeiro, são competentes para efectuar os averbamentos referidos no presente artigo as autoridades consulares portuguesas autorizadas a conceder passaportes ordinários, as quais deverão igualmente comunicar tal facto à entidade emitente, para os mesmos efeitos do número anterior.
 
-###### Art. 8.º - 1. O passaporte de emigrante é válido para o país onde o titular está autorizado a estabelecer-se e ainda para outros países, nos mesmos termos dos passaportes ordinários.
+Art. 8.º - 1. O passaporte de emigrante é válido para o país onde o titular está autorizado a estabelecer-se e ainda para outros países, nos mesmos termos dos passaportes ordinários.
 
 2. A entidade que conceder o passaporte pode, a pedido do seu titular, ampliar a respectiva validade para novos países.
 
@@ -151,16 +166,16 @@ c) A oposição do pedido com quaisquer outras normas legais.
 
 5. Quando o titular do passaporte de emigrante se encontrar em país estrangeiro, são competentes para efectuar os averbamentos referidos no presente artigo as autoridades consulares portuguesas autorizadas a conceder passaportes ordinários.
 
-###### Art. 9.º O passaporte de emigrante é válido pelo período de cinco anos, quer para trabalhadores permanentes, quer temporários, e pode ser utilizado em número ilimitado de viagens.
+Art. 9.º O passaporte de emigrante é válido pelo período de cinco anos, quer para trabalhadores permanentes, quer temporários, e pode ser utilizado em número ilimitado de viagens.
 
-###### Art. 2.º São revogados a alínea a) do artigo 22.º do [Decreto n.º 13213](https://diariodarepublica.pt/dr/detalhe/decreto/13213-1927-458673), de 4 de Março de 1927, e o artigo 10.º do [Decreto n.º 44428](https://diariodarepublica.pt/dr/detalhe/decreto/44428-1962-164590), de 29 de Junho de 1962.
+Art. 2.º São revogados a alínea a) do artigo 22.º do [Decreto n.º 13213](https://diariodarepublica.pt/dr/detalhe/decreto/13213-1927-458673), de 4 de Março de 1927, e o artigo 10.º do [Decreto n.º 44428](https://diariodarepublica.pt/dr/detalhe/decreto/44428-1962-164590), de 29 de Junho de 1962.
 
 Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 18 de Janeiro de 1974.**
+Promulgado em 18 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - B. Rebelo de Sousa.

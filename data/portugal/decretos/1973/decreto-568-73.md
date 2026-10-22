@@ -47,36 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/568-1973-412466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4513309a4c565881d158a3a0a21dbfdbbb48b061c006397b906cf525f3be403
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de2d4192bdcbb2971a5da82fa3297876f5976d5b0ceadd9091189d1ccad72c6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Contrato
+- Estatuto
+- Exploração Mineira
+- Junta de Energia Nuclear
+- Ministro do Ultramar
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:142307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675049:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:410949:por
+  label: "Rectificada a alínea d) do n.º 2 e n.º 8 da base XVII, o n.º 1 da base XVIII e a alínea g) da base XXXI, pelo DECL.DD9054.07.12.1973.PC,\
+    \ DG.IS [285] de 07.12.1973\03"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-410949
+  date: '1973-12-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:38Z'
   warnings: []
   errors: []
 ---
@@ -105,25 +154,25 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação do Estado de Angola, com uma sociedade anónima portuguesa de responsabilidade limitada, a constituir pela Junta de Energia Nuclear, Companhia Mineira do Lobito, S. A. R. L., e General Mining and Finance Corporation, Ltd., um contrato em conformidade com as bases anexas ao presente decreto, que são aprovadas para todos os efeitos, dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação do Estado de Angola, com uma sociedade anónima portuguesa de responsabilidade limitada, a constituir pela Junta de Energia Nuclear, Companhia Mineira do Lobito, S. A. R. L., e General Mining and Finance Corporation, Ltd., um contrato em conformidade com as bases anexas ao presente decreto, que são aprovadas para todos os efeitos, dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar.
 
-###### Art. 2.º Além das partes contratantes previstas no artigo anterior, outorgarão também no contrato a Companhia Mineira do Lobito e a Junta de Energia Nuclear, para os efeitos, respectivamente, de a primeira transferir para a nova sociedade os direitos que possui nas áreas que são objecto da nova concessão e de a segunda transferir, temporariamente, para a mesma sociedade os direitos mineiros sobre as mesmas áreas, de que é detentora ao abrigo do [Decreto-Lei n.º 48970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48970-1969-525985), de 17 de Abril de 1969, que se manterão salvaguardados a seu favor, nos termos do citado decreto-lei, quando as referidas áreas venham a ser abandonadas pela sociedade a constituir, ao abrigo ou por imposição do contrato.
+Art. 2.º Além das partes contratantes previstas no artigo anterior, outorgarão também no contrato a Companhia Mineira do Lobito e a Junta de Energia Nuclear, para os efeitos, respectivamente, de a primeira transferir para a nova sociedade os direitos que possui nas áreas que são objecto da nova concessão e de a segunda transferir, temporariamente, para a mesma sociedade os direitos mineiros sobre as mesmas áreas, de que é detentora ao abrigo do [Decreto-Lei n.º 48970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48970-1969-525985), de 17 de Abril de 1969, que se manterão salvaguardados a seu favor, nos termos do citado decreto-lei, quando as referidas áreas venham a ser abandonadas pela sociedade a constituir, ao abrigo ou por imposição do contrato.
 
-###### Art. 3.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo de sessenta dias, contados a partir da aprovação dos seus estatutos pelo Ministro do Ultramar.
+Art. 3.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo de sessenta dias, contados a partir da aprovação dos seus estatutos pelo Ministro do Ultramar.
 
-###### Art. 4.º O contrato deverá ser assinado dentro de sessenta dias, contados a partir da data da constituição da sociedade.
+Art. 4.º O contrato deverá ser assinado dentro de sessenta dias, contados a partir da data da constituição da sociedade.
 
-###### Art. 5.º As disposições contidas no [Decreto n.º 37677](https://diariodarepublica.pt/dr/detalhe/decreto/37677-1949-268454), de 22 de Dezembro de 1949, e no contrato de 1 de Março de 1950, celebrado entre o Governo Português e a Companhia Mineira do Lobito, em harmonia com o citado decreto, não serão aplicáveis à nova sociedade.
+Art. 5.º As disposições contidas no [Decreto n.º 37677](https://diariodarepublica.pt/dr/detalhe/decreto/37677-1949-268454), de 22 de Dezembro de 1949, e no contrato de 1 de Março de 1950, celebrado entre o Governo Português e a Companhia Mineira do Lobito, em harmonia com o citado decreto, não serão aplicáveis à nova sociedade.
 
-###### Art. 6.º Este decreto entra imediatamente em vigor.
+Art. 6.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 17 de Outubro de 1973.**
+Promulgado em 17 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.
 
@@ -143,15 +192,15 @@ BASE I
 
 Área A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf))](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf)
 
 Área B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf))](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf)
 
 4. Da área A, referida no número anterior, considera-se excluída uma pequena parte, designada por «área C», com cerca de 39 km2, que não é transferida para a nova sociedade, mantendo-se, quanto a ela, os actuais direitos mineiros. Esta área C é definida por um polígono cujos vértices têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf))](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf)
 
 5. O disposto nesta base não invalida direitos mineiros anteriormente adquiridos por outros que não sejam a Companhia Mineira do Lobito e a Junta de Energia Nuclear, dentro das áreas definidas no n.º 3 desta base.
 
@@ -369,7 +418,7 @@ c) Outras despesas com trabalhos geológicos e mineiros necessários ao desenvol
 
 d) O desgaste e depreciação de imóveis, material e equipamento, segundo as percentagens anuais referidas na tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf))](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/25400/20482060.pdf)
 
 e) As perdas, prejuízos e destruições sofridas durante o ano social, não cobertas ou compensadas por seguro ou qualquer outra forma;
 
@@ -667,4 +716,4 @@ BASE XXXVIII
 
 A sociedade obriga-se a respeitar os compromissos internacionais assumidos pelo Governo no domínio nuclear.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

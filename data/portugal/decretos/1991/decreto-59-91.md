@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/59/1991/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/59-1991-306586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28328e9da8216957aeb8e1f33c3c9a5448cf650d3545be805f0a444234dacc4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d270f21c3b18b6eabd21c4e7ff132120f423b072bfed904dfea5c06e43cc74e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - CEE
 - Convenção
-- Portugal
 - Espanha
+- Portugal
 relationships:
 - type: cites
   target: celex:31966R0136
@@ -93,15 +93,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1987/822/oj
 article_structure:
-  article_count: 28
+  article_count: 27
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:18Z'
   warnings: []
   errors: []
 ---
@@ -112,19 +112,19 @@ de 26 de Novembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo, assinado em Bruxelas em 27 de Maio de 1987, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo de Cooperação entre a Comunidade Económica Europeia e a República da Tunísia, assinado em Tunes em 25 de Abril de 1976, cuja versão autêntica em língua portuguesa segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo, assinado em Bruxelas em 27 de Maio de 1987, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo de Cooperação entre a Comunidade Económica Europeia e a República da Tunísia, assinado em Tunes em 25 de Abril de 1976, cuja versão autêntica em língua portuguesa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Assinado em 1 de Abril de 1991.**
+Assinado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Abril de 1991.**
+Referendado em 2 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO AO ACORDO DE COOPERAÇÃO ENTRE A COMUNIDADE ECONÓMICA EUROPEIA E A REPÚBLICA DA TUNÍSIA NA SEQUÊNCIA DA ADESÃO DO REINO DE ESPANHA E DA REPÚBLICA PORTUGUESA À COMUNIDADE.
 
@@ -144,11 +144,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Knud-Erik Tygesen, Secretário de Estado do Ministério dos Negócios Estrangeiros;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Werner Ungerer, embaixador extraordinário e plenipotenciário, representante permanente da República Federal da Alemanha;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Theodoros Pangalos, Ministro Suplente dos Negócios Estrangeiros;
 
@@ -156,15 +156,15 @@ Sua Majestade o Rei de Espanha:
 
 Pedro Solbes Mira, Secretário de Estado para as Comunidades Europeias;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Bernard Bosson, Ministro Delegado junto do Ministro dos Negócios Estrangeiros encarregado dos Assuntos Europeus;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 John H. F. Campbell, embaixador extraordinário e plenipotenciário, representante permanente da Irlanda;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Pietro Camalia, embaixador extraordinário e plenipotenciário, representante permanente da Itália;
 
@@ -176,7 +176,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 P. R. H. M. van der Linden, Secretário de Estado dos Negócios Estrangeiros;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Vítor Costa Martins, Secretário de Estado para os Assuntos Europeus;
 
@@ -246,7 +246,7 @@ Relativamente aos produtos referidos no anexo I, o direito de base é o aplicado
 
 Relativamente aos produtos a seguir mencionados, os direitos de base são os indicados em relação a cada um deles:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/272a00/61086201.pdf))](https://files.diariodarepublica.pt/1s/1991/11/272a00/61086201.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/272a00/61086201.pdf)
 
 ###### Artigo 5.º
 
@@ -636,8 +636,8 @@ São imediatamente aplicáveis, quando da entrada em vigor do presente Protocolo
 
 O presente Protocolo é redigido em duplo exemplar em línguas alemã, dinamarquesa, espanhola, francesa, grega, inglesa, italiana, neerlandesa, portuguesa e árabe, fazendo fé qualquer dos textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/272a00/61086201.pdf))](https://files.diariodarepublica.pt/1s/1991/11/272a00/61086201.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/272a00/61086201.pdf)
 
 Do ANEXO I ao ANEXO XVI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/272a00/61086201.pdf))](https://files.diariodarepublica.pt/1s/1991/11/272a00/61086201.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/272a00/61086201.pdf)

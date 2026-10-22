@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/322-1973-421251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 979271d89dd97fed37b7e3efaa52e43d5cdaf00b38174caf274fcad64420ae3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9f507c42af40f97b3255d832818c87fdb5cc279c8bf77850e68b83ea6363325
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673810:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:421793:por
+  label: Rectificado o artigo 3.º pela DECL.DD9310.28.07.1973.PC, DG.IS [176] de 28.07.1973
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-421793
+  date: '1973-07-28'
 article_structure:
-  article_count: 8
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:18Z'
   warnings: []
   errors: []
 ---
@@ -88,81 +105,81 @@ Com o fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepu
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 106896507$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 106896507$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério do Interior
 
-### Capítulo 4.º «Administração política e civil»:
+Capítulo 4.º «Administração política e civil»:
 
 Direcção-Geral
 
-###### Artigo 60.º «Transferências - Sector público»:
+Artigo 60.º «Transferências - Sector público»:
 
 N.º 4 «Subsídios às câmaras municipais, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 173/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1973-673810), de 16 de Abril» ... 80000000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 15.º «Contas de ordem»:
+Capítulo 15.º «Contas de ordem»:
 
-###### Artigo 272.º «Laboratório Nacional de Engenharia Civil» ... 18600000$00
+Artigo 272.º «Laboratório Nacional de Engenharia Civil» ... 18600000$00
 
-### Capítulo 20.º «Direcção-Geral das Construções Escolares»:
+Capítulo 20.º «Direcção-Geral das Construções Escolares»:
 
 Educação e investigação
 
 Edifícios do ensino superior e investigação
 
-###### Artigo 400.º «Investimentos», n.º 2 «Edifícios» ... 3000000$00
+Artigo 400.º «Investimentos», n.º 2 «Edifícios» ... 3000000$00
 
 ... 21600000$00
 
 Ministério das Comunicações
 
-### Capítulo 3.º «Direcção-Geral de Transportes Terrestres»:
+Capítulo 3.º «Direcção-Geral de Transportes Terrestres»:
 
-###### Artigo 27.º «Vencimentos e salários»:
+Artigo 27.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos», alínea 2 «Pessoal contratado não pertencente aos quadros» ... 910800$00
 
 N.º 2 «Salários do pessoal eventual» ... 296000$00
 
-###### Artigo 39.º «Despesas gerais de funcionamento», n.º 6 «Trabalhos especiais diversos» (ver nota 3) ... 2000000$00
+Artigo 39.º «Despesas gerais de funcionamento», n.º 6 «Trabalhos especiais diversos» (ver nota 3) ... 2000000$00
 
-###### Artigo 42.º «Investimentos», n.º 1 «Maquinaria e equipamento» (ver nota 20) ... 1730000$00
+Artigo 42.º «Investimentos», n.º 1 «Maquinaria e equipamento» (ver nota 20) ... 1730000$00
 
 ... 4936800$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 5.º «Magistratura do Trabalho»:
+Capítulo 5.º «Magistratura do Trabalho»:
 
 Tribunais do trabalho (a reembolsar)
 
-###### Artigo 101.º «Investimentos», n.º 1 «Maquinaria e equipamento» ... 359707$00
+Artigo 101.º «Investimentos», n.º 1 «Maquinaria e equipamento» ... 359707$00
 
 ... 106896507$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 1.º, grupo 2, artigo 13.º-A «Imposto sobre veículos» ... 80000000$00
+Capítulo 1.º, grupo 2, artigo 13.º-A «Imposto sobre veículos» ... 80000000$00
 
-### Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 3566507$00
+Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 3566507$00
 
-### Capítulo 10.º, grupo 1, artigo 141.º «Fundos autónomos» ... 1730000$00
+Capítulo 10.º, grupo 1, artigo 141.º «Fundos autónomos» ... 1730000$00
 
-### Capítulo 15.º, artigo 179.º «Laboratório Nacional de Engenharia Civil» ... 18600000$00
+Capítulo 15.º, artigo 179.º «Laboratório Nacional de Engenharia Civil» ... 18600000$00
 
 Receita extraordinária:
 
-### Capítulo 10.º, grupo 1, artigo 203.º «Serviços autónomos e empresas públicas» ... 3000000$00
+Capítulo 10.º, grupo 1, artigo 203.º «Serviços autónomos e empresas públicas» ... 3000000$00
 
 ... 106896507$00
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 3.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério das Obras Públicas
 
@@ -182,8 +199,8 @@ A observação (ver nota 3) aposta à dotação do capítulo 3.º, artigo 39.º,
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 26 de Junho de 1973.**
+Promulgado em 26 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

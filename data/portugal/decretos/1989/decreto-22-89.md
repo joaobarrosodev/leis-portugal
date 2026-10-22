@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-1989-611106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6b38db7e4cf41902d18fa94ef307e135a4e768e5339ab752b94a3a8eab80a2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 093595d2bf71df9b8d386e8b2fa3d80a1bba676752ee39a0f1b546740f3df7a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Medidas Preventivas
+- Plano de Urbanização
+- Ponte da Arrábida
+- RIO Douro
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:321960:por
+  label: Rectificado pela DECL.DD3881.1989.06.05.PCM DR.IS [148] DE 30/JUN/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-321960
+  date: '1989-06-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:05Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +107,7 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Para efeito da aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas, pelo prazo de dois anos, a área definida na planta anexa a este diploma, de que faz parte integrante.
+Artigo 1.º - 1 - Para efeito da aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas, pelo prazo de dois anos, a área definida na planta anexa a este diploma, de que faz parte integrante.
 
 2 - As medidas preventivas referidas no número anterior consistem na sujeição a prévia autorização da Câmara Municipal de Vila Nova de Gaia, com o prévio parecer favorável da Comissão de Coordenação da Região do Norte, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, da prática dos actos ou actividades seguintes:
 
@@ -106,20 +119,20 @@ c) Alterações importantes, por meio de aterros ou escavações, à configuraç
 
 d) Alterações da malha urbana existente.
 
-###### Art. 2.º São competentes para promover o cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a Câmara Municipal de Vila Nova de Gaia e a Comissão de Coordenação da Região do Norte.
+Art. 2.º São competentes para promover o cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a Câmara Municipal de Vila Nova de Gaia e a Comissão de Coordenação da Região do Norte.
 
 Presidência do Conselho de Ministros, 20 de Abril de 1989.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Assinado em 4 de Maio de 1989.**
+Assinado em 4 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Maio de 1989.**
+Referendado em 4 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/11100/19361937.pdf))](https://files.diariodarepublica.pt/1s/1989/05/11100/19361937.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/11100/19361937.pdf)

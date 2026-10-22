@@ -48,36 +48,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/32-1989-619920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18f0d5ed3a4c292c85235e2fb784278ec5591e9a8db74962fc4aadc10210d852
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f99967a45e12edce44c29d7eaf2fb21819213d36aa6b1bc36634d2cc39ab615a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Águas Residuais
+- Exploração Florestal
+- Ovar
+- Tratamento de ÁGUA
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:15Z'
   warnings: []
   errors: []
 ---
@@ -96,24 +100,24 @@ Considerando ainda o parecer favorável dos serviços competentes:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É excluída do regime florestal, em que foi incluída por utilidade pública - por Decreto de 9 de Agosto de 1921, publicado no Diário do Governo, 2.ª série, n.º 194, de 24 de Agosto de 1921 -, uma parcela do perímetro florestal das dunas de Ovar, com a área de 8,1630 ha, sendo 1,2310 ha propriedade da Junta de Freguesia de Esmoriz e 6,9320 ha da Junta de Freguesia de Cortegaça.
+Artigo 1.º - 1 - É excluída do regime florestal, em que foi incluída por utilidade pública - por Decreto de 9 de Agosto de 1921, publicado no Diário do Governo, 2.ª série, n.º 194, de 24 de Agosto de 1921 -, uma parcela do perímetro florestal das dunas de Ovar, com a área de 8,1630 ha, sendo 1,2310 ha propriedade da Junta de Freguesia de Esmoriz e 6,9320 ha da Junta de Freguesia de Cortegaça.
 
 2 - A parcela referida no número anterior destina-se à implantação de parte da estação de tratamento de águas residuais (ETAR) de Esmoriz e Cortegaça, empreendimento necessário ao bom funcionamento da rede de colectores já existente nas áreas urbanas daquelas freguesias.
 
-###### Art. 2.º O arvoredo que for necessário abater é propriedade do Estado, devendo o produto da sua venda ser distribuído nos termos a acordar com as respectivas Juntas de Freguesia.
+Art. 2.º O arvoredo que for necessário abater é propriedade do Estado, devendo o produto da sua venda ser distribuído nos termos a acordar com as respectivas Juntas de Freguesia.
 
-###### Art. 3.º A entrega da parcela referida no n.º 1 do artigo 1.º só será efectivada depois de se proceder à sua demarcação, de acordo com as instruções da Direcção-Geral das Florestas.
+Art. 3.º A entrega da parcela referida no n.º 1 do artigo 1.º só será efectivada depois de se proceder à sua demarcação, de acordo com as instruções da Direcção-Geral das Florestas.
 
 Presidência do Conselho de Ministros, 5 de Junho de 1989.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Assinado em 10 de Julho de 1989.**
+Assinado em 10 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1989.**
+Referendado em 12 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

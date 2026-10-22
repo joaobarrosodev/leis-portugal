@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/33/1998/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-1998-568544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:09:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1251c61612dc24dfd6d88dcb806591d6a6f711377e790e5c2909d27be4ccef96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22c8f2b6cfcb7015a067d868fe2dd400918ea4917737b8ddf2ed799da9a3ef49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:09:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,33 @@ subjects:
 - Construção Civil
 - Definição de Competências
 - Licenciamento
+- Ministro da Defesa Nacional
 - Póvoa de Varzim
 - Quartel
-- Ministro da Defesa Nacional
 - Servidão Militar
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:09:06Z'
   warnings: []
   errors: []
 ---
@@ -164,13 +176,13 @@ Presidência do Conselho de Ministros, 25 de Junho de 1998.
 
 António Manuel de Oliveira Guterres - José Rodrigues Pereira Penedos - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.
 
-**Assinado em 18 de Agosto de 1998.**
+Assinado em 18 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Agosto de 1998.**
+Referendado em 20 de Agosto de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
 

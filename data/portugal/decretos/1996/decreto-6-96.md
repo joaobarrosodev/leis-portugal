@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/1996/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-1996-469602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad2997894700155e9b086b7d06f3bbf2e4f30e6c21529e1cf2be728c3d97ca17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e02b8f23c0f2593ab8caeaa443367f77d7af68c4cd512d1e34a5f467d0fa475f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Convenção
+- Maputo
 - Moçambique
 - Portugal
-- Maputo
-- Agricultura
 relationships: []
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:34Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 8 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação nos Domínios da Agricultura entre a República Portuguesa e a República de Moçambique, assinado em Maputo em 28 de Julho de 1995, cuja versão autêntica em língua portuguesa segue em anexo.
+Artigo único. É aprovado o Protocolo de Cooperação nos Domínios da Agricultura entre a República Portuguesa e a República de Moçambique, assinado em Maputo em 28 de Julho de 1995, cuja versão autêntica em língua portuguesa segue em anexo.
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Assinado em 17 de Abril de 1996.**
+Assinado em 17 de Abril de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Abril de 1996.**
+Referendado em 22 de Abril de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOLO DE COOPERAÇÃO NOS DOMÍNIOS DA AGRICULTURA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE MOÇAMBIQUE
 

@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/83-1981-578679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4640271d23b6412567e6d1fd6779d2d385288dd5862c2622f968c8bca7c7f087
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 728db20dcf12bb328a41c79db92b702fe0275f1b278bc25d77abd77ecf211e8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Intercâmbio Turístico
+- Iraque
+- Portugal
+- Turismo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:33Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 1 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República do Iraque sobre Cooperação no Domínio do Turismo, assinado em Lisboa aos 13 de Março de 1981, cujos textos em português e inglês acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República do Iraque sobre Cooperação no Domínio do Turismo, assinado em Lisboa aos 13 de Março de 1981, cujos textos em português e inglês acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 17 de Junho de 1981.**
+Assinado em 17 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DO IRAQUE SOBRE COOPERAÇÃO NO DOMÍNIO DO TURISMO.
 
@@ -109,37 +114,37 @@ Decididos a concretizar esta cooperação num espírito de equidade, interesse c
 
 acordam no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes adoptarão, no âmbito das suas competências, medidas tendentes a promover e encorajar o desenvolvimento do turismo entre os dois países e a intensificar a cooperação entre as suas organizações oficiais de turismo, agências de viagens e outras estruturas e organizações relacionadas com a actividade turística.
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes Contratantes procurarão, por todas as formas ao seu alcance, simplificar as formalidades de fronteira entre os dois países, de acordo com as respectivas disposições legais.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes manter-se-ão informadas sobre as possibilidades turísticas dos dois países, encorajando, para o efeito, o intercâmbio de jornalistas e outros profissionais ligados ao fomento do turismo.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Contratantes decidem incrementar e estreitar as formas de cooperação técnica, designadamente nas áreas da formação profissional e da direcção e gestão de hotéis.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes estabelecerão consultas mútuas em assuntos relativos à colaboração internacional no domínio do turismo, bem como à adesão a organizações internacionais de turismo.
 
-ARTIGO VI
+###### ARTIGO VI
 
 A fim de concretizar e assegurar as consultas mútuas decorrentes deste Acordo, assim como de estudar outros aspectos que venham a ser estabelecidos pelas Partes Contratantes, criar-se-á uma comissão mista que reunirá, por sugestão de uma das Partes, pelo menos uma vez por ano.
 
 As reuniões realizar-se-ão alternadamente em cada um dos países, em datas a concretizar por ambas as Partes.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Este Acordo será válido por um período de cinco anos a partir da sua entrada em vigor e considerar-se-á automaticamente renovado por períodos sucessivos de um ano, se nenhuma das Partes Contratantes o denunciar através dos canais diplomáticos, pelo menos seis meses antes da data em que expira.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Este Acordo será aprovado, segundo os procedimentos legais que vigoram em cada um dos países, e entrará em vigor a partir da data em que se proceda às respectivas notificações.
 

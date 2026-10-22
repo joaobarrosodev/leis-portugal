@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14600/13951396.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/57-1979-381126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bad0f472c06c68e52f6cd77cf1c07bd09bdaeba213887b7827401e561f13359b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a57baaf41ae4fc4b8b6c2f7a018945b97ed9f23d577c39feec5db47d3bea44c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Militar
+- Força Aérea
+- Militar
+- Promoção Profissional
+- Tropa Paraquedista
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:336755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429636:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:28Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +114,7 @@ Considerando o disposto no artigo 6.º do referido [Decreto-Lei n.º 350/75](htt
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º As condições especiais de promoção a brigadeiro do quadro de oficiais pára-quedistas são:
+Artigo 1.º As condições especiais de promoção a brigadeiro do quadro de oficiais pára-quedistas são:
 
 a) Um mínimo de quinze anos de serviço, contados a partir da promoção a tenente;
 
@@ -106,16 +124,16 @@ c) Ter exercido no posto de coronel ou tenente-coronel, com reconhecida competê
 
 d) Ter frequentado com aproveitamento o Curso Superior de Guerra Aérea ou outro curso equivalente que constitua condição de promoção a oficial general no seu quadro de origem.
 
-###### Art. 2.º São aplicáveis, na promoção ao posto referido no artigo 1.º, as disposições de carácter geral estabelecidas no Estatuto do Oficial da Força Aérea no que concerne às promoções a oficial general.
+Art. 2.º São aplicáveis, na promoção ao posto referido no artigo 1.º, as disposições de carácter geral estabelecidas no Estatuto do Oficial da Força Aérea no que concerne às promoções a oficial general.
 
-###### Art. 3.º Os limites de idade, para efeitos de mudanças de situação dos oficiais promovidos nos termos deste diploma, são os estabelecidos para o mesmo posto no respectivo quadro de origem.
+Art. 3.º Os limites de idade, para efeitos de mudanças de situação dos oficiais promovidos nos termos deste diploma, são os estabelecidos para o mesmo posto no respectivo quadro de origem.
 
-###### Art. 4.º As dúvidas e casos omissos serão resolvidos por despacho conjunto do Chefe do Estado-Maior da Força Aérea e do Chefe do Estado-Maior do ramo que integra o quadro de origem a que pertença o oficial.
+Art. 4.º As dúvidas e casos omissos serão resolvidos por despacho conjunto do Chefe do Estado-Maior da Força Aérea e do Chefe do Estado-Maior do ramo que integra o quadro de origem a que pertença o oficial.
 
 Visto e aprovado em Conselho da Revolução em 15 de Junho de 1979.
 
-**Promulgado em 15 de Junho de 1979.**
+Promulgado em 15 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

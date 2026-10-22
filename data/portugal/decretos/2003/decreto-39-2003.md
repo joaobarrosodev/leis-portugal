@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/39/2003/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-2003-509785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8b99a019a44f6f439f5f0b88f2d4bbb4b2ccc83def11e398b4dd8322eca4bdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6873b8ca65e7d1b72b2f73587123f2bc04b04300a26671d707b46fe29355b6a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Radiocomunicações
-- Convenção
-- Portugal
-- Radiodifusão
 - Comunicações
+- Convenção
 - Genebra
+- Portugal
+- Radiocomunicações
+- Radiodifusão
 - União Internacional das Telecomunicações
 relationships: []
 article_structure:
-  article_count: 13
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:07Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 197.º da Constituiçã
 
 Visto e aprovado em Conselho de Ministros de 26 de Junho de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva.
 
-**Assinado em 6 de Agosto de 2003.**
+Assinado em 6 de Agosto de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Agosto de 2003.**
+Referendado em 8 de Agosto de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACTES FINALS DE LA CONFERENCE ADMINISTRATIVE REGIONALE POUR LA PLANIFICATION DE LA RADIODIFFUSION SONORE EN ONDES METRIQUES (REGION 1 ET PARTIE DE LA REGION 3).
 
@@ -892,7 +892,7 @@ Sh. Yumjav.
 
 Pour la Norvège:
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
 
 Pour le Sultanat d'Oman:
 
@@ -1068,7 +1068,7 @@ Pour la République du Tchad:
 
 «Il a été relevé dans les documents 209 et 190 (projet de Plan) des stations libyennes dont les coordonnées se situent à l'intérieur de notre pays.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
 
 Les intentions de la Libye concernant la bande d'Aozou sont connues de tout le monde; c'est ce qui explique la demande des assignations par celle-ci pour les localités qui s'y trouvent.
 
@@ -1432,7 +1432,7 @@ Pour la Jamahiriya libyenne populaire et socialiste:
 
 L'Administration libyenne agira suivant l'hypothèse que cette note n'a pas la moindre validité et qu'elle est sans valeur: l'Administration libyenne peut, de plein droit, faire inscrire dans le Plan des présents Actes finals, installer et exploiter des stations d'émission, y compris celles figurant dans le Plan des Actes finals et dans son Appendice, conformément à la carte politique et géographique nationale de la Libye, les stations suivantes étant situées en territoire libyen:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
 
 N.º 37
 
@@ -1492,7 +1492,9 @@ República Democrática do Afeganistão, República Popular Socialista da Albân
 
 reunidos em Genebra para uma conferência administrativa regional das radiocomunicações convocada nos termos do artigos 7.º e 54.º da Convenção Internacional das Telecomunicações (Nairobi, 1982) a fim de fixar os termos de um acordo comportando um plano para a radiodifusão sonora na faixa 87,5 MHz-108 MHz, de acordo com a Resolução n.º 510 da Conferência Administrativa Mundial das Radiocomunicações (Genebra, 1979) e de acordo com o n.º 584 do Regulamento das Radiocomunicações, adoptaram, sob reserva da aprovação das autoridades competentes dos seus países respectivos, as seguintes disposições e o plano relativo ao serviço de radiodifusão na faixa 87,5 MHz-108 MHz na zona de planificação definida no artigo 1.º do presente Acordo.
 
-###### Artigo 1.º — Definições
+Artigo 1.º
+
+Definições
 
 De acordo com as presentes disposições:
 
@@ -1522,7 +1524,9 @@ De acordo com as presentes disposições:
 
 1.13 - O termo «consignação de acordo com o presente Acordo» designa toda a consignação que aparece no Plano ou para a qual o procedimento do artigo 4.º foi aplicado com sucesso.
 
-###### Artigo 2.º — Execução do Acordo
+Artigo 2.º
+
+Execução do Acordo
 
 2.1 - Os Membros Contratantes adoptam as características definidas no Plano para as suas estações de radiodifusão sonora situadas na zona de planificação e funcionamento na faixa 87,5MHz-108 MHz.
 
@@ -1534,7 +1538,9 @@ De acordo com as presentes disposições:
 
 2.5 - Os procedimentos transitórios para a entrada em serviço das consignações do Plano de forma a permitir um funcionamento normal das estações dos outros serviços aos quais as partes da faixa 87,5 MHz-108 MHz estão igualmente atribuídas de acordo com os n.os 581, 587, 588, 589 e 590 do Regulamento, nas condições especificadas nesses números, estão contidos nas Resoluções n.os 2 e 3.
 
-###### Artigo 3.º — Anexos ao Acordo
+Artigo 3.º
+
+Anexos ao Acordo
 
 O Acordo compreende os seguintes anexos:
 
@@ -1552,15 +1558,17 @@ Plano de consignação de frequências para as estações de radiodifusão sonor
 
 3.2 - Outros anexos:
 
-## Anexo 2 - Dados técnicos.
+Anexo 2 - Dados técnicos.
 
-## Anexo 3 - Características fundamentais, das estações de radiodifusão sonora, a comunicar para as modificações ao Plano em aplicação do artigo 4.º do Acordo.
+Anexo 3 - Características fundamentais, das estações de radiodifusão sonora, a comunicar para as modificações ao Plano em aplicação do artigo 4.º do Acordo.
 
-## Anexo 4 - Limites que permitem determinar se a coordenação com uma outra administração é necessária no seguimento de uma proposta de modificação do Plano.
+Anexo 4 - Limites que permitem determinar se a coordenação com uma outra administração é necessária no seguimento de uma proposta de modificação do Plano.
 
-## Anexo 5 - Dados técnicos suplementares utilizáveis para a coordenação entre administrações.
+Anexo 5 - Dados técnicos suplementares utilizáveis para a coordenação entre administrações.
 
-###### Artigo 4.º — Procedimento relativo às modificações ao Plano
+Artigo 4.º
+
+Procedimento relativo às modificações ao Plano
 
 4.1 - As modificações ao Plano:
 
@@ -1748,7 +1756,9 @@ Se uma modificação, mesmo que tenha sido efectuada em conformidade com as disp
 
 Se após a aplicação do procedimento definido no presente artigo, as administrações interessadas não chegarem a acordo, estas podem recorrer ao procedimento definido no artigo 50.º da Convenção. No caso de o decidirem de comum acordo, podem igualmente recorrer ao Protocolo Adicional Facultativo à Convenção.
 
-###### Artigo 5.º — Compatibilidade com o serviço de radionavegação aeronáutica
+Artigo 5.º
+
+Compatibilidade com o serviço de radionavegação aeronáutica
 
 5.1 - Considerações gerais:
 
@@ -1830,7 +1840,9 @@ b) Se as estações de radiodifusão sonora que contribuem para a interferência
 
 5.3.4 - As administrações podem solicitar à IFRB que efectue a coordenação em seu nome, assim como todos os cálculos necessários para assegurar a protecção das estações de radionavegação aeronáutica, com a condição de lhe fornecerem as informações indispensáveis.
 
-###### Artigo 6.º — Coordenação contínua das consignações que figuram no apêndice ao Plano
+Artigo 6.º
+
+Coordenação contínua das consignações que figuram no apêndice ao Plano
 
 6.1 - As necessidades respeitantes às consignações de frequência que causam a outras consignações um campo perturbador superior a 60 dB ((mi)V/m) e que não obtiveram todos os acordos necessários durante a Conferência figuram no apêndice ao Plano. Aí irão permanecer até 1 de Julho de 1992. Excepcionalmente, por solicitação de uma ou mais das administrações em causa, uma consignação de frequência poderá continuar a figurar no apêndice até 31 de Dezembro de 1993; uma cópia desta solicitação será enviada à IFRB.
 
@@ -1854,29 +1866,39 @@ publica a consignação em questão na secção especial da sua circular semanal
 
 6.6 - Cada vez que uma consignação é transferida do apêndice para a parte apropriada do Plano, o campo utilizável de referência das estações em causa é calculado de novo e o resultado obtido é utilizado para a aplicação das disposições do artigo 4.º
 
-###### Artigo 7.º — Notificação das consignações de frequência
+Artigo 7.º
+
+Notificação das consignações de frequência
 
 7.1 - Cada vez que uma administração de um Membro Contratante se propõe colocar em serviço uma consignação em conformidade com o presente Acordo, notifica esta consignação à IFRB de acordo com as disposições do artigo 12.º do Regulamento (v. também o artigo 5.º do Acordo e as Resoluções n.os 2 e 3).
 
 7.2 - No que diz respeito às relações entre os Membros Contratantes, as consignações colocadas em funcionamento e inscritas no Ficheiro de Referência Internacional de Frequências terão o mesmo estatuto, seja qual for a sua data de entrada em serviço.
 
-###### Artigo 8.º — Adesão ao Acordo
+Artigo 8.º
+
+Adesão ao Acordo
 
 8.1 - Todo o Membro da União pertencente à zona de planificação que não é signatária do Acordo pode aderir em qualquer altura pelo depósito de um instrumento de adesão junto do Secretário-Geral. Este informa rapidamente os outros Membros da União. A adesão ao Acordo não deve comportar qualquer reserva e estende-se ao Plano tal como se apresenta no momento da adesão.
 
 8.2 - A adesão ao Acordo tem efeito na data em que o Secretário-Geral recebe o instrumento da adesão.
 
-###### Artigo 9.º — Âmbito do Acordo
+Artigo 9.º
+
+Âmbito do Acordo
 
 9.1 - O Acordo compromete os Membros Contratantes nas suas relações mútuas mas não compromete os seus Membros nas suas relações face aos Membros não Contratantes (ver nota 4).
 
 9.2 - Se um Membro Contratante formula reservas à aplicação de uma disposição do Acordo, nenhum outro Membro Contratante é obrigado a cumprir essa disposição nas suas relações com o Membro que formulou as reservas.
 
-###### Artigo 10.º — Aprovação do Acordo
+Artigo 10.º
+
+Aprovação do Acordo
 
 10.1 - Os Membros signatários do Acordo fazem conhecer, logo que possível, a sua aprovação do Acordo ao Secretário-Geral, o qual informa rapidamente os outros Membros da União.
 
-###### Artigo 11.º — Denúncia do Acordo
+Artigo 11.º
+
+Denúncia do Acordo
 
 11.1 - Qualquer Membro Contratante pode denunciar o Acordo a qualquer momento, por notificação endereçada ao Secretário-Geral, o qual informa os outros Membros da União.
 
@@ -1884,11 +1906,15 @@ publica a consignação em questão na secção especial da sua circular semanal
 
 11.3 - Na data em que esta denúncia se torna efectiva, a IFRB elimina do Plano as consignações na faixa 87,5 MHz-108 MHz inscritas em nome do Membro que denunciou o Acordo (v. a Recomendação n.º 1).
 
-###### Artigo 12.º — Revisão do Acordo
+Artigo 12.º
+
+Revisão do Acordo
 
 12.1 - O Acordo só pode ser revisto por uma conferência administrativa das radiocomunicações competente convocada segundo o procedimento fixado na Convenção, para a qual serão convidados no mínimo todos os Membros da União que pertençam à zona de planificação.
 
-###### Artigo 13.º — Entrada em vigor e duração do Acordo
+Artigo 13.º
+
+Entrada em vigor e duração do Acordo
 
 13.1 - O Acordo entrará em vigor no dia 1 de Julho de 1987 às 0001 horas UTC.
 
@@ -2228,7 +2254,7 @@ Sh. Yumjav.
 
 Pela Noruega:
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
 
 Pela República de Oman:
 
@@ -2404,7 +2430,7 @@ Pela República do Chade:
 
 «Ficaram anotadas nos documentos 209 e 190 (projecto de plano) estações líbias cujas coordenadas se situam no interior do nosso país.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
 
 As intenções da Líbia no que respeita à banda de Aozou são conhecidas de todos: é o que explica o pedido das consignações por esse país para as localidades que aí se encontram.
 
@@ -2770,7 +2796,7 @@ Pela Jamahiriya Árabe Líbia Popular e Socialista:
 
 A Administração líbia agirá no pressuposto de que aquela nota não tem a mínima validade, sendo, por isso, desprovida de qualquer valor; a Administração líbia pode, de pleno direito, fazer inscrever no Plano dos presentes Actos Finais, instalar e explorar estações emissoras, incluindo as que figuram no Plano dos Actos Finais e seu apêndice, de acordo com o mapa político e geográfico nacional da Líbia, as seguintes estações que se encontram situadas em território líbio:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)](https://files.diariodarepublica.pt/1s/2003/09/202a00/57585791.pdf)
 
 N.º 37
 

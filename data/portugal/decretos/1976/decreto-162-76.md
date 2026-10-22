@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/162-1976-507622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0aee9a8740b6b8abaf85434c1bd44aa0b4282e34fc03fc925e5b04560d9e47a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38fd22eef31941ebd8ee38062c82146606273d85a8b0e76f87e3c255ebc24a75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Financiamento
+- França
+- OCDE
+- Paris
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 82
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:01Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 27 de Fevereiro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo para a Criação de Um Fundo de Suporte Financeiro da Organização de Cooperação e de Desenvolvimento Económico, concluído em Paris em 9 de Abril de 1975, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo para a Criação de Um Fundo de Suporte Financeiro da Organização de Cooperação e de Desenvolvimento Económico, concluído em Paris em 9 de Abril de 1975, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Ernesto Augusto de Melo Antunes - Joaquim Jorge de Pinho Campinos.
 
-**Assinado em 19 de Fevereiro de 1976.**
+Assinado em 19 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Agreement establishing a Financial Support Fund of the Organization for Economic Co-operation and Development.
 
@@ -815,7 +821,7 @@ ANNEX
 
 Quotas established under article III of this Agreement
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/02/04900/04090432.pdf))](https://files.diariodarepublica.pt/1s/1976/02/04900/04090432.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/02/04900/04090432.pdf)
 
 Done at Paris, this 9 day of April, 1975.
 
@@ -843,9 +849,7 @@ Considerando a decisão, adoptada pelo Conselho da Organização de Cooperação
 
 Acordaram no seguinte:
 
-ARTIGO I
-
-O Fundo de Suporte Financeiro da Organização de Cooperação e Desenvolvimento Económicos
+###### ARTIGO I — O Fundo de Suporte Financeiro da Organização de Cooperação e Desenvolvimento Económicos
 
 #### Secção 1. O Fundo:
 
@@ -867,47 +871,39 @@ c) Assegurar que os riscos inerentes aos empréstimos do Fundo aos membros sejam
 
 Todas as decisões tomadas ao abrigo do presente Acordo serão orientadas por estes objectivos.
 
-ARTIGO II
-
-Participação
+###### ARTIGO II — Participação
 
 A participação no Fundo fica aberta aos países membros da OCDE que venham a aderir a este Acordo em conformidade com as disposições do artigo XXIII.
 
-ARTIGO III
+###### ARTIGO III — Quotas e responsabilidade dos membros
 
-Quotas e responsabilidade dos membros
-
-#### Secção 1. Estabelecimento das quotas:
+Secção 1. Estabelecimento das quotas:
 
 a) Cada membro terá uma quota cuja importância figura no quadro anexo ao presente Acordo; o total das quotas aí indicado de 20000 milhões de direitos de saque especiais (adiante designados por «DSE»);
 
 b) As quotas serão estabelecidas em termos de DSE, cujo método de valorização é o especificado no artigo XIV.
 
-#### Secção 2. Responsabilidade dos membros:
+Secção 2. Responsabilidade dos membros:
 
 A quota de um membro determinará a responsabilidade financeira máxima desse membro para fazer face às obrigações incorridas pelo Fundo.
 
-ARTIGO IV
+###### ARTIGO IV — Responsabilidade do Fundo e da OCDE
 
-Responsabilidade do Fundo e da OCDE
-
-#### Secção 1. Responsabilidade do Fundo:
+Secção 1. Responsabilidade do Fundo:
 
 A responsabilidade financeira do Fundo não excederá os seus activos próprios e os fundos que os membros são obrigados a fornecer-lhe, em conformidade com as disposições do presente Acordo.
 
-#### Secção 2. Responsabilidade da OCDE:
+Secção 2. Responsabilidade da OCDE:
 
 A OCDE não será responsável pelos actos ou omissões do Fundo.
 
-ARTIGO V
+###### ARTIGO V — Empréstimos
 
-Empréstimos
-
-#### Secção 1. Faculdade de conceder empréstimos:
+Secção 1. Faculdade de conceder empréstimos:
 
 Salvo disposição em contrário do presente Acordo, as operações do Fundo limitar-se-ão à concessão de empréstimos aos membros, financiados pelos recursos fornecidos ao abrigo dos artigos VII, VIII e IX. A faculdade de conceder empréstimos ao abrigo do presente artigo subsistirá durante dois anos a contar da entrada em vigor do presente Acordo.
 
-#### Secção 2. Condições de obtenção dos empréstimos:
+Secção 2. Condições de obtenção dos empréstimos:
 
 a) Um membro que pede um empréstimo ao Fundo deverá provar ao Conselho Directivo que:
 
@@ -919,7 +915,7 @@ iii) Fez a máxima utilização apropriada de outros mecanismos de financiamento
 
 b) O Conselho Directivo certificar-se-á de que o membro que solicita um empréstimo ao Fundo satisfaz os requisitos previstos no parágrafo a) da presente secção e que as políticas deste membro são compatíveis com os objectivos do Fundo estipulados na secção 2, a), do artigo I.
 
-#### Secção 3. Importâncias, condições e modalidades dos empréstimos:
+Secção 3. Importâncias, condições e modalidades dos empréstimos:
 
 a) As importâncias dos empréstimos serão determinadas de acordo com as disposições do artigo VI, secção 1;
 
@@ -939,7 +935,7 @@ f) A taxa de juro pagável sobre cada empréstimo concedido pelo Fundo será fix
 
 g) O Conselho Directivo pode fixar uma comissão de serviço adequada para cobrir o custo das operações do empréstimo.
 
-#### Secção 4. Pagamentos antecipados:
+Secção 4. Pagamentos antecipados:
 
 a) Se no acordo de empréstimo entre o mutuário e o Fundo existirem disposições para o efeito, e na medida em que os mutuantes que financiaram o empréstimo ao Fundo aceitarem um pagamento antecipado:
 
@@ -949,11 +945,9 @@ ii) Ao mutuário, cuja situação de balança de pagamentos tenha melhorado subs
 
 b) O Fundo utilizará todos os pagamentos antecipados, efectuados em conformidade com o parágrafo a) da presente secção, para reembolsar antecipadamente os mutuantes do Fundo que aceitem tal reembolso, na proporção das respectivas partes no financiamento do empréstimo em questão.
 
-ARTIGO VI
+###### ARTIGO VI — Decisões relativas à concessão de empréstimos
 
-Decisões relativas à concessão de empréstimos
-
-#### Secção 1. Processo das decisões:
+Secção 1. Processo das decisões:
 
 a) Qualquer pedido de empréstimo apresentado ao Fundo por um membro será examinado pelo Conselho Directivo na base de uma proposta elaborada pelo Conselho Consultivo;
 
@@ -983,7 +977,7 @@ i) Todos os membros, com excepção do mutuário eventual; e
 
 ii) Os membros chamados a fornecerem um financiamento, no caso de financiamento directo, ou a concederem coberturas individuais nos termos do artigo VIII.
 
-#### Secção 2. Não participação nas chamadas por motivos de balança de pagamentos:
+Secção 2. Não participação nas chamadas por motivos de balança de pagamentos:
 
 Antes da decisão prevista na secção 1 do presente artigo:
 
@@ -991,17 +985,15 @@ a) Um membro pode alegar ao Conselho Directivo que, em virtude da situação act
 
 b) O Conselho Directivo decidirá se o membro que faz a alegação deverá ser excluído da chamada; esta decisão será tomada por uma maioria de dois terços, com exclusão dos votos do membro em questão e dos do mutuário.
 
-#### Secção 3. Acordo de empréstimo:
+Secção 3. Acordo de empréstimo:
 
 a) O Conselho Directivo estabelecerá o texto definitivo do acordo de empréstimo, especificando as modalidades exactas do financiamento e a data ou datas em que se efectivarão todas as transferências abrangidas pelo presente artigo, sob reserva da aceitação pelos membros que reúnam no total o número de votos exigido nos termos dos parágrafos c) e d) da secção 1 do presente artigo;
 
 b) No caso de as negociações relativas a empréstimos a obter pelo Fundo no mercado não estarem totalmente terminadas na data ou datas acima, estas negociações poderão prosseguir até à sua conclusão em condições satisfatórias.
 
-ARTIGO VII
+###### ARTIGO VII — Financiamento
 
-Financiamento
-
-#### Secção 1. Métodos de financiamento:
+Secção 1. Métodos de financiamento:
 
 Para financiar os empréstimos que concede, o Fundo pode recorrer a dois métodos, conforme as circunstâncias e condições prevalecentes nos mercados financeiros:
 
@@ -1013,11 +1005,11 @@ ii) Cobertura individual do risco por falta de pagamento de um empréstimo contr
 
 b) Chamadas a todos os membros solicitando-lhes que assegurem uma cobertura colectiva do risco por falta de pagamento de um empréstimo contraído pelo Fundo.
 
-#### Secção 2. Definição da cobertura do risco por falta de pagamento dos empréstimos contraídos pelo Fundo:
+Secção 2. Definição da cobertura do risco por falta de pagamento dos empréstimos contraídos pelo Fundo:
 
 Para os efeitos do presente Acordo, entende-se por cobertura do risco por falta de pagamento dos empréstimos contraídos pelo Fundo (adiante designada por «cobertura») o compromisso de um membro se prontificar a transferir para o Fundo, sob notificação deste em conformidade com o artigo XIII, fundos numa importância igual à da cobertura. Pelo facto de assegurar tal cobertura, um membro não contrai nenhuma obrigação para com terceiros.
 
-#### Secção 3. Definição do termo «chamada»:
+Secção 3. Definição do termo «chamada»:
 
 Por chamada entende-se uma notificação dirigida pelo Fundo ao membro:
 
@@ -1029,19 +1021,19 @@ ii) Assuma, perante o Fundo, o compromisso mencionado na secção 2 do presente 
 
 b) Indicando a importância total sacada sobre a quota do membro em virtude da chamada, incluindo qualquer importância adicional à referida no parágrafo a) da presente secção, determinada nos termos do artigo VIII, secção 3, b).
 
-#### Secção 4. Princípio da proporcionalidade:
+Secção 4. Princípio da proporcionalidade:
 
 a) As chamadas aos membros no sentido de fornecerem um financiamento directo ou uma cobertura individual ou de participarem numa cobertura colectiva, bem como as chamadas para transferirem fundos em conformidade com o artigo XIII, serão proporcionais às quotas dos membros, aos quais foi dirigida a chamada, sob reserva das disposições previstas no parágrafo b) da presente secção, no artigo X, secção 3, b), e no artigo XIII, secção 5, b);
 
 b) Qualquer membro pode acordar em assegurar um financiamento directo ou uma cobertura individual, ou em participar numa cobertura colectiva, por uma importância que ultrapasse a proporção estipulada no parágrafo a) da presente secção, mas que não exceda a importância não chamada da sua quota.
 
-#### Secção 5. Moeda de transferência:
+Secção 5. Moeda de transferência:
 
 a) Todas as transferências para o Fundo serão feitas numa moeda efectivamente convertível. Estas transferências podem ser efectuadas sob a forma de promissórias ou cartas de crédito pagáveis à vista pelo membro;
 
 b) Para os efeitos do presente Acordo, entende-se por «moeda efectivamente convertível» a moeda de um membro que o Conselho Directivo declare convertível nas moedas dos outros membros para efeitos das operações do Fundo.
 
-#### Secção 6. Empréstimos contraídos pelo Fundo:
+Secção 6. Empréstimos contraídos pelo Fundo:
 
 a) Em conformidade com as disposições do presente Acordo, os empréstimos a contrair pelo Fundo serão feitos nos territórios dos membros. Estes empréstimos poderão ser efectuados nos mercados financeiros internos, incluindo as instituições públicas, nos mercados financeiros internacionais ou junto de instituições internacionais;
 
@@ -1049,19 +1041,17 @@ b) No caso de empréstimos contraídos nos mercados financeiros nacionais ou int
 
 c) Sob reserva do parágrafo b) da presente secção, os membros farão todo o possível por assegurar que as instituições financeiras dos seus territórios estejam habilitadas a comprar os títulos emitidos pelo Fundo.
 
-#### Secção 7. Declaração que deverá constar dos títulos:
+Secção 7. Declaração que deverá constar dos títulos:
 
 No rosto de todos os títulos emitidos pelo Fundo deverá figurar, de modo visível, declaração de que eles não constituem um compromisso de nenhum Governo.
 
-#### Secção 8. Título de crédito:
+Secção 8. Título de crédito:
 
 Quando um membro transfere recursos para o Fundo em resultado de uma chamada ou de notificação deste, o Fundo emitirá, a favor desse membro, um título de crédito atestando a sua dívida para com este na importância dos fundos transferidos. Esse instrumento só pode ser transferido nas condições e modalidades aprovadas pelo Conselho Directivo.
 
-ARTIGO VIII
+###### ARTIGO VIII — Financiamento por meio de compromissos individuais
 
-Financiamento por meio de compromissos individuais
-
-#### Secção 1. Obrigações de financiamento:
+Secção 1. Obrigações de financiamento:
 
 Se o Fundo fizer uma chamada para um compromisso individual, o membro em questão cumprirá as suas obrigações:
 
@@ -1069,13 +1059,13 @@ a) Transferindo fundos para o Fundo, no caso de um financiamento directo ou, à 
 
 b) Assegurando uma cobertura individual para um empréstimo a contrair pelo Fundo, em nome deste, a qual incluirá a provisão para pagamento dos juros e de outros encargos, determinada em conformidade com a secção 3, a), do presente artigo.
 
-#### Secção 2.ª Condições relativas às coberturas individuais:
+Secção 2.ª Condições relativas às coberturas individuais:
 
 a) Quando um membro assegura uma cobertura nos termos da secção 1, b), do presente artigo, o Fundo procurará obter os recursos necessários nos mercados financeiros internacionais ou nacionais, de acordo com as disposições do artigo VII, secção 6, b). Se o Fundo não conseguir obter, deste modo, os recursos necessários, num período razoável e em condições de certa maneira comparáveis às que um mutuário de boa reputação pode obter, ou em condições de outro modo aceitáveis pelo Fundo, o membro que oferece a cobertura individual autorizará o Fundo a contrair empréstimos, após consultas entre o Fundo e o membro em questão, na moeda desse membro e no seu mercado financeiro nacional, incluindo empréstimos, junto de instituições públicas, até à importância da referida cobertura;
 
 b) O Fundo só é responsável pelo reembolso do empréstimo contraído com cobertura individual assegurada em conformidade com a secção 1, b), do presente artigo até à importância dessa cobertura, e nem os activos do Fundo nem as quotas dos outros membros poderão ser objecto de saques para efeitos de pagamento de juros ou de reembolsos do capital em resultado do referido empréstimo.
 
-#### Secção 3. Provisão para pagamento de juros e outros encargos:
+Secção 3. Provisão para pagamento de juros e outros encargos:
 
 Nos casos em que as chamadas, efectuadas ao abrigo do presente artigo, incluam chamadas para assegurar coberturas individuais:
 
@@ -1083,19 +1073,17 @@ a) O Conselho Directivo fixará, para cada membro que assegure essa cobertura, u
 
 b) O Conselho Directivo decidirá qual o membro, de entre os membros que fornecem uma cobertura individual, para o qual a provisão, fixada ao abrigo do parágrafo a) da presente secção, representará a proporção mais elevada da sua participação no financiamento do empréstimo. A chamada dirigida a cada um dos membros incluirá uma importância adicional ao financiamento directo ou à cobertura individual que ele fornece, calculada de modo que as quotas de todos os membros chamados a assegurar o financiamento, qualquer que seja a sua forma, sejam objecto de uma dedução cuja importância represente a mesma proporção da respectiva participação no financiamento do empréstimo que no caso do membro para o qual se determinou acima que essa proporção é a mais elevada.
 
-#### Secção 4. Redução de uma cobertura individual:
+Secção 4. Redução de uma cobertura individual:
 
 À medida que o Fundo reembolse um empréstimo com cobertura individual esta será reduzida na proporção que o reembolso representa da importância em dívida do mesmo empréstimo.
 
-#### Secção 5. Reembolso antecipado de compromissos individuais:
+Secção 5. Reembolso antecipado de compromissos individuais:
 
 O Conselho Directivo pode decidir, por maioria de dois terços, reembolsar antes do vencimento financiamentos directos e empréstimos contraídos com cobertura individual, com o acordo de todos os membros que asseguraram o financiamento. Com o fim de obter os fundos necessários a um reembolso dessa natureza, o Fundo poderá contrair empréstimos com cobertura colectiva, em conformidade com as disposições do artigo IX.
 
-ARTIGO IX
+###### ARTIGO IX — Empréstimos com cobertura colectiva dos membros
 
-Empréstimos com cobertura colectiva dos membros
-
-#### Secção 1. Obrigações de financiamento:
+Secção 1. Obrigações de financiamento:
 
 a) O Fundo pode contrair empréstimos com cobertura colectiva com vista à obtenção dos fundos necessários para efeitos do artigo V, do artigo VIII, secção 5, e do artigo X, secção 3;
 
@@ -1107,31 +1095,29 @@ ii) À provisão para pagamento de juros e outros encargos ao abrigo da secção
 
 iii) À provisão para partilha de riscos, ao abrigo da secção 3 do presente artigo.
 
-#### Secção 2. Provisão para pagamento de juros e outros encargos.
+Secção 2. Provisão para pagamento de juros e outros encargos.
 
 O Conselho Directivo fixará uma provisão adequada para o pagamento de juros e outros encargos relativos aos empréstimos contraídos pelo Fundo, cuja importância representará, para cada membro, a mesma proporção da sua participação no financiamento do empréstimo.
 
-#### Secção 3. Provisão para partilhas de riscos:
+Secção 3. Provisão para partilhas de riscos:
 
 O Conselho Directivo fixará uma provisão para partilha de riscos, cuja importância represente para cada membro a mesma percentagem, sem que esta, no entanto, exceda 50% do total das importâncias referidas na secção 1, b), i) e ii) do presente artigo. Contudo, qualquer membro pode aceitar uma importância mais elevada.
 
-#### Secção 4. Redução de uma cobertura colectiva:
+Secção 4. Redução de uma cobertura colectiva:
 
 À medida que o Fundo reembolse um empréstimo com cobertura colectiva, a parte de cada membro nessa cobertura será reduzida na proporção que o reembolso representa na importância em dívida do mesmo empréstimo.
 
-ARTIGO X
+###### ARTIGO X — Financiamento dos créditos dos membros
 
-Financiamento dos créditos dos membros
-
-#### Secção 1. Pedido de financiamento:
+Secção 1. Pedido de financiamento:
 
 Um membro que tenha fornecido um financiamento directo ao Fundo pode alegar que satisfaz as condições de obtenção de um empréstimo previstas no artigo V, ou que espera poder satisfazê-las nos seis meses seguintes. Esse membro pode pedir ao Fundo, ao abrigo do presente artigo, um empréstimo igual à totalidade ou a uma parte do crédito que ele detém por virtude desse financiamento directo.
 
-#### Secção 2. Financiamento voluntário:
+Secção 2. Financiamento voluntário:
 
 Antes de apresentar esse pedido de empréstimo, o membro procurará obter, por intermédio do Fundo, que outro ou outros membros aceitem tomar o crédito que ele detém sobre o Fundo relativamente ao financiamento directo que forneceu ou procurará obter, alternativamente, um financiamento do Banco de Pagamentos Internacionais.
 
-#### Secção 3. Decisão relativa ao financiamento:
+Secção 3. Decisão relativa ao financiamento:
 
 a) O Conselho Directivo pronunciar-se-á rapidamente acerca do pedido do membro; se este for aceite, a decisão prevê disposições relativas ao financiamento, ao abrigo dos artigos VII, VIII e IX, da importância pedida. A taxa de juro dos empréstimos concedidos ao abrigo do presente artigo será fixada de acordo com as disposições do artigo V, secção 3, f);
 
@@ -1139,19 +1125,17 @@ b) Se, para efeitos da presente secção, for decidido fazer chamadas para a obt
 
 c) As decisões ao abrigo da presente secção serão tomadas por uma maioria de dois terços, excluindo os votos do membro que pediu o empréstimo.
 
-#### Secção 4. Capacidade para contrair empréstimos:
+Secção 4. Capacidade para contrair empréstimos:
 
 Um empréstimo concedido a um membro ao abrigo do presente artigo não afectará a sua capacidade de contrair empréstimos ao abrigo do artigo V.
 
-#### Secção 5. Datas de reembolso:
+Secção 5. Datas de reembolso:
 
 Os reembolsos do capital e o pagamento dos juros relativos aos recursos fornecidos de acordo com a secção 3 do presente artigo serão efectuados nas mesmas datas que as previstas para o crédito que é financiado.
 
-ARTIGO XI
+###### ARTIGO XI — Denominação, taxas de juros e datas do reembolso
 
-Denominação, taxas de juros e datas do reembolso
-
-#### Secção 1. Denominação do financiamento:
+Secção 1. Denominação do financiamento:
 
 Todo o financiamento fornecido ao Fundo e todas as coberturas correspondentes, assim como os reembolsos do capital e os pagamentos de juros relativos ao referido financiamento, serão expressos:
 
@@ -1159,15 +1143,15 @@ a) Em caso de financiamento directo, quer em DSE, quer na moeda transferida para
 
 b) Em caso de coberturas individuais e colectivas, quer em DSE, quer na moeda ou moedas que o Fundo obteve por empréstimo, conforme decisão do Conselho Directivo.
 
-#### Secção 2. Moeda de reembolso dos financiamentos:
+Secção 2. Moeda de reembolso dos financiamentos:
 
 Os reembolsos do capital e os pagamentos de juros devidos pelo Fundo em virtude de um financiamento que lhe foi fornecido serão efectuados na moeda em que o financiamento for expresso ou, no caso de um financiamento expresso em DSE, numa moeda efectivamente convertível aceitável pelo Fundo e pelo mutuante.
 
-#### Secção 3. Denominação e moeda de reembolso dos empréstimos:
+Secção 3. Denominação e moeda de reembolso dos empréstimos:
 
 Os empréstimos concedidos pelo Fundo e os reembolsos do capital e pagamentos dos respectivos juros serão expressos nas mesmas unidades que as estabelecidas para o financiamento do empréstimo, em conformidade com a secção 1 do presente artigo; os pagamentos devidos ao Fundo em virtude deste empréstimo serão efectuados nas moedas em que o Fundo é obrigado a pagar aos mutuantes que asseguraram o financiamento do empréstimo, em conformidade com a secção 2 do presente artigo.
 
-#### Secção 4. Utilização de moedas:
+Secção 4. Utilização de moedas:
 
 O Conselho Directivo levará em conta, na medida do possível, os pareceres das autoridades monetárias dos membros no que se refere à utilização das respectivas moedas nas operações do Fundo.
 
@@ -1177,15 +1161,13 @@ a) As transferências de moeda para o Fundo, em resultado de uma chamada para fi
 
 b) A taxa de juro dos empréstimos contraídos pelo Fundo com coberturas individuais ou colectivas será fixada pelo Conselho Directivo em função das condições do mercado.
 
-#### Secção 6. Fixação das datas de reembolso:
+Secção 6. Fixação das datas de reembolso:
 
 O Conselho Directivo fixará as datas dos reembolsos do capital e dos pagamentos de juros relativos aos empréstimos concedidos pelo Fundo, bem como as datas dos reembolsos do capital e dos pagamentos dos juros a efectuar aos mutuantes que asseguram o financiamento destes empréstimos.
 
-ARTIGO XII
+###### ARTIGO XII — Utilização das quotas
 
-Utilização das quotas
-
-#### Secção 1. Importância utilizada das quotas dos membros:
+Secção 1. Importância utilizada das quotas dos membros:
 
 A obrigação, por parte de qualquer membro, de fornecer financiamentos por força da sua quota será reduzida pelas importâncias:
 
@@ -1197,7 +1179,7 @@ c) Das chamadas ao membro para que este transfira recursos para o Fundo, em conf
 
 d) Dos reembolsos relativos a qualquer empréstimo recebido do Fundo pelo membro, nos termos do artigo X, salvo na medida em que a parte correspondente do financiamento directo fornecido pelo membro tenha sido reembolsada.
 
-#### Secção 2. Redução da importância utilizada da quota de um membro:
+Secção 2. Redução da importância utilizada da quota de um membro:
 
 A obrigação de um membro fornecer um financiamento por força da sua quota será reconstituída pelas importâncias:
 
@@ -1219,19 +1201,17 @@ f) De qualquer chamada, ou de qualquer fracção de uma chamada, previamente fei
 
 g) De qualquer empréstimo que esse membro receba do Fundo ao abrigo do artigo X.
 
-#### Secção 3. Valor em DSE das utilizações das quotas:
+Secção 3. Valor em DSE das utilizações das quotas:
 
 A fim de calcular o valor em DSE das importâncias mencionadas nas secções 1 e 2 do presente artigo, essas importâncias serão expressas em DSE ao valor em DSE da moeda em questão na data em que os recursos foram transferidos para o Fundo ou na data em que o Fundo contraiu um empréstimo com cobertura.
 
-#### Secção 4. Limite das importâncias utilizadas da quota de um membro:
+Secção 4. Limite das importâncias utilizadas da quota de um membro:
 
 O total das utilizações da quota de um membro, mencionadas na secção 1 do presente artigo, deduzido das reconstituições efectuadas ao abrigo da secção 2 do presente artigo, não ultrapassará a quota desse membro.
 
-ARTIGO XIII
+###### ARTIGO XIII — Cumprimento das obrigações do Fundo
 
-Cumprimento das obrigações do Fundo
-
-#### Secção 1. Processo do cumprimento das obrigações:
+Secção 1. Processo do cumprimento das obrigações:
 
 Se o Fundo não receber, na data de vencimento, um reembolso do capital ou um pagamento de juros relativo a um empréstimo por ele concedido, obterá a importância necessária para satisfazer as correspondentes obrigações para com os mutuantes, de acordo com as disposições do presente artigo; o Conselho Directivo decidirá:
 
@@ -1239,7 +1219,7 @@ a) Pagar antecipadamente o total da importância em dívida do capital, dos juro
 
 b) Manter em vigor o empréstimo e, por consequência, aumentar, conforme necessário, as chamadas para cobrir no todo ou em parte os juros em dívida e os outros encargos.
 
-#### Secção 2. Obrigações decorrentes de um empréstimo com cobertura colectiva:
+Secção 2. Obrigações decorrentes de um empréstimo com cobertura colectiva:
 
 No caso de obrigações para com os mutuantes resultantes de um empréstimo com cobertura colectiva, o Fundo obterá os recursos necessários para cumprir as suas obrigações:
 
@@ -1247,11 +1227,11 @@ a) Sacando sobre todos os activos da conta mencionada no artigo XV;
 
 b) Notificando todos os membros, excepto o mutuário que não efectuou o pagamento ao Fundo na data de vencimento, para que cumpram o seu compromisso de cobertura colectiva por meio de transferências na proporção, e até ao limite, da importância das suas coberturas nos termos do artigo IX, secção 1, b).
 
-#### Secção 3. Obrigações decorrentes de um empréstimo com cobertura individual:
+Secção 3. Obrigações decorrentes de um empréstimo com cobertura individual:
 
 Em caso de obrigações para com os mutuantes em resultado de um empréstimo com cobertura individual nos termos do artigo VIII, secção 1, b), o Fundo obterá a importância necessária para cumprir as suas obrigações notificando o membro interessado de que deverá transferir fundos até à importância da sua cobertura individual.
 
-#### Secção 4. Obrigações decorrentes de compromissos individuais:
+Secção 4. Obrigações decorrentes de compromissos individuais:
 
 Em caso de obrigações para com os membros resultantes de um financiamento directo ou de transferências efectuadas ao abrigo de coberturas individuais em conformidade com a secção 3 do presente artigo:
 
@@ -1259,7 +1239,7 @@ a) O Fundo obterá a importância necessária para cumprir as suas obrigações 
 
 b) Os fundos transferidos pelos membros ao abrigo da presente secção serão pagos aos membros na proporção das importâncias que deveriam ter recebido regularmente a título de reembolso do empréstimo em questão, ou das importâncias transferidas pelos membros ao abrigo da secção 3 do presente artigo.
 
-#### Secção 5. Partilha dos riscos:
+Secção 5. Partilha dos riscos:
 
 A fim de assegurar uma partilha equitativa de riscos entre os membros, em conformidade com o artigo I, secção 2, c):
 
@@ -1267,17 +1247,17 @@ a) Se qualquer dos membros aos quais se fizeram notificações, nos termos da se
 
 b) Se qualquer dos membros aos quais se dirigiram chamadas, nos termos da secção 4 do presente artigo, não transferir as importâncias pedidas, o Fundo dirigirá novas chamadas aos outros membros inicialmente chamados, convidando-os a efectuar novas transferências na proporção da importância não utilizada das suas quotas até que a importância requerida tenha sido transferida, sob reserva dos limites fixados pelas referidas quotas.
 
-#### Secção 6. Não cumprimento de obrigações:
+Secção 6. Não cumprimento de obrigações:
 
 Se um membro não cumprir as suas obrigações, nos termos do presente artigo, será considerado em falta relativamente à importância devida. Qualquer atraso em pagamentos ao Fundo dará lugar ao pagamento de juros e de uma multa que o Conselho Directivo fixará.
 
-#### Secção 7. Valor em DSE das obrigações do Fundo para com os membros, nos termos das secções 4 e 5 do presente artigo:
+Secção 7. Valor em DSE das obrigações do Fundo para com os membros, nos termos das secções 4 e 5 do presente artigo:
 
 a) As obrigações do Fundo nos termos das secções 4 e 5 do presente artigo, expressas em moeda, serão, para os fins das liquidações referidas no presente artigo, calculadas como se tivessem sido expressas em DSE, a contar da data na qual o financiamento correspondente fora assegurado ao Fundo. Para o efeito, a obrigação expressa numa moeda será convertida em DSE, ao valor em DSE dessa moeda, na data em que o financiamento correspondente foi assegurado ao Fundo e, em seguida, reconvertida na referida moeda ao seu valor corrente em DSE;
 
 b) Na medida em que a importância devida, expressa numa moeda, difere da importância nessa moeda, calculada em conformidade com o parágrafo a) da presente secção, que deverá ser liquidada nos termos do presente artigo, a diferença será liquidada em conformidade com a secção 8 do presente artigo.
 
-#### Secção 8. importâncias por liquidar ao abrigo do presente artigo:
+Secção 8. importâncias por liquidar ao abrigo do presente artigo:
 
 As transferências efectuadas pelos membros devido a chamadas ou a notificações por eles recebidas, nos termos do presente artigo, e as importâncias por liquidar, nos termos da secção 7, b), do presente artigo:
 
@@ -1287,31 +1267,25 @@ b) Serão parcial ou totalmente liquidadas sempre que o atraso ou falta relativo
 
 c) Serão liquidadas, em conformidade com o artigo XIX, secção 2, b) e c), se estiverem ainda em dívida na data da liquidação.
 
-ARTIGO XIV
+###### ARTIGO XIV — Valor das moedas em direitos de saque especiais
 
-Valor das moedas em direitos de saque especiais
-
-#### Secção 1. Método de valorização:
+Secção 1. Método de valorização:
 
 Para efeitos do presente Acordo, o valor de uma moeda em DSE será calculado em conformidade com o método de valorização aplicado pelo Fundo Monetário Internacional desde 1 de Julho de 1974.
 
-#### Secção 2. Alteração do método de valorização:
+Secção 2. Alteração do método de valorização:
 
 a) Se o Fundo Monetário Internacional modificar o método de valorização por ele aplicado desde 1 de Julho de 1974, o conselho directivo pode decidir adoptar o novo método de valorização, para efeitos do presente Acordo, desde que ele seja compatível com as disposições do artigo III, secção 2;
 
 b) Se o Conselho Directivo decidir adoptar este método de valorização modificado, este só será utilizado para as transacções efectuadas depois da entrada em vigor desta decisão e para os créditos e obrigações resultantes destas transacções, a menos que o Conselho Directivo decida de outro modo por uma maioria de 90%.
 
-ARTIGO XV
-
-Conta de receitas e despesas
+###### ARTIGO XV — Conta de receitas e despesas
 
 O Fundo suportará todas as despesas inerentes às suas operações por meio dos fundos recebidos em pagamento de juros ou de outros encargos, incluindo comissões de serviço, que não sejam necessários para efectuar pagamentos aos mutuantes. Os fundos da conta utilizada para este efeito serão aplicados conforme o Conselho Directivo o decidir.
 
-ARTIGO XVI
+###### ARTIGO XVI — Organização e gestão
 
-Organização e gestão
-
-#### Secção 1. Órgãos do Fundo:
+Secção 1. Órgãos do Fundo:
 
 O Fundo terá os seguintes órgãos:
 
@@ -1321,7 +1295,7 @@ b) Um Conselho Consultivo, e
 
 c) Um Secretariado.
 
-#### Secção 2. O Conselho Directivo:
+Secção 2. O Conselho Directivo:
 
 a) Todos os poderes do Fundo serão investidos no Conselho Directivo, que será responsável pelo funcionamento do Fundo;
 
@@ -1337,15 +1311,15 @@ f) O Conselho Directivo manterá o conselho da OCDE ao corrente das actividades 
 
 g) O Conselho Directivo poderá estabelecer todos os regulamentos e normas considerados necessários à aplicação do presente Acordo.
 
-#### Secção 3. Representação da Comunidade Económica Europeia:
+Secção 3. Representação da Comunidade Económica Europeia:
 
 Participará nas reuniões do Conselho Directivo e do Conselho Consultivo um representante da Comissão das Comunidades Europeias.
 
-#### Secção 4. Relações com outras organizações internacionais:
+Secção 4. Relações com outras organizações internacionais:
 
 O Conselho Directivo tomará as disposições adequadas para assegurar as relações com o Fundo Monetário Internacional e o Banco de Pagamentos Internacionais, bem como a participação de representantes destas instituições em reuniões do Conselho Directivo e do Conselho Consultivo.
 
-#### Secção 5. Regras de voto:
+Secção 5. Regras de voto:
 
 a) Cada membro disporá de um número de votos proporcional à sua quota e este direito de voto será exercido pelo seu representante no Conselho Directivo ou, na sua ausência, pelo seu suplente;
 
@@ -1359,7 +1333,7 @@ iii) Não será tomada qualquer decisão ao abrigo dos artigos VI, X, XIV, XVI e
 
 c) O Conselho Directivo poderá tomar decisões por votos enviados pelo correio, ou por qualquer meio de comunicação rápido.
 
-#### Secção 6. Conselho Consultivo.
+Secção 6. Conselho Consultivo.
 
 a) O Conselho Directivo designará um Conselho Consultivo composto por funcionários financeiros, nomeados pelos membros, que agirão na qualidade de peritos;
 
@@ -1367,7 +1341,7 @@ b) O número de membros do Conselho Consultivo será fixado pelo Conselho Direct
 
 c) O Conselho Consultivo terá a seu cargo, sob a supervisão do Conselho Directivo, a preparação dos trabalhos deste último, com a colaboração do Secretariado, e a execução de todas as outras tarefas que o Conselho Directivo lhe venha a atribuir. O Conselho Consultivo dará o seu parecer ao Conselho Directivo sobre as questões a submeter à consideração ou decisão deste.
 
-#### Secção 7. Secretariado:
+Secção 7. Secretariado:
 
 a) O Secretariado da OCDE funcionará como Secretariado do Fundo e executará os serviços administrativos do Fundo sob a orientação do Conselho Directivo;
 
@@ -1377,7 +1351,7 @@ b) Todas as despesas incorridas pela OCDE relativamente ao funcionamento do Fund
 
 A sede do Fundo funcionará na sede da OCDE em Paris, França.
 
-#### Secção 9. Autoridade designada:
+Secção 9. Autoridade designada:
 
 Cada membro designará uma só autoridade monetária - o Tesouro, o Fundo de Estabilização, o Banco Central ou qualquer outra autoridade monetária - para se encarregar das transacções entre aquele membro e o Fundo.
 
@@ -1397,23 +1371,21 @@ b) O acordo previsto no parágrafo a) da presente secção poderá também inclu
 
 e) O agente submeterá periodicamente ao Conselho Directivo um relatório que incluirá uma conta de valores activos e passivos do Fundo e uma conta de receitas e despesas.
 
-#### Secção 11. Auditoria independente:
+Secção 11. Auditoria independente:
 
 O Conselho Directivo providenciará para que se proceda a uma auditoria independente das contas do Fundo e enviará a cada membro o respectivo relatório juntamente com uma situação das operações do Fundo.
 
-ARTIGO XVII
+###### ARTIGO XVII — Capacidade, privilégios e imunidades
 
-Capacidade, privilégios e imunidades
-
-#### Secção 1. Objecto do artigo:
+Secção 1. Objecto do artigo:
 
 A capacidade, os privilégios e imunidades definidos no presente artigo serão reconhecidos ao Fundo no território de cada membro, na medida necessária ao desempenho das funções que lhe são confiadas.
 
-#### Secção 2. Capacidade do Fundo:
+Secção 2. Capacidade do Fundo:
 
 O Fundo terá personalidade jurídica e, em especial, a capacidade de concluir contratos e de estar em juízo.
 
-#### Secção 3. imunidade de jurisdição:
+Secção 3. imunidade de jurisdição:
 
 a) O Fundo gozará de imunidade relativamente a qualquer forma de processos jurídicos, salvo em caso de diferendos que possam ocorrer em relação com o exercício dos seus poderes de contrair empréstimos, ou de comprar ou vender títulos, casos em que poderão ser intentadas acções contra o Fundo num tribunal competente no território de um membro onde o Fundo tenha a sua sede, ou onde tenha contraído empréstimos ou emitido títulos. Nestes casos, o Conselho Directivo nomeará um agente, a fim de receber uma contrafé ou notificação de processo em conformidade com o direito do país de cada membro; em todos os outros casos, poderá nomear esse agente;
 
@@ -1421,15 +1393,15 @@ b) Não obstante as disposições do parágrafo a) da presente secção não pod
 
 c) Os activos do Fundo, onde quer que se encontrem e seja quem for que os detenha, estarão isentos de qualquer forma de apreensão, arresto ou penhora até que seja pronunciada sentença definitiva contra o Fundo.
 
-#### Secção 4. Activos do Fundo:
+Secção 4. Activos do Fundo:
 
 Os activos do Fundo, onde quer que se encontrem e seja quem for que os detenha, estarão isentos de busca, requisição, confiscação, expropriação ou qualquer outra forma de apreensão por acção executiva, legislativa ou administrativa.
 
-#### Secção 5. Arquivos do Fundo:
+Secção 5. Arquivos do Fundo:
 
 Os arquivos do Fundo serão invioláveis.
 
-#### Secção 6. Regulamentação cambial:
+Secção 6. Regulamentação cambial:
 
 Na medida necessária à execução das operações do Fundo, os activos deste serão isentos de restrições, normas, contrôles e moratórias financeiras de qualquer natureza.
 
@@ -1443,7 +1415,7 @@ i) Que seja discriminatória relativamente a estas obrigações ou títulos, ape
 
 ii) Se a única fonte de competência fiscal for o lugar em que são emitidos, pagáveis ou pagos, ou a moeda em que o forem, ou o local de qualquer estabelecimento ou escritório do Fundo.
 
-#### Secção 8. Representantes e funcionários:
+Secção 8. Representantes e funcionários:
 
 No que se refere aos privilégios e imunidades:
 
@@ -1451,25 +1423,21 @@ a) Os representantes dos membros do Conselho Directivo e os membros do Conselho 
 
 b) Os funcionários da OCDE, para os actos que pratiquem ou deixem de praticar em nome do Fundo, deverão ser considerados na sua qualidade de funcionários da OCDE.
 
-#### Secção 9. Levantamento de imunidade:
+Secção 9. Levantamento de imunidade:
 
 O Conselho Directivo terá o direito e o dever de renunciar a qualquer imunidade concedida pelo presente artigo, em todos os casos em que, em sua opinião, a imunidade ponha impedimentos ao curso da justiça e onde ela possa ser dispensada sem prejuízo para os interesses do Fundo.
 
-ARTIGO XVIII
-
-Período seguinte à expiração da faculdade de conceder empréstimos
+###### ARTIGO XVIII — Período seguinte à expiração da faculdade de conceder empréstimos
 
 Durante o período compreendido entre a expiração da faculdade de conceder os empréstimos referidos no artigo V, secção 1, e a liquidação do Fundo, todas as disposições do presente Acordo necessárias para fazer face às obrigações do Fundo e aos créditos sobre o Fundo criados antes da expiração da sua faculdade de conceder empréstimos permanecerão em vigor. O Conselho Directivo poderá decidir, por unanimidade, que, durante este período, qualquer outra disposição do presente Acordo não seja aplicada.
 
-ARTIGO XIX
+###### ARTIGO XIX — Liquidação
 
-Liquidação
-
-#### Secção 1. Data de liquidação:
+Secção 1. Data de liquidação:
 
 Após a expiração da faculdade de o Fundo conceder empréstimos, o Fundo continuará a existir até que tenha dado quitação de todas as suas obrigações para com terceiros e que o último reembolso de qualquer empréstimo por ele concedido tenha chegado à data de vencimento. Nessa data, o Fundo será liquidado, salvo se o Conselho Directivo decidir de outro modo por uma maioria de 70%
 
-#### Secção 2. Processo da liquidação:
+Secção 2. Processo da liquidação:
 
 Na data da liquidação o activo e o passivo do Fundo serão liquidados em conformidade com as seguintes normas:
 
@@ -1485,39 +1453,31 @@ c) Todas as importâncias não liquidadas nos termos da secção 7, b), do artig
 
 d) As dívidas bilaterais, nos termos dos parágrafos b) e c) anteriores, vencerão juros e serão reembolsadas de acordo com as modalidades e condições acordadas entre as partes. No caso de dívidas em resultado do parágrafo b), essas modalidades e condições abrangerão a denominação da dívida.
 
-ARTIGO XX
-
-Interpretação
+###### ARTIGO XX — Interpretação
 
 Qualquer questão de interpretação das disposições do presente Acordo levantada entre um membro e o Fundo ou entre membros será submetida a uma comissão ad hoc composta por três peritos designados pelo Conselho Directivo sob proposta do seu presidente. O parecer da maioria dos membros da comissão ad hoc será aceite pelo Conselho Directivo, salvo decisão em contrário deste último.
 
-ARTIGO XXI
-
-Emendas
+###### ARTIGO XXI — Emendas
 
 O Conselho Directivo poderá propor emendas ao presente Acordo por decisão unânime dos membros votantes. As condições para a entrada em vigor de uma emenda constarão da proposta do Conselho Directivo, tomando-se as disposições necessárias para ter em conta as formalidades constitucionais dos membros.
 
-ARTIGO XXII
-
-Aplicação do Acordo
+###### ARTIGO XXII — Aplicação do Acordo
 
 Cada membro tomará as medidas necessárias, nomeadamente de carácter legislativo, para aplicar o presente Acordo. Mais especificamente, cada membro, à data da entrada em vigor do presente Acordo, no que diz respeito ao respectivo país, deverá ter preenchido todos os requisitos necessários ao cumprimento das suas obrigações decorrentes de uma notificação do Fundo nos termos do artigo VII ou do artigo XIII, por meio da adopção de todas as medidas necessárias, legislativas ou de outra natureza, que lhe permitam efectuar sem demora pagamentos ao Fundo; esse membro informará o Fundo da adopção destas medidas.
 
-ARTIGO XXIII
-
-Disposições finais
+###### ARTIGO XXIII — Disposições finais
 
 #### Secção 1. Assinatura:
 
 O presente Acordo poderá ser assinado por qualquer país membro da OCDE, na sede da OCDE, de 9 de Abril a 31 de Maio de 1975. As assinaturas estarão sujeitas à ratificação, aceitação ou aprovação dos países signatários.
 
-#### Secção 2. Entrada em vigor:
+Secção 2. Entrada em vigor:
 
 a) No décimo dia após a data em que os países membros da OCDE, representando pelo menos 70% das quotas, tendo cumprido as suas formalidades constitucionais e satisfeito os requisitos previstos no artigo XXII, tenham depositado junto do secretário-geral da OCDE um instrumento de ratificação, aceitação ou aprovação ou uma notificação de consentimento de se obrigarem, o presente Acordo entrará em vigor para esses países membros;
 
 b) Se as condições do parágrafo a) da presente secção não tiverem sido satisfeitas, mas se pelo menos quinze membros da OCDE, representando pelo menos 60% das quotas, tiverem depositado um instrumento de ratificação, aceitação ou aprovação ou uma notificação de consentimento de se obrigarem, esses países membros poderão decidir, por acordo unânime, que o presente Acordo entre em vigor entre eles.
 
-#### Secção 3. Adesão após a entrada em vigor:
+Secção 3. Adesão após a entrada em vigor:
 
 Após a entrada em vigor do presente Acordo em conformidade com os parágrafos a) ou b) da secção 2 do presente artigo:
 
@@ -1527,14 +1487,14 @@ b) Os países membros da OCDE podem tornar-se partes do presente Acordo decorrid
 
 #### Secção 4. Notificação:
 
-**O secretário-geral da OCDE notificará todos os países membros da OCDE do depósito de cada instrumento de ratificação, aceitação, aprovação ou adesão, ou uma notificação de consentimento de se obrigarem, e da entrada em vigor do presente Acordo ou de qualquer emenda às suas disposições.**
+O secretário-geral da OCDE notificará todos os países membros da OCDE do depósito de cada instrumento de ratificação, aceitação, aprovação ou adesão, ou uma notificação de consentimento de se obrigarem, e da entrada em vigor do presente Acordo ou de qualquer emenda às suas disposições.
 
-#### Secção 5. Textos autênticos:
+Secção 5. Textos autênticos:
 
 O original do presente Acordo, cujas versões em língua inglesa, francesa, alemã, italiana, japonesa, holandesa e espanhola são igualmente autenticas, será depositado junto do secretário-geral da OCDE, que enviará a cada país membro da OCDE uma cópia conforme.
 
 ## ANEXO — Quotas estabelecidas nos termos do artigo III do presente Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/02/04900/04090432.pdf))](https://files.diariodarepublica.pt/1s/1976/02/04900/04090432.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/02/04900/04090432.pdf)
 
 Feito em Paris, a 9 de Abril de 1975.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/32/1998/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/32-1998-437978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:09:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3ca627e7ab9f8b230f7c4a9170c98a13529cb377fffe653e8195ef7b3016cd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92b670808adf1bb770f725e8c497381ce1230538b34c5243748570da97dcc919
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:09:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Instalação Militar
 - Chefe do Estado Maior do Exército
-- Licenciamento
 - Coimbra
 - Comunicações
+- Definição de Competências
+- Instalação Militar
+- Licenciamento
 - Ministro da Defesa Nacional
 - Servidão Radioelétrica
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:09:08Z'
   warnings: []
   errors: []
 ---
@@ -161,14 +177,14 @@ Presidência do Conselho de Ministros, 4 de Junho de 1998
 
 António Manuel de Oliveira Guterres - José Veiga Simão - Jorge Paulo Sacadura Almeida Coelho - José Manuel da Costa Monteiro Consiglieri Pedroso.
 
-**Assinado em 24 de Julho de 1998.**
+Assinado em 24 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Julho de 1998.**
+Referendado em 30 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/1998/08/186b00/39453949.pdf)

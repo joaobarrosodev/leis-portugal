@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/10500/0000200029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/11/2023/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-2023-213761238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7270364403b32b61187b454cf73cbd7d8ed8d6f3b59770cde761ba2b8736eaca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63918d6b05e2d1419e89dd99a57de156ed06456a74da7cc3b6dfd834b0db0700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ subjects:
 - Acesso à Informação
 - Autoridade Nacional
 - Autoridade Nacional de Segurança
+- Chipre
 - Convenção
-- Portugal
 - Documentação Classificada
 - Nicósia
-- Chipre
+- Portugal
 relationships: []
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:15Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +105,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 27 de abril de 2023. - Mariana Guimarães Vieira da Silva - Paulo Alexandre Nascimento Cafôfo.
 
-**Assinado em 11 de maio de 2023.**
+Assinado em 11 de maio de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de maio de 2023.**
+Referendado em 18 de maio de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CHIPRE SOBRE A TROCA E A PROTEÇÃO MÚTUA DE INFORMAÇÃO CLASSIFICADA
 
@@ -165,7 +165,7 @@ l) «Terceira Parte» designa qualquer Estado, organização, pessoa coletiva ou
 
 As Partes acordam que os seguintes níveis e marcas de classificações de segurança são equivalentes e correspondem aos níveis de classificação de segurança previstos no Direito nacional respetivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/10500/0000200029.pdf))](https://files.diariodarepublica.pt/1s/2023/05/10500/0000200029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/10500/0000200029.pdf)
 
 ###### Artigo 4.º — Autoridades de segurança
 
@@ -405,7 +405,7 @@ Pela República de Chipre:
 
 Charalambos Petrides, Ministro da Defesa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/10500/0000200029.pdf))](https://files.diariodarepublica.pt/1s/2023/05/10500/0000200029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/10500/0000200029.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF CYPRUS ON THE EXCHANGE AND MUTUAL PROTECTION OF CLASSIFIED INFORMATION
 
@@ -463,7 +463,7 @@ Security classification levels
 
 The Parties agree that the following security classification levels and markings are equivalent and correspond to the security classification levels specified in their respective national legislation:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/10500/0000200029.pdf))](https://files.diariodarepublica.pt/1s/2023/05/10500/0000200029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/10500/0000200029.pdf)
 
 Article 4
 
@@ -730,3 +730,5 @@ João Gomes Cravinho, Minister of Foreign Affairs.
 For the Republic of Cyprus:
 
 Charalambos Petrides, Minister of Defence.
+
+116498343

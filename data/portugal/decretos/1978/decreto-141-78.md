@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 275/1978, 1º Suplemento, Série I de 1978-11-29
   number: '275'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2526-(1) a 2526-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27501/00010001.pdf
 entry_into_force_dates: []
@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/141-1978-455967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:49:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05b8f07531870e31841ca7de87741e90457d8704288e067a5dd01c6ad5159d20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7343a675c0f874ab7caea2d8ccf6d05cd9b51a87e644ccd2a0db72e4ce39fcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo IV
+- Nomeação
+- Secretário de Estado da Administração Regional e Local
+- Secretário de Estado da Cultura
+- Secretário de Estado da Energia e Indústrias de BASE
+- Secretário de Estado da Estruturação Agrária
+- Secretário de Estado da Habitação
+- Secretário de Estado da Juventude e Desportos
+- Secretário de Estado da Marinha Mercante
+- Secretário de Estado da População e Emprego
+- Secretário de Estado da Saúde
+- Secretário de Estado da Segurança Social
+- Secretário de Estado das Finanças
+- Secretário de Estado das Obras Públicas
+- Secretário de Estado das Pescas
+- Secretário de Estado do Comércio Externo
+- Secretário de Estado do Comércio Interno
+- Secretário de Estado do Ensino Básico e Secundario
+- Secretário de Estado do Fomento Agrário
+- Secretário de Estado do Orçamento
+- Secretário de Estado do Planeamento
+- Secretário de Estado do Tesouro
+- Secretário de Estado do Trabalho
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Transportes e Comunicações
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:49:15Z'
   warnings: []
   errors: []
 ---
@@ -84,12 +109,12 @@ validation:
 
 de 29 de Novembro
 
-**O Presidente da República decreta, nos termos da alínea g) do artigo 136.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea g) do artigo 136.º da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro, o Dr. David de Jesus Mourão Ferreira, o Dr. José de Matos Torres, o Prof. Doutor Rui José da Conceição Nunes, o Dr. António de Almeida, o Dr. Alípio Barrosa Pereira Dias, o Dr. João Pinto Ribeiro, o Dr. José Manuel Marques Leandro, o Dr. Paulo Manuel Lage David Ennes, o engenheiro Francisco de Paula Ferreira Moniz Borba, o Dr. Augusto Martins Ferreira do Amaral, o engenheiro Mário Francisco Barreira da Ponte, o Dr. João de Albuquerque, o Dr. Hugo Fernando de Jesus, o engenheiro António José Baptista Cardoso e Cunha, o Prof. Doutor Manuel Duarte Pereira, o engenheiro Francisco Correia Guedes, o Dr. Licínio Alberto de Almeida Cunha, a Dr.ª Maria Manuela Aguiar Dias Moreira, o Dr. João Gualberto Coentro de Saraiva Padrão, o Prof. Doutor Eduardo Romano de Arantes e Oliveira, o tenente-coronel Rodolfo António Cabrita Bacelar Begonha, a Dr.ª Maria Alice Nobre Gouveia, o Dr. Mário José Gomes Marques, o Prof. Doutor Coriolano Albino Ferreira, o Dr. José da Silva Domingos, o Dr. Rogério do Ouro Lameira, o engenheiro José Augusto Gonçalves Ramos, o engenheiro Baltasar António de Morais Barroco e o engenheiro Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo, respectivamente, Secretários de Estado da Cultura, Adjunto para os Assuntos Económicos e Integração Europeia, do Planeamento, do Tesouro, das Finanças, do Orçamento, da Administração Regional e Local, dos Negócios Estrangeiros e da Emigração, do Fomento Agrário, da Estruturação Agrária, do Comércio e Indústrias Agrícolas, das Pescas, da Energia e Indústrias de Base, das Indústrias Transformadoras, do Comércio Interno, do Comércio Externo, do Turismo, do Trabalho, da População e Emprego, do Ensino Superior e Investigação Científica, da Juventude e Desportos, do Ensino Básico e Secundário, da Saúde, da Segurança Social, da Marinha Mercante, dos Transportes e Comunicações, da Habitação, do Ordenamento Físico, Recursos Hídricos e Ambiente e das Obras Públicas.
 
-**Assinado em 29 de Novembro de 1978.**
+Assinado em 29 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

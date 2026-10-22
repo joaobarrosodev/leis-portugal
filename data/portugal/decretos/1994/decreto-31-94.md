@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/31/1994/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-1994-626219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1fe7faf887ee76cd2f69dcd81f22677419c095c3231571182dcd92af26d92bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c196f19fb473a93380944fc09398fdbe29d644a6c0d3ce5af9c39d6045f1341a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Médica
-- Pessoal de Saúde
-- Formação Profissional
 - Convenção
-- Portugal
-- Saúde
-- Gestão Hospitalar
 - Estabelecimento Hospitalar
+- Formação Profissional
+- Gestão Hospitalar
+- Pessoal de Saúde
+- Portugal
 - São Tomé
+- Saúde
 relationships: []
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:20Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +96,19 @@ de 22 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação entre a República Portuguesa e a República Democrática de São Tomé e Príncipe visando a gestão e o funcionamento do Hospital Escolar Dr. António Agostinho Neto, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Cooperação entre a República Portuguesa e a República Democrática de São Tomé e Príncipe visando a gestão e o funcionamento do Hospital Escolar Dr. António Agostinho Neto, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Durão Barroso - Adalberto Paulo da Fonseca Mendo.
 
-**Assinado em 7 de Outubro de 1994.**
+Assinado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE VISANDO A GESTÃO E O FUNCIONAMENTO DO HOSPITAL ESCOLAR DR. ANTÓNIO AGOSTINHO NETO.
 

@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/106-1978-329041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91e7f160fd1e075048a233458b05cb60b179da616395fd1bfe091bc68f372ada
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7591493797e5205c1138632b9b96f5b1101233eba4c7609be247d190f355789f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Crédito Especial
+- Despesas Públicas
+- Ministério das Finanças e do Plano
+- Orçamento
+- Orçamento Geral do Estado
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:327341:por
+  label: Retificado o art. 5.º pelo(a) Declaração - Diário da República n.º 257/1978, Série I de 1978-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-327341
+  date: '1978-11-08'
+- type: corrected_by
+  target: pt:dre:325677:por
+  label: Retificado o art. 1.º pelo(a) Declaração - Diário da República n.º 260/1978, Série I de 1978-11-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-325677
+  date: '1978-11-11'
 article_structure:
-  article_count: 13
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:40Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +113,11 @@ Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diar
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 1035758 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 1035758 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/22900/20732077.pdf))](https://files.diariodarepublica.pt/1s/1978/10/22900/20732077.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/22900/20732077.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
@@ -100,29 +125,29 @@ Receitas correntes:
 
 ... Em contos
 
-### Capítulo 05 «Transferências», grupo 01 «Sector público», artigo 02 «Fundos autónomos» ... 12100
+Capítulo 05 «Transferências», grupo 01 «Sector público», artigo 02 «Fundos autónomos» ... 12100
 
-### Capítulo 05 «Transferências», grupo 01 «Sector público», artigo 03 «Serviços autónomos» ... 60336
+Capítulo 05 «Transferências», grupo 01 «Sector público», artigo 03 «Serviços autónomos» ... 60336
 
-### Capítulo 05 «Transferências», grupo 06 «Exterior», artigo 01 «Estrangeiro» ... 89583
+Capítulo 05 «Transferências», grupo 06 «Exterior», artigo 01 «Estrangeiro» ... 89583
 
-### Capítulo 06 «Venda de bens duradouros», grupo 01 «Sector público», artigo 01 «Serviços gerais» ... 165374
+Capítulo 06 «Venda de bens duradouros», grupo 01 «Sector público», artigo 01 «Serviços gerais» ... 165374
 
-### Capítulo 07 «Venda de serviços e bens não duradouros», grupo 10 «Diversos - Outros sectores», artigo 04 «Vistorias e ensaios - Serviços industriais» ... 3600
+Capítulo 07 «Venda de serviços e bens não duradouros», grupo 10 «Diversos - Outros sectores», artigo 04 «Vistorias e ensaios - Serviços industriais» ... 3600
 
-### Capítulo 07 «Venda de serviços e bens não duradouros», grupo 10 «Diversos - Outros sectores», artigo 10 «Diversos serviços e bens não duradouros - Serviços de saúde» ... 3906
+Capítulo 07 «Venda de serviços e bens não duradouros», grupo 10 «Diversos - Outros sectores», artigo 10 «Diversos serviços e bens não duradouros - Serviços de saúde» ... 3906
 
 Receitas de capital:
 
-### Capítulo 10 «Transferências», grupo 01 «Sector público», artigo 02 «Fundos autónomos - Outros» ... 2500
+Capítulo 10 «Transferências», grupo 01 «Sector público», artigo 02 «Fundos autónomos - Outros» ... 2500
 
 Reposições:
 
-### Capítulo 14 «Reposições», artigo 01 «Reposições não abatidas nos pagamentos» ... 22475
+Capítulo 14 «Reposições», artigo 01 «Reposições não abatidas nos pagamentos» ... 22475
 
 Contas de ordem:
 
-### Capítulo 15 «Contas de ordem»:
+Capítulo 15 «Contas de ordem»:
 
 Grupo 01 «Defesa Nacional - Estado-Maior-General das Forças Armadas», artigo 01 «Comissão dos Explosivos» ... 500
 
@@ -148,7 +173,7 @@ Grupo 10 «Finanças e Plano», artigo 02 «Instituto de Informática» ... 2000
 
 ... 1035758
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubricas nos orçamentos a seguir designados:
+Art. 3.º São autorizadas as seguintes alterações de rubricas nos orçamentos a seguir designados:
 
 12 - Ministério da Indústria e Tecnologia
 
@@ -170,7 +195,7 @@ A observação (1) aposta à dotação descrita no capítulo 06, div. 01, C. E. 
 
 Inclui a quantia de 8591 contos, sujeita a compensação em receita, nos termos do artigo X do Acordo de Cooperação Luso-Sueco.
 
-###### Art. 4.º São autorizadas as seguintes inscrições de rubricas, a apor às dotações, a seguir indicadas, descritas no actual orçamento do Ministério dos Transportes e Comunicações:
+Art. 4.º São autorizadas as seguintes inscrições de rubricas, a apor às dotações, a seguir indicadas, descritas no actual orçamento do Ministério dos Transportes e Comunicações:
 
 À dotação descrita no capítulo 05, C. E. 26.00, é aposta a seguinte observação:
 
@@ -192,7 +217,7 @@ Inclui a quantia de 8591 contos, sujeita a compensação em receita, nos termos 
 
 (15) Inclui a verba de 1000 contos, a suportar pelas receitas do Fundo Especial de Transportes Terrestres.
 
-###### Art. 5.º São autorizados os reforços, com as importâncias a seguir indicadas, das verbas inscritas nos orçamentos privativos dos seguintes serviços:
+Art. 5.º São autorizados os reforços, com as importâncias a seguir indicadas, das verbas inscritas nos orçamentos privativos dos seguintes serviços:
 
 Administração-Geral do Porto de Lisboa
 
@@ -208,9 +233,9 @@ Código 31 «Aquisição de serviços - Não especificados», 3 «Tráfego» ...
 
 Código 44 «Outras despesas correntes»:
 
-##### Subdivisão 06 «Despesas de anos findos» ... 20000
+Subdivisão 06 «Despesas de anos findos» ... 20000
 
-##### Subdivisão 09 «Diversos» ... 10000
+Subdivisão 09 «Diversos» ... 10000
 
 Despesas de capital:
 
@@ -258,7 +283,7 @@ Código 39 «Transferências - Empresas públicas», 01 «Petróleos de Portugal
 
 ... 115400
 
-###### Art. 6.º Para contrapartida dos reforços discriminados no artigo anterior, são aumentadas à previsão das receitas descritas nas rubricas, a seguir designadas, dos orçamentos de receita dos respectivos serviços, as seguintes importâncias:
+Art. 6.º Para contrapartida dos reforços discriminados no artigo anterior, são aumentadas à previsão das receitas descritas nas rubricas, a seguir designadas, dos orçamentos de receita dos respectivos serviços, as seguintes importâncias:
 
 Administração-Geral do Porto de Lisboa
 
@@ -266,31 +291,31 @@ Receitas correntes:
 
 ... Em contos
 
-### Capítulo 07 «Venda de serviços e bens não duradouros»:
+Capítulo 07 «Venda de serviços e bens não duradouros»:
 
 Grupo 07 «Rendas de bens duradouros - Outros sectores» ... 60000
 
 Grupo 10 «Diversos - Outros sectores»:
 
-###### Artigo 01 «Estacionamento de navios» ... 15000
+Artigo 01 «Estacionamento de navios» ... 15000
 
-###### Artigo 02 «Acostagem de navios» ... 10000
+Artigo 02 «Acostagem de navios» ... 10000
 
-###### Artigo 05 «Tráfego de mercadorias» ... 90000
+Artigo 05 «Tráfego de mercadorias» ... 90000
 
-###### Artigo 07 «Aparelhos elevatórios e transportadores terrestres» ... 20000
+Artigo 07 «Aparelhos elevatórios e transportadores terrestres» ... 20000
 
-###### Artigo 10 «Aparelhos elevatórios flutuantes» ... 15000
+Artigo 10 «Aparelhos elevatórios flutuantes» ... 15000
 
-###### Artigo 11 «Rebocadores e gasolinas» ... 15000
+Artigo 11 «Rebocadores e gasolinas» ... 15000
 
-###### Artigo 13 «Operações de reboque e especial de assistência ou de salvamento» ... 5000
+Artigo 13 «Operações de reboque e especial de assistência ou de salvamento» ... 5000
 
 Receitas de capital:
 
 ... Em contos
 
-### Capítulo 10 «Transferências»:
+Capítulo 10 «Transferências»:
 
 Grupo 01 «Sector público» ... 10000
 
@@ -302,42 +327,42 @@ Receitas correntes:
 
 ... Em contos
 
-### Capítulo 02 «Impostos indirectos»:
+Capítulo 02 «Impostos indirectos»:
 
 Grupo 03 «Outros» ... 10000
 
-### Capítulo 03 «Taxas, multas e outras penalidades»:
+Capítulo 03 «Taxas, multas e outras penalidades»:
 
 Grupo 01 «Taxas» ... 20000
 
-### Capítulo 07 «Venda de serviços e bens não duradouros»:
+Capítulo 07 «Venda de serviços e bens não duradouros»:
 
 Grupo 08 «Diversos - Sector público»:
 
-###### Artigo 18 «Taxas de utilização do terminal petroleiro» ... 10000
+Artigo 18 «Taxas de utilização do terminal petroleiro» ... 10000
 
 Grupo 10 «Diversos - Outros sectores»:
 
-###### Artigo 06 «Guindagem» ... 3000
+Artigo 06 «Guindagem» ... 3000
 
-###### Artigo 11 «Material - Automóvel» ... 3000
+Artigo 11 «Material - Automóvel» ... 3000
 
-###### Artigo 13 «Reboques» ... 2297
+Artigo 13 «Reboques» ... 2297
 
 Receitas de capital:
 
 ... Em contos
 
-### Capítulo 13 «Outras receitas de capital»:
+Capítulo 13 «Outras receitas de capital»:
 
-###### Artigo 01 «Saldo de gerência» ... 67103
+Artigo 01 «Saldo de gerência» ... 67103
 
 ... 115400
 
 Alfredo Jorge Nobre da Costa - José da Silva Lopes.
 
-**Promulgado em 18 de Setembro de 1978.**
+Promulgado em 18 de Setembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

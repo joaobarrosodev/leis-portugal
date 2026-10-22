@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/422-1975-314454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02a04de21bd3b7a7fe682bfb37a142ca340431f66991b80d76f69aea7d51a515
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c03fe01b6bcad2fea369ccf60b88bae7550509e25d778e8d82d51e034c32344
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Armazenagem
+- Combustível
+- Fiscalização
+- Normas de Segurança
+- Petróleo
+- Produto Petrolífero
+- Segurança dos Edifícios
+- Segurança Pública
+relationships:
+- type: cites
+  target: pt:dre:185521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:307638:por
+  label: Retificado o n.º 2 do preâmbulo e publicadas as tabelas I e II pelo(a) Rectificação - Diário do Governo n.º 200/1975,
+    Série I de 1975-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-307638
+  date: '1975-08-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:34Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +116,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os reservatórios de gases de petróleo liquefeitos deverão ser instalados no exterior de edifícios e, quer sejam amovíveis, quer sejam fixos, deverão estar localizados, em relação aos edifícios mais próximos ou à linha divisória da propriedade adjacente onde se possa vir a construir, de acordo com a tabela I anexa ao presente diploma.
+Artigo 1.º - 1. Os reservatórios de gases de petróleo liquefeitos deverão ser instalados no exterior de edifícios e, quer sejam amovíveis, quer sejam fixos, deverão estar localizados, em relação aos edifícios mais próximos ou à linha divisória da propriedade adjacente onde se possa vir a construir, de acordo com a tabela I anexa ao presente diploma.
 
 2. As disposições contidas neste Regulamento não são aplicáveis a reservatórios destinados a alimentar estações de enchimento de garrafas.
 
-###### Art. 2.º - 1. Os vaporizadores de chama directa deverão ser instalados de acordo com as distâncias de protecção indicadas na tabela II anexa a este diploma.
+Art. 2.º - 1. Os vaporizadores de chama directa deverão ser instalados de acordo com as distâncias de protecção indicadas na tabela II anexa a este diploma.
 
 2. Os vaporizadores de chama indirecta devem ser instalados em edificações ou abrigos, usados exclusivamente para vaporização ou distribuição de gases de petróleo liquefeitos, construídos em materiais incombustíveis, bem ventilados aos níveis do pavimento e da cobertura e com as portas de acesso aos vaporizadores a abrir para o exterior.
 
 3. Os vaporizadores de chama indirecta devem estar localizados, em relação aos edifícios habitados mais próximos ou à linha divisória da propriedade adjacente onde se possa vir a construir, de acordo com os valores indicados na tabela I para os reservatórios que servem.
 
-###### Art. 3.º Para os reservatórios de capacidade igual ou inferior a 8 m3 as distâncias indicadas na tabela I podem ser reduzidas por interposição de um muro resistente ao fogo, que obedeça às seguintes condições.
+Art. 3.º Para os reservatórios de capacidade igual ou inferior a 8 m3 as distâncias indicadas na tabela I podem ser reduzidas por interposição de um muro resistente ao fogo, que obedeça às seguintes condições.
 
 a) Ser construído em tijolo ou outro material incombustível de resistência mecânica equivalente;
 
@@ -114,7 +136,7 @@ c) Estender-se para um e outro lado do reservatório, de modo que o trajecto rea
 
 d) Distar, no mínimo, de 60 cm da parede do reservatório.
 
-###### Art. 4.º - 1. A área afecta à armazenagem deverá ser cercada por uma vedação resistente, construída em materiais incombustíveis e com, pelo menos, 2 m de altura. Esta vedação possuirá duas portas metálicas, abrindo para o exterior e equipadas com um fecho de segurança. A largura mínima das portas não poderá ser inferior a 90 cm e a distância da vedação à periferia dos reservatórios não poderá nunca ser inferior a 1 m.
+Art. 4.º - 1. A área afecta à armazenagem deverá ser cercada por uma vedação resistente, construída em materiais incombustíveis e com, pelo menos, 2 m de altura. Esta vedação possuirá duas portas metálicas, abrindo para o exterior e equipadas com um fecho de segurança. A largura mínima das portas não poderá ser inferior a 90 cm e a distância da vedação à periferia dos reservatórios não poderá nunca ser inferior a 1 m.
 
 2. A altura da vedação poderá ser reduzida a 1,20 m ou esta poderá ser substituída por postaletes interligados através de varões metálicos se a implantação do reservatório estiver compreendida no perímetro de um estabelecimento cercado por forma que assegure protecção suficiente contra a entrada de pessoas estranhas.
 
@@ -124,22 +146,22 @@ d) Distar, no mínimo, de 60 cm da parede do reservatório.
 
 5. Não será necessária vedação se o reservatório estiver implantado numa fossa em betão armado calculada e construída para suportar os esforços provenientes da passagem de veículos.
 
-###### Art. 5.º - 1. Os reservatórios de capacidade igual ou superior a 500 l de água deverão ser munidos de válvulas de segurança e possuir um dispositivo de protecção para evitar a entrada de água da chuva e outros materiais estranhos, que podem tornar aquela válvula inoperativa ou reduzir a sua capacidade.
+Art. 5.º - 1. Os reservatórios de capacidade igual ou superior a 500 l de água deverão ser munidos de válvulas de segurança e possuir um dispositivo de protecção para evitar a entrada de água da chuva e outros materiais estranhos, que podem tornar aquela válvula inoperativa ou reduzir a sua capacidade.
 
 2. O dispositivo de protecção referido no número anterior deve poder manter-se no seu lugar, excepto quando os órgãos de segurança actuam, e deve permitir que estes funcionem com uma capacidade de descarga suficiente.
 
-###### Art. 6.º Nos reservatórios superficiais de capacidade superior a 8 m3 a descarga da válvula de segurança deve ser feita verticalmente no sentido ascendente e sem obstrução para a atmosfera, num ponto situado pelo menos a 2 m acima da face superior do reservatório.
+Art. 6.º Nos reservatórios superficiais de capacidade superior a 8 m3 a descarga da válvula de segurança deve ser feita verticalmente no sentido ascendente e sem obstrução para a atmosfera, num ponto situado pelo menos a 2 m acima da face superior do reservatório.
 
-###### Art. 7.º - 1. Nos reservatórios enterrados de capacidade igual ou inferior a 8 m3 o dispositivo de segurança deve descarregar para a entrada do homem ou caixa de visita, desde que estas possuam frestas de ventilação ou sistema equivalente com área adequada.
+Art. 7.º - 1. Nos reservatórios enterrados de capacidade igual ou inferior a 8 m3 o dispositivo de segurança deve descarregar para a entrada do homem ou caixa de visita, desde que estas possuam frestas de ventilação ou sistema equivalente com área adequada.
 
 2. Nos reservatórios enterrados com capacidade superior a 8 m3 as descargas das válvulas de segurança devem fazer-se directamente através de um tubo vertical até um ponto que, pelo menos, se situe a 2 m acima do nível do solo.
 
-###### Art. 8.º Este decreto entra imediatamente em vigor.
+Art. 8.º Este decreto entra imediatamente em vigor.
 
 Vasco dos Santos Gonçalves - João Cardona Gomes Cravinho.
 
-**Promulgado em 29 de Julho de 1975.**
+Promulgado em 29 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

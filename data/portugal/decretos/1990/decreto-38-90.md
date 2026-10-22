@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/38-1990-554864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4318a6e8b5725a3522b9d0cfdd9e1ba435f969f6cea666dbf56b3004a6949069
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0524b893ab36a54615f27383254e313aa49ed54361eedb1bbe369522558d9cbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cabo Verde
+- Convenção
+- Cooperação Cultural
+- Educação
+- Mindelo
+- Portugal
+relationships:
+- type: corrected_by
+  target: pt:dre:624196:por
+  label: Rectificado o nº 1 do art. 2º e o nº 1 do art. 3º pela DECL.DD3125.1990.10.16.PCM, DR.IS [252]2ºSupl de 31.10.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-624196
+  date: '1990-10-16'
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:16Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +97,19 @@ de 24 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação na Área da Educação entre a República Portuguesa e a República de Cabo Verde, assinado no Mindelo, a 13 de Junho de 1988, em dois exemplares originais, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Cooperação na Área da Educação entre a República Portuguesa e a República de Cabo Verde, assinado no Mindelo, a 13 de Junho de 1988, em dois exemplares originais, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 1990. - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Roberto Artur da Luz Carneiro.
 
-**Assinado em 6 de Setembro de 1990.**
+Assinado em 6 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1990.**
+Referendado em 11 de Setembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Protocolo de Cooperação na Área da Educação entre a República Portuguesa e a República de Cabo Verde
 

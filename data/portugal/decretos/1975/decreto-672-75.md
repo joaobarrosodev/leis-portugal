@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/672-1975-309938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58b9d864820ca3d3363bc7840724826ed661890d22b7122c8abe8c981975a31a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3740899faca1e788b8d6380046095a8b0b5295dfb4a821ba61bfe4cd1c5694e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Económica
+- Hungria
+- Lisboa
+- Política de Cooperação
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:44Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 26 de Novembro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo entre o Governo da República Portuguesa e o Governo da República Popular Húngara sobre as Trocas Comerciais e o Desenvolvimento da Cooperação Económica, Industrial e Técnica, assinado em 23 de Janeiro de 1975, cujo texto em língua francesa e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo entre o Governo da República Portuguesa e o Governo da República Popular Húngara sobre as Trocas Comerciais e o Desenvolvimento da Cooperação Económica, Industrial e Técnica, assinado em 23 de Janeiro de 1975, cujo texto em língua francesa e a respectiva tradução para português vão anexos ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 7 de Novembro de 1975.**
+Assinado em 7 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACCORD ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE ET LE GOUVERNEMENT DE LA RÉPUBLIQUE POPULAIRE HONGROISE SUR LES ÉCHANGES COMMERCIAUX ET LE DÉVELOPPEMENT DE LA COOPÉRATION ÉCONOMIQUE, INDUSTRIELLE ET TECHNIQUE.
 
@@ -171,13 +177,13 @@ ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA POPULA
 
 O Governo da República Portuguesa, por um lado, e o Governo da República Popular Húngara, por outro, animados do desejo de desenvolver e facilitar as suas relações económicas mútuas e, particularmente, as trocas comerciais, assim como a cooperação económica, industrial e técnica entre os dois países, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Para realizar os objectivos do presente Acordo, as duas Partes Contratantes declaram o seu desejo de se esforçarem - num espírito de igualdade e benefícios mútuos - em assegurar, tendo em conta os interesses económicos dos dois países, um desenvolvimento harmonioso das suas relações económicas mútuas e, particularmente, as trocas comerciais e a cooperação económica, industrial e técnica, de forma a permitir a mais completa utilização das possibilidades decorrentes do progresso das suas respectivas economias.
 
 Para alcançar estes objectivos, as Partes Contratantes facilitarão a execução do presente Acordo e tomarão todas as medidas necessárias para este fim.
 
-ARTIGO II
+###### ARTIGO II
 
 Para realizar os objectivos do presente Acordo, as Partes Contratantes reafirmam que se concedem nas suas relações comerciais mútuas, com efeito imediato, o tratamento da nação mais favorecida no que respeita aos direitos aduaneiros, taxas, impostos e processos semelhantes, assim como às formalidades e regulamentos relativos à importação e à exportação.
 
@@ -187,7 +193,7 @@ O tratamento da nação mais favorecida será aplicado em conformidade com as di
 
 À importação de mercadorias de origem e em proveniência da Hungria a Parte portuguesa aplicará o mesmo tratamento que concede às mercadorias similares importadas de outros países que beneficiam do tratamento da nação mais favorecida.
 
-ARTIGO III
+###### ARTIGO III
 
 As disposições do artigo II não se aplicam aos benefícios:
 
@@ -195,23 +201,23 @@ a) Acordados, ou que possam vir a sê-lo no futuro, por uma Parte Contratante pa
 
 b) Resultantes de uniões aduaneiras ou de zonas de comércio livre estabelecidas, ou que possam vir a sê-lo no futuro, por uma Parte Contratante.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As duas Partes Contratantes, reconhecendo a importância que reveste a cooperação económica, industrial e técnica para o desenvolvimento das suas relações económicas, favorecerão por todos os meios possíveis o alargamento da cooperação entre as empresas, organizações económicas e instituições húngaras e portuguesas nos diferentes domínios, assim em particular na indústria, na agricultura, no comércio, no transporte, no desenvolvimento técnico, nos dois países e também em terceiros mercados.
 
-ARTIGO V
+###### ARTIGO V
 
 Os pagamentos resultantes das operações realizadas no âmbito do presente Acordo serão efectuados em divisas livremente convertíveis, em conformidade com o acordo entre o Banco de Portugal e o Banco Nacional da Hungria, assinado em 23 de Maio de 1974.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Tomando em consideração a importância das trocas de bens de equipamento e de serviços e semelhantes no comércio entre os dois países, as duas Partes Contratantes esforçar-se-ão para que sejam acordadas mutuamente as melhores condições de crédito possíveis, a fim de favorecer o desenvolvimento destas trocas previsto pelas disposições do presente Acordo.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Com vista à promoção do desenvolvimento do comércio entre os dois países, as Partes Contratantes acordar-se-ão reciprocamente, em conformidade com as suas leis e regulamentos, as facilidades necessárias à realização de missões de representantes do comércio e da indústria, à participação em feiras internacionais dos dois países e à organização de exposições comerciais.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As duas Partes Contratantes criam uma Comissão Mista, que se reunirá em sessão plenária uma vez por ano, alternativamente na Hungria e em Portugal, e que poderá ser convocada em sessões extraordinárias.
 
@@ -221,7 +227,7 @@ A Comissão Mista, com a ajuda de subcomissões e de grupos de trabalho que poss
 
 A Comissão Mista examinará o desenvolvimento da actividade de cooperação e os meios de a incentivar e definirá os domínios concretos da cooperação económica, industrial e técnica com o objectivo de estimular os meios industriais dos dois países.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O presente Acordo será submetido à ratificação, mas entrará provisoriamente em vigor na data da sua assinatura. As duas Partes informar-se-ão por notas escritas do cumprimento das formalidades requeridas pelas legislações dos dois países.
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1979, 14º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 14º Suplemento
+  supplement: null
   pages: 3446-(300) a 3446-(302)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29914/03000302.pdf
 entry_into_force_dates: []
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/162-1979-156809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fa50b7904c4e103b5bda6d842d93235c8d4becdb331ab8cba5ed76cf2f8db60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0d5146246f6313019b05f9b9f4f66e8cb2afcbbbcc62b6ace4b58641cb46796
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Liquidatária
+- Empresa Pública
+- Empresa Pública do Jornal o Século
+- Extinção de Empresas
 relationships:
 - type: amended_by
   target: pt:dre:226985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226985:por
+  label: Dada nova redacção ao art. 1.º do presente diploma, pelo(a) Decreto-Lei n.º 123/86 - Diário da República n.º 124/1986,
+    Série I de 1986-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-1986-226985
+  date: '1986-05-31'
+- type: cites
+  target: pt:dre:141791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676851:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:37Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +124,13 @@ de 29 de Dezembro
 
 Segundo o balanço de 31 de Dezembro de 1978, as contas referentes a esse ano da Empresa Pública do Jornal O Século - nessa altura ainda integrada na Empresa Pública dos Jornais Século e Popular - apresentavam a seguinte situação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29914/03000302.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29914/03000302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29914/03000302.pdf)
 
 Estes números revelam, na sua frieza, que a empresa chegou a uma situação insustentável de tal modo que as probabilidades de recuperação são nulas.
 
 Aliás, aquela situação já era de extrema gravidade na data da nacionalização, 29 de Julho de 1976, o que facilmente se pode comprovar pelo balanço de 31 de Dezembro de 1975, e que é revelada pelo quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29914/03000302.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29914/03000302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29914/03000302.pdf)
 
 Baseando-se na situação de extrema gravidade a que a empresa chegara, o Despacho Normativo do Secretário de Estado da Comunicação Social n.º 43/77, de 5 de Fevereiro, determinou a suspensão, a título temporário, da edição das publicações pertencentes à ex-Sociedade Nacional de Tipografia, S. A. R. L., e o Conselho de Ministros, pela [Resolução n.º 242/77](https://diariodarepublica.pt/dr/detalhe/resolucao/242-1977-278737), de 31 de Agosto, deliberou a cessação das mesmas publicações.
 
@@ -192,8 +226,8 @@ O presente decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - João António de Figueiredo.
 
-**Promulgado em 18 de Dezembro de 1979.**
+Promulgado em 18 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

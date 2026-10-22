@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/41/1993/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/41-1993-665687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf2ac9a49e013bd01d4e7cc4ed27da9d49f993b13757e72e1c1bf87f6c824c7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4aa20c7564622ffd0eaea4598b656e3f88f7e6ed11d318d03d221135c881c4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Convenção
 - Portugal
+- Turismo
 - Turquia
 relationships: []
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:40Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 4 de Novembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação no Domínio do Turismo entre o Governo da República Portuguesa e o Governo da República da Turquia, assinado em Ankara a 28 de Abril de 1993, cuja versão autêntica nas línguas portuguesa, turca e francesa segue em anexo no presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação no Domínio do Turismo entre o Governo da República Portuguesa e o Governo da República da Turquia, assinado em Ankara a 28 de Abril de 1993, cuja versão autêntica nas línguas portuguesa, turca e francesa segue em anexo no presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1993. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Assinado em 29 de Setembro de 1993.**
+Assinado em 29 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Outubro de 1993.**
+Referendado em 2 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO NO DOMÍNIO DO TURISMO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA TURQUIA.
 
@@ -187,7 +187,7 @@ Pelo Governo da República da Turquia:
 
 Abdûl Kadir Ates, Ministro do Turismo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61836186.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61836186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61836186.pdf)
 
 ACCORD DE COOPÉRATION DANS LE DOMAINE DU TOURISME ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE ET LE GOUVERNEMENT DE LA RÉPUBLIQUE DE LA TURQUIE.
 

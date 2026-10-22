@@ -46,36 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/759-1976-409529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c9299cbf34304698d947b420c0742bc36604820eab1ea1d32be998f3e2adb94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71f15cceee8935c275d024a0f6c5baa8df41d779f894f75be4a69fbc1347c4ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ciclo Preparatório
+- Criação de Lugares
+- Definição de Competências
+- Direcção Geral de Pessoal e Administração
+- Direcção Geral do Ensino Básico
+- Direcção Geral do Equipamento Escolar
+- Ensino à Distância
+- Monitor
+- Pessoal Docente
+- Quadro de Pessoal
+- Remuneração
+- Telescola
+relationships:
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:07Z'
   warnings: []
   errors: []
 ---
@@ -96,38 +124,38 @@ Nestes termos, considerando o disposto no n.º 1 do artigo 1.º do [Decreto-Lei 
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Nos postos oficiais de recepção do ciclo preparatório TV serão criados lugares docentes segundo as normas em vigor para a criação de lugares do ensino primário elementar.
+Artigo 1.º - 1. Nos postos oficiais de recepção do ciclo preparatório TV serão criados lugares docentes segundo as normas em vigor para a criação de lugares do ensino primário elementar.
 
 2. Os lugares dos postos oficiais de recepção do ciclo preparatório TV e os lugares do ciclo complementar do ensino primário são equiparados aos lugares do ciclo elementar deste ensino, para todos os efeitos legais, designadamente contagem e qualificação de serviço, aplicando-se, em tudo o que seja compatível, as disposições legais em vigor para o ciclo elementar.
 
-###### Art. 2.º - 1. Em matéria de administração de pessoal docente e auxiliar, de gestão de instalações e equipamento didáctico e no âmbito das suas atribuições, as Direcções-Gerais de Pessoal e Administração e do Equipamento Escolar passam a superintender nos postos oficiais do ciclo preparatório TV a partir do início do ano lectivo de 1975-1976.
+Art. 2.º - 1. Em matéria de administração de pessoal docente e auxiliar, de gestão de instalações e equipamento didáctico e no âmbito das suas atribuições, as Direcções-Gerais de Pessoal e Administração e do Equipamento Escolar passam a superintender nos postos oficiais do ciclo preparatório TV a partir do início do ano lectivo de 1975-1976.
 
 2. A qualificação do serviço prestado no ciclo preparatório TV passará a ser feita pela Direcção-Geral do Ensino Básico, nas condições do n.º 2 do artigo 1.º deste diploma.
 
-###### Art. 3.º - 1. Os monitores de postos oficiais de recepção do ciclo preparatório TV que não sejam professores do ensino primário e estejam a prestar serviço no presente ano lectivo poderão ser contratados, nos termos do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 19 de Novembro de 1969, para os lugares a que presentemente estão afectos ou para outros pertencentes à rede do ciclo preparatório TV.
+Art. 3.º - 1. Os monitores de postos oficiais de recepção do ciclo preparatório TV que não sejam professores do ensino primário e estejam a prestar serviço no presente ano lectivo poderão ser contratados, nos termos do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 19 de Novembro de 1969, para os lugares a que presentemente estão afectos ou para outros pertencentes à rede do ciclo preparatório TV.
 
 2. Esgotadas as possibilidades de preencher as vagas existentes com professores do ensino primário ou com os monitores referidos no n.º 1 deste artigo, poderão ainda ser contratados, nos termos do mesmo número, indivíduos habilitados pelo menos com o curso complementar dos liceus.
 
 3. As normas de recrutamento e provimento dos agentes de ensino referidos no número anterior serão definidas por decreto dos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica.
 
-###### Art. 4.º Por conveniência de serviço e com a concordância dos interessados podem os professores efectivos do ensino primário e os agregados que já tenham pelo menos um ano de docência ser destacados por um período não superior a um ano escolar, renovável anualmente, para lugares do ciclo complementar ou do ciclo preparatório TV da mesma localidade, por despacho do director-geral de Pessoal e Administração.
+Art. 4.º Por conveniência de serviço e com a concordância dos interessados podem os professores efectivos do ensino primário e os agregados que já tenham pelo menos um ano de docência ser destacados por um período não superior a um ano escolar, renovável anualmente, para lugares do ciclo complementar ou do ciclo preparatório TV da mesma localidade, por despacho do director-geral de Pessoal e Administração.
 
-###### Art. 5.º - 1. O pagamento dos vencimentos dos agentes de ensino considerados neste diploma será feito através das verbas globais para o pagamento de pessoal docente do ensino primário a partir de 1 de Outubro de 1976.
+Art. 5.º - 1. O pagamento dos vencimentos dos agentes de ensino considerados neste diploma será feito através das verbas globais para o pagamento de pessoal docente do ensino primário a partir de 1 de Outubro de 1976.
 
 2. Consideram-se regularizadas as nomeações dos monitores bem como os respectivos abonos efectuados durante o ano lectivo de 1975-1976, ao abrigo do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, referentes a diplomas de provimento que não tenham sido visados pelo Tribunal de Contas.
 
 3. Os professores do ensino primário ou diplomados pelas escolas do magistério primário que exerçam a docência, a qualquer título em postos oficiais do ciclo preparatório TV terão os vencimentos de professores do ensino primário estabelecidos pelo [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
 
-###### Art. 6.º Os encargos decorrentes da aplicação deste diploma, desde 1 de Outubro de 1976, serão suportados pelas verbas afectas ao pagamento de remunerações ao pessoal docente e auxiliar inscritas no Orçamento Geral do Estado, relativamente ao ensino primário.
+Art. 6.º Os encargos decorrentes da aplicação deste diploma, desde 1 de Outubro de 1976, serão suportados pelas verbas afectas ao pagamento de remunerações ao pessoal docente e auxiliar inscritas no Orçamento Geral do Estado, relativamente ao ensino primário.
 
-###### Art. 7.º As dúvidas surgidas na aplicação deste decreto serão resolvidas por despacho conjunto dos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica.
+Art. 7.º As dúvidas surgidas na aplicação deste decreto serão resolvidas por despacho conjunto dos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica.
 
-###### Art. 8.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 8.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 8 de Outubro de 1976.**
+Promulgado em 8 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

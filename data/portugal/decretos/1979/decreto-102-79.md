@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/102-1979-369830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8312d34abb672deec93f43579d36277d13ff6c0e9adb17af4eb60bf534c2db00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a09393ad3f0586cca94433ba8955dc7879a40135339efe49618477dacafc8ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Água Mineral
+- Artesanato
+- Bebida Alcoólica
+- Convenção
+- Denominação de Origem
+- Fruto
+- Indústria Têxtil
+- Lisboa
+- Peixe
+- Portugal
+- Propriedade Industrial
+- Suíça
+- Terras e Pedras
+- Vinho
 relationships: []
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:33Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +101,15 @@ de 19 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre a República Portuguesa e a Confederação Suíça sobre a Protecção de Indicações de Proveniência, de Denominações de Origem e de Denominações Similares, assinado em Lisboa, em 16 de Setembro de 1977, cujos textos em português e francês acompanham o presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo entre a República Portuguesa e a Confederação Suíça sobre a Protecção de Indicações de Proveniência, de Denominações de Origem e de Denominações Similares, assinado em Lisboa, em 16 de Setembro de 1977, cujos textos em português e francês acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 29 de Junho de 1979.**
+Assinado em 29 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo entre a República Portuguesa e a Confederação Suíça sobre a Protecção de Indicações de Proveniência, de Denominações de Origem e de Denominações Similares.
 
@@ -409,11 +423,11 @@ A) Denominações de vinhos produzidos em regiões legalmente demarcadas
 
 1 - Vinhos generosos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
 
 2 - Outros vinhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
 
 B) Denominações de vinhos produzidos noutras regiões determinadas
 
@@ -1199,11 +1213,11 @@ Vingelz (Vigneule).
 
 B) Suisse Orientale
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
 
 C) Outros cantões suiços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
 
 Traité entre la République Portugaise et la Confédération Suisse sur la protection des indications de provenance, des appellations d'origine et des dénominations similaires:
 
@@ -1517,11 +1531,11 @@ A) Dénominations des vins produits en régions légalement délimitées
 
 1 - Vins «generosos»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
 
 2 - Autres vins
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
 
 B) Dénominations des vins produits en d'autres régions déterminées
 
@@ -2307,8 +2321,8 @@ Vingelz (Vigneule).
 
 B) Suisse Orientale
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
 
 C) Autres cantons suisses
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21700/24072428.pdf)

@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1990-332053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93738a750ace8934f5baed09c374fc349ac9feada63b9a971bf7c3c0ffdfa815
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b05dd1579976ab843118fd825447e252adc7d7b9f73f9e19c74cab4d1b08c30d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Cultural
+- Portugal
+- Turquia
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:48Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +90,19 @@ de 7 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre o Governo da República Portuguesa e o Governo da República da Turquia sobre Relações Culturais, assinado em Ankara em 5 de Dezembro de 1988, cuja versão autêntica em língua francesa e respectiva tradução em língua portuguesa seguem em anexo ao presente diploma.
+Artigo único. É aprovado, para ratificação, o Acordo entre o Governo da República Portuguesa e o Governo da República da Turquia sobre Relações Culturais, assinado em Ankara em 5 de Dezembro de 1988, cuja versão autêntica em língua francesa e respectiva tradução em língua portuguesa seguem em anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 1990. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - José Augusto Perestrello de Alarcão Troni, Secretário de Estado Adjunto do Ministro da Educação - António Fernando Couto dos Santos.
 
 Ratificado em 22 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Março de 1990.**
+Referendado em 24 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO CULTURAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA TURQUIA
 
@@ -110,49 +114,49 @@ Pelo Governo da República da Turquia, S. Ex.a o Sr. A. Mesut Jilmaz;
 
 os quais, após verificação dos respectivos plenos poderes, acordaram no que segue:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes desenvolverão, tanto quanto possível, as suas relações nos domínios escolar, intelectual, científico e artístico.
 
-ARTIGO II
+###### ARTIGO II
 
 Com vista a atingir os fins enunciados no artigo I, as Partes Contratantes incrementarão, se possível por meio de atribuição de bolsas, a troca de professores universitários e membros de instituições escolares, científicas e culturais.
 
 As Partes Contratantes encorajarão manifestações artísticas, tais como exposições, concertos e conferências, relacionadas com a cultura do outro país, bem como trocas culturais nos domínios da cinematografia, teatro, ópera, ballet, rádio e televisão.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes encorajarão a cooperação desportiva, facilitando as trocas desportivas entre as instituições e federações dos dois países.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Contratantes encorajarão a cooperação entre as organizações de juventude dos dois países.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes facilitarão a troca de obras literárias, científicas, tecnológicas e artísticas entre as organizações oficiais, abrangendo as universidades, com vista a desenvolver o conhecimento e compreensão mútuos entre os dois países.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Partes Contratantes providenciarão a correcta apresentação dos factos históricos nos manuais de história e geografia referentes à outra Parte Contratante.
 
 As Partes Contratantes também procederão à permuta dos textos inclusos nos supracitados manuais.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As Partes Contratantes estudarão as condições de reconhecimento de equivalência de diplomas, quer para efeito de aquisição de graus académicos, quer para efeitos de exercício profissional em casos determinados.
 
 Esforçar-se-ão igualmente por estudar as condições nas quais se poderão tomar em conta os estudos superiores efectuados no país de origem com vista ao prosseguimento de estudos no outro país.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 O Governo de cada um dos países contratantes estudará a possibilidade de concessão de bolsas de estudo com vista a permitir a estudantes ou diplomados da outra Parte Contratante continuar no seu território estudos, investigações ou aperfeiçoamento de formação técnica.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Cada um dos Governos encorajará a tradução de obras literárias e científicas escritas na língua do outro país.
 
-ARTIGO X
+###### ARTIGO X
 
 Este Acordo entrará em vigor na data da troca dos documentos de ratificação e será válido até à sua denúncia por qualquer uma das altas Partes Contratantes. A denúncia, que não poderá ter lugar nos primeiros 12 meses após a entrada em vigor do presente Acordo, terá de ser notificada à outra Parte com o prazo de três meses de antecedência.
 

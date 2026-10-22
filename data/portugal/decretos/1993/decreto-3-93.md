@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/1993/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-1993-601996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76f46857faa3ba46fb2564b3419c03f6dd5f296483ca504e74b5d8c097ff0238
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6078578bb9d86eecd55f7fe1306643897dc4e9afa822e7b9fbea16fed6bec355
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Convenção
-- Portugal
+- Embarcação
 - Londres
 - Poluição Marinha
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:30Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 27 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas, para adesão, as emendas de 5 de Dezembro de 1985 ao Anexo do Protocolo de 1978 Relativo à Convenção Internacional para a Prevenção da Poluição por Navios, 1973, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. São aprovadas, para adesão, as emendas de 5 de Dezembro de 1985 ao Anexo do Protocolo de 1978 Relativo à Convenção Internacional para a Prevenção da Poluição por Navios, 1973, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - José Manuel Durão Barroso - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares.
 
 Ratificado em 6 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Janeiro de 1993.**
+Referendado em 8 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ANNEX
 
@@ -190,17 +190,13 @@ Disposições respeitantes aos relatórios sobre incidentes envolvendo substânc
 
 O texto existente do Protocolo I é substituído pelo seguinte:
 
-Artigo I
-
-Obrigação de relatar
+###### Artigo I — Obrigação de relatar
 
 1 - O comandante ou outra pessoa encarregada de um navio envolvido num acidente mencionado no artigo II do presente Protocolo relatará os pormenores de tal incidente sem demora e da forma mais completa possível, em conformidade com as disposições deste Protocolo.
 
 2 - Em caso de abandono do navio referido no parágrafo 1 do presente artigo, ou quando o relatório estiver incompleto ou for impossível de obter, o proprietário, afretador, armador ou operador do navio ou os seus representantes assumirão, na medida do possível, as obrigações do comandante, nos termos das disposições deste Protocolo.
 
-Artigo II
-
-Quando há lugar a relatórios
+###### Artigo II — Quando há lugar a relatórios
 
 1 - O relatório será elaborado sempre que um incidente envolva:
 
@@ -218,9 +214,7 @@ b) «Substância líquida nociva», mencionada na alínea 1, a), do presente art
 
 c) «Substância prejudicial» embalada, mencionada na alínea 1, b), do presente artigo, significa uma substância identificada como poluente marinho pelo Código Internacional Marítimo de Mercadorias Perigosas (Código IMDG).
 
-Artigo III
-
-Conteúdo do relatório
+###### Artigo III — Conteúdo do relatório
 
 O relatório incluirá sempre:
 
@@ -232,9 +226,7 @@ c) A quantidade e tipo da substância prejudicial envolvida;
 
 d) As medidas de assistência e salvamento.
 
-Artigo IV
-
-Relatório suplementar
+###### Artigo IV — Relatório suplementar
 
 Qualquer pessoa obrigada, nos termos do presente Protocolo, a enviar um relatório deverá, quando possível:
 
@@ -242,9 +234,7 @@ a) Ampliar o relatório inicial como for necessário e fornecer as informações
 
 b) Satisfazer, na maior extensão possível, as solicitações dos Estados afectados sobre informações adicionais.
 
-Artigo V
-
-Métodos de relatar
+###### Artigo V — Métodos de relatar
 
 1 - Os relatórios serão transmitidos ao Estado costeiro mais próximo pelos canais de telecomunicações mais rápidos de que se disponha e com a mais alta prioridade possível.
 

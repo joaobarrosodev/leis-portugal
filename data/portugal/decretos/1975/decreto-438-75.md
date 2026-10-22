@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/438-1975-314624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fdf366b9ec89950e9ba0ccbb0dc3b28218033d59e50b40d00ede25931487280
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9f3f805b833c88b6e3f32049cc8e34bfe9b187ccc1b4775d67f5defebcb70cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Gabinete de Planeamento
+- Orgânica
+- Quadro de Pessoal
+- Secretaria de Estado do Abastecimento e Preços
+relationships:
+- type: cites
+  target: pt:dre:585845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:428846:por
+  label: Retificado, sendo publicado o mapa anexo, pelo(a) Rectificação - Diário do Governo n.º 198/1975, 1º Suplemento, Série
+    I de 1975-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-428846
+  date: '1975-08-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:36Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +111,9 @@ Nestes termos, e com fundamento no artigo 15.º do [Decreto-Lei n.º 539/74](htt
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Gabinete de Planeamento da Secretaria de Estado do Abastecimento e Preços, criado nos termos do artigo 15.º do [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro, é um órgão técnico de apoio ao Secretário de Estado do Abastecimento e Preços e ao Subsecretário de Estado do Comércio Interno e rege-se exclusivamente pelas disposições do presente decreto.
+Artigo 1.º O Gabinete de Planeamento da Secretaria de Estado do Abastecimento e Preços, criado nos termos do artigo 15.º do [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro, é um órgão técnico de apoio ao Secretário de Estado do Abastecimento e Preços e ao Subsecretário de Estado do Comércio Interno e rege-se exclusivamente pelas disposições do presente decreto.
 
-###### Art. 2.º Compete ao Gabinete de Planeamento (GP) da Secretaria de Estado do Abastecimento e Preços o seguinte:
+Art. 2.º Compete ao Gabinete de Planeamento (GP) da Secretaria de Estado do Abastecimento e Preços o seguinte:
 
 a) Assegurar e coordenar a actuação da Secretaria de Estado na preparação e execução dos planos de fomento, bem como estabelecer as convenientes ligações com os órgãos centrais e interministeriais de planeamento;
 
@@ -110,19 +129,19 @@ f) Promover o aperfeiçoamento das técnicas de planeamento e da informação es
 
 g) Contribuir para a melhoria e actualização dos métodos de trabalho, estruturas e funcionamento dos serviços da Secretaria de Estado e da formação do respectivo pessoal.
 
-###### Art. 3.º - 1. O GP elaborará programas de trabalho anuais, que deverão ser conjugados com os programas dos gabinetes de planeamento referidos na alínea b) do artigo 2.º, depois de apresentados ao Secretário de Estado.
+Art. 3.º - 1. O GP elaborará programas de trabalho anuais, que deverão ser conjugados com os programas dos gabinetes de planeamento referidos na alínea b) do artigo 2.º, depois de apresentados ao Secretário de Estado.
 
 2. No que se refere a todas as actividades relacionadas com os órgãos centrais e interministeriais de planeamento, deverá o GP contactar com o Secretariado Técnico da Secretaria de Estado do Planeamento Económico e solicitar-lhe as orientações necessárias quanto a normas de trabalho e prazos de realização.
 
-###### Art. 4.º - 1. Mediante despacho do Secretário de Estado do Abastecimento e Preços, sob proposta do GP, poderão ser constituídos grupos de trabalho ad hoc compostos por técnicos especialmente designados ou convidados para o efeito, com o objectivo de facilitar o desempenho das funções cometidas ao GP.
+Art. 4.º - 1. Mediante despacho do Secretário de Estado do Abastecimento e Preços, sob proposta do GP, poderão ser constituídos grupos de trabalho ad hoc compostos por técnicos especialmente designados ou convidados para o efeito, com o objectivo de facilitar o desempenho das funções cometidas ao GP.
 
 2. Para os efeitos do número anterior, poderão destacar-se, temporariamente, para o GP técnicos de quaisquer outros órgãos ou serviços da Secretaria de Estado, os quais, consoante as actividades a exercer, serão dispensados total ou parcialmente do desempenho das funções nos órgãos ou serviços onde se encontrem colocados, ou contratar-se técnicos do exterior.
 
-###### Art. 5.º O director do GP poderá solicitar aos órgãos ou serviços da Secretaria de Estado e às entidades públicas ou privadas todas as informações e elementos que possam interessar aos trabalhos de planeamento do sector.
+Art. 5.º O director do GP poderá solicitar aos órgãos ou serviços da Secretaria de Estado e às entidades públicas ou privadas todas as informações e elementos que possam interessar aos trabalhos de planeamento do sector.
 
-###### Art. 6.º O quadro do pessoal do GP é o constante do mapa anexo ao presente decreto.
+Art. 6.º O quadro do pessoal do GP é o constante do mapa anexo ao presente decreto.
 
-###### Art. 7.º - 1. Os lugares de director e adjunto do director do GP serão providos, em comissão de serviço, por nomeação do Ministro para o Planeamento e Coordenação Económica, por indicação do Secretário de Estado do Abastecimento e Preços, de entre indivíduos com curso superior adequado ao desempenho das respectivas funções.
+Art. 7.º - 1. Os lugares de director e adjunto do director do GP serão providos, em comissão de serviço, por nomeação do Ministro para o Planeamento e Coordenação Económica, por indicação do Secretário de Estado do Abastecimento e Preços, de entre indivíduos com curso superior adequado ao desempenho das respectivas funções.
 
 2. Os lugares de técnico principal de 1.ª e 2.ª classes e de adjunto técnico de 1.ª e 2.ª classes serão providos por despacho do Secretário de Estado, mediante proposta do director do GP, e de harmonia com as seguintes condições:
 
@@ -136,14 +155,14 @@ d) Adjuntos técnicos de 2.ª classe, de entre indivíduos que hajam concluído 
 
 3. Por proposta do director do GP, o Secretário de Estado poderá autorizar o provimento dos lugares de técnico principal com licenciados com curso superior adequado ao desempenho das respectivas funções.
 
-###### Art. 8.º As despesas resultantes da execução do presente decreto serão suportadas por conta de verbas adequadas a inscrever no orçamento do Ministério para o Planeamento e Coordenação Económica.
+Art. 8.º As despesas resultantes da execução do presente decreto serão suportadas por conta de verbas adequadas a inscrever no orçamento do Ministério para o Planeamento e Coordenação Económica.
 
-###### Art. 9.º Este decreto entra imediatamente em vigor.
+Art. 9.º Este decreto entra imediatamente em vigor.
 
 Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 4 de Agosto de 1975.**
+Promulgado em 4 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

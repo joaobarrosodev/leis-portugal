@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/21/2012/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/21-2012-175360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:21:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5684853f95d0e384573cf0173a3054e505f6af5e36eb4d54260a1ad85ccbcbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fcdc7f3fd477bd239ac4e7c2a6f4c4a192a4f33017a4d73be4f4643d51791a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:21:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
+- Argentina
 - Comissão Mista
 - Convenção
+- Cooperação Cultural
+- Lisboa
 - Portugal
 - Região de Turismo
-- Lisboa
-- Argentina
-- Cooperação Cultural
+- Turismo
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:21:13Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +105,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 12 de julho de 2012. - Pedro Passos Coelho - José de Almeida Cesário - Álvaro Santos Pereira.
 
-**Assinado em 26 de julho de 2012.**
+Assinado em 26 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de julho de 2012.**
+Referendado em 27 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO DE COOPERAÇÃO TURÍSTICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ARGENTINA
 
@@ -205,11 +205,11 @@ Feito em Lisboa, aos 16 dias do mês de Novembro de 2001 em dois originais, nos 
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)
 
 Pela República Argentina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)
 
 ACUERDO DE COOPERACIÓN TURÍSTICA ENTRE LA REPÚBLICA PORTUGUESA Y LA REPÚBLICA ARGENTINA
 
@@ -327,8 +327,8 @@ Hecho en Lisboa, a los 16 días del mes de noviembre de 2001, en dos originales 
 
 Por la República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)
 
 Por la República Argentina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)

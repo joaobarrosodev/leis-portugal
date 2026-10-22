@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-1989-548074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcd5735b06695a7c87e0643f1b75cd4b1ab12656c6c6d59d6852935dfd435e0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76a743af9766bacd38ccfb1f32a349322ec94ec3c5fbb858f20b6f553c16e191
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Estatística
+- Portugal
+- São Tomé
 relationships: []
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:21Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +91,19 @@ de 27 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação no Domínio da Estatística entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, feito em São Tomé, a 8 de Novembro de 1988, cujo texto original em português vai anexo ao presente decreto,
+Artigo único. É aprovado o Acordo de Cooperação no Domínio da Estatística entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, feito em São Tomé, a 8 de Novembro de 1988, cujo texto original em português vai anexo ao presente decreto,
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1989. - Aníbal António Cavaco Sila José Manuel Nunes Liberato - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 13 de Setembro de 1989.**
+Assinado em 13 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Setembro de 1989.**
+Referendado em 15 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO NO DOMÍNIO DA ESTATÍSTICA ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE.
 

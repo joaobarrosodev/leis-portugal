@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/90-1979-378748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a728cba9e320b3d046ad536aea9dde20cab4c70f2d8e74a98997b0c9dc2bae4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55e53dd53373ada7e302ccfe7b19092fd9b8620af1ad32b9e88bacd8607c75d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comunicações
+- Contrato
+- Directoria-geral da Polícia Judiciária
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:59Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +98,7 @@ Tendo em atenção o disposto no artigo 6.º do [Decreto-Lei n.º 48234](https:/
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único - 1 - E autorizada a Directoria-Geral da Polícia Judiciária a celebrar contrato com a firma General Electric, S. A. R. L. para o fornecimento de equipamento de telecomunicações, constituído por oitenta emissores-receptores de VHF/FM, oitenta caixas de comando, oitenta antenas para viaturas, oitenta descodificadores digitais, lote de sobresselentes e aparelhos de medida, pela importância máxima de 14203517$60, sendo os encargos máximos de cada um dos anos económicos da sua validade os seguintes:
+Artigo único - 1 - E autorizada a Directoria-Geral da Polícia Judiciária a celebrar contrato com a firma General Electric, S. A. R. L. para o fornecimento de equipamento de telecomunicações, constituído por oitenta emissores-receptores de VHF/FM, oitenta caixas de comando, oitenta antenas para viaturas, oitenta descodificadores digitais, lote de sobresselentes e aparelhos de medida, pela importância máxima de 14203517$60, sendo os encargos máximos de cada um dos anos económicos da sua validade os seguintes:
 
 Em 1979 ... 4261055$30
 
@@ -101,8 +108,8 @@ Em 1980 ... 9942462$30
 
 Carlos Alberto da Mota Pinto - Eduardo Henriques da Silva Correia - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 10 de Agosto de 1979.**
+Promulgado em 10 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

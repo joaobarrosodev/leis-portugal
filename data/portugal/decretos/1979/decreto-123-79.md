@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/123-1979-367779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d2c333b7bf4235f4f5541d0a6f7639248d5a95c4b36e715c901c134e9e52454
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0a95e3d977f26130b5664ad9bd9ec4cb164baa84da212fd15442d762bc5471b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Portugal
+- Transporte Marítimo
+relationships:
+- type: corrected_by
+  target: pt:dre:582002:por
+  label: Rectificado pela DECL.DD6579.08.01.1980.PCM, DR.IS [6] de 08.01.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-582002
+  date: '1980-01-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:52Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +95,15 @@ de 13 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Transportes Marítimos entre o Governo da República Portuguesa e o Governo da República Democrática de S. Tomé e Príncipe, assinado aos 17 de Julho de 1977, em S. Tomé, cujo texto acompanha o presente decreto.
+Artigo único. É aprovado o Acordo de Transportes Marítimos entre o Governo da República Portuguesa e o Governo da República Democrática de S. Tomé e Príncipe, assinado aos 17 de Julho de 1977, em S. Tomé, cujo texto acompanha o presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 15 de Outubro de 1979.**
+Assinado em 15 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República. ANTÓNIO RAMALHO EANES.**
+O Presidente da República. ANTÓNIO RAMALHO EANES.
 
 Acordo de Transportes Marítimos entre o Governo da República Democrática de S. Tomé e Príncipe e o Governo da República Portuguesa.
 
@@ -107,11 +115,11 @@ Animados por um desejo comum de intensificar e de harmonizar o intercâmbio come
 
 decidem celebrar o seguinte Acordo:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes aceitam conceder, de forma recíproca, os direitos e as vantagens resultantes deste Acordo nos precisos termos dos artigos seguintes.
 
-ARTIGO II
+###### ARTIGO II
 
 Para efeitos do presente Acordo:
 
@@ -129,7 +137,7 @@ d) Embarcações de pesca.
 
 3 - A expressão «membro da tripulação» compreende o comandante ou qualquer pessoa efectivamente admitida a bordo de um navio, para o exercício de funções ligadas à sua exploração, ou à sua manutenção e incluída no rol de matrícula.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes adoptarão no comércio marítimo entre os seus países princípios de livre e leal concorrência.
 
@@ -147,7 +155,7 @@ e) Não dificultar a participação dos navios de uma das Partes Contratantes no
 
 f) Promover formas concretas de cooperação entre os armadores dos dois países; nas áreas e tráfegos considerados de interesse mútuo.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - Cada Parte Contratante concederá aos navios da outra Parte Contratante o tratamento de nação mais favorecida, no que respeita ao livre acesso aos portos, a utilização de portos para embarque e desembarque de passageiros e cargas, ao pagamento de imposições marítimas e taxas de navegação, utilização de serviços destinados à navegação e ao exercício de operações comerciais normais.
 
@@ -159,17 +167,17 @@ b) Ao exercício de actividades reservadas por cada Parte Contratante aos respec
 
 c) A situações abrangidas por disposições legais respeitantes à entrada e permanência de estrangeiros.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes adoptarão, dentro dos limites da lei e regulamentos portuários, todas as medidas apropriadas para facilitar e acelerar o tráfego marítimo, impedir demoras desnecessárias dos navios nos portos e acelerar e simplificar, tanto quanto possível, as formalidades administrativas, alfandegárias e sanitárias.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - Os documentos que certificam a nacionalidade dos navios, certificados de arqueação e outros documentos do navio, emitidos ou reconhecidos por uma das Partes Contratantes, serão reconhecidos também pela outra Parte.
 
 2 - O cálculo e a cobrança das imposições marítimas e das taxas de navegação far-se-ão com base nos certificados de arqueação referidos no número anterior.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - Os navios das Partes Contratantes terão direito a participar, em partes iguais, no transporte marítimo das mercadorias entre os portos da República Portuguesa e os portos da República Democrática de S. Tomé e Príncipe, especialmente o decorrente do seu intercâmbio comercial.
 
@@ -177,13 +185,13 @@ ARTIGO VII
 
 3 - O disposto neste artigo não impedirá a participação de empresas de terceiros países no tráfego entre a República Portuguesa e a República Democrática de S. Tomé e Príncipe.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - Para execução do presente Acordo, as empresas de navegação de Portugal e de S. Tomé e Príncipe, a designar pelas autoridades competentes, estabelecerão as formas mais adequadas a um transporte eficiente.
 
 2 - O que vier a ser acordado pelos armadores de ambos os países ficará sujeito à aprovação das autoridades competentes respectivas, em conformidade com a legislação de cada Estado.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - As taxas de frete a praticar entre os portos da República de Portugal e da República Democrática de S. Tomé e Príncipe deverão ser as das tarifas praticadas no tráfego de linha regular entre a Europa e S. Tomé e Príncipe e vice-versa.
 
@@ -191,19 +199,19 @@ ARTIGO IX
 
 3 - A fim de dar satisfação ao previsto no n.º 2, as Partes Contratantes, através de grupo de trabalho a constituir, conforme previsto no artigo XX do presente Acordo, estudarão as taxas de frete a praticar entre os portos da República de Portugal e da República Democrática de S. Tomé e Príncipe.
 
-ARTIGO X
+###### ARTIGO X
 
 As Partes Contratantes promoverão as diligências necessárias com vista à rápida liquidação dos fretes devidos aos armadores e à imediata transferência das verbas correspondentes.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As Partes Contratantes, conscientes das vantagens resultantes do estabelecimento de relações de cooperação no domínio dos transportes marítimos, já em vigor, comprometem-se a celebrar um Acordo Especial de Cooperação no Domínio dos Transportes Marítimos.
 
-ARTIGO XII
+###### ARTIGO XII
 
 O Estado Português prestará, nas condições a fixar em acordos especiais, a assistência técnica, no sector dos transportes marítimos, que o Governo Democrático de S. Tomé e Príncipe considere necessária.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Cada Parte Contratante concederá aos portadores de documentos de identidade de marítimo, emitidos pela autoridade competente da outra Parte Contratante, os direitos estabelecidos nos artigos XIV e XV do presente Acordo. Estes documentos são:
 
@@ -211,23 +219,23 @@ Para os marítimos dos navios da República Portuguesa - «cédula marítima» d
 
 Para os marítimos dos navios da República Democrática de S. Tomé e Príncipe - «cédula marítima» da República Democrática de S. Tomé e Príncipe.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 Aos possuidores dos documentos de identidade de marítimo especificados no artigo anterior é permitido, quando membros da tripulação de um navio de uma Parte Contratante, permanecer em terra durante a estadia do mesmo navio, num porto da outra Parte Contratante, desde que figurem no rol de matrícula do navio e na lista entregue às autoridades do porto.
 
 Os membros da tripulação referidos, quando desembarquem de ou embarquem em um navio ficam sujeitos ao contrôle de fronteira e de alfândega em vigor no respectivo porto.
 
-ARTIGO XV
+###### ARTIGO XV
 
 Aos possuidores dos documentos de identidade de marítimo especificados no artigo XIII do presente Acordo é permitido entrar no território da outra Parte Contratante, ou, através dele, passar em trânsito, sempre que se dirijam para os seus navios, ou por qualquer outra razão desde que aceite pelas autoridades dessa outra Parte Contratante.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 1 - O disposto nos artigos XIV e XV do presente Acordo não prejudica a aplicação das disposições legais em vigor no território das respectivas Partes Contratantes, respeitantes à entrada, permanência e saída de estrangeiros.
 
 2 - Cada Parte Contratante reserva-se o direito de impedir a entrada, no seu território, aos marítimos que considere indesejáveis.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 1 - No caso de um membro da tripulação de um navio de uma das Partes Contratantes cometer qualquer infracção a bordo, encontrando-se o navio em águas territoriais da outra Parte Contratante, as autoridades judiciais desta Parte não procederão contra o respectivo infractor, sem que para tal hajam obtido o necessário consentimento da entidade consular ou diplomática competente daquela Parte Contratante.
 
@@ -243,7 +251,7 @@ d) O comércio proibido de estupefacientes.
 
 3 - O disposto nos n.os 1 e 2 deste artigo não prejudica o direito de contrôle e de investigação das autoridades de cada Parte Contratante, nos termos da respectiva legislação em vigor.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 1 - Se um navio de uma das Partes Contratantes naufragar, encalhar ou sofrer qualquer dano ou avaria ao largo da costa da outra Parte, o navio e a sua carga gozarão, no território desta última Parte, dos mesmos benefícios e privilégios e suportarão os mesmos encargos que forem atribuídos a um navio desta Parte e à sua carga.
 
@@ -255,7 +263,7 @@ ARTIGO XVIII
 
 5 - O disposto no número anterior não invalida a aplicação de normas relativas à armazenagem temporária de mercadorias.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 1 - Cada Parte Contratante responderá pelas compensações que resultarem de sentenças proferidas por um tribunal da outra Parte Contratante em acções cíveis relativas:
 
@@ -267,13 +275,13 @@ b) Ao transporte de passageiros ou de cargas pelos navios referidos na alínea a
 
 3 - Cada Parte Contratante garante no seu Território a execução das sentenças dos tribunais da outra Parte em que estejam envolvidos os seus armadores.
 
-ARTIGO XX
+###### ARTIGO XX
 
 1 - Para efeitos de execução do presente Acordo será criada uma comissão mista, que se reunirá em princípio uma vez por ano, alternadamente em Portugal e em S. Tomé e Príncipe, em data mutuamente acordada, ou, extraordinariamente, a pedido de uma das Partes Contratantes.
 
 2 - A composição da comissão mista será definida pelas autoridades marítimas competentes das duas Partes Contratantes, podendo, se a comissão assim o entender, ser criados grupos de trabalho para o estudo de assuntos específicos, no domínio deste Acordo.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 O presente Acordo entra em vigor provisoriamente na data da sua assinatura e definitivamente na data da troca de notas confirmativas da sua aprovação, em conformidade com os requisitos constitucionais de ambos os países e manter-se-á em vigor até doze meses depois da data em que qualquer das Partes Contratantes notifique a outra Parte do seu desejo de o denunciar.
 

@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/660-1975-309762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a61dfdacb7df7ef301e34f5f082b4ba88c5b8a219dd90d1c4749c859e7a45169
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c56de33a63ea67ab598bf2e30e174243e63726612003b984e58d8d4e6a341405
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Ministério do Comércio Interno
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Geral
+- Secretário Geral
+relationships:
+- type: cites
+  target: pt:dre:310273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585845:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:166581:por
+  label: Retificadas, as als d), e), f), g) e h) do n.º 1 do art. 8.º e o quadro anexo, do presente diploma, pelo(a) Rectificação
+    - Diário do Governo n.º 290/1975, 3º Suplemento, Série I de 1975-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-166581
+  date: '1975-12-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:39Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +108,7 @@ Considerando o disposto no n.º 2 do artigo 5.º do [Decreto-Lei n.º 645/75](ht
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A Secretaria-Geral do Ministério do Comércio Interno, a que se refere o artigo 5.º do [Decreto-Lei n.º 645/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/645-1975-310273), é um órgão de estudo, coordenação e apoio técnico e administrativo, incumbindo-lhe especialmente:
+Artigo 1.º A Secretaria-Geral do Ministério do Comércio Interno, a que se refere o artigo 5.º do [Decreto-Lei n.º 645/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/645-1975-310273), é um órgão de estudo, coordenação e apoio técnico e administrativo, incumbindo-lhe especialmente:
 
 a) Realizar estudos de ordem jurídica sobre as matérias abrangidas na área de actuação do Ministério;
 
@@ -104,7 +124,7 @@ f) Velar pela segurança dos edifícios e pela conservação do mobiliário e qu
 
 g) Desempenhar outras funções, de ordem técnica ou administrativa, que lhe sejam determinadas pelo Ministro.
 
-###### Art. 2.º A Secretaria-Geral compreende um gabinete jurídico, ao qual compete especialmente:
+Art. 2.º A Secretaria-Geral compreende um gabinete jurídico, ao qual compete especialmente:
 
 a) Emitir os pareceres e elaborar os estudos jurídicos que lhe sejam determinados pelo Ministro e pelos Secretários de Estado;
 
@@ -118,27 +138,27 @@ e) Organizar e manter actualizados ficheiros de legislação, jurisprudência e 
 
 f) Promover a recolha de informação e documentação jurídica respeitante às suas atribuições.
 
-###### Art. 3.º - 1. A Secretaria-Geral é dirigida pelo secretário-geral, a quem incumbe superintender em todos os serviços da Secretaria-Geral, submetendo a despacho do Ministro ou dos Secretários de Estado os assuntos que careçam de resolução superior, no âmbito das respectivas competências.
+Art. 3.º - 1. A Secretaria-Geral é dirigida pelo secretário-geral, a quem incumbe superintender em todos os serviços da Secretaria-Geral, submetendo a despacho do Ministro ou dos Secretários de Estado os assuntos que careçam de resolução superior, no âmbito das respectivas competências.
 
 2. O secretário-geral será substituído, nas suas faltas ou impedimentos, pelo director de serviços que o Ministro designar.
 
-###### Art. 4.º - 1. A Secretaria-Geral disporá do pessoal constante do quadro publicado em anexo ao presente diploma.
+Art. 4.º - 1. A Secretaria-Geral disporá do pessoal constante do quadro publicado em anexo ao presente diploma.
 
 2. O quadro referido no número anterior poderá ser alterado por portaria dos Ministérios das Finanças, do Comércio Interno e da Administração Interna.
 
 3. O pessoal do quadro da Secretaria-Geral será distribuído pelos respectivos serviços mediante despacho do secretário-geral.
 
-###### Art. 5.º - 1. O provimento de pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 5.º - 1. O provimento de pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2. As nomeações feitas nos termos do número anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
 3. Quando o provimento dos lugares recair em funcionários provenientes de outros serviços do Estado ou de institutos públicos, o tempo de serviço neles prestado contará para efeito de nomeação definitiva, desde que tenham exercido funções da mesma natureza, e, quando assim não for, o prazo de nomeação provisória será reduzido a um ano.
 
-###### Art. 6.º O secretário-geral será nomeado em comissão de serviço pelo Ministro do Comércio Interno de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
+Art. 6.º O secretário-geral será nomeado em comissão de serviço pelo Ministro do Comércio Interno de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
 
-###### Art. 7.º Os directores de serviço e o chefe de repartição serão nomeados pelo Ministro do Comércio Interno indivíduos com curso superior adequado ao desempenho das respectivas funções e a conveniente especialização, podendo o provimento do lugar chefe de repartição fazer-se também entre chefes de serviço com três anos de bom e efectivo serviço.
+Art. 7.º Os directores de serviço e o chefe de repartição serão nomeados pelo Ministro do Comércio Interno indivíduos com curso superior adequado ao desempenho das respectivas funções e a conveniente especialização, podendo o provimento do lugar chefe de repartição fazer-se também entre chefes de serviço com três anos de bom e efectivo serviço.
 
-###### Art. 8.º - 1. Por despacho do Ministro do Comércio Interno, mediante proposta do secretário-geral, serão providos os restantes lugares do quadro da Secretaria-Geral de harmonia com as condições seguintes:
+Art. 8.º - 1. Por despacho do Ministro do Comércio Interno, mediante proposta do secretário-geral, serão providos os restantes lugares do quadro da Secretaria-Geral de harmonia com as condições seguintes:
 
 a) Técnicos Principais e técnicos de 1.ª classe, por promoção, respectivamente, de técnicos de 1.ª classe e técnicos de 2.ª classe com boas informações de serviço e as habilitações legais;
 
@@ -160,30 +180,30 @@ h) Escriturários-dactilógrafos, por concurso de prestação de provas, de entr
 
 3. O Ministro do Comércio Interno poderá condicionar o provimento dos lugares do quadro à realização de concursos ou de cursos de promoção, de harmonia com as condições julgadas convenientes.
 
-###### Art. 9.º - 1. Quando se mostre indispensável, o Ministro do Comércio Interno poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço na Secretaria-Geral, a pagar por dotação especial para esse efeito inscrita no orçamento da Secretaria-Geral, e com o acordo do Ministério requisitando, se for esse o caso.
+Art. 9.º - 1. Quando se mostre indispensável, o Ministro do Comércio Interno poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço na Secretaria-Geral, a pagar por dotação especial para esse efeito inscrita no orçamento da Secretaria-Geral, e com o acordo do Ministério requisitando, se for esse o caso.
 
 2. Se a requisição cessar por decisão ministerial e não existir vaga no quadro donde o funcionário proceda, passará este a prestar serviço em qualquer organismo dependente do Ministério do Comércio Interno ou do departamento de origem, consoante decisão dos Ministros respectivos.
 
 3. Na pendência dessa situação, o funcionário terá direito aos vencimentos correspondentes à sua categoria nos serviços de origem, a cargo do departamento onde prestar serviço, ou, se tal não for possível, por conta de verbas inscritas no orçamento da Secretaria-Geral.
 
-###### Art. 10.º - 1. O primeiro provimento dos lugares do quadro técnico, sempre que seja possível, e do quadro administrativo, em todos os casos, será feito, por ordem de prioridade, com pessoal proveniente dos serviços do extinto Ministério da Economia, cuja extinção se prevê no artigo 25.º do [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro, nos termos do disposto no artigo 26.º do mesmo diploma, com pessoal de outros serviços e organismos daquele Ministério e outro pessoal que, à data da publicação deste diploma, preste serviço, a qualquer título, na Secretaria-Geral ou em serviços e organismos do Ministério do Comércio Interno.
+Art. 10.º - 1. O primeiro provimento dos lugares do quadro técnico, sempre que seja possível, e do quadro administrativo, em todos os casos, será feito, por ordem de prioridade, com pessoal proveniente dos serviços do extinto Ministério da Economia, cuja extinção se prevê no artigo 25.º do [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro, nos termos do disposto no artigo 26.º do mesmo diploma, com pessoal de outros serviços e organismos daquele Ministério e outro pessoal que, à data da publicação deste diploma, preste serviço, a qualquer título, na Secretaria-Geral ou em serviços e organismos do Ministério do Comércio Interno.
 
 2. O pessoal referido no número anterior ingressará no quadro da Secretaria-Geral, mediante lista ou listas nominativas aprovadas pelo Ministro do Comércio Interno, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.
 
-###### Art. 11.º O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+Art. 11.º O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
-###### Art. 12.º As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por despacho do Ministro do Comércio Interno, com o acordo do Ministro das Finanças, quando estiverem em causa matéria de carácter financeiro ou regras de contabilidade pública.
+Art. 12.º As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por despacho do Ministro do Comércio Interno, com o acordo do Ministro das Finanças, quando estiverem em causa matéria de carácter financeiro ou regras de contabilidade pública.
 
-###### Art. 13.º Este diploma entra em vigor na data da publicação.
+Art. 13.º Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 11 de Novembro de 1975.**
+Promulgado em 11 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/27000/18621864.pdf))](https://files.diariodarepublica.pt/1s/1975/11/27000/18621864.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/27000/18621864.pdf)
 
-**O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.**
+O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.

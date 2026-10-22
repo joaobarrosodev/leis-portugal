@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/135-1980-459177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0b0024e9a93db066864430c8c5642a6e07edf1875c83d6fc275396c3ba7ef92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1867ebd775fd09379e47f7fecca45183326f18a256eb19a03843a8c5ec41d9ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério das Finanças e do Plano
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:45Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +95,11 @@ Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diar
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais, no montante de 154884 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais, no montante de 154884 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/27900/40484050.pdf))](https://files.diariodarepublica.pt/1s/1980/12/27900/40484050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/27900/40484050.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
@@ -100,44 +107,44 @@ Orçamento das receitas do Estado
 
 Receitas correntes:
 
-### Capítulo 02 «Impostos indirectos»:
+Capítulo 02 «Impostos indirectos»:
 
 Grupo 03 «Outros»:
 
-###### Artigo 27 «Fiscalização de actividades comerciais e industriais» ... 2601
+Artigo 27 «Fiscalização de actividades comerciais e industriais» ... 2601
 
-### Capítulo 05 «Transferências»:
+Capítulo 05 «Transferências»:
 
 Grupo 01 «Sector público»:
 
-###### Artigo 03 «Serviços autónomos» ... 15158
+Artigo 03 «Serviços autónomos» ... 15158
 
 Grupo 06 «Exterior»:
 
-###### Artigo 03 «Transferências diversas» ... 346
+Artigo 03 «Transferências diversas» ... 346
 
 Receitas de capital:
 
-### Capítulo 15 «Contas de ordem»:
+Capítulo 15 «Contas de ordem»:
 
 Grupo 03 «Finanças e do Plano»:
 
-###### Artigo 02 «Instituto de Informática» ... 6500
+Artigo 02 «Instituto de Informática» ... 6500
 
 Grupo 04 «Justiça»:
 
-###### Artigo 02 «Serviços tutelares de menores» ... 7500
+Artigo 02 «Serviços tutelares de menores» ... 7500
 
 Grupo 11 «Transportes e Comunicações»:
 
-###### Artigo 04 «Juntas autónomas dos portos» ... 122779
+Artigo 04 «Juntas autónomas dos portos» ... 122779
 
 ... 154884
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Mário Ferreira Bastos Raposo - Aníbal António Cavaco Silva - João António Morais Leitão - Basílio Adolfo Mendonça Horta da Franca - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 21 de Novembro de 1980.**
+Promulgado em 21 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

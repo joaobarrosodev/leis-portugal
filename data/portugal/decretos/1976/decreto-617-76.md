@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17400/17061708.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/617-1976-430792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2333736b1caf928085cee377ac3dcbe7f432283790e37a73ef1d8f21ab3c190
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba5dcd256f2da093e4f80b160a92ff84ea27ce6bb415f8232e9d41ba9daeb08d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Ministério do Trabalho
+- Orgânica
+- Secretaria Geral
+- Secretário Geral
 relationships:
 - type: amended_by
   target: pt:dre:621349:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506186:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408740:por
+  label: Rectificado pela DECL.DD8181.04.09.1976.PCM, DR.IS [208] de 04.09.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-408740
+  date: '1976-09-04'
+- type: repealed_by
+  target: pt:dre:621349:por
+  label: "Revogado pelo DEC LEI.47/78.21.03.1978.MT, DR.IS [67]Supl de 21.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1978-621349
+  date: '1978-03-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:27Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +145,7 @@ Ao abrigo do artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/76](https://diariodare
 
 Usando da faculdade conferida pelo artigo 3.º n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte.
 
-###### Artigo 1.º A Secretaria-Geral do Ministério do Trabalho, a que se refere o artigo 3.º, alínea j), do [Decreto-Lei n.º 760/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1974-256806), de 30 de Dezembro, é um órgão de coordenação e apoio técnico-administrativo, ao qual compete desempenhar funções de interesse comum aos diversos órgãos e serviços do Ministério, nomeadamente:
+Artigo 1.º A Secretaria-Geral do Ministério do Trabalho, a que se refere o artigo 3.º, alínea j), do [Decreto-Lei n.º 760/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1974-256806), de 30 de Dezembro, é um órgão de coordenação e apoio técnico-administrativo, ao qual compete desempenhar funções de interesse comum aos diversos órgãos e serviços do Ministério, nomeadamente:
 
 a) Promover a melhor organização dos recursos humanos, realizar e coordenar a gestão do pessoal e assegurar a participação deste na resolução dos respectivos problemas;
 
@@ -118,7 +153,7 @@ b) Assegurar os serviços de administração corrente de pessoal, economato e co
 
 c) Zelar pela segurança das instalações dos serviços, bem como pela eficiência das redes e meios de comunicação do Ministério.
 
-###### Art. 2.º - 1. O secretário-geral superintendente em todos os serviços da Secretaria-Geral, competindo-lhe, nomeadamente:
+Art. 2.º - 1. O secretário-geral superintendente em todos os serviços da Secretaria-Geral, competindo-lhe, nomeadamente:
 
 a) Submeter a despacho do Ministro e Secretários de Estado os assuntos que careçam de resolução superior, no âmbito das respectivas competências;
 
@@ -130,11 +165,11 @@ d) Presidir ao conselho de pessoal, providenciando pelo seu regular funcionament
 
 2. O secretário-geral será substituído nas suas faltas e impedimentos pelo funcionário superior da Secretaria-Geral para tanto designado.
 
-###### Art. 3.º - 1. No âmbito da Secretaria-Geral funciona um conselho de pessoal, ao qual compete essencialmente pronunciar-se sobre os problemas relativos à política de pessoal, nomeadamente no tocante à organização de carreiras, ao regime jurídico, à gestão dos recursos humanos e às condições sociais.
+Art. 3.º - 1. No âmbito da Secretaria-Geral funciona um conselho de pessoal, ao qual compete essencialmente pronunciar-se sobre os problemas relativos à política de pessoal, nomeadamente no tocante à organização de carreiras, ao regime jurídico, à gestão dos recursos humanos e às condições sociais.
 
 2. As bases gerais de composição e funcionamento do conselho de pessoal serão provisoriamente definidas por despacho do Ministro do Trabalho, enquanto não forem regulamentados a nível geral os órgãos e processos de participação dos trabalhadores da função pública.
 
-###### Art. 4.º A Secretaria-Geral compreende os seguintes serviços:
+Art. 4.º A Secretaria-Geral compreende os seguintes serviços:
 
 a) Direcção de Serviços de Pessoal (DSP);
 
@@ -142,7 +177,7 @@ b) Direcção de Serviços Administrativos (DSA);
 
 c) Direcção de Serviços Financeiros (DSF).
 
-###### Art. 5.º - 1. À Direcção de Serviços de Pessoal compete especialmente:
+Art. 5.º - 1. À Direcção de Serviços de Pessoal compete especialmente:
 
 a) Promover, através da sua Divisão Técnico o estudo e realização de acções relativas à gestão do pessoal, bem como prestar colaboração técnica às outras Direcções de Serviços para o aperfeiçoamento dos circuitos administrativos e orçamentais;
 
@@ -158,7 +193,7 @@ e) Instruir todos os processos referentes a prestações sociais de que sejam be
 
 3. A DSP estará representada no conselho de pessoal, a que se refere o artigo 3.º, ao qual prestará o apoio de que este carecer.
 
-###### Art. 6.º - 1. A Divisão Técnica (DT), a que se refere o n.º 2 do artigo 5.º, é um órgão de assessoria dos serviços da Secretaria-Geral, competindo-lhe especialmente:
+Art. 6.º - 1. A Divisão Técnica (DT), a que se refere o n.º 2 do artigo 5.º, é um órgão de assessoria dos serviços da Secretaria-Geral, competindo-lhe especialmente:
 
 a) Colaborar no estudo das carreiras e quadros de pessoal, bem como das matérias respeitantes ao regime jurídico de trabalho e de prestações sociais, e ainda analisar as diversas situações funcionais, com vista à definição de critérios de notação profissional;
 
@@ -170,7 +205,7 @@ d) Colaborar no aperfeiçoamento dos circuitos administrativos, bem como analisa
 
 2. No exercício das suas funções, a DT actuará em estreita colaboração com outros órgãos e serviços do Ministério do Trabalho, nomeadamente o serviço competente de organização, e colaborará com órgãos e serviços de outros Ministérios, nomeadamente a Direcção-Geral da Função Pública, tendo em conta a política e os critérios gerais por esta definidos.
 
-###### Art. 7.º - 1. À Direcção de Serviços Administrativos compete especialmente:
+Art. 7.º - 1. À Direcção de Serviços Administrativos compete especialmente:
 
 a) Assegurar o apetrechamento dos serviços do Ministério, procedendo às necessárias aquisições e mantendo em depósito o material indispensável para o regular funcionamento dos serviços;
 
@@ -192,7 +227,7 @@ i) Superintender no pessoal auxiliar e assegurar a organização do respectivo t
 
 2. A Direcção de Serviços Administrativos compreende uma Repartição de Aquisições e Património e uma Repartição de Assuntos Gerais.
 
-###### Art. 8.º - 1. À Direcção de Serviços Financeiros compete especialmente:
+Art. 8.º - 1. À Direcção de Serviços Financeiros compete especialmente:
 
 a) Elaborar o orçamento do Ministério e acompanhar a respectiva execução;
 
@@ -204,20 +239,20 @@ d) Efectuar todos os pagamentos por conta do orçamento do Ministério, bem como
 
 2. A Direcção de Serviços Financeiros compreende uma Repartição de Processamentos e Conta Corrente e uma Tesouraria.
 
-###### Art. 9.º A organização interna dos serviços da Secretaria-Geral será objecto de regulamento, aprovado pelo secretário-geral.
+Art. 9.º A organização interna dos serviços da Secretaria-Geral será objecto de regulamento, aprovado pelo secretário-geral.
 
-###### Art. 10.º - 1. Sem prejuízo do disposto nos números seguintes, as alterações a introduzir no quadro de pessoal da Secretaria-Geral, assim como as condições de provimento nos respectivos lugares, constarão de diploma a publicar nos termos do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
+Art. 10.º - 1. Sem prejuízo do disposto nos números seguintes, as alterações a introduzir no quadro de pessoal da Secretaria-Geral, assim como as condições de provimento nos respectivos lugares, constarão de diploma a publicar nos termos do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
 2. Ficam, no entanto, desde já criados os lugares de directores de serviços da DSP, da DSA e da DSF, com a categoria correspondente à letra D de vencimento, bem como o de chefe da Divisão Técnica, com a categoria correspondente à letra E, de harmonia com a tabela aprovada pelo artigo 1.º do [Decreto-Lei n.º 506/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1975-307272), de 18 de Setembro.
 
 3. Os lugares criados no número anterior serão preenchidos em comissão de serviço, mediante escolha do Ministro do Trabalho, sob proposta do secretário-geral, de entre diplomados com curso superior adequado, de preferência já funcionários do Ministério do Trabalho, ou de entre funcionários do mesmo Ministério, qualquer que seja o vínculo, de categoria igual ou superior à letra F.
 
-###### Art. 11.º Os encargos resultantes do disposto no n.º 2 do artigo anterior serão suportados no corrente ano pelas disponibilidades existentes na dotação do Ministério do Trabalho, no capítulo 4.º, artigo 98.º, n.º 1.
+Art. 11.º Os encargos resultantes do disposto no n.º 2 do artigo anterior serão suportados no corrente ano pelas disponibilidades existentes na dotação do Ministério do Trabalho, no capítulo 4.º, artigo 98.º, n.º 1.
 
 Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - João Pedro Tomás Rosa.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/96-1977-250457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6161b9ba257b06cf688f0fb7bcb7068aabf30ca8aaba79ee4b1116b05a84a23f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87010fecb9082b53bfeb5193b70f8bd3d80416904797fc0d5dc00f769cdae687
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Barreiro
+- Comando do Corpo de Fuzileiros
+- Comiberlant
+- Servidão Militar
+- Sesimbra
+relationships:
+- type: cites
+  target: pt:dre:411344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412609:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:23Z'
   warnings: []
   errors: []
 ---
@@ -89,24 +102,24 @@ Considerando a necessidade de actualizar as disposições relativas à atribuiç
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 4.º do [Decreto n.º 578/73](https://diariodarepublica.pt/dr/detalhe/decreto/578-1973-412609), de 3 de Novembro, e o artigo 6.º do [Decreto n.º 168/74](https://diariodarepublica.pt/dr/detalhe/decreto/168-1974-411344), de 25 de Abril, passam a ter a seguinte redacção:
+Artigo único. O artigo 4.º do [Decreto n.º 578/73](https://diariodarepublica.pt/dr/detalhe/decreto/578-1973-412609), de 3 de Novembro, e o artigo 6.º do [Decreto n.º 168/74](https://diariodarepublica.pt/dr/detalhe/decreto/168-1974-411344), de 25 de Abril, passam a ter a seguinte redacção:
 
 a) [Decreto n.º 578/73](https://diariodarepublica.pt/dr/detalhe/decreto/578-1973-412609), de 3 de Novembro:
 
 ...
 
-###### Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Corpo de Fuzileiros.
+Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Corpo de Fuzileiros.
 
 b) [Decreto n.º 168/74](https://diariodarepublica.pt/dr/detalhe/decreto/168-1974-411344), de 25 de Abril:
 
 ...
 
-###### Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Corpo de Fuzileiros.
+Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Corpo de Fuzileiros.
 
 Visto e aprovado em Conselho da Revolução em 22 de Junho de 1977.
 
-**Promulgado em 29 de Junho de 1977.**
+Promulgado em 29 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

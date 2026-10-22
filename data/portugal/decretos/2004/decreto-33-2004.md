@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/33/2004/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-2004-565250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51cbbbca4548df047608d336c51c51c2a95c0a478bf0da7e58491114292fe369
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d008abb74d6b1da264c2dd136964f5a6e89f421e4699ffa2f5b259cae881f7ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Comércio Internacional
 - Convenção
-- Portugal
-- Roterdão
-- Proteção do Ambiente
 - Pesticida
+- Portugal
+- Produto Químico
+- Proteção do Ambiente
+- Roterdão
 relationships: []
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:48Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 19 de Agosto de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António Victor Martins Monteiro - Carlos Henrique da Costa Neves - Luís Filipe da Conceição Pereira - Luís José de Mello e Castro Guedes.
 
-**Assinado em 7 de Outubro de 2004.**
+Assinado em 7 de Outubro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Outubro de 2004.**
+Referendado em 14 de Outubro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ROTTERDAM CONVENTION ON THE PRIOR INFORMED CONSENT PROCEDURE FOR CERTAIN HAZARDOUS CHEMICALS AND PESTICIDES IN INTERNATIONAL TRADE.
 
@@ -710,7 +710,7 @@ ANNEX III
 
 Chemicals subject to the prior informed consent procedure
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/10/255a00/64516471.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/10/255a00/64516471.pdf)](https://files.diariodarepublica.pt/1s/2004/10/255a00/64516471.pdf)
 
 ANNEX IV
 
@@ -1232,7 +1232,7 @@ Não poderão ser formuladas reservas à presente Convenção.
 
 ###### Artigo 29.º — Depositário
 
-**O Secretário-Geral das Nações Unidas será o depositário da presente Convenção.**
+O Secretário-Geral das Nações Unidas será o depositário da presente Convenção.
 
 ###### Artigo 30.º — Textos autênticos
 
@@ -1326,11 +1326,11 @@ d) Ter em atenção que a utilização internacional incorrecta não constitui p
 
 ## ANEXO III — Produtos químicos sujeitos ao procedimento de prévia informação e consentimento
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/10/255a00/64516471.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/10/255a00/64516471.pdf)](https://files.diariodarepublica.pt/1s/2004/10/255a00/64516471.pdf)
 
 ## ANEXO IV — Informação e critérios para incluir formulações pesticidas extremamente perigosas no anexo III
 
-# Parte 1 - Documentação requerida a uma parte proponente
+Parte 1 - Documentação requerida a uma parte proponente
 
 As propostas apresentadas nos termos do n.º 1 do artigo 6.º incluirão a documentação adequada contendo a seguinte informação:
 
@@ -1350,7 +1350,7 @@ g) Uma descrição clara dos incidentes relacionados com o problema, incluindo o
 
 h) Qualquer medida regulamentar, administrativa ou outra que a parte proponente tenha tomado ou tenha tido a intenção de tomar em resposta a tais incidentes.
 
-# Parte 2 - Informação a ser recolhida pelo secretariado
+Parte 2 - Informação a ser recolhida pelo secretariado
 
 Nos termos do n.º 3 do artigo 6.º, o secretariado recolherá a informação relevante sobre a formulação incluindo:
 
@@ -1372,7 +1372,7 @@ h) Práticas alternativas de controlo de pragas;
 
 i) Outra informação que possa ser considerada relevante pelo Comité de Revisão de Produtos Químicos.
 
-# Parte 3 - Critérios para incluir as formulações pesticidas extremamente perigosas no anexo III
+Parte 3 - Critérios para incluir as formulações pesticidas extremamente perigosas no anexo III
 
 Ao rever as propostas remetidas pelo secretariado nos termos do n.º 5 do artigo 6.º, o Comité de Revisão de Produtos Químicos, tomará em consideração o seguinte:
 

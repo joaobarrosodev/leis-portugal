@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/13/1999/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-1999-321931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:10:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b89cf487523a3b3988151ffc2c04c7417aa3201ea5593c43c5960a637ad4824
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 976af56b64cfb509c8bd120c1e4a06e6b840c79a72c13e6c3b68445e45a4301b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:10:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Banco Interamericano de Desenvolvimento
 - Consultoria
 - Convenção
 - Cooperação Técnica
-- Banco Interamericano de Desenvolvimento
-- Portugal
+- Financiamento
 - Fundo Português de Cooperação Técnica
 - Notificação
+- Portugal
 - Washington
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:10:15Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Carlos da Costa Ferreira da Silva.
 
-**Assinado em 21 de Abril de 1999.**
+Assinado em 21 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Abril de 1999.**
+Referendado em 29 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONVÉNIO ENTRE O BANCO INTERAMERICANO DE DESENVOLVIMENTO E O GOVERNO DE PORTUGAL COM O PROPÓSITO DE ESTABELECER UM FUNDO PORTUGUÊS DE COOPERAÇÃO TÉCNICA.
 
@@ -132,17 +132,13 @@ Que o Banco está preparado para administrar o Fundo Português segundo os termo
 
 as Partes acordam o seguinte:
 
-Artigo I
-
-Contribuição
+###### Artigo I — Contribuição
 
 1 - Pelo presente Convénio, o Governo estabelece um fundo para financiamento de serviços de consultoria («Fundo») e coloca à disposição do Banco uma contribuição inicial, em escudos, equivalente a 1,8 milhões de dólares dos Estados Unidos da América. O Governo, a seu critério, poderá fornecer recursos adicionais ao Fundo. Se o escudo deixar de ser a moeda oficial de Portugal, as contribuições subsequentes do Governo serão feitas na nova moeda, que poderá ser o euro.
 
 2 - O Banco administrará o Fundo e os seus recursos no âmbito do seu Programa para Desenvolvimento de Cooperação Técnica entre Países Membros do Banco (CT/FUNDOS). No cumprimento das funções decorrentes deste Convénio, o Banco exercerá o mesmo grau de cuidado e diligência que exerce em relação à administração das suas próprias actividades.
 
-Artigo II
-
-Utilização dos recursos
+###### Artigo II — Utilização dos recursos
 
 3 - Os recursos do Fundo serão utilizados para o financiamento de honorários profissionais, despesas de viagem e outros custos relacionados com os serviços prestados, a curto e médio prazos, por consultores, instituições especializadas e empresas («Serviços de Consultoria»). Dos recursos do Fundo, 70% serão utilizados para financiar Serviços de Consultoria prestados por empresas de consultoria portuguesas ou consultores individuais de nacionalidade portuguesa e até 30% dos recursos do Fundo poderão ser utilizados para financiar Serviços de Consultoria fornecidos pelos países beneficiários dos Serviços de Consultoria, em caso de que ambas as Partes cheguem a um acordo satisfatório sobre o mesmo.
 
@@ -156,9 +152,7 @@ C) Serviços de Consultoria para prestar assistência técnica directa aos órg�
 
 5 - Para as modalidades referidas em A) e B) poderão ser utilizados até o equivalente de USD 1500000 e para a modalidade em C) até o equivalente de USD 300000 da contribuição inicial.
 
-Artigo III
-
-Selecção e recrutamento de especialistas e consultores
+###### Artigo III — Selecção e recrutamento de especialistas e consultores
 
 6 - De acordo com os procedimentos estabelecidos, o Banco será responsável pela selecção e recrutamento dos especialistas e consultores que irão prestar os Serviços de Consultoria.
 
@@ -170,17 +164,13 @@ Selecção e recrutamento de especialistas e consultores
 
 10 - Para efeitos informativos, antes que tenha lugar a contratação dos consultores com recursos do Fundo, o Banco compromete-se a dar conhecimento ao Governo acerca dos consultores a contratar e, se possível, dos critérios utilizados para a selecção dos mesmos.
 
-Artigo IV
-
-Administração dos recursos do Fundo
+###### Artigo IV — Administração dos recursos do Fundo
 
 11 - O Governo depositará a sua contribuição inicial e as contribuições adicionais (que vierem a ser decididas) numa conta que renda juros, mantida pelo Banco num banco comercial em Portugal, e o Banco informará ao Governo acerca dessa conta. A contribuição inicial será depositada em três parcelas equivalentes a USD 600000, cada. A primeira parcela será depositada 30 dias após a entrada em vigor do presente Convénio. A segunda e terceira parcelas serão depositadas à medida das necessidades do Fundo. Os recursos do Fundo poderão ser convertidos pelo Banco em outras moedas para facilitar o seu desembolso.
 
 12 - De modo a cobrir os custos e despesas da administração do Fundo, o Banco poderá reter em sua própria conta qualquer rendimento do investimento ou reinvestimento de recursos do Fundo que não foram utilizados.
 
-Artigo V
-
-Relatórios, registos e contas
+###### Artigo V — Relatórios, registos e contas
 
 13 - De acordo com os procedimentos usuais, o Banco: i) manterá registos separados dos activos e obrigações do Fundo e de qualquer rendimento dele decorrente; enviará ao Governo, em 31 de Março de cada ano, uma demonstração financeira do Fundo, indicando a situação do Fundo no dia 31 de Dezembro do ano anterior; ii) apresentará uma demonstração financeira, em escudos, certificada pelos auditores externos do Banco após o término deste Convénio. O custo desta auditoria será coberto com recursos do Fundo.
 
@@ -188,15 +178,11 @@ Relatórios, registos e contas
 
 15 - O Banco apresentará ao Governo cópias ou resumos dos relatórios finais preparados pelos provedores dos Serviços de Consultoria.
 
-Artigo VI
-
-Consulta e intercâmbio de informações
+###### Artigo VI — Consulta e intercâmbio de informações
 
 16 - As Partes colaborarão para assegurar que os objectivos do presente Convénio sejam plenamente atingidos. Para tanto, a pedido de uma das Partes, intercambiarão opiniões sobre a execução deste Convénio e o cumprimento das obrigações e reunir-se-ão pelo menos uma vez por ano para examinar a situação das actividades financiadas pelo Fundo, bem como qualquer questão a elas referente.
 
-Artigo VII
-
-Comunicações e notificações
+###### Artigo VII — Comunicações e notificações
 
 17 - As notificações e outras comunicações às Partes deverão ser enviadas para os seguintes endereços:
 
@@ -204,9 +190,7 @@ Banco - Inter-American Development Bank, Financial Support Services Subdepartmen
 
 Governo - Direcção-Geral de Assuntos Europeus e Relações Internacionais do Ministério das Finanças, Avenida do Infante D. Henrique, 1100 Lisboa, Portugal. A atenção: directora; fax: 351 1 887 9842; telefone: 351 1 888 2088.
 
-Artigo VIII
-
-Disposições finais
+###### Artigo VIII — Disposições finais
 
 18 - O presente Convénio entrará em vigor quando for assinado pelos representantes devidamente autorizados das Partes e o Governo notificar o Banco por escrito que os requisitos legais internos de Portugal foram cumpridos. O Convénio continuará em vigor até que todos os recursos do Fundo, inclusive qualquer contribuição adicional nos termos do parágrafo 10, tenham sido desembolsados, e o seu desembolso tenha sido demonstrado pelo Banco, consoante estas disposições. Mediante acordo escrito, as Partes poderão modificar as disposições do Convénio ou celebrar acordos complementares para ampliar o seu âmbito.
 

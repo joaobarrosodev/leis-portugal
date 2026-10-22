@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/34/1993/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1993-645303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a651d0019fde0f4bfd001bf6e6d0f9b3b44c18fc0614346deb5efc811ac0a91b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a67357efe24ac6a7bca9c0992210aabb0eb60b006ae98aec014eca120f71f18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- China
 - Convenção
+- Cooperação Científica
 - Cooperação Técnica
 - Portugal
-- China
-- Cooperação Científica
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:35Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 7 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Convénio Básico de Cooperação Científica e Técnica entre a República Portuguesa e a República Popular da China, assinado em Pequim em 13 de Abril de 1993, cuja versão autêntica nas línguas portuguesa e chinesa segue em anexo ao presente decreto.
+Artigo único. É aprovado o Convénio Básico de Cooperação Científica e Técnica entre a República Portuguesa e a República Popular da China, assinado em Pequim em 13 de Abril de 1993, cuja versão autêntica nas línguas portuguesa e chinesa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira.
 
-**Assinado em 3 de Setembro de 1993.**
+Assinado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Setembro de 1993.**
+Referendado em 7 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVÉNIO BÁSICO DE COOPERAÇÃO CIENTÍFICA E TÉCNICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DA CHINA.
 
@@ -118,7 +118,7 @@ Resolvidas a favorecer e incrementar eficazmente o desenvolvimento da cooperaç�
 
 acordaram o seguinte:
 
-Artigo I
+###### Artigo I
 
 1 - As Partes favorecerão, numa base de igualdade e benefício mútuo, o desenvolvimento da cooperação científica e técnica de sectores definidos de comum acordo como de interesse para os dois países.
 
@@ -128,7 +128,7 @@ Artigo I
 
 Os projectos em que seja concretizada esta cooperação realizar-se-ão de acordo com as normas do presente Convénio e dos protocolos específicos que, em cada caso, sejam adoptados para precisar condições concretas da respectiva execução.
 
-Artigo II
+###### Artigo II
 
 A cooperação a que faz referência o artigo I do presente Convénio poderá compreender as seguintes modalidades:
 
@@ -146,7 +146,7 @@ f) Utilização em comum de instalações científicas e técnicas nas condiçõ
 
 g) Quaisquer outras formas de cooperação científica e técnica em que acordem ambas as Partes.
 
-Artigo III
+###### Artigo III
 
 1 - As condições de aplicação do presente Convénio, no que se refere às responsabilidades e obrigações de cada Parte, à divisão de encargos financeiros dos programas e projectos de cooperação que se efectuem e ao regime do pessoal científico e técnico a eles adstrito, serão especificadas em protocolos que, em cada caso, venham a ser adoptados.
 
@@ -164,7 +164,7 @@ d) A repartição de encargos financeiros correspondentes a casos especiais ser�
 
 3 - Se as Partes assim o entenderem, o regime de propriedade intelectual e industrial aplicável a umas e outras será regulamentado mediante acordo ou protocolo especial negociado para o efeito.
 
-Artigo IV
+###### Artigo IV
 
 1 - Com a finalidade de assegurar a aplicação do presente Convénio e a execução dos planos, programas e projectos a que faz referência o artigo I, as Partes concordam no estabelecimento de uma comissão mista composta por representantes e peritos designados. A Comissão reunirá, de dois em dois anos, alternadamente em cada um dos países, salvo se, por razões urgentes, ambas as Partes decidirem antecipar a data da reunião acordada ou a realização de reuniões extraordinárias.
 
@@ -172,7 +172,7 @@ A comissão elaborará o seu regulamento, se assim o considerar oportuno, e pode
 
 2 - Cada Parte poderá, em qualquer altura, apresentar à outra propostas de cooperação técnico-científica, utilizando para o efeito as vias diplomáticas usuais.
 
-Artigo V
+###### Artigo V
 
 1 - A comissão mista terá as seguintes atribuições:
 
@@ -186,15 +186,15 @@ d) Dar conhecimento aos dois Governos das recomendações julgadas pertinentes p
 
 2 - No final de cada reunião, ordinária ou extraordinária, da comissão mista, será feita uma acta das deliberações e acordos, que será assinada pelos presidentes das duas delegações.
 
-Artigo VI
+###### Artigo VI
 
 As autoridades competentes para a aplicação do presente Convénio e para a coordenação (de acordo com a legislação interna respectiva) dos programas e projectos de cooperação previstos são, por parte da República Portuguesa, a Secretaria de Estado da Ciência e Tecnologia e, por parte da República Popular da China, a Comissão Estatal de Ciência e Tecnologia.
 
-Artigo VII
+###### Artigo VII
 
 O presente Convénio entrará em vigor na data em que as Partes se notifiquem. Se as notificações não forem simultâneas, a entrada em vigor terá lugar na data da última notificação.
 
-Artigo VIII
+###### Artigo VIII
 
 1 - O período de vigência do presente Convénio é de cinco anos e será automaticamente prorrogado por período sucessivos de um ano, a menos que uma das Partes notifique por escrito a outra da sua intenção de o denunciar. Neste caso tal intenção deverá ser manifestada com uma antecedência mínima de seis meses.
 
@@ -210,4 +210,4 @@ Pela República Popular da China:
 
 Deng Nan, Vice-Presidente da Comissão de Estado da Ciência e Tecnologia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/235a00/56195621.pdf))](https://files.diariodarepublica.pt/1s/1993/10/235a00/56195621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/235a00/56195621.pdf)

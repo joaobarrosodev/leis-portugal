@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/02/04800/03020302.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/63-1973-684795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:31:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e12cd1639f441526b65036a5419bbbdfa628a089b6354cdbe25ed6d36a329bd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0b949ee548061ab93ab5dc47745913f12f66bfae3e7bbda6848c42f47d892cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:31:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,33 @@ relationships:
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516718:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:31:08Z'
   warnings: []
   errors: []
 ---
@@ -99,24 +116,24 @@ Considerando o disposto no artigo 12.º do [Decreto-Lei n.º 42073](https://diar
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O pessoal enfermeiro equiparado a militar especializado em pára-quedismo a que se refere o [Decreto n.º 44242](https://diariodarepublica.pt/dr/detalhe/decreto/44242-1962-516718), de 20 de Março de 1962, serve em regime de contrato, válido pelo prazo de três anos, que, quando não denunciado por qualquer das partes com uma antecedência mínima de sessenta dias, se considera tácita e sucessivamente prorrogado no fim de cada período.
+Artigo 1.º O pessoal enfermeiro equiparado a militar especializado em pára-quedismo a que se refere o [Decreto n.º 44242](https://diariodarepublica.pt/dr/detalhe/decreto/44242-1962-516718), de 20 de Março de 1962, serve em regime de contrato, válido pelo prazo de três anos, que, quando não denunciado por qualquer das partes com uma antecedência mínima de sessenta dias, se considera tácita e sucessivamente prorrogado no fim de cada período.
 
 2. Para os punidos disciplinar ou judicialmente a prorrogação necessita de ser autorizada pelo Secretário de Estado da Aeronáutica, a requerimento do interessado.
 
-###### Art. 2.º Os enfermeiros equiparados a oficiais e sargentos com mais de seis anos de serviço e boas informações relativamente a formação moral, comportamento disciplinar e aptidão profissional podem passar a servir em regime de nomeação vitalícia, mediante despacho do Secretário de Estado da Aeronáutica, a requerimento dos interessados.
+Art. 2.º Os enfermeiros equiparados a oficiais e sargentos com mais de seis anos de serviço e boas informações relativamente a formação moral, comportamento disciplinar e aptidão profissional podem passar a servir em regime de nomeação vitalícia, mediante despacho do Secretário de Estado da Aeronáutica, a requerimento dos interessados.
 
-###### Art. 3.º - 1. No caso de perda de aptidão psicofisiológica para o serviço de pára-quedismo, os oficiais e sargentos enfermeiros equiparados a pára-quedista podem, se o desejarem, e disso foram julgados merecedores, continuar ao serviço da Força Aérea, mantendo a sua anterior graduação e exercendo funções que excluam a prática de pára-quedismo.
+Art. 3.º - 1. No caso de perda de aptidão psicofisiológica para o serviço de pára-quedismo, os oficiais e sargentos enfermeiros equiparados a pára-quedista podem, se o desejarem, e disso foram julgados merecedores, continuar ao serviço da Força Aérea, mantendo a sua anterior graduação e exercendo funções que excluam a prática de pára-quedismo.
 
 2. Os militares que continuem ao serviço no caso de perda de aptidão psicofisiológica para a prática de pára-quedismo passam à situação de adidos aos quadros, não podendo, no entanto, os que servem em regime de contrato, naquela situação, exceder metade dos quadros aprovados por lei.
 
 3. Os mesmos militares prestarão serviço nas organizações com carácter hospitalar da Força Aérea, gozando de preferência no preenchimento dos respectivos lugares desde que satisfaçam os necessários requisitos legais.
 
-###### Art. 4.º O pessoal enfermeiro feminino equiparado a militar especializado em pára-quedismo quando contrair matrimónio poderá, por decisão do Secretário de Estado da Aeronáutica, ser desligado do serviço ou, se assim o requerer e sem prejuízo dos quantitativos previstos no n.º 2 do artigo 3.º, manter-se ao serviço em funções da sua especialidade que excluam a prática de pára-quedismo.
+Art. 4.º O pessoal enfermeiro feminino equiparado a militar especializado em pára-quedismo quando contrair matrimónio poderá, por decisão do Secretário de Estado da Aeronáutica, ser desligado do serviço ou, se assim o requerer e sem prejuízo dos quantitativos previstos no n.º 2 do artigo 3.º, manter-se ao serviço em funções da sua especialidade que excluam a prática de pára-quedismo.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 13 de Fevereiro de 1973.**
+Promulgado em 13 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

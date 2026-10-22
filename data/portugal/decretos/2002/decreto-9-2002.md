@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/2002/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-2002-301253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:14:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d6261d3f6c18901fdadbc93d2b015c4d5b05d8946a77f9609c498ab9d648a1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bee14e1962e28ba6a46db17e1f9fb9d7d63a8d5d29967a8dc45ddffd73312b67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:14:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Homologação
-- Veículo
 - Equipamento de Veículo
-- Regulamento
 - Genebra
-relationships: []
+- Homologação
+- Portugal
+- Regulamento
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:676853:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:14:27Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto a aprovado em Conselho de Ministros de 19 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Nuno Henrique Pires Severiano Teixeira - Eduardo Arménio do Nascimento Cabrita - Luís Garcia Braga da Cruz.
 
-**Assinado em 28 de Janeiro de 2002.**
+Assinado em 28 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Janeiro de 2002.**
+Referendado em 31 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 AGREEMENT CONCERNING THE ADOPTION OF UNIFORM TECHNICAL PRESCRIPTIONS FOR WHEELED VEHICLES, EQUIPMENT AND PARTS WHICH CAN BE FITTED AND OR BE USED ON WHEELED VEHICLES AND THE CONDITIONS FOR RECIPROCAL RECOGNITION OF APPROVALS GRANTED ON THE BASIS OF THESE PRESCRIPTIONS.
 
@@ -204,7 +208,7 @@ Uniform provisions concerning the approval for the production of retreaded pneum
 
 2.21.3.1 - The values of the «d» symbols expressed in millimeters are shown below:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 2.22 - «Nominal rim diameter (d)» means the diameter of the rim on which a tyre is designed to be mounted;
 
@@ -252,7 +256,7 @@ The list of load indices and the corresponding loads are shown in annex 4 to thi
 
 2.34.2 - The speed symbols and corresponding speeds are as shown in the table below:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 2.35 - «Maximum load rating» means the maximum mass which the tyre is rated to support;
 
@@ -260,7 +264,7 @@ The list of load indices and the corresponding loads are shown in annex 4 to thi
 
 2.35.2 - For speeds higher than 210 km/h but not exceeding 240 km/h (tyres with speed symbol «V»), the maximum load rating shall not exceed the percentage of the value corresponding to the load index of the tyre, indicated in the table below against the speed capability of the vehicle to which the tyre is to be fitted:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 For intermediate maximum speeds a linear interpolation of the maximum load rating is permissible;
 
@@ -528,7 +532,7 @@ A >= 1 (minimum: 1 mm);
 
 B >= 0.5 (minimum: 0.5 mm).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 6.6.8.2 - For diagonal (bias-ply) tyres:
 
@@ -660,7 +664,7 @@ where «D» is the outer diameter and «d» the nominal rim diameter quoted in t
 
 7.1.5.1.4 - The coefficient «b» is:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 7.1.5.2 - For snow tyres the maximum outer diameter (Dmax) calculated in paragraph 7.1.5.1 may be exceeded by not more than 1 per cent.
 
@@ -710,13 +714,13 @@ ANNEX 1
 
 Communication
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 ANNEX 2
 
 Arrangement of approval mark
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 The above approval mark affixed to a retreaded tyre shows that the retreading production unit concerned has been approved in The Netherlands (E4) under approval no. 108R002439, meeting the requirements of this Regulation in its original form (00).
 
@@ -728,7 +732,7 @@ Arrangement of retread tyre markings
 
 Example of the markings to be borne by retreaded tyres placed on the market after the entry into force of this Regulation
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 These markings define a retreaded tyre:
 
@@ -764,7 +768,7 @@ List of load indices and corresponding load capacities
 
 Load index (LI) and load capacity (kg)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 ANNEX 5
 
@@ -788,7 +792,7 @@ Method of measuring pneumatic tyres
 
 1.2.2 - For diagonal (bias-ply) tyres - to:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 1.2.3 - For standard radial tyres - to 1.8 bar;
 
@@ -816,7 +820,7 @@ Procedure for load/speed endurance tests
 
 1.2 - Inflate the tyre to the appropriate pressure as given (in bar) in the table below:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 1.3 - The retreading production unit may request, giving reasons, the use of a test inflation pressure different from those given in paragraph 1.2 of this annex. In this case the tyre shall be inflated to the requested pressure;
 
@@ -860,7 +864,7 @@ Explanatory figure
 
 (see paragraph 2 of this Regulation)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 ACORDO RELATIVO À ADOPÇÃO DE DISPOSIÇÕES TÉCNICAS UNIFORMES PARA VEÍCULOS DE RODAS, EQUIPAMENTOS E COMPONENTES QUE PODEM SER MONTADOS E OU USADOS EM VEÍCULOS DE RODAS E ÀS CONDIÇÕES DE RECONHECIMENTO RECÍPROCO DE HOMOLOGAÇÕES CONCEDIDAS DE ACORDO COM ESSAS DISPOSIÇÕES.
 
@@ -956,7 +960,7 @@ Disposições uniformes relativas à homologação do fabrico de pneus recauchut
 
 2.21.3.1 - Os valores dos símbolos «d», expressos em milímetros, são os seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 2.22 - «Diâmetro nominal da jante (d)» o diâmetro da jante na qual está prevista a montagem de um pneu;
 
@@ -1018,7 +1022,7 @@ A lista dos índices de carga e das cargas correspondentes consta do anexo n.º 
 
 2.34.2 - Os índices de velocidade e as velocidades correspondentes constam do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 2.35 - «Carga máxima admissível» a carga máxima que o pneu pode suportar:
 
@@ -1026,7 +1030,7 @@ A lista dos índices de carga e das cargas correspondentes consta do anexo n.º 
 
 2.35.2 - Para velocidades superiores a 210 km/h mas não excedendo 240 km/h (pneus com o símbolo de velocidade «V»), a carga máxima não deve exceder a percentagem correspondente ao índice de carga do pneu, indicada no quadro seguinte tendo em conta a categoria de velocidade do veículo a que o pneu se destina:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 Para velocidades máximas intermédias, é admitida a interpolação linear da carga máxima;
 
@@ -1282,7 +1286,7 @@ A >= 1 (mínimo: 1 mm);
 
 B >= 0,5 (mínimo: 0,5 mm).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 6.6.8.2 - Para pneus diagonais:
 
@@ -1414,7 +1418,7 @@ sendo «D» o diâmetro exterior e «d» o diâmetro nominal da jante, indicados
 
 7.1.5.1.4 - O coeficiente «b» é:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 7.1.5.2 - Para os pneus de neve, o diâmetro exterior máximo (Dmax) calculado no parágrafo 7.1.5.1 pode ser excedido, no máximo, 1%.
 
@@ -1460,11 +1464,15 @@ sendo «D» o diâmetro exterior e «d» o diâmetro nominal da jante, indicados
 
 12.3 - No caso de uma Parte Contratante do Acordo de 1958 fazer uso do parágrafo 12.2, ela pode fazer-se representar nos ensaios.
 
-## ANEXO N.º 1 — Comunicação
+ANEXO N.º 1
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+Comunicação
 
-## ANEXO N.º 2 — Exemplo de marca de homologação
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+
+ANEXO N.º 2
+
+Exemplo de marca de homologação
 
 [(ver marca de homologação no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
@@ -1472,11 +1480,13 @@ A marca de homologação representada, colocada num pneu recauchutado, indica qu
 
 O número de homologação deve ser colocado próximo do círculo e posicionado ou acima ou abaixo da letra «E», seja à esquerda ou à direita desta letra. Os dígitos do número de homologação devem estar dispostos do mesmo lado do «E» e orientados no mesmo sentido. A utilização de números romanos nos números de homologação deve ser evitada a fim de se impedir qualquer confusão com outros símbolos.
 
-## ANEXO N.º 3 — Esquema das marcas dos pneus recauchutados
+ANEXO N.º 3
+
+Esquema das marcas dos pneus recauchutados
 
 Exemplo das marcas que os pneus recauchutados colocados no mercado devem apresentar após a entrada em aplicação deste Regulamento.
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 Estas inscrições definem um pneu recauchutado:
 
@@ -1506,19 +1516,25 @@ c) As indicações «Tubeless», «Reinforced» e «M + S» podem estar a uma ce
 
 d) A indicação «Retread» pode estar a uma certa distância da designação da dimensão.
 
-## ANEXO N.º 4 — Lista dos índices de capacidade de carga e das cargas correspondentes
+ANEXO N.º 4
+
+Lista dos índices de capacidade de carga e das cargas correspondentes
 
 Índices de capacidade de carga (LI) e cargas correspondente [em quilogramas (kg)]
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
-## ANEXO N.º 5 — Designação e cotas das medidas dos pneus
+ANEXO N.º 5
+
+Designação e cotas das medidas dos pneus
 
 (de acordo com o Regulamento CEE n.º 30)
 
 (Consultar o anexo n.º 5 do Regulamento CEE n.º 30.)
 
-## ANEXO N.º 6 — Método de medida dos pneus
+ANEXO N.º 6
+
+Método de medida dos pneus
 
 1 - Preparação do pneu:
 
@@ -1530,7 +1546,7 @@ d) A indicação «Retread» pode estar a uma certa distância da designação d
 
 1.2.2 - Pneus diagonais:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 1.2.3 - Pneus normais radiais - 1,8 bar;
 
@@ -1546,7 +1562,9 @@ d) A indicação «Retread» pode estar a uma certa distância da designação d
 
 2.4 - O diâmetro exterior será calculado a partir do perímetro máximo do pneu insuflado.
 
-## ANEXO N.º 7 — Procedimento de ensaio de resistência carga/velocidade
+ANEXO N.º 7
+
+Procedimento de ensaio de resistência carga/velocidade
 
 (em princípio, de acordo com o anexo n.º 7 do Regulamento n.º 30)
 
@@ -1556,7 +1574,7 @@ d) A indicação «Retread» pode estar a uma certa distância da designação d
 
 1.2 - Insuflar o pneu à pressão adequada, indicada em bars, no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
 
 1.3 - A unidade de recauchutagem pode pedir, justificando-o, a utilização de pressões de ensaio diferentes das indicadas no parágrafo 1.2 do presente anexo. Neste caso, o pneu será insuflado de acordo com a pressão pedida;
 
@@ -1594,8 +1612,10 @@ d) A indicação «Retread» pode estar a uma certa distância da designação d
 
 3 - Método equivalente de ensaio - se for utilizado um método diferente do descrito no parágrafo 2 do presente anexo, a sua equivalência tem de ser demonstrada.
 
-## ANEXO N.º 8 — Figura explicativa
+ANEXO N.º 8
+
+Figura explicativa
 
 (v. parágrafo 2 do presente Regulamento)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30823103.pdf)

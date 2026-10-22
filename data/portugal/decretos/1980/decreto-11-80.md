@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-1980-679043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 628fa3f04ce6683867f2a0eb1dc14c42c730a799f1ca674cb2d83a56ff20538b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc454b459670b9dee6d8abb5dd0f8965439221e96d16a50d485cc4e8cf133836
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Lisboa
+- Lotaria Nacional
+- Santa Casa da Misericórdia
+- Totobola
+relationships:
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:23Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +104,16 @@ Assim, tendo em conta o disposto no artigo 26.º do [Decreto-Lei n.º 211/79](ht
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - No que respeita à aquisição de bens ou serviços de publicidade da Lotaria Nacional e das Apostas Mútuas Desportivas, a Mesa da Santa Casa da Misericórdia de Lisboa, para as gerências daquelas explorações, é competente para autorizar despesas até ao montante de 5000000$00.
+Artigo 1.º - 1 - No que respeita à aquisição de bens ou serviços de publicidade da Lotaria Nacional e das Apostas Mútuas Desportivas, a Mesa da Santa Casa da Misericórdia de Lisboa, para as gerências daquelas explorações, é competente para autorizar despesas até ao montante de 5000000$00.
 
 2 - Por ponderosas razões de conveniência, poderão a Mesa ou o Ministro dos Assuntos Sociais autorizar as despesas a que se refere o número anterior, até aos montantes de 2500000$00 e de 10000000$00, respectivamente, com dispensa de realização de concurso público e de celebração de contrato escrito.
 
-###### Art. 2.º As importâncias fixadas no presente diploma poderão ser alteradas por resolução do Conselho de Ministros, mediante proposta apresentada pelo Ministro dos Assuntos Sociais.
+Art. 2.º As importâncias fixadas no presente diploma poderão ser alteradas por resolução do Conselho de Ministros, mediante proposta apresentada pelo Ministro dos Assuntos Sociais.
 
 Francisco Sá Carneiro - João António Morais Leitão.
 
-**Promulgado em 29 de Fevereiro de 1980.**
+Promulgado em 29 de Fevereiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

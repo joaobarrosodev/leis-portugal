@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/37/1993/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/37-1993-669121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3121b1491734c3a540f4334e0ce0a0b7b999ed161b17593ca0a08d186a5beb84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea567cac274719b8d6d13a862caf94b0bf03534eaaf4f7439ca7e0526da2cec5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- ONU
-- Resíduo
-- Movimento Transfronteiriço de Resíduos
-- Proteção do Ambiente
-- Poluição Transfronteiriça
 - Basileia
+- Convenção
+- Movimento Transfronteiriço de Resíduos
+- ONU
+- Poluição Transfronteiriça
+- Portugal
+- Proteção do Ambiente
+- Resíduo
 relationships:
 - type: amended_by
   target: pt:dre:534643:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534643:por
+  label: "Estendida ao Território de Macau a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.139/99.1999.04.22.PR,\
+    \ DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/139-1999-534643
+  date: '1999-04-22'
+- type: amended_by
+  target: pt:dre:631653:por
+  label: "Tornada pública a aprovação das Decisões III/1 e IV/9 que alteram a Convenção aprovada para ratificação pelo presente\
+    \ diploma, pelo AV.229/99.1999.11.05.MNE DR.IS-A [284] de 07/Dez/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/229-1999-631653
+  date: '1999-11-05'
 article_structure:
-  article_count: 40
+  article_count: 39
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:36Z'
   warnings: []
   errors: []
 ---
@@ -99,19 +111,19 @@ de 20 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos e Sua Eliminação, adoptada em Basileia em 22 de Março de 1989, no âmbito do Programa das Nações Unidas para o Ambiente, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos e Sua Eliminação, adoptada em Basileia em 22 de Março de 1989, no âmbito do Programa das Nações Unidas para o Ambiente, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 1993. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 13 de Agosto de 1993.**
+Promulgado em 13 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1993.**
+Referendado em 23 de Agosto de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 BASEL CONVENTION ON THE CONTROL OF TRANSBOUNDARY MOVEMENTS OF HAZARDOUS WASTES AND THEIR DISPOSAL
 
@@ -811,7 +823,7 @@ ANNEX III
 
 List of hazardous characteristics
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/246a00/58765904.pdf))](https://files.diariodarepublica.pt/1s/1993/10/246a00/58765904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/246a00/58765904.pdf)
 
 Tests
 
@@ -1569,7 +1581,7 @@ Esta Convenção será aberta para assinatura pelos Estados, pela Namíbia, repr
 
 ###### Artigo 28.º — Depositário
 
-**O Secretário-Geral das Nações Unidas será o depositário desta Convenção e de qualquer protocolo com ela relacionada.**
+O Secretário-Geral das Nações Unidas será o depositário desta Convenção e de qualquer protocolo com ela relacionada.
 
 ###### Artigo 29.º — Textos autênticos
 
@@ -1681,7 +1693,7 @@ Y47 - Resíduos resultantes da incineração de resíduos domésticos.
 
 ## ANEXO III — Lista de características perigosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/246a00/58765904.pdf))](https://files.diariodarepublica.pt/1s/1993/10/246a00/58765904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/246a00/58765904.pdf)
 
 Métodos de ensaio
 

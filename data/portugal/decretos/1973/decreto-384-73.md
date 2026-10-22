@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/384-1973-421791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a264949e69a9d4d945bc43a14831af7cb05b8357cab2540486a232b976c0616
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9998f436cc7a94c3e6993af61d474b1dfbabd8cd6f43aa2d06aa604858893e89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,73 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:138563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678578:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 1
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:53Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +152,7 @@ Disposições especiais
 
 A) Guiné
 
-###### Artigo 1.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, os seguintes créditos especiais, tomando como contrapartida os saldos das contas de exercícios findos:
+Artigo 1.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, os seguintes créditos especiais, tomando como contrapartida os saldos das contas de exercícios findos:
 
 a) Um de 2000000$00, a inscrever em adicional à tabela de despesa ordinária do orçamento geral em vigor, destinado ao pagamento de gratificações de tecnicidade ao pessoal da Direcção-Geral de Segurança, nos termos do [Decreto-Lei n.º 573/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1972-665117), de 30 de Dezembro;
 
@@ -108,7 +164,7 @@ Repartição de Gabinete do Governador
 
 Diversos encargos
 
-###### Artigo 24.º, n.º 1) «Encargos administrativos - Despesas de carácter reservado» ... 500000$00
+Artigo 24.º, n.º 1) «Encargos administrativos - Despesas de carácter reservado» ... 500000$00
 
 ### CAPÍTULO 4.º — Administração-geral e fiscalização
 
@@ -118,9 +174,9 @@ Liceu de Honório Barreto
 
 Despesas com o pessoal:
 
-###### Artigo 91.º, n.º 4) «Remunerações certas ao pessoal em exercício - Para pagamento a professores de serviço eventual, nos termos do artigo 87.º do [Decreto n.º 36508](https://diariodarepublica.pt/dr/detalhe/decreto/36508-1947-637472), de 17 de Setembro de 1947, com a redacção da Portaria Ministerial n.º 12238, de 9 de Janeiro de 1948» ... 500000$00
+Artigo 91.º, n.º 4) «Remunerações certas ao pessoal em exercício - Para pagamento a professores de serviço eventual, nos termos do artigo 87.º do [Decreto n.º 36508](https://diariodarepublica.pt/dr/detalhe/decreto/36508-1947-637472), de 17 de Setembro de 1947, com a redacção da Portaria Ministerial n.º 12238, de 9 de Janeiro de 1948» ... 500000$00
 
-###### Artigo 92.º, n.º 3) «Remunerações acidentais - Gratificação ao pessoal docente e administrativo pelo ensino liceal extraordinário ([Decreto n.º 49157](https://diariodarepublica.pt/dr/detalhe/decreto/49157-1969-198969), de 15 de Julho de 1969 e Diploma Legislativo n.º 1907, de 27 de Outubro de 1970)» ... 400000$00
+Artigo 92.º, n.º 3) «Remunerações acidentais - Gratificação ao pessoal docente e administrativo pelo ensino liceal extraordinário ([Decreto n.º 49157](https://diariodarepublica.pt/dr/detalhe/decreto/49157-1969-198969), de 15 de Julho de 1969 e Diploma Legislativo n.º 1907, de 27 de Outubro de 1970)» ... 400000$00
 
 Ensino profissional
 
@@ -128,23 +184,23 @@ Escola Industrial e Comercial de Bissau
 
 Despesas com o pessoal:
 
-###### Artigo 99.º, n.º 4) «Remunerações certas ao pessoal em exercício - Para pagamento a pessoal docente eventual» ... 500000$00
+Artigo 99.º, n.º 4) «Remunerações certas ao pessoal em exercício - Para pagamento a pessoal docente eventual» ... 500000$00
 
-###### Artigo 100.º, n.º 3) «Remunerações acidentais - Gratificações por serviço extraordinário do curso nocturno de aperfeiçoamento profissional» ... 200000$00
+Artigo 100.º, n.º 3) «Remunerações acidentais - Gratificações por serviço extraordinário do curso nocturno de aperfeiçoamento profissional» ... 200000$00
 
 Escola Preparatória do Ensino Secundário de Bissau
 
 Despesas com o pessoal:
 
-###### Artigo 107.º, n.º 4) «Remunerações certas ao pessoal em exercício - Pessoal docente eventual» ... 1000000$00
+Artigo 107.º, n.º 4) «Remunerações certas ao pessoal em exercício - Pessoal docente eventual» ... 1000000$00
 
-###### Artigo 108.º, n.º 1) «Remunerações acidentais - Para pagamento de tempos lectivos extraordinários» ... 500000$00
+Artigo 108.º, n.º 1) «Remunerações acidentais - Para pagamento de tempos lectivos extraordinários» ... 500000$00
 
 Ensino primário
 
 Despesas com o pessoal:
 
-###### Artigo 126.º, n.º 4) «Remunerações certas ao pessoal em exercício - Para pagamento a pessoal docente e assalariado eventual»:
+Artigo 126.º, n.º 4) «Remunerações certas ao pessoal em exercício - Para pagamento a pessoal docente e assalariado eventual»:
 
 a) Pessoal docente - Cursos nocturnos ... 200000$00
 
@@ -152,19 +208,19 @@ b) Pessoal eventual ... 3500000$00
 
 Mocidade Portuguesa
 
-###### Artigo 135.º, n.º 1) «Subsídio global, nos termos do artigo 14.º do [Decreto-Lei n.º 39837](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39837-1954-678578), de 2 de Outubro de 1954 e artigo 9.º do [Decreto-Lei n.º 43271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43271-1960-513835), de 26 de Outubro de 1960 - Mocidade Portuguesa Masculina» ... 400000$00
+Artigo 135.º, n.º 1) «Subsídio global, nos termos do artigo 14.º do [Decreto-Lei n.º 39837](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39837-1954-678578), de 2 de Outubro de 1954 e artigo 9.º do [Decreto-Lei n.º 43271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43271-1960-513835), de 26 de Outubro de 1960 - Mocidade Portuguesa Masculina» ... 400000$00
 
 Serviços de saúde e assistência
 
 Pagamento de serviços
 
-###### Artigo 171.º, n.º 3) «Despesas de higiene, saúde e conforto - Medicamentos, apósitos, vacinas, drogas, utensílios de farmácia, reagentes, aparelhos de laboratório e instrumentos cirúrgicos» ... 1000000$00
+Artigo 171.º, n.º 3) «Despesas de higiene, saúde e conforto - Medicamentos, apósitos, vacinas, drogas, utensílios de farmácia, reagentes, aparelhos de laboratório e instrumentos cirúrgicos» ... 1000000$00
 
 Delegação da Direcção-Geral de Segurança
 
 Diversos serviços
 
-###### Artigo 190.º, n.º 1) «Encargos administrativos - Gastos confidenciais ou reservados» ... 1000000$00
+Artigo 190.º, n.º 1) «Encargos administrativos - Gastos confidenciais ou reservados» ... 1000000$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -172,43 +228,43 @@ Serviços de obras públicas e transportes
 
 Despesas com material:
 
-###### Artigo 271.º «Construções e obras novas» ... 2000000$00
+Artigo 271.º «Construções e obras novas» ... 2000000$00
 
-###### Artigo 273.º, n.º 1) «Despesas de conservação e aproveitamento - De imóveis» ... 800000$00
+Artigo 273.º, n.º 1) «Despesas de conservação e aproveitamento - De imóveis» ... 800000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 372.º, n.º 14), alínea b) «Subsídios e pensões - Para pagamento de pensões a pensionistas e sinistrados a cargo da província (artigo 5.º do [Decreto n.º 34177](https://diariodarepublica.pt/dr/detalhe/decreto/34177-1944-200994), de 6 de Dezembro de 1944, e artigo 342.º do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966) - A conceder no decurso do ano económico» ... 500000$00
+Artigo 372.º, n.º 14), alínea b) «Subsídios e pensões - Para pagamento de pensões a pensionistas e sinistrados a cargo da província (artigo 5.º do [Decreto n.º 34177](https://diariodarepublica.pt/dr/detalhe/decreto/34177-1944-200994), de 6 de Dezembro de 1944, e artigo 342.º do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966) - A conceder no decurso do ano económico» ... 500000$00
 
-###### Artigo 372.º, n.º 19) «Subsídio de compensação às câmaras, comissões municipais, juntas locais, concelhos e circunscrições (Diploma Legislativo n.º 1751, de 8 de Maio de 1961, Diploma Legislativo n.º 1806, de 21 de Dezembro de 1963, e compensação pelo ajustamento de vencimentos e salários» ... 680000$00
+Artigo 372.º, n.º 19) «Subsídio de compensação às câmaras, comissões municipais, juntas locais, concelhos e circunscrições (Diploma Legislativo n.º 1751, de 8 de Maio de 1961, Diploma Legislativo n.º 1806, de 21 de Dezembro de 1963, e compensação pelo ajustamento de vencimentos e salários» ... 680000$00
 
-###### Artigo 375.º, n.º 1) «Deslocações de pessoal - Ajudas de custo dentro da província» ... 300000$00
+Artigo 375.º, n.º 1) «Deslocações de pessoal - Ajudas de custo dentro da província» ... 300000$00
 
-###### Artigo 375.º, n.º 4), alínea a), 2.ª «Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na província» ... 500000$00
+Artigo 375.º, n.º 4), alínea a), 2.ª «Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na província» ... 500000$00
 
-###### Artigo 376.º, n.º 3), alínea b), 2.ª «Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na província» ... 2000000$00
+Artigo 376.º, n.º 3), alínea b), 2.ª «Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na província» ... 2000000$00
 
-###### Artigo 376.º, n.º 15) «Para aquisição de viaturas» ... 200000$00
+Artigo 376.º, n.º 15) «Para aquisição de viaturas» ... 200000$00
 
-###### Artigo 376.º n.º 25), alínea b) «Tratamento de doentes pobres, incluindo transportes - A pagar na província» ... 400000$00
+Artigo 376.º n.º 25), alínea b) «Tratamento de doentes pobres, incluindo transportes - A pagar na província» ... 400000$00
 
-###### Artigo 376.º, n.º 28) «Para pagamento de serviços executados em horas extraordinárias, nos termos do artigo 160.º do Estatuto do Funcionalismo Ultramarino» ... 300000$00
+Artigo 376.º, n.º 28) «Para pagamento de serviços executados em horas extraordinárias, nos termos do artigo 160.º do Estatuto do Funcionalismo Ultramarino» ... 300000$00
 
-###### Artigo 379.º «Abono de família (Decretos n.os 40708 e 40709, de 31 de Julho de 1956, e 41732, de 12 de Julho de 1958)» ... 2000000$00
+Artigo 379.º «Abono de família (Decretos n.os 40708 e 40709, de 31 de Julho de 1956, e 41732, de 12 de Julho de 1958)» ... 2000000$00
 
-###### Artigo 381.º «Subsídios para rendas de casa (P. 4, de 17 de Janeiro de 1949, e P. 2087, de 30 de Abril de 1969)» ... 300000$00
+Artigo 381.º «Subsídios para rendas de casa (P. 4, de 17 de Janeiro de 1949, e P. 2087, de 30 de Abril de 1969)» ... 300000$00
 
 ### CAPÍTULO 11.º — Exercícios findos
 
-###### Artigo 385.º «Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição (artigo 11.º do [Decreto n.º 36252](https://diariodarepublica.pt/dr/detalhe/decreto/36252-1947-415232), de 26 de Abril de 1947)» ... 500000$00
+Artigo 385.º «Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição (artigo 11.º do [Decreto n.º 36252](https://diariodarepublica.pt/dr/detalhe/decreto/36252-1947-415232), de 26 de Abril de 1947)» ... 500000$00
 
 ... 20180000$00
 
 B) Angola
 
-###### Art. 2.º O artigo 17.º do [Decreto n.º 43123](https://diariodarepublica.pt/dr/detalhe/decreto/43123-1960-500441), de 18 de Agosto de 1960, passa a ter a seguinte redacção:
+Art. 2.º O artigo 17.º do [Decreto n.º 43123](https://diariodarepublica.pt/dr/detalhe/decreto/43123-1960-500441), de 18 de Agosto de 1960, passa a ter a seguinte redacção:
 
-###### Art. 17.º Constituem receitas próprias do Instituto:
+Art. 17.º Constituem receitas próprias do Instituto:
 
 a) A percentagem que lhe couber nas taxas cobradas nos termos da portaria referida no artigo 18.º;
 
@@ -222,7 +278,7 @@ e) Quaisquer outros rendimentos ou subsídios.
 
 § único. Os empréstimos a contrair pelo Instituto para a realização dos seus fins serão sempre precedidos de autorização do Ministro do Ultramar.
 
-###### Art. 3.º - 1. O pessoal de enfermagem e auxiliar de terapêutica e diagnóstico do quadro privativo dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, a que se refere o artigo 1.º do [Decreto n.º 209/71](https://diariodarepublica.pt/dr/detalhe/decreto/209-1971-644555), de 17 de Maio, passa a ser o seguinte, enquadrado nas letras do artigo 91.º do Estatuto do Funcionalismo Ultramarino adiante indicadas:
+Art. 3.º - 1. O pessoal de enfermagem e auxiliar de terapêutica e diagnóstico do quadro privativo dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, a que se refere o artigo 1.º do [Decreto n.º 209/71](https://diariodarepublica.pt/dr/detalhe/decreto/209-1971-644555), de 17 de Maio, passa a ser o seguinte, enquadrado nas letras do artigo 91.º do Estatuto do Funcionalismo Ultramarino adiante indicadas:
 
 Enfermeiros-chefes ... K
 
@@ -248,7 +304,7 @@ Auxiliares de enfermagem de 3.ª classe ... S
 
 4. O provimento dos lugares de enfermeiro-chefe será efectuado nesta ou na categoria de enfermeiro-subchefe, mediante concurso documental, consoante os candidatos estejam ou não habilitados com a secção de administração e chefia do curso complementar de enfermagem, a que se refere o artigo 172.º do [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969.
 
-###### Art. 4.º Os artigos 1.º e 3.º do Diploma Legislativo Ministerial n.º 6, publicado em Luanda em 17 de Janeiro de 1969, passam a ter a seguinte redacção:
+Art. 4.º Os artigos 1.º e 3.º do Diploma Legislativo Ministerial n.º 6, publicado em Luanda em 17 de Janeiro de 1969, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -268,7 +324,7 @@ Auxiliares de enfermagem de 3.ª classe ... S
 
 ...
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 1. ...
 
@@ -278,7 +334,7 @@ Auxiliares de enfermagem de 3.ª classe ... S
 
 4. ...
 
-###### Art. 5.º - 1. Ao mapa I anexo ao diploma referido no artigo anterior são introduzidas as seguintes alterações na sua alínea a) «Pessoal técnico de informações»:
+Art. 5.º - 1. Ao mapa I anexo ao diploma referido no artigo anterior são introduzidas as seguintes alterações na sua alínea a) «Pessoal técnico de informações»:
 
 A categoria atribuída ao subdirector passa a ser a da letra D;
 
@@ -286,15 +342,15 @@ O número de adjuntos de chefe de serviço é aumentado de 3 unidades.
 
 2. No mesmo mapa é extinto na alínea b) «Pessoal de secretaria» o lugar de chefe de repartição e criado, em sua substituição, o de chefe do serviço administrativo, com a categoria da letra E.
 
-###### Art. 6.º Ao mapa II anexo ao diploma anteriormente referido é aditada, na alínea b) «Pessoal de secretaria», a seguinte designação funcional:
+Art. 6.º Ao mapa II anexo ao diploma anteriormente referido é aditada, na alínea b) «Pessoal de secretaria», a seguinte designação funcional:
 
 Chefe de divisão, com a categoria da letra H.
 
-###### Art. 7.º Para o lugar de chefe do serviço administrativo, criado pelo n.º 2 do artigo 5.º do presente diploma, transita, por despacho do Ministro, simplesmente «anotado» pelo Tribunal de Contas, o funcionário actualmente provido no lugar de chefe de repartição, considerando-se empossado nas novas funções na data da publicação daquele despacho no Diário do Governo.
+Art. 7.º Para o lugar de chefe do serviço administrativo, criado pelo n.º 2 do artigo 5.º do presente diploma, transita, por despacho do Ministro, simplesmente «anotado» pelo Tribunal de Contas, o funcionário actualmente provido no lugar de chefe de repartição, considerando-se empossado nas novas funções na data da publicação daquele despacho no Diário do Governo.
 
 C) Moçambique
 
-###### Art. 8.º - 1. É criado na Direcção Provincial dos Serviços de Marinha o Fundo de Manutenção e Renovação do Material de Apoio à Navegação nos Portos, destinado a promover a reparação e conservação do trem naval daquela Direcção e à aquisição de novas unidades.
+Art. 8.º - 1. É criado na Direcção Provincial dos Serviços de Marinha o Fundo de Manutenção e Renovação do Material de Apoio à Navegação nos Portos, destinado a promover a reparação e conservação do trem naval daquela Direcção e à aquisição de novas unidades.
 
 2. O Fundo tem contabilidade própria, é gerido por uma comissão administrativa e presta contas na forma da lei.
 
@@ -302,15 +358,15 @@ C) Moçambique
 
 D) Timor
 
-###### Art. 9.º É elevada para 24000$00 a gratificação anual fixada no § 2.º do artigo 29.º do [Decreto n.º 48095](https://diariodarepublica.pt/dr/detalhe/decreto/48095-1967-138563), de 7 de Dezembro de 1967.
+Art. 9.º É elevada para 24000$00 a gratificação anual fixada no § 2.º do artigo 29.º do [Decreto n.º 48095](https://diariodarepublica.pt/dr/detalhe/decreto/48095-1967-138563), de 7 de Dezembro de 1967.
 
-###### Art. 10.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 3686361$90, destinado a reforçar a verba do capítulo 4.º, artigo 98.º, n.º 1) «Administração Geral e Fiscalização - Escolas primárias - Despesas com o pessoal - Remunerações acidentais - Remunerações a professores primários, professores de posto escolar e monitores, admitidos a título eventual», da tabela de despesa ordinária do orçamento geral em vigor, tomando como contrapartida os saldos das contas de exercícios findos:
+Art. 10.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 3686361$90, destinado a reforçar a verba do capítulo 4.º, artigo 98.º, n.º 1) «Administração Geral e Fiscalização - Escolas primárias - Despesas com o pessoal - Remunerações acidentais - Remunerações a professores primários, professores de posto escolar e monitores, admitidos a título eventual», da tabela de despesa ordinária do orçamento geral em vigor, tomando como contrapartida os saldos das contas de exercícios findos:
 
 II
 
 Disposições comuns
 
-###### Art. 11.º - 1. São introduzidas no mapa II anexo ao [Decreto n.º 125/72](https://diariodarepublica.pt/dr/detalhe/decreto/125-1972-397096), de 20 de Abril (quadro auxiliar), as seguintes alterações:
+Art. 11.º - 1. São introduzidas no mapa II anexo ao [Decreto n.º 125/72](https://diariodarepublica.pt/dr/detalhe/decreto/125-1972-397096), de 20 de Abril (quadro auxiliar), as seguintes alterações:
 
 a) Aditada a categoria de porteiro, incluída na letra T;
 
@@ -326,9 +382,9 @@ c) Elevada para a letra L a categoria de encarregado geral de transportes (Angol
 
 2. Ficam os Governos-Gerais dos Estados de Angola e Moçambique autorizados a regulamentar as condições de provimento dos lugares referidos no número anterior.
 
-###### Art. 12.º É criada no Hospital do Ultramar uma creche destinada aos filhos do seu pessoal e que ficará integrada no Serviço Social do mesmo Hospital.
+Art. 12.º É criada no Hospital do Ultramar uma creche destinada aos filhos do seu pessoal e que ficará integrada no Serviço Social do mesmo Hospital.
 
-###### Art. 13.º - 1. O provimento dos lugares de chefe de secção dos quadros privativos de finanças das províncias ultramarinas será feito por escolha entre os primeiros-oficiais de finanças que tenham completado dois anos de serviço efectivo na categoria.
+Art. 13.º - 1. O provimento dos lugares de chefe de secção dos quadros privativos de finanças das províncias ultramarinas será feito por escolha entre os primeiros-oficiais de finanças que tenham completado dois anos de serviço efectivo na categoria.
 
 2. A escolha é decidida pelo Governador da respectiva província, em face de parecer a emitir sobre mérito e qualificação dos interessados por uma comissão constituída pela forma seguinte:
 
@@ -338,18 +394,18 @@ b) Nas outras províncias ultramarinas: o chefe da Repartição Provincial de Fi
 
 3. As comissões a que se refere o número anterior emitirão o parecer tendo em atenção todos os elementos constantes dos processos individuais dos interessados, nomeadamente as informações anuais, com prioridade na categoria de primeiro-oficial, as habilitações profissionais e literárias, o cadastro disciplinar, os louvores, o desempenho de cargos superiores e tudo o mais que revele aptidão para o exercício do cargo.
 
-###### Art. 14.º - 1. Enquanto não estiverem publicados os programas dos concursos e regulamentada a frequência de estágio adequado, o acesso à categoria de director de finanças de 3.ª classe do ultramar é feito por escolha entre os funcionários candidatos obrigatórios ao respectivo concurso, nos termos da alínea a) do artigo 76.º do [Decreto n.º 125/72](https://diariodarepublica.pt/dr/detalhe/decreto/125-1972-397096), de 20 de Abril, que tenham completado dois anos de serviço efectivo na respectiva categoria ou classe.
+Art. 14.º - 1. Enquanto não estiverem publicados os programas dos concursos e regulamentada a frequência de estágio adequado, o acesso à categoria de director de finanças de 3.ª classe do ultramar é feito por escolha entre os funcionários candidatos obrigatórios ao respectivo concurso, nos termos da alínea a) do artigo 76.º do [Decreto n.º 125/72](https://diariodarepublica.pt/dr/detalhe/decreto/125-1972-397096), de 20 de Abril, que tenham completado dois anos de serviço efectivo na respectiva categoria ou classe.
 
 2. A escolha será decidida pelo Ministro do Ultramar, depois de os elementos a que se refere o artigo 71.º e seus números do [Decreto n.º 125/72](https://diariodarepublica.pt/dr/detalhe/decreto/125-1972-397096), de 20 de Abril, terem sido apreciados e qualificados, em face do que constar dos respectivos processos individuais, por uma comissão constituída pelo director-geral de Fazenda, que presidirá, por um inspector superior de Fazenda designado em despacho do Ministro do Ultramar e pelo director de serviços da Direcção-Geral de Fazenda, devendo a comissão, para efeitos de decisão, emitir parecer desenvolvido.
 
-###### Art. 15.º O acesso dos directores de finanças de 2.ª e de 3.ª classes do ultramar à classe imediata far-se-á de harmonia com o disposto no artigo 71.º e seus números do [Decreto n.º 125/72](https://diariodarepublica.pt/dr/detalhe/decreto/125-1972-397096), de 20 de Abril, devendo as qualidades dos respectivos funcionários, para efeitos de escolha, ser objecto de apreciação, nos termos do n.º 2 do artigo antecedente.
+Art. 15.º O acesso dos directores de finanças de 2.ª e de 3.ª classes do ultramar à classe imediata far-se-á de harmonia com o disposto no artigo 71.º e seus números do [Decreto n.º 125/72](https://diariodarepublica.pt/dr/detalhe/decreto/125-1972-397096), de 20 de Abril, devendo as qualidades dos respectivos funcionários, para efeitos de escolha, ser objecto de apreciação, nos termos do n.º 2 do artigo antecedente.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 10 de Julho de 1973.**
+Promulgado em 10 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

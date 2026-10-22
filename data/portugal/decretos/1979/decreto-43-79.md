@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/11700/09910994.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43-1979-382662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5f7283ff401a473b5c4ca4f4b88b80a0c689b8c0267a593af6a3c92f7457a27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12f49d7ae19482aefea175a0570bf6d43ae7ffa40ae594bbf772974ad0ed35da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bandeira
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:198095:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:378972:por
+  label: Rectificado o anexo ao presente diploma pela DECL.DD7256.18.08.1979.CR, DR.IS [190] de 18.08.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-378972
+  date: '1979-08-18'
+- type: repealed_by
+  target: pt:dre:198095:por
+  label: "Revogado pelo DEC LEI.46/92.1992.04.04.MDN, DR.IS-A [80]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1992-198095
+  date: '1992-04-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:13Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +109,15 @@ Parece, em consequência, de todo o interesse que se adopte para o Exército um 
 
 Nestes termos, o Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. São revogados os anexos A e B ao artigo 8.º do Decreto n.º 202/70, de 9 de Maio, e substituídos pelo anexo ao presente diploma e figuras em apêndice.
+Artigo único. São revogados os anexos A e B ao artigo 8.º do Decreto n.º 202/70, de 9 de Maio, e substituídos pelo anexo ao presente diploma e figuras em apêndice.
 
 Visto e aprovado em Conselho da Revolução em 11 de Abril de 1979.
 
-**Promulgado em 18 de Abril de 1979.**
+Promulgado em 18 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Estandarte Nacional para o Exército
 
@@ -141,4 +153,4 @@ A haste para manobra a cavalo terá os acessórios indispensáveis ao fim a que 
 
 7 - O padrão do estandarte nacional e dos respectivos acessórios fica depositado na Direcção do Serviço Histórico-Militar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11700/09910994.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11700/09910994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11700/09910994.pdf)

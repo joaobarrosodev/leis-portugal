@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/115-1979-364166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02a3eafb7f1c1709f677cd0b852906a64ed36d3f1f4324de8aa0a42d991fb196
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cb01942047afd03e56d4e23486a3df7472d4f98a22462bdc7946ac53dc47c73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo
+- Caracas
+- Intercâmbio Cultural
+- Portugal
+- Venezuela
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:46Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 24 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Básico de Intercâmbio Cultural entre o Governo da República Portuguesa e o Governo da República da Venezuela, assinado em Caracas, a 29 de Maio de 1978, texto em espanhol e respectiva tradução para português vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Básico de Intercâmbio Cultural entre o Governo da República Portuguesa e o Governo da República da Venezuela, assinado em Caracas, a 29 de Maio de 1978, texto em espanhol e respectiva tradução para português vai anexo ao presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 13 de Outubro de 1979.**
+Assinado em 13 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo Básico de Intercâmbio Cultural entre o Governo da República Portuguesa e Governo da República da Venezuela
 
@@ -109,11 +114,11 @@ Resolvidos a fomentar de comum acordo uma maior difusão das suas culturas e das
 
 acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes estimularão a cooperação entre as instituições culturais, educativas, artísticas e desportivas de ambos os países, sujeita esta cooperação às normas e legislação interna da cada uma das Partes.
 
-ARTIGO II
+###### ARTIGO II
 
 Para promover a cooperação prevista, ambas as Partes estimularão:
 
@@ -127,41 +132,41 @@ Para promover a cooperação prevista, ambas as Partes estimularão:
 
 5) O ensino das suas línguas através de cursos ou de outros mecanismos acordados por ambas as Partes.
 
-ARTIGO III
+###### ARTIGO III
 
 Ambas as Partes concederão bolsas de estudo de aperfeiçoamento ou de investigação, a fim de permitir que os seus nacionais iniciem ou prossigam, no território da outra, estudos e investigações ou completem a sua formação cultural, educativa, artística, científica e técnica.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes contratantes facilitarão e apoiarão negociações entre as instituições competentes, com o fim de reconhecer mutuamente os diplomas, certificados de estudos superiores, títulos e graus científicos, de as normas legais vigentes em cada país.
 
-ARTIGO V
+###### ARTIGO V
 
 Cada uma das Partes facilitará a protecção dos direitos de autor das obras culturais, educativas e artísticas de nacionais da outra Parte, de acordo com as normas legais vigentes em cada País.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Partes Contratantes fomentarão o estabelecimento e desenvolvimento de relações entre os museus, bibliotecas e arquivos dos dois países.
 
-ARTIGO VII
+###### ARTIGO VII
 
 A fim de facilitar a execução do presente Acordo, as Partes Contratantes permutarão periodicamente, por via diplomática, programas de intercâmbio cultural, os quais deverão especificar, entre outras, as obrigações de cada uma das Partes e as modalidades do seu financiamento.
 
 As Partes Contratantes acordarão, por via diplomática, a realização de reuniões para examinar os referidos programas e apreciar a execução do Acordo.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Para realização dos objectivos do presente Acordo, cada uma das Partes Contratantes concederá facilidades à importação de material proveniente da outra Parte, não destinado a fins comerciais, de acordo com a respectiva legislação.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Os diferendos ou controvérsias que possam surgir na interpretação ou aplicação do presente Acordo serão resolvidos por meios pacíficos reconhecidos pelo direito internacional.
 
-ARTIGO X
+###### ARTIGO X
 
 Cada uma das Partes Contratantes notificará a outra do cumprimento das disposições legais respectivas para a entrada em vigor do presente Acordo, o qual produzirá efeitos a partir da data da última notificação.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O presente Acordo será válido por um período de três anos, contados a partir da data da entrada em vigor, e será prorrogado automaticamente por iguais períodos, salvo se uma das Partes notificar à outra o contrário, por escrito e com seis meses de antecedência.
 
@@ -179,4 +184,4 @@ Pelo Governo da República da Venezuela:
 
 Jorge Gómez Mantellini, Encarregado do Ministério das Relações Exteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/24600/27412743.pdf))](https://files.diariodarepublica.pt/1s/1979/10/24600/27412743.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/24600/27412743.pdf)

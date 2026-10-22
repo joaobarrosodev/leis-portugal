@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/571-1976-430462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7c0140872a4da2d1197ecea52fc048d6bd3681b3b26305261e32d54732d1d74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3836e26e2cab86bb4cdead92f4c8e95c4957cc71fb6846fc7a82ffadbcfa51db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral da Contabilidade Pública
+- Encargos Gerais da Nação
+- Ministério da Agricultura e Pescas
+- Ministério da Comunicação Social
+- Ministério da Cooperação
+- Ministério da Defesa Nacional
+- Ministério da Educação e Investigação Científica
+- Ministério da Indústria e Tecnologia
+- Ministério da Justiça
+- Ministério das Obras Públicas
+- Ministério do Comércio Externo
+- Ministério dos Negócios Estrangeiros
+- Ministério dos Transportes e Comunicações
+- Orçamento
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:12Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +108,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo artigo 3.º, 1.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos, inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -143,7 +162,7 @@ Ministério da Comunicação Social
 
 Despesas dos anos de 1973 e 1974 respeitantes a outras despesas correntes, a processar pela Secretaria-Geral ... 34891$60
 
-###### Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
+Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
 
 Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
@@ -153,7 +172,7 @@ Ministério da Agricultura e Pescas
 
 Despesas do ano de 1975 referentes a outras despesas de capital, contraídas pelo Gabinete de Coordenação da Secretaria de Estado das Pescas e a satisfazer em conta da dotação inscrita no capítulo 22.º, artigo 345.º, consignada a «Outras despesas correntes», do orçamento em vigor ... 4465805$30
 
-###### Art. 3.º Ficam também autorizadas a satisfazer as quantias abaixo indicadas, pelas verbas consignadas a despesas de anos findos dos seus actuais orçamentos privativos, os seguintes serviços:
+Art. 3.º Ficam também autorizadas a satisfazer as quantias abaixo indicadas, pelas verbas consignadas a despesas de anos findos dos seus actuais orçamentos privativos, os seguintes serviços:
 
 Junta de Investigações Científicas do Ultramar
 
@@ -165,8 +184,8 @@ Encargos dos anos de 1972 e 1974 respeitantes a uma indemnização por danos cau
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota - Joaquim Jorge de Pinho Campinos - Ernesto Augusto de Melo Antunes - Álvaro Augusto Veiga de Oliveira - Eduardo Ribeiro Pereira - José Augusto Fernandes - Vítor Manuel Rodrigues Alves - João Pedro Tomás Rosa - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos.
 
-**Promulgado em 7 de Julho de 1976.**
+Promulgado em 7 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

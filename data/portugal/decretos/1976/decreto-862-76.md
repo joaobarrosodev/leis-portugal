@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55ca4c74d06d73e51f921e78cc887c8e547cbc8096b652c035bedb70238d0abb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e1096cc28009cd4506cf2d7511f9c607dc1dcd04e93bd67cb50ca1a89901fc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Alienação de BENS
 relationships:
 - type: amended_by
   target: pt:dre:628825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451218:por
+  label: "Alterado o artigo 13.º, pelo DEC LEI.194/83.17.05.1983.MJ, DR.IS [113] de 17.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1983-451218
+  date: '1983-05-17'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:141069:por
+  label: "Rectificado pela RECT.DD124.18.03.1977.PCM, DR.IS [65] de 18.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-141069
+  date: '1977-03-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:42Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +121,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O direito de preferência concedido à Administração ao abrigo dos artigos 27.º e 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é regulado pelas disposições seguintes:
+Artigo 1.º O direito de preferência concedido à Administração ao abrigo dos artigos 27.º e 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é regulado pelas disposições seguintes:
 
-###### Art. 2.º As portarias que estabelecerem o direito de preferência indicarão a pessoa colectiva ou pessoas colectivas a quem o mesmo é conferido e as entidades às quais os particulares deverão fazer a comunicação a que se refere o artigo seguinte.
+Art. 2.º As portarias que estabelecerem o direito de preferência indicarão a pessoa colectiva ou pessoas colectivas a quem o mesmo é conferido e as entidades às quais os particulares deverão fazer a comunicação a que se refere o artigo seguinte.
 
-###### Art. 3.º - 1. Os particulares que pretendam alienar imóveis abrangidos pelo direito de preferência devem comunicar a alienação pretendida à entidade competente para o efeito.
+Art. 3.º - 1. Os particulares que pretendam alienar imóveis abrangidos pelo direito de preferência devem comunicar a alienação pretendida à entidade competente para o efeito.
 
 2. A comunicação deverá conter:
 
@@ -129,11 +145,11 @@ c) A indicação do preço estipulado para a venda do imóvel ou de cada um dele
 
 7. A prova da comunicação imposta pelo n.º 1 só poderá ser feita através de recibo passado pelos serviços competentes para a sua recepção no duplicado da participação, com a menção da data da sua apresentação.
 
-###### Art. 4.º - 1. A entidade que receber a participação deverá transmiti-la desde logo aos órgãos competentes da pessoa ou pessoas colectivas que gozem do direito de preferência, se a elas não pertencer.
+Art. 4.º - 1. A entidade que receber a participação deverá transmiti-la desde logo aos órgãos competentes da pessoa ou pessoas colectivas que gozem do direito de preferência, se a elas não pertencer.
 
 2. Quando mais de uma pessoa colectiva gozar do direito de preferência, deverão decidir com urgência sobre o seu exercício, atendendo à ordem de prioridade que eventualmente tenha sido estabelecida.
 
-###### Art. 5.º - 1. Quando a participação dos particulares não contiver os elementos legalmente exigidos, a Administração solicitará as indicações complementares necessárias, mediante ofício expedido pelo registo do correio, com aviso de recepção, para a respectiva residência ou o outro local indicado para o efeito.
+Art. 5.º - 1. Quando a participação dos particulares não contiver os elementos legalmente exigidos, a Administração solicitará as indicações complementares necessárias, mediante ofício expedido pelo registo do correio, com aviso de recepção, para a respectiva residência ou o outro local indicado para o efeito.
 
 2. O ofício considera-se recebido pelo particular na data da entrega constante do aviso de recepção, ou, se não for possível a entrega, por não ser encontrada pessoa a quem seja feita, na data em que tal facto conste daquele aviso.
 
@@ -141,9 +157,9 @@ c) A indicação do preço estipulado para a venda do imóvel ou de cada um dele
 
 4. Na falta de indicação da residência ou de outro local para onde deverá ser enviada a resposta da Administração ou de procuração, exigidas na alínea a) do n.º 2 e no n.º 3 do artigo 3.º, considera-se como não tendo sido feita a participação.
 
-###### Art. 6.º O particular vendedor deverá prestar os esclarecimentos complementares solicitados pela Administração mediante participação adicional em duplicado, dirigida directamente à entidade que tenha solicitado os esclarecimentos, com observância do disposto nos n.os 4 e 7 do artigo 3.º
+Art. 6.º O particular vendedor deverá prestar os esclarecimentos complementares solicitados pela Administração mediante participação adicional em duplicado, dirigida directamente à entidade que tenha solicitado os esclarecimentos, com observância do disposto nos n.os 4 e 7 do artigo 3.º
 
-###### Art. 7.º - 1. Se a Administração desejar exercer o direito de preferência, fará a necessária comunicação ao particular, indicando o preço que oferece, se não aceitar o convencionado.
+Art. 7.º - 1. Se a Administração desejar exercer o direito de preferência, fará a necessária comunicação ao particular, indicando o preço que oferece, se não aceitar o convencionado.
 
 2. A comunicação da Administração será enviada pelo registo do correio, com aviso de recepção, de forma a poder ser recebida dentro do prazo de quarenta e cinco dias, a contar do recebimento da participação pela entidade a que se refere o n.º 1 do artigo 3.º, ou, se tiver havido pedido de esclarecimentos, a contar do recebimento da participação adicional a que se refere o artigo anterior.
 
@@ -151,7 +167,7 @@ c) A indicação do preço estipulado para a venda do imóvel ou de cada um dele
 
 4. Na falta de recebimento de comunicação da Administração dentro do prazo fixado no n.º 2, considera-se ter havido renúncia ao exercício do direito de preferência.
 
-###### Art. 8.º - 1. Se a Administração aceitar o preço convencionado na comunicação a que se refere o artigo anterior, fixará o dia, hora e local para a celebração da escritura, a realizar no prazo máximo de 90 dias, salvo o disposto nos n.os 3 e 4.
+Art. 8.º - 1. Se a Administração aceitar o preço convencionado na comunicação a que se refere o artigo anterior, fixará o dia, hora e local para a celebração da escritura, a realizar no prazo máximo de 90 dias, salvo o disposto nos n.os 3 e 4.
 
 2. A data da celebração da escritura tem de ser comunicada ao particular com uma antecedência não inferior a 10 dias.
 
@@ -159,21 +175,21 @@ c) A indicação do preço estipulado para a venda do imóvel ou de cada um dele
 
 4. A não celebração da escritura por facto imputável à Administração implica a caducidade do direito de preferência e fá-la incorrer em responsabilidade civil pelos danos causados ao particular, salva a possibilidade de prorrogação do prazo para a escritura por período não superior a 30 dias e com fundamento em motivo justificado.
 
-###### Art. 9.º - 1. Se a Administração não tiver aceitado o preço convencionado, o particular deverá participar directamente à entidade que lhe tiver feito a comunicação a que se refere o artigo 7.º se aceita o preço oferecido pela Administração.
+Art. 9.º - 1. Se a Administração não tiver aceitado o preço convencionado, o particular deverá participar directamente à entidade que lhe tiver feito a comunicação a que se refere o artigo 7.º se aceita o preço oferecido pela Administração.
 
 2. A participação deverá ser apresentada em duplicado, nos termos estabelecidos no n.º 4 do artigo 3.º, de forma a poder ser recebida dentro do prazo de 15 dias, a contar da data da entrega da comunicação ordenada no n.º 1 do artigo 7.º ou da data em que a mesma se considera feita.
 
 3. É aplicável à prova do envio da participação a que se refere o número anterior o disposto no n.º 7 do artigo 3.º
 
-###### Art. 10.º Se o particular aceitar o preço oferecido pela Administração, esta fixará e comunicará o dia, hora e local para a celebração da escritura, com observância do disposto no artigo 8.º
+Art. 10.º Se o particular aceitar o preço oferecido pela Administração, esta fixará e comunicará o dia, hora e local para a celebração da escritura, com observância do disposto no artigo 8.º
 
-###### Art. 11.º - 1. Se o particular não aceitar o preço oferecido pela Administração, seguir-se-ão os termos aplicáveis do processo de expropriação por utilidade pública.
+Art. 11.º - 1. Se o particular não aceitar o preço oferecido pela Administração, seguir-se-ão os termos aplicáveis do processo de expropriação por utilidade pública.
 
 2. Considera-se que o particular não aceita o preço oferecido pela Administração se não responder no prazo fixado no n.º 2 do artigo 9.º
 
-###### Art. 12.º Os prazos estabelecidos no presente diploma são elevados ao dobro quando sejam necessárias comunicações entre o continente e as ilhas adjacentes, ou inversamente.
+Art. 12.º Os prazos estabelecidos no presente diploma são elevados ao dobro quando sejam necessárias comunicações entre o continente e as ilhas adjacentes, ou inversamente.
 
-###### Art. 13.º - 1. Os notários não poderão celebrar escritura de transmissão a título oneroso de imóveis sujeitos ao direito de preferência previsto no artigo 1.º sem a prova de haverem sido cumpridas as formalidades legais estabelecidas para a manifestação de vontade sobre o exercício daquele direito.
+Art. 13.º - 1. Os notários não poderão celebrar escritura de transmissão a título oneroso de imóveis sujeitos ao direito de preferência previsto no artigo 1.º sem a prova de haverem sido cumpridas as formalidades legais estabelecidas para a manifestação de vontade sobre o exercício daquele direito.
 
 2. O disposto no número anterior é extensivo à prática, por outras entidades, de actos que envolvam a transmissão de bens sujeitos ao direito de preferência.
 
@@ -181,8 +197,8 @@ c) A indicação do preço estipulado para a venda do imóvel ou de cada um dele
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António de Almeida Santos - Henrique Medina Carreira - Eduardo Ribeiro Pereira.
 
-**Promulgado em 4 de Dezembro de 1976.**
+Promulgado em 4 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

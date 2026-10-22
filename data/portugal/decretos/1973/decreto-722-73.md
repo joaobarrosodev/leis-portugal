@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 302/1973, 1º Suplemento, Série I de 1973-12-31
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2568-(3) a 2568-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/30201/00030003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/722-1973-218115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 218569c9b9dca5397b7ab41c6b317353c7fe0afb8870b2ce74313cf53fdf2b4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cd2347465a32a2fef6dc6c47ba061872061571348fdd5c5ecdf6a5bc209083c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:02Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +97,9 @@ Tendo em conta o disposto no artigo 6.º e seu § 1.º do [Decreto-Lei n.º 4823
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com o empreiteiro António Capelo de Carvalho Boavida para execução da ampliação da placa de estacionamento da Base Aérea n.º 7 - S. Jacinto, pela importância de 2815880$00.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com o empreiteiro António Capelo de Carvalho Boavida para execução da ampliação da placa de estacionamento da Base Aérea n.º 7 - S. Jacinto, pela importância de 2815880$00.
 
-###### Art. 2.º O encargo mencionado no artigo anterior, a custear por conta da verba adequada do orçamento suplementar de defesa, será liquidado pelo referido conselho administrativo, da seguinte forma:
+Art. 2.º O encargo mencionado no artigo anterior, a custear por conta da verba adequada do orçamento suplementar de defesa, será liquidado pelo referido conselho administrativo, da seguinte forma:
 
 Em 1973 - 1407940$00, pelo capítulo 16.º, artigo 542.º;
 
@@ -103,8 +107,8 @@ Em 1974 - 1407940$00, e o que se apurar como saldo em 1973.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha - Mário Tello Polleri - Augusto Victor Coelho.
 
-**Promulgado em 22 de Dezembro de 1973.**
+Promulgado em 22 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

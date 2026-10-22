@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/140-1977-277820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad82fcb0814da12d7ada26359b562d0aa88d0207f336a1a004f57e49a13a3651
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d073b455b9150ad930a0f0f23262e8d7c58154dfbb32cf4535bc37f075e055f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Económica
+- Cooperação Internacional
+- Cooperação Técnica
+- Marrocos
+- Portugal
+- Rabat
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:53Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +94,15 @@ de 31 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo do Reino de Marrocos, assinado em Rabat aos 28 de Janeiro de 1977, cujos textos em francês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo do Reino de Marrocos, assinado em Rabat aos 28 de Janeiro de 1977, cujos textos em francês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - José Manuel de Medeiros Ferreira.
 
-**Assinado em 15 de Outubro de 1977.**
+Assinado em 15 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Accord de Coopération Économique et Technique entre le Gouvernement de la République Portugaise et le Gouvernement du Royaume du Maroc.
 
@@ -157,27 +164,27 @@ Acordo de Cooperação Económica e Técnica entre o Governo da República Portu
 
 O Governo da República Portuguesa e o Governo do Reino de Marrocos, no desejo de desenvolver e facilitar a cooperação económica e técnica entre os dois países, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Para a realização dos objectivos do presente Acordo, as duas Partes Contratantes decidem encorajar, em espírito de igualdade e vantagens mútuas, a cooperação económica e técnica entre os seus dois países, por forma a permitir uma completa utilização das possibilidades que derivam do progresso das suas respectivas economias.
 
-ARTIGO II
+###### ARTIGO II
 
 A fim de atingirem estes objectivos, as Partes Contratantes, reconhecendo a importância de que se reveste a cooperação económica e técnica para o desenvolvimento das suas relações económicas, favorecerão por todos os meios possíveis a instauração e o alargamento da cooperação entre as empresas, organizações e instituições económicas marroquinas e portuguesas em diferentes domínios e, em particular, na indústria, na agricultura, nos transportes, no turismo e na formação de quadros. As duas Partes Contratantes favorecerão igualmente a cooperação entre as empresas, organizações económicas e instituições marroquinas e portuguesas em terceiros mercados, atendendo às vantagens mútuas e às possibilidades de cada uma das duas Partes.
 
-ARTIGO III
+###### ARTIGO III
 
 As duas Partes Contratantes favorecerão a conclusão de acordos específicos em diferentes domínios e, nomeadamente, nos enumerados no artigo precedente.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Com a finalidade de facilitar a execução de projectos resultantes da cooperação prevista no presente Acordo, as Partes Contratantes concederão as autorizações administrativas e as facilidades necessárias, atendendo às leis e regulamentos em vigor, bem como à política económica e planos de desenvolvimento dos seus respectivos países.
 
-ARTIGO V
+###### ARTIGO V
 
 Os pagamentos decorrentes das operações realizadas no quadro do presente Acordo serão efectuados em divisas livremente convertíveis, em conformidade com as leis e regulamentos em vigor em cada um dos dois países.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Para atingir os objectivos do presente Acordo e para intensificar a cooperação económica e técnica entre os dois países, as Partes Contratantes acordam em criar uma comissão mista composta por representantes dos dois Governos.
 
@@ -191,7 +198,7 @@ Estudar os problemas suscitados pela execução do presente Acordo e as soluçõ
 
 Sugerir o desenvolvimento das relações económicas e técnicas entre os dois países, tanto no plano bilateral como multilateral, e fazer as eventuais recomendações para melhorar quantitativamente e qualitativamente a cooperação económica e técnica entre os dois países.
 
-ARTIGO VII
+###### ARTIGO VII
 
 O presente Acordo entrará em vigor na data da sua assinatura.
 

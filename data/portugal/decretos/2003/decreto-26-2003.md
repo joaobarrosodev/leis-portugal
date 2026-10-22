@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/26/2003/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/26-2003-531430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:14:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f89d2fbaa8623da18323f6a7b8e8a42c5ce66967ad309f23c09dfd48e7871553
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7115c52d28d32e55f936305a2c0a4b9f81e964ef88b080231ee94a0fd37f0b44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:14:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bulgária
-- Turismo
 - Convenção
 - Portugal
+- Turismo
 relationships: []
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:14:56Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +99,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 27 de Março de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva.
 
-**Assinado em 2 de Maio de 2003.**
+Assinado em 2 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Maio de 2003.**
+Referendado em 8 de Maio de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO DE COOPERAÇÃO NO DOMÍNIO DO TURISMO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA BULGÁRIA.
 
@@ -179,15 +179,15 @@ O fim do presente Acordo não afectará o desenvolvimento de quaisquer programas
 
 No dia da entrada em vigor do presente Acordo, o Acordo de Cooperação no Domínio do Turismo entre o Governo da República Portuguesa e o Governo da República Popular da Bulgária, assinado em Lisboa em 30 de Novembro de 1977, será considerado nulo.
 
-**Assinado, em duplicado, em Sófia aos 30 dias do mês de Março de 1999, em duas cópias originais, nas línguas portuguesa, búlgara e inglesa, sendo os três textos autênticos. Em caso de interpretação divergente, prevalecerá o texto em inglês.**
+Assinado, em duplicado, em Sófia aos 30 dias do mês de Março de 1999, em duas cópias originais, nas línguas portuguesa, búlgara e inglesa, sendo os três textos autênticos. Em caso de interpretação divergente, prevalecerá o texto em inglês.
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)
 
 Pelo Governo da República da Bulgária:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)
 
 [(ver texto em língua búlgara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)
 
@@ -267,8 +267,8 @@ In case of divergence in interpretation of the clauses of this Agreement, the En
 
 For the Government of the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)
 
 For the Government of Republic of Bulgaria:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)](https://files.diariodarepublica.pt/1s/2003/05/116a00/31393142.pdf)

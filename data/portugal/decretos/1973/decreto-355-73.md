@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/355-1973-421435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5d281ebac34ede477f273e2f46ddde1c15bf9db68421976d303611d81c4342a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d639da00d0a4886f993b0d4d4379a8ea9cd175660ebf99507f03e7940c1a4538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:229120:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:38Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ Tornando-se necessário dotar os quadros de pessoal do Hospital do Ultramar com 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Aos quadros constantes dos mapas aprovados pelo [Decreto n.º 131/70](https://diariodarepublica.pt/dr/detalhe/decreto/131-1970-229120), de 26 de Março (Regulamento do Hospital do Ultramar), são acrescentados os lugares a que se refere a relação anexa ao presente diploma com as categorias correspondentes às letras que vão indicadas.
+Artigo 1.º Aos quadros constantes dos mapas aprovados pelo [Decreto n.º 131/70](https://diariodarepublica.pt/dr/detalhe/decreto/131-1970-229120), de 26 de Março (Regulamento do Hospital do Ultramar), são acrescentados os lugares a que se refere a relação anexa ao presente diploma com as categorias correspondentes às letras que vão indicadas.
 
-###### Art. 2.º - 1. Os lugares de ingresso agora criados serão providos nos termos dos artigos 80.º, n.º 1, 91.º, n.º 4, 105.º, 107.º e 110.º, n.º 2, do [Decreto n.º 131/70](https://diariodarepublica.pt/dr/detalhe/decreto/131-1970-229120), conforme os quadros.
+Art. 2.º - 1. Os lugares de ingresso agora criados serão providos nos termos dos artigos 80.º, n.º 1, 91.º, n.º 4, 105.º, 107.º e 110.º, n.º 2, do [Decreto n.º 131/70](https://diariodarepublica.pt/dr/detalhe/decreto/131-1970-229120), conforme os quadros.
 
 2. Para provimento dos lugares de técnico farmacêutico de 3.ª classe e de adjunto técnico principal (electrotécnico) serão exigidas, como habilitações literárias, a licenciatura em Farmácia com a especialidade em análises químico-biológicas e o curso de agente técnico de engenharia electrotécnica, respectivamente.
 
@@ -103,21 +107,21 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 6. O provimento dos lugares de desenhador, fiscal de conservação e fiscal de exteriores será feito por contrato, mediante escolha do Ministro, entre indivíduos com as qualificações suficientes para o desempenho das funções.
 
-###### Art. 3.º O actual titular do lugar de fiel de depósito de 1.ª classe transita na mesma situação, independentemente de quaisquer formalidades, para o lugar de fiscal de exteriores, considerando-se empossado na data da entrada em vigor do presente diploma.
+Art. 3.º O actual titular do lugar de fiel de depósito de 1.ª classe transita na mesma situação, independentemente de quaisquer formalidades, para o lugar de fiscal de exteriores, considerando-se empossado na data da entrada em vigor do presente diploma.
 
-###### Art. 4.º O primeiro-oficial que exercer as funções de tesoureiro do conselho administrativo perceberá uma gratificação anual de 6000$00 de abono para falhas.
+Art. 4.º O primeiro-oficial que exercer as funções de tesoureiro do conselho administrativo perceberá uma gratificação anual de 6000$00 de abono para falhas.
 
-###### Art. 5.º Poderão ser concedidas bolsas de estudo, para estágios e aperfeiçoamento, ao pessoal do corpo clínico, ao pessoal dos ramos administrativo, de enfermagem e técnico auxiliar de terapêutica e diagnóstico e ainda, excepcionalmente, ao pessoal dos serviços gerais quando as funções especiais que desempenhe o aconselhem.
+Art. 5.º Poderão ser concedidas bolsas de estudo, para estágios e aperfeiçoamento, ao pessoal do corpo clínico, ao pessoal dos ramos administrativo, de enfermagem e técnico auxiliar de terapêutica e diagnóstico e ainda, excepcionalmente, ao pessoal dos serviços gerais quando as funções especiais que desempenhe o aconselhem.
 
-###### Art. 6.º A dotação dos lugares ficará condicionada às disponibilidades orçamentais do Hospital.
+Art. 6.º A dotação dos lugares ficará condicionada às disponibilidades orçamentais do Hospital.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Agosto de 1973.**
+Promulgado em 4 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -295,4 +299,4 @@ c) Pessoal assalariado ... Salário mensal
 
 3 ajudantes de cozinha ... 2400$00
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

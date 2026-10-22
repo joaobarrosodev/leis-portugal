@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-1974-406920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62f97b98e56f4c7f1708150104f374ee4df67bcf36776b434176b103da19e155
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0135b7e1cf7332b96be92b7dd20e58df172fbe409254fd132b89119ea9ffa0fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:174317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:07Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +128,13 @@ Por motivo de urgência, conforme o disposto no § 3.º do artigo 136.º da Cons
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. A Companhia de Petróleos de Angola - Petrangol, S. A. R. L., adiante designada por «Petrangol», e a Sociedade Portuguesa de Exploração de Petróleos - Angol, S. A. R. L., adiante designada por «Angol», constituídas em Associação Petrangol-Angol, adiante designada por «Associação», por contrato assinado, em 26 de Maio de 1966, adiante designado «contrato de associação», de acordo com os termos do contrato de concessão celebrado entre o Estado e a Petrangol, conforme o disposto no [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965, com as alterações introduzidas pelo [Decreto n.º 227/73](https://diariodarepublica.pt/dr/detalhe/decreto/227-1973-422180), de 12 de Maio, adiante designado por «contrato de concessão», são autorizadas a firmar um contrato de farmout, adiante designado por «contrato», com a Occidental Petroleum Corporation of Portugal, sociedade constituída segundo as leis do estado de Delaware, E. U. A., Amoco Cuanza Petroleum Company, sociedade constituída segundo as leis do estado de Delaware, E. U. A., e a Iberian Petroleum, Ltd., sociedade constituída segundo as leis do estado de Delaware, E. U. A., adiante designadas, respectivamente, «Occidental», «Amoco» e «Iberian», para a prospecção, pesquisa, desenvolvimento e exploração das substâncias referidas no n.º 1 do artigo 1.º do contrato de concessão, nas áreas marítimas da bacia do Cuanza, designadas e definidas como áreas «Q M-1» e «Q M-2» na alínea a) do n.º 2 do artigo 2.º do [Decreto n.º 227/73](https://diariodarepublica.pt/dr/detalhe/decreto/227-1973-422180), de 12 de Maio, adiante designadas «áreas do contrato».
+Artigo 1.º - 1. A Companhia de Petróleos de Angola - Petrangol, S. A. R. L., adiante designada por «Petrangol», e a Sociedade Portuguesa de Exploração de Petróleos - Angol, S. A. R. L., adiante designada por «Angol», constituídas em Associação Petrangol-Angol, adiante designada por «Associação», por contrato assinado, em 26 de Maio de 1966, adiante designado «contrato de associação», de acordo com os termos do contrato de concessão celebrado entre o Estado e a Petrangol, conforme o disposto no [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965, com as alterações introduzidas pelo [Decreto n.º 227/73](https://diariodarepublica.pt/dr/detalhe/decreto/227-1973-422180), de 12 de Maio, adiante designado por «contrato de concessão», são autorizadas a firmar um contrato de farmout, adiante designado por «contrato», com a Occidental Petroleum Corporation of Portugal, sociedade constituída segundo as leis do estado de Delaware, E. U. A., Amoco Cuanza Petroleum Company, sociedade constituída segundo as leis do estado de Delaware, E. U. A., e a Iberian Petroleum, Ltd., sociedade constituída segundo as leis do estado de Delaware, E. U. A., adiante designadas, respectivamente, «Occidental», «Amoco» e «Iberian», para a prospecção, pesquisa, desenvolvimento e exploração das substâncias referidas no n.º 1 do artigo 1.º do contrato de concessão, nas áreas marítimas da bacia do Cuanza, designadas e definidas como áreas «Q M-1» e «Q M-2» na alínea a) do n.º 2 do artigo 2.º do [Decreto n.º 227/73](https://diariodarepublica.pt/dr/detalhe/decreto/227-1973-422180), de 12 de Maio, adiante designadas «áreas do contrato».
 
 2. Os termos e condições do contrato serão previamente aprovados pelo Ministro do Ultramar.
 
 3. O contrato conformar-se-á com o contrato de concessão, o contrato de associação e as disposições deste decreto.
 
-###### Art. 2.º - 1. Os estatutos de cada uma das companhias Occidental, Amoco e Iberian conformar-se-ão com a lei portuguesa.
+Art. 2.º - 1. Os estatutos de cada uma das companhias Occidental, Amoco e Iberian conformar-se-ão com a lei portuguesa.
 
 2. Os estatutos de cada companhia e a lista completa dos respectivos accionistas serão previamente submetidos à aprovação do Ministério do Ultramar, e os estatutos que tiverem sido aprovados pelo Ministro só poderão ser alterados mediante a sua prévia e expressa autorização.
 
@@ -134,11 +166,11 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 16. Nos casos em que as companhias tiverem opção, de acordo com os termos expressos no contrato, cada uma avisará oportunamente o Governo, assim como a Associação, acerca da sua decisão quanto a essa opção.
 
-###### Art. 3.º - 1. Até adquirir o direito de participar nos trabalhos da Associação, cada uma das companhias Occidental, Amoco e Iberian recorrerá exclusivamente a financiamentos externos.
+Art. 3.º - 1. Até adquirir o direito de participar nos trabalhos da Associação, cada uma das companhias Occidental, Amoco e Iberian recorrerá exclusivamente a financiamentos externos.
 
 2. Após a data efectiva da participação nos trabalhos da Associação, cada uma das companhias participantes poderá recorrer a financiamentos internos, de acordo com a legislação aplicável em vigor ou a publicar, entendendo-se, porém, que, se a maioria das acções de qualquer delas pertencer, directa ou indirectamente, a entidades estrangeiras, essa companhia só poderá recorrer ao mercado financeiro nacional para obtenção dos fundos necessários à liquidação de bens ou serviços de origem nacional, ou para satisfazer outras obrigações, necessariamente assumidas, de pagamentos em moeda local.
 
-###### Art. 4.º - 1. Cada uma das companhias Occidental, Amoco e Iberian será responsável por e pagará os seguintes impostos, na proporção da sua quota-parte da produção total extraída e arrecadada de todos os jazigos minerais das áreas do contrato:
+Art. 4.º - 1. Cada uma das companhias Occidental, Amoco e Iberian será responsável por e pagará os seguintes impostos, na proporção da sua quota-parte da produção total extraída e arrecadada de todos os jazigos minerais das áreas do contrato:
 
 a) Imposto de produção ao Estado de Angola nos mesmos termos que se encontram estabelecidos para a Petrangol pelos n.os 1, 2 e 3 do artigo 44.º e pelo artigo 45.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965, com as alterações que lhe foram introduzidas pelos artigos 10.º e 11.º do [Decreto n.º 227/73](https://diariodarepublica.pt/dr/detalhe/decreto/227-1973-422180), de 12 de Maio;
 
@@ -146,7 +178,7 @@ b) Imposto de rendimento nos mesmos termos que se encontram estabelecidos para a
 
 2. Com vista ao cálculo do imposto de rendimento pagável de acordo com o número anterior, cada uma das companhias terá em conta o rendimento que deriva da sua participação no total da produção extraída e arrecadada de todos os jazigos minerais dentro das áreas do contrato, durante o período fiscal em causa, assim como as despesas que a companhia tenha suportado, antes ou depois da sua decisão de participar nos trabalhos da Associação, entendendo-se que as companhias não têm o direito de deduzir quaisquer despesas com juros incorridas com o financiamento das suas actividades ou participações, quer esses financiamentos tenham sido obtidos no mercado interno, quer no externo.
 
-###### Art. 5.º - 1. As obrigações e impostos a que as companhias Occidental, Amoco e Iberian ficam obrigadas por este decreto constituem a remissão de todos os outros, bem como das contribuições ou taxas devidas nas províncias ultramarinas ao Estado, às províncias ou às autarquias locais nestas situadas, sejam gerais ou especiais, e que já existam ou venham a ser criadas.
+Art. 5.º - 1. As obrigações e impostos a que as companhias Occidental, Amoco e Iberian ficam obrigadas por este decreto constituem a remissão de todos os outros, bem como das contribuições ou taxas devidas nas províncias ultramarinas ao Estado, às províncias ou às autarquias locais nestas situadas, sejam gerais ou especiais, e que já existam ou venham a ser criadas.
 
 2. Designadamente, não incidirão sobre as actividades mineiras das companhias a contribuição predial, sisa e demais impostos respeitantes a imóveis.
 
@@ -176,7 +208,7 @@ g) Será autorizada a importação, exportação e a permanência no território
 
 8. As companhias não ficarão isentas dos pagamentos de taxas ou serviços que lhes sejam efectivamente prestados e não revistam natureza fiscal.
 
-###### Art. 6.º - 1. Até à data efectiva da participação nos trabalhos da Associação, as companhias Occidental, Amoco e Iberian contribuirão, em conjunto, como um grupo e em partes iguais, com a importância total anual de 1000 contos para o Fundo de Fomento Mineiro Ultramarino.
+Art. 6.º - 1. Até à data efectiva da participação nos trabalhos da Associação, as companhias Occidental, Amoco e Iberian contribuirão, em conjunto, como um grupo e em partes iguais, com a importância total anual de 1000 contos para o Fundo de Fomento Mineiro Ultramarino.
 
 2. Após a data efectiva da participação, o montante total referido no número anterior será aumentado para 1500 contos anuais até se atingir uma participação das companhias na produção de 2,5 x 10(elevado a 6) toneladas métricas/ano e para 2000 contos para produção superior.
 
@@ -184,23 +216,23 @@ g) Será autorizada a importação, exportação e a permanência no território
 
 4. As contribuições de cada uma das companhias serão dedutíveis do rendimento bruto, para efeitos de cálculo do rendimento líquido tributável da companhia.
 
-###### Art. 7.º - 1. A fim de serem asseguradas ao Estado de Angola as vantagens geralmente usufruídas pelos principais países produtores de petróleo, fica desde já entendido que, em 31 de Dezembro de 1977, ou quando se reconhecer estar definido, na totalidade das áreas concedidas à Petrangol, ao abrigo dos Decretos n.os 46822 e 227/73, um volume de reservas recuperáveis suficientes para garantir, durante cinco anos consecutivos, uma produção anual de 5000000 m3, pode o Estado exigir a revisão das disposições contratuais que são aplicáveis às companhias Occidental, Amoco e Iberian.
+Art. 7.º - 1. A fim de serem asseguradas ao Estado de Angola as vantagens geralmente usufruídas pelos principais países produtores de petróleo, fica desde já entendido que, em 31 de Dezembro de 1977, ou quando se reconhecer estar definido, na totalidade das áreas concedidas à Petrangol, ao abrigo dos Decretos n.os 46822 e 227/73, um volume de reservas recuperáveis suficientes para garantir, durante cinco anos consecutivos, uma produção anual de 5000000 m3, pode o Estado exigir a revisão das disposições contratuais que são aplicáveis às companhias Occidental, Amoco e Iberian.
 
 2. As alterações resultantes da revisão prevista no n.º 1 serão aplicáveis, simultaneamente, ao imposto de produção e ao imposto de rendimento, bem como às disposições contratuais, conforme as regras aplicadas, no momento, nos principais países produtores de petróleo, tendo em consideração circunstâncias particulares.
 
 3. Ao serem aplicadas às companhias as disposições dos n.os 1 e 2, deverão as mesmas ser interpretadas tendo equitativamente em atenção as suas circunstâncias particulares, incluindo, sem limitação, os seus custos e a participação minoritária na produção dentro das áreas do contrato, em comparação com as reservas recuperáveis na totalidade das áreas concedidas à Petrangol.
 
-###### Art. 8.º - 1. Sem prejuízo do disposto nos números seguintes e dos fornecimentos necessários ao normal abastecimento da refinaria de Luanda, as companhias Occidental, Amoco e Iberian poderão vender, exportar ou dispor por qualquer outro modo das suas partes da produção, nos termos do contrato de concessão e normas gerais aplicáveis, gozando, nessa exportação, de isenção de direitos alfandegários e mais imposições aduaneiras, salvo o imposto estatístico de 1(por mil) ad valorem, o imposto do selo do despacho e os direitos de cais e outros pagamentos devidos por serviços prestados que não revistam natureza fiscal.
+Art. 8.º - 1. Sem prejuízo do disposto nos números seguintes e dos fornecimentos necessários ao normal abastecimento da refinaria de Luanda, as companhias Occidental, Amoco e Iberian poderão vender, exportar ou dispor por qualquer outro modo das suas partes da produção, nos termos do contrato de concessão e normas gerais aplicáveis, gozando, nessa exportação, de isenção de direitos alfandegários e mais imposições aduaneiras, salvo o imposto estatístico de 1(por mil) ad valorem, o imposto do selo do despacho e os direitos de cais e outros pagamentos devidos por serviços prestados que não revistam natureza fiscal.
 
 2. O Estado terá sempre direito de preferência de aquisição de um máximo de 37,5% das quantidades de todas as substâncias extraídas e arrecadadas para venda, determinadas nos termos estipulados para o imposto sobre a produção e sem prejuízo das entregas em espécie que venham a efectuar-se a título do referido imposto, obrigando-se apenas a fazer o necessário aviso de intenção de compra.
 
 3. Em caso de guerra ou emergência grave que afecte o abastecimento ao País das substâncias referidas no número anterior, toda a produção das companhias fica à disposição do Governo sem necessidade de qualquer formalidade, sendo, porém, as companhias compensadas equitativamente.
 
-###### Art. 9.º - 1. Sem prejuízo do contrato ou das disposições deste decreto, cada uma das companhias Occidental, Amoco e Iberian observarão as leis e regulamentos em vigor no que respeita ao exercício das suas actividades em Portugal e à utilização preferencial do pessoal, bens e serviços nacionais e, na medida em que estiverem disponíveis, os meios de transporte nacionais nos termos estabelecidos para a Petrangol no contrato de concessão e para a Petrangol e a Angol no contrato de associação.
+Art. 9.º - 1. Sem prejuízo do contrato ou das disposições deste decreto, cada uma das companhias Occidental, Amoco e Iberian observarão as leis e regulamentos em vigor no que respeita ao exercício das suas actividades em Portugal e à utilização preferencial do pessoal, bens e serviços nacionais e, na medida em que estiverem disponíveis, os meios de transporte nacionais nos termos estabelecidos para a Petrangol no contrato de concessão e para a Petrangol e a Angol no contrato de associação.
 
 2. De harmonia com o estabelecido no [Decreto-Lei n.º 478/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1971-240266), de 6 de Novembro, e legislação complementar, cada uma das companhias receberá as autorizações especiais e os benefícios estabelecidos pelo [Decreto n.º 544/73](https://diariodarepublica.pt/dr/detalhe/decreto/544-1973-412272), de 24 de Outubro, e tais autorizações e benefícios não serão alterados ou prejudicados sem prévio acordo das companhias, dado por escrito.
 
-###### Art. 10.º - 1. No caso de todas as companhias Occidental, Amoco e Iberian adquirirem o direito de participarem nos trabalhos da Associação e decidirem aceitar esta participação, serão consideradas como percentagens iniciais relativas às áreas do contrato:
+Art. 10.º - 1. No caso de todas as companhias Occidental, Amoco e Iberian adquirirem o direito de participarem nos trabalhos da Associação e decidirem aceitar esta participação, serão consideradas como percentagens iniciais relativas às áreas do contrato:
 
 Associadas:
 
@@ -224,22 +256,22 @@ Iberian ... 16 2/3
 
 4. No caso de uma ou mais, mas não todas as companhias decidirem participar nos trabalhos da Associação, a companhia ou companhias que decidirem participar sucederão pro rata na posição da companhia ou companhias que decidirem não participar e as percentagens iniciais previstas para as três companhias de acordo com o n.º 1 serão correspondentemente ajustadas.
 
-###### Art. 11.º - 1. As divergências que surjam entre o Governo e qualquer das companhias Occidental, Amoco e Iberian sobre interpretação, integração ou aplicação das disposições legais e contratuais que regulem as relações entre ambos ao abrigo e de harmonia com este decreto, serão resolvidas por um tribunal arbitral, a funcionar em Lisboa. Os árbitros julgarão segundo a equidade, sendo aplicável a lei portuguesa.
+Art. 11.º - 1. As divergências que surjam entre o Governo e qualquer das companhias Occidental, Amoco e Iberian sobre interpretação, integração ou aplicação das disposições legais e contratuais que regulem as relações entre ambos ao abrigo e de harmonia com este decreto, serão resolvidas por um tribunal arbitral, a funcionar em Lisboa. Os árbitros julgarão segundo a equidade, sendo aplicável a lei portuguesa.
 
 2. O tribunal arbitral será composto por um árbitro nomeado pelo Ministro do Ultramar, outro pela companhia ou companhias interessadas e um terceiro escolhido por acordo entre ambos ou, na falta de acordo, designado pelo Presidente do Supremo Tribunal de Justiça.
 
 3. A interposição do pedido de arbitragem terá efeito suspensivo, com a excepção de que os pagamentos então devidos ao Estado de Angola não serão suspensos.
 
-###### Art. 12.º A fim de as companhias Ocidental, Amoco e Iberian terem tempo suficiente para completar as suas operações farmout de acordo com o contrato e participarem em trabalhos adicionais de prospecção, pesquisa e desenvolvimento depois de terem adquirido o direito a participarem nos trabalhos da Associação e decidido aceitar essa participação, considera-se prorrogada até 31 de Dezembro de 1977, em relação à área do contrato, a prorrogação concedida à Petrangol de acordo com o [Decreto n.º 227/73](https://diariodarepublica.pt/dr/detalhe/decreto/227-1973-422180).
+Art. 12.º A fim de as companhias Ocidental, Amoco e Iberian terem tempo suficiente para completar as suas operações farmout de acordo com o contrato e participarem em trabalhos adicionais de prospecção, pesquisa e desenvolvimento depois de terem adquirido o direito a participarem nos trabalhos da Associação e decidido aceitar essa participação, considera-se prorrogada até 31 de Dezembro de 1977, em relação à área do contrato, a prorrogação concedida à Petrangol de acordo com o [Decreto n.º 227/73](https://diariodarepublica.pt/dr/detalhe/decreto/227-1973-422180).
 
-###### Art. 13.º As dúvidas ou omissões que surjam na interpretação ou execução do contrato, insusceptíveis de afectar os direitos das partes ou interesses legitimamente constituídos, serão resolvidos por despacho do Ministro do Ultramar, ouvidas as companhias.
+Art. 13.º As dúvidas ou omissões que surjam na interpretação ou execução do contrato, insusceptíveis de afectar os direitos das partes ou interesses legitimamente constituídos, serão resolvidos por despacho do Ministro do Ultramar, ouvidas as companhias.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 18 de Janeiro de 1974.**
+Promulgado em 18 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - B. Rebelo de Sousa.

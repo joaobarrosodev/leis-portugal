@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 40/2021, 3º Suplemento, Série I de 2021-02-26
   number: '40'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 36-(2) a 36-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/04003/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3-f/2021/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-f-2021-158507655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a8def5f0ecff3d71dd9a1cf10abb2c78c2ce797574334e9e3b39fffefb18e94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfbf49569b59f3b37ddd89e236661d16e63c22cb0839afa1292a64bd3ccd4465
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
+- Açores
 - Controlo Sanitário
-- Saúde Pública
-- Estado de Emergência
-- Isolamento Profiláctico
 - Doença Infecciosa
 - Epidemia
+- Estado de Emergência
+- Isolamento Profiláctico
 - Madeira.região Autónoma
 - Prorrogação de Prazo
-- Açores
+- Regulamentação de Atos Legislativos
+- Saúde Pública
 - Situação de Calamidade
 relationships:
 - type: amended_by
@@ -93,16 +93,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/21-a/2021/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/21-a/2021/02/25/p/dre
+- type: cites
+  target: pt:dre:153959843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155739190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158368125:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159432418:por
+  label: Revogado pelo(a) Decreto n.º 4/2021 - Diário da República n.º 50-A/2021, Série I de 2021-03-13, nos termos dos seus
+    arts. 53.º e 54.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/4-2021-159432418
+  date: '2021-03-13'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:55Z'
   warnings: []
   errors: []
 ---
@@ -137,12 +155,14 @@ O presente decreto entra em vigor às 00:00 h do dia 2 de março de 2021.
 
 Visto e aprovado em Conselho de Ministros de 26 de fevereiro de 2021. - António Luís Santos da Costa.
 
-**Assinado em 26 de fevereiro de 2021.**
+Assinado em 26 de fevereiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de fevereiro de 2021.**
+Referendado em 26 de fevereiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114022277

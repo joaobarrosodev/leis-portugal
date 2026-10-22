@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/14100/18011802.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1982-395309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1c8868e78b4895c93c8ef951b8f026b0b7cfad9b5873047b1371be789581bdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aad9dcccbfff138375e4c09d11d3379a345534336fb5fbb171cd0c5834e198b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Febre Aftosa
+- Gado Bovino
+- Gado Suíno
+- Ministro da Agricultura Comércio e Pescas
+- Vacinação
 relationships:
 - type: amended_by
   target: pt:dre:165062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:462022:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 29/92, PUBLICADO NO DR.IS-A, 49, DE 920227.\0227.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:165062:por
+  label: Revogado pelo(a) Decreto-Lei n.º 29/92 - Diário da República n.º 49/1992, Série I-A de 1992-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1992-165062
+  date: '1992-02-27'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:48Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +117,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 473/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1980-462022), de 14 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 473/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1980-462022), de 14 de Outubro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º O Ministro da Agricultura, Comércio e Pescas, sob proposta da Direcção-Geral dos Serviços Veterinários, poderá determinar a vacinação obrigatória contra a febre aftosa, nas diferentes espécies receptíveis, com a periodicidade e a extensão territorial julgadas convenientes e necessárias.
+Artigo 1.º O Ministro da Agricultura, Comércio e Pescas, sob proposta da Direcção-Geral dos Serviços Veterinários, poderá determinar a vacinação obrigatória contra a febre aftosa, nas diferentes espécies receptíveis, com a periodicidade e a extensão territorial julgadas convenientes e necessárias.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Maio de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 6 de Junho de 1982.**
+Promulgado em 6 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

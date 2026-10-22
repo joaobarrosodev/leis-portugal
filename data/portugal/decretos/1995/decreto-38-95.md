@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/38/1995/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/38-1995-691775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0a5768f45e3d4c414f337511f6cbe2b06abf985a287970320bdba0f103be23b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16574ebdefc95e3249865e8a0366f3259528a578f09d3b60302363916e6ad757
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Brasil
 - Brasília
+- Conferência dos Ministros da Justiça dos Países de Língua Oficial Portuguesa
 - Convenção
 - Cooperação Jurídica
-- Portugal
 - Países de Língua Portuguesa
-- Brasil
-- Conferência dos Ministros da Justiça dos Países de Língua Oficial Portuguesa
+- Portugal
 - Regimento
 relationships: []
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:00Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +95,19 @@ de 18 de Novembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Que Estabelece o Regimento da Conferência dos Ministros da Justiça dos Países de Língua Oficial Portuguesa para a Criação de Um Secretariado Permanente da Conferência dos Ministros da Justiça, assinado em Brasília em 27 de Outubro de 1993, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Que Estabelece o Regimento da Conferência dos Ministros da Justiça dos Países de Língua Oficial Portuguesa para a Criação de Um Secretariado Permanente da Conferência dos Ministros da Justiça, assinado em Brasília em 27 de Outubro de 1993, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1995. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso.
 
-**Assinado em 5 de Outubro de 1995.**
+Assinado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO ADICIONAL AO ACORDO DE COOPERAÇÃO QUE ESTABELECE O REGIMENTO DA CONFERÊNCIA DOS MINISTROS DA JUSTIÇA DOS PAÍSES DE LÍNGUA OFICIAL PORTUGUESA PARA A CRIAÇÃO DE UM SECRETARIADO PERMANENTE DA CONFERÊNCIA DOS MINISTROS DA JUSTIÇA.
 

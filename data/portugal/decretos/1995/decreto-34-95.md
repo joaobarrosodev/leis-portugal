@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/34/1995/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1995-548462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 199dff7e558d6c0c43f6ffb6fcad9f1ebf68dd9dc9440874d4673600ce128bd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: feec4aab2094f2e51f5604b6010c839073ea470c429371ca931f27cd76844c11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Angola
 - Centro de Ensino e Língua Portuguesa
 - Convenção
-- Língua Portuguesa
-- Portugal
-- Angola
-- Luanda
 - Cooperação Cultural
+- Língua Portuguesa
+- Luanda
+- Portugal
 relationships: []
 article_structure:
-  article_count: 24
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:51Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +94,17 @@ de 31 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Relativo ao Centro de Ensino e Língua Portuguesa de Luanda entre a República Portuguesa e a República de Angola, assinado em Luanda, a 1 de Março de 1995, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Relativo ao Centro de Ensino e Língua Portuguesa de Luanda entre a República Portuguesa e a República de Angola, assinado em Luanda, a 1 de Março de 1995, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1995. - Aníbal António Cavaco Silva - José Manuel Durão Barroso.
 
-**Assinado em 8 de Agosto de 1995.**
+Assinado em 8 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1995.**
+Referendado em 10 de Agosto de 1995.
 
 Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.
 
@@ -180,7 +180,7 @@ Pela Parte Portuguesa, José Manuel Briosa e Gala, Secretário de Estado da Coop
 
 Pela Parte Angolana, Johnny Eduardo Pinnock, Secretário de Estado da Cooperação.
 
-## ANEXO I AO PROTOCOLO RELATIVO AO CENTRO DE ENSINO E LÍNGUA PORTUGUESA DE LUANDA
+ANEXO I AO PROTOCOLO RELATIVO AO CENTRO DE ENSINO E LÍNGUA PORTUGUESA DE LUANDA
 
 ###### Artigo 1.º
 
@@ -246,7 +246,7 @@ Durante o período de cedência gratuita do direito de superfície, incluindo ev
 
 Após o decurso do prazo de cedência gratuita do direito de superfície, incluindo eventuais prorrogações, é reconhecido ao Estado Português o direito de utilização gratuita do imóvel pelo período mínimo de 25 anos, findo o qual o Estado de Angola poderá, se quiser, adquirir a propriedade do imóvel.
 
-## ANEXO II AO PROTOCOLO RELATIVO AO CENTRO DE ENSINO E LÍNGUA PORTUGUESA DE LUANDA
+ANEXO II AO PROTOCOLO RELATIVO AO CENTRO DE ENSINO E LÍNGUA PORTUGUESA DE LUANDA
 
 ###### Artigo 1.º
 
@@ -260,4 +260,4 @@ O Estado Português compromete-se a promover a disponibilização de estudos e p
 
 O Estado Português colaborará com o Estado de Angola na reinstalação das famílias que, à data da assinatura do presente Acordo, se encontrem em edifícios existentes no terreno identificado nos artigos 1.º e 2.º do anexo I e cujo direito de superfície é gratuitamente cedido pelo Estado de Angola.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/201a00/54875491.pdf))](https://files.diariodarepublica.pt/1s/1995/08/201a00/54875491.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/201a00/54875491.pdf)

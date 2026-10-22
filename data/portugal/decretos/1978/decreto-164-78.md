@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/164-1978-325495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:49:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb32b9f2d44161001dfc17994ecacc57983873feb3f839afb67e853773b18c1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fa53f2ecf92a85cfe3ffaa6fc0aefb16bfcc87b4f40c16ee88e2a6135b98df9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Crédito Especial
+- Despesas Públicas
+- Ministério das Finanças e do Plano
+- Orçamento
+- Orçamento Geral do Estado
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:392270:por
+  label: Rectificado pela DECL.DD7070.19.01.1979.PCM, DR.IS [16] de 19.01.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-392270
+  date: '1979-01-19'
 article_structure:
-  article_count: 1
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:49:45Z'
   warnings: []
   errors: []
 ---
@@ -88,45 +104,45 @@ Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diar
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 169793 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 169793 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29800/27802781.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29800/27802781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29800/27802781.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de alimento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de alimento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
 Receitas correntes: ... (Em contos)
 
-### Capítulo 03 «Taxas, multas e outras penalidades», grupo 01 «Taxas», artigo 07 «Emolumentos do Tribunal de Contas» ... 5000
+Capítulo 03 «Taxas, multas e outras penalidades», grupo 01 «Taxas», artigo 07 «Emolumentos do Tribunal de Contas» ... 5000
 
-### Capítulo 05 «Transferências», grupo 01 «Sector público», artigo 01 «Estado (CGE)» ... 38767
+Capítulo 05 «Transferências», grupo 01 «Sector público», artigo 01 «Estado (CGE)» ... 38767
 
-### Capítulo 05 «Transferências», grupo 01 «Sector público», artigo 02 «Fundos autónomos» ... 6650
+Capítulo 05 «Transferências», grupo 01 «Sector público», artigo 02 «Fundos autónomos» ... 6650
 
-### Capítulo 05 «Transferências», grupo 06 «Exterior», artigo 04 «Transferências diversas» ... 1778
+Capítulo 05 «Transferências», grupo 06 «Exterior», artigo 04 «Transferências diversas» ... 1778
 
-### Capítulo 06 «Venda de bens duradouros», grupo 03 «Outros sectores», artigo 01 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 2500
+Capítulo 06 «Venda de bens duradouros», grupo 03 «Outros sectores», artigo 01 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 2500
 
-### Capítulo 07 «Venda de serviços e bens não duradouros» grupo 10 «Diversos - Outros sectores», artigo 09 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 5000
+Capítulo 07 «Venda de serviços e bens não duradouros» grupo 10 «Diversos - Outros sectores», artigo 09 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 5000
 
 Receitas de capital: ... (Em contos)
 
-### Capítulo 09 «Venda de bens de investimentos», grupo 18 «Maquinaria e equipamento - Outros sectores», artigo 01 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 1500
+Capítulo 09 «Venda de bens de investimentos», grupo 18 «Maquinaria e equipamento - Outros sectores», artigo 01 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 1500
 
-### Capítulo 10 «Transferencias», grupo 06 «Exterior», artigo 02 «Transferências diversas» ... 288
+Capítulo 10 «Transferencias», grupo 06 «Exterior», artigo 02 «Transferências diversas» ... 288
 
 Contas de ordem: ... (Em contos)
 
-### Capítulo 15 «Contas de ordem», grupo 06 «Educação e cultura», artigo 06 «Fundo do Teatro» ... 4000
+Capítulo 15 «Contas de ordem», grupo 06 «Educação e cultura», artigo 06 «Fundo do Teatro» ... 4000
 
-### Capítulo 15 «Contas de ordem», grupo 08 «Transportes e comunicações», artigo 03 «Administração dos Portos do Douro e Leixões» ... 80000
+Capítulo 15 «Contas de ordem», grupo 08 «Transportes e comunicações», artigo 03 «Administração dos Portos do Douro e Leixões» ... 80000
 
-### Capítulo 15 «Contas de ordem», grupo 08 «Transportes e comunicações», artigo 04 «Juntas autónomas dos portos» ... 24310
+Capítulo 15 «Contas de ordem», grupo 08 «Transportes e comunicações», artigo 04 «Juntas autónomas dos portos» ... 24310
 
 ... 169793
 
-###### Art. 3.º São autorizadas as seguintes alterações no orçamento privativo na Administração dos Portos do Douro e Leixões:
+Art. 3.º São autorizadas as seguintes alterações no orçamento privativo na Administração dos Portos do Douro e Leixões:
 
 Reforços: ... (Em contos)
 
@@ -140,18 +156,18 @@ Classificação económica 54.00 «Transferências - Sector público», 01 «Fun
 
 Contrapartidas: ... (Em contos)
 
-### Capítulo 02 «Impostos indirectos», grupo 03 «Outros» ... 5000
+Capítulo 02 «Impostos indirectos», grupo 03 «Outros» ... 5000
 
-### Capítulo 03 «Taxas, multas e outras penalidades», grupo 01 «Taxas» ... 69000
+Capítulo 03 «Taxas, multas e outras penalidades», grupo 01 «Taxas» ... 69000
 
-### Capítulo 07 «Venda de serviços e bens não duradouros», grupo 08 «Diversos - Sector público», artigo 18 «Taxa de utilização do terminal petrolífero» ... 6000
+Capítulo 07 «Venda de serviços e bens não duradouros», grupo 08 «Diversos - Sector público», artigo 18 «Taxa de utilização do terminal petrolífero» ... 6000
 
 ... 80000
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro - Luís Francisco Valente de Oliveira - José Ricardo Marques da Costa.
 
-**Promulgado em 18 de Dezembro de 1978.**
+Promulgado em 18 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

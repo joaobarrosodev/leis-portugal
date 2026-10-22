@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 301/1974, 1º Suplemento, Série I de 1974-12-28
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1630-(3) a 1630-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30101/00030005.pdf
 entry_into_force_dates: []
@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/750-1974-595083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef99125f874aad3c59af964a8581dda8e87e03e7b4e472ba575809b5e2dd997d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a636f8d729e78db53b55137e5cf3797237c458841df264bdc928ad8519c17444
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Orçamento Geral do Estado
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:193271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:24Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +107,17 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 1343992858$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 1343992858$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 14.º «Secretariado-Geral da Defesa Nacional»:
+Capítulo 14.º «Secretariado-Geral da Defesa Nacional»:
 
 Despesas de 1.º estabelecimento, manutenção, funcionamento e fiscalização, nos termos do [Decreto-Lei n.º 44894](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44894-1963-193271), de 21 de Fevereiro de 1963.
 
-###### Artigo 539.º «Remunerações em numerário» ... 6500000$00
+Artigo 539.º «Remunerações em numerário» ... 6500000$00
 
-###### Artigo 540.º «Previdência social», n.º 1 «Abono de família» ... 250000$00
+Artigo 540.º «Previdência social», n.º 1 «Abono de família» ... 250000$00
 
 ... 6750000$00
 
@@ -106,7 +125,7 @@ Ministério das Finanças
 
 Secretaria de Estado do Orçamento
 
-### Capítulo 11.º «Pensões e reformas»:
+Capítulo 11.º «Pensões e reformas»:
 
 ###### Artigo 186.º «Subsídios»:
 
@@ -116,17 +135,17 @@ Alínea 1 «Pensões de aposentação e reforma» ... 350000000$00
 
 ### Capítulo 20.º «Despesas comuns»: — Artigo 315.º-A «Diferenças de remunerações a conceder no corrente ano económico» ... 60000000$00
 
-###### Artigo 316.º-B «Subsídio de Natal» ... 35000000$00
+Artigo 316.º-B «Subsídio de Natal» ... 35000000$00
 
 ... 445000000$00
 
 Ministério do Interior
 
-### Capítulo 4.º «Administração local»:
+Capítulo 4.º «Administração local»:
 
 Direcção-Geral
 
-###### Artigo 58.º «Transferências - Sector público», n.º 3 «Subsídios diversos às autarquias locais» .. 329512000$00
+Artigo 58.º «Transferências - Sector público», n.º 3 «Subsídios diversos às autarquias locais» .. 329512000$00
 
 ### Capítulo 8.º «Despesas comuns»: — Artigo 138.º-A «Diferença de remunerações a conceder no corrente ano económico» ... 200000000$00
 
@@ -138,23 +157,23 @@ Ministério da Justiça
 
 Ministério do Exército
 
-### Capítulo 3.º «Serviços de instrução»:
+Capítulo 3.º «Serviços de instrução»:
 
-###### Artigo 215.º «Transferências - Particulares»:
+Artigo 215.º «Transferências - Particulares»:
 
 N.º 1 «Subsídio do Estado para pagamento de mensalidades de alunas auxiliadas, incluindo doze universitárias» ... 290000$00
 
-### Capítulo 8.º «Encargos gerais do Ministério»:
+Capítulo 8.º «Encargos gerais do Ministério»:
 
 ###### Artigo 422.º «Deslocações»: — N.º 1 «Pessoal civil» ... 150000$00
 
-###### Artigo 433.º «Bens não duradouros»:
+Artigo 433.º «Bens não duradouros»:
 
 N.º 3 «Consumos de secretaria» ... 4500000$00
 
-###### Artigo 434.º «Conservação e aproveitamento de bens» ... 10860000$00
+Artigo 434.º «Conservação e aproveitamento de bens» ... 10860000$00
 
-###### Artigo 435.º «Despesas gerais de funcionamento»:
+Artigo 435.º «Despesas gerais de funcionamento»:
 
 N.º 1 «Encargos próprios das instalações» ... 2200000$00
 
@@ -164,23 +183,23 @@ N.º 2 «Comunicações» ... 2000000$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 2.º «Secretaria de Estado»:
+Capítulo 2.º «Secretaria de Estado»:
 
 Serviços próprios da Secretaria de Estado
 
-###### Artigo 23.º «Despesas gerais de funcionamento», n.º 4 «Comunicações» ... 8300000$00
+Artigo 23.º «Despesas gerais de funcionamento», n.º 4 «Comunicações» ... 8300000$00
 
-### Capítulo 3.º «Serviços externos do Ministério»:
+Capítulo 3.º «Serviços externos do Ministério»:
 
 Missões diplomáticas e consulados
 
-###### Artigo 52.º «Vencimentos e salários», n.º 1 «Salários do pessoal eventual» ... 21000000$00
+Artigo 52.º «Vencimentos e salários», n.º 1 «Salários do pessoal eventual» ... 21000000$00
 
-###### Artigo 56.º «Alimentação e alojamento - Em espécie» ... 1500000$00
+Artigo 56.º «Alimentação e alojamento - Em espécie» ... 1500000$00
 
-###### Artigo 62.º «Bens não duradouros», n.º 4 «Outros bens não duradouros» ... 2120000$00
+Artigo 62.º «Bens não duradouros», n.º 4 «Outros bens não duradouros» ... 2120000$00
 
-###### Artigo 64.º «Despesas gerais de funcionamento», n.º 3 «Locação de bens» ... 8000000$00
+Artigo 64.º «Despesas gerais de funcionamento», n.º 3 «Locação de bens» ... 8000000$00
 
 ... 40920000$00
 
@@ -192,13 +211,13 @@ Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 9.º «Junta de Colonização Interna»:
+Capítulo 9.º «Junta de Colonização Interna»:
 
-###### Artigo 231.º «Outras despesas correntes», n.º 1 «Administração de propriedades, nos termos do [Decreto-Lei n.º 37271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37271-1948-354909), de 31 de Dezembro de 1948» ... 750000$00
+Artigo 231.º «Outras despesas correntes», n.º 1 «Administração de propriedades, nos termos do [Decreto-Lei n.º 37271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37271-1948-354909), de 31 de Dezembro de 1948» ... 750000$00
 
 ### Capítulo 25.º «Contas de ordem»:
 
-###### Artigo 466.º «Direcção-Geral dos Serviços Pecuários»:
+Artigo 466.º «Direcção-Geral dos Serviços Pecuários»:
 
 N.º 6 «Postos zootécnicos (Miranda do Douro e Viana do Castelo)» ... 119650$00
 
@@ -206,15 +225,15 @@ N.º 6 «Postos zootécnicos (Miranda do Douro e Viana do Castelo)» ... 119650$
 
 Ministério das Comunicações
 
-### Capítulo 7.º «Direcção-Geral de Portos»:
+Capítulo 7.º «Direcção-Geral de Portos»:
 
-###### Artigo 256.º «Outras despesas correntes», n.º 1 «Serviços por conta de terceiros» ... 4200000$00
+Artigo 256.º «Outras despesas correntes», n.º 1 «Serviços por conta de terceiros» ... 4200000$00
 
 ### Capítulo 9.º «Contas de ordem»: — Artigo 260.º «Administração-Geral do Porto de Lisboa» ... 45500000$00
 
-###### Artigo 263.º «Fundo Especial de Transportes Terrestres» ... 66905208$00
+Artigo 263.º «Fundo Especial de Transportes Terrestres» ... 66905208$00
 
-###### Artigo 264.º «Juntas Autónomas dos Portos»:
+Artigo 264.º «Juntas Autónomas dos Portos»:
 
 Do Norte:
 
@@ -238,59 +257,59 @@ Do Distrito de Ponta Delgada ... 580000$00
 
 Ministério da Saúde
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 14.º «Transferências - Sector público», n.º 2 «Subsídio extraordinário para ser distribuído, mediante despacho ministerial, às instituições de saúde e assistência que dele careçam para satisfação de encargos com remunerações a pessoal» ... 48088000$00
+Artigo 14.º «Transferências - Sector público», n.º 2 «Subsídio extraordinário para ser distribuído, mediante despacho ministerial, às instituições de saúde e assistência que dele careçam para satisfação de encargos com remunerações a pessoal» ... 48088000$00
 
-###### Artigo 14.º-A «Transferências - Instituições particulares», n.º 1 «Subsídio extraordinário para ser distribuído, mediante despacho ministerial, às instituições de saúde e assistência que dele careçam para satisfação de encargos com remunerações a pessoal» ... 113368000$00
+Artigo 14.º-A «Transferências - Instituições particulares», n.º 1 «Subsídio extraordinário para ser distribuído, mediante despacho ministerial, às instituições de saúde e assistência que dele careçam para satisfação de encargos com remunerações a pessoal» ... 113368000$00
 
 ... 161456000$00
 
 ... 1343992858$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 1.º, grupo 1, artigo 1.º «Contribuição industrial» ... 424512000$00
+Capítulo 1.º, grupo 1, artigo 1.º «Contribuição industrial» ... 424512000$00
 
-### Capítulo 1.º, grupo 1, artigo 2.º «Contribuição predial» ... 200000000$00
+Capítulo 1.º, grupo 1, artigo 2.º «Contribuição predial» ... 200000000$00
 
-### Capítulo 1.º, grupo 1, artigo 3.º «Imposto profissional» ... 444800000$00
+Capítulo 1.º, grupo 1, artigo 3.º «Imposto profissional» ... 444800000$00
 
-### Capítulo 1.º, grupo 2, artigo 10.º «Imposto sobre as sucessões e doações» ... 93791000$00
+Capítulo 1.º, grupo 2, artigo 10.º «Imposto sobre as sucessões e doações» ... 93791000$00
 
-### Capítulo 1.º, grupo 2, artigo 11.º «Sisa» ... 23665000$00
+Capítulo 1.º, grupo 2, artigo 11.º «Sisa» ... 23665000$00
 
-### Capítulo 6.º, grupo 3, artigo 100.º «Serviços gerais» ... 20000000$00
+Capítulo 6.º, grupo 3, artigo 100.º «Serviços gerais» ... 20000000$00
 
-### Capítulo 7.º, grupo 9, artigo 119.º-A «Serviços diversos» ... 2120000$00
+Capítulo 7.º, grupo 9, artigo 119.º-A «Serviços diversos» ... 2120000$00
 
-### Capítulo 7.º, grupo 10, artigo 125.º «Trabalhos de conta de terceiros: Serviços portuários» ... 4200000$00
+Capítulo 7.º, grupo 10, artigo 125.º «Trabalhos de conta de terceiros: Serviços portuários» ... 4200000$00
 
-### Capítulo 7.º, grupo 10, artigo 130.º «Diversos serviços e bens não duradouros: Serviços agrícolas - Junta de Colonização Interna» ... 750000$00
+Capítulo 7.º, grupo 10, artigo 130.º «Diversos serviços e bens não duradouros: Serviços agrícolas - Junta de Colonização Interna» ... 750000$00
 
-### Capítulo 15.º, artigo 169.º «Serviços prisionais» ... 3000000$00
+Capítulo 15.º, artigo 169.º «Serviços prisionais» ... 3000000$00
 
-### Capítulo 15.º, artigo 182.º «Direcção-Geral dos Serviços Pecuários: Postos zootécnicos (Miranda do Douro e Viana do Castelo)» ... 119650$00
+Capítulo 15.º, artigo 182.º «Direcção-Geral dos Serviços Pecuários: Postos zootécnicos (Miranda do Douro e Viana do Castelo)» ... 119650$00
 
-### Capítulo 15.º, artigo 186.º «Administração-Geral do Porto de Lisboa» ... 45500000$00
+Capítulo 15.º, artigo 186.º «Administração-Geral do Porto de Lisboa» ... 45500000$00
 
-### Capítulo 15.º, artigo 189.º «Fundo Especial de Transportes Terrestres» ... 66905208$00
+Capítulo 15.º, artigo 189.º «Fundo Especial de Transportes Terrestres» ... 66905208$00
 
-### Capítulo 15.º, artigo 190.º «Juntas autónomas dos portos» ... 7880000$00
+Capítulo 15.º, artigo 190.º «Juntas autónomas dos portos» ... 7880000$00
 
 Receita extraordinária:
 
-### Capítulo 5.º, grupo 1, artigo 196.º «Serviços autónomos e empresas públicas» ... 550000$00
+Capítulo 5.º, grupo 1, artigo 196.º «Serviços autónomos e empresas públicas» ... 550000$00
 
-### Capítulo 5.º, grupo 2, artigo 198.º «Estrangeiro» ... 6200000$00
+Capítulo 5.º, grupo 2, artigo 198.º «Estrangeiro» ... 6200000$00
 
 ... 1343992858$00
 
-###### Art. 3.º São autorizadas as seguintes alterações ao orçamento privativo da Administração-Geral do Porto de Lisboa:
+Art. 3.º São autorizadas as seguintes alterações ao orçamento privativo da Administração-Geral do Porto de Lisboa:
 
 Reforços
 
@@ -298,7 +317,7 @@ Despesa ordinária
 
 Despesas correntes:
 
-###### Artigo 1.º «Vencimentos e salários»:
+Artigo 1.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -306,25 +325,25 @@ Alínea 2 «Pessoal suplementar (artigos 45.º e 100.º do [Decreto-Lei n.º 369
 
 N.º 2 «Salários do pessoal eventual» ... 4600000$00
 
-###### Artigo 5.º «Horas extraordinárias» ... 5000000$00
+Artigo 5.º «Horas extraordinárias» ... 5000000$00
 
-###### Artigo 7.º «Participações e prémios» ... 1100000$00
+Artigo 7.º «Participações e prémios» ... 1100000$00
 
-###### Artigo 10.º «Alimentação e alojamento - Compensação de encargos» ... 1000000$00
+Artigo 10.º «Alimentação e alojamento - Compensação de encargos» ... 1000000$00
 
-###### Artigo 15.º «Remunerações diversas - Previdência social»:
+Artigo 15.º «Remunerações diversas - Previdência social»:
 
 N.º 3 «Outras remunerações» ... 1700000$00
 
-###### Artigo 19.º «Bens duradouros», n.º 1 «Construções e grandes reparações» ... 800000$00
+Artigo 19.º «Bens duradouros», n.º 1 «Construções e grandes reparações» ... 800000$00
 
-###### Artigo 20.º «Bens não duradouros»:
+Artigo 20.º «Bens não duradouros»:
 
 N.º 1 «Matérias-primas e subsidiárias» ... 200000$00
 
 N.º 2 «Combustíveis e lubrificantes» ... 450000$00
 
-###### Artigo 22.º «Despesas gerais de funcionamento»:
+Artigo 22.º «Despesas gerais de funcionamento»:
 
 N.º 3 «Locação de bens» ... 500000$00
 
@@ -332,13 +351,13 @@ N.º 7 «Trabalhos especiais diversos», alínea 1 «Tráfego - Despesas com a p
 
 N.º 8 «Encargos não especificados» ... 1000000$00
 
-###### Artigo 25.º «Transferências - Instituições particulares» ... 50000$00
+Artigo 25.º «Transferências - Instituições particulares» ... 50000$00
 
-###### Artigo 27.º «Outras despesas correntes» ... 1200000$00
+Artigo 27.º «Outras despesas correntes» ... 1200000$00
 
 Despesa de capital:
 
-###### Artigo 29.º «Transferências - Sector público», n.º 2 «Fundo de melhoramentos» ... 20000000$00
+Artigo 29.º «Transferências - Sector público», n.º 2 «Fundo de melhoramentos» ... 20000000$00
 
 ... 45500000$00
 
@@ -348,7 +367,7 @@ Receita ordinária
 
 Receitas correntes:
 
-###### Artigo 5.º «Venda de serviços e bens não duradouros»:
+Artigo 5.º «Venda de serviços e bens não duradouros»:
 
 N.º 6 «Diversos - Outros sectores»:
 
@@ -362,8 +381,8 @@ Alínea 22 «Outras taxas» ... 2500000$00
 
 Vasco dos Santos Gonçalves - Manuel da Costa Brás - Francisco Salgado Zenha - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar - Mário Soares - José Augusto Fernandes - Manuel Rodrigues de Carvalho - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 26 de Dezembro de 1974.**
+Promulgado em 26 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/36/2003/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-2003-651725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:15:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 509a20b8afb78b8d816c9910520269094eed60826bcad7c2db9a98b40dcc4592
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6baa82881042bbdd25f2f8094f263003eddf3488d420bfa1d06a8c833f9056a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:15:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Angola
 - Assistência Médica
 - Assistência Medicamentosa
+- Brasil
 - Brasília
-- SIDA
+- Cabo Verde
 - Convenção
+- CPLP
+- Doença
+- Hepatite
 - Moçambique
 - Portugal
-- CPLP
-- Hepatite
-- Angola
-- Brasil
-- Cabo Verde
-- Doença
+- SIDA
 relationships: []
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:15:45Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 18 de Junho de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Luís Filipe Pereira.
 
-**Assinado em 9 de Julho de 2003.**
+Assinado em 9 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 2003.**
+Referendado em 14 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO DE COOPERAÇÃO ENTRE OS ESTADOS MEMBROS DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA SOBRE O COMBATE AO HIV/SIDA.
 
@@ -258,28 +258,28 @@ Feito e assinado em Brasília, em 30 de Julho de 2002.
 
 Pelo Governo da República de Angola:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
+[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
 
 Pelo Governo da República Federativa do Brasil:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
+[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
 
 Pelo Governo da República de Cabo Verde:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
+[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
 
 Pelo Governo da República da Guiné-Bissau:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
+[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
 
 Pelo Governo da República de Moçambique:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
+[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
+[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
 
 Pelo Governo da República Democrática de São Tomé e Príncipe:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)
+[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174a00/44664468.pdf)

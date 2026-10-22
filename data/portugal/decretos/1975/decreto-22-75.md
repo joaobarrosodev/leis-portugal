@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 18/1975, 1º Suplemento, Série I de 1975-01-22
   number: '18'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 80-(1) a 80-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/01801/00010023.pdf
 entry_into_force_dates: []
@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-1975-646162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f4f502da2830686fb0492e251871132634f516beaac683bc46bfe8317a98b0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39865267d2a51ff78aa54f78c46af728f178e9e013387ceafe81a9298216445f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Paris
+- Portugal
+- Propriedade Industrial
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:42Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 22 de Janeiro
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. aprovado para ratificação o Acto de Estocolmo da Convenção de Paris para a Protecção da Propriedade Industrial, concluído em 14 de Julho de 1967, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. aprovado para ratificação o Acto de Estocolmo da Convenção de Paris para a Protecção da Propriedade Industrial, concluído em 14 de Julho de 1967, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Vasco dos Santos Gonçalves - Victor Manuel Rodrigues Alves - Ernesto Augusto Melo Antunes - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - António de Almeida Santos - Manuel da Costa Brás - Francisco Salgado Zenha - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar - Mário Soares - José Augusto Fernandes - Manuel Rodrigues de Carvalho - José Inácio da Costa Martins - Maria de Lourdes Pintasilgo.
 
-**Assinado em 22 de Janeiro de 1975.**
+Assinado em 22 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Convention de Paris pour la protection de la propriété industrielle du 20 mars 1883, révisée à Bruxelles le 14 décembre 1900, à Washington le 2 juin 1911, à la Haye le 6 novembre 1925, à Londres le 2 juin 1934, à Lisbonne le 31 octobre 1950 et à Stockholm le 14 juillet 1967.
 
@@ -742,7 +746,7 @@ Fait à Stockholm, le 14 juillet 1967.
 
 Convenção de Paris para a Protecção da Propriedade Industrial de 20 de Março de 1883, revista em Bruxelas a 14 de Dezembro de 1900, em Washington a 2 de Junho de 1911, na Haia a 6 de Novembro de 1925, em Londres a 2 de Junho de 1934, em Lisboa a 31 de Outubro de 1958 e em Estocolmo a 14 de Julho de 1967.
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1) Os países a que se aplica a presente Convenção constituem-se em União para a protecção da propriedade industrial.
 
@@ -752,7 +756,7 @@ Convenção de Paris para a Protecção da Propriedade Industrial de 20 de Març
 
 4) Entre as patentes de invenção compreendem-se as diversas espécies de patentes industriais admitidas nas legislações dos países da União, tais como patentes de importação, patentes de aperfeiçoamento, patentes e certificados de adição, etc.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1) Os nacionais de cada um dos países da União gozarão em todos os outros países da União, no que respeita à protecção da propriedade industrial, das vantagens que as leis respectivas concedem actualmente ou venham a conceder no futuro aos nacionais, sem prejuízo dos direitos especialmente previstos na presente Convenção. Por consequência, terão a mesma protecção que estes e o mesmo recurso legal contra qualquer ofensa dos seus direitos, desde que observem as condições e formalidades impostas aos nacionais.
 
@@ -760,11 +764,11 @@ Convenção de Paris para a Protecção da Propriedade Industrial de 20 de Març
 
 3) Ressalvam-se expressamente as disposições da legislação de cada um dos países da União relativas ao processo judicial e administrativo e à competência, bem como à escolha de domicílio ou à constituição de mandatário, eventualmente exigidas pelas leis de propriedade industrial.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 São equiparados aos nacionais dos países da União os nacionais dos países a ela estranhos que estejam domiciliados ou possuam estabelecimentos industriais ou comerciais efectivos e não fictícios no território de um dos países da União.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 A) - 1) Aquele que tiver apresentado, em termos, pedido de patente de invenção, de depósito de modelo de utilidade, de desenho ou modelo industrial, de registo de marca de fábrica ou de comércio num dos países da União, ou o seu sucessor, gozará, para apresentar o pedido nos outros países, do direito de prioridade durante os prazos adiante fixados.
 
@@ -816,7 +820,7 @@ I) - 1) Os pedidos de certificados de autor de invenção apresentados num país
 
 2) Num país em que os requerentes têm o direito de requerer, à sua escolha, quer uma patente, quer um certificado de autor de invenção, o requerente de um certificado de autor de invenção beneficiará, segundo as disposições do presente artigo aplicáveis aos pedidos de patentes, do direito de prioridade baseado na apresentação de um pedido de patente de invenção, de depósito de modelo de utilidade ou de certificado de autor de invenção.
 
-###### ARTIGO 4.º-bis
+ARTIGO 4.º-bis
 
 1) As patentes requeridas nos diferentes países da União por nacionais de países da União serão independentes das patentes obtidas para a mesma invenção nos outros países, aderentes ou não à União.
 
@@ -828,15 +832,15 @@ I) - 1) Os pedidos de certificados de autor de invenção apresentados num país
 
 5) As patentes obtidas com o benefício da prioridade gozarão, nos diferentes países da União, de duração igual àquela de que gozariam se fossem pedidas ou concedidas sem o benefício da prioridade.
 
-###### ARTIGO 4.º-ter
+ARTIGO 4.º-ter
 
 O inventor tem o direito de ser como tal mencionado na patente.
 
-###### ARTIGO 4.º-quater
+ARTIGO 4.º-quater
 
 Não poderá ser recusada a concessão de uma patente e não poderá ser uma patente invalidada em virtude de a venda do produto patenteado ou obtido por um processo patenteado estar submetida a restrições ou limitações resultantes da legislação nacional.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 A) - 1) A introdução, pelo titular da patente, no país em que esta foi concedida, de objectos fabricados em qualquer dos países da União não constitui fundamento de caducidade.
 
@@ -858,13 +862,13 @@ C) - 1) Se num país o uso da marca registada for obrigatório, o registo só po
 
 D) Para o reconhecimento do direito não será exigido no produto qualquer sinal ou menção da patente, do depósito do modelo de utilidade ou desenho ou modelo industrial, ou do registo da marca de fábrica ou de comércio.
 
-###### ARTIGO 5.º-bis
+ARTIGO 5.º-bis
 
 1) Será concedida uma prorrogação de prazo, no mínimo de seis meses, para o pagamento das taxas relativas à conservação dos direitos de propriedade industrial, mediante o pagamento de uma sobretaxa, se alguma for imposta pela legislação nacional.
 
 2) Os países da União têm a faculdade de prever a revalidação das patentes de invenção caducadas em virtude de não pagamento de taxas.
 
-###### ARTIGO 5.º-ter
+ARTIGO 5.º-ter
 
 Em cada um dos países da União não serão considerados ofensivos dos direitos do titular da patente:
 
@@ -872,15 +876,15 @@ Em cada um dos países da União não serão considerados ofensivos dos direitos
 
 2) O emprego dos meios que constituem o objecto da patente na construção ou no funcionamento dos engenhos de locomoção aérea ou terrestre dos outros países da União, ou dos acessórios desses engenhos, quando estes penetrem temporária ou acidentalmente no país.
 
-###### ARTIGO 5.º-quater
+ARTIGO 5.º-quater
 
 Quando um produto for introduzido num país da União no qual exista uma patente protegendo um processo de fabrico desse produto, o titular da patente terá, em relação ao produto introduzido, todos os direitos que a legislação do país de importação lhe conceder, em virtude da patente desse processo, relativamente aos produtos fabricados no próprio país.
 
-###### ARTIGO 5.º-quinquies
+ARTIGO 5.º-quinquies
 
 Os desenhos e moldes industriais serão protegidos em todos os países da União.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1) As condições de apresentação e de registo das marcas de fábrica ou de comércio serão fixadas, em cada país da União, pela respectiva legislação nacional.
 
@@ -888,7 +892,7 @@ Os desenhos e moldes industriais serão protegidos em todos os países da União
 
 3) Uma marca regularmente registada num país da União será considerada como independente das marcas registadas nos outros países da União, incluindo o país de origem.
 
-###### ARTIGO 6.º-bis
+ARTIGO 6.º-bis
 
 1) Os países da União comprometem-se a recusar ou invalidar, quer oficiosamente, se a lei do país o permitir, quer a pedido de quem nisso tiver interesse, o registo e a proibir o uso de marca de fábrica ou de comércio que constitua reprodução, imitação ou tradução, susceptíveis de estabelecer confusão, de uma marca que a autoridade competente do país do registo ou do uso considere que nele é notoriamente conhecida como sendo já marca de uma pessoa a quem a presente Convenção aproveita e utilizada para produtos idênticos ou semelhantes. O mesmo sucederá quando a parte essencial da marca constituir reprodução de marca notoriamente conhecida ou imitação susceptível de estabelecer confusão com esta.
 
@@ -896,7 +900,7 @@ Os desenhos e moldes industriais serão protegidos em todos os países da União
 
 3) Não será fixado prazo para requerer a anulação ou a proibição de uso de marcas registadas ou utilizadas de má fé.
 
-###### ARTIGO 6.º-ter
+ARTIGO 6.º-ter
 
 1) - a) Os países da União acordam em recusar ou anular o registo e em impedir, por meio de providências adequadas, o uso, sem autorização das autoridades competentes, quer como marcas de fábrica ou de comércio, quer como elementos dessas marcas, de armas, bandeiras e outros emblemas de Estado dos países da União, distintivos e sinetes oficiais de fiscalização e de garantia por eles adoptados, bem como qualquer imitação do ponto de vista heráldico.
 
@@ -926,13 +930,13 @@ b) As disposições referidas na letra b) da alínea 1) do presente artigo são 
 
 10) As disposições precedentes não obstam a que os países exerçam a sua faculdade de recusar ou anular, pela aplicação do n.º 3.º da letra B) do artigo 6.º-quinquies, as marcas que contenham, sem autorização, armas, bandeiras e outros emblemas de Estado ou distintivos e sinetes oficiais adoptados por algum país da União, assim como sinais distintivos das organizações internacionais intergovernamentais, mencionados na alínea 1).
 
-###### ARTIGO 6.º-quater
+ARTIGO 6.º-quater
 
 1) Quando, de harmonia com a legislação de um país da União, a cessão de uma marca não seja válida sem a transmissão simultânea da empresa ou estabelecimento comercial a que a marca pertence, para que essa validade seja admitida, bastará que a parte da empresa ou do estabelecimento comercial situada nesse país seja transmitida ao cessionário com o direito exclusivo de aí fabricar ou vender os produtos assinalados pela marca cedida.
 
 2) Esta disposição não impõe aos países da União a obrigação de considerarem válida a transmissão de qualquer marca cujo uso pelo cessionário fosse, de facto, de natureza a induzir o público em erro, designadamente no que se refere à proveniência, à natureza ou às qualidades substanciais dos produtos a que a marca se aplica.
 
-###### ARTIGO 6.º-quinquies
+ARTIGO 6.º-quinquies
 
 A) - 1) Qualquer marca de fábrica ou de comércio regularmente registada no país de origem será admitida a registo e como tal protegida nos outros países da União, com as restrições a seguir indicadas. Estes países poderão, antes de procederem ao registo definitivo, exigir a junção de um certificado do registo no país de origem, passado pela autoridade competente. Não será exigida qualquer legalização deste certificado.
 
@@ -958,11 +962,11 @@ E) Em nenhum caso, todavia, a renovação do registo de uma marca no país de or
 
 F) O benefício da prioridade mantém-se em relação às marcas submetidas a registo dentro do prazo fixado no artigo 4.º, ainda que o registo no país de origem seja posterior ao termo desse prazo.
 
-###### ARTIGO 6.º-sexies
+ARTIGO 6.º-sexies
 
 Os países da União comprometem-se a proteger as marcas de serviço. Não são obrigados a prever o registo destas marcas.
 
-###### ARTIGO 6.º-septies
+ARTIGO 6.º-septies
 
 1) Se o agente ou representante do titular de uma marca num dos países da União pedir, sem autorização deste titular, o registo desta marca em seu próprio nome, num ou em vários destes países, terá o titular direito de se opor ao registo pedido ou de requerer a anulação ou, se a lei do país o permitir, a transmissão em seu benefício do referido registo, a menos que este agente ou representante justifique o seu procedimento.
 
@@ -970,11 +974,11 @@ Os países da União comprometem-se a proteger as marcas de serviço. Não são 
 
 3) As legislações nacionais têm a faculdade de prever um prazo razoável dentro do qual o titular de uma marca deverá fazer valer os direitos previstos no presente artigo.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 A natureza do produto em que a marca de fábrica ou de comércio deve ser aposta não pode, em caso algum, obstar ao registo desta.
 
-###### ARTIGO 7.º-bis
+ARTIGO 7.º-bis
 
 1) Os países da União comprometem-se a admitir a registo e a proteger as marcas colectivas pertencentes a colectividades cuja existência não seja contrária à lei do país de origem, ainda que essas colectividades não possuam estabelecimento industrial ou comercial.
 
@@ -982,11 +986,11 @@ A natureza do produto em que a marca de fábrica ou de comércio deve ser aposta
 
 3) A protecção destas marcas não poderá, porém, ser recusada a qualquer colectividade cuja existência não contraria a lei do país de origem pelo motivo de ela não se achar estabelecida no país em que a protecção é requerida ou de não se ter constituído nos termos da legislação desse país.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 O nome comercial será protegido em todos os países da União sem obrigação de registo, quer faça ou não parte de uma marca de fábrica ou de comércio.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1) O produto ilicitamente assinalado por uma marca de fábrica ou de comércio ou por um nome comercial será apreendido no acto da importação nos países da União em que essa marca ou esse nome comercial têm direito a protecção legal.
 
@@ -1000,13 +1004,13 @@ O nome comercial será protegido em todos os países da União sem obrigação d
 
 6) Se a legislação de um país não admitir a apreensão no acto da importação nem a proibição de importação nem a apreensão no interior, enquanto a legislação não for modificada naquele sentido, serão estas providências substituídas pelas acções e meios que a lei desse país assegurar em tais casos aos nacionais.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1) As disposições do artigo anterior serão aplicáveis em caso de utilização, directa ou indirecta, de uma falsa indicação relativa à proveniência do produto ou à identidade do produtor, fabricante ou comerciante.
 
 2) Será, em qualquer caso, considerado como parte legítima, quer seja pessoa física, quer moral, o produtor, fabricante ou comerciante que se ocupe da produção, fabrico ou comércio desse produto, estabelecido quer na localidade falsamente indicada como lugar de origem, na região em que essa localidade estiver situada, no país falsamente indicado ou no país em que se fizer uso da falsa indicação de proveniência.
 
-###### ARTIGO 10.º-bis
+ARTIGO 10.º-bis
 
 1) Os países da União obrigam-se a assegurar aos nacionais dos países da União protecção efectiva contra a concorrência desleal.
 
@@ -1020,13 +1024,13 @@ O nome comercial será protegido em todos os países da União sem obrigação d
 
 3.º As indicações ou afirmações cuja utilização no exercício do comércio seja susceptível de induzir o público em erro sobre a natureza, modo de fabrico, características, possibilidades de utilização ou quantidade das mercadorias.
 
-###### ARTIGO 10.º-ter
+ARTIGO 10.º-ter
 
 1) Os países da União obrigam-se a assegurar aos nacionais dos outros países da União recursos legais apropriados à repressão eficaz de todos os actos visados nos artigos 9.º, 10.º e 10.º-bis.
 
 2) Além disso, obrigam-se a adoptar providências que permitam aos sindicatos e associações de industriais, produtores e comerciantes cuja existência não for contrária às leis dos seus países promover em juízo ou junto das autoridades administrativas a repressão dos actos previstos nos artigos 9.º, 10.º e 10.º-bis, na medida em que a lei do país em que a protecção é requerida o permite aos sindicatos e associações desse país.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1) Os países da União, nos termos da sua lei interna, concederão protecção temporária às invenções patenteáveis, modelos de utilidade e desenhos e modelos industriais, bem como às marcas de fábrica ou de comércio, em relação aos produtos que figurarem nas exposições internacionais, oficiais ou oficialmente reconhecidas, organizadas no território de qualquer deles.
 
@@ -1034,7 +1038,7 @@ O nome comercial será protegido em todos os países da União sem obrigação d
 
 3) Cada país poderá exigir, para prova da identidade do objecto exposto e da data da introdução, os documentos que julgar necessários.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1) Cada um dos países da União obriga-se a estabelecer um serviço especial da propriedade industrial e uma secretaria central para informar o público acerca das patentes de invenção, de modelos de utilidade, desenhos ou modelos industriais e marcas de fábrica ou de comércio.
 
@@ -1044,7 +1048,7 @@ a) Os nomes dos titulares das patentes concedidas, com breve descrição das inv
 
 b) As reproduções das marcas registadas.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1) - a) A União tem uma Assembleia composta pelos países da União vinculados pelos artigos 13.º a 17.º
 
@@ -1108,7 +1112,7 @@ b) A Assembleia reúne-se em sessão extraordinária mediante convocação do di
 
 8) A Assembleia adopta o seu próprio regulamento interno.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1) A Assembleia tem uma Comissão Executiva.
 
@@ -1162,7 +1166,7 @@ e) Cada delegado não pode representar senão um único país e apenas em nome d
 
 10) A Comissão Executiva adopta o seu próprio regulamento interno.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1) - a) As atribuições administrativas que incumbem à União são asseguradas pela Secretaria Internacional, que sucede à Secretaria da União reunida com a Secretaria da União instituída pela Convenção Internacional para a Protecção das Obras Literárias e Artísticas.
 
@@ -1188,7 +1192,7 @@ c) O director-geral e as pessoas por ele designadas tomarão parte, sem direito 
 
 8) A Secretaria Internacional executa todas as outras funções que lhe forem atribuídas.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1) - a) A União tem um orçamento.
 
@@ -1250,7 +1254,7 @@ b) O país visado na subalínea a) e a Organização têm, cada um, o direito de
 
 8) A verificação de contas é assegurada, segundo as modalidades previstas pelo regulamento financeiro, por um ou vários países da União ou por verificadores externos, que são, com o seu consentimento, designados pela Assembleia.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 1) Podem ser apresentadas, por qualquer país membro da Assembleia, pela Comissão Executiva ou pelo director-geral, propostas de modificação dos artigos 13.º, 14.º, 15.º, 16.º e do presente artigo. Estas propostas são comunicadas por este último aos países membros da Assembleia, pelo menos seis meses antes de serem submetidas ao exame da mesma.
 
@@ -1258,7 +1262,7 @@ b) O país visado na subalínea a) e a Organização têm, cada um, o direito de
 
 3) Qualquer modificação dos artigos referidos na alínea 1) entra em vigor após a recepção, pelo director-geral, das notificações escritas de aceitação, efectuada em conformidade com as suas regras constitucionais respectivas, por parte dos três quartos dos países que eram membros da Assembleia no momento de a modificação ter sido aprovada. Qualquer alteração dos citados artigos assim aceite vincula todos os países membros da Assembleia no momento em que a modificação entrar em vigor, ou que dela se tornarem membros em data posterior; todavia, qualquer alteração que aumente as obrigações financeiras dos países da União apenas vincula, de entre estes, os que notificaram a sua aceitação à referida alteração.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1) A presente Convenção será submetida a revisões, com vista a nela se introduzirem melhoramentos susceptíveis de aperfeiçoar o sistema da União.
 
@@ -1266,11 +1270,11 @@ b) O país visado na subalínea a) e a Organização têm, cada um, o direito de
 
 3) As modificações dos artigos 13.º a 17.º são regidas pelas disposições do artigo 17.º
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Fica entendido que os países da União se reservam o direito de, separadamente, celebrar entre eles acordos particulares para a protecção da propriedade industrial, contanto que esses acordos não contrariem as disposições da presente Convenção.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 1) - a) Cada um dos países da União que assinar o presente Acto pode ratificá-lo e, se o não assinou, pode a ele aderir. Os instrumentos de ratificação e de adesão são depositados junto do director-geral.
 
@@ -1290,7 +1294,7 @@ c) Sob reserva de entrada em vigor inicial, de acordo com as disposições das s
 
 3) Relativamente a cada país da União que depositar um instrumento de ratificação ou de adesão, os artigos 18.º a 30.º entram em vigor na primeira data em que qualquer um dos grupos de artigos referidos na alínea 1), b), entra em vigor em relação a esse país, de harmonia com a alínea 2), a), b) ou c).
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 1) Qualquer país estranho à União pode aderir ao presente Acto e tornar-se, por este facto, membro da União. Os instrumentos de adesão serão depositados junto do director-geral.
 
@@ -1306,15 +1310,15 @@ b) Em relação a qualquer país estranho à União que depositar o seu instrume
 
 3) Em relação a qualquer país estranho à União que depositar o seu instrumento de adesão depois da data da entrada em vigor do presente Acto na sua totalidade, ou a menos de um mês desta data, o presente Acto entra em vigor três meses depois da data em que a sua adesão foi notificada pelo director-geral, a menos que uma data posterior tenha sido fixada no instrumento de adesão. Neste último caso, o presente Acto entra em vigor, em relação a esse país, na data por esse meio fixada.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Sob reserva das excepções possíveis previstas nos artigos 20.º, 1), b), e 28.º, 2), a ratificação ou adesão implica, de pleno direito, a aceitação de todas as cláusulas e a admissão a todas as vantagens estipuladas pelo presente Acto.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Após a entrada em vigor do presente Acto na sua totalidade, nenhum país pode aderir a Actos anteriores à presente Convenção.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 1) Qualquer país pode declarar no seu instrumento de ratificação ou de adesão ou pode informar o director-geral, por escrito, em qualquer altura, posteriormente, que a presente Convenção é aplicável a todo ou a parte dos territórios designados na declaração ou na notificação, dos quais assume a responsabilidade das relações exteriores.
 
@@ -1324,13 +1328,13 @@ Após a entrada em vigor do presente Acto na sua totalidade, nenhum país pode a
 
 b) Qualquer notificação efectuada nos termos da alínea 2) tem efeito doze meses após a sua recepção pelo director-geral.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 1) Qualquer país parte da presente Convenção compromete-se a adoptar, de acordo com a sua constituição, as medidas necessárias para assegurar a aplicação da presente Convenção.
 
 2) Entende-se que, no momento em que um país deposita o seu instrumento de ratificação ou de adesão, está em condições, de harmonia com a sua legislação interna, de tornar efectivas as disposições da presente Convenção.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 1) A presente Convenção permanece em vigor por tempo ilimitado.
 
@@ -1340,7 +1344,7 @@ b) Qualquer notificação efectuada nos termos da alínea 2) tem efeito doze mes
 
 4) A faculdade de denunciar prevista no presente artigo não pode ser exercida por nenhum país antes de expirar um prazo de cinco anos a contar da data em que se tornou membro da União.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 1) O presente Acto substitui, nas relações entre os países aos quais se aplica e na medida em que se aplica, a Convenção de Paris de 20 de Março de 1883 e os actos de revisão subsequentes.
 
@@ -1352,7 +1356,7 @@ c) De igual modo, em relação aos países aos quais nem o presente Acto, nem pa
 
 3) Os países estranhos à União que se tornarem partes do presente Acto aplicá-lo-ão em relação a qualquer país da União que não seja parte deste Acto ou que, sendo parte, tenha efectuado a declaração prevista no artigo 20.º, 1), b), i). Os ditos países consentirão que o referido país da União aplique nas suas relações com eles as disposições do Acto mais recente do qual faz parte.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 1) Qualquer diferendo entre dois ou mais países da União, relativo à interpretação ou à aplicação da presente Convenção que não seja solucionado por negociações, pode ser levado por qualquer dos países em causa perante o Tribunal Internacional de Justiça, mediante petição, de acordo com o Estatuto do Tribunal, a menos que os países em causa acordem sobre outro modo de solução. A Secretaria Internacional será informada do diferendo submetido ao Tribunal pelo país requerente; aquela dará dele conhecimento aos outros países da União.
 
@@ -1360,7 +1364,7 @@ c) De igual modo, em relação aos países aos quais nem o presente Acto, nem pa
 
 3) Qualquer país que tiver feito a declaração prevista na alínea 2) pode, a todo o momento, retirá-la, mediante notificação dirigida ao director-geral.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 1) - a) O presente Acto é assinado num só exemplar em língua francesa e depositado junto do Governo da Suécia.
 
@@ -1376,7 +1380,7 @@ c) Em caso de conflito sobre a interpretação dos diversos textos, faz fé o te
 
 5) O director-geral notificará aos Governos de todos os países da União as assinaturas, os depósitos dos instrumentos de ratificação ou de adesão e de declarações compreendidas nestes instrumentos ou efectuadas em aplicação do artigo 20.º, 1), c), a entrada em vigor de todas as disposições do presente Acto, as notificações de denúncia e as notificações feitas em aplicação do artigo 24.º
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 1) Até à entrada em funções do primeiro director-geral, as referências no presente Acto à Secretaria Internacional da Organização ou ao director-geral são consideradas como referindo-se, respectivamente, à Secretaria da União ou ao seu director.
 

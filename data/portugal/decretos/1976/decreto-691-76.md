@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/691-1976-409126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8195edcc7ee459463d773e8f7c39865f3cff21f2da870d4e2dd25874b8883eca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c412b0c5f5ae45494db8b7d9dbd2c14f1f1eb7aa06c29036cc11d4a0a00e0d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Checoslováquia
+- Convenção
+- Cooperação Bilateral
+- Cooperação Científica
+- Cooperação Cultural
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:48Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +94,15 @@ de 20 de Setembro
 
 Usando da faculdade conferida pela alínea c) do artigo 200.º da Constituição da República Portuguesa, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República Socialista da Checoslováquia, assinado em Lisboa a 12 de Junho de 1976, cujo texto em português vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República Socialista da Checoslováquia, assinado em Lisboa a 12 de Junho de 1976, cujo texto em português vai anexo ao presente decreto.
 
 Mário Soares - José Manuel de Medeiros Ferreira - Mário Augusto Sottomayor Leal Cardia.
 
-**Assinado em 10 de Setembro de 1976.**
+Assinado em 10 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO CULTURAL ENTRE A REPÚBLICA SOCIALISTA DA CHECOSLOVÁQUIA E A REPÚBLICA PORTUGUESA
 

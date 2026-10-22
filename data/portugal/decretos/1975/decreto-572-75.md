@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/572-1975-311626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 434b6e3eaef230860ddcc6a2c63aabbd749b005c290d5674feae48f490bd82e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa763fc4c286f0ae20d800f433ddeaa1681978eac2ad4b5a31518a157934f891
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo
+- Checoslováquia
+- Comércio
+- Convenção
+- Lisboa
+- Política de Cooperação
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:11Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +95,15 @@ de 6 de Outubro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Comercial a Longo Prazo entre a República Portuguesa e a República Socialista da Checoslováquia, assinado em Lisboa em 1 de Março de 1975, bem como a carta dirigida naquela data pelo Secretário de Estado do Comércio Externo e Turismo de Portugal ao Vice-Ministro do Comércio Externo da Checoslováquia, respeitante ao disposto no artigo II do Acordo em apreço, cujos textos em francês e respectivas traduções para português vão anexos ao presente decreto.
+Artigo único. É aprovado o Acordo Comercial a Longo Prazo entre a República Portuguesa e a República Socialista da Checoslováquia, assinado em Lisboa em 1 de Março de 1975, bem como a carta dirigida naquela data pelo Secretário de Estado do Comércio Externo e Turismo de Portugal ao Vice-Ministro do Comércio Externo da Checoslováquia, respeitante ao disposto no artigo II do Acordo em apreço, cujos textos em francês e respectivas traduções para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Jorge Fernando Branco de Sampaio.
 
-**Assinado em 15 de Setembro de 1975.**
+Assinado em 15 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Accord à Long Terme entre la République Portugaise et la République Socialiste Tchécoslovaque sur les changes Commerciaux.
 
@@ -198,17 +205,17 @@ Acordo Comercial a Longo Prazo entre a República Portuguesa e a República Soci
 
 O Governo da República Portuguesa e o Governo da República Socialista da Checoslováquia, animados do desejo de desenvolver e facilitar ao máximo as relações comerciais mútuas, num espírito de igualdade e de vantagens recíprocas, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Tendo em consideração o desenvolvimento actual das trocas entre Portugal e a República Socialista da Checoslováquia e tomando em conta as disposições do presente Acordo, as duas Partes Contratantes declaram a sua vontade de se esforçarem por assegurar, considerando os interesses económicos dos dois países, um desenvolvimento harmonioso das relações comerciais recíprocas, de modo a permitir a mais completa utilização das possibilidades que decorrem do progresso das respectivas economias.
 
-ARTIGO II
+###### ARTIGO II
 
 As trocas de mercadorias entre as duas Partes Contratantes efectuar-se-ão em conformidade com as disposições do Acordo Geral sobre Tarifas Aduaneiras e Comércio (GATT).
 
 Cada Parte Contratante aplicará às importações de mercadorias originárias e provenientes da outra Parte Contratante um tratamento tão favorável como o que for concedido às mercadorias similares importadas de outros países que beneficiem do tratamento de nação mais favorecida.
 
-ARTIGO III
+###### ARTIGO III
 
 O tratamento da cláusula de nação mais favorecida previsto no artigo II não se aplicará às vantagens:
 
@@ -216,13 +223,13 @@ Que uma das Partes Contratantes conceda ou venha a conceder aos países limítro
 
 Resultantes da pertença actual ou futura de uma das Partes Contratantes a uma união alfandegária ou a uma zona de comércio livre.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Os navios, equipagens, passageiros e cargas de cada uma das Partes Contratantes serão tratados nos portos e nas águas marítimas interiores e territoriais da outra Parte Contratante como os navios, equipagens, passageiros e cargas do país beneficiário do tratamento de nação mais favorecida. Estas disposições não se aplicarão às actividades que, em conformidade com a legislação de cada Parte Contratante, sejam reservadas às suas organizações ou empresas nacionais, tais como serviços de reboque nos portos, pilotagem, actividades de salvamento, cabotagem nacional e pesca.
 
 As Partes Contratantes comprometem-se a considerar como válidos todos os documentos de navegação emitidos ou aprovados pelas autoridades competentes da outra Parte Contratante, relativos ao pavilhão nacional, tonelagem, identificação dos membros da equipagem e outros relacionados com os navios e carga.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes autorizarão, em conformidade com as suas leis, regulamentações e disposições em vigor, a importação e exportação livre de direitos alfandegários, taxas e outros encargos da mesma natureza, que não tenham carácter de pagamento de serviços, de:
 
@@ -234,27 +241,27 @@ c) Objectos e mercadorias destinados a feiras e exposições, com a condição d
 
 d) Embalagens seladas, importadas para enchimento, assim como embalagens contendo objectos de importação e que devam ser devolvidas na expiração de um período acordado.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As duas Partes Contratantes, em conformidade com os acordos internacionais de que fazem parte, concederão reciprocamente todas as facilidades previstas nas respectivas legislações, necessárias para as operações efectuadas sob o regime da importação temporária e do tráfego de aperfeiçoamento no que respeita às mercadorias e produtos da outra Parte Contratante.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Os contratos relativos ao fornecimento de mercadorias e às prestações de serviços tendo por objecto o comércio externo serão concluídos, do lado português, pelas pessoas físicas e jurídicas habilitadas a exercer o comércio externo, e, do lado checoslovaco, pelas empresas de comércio externo checoslovacas, agindo como pessoas jurídicas independentes ou por outras pessoas jurídicas independentes habilitadas, segundo os regulamentos em vigor, para o exercício do comércio externo.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As duas Partes Contratantes reconhecem reciprocamente os certificados sanitários, veterinários, fitopatológicos e as análises qualitativas emanadas das instituições competentes do outro país comprovando que os produtos originários do país que emitiu os mencionados certificados ou análises correspondem às prescrições da legislação interna do país de origem.
 
-ARTIGO IX
+###### ARTIGO IX
 
 As disposições detalhadas sobre as trocas comerciais previstas no presente Acordo serão estabelecidas em protocolos anuais. As disposições respectivas serão estabelecidas sobre a base dos trabalhos da comissão mista prevista no artigo XI deste Acordo, tendo em conta o desejo das duas Partes Contratantes de facilitar e aumentar as trocas comerciais mútuas, de ano para ano, no decurso do período de validade do presente Acordo.
 
-ARTIGO X
+###### ARTIGO X
 
 As duas Partes Contratantes acordam em que os pagamentos resultantes das operações realizadas no quadro do presente Acordo serão efectuados em divisas livremente convertíveis, em conformidade com a regulamentação cambial em vigor em cada país.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As duas Partes Contratantes instituem uma comissão mista, que terá a missão de velar pelo bom funcionamento do presente Acordo, estudar todos os problemas relativos às relações comerciais entre os dois países e, especialmente, apresentar aos seus respectivos Governos propostas tendentes a facilitar e aumentar as trocas comerciais.
 
@@ -262,7 +269,7 @@ A comissão mista terá como tarefa específica a elaboração das disposições
 
 As reuniões da comissão mista terão lugar uma vez por ano, alternadamente em Praga e Lisboa.
 
-ARTIGO XII
+###### ARTIGO XII
 
 As disposições do presente Acordo serão aplicadas a partir do dia 1 de Julho de 1975 e estarão em vigor até ao dia 31 de Dezembro de 1979. Após esta última data, o presente Acordo será prorrogado tacitamente por períodos anuais, se não tiver sido denunciado por escrito com pré-aviso de três meses antes da data da expiração. A expiração do presente Acordo não terá influência sobre a validade e a realização dos contratos concluídos no seu âmbito.
 

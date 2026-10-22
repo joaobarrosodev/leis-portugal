@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/2023/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-2023-207881791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 958ed487031f3d5e06add26daa245a9786b49fac88557080921c00d3d4bed57e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1420e66431d0107527e0cc591f3757ebe4a6d56cd154b49110669245e09ab2f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - África do Sul
-- Direito Marítimo
-- Convenção
-- Embarcação de Pesca
 - Cidade do Cabo
+- Convenção
+- Direito Marítimo
+- Embarcação de Pesca
 relationships: []
 article_structure:
   article_count: 17
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:37Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 19 de janeiro de 2023. - António Luís Santos da Costa - Francisco Gonçalo Nunes André - Pedro Miguel Ferreira Jorge Cilínio - Maria do Céu de Oliveira Antunes.
 
-**Assinado em 25 de janeiro de 2023.**
+Assinado em 25 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de janeiro de 2023.**
+Referendado em 31 de janeiro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 INTERNATIONAL REGULATIONS FOR THE SAFETY OF FISHING VESSELS
 
@@ -1038,7 +1038,7 @@ Bilge pumping arrangements
 
 (b) Power bilge pumps shall be capable of giving a speed of water of at least 2 m/s through the main bilge pipe which shall have an internal diameter of at least:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 However, the actual internal diameter of the bilge main may be rounded off to the nearest standard size acceptable to the Administration.
 
@@ -1600,11 +1600,11 @@ The title of each category is intended to be typical rather than restrictive. Th
 
 Table 1 - Fire integrity of bulkheads separating adjacent spaces
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 Table 2 - Fire integrity of decks separating adjacent spaces
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 (3) Continuous "B" class ceilings or linings, in association with the relevant decks or bulkheads, may be accepted as contributing, wholly or in part, to the required insulation and integrity of a division.
 
@@ -1850,7 +1850,7 @@ Fire pumps
 
 (3) (a) The fire pumps, other than the emergency pump, shall be capable of delivering for fire-fighting purposes a quantity of water at a minimum pressure of 0.25 N/mm2, with a total capacity (Q) of at least:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 However, the total required capacity of the fire pumps need not exceed 180 m3/h.
 
@@ -1974,7 +1974,7 @@ International shore connection
 
 (2) Standard dimensions of flanges for the international shore connection shall be in accordance with the following table:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 (3) This connection shall be constructed of material suitable for 1 N/mm2 service pressure.
 
@@ -2174,7 +2174,7 @@ Fire pumps
 
 (7) The total capacity (Q) of main power-operated fire pumps shall be at least:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 (8) Where two independent power-operated fire pumps are fitted, the capacity of each pump shall not be less than 40 % of the quantity required by paragraph (7).
 
@@ -2674,7 +2674,7 @@ General requirements for lifeboats
 
 (c) Each seating position shall be clearly indicated in the lifeboat.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 (3) Access into lifeboats
 
@@ -4586,7 +4586,7 @@ APPENDIX
 
 Certificates and record of equipment
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 ATTACHMENT 1
 
@@ -4918,7 +4918,7 @@ Recommendations of the International Conference on Safety of Fishing Vessels, 19
 
 (1) The ability of the vessel to withstand the heeling effect due to the presence of water on deck should be demonstrated by a quasi-static method, with reference to figure 1, when the following condition is satisfied with the vessel in the worst operating condition:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 (2) The angle which limits area b should be equal to the flooding angle (Teta)(índice f) or 40º, whichever is the less.
 
@@ -4948,7 +4948,7 @@ K = coefficient
 
 (6) Other methods for the calculation of the effect of water on deck using the dynamic approach may be adopted.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 Figure 1 - Water on deck
 
@@ -5006,7 +5006,7 @@ Stability information provided for the vessel should include:
 
 Supplementary or alternative information which permits safe operation without recourse to calculations or rolling tests.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 (3) (a) Instructions for filling and emptying of tanks with free liquid surfaces;
 
@@ -5028,7 +5028,7 @@ Supplementary or alternative information which permits safe operation without re
 
 (2) The determination of the bow height (H(índice B)) required may be based upon the following formula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 The Administration should stipulate either of the above or other standard, considering expected sea and weather conditions in particular fishing areas.
 
@@ -6038,13 +6038,13 @@ Um calado máximo de serviço admissível deve ser aprovado pela Administração
 
 Regra 14
 
-##### Subdivisão e estabilidade em avaria
+Subdivisão e estabilidade em avaria
 
 As embarcações de comprimento igual ou superior a 100 m em que o número total de pessoas embarcadas seja igual ou superior a 100, devem poder, a contento da Administração, manter-se a flutuar com estabilidade positiva após alagamento de um qualquer compartimento considerado avariado, tendo em conta o tipo de embarcação, o serviço a que se destina e a zona de operação (12).
 
 ### CAPÍTULO IV — Máquinas e instalações elétricas e espaços de máquinas sem assistência permanente
 
-# PARTE A — Disposições gerais
+## PARTE A — Disposições gerais
 
 Regra 1
 
@@ -6132,7 +6132,7 @@ Espaços de máquinas sem assistência permanente
 
 (10) As embarcações devem dispor de documentação que a Administração considere satisfatória para demonstrar que está em condições de funcionar com espaços de máquinas sem assistência permanente.
 
-# PARTE B — Instalações das máquinas
+## PARTE B — Instalações das máquinas
 
 (Ver também a regra 3.)
 
@@ -6258,7 +6258,7 @@ Meios de esgoto
 
 (b) As bombas de esgoto motorizadas devem ser capazes de fornecer uma velocidade de água de, pelo menos, 2 m/s através do coletor de esgoto principal, cujo diâmetro interno deve ser, pelo menos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 No entanto, o atual diâmetro interno do coletor de esgoto principal pode ser arredondado ao tamanho normalizado mais próximo, desde que tal seja aceite pela Administração.
 
@@ -6336,7 +6336,7 @@ Sistemas de refrigeração para conservação das capturas
 
 (7) Devem ser afixadas a bordo da embarcação instruções adequadas sobre o funcionamento em segurança dos sistemas de refrigeração e procedimentos de emergência.
 
-# PARTE C — Instalações elétricas
+## PARTE C — Instalações elétricas
 
 (Ver também a regra 3.)
 
@@ -6478,7 +6478,7 @@ Precauções contra descargas elétricas, incêndios e outros acidentes de orige
 
 (11) Devem ser montados para-raios em todos os mastros e mastaréus de madeira. Nas embarcações construídas com materiais não condutores, os para-raios devem ser ligados por condutores adequados a uma placa de cobre fixada no casco da embarcação bem abaixo da linha de flutuação.
 
-# PARTE D — Espaços de máquinas sem assistência permanente
+## PARTE D — Espaços de máquinas sem assistência permanente
 
 (Ver também a regra 3.)
 
@@ -6588,7 +6588,7 @@ Deve ser instalado um sistema de segurança para que qualquer falha grave no fun
 
 (Ver também a regra 19 do capítulo iv.)
 
-# PARTE A — Disposições gerais
+## PARTE A — Disposições gerais
 
 Regra 1
 
@@ -6692,7 +6692,7 @@ ou que contenham caldeiras alimentadas com combustível líquido ou unidades de 
 
 (15) Espaços de máquinas são os espaços de máquinas da categoria A e todos os outros espaços ocupados por máquinas propulsoras, caldeiras, unidades de combustível líquido, máquinas a vapor e motores de combustão interna, geradores e maquinaria elétrica principal, estações de embarque de combustível, máquinas de refrigeração, estabilização, ventilação e climatização e espaços similares, bem como os troncos de acesso a estes espaços.
 
-# PARTE B — Medidas de proteção contra incêndios aplicáveis às embarcações de comprimento igual ou superior a 60 metros
+## PARTE B — Medidas de proteção contra incêndios aplicáveis às embarcações de comprimento igual ou superior a 60 metros
 
 Regra 3
 
@@ -6810,11 +6810,11 @@ Pretende-se que a denominação de cada categoria seja representativa e não res
 
 Tabela 1 - Resistência ao fogo das anteparas que separam espaços adjacentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 Tabela 2 - Resistência ao fogo dos pavimentos que separam espaços adjacentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 Notas. - Aplicáveis às tabelas 1 e 2, conforme apropriado.
 
@@ -7076,7 +7076,7 @@ Bombas de incêndios
 
 (3) (a) As bombas de incêndio que não sejam bombas de emergência devem ser capazes de debitar, para efeitos de combate a incêndio, um caudal de água a uma pressão mínima de 0,25 N/mm2, com um caudal total (Q), pelo menos, de:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 No entanto, não é necessário que o caudal total das bombas de incêndio seja superior a 180 m3/h.
 
@@ -7200,7 +7200,7 @@ União internacional de ligação a terra
 
 (2) As flanges da união internacional de ligação a terra devem estar de acordo com as dimensões normalizadas especificadas na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 (3) Esta união deve ser construída de material adequado e deve ser concebida para pressão de serviço de 1 N/mm2.
 
@@ -7234,7 +7234,7 @@ Aceitação de equipamento suplente
 
 Sempre que for previsto, na presente parte, um determinado tipo de material, aparelho, agente extintor ou dispositivo, qualquer outro tipo de material, etc., pode ser autorizado desde que a Administração considere que a sua eficácia não é inferior.
 
-# PARTE C — Medidas de proteção contra incêndios aplicáveis às embarcações de comprimento igual ou superior a 45 metros, mas inferior a 60 metros
+## PARTE C — Medidas de proteção contra incêndios aplicáveis às embarcações de comprimento igual ou superior a 45 metros, mas inferior a 60 metros
 
 Regra 28
 
@@ -7398,7 +7398,7 @@ Bombas de incêndios
 
 (7) O caudal total (Q) das bombas de incêndio principais a motor deve ser, pelo menos, de:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 (8) Quando estiverem instaladas duas bombas de incêndio a motor independentes, o caudal de cada bomba não deve ser inferior a 40 % da quantidade exigida nos termos do n.º 7.
 
@@ -7558,7 +7558,7 @@ Para a segurança da tripulação, devem existir escadas e escadas de mão de ta
 
 ### CAPÍTULO VII — Meios e dispositivos de salvação
 
-# PARTE A — Disposições gerais
+## PARTE A — Disposições gerais
 
 Regra 1
 
@@ -7620,7 +7620,7 @@ Testes de produção
 
 A Administração deve exigir que os meios de salvação sejam submetidos a testes de produção na medida em que sejam necessários para garantir que os meios de salvação são fabricados em conformidade com os padrões e protótipos aprovados.
 
-# PARTE B — Requisitos das embarcações
+## PARTE B — Requisitos das embarcações
 
 Regra 5
 
@@ -7844,7 +7844,7 @@ As unidades de libertação hidrostática devem ser substituídas quando atingir
 
 (9) Nos casos de embarcações em que a natureza das operações de pesca possa dificultar o cumprimento dos requisitos previstos nos n.os 7 e 8, a Administração pode permitir prorrogar os intervalos das revisões periódicas para 24 meses, desde que considere que os aparelhos são fabricados e mantidos de modo a permanecerem em condições satisfatórias até ao próximo período de revisão.
 
-# PARTE C — Requisitos dos meios de salvação
+## PARTE C — Requisitos dos meios de salvação
 
 Regra 17
 
@@ -7888,7 +7888,7 @@ Requisitos gerais aplicáveis às baleeiras salva-vidas
 
 (c) Cada lugar sentado deve estar claramente indicado na baleeira salva-vidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 (3) Acesso às baleeiras salva-vidas
 
@@ -9264,7 +9264,7 @@ Condições de frio; e
 
 ### CAPÍTULO IX — Radiocomunicações
 
-# PARTE A — Aplicação e definições
+## PARTE A — Aplicação e definições
 
 Regra 1
 
@@ -9356,7 +9356,7 @@ Toda a embarcação, enquanto estiver no mar, deve poder:
 
 (i) Transmitir e receber comunicações ponte a ponte.
 
-# PARTE B — Requisitos aplicáveis aos navios
+## PARTE B — Requisitos aplicáveis aos navios
 
 Regra 5
 
@@ -9784,7 +9784,7 @@ Visibilidade da ponte de navegação
 
 (3) No caso de embarcações de conceção não convencional que, na opinião da Administração, não cumpram com o disposto na presente regra, devem estar equipadas com dispositivos que assegurem um nível de visibilidade que seja tão próximo quanto possível dos prescritos na presente regra.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 ## ANEXO 1
 
@@ -10110,7 +10110,7 @@ K = coeficiente
 
 (6) Podem ser adotados outros métodos para o cálculo do efeito da água no convés utilizando a abordagem dinâmica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 Figura 1 - Água no convés
 
@@ -10168,7 +10168,7 @@ As informações de estabilidade fornecidas à embarcação devem incluir:
 
 Informação complementar ou alternativa que permita um funcionamento seguro sem recurso a cálculos ou testes de balanço transversal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 3 (a) Instruções para enchimento e vazamento de tanques com superfícies líquidas livres;
 
@@ -10198,7 +10198,7 @@ L é o comprimento da embarcação em metros conforme definido na regra I/2(5); 
 
 K(índice 1) e K(índice 2) são os coeficientes que dependem das áreas de operação e L como se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0001000300.pdf)
 
 A Administração deve estipular qualquer uma das normas acima ou outra, considerando as condições esperadas do mar e do tempo em áreas de pesca em particular.
 
@@ -10521,3 +10521,5 @@ Todas as dimensões correspondem à linha máxima de flutuação de serviço.
 (66) Ver o apêndice iv da Recomendação sobre a Estabilidade Intacta de Embarcações de Pesca, adotada pela Organização através da resolução A.168(ES.IV).
 
 Este documento replica o formulário em inglês apenas da cópia autêntica certificada do texto consolidado das regras anexas ao Protocolo de Torremolinos de 1993 relativo à Convenção Internacional de Torremolinos para a Segurança das Embarcações de Pesca de 1977, na redação conferida pelo Acordo da Cidade do Cabo de 2012, cujo original está depositado junto do Secretário-Geral da Organização Marítima Internacional.
+
+116124024

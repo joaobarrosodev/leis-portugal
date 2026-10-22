@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/143-1979-365741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd72690a18abe2163ee02b1da2fe88f1b3257d4a79c5a77bebee881c1f10bd0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8220058ac3dd659131213a20d452fd567b9d57f354bd886faf45d73a3b52ff4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil Internacional
+- Convenção
+- Montreal
+- Navegação Aérea
+- Organização Internacional da Aviação Civil
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:532444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532444:por
+  label: "Estendida ao território de Macau a aplicação da Convenção pelo DEC.186/99.1999.08.28.PR, DR.IS-A [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/186-1999-532444
+  date: '1999-08-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:18Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +102,15 @@ de 28 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Protocolo referente ao Texto Autêntico Quadrilingue da Convenção sobre Aviação Civil Internacional, concluído em Montreal em 30 de Setembro de 1977, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para ratificação o Protocolo referente ao Texto Autêntico Quadrilingue da Convenção sobre Aviação Civil Internacional, concluído em Montreal em 30 de Setembro de 1977, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 30 de Novembro de 1979.**
+Assinado em 30 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Protocol on the Authentic Quadrilingual Text of the Convention on International Civil Aviation (Chicago, 1944).
 
@@ -199,15 +210,15 @@ Considerando que, ao elaborar tal disposição, deverão ser tomadas em consider
 
 acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 O texto em língua russa da Convenção e respectivas emendas, anexo ao presente Protocolo, conjuntamente com o texto da Convenção e respectivas emendas nas línguas espanhola, francesa e inglesa, constitui o texto igualmente autêntico nas quatro línguas.
 
-ARTIGO II
+###### ARTIGO II
 
 Se um Estado parte no presente Protocolo tiver ratificado, ou vier a ratificar, qualquer emenda à Convenção, em conformidade com o artigo 94.º (a) da mesma, considerar-se-á que o texto de tal emenda, nas línguas espanhola, francesa, inglesa e russa, se refere ao texto igualmente autêntico nas quatro línguas. resultante do presente Protocolo.
 
-ARTIGO III
+###### ARTIGO III
 
 1) Os Estados Membros da Organização da Aviação Civil Internacional poderão tornar-se partes no presente Protocolo mediante:
 
@@ -223,31 +234,31 @@ c) Aceitação.
 
 4) A adesão ao presente Protocolo ou a sua ratificação ou aprovação serão consideradas como aceitação do mesmo.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1) O presente Protocolo entrará em vigor trinta dias após a data em que doze Estados, em conformidade com as disposições do artigo III, o tenham assinado, sem reserva de aceitação, ou o tenham aceite, e após a entrada em vigor da emenda à disposição final da Convenção que estabelece a igual autenticidade do texto da Convenção em língua russa.
 
 2) No que se refere a qualquer Estado que posteriormente se torne parte no presente Protocolo, em conformidade com o artigo III, o presente Protocolo entrará em vigor na data da sua assinatura, sem reserva de aceitação, ou na data da sua aceitação.
 
-ARTIGO V
+###### ARTIGO V
 
 A adesão de um Estado à Convenção após a entrada em vigor do presente Protocolo será considerada como aceitação do presente Protocolo.
 
-ARTIGO VI
+###### ARTIGO VI
 
 A aceitação do presente Protocolo por um Estado não será considerada como ratificação por esse mesmo Estado de qualquer emenda à Convenção.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Imediatamente após a entrada em vigor do presente Protocolo, o Governo dos Estados Unidos da América registá-lo-á junto das Nações Unidas e da Organização da Aviação Civil Internacional.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1) O presente Protocolo permanecerá em vigor enquanto vigorar a Convenção.
 
 2) O presente Protocolo deixará de estar em vigor, para um determinado Estado, apenas quando esse Estado deixar de ser parte na Convenção.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O Governo dos Estados Unidos da América notificará todos os Estados Membros da Organização da Aviação Civil Internacional, e a própria Organização do seguinte:
 
@@ -257,7 +268,7 @@ b) Depósitos de quaisquer instrumentos de aceitação e datas dos mesmos;
 
 c) Datas da entrada em vigor do presente Protocolo, em conformidade com a disposição do prágrafo 1) do artigo IV.
 
-ARTIGO X
+###### ARTIGO X
 
 O presente Protocolo, redigido nas línguas espanhola, francesa, inglesa e russa, cada um dos textos fazendo igualmente fé, será depositado nos arquivos do Governo dos Estados Unidos da América, o qual enviará cópias autenticadas aos Governos dos Estados Membros da Organização da Aviação Civil Internacional.
 

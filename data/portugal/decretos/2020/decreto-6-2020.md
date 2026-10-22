@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/2020/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-2020-145714399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd0ecf0f526d86039123fc0409fe98a84c4cd101ccd0e25524ea493494b8e114
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a115ee39fe13776224abdfef5cc6b608ebfda15d32f7b580761b11041bdcb072
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,23 +70,23 @@ subjects:
 - Autoridade Nacional
 - Autoridade Nacional de Segurança
 - Convenção
-- Portugal
+- Croácia
 - Documentação Classificada
 - Informação
+- Portugal
 - Segurança da Informação
 - Zagreb
-- Croácia
 relationships: []
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:31Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +107,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de outubro de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - Mariana Guimarães Vieira da Silva.
 
-**Assinado em 7 de outubro de 2020.**
+Assinado em 7 de outubro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de outubro de 2020.**
+Referendado em 9 de outubro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA CROÁCIA SOBRE A PROTEÇÃO MÚTUA DE INFORMAÇÃO CLASSIFICADA
 
@@ -163,7 +163,7 @@ Para efeitos do presente Acordo:
 
 As Partes acordam que os seguintes graus de classificação de segurança são equivalentes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf))](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf)
 
 ###### Artigo 4.º — Autoridades Nacionais de Segurança
 
@@ -345,9 +345,9 @@ Jorge Silva Lopes, Embaixador de Portugal.
 
 Pela República da Croácia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf))](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf), Diretora do Gabinete do Conselho Nacional de Segurança.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf), Diretora do Gabinete do Conselho Nacional de Segurança.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf))](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF CROATIA ON MUTUAL PROTECTION OF CLASSIFIED INFORMATION
 
@@ -401,7 +401,7 @@ Security Classification Levels
 
 The Parties agree that the following security classification levels are equivalent:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf))](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf)
 
 Article 4
 
@@ -609,4 +609,6 @@ Jorge Silva Lopes, Ambassador of Portugal.
 
 For the Republic of Croatia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf))](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf), Director of the Office of the National Security Council.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/10/20300/0000800025.pdf), Director of the Office of the National Security Council.
+
+113630001

@@ -48,40 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/122-1981-561822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a80ca9f2eda673a2bf47efbe21527aec7a3e16bb8657aaa99e97218845c1195
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a81d5a832f8469e136b018319eed95c298d2c20d2b6adc9cebf4d33679e6cad9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Licenciatura
+- Medicina
+- Plano de Estudos
+- Universidade de Coimbra
+- Universidade de Lisboa
+- Universidade do Porto
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:549410:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:231299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325279:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:600688:por
+  label: Rectificado pela DECL.DD5923.03.02.1982.PCM, DR.IS [38] de 15.02.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-600688
+  date: '1982-02-03'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:52Z'
   warnings: []
   errors: []
 ---
@@ -142,11 +170,11 @@ A estrutura curricular do curso de licenciatura em Medicina e as regras gerais p
 
 Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo.
 
-**Promulgado em 25 de Setembro de 1981.**
+Promulgado em 25 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Estrutura curricular geral do curso de licenciatura em Medicina
 

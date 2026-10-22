@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/18/2009/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/18-2009-494000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2b9743b943d7193c5c08623b5fbfd340b31fdb7989a9a08ca1b4d1491cff655
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 074c6049b9c44e6107bb96d354ddf1c75258fa8af9afd0bfb6dd93f54c6392d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Promoção Turística
-- Formação Profissional
+- Apoio ao Investimento
 - Comissão Mista
 - Convenção
 - Cooperação Interempresas
-- Portugal
+- Formação Profissional
 - Lisboa
-- Apoio ao Investimento
 - Moldova
+- Portugal
+- Promoção Turística
+- Turismo
 relationships: []
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:12Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +107,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira - Manuel António Gomes de Almeida de Pinho.
 
-**Assinado em 28 de Julho de 2009.**
+Assinado em 28 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Julho de 2009.**
+Referendado em 30 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA MOLDOVA NO DOMÍNIO DO TURISMO
 
@@ -231,7 +231,7 @@ Pela República da Moldova:
 
 Mihail Camerzan, Embaixador Extraordinário e Plenipotenciário da República da Moldova na República Portuguesa.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/15200/0512405129.pdf))](https://files.diariodarepublica.pt/1s/2009/08/15200/0512405129.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15200/0512405129.pdf)
 
 ## ANEXO III — AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF MOLDOVA ON COOPERATION IN THE FIELD OF TOURISM
 

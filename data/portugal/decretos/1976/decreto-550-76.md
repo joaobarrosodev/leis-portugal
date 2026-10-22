@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/550-1976-430452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4e1112cac0811bfac4b69e4beaff0164ffb55d267d7667b24c1feb3b9738862
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e30278b065aac456b6b417b1bc4c8dbdb2bdf4d52e6830de4dedaa1b5a0be8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral da Aeronáutica Civil
+- Médico
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:161510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:430649:por
+  label: Rectificado pela DECL.DD8331.23.07.1976.PCM, DR.IS [171] de 23.07.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-430649
+  date: '1976-07-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:58Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +108,7 @@ Ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 59/76](https://diariod
 
 Usando da faculdade conferida pela alínea 4) do n.º 1 do artigo 3.º da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 11.º e alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 163/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1975-161510), de 27 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 11.º e alínea c) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 163/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1975-161510), de 27 de Março, passam a ter a seguinte redacção:
 
 ###### ARTIGO 11.º — (Pessoal em regime de avença)
 
@@ -107,24 +124,24 @@ Usando da faculdade conferida pela alínea 4) do n.º 1 do artigo 3.º da Lei Co
 
 c) Técnicos farmacêuticos de 1.ª classe - entre licenciados em Farmácia com experiência e aptidão adequadas.
 
-###### Art. 2.º O quadro do pessoal do Serviço de Medicina Aeronáutica, a que se refere o artigo 9.º do [Decreto-Lei n.º 163/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1975-161510), de 27 de Março, é o constante do mapa anexo, que fará parte integrante daquele diploma.
+Art. 2.º O quadro do pessoal do Serviço de Medicina Aeronáutica, a que se refere o artigo 9.º do [Decreto-Lei n.º 163/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1975-161510), de 27 de Março, é o constante do mapa anexo, que fará parte integrante daquele diploma.
 
-###### Art. 3.º Os encargos resultantes da aplicação do [Decreto-Lei n.º 163/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1975-161510), de 27 de Março, serão satisfeitos no corrente ano económico pelas verbas inscritas no orçamento do Ministério dos Transportes e Comunicações, com os necessários ajustamentos e reforço s indispensáveis à cobertura das despesas prescritas.
+Art. 3.º Os encargos resultantes da aplicação do [Decreto-Lei n.º 163/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1975-161510), de 27 de Março, serão satisfeitos no corrente ano económico pelas verbas inscritas no orçamento do Ministério dos Transportes e Comunicações, com os necessários ajustamentos e reforço s indispensáveis à cobertura das despesas prescritas.
 
-###### Art. 4.º Este diploma produz efeitos a partir de 1 de Janeiro de 1976.
+Art. 4.º Este diploma produz efeitos a partir de 1 de Janeiro de 1976.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - José Augusto Fernandes.
 
-**Promulgado em 22 de Junho de 1976.**
+Promulgado em 22 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Mapa anexo ao Decreto n.º 550/76
 
 Pessoal e vencimentos do Serviço de Medicina Aeronáutica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/16100/15401540.pdf))](https://files.diariodarepublica.pt/1s/1976/07/16100/15401540.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/16100/15401540.pdf)
 
-**O Ministro dos Transportes e Comunicações, José Augusto Fernandes.**
+O Ministro dos Transportes e Comunicações, José Augusto Fernandes.

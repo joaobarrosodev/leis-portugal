@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 303/1974, 6º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 1670-(123) a 1670-(125)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30306/01230125.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/799-1974-235944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7eb55d8a37ad624262f9b28d96e45086f2ac5a268b77d2f03239cd003bae0df8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62bc2133c767a98b5aff48de06d9deebded07ae29ae013d94575df7d9c053889
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:354909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 50
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:35Z'
   warnings: []
   errors: []
 ---
@@ -88,23 +100,23 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 926951942$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 926951942$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 20.º «Despesas comuns»:
+Capítulo 20.º «Despesas comuns»:
 
-###### Artigo 318.º «Despesas de anos findos» ... 3500000$00
+Artigo 318.º «Despesas de anos findos» ... 3500000$00
 
 Ministério da Marinha
 
-### Capítulo 3.º «Superintendência dos Serviços do Pessoal»:
+Capítulo 3.º «Superintendência dos Serviços do Pessoal»:
 
 Serviço do pessoal
 
 Direcção
 
-###### Artigo 64.º «Bens não duradouros»:
+Artigo 64.º «Bens não duradouros»:
 
 N.º 1 «Consumos de secretaria»:
 
@@ -112,13 +124,13 @@ Alínea 1 «Edição de Lista da Armada, Ordem da Armada e outras publicações�
 
 Sargentos e praças do activo
 
-###### Artigo 80.º «Alimentação e alojamento - Em espécie», n.º 2 «Rações, compreendendo dietas e abonos para batata, hortaliça e temperos» ... 35000000$00
+Artigo 80.º «Alimentação e alojamento - Em espécie», n.º 2 «Rações, compreendendo dietas e abonos para batata, hortaliça e temperos» ... 35000000$00
 
-### Capítulo 4.º «Superintendência dos Serviços do Material»:
+Capítulo 4.º «Superintendência dos Serviços do Material»:
 
 Navios e material flutuante
 
-###### Artigo 176.º «Bens não duradouros»:
+Artigo 176.º «Bens não duradouros»:
 
 N.º 3 «Outros bens não duradouros»:
 
@@ -126,7 +138,7 @@ Alínea 1 «Sobresselentes e outro equipamento para ser utilizado em reparaçõe
 
 Direcção do Serviço de Abastecimento
 
-###### Artigo 209.º «Bens duradouros»:
+Artigo 209.º «Bens duradouros»:
 
 N.º 1 «Material de educação, cultura e recreio»:
 
@@ -136,7 +148,7 @@ N.º 4 «Outros bens duradouros»:
 
 Alínea 1 «Material fixo para fornecimento às unidades e estações de marinha que não tenham dotações próprias» ... 750000$00
 
-###### Artigo 210.º «Bens não duradouros»:
+Artigo 210.º «Bens não duradouros»:
 
 N.º 3 «Cosumos de secretaria»:
 
@@ -146,13 +158,13 @@ N.º 4 «Outros bens não duradouros»:
 
 Alínea 1 «Material de consumo para fornecimento às diversas unidades e estações de marinha» ... 2250000$00
 
-###### Artigo 211.º «Conservação e aproveitamento de bens»:
+Artigo 211.º «Conservação e aproveitamento de bens»:
 
 N.º 3 «Outros bens»:
 
 Alínea 2 «Material da nomenclatura dos depósitos da Direcção, ou como tal considerado, distribuído aos navios ou em depósito» ... 350000$00
 
-###### Artigo 212.º «Despesas gerais de funcionamento»:
+Artigo 212.º «Despesas gerais de funcionamento»:
 
 N.º 2 «Encargos com a saúde»:
 
@@ -160,49 +172,49 @@ Alínea 1 «Desinfecção, desratização e outros serviços de sanidade em unid
 
 N.º 3 «Comunicações» ... 400000$00
 
-### Capítulo 8.º «Direcção-Geral dos Serviços de Fomento Marítimo»:
+Capítulo 8.º «Direcção-Geral dos Serviços de Fomento Marítimo»:
 
 Departamentos, capitanias e delegações
 
 Tribunais marítimos - Polícia Marítima
 
-###### Artigo 349.º «Participações e prémios», n.º 1 «Emolumentos pessoais, ...» ... 250000$00
+Artigo 349.º «Participações e prémios», n.º 1 «Emolumentos pessoais, ...» ... 250000$00
 
-### Capítulo 10.º «Arsenal do Alfeite»:
+Capítulo 10.º «Arsenal do Alfeite»:
 
-###### Artigo 371.º «Outras despesas correntes» ... 27000000$00
+Artigo 371.º «Outras despesas correntes» ... 27000000$00
 
-### Capítulo 11.º «Despesas comuns»:
+Capítulo 11.º «Despesas comuns»:
 
-###### Artigo 373.º «Abono de família aos funcionários» ... 2200000$00
+Artigo 373.º «Abono de família aos funcionários» ... 2200000$00
 
 ... 71450000$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 2.º «Secretaria de Estado»:
+Capítulo 2.º «Secretaria de Estado»:
 
 Serviços próprios da Secretaria de Estado
 
-###### Artigo 28.º «Transferências - Exterior», n.º 1 «Estrangeiro», alínea 3 «Subsídios a cofres ou organizações estrangeiras e quotas para organismos internacionais e institutos deles dependentes» ... 6004000$00
+Artigo 28.º «Transferências - Exterior», n.º 1 «Estrangeiro», alínea 3 «Subsídios a cofres ou organizações estrangeiras e quotas para organismos internacionais e institutos deles dependentes» ... 6004000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
 Instituto de Alta Cultura
 
-###### Artigo 19.º «Transferências - Sector público», n.º 1 «Instituto de Alta Cultura» ... 15123474$70
+Artigo 19.º «Transferências - Sector público», n.º 1 «Instituto de Alta Cultura» ... 15123474$70
 
 Instituto de Tecnologia Educativa
 
-###### Artigo 23.º «Transferências - Sector público», n.º 1 «Instituto de Tecnologia Educativa» 27113685$30
+Artigo 23.º «Transferências - Sector público», n.º 1 «Instituto de Tecnologia Educativa» 27113685$30
 
-###### Artigo 24.º «Transferências - Sector público», n.º 1 «Instituto de Tecnologia Educativa» ... 590052$20
+Artigo 24.º «Transferências - Sector público», n.º 1 «Instituto de Tecnologia Educativa» ... 590052$20
 
 Secretaria de Estado da Instrução e Cultura
 
-### Capítulo 5.º «Direcção-Geral do Ensino Superior»:
+Capítulo 5.º «Direcção-Geral do Ensino Superior»:
 
 Instrução universitária
 
@@ -210,33 +222,33 @@ Universidade de Coimbra
 
 Reitoria, Secretaria e Tesouraria
 
-###### Artigo 86.º «Transferências - Instituições particulares», n.º 3 «Serviços Sociais da Universidade» ... 6000000$00
+Artigo 86.º «Transferências - Instituições particulares», n.º 3 «Serviços Sociais da Universidade» ... 6000000$00
 
-###### Artigo 87.º «Transferências particulares», n.º 1 «Visitas de estudo» ... 5900000$00
+Artigo 87.º «Transferências particulares», n.º 1 «Visitas de estudo» ... 5900000$00
 
 Universidade de Lisboa
 
 Reitoria, Secretaria e Tesouraria
 
-###### Artigo 269.º «Transferências - Instituições particulares», n.º 1 «Serviços Sociais da Universidade» ... 13780000$00
+Artigo 269.º «Transferências - Instituições particulares», n.º 1 «Serviços Sociais da Universidade» ... 13780000$00
 
 Universidade do Porto
 
 Reitoria, Secretaria, Tesouraria e Museu de Arqueologia Histórica
 
-###### Artigo 429.º «Transferências - Instituições particulares», n.º 2 «Centro Desportivo Universitário» ... 4500000$00
+Artigo 429.º «Transferências - Instituições particulares», n.º 2 «Centro Desportivo Universitário» ... 4500000$00
 
 Universidade Técnica de Lisboa
 
 Reitoria
 
-###### Artigo 577.º «Transferências - Instituições particulares», n.º 1 «Serviços Sociais da Universidade» ... 4000000$00
+Artigo 577.º «Transferências - Instituições particulares», n.º 1 «Serviços Sociais da Universidade» ... 4000000$00
 
 Estabelecimentos diversos
 
 Instituto Português de Oncologia de Francisco Gentil
 
-###### Artigo 731.º «Vencimentos e salários»:
+Artigo 731.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -246,63 +258,63 @@ N.º 2 «Salários do pessoal admitido ao abrigo do artigo 4.º do [Decreto-Lei 
 
 N.º 3 «Salários do pessoal eventual» ... 4944100$00
 
-### Capítulo 10.º «Direcção-Geral da Administração Escolar»:
+Capítulo 10.º «Direcção-Geral da Administração Escolar»:
 
 Comissão de Equipamento Escolar
 
-###### Artigo 1121.º «Transferências - Sector público», n.º 1 «Comissão de Equipamento Escolar» ... 22543168$60
+Artigo 1121.º «Transferências - Sector público», n.º 1 «Comissão de Equipamento Escolar» ... 22543168$60
 
 Liceus
 
-###### Artigo 1123.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Pessoal contratado além dos quadros» ... 103000000$00
+Artigo 1123.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Pessoal contratado além dos quadros» ... 103000000$00
 
-###### Artigo 1124.º «Gratificações certas e permanentes» ... 1200000$00
+Artigo 1124.º «Gratificações certas e permanentes» ... 1200000$00
 
-###### Artigo 1125.º «Horas extraordinárias» ... 14000000$00
+Artigo 1125.º «Horas extraordinárias» ... 14000000$00
 
-###### Artigo 1134.º «Transferências - Sector público», n.º 1 «Juntas gerais dos distritos autónomos» ... 4500000$00
+Artigo 1134.º «Transferências - Sector público», n.º 1 «Juntas gerais dos distritos autónomos» ... 4500000$00
 
 Escolas técnicas, industriais, comerciais e industriais-comerciais
 
-###### Artigo 1205.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Pessoal contratado além dos quadros» ... 110000000$00
+Artigo 1205.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Pessoal contratado além dos quadros» ... 110000000$00
 
-###### Artigo 1207.º «Horas extraordinárias» ... 4700000$00
+Artigo 1207.º «Horas extraordinárias» ... 4700000$00
 
-###### Artigo 1217.º «Transferências - Sector público», n.º 1 «Juntas gerais dos distritos autónomos» ... 2000000$00
+Artigo 1217.º «Transferências - Sector público», n.º 1 «Juntas gerais dos distritos autónomos» ... 2000000$00
 
 Direcção dos distritos escolares, escolas primárias e postos escolares
 
-###### Artigo 1291.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Pessoal contratado além dos quadros» ... 132121049$80
+Artigo 1291.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Pessoal contratado além dos quadros» ... 132121049$80
 
-###### Artigo 1302.º «Transferências - Sector público», n.º 1 «Juntas gerais dos distritos autónomos» ... 24000000$00
+Artigo 1302.º «Transferências - Sector público», n.º 1 «Juntas gerais dos distritos autónomos» ... 24000000$00
 
 Escolas do magistério primário
 
-###### Artigo 1318.º «Transferências - Sector público», n.º 1 «Juntas gerais dos distritos autónomos» ... 300000$00
+Artigo 1318.º «Transferências - Sector público», n.º 1 «Juntas gerais dos distritos autónomos» ... 300000$00
 
 Escolas preparatórias
 
-###### Artigo 1323.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Pessoal contratado além dos quadros» ... 95150000$00
+Artigo 1323.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 2 «Pessoal contratado além dos quadros» ... 95150000$00
 
-###### Artigo 1324.º «Gratificações certas e permanentes» ... 23000000$00
+Artigo 1324.º «Gratificações certas e permanentes» ... 23000000$00
 
-###### Artigo 1325.º «Horas extraordinárias» ... 8400000$00
+Artigo 1325.º «Horas extraordinárias» ... 8400000$00
 
-###### Artigo 1326.º «Abono para falhas» ... 120000$00
+Artigo 1326.º «Abono para falhas» ... 120000$00
 
-###### Artigo 1334.º «Transferências - Sector público», n.º 1 «Juntas gerais dos distritos autónomos» ... 17000000$00
+Artigo 1334.º «Transferências - Sector público», n.º 1 «Juntas gerais dos distritos autónomos» ... 17000000$00
 
 Secretaria de Estado da Juventude e Desportos
 
-### Capítulo 11.º «Gabinete do Secretário de Estado»:
+Capítulo 11.º «Gabinete do Secretário de Estado»:
 
 Instituto de Acção Social Escolar
 
-###### Artigo 1351.º «Transferências - Sector público», n.º 1 «Instituto de Acção Social Escolar» ... 38424066$00
+Artigo 1351.º «Transferências - Sector público», n.º 1 «Instituto de Acção Social Escolar» ... 38424066$00
 
-### Capítulo 13.º «Despesas comuns»:
+Capítulo 13.º «Despesas comuns»:
 
-###### Artigo 1399.º-A «Diferenças de remunerações a conceder no corrente ano económico» ... 10000000$00
+Artigo 1399.º-A «Diferenças de remunerações a conceder no corrente ano económico» ... 10000000$00
 
 ... 718122168$60
 
@@ -310,65 +322,65 @@ Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 9.º «Junta de Colonização Interna»:
+Capítulo 9.º «Junta de Colonização Interna»:
 
-###### Artigo 231.º «Administração de propriedades, nos termos do [Decreto-Lei n.º 37271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37271-1948-354909), de 31 de Dezembro de 1948» ... 4000000$00
+Artigo 231.º «Administração de propriedades, nos termos do [Decreto-Lei n.º 37271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37271-1948-354909), de 31 de Dezembro de 1948» ... 4000000$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º «Aeronáutica Civil»:
+Capítulo 4.º «Aeronáutica Civil»:
 
 Aeroporto do Sal
 
-###### Artigo 149.º «Bens não duradouros», n.º 2 «Combustíveis e lubrificantes» ... 1275500$00
+Artigo 149.º «Bens não duradouros», n.º 2 «Combustíveis e lubrificantes» ... 1275500$00
 
-### Capítulo 9.º «Contas de ordem»:
+Capítulo 9.º «Contas de ordem»:
 
-###### Artigo 261.º «Administração dos Portos do Douro e Leixões» ... 60000000$00
+Artigo 261.º «Administração dos Portos do Douro e Leixões» ... 60000000$00
 
 ... 61275500$00
 
 Ministério da Saúde
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 14.º «Transferências - Sector público»:
+Artigo 14.º «Transferências - Sector público»:
 
 N.º 2 «Subsídio extraordinário para ser distribuído, mediante despacho ministerial, às instituições de saúde e assistência que dele careçam, para satisfação de encargos com remunerações a pessoal» ... 62600274$00
 
 ... 926951942$60
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 1.º, grupo 1, artigo 1.º «Contribuição industrial» ... 443750000$00
+Capítulo 1.º, grupo 1, artigo 1.º «Contribuição industrial» ... 443750000$00
 
-### Capítulo 1.º, grupo 1, artigo 3.º «Imposto profissional» ... 2200000$00
+Capítulo 1.º, grupo 1, artigo 3.º «Imposto profissional» ... 2200000$00
 
-### Capítulo 2.º, grupo 3, artigo 23.º «Imposto sobre a venda de automóveis» ... 354183274$00
+Capítulo 2.º, grupo 3, artigo 23.º «Imposto sobre a venda de automóveis» ... 354183274$00
 
-### Capítulo 5.º, grupo 3, artigo 98.º «Transferências diversas» ... 1275500$00
+Capítulo 5.º, grupo 3, artigo 98.º «Transferências diversas» ... 1275500$00
 
-### Capítulo 7.º, grupo 8, artigo 112.º «Serviços industriais - Arsenal do Alfeite» ... 27000000$00
+Capítulo 7.º, grupo 8, artigo 112.º «Serviços industriais - Arsenal do Alfeite» ... 27000000$00
 
-### Capítulo 7.º, grupo 8, artigo 113.º «Serviço de abastecimento do Ministério da Marinha» ... 7000000$00
+Capítulo 7.º, grupo 8, artigo 113.º «Serviço de abastecimento do Ministério da Marinha» ... 7000000$00
 
-### Capítulo 7.º, grupo 10, artigo 120.º «Emolumentos pessoais: Serviços jurisdicionais do Ministério da Marinha - Portos» ... 250000$00
+Capítulo 7.º, grupo 10, artigo 120.º «Emolumentos pessoais: Serviços jurisdicionais do Ministério da Marinha - Portos» ... 250000$00
 
-### Capítulo 7.º, grupo 10, artigo 121.º «Alimentação e alojamento: Serviços do pessoal da Armada» ... 4750000$00
+Capítulo 7.º, grupo 10, artigo 121.º «Alimentação e alojamento: Serviços do pessoal da Armada» ... 4750000$00
 
-### Capítulo 7.º, grupo 10, artigo 130.º «Diversos serviços e bens não duradouros: Serviços agrícolas - Junta de Colonização Interna» ... 4000000$00
+Capítulo 7.º, grupo 10, artigo 130.º «Diversos serviços e bens não duradouros: Serviços agrícolas - Junta de Colonização Interna» ... 4000000$00
 
-### Capítulo 14.º, artigo 164.º «Reposições não abatidas nos pagamentos» ... 22543168$60
+Capítulo 14.º, artigo 164.º «Reposições não abatidas nos pagamentos» ... 22543168$60
 
-### Capítulo 15.º, artigo 187.º «Administração dos Portos do Douro e Leixões» ... 60000000$00
+Capítulo 15.º, artigo 187.º «Administração dos Portos do Douro e Leixões» ... 60000000$00
 
 ... 926951942$60
 
-###### Art. 3.º São autorizadas as seguintes alterações ao orçamento privativo da Administração dos Portos do Douro e Leixões:
+Art. 3.º São autorizadas as seguintes alterações ao orçamento privativo da Administração dos Portos do Douro e Leixões:
 
 Reforços:
 
@@ -376,25 +388,25 @@ Despesa ordinária:
 
 Despesas correntes:
 
-###### Artigo 22.º «Bens não duradouros»:
+Artigo 22.º «Bens não duradouros»:
 
 N.º 1 «Matérias-primas e subsidiárias» ... 2000000$00
 
 N.º 2 «Combustíveis e lubrificantes» ... 3000000$00
 
-###### Artigo 23.º «Conservação e aproveitamento de bens» ... 10000000$00
+Artigo 23.º «Conservação e aproveitamento de bens» ... 10000000$00
 
-###### Artigo 26.º «Transferências - Empresas» ... 5000000$00
+Artigo 26.º «Transferências - Empresas» ... 5000000$00
 
 Despesas de capital:
 
-###### Artigo 31.º «Investimentos»:
+Artigo 31.º «Investimentos»:
 
 N.º 3 «Portos» ... 2000000$00
 
 N.º 6 «Maquinaria e equipamento» ... 1000000$00
 
-###### Artigo 32.º «Transferências - Sector público», n.º 1 «Fundo de melhoramentos» ... 37000000$00
+Artigo 32.º «Transferências - Sector público», n.º 1 «Fundo de melhoramentos» ... 37000000$00
 
 ... 60000000$00
 
@@ -404,12 +416,12 @@ Receita ordinária:
 
 Receitas correntes:
 
-###### Artigo 6.º, n.º 8, alínea 18 «Taxas de utilização do terminal petroleiro» ... 60000000$00
+Artigo 6.º, n.º 8, alínea 18 «Taxas de utilização do terminal petroleiro» ... 60000000$00
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar - José Augusto Fernandes - Manuel Rodrigues de Carvalho - Maria de Lourdes Pintasilgo - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/27/1991/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/27-1991-592677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c05beae0875af42d9f4b39efbb4db8c1e2ad31413776fae94c9073a2129794fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab626a52e1da173b9950edaa3caa62787f183782f3247456ebcf2f20a6ffd862
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Adesão à Comunidade Europeia
 - CECA
 - Convenção
-- Portugal
 - Espanha
-- Adesão à Comunidade Europeia
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:300639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:300639:por
+  label: "Substituído o Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a República do Líbano,\
+    \ subscrito por Portugal na sequência da adesão às Comunidades Europeias através de Protocolo aprovado presente diploma,\
+    \ a partir da entrada em vigor do acordo aprovado para ratificação pela RES.56-A/2004.06.05.2004.AR, DR.IS-A [172-Supl]\
+    \ de 23.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/56-a-2004-300639
+  date: '2004-05-06'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:47Z'
   warnings: []
   errors: []
 ---
@@ -97,19 +105,19 @@ de 19 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo, assinado em Bruxelas em 15 de Julho de 1987, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a República do Líbano, assinado em Bruxelas em 3 de Maio de 1977, cuja versão autêntica, em língua portuguesa, segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo, assinado em Bruxelas em 15 de Julho de 1987, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a República do Líbano, assinado em Bruxelas em 3 de Maio de 1977, cuja versão autêntica, em língua portuguesa, segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 1 de Abril de 1991.**
+Assinado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Abril de 1991.**
+Referendado em 3 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO AO ACORDO ENTRE OS ESTADOS MEMBROS DA COMUNIDADE EUROPEIA DO CARVÃO E DO AÇO E A REPÚBLICA LIBANESA NA SEQUÊNCIA DA ADESÃO DO REINO DE ESPANHA E DA REPÚBLICA PORTUGUESA À COMUNIDADE.
 
@@ -183,7 +191,7 @@ As duas últimas reduções, de 15% cada uma, serão efectuadas em 1 de Janeiro 
 
 3 - Relativamente ao produto a seguir indicado, o direito de base a aplicar por Portugal será de 20%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/091a00/22362238.pdf))](https://files.diariodarepublica.pt/1s/1991/04/091a00/22362238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/091a00/22362238.pdf)
 
 4 - As taxas dos direitos calculados nos termos dos números anteriores são aplicadas por arredondamento à primeira casa decimal, desprezando-se a segunda casa decimal.
 

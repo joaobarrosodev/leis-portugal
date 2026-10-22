@@ -47,36 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/41-1978-425552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca38cf3f8ad5d78746d87e89acb5de65cd09b1534645f90ba2c856a59c60e599
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2691136ae874eab5f82f88406c3e45631afe0c4887876e6db72a3f4af43d6d41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Militar
+- Contrato
+- Curso de Formação
+- Formação Profissional
+- Graduação Militar
+- Militar
+- Promoção Profissional
+- Recrutamento Militar
+- Tropa Paraquedista
+relationships:
+- type: cites
+  target: pt:dre:336755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429636:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:34Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +118,7 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 Recrutamento
 
-###### Artigo 1.º O recrutamento do pessoal militar não permanente das tropas pára-quedistas, referido no artigo 1.º, alínea b), 1), da [Portaria n.º 508/76](https://diariodarepublica.pt/dr/detalhe/portaria/508-1976-429636), de 12 de Agosto, é feito pela admissão do seguinte pessoal que aceite servir nas referidas tropas e satisfaça as condições definidas no presente diploma:
+Artigo 1.º O recrutamento do pessoal militar não permanente das tropas pára-quedistas, referido no artigo 1.º, alínea b), 1), da [Portaria n.º 508/76](https://diariodarepublica.pt/dr/detalhe/portaria/508-1976-429636), de 12 de Agosto, é feito pela admissão do seguinte pessoal que aceite servir nas referidas tropas e satisfaça as condições definidas no presente diploma:
 
 a) Oficiais milicianos, sargentos milicianos e praças do Exército, da Armada ou da Força Aérea;
 
@@ -103,7 +128,7 @@ c) Cidadãos provenientes do recrutamento geral (conscritos) que sejam classific
 
 d) Os cidadãos que desejem prestar serviço como voluntários nas condições do concurso de admissão às tropas pára-quedistas.
 
-###### Art. 2.º A admissão nas tropas pára-quedistas é feita nas duas fases a seguir indicadas:
+Art. 2.º A admissão nas tropas pára-quedistas é feita nas duas fases a seguir indicadas:
 
 a) Admissão provisória, que consiste no alistamento e incorporação nas tropas pára-quedistas, depois de verificada a sua aptidão no exame e provas de selecção:
 
@@ -117,7 +142,7 @@ b) Admissão definitiva, que consiste no ingresso na especialidade de pára-qued
 
 Condições de admissão
 
-###### Art. 3.º - 1 - Os candidatos referidos na alínea a) do artigo 1.º requerem a sua admissão provisória ao comandante do Corpo das Tropas Pára-Quedistas (CTP), devendo satisfazer os requisitos e condições seguintes:
+Art. 3.º - 1 - Os candidatos referidos na alínea a) do artigo 1.º requerem a sua admissão provisória ao comandante do Corpo das Tropas Pára-Quedistas (CTP), devendo satisfazer os requisitos e condições seguintes:
 
 a) Terem idade não superior a 23 anos no dia 31 de Dezembro do ano em que tiver início o curso a que são destinados;
 
@@ -159,7 +184,7 @@ d) Ter bom comportamento moral e civil.
 
 Alistamento e incorporação
 
-###### Art. 4.º - 1 - Os candidatos abrangidos pela alínea a) do artigo 1.º que, mediante processo documental, se verifique reunirem as necessárias condições de admissão são convocados directamente pelo Centro de Recrutamento e Inspecção do Corpo de Tropas Pára-Quedistas (CRI) para o exame médico e provas referidas no artigo 2.º, com conhecimento à entidade militar competente.
+Art. 4.º - 1 - Os candidatos abrangidos pela alínea a) do artigo 1.º que, mediante processo documental, se verifique reunirem as necessárias condições de admissão são convocados directamente pelo Centro de Recrutamento e Inspecção do Corpo de Tropas Pára-Quedistas (CRI) para o exame médico e provas referidas no artigo 2.º, com conhecimento à entidade militar competente.
 
 2 - Os candidatos a que se referem as alíneas b), c) e d) do artigo 1.º são convocados para exames médicos e provas de aptidão pelo CRI do CTP através dos órgãos de recrutamento competentes.
 
@@ -177,7 +202,7 @@ b) Os candidatos a que se referem as alíneas b), c) e d) do artigo 1.º julgado
 
 Cursos e tirocínios
 
-###### Art. 5.º - 1 - A preparação do pessoal de que trata o presente diploma é feita através dos cursos e tirocínios a seguir indicados, segundo programas aprovados pelo Chefe do Estado-Maior da Força Aérea e sob orientação e responsabilidade do comandante do Corpo de Tropas Pára-Quedistas:
+Art. 5.º - 1 - A preparação do pessoal de que trata o presente diploma é feita através dos cursos e tirocínios a seguir indicados, segundo programas aprovados pelo Chefe do Estado-Maior da Força Aérea e sob orientação e responsabilidade do comandante do Corpo de Tropas Pára-Quedistas:
 
 a) Cursos de formação de oficiais milicianos, de sargentos milicianos ou de praças pára-quedistas;
 
@@ -185,7 +210,7 @@ b) Tirocínio de pára-quedismo militar.
 
 2 - Os programas de instrução militar a que se reporta o número anterior deverão, quanto possível, prever a eventualidade de o pessoal vir a ser integrado noutras especialidades sem necessidade de receber instrução morosa.
 
-###### Art. 6.º - 1 - Os cursos de formação de oficiais milicianos e sargentos milicianos pára-quedistas são constituídos por:
+Art. 6.º - 1 - Os cursos de formação de oficiais milicianos e sargentos milicianos pára-quedistas são constituídos por:
 
 a) Instrução militar geral;
 
@@ -193,7 +218,7 @@ b) Instrução militar complementar.
 
 2 - O curso de praças pára-quedistas engloba as fases de instrução referidas no número anterior, com as adaptações adequadas às funções de praças.
 
-###### Art. 7.º - 1 - Os sargentos milicianos e praças pára-quedistas podem ser autorizados a frequentar o curso de formação de oficiais milicianos desde que:
+Art. 7.º - 1 - Os sargentos milicianos e praças pára-quedistas podem ser autorizados a frequentar o curso de formação de oficiais milicianos desde que:
 
 a) Possuam as habilitações literárias legais;
 
@@ -207,7 +232,7 @@ e) O requeiram ao comandante do CTP e lhes seja deferido.
 
 2 - As praças pára-quedistas podem ser autorizadas a frequentar o CSM desde que satisfaçam as condições referidas no número anterior, com a ressalva da diferença das habilitações literárias e da informação citada na alínea c).
 
-###### Art. 8.º - 1 - Quando circunstâncias especiais o justificarem, designadamente a carência de graduados, para enquadramento ou inviabilidade de realização de cursos de formação de sargentos milicianos em tempo útil, o Chefe do Estado-Maior da Força Aérea pode determinar a graduação em furriel miliciano das praças que sejam consideradas pelo comandante do CTP com aptidão para exercer, a título precário, funções relativas àquele posto.
+Art. 8.º - 1 - Quando circunstâncias especiais o justificarem, designadamente a carência de graduados, para enquadramento ou inviabilidade de realização de cursos de formação de sargentos milicianos em tempo útil, o Chefe do Estado-Maior da Força Aérea pode determinar a graduação em furriel miliciano das praças que sejam consideradas pelo comandante do CTP com aptidão para exercer, a título precário, funções relativas àquele posto.
 
 2 - A graduação cessa logo que terminem as circunstâncias que a determinaram, quando o graduado revelar deficiências no exercício das respectivas funções ou quando deixar a efectividade de serviço.
 
@@ -215,7 +240,7 @@ e) O requeiram ao comandante do CTP e lhes seja deferido.
 
 Graduações e promoções
 
-###### Art. 9.º - 1 - Os alunos do curso de formação de oficiais milicianos oriundos do recrutamento referido nas alíneas b), c) e d) do artigo 1.º são:
+Art. 9.º - 1 - Os alunos do curso de formação de oficiais milicianos oriundos do recrutamento referido nas alíneas b), c) e d) do artigo 1.º são:
 
 a) Graduados no posto de aspirante a oficial miliciano, na data em que concluírem com aproveitamento a instrução geral militar, a qual terá a duração máxima de seis meses;
 
@@ -233,13 +258,13 @@ c) Promovidos a furriel miliciano doze meses após a graduação em segundo-furr
 
 Tempo de exercício efectivo
 
-###### Art. 10.º - 1 - Os oficiais milicianos, sargentos milicianos e praças de que trata o presente diploma permanecem nas fileiras das tropas pára-quedistas durante o tempo de serviço efectivo obrigatório definido na Lei do Serviço Militar e constituem reserva de mobilização do CTP enquanto se mantiverem na situação de disponibilidade.
+Art. 10.º - 1 - Os oficiais milicianos, sargentos milicianos e praças de que trata o presente diploma permanecem nas fileiras das tropas pára-quedistas durante o tempo de serviço efectivo obrigatório definido na Lei do Serviço Militar e constituem reserva de mobilização do CTP enquanto se mantiverem na situação de disponibilidade.
 
 2 - O tempo de frequência de preparação militar em que o instruendo não tenha obtido aproveitamento por razões de acidente ou doença não relacionados com o serviço não é contado para o cumprimento da obrigação de serviço nas tropas pára-quedistas, referida no número anterior.
 
 Contratados
 
-###### Art. 11.º - 1 - O pessoal que tenha cumprido o tempo de serviço obrigatório referido no artigo 10.º pode ser autorizado a permanecer ou regressar às fileiras das tropas pára-quedistas por períodos de contrato renováveis de um ano, mediante requerimento dirigido ao Chefe do Estado-Maior da Força Aérea, desde que satisfaça às seguintes condições:
+Art. 11.º - 1 - O pessoal que tenha cumprido o tempo de serviço obrigatório referido no artigo 10.º pode ser autorizado a permanecer ou regressar às fileiras das tropas pára-quedistas por períodos de contrato renováveis de um ano, mediante requerimento dirigido ao Chefe do Estado-Maior da Força Aérea, desde que satisfaça às seguintes condições:
 
 a) Ter bom comportamento militar e civil;
 
@@ -257,15 +282,15 @@ b) Melhores informações;
 
 c) Menor idade.
 
-###### Art. 12.º - 1 - O primeiro período de contrato tem início no dia imediato ao do termo do tempo de serviço efectivo obrigatório ou no dia de regresso à efectividade de serviço.
+Art. 12.º - 1 - O primeiro período de contrato tem início no dia imediato ao do termo do tempo de serviço efectivo obrigatório ou no dia de regresso à efectividade de serviço.
 
 2 - O contrato inicial pode ser prorrogado, a pedido do militar interessado, por períodos anuais, até ao máximo de três períodos, mediante requerimento ao Chefe do Estado-Maior da Força Aérea, devidamente informado pelo respectivo comandante.
 
-###### Art. 13.º As praças na situação de contratadas têm direito aos vencimentos fixados no artigo 10.º do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril, e alterações subsequentes.
+Art. 13.º As praças na situação de contratadas têm direito aos vencimentos fixados no artigo 10.º do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril, e alterações subsequentes.
 
-###### Art. 14.º Os quantitativos de oficiais, sargentos e praças a admitir na situação de contratados serão estabelecidos por despacho do Chefe do Estado-Maior da Força Aérea e de acordo com os contingentes anualmente fixados de pessoal não permanente.
+Art. 14.º Os quantitativos de oficiais, sargentos e praças a admitir na situação de contratados serão estabelecidos por despacho do Chefe do Estado-Maior da Força Aérea e de acordo com os contingentes anualmente fixados de pessoal não permanente.
 
-###### Art. 15.º Os militares na situação de contratados deverão passar à situação de disponibilidade:
+Art. 15.º Os militares na situação de contratados deverão passar à situação de disponibilidade:
 
 a) No final de cada um dos períodos do contrato, a seu pedido ou quando não tiverem informação favorável do respectivo comandante ou equivalente;
 
@@ -277,17 +302,17 @@ b) Em qualquer momento:
 
 Ingresso no quadro permanente
 
-###### Art. 16.º As praças pára-quedistas podem passar ao quadro permanente nas condições estabelecidas pelo Chefe do Estado-Maior da Força Aérea.
+Art. 16.º As praças pára-quedistas podem passar ao quadro permanente nas condições estabelecidas pelo Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 17.º Aos militares na situação de contratados é facultada a frequência de cursos conducentes ao seu ingresso nos quadros permanentes de acordo com as vacaturas existentes e nas condições fixadas em legislação específica.
+Art. 17.º Aos militares na situação de contratados é facultada a frequência de cursos conducentes ao seu ingresso nos quadros permanentes de acordo com as vacaturas existentes e nas condições fixadas em legislação específica.
 
 Disposições diversas
 
-###### Art. 18.º Os oficiais milicianos, sargentos milicianos e praças pára-quedistas formados a partir do pessoal referido nas alíneas b), c) e d) do artigo 1.º são inscritos no serviço geral da Força Aérea, que é considerado a sua especialidade de origem.
+Art. 18.º Os oficiais milicianos, sargentos milicianos e praças pára-quedistas formados a partir do pessoal referido nas alíneas b), c) e d) do artigo 1.º são inscritos no serviço geral da Força Aérea, que é considerado a sua especialidade de origem.
 
-###### Art. 19.º Os oficiais, sargentos e praças referidos na alínea a) do artigo 1.º especializados em pára-quedismo que deixem de possuir as condições exigidas para o serviço nas tropas pára-quedistas regressam aos ramos de origem ou aos respectivos quadros de origem se já pertenciam à Força Aérea, sem prejuízo do disposto no [Decreto-Lei n.º 776/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/776-1975-355357), de 31 de Dezembro.
+Art. 19.º Os oficiais, sargentos e praças referidos na alínea a) do artigo 1.º especializados em pára-quedismo que deixem de possuir as condições exigidas para o serviço nas tropas pára-quedistas regressam aos ramos de origem ou aos respectivos quadros de origem se já pertenciam à Força Aérea, sem prejuízo do disposto no [Decreto-Lei n.º 776/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/776-1975-355357), de 31 de Dezembro.
 
-###### Art. 20.º - 1 - Os alunos em preparação referidos no artigo 5.º que sejam eliminados naquela por falta de aproveitamento ou por outros motivos terão um dos destinos a seguir indicados:
+Art. 20.º - 1 - Os alunos em preparação referidos no artigo 5.º que sejam eliminados naquela por falta de aproveitamento ou por outros motivos terão um dos destinos a seguir indicados:
 
 a) Regressam à sua anterior situação militar se do antecedente já pertenciam à categoria de pessoal militar permanente ou não permanente;
 
@@ -299,12 +324,12 @@ d) Regressam à anterior situação os que tiverem sido admitidos nos termos das
 
 2 - O aproveitamento no serviço efectivo, e nas diferentes classes e especialidades, do pessoal referido no número anterior é feito em função das necessidades e de acordo com directivas do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 21.º As dúvidas e casos omissos são resolvidos por despacho do Chefe do Estado-Maior da Força Aérea.
+Art. 21.º As dúvidas e casos omissos são resolvidos por despacho do Chefe do Estado-Maior da Força Aérea.
 
 Visto e aprovado em Conselho da Revolução em 12 de Abril de 1978.
 
-**Promulgado em 17 de Abril de 1978.**
+Promulgado em 17 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

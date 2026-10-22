@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/466-1976-427109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7176fe3b7e0039ee1d0e954c70fb2b785b23f3d4e75733ef56e7017a1d1d801
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbe3646f8692c4ec0ce962355c0898fd6446841b73f11e3a02ee8d315438939d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Consulado
+- Consulado Honorário
+- Criação de Serviços
+- Extinção de Serviços
+- Maputo
+- Suazilândia
+relationships:
+- type: cites
+  target: pt:dre:235275:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:27Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +97,11 @@ de 11 de Junho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É extinto o Consulado de 2.ª classe em Mbabane e criado, com a mesma área de jurisdição, um consulado honorário na mesma cidade, que ficará dependente do Consulado-Geral em Maputo.
+Artigo 1.º É extinto o Consulado de 2.ª classe em Mbabane e criado, com a mesma área de jurisdição, um consulado honorário na mesma cidade, que ficará dependente do Consulado-Geral em Maputo.
 
-###### Art. 2.º É extinto o distrito consular de Portugal em Mbabane.
+Art. 2.º É extinto o distrito consular de Portugal em Mbabane.
 
-###### Art. 3.º O posto consular abaixo designado passa a estar inscrito na lista anexa à [Portaria n.º 23232](https://diariodarepublica.pt/dr/detalhe/portaria/23232-1968-235275), de 20 de Fevereiro de 1968, pela forma a seguir indicada:
+Art. 3.º O posto consular abaixo designado passa a estar inscrito na lista anexa à [Portaria n.º 23232](https://diariodarepublica.pt/dr/detalhe/portaria/23232-1968-235275), de 20 de Fevereiro de 1968, pela forma a seguir indicada:
 
 62-A) Distrito consular de Maputo.:
 
@@ -101,6 +111,6 @@ Consulado honorário em Mbabane - Suazilândia.
 
 José Baptista Pinheiro de Azevedo - Ernesto Augusto de Melo Antunes.
 
-**Promulgado em 29 de Maio de 1976.**
+Promulgado em 29 de Maio de 1976.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

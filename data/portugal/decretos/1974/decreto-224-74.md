@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/224-1974-622646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f42aae454577d3df6a6ec9066e4f694b5882dc2e97d64c9a950b3c85dd681cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 512408c8b4b18c94f5a660105668fa2124a822e204ca318c6b799ffbfbdf7e85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:20Z'
   warnings: []
   errors: []
 ---
@@ -86,16 +86,16 @@ de 28 de Maio
 
 Usando da faculdade conferida pelo n.º 13 do artigo 7.º da Lei Constitucional n.º 3/74, de 14 de Maio, e nos termos do artigo 11.º do Decreto n.º 203/74, de 15 de Maio, tenho por bem decretar o seguinte:
 
-###### Artigo 1.º O Ministério da Coordenação Económica passa a superintender nos seguintes serviços e organismos: Comissão Interministerial de Cooperação Económica Externa, Secretariado Técnico da Presidência do Conselho, Centro de Estudos de Planeamento, Conselho Nacional de Produtividade e Inspecção da Gestão das Participações do Estado.
+Artigo 1.º O Ministério da Coordenação Económica passa a superintender nos seguintes serviços e organismos: Comissão Interministerial de Cooperação Económica Externa, Secretariado Técnico da Presidência do Conselho, Centro de Estudos de Planeamento, Conselho Nacional de Produtividade e Inspecção da Gestão das Participações do Estado.
 
-###### Art. 2.º A Comissão Portuguesa para o Decénio Hidrológico Internacional passa a ficar integrada no Ministério do Equipamento Social e do Ambiente.
+Art. 2.º A Comissão Portuguesa para o Decénio Hidrológico Internacional passa a ficar integrada no Ministério do Equipamento Social e do Ambiente.
 
-###### Art. 3.º Este decreto entra imediatamente em vigor.
+Art. 3.º Este decreto entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos.
 
-**Assinado em 27 de Maio de 1974.**
+Assinado em 27 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

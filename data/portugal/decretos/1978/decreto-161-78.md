@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/161-1978-325154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:49:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14d4d200812f96d817cd46e90aa0432173801ef9dbe6e0d42def1a2e98ee3144
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05b308ae6a33ffd45b15689c7bdb1a0fc0feec465917a1da70aa540dc383ec0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Droga
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:667752:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667752:por
+  label: "Estendida ao território de Macau a Convenção aprovada pelo presente diploma, pelo DEC.192/99.1999.10.22.PR, DR.IS-A\
+    \ [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/192-1999-667752
+  date: '1999-10-22'
+- type: corrected_by
+  target: pt:dre:392664:por
+  label: Rectificado pela DECL.DD7141.02.02.1979.PCM, DR.IS [28] de 02.02.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-392664
+  date: '1979-02-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:49:35Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +104,15 @@ de 21 de Dezembro
 
 Usando da faculdade conferida pelo artigo 200.º, alínea c), da Constituição da República Portuguesa, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Protocolo Emendando a Convenção Única sobre Estupefacientes de 1961, aberto para assinatura em Genebra em 25 de Março de 1972, cujos textos, em francês e respectiva tradução em português, vão anexos ao presente decreto.
+Artigo único. É aprovado, para adesão, o Protocolo Emendando a Convenção Única sobre Estupefacientes de 1961, aberto para assinatura em Genebra em 25 de Março de 1972, cujos textos, em francês e respectiva tradução em português, vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - Carlos Jorge Mendes Corrêa Gago.
 
-**Assinado em 10 de Novembro de 1978.**
+Assinado em 10 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Protocole portant amendement de la Convention unique sur les stupéfiants de 1961
 
@@ -714,7 +728,7 @@ b) Parte da Convenção Única não emendada quanto às Partes desta Convenção
 
 ###### ARTIGO 22.º
 
-**O secretário-geral remeterá uma cópia certificada conforme do presente Protocolo a todas as Partes da Convenção Única e a todos os seus signatários. Logo que o presente Protocolo entre em vigor de acordo com o parágrafo 1 do artigo 18.º, o secretário-geral estabelecerá o texto da Convenção Única tal como é modificado pelo presente Protocolo e transmitirá a cópia certificada conforme a todos os Estados Partes ou que tenham direito a tornar-se Partes na Convenção emendada.**
+O secretário-geral remeterá uma cópia certificada conforme do presente Protocolo a todas as Partes da Convenção Única e a todos os seus signatários. Logo que o presente Protocolo entre em vigor de acordo com o parágrafo 1 do artigo 18.º, o secretário-geral estabelecerá o texto da Convenção Única tal como é modificado pelo presente Protocolo e transmitirá a cópia certificada conforme a todos os Estados Partes ou que tenham direito a tornar-se Partes na Convenção emendada.
 
 Feito em Genebra, aos 25 de Março de 1972, num exemplar, que será conservado nos arquivos da Organização das Nações Unidas.
 

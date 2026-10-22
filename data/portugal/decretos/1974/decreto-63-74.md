@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/63-1974-412995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dd718ee88f1bca568e60800ecb75e25eef8b88fa4a1650b2e32c7a91fabe796
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc6c87bd10bd61d26b6e0d2a1b7ea1135c5972b388ff14591b40a0882bcfb1d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,28 @@ relationships:
   target: pt:dre:336549:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288627:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:41Z'
   warnings: []
   errors: []
 ---
@@ -97,14 +109,14 @@ Nestes termos, de harmonia com o disposto no n.º 3 do artigo 70.º do [Decreto-
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único - 1. prorrogado até 31 de Dezembro de 1974 o período transitório estabelecido no artigo 2.º do [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro, para aplicação das regras da carreira de administração hospitalar.
+Artigo único - 1. prorrogado até 31 de Dezembro de 1974 o período transitório estabelecido no artigo 2.º do [Decreto n.º 499/70](https://diariodarepublica.pt/dr/detalhe/decreto/499-1970-147439), de 24 de Outubro, para aplicação das regras da carreira de administração hospitalar.
 
 2. Durante o referido período mantêm-se as condições de provimento e acesso de pessoal de administração fixadas pelo despacho ministerial publicado no Diário do Governo, 2.ª série, de 31 de Dezembro de 1970, não se alterando, contudo, a data de 31 de Dezembro de 1972 para efeitos da aplicação da regra 2.ª do artigo 1.º do mesmo despacho.
 
 Marcello Caetano - Clemente Rogeiro.
 
-**Promulgado em 8 de Fevereiro de 1974.**
+Promulgado em 8 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

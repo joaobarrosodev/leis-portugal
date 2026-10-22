@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 278/1974, 2º Suplemento, Série I de 1974-11-29
   number: '278'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1476-(7) a 1476-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27802/00070007.pdf
 entry_into_force_dates: []
@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/679-a-1974-168982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eba601b53e63addb0d0f1c272ba725e652d31ad30142db1f78955114e7e785d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da3209db073f3b45f14d9c6bd3c77dd97e993755fb53b8bc071cbb30ed7613b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exoneração
+- Governo Provisório
+- Governo Provisório III
+- Ministro
+- Ministro da Educação e Cultura
+- Secretário de Estado
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:53Z'
   warnings: []
   errors: []
 ---
@@ -89,8 +95,8 @@ Usando da faculdade conferida pelo n.º 3 do artigo 7.º da Lei Constitucional n
 
 Exonerar, a seu pedido, o Prof. Doutor Vitorino Magalhães Godinho do cargo de Ministro da Educação e Cultura do Governo Provisório, cessando, consequentemente, as suas funções todos os Secretários de Estado desse Ministério, em conformidade com o disposto no n.º 3 do referido artigo 1.º da Lei Constitucional n.º 5/74.
 
-**Assinado em 29 de Novembro de 1974.**
+Assinado em 29 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES - Vasco dos Santos Gonçalves.**
+O Presidente da República, FRANCISCO DA COSTA GOMES - Vasco dos Santos Gonçalves.

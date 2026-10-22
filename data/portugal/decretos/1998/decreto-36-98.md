@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/36/1998/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1998-235921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:09:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d47e8d43a07e41ac7796ef692f4ac23ffc5d57be9d1b6b25444bee86bf3c4ce6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f996ed2bc482e279fbf3fb6f072853328b23071dea74860783a99cd6adedccd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:09:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,23 @@ subjects:
 - Cairo
 - Convenção
 - Cooperação Bilateral
-- Cooperação Técnica
-- Portugal
-- Egipto
 - Cooperação Científica
 - Cooperação Económica
 - Cooperação Industrial
+- Cooperação Técnica
+- Egipto
+- Portugal
 relationships: []
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:09:06Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição da Repúbl
 
 Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - Joaquim Augusto Nunes de Pina Moura - José Mariano Rebelo Pires Gago.
 
-**Assinado em 20 de Março de 1998.**
+Assinado em 20 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Março de 1998.**
+Referendado em 26 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA ÁRABE DO EGIPTO DE COOPERAÇÃO ECONÓMICA, INDUSTRIAL E TÉCNICO-CIENTÍFICA.
 
@@ -192,11 +192,11 @@ Feito no Cairo, em 20 de Abril de 1993, em dois exemplares, cada um contendo os 
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
 
 Pelo Governo da República Árabe do Egipto:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
 
 [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
 
@@ -280,8 +280,8 @@ Done in Cairo, on this twentieth day of April 1993, in two originals, each conta
 
 For the Government of the Republic of Portugal:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
 
 For the Government of the Arab Republic of Egypt:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)

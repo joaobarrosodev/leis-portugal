@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/065b00/13261327.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/1993/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-1993-634572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9cbd989ceeb4eb1b84954ed79b4df9bfb279327ef761cf04b35e2db5b76fb87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29fc008b09bf225d8480ed2ff12639a9762479b6da881dc4275f57d6330fb819
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcochete
-- Multa
 - Comissão de Coordenação da Região de Lisboa e VALE do TEJO
-- Ponte de Vasco da GAMA
 - Contra-ordenação
-- RIO TEJO
 - Loures
-- Zona de Proteção
+- Multa
 - Ponte
+- Ponte de Vasco da GAMA
+- RIO TEJO
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:270440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1542691:por
+  label: "Esclarecidas as dúvidas quanto à interpretação do nº 1 do art. 2º pelo DESP.28/93.1993.09.21.SEALOT-MPLAT, DR.IIS\
+    \ [240] de 13/Out/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/28-1993-1542691
+  date: '1993-09-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/220/1992/10/15/p/dre
   label: null
@@ -91,16 +97,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/29/1992/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/29/1992/09/05/p/dre
+- type: cites
+  target: pt:dre:226627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:270440:por
+  label: "Revogado pelo DEC.13/2004.20.05.2004.MCOTA, DR.IS-B [118] de 20.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/13-2004-270440
+  date: '2004-05-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:54Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +146,9 @@ Assim:
 
 Ao abrigo do disposto nos artigos 14.º a 18.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma fixa uma zona de defesa e controlo urbanos para a área constante da planta anexa, que dele faz parte integrante, destinada a evitar ou a controlar as actividades nos solos nela incluídos e as alterações ao uso dos mesmos que possam ser inconvenientes para os interesses colectivos da respectiva população e para o adequado funcionamento do sistema urbano.
+Artigo 1.º O presente diploma fixa uma zona de defesa e controlo urbanos para a área constante da planta anexa, que dele faz parte integrante, destinada a evitar ou a controlar as actividades nos solos nela incluídos e as alterações ao uso dos mesmos que possam ser inconvenientes para os interesses colectivos da respectiva população e para o adequado funcionamento do sistema urbano.
 
-###### Art. 2.º - 1 - Na área abrangida pela zona de defesa e controlo urbanos ficam sujeitos a prévia autorização da Comissão de Coordenação da Região de Lisboa e Vale do Tejo, adiante designada por CCRLVT, os actos e actividades seguintes:
+Art. 2.º - 1 - Na área abrangida pela zona de defesa e controlo urbanos ficam sujeitos a prévia autorização da Comissão de Coordenação da Região de Lisboa e Vale do Tejo, adiante designada por CCRLVT, os actos e actividades seguintes:
 
 a) Criação de novos núcleos populacionais, incluindo loteamentos urbanos;
 
@@ -141,11 +168,11 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 4 - Sempre que os actos e actividades referidos no n.º 1 estejam sujeitos a um processo especial de autorização ou licenciamento, a autorização da CCRLVT será solicitada pelo órgão competente para a respectiva instrução, devendo ser emitida no prazo de 60 dias.
 
-###### Art. 3.º - 1 - Os trabalhos e as obras efectuados com inobservância das medidas previstas no presente diploma podem ser embargados e demolidos, bem como reposta a configuração do terreno, imputando-se os respectivos encargos ao infractor.
+Art. 3.º - 1 - Os trabalhos e as obras efectuados com inobservância das medidas previstas no presente diploma podem ser embargados e demolidos, bem como reposta a configuração do terreno, imputando-se os respectivos encargos ao infractor.
 
 2 - A iniciativa do embargo ou da demolição cabe à CCRLVT, à Administração do Porto de Lisboa na área da respectiva jurisdição ou aos órgãos dos municípios territorialmente competentes, de igual modo lhes competindo a fiscalização da observância do disposto no presente diploma.
 
-###### Art. 4.º - 1 - A violação do disposto no n.º 1 do artigo 2.º, quando não esteja prevista coima superior em legislação especial, constitui contra-ordenação punível com coima de 100000$00 a 500000$00 quando o infractor seja pessoa singular, ou de 100000$00 a 6000000$00, quando o infractor seja pessoa colectiva.
+Art. 4.º - 1 - A violação do disposto no n.º 1 do artigo 2.º, quando não esteja prevista coima superior em legislação especial, constitui contra-ordenação punível com coima de 100000$00 a 500000$00 quando o infractor seja pessoa singular, ou de 100000$00 a 6000000$00, quando o infractor seja pessoa colectiva.
 
 2 - As contra-ordenações podem ainda determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:
 
@@ -163,24 +190,24 @@ a) 60% para o Estado;
 
 b) 40% para a entidade que instituir o processo de contra-ordenação.
 
-###### Art. 5.º Na totalidade da área abrangida pela zona de defesa e controlo urbanos é concedido à Administração, através da CCRLVT, o direito de preferência nas transmissões, a título oneroso, de terrenos ou edifícios aí situados.
+Art. 5.º Na totalidade da área abrangida pela zona de defesa e controlo urbanos é concedido à Administração, através da CCRLVT, o direito de preferência nas transmissões, a título oneroso, de terrenos ou edifícios aí situados.
 
-###### Art. 6.º Aos municípios abrangidos compete dar publicidade à adoptação das medidas previstas no presente diploma, por editais a afixar nos paços do concelho, nas sedes das juntas de freguesia a que respeitem as áreas abrangidas e por meio de aviso publicado no jornal diário mais lido na região.
+Art. 6.º Aos municípios abrangidos compete dar publicidade à adoptação das medidas previstas no presente diploma, por editais a afixar nos paços do concelho, nas sedes das juntas de freguesia a que respeitem as áreas abrangidas e por meio de aviso publicado no jornal diário mais lido na região.
 
-###### Art. 7.º Os órgãos referidos no n.º 2 do artigo 3.º e no n.º 4 do artigo 4.º devem comunicar entre si a abertura de processos no âmbito das competências previstas naqueles preceitos.
+Art. 7.º Os órgãos referidos no n.º 2 do artigo 3.º e no n.º 4 do artigo 4.º devem comunicar entre si a abertura de processos no âmbito das competências previstas naqueles preceitos.
 
 Presidência do Conselho de Ministros, 21 de Dezembro de 1992.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Assinado em 16 de Fevereiro de 1993.**
+Assinado em 16 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Fevereiro de 1993.**
+Referendado em 19 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/065b00/13261327.pdf))](https://files.diariodarepublica.pt/1s/1993/03/065b00/13261327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/065b00/13261327.pdf)

@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-1980-678444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f49418d0e050bf093318073076ae9d6ed0e2ebb4dd2caac380a8a0e3d67d3487
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aad5637ae5853d0d06a58ac861d9efc37f6f563b52dc5812a0d2cfb9243ac535
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicação por Satélite
+- Convenção
+- Inmarsat
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:220947:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220947:por
+  label: "Aprovada, para ratificação, as emendas ao Acordo de Exploração aprovado para adesão, pelo DEC.47/98.1998.12.14.MEPAT\
+    \ DR.IS-A [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/47-1998-220947
+  date: '1998-12-14'
+- type: cites
+  target: pt:dre:382023:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:05Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +104,17 @@ de 21 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Acordo de Exploração Relativo à Organização Internacional de Satélites Marítimos (Inmarsat), assinado em Londres a 13 de Julho de 1979, cujos textos em inglês e português vão anexos ao presente decreto.
+Artigo único. É aprovado, para adesão, o Acordo de Exploração Relativo à Organização Internacional de Satélites Marítimos (Inmarsat), assinado em Londres a 13 de Julho de 1979, cujos textos em inglês e português vão anexos ao presente decreto.
 
 Este Acordo resulta do artigo 2.º dos Estatutos da Inmarsat, a que Portugal aderiu pelo [Decreto n.º 72/79](https://diariodarepublica.pt/dr/detalhe/decreto/72-1979-382023), de 19 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 4 de Março de 1980.**
+Assinado em 4 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Operating Agreement on the International Maritime Satellite Organization (Inmarsat)
 
@@ -482,9 +496,7 @@ Considerando que os Estados Partes na Convenção constitutiva da Organização 
 
 Acordam no seguinte:
 
-ARTIGO I
-
-Definições
+###### ARTIGO I — Definições
 
 1) Para os fins do presente Acordo:
 
@@ -496,17 +508,13 @@ c) O termo «Amortização» compreende a depreciação, mas não a compensaçã
 
 2) As definições do artigo 1 da Convenção serão aplicáveis ao presente Acordo.
 
-ARTIGO II
-
-Direitos e obrigações dos Signatários
+###### ARTIGO II — Direitos e obrigações dos Signatários
 
 1) Cada Signatário adquire os direitos atribuídos aos Signatários pela Convenção e pelo presente Acordo e compromete-se a cumprir as obrigações que lhe incumbem nos termos daqueles dois instrumentos.
 
 2) Cada Signatário actuará em conformidade com todas as disposições da Convenção e do presente Acordo.
 
-ARTIGO III
-
-Contribuições de capital
+###### ARTIGO III — Contribuições de capital
 
 1) Cada Signatário contribuirá para as necessidades de capital da Organização proporcionalmente à sua quota-parte de investimentos e receberá o reembolso de capital e a remuneração pela utilização de capital, nas condições fixadas pelo Conselho em conformidade com as disposições da Convenção e do presente Acordo.
 
@@ -522,15 +530,11 @@ c) Os pagamentos a efectuar pelos Signatários em conformidade com o artigo XI.
 
 4) Se durante o período que precede a primeira determinação das quotas-partes de investimento baseada na utilização do segmento espacial Inmarsat em conformidade com o artigo V, o montante total das contribuições de capital que os Signatários devam satisfazer no decurso de um exercício financeiro exceder 50% do limite de capital estabelecido no artigo IV ou em conformidade com o mesmo, o Conselho estudará a possível adopção de outras medidas, incluindo o financiamento temporário de dívidas, que permitam aos Signatários que assim o desejem pagar contribuições suplementares em prestações durante os anos seguintes. O Conselho fixará a taxa de juro a aplicar em tais casos tendo em conta as despesas adicionais resultantes para a Organização.
 
-ARTIGO IV
-
-Limite de capital
+###### ARTIGO IV — Limite de capital
 
 O total das contribuições líquidas de capital dos Signatários e dos compromissos contratuais em capital contraídos pela Organização e ainda não satisfeitos estará sujeito a um limite. O referido total será constituído pelo montante acumulado das contribuições de capital realizadas pelos Signatários em conformidade com o artigo III, diminuído do capital acumulado que lhes tenha sido reembolsado em conformidade com o presente Acordo e acrescido da quantia em dívida correspondente aos compromissos contratuais em capital contraídos pela Organização. O limite de capital inicial será de 200 milhões de dólares dos Estados Unidos. O Conselho terá autoridade para reajustar aquele limite de capital.
 
-ARTIGO V
-
-Quotas-partes de investimento
+###### ARTIGO V — Quotas-partes de investimento
 
 1) As quotas-partes de investimento dos Signatários serão determinadas com base na utilização do segmento espacial Inmarsat. Cada Signatário terá uma quota-parte de investimento igual à sua percentagem do total de utilização do segmento espacial por todos os Signatários. A utilização do segmento espacial da Inmarsat medir-se-á em função das receitas recebidas pela Organização resultantes da utilização do segmento espacial Inmarsat em conformidade com o artigo 19 da Convenção e com o artigo VIII do presente Acordo.
 
@@ -562,9 +566,7 @@ c) Na data efectiva da retirada ou da exclusão de um Signatário.
 
 12) A pedido de um Signatário, o Conselho poderá atribuir-lhe uma quota-parte de investimento menor do que a que lhe foi determinada nos termos dos parágrafos 1) a 7) e 9) e 10) se a redução solicitada for totalmente absorvida pelo aumento das quotas-partes de investimento de outros Signatários que aceitem voluntariamente esse aumento. O Conselho adoptará os procedimentos adequados para repartir equitativamente a quota-parte ou quotas-partes libertadas entre os Signatários que desejem aumentar as suas quotas-partes de investimento.
 
-ARTIGO VI
-
-Reajustamentos financeiros entre os Signatários
+###### ARTIGO VI — Reajustamentos financeiros entre os Signatários
 
 1) Na altura de cada determinação de quotas-partes de investimento posteriormente à determinação inicial efectuada aquando da entrada em vigor do presente Acordo serão efectuados reajustamentos financeiros entre os Signatários, por intermédio da Organização, com base numa avaliação efectuada em conformidade com o parágrafo 2). Os valores destes reajustamentos financeiros serão determinados, relativamente a cada Signatário, aplicando à avaliação a diferença, se a houver, entre a nova quota-parte de investimento de cada Signatário e a sua quota-parte de investimento anterior a esta determinação.
 
@@ -580,9 +582,7 @@ b) Reajustando os resultados obtidos pela aplicação do disposto na alínea a),
 
 3) Os pagamentos a crédito ou a débito dos Signatários em conformidade com o presente artigo serão efectuados em data a fixar pelo Conselho. A toda a quantia não paga depois dessa data adicionar-se-á um juro calculado a uma taxa fixada pelo Conselho.
 
-ARTIGO VII
-
-Pagamento dos encargos de utilização
+###### ARTIGO VII — Pagamento dos encargos de utilização
 
 1) Os encargos de utilização estabelecidos em conformidade com o artigo 19 da Convenção serão pagos pelos Signatários ou pelas entidades de telecomunicações autorizadas de acordo com as disposições adoptadas pelo Conselho. As referidas disposições deverão seguir tanto quanto possível os métodos de contabilidade reconhecidos para as telecomunicações internacionais.
 
@@ -592,9 +592,7 @@ Pagamento dos encargos de utilização
 
 4) A toda a quantia não satisfeita na data de pagamento fixada pelo Conselho adicionar-se-á um juro calculado a uma taxa fixada pelo mesmo Conselho.
 
-ARTIGO VIII
-
-Receitas
+###### ARTIGO VIII — Receitas
 
 1) Salvo se o Conselho decidir de outro modo, as receitas da Organização serão normalmente aplicadas, na medida em que elas o permitam, pela seguinte ordem de prioridade:
 
@@ -612,17 +610,13 @@ e) Para pagar aos Signatários, cumulativamente e em proporção com as respecti
 
 3) Na medida em que as receitas da Organização sejam insuficientes para cobrir os custos de exploração, manutenção e administração da Organização, o Conselho poderá decidir que a diferença seja coberta pela utilização de fundos de exploração da Organização, pela utilização de saques a descoberto previamente acordados, pela subscrição de empréstimos, solicitando aos Signatários que efectuem contribuições de capital em proporção com as respectivas quotas-partes de investimento ou através de uma combinação qualquer daquelas medidas.
 
-ARTIGO IX
-
-Liquidação de contas
+###### ARTIGO IX — Liquidação de contas
 
 1) A liquidação de contas entre Signatários e a Organização, com respeito a transacções financeiras em conformidade com os artigos III, VI, VII e VIII, será efectuada de modo a que os fundos transferidos entre Signatários e a Organização, bem como os fundos à disposição da Organização que excedam os fundos de exploração julgados necessários pelo Conselho, se mantenham ao nível mais baixo possível.
 
 2) Todos os pagamentos entre os Signatários e a Organização em conformidade com o presente Acordo serão efectuados em qualquer moeda livremente convertível aceite pelo credor.
 
-ARTIGO X
-
-Financiamento de dívidas
+###### ARTIGO X — Financiamento de dívidas
 
 1) Por decisão do Conselho, a Organização poderá concluir acordos que lhe permitam a utilização de saques a descoberto para fazer face a insuficiências de liquidez enquanto se aguarda a entrada de receitas suficientes ou de contribuições de capital.
 
@@ -630,9 +624,7 @@ Financiamento de dívidas
 
 As importâncias em dívida dos referidos empréstimos serão consideradas como compromissos contratuais em capital para os fins do artigo IV.
 
-ARTIGO XI
-
-Responsabilidade
+###### ARTIGO XI — Responsabilidade
 
 1) Se a Organização, em virtude de uma sentença definitiva proferida por um tribunal competente ou como resultado de um compromisso adoptado ou aprovado pelo Conselho, tiver que pagar a importância de uma reclamação, incluindo quaisquer custos ou despesas relacionados com a mesma, derivada de um acto cometido ou de uma obrigação contraída pela Organização em cumprimento da Convenção ou do presente Acordo, os Signatários pagarão à Organização, na medida em que a reclamação não seja satisfeita através de indemnização, seguro ou outras disposições financeiras, a parte não liquidada relativa àquela reclamação em proporção com as suas respectivas quotas-partes de investimento na data em que surgiu a responsabilidade, não obstante qualquer limite de capital previsto no artigo IV ou estabelecido em conformidade com o mesmo.
 
@@ -642,15 +634,11 @@ Responsabilidade
 
 4) Se a Organização tiver que reembolsar qualquer Signatário em virtude do presente artigo, os Signatários deverão, na medida em que o reembolso não seja satisfeito através de indemnização, seguro ou outras disposições financeiras, pagar à Organização a quantia em dívida do reembolso reclamado na proporção das suas respectivas quotas-partes de investimento na data em que surgiu a responsabilidade, não obstante qualquer limite de capital previsto no artigo IV ou estabelecido em conformidade com o mesmo.
 
-ARTIGO XII
-
-Ilibação da responsabilidade resultante do fornecimento de serviços de telecomunicações
+###### ARTIGO XII — Ilibação da responsabilidade resultante do fornecimento de serviços de telecomunicações
 
 Nem a Organização, nem qualquer Signatário como tal, nem qualquer funcionário ou empregado de qualquer deles, nem qualquer membro do conselho de administração de qualquer Signatário, nem qualquer representante nos diferentes órgãos da Organização actuando no exercício das suas funções, será responsável perante qualquer Signatário ou perante a Organização por perdas ou danos resultantes de indisponibilidade, atraso ou mau funcionamento dos serviços de telecomunicações fornecidos ou que devam ser fornecidos em conformidade com a Convenção e com o presente Acordo.
 
-ARTIGO XIII
-
-Liquidação financeira no caso de retirada ou exclusão
+###### ARTIGO XIII — Liquidação financeira no caso de retirada ou exclusão
 
 1) No prazo de três meses a contar da data efectiva da retirada ou exclusão de um Signatário de acordo com os artigos 29 e 30 da Convenção, o Conselho notificará o Signatário da avaliação feita pelo Conselho da sua situação financeira face à Organização na data efectiva da retirada ou da exclusão e das condições propostas para a liquidação em conformidade com o parágrafo 3). A notificação incluirá a indicação de:
 
@@ -670,9 +658,7 @@ O Conselho fixará a taxa de juro a pagar ao ou pelo Signatário relativamente a
 
 5) O Signatário não perderá quaisquer direitos que tenha adquirido nessa sua capacidade, que de outro modo conservaria depois da data efectiva da retirada ou exclusão e pelos quais não tenha sido compensado através da liquidação estipulada no presente Acordo.
 
-ARTIGO XIV
-
-Aprovação de estações terrenas
+###### ARTIGO XIV — Aprovação de estações terrenas
 
 1) Para poder utilizar o segmento espacial Inmarsat, todas as estações terrenas terão de ser aprovadas pela Organização de acordo com os critérios e procedimentos estabelecidos pelo Conselho em conformidade com o artigo 15, c), da Convenção.
 
@@ -680,9 +666,7 @@ Aprovação de estações terrenas
 
 3) Cada um dos solicitantes de aprovação referidos no parágrafo 2) ficará responsável face à Organização, no que se refere às estações terrenas para as quais tenha submetido um pedido de aprovação, pelo cumprimento por parte dessas estações dos procedimentos e normas especificados pela Organização, a menos que, no caso de ser um Signatário a submeter o pedido de aprovação, a Parte que o designou assuma essa responsabilidade.
 
-ARTIGO XV
-
-Utilização do segmento espacial Inmarsat
+###### ARTIGO XV — Utilização do segmento espacial Inmarsat
 
 1) Qualquer pedido de autorização para utilização do segmento espacial Inmarsat deve ser submetido à Organização através de um Signatário ou, no caso de um território que não esteja sob a jurisdição de uma Parte, através de uma entidade de telecomunicações autorizada.
 
@@ -690,9 +674,7 @@ Utilização do segmento espacial Inmarsat
 
 3) Cada Signatário ou entidade de telecomunicações aos quais tenha sido autorizada a utilização do segmento espacial Inmarsat ficará responsável pelo cumprimento de todas as condições estabelecidas pela Organização a respeito da referida utilização, a menos que, no caso de ser um Signatário a submeter o pedido, a Parte que o designou assuma essa responsabilidade pelas autorizações concedidas relativamente a todas ou a algumas das estações terrenas que não sejam propriedade do referido Signatário ou que não sejam exploradas por ele.
 
-ARTIGO XVI
-
-Resolução de litígios
+###### ARTIGO XVI — Resolução de litígios
 
 1) Os litígios que surjam entre Signatários, ou entre Signatários e a Organização, em relação aos direitos e obrigações decorrentes da Convenção ou do presente Acordo deverão ser resolvidos por negociação entre as partes em litígio. Se dentro de um ano a contar da data em que qualquer das partes tenha requerido a resolução esta não tiver sido conseguida e as partes em litígio não tiverem acordado noutro procedimento, o litígio será submetido a arbitragem em conformidade com o anexo à Convenção, a pedido de qualquer das partes em litígio.
 
@@ -700,25 +682,19 @@ Resolução de litígios
 
 3) Todo o Signatário que tenha deixado de o ser continuará a reger-se pelo presente artigo no referente a litígios que digam respeito aos direitos e obrigações resultantes de ter sido Signatário do presente Acordo.
 
-ARTIGO XVII
-
-Entrada em vigor
+###### ARTIGO XVII — Entrada em vigor
 
 1) O presente Acordo entrará em vigor para qualquer Signatário na data em que a Convenção entrar em vigor para a Parte respectiva, de acordo com o artigo 33 da Convenção.
 
 2) O presente Acordo continuará em vigor enquanto a Convenção estiver em vigor.
 
-ARTIGO XVIII
-
-Emendas
+###### ARTIGO XVIII — Emendas
 
 1) Qualquer Parte ou Signatário pode propor emendas ao presente Acordo. As propostas de emendas serão submetidas à Direcção, a qual informará as outras Partes e Signatários. Só decorridos três meses após a apresentação de uma proposta de emenda esta poderá ser apreciada pelo Conselho. Durante este período, a Direcção solicitará e dará a conhecer as opiniões de todos os Signatários. O Conselho apreciará as emendas nos seis meses seguintes à data da sua difusão. A Assembleia só apreciará as emendas seis meses depois de aprovadas pelo Conselho. Este prazo poderá ser reduzido pela Assembleia, em casos especiais, mediante uma decisão tomada em conformidade com o procedimento previsto para as questões de fundo.
 
 2) Se for confirmada pela Assembleia, depois de ter sido aprovada pelo Conselho, a emenda entrará em vigor cento e vinte dias depois de o Depositário ter sido notificado da sua aprovação por dois terços dos Signatários que à data da confirmação pela Assembleia eram Signatários e representavam pelo menos dois terços do total das quotas-partes de investimento. A notificação da aprovação de uma emenda será transmitida ao Depositário apenas pela Parte interessada, e essa transmissão significará a aceitação da emenda pela Parte. Logo que entre em vigor, a emenda terá carácter obrigatório para todos os Signatários, incluindo aqueles que a não aceitaram.
 
-ARTIGO XIX
-
-Depositário
+###### ARTIGO XIX — Depositário
 
 1) O Depositário do presente Acordo será o Secretário-Geral da Organização Consultiva Marítima Intergovernamental.
 
@@ -848,4 +824,4 @@ f) Quando uma nova Parte se tornar membro da Organização ou quando uma Parte s
 
 g) As quotas-partes de investimento de 0,05% determinadas de acordo com o parágrafo 8) do artigo V do Acordo de Exploração não serão aumentadas pela aplicação dos parágrafos c), d), e) e f) do presente anexo.
 
-**O Ministro dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.**
+O Ministro dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.

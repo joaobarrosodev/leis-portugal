@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/351-1973-421589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f12e776d560efa1e061d53d0da987203174cd3fa13989ef6e2e6fe420d5e2e31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd8b05c70a2583d22c4f65e0f15703e04262830d45bc60f849766567d7b816f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Extinção de Lugares
+- Missão de Combate as Tripanossomíases
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Quadro de Pessoal
+- Serviços de Veterinária do Ultramar
+- Transferência de Competências
+- Transferência de Pessoal
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:413202:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:478211:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408295:por
+  label: "Rectificada a alínea a) do artigo 4.º, o artigo 18.º do presente diploma, e a alínea c) artigo 24.º, o n.º 1 do\
+    \ artigo 86.º, o n.º 3 do artigo 105.º e o mapa I do Diploma Orgânico em anexo, pela RECT.DD290.18.01.1974.PC, DG.IS [15]\
+    \ de 18.01.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1974-408295
+  date: '1974-01-18'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:36Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +121,11 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Os serviços de veterinária do ultramar regem-se pelo diploma orgânico aprovado pelo presente decreto, que dele faz parte integrante e baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º Os serviços de veterinária do ultramar regem-se pelo diploma orgânico aprovado pelo presente decreto, que dele faz parte integrante e baixa assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º Até cento e oitenta dias, contados a partir da data da entrada em vigor do presente diploma, os serviços provinciais submeterão à apreciação do respectivo Governador o projecto do novo regulamento dos serviços.
+Art. 2.º Até cento e oitenta dias, contados a partir da data da entrada em vigor do presente diploma, os serviços provinciais submeterão à apreciação do respectivo Governador o projecto do novo regulamento dos serviços.
 
-###### Art. 3.º - 1. O pessoal dos actuais quadros dos serviços de veterinária do ultramar transitará para os novos quadros - constantes dos mapas I, II e III anexos ao diploma orgânico aprovado por este decreto -, respeitando-se, tanto quanto possível, os cargos que actualmente exercem, com a designação que nos mesmos venha a caber-lhes.
+Art. 3.º - 1. O pessoal dos actuais quadros dos serviços de veterinária do ultramar transitará para os novos quadros - constantes dos mapas I, II e III anexos ao diploma orgânico aprovado por este decreto -, respeitando-se, tanto quanto possível, os cargos que actualmente exercem, com a designação que nos mesmos venha a caber-lhes.
 
 2. A transição do pessoal do quadro comum ou equiparado far-se-á mediante relação nominal constante de portaria do Ministro do Ultramar, anotada pelo Tribunal de Contas e publicada no Diário do Governo.
 
@@ -112,7 +133,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. O pessoal assalariado do quadro permanente transita para o novo quadro, mediante simples despacho dos Governadores provinciais, publicado no respectivo Boletim Oficial.
 
-###### Art. 4.º Na elaboração das portarias a que se refere o artigo anterior observar-se-á o seguinte:
+Art. 4.º Na elaboração das portarias a que se refere o artigo anterior observar-se-á o seguinte:
 
 a) O pessoal actualmente contratado, assalariado ou interino, incluindo o de brigadas ou de missões afins dos serviços de veterinária, poderá ingressar nos novos quadros se o requerer nos sessenta dias seguintes ao da data da publicação deste decreto no Boletim Oficial da província onde presta serviço, levando-se em conta, nas colocações, a antiguidade e os méritos revelados, apreciados nos termos da alínea b) do n.º 1 do artigo 52.º do diploma orgânico dos serviços de veterinária do ultramar;
 
@@ -168,7 +189,7 @@ z) Os actuais capatazes de 1.ª, 2.ª e 3.ª classes do quadro do pessoal assala
 
 z) Os actuais serventes de 1.ª e 2.ª classes do quadro do pessoal assalariado permanente transitam, respectivamente, para contínuos auxiliares de 2.ª e 3.ª classes do mesmo quadro.
 
-###### Art. 5.º - 1. São extintos os lugares de guarda-chefe e de guarda de parques, reservas e coutadas do quadro privativo.
+Art. 5.º - 1. São extintos os lugares de guarda-chefe e de guarda de parques, reservas e coutadas do quadro privativo.
 
 2. Os actuais guardas-chefes, incluindo os interinos, transitam para fiscais de caça de 1.ª classe.
 
@@ -176,49 +197,49 @@ z) Os actuais serventes de 1.ª e 2.ª classes do quadro do pessoal assalariado 
 
 4. Os actuais guardas de parques, reservas e coutadas, interinos e assalariados, transitam para fiscais de caça de 3.ª classe.
 
-###### Art. 6.º - 1. São extintos os lugares de arquivista e de aspirante do quadro de pessoal de secretaria, sendo as categorias de segundos e terceiros-oficiais aumentadas, respectivamente, em número igual ao dos lugares extintos.
+Art. 6.º - 1. São extintos os lugares de arquivista e de aspirante do quadro de pessoal de secretaria, sendo as categorias de segundos e terceiros-oficiais aumentadas, respectivamente, em número igual ao dos lugares extintos.
 
 2. Os actuais arquivistas dos quadros que tenham mais de dois anos na categoria com boas informações transitam para segundos-oficiais e os restantes para terceiros-oficiais.
 
 3. Os aspirantes, em qualquer situação, incluindo os aprovados em concurso para essa categoria, transitam para terceiros-oficiais.
 
-###### Art. 7.º O pessoal destinado a desempenhar as funções de tradutor-correspondente ingressa na categoria de terceiro-biblioteçário.
+Art. 7.º O pessoal destinado a desempenhar as funções de tradutor-correspondente ingressa na categoria de terceiro-biblioteçário.
 
-###### Art. 8.º Se da transição para os novos quadros resultar para alguns agentes diminuição de vencimentos ou alteração de outros direitos, os mesmos agentes manterão, enquanto permanecerem na categoria para que transitarem, os seus actuais vencimentos e regalias inerentes.
+Art. 8.º Se da transição para os novos quadros resultar para alguns agentes diminuição de vencimentos ou alteração de outros direitos, os mesmos agentes manterão, enquanto permanecerem na categoria para que transitarem, os seus actuais vencimentos e regalias inerentes.
 
-###### Art. 9.º Até serem publicadas as portarias a que se referem os n.os 2 e 3 do artigo 3.º, os despachos mencionados no n.º 4 do mesmo artigo e a portaria e despacho referidos no n.º 2 do artigo 15.º, o pessoal que transita para os novos quadros manter-se-á nos actuais cargos, continuando a ser remunerado por conta das verbas que têm suportado tais encargos, considerando-se empossado na data da publicação das respectivas portarias e despachos nos Boletins Oficiais.
+Art. 9.º Até serem publicadas as portarias a que se referem os n.os 2 e 3 do artigo 3.º, os despachos mencionados no n.º 4 do mesmo artigo e a portaria e despacho referidos no n.º 2 do artigo 15.º, o pessoal que transita para os novos quadros manter-se-á nos actuais cargos, continuando a ser remunerado por conta das verbas que têm suportado tais encargos, considerando-se empossado na data da publicação das respectivas portarias e despachos nos Boletins Oficiais.
 
-###### Art. 10.º - 1. O primeiro provimento nas vagas que ficarem existindo depois do movimento do pessoal referido nos artigos anteriores será feito por escolha entre os funcionários dos serviços, devidamente qualificados, ou, na sua falta, por elementos estranhos aos mesmos.
+Art. 10.º - 1. O primeiro provimento nas vagas que ficarem existindo depois do movimento do pessoal referido nos artigos anteriores será feito por escolha entre os funcionários dos serviços, devidamente qualificados, ou, na sua falta, por elementos estranhos aos mesmos.
 
 2. Para efeitos do n.º 1 deste artigo, torna-se necessário o parecer favorável do conselho técnico dos serviços de veterinária.
 
-###### Art. 11.º Enquanto se mantiverem as actuais dificuldades de recrutamento de técnicos de qualquer nível, poderá o Ministro do Ultramar autorizar que sejam admitidos a concurso, para lugares dos quadros, técnicos que não satisfaçam à condição de limite de idade estabelecida na lei geral, fixando-se neste caso, no aviso de abertura de concurso, as regras a que o mesmo deve obedecer.
+Art. 11.º Enquanto se mantiverem as actuais dificuldades de recrutamento de técnicos de qualquer nível, poderá o Ministro do Ultramar autorizar que sejam admitidos a concurso, para lugares dos quadros, técnicos que não satisfaçam à condição de limite de idade estabelecida na lei geral, fixando-se neste caso, no aviso de abertura de concurso, as regras a que o mesmo deve obedecer.
 
-###### Art. 12.º O provimento por nomeação dos auxiliares de 3.ª classe, fiscais de caça de 3.ª classe e auxiliares de ecologia praticantes poderá efectuar-se, sem dependência dos concursos previstos nos diplomas orgânicos, mediante requerimentos instruídos com documentos comprovativos das condições genéricas e especificas para o desempenho daqueles cargos, sempre que os Governadores provinciais, sob proposta dos respectivos serviços, o julguem indispensável à rápida satisfação das suas exigências funcionais.
+Art. 12.º O provimento por nomeação dos auxiliares de 3.ª classe, fiscais de caça de 3.ª classe e auxiliares de ecologia praticantes poderá efectuar-se, sem dependência dos concursos previstos nos diplomas orgânicos, mediante requerimentos instruídos com documentos comprovativos das condições genéricas e especificas para o desempenho daqueles cargos, sempre que os Governadores provinciais, sob proposta dos respectivos serviços, o julguem indispensável à rápida satisfação das suas exigências funcionais.
 
-###### Art. 13.º O preenchimento dos lugares criados efectuar-se-á à medida que forem orçamentados, ficando desde já os Governadores das províncias autorizados a abrir os créditos necessários para ocorrer aos encargos resultantes da execução do que se estabelece no presente diploma.
+Art. 13.º O preenchimento dos lugares criados efectuar-se-á à medida que forem orçamentados, ficando desde já os Governadores das províncias autorizados a abrir os créditos necessários para ocorrer aos encargos resultantes da execução do que se estabelece no presente diploma.
 
-###### Art. 14.º As divisões de veterinária e de entomologia da Missão de Combate às Tripanossomíases de Moçambique transitam para a Direcção Provincial dos Serviços de Veterinária de Moçambique, onde passam a constituir o Departamento de Tripanossomíases Animais.
+Art. 14.º As divisões de veterinária e de entomologia da Missão de Combate às Tripanossomíases de Moçambique transitam para a Direcção Provincial dos Serviços de Veterinária de Moçambique, onde passam a constituir o Departamento de Tripanossomíases Animais.
 
-###### Art. 15.º - 1. O pessoal que actualmente presta serviço nas divisões de veterinária e de entomologia da Missão de Combate às Tripanossomíases de Moçambique transitará, nas mesmas condições em que se encontra, para o quadro dos Serviços de Veterinária de Moçambique, que será aumentado em número equivalente de lugares.
+Art. 15.º - 1. O pessoal que actualmente presta serviço nas divisões de veterinária e de entomologia da Missão de Combate às Tripanossomíases de Moçambique transitará, nas mesmas condições em que se encontra, para o quadro dos Serviços de Veterinária de Moçambique, que será aumentado em número equivalente de lugares.
 
 2. A transição do referido pessoal far-se-á mediante relação nominal constante de despacho do respectivo Governador provincial, anotado pelo Tribunal Administrativo e publicado no Boletim Oficial.
 
 3. As verbas atribuídas às referidas divisões, destinadas à execução dos trabalhos a seu cargo, transitarão igualmente para os respectivos serviços de veterinária.
 
-###### Art. 16.º As atribuições conferidas aos serviços de veterinária pelo diploma orgânico aprovado no presente decreto, relativamente ao pescado, só vigorarão em Angola na parte em que não colidam com o disposto em diplomas referentes à competência e atribuições do Instituto das Indústrias de Pesca de Angola.
+Art. 16.º As atribuições conferidas aos serviços de veterinária pelo diploma orgânico aprovado no presente decreto, relativamente ao pescado, só vigorarão em Angola na parte em que não colidam com o disposto em diplomas referentes à competência e atribuições do Instituto das Indústrias de Pesca de Angola.
 
-###### Art. 17.º Este diploma entra em vigor sessenta dias depois da sua publicação nos Boletins Oficiais.
+Art. 17.º Este diploma entra em vigor sessenta dias depois da sua publicação nos Boletins Oficiais.
 
-###### Art. 18.º São revogados os Decretos n.os 41235, de 3 de Outubro de 1966, e 49103, de 25 de Junho de 1969.
+Art. 18.º São revogados os Decretos n.os 41235, de 3 de Outubro de 1966, e 49103, de 25 de Junho de 1969.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 16 de Junho de 1973.**
+Promulgado em 16 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.
 
@@ -226,7 +247,7 @@ DIPLOMA ORGÂNICO DOS SERVIÇOS DE VETERINÁRIA DO ULTRAMAR
 
 ### CAPÍTULO I — Atribuições
 
-###### Artigo 1.º Os serviços de veterinária do ultramar têm como atribuições:
+Artigo 1.º Os serviços de veterinária do ultramar têm como atribuições:
 
 a) A defesa sanitária dos animais;
 
@@ -246,17 +267,17 @@ g) A actividade veterinária.
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 2.º - 1. Nas províncias ultramarinas os serviços de veterinária estão a cargo de direcções provinciais e de repartições provinciais, respectivamente nas províncias de governo-geral e nas províncias de governo simples.
+Art. 2.º - 1. Nas províncias ultramarinas os serviços de veterinária estão a cargo de direcções provinciais e de repartições provinciais, respectivamente nas províncias de governo-geral e nas províncias de governo simples.
 
 2. Os governos provinciais superintendem em todas as actividades dos serviços de veterinária, sem prejuízo do que estiver fixado nas leis quanto à intervenção que deva ter o Ministro do Ultramar, orientando-os, coordenando-os e fiscalizando-os.
 
 #### SECÇÃO II — Direcções provinciais
 
-###### Art. 3.º As direcções provinciais compreendem serviços centrais, regionais, de apoio e consultivos.
+Art. 3.º As direcções provinciais compreendem serviços centrais, regionais, de apoio e consultivos.
 
 ##### SUBSECÇÃO I — Serviços centrais
 
-###### Art. 4.º Os serviços centrais das direcções provinciais são os seguintes:
+Art. 4.º Os serviços centrais das direcções provinciais são os seguintes:
 
 Sanidade e higiene pública veterinária;
 
@@ -268,7 +289,7 @@ Economia pecuária;
 
 Protecção à fauna.
 
-###### Art. 5.º O serviço de sanidade e higiene pública veterinária tem por missão, no âmbito das atribuições das alíneas a) e b) do artigo 1.º:
+Art. 5.º O serviço de sanidade e higiene pública veterinária tem por missão, no âmbito das atribuições das alíneas a) e b) do artigo 1.º:
 
 a) Promover a profilaxia e o combate às doenças dos animais;
 
@@ -278,7 +299,7 @@ c) Promover a profilaxia e o combate às zoonoses;
 
 d) Assegurar a genuinidade e a salubridade dos produtos de origem animal.
 
-###### Art. 6.º O serviço de sanidade e higiene pública veterinária compreenderá os seguintes departamentos:
+Art. 6.º O serviço de sanidade e higiene pública veterinária compreenderá os seguintes departamentos:
 
 Sanidade veterinária;
 
@@ -286,7 +307,7 @@ Higiene pública veterinária;
 
 Tripanossomíases animais.
 
-###### Art. 7.º Ao departamento de sanidade veterinária incumbe, no âmbito das atribuições das alíneas a) e b) do artigo 5.º:
+Art. 7.º Ao departamento de sanidade veterinária incumbe, no âmbito das atribuições das alíneas a) e b) do artigo 5.º:
 
 a) Organizar a luta contra as enzootias e as epizootias que surjam no território, por meio dos serviços permanentes ou de campanhas levadas a efeito por brigadas especiais;
 
@@ -312,7 +333,7 @@ k) Manter os serviços regionais informados do estado sanitário da província, 
 
 l) Estabelecer as normas de funcionamento dos lazaretos e dos parques de quarentena.
 
-###### Art. 8.º Ao departamento de higiene pública veterinária incumbe, no âmbito das atribuições das alíneas c) e d) do artigo 5.º:
+Art. 8.º Ao departamento de higiene pública veterinária incumbe, no âmbito das atribuições das alíneas c) e d) do artigo 5.º:
 
 a) Propor as providências necessárias para a defesa da saúde dos animais e combate das doenças transmissíveis ao homem;
 
@@ -328,7 +349,7 @@ f) Dar parecer sobre as posturas ou regulamentos municipais relativos à explora
 
 g) Dar parecer sobre pedidos de autorizações, alvarás ou licenças sanitárias para a instalação e funcionamento dos estabelecimentos sob a sua vigilância hígio-sanitária.
 
-###### Art. 9.º Ao departamento das tripassomíases animais incumbe, no âmbito da atribuição da alínea a) do artigo 5.º:
+Art. 9.º Ao departamento das tripassomíases animais incumbe, no âmbito da atribuição da alínea a) do artigo 5.º:
 
 a) Organizar a profilaxia e a luta contra as tripanossomíases animais;
 
@@ -338,7 +359,7 @@ c) Promover o combate e erradicação da tsé-tsé nas áreas infestadas e imped
 
 d) Colaborar na ocupação das terras conquistadas à glossina.
 
-###### Art. 10.º O serviço de produção animal tem por missão o que consta da alínea c) do artigo 1.º e compreenderá os seguintes departamentos:
+Art. 10.º O serviço de produção animal tem por missão o que consta da alínea c) do artigo 1.º e compreenderá os seguintes departamentos:
 
 Bovinicultura;
 
@@ -350,7 +371,7 @@ Avicultura;
 
 Nutrição animal.
 
-###### Art. 11.º Aos departamentos de bovinicultura, suinicultura, ovinicultura e avicultura incumbe, no âmbito da sua especialidade, orientar, apoiar e estimular a produção animal nos campos da ocupação pecuária, melhoramento das condições de exploração e melhoramento dos efectivos produtores, nomeadamente:
+Art. 11.º Aos departamentos de bovinicultura, suinicultura, ovinicultura e avicultura incumbe, no âmbito da sua especialidade, orientar, apoiar e estimular a produção animal nos campos da ocupação pecuária, melhoramento das condições de exploração e melhoramento dos efectivos produtores, nomeadamente:
 
 a) Organizar e orientar a acção dos serviços no que se refere a reconhecimento, ocupação ou melhoramento das condições de zonas onde não exista ou se deva intensificar a exploração pecuária;
 
@@ -382,7 +403,7 @@ n) Estabelecer os padrões oficiais das raças selectas e manter registos geneal
 
 o) Apoiar a realização de feiras, exposições, concursos ou outros certames de interesse pecuário.
 
-###### Art. 12.º Ao departamento de nutrição animal incumbe apoiar a produção no campo do melhoramento das condições alimentares, nomeadamente:
+Art. 12.º Ao departamento de nutrição animal incumbe apoiar a produção no campo do melhoramento das condições alimentares, nomeadamente:
 
 a) Propor as medidas relacionadas com a saída ou deslocação dos efectivos de áreas de pastagem sobrepovoadas, em colaboração com os departamentos especializados respectivos;
 
@@ -396,9 +417,9 @@ e) Estabelecer as normas hígio-técnicas a que devem obedecer a preparação, a
 
 f) Dar parecer sobre as instalações destinadas à preparação de alimentos para animais, bem como sobre o respectivo apetrechamento.
 
-###### Art. 13.º Incumbe a todos os departamentos do serviço de produção animal colaborar com os de zootecnia dos institutos de investigação veterinária nos trabalhos de investigação e experimentação relacionados com o esclarecimento dos problemas da animalicultura.
+Art. 13.º Incumbe a todos os departamentos do serviço de produção animal colaborar com os de zootecnia dos institutos de investigação veterinária nos trabalhos de investigação e experimentação relacionados com o esclarecimento dos problemas da animalicultura.
 
-###### Art. 14.º O serviço de tecnologia tem por missão, no âmbito da atribuição da alínea d) do artigo 1.º:
+Art. 14.º O serviço de tecnologia tem por missão, no âmbito da atribuição da alínea d) do artigo 1.º:
 
 a) Definir as características dos produtos e derivados de origem animal destinados à alimentação humana e animal ou à industrialização e das respectivas embalagens;
 
@@ -410,7 +431,7 @@ d) Apreciar os projectos e planos de construção ou modificação e de apetrech
 
 e) Conceder, sem prejuízo da competência conferida a outros serviços, autorizações, alvarás e licenças para instalação, funcionamento e exploração dos estabelecimentos que manipulem, preparem ou transformem produtos, subprodutos e despojos de origem animal.
 
-###### Art. 15.º O serviço de tecnologia compreenderá os seguintes departamentos:
+Art. 15.º O serviço de tecnologia compreenderá os seguintes departamentos:
 
 Lacticínios;
 
@@ -422,7 +443,7 @@ Lãs, peles e couros;
 
 Frio industrial,
 
-###### Art. 16.º Ao departamento de lacticínios incumbe, no âmbito das atribuições das alíneas a), b), c) e d) do artigo 14.º:
+Art. 16.º Ao departamento de lacticínios incumbe, no âmbito das atribuições das alíneas a), b), c) e d) do artigo 14.º:
 
 a) Definir as características do leite e derivados destinados à alimentação humana e animal ou à industrialização e das respectivas embalagens;
 
@@ -432,7 +453,7 @@ c) Orientar e prestar assistência técnica à indústria de lacticínios;
 
 d) Apreciar os projectos e planos de construção ou modificação e de apetrechamento das instalações ou estabelecimentos destinados à preparação, fabrico, tratamento, conservação e recolha do leite e derivados.
 
-###### Art. 17.º Ao departamento de carnes e produtos avícolas incumbe, no âmbito das atribuições das alíneas a), b), c) e d) do artigo 14.º:
+Art. 17.º Ao departamento de carnes e produtos avícolas incumbe, no âmbito das atribuições das alíneas a), b), c) e d) do artigo 14.º:
 
 a) Definir, propor ou dar parecer sobre os requisitos técnicos a observar na preparação, fabrico, manipulação, embalagem, recolha, armazenagem, transporte e distribuição das carnes, bem como dos produtos frescos ou conservados por qualquer meio empregados na sua preparação;
 
@@ -442,7 +463,7 @@ c) Orientar e prestar assistência técnica à indústria que se dedique à labo
 
 d) Apreciar os projectos e planos de construção ou modificação e de apetrechamento das instalações ou estabelecimentos destinados à preparação, fabrico, tratamento, conservação, armazenagem e transporte de carnes, dos produtos de preparação de carnes e dos produtos avícolas, nomeadamente os centros de inspecção e de classificação de ovos.
 
-###### Art. 18.º Ao departamento do pescado compete, no âmbito das atribuições das alíneas a), b), c) e d) do artigo 14.º:
+Art. 18.º Ao departamento do pescado compete, no âmbito das atribuições das alíneas a), b), c) e d) do artigo 14.º:
 
 a) Definir as características do pescado fresco ou conservado, bem como dos seus produtos;
 
@@ -452,7 +473,7 @@ c) Orientar e prestar assistência técnica à indústria que se dedique à labo
 
 d) Apreciar os projectos e planos de construção ou modificação e de apetrechamento das instalações ou estabelecimentos destinados à preparação, fabrico, tratamento, conservação, armazenagem e transporte de pescado e seus produtos.
 
-###### Art. 19.º Ao departamento de lãs, peles e couros incumbe, no âmbito das atribuições das alíneas a), b), c) e d) do artigo 14.º:
+Art. 19.º Ao departamento de lãs, peles e couros incumbe, no âmbito das atribuições das alíneas a), b), c) e d) do artigo 14.º:
 
 a) Definir as características dos produtos, tais como lãs, pêlos, peles e couros e outros despojos ou subprodutos de origem animal;
 
@@ -462,7 +483,7 @@ c) Apreciar os projectos e planos de construção ou modificação e de apetrech
 
 d) Orientar e prestar assistência técnica à indústria que se dedique à laboração de lãs, pêlos, peles, couros e outros despojos ou subprodutos de origem animal.
 
-###### Art. 20.º Ao departamento do frio industrial incumbe, no âmbito das atribuições das alíneas b), c) e d) do artigo 14.º:
+Art. 20.º Ao departamento do frio industrial incumbe, no âmbito das atribuições das alíneas b), c) e d) do artigo 14.º:
 
 a) Definir, propor ou dar parecer sobre os requisitos técnicos a observar na utilização do frio industrial para preparação, fabrico, manipulação, embalagem, recolha, armazenamento, transporte e distribuição dos produtos, subprodutos e despojos de origem animal;
 
@@ -472,7 +493,7 @@ c) Orientar e prestar assistência técnica à indústria que se dedique à labo
 
 d) Colaborar com a Delegação Provincial da Comissão Nacional do Frio.
 
-###### Art. 21.º O serviço de economia pecuária tem por missão, no âmbito da atribuição da alínea e) do artigo 1.º:
+Art. 21.º O serviço de economia pecuária tem por missão, no âmbito da atribuição da alínea e) do artigo 1.º:
 
 a) Coordenar e disciplinar, por si ou em colaboração com outras entidades, a comercialização dos animais, incluindo o pescado, seus produtos e despojos;
 
@@ -480,7 +501,7 @@ b) Promover e apoiar a organização de associações de interesse pecuário e p
 
 c) Promover a recolha de elementos de informação e de estatística, relacionados com a actividade pecuária e a pesca.
 
-###### Art. 22.º O serviço de economia pecuária compreenderá os seguintes departamentos:
+Art. 22.º O serviço de economia pecuária compreenderá os seguintes departamentos:
 
 Comercialização;
 
@@ -488,7 +509,7 @@ Associações de produtores;
 
 Estatística e inquéritos;
 
-###### Art. 23.º Ao departamento de comercialização incumbe, no âmbito da atribuição da alínea a) do artigo 21.º:
+Art. 23.º Ao departamento de comercialização incumbe, no âmbito da atribuição da alínea a) do artigo 21.º:
 
 a) Prospectar as necessidades do mercado interno, com vista à disciplina do comércio, importação e exportação de animais, incluindo pescado, e de produtos de origem animal;
 
@@ -498,7 +519,7 @@ c) Estabelecer normas ou dar parecer sobre tabelas de preços, taxas de utiliza�
 
 d) Promover, por si ou em colaboração com outras entidades, estudos atinentes ao estabelecimento dos custos de produção animal, incluindo pescado, e dos produtos seus derivados.
 
-###### Art. 24.º Ao departamento de associações de produtores incumbe, no âmbito da atribuição da alínea b) do artigo 21.º:
+Art. 24.º Ao departamento de associações de produtores incumbe, no âmbito da atribuição da alínea b) do artigo 21.º:
 
 a) Estimular, por si ou em colaboração com outras entidades, a criação de agrupamentos, associações e cooperativas de produtores;
 
@@ -506,7 +527,7 @@ b) Coadjuvar os organismos corporativos, cooperativas e demais agrupamentos de p
 
 c) Favorecer a criação de mútuas e de associações de seguros, de interesse para a exploração pecuniária ou piscatória;
 
-###### Art. 25.º Ao departamento de estatística e inquéritos incumbe, no âmbito da atribuição da alínea c) do artigo 21.º:
+Art. 25.º Ao departamento de estatística e inquéritos incumbe, no âmbito da atribuição da alínea c) do artigo 21.º:
 
 a) Por si ou em colaboração com outros organismos, coligir elementos e realizar censos e inquéritos de interesse pecuário ou piscatório;
 
@@ -516,7 +537,7 @@ c) Promover nos anos terminados em 0 e 5 o arrolamento geral dos gados e animais
 
 d) Manter actualizadas as estatísticas de produção local, as de importação e de exportação, assim como as dos respectivos preços.
 
-###### Art. 26.º O serviço de protecção à fauna tem por missão, no âmbito da atribuição da alínea f) do artigo 1.º:
+Art. 26.º O serviço de protecção à fauna tem por missão, no âmbito da atribuição da alínea f) do artigo 1.º:
 
 a) O estudo da biologia da fauna;
 
@@ -528,13 +549,13 @@ d) A cinegética;
 
 e) A fiscalização da caça.
 
-###### Art. 27.º O serviço de protecção à fauna compreende os seguintes departamentos:
+Art. 27.º O serviço de protecção à fauna compreende os seguintes departamentos:
 
 Fauna;
 
 Cinegética.
 
-###### Art. 28.º Ao departamento da fauna incumbe, no âmbito das atribuições das alíneas a), b) e c) do artigo 26.º:
+Art. 28.º Ao departamento da fauna incumbe, no âmbito das atribuições das alíneas a), b) e c) do artigo 26.º:
 
 a) Pelos seus próprios meios ou em colaboração com outras entidades, nacionais e estrangeiras, efectuar estudos, nomeadamente os relacionados com as migrações, transumâncias regionais, condicionamento ecológico e patológico das espécies selvagens e suas relações com os animais domésticos;
 
@@ -558,7 +579,7 @@ j) Regulamentar a exploração económica das espécies selvagens;
 
 k) Colaborar no fomento do turismo relacionado com a fauna selvagem.
 
-###### Art. 29.º Ao departamento da cinegética incumbe, no âmbito das atribuições das alíneas d) e e) do artigo 26.º:
+Art. 29.º Ao departamento da cinegética incumbe, no âmbito das atribuições das alíneas d) e e) do artigo 26.º:
 
 a) Regulamentar o exercício da caça e o seu aproveitamento económico e turístico;
 
@@ -568,33 +589,33 @@ c) Orientar a fiscalização das actividades cinegéticas;
 
 d) Cumprir e fazer cumprir as convenções internacionais sobre protecção da fauna selvagem.
 
-###### Art. 30.º Na direcção dos serviços funcionará o departamento de actividade veterinária, que tem por missão, no âmbito da atribuição da alínea g) do artigo 1.º:
+Art. 30.º Na direcção dos serviços funcionará o departamento de actividade veterinária, que tem por missão, no âmbito da atribuição da alínea g) do artigo 1.º:
 
 a) A deontologia e a jurisprudência veterinária;
 
 b) A formação e a actividade profissionais.
 
-###### Art. 31.º Cada departamento compreenderá divisões, cujo número e atribuições serão estabelecidos pelos governos provinciais nos regulamentos dos serviços.
+Art. 31.º Cada departamento compreenderá divisões, cujo número e atribuições serão estabelecidos pelos governos provinciais nos regulamentos dos serviços.
 
 ##### SUBSECÇÃO II — Serviços regionais
 
-###### Art. 32.º - 1. Os serviços regionais são constituídos por direcções distritais e por parques nacionais, reservas e coutadas.
+Art. 32.º - 1. Os serviços regionais são constituídos por direcções distritais e por parques nacionais, reservas e coutadas.
 
 2. As direcções distritais são divididas em delegações de sanidade pecuária e estas, por sua vez, em zonas pecuárias.
 
-###### Art. 33.º Os parques nacionais, reservas e coutadas dependem do serviço de Protecção da Fauna.
+Art. 33.º Os parques nacionais, reservas e coutadas dependem do serviço de Protecção da Fauna.
 
-###### Art. 34.º - 1. A ocupação veterinária de cada província será estabelecida pelo respectivo governo, sob proposta dos serviços.
+Art. 34.º - 1. A ocupação veterinária de cada província será estabelecida pelo respectivo governo, sob proposta dos serviços.
 
 2. Quando tal se justifique, poderão as direcções distritais ser agrupadas em intendências de pecuária.
 
-###### Art. 35.º As atribuições dos serviços regionais serão definidas no regulamento dos serviços.
+Art. 35.º As atribuições dos serviços regionais serão definidas no regulamento dos serviços.
 
 ##### SUBSECÇÃO III — Serviços de apoio
 
 A) Dos serviços do apoio às direcções provinciais
 
-###### Art. 36.º Constituem serviços de apoio às direcções provinciais:
+Art. 36.º Constituem serviços de apoio às direcções provinciais:
 
 O gabinete de estudos;
 
@@ -606,9 +627,9 @@ As oficinas;
 
 As brigadas e missões.
 
-###### Art. 37.º Junto do gabinete de estudos e do gabinete de assistência técnica e vulgarização funcionará uma secretaria técnica, constituída por pessoal deslocado dos serviços administrativos, devendo as suas atribuições ser definidas em regulamento interno.
+Art. 37.º Junto do gabinete de estudos e do gabinete de assistência técnica e vulgarização funcionará uma secretaria técnica, constituída por pessoal deslocado dos serviços administrativos, devendo as suas atribuições ser definidas em regulamento interno.
 
-###### Art. 38.º O gabinete de estudo terá como atribuições:
+Art. 38.º O gabinete de estudo terá como atribuições:
 
 a) Estudar a organização e funcionamento dos serviços e planificar e programar as suas actividades;
 
@@ -616,7 +637,7 @@ b) Proceder a estudos e promover reuniões de carácter técnico-económico de i
 
 c) Organizar o serviço de documentação que, directa ou indirectamente, se relacione com as atribuições dos serviços.
 
-###### Art. 39.º O gabinete de estudos disporá de pessoal técnico privativo e compreenderá os seguintes departamentos:
+Art. 39.º O gabinete de estudos disporá de pessoal técnico privativo e compreenderá os seguintes departamentos:
 
 Organização e métodos;
 
@@ -624,7 +645,7 @@ Planificação;
 
 Documentação.
 
-###### Art. 40.º O departamento de organização e métodos terá como atribuições:
+Art. 40.º O departamento de organização e métodos terá como atribuições:
 
 a) Estudar a organização e funcionamento dos serviços e promover a sua racionalização constante;
 
@@ -632,7 +653,7 @@ b) Estabelecer as normas para execução de planos e programas que interessem à
 
 c) Dar parecer sobre assuntos respeitantes a pessoal, material, impressos e outros meios de actuação, visando a maior produtividade dos serviços.
 
-###### Art. 41.º O departamento de planificação terá como atribuições:
+Art. 41.º O departamento de planificação terá como atribuições:
 
 a) Planificar ou programar os empreendimentos que constituem os objectivos gerais dos serviços de veterinária ou com eles relacionados;
 
@@ -644,7 +665,7 @@ d) Proceder a estudos de carácter técnico-económico;
 
 e) Organizar as jornadas médico-veterinárias e realizar concursos de interesse pecuário.
 
-###### Art. 42.º O departamento de documentação, constituído pela biblioteca e pelos gabinetes de desenho e impressão e de fotografia, terá como atribuições:
+Art. 42.º O departamento de documentação, constituído pela biblioteca e pelos gabinetes de desenho e impressão e de fotografia, terá como atribuições:
 
 a) Organizar e manter actualizada a biblioteca;
 
@@ -654,7 +675,7 @@ c) Executar os trabalhos de desenho e impressão de interesse para os serviços;
 
 d) Preparar e coordenar trabalhos para publicação.
 
-###### Art. 43.º O gabinete de assistência técnica e vulgarização disporá de pessoal técnico privativo e terá como atribuições:
+Art. 43.º O gabinete de assistência técnica e vulgarização disporá de pessoal técnico privativo e terá como atribuições:
 
 a) Orientar e coordenar a acção das brigadas técnicas de vulgarização;
 
@@ -666,7 +687,7 @@ d) Realizar cursos de aperfeiçoamento e de actualização para o pessoal dos se
 
 e) Programar textos para publicação, obter filmes e outro material de divulgação de interesse pecuário.
 
-###### Art. 44.º Os serviços administrativos terão como atribuições:
+Art. 44.º Os serviços administrativos terão como atribuições:
 
 a) Assegurar as relações entre os diversos órgãos dos serviços e entre estes e os organismos ou entidades oficiais e particulares;
 
@@ -678,7 +699,7 @@ d) Executar e manter actualizada a contabilidade dos serviços;
 
 e) Arrecadar as receitas e manter actualizado o património dos serviços.
 
-###### Art. 45.º - 1. Os serviços administrativos das direcções provinciais compreendem as seguintes secções:
+Art. 45.º - 1. Os serviços administrativos das direcções provinciais compreendem as seguintes secções:
 
 a) Expediente geral e arquivo;
 
@@ -692,19 +713,19 @@ d) Património.
 
 3. As atribuições da secretaria central e das secções serão definidas em regulamento interno.
 
-###### Art. 46.º - 1. Os serviços regionais disporão de secretaria ou de secções de secretaria, providas do pessoal necessário.
+Art. 46.º - 1. Os serviços regionais disporão de secretaria ou de secções de secretaria, providas do pessoal necessário.
 
 2. A chefia da secretaria poderá ser desempenhada por um chefe de secção.
 
-###### Art. 47.º As atribuições das oficinas serão definidas no regulamento dos serviços.
+Art. 47.º As atribuições das oficinas serão definidas no regulamento dos serviços.
 
-###### Art. 48.º - 1. Com o fim de incrementar ou apoiar a acção dos serviços, poderão ser criadas brigadas e missões, que actuarão sempre na imediata dependência do director dos serviços.
+Art. 48.º - 1. Com o fim de incrementar ou apoiar a acção dos serviços, poderão ser criadas brigadas e missões, que actuarão sempre na imediata dependência do director dos serviços.
 
 2. A constituição de brigadas e missões obedecerá às leis em vigor e as suas atribuições serão definidas nos diplomas que as criarem.
 
 B) Dos serviços de apoio às direcções distritais
 
-###### Art. 49.º - 1. São serviços de apoio das direcções distritais:
+Art. 49.º - 1. São serviços de apoio das direcções distritais:
 
 As estações de fomento pecuário;
 
@@ -722,7 +743,7 @@ Os postos de fiscalização de caça.
 
 C) Dos serviços de apoio às delegações de sanidade pecuária
 
-###### Art. 50.º Poderão ser criados nas delegações de sanidade pecuária, quando for julgado conveniente, os seguintes serviços:
+Art. 50.º Poderão ser criados nas delegações de sanidade pecuária, quando for julgado conveniente, os seguintes serviços:
 
 Gabinete de diagnóstico e análise;
 
@@ -738,11 +759,11 @@ Laboratório de classificação e análise de leite.
 
 ##### SUBSECÇÃO IV — Serviços consultivos
 
-###### Art. 51.º - 1. Junto das direcções dos serviços funcionará, como organismo consultivo, o conselho técnico, que será constituído pelo director dos serviços, que presidirá, pelo subdirector e os chefes de serviço, podendo ser convocados para as sessões outros técnicos dos serviços ou convidadas outras pessoas, quando isso se reconheça conveniente.
+Art. 51.º - 1. Junto das direcções dos serviços funcionará, como organismo consultivo, o conselho técnico, que será constituído pelo director dos serviços, que presidirá, pelo subdirector e os chefes de serviço, podendo ser convocados para as sessões outros técnicos dos serviços ou convidadas outras pessoas, quando isso se reconheça conveniente.
 
 2. Um funcionário dos serviços designado pelo director dos serviços desempenhará as funções de secretário, sem direito a voto.
 
-###### Art. 52.º - 1. Ao conselho técnico incumbe dar parecer sobre:
+Art. 52.º - 1. Ao conselho técnico incumbe dar parecer sobre:
 
 a) O projecto do plano de trabalhos para o ano seguinte na reunião ordinária realizada no 4.º trimestre;
 
@@ -762,7 +783,7 @@ f) Os assuntos que o director dos serviços entenda dever submeter-lhe.
 
 #### SECÇÃO III — Repartições provinciais
 
-###### Art. 53.º - 1. As repartições provinciais compreenderão serviços centrais, regionais e de apoio, com os departamentos e divisões que a importância e as exigências dos serviços justifiquem, conforme o que se dispuser nos respectivos regulamentos e observando a nomenclatura e a hierarquização constante do presente diploma orgânico.
+Art. 53.º - 1. As repartições provinciais compreenderão serviços centrais, regionais e de apoio, com os departamentos e divisões que a importância e as exigências dos serviços justifiquem, conforme o que se dispuser nos respectivos regulamentos e observando a nomenclatura e a hierarquização constante do presente diploma orgânico.
 
 2. Os serviços administrativos das repartições provinciais constituirão uma secretaria, chefiada por um funcionário com a categoria de chefe de secção.
 
@@ -770,7 +791,7 @@ f) Os assuntos que o director dos serviços entenda dever submeter-lhe.
 
 #### SECÇÃO I — Quadros
 
-###### Art. 54.º - 1. O pessoal dos serviços de veterinária do ultramar distribui-se pelos seguintes quadros:
+Art. 54.º - 1. O pessoal dos serviços de veterinária do ultramar distribui-se pelos seguintes quadros:
 
 Quadro comum;
 
@@ -782,57 +803,57 @@ Quadro de pessoal assalariado permanente.
 
 2. O regulamento dos serviços de cada província indicará o pessoal componente dos quadros privativo e assalariado permanente.
 
-###### Art. 55.º O pessoal dos serviços de veterinária, salvas as disposições do presente diploma e dos regulamentos que na sua execução forem publicados, terá os direitos e os deveres que competem aos funcionários civis do ultramar, ficando sujeito, na parte aplicável, ao regime disciplinar do Estatuto do Funcionalismo Ultramarino.
+Art. 55.º O pessoal dos serviços de veterinária, salvas as disposições do presente diploma e dos regulamentos que na sua execução forem publicados, terá os direitos e os deveres que competem aos funcionários civis do ultramar, ficando sujeito, na parte aplicável, ao regime disciplinar do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 56.º É fixada em 18 anos a idade mínima para ingresso nos quadros.
+Art. 56.º É fixada em 18 anos a idade mínima para ingresso nos quadros.
 
 ##### SUBSECÇÃO I — Quadro comum
 
-###### Art. 57.º Pertencerá ao quadro comum o pessoal descrito no mapa I anexo a este diploma e que dele faz parte integrante.
+Art. 57.º Pertencerá ao quadro comum o pessoal descrito no mapa I anexo a este diploma e que dele faz parte integrante.
 
-###### Art. 58.º Os inspectores provinciais de veterinária das províncias de Angola e Moçambique serão nomeados por livre escolha do Ministro entre os médicos veterinários do quadro comum do ultramar.
+Art. 58.º Os inspectores provinciais de veterinária das províncias de Angola e Moçambique serão nomeados por livre escolha do Ministro entre os médicos veterinários do quadro comum do ultramar.
 
-###### Art. 59.º - 1. O provimento dos lugares de director e subdirector dos serviços será feito em comissão de serviço, por livre escolha do Ministro, entre os médicos veterinários do quadro comum, em regra com a categoria de director.
+Art. 59.º - 1. O provimento dos lugares de director e subdirector dos serviços será feito em comissão de serviço, por livre escolha do Ministro, entre os médicos veterinários do quadro comum, em regra com a categoria de director.
 
 2. Excepcionalmente poderão ser nomeados em comissão de serviço para os lugares de director dos serviços médicos veterinários estranhos aos quadros que, pelos seus méritos e serviços prestados na especialidade, dêem garantias de bom desempenho da função.
 
-###### Art. 60.º Os lugares de chefe de repartição provincial serão exercidos em comissão de serviço em regra por médicos veterinários-directores ou chefes, de livre escolha do Ministro, que poderá igualmente usar, para o seu preenchimento, da faculdade conferida pelo n.º 2 do artigo anterior.
+Art. 60.º Os lugares de chefe de repartição provincial serão exercidos em comissão de serviço em regra por médicos veterinários-directores ou chefes, de livre escolha do Ministro, que poderá igualmente usar, para o seu preenchimento, da faculdade conferida pelo n.º 2 do artigo anterior.
 
-###### Art. 61.º - 1. Os lugares de médico veterinário de 2.ª classe e de técnico de 2.ª classe serão preenchidos, precedendo concurso documental, por licenciados por Universidades portuguesas, sendo exigida uma qualificação que interesse aos serviços e que expressamente seja prevista no anúncio de abertura do concurso.
+Art. 61.º - 1. Os lugares de médico veterinário de 2.ª classe e de técnico de 2.ª classe serão preenchidos, precedendo concurso documental, por licenciados por Universidades portuguesas, sendo exigida uma qualificação que interesse aos serviços e que expressamente seja prevista no anúncio de abertura do concurso.
 
 2. Quando os concursos para os lugares previstos no n.º 1 deste artigo ficarem desertos ou quando o número de concorrentes não for suficiente para o preenchimento das vagas existentes, poderá o Ministro autorizar, independentemente de concurso, o contrato para o provimento dos referidos lugares.
 
 3. Ao ingressar no quadro, os médicos veterinários e os técnicos de 2.ª classe serão submetidos a estágio preparatório, cuja natureza e duração será fixada pelas direcções ou repartições provinciais.
 
-###### Art. 62.º Os médicos veterinários e os técnicos de 2.ª classe serão promovidos a médicos veterinários de 1.ª classe e a técnicos de 1.ª classe ao fim de dois anos de bom e efectivo serviço na categoria, desde que existam vagas.
+Art. 62.º Os médicos veterinários e os técnicos de 2.ª classe serão promovidos a médicos veterinários de 1.ª classe e a técnicos de 1.ª classe ao fim de dois anos de bom e efectivo serviço na categoria, desde que existam vagas.
 
-###### Art. 63.º A promoção a médico veterinário-chefe e a técnico-chefe será feita por escolha do Ministro, entre os médicos veterinários de 1.ª classe e os técnicos de 1.ª classe, respectivamente, com o mínimo de quatro anos de bom e efectivo serviço na categoria.
+Art. 63.º A promoção a médico veterinário-chefe e a técnico-chefe será feita por escolha do Ministro, entre os médicos veterinários de 1.ª classe e os técnicos de 1.ª classe, respectivamente, com o mínimo de quatro anos de bom e efectivo serviço na categoria.
 
-###### Art. 64.º A promoção a médico veterinário-director será feita por escolha do Ministro, entre os médicos veterinários-chefes com o mínimo de quatro anos de bom e efectivo serviço na categoria.
+Art. 64.º A promoção a médico veterinário-director será feita por escolha do Ministro, entre os médicos veterinários-chefes com o mínimo de quatro anos de bom e efectivo serviço na categoria.
 
-###### Art. 65.º Os lugares de assistente técnico de 2.ª classe serão preenchidos, precedendo concurso documental ou por contrato, independentemente de concurso, por indivíduos habilitados com cursos médios de interesse para os serviços.
+Art. 65.º Os lugares de assistente técnico de 2.ª classe serão preenchidos, precedendo concurso documental ou por contrato, independentemente de concurso, por indivíduos habilitados com cursos médios de interesse para os serviços.
 
-###### Art. 66.º Os assistentes técnicos de 2.ª classe serão promovidos à categoria imediatamente superior ao fim de dois anos de bom e efectivo serviço na categoria, desde que existam vagas.
+Art. 66.º Os assistentes técnicos de 2.ª classe serão promovidos à categoria imediatamente superior ao fim de dois anos de bom e efectivo serviço na categoria, desde que existam vagas.
 
-###### Art. 67.º A promoção dos assistentes de 1.ª classe e assistentes técnicos adjuntos à categoria imediatamente superior será feita por escolha do Ministro entre os que tenham quatro anos de bom e efectivo serviço na respectiva categoria.
+Art. 67.º A promoção dos assistentes de 1.ª classe e assistentes técnicos adjuntos à categoria imediatamente superior será feita por escolha do Ministro entre os que tenham quatro anos de bom e efectivo serviço na respectiva categoria.
 
-###### Art. 68.º - 1. O cargo de adjunto administrativo será provido por nomeação, mediante concurso documental ou por contrato independentemente de concurso, entre indivíduos com uma licenciatura apropriada ao exercício das funções.
+Art. 68.º - 1. O cargo de adjunto administrativo será provido por nomeação, mediante concurso documental ou por contrato independentemente de concurso, entre indivíduos com uma licenciatura apropriada ao exercício das funções.
 
 2. O lugar de adjunto administrativo poderá ser desempenhado, em comissão ordinária de serviço, por funcionários dos quadros do Ministério do Ultramar, organismos dependentes, consultivos ou dos serviços ultramarinos, de categoria não inferior à letra H do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, com dispensa das habilitações exigidas para o provimento do lugar.
 
 3. O provimento por contrato ou em comissão de serviço poderá converter-se em nomeação definitiva depois de oito anos de bom e efectivo serviço, por portaria ministerial, sob proposta do governo da respectiva província.
 
-###### Art. 69.º A promoção a chefe de secretaria far-se-á por escolha do Ministro, entre os chefes de secção dos serviços de veterinária com mais de quatro anos na categoria e boas informações.
+Art. 69.º A promoção a chefe de secretaria far-se-á por escolha do Ministro, entre os chefes de secção dos serviços de veterinária com mais de quatro anos na categoria e boas informações.
 
-###### Art. 70.º Os directores dos serviços e os chefes das repartições provinciais, ouvido o conselho técnico, onde o houver, darão sempre parecer sobre o merecimento dos candidatos às promoções referidas nos artigos anteriores.
+Art. 70.º Os directores dos serviços e os chefes das repartições provinciais, ouvido o conselho técnico, onde o houver, darão sempre parecer sobre o merecimento dos candidatos às promoções referidas nos artigos anteriores.
 
-###### Art. 71.º - 1. O pessoal de formação superior e o pessoal de formação média terão direito a um subsídio mensal nunca inferior a 3000$00 e 1500$00, respectivamente, que será acumulável com outras gratificações ou subsídios estabelecidos em cada província.
+Art. 71.º - 1. O pessoal de formação superior e o pessoal de formação média terão direito a um subsídio mensal nunca inferior a 3000$00 e 1500$00, respectivamente, que será acumulável com outras gratificações ou subsídios estabelecidos em cada província.
 
 2. Os inspectores provinciais, directores, subdirectores e chefes das repartições provinciais terão direito a uma gratificação de chefia nunca inferior a 3000$00 mensais, além da indicada no n.º 1 deste artigo.
 
-###### Art. 72.º O chefe de secretaria central terá direito a um subsídio mensal nunca inferior a 1500$00 e que será acumulável com outras gratificações ou subsídios estabelecidos em cada província.
+Art. 72.º O chefe de secretaria central terá direito a um subsídio mensal nunca inferior a 1500$00 e que será acumulável com outras gratificações ou subsídios estabelecidos em cada província.
 
-###### Art. 73.º - 1. O Governador de cada província, quando o interesse público e as conveniências de serviço o justifiquem, poderá, por proposta do director dos serviços ou do chefe de repartição provincial, determinar que seja vedado o exercício de actividades particulares, no âmbito da profissão, remuneradas ou não, ao pessoal dos serviços, sendo-lhes estabelecido o regime de ocupação exclusiva.
+Art. 73.º - 1. O Governador de cada província, quando o interesse público e as conveniências de serviço o justifiquem, poderá, por proposta do director dos serviços ou do chefe de repartição provincial, determinar que seja vedado o exercício de actividades particulares, no âmbito da profissão, remuneradas ou não, ao pessoal dos serviços, sendo-lhes estabelecido o regime de ocupação exclusiva.
 
 2. O pessoal do quadro comum a quem seja imposto o regime de ocupação exclusiva, nos termos do presente artigo, terá direito a uma gratificação mensal não inferior a 6000$00 e 4500$00, respectivamente para o pessoal de formação superior e para o restante pessoal, acumulável com outras gratificações ou subsídios.
 
@@ -852,11 +873,11 @@ Os adjuntos administrativos;
 
 Os chefes das direcções distritais, quando não desempenhem funções de delegados de sanidade pecuária.
 
-###### Art. 74.º Sempre que for considerado conveniente, poderão as províncias ultramarinas estabelecer normas legislativas que regulem e disciplinem as remunerações obtidas pelo pessoal técnico superior, médio e auxiliar no exercício da actividade particular.
+Art. 74.º Sempre que for considerado conveniente, poderão as províncias ultramarinas estabelecer normas legislativas que regulem e disciplinem as remunerações obtidas pelo pessoal técnico superior, médio e auxiliar no exercício da actividade particular.
 
-###### Art. 75.º O cargo de intendente de pecuária, a que se refere o n.º 2 do artigo 34.º será exercido por médico veterinário-director.
+Art. 75.º O cargo de intendente de pecuária, a que se refere o n.º 2 do artigo 34.º será exercido por médico veterinário-director.
 
-###### Art. 76.º Serão exercidos por médicos veterinários-directores ou médicos veterinários-chefes os seguintes cargos:
+Art. 76.º Serão exercidos por médicos veterinários-directores ou médicos veterinários-chefes os seguintes cargos:
 
 Chefia de serviços;
 
@@ -866,43 +887,43 @@ Chefia do gabinete de assistência técnica e vulgarização;
 
 Administrador de parque nacional.
 
-###### Art. 77.º Serão exercidos por médicos veterinários-chefes ou de 1.ª classe os seguintes cargos:
+Art. 77.º Serão exercidos por médicos veterinários-chefes ou de 1.ª classe os seguintes cargos:
 
 Chefia de direcção distrital;
 
 Chefia de departamento.
 
-###### Art. 78.º Serão exercidos por técnicos-chefes ou de 1.ª classe os seguintes cargos:
+Art. 78.º Serão exercidos por técnicos-chefes ou de 1.ª classe os seguintes cargos:
 
 Chefia dos departamentos a indicar pelo director dos serviços, ouvido o conselho técnico;
 
 Adjunto de administrador de parque nacional.
 
-###### Art. 79.º Serão exercidos por médicos veterinários de 1.ª ou 2.ª classe os seguintes cargos:
+Art. 79.º Serão exercidos por médicos veterinários de 1.ª ou 2.ª classe os seguintes cargos:
 
 Delegado de sanidade pecuária;
 
 Chefia de divisão.
 
-###### Art. 80.º O cargo de chefe de divisão poderá ser exercido por técnicos de 1.ª ou 2.ª classe, a indicar pelo director dos serviços, ouvido o conselho técnico.
+Art. 80.º O cargo de chefe de divisão poderá ser exercido por técnicos de 1.ª ou 2.ª classe, a indicar pelo director dos serviços, ouvido o conselho técnico.
 
-###### Art. 81.º Os cargos referidos nos artigos 75.º a 80.º poderão ser exercidos por acumulação.
+Art. 81.º Os cargos referidos nos artigos 75.º a 80.º poderão ser exercidos por acumulação.
 
 ##### SUBSECÇÃO II — Quadro complementar
 
-###### Art. 82.º - 1. Pertence ao quadro complementar o pessoal de brigadas e missões e o que como tal for considerado por lei.
+Art. 82.º - 1. Pertence ao quadro complementar o pessoal de brigadas e missões e o que como tal for considerado por lei.
 
 2. Para a constituição de brigadas e missões a que se refere o n.º 1 deste artigo poderão ser requisitados técnicos de outros serviços, com o acordo destes e despacho favorável dos Governadores de província.
 
-###### Art. 83.º - 1. Sempre que se considere necessário, poderão ser contratados técnicos de formação superior ou média, diplomados por escolas nacionais ou estrangeiras, que igualmente farão parte do quadro complementar.
+Art. 83.º - 1. Sempre que se considere necessário, poderão ser contratados técnicos de formação superior ou média, diplomados por escolas nacionais ou estrangeiras, que igualmente farão parte do quadro complementar.
 
 2. Os técnicos a que se refere o n.º 1 deste artigo terão direito ao subsídio mensal referido no artigo 71.º e serão sempre colocados em regime de ocupação exclusiva nos termos dos n.os 1 e 2 do artigo 73.º
 
 ##### SUBSECÇÃO III — Quadro privativo
 
-###### Art. 84.º Nas províncias ultramarinas haverá o pessoal coadjuvante dos serviços de veterinária que for necessário, constituindo um quadro privativo, cuja composição será fixada em diploma a publicar em cada província, não podendo, porém, modificar-se a classificação de categorias e as designações previstas no mapa II anexo ao presente diploma orgânico.
+Art. 84.º Nas províncias ultramarinas haverá o pessoal coadjuvante dos serviços de veterinária que for necessário, constituindo um quadro privativo, cuja composição será fixada em diploma a publicar em cada província, não podendo, porém, modificar-se a classificação de categorias e as designações previstas no mapa II anexo ao presente diploma orgânico.
 
-###### Art. 85.º - 1. O ingresso no lugar de auxiliar técnico far-se-á na 3.ª classe, mediante concurso documental ou por contrato independentemente de concurso, exigindo-se aos candidatos, além dos requisitos gerais para o exercício da função pública, a habilitação do curso referido no artigo 99.º
+Art. 85.º - 1. O ingresso no lugar de auxiliar técnico far-se-á na 3.ª classe, mediante concurso documental ou por contrato independentemente de concurso, exigindo-se aos candidatos, além dos requisitos gerais para o exercício da função pública, a habilitação do curso referido no artigo 99.º
 
 2. Nas províncias ultramarinas onde não existam os cursos referidos no artigo 99.º poderão ingressar como auxiliares técnicos, mediante concurso ou contrato, indivíduos habilitados com os cursos de feitor agrícola, prático agrícola, agente rural ou outro curso agro-pecuário de nível secundário equivalente.
 
@@ -912,13 +933,13 @@ Chefia de divisão.
 
 5. Por conveniência de serviço ou interesse público, os Governadores de província, por proposta dos directores dos serviços ou dos chefes de repartições provinciais, poderão estabelecer aos auxiliares técnicos o regime de ocupação exclusiva, tendo os mesmos, neste caso, direito a um subsídio mensal nunca inferior a 2000$00.
 
-###### Art. 86.º - 1. O ingresso como auxiliar far-se-á na 3.ª classe, mediante concurso de provas práticas, exigindo-se aos candidatos, além dos requisitos gerais para o exercício da função pública, a habilitação do curso referido no artigo 103.º ou o 1.º ciclo dos liceus ou equivalente.
+Art. 86.º - 1. O ingresso como auxiliar far-se-á na 3.ª classe, mediante concurso de provas práticas, exigindo-se aos candidatos, além dos requisitos gerais para o exercício da função pública, a habilitação do curso referido no artigo 103.º ou o 1.º ciclo dos liceus ou equivalente.
 
 2. A promoção às classes imediatas será por concurso de provas práticas entre os auxiliares de categoria imediatamente inferior com o mínimo de três anos de bom e efectivo serviço na categoria.
 
 3. Os auxiliares terão direito a um subsídio mensal nunca inferior a 750$00, acumulável com outras remunerações ou subsídios estabelecidos em cada província.
 
-###### Art. 87.º - 1. O ingresso como auxiliar de ecologia praticante será feito por concurso documental entre indivíduos habilitados com o 2.º ciclo dos liceus
+Art. 87.º - 1. O ingresso como auxiliar de ecologia praticante será feito por concurso documental entre indivíduos habilitados com o 2.º ciclo dos liceus
 
 ou equivalente.
 
@@ -932,7 +953,7 @@ em cada província.
 
 5. Os fiscais de caça-chefes poderão transitar directamente para auxiliares de ecologia principal, ouvido o conselho técnico, desde que possuam dois anos de bom e efectivo serviço e se encontrem habilitados com o 2.º ciclo dos liceus ou equivalente.
 
-###### Art. 88.º - 1. O ingresso como fiscal de caça far-se-á na categoria de 3.ª classe, mediante concurso de provas práticas, exigindo-se aos candidatos, além dos requisitos gerais para o exercício da função pública, o 1.º ciclo dos liceus ou equivalente.
+Art. 88.º - 1. O ingresso como fiscal de caça far-se-á na categoria de 3.ª classe, mediante concurso de provas práticas, exigindo-se aos candidatos, além dos requisitos gerais para o exercício da função pública, o 1.º ciclo dos liceus ou equivalente.
 
 2. A promoção às classes imediatas será feita por concurso de provas práticas entre os fiscais de categoria imediatamente inferior com o mínimo de três anos de bom e efectivo serviço nessa categoria e o 1.º ou 2.º ciclo dos liceus ou equivalente, respectivamente até à 1.ª classe ou para fiscal-chefe.
 
@@ -940,7 +961,7 @@ em cada província.
 
 província.
 
-###### Art. 89.º - 1. O ingresso do pessoal técnico e auxiliar do quadro privativo, com excepção do considerado nos artigos 85.º, 86.º, 87.º e 88.º, efectuar-se-á de acordo com o regulamento dos serviços de veterinária de cada província e demais legislação aplicável.
+Art. 89.º - 1. O ingresso do pessoal técnico e auxiliar do quadro privativo, com excepção do considerado nos artigos 85.º, 86.º, 87.º e 88.º, efectuar-se-á de acordo com o regulamento dos serviços de veterinária de cada província e demais legislação aplicável.
 
 2. As promoções do pessoal referido no n.º 1 deste artigo serão efectuadas entre o pessoal de categoria imediatamente inferior, de acordo com o regulamento dos serviços de veterinária de cada província.
 
@@ -948,7 +969,7 @@ província.
 
 4. Os auxiliares de laboratório, motoristas e operadores de equipamento terão direito a um subsídio mensal nunca inferior a 500$00, acumulável com outras remunerações em vigor na província.
 
-###### Art. 90.º - 1. O ingresso e as promoções do pessoal de secretaria e auxiliar dos quadros privativos dos serviços de veterinária efectuar-se-ão nos termos do respectivo regulamento de cada província e demais legislação aplicável.
+Art. 90.º - 1. O ingresso e as promoções do pessoal de secretaria e auxiliar dos quadros privativos dos serviços de veterinária efectuar-se-ão nos termos do respectivo regulamento de cada província e demais legislação aplicável.
 
 2. Ao pessoal de secretaria do quadro privativo é fixado um subsídio mensal nunca inferior a 1000$00, acumulável com outras remunerações ou subsídios em vigor na província.
 
@@ -956,7 +977,7 @@ província.
 
 ##### SUBSECÇÃO IV — Quadro do pessoal assalariado permanente
 
-###### Art. 91.º - 1. O pessoal do quadro assalariado permanente, cujo número será fixado em diploma a publicar em cada província, consta do mapa III anexo.
+Art. 91.º - 1. O pessoal do quadro assalariado permanente, cujo número será fixado em diploma a publicar em cada província, consta do mapa III anexo.
 
 2. O ingresso e as promoções do pessoal referido no n.º 1 efectuar-se-ão de acordo com o regulamento dos serviços de veterinária de cada província.
 
@@ -964,13 +985,13 @@ província.
 
 #### SECÇÃO II — Competência do Pessoal
 
-###### Art. 92.º Aos inspectores provinciais incumbe:
+Art. 92.º Aos inspectores provinciais incumbe:
 
 a) Proceder a inspecções dos departamentos dos serviços de veterinária, quando determinadas pelo Governador-Geral, propondo as providências julgadas necessárias ao aperfeiçoamento dos mesmos serviços;
 
 b) Executar outras inspecções, elaborar relatórios, dar pareceres e realizar estudos, quando ordenados pelos seus superiores hierárquicos.
 
-###### Art. 93.º - 1. Aos directores dos serviços ou chefes de repartições provinciais incumbe:
+Art. 93.º - 1. Aos directores dos serviços ou chefes de repartições provinciais incumbe:
 
 a) Coordenar e dirigir a actividade dos serviços, respondendo por ela perante o Governador da província;
 
@@ -988,11 +1009,11 @@ f) Tomar parte ou fazer-se representar nos organismos provinciais, nacionais e i
 
 3. O director dos serviços será substituído pelo subdirector nos seus impedimentos.
 
-###### Art. 94.º Ao pessoal dirigente incumbe orientar, inspeccionar e/ou executar as tarefas que lhe forem determinadas pelo respectivo director dos serviços ou chefe de repartição provincial.
+Art. 94.º Ao pessoal dirigente incumbe orientar, inspeccionar e/ou executar as tarefas que lhe forem determinadas pelo respectivo director dos serviços ou chefe de repartição provincial.
 
-###### Art. 95.º Ao pessoal técnico incumbe cooperar com o pessoal dirigente, segundo as tarefas que lhe forem distribuídas.
+Art. 95.º Ao pessoal técnico incumbe cooperar com o pessoal dirigente, segundo as tarefas que lhe forem distribuídas.
 
-###### Art. 96.º Ao adjunto administrativo incumbe:
+Art. 96.º Ao adjunto administrativo incumbe:
 
 a) Assegurar, no aspecto administrativo, o funcionamento dos serviços;
 
@@ -1002,11 +1023,11 @@ c) Lavrar e subscrever os autos e os termos dos serviços;
 
 d) Desempenhar as funções de notário e, em regra, de escrivão dos serviços e de exactor de finanças.
 
-###### Art. 97.º As atribuições do restante pessoal serão especificadas no regulamento dos serviços.
+Art. 97.º As atribuições do restante pessoal serão especificadas no regulamento dos serviços.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 98.º - 1. Ao pessoal dos serviços de veterinária que exerça funções de direcção, chefia, inspecção ou fiscalização são atribuídos os seguintes poderes e prerrogativas:
+Art. 98.º - 1. Ao pessoal dos serviços de veterinária que exerça funções de direcção, chefia, inspecção ou fiscalização são atribuídos os seguintes poderes e prerrogativas:
 
 a) Inspeccionar a todo o tempo os locais ou estabelecimentos industriais ou comerciais, públicos ou privados, as instalações avícolas, pecuárias ou outras, onde sejam exercidas actividades por qualquer forma sujeitas à jurisdição dos serviços;
 
@@ -1030,25 +1051,25 @@ i) A entrada livre nas gares terrestres, aéreas e marítimas, quando em exercí
 
 3. Os funcionários a que respeita o n.º 1 deste artigo serão portadores de cartão de identidade de modelo privativo, no verso do qual constarão os respectivos poderes e prerrogativas, podendo pedir, no exercício das suas funções, o auxílio das autoridades administrativas ou policiais.
 
-###### Art. 99.º Sempre que for julgado oportuno e sob proposta das províncias de governo simples, poderá o Ministro do Ultramar, por meio de portaria, criar cursos de auxiliar técnico de pecuária, idênticos aos já instituídos nas províncias de Angola e de Moçambique.
+Art. 99.º Sempre que for julgado oportuno e sob proposta das províncias de governo simples, poderá o Ministro do Ultramar, por meio de portaria, criar cursos de auxiliar técnico de pecuária, idênticos aos já instituídos nas províncias de Angola e de Moçambique.
 
-###### Art. 100.º Os diplomados com o curso de auxiliar técnico de pecuária poderão exercer actividade privada de enfermagem veterinária, nos moldes a regulamentar pelos serviços de veterinária de cada província.
+Art. 100.º Os diplomados com o curso de auxiliar técnico de pecuária poderão exercer actividade privada de enfermagem veterinária, nos moldes a regulamentar pelos serviços de veterinária de cada província.
 
-###### Art. 101.º - 1. Os professores e o pessoal auxiliar do curso de auxiliar técnico de pecuária que forem necessários ao ensino serão nomeados e exonerados em portaria, sob proposta dos directores dos serviços ou chefes de repartições provinciais.
+Art. 101.º - 1. Os professores e o pessoal auxiliar do curso de auxiliar técnico de pecuária que forem necessários ao ensino serão nomeados e exonerados em portaria, sob proposta dos directores dos serviços ou chefes de repartições provinciais.
 
 2. Para além das gratificações e outros abonos mencionados em artigos anteriores, ao director e aos professores será abonada uma gratificação mensal nunca inferior a 4000$00.
 
-###### Art. 102.º Os alunos dos cursos de auxiliar técnico de pecuária poderão ser admitidos nos serviços, em regime de assalariamento eventual, como pessoal técnico, durante as férias escolares.
+Art. 102.º Os alunos dos cursos de auxiliar técnico de pecuária poderão ser admitidos nos serviços, em regime de assalariamento eventual, como pessoal técnico, durante as férias escolares.
 
-###### Art. 103.º - 1. Os serviços de veterinária das províncias ultramarinas instituirão, com a cooperação dos cursos de Veterinária das Universidades de Luanda e de Lourenço Marques e dos institutos de investigação veterinária, onde os houver, cursos de aperfeiçoamento e actualização de conhecimentos para técnicos de formação universitária, média ou outra.
+Art. 103.º - 1. Os serviços de veterinária das províncias ultramarinas instituirão, com a cooperação dos cursos de Veterinária das Universidades de Luanda e de Lourenço Marques e dos institutos de investigação veterinária, onde os houver, cursos de aperfeiçoamento e actualização de conhecimentos para técnicos de formação universitária, média ou outra.
 
 2. Os serviços de veterinária das províncias ultramarinas organizarão também cursos de divulgação.
 
-###### Art. 104.º - 1. Os serviços de veterinária poderão organizar cursos elementares de pecuária para capatazes, encarregados de exploração e criadores, conforme regulamentação a estabelecer em cada província.
+Art. 104.º - 1. Os serviços de veterinária poderão organizar cursos elementares de pecuária para capatazes, encarregados de exploração e criadores, conforme regulamentação a estabelecer em cada província.
 
 2. Poderão organizar igualmente cursos elementares de conservação da fauna para auxiliares de ecologia, fiscais de caça e caçadores-guias, conforme regulamentação a estabelecer em cada província.
 
-###### Art. 105.º - 1. Os Serviços de Veterinária de Angola e de Moçambique realizarão, alternadamente, jornadas médico-veterinárias, reunindo técnicos das duas províncias, onde e como melhor convier, para apresentação e discussão de temas de actualidade e importância para a eficiência dos serviços e para a economia das respectivas províncias.
+Art. 105.º - 1. Os Serviços de Veterinária de Angola e de Moçambique realizarão, alternadamente, jornadas médico-veterinárias, reunindo técnicos das duas províncias, onde e como melhor convier, para apresentação e discussão de temas de actualidade e importância para a eficiência dos serviços e para a economia das respectivas províncias.
 
 2. Às jornadas referidas no n.º 1 deste artigo poderão assistir técnicos das restantes províncias, bem como ser convidados técnicos nacionais ou estrangeiros, cuja presença interesse aos trabalhos.
 
@@ -1056,25 +1077,25 @@ i) A entrada livre nas gares terrestres, aéreas e marítimas, quando em exercí
 
 4. As jornadas serão públicas em todas ou em algumas das suas sessões e os trabalhos poderão ser divulgados pela forma julgada mais conveniente.
 
-###### Art. 106.º Os subsídios mensais indicados no n.º 1 do artigo 71.º, no n.º 4 do artigo 85.º, no n.º 3 do artigo 86.º, no n.º 4 do artigo 87.º, no n.º 3 do artigo 88.º e nos n.os 3 e 4 do artigo 89.º poderão ser substituídos por subsídios diários a fixar pelos Governadores das províncias.
+Art. 106.º Os subsídios mensais indicados no n.º 1 do artigo 71.º, no n.º 4 do artigo 85.º, no n.º 3 do artigo 86.º, no n.º 4 do artigo 87.º, no n.º 3 do artigo 88.º e nos n.os 3 e 4 do artigo 89.º poderão ser substituídos por subsídios diários a fixar pelos Governadores das províncias.
 
-###### Art. 107.º As funções de encarregados de tanque carracicida serão desempenhadas por contínuos auxiliares de 1.ª classe, nomeados por escolha entre os contínuos auxiliares de 2.ª e 3.ª classes dos serviços de veterinária das respectivas províncias.
+Art. 107.º As funções de encarregados de tanque carracicida serão desempenhadas por contínuos auxiliares de 1.ª classe, nomeados por escolha entre os contínuos auxiliares de 2.ª e 3.ª classes dos serviços de veterinária das respectivas províncias.
 
-###### Art. 108.º Os motoristas e contínuos auxiliares têm direito a fardamento fornecido pelos serviços.
+Art. 108.º Os motoristas e contínuos auxiliares têm direito a fardamento fornecido pelos serviços.
 
-###### Art. 109.º Quando houver médicos veterinários das forças armadas, poderão estes ser autorizados pelos Governadores provinciais, ouvidos os respectivos comandos, a substituir os médicos veterinários dos serviços ou a colaborar com estes, mediante gratificação mensal a fixar pelos referidos Governadores.
+Art. 109.º Quando houver médicos veterinários das forças armadas, poderão estes ser autorizados pelos Governadores provinciais, ouvidos os respectivos comandos, a substituir os médicos veterinários dos serviços ou a colaborar com estes, mediante gratificação mensal a fixar pelos referidos Governadores.
 
-###### Art. 110.º Os médicos veterinários municipais, ouvidos os respectivos corpos administrativos, poderão, por despacho dos Governadores das províncias, sob proposta das direcções ou repartições provinciais, ser nomeados adjuntos dos delegados de sanidade pecuária, mediante gratificação mensal a fixar pelos referidos Governadores.
+Art. 110.º Os médicos veterinários municipais, ouvidos os respectivos corpos administrativos, poderão, por despacho dos Governadores das províncias, sob proposta das direcções ou repartições provinciais, ser nomeados adjuntos dos delegados de sanidade pecuária, mediante gratificação mensal a fixar pelos referidos Governadores.
 
-###### Art. 111.º Os médicos veterinários particulares, sempre que o desejem e o interesse público o exija, poderão ser chamados a colaborar com os serviços de veterinária, mediante autorização do Governador da província, sob proposta das direcções dos serviços ou repartições provinciais, sendo-lhes atribuída uma remuneração a fixar pelos referidos Governadores.
+Art. 111.º Os médicos veterinários particulares, sempre que o desejem e o interesse público o exija, poderão ser chamados a colaborar com os serviços de veterinária, mediante autorização do Governador da província, sob proposta das direcções dos serviços ou repartições provinciais, sendo-lhes atribuída uma remuneração a fixar pelos referidos Governadores.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 MAPA I
 
 Quadro comum do pessoal dos serviços de veterinária do ultramar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/16200/11981212.pdf))](https://files.diariodarepublica.pt/1s/1973/07/16200/11981212.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/16200/11981212.pdf)
 
 MAPA II
 
@@ -1220,4 +1241,4 @@ Contínuo auxiliar de 2.ª classe ... Z
 
 Continuo auxiliar de 3.ª classe ... Z'
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

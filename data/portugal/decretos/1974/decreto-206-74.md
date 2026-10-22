@@ -52,40 +52,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/206-1974-623385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9e3b517968a400ef535b2ac587bc2fd7e404c2b31925e7e110ade6db7223fd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a74f9f902766a8e3de79e95308c8f8fec32667bd0b0955a4317a149dcb7ce8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo Provisório
+- Governo Provisório I
+- Nomeação
+- Secretário de Estado
+- Secretário de Estado da Habitação e Urbanismo
+- Secretário de Estado da Indústria e Energia
+- Secretário de Estado da Saúde
+- Secretário de Estado da Segurança Social
+- Secretário de Estado das Finanças
+- Secretário de Estado das Obras Públicas
+- Secretário de Estado do Abastecimento e Preços
+- Secretário de Estado do Comércio Externo
+- Subsecretário de Estado
+- Subsecretário de Estado do Ambiente
+- Subsecretário de Estado do Orçamento
+- Subsecretário de Estado do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:475964:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475964:por
+  label: "Exonerados os Subsecretários do Orçamento, Dr. António Costa Leal, do Tesouro, Dr. Artur Luís Alves Conde e do Ambiente,\
+    \ arquitecto Gonçalo Ribeiro Telles, pelo DEC.335/74.11.07.1974.PR, DG.IS [160] de 11.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/335-1974-475964
+  date: '1974-07-11'
+- type: amended_by
+  target: pt:dre:475967:por
+  label: "Exonerado o Dr. Deodato Nuno de Azevedo Coutinho Secretário de Estado da Administração no Ministério da Coordenação\
+    \ Interterritorial, o Dr. José da Silva Lopes, Secretário de Estado das Finanças, o Engenheiro José de Melo Torres Campos,\
+    \ Secretário de Estado da Indústria e Energia, o Dr. Emílio Rui da Veiga Peixoto Vilar, Secretário de Estado do Comércio\
+    \ Externo e Turismo, o Dr. Nelson Sérgio Melo da Rocha Trigo, Secretário de Estado do Abastecimento e Preços, o Engenheiro\
+    \ Pedro Nunes, Secretário de Estado das Obras Públicas, o Engenheiro Manuel Ferreira Lima, Secretário de Estado dos Transportes\
+    \ e Comunicações, o Arquitecto Nuno Portas, Secretário de Estado de Habitação e Urbanismo, o Dr. António Galhordas, Secretário\
+    \ de Estado da Saúde, e a Dr.ª Maria de Lourdes Pintassilgo, Secretário de Estado da Segurança Social, pelo DEC.334/74.11.07.1974.PR,\
+    \ DG.IS [160] de 11.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/334-1974-475967
+  date: '1974-07-11'
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:17Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +136,6 @@ Usando da faculdade concedida pelo n.º 3.º do artigo 7.º e n.º 3 do artigo 1
 
 Nomear o Dr. Deodato Nuno de Azevedo Coutinho Secretário de Estado da Administração no Ministério da Coordenação Interterritorial; o Dr. José da Silva Lopes, Secretário de Estado das Finanças; o Engenheiro José de Melo Torres Campos, Secretário de Estado da Indústria e Energia; o Dr. Emílio Rui da Veiga Peixoto Vilar, Secretário de Estado do Comércio Externo e Turismo; o Dr. Nelson Sérgio Melo da Rocha Trigo, Secretário de Estado do Abastecimento e Preços; o Dr. António Costa Leal, Subsecretário de Estado do Orçamento; o Dr. Artur Luís Alves Conde, Subsecretário de Estado do Tesouro; o Engenheiro Pedro Nunes, Secretário de Estado das Obras Públicas; o Engenheiro Manuel Ferreira Lima, Secretário de Estado dos Transportes e Comunicações; o Arquitecto Nuno Portas, Secretário de Estado de Habitação e Urbanismo; o Arquitecto Gonçalo Ribeiro Telles, Subsecretário de Estado do Ambiente; o Dr. António Galhordas, Secretário de Estado da Saúde, e a Dr.ª Maria de Lourdes Pintassilgo, Secretário de Estado da Segurança Social.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Maio de 1974. - O Presidente da República, ANTÓNIO DE SPÍNOLA.

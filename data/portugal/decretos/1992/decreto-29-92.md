@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/29/1992/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/29-1992-302738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e24906bf4edbc1f4723f87bb7cc5e908903f32736a2a35a98dba07eb677592b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 031b9cfcb7569c79fe34c7710625d8f7df0321f70eb0f9e9d1040456ccc1aa8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Patente
+- Portugal
 - Propriedade Industrial
 - Propriedade Intelectual
 - Tratado de Cooperação em Matéria de Patentes
 - Washington
 relationships: []
 article_structure:
-  article_count: 70
+  article_count: 69
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:45Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 25 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Tratado de Cooperação em Matéria de Patentes, concluído em Washington em 19 de Junho de 1970 e modificado em 2 de Outubro de 1979 e em 3 de Fevereiro de 1984, cuja versão autêntica em língua francesa e o texto oficial em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para adesão, o Tratado de Cooperação em Matéria de Patentes, concluído em Washington em 19 de Junho de 1970 e modificado em 2 de Outubro de 1979 e em 3 de Fevereiro de 1984, cuja versão autêntica em língua francesa e o texto oficial em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 16 de Janeiro de 1992. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral.
 
 Ratificado em 9 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1992.**
+Referendado em 11 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 TRAITÉ DE COOPÉRATION EN MATIÈRE DE BREVETS
 

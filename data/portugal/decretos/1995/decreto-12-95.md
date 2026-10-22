@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/12/1995/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/12-1995-500751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acfb6b87c9bb2ce1c2cdba2b95d61bb5960e1ebcd4cd573ddf31f088485e1bed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a984bec6c17c218bef68b4aa43e5d05651d9d7a50d8f6eb443b430146b5aeed6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Marrocos
-- Transporte de Mercadorias
+- Portugal
 - Rabat
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
 relationships:
@@ -78,16 +78,22 @@ relationships:
   target: pt:dre:604598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604598:por
+  label: "Aprovada a Emenda ao Protocolo do presente Acordo (alterando o ponto I do Protocolo) pela RES.9/2009.26.02.2009.AR,\
+    \ DR.IS [40] de 26.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/9-2009-604598
+  date: '2009-02-26'
 article_structure:
-  article_count: 25
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:31Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +104,19 @@ de 17 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovados, para ratificação, o Acordo entre o Governo da República Portuguesa e o Governo do Reino de Marrocos sobre Transportes Internacionais Rodoviários de Passageiros e de Mercadorias e o respectivo Protocolo, assinado em Rabat a 18 de Outubro de 1988, cujas versões autênticas nas línguas portuguesa, francesa e árabe seguem em anexo ao presente decreto.
+Artigo único. São aprovados, para ratificação, o Acordo entre o Governo da República Portuguesa e o Governo do Reino de Marrocos sobre Transportes Internacionais Rodoviários de Passageiros e de Mercadorias e o respectivo Protocolo, assinado em Rabat a 18 de Outubro de 1988, cujas versões autênticas nas línguas portuguesa, francesa e árabe seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel de Morais Briosa e Gala - Joaquim Martins Ferreira do Amaral.
 
 Ratificado em 24 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Março de 1995.**
+Referendado em 29 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO REINO DE MARROCOS SOBRE TRANSPORTES INTERNACIONAIS RODOVIÁRIOS DE PASSAGEIROS E DE MERCADORIAS.
 
@@ -386,7 +392,7 @@ Direcção-Geral de Transportes Terrestres, Avenida das Forças Armadas, 40, 169
 
 Para o Reino de Marrocos:
 
-**O Ministro dos Transportes, em Rabat, ou uma autoridade competente por ele designada.**
+O Ministro dos Transportes, em Rabat, ou uma autoridade competente por ele designada.
 
 5 - Os pedidos de autorizações excepcionais previstos no artigo 13.º deverão ser apresentados:
 
@@ -412,7 +418,7 @@ Feito em Rabat, em 18 de Outubro de 1988, em dois exemplares originais em língu
 
 Pelo Governo da República Portuguesa:
 
-**O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Manuel Durão Barroso.**
+O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Manuel Durão Barroso.
 
 Pelo Governo do Reino de Marrocos:
 
@@ -596,7 +602,7 @@ Pour le Gouvernement du Royaume du Maroc:
 
 Ahmed Cherkaoui.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/114a00/29282938.pdf))](https://files.diariodarepublica.pt/1s/1995/05/114a00/29282938.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/114a00/29282938.pdf)
 
 PROTOCOLE ETABLI EN VERTU DE L'ARTICLE 23 DE L'ACCORD ENTRE LE GOUVERNEMENT DU ROYAUME DU MAROC ET LE GOUVERNEMENT DE LA REPUBLIQUE PORTUGAISE CONCERNANT LES TRANSPORTS ROUTIERS INTERNATIONAUX DE VOYAGEURS ET DE MARCHANDISES.
 
@@ -728,6 +734,6 @@ Le Secrétaire d'Etat aux Affaires Etrangères et à la Coopération, Ahmed Cher
 
 Pour le Gouvernement de la République Portugaise:
 
-**O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Manuel Durão Barroso.**
+O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Manuel Durão Barroso.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/114a00/29282938.pdf))](https://files.diariodarepublica.pt/1s/1995/05/114a00/29282938.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/114a00/29282938.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/231b00/61796179.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/25/2004/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/25-2004-582873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86b5f42721194df9be92b0eeb595356ce89abee5adeb8769c97ae9a25ce1eec7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3303e6c35b5f6b1de33f7f3f1c66deb708306dfc6aadec8ae9b6f52d4fcae1db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime Florestal
-- Ordenamento do Território
-- MIRA
-- Política de Solos
 - Câmara Municipal
+- MIRA
+- Ordenamento do Território
+- Política de Solos
+- Regime Florestal
 relationships:
 - type: amended_by
   target: pt:dre:108280430:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:108280430:por
+  label: Revogado, a partir de 15.10.2017, pelo(a) Decreto n.º 30/2017 - Diário da República n.º 195/2017, Série I de 2017-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/30-2017-108280430
+  date: '2017-10-10'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:41Z'
   warnings: []
   errors: []
 ---
@@ -123,14 +128,14 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o
 
 Visto e aprovado em Conselho de Ministros de 15 de Julho de 2004. - José Manuel Durão Barroso - Armando José Cordeiro Sevinate Pinto - Arlindo Marques da Cunha.
 
-**Assinado em 25 de Agosto de 2004.**
+Assinado em 25 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Setembro de 2004.**
+Referendado em 10 de Setembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/09/231b00/61796179.pdf)

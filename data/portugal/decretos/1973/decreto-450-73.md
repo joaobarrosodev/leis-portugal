@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/450-1973-413452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10bfbe5c6a81e07bb2415784ec59cb2b19fb6ea1a0ce96ce65de4504fb8a4b75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67a6e5470267a64915f1a120dfcfb6a01b058f509a2ee747836aeb5115151700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Comissão Interministerial do Café
+- Contrato de Financiamento
+- Empréstimo Externo
+- Instituto do Café
+- Ministro do Ultramar
+- Organização Internacional do CAFÉ
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:28Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +104,7 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. Fica o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação do Estado Português de Angola, um contrato de empréstimo com o Fundo de Diversificação da Organização Internacional do Café até à importância correspondente a 2660000 dólares U. S. para a construção de dois armazéns destinados a café, em terrenos que são propriedade do Instituto do Café de Angola, em Luanda, de acordo com o texto anexo ao presente diploma, que é aprovado, para todos os efeitos, e dele fica fazendo parte integrante e baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º - 1. Fica o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação do Estado Português de Angola, um contrato de empréstimo com o Fundo de Diversificação da Organização Internacional do Café até à importância correspondente a 2660000 dólares U. S. para a construção de dois armazéns destinados a café, em terrenos que são propriedade do Instituto do Café de Angola, em Luanda, de acordo com o texto anexo ao presente diploma, que é aprovado, para todos os efeitos, e dele fica fazendo parte integrante e baixa assinado pelo Ministro do Ultramar.
 
 2. O Ministro do Ultramar poderá fazer-se representar, no acto da assinatura, por entidade por ele designada.
 
@@ -105,11 +112,11 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 31 de Agosto de 1973.**
+Promulgado em 31 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.
 
@@ -549,7 +556,7 @@ Serão precisos aproximadamente dois anos para completar o projecto. Os armazén
 
 ## ANEXO C — Distribuição dos recursos do empréstimo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/09/21100/16001609.pdf))](https://files.diariodarepublica.pt/1s/1973/09/21100/16001609.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/09/21100/16001609.pdf)
 
 Redistribuição de verbas no caso de mudanças nas despesas previstas
 
@@ -557,4 +564,4 @@ Na hipótese de se verificar que o custo de qualquer dos itens incluídos nas ru
 
 Na hipótese de se verificar que o custo de qualquer dos itens incluídos nas rubricas 1 a 3 do quadro acima é superior ao previsto, será a importância correspondente a esse aumento transferida pelo Fundo, a pedido do mutuário, para a respectiva rubrica, subordinando-se essa transferência às necessidades da verba destinada a imprevistos, determinadas pelo Fundo em função do custo dos itens inscritos nas restantes rubricas.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

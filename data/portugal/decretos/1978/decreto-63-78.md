@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/63-1978-297996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5789ed94f5b7f2b3a92a7f434cd8f898c4c8fb2365a1e3bc1bf2f87446aff96b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9301c100f7475a715d4334143133750a6ebe719e1e580bef5a87caf4c33d23ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Comercial
+- Coreia do SUL
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:56Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 4 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Comércio entre o Governo da República Portuguesa e o Governo da República da Coreia, assinado em Lisboa em 2 de Dezembro de 1977, cujos textos em inglês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo de Comércio entre o Governo da República Portuguesa e o Governo da República da Coreia, assinado em Lisboa em 2 de Dezembro de 1977, cujos textos em inglês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Augusto Nunes Sá Machado.
 
-**Assinado em 14 de Junho de 1978.**
+Assinado em 14 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 TRADE AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF PORTUGAL AND THE GOVERNMENT OF THE REPUBLIC OF KOREA.
 
@@ -172,15 +177,15 @@ ACORDO COMERCIAL ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBL
 
 O Governo da República Portuguesa e o Governo da República da Coreia (que passarão a ser designados por «as Partes Contratantes»), desejando desenvolver as relações comerciais entre os seus dois países, dentro de um espírito de igualdade e vantagem recíproca, acordam no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes darão todo o seu esforço, no quadro das leis e regulamentos em vigor nos dois países, para um aumento harmonioso do volume das suas trocas comerciais, de modo a obter a máxima utilização das possibilidades resultantes do seu desenvolvimento económico.
 
-ARTIGO II
+###### ARTIGO II
 
 Por forma a assegurar as condições para um benefício mútuo necessárias à expansão do comércio entre os dois países, cada uma das Partes Contratantes concederá o tratamento de nação mais favorecida às mercadorias originárias e importadas do território da outra Parte Contratante, assim como às mercadorias originárias do seu próprio território e exportadas para o território da outra Parte Contratante. Tal tratamento entende-se extensivo aos direitos alfandegários, taxas e outros encargos fiscais, incluindo taxas e encargos internos, assim como qualquer procedimento ou formalidade relacionada com a liberalização alfandegária e licenciação de importação e exportação.
 
-ARTIGO III
+###### ARTIGO III
 
 As disposições do artigo II não se aplicarão:
 
@@ -190,27 +195,27 @@ b) Às vantagens que uma das Partes Contratantes concede ou venha a conceder a q
 
 c) Às preferências ou vantagens estabelecidas mediante acordos comerciais globais ou regionais entre países em vias de desenvolvimento.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Cada uma das Partes Contratantes deverá conceder todas as facilidades para visitas de grupos e delegações da outra Parte Contratante, bem como promover e facilitar a organização e participação em feiras, exposições e outras actividades no domínio do comércio no seu próprio país.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes autorizarão, em conformidade com as suas leis e regulamentos, a importação e exportação com isenção de direitos alfandegários, taxas e outros encargos que não sejam em pagamento de serviços, amostras de mercadorias não comercializáveis e material publicitário para promoção das mesmas.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Os pagamentos entre ambos os Governos efectuar-se-ão em divisas livremente convertíveis, de acordo com os regulamentos cambiais em vigor em ambos os países.
 
-ARTIGO VII
+###### ARTIGO VII
 
 O comércio entre os dois países efectuar-se-á com base em contratos estabelecidos entre pessoas física e legalmente competentes, autorizadas a empreender actividades de comércio externo.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As disposições do presente Acordo aplicar-se-ão aos contratos correntes que não tenham sido executados até à data de expiração do Acordo.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Para alcançar os objectivos do presente Acordo, as Partes Contratantes constituirão uma Comissão Mista, que será composta por representantes dos dois Governos.
 
@@ -224,7 +229,7 @@ Dar o seu apoio e facilitar o desenvolvimento do comércio e da cooperação eco
 
 Estabelecer protocolos de comércio e listas de produtos anexas.
 
-ARTIGO X
+###### ARTIGO X
 
 O presente Acordo entrará em vigor à data da sua assinatura e permanecerá válido por um período de dois anos a contar dessa data, e será automaticamente prorrogado por períodos sucessivos de um ano, excepto no caso em que uma das Partes Contratantes envie, por via diplomática, uma nota à outra, três meses antes da expiração do respectivo período de um ano, sobre o seu desejo de denunciar o Acordo.
 

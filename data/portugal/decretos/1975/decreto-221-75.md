@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/221-1975-336325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c7d71a91b6942d1dc1750881434a90aec94eb8a6b67a86cd4c5e346c29f28cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 163826ac9ea5601ececf5b51d15900499db2897553d008916d2f08bfb8021508
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185971:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:44Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +96,18 @@ Considerando ser urgente alterar a legislação anterior enquanto não é possí
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, 4.º, da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os concursos de promoção a cabos e sargentos da Guarda Fiscal, a que se refere o [Decreto n.º 36290](https://diariodarepublica.pt/dr/detalhe/decreto/36290-1947-185971), de 20 de Maio de 1947, são substituídos por cursos de promoção.
+Artigo 1.º - 1. Os concursos de promoção a cabos e sargentos da Guarda Fiscal, a que se refere o [Decreto n.º 36290](https://diariodarepublica.pt/dr/detalhe/decreto/36290-1947-185971), de 20 de Maio de 1947, são substituídos por cursos de promoção.
 
 2. Compete ao comandante-geral da Guarda Fiscal a regulamentação dos cursos, designadamente no que respeita às condições de admissão, funcionamento, validade, programação e critérios de classificação, assim como das condições gerais e especiais de promoção.
 
 3. Todas as dúvidas surgidas em relação a alguns dos aspectos referidos no número anterior, ou de qualquer modo relacionadas com os cursos de promoção ou seus efeitos, serão igualmente resolvidas por despacho do comandante-geral da Guarda Fiscal.
 
-###### Art. 2.º Durante o biénio de 1974-1975 têm preferência, para promoção, os concorrentes ainda aprovados para esse biénio, independentemente da realização ou não dos cursos criados pelo presente diploma.
+Art. 2.º Durante o biénio de 1974-1975 têm preferência, para promoção, os concorrentes ainda aprovados para esse biénio, independentemente da realização ou não dos cursos criados pelo presente diploma.
 
 Vasco dos Santos Gonçalves - José Joaquim Fragoso.
 
-**Promulgado em 29 de Abril de 1975.**
+Promulgado em 29 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

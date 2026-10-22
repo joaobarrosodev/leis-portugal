@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-1973-684851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f02d4b54865c75b97175eac9fe8a927cc07befc4c5479d6d5ab651ad2efc9f3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1456a2dd73d9902102599d9e6ff7abd12967317e3208fe8f00f4c5707a34278c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633728:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:56Z'
   warnings: []
   errors: []
 ---
@@ -96,60 +120,60 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º - 1. O artigo 8.º do [Decreto n.º 36918](https://diariodarepublica.pt/dr/detalhe/decreto/36918-1948-387638), de 16 de Junho de 1948, reposto em vigor pelo artigo 1.º do [Decreto n.º 511/70](https://diariodarepublica.pt/dr/detalhe/decreto/511-1970-147792), de 30 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º - 1. O artigo 8.º do [Decreto n.º 36918](https://diariodarepublica.pt/dr/detalhe/decreto/36918-1948-387638), de 16 de Junho de 1948, reposto em vigor pelo artigo 1.º do [Decreto n.º 511/70](https://diariodarepublica.pt/dr/detalhe/decreto/511-1970-147792), de 30 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 8.º É autorizado o Governo da província a conceder gratificações especiais aos funcionários encarregados da fiscalização dos trabalhos de apoio às populações afectadas pela estiagem, nas condições que forem regulamentadas pelo mesmo Governo.
+Art. 8.º É autorizado o Governo da província a conceder gratificações especiais aos funcionários encarregados da fiscalização dos trabalhos de apoio às populações afectadas pela estiagem, nas condições que forem regulamentadas pelo mesmo Governo.
 
 2. Fica revogado o § único do referido artigo.
 
 B) Angola
 
-###### Art. 2.º São elevadas para 11980793$00 e 4275770$00 as dotações fixadas, respectivamente, nas alíneas a) e b), 1), do artigo 7.º do [Decreto n.º 572/71](https://diariodarepublica.pt/dr/detalhe/decreto/572-1971-632226), de 21 de Dezembro, para a Junta de Investigações do Ultramar.
+Art. 2.º São elevadas para 11980793$00 e 4275770$00 as dotações fixadas, respectivamente, nas alíneas a) e b), 1), do artigo 7.º do [Decreto n.º 572/71](https://diariodarepublica.pt/dr/detalhe/decreto/572-1971-632226), de 21 de Dezembro, para a Junta de Investigações do Ultramar.
 
 C) Moçambique
 
-###### Art. 3.º A gratificação atribuída ao médico dos Serviços de Saúde e Assistência que presta assistência médica aos presos a cargo da delegação da Direcção-Geral de Segurança é elevada para 5000$00 mensais.
+Art. 3.º A gratificação atribuída ao médico dos Serviços de Saúde e Assistência que presta assistência médica aos presos a cargo da delegação da Direcção-Geral de Segurança é elevada para 5000$00 mensais.
 
-###### Art. 4.º É elevada para 9843929$00 a verba fixada na alínea a) do artigo 14.º do [Decreto n.º 572/71](https://diariodarepublica.pt/dr/detalhe/decreto/572-1971-632226), de 21 de Dezembro, para a Junta de Investigações do Ultramar.
+Art. 4.º É elevada para 9843929$00 a verba fixada na alínea a) do artigo 14.º do [Decreto n.º 572/71](https://diariodarepublica.pt/dr/detalhe/decreto/572-1971-632226), de 21 de Dezembro, para a Junta de Investigações do Ultramar.
 
-###### Art. 5.º É tornado extensivo ao pessoal médico e paramédico em serviço no Hospital Central de Miguel Bombarda, de Lourenço Marques, o disposto no artigo 5.º do [Decreto n.º 455/71](https://diariodarepublica.pt/dr/detalhe/decreto/455-1971-633728), de 28 de Outubro.
+Art. 5.º É tornado extensivo ao pessoal médico e paramédico em serviço no Hospital Central de Miguel Bombarda, de Lourenço Marques, o disposto no artigo 5.º do [Decreto n.º 455/71](https://diariodarepublica.pt/dr/detalhe/decreto/455-1971-633728), de 28 de Outubro.
 
-###### Art. 6.º - 1. É aumentado de uma unidade o número de comandos regionais do Corpo de Polícia dos Serviços de Portos, Caminhos de Ferro e Transportes, criado pelo [Decreto n.º 127/72](https://diariodarepublica.pt/dr/detalhe/decreto/127-1972-397110), de 22 de Abril, com vista à obtenção da segurança das instalações e dos bens móveis da Direcção de Exploração dos Transportes Aéreos.
+Art. 6.º - 1. É aumentado de uma unidade o número de comandos regionais do Corpo de Polícia dos Serviços de Portos, Caminhos de Ferro e Transportes, criado pelo [Decreto n.º 127/72](https://diariodarepublica.pt/dr/detalhe/decreto/127-1972-397110), de 22 de Abril, com vista à obtenção da segurança das instalações e dos bens móveis da Direcção de Exploração dos Transportes Aéreos.
 
 2. O mapa de pessoal a que se refere o artigo 8.º do referido decreto é aumentado de um comandante regional e de um adjunto de comando regional.
 
-###### Art. 7.º - 1. O oficial de segurança do quadro de pessoal privativo da Direcção de Exploração dos Transportes Aéreos dos Serviços de Portos, Caminhos de Ferro e Transportes transita, sem interrupção de funções, para o novo lugar de comandante regional criado pelo artigo anterior, mediante anotação pelo Tribunal de Contas e publicação no Diário do Governo.
+Art. 7.º - 1. O oficial de segurança do quadro de pessoal privativo da Direcção de Exploração dos Transportes Aéreos dos Serviços de Portos, Caminhos de Ferro e Transportes transita, sem interrupção de funções, para o novo lugar de comandante regional criado pelo artigo anterior, mediante anotação pelo Tribunal de Contas e publicação no Diário do Governo.
 
 2. Logo que se tenha verificado o provimento referido no número anterior, considera-se extinto o lugar de oficial de segurança do quadro de pessoal privativo da respectiva Direcção.
 
 D) Macau
 
-###### Art. 8.º É elevada para 447788$00 a verba fixada na alínea a) do artigo 16.º do [Decreto n.º 572/71](https://diariodarepublica.pt/dr/detalhe/decreto/572-1971-632226), de 21 de Dezembro, para a Junta de Investigações do Ultramar.
+Art. 8.º É elevada para 447788$00 a verba fixada na alínea a) do artigo 16.º do [Decreto n.º 572/71](https://diariodarepublica.pt/dr/detalhe/decreto/572-1971-632226), de 21 de Dezembro, para a Junta de Investigações do Ultramar.
 
-###### Art. 9.º É elevada para a letra U do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino a categoria de parteira auxiliar do quadro do pessoal assalariado dos Serviços de Saúde e Assistência.
+Art. 9.º É elevada para a letra U do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino a categoria de parteira auxiliar do quadro do pessoal assalariado dos Serviços de Saúde e Assistência.
 
 II
 
 Disposições comuns
 
-###### Art. 10.º O artigo 29.º do [Decreto n.º 509/70](https://diariodarepublica.pt/dr/detalhe/decreto/509-1970-147810), de 29 de Outubro, passa a ter a seguinte redacção:
+Art. 10.º O artigo 29.º do [Decreto n.º 509/70](https://diariodarepublica.pt/dr/detalhe/decreto/509-1970-147810), de 29 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 29.º - 1. Para serem providos nos lugares dos quadros dos Institutos, os médicos deverão ter o curso de Medicina Tropical.
+Art. 29.º - 1. Para serem providos nos lugares dos quadros dos Institutos, os médicos deverão ter o curso de Medicina Tropical.
 
 2. Poderá o Ministro do Ultramar dispensar os médicos da referida habilitação ou equivalente, ficando, no entanto, obrigados a obtê-la durante o estágio que lhes é exigido pelo artigo 24.º
 
 3. Sob proposta do director e parecer favorável do conselho técnico, poderão ser dispensados desta exigência os especialistas de matérias não clínicas.
 
-###### Art. 11.º - 1. A partir de 1 de Janeiro de 1973 as pessoas de família a cargo dos aposentados ou desligados do serviço para efeitos de aposentação terão direito a receber, por morte destes, um subsídio correspondente a um número de pensões igual ao dos meses de vencimento que a lei concede por morte dos servidores do activo.
+Art. 11.º - 1. A partir de 1 de Janeiro de 1973 as pessoas de família a cargo dos aposentados ou desligados do serviço para efeitos de aposentação terão direito a receber, por morte destes, um subsídio correspondente a um número de pensões igual ao dos meses de vencimento que a lei concede por morte dos servidores do activo.
 
 2. À concessão do subsídio é aplicável o regime fixado na lei para os subsídios por morte dos funcionários na actividade.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Fevereiro de 1973.**
+Promulgado em 1 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

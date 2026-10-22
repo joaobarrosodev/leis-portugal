@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/01/01400/00580058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-1979-392045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 168c9d5bd40faabd54f00c8ba13188895d23f6f9e49973ff3f25180bfa0a2add
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b16d18d980c4352fbb05399e8992f5100b9b72cd7507b3508184f34353fab81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distinção Honorífica
+- Forças Armadas
+- Militar
+- Regulamento
+- Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:404743:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632376:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:404743:por
+  label: "Revogado pelo DEC LEI.316/2002.2002.12.27.MDN DR.IS-A [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-2002-404743
+  date: '2002-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:12Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +110,14 @@ Considerando que o artigo 44.º do [Decreto n.º 566/71](https://diariodarepubli
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 44.º do Regulamento da Medalha Militar passa a ter a seguinte redacção:
+Artigo único. O artigo 44.º do Regulamento da Medalha Militar passa a ter a seguinte redacção:
 
-###### Art. 44.º A medalha de cobre será concedida aos sargentos e praças que completem, respectivamente, cinco e três anos de serviço militar efectivo e que nunca tenham sofrido qualquer punição disciplinar ou criminal ou que, tendo sofrido punição não superior a repreensão, contem, respectivamente, sete e cinco anos de serviço efectivo sem nota disciplinar.
+Art. 44.º A medalha de cobre será concedida aos sargentos e praças que completem, respectivamente, cinco e três anos de serviço militar efectivo e que nunca tenham sofrido qualquer punição disciplinar ou criminal ou que, tendo sofrido punição não superior a repreensão, contem, respectivamente, sete e cinco anos de serviço efectivo sem nota disciplinar.
 
 Visto e aprovado em Conselho da Revolução em 22 de Dezembro de 1978.
 
-**Promulgado em 5 de Janeiro de 1979.**
+Promulgado em 5 de Janeiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

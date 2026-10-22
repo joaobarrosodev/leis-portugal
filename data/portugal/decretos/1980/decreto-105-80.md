@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/105-1980-462008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 432763329d00d2b4a9072cc2b035aa2ca6209b741c7ec8912d6ada179ffb71c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05ae9ac58a754b40b0e09831ba3fb2ddce95c221dc95af93d52b489a50e2795d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Contrato
+- Empresa Geral de Fomento
+- Investimento
+- Secretaria de Estado dos Investimentos Públicos
+relationships:
+- type: cites
+  target: pt:dre:380485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:17Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +113,14 @@ Considerando a necessidade de aplicar o saldo disponível noutros projectos de p
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro das Finanças e do Plano a utilizar até final do ano de 1980 os saldos das verbas a que se referem os Decretos n.os [607/76](https://diariodarepublica.pt/dr/detalhe/decreto/607-1976-430669), de 24 de Julho, e [60/79](https://diariodarepublica.pt/dr/detalhe/decreto/60-1979-380485), de 4 de Julho, em pagamentos relacionados com operações de relançamento do investimento, nomeadamente ligados com a aplicação do [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943), de 19 de Junho.
+Artigo 1.º É autorizado o Ministro das Finanças e do Plano a utilizar até final do ano de 1980 os saldos das verbas a que se referem os Decretos n.os [607/76](https://diariodarepublica.pt/dr/detalhe/decreto/607-1976-430669), de 24 de Julho, e [60/79](https://diariodarepublica.pt/dr/detalhe/decreto/60-1979-380485), de 4 de Julho, em pagamentos relacionados com operações de relançamento do investimento, nomeadamente ligados com a aplicação do [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943), de 19 de Junho.
 
-###### Art. 2.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 6 de Outubro de 1980.**
+Promulgado em 6 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

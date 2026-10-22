@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/52-1973-684663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12d5b52f351f669281c8760144b6b7ef8a2a44000354f04b751802b442e7f8d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a63de7cf25a32bac766f541c4abd4c7f4b7297a55adc572fc1575ef42923dfc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:139395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594104:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:14Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +118,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento das Admissões e Promoções do Pessoal do Quadro do Secretariado Nacional da Emigração, que faz parte integrante deste decreto.
+Artigo único. É aprovado o Regulamento das Admissões e Promoções do Pessoal do Quadro do Secretariado Nacional da Emigração, que faz parte integrante deste decreto.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Fevereiro de 1973.**
+Promulgado em 3 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DAS ADMISSÕES E PROMOÇÕES DO PESSOAL DO QUADRO DO SECRETARIADO NACIONAL DA EMIGRAÇÃO
 
@@ -110,7 +134,7 @@ REGULAMENTO DAS ADMISSÕES E PROMOÇÕES DO PESSOAL DO QUADRO DO SECRETARIADO NA
 
 #### SECÇÃO I — Das admissões
 
-###### Artigo 1.º - 1. Os lugares de ingresso do quadro do pessoal do Secretariado Nacional da Emigração serão providos entre indivíduos que demonstrem aptidões para o exercício dos cargos que possam vir a desempenhar, nos termos deste Regulamento, do [Decreto n.º 16/72](https://diariodarepublica.pt/dr/detalhe/decreto/16-1972-291666), de 12 de Janeiro, e mais legislação aplicável.
+Artigo 1.º - 1. Os lugares de ingresso do quadro do pessoal do Secretariado Nacional da Emigração serão providos entre indivíduos que demonstrem aptidões para o exercício dos cargos que possam vir a desempenhar, nos termos deste Regulamento, do [Decreto n.º 16/72](https://diariodarepublica.pt/dr/detalhe/decreto/16-1972-291666), de 12 de Janeiro, e mais legislação aplicável.
 
 2. Consideram-se lugares de ingresso, além dos mencionados no artigo 8.º do presente Regulamento, os seguintes:
 
@@ -140,7 +164,7 @@ l) Contínuo de 2.ª classe;
 
 m) Paquete.
 
-###### Art. 2.º Serão providos:
+Art. 2.º Serão providos:
 
 a) Por concurso documental, os lugares de médico;
 
@@ -172,11 +196,11 @@ Contínuo de 2.ª classe;
 
 Paquete.
 
-###### Art. 3.º - 1. Nos concursos documentais, o mérito dos candidatos será demonstrado por meio de apresentação de documentos ou de trabalhos técnicos, científicos ou outros.
+Art. 3.º - 1. Nos concursos documentais, o mérito dos candidatos será demonstrado por meio de apresentação de documentos ou de trabalhos técnicos, científicos ou outros.
 
 2. Poderá ser dada preferência aos candidatos que prestam ou já tenham prestado serviço nos quadros do Secretariado e hajam dado provas relevantes de competência e dedicação pelo serviço.
 
-###### Art. 4.º - 1. A admissão ao estágio será sempre precedida de entrevista, a qual terá carácter eliminatório.
+Art. 4.º - 1. A admissão ao estágio será sempre precedida de entrevista, a qual terá carácter eliminatório.
 
 2. As entrevistas a que se refere o número anterior, que poderão ser individuais ou de grupo, destinar-se-ão a reunir informações sobre a posse de requisitos necessários ao desempenho das funções, designadamente cultura geral, motivações profissionais e características de personalidade.
 
@@ -184,21 +208,21 @@ Paquete.
 
 4. Os candidatos ao lugar de tradutor-correspondente-intérprete serão submetidos a adequadas provas de línguas, em dois ou mais idiomas, para o que se poderá recorrer a serviços especializados.
 
-###### Art. 5.º Nos concursos de prestação de provas, as aptidões dos candidatos serão demonstradas mediante a prestação de provas teóricas ou práticas.
+Art. 5.º Nos concursos de prestação de provas, as aptidões dos candidatos serão demonstradas mediante a prestação de provas teóricas ou práticas.
 
-###### Art. 6.º - 1. Metade das vagas que ocorrerem nos lugares de chefe de secção, exceptuando-se as que vierem a dar-se nas secções mencionadas no n.º 3 do artigo 27.º do [Decreto n.º 16/72](https://diariodarepublica.pt/dr/detalhe/decreto/16-1972-291666), de 12 de Janeiro, serão preenchidas por promoção de primeiros-oficiais, nos termos deste Regulamento.
+Art. 6.º - 1. Metade das vagas que ocorrerem nos lugares de chefe de secção, exceptuando-se as que vierem a dar-se nas secções mencionadas no n.º 3 do artigo 27.º do [Decreto n.º 16/72](https://diariodarepublica.pt/dr/detalhe/decreto/16-1972-291666), de 12 de Janeiro, serão preenchidas por promoção de primeiros-oficiais, nos termos deste Regulamento.
 
 2. Quando o número de vagas for ímpar, o número de lugares a atribuir a primeiros-oficiais será de (n + 1)/2, em que n representa o número de vagas.
 
-###### Art. 7.º Sempre que o secretário nacional achar oportuno, poderá fazer depender a admissão aos lugares a que se refere o presente Regulamento dos resultados obtidos pelos candidatos em testes psicotécnicos, independentemente de quaisquer outras provas que os mesmos tenham de prestar.
+Art. 7.º Sempre que o secretário nacional achar oportuno, poderá fazer depender a admissão aos lugares a que se refere o presente Regulamento dos resultados obtidos pelos candidatos em testes psicotécnicos, independentemente de quaisquer outras provas que os mesmos tenham de prestar.
 
-###### Art. 8.º Os lugares de adjunto do secretário nacional, director de serviços, director do Gabinete de Estudos e Relações Públicas, chefe de divisão, inspector-chefe e chefe de delegação serão providos por escolha do Presidente do Conselho, sob proposta do secretário nacional, entre diplomados com curso superior adequado.
+Art. 8.º Os lugares de adjunto do secretário nacional, director de serviços, director do Gabinete de Estudos e Relações Públicas, chefe de divisão, inspector-chefe e chefe de delegação serão providos por escolha do Presidente do Conselho, sob proposta do secretário nacional, entre diplomados com curso superior adequado.
 
-###### Art. 9.º Não se consideram lugares de acesso, para efeitos do disposto no n.º 4 do Decreto com força de lei n.º 16563, de 2 de Março de 1929, os lugares referidos nas alíneas b), e), f) e j) do n.º 2 do artigo 1.º do presente Regulamento.
+Art. 9.º Não se consideram lugares de acesso, para efeitos do disposto no n.º 4 do Decreto com força de lei n.º 16563, de 2 de Março de 1929, os lugares referidos nas alíneas b), e), f) e j) do n.º 2 do artigo 1.º do presente Regulamento.
 
 #### SECÇÃO II — Das promoções
 
-###### Art. 10.º - 1. A promoção aos lugares do quadro do pessoal do Secretariado Nacional da Emigração será feita por escolha ou por concurso de promoção, nos termos do presente Regulamento, entre os funcionários do Secretariado das categorias imediatamente inferiores.
+Art. 10.º - 1. A promoção aos lugares do quadro do pessoal do Secretariado Nacional da Emigração será feita por escolha ou por concurso de promoção, nos termos do presente Regulamento, entre os funcionários do Secretariado das categorias imediatamente inferiores.
 
 2. Nos casos especiais previstos na lei geral poderá recorrer-se a funcionários de outras categorias.
 
@@ -226,7 +250,7 @@ j) Porteiro de 1.ª classe;
 
 k) Continuo de 1.ª classe.
 
-###### Art. 11.º As promoções far-se-ão com base no mérito revelado pelos funcionários, o qual será apreciado através da conjugação, total ou parcial, dos seguintes factores:
+Art. 11.º As promoções far-se-ão com base no mérito revelado pelos funcionários, o qual será apreciado através da conjugação, total ou parcial, dos seguintes factores:
 
 a) Prestação de provas;
 
@@ -234,7 +258,7 @@ b) Classificação de serviço;
 
 c) Antiguidade.
 
-###### Art. 12.º Serão providos:
+Art. 12.º Serão providos:
 
 1. Por escolha, nos termos dos artigos 13.º e 15.º do presente Regulamento:
 
@@ -262,7 +286,7 @@ b) Segundo-oficial;
 
 c) Escriturário-dactilógrafo de 1.ª classe.
 
-###### Art. 13.º As promoções para os lugares que devam ser providos por escolha far-se-ão de acordo com o seguinte procedimento:
+Art. 13.º As promoções para os lugares que devam ser providos por escolha far-se-ão de acordo com o seguinte procedimento:
 
 a) Até 31 de Janeiro de cada ano serão organizadas listas de promoção para cada um dos grupos de pessoal, nas quais os funcionários serão inscritos segundo uma ordem baseada na média das classificações de serviço nos últimos três anos e na antiguidade;
 
@@ -270,15 +294,15 @@ b) Quando, nos termos da legislação aplicável, o prazo mínimo para a promoç
 
 c) Para as vagas que ocorrerem no ano da publicação das listas referidas na alínea a) serão as promoções efectuadas segundo a ordem por que os funcionários figurem nas mencionadas listas.
 
-###### Art. 14.º - 1. Para efeitos do disposto na alínea a) do artigo anterior, a classificação geral dos funcionários será a média aritmética do somatório da pontuação atribuída à classificação do serviço e do número de anos completos de serviço no respectivo grupo de pessoal.
+Art. 14.º - 1. Para efeitos do disposto na alínea a) do artigo anterior, a classificação geral dos funcionários será a média aritmética do somatório da pontuação atribuída à classificação do serviço e do número de anos completos de serviço no respectivo grupo de pessoal.
 
 2. À pontuação da classificação de serviço será atribuído o coeficiente 2 e ao número de anos completos de serviço o coeficiente 1.
 
-###### Art. 15.º - 1. As listas a que se refere o artigo 13.º serão organizadas pelo conselho de classificação e aprovadas pelo secretário nacional, após o que será dado conhecimento, por escrito, aos funcionários da respectiva categoria.
+Art. 15.º - 1. As listas a que se refere o artigo 13.º serão organizadas pelo conselho de classificação e aprovadas pelo secretário nacional, após o que será dado conhecimento, por escrito, aos funcionários da respectiva categoria.
 
 2. Da classificação caberá reclamação para o secretário nacional, a qual deverá ser interposta, devidamente fundamentada, no prazo de oito dias, a contar da data em que o reclamante tenha tomado conhecimento.
 
-###### Art. 16.º - 1. Nas promoções a efectuar por concurso de promoção atender-se-á aos resultados das provas prestadas, à classificação de serviço e à antiguidade.
+Art. 16.º - 1. Nas promoções a efectuar por concurso de promoção atender-se-á aos resultados das provas prestadas, à classificação de serviço e à antiguidade.
 
 2. Para efeitos do disposto no número anterior, a classificação final atribuída aos candidatos será a média aritmética do somatório geral das provas, da média das classificações de serviço no triénio anterior e do número de anos completos de serviço no respectivo grupo de pessoal.
 
@@ -286,7 +310,7 @@ c) Para as vagas que ocorrerem no ano da publicação das listas referidas na al
 
 ### CAPÍTULO II — Dos concursos
 
-###### Art. 17.º - 1. Os concursos de admissão e de promoção do pessoal dos quadros do Secretariado regulam-se pelas disposições do presente capítulo.
+Art. 17.º - 1. Os concursos de admissão e de promoção do pessoal dos quadros do Secretariado regulam-se pelas disposições do presente capítulo.
 
 2. Por concurso de admissão entendem-se os concursos documentais e os concursos de prestação de provas referidos no artigo 2.º do presente Regulamento.
 
@@ -296,9 +320,9 @@ c) Para as vagas que ocorrerem no ano da publicação das listas referidas na al
 
 #### SECÇÃO I — Da abertura dos concursos
 
-###### Art. 18.º Os concursos de admissão e de promoção serão abertos por despacho do secretário nacional, pelo prazo máximo de trinta dias, a contar da data de publicação do aviso no Diário do Governo.
+Art. 18.º Os concursos de admissão e de promoção serão abertos por despacho do secretário nacional, pelo prazo máximo de trinta dias, a contar da data de publicação do aviso no Diário do Governo.
 
-###### Art. 19.º - 1. Dos avisos de abertura dos concursos constarão os seguintes elementos:
+Art. 19.º - 1. Dos avisos de abertura dos concursos constarão os seguintes elementos:
 
 a) Prazo de abertura;
 
@@ -324,35 +348,35 @@ j) O prazo para apresentação de reclamações e interposição de recursos.
 
 #### SECÇÃO II — Da admissão aos concursos
 
-###### Art. 20.º - 1. As candidaturas aos concursos de admissão serão apresentadas mediante requerimento dirigido ao secretário nacional, nos termos previstos nos artigos 9.º e 15.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
+Art. 20.º - 1. As candidaturas aos concursos de admissão serão apresentadas mediante requerimento dirigido ao secretário nacional, nos termos previstos nos artigos 9.º e 15.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
 
 2. Nos requerimentos os candidatos indicarão ainda se desejam submeter-se a provas facultativas, se estas estiverem previstas nas concursos de prestação de provas.
 
-###### Art. 21.º Aos concursos de promoção serão admitidos obrigatoriamente os funcionários de categoria inferior que à data de abertura dos concursos tiverem completado três anos de exercício no cargo.
+Art. 21.º Aos concursos de promoção serão admitidos obrigatoriamente os funcionários de categoria inferior que à data de abertura dos concursos tiverem completado três anos de exercício no cargo.
 
-###### Art. 22.º Nos casos em que a lei permite que possam ser opositores aos concursos de promoção funcionários sem o tempo de serviço previsto no artigo anterior, a admissão aos concursos depende do requerimento dos interessados, nos termos do artigo 20.º deste Regulamento.
+Art. 22.º Nos casos em que a lei permite que possam ser opositores aos concursos de promoção funcionários sem o tempo de serviço previsto no artigo anterior, a admissão aos concursos depende do requerimento dos interessados, nos termos do artigo 20.º deste Regulamento.
 
-###### Art. 23.º - 1. Aos concursos de admissão para os lugares de escriturário-dactilógrafo de 2.ª classe e de terceiro-oficial poderão ser admitidos candidatos com a idade mínima de 18 anos que reúnam os demais requisitos exigidos por lei.
+Art. 23.º - 1. Aos concursos de admissão para os lugares de escriturário-dactilógrafo de 2.ª classe e de terceiro-oficial poderão ser admitidos candidatos com a idade mínima de 18 anos que reúnam os demais requisitos exigidos por lei.
 
 2. Aos concursos de admissão para os lugares de terceiro-oficial poderão concorrer os escriturários-dactilógrafos de 1.ª classe do quadro do Secretariado que possuam a habilitação do ciclo preparatório do ensino secundário ou equiparada, desde que tenham, pelo menos, seis anos de bom e efectivo serviço no Secretariado em qualquer categoria, como pessoal eventual ou do quadro.
 
 #### SECÇÃO III — Das decisões sobre a admissão aos concursos
 
-###### Art. 24.º - 1. Encerrado o prazo de abertura dos concursos, o júri reunirá para verificação das condições de admissibilidade ou inadmissibilidade dos concorrentes, elaborando a lista provisória dos candidatos admitidos ou excluídos, a qual será enviada para publicação no Diário do Governo nos oito dias seguintes ao da deliberação do júri.
+Art. 24.º - 1. Encerrado o prazo de abertura dos concursos, o júri reunirá para verificação das condições de admissibilidade ou inadmissibilidade dos concorrentes, elaborando a lista provisória dos candidatos admitidos ou excluídos, a qual será enviada para publicação no Diário do Governo nos oito dias seguintes ao da deliberação do júri.
 
 2. No caso dos candidatos excluídos, serão sempre indicados nas listas a que se refere o número anterior os motivos da exclusão.
 
-###### Art. 25.º - 1. Das decisões do júri poderão os interessados reclamar, no prazo de oito dias, a contar da publicação das listas provisórias no Diário do Governo, mediante requerimento em que exponham os fundamentos da reclamação.
+Art. 25.º - 1. Das decisões do júri poderão os interessados reclamar, no prazo de oito dias, a contar da publicação das listas provisórias no Diário do Governo, mediante requerimento em que exponham os fundamentos da reclamação.
 
 2. As reclamações, se não forem atendidas pelo júri, serão informadas por este e submetidas a despacho do secretário nacional.
 
 3. As decisões sobre as reclamações serão notificadas aos interessados e, quando julgado conveniente, mediante ofício expedido sob registo e com aviso de recepção.
 
-###### Art. 26.º - 1. Da organização das listas a que se refere o n.º 2 do artigo 19.º cabe reclamação, a deduzir no prazo de oito dias, a contar da publicação do aviso de abertura dos concursos de promoção.
+Art. 26.º - 1. Da organização das listas a que se refere o n.º 2 do artigo 19.º cabe reclamação, a deduzir no prazo de oito dias, a contar da publicação do aviso de abertura dos concursos de promoção.
 
 2. As reclamações referidas no número anterior serão decididas pelo secretário nacional.
 
-###### Art. 27.º - 1. Nos oito dias seguintes aos das decisões sobre as reclamações, se as houver, será elaborada e enviada para publicação no Diário do Governo a lista definitiva dos candidatos.
+Art. 27.º - 1. Nos oito dias seguintes aos das decisões sobre as reclamações, se as houver, será elaborada e enviada para publicação no Diário do Governo a lista definitiva dos candidatos.
 
 2. Não havendo reclamações, nos oito dias seguintes ao do último dia do prazo concedido para as mesmas será enviada para publicação no Diário do Governo a declaração de conversão das listas provisórias em definitivas.
 
@@ -360,11 +384,11 @@ j) O prazo para apresentação de reclamações e interposição de recursos.
 
 #### SECÇÃO IV — Das provas
 
-###### Art. 28.º As provas deverão ter início até ao 30.º dia após a publicação das listas definitivas dos candidatos aos concursos.
+Art. 28.º As provas deverão ter início até ao 30.º dia após a publicação das listas definitivas dos candidatos aos concursos.
 
-###### Art. 29.º As provas serão escritas, que podem desdobrar-se em teóricas e práticas, e orais.
+Art. 29.º As provas serão escritas, que podem desdobrar-se em teóricas e práticas, e orais.
 
-###### Art. 30.º Serão aprovados por despacho do secretário nacional:
+Art. 30.º Serão aprovados por despacho do secretário nacional:
 
 a) A natureza das provas correspondentes nos diferentes concursos, bem como o modo de processamento das mesmas;
 
@@ -378,7 +402,7 @@ e) O modo de classificação dos pontos e os coeficientes da respectiva valoriza
 
 #### SECÇÃO V — Das faltas às provas
 
-###### Art. 31.º - 1. A falta a qualquer das provas sem motivo justificado determinará a exclusão dos candidatos.
+Art. 31.º - 1. A falta a qualquer das provas sem motivo justificado determinará a exclusão dos candidatos.
 
 2. Consideram-se motivos justificados:
 
@@ -392,7 +416,7 @@ d) Impedimento devido a parto;
 
 e) Todos os casos reconhecidos pelo júri como de força maior.
 
-###### Art. 32.º - 1. Os candidatos que, por motivos justificados, não comparecerem às provas podem, quando assim o requeiram, ser admitidos a prestá-las dentro do prazo de trinta dias, a contar da data da prova em que se verificou a falta justificada, salvo o disposto no artigo 3.º do [Decreto-Lei n.º 32679](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32679-1943-594104), de 20 de Fevereiro de 1943, em relação aos indivíduos impedidos de comparecer por motivo da prestação obrigatória do serviço militar.
+Art. 32.º - 1. Os candidatos que, por motivos justificados, não comparecerem às provas podem, quando assim o requeiram, ser admitidos a prestá-las dentro do prazo de trinta dias, a contar da data da prova em que se verificou a falta justificada, salvo o disposto no artigo 3.º do [Decreto-Lei n.º 32679](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32679-1943-594104), de 20 de Fevereiro de 1943, em relação aos indivíduos impedidos de comparecer por motivo da prestação obrigatória do serviço militar.
 
 2. O pedido de adiamento deverá efectuar-se mediante requerimento dirigido ao presidente do júri, no prazo de quarenta e oito horas após o início do concurso ou da prova a que os concorrentes faltaram.
 
@@ -404,45 +428,45 @@ e) Todos os casos reconhecidos pelo júri como de força maior.
 
 #### SECÇÃO VI — Das decisões sobre a classificação dos concorrentes
 
-###### Art. 33.º - 1. O prazo para deliberação do júri e elaboração das listas de classificações não deverá exceder trinta dias, contados a partir da data da realização da última prova.
+Art. 33.º - 1. O prazo para deliberação do júri e elaboração das listas de classificações não deverá exceder trinta dias, contados a partir da data da realização da última prova.
 
 2. As listas de classificação serão enviadas para publicação no Diário do Governo, no prazo máximo de oito dias, a partir da data da deliberação do júri.
 
 #### SECÇÃO VII — Dos júris dos concursos
 
-###### Art. 34.º - 1. Os júris dos concursos serão constituídos por um presidente e dois vogais, nomeados pelo secretário nacional.
+Art. 34.º - 1. Os júris dos concursos serão constituídos por um presidente e dois vogais, nomeados pelo secretário nacional.
 
 2. Além dos vogais efectivos serão nomeados dois vogais suplentes.
 
 3. O presidente do júri designará o vogal que servirá de secretário.
 
-###### Art. 35.º - 1. Aos júris poderão ser agregados técnicos ou professores de reconhecida competência sempre que a natureza das matérias incluídas nos programas dos concursos o justifique.
+Art. 35.º - 1. Aos júris poderão ser agregados técnicos ou professores de reconhecida competência sempre que a natureza das matérias incluídas nos programas dos concursos o justifique.
 
 2. A actuação dos técnicos ou professores indicados no n.º 1 cingir-se-á à classificação das provas da respectiva especialidade, não podendo aqueles participar na votação final dos candidatos.
 
-###### Art. 36.º Os membros dos júris poderão ser remunerados, sendo a remuneração fixada por despacho do secretário nacional.
+Art. 36.º Os membros dos júris poderão ser remunerados, sendo a remuneração fixada por despacho do secretário nacional.
 
-###### Art. 37.º - 1. Os membros dos júris serão substituídos nos casos de falta ou impedimento.
+Art. 37.º - 1. Os membros dos júris serão substituídos nos casos de falta ou impedimento.
 
 2. Se a falta ou impedimento for do presidente, será este substituído pelo vogal de maior categoria e, em caso de igualdade de categorias, pelo de maior antiguidade.
 
 3. Os vogais serão substituídos pelos suplentes, por ordem de categoria e antiguidade.
 
-###### Art. 38.º - 1. Os júris só poderão funcionar quando estiverem presentes todos os seus membros.
+Art. 38.º - 1. Os júris só poderão funcionar quando estiverem presentes todos os seus membros.
 
 2. Das reuniões dos júris serão lavradas actas, das quais deverão constar, em resumo, mas com suficiente clareza, tudo o que nelas se tiver debatido e as diferentes resoluções tomadas.
 
-###### Art. 39.º As deliberações dos júris dos concursos serão tomadas por maioria de votos.
+Art. 39.º As deliberações dos júris dos concursos serão tomadas por maioria de votos.
 
 #### SECÇÃO VIII — Do prazo de validade dos concursos
 
-###### Art. 40.º - 1. O prazo de validade dos concursos será de dois anos para os de admissão e de três para os de promoção, contando-se esse prazo a partir da data da publicação no Diário do Governo das listas de classificação final.
+Art. 40.º - 1. O prazo de validade dos concursos será de dois anos para os de admissão e de três para os de promoção, contando-se esse prazo a partir da data da publicação no Diário do Governo das listas de classificação final.
 
 2. O prazo de validade dos concursos não caduca relativamente aos candidatos que, atendendo à respectiva classificação, forem nomeados interinamente durante o mesmo prazo para lugar de categoria correspondente, desde que, sem interrupção de funções ou com interrupções não superiores a sessenta dias, venham a ser providos a título efectivo em lugar da mesma categoria.
 
 #### SECÇÃO IX — Das preferências a atender na ordem de classificação dos concorrentes
 
-###### Art. 41.º - 1. Em igualdade de valorização, constituem condições de preferência a observar para efeitos de ordem de classificação dos concorrentes aos lugares de ingresso:
+Art. 41.º - 1. Em igualdade de valorização, constituem condições de preferência a observar para efeitos de ordem de classificação dos concorrentes aos lugares de ingresso:
 
 a) Prestar ou haver prestado serviço militar, no caso de candidatos do sexo masculino;
 
@@ -458,7 +482,7 @@ e) Maiores encargos familiares.
 
 3. A prestação do serviço militar a que se refere a alínea a) do n.º 1 do presente artigo só constituirá motivo de preferência em relação aos restantes candidatos do sexo masculino.
 
-###### Art. 42.º - 1. No caso dos concursos de promoção serão tidas em conta as seguintes preferências:
+Art. 42.º - 1. No caso dos concursos de promoção serão tidas em conta as seguintes preferências:
 
 a) Maior antiguidade na categoria inferior;
 
@@ -470,21 +494,21 @@ c) Maiores encargos familiares.
 
 ### CAPÍTULO III — Dos estágios
 
-###### Art. 43.º O provimento dos candidatos admitidos nos termos da alínea c) do artigo 2.º deste Regulamento será sempre antecedido da realização de um estágio remunerado, destinado à apreciação das aptidões efectivas dos candidatos e, bem assim, à respectiva formação inicial.
+Art. 43.º O provimento dos candidatos admitidos nos termos da alínea c) do artigo 2.º deste Regulamento será sempre antecedido da realização de um estágio remunerado, destinado à apreciação das aptidões efectivas dos candidatos e, bem assim, à respectiva formação inicial.
 
-###### Art. 44.º - 1. O período dos estágios será de trinta dias para o caso de telefonistas de 2.ª classe e de seis meses para os candidatos aos restantes lugares.
+Art. 44.º - 1. O período dos estágios será de trinta dias para o caso de telefonistas de 2.ª classe e de seis meses para os candidatos aos restantes lugares.
 
 2. O início e o final do estágio serão determinados por despacho do secretário nacional e o abono da respectiva remuneração efectuado com dispensa de todas as formalidades, incluindo o visto do Tribunal de Contas.
 
 3. No caso dos candidatos considerados aptos, o período de estágio poderá ser prolongado até à posse daqueles nos respectivos lugares.
 
-###### Art. 45.º A remuneração do serviço prestado em regime de estágio corresponderá à atribuída aos lugares a que os estagiários se candidatarem e será paga por conta da dotação orçamental respectiva.
+Art. 45.º A remuneração do serviço prestado em regime de estágio corresponderá à atribuída aos lugares a que os estagiários se candidatarem e será paga por conta da dotação orçamental respectiva.
 
-###### Art. 46.º Os estagiários terão direitos e deveres análogos aos dos funcionários em geral.
+Art. 46.º Os estagiários terão direitos e deveres análogos aos dos funcionários em geral.
 
-###### Art. 47.º O período de estágio será tido em conta para todos os efeitos de serviço público, desde que os estagiários sejam providos nos lugares a que concorreram.
+Art. 47.º O período de estágio será tido em conta para todos os efeitos de serviço público, desde que os estagiários sejam providos nos lugares a que concorreram.
 
-###### Art. 48.º - 1. A orientação e coordenação dos estágios ficará a cargo do conselho de classificação, ao qual compete:
+Art. 48.º - 1. A orientação e coordenação dos estágios ficará a cargo do conselho de classificação, ao qual compete:
 
 a) Estudar e propor para cada estagiário ou grupo de estagiários o programa dos estágios, incluindo as actividades formativas e as provas de demonstração de aproveitamento, quando for caso disso;
 
@@ -502,6 +526,6 @@ b) O aproveitamento dos estagiários relativamente às actividades formativas, s
 
 c) Todos os elementos considerados úteis e que de algum modo possam elucidar sobre a posse, por parte dos candidatos, de requisitos necessários ao desempenho das funções que possam vir a desempenhar.
 
-###### Art. 49.º Compete ao conselho de classificação submeter ao secretário nacional a classificação final dos estagiários, a qual será feita, por cada candidato, em termos de apto ou inapto, acompanhada de um relatório sucinto sobre a decisão tomada.
+Art. 49.º Compete ao conselho de classificação submeter ao secretário nacional a classificação final dos estagiários, a qual será feita, por cada candidato, em termos de apto ou inapto, acompanhada de um relatório sucinto sobre a decisão tomada.
 
-**O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

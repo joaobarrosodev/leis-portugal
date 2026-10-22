@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/133-1976-507615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 767c6826e8bfd0bcb999f6802b7fc2c7bb2fea2053755a0feb586eaf0ad3367a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fa2f071374ca980aef26a90467b8bbd77e284293210ff612f937e3169751c68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645928:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:54Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +102,20 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. O comandante-geral da corporação nomeará uma comissão a fim de estudar a situação dos sargentos e praças da Guarda Fiscal condenados pelos tribunais militares em penas que não produzam expulsão.
+Artigo 1.º - 1. O comandante-geral da corporação nomeará uma comissão a fim de estudar a situação dos sargentos e praças da Guarda Fiscal condenados pelos tribunais militares em penas que não produzam expulsão.
 
 2. Caso se verifique que o crime cometido não colide com o prestígio da corporação, o militar da Guarda Fiscal continuará ao serviço, caso contrário, o comandante-geral proporá ao Ministro das Finanças a sua eliminação ou reforma compulsiva, se reunir as condições para tal.
 
-###### Art. 2.º A comissão será formada por oficiais, sargentos e praças da corporação.
+Art. 2.º A comissão será formada por oficiais, sargentos e praças da corporação.
 
-###### Art. 3.º São revogados o artigo 5.º do [Decreto n.º 15349](https://diariodarepublica.pt/dr/detalhe/decreto/15349-1928-645928), de 6 de Abril de 1928, e o artigo 72.º da 2.ª parte do Manual para os Sargentos e Praças da Guarda Fiscal, aprovado pela [Portaria n.º 16524](https://diariodarepublica.pt/dr/detalhe/portaria/16524-1957-251267), de 27 de Dezembro de 1957.
+Art. 3.º São revogados o artigo 5.º do [Decreto n.º 15349](https://diariodarepublica.pt/dr/detalhe/decreto/15349-1928-645928), de 6 de Abril de 1928, e o artigo 72.º da 2.ª parte do Manual para os Sargentos e Praças da Guarda Fiscal, aprovado pela [Portaria n.º 16524](https://diariodarepublica.pt/dr/detalhe/portaria/16524-1957-251267), de 27 de Dezembro de 1957.
 
-###### Art. 4.º Este diploma entra em vigor na data da sua publicação.
+Art. 4.º Este diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 9 de Fevereiro de 1976.**
+Promulgado em 9 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

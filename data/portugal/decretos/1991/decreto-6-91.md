@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/1991/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-1991-497194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 163f68b06ff00d9c67061b39d1d65132d07bcd88465b26a5e66553bc5875e988
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ad2483c21679d95334354783b70f3463cfa0f6d2c3f2056e9f0973cf20b0eb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Bissau
 - Convenção
-- Cooperação Técnica
-- Portugal
-- Guiné-Bissau
 - Cooperação Científica
+- Cooperação Técnica
+- Guiné-Bissau
+- Portugal
 relationships: []
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:19Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 21 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional n.º 3 ao Acordo de Cooperação Científica e Técnica entre a República da Guiné-Bissau e a República Portuguesa, feito em Bissau aos 22 dias do mês de Julho de 1985, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Adicional n.º 3 ao Acordo de Cooperação Científica e Técnica entre a República da Guiné-Bissau e a República Portuguesa, feito em Bissau aos 22 dias do mês de Julho de 1985, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 1990. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Luís Francisco Valente de Oliveira.
 
-**Assinado em 31 de Dezembro de 1990.**
+Assinado em 31 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Janeiro de 1991.**
+Referendado em 7 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO ADICIONAL N.º 3 AO ACORDO DE COOPERAÇÃO CIENTÍFICA E TÉCNICA ENTRE A REPÚBLICA DA GUINÉ-BISSAU E A REPÚBLICA PORTUGUESA.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/52/1991/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/52-1991-403723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 210cae453e8199f65b80d97d775215424e95c050c8a47821cdfad518bc5800ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36d7f50fc53df776124a32b0033db67f5c766f49735e48453d8c0db724032813
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Patente
 - Munique
+- Patente
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:496086:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:585422:por
+  label: "Aprovada, para ratifica&#231;&#227;o a revis&#227;o do artigo 63.&#186; da Conven&#231;&#227;o, aprovada pelo presente\
+    \ diploma, pelo DEC.28/94.19.09.1994.MNE, DR.IS-A [217] de 19.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/28-1994-585422
+  date: '1994-09-19'
+- type: amended_by
+  target: pt:dre:496086:por
+  label: "Aprovado o Acto de Revisão da Convenção pela RES.60-A/2007.12.12.2007.AR, DR.IS [239-Supl] de 12.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/60-a-2007-496086
+  date: '2007-12-12'
+- type: amended_by
+  target: pt:dre:496087:por
+  label: "Ratificado o Acto de Revisão da Convenção sobre a Concessão de Patentes Europeias, pelo DEC.126-A/2007.12.12.2007.PR,\
+    \ DR.IS [239-Supl] de 12.12.2007 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/126-a-2007-496087
+  date: '2007-12-12'
 article_structure:
-  article_count: 179
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 176
+  section_count: 31
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:12Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +111,19 @@ de 30 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção de Munique sobre a Patente Europeia, de 5 de Outubro de 1973, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção de Munique sobre a Patente Europeia, de 5 de Outubro de 1973, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1991. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral.
 
 Ratificado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Julho de 1991.**
+Referendado em 31 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION
 
@@ -2192,7 +2209,7 @@ Desejosos, para esses objectivos, de concluir uma convenção que institua uma o
 
 concordaram com as seguintes disposições:
 
-# PARTE I — Disposições gerais e institucionais
+## PARTE I — Disposições gerais e institucionais
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -2352,7 +2369,9 @@ f) Câmaras de recurso;
 
 g) A Grande-Câmara de Recurso.
 
-###### Artigo 16.º — Secção de Depósito
+###### Artigo 16.º
+
+#### Secção de Depósito
 
 A Secção de Depósito faz parte do Departamento da Haia. É responsável pelo exame do pedido de patente europeia no momento do depósito e quanto a certas irregularidades até à apresentação do pedido de exame ou até que o requerente tenha declarado, em conformidade com o artigo 96.º, parágrafo 1, que mantém o seu pedido. É também responsável pela publicação do pedido de patente europeia e do relatório de pesquisa europeia.
 
@@ -2372,7 +2391,9 @@ As divisões de pesquisa fazem parte do Departamento da Haia. São responsáveis
 
 2 - Uma divisão de oposição é composta por três examinadores técnicos, dos quais pelo menos dois não devem ter participado no processo de concessão da patente à qual a oposição se refere. Um examinador que participou no processo da concessão da patente europeia não pode assumir a presidência. A divisão de oposição pode confiar a um dos seus membros a instrução da oposição. O processo oral é da competência da própria divisão de oposição. Se esta considerar que a natureza da decisão o exige, a divisão de oposição é completada por um examinador jurista, que não deve ter participado no processo de concessão da patente. Em caso de igualdade de votos, o voto do presidente da divisão de oposição é preponderante.
 
-###### Artigo 20.º — Divisão Jurídica
+###### Artigo 20.º
+
+##### Divisão Jurídica
 
 1 - A Divisão Jurídica é responsável por qualquer decisão relativa às entradas no Registo Europeu de Patentes e à inscrição na lista dos mandatários oficiais e à sua exclusão da mesma.
 
@@ -2672,7 +2693,7 @@ f) A composição e as tarefas de uma comissão do orçamento e das finanças, q
 
 O regulamento relativo a taxas fixa especialmente o montante das taxas e a sua forma de pagamento.
 
-# PARTE II — Direito das patentes
+## PARTE II — Direito das patentes
 
 ### CAPÍTULO I — Patenteabilidade
 
@@ -2814,7 +2835,7 @@ b) For comunicada à pessoa que explora a invenção no dito Estado.
 
 O pedido de patente europeia assim como a patente europeia à qual deu lugar são considerados não ter tido desde a origem, total ou parcialmente, os efeitos previstos nos artigos 64.º e 67.º, conforme a patente tiver sido revogada no todo ou em parte no decurso de um processo de oposição.
 
-###### Artigo 69.º (ver nota *)
+Artigo 69.º (ver nota *)
 
 Âmbito de protecção
 
@@ -2858,7 +2879,7 @@ Um pedido de patente europeia pode ser, na sua totalidade ou em parte, objecto d
 
 Salvo disposições em contrário na presente Convenção, o pedido de patente europeia como objecto de propriedade é submetido, em cada Estado Contratante designado e com efeito nesse Estado, à legislação aplicável no dito Estado aos pedidos de patente nacional.
 
-# PARTE III — O pedido de patente europeia
+## PARTE III — O pedido de patente europeia
 
 ### CAPÍTULO I — Depósito do pedido de patente europeia e condições a que deve satisfazer
 
@@ -2994,7 +3015,7 @@ O resumo serve exclusivamente para fins de informação técnica; não pode ser 
 
 Para efeito do direito de prioridade, a data da prioridade é considerada como sendo a data do depósito do pedido de patente europeia por aplicação dos artigos 54.º, parágrafos 2 e 3, e 60.º, parágrafo 2.
 
-# PARTE IV — Processo até à concessão
+## PARTE IV — Processo até à concessão
 
 ###### Artigo 90.º — Exame aquando do depósito
 
@@ -3096,7 +3117,7 @@ c) As taxas anuais e, se for o caso, as taxas adicionais já exigíveis foram pa
 
 O Instituto Europeu de Patentes publica simultaneamente a menção da concessão da patente europeia e o fascículo da patente europeia contendo a descrição, as reivindicações e, se for o caso, os desenhos.
 
-# PARTE V — Processo de oposição
+## PARTE V — Processo de oposição
 
 ###### Artigo 99.º — Oposição
 
@@ -3160,7 +3181,7 @@ Quando a patente europeia foi modificada em conformidade com o artigo 102.º, pa
 
 2 - A declaração de intervenção deve ser apresentada por escrito e motivada. Só produz efeito após o pagamento da taxa de oposição. Após o cumprimento desta formalidade, a intervenção é tratada como uma oposição, sob reserva das disposições do regulamento de execução.
 
-# PARTE VI — Processo de recurso
+## PARTE VI — Processo de recurso
 
 ###### Artigo 106.º — Decisões susceptíveis de recurso
 
@@ -3216,7 +3237,7 @@ b) O presidente do Instituto Europeu de Patentes pode apresentar uma questão de
 
 3 - A decisão da Grande-Câmara de Recurso à qual é feita referência ao parágrafo 1, alínea a), obriga a câmara de recurso quanto ao recurso em causa.
 
-# PARTE VII — Disposições comuns
+## PARTE VII — Disposições comuns
 
 ### CAPÍTULO I — Disposições gerais de processo
 
@@ -3456,7 +3477,7 @@ c) Ao poder disciplinar do instituto ou do Instituto Europeu de Patentes sobre e
 
 (nota **) V. regulamento em matéria disciplinar dos mandatários reconhecidos de 21 de Outubro de 1977 (JO, OEB, n.º 2/78, pp. 91 e seg.), os regulamentos de processo adicionais dos três órgãos disciplinares de 6 de Junho de 1980 (JO, OEB, n.º 7/80, pp. 176 e seg.) e o código de conduta profissional relativo ao instituto de mandatários reconhecidos junto do Instituto Europeu de Patentes de 5 de Novembro de 1985 (JO, OEB, n.º 9/86, pp. 331 e seg.).
 
-# PARTE VIII — Incidências sobre o direito nacional
+## PARTE VIII — Incidências sobre o direito nacional
 
 ### CAPÍTULO I — Transformação em pedido de patente nacional
 
@@ -3524,7 +3545,7 @@ Os artigos 66.º, 124.º, 135.º a 137.º e 139.º são aplicáveis aos modelos 
 
 2 - Se as taxas anuais devidas a título de patente europeia atingem o vencimento nos dois meses a contar da data em que a menção da concessão da patente foi publicada, as taxas anuais referidas são consideradas como tendo sido pagas, sob reserva de serem pagas no prazo mencionado. Não é cobrada nenhuma taxa adicional prevista de acordo com uma regulamentação nacional.
 
-# PARTE IX — Acordos particulares
+## PARTE IX — Acordos particulares
 
 ###### Artigo 142.º — Patente unitária
 
@@ -3562,7 +3583,7 @@ Se o grupo de Estados Contratantes estabelecer uma escala comum para a renovaç�
 
 2 - O grupo de Estados Contratantes pode determinar que o pedido da patente europeia, para o qual esses Estados Contratantes são designados, só pode ser transferido, hipotecado ou sujeito a qualquer meio legal de execução para todos esses Estados Contratantes e em conformidade com as disposições do acordo particular.
 
-###### Artigo 149.º (ver nota *)
+Artigo 149.º (ver nota *)
 
 Designação conjunta
 
@@ -3572,7 +3593,7 @@ Designação conjunta
 
 (nota *) V. o tratado entre a Confederação Suíça e o Principado do Listenstaina sobre a protecção conferida pelas patentes de invenção de 22 de Dezembro de 1978 (JO, OEB, n.os 11-12/80, pp. 407 e seg.).
 
-# PARTE X — Pedido internacional correspondente ao Tratado de Cooperação em Matéria de Patentes
+## PARTE X — Pedido internacional correspondente ao Tratado de Cooperação em Matéria de Patentes
 
 ###### Artigo 150.º — Aplicação do tratado de Cooperação em Matéria de Patentes
 
@@ -3656,7 +3677,7 @@ b) O montante da taxa de pesquisa é reduzido (ver nota **).
 
 3 - Se o pedido internacional for publicado numa língua diferente de uma das línguas oficiais do Instituto Europeu de Patentes, esta publicará o pedido internacional entregue nas condições previstas no parágrafo 2. Sob reserva das disposições do artigo 67.º, parágrafo 3, a protecção provisória de acordo com o artigo 67.º parágrafos 1 e 2, só é assegurada a partir da data desta publicação.
 
-# PARTE XI — Disposições transitórias
+## PARTE XI — Disposições transitórias
 
 ###### Artigo 159.º — Conselho de administração durante um período de transição
 
@@ -3716,7 +3737,7 @@ b) À exigência do parágrafo 1, alínea a), em circunstâncias especiais.
 
 7 - Após a expiração do período de transição, e sem prejuízo das medidas disciplinares tomadas em aplicação do artigo 134.º, parágrafo 8, alínea c), qualquer pessoa que foi inscrita na lista dos mandatários profissionais durante o referido período aí permanece inscrita ou, a requerimento, aí é inscrita de novo, sob reserva de preencher a condição referida no parágrafo 1, alínea b).
 
-# PARTE XII — Disposições finais
+## PARTE XII — Disposições finais
 
 ###### Artigo 164.º — Regulamento de execução e protocolos
 

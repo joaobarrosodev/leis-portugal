@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/32/1995/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/32-1995-432464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6c974b435d062e7c102c95381b317ae03f1ac9e1327185aba8c2a4b780439a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c4d682091a1c5a1b19acc1c9cceea3018b4a88e4c1cedd1c6adfabe6cd7171a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Bissau
-- Convenção
-- Moçambique
-- Portugal
-- Lisboa
-- Países de Língua Portuguesa
-- Guiné-Bissau
 - Angola
+- Bissau
 - Cabo Verde
 - Carta do Desporto dos Países de Língua Portuguesa
-- Regimento
+- Convenção
 - Desporto
+- Guiné-Bissau
+- Lisboa
+- Moçambique
+- Países de Língua Portuguesa
+- Portugal
+- Regimento
 relationships: []
 article_structure:
-  article_count: 43
+  article_count: 42
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:50Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +100,19 @@ de 26 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Acordo de Cooperação entre a República Popular de Angola, a República de Cabo Verde, a República da Guiné-Bissau, a República Popular de Moçambique, a República Portuguesa e a República Democrática de São Tomé e Príncipe no Domínio do Desporto, assinado em Lisboa em 20 de Janeiro de 1990, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo 1.º É aprovado o Acordo de Cooperação entre a República Popular de Angola, a República de Cabo Verde, a República da Guiné-Bissau, a República Popular de Moçambique, a República Portuguesa e a República Democrática de São Tomé e Príncipe no Domínio do Desporto, assinado em Lisboa em 20 de Janeiro de 1990, cuja versão autêntica segue em anexo ao presente decreto.
 
-###### Art. 2.º São aprovados a Carta do Desporto dos Países de Língua Portuguesa e o Regimento da Conferência de Ministros Responsáveis pelo Desporto dos Países de Língua Portuguesa, assinados em Bissau em 27 de Fevereiro de 1993, cujas versões autênticas seguem em anexo ao presente decreto.
+Art. 2.º São aprovados a Carta do Desporto dos Países de Língua Portuguesa e o Regimento da Conferência de Ministros Responsáveis pelo Desporto dos Países de Língua Portuguesa, assinados em Bissau em 27 de Fevereiro de 1993, cujas versões autênticas seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1995. - Aníbal António Cavaco Silva José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Assinado em 28 de Julho de 1995.**
+Assinado em 28 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Agosto de 1995.**
+Referendado em 1 de Agosto de 1995.
 
 Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.
 
@@ -350,7 +350,7 @@ A língua de trabalho da Conferência é o português.
 
 O emblema da Conferência é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/197a00/53865391.pdf))](https://files.diariodarepublica.pt/1s/1995/08/197a00/53865391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/197a00/53865391.pdf)
 
 ### CAPÍTULO II — Objectivos
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/17/2008/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-2008-456219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d28fee0f406aeb1dd9258bdd1260b6a0304e998f54edd04fd2494e0417c4b3eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1796131da560428f9e92611e292fe02a36493031c37e07480b962b0d5527011a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
-- Convenção
-- Portugal
-- China
-- Lisboa
 - Apoio ao Investimento
+- China
+- Convenção
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
+- Lisboa
+- Portugal
+- Protecção do Investimento
 relationships: []
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:19Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel António Gomes de Almeida de Pinho.
 
-**Assinado em 5 de Junho de 2008.**
+Assinado em 5 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Junho de 2008.**
+Referendado em 6 de Junho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DA CHINA SOBRE A PROMOÇÃO E PROTECÇÃO RECÍPROCA DE INVESTIMENTOS
 
@@ -314,11 +314,11 @@ Feito em duplicado, em Lisboa, no dia 10 do mês de Dezembro do ano de 2005, nas
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
 
 Pela República Popular da China:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
 
 PROTOCOLO AO ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DA CHINA SOBRE A PROMOÇÃO E PROTECÇÃO RECÍPROCA DE INVESTIMENTOS.
 
@@ -374,11 +374,11 @@ b) O diferendo se mantiver três meses após ter sido submetido ao procedimento 
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
 
 Pela República Popular da China:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE PEOPLE'S REPUBLIC OF CHINA ON THE ENCOURAGEMENT AND RECIPROCAL PROTECTION OF INVESTMENTS.
 
@@ -608,11 +608,11 @@ Done at Lisbon on 10th December 2005 in duplicate in the Portuguese, Chinese and
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
 
 For the People's Republic of China:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
 
 PROTOCOL TO THE AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE PEOPLE'S REPUBLIC OF CHINA ON THE ENCOURAGEMENT AND RECIPROCAL PROTECTION OF INVESTMENTS.
 
@@ -668,8 +668,8 @@ b) The dispute still exists three months after he has brought the issue to the r
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
 
 For the People's Republic of China:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12200/0391103924.pdf)

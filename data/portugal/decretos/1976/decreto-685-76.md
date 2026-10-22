@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/21600/21532158.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/685-1976-408551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23961441b77a6f2bd75b8090a377953901aecae5420fd98f33d498764d1ed0b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34ba4fcd7b49a76c914c50ae4d1cf27e4a38dc4b5ea8752f0822cac9512ddef2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos Especiais da Armada
+- Comissão Permanente de Coordenação de Públicações Técnicas
+- Comissão Permanente de Normalização de Impressos e Material de Arquivo
+- Comissão Técnica de Infra-estruturas Navais
+- Conselho de Logística do Material
+- Definição de Competências
+- Direcção das Construções Navais
+- Direcção das Infraestruturas Navais
+- Direcção do Serviço de Electricidade e Comunicações
+- Direcção Geral do Material Naval
+- Fábrica Nacional de Cordoaria
+- Gabinete de Gestão do Material
+- Orgânica
+- Superintendente
 relationships:
 - type: amended_by
   target: pt:dre:654538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:464392:por
+  label: "Dada nova redacção aos artigos 10.º, 11.º, n.º 1 do artigo 13.º e n.º 1 do artigo 15.º , pelo DEC.76/80.06.09.1980.CR,\
+    \ DR.IS [206] de 06.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/76-1980-464392
+  date: '1980-09-06'
+- type: amended_by
+  target: pt:dre:654538:por
+  label: "Extinto o Gabinete de Gestão do Material, Direcção-Geral do Material Naval, Direcção do Serviço de Construções,\
+    \ Direcção do Serviço de Manutenção, Gabinete de Estudos e Direcção das Infra-Estruturas Navais, pelo DR.23/94.1994.09.01.MDN,\
+    \ DR.IS-B [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/23-1994-654538
+  date: '1994-09-01'
+- type: cites
+  target: pt:dre:263031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291792:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:407310:por
+  label: Rectificado pela DECL.DD8071.08.11.1976.CR, DR.IS [261] de 08.11.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-407310
+  date: '1976-11-08'
+- type: repealed_by
+  target: pt:dre:657439:por
+  label: "Revogado pelo DEC LEI.49/93.1993.02.26.MDN, DR.IS-A [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1993-657439
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:46Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +173,7 @@ Nestes termos:
 
 Usando da competência conferida pela alínea a) do n.º 1 do artigo 148.º da Constituição, o Conselho da Revolução decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Compete ao superintendente dos Serviços do Material da Armada tratar de todos os assuntos de natureza técnica e logística relativos ao material da Armada e às infra-estruturas da marinha, com excepção dos que, respeitando à administração financeira, pertençam, de acordo com a legislação em vigor, a outros organismos.
+Artigo 1.º - 1. Compete ao superintendente dos Serviços do Material da Armada tratar de todos os assuntos de natureza técnica e logística relativos ao material da Armada e às infra-estruturas da marinha, com excepção dos que, respeitando à administração financeira, pertençam, de acordo com a legislação em vigor, a outros organismos.
 
 2. Para os fins referidos no n.º 1, o superintendente dos Serviços do Material da Armada exerce autoridade funcional:
 
@@ -142,7 +187,7 @@ c) Em todos os organismos da marinha, no que respeita a infra-estruturas naciona
 
 4. A delegação prevista no número anterior será definida, caso por caso, em despacho do superintendente dos Serviços do Material da Armada.
 
-###### Art. 2.º - 1. No exercício das suas funções, o superintendente dos Serviços do Material da Armada dirige a Superintendência dos Serviços do Material (SSM), estruturada em:
+Art. 2.º - 1. No exercício das suas funções, o superintendente dos Serviços do Material da Armada dirige a Superintendência dos Serviços do Material (SSM), estruturada em:
 
 a) Organismos centrais de coordenação e contrôle;
 
@@ -152,7 +197,7 @@ c) Organismos fabris.
 
 2. A SSM inclui ainda uma secretaria para apoio dos seus organismos centrais.
 
-###### Art. 3.º - 1. São organismos centrais de coordenação e contrôle os seguintes:
+Art. 3.º - 1. São organismos centrais de coordenação e contrôle os seguintes:
 
 a) O Conselho de Logística do Material (CLM);
 
@@ -170,11 +215,11 @@ d) A Direcção de Transportes (DT).
 
 3. É organismo fabril a Fábrica Nacional de Cordoaria (FNC).
 
-###### Art. 4.º - 1. Ao CLM compete dar parecer sobre o conjunto de medidas a tomar pela SSM, com vista a preparar e executar o planeamento logístico resultante das directivas do Chefe do Estado-Maior da Armada, bem como sobre outros assuntos que lhe sejam presentes pelo superintendente dos Serviços do Material da Armada.
+Art. 4.º - 1. Ao CLM compete dar parecer sobre o conjunto de medidas a tomar pela SSM, com vista a preparar e executar o planeamento logístico resultante das directivas do Chefe do Estado-Maior da Armada, bem como sobre outros assuntos que lhe sejam presentes pelo superintendente dos Serviços do Material da Armada.
 
 2. A constituição e normas de funcionamento do CLM são fixadas por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 5.º - 1. Ao GGM compete apoiar, coordenar e controlar as actividades dos organismos da SSM e, em particular, o seguinte:
+Art. 5.º - 1. Ao GGM compete apoiar, coordenar e controlar as actividades dos organismos da SSM e, em particular, o seguinte:
 
 a) Apoiar os organismos da SSM, no que respeita a organização e métodos, contencioso, normalização, catalogação, contrôle de qualidade, informática e investigação operacional;
 
@@ -196,7 +241,7 @@ h) No âmbito do GGM, funcionará a Secção de Catalogação da Armada.
 
 3. A estrutura orgânica do GGM será fixada, no respectivo regulamento interno, a aprovar por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 6.º - 1. À DGMN compete:
+Art. 6.º - 1. À DGMN compete:
 
 a) Conceber os navios e outros meios de acção naval e promover o seu projecto, construção, manutenção e transformação, bem como a sua aquisição e abate;
 
@@ -206,13 +251,13 @@ c) Apoiar tecnicamente os organismos da marinha nos assuntos relacionados com a 
 
 2. O superintendente dos Serviços do Material da Armada delegará, normalmente, no director-geral do Material Naval, a autoridade funcional que lhe é conferida pelo n.º 2 do artigo 1.º do presente diploma, no que se refere a assuntos de natureza técnica da competência desta última entidade e, no que respeita ao Arsenal do Alfeite, ainda nos aspectos de custos e programação.
 
-###### Art. 7.º A DGMN é chefiada por um comodoro de qualquer classe.
+Art. 7.º A DGMN é chefiada por um comodoro de qualquer classe.
 
-###### Art. 8.º - 1. A DGMN dispõe, como órgãos principais, da Direcção do Serviço de Construções (DSC), da Direcção do Serviço de Manutenção (DSM) e do Gabinete de Estudos (GE).
+Art. 8.º - 1. A DGMN dispõe, como órgãos principais, da Direcção do Serviço de Construções (DSC), da Direcção do Serviço de Manutenção (DSM) e do Gabinete de Estudos (GE).
 
 2. Na dependência da DGMN funciona também o Centro de Estudos Especiais da Armada (CEEA).
 
-###### Art. 9.º - 1. À DSC, que é dirigida por um capitão-de-mar-e-guerra de qualquer classe, compete:
+Art. 9.º - 1. À DSC, que é dirigida por um capitão-de-mar-e-guerra de qualquer classe, compete:
 
 a) Tratar dos assuntos relativos ao projecto, construção, transformação e aquisição de navios e outros meios de acção naval, sendo responsável pela sua programação, execução ou fiscalização, técnica e económica por forma a assegurar eficiência e economia;
 
@@ -224,7 +269,7 @@ c) Inspeccionar e dar assistência aos serviços técnicos das novas unidades, d
 
 3. Os grupos de acção referidos no número anterior integrarão pessoal da DGMN e, se necessário, pessoal de outros organismos.
 
-###### Art. 10.º - 1. À DSM, que é dirigida por um capitão-de-mar-e-guerra de qualquer classe, compete:
+Art. 10.º - 1. À DSM, que é dirigida por um capitão-de-mar-e-guerra de qualquer classe, compete:
 
 a) Tratar dos assuntos relativos à manutenção preventiva e correctiva do material dos navios e de outros meios de acção naval, sendo responsável pela sua programação, orientação e fiscalização técnica e económica por forma a assegurar eficiência e economia;
 
@@ -232,7 +277,7 @@ b) Colaborar na gestão técnica do material da corrente de abastecimento naval;
 
 c) Inspeccionar e dar assistência aos serviços técnicos dos comandos, forças, unidades e outros organismos.
 
-###### Art. 11.º Ao GE, órgão de apoio directo do director-geral do Material Naval, dirigido por um capitão-de-mar-e-guerra de qualquer classe, competem as seguintes funções principais:
+Art. 11.º Ao GE, órgão de apoio directo do director-geral do Material Naval, dirigido por um capitão-de-mar-e-guerra de qualquer classe, competem as seguintes funções principais:
 
 a) Proceder aos estudos iniciais e anteprojectos das novas construções e transformações dos navios e outros meios de acção naval;
 
@@ -244,9 +289,9 @@ d) Apoiar tecnicamente o apetrechamento de bases e pontos de apoio;
 
 e) Proceder ao estudo e especificação de sistemas e equipamentos principais e respectivos lotes de sobresselentes iniciais, com vista à sua obtenção.
 
-###### Art. 12.º A estrutura orgânica da DGMN, na parte não definida no presente diploma, será fixada no respectivo regulamento interno, a aprovar por despacho do Chefe do Estado-Maior da Armada.
+Art. 12.º A estrutura orgânica da DGMN, na parte não definida no presente diploma, será fixada no respectivo regulamento interno, a aprovar por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 13.º - 1. À DIN, que é dirigida por um capitão-de-mar-e-guerra de qualquer classe, compete:
+Art. 13.º - 1. À DIN, que é dirigida por um capitão-de-mar-e-guerra de qualquer classe, compete:
 
 a) Tratar dos assuntos relativos ao projecto, construção e manutenção de infra-estruturas nacionais da marinha, sendo responsável pela programação e fiscalização dos respectivos trabalhos, com vista a assegurar eficiência e economia;
 
@@ -264,9 +309,9 @@ e) Exercer as funções de organismo de direcção técnica, em relação a mate
 
 4. O superintendente dos Serviços do Material da Armada delegará, normalmente, no director das Infra-Estruturas Navais a autoridade que lhe é conferida pelas alíneas a) e c) do n.º 2 do artigo 1.º, no que se refere a assuntos de natureza técnica da competência desta última entidade.
 
-###### Art. 14.º A estrutura orgânica da DIN será fixada no respectivo regulamento interno, a aprovar por despacho do Chefe do Estado-Maior da Armada.
+Art. 14.º A estrutura orgânica da DIN será fixada no respectivo regulamento interno, a aprovar por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 15.º - 1. À DA, dirigida por um capitão-de-mar-e-guerra de administração naval, compete:
+Art. 15.º - 1. À DA, dirigida por um capitão-de-mar-e-guerra de administração naval, compete:
 
 a) A direcção do abastecimento naval;
 
@@ -280,9 +325,9 @@ c) O apoio a comissões técnicas encarregadas de estudos sobre fardamento e peq
 
 4. A DA será apoiada por elementos dos organismos de direcção técnica, em acumulação.
 
-###### Art. 16.º A estrutura orgânica da DA será fixada no respectivo regulamento interno, a aprovar por despacho do Chefe do Estado-Maior da Armada.
+Art. 16.º A estrutura orgânica da DA será fixada no respectivo regulamento interno, a aprovar por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 17.º - 1. À DT, que é dirigida por um capitão-de-mar-e-guerra de qualquer classe, compete:
+Art. 17.º - 1. À DT, que é dirigida por um capitão-de-mar-e-guerra de qualquer classe, compete:
 
 a) Tratar dos assuntos respeitantes à gestão dos meios de transporte de pessoal e material privativos da marinha, tendo em vista a sua eficiência e economia;
 
@@ -290,9 +335,9 @@ b) Exercer funções de organismo de direcção técnica de meios de transporte 
 
 2. O superintendente dos Serviços do Material da Armada delegará, normalmente, no director de Transportes, a autoridade funcional que lhe é conferida pela alínea a) do n.º 2 do artigo 1.º, no que se refere a assuntos de natureza técnica da competência desta última entidade.
 
-###### Art. 1.º A estrutura orgânica da DT será fixada no respectivo regulamento interno, a aprovar por despacho do Chefe do Estado-Maior da Armada.
+Art. 1.º A estrutura orgânica da DT será fixada no respectivo regulamento interno, a aprovar por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 19.º - 1. No âmbito da DGMN funcionarão, transitoriamente, os órgãos de direcção técnica a seguir discriminados, cujas atribuições serão gradualmente transferidas para os da referida direcção-geral, quando, pela sua natureza, não devam pertencer a outro organismo, à medida que aquela for estruturada:
+Art. 19.º - 1. No âmbito da DGMN funcionarão, transitoriamente, os órgãos de direcção técnica a seguir discriminados, cujas atribuições serão gradualmente transferidas para os da referida direcção-geral, quando, pela sua natureza, não devam pertencer a outro organismo, à medida que aquela for estruturada:
 
 a) Repartição Técnica de Armas e Electrónica (RTAE);
 
@@ -308,7 +353,7 @@ d) Repartição de Apoio Logístico de Armamento e Material Electrónico (RALAME
 
 4. Os órgãos referidos no n.º 1 consideram-se automaticamente extintos, bem como o cargo referido no n.º 2, logo que se encontrem completamente estruturadas a DGMN e a DIN.
 
-###### Art. 20.º Às repartições referidas no n.º 1 do artigo anterior compete:
+Art. 20.º Às repartições referidas no n.º 1 do artigo anterior compete:
 
 a) Exercer as funções de direcção técnica, nos sectores de armamento, contramedidas, electrónica e comunicações e, ainda, na produção e distribuição de energia para instalações terrestres;
 
@@ -316,7 +361,7 @@ b) Tratar do aprovisionamento, armazenagem e distribuição de munições, explo
 
 c) Exercer funções de órgão de execução de serviços, no que respeita a infra-estruturas de comunicações localizadas no território do continente.
 
-###### Art. 21.º Para os efeitos previstos no presente diploma, consideram-se funções genéricas de direcção técnica as seguintes:
+Art. 21.º Para os efeitos previstos no presente diploma, consideram-se funções genéricas de direcção técnica as seguintes:
 
 a) Normalização, especificação e contrôle da qualidade de sistemas, equipamentos, materiais e métodos de procedimento;
 
@@ -338,7 +383,7 @@ i) Inspecção e apoio aos serviços técnicos dos comandos, forças, unidades, 
 
 j) Apoio técnico à instrução e adestramento do pessoal e definição de lotações.
 
-###### Art. 22.º - 1. São extintos os seguintes organismos:
+Art. 22.º - 1. São extintos os seguintes organismos:
 
 a) Direcção das Construções Navais;
 
@@ -364,22 +409,22 @@ c) Para a DA - o que pertence ao organismo indicado na alínea e) do número ant
 
 d) Para a GGM - o que pertence aos organismos indicados nas alíneas f) e g) do número anterior.
 
-###### Art. 23.º As lotações do pessoal militar e do pessoal civil da SSM são fixadas, respectivamente, por portaria e despacho do Chefe do Estado-Maior da Armada.
+Art. 23.º As lotações do pessoal militar e do pessoal civil da SSM são fixadas, respectivamente, por portaria e despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 24.º Enquanto não forem publicados os regulamentos internos dos organismos criados pelo presente diploma, as respectivas atribuições serão, genericamente e no que for aplicável, as daquelas a partir dos quais se formam.
+Art. 24.º Enquanto não forem publicados os regulamentos internos dos organismos criados pelo presente diploma, as respectivas atribuições serão, genericamente e no que for aplicável, as daquelas a partir dos quais se formam.
 
-###### Art. 25.º São mantidas as atribuições e estrutura orgânica do organismo referido no n.º 3 do artigo 3.º
+Art. 25.º São mantidas as atribuições e estrutura orgânica do organismo referido no n.º 3 do artigo 3.º
 
-###### Art. 26.º As alterações na estrutura orgânica da SSM, introduzidas pelo presente diploma, entrarão em vigor, gradual e parcelarmente, por despacho do Chefe do Estado-Maior da Armada, de forma a não ser perturbado o funcionamento dos serviços.
+Art. 26.º As alterações na estrutura orgânica da SSM, introduzidas pelo presente diploma, entrarão em vigor, gradual e parcelarmente, por despacho do Chefe do Estado-Maior da Armada, de forma a não ser perturbado o funcionamento dos serviços.
 
-###### Art. 27.º As dúvidas e casos omissos surgidos na aplicação deste diploma serão resolvidos por despacho do Chefe do Estado-Maior da Armada.
+Art. 27.º As dúvidas e casos omissos surgidos na aplicação deste diploma serão resolvidos por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 28.º São revogados os artigos 10.º, 11.º, 12.º, 14.º, 16.º, 17.º, 18.º, 19.º, 20.º, 20.º-A e 23.º do [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031), de 16 de Novembro de 1968, com a redacção que lhe foi dada pelo [Decreto n.º 7/72](https://diariodarepublica.pt/dr/detalhe/decreto/7-1972-291792), de 6 de Janeiro.
+Art. 28.º São revogados os artigos 10.º, 11.º, 12.º, 14.º, 16.º, 17.º, 18.º, 19.º, 20.º, 20.º-A e 23.º do [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031), de 16 de Novembro de 1968, com a redacção que lhe foi dada pelo [Decreto n.º 7/72](https://diariodarepublica.pt/dr/detalhe/decreto/7-1972-291792), de 6 de Janeiro.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 26 de Agosto de 1976.**
+Promulgado em 26 de Agosto de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/1994/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-1994-521450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2a512de775030f5ddcf2d1b8c62ae4749979c391bcd0c7309543506f8d12cee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9d7ed89dce8c2e820bd1c3b49d221b5b5be3c052b6ba323e3b55c8bf2d8e63a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
 subjects:
 - Convenção
 - Cooperação Interempresas
-- Portugal
 - Marrocos
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:26Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +90,19 @@ de 8 de Fevereiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Partenariado entre o Governo da República Portuguesa e o Governo do Reino de Marrocos, assinado em Rabat a 7 de Junho de 1993, cujo texto original, nas línguas portuguesa, árabe e francesa, segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Partenariado entre o Governo da República Portuguesa e o Governo do Reino de Marrocos, assinado em Rabat a 7 de Junho de 1993, cujo texto original, nas línguas portuguesa, árabe e francesa, segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1993. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Durão Barroso - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Assinado em 6 de Janeiro de 1994.**
+Assinado em 6 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Janeiro de 1994.**
+Referendado em 14 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO DE PARTENARIADO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO REINO DE MARROCOS
 
@@ -140,7 +140,7 @@ Pelo Governo do Reino de Marrocos:
 
 Mohamed Berrada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/032a00/06200621.pdf))](https://files.diariodarepublica.pt/1s/1994/02/032a00/06200621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/032a00/06200621.pdf)
 
 PROTOCOLE DE PARTENARIAT ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE ET LE GOUVERNEMENT DU ROYAUME DU MAROC.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/95-1974-412660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cedb194317244d011c69ad49d02f79160b6c07916d729452d40d40d2066b1191
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cde32c5cfbc4f4b6ca9d651b378818bfe53f83c49436ab2acbda09c1f40e45d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:263057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:55Z'
   warnings: []
   errors: []
 ---
@@ -99,18 +103,18 @@ Por motivo de urgência, de harmonia com o § 3.º do artigo 136.º da Constitui
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Fica o Ministro do Ultramar autorizado a celebrar com a Companhia de Fosfatos de Angola, S. A. R. L., um adicional ao contrato de concessão assinado em 30 de Dezembro de 1968, em conformidade com as bases anexas ao [Decreto n.º 48695](https://diariodarepublica.pt/dr/detalhe/decreto/48695-1968-263057), de 22 de Novembro de 1968, no qual se introduzirá a alteração decorrente do presente decreto.
+Artigo 1.º Fica o Ministro do Ultramar autorizado a celebrar com a Companhia de Fosfatos de Angola, S. A. R. L., um adicional ao contrato de concessão assinado em 30 de Dezembro de 1968, em conformidade com as bases anexas ao [Decreto n.º 48695](https://diariodarepublica.pt/dr/detalhe/decreto/48695-1968-263057), de 22 de Novembro de 1968, no qual se introduzirá a alteração decorrente do presente decreto.
 
-###### Art. 2.º O período de pesquisas, estabelecido na cláusula 5.ª do contrato referido no artigo anterior, poderá ser prorrogado até 30 de Junho de 1975.
+Art. 2.º O período de pesquisas, estabelecido na cláusula 5.ª do contrato referido no artigo anterior, poderá ser prorrogado até 30 de Junho de 1975.
 
-###### Art. 3.º O adicional ao contrato de concessão autorizado pelo presente decreto deverá ser assinado no prazo de sessenta dias, a contar da data da sua publicação.
+Art. 3.º O adicional ao contrato de concessão autorizado pelo presente decreto deverá ser assinado no prazo de sessenta dias, a contar da data da sua publicação.
 
 Marcelo Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 1 de Março de 1974.**
+Promulgado em 1 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - B. Rebelo de Sousa.

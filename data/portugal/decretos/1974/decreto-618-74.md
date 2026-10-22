@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/618-1974-465433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 167c30ccb7e5e5f5fa0d0d46ecc4a2e30a2c1d565b531912e9436314a6f8a06b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68f11889980a37ac33b12f0ab497df97a7800926023608ba3adccd5c2d34a90a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:30Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +88,15 @@ de 14 de Novembro
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovados para ratificação os Protocolos I, II e III estabelecidos pela Conferência Diplomática reunida para determinar a entrada em vigor das Convenções Internacionais Relativas ao Transporte por Caminho de Ferro de Mercadorias (CIM) e de Passageiros e de Bagagens (CIV) de 7 de Fevereiro de 1970, concluídos em Berna a 9 de Novembro de 1973, cujos textos em francês e respectivas traduções para português vão anexos ao presente decreto.
+Artigo único. São aprovados para ratificação os Protocolos I, II e III estabelecidos pela Conferência Diplomática reunida para determinar a entrada em vigor das Convenções Internacionais Relativas ao Transporte por Caminho de Ferro de Mercadorias (CIM) e de Passageiros e de Bagagens (CIV) de 7 de Fevereiro de 1970, concluídos em Berna a 9 de Novembro de 1973, cujos textos em francês e respectivas traduções para português vão anexos ao presente decreto.
 
 Vasco dos Santos Gonçalves - Mário Soares - José Augusto Fernandes.
 
-**Assinado em 7 de Novembro de 1974.**
+Assinado em 7 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Protocolo I estabelecido pela Conferência Diplomática reunida para determinar a entrada em vigor das Convenções Internacionais Relativas ao Transporte por Caminho de Ferro de Mercadorias (CIM) e de Passageiros e de Bagagens (CIV) de 7 de Fevereiro de 1970.
 

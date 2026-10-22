@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/28/2003/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-2003-683239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:15:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97a9e489ff69d1638333b820d3265bfa86715accf772185daef5ef077540c85e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7525ee028e8d81580149aa727956429836bccddbddada8db06abaaa575aa03fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:15:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ÁREA Crítica de Recuperação e Reconversão Urbanística
-- Transmissão da Propriedade
-- Zona de Proteção
 - Autarquia Local
+- Transmissão da Propriedade
 - Viseu
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:628790:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628790:por
+  label: "Alterado o art. 2º do presente diploma, pelo DEC.32/2007.11.12.2007.MAOTDR, DR.IS [238] de 11.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/32-2007-628790
+  date: '2007-12-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/1996/07/31/p/dre
   label: null
@@ -85,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/52/1999/11/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/52/1999/11/22/p/dre
+- type: cites
+  target: pt:dre:406886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643564:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:15:02Z'
   warnings: []
   errors: []
 ---
@@ -141,14 +162,14 @@ Compete à Câmara Municipal de Viseu promover, em colaboração com as demais e
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 2003. - José Manuel Durão Barroso - Amílcar Augusto Contel Martins Theias.
 
-**Assinado em 20 de Maio de 2003.**
+Assinado em 20 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Maio de 2003.**
+Referendado em 23 de Maio de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/06/134b00/34753477.pdf)

@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/58-1979-380487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac597b52e7c381f9a22c1eef551270aae9013bd8437a3db6a63b3e1c02a5fb9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1638cd8102509f0fde58fe8ef02255e240c37c3dcc69417c7eb8058212de29a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Militar
+- Pensão por Serviços Excepcionais
+relationships:
+- type: cites
+  target: pt:dre:474935:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:28Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +97,12 @@ Com fundamento no disposto no artigo 37.º do [Decreto-Lei n.º 47084](https://d
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. É concedida, de harmonia com o disposto na alínea a) do artigo 3.º do [Decreto-Lei n.º 47084](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47084-1966-474935), de 9 de Julho de 1966, a Aida Soares de Queirós e Rio, na qualidade de viúva do capitão Manuel António Carreira Lopes Pereira do Rio, a pensão por serviços excepcionalmente relevantes prestados ao País, do quantitativo que legalmente lhe competir.
+Artigo único. É concedida, de harmonia com o disposto na alínea a) do artigo 3.º do [Decreto-Lei n.º 47084](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47084-1966-474935), de 9 de Julho de 1966, a Aida Soares de Queirós e Rio, na qualidade de viúva do capitão Manuel António Carreira Lopes Pereira do Rio, a pensão por serviços excepcionalmente relevantes prestados ao País, do quantitativo que legalmente lhe competir.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Assinado em 23 de Junho de 1979.**
+Assinado em 23 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

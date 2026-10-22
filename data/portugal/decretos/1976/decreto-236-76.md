@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/236-1976-502836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 235d37bc1533c77016d09507a0e292859a58e87a7c32982bcbf8f5122f914498
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 117c4952db060bb55c9c89b2f0bd406bba999df6b5304db4ef038eba912fce7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Belgrado
+- Convenção
+- Cooperação Cultural
+- Cooperação Internacional
+- Jugoslávia
+- Política Cultural
+- Política de Educação
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:20Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +94,15 @@ de 5 de Abril
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República Socialista Federativa da Jugoslávia, assinado em Belgrado a 24 de Outubro de 1975, cujo texto em português vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República Socialista Federativa da Jugoslávia, assinado em Belgrado a 24 de Outubro de 1975, cujo texto em português vai anexo ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Ernesto Augusto de Melo Antunes - António de Almeida Santos.
 
-**Assinado em 23 de Março de 1976.**
+Assinado em 23 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO DE COOPERAÇÃO CULTURAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA SOCIALISTA FEDERATIVA DA JUGOSLÁVIA
 
@@ -104,7 +112,7 @@ Desejosos de fortalecer os laços de amizade entre os seus povos e de reforçar 
 
 Decidiram firmar o presente acordo:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes favorecerão o desenvolvimento das relações no domínio do ensino e da educação através de:
 
@@ -118,23 +126,23 @@ d) Trocas de documentação e de informações sobre geografia, história, econo
 
 e) Trocas de documentação e de informação especializadas, referentes a este domínio.
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes Contratantes facilitarão e apoiarão, na medida das suas possibilidades, o desenvolvimento das relações entre instituições ou organizações artísticas e culturais de ambos os países.
 
-ARTIGO III
+###### ARTIGO III
 
 1. Cada uma das Partes Contratantes porá à disposição da outra Parte, anualmente e em regime de reciprocidade, bolsas de estudo, a fim de permitir que no seu território os cidadãos desta iniciem ou prossigam estudos, trabalhos ou investigações, ou ainda, completem a sua formação cultural e artística.
 
 2. Serão estabelecidas negociações para a fixação das modalidades, condições de concurso, duração e financiamento das bolsas de estudo.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1. Cada Parte estudará as possibilidades e as condições em que poderão ser reconhecidas equivalências de títulos, graus e diplomas académicos, obtidos no território da outra Parte, inclusivamente para efeitos de exercício profissional.
 
 2. Para esse efeito, cada Parte porá à disposição da outra a documentação legal necessária e fará as propostas adequadas.
 
-ARTIGO V
+###### ARTIGO V
 
 Com o objectivo de fomentar e desenvolver um melhor conhecimento mútuo da história, da literatura, do teatro, da música, das artes plásticas e rítmicas e da cinematografia, bem como de outros domínios da actividade cultural e artística, as Partes Contratantes promoverão:
 
@@ -154,19 +162,19 @@ g) Difusão de programas de rádio e televisão;
 
 h) Tradução e publicação de obras literárias, artísticas ou de outras de índole cultural.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Ambas as Partes concederão as facilidades alfandegárias necessárias à entrada no seu território de todo o material não destinado a fins comerciais, que tenha por objectivo a realização e efectivação das actividades decorrentes do presente Acordo e que sirvam à boa execução dos seus fins.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As duas Partes favorecerão o desenvolvimento do intercâmbio nos domínios dos desportos e da educação física.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Cada Parte Contratante assegurará, em conformidade com a legislação em vigor no seu território, as condições normais para a realização e divulgação das actividades culturais e artísticas promovidas pela outra Parte, no âmbito do estabelecido no presente Acordo.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1. Com o fim de aplicar as disposições do presente Acordo, as Partes Contratantes estabelecerão periodicamente programas de cooperação no domínio da cultura e da educação, definindo as actividades concretas a realizar, as condições de organização dessas actividades e das trocas previstas nos programas, assim como o modo de financiamento.
 
@@ -178,11 +186,11 @@ ARTIGO IX
 
 5. A comissão mista poderá convocar peritos para as reuniões na qualidade de conselheiros.
 
-ARTIGO X
+###### ARTIGO X
 
 O presente Acordo entrará em vigor a partir da data da troca definitiva dos instrumentos de ratificação entre as duas Partes.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O Acordo será válido pelo período de cinco anos, podendo ser renovado, por iguais períodos e por recondução tácita, salvo se uma das Partes o denunciar, por escrito, pelos menos seis meses antes da sua expiração.
 

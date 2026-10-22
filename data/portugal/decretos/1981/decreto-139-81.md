@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/139-1981-568314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c416186bcef0a2fe088d2f0aafb5b3e55585e7d6b7d982ae9e87b8b188c1727c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a17dfdda3c3ea4414b9db087adca57ebb222a4ec3de08fbfcc7ed19b683e7225
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério das Finanças e do Plano
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:11Z'
   warnings: []
   errors: []
 ---
@@ -88,27 +94,27 @@ Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diar
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 1695069 contos, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 1695069 contos, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/26100/29972998.pdf))](https://files.diariodarepublica.pt/1s/1981/11/26100/29972998.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/26100/29972998.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
 Receitas de capital:
 
-### Capítulo 15.º «Contas de ordem»:
+Capítulo 15.º «Contas de ordem»:
 
 Grupo 13 «Transportes e comunicações»: ... Contos
 
-###### Artigo 01 «Fundo Especial de Transportes Terrestres» ... 1374435
+Artigo 01 «Fundo Especial de Transportes Terrestres» ... 1374435
 
-###### Artigo 03 «Administração dos Portos do Douro e Leixões» ... 320634
+Artigo 03 «Administração dos Portos do Douro e Leixões» ... 320634
 
 ... 1695069
 
-###### Art. 3.º São autorizadas as seguintes alterações no orçamento privativo da:
+Art. 3.º São autorizadas as seguintes alterações no orçamento privativo da:
 
 Administração dos Portos do Douro e Leixões
 
@@ -156,42 +162,42 @@ Contrapartidas:
 
 Receitas correntes: ... Contos
 
-### Capítulo 03 «Taxas, multas e outras penalidades»:
+Capítulo 03 «Taxas, multas e outras penalidades»:
 
 Grupo 01 «Taxas» ... 70000
 
-### Capítulo 07 «Venda de serviços e bens não duradouros»:
+Capítulo 07 «Venda de serviços e bens não duradouros»:
 
 Grupo 03 «Diversos - Sector público»:
 
-###### Artigo 06 «Guindagem» ... 14000
+Artigo 06 «Guindagem» ... 14000
 
-###### Artigo 10 «Tráfego» ... 10000
+Artigo 10 «Tráfego» ... 10000
 
-###### Artigo 11 «Material automóvel» ... 12000
+Artigo 11 «Material automóvel» ... 12000
 
 Grupo 04 «Rendas de edifícios - Outros sectores»:
 
-###### Artigo 01 «Armazenagem coberta» ... 2530
+Artigo 01 «Armazenagem coberta» ... 2530
 
 Grupo 10 «Diversos - Outros sectores»:
 
-###### Artigo 06 «Guindagem» ... 24052
+Artigo 06 «Guindagem» ... 24052
 
-###### Artigo 11 «Material automóvel» ... 17000
+Artigo 11 «Material automóvel» ... 17000
 
 Receitas de capital: ... Contos
 
-### Capítulo 13 «Outras receitas de capital»:
+Capítulo 13 «Outras receitas de capital»:
 
-###### Artigo 01 «Saldo de gerência de 1980» ... 171052
+Artigo 01 «Saldo de gerência de 1980» ... 171052
 
 ... 320634
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 28 de Outubro de 1981.**
+Promulgado em 28 de Outubro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

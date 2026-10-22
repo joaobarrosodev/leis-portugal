@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/114-1981-564984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bd444521d04ca93f66022e8f4c7f4cb8a6f688206068d4d39211ccdb493132b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ba747a9ef073f7d8d6bb38a29ff38bec07ba64191ad6d6e01d2f434b81f2540
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Estrangeiros
+- Bissau
+- Cidadão Nacional
+- Consulado
+- Convenção
+- Cooperação Consular
+- Embaixada
+- Emolumento Consular
+- Guiné-Bissau
+- Passaporte
+- Portugal
+- Protecção e Assistência Consular
 relationships:
 - type: amended_by
   target: pt:dre:477639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:477639:por
+  label: "Aprovado o Protocolo Adicional à Convenção pelo DEC.16/98.1998.06.30.MNE DR.IS-A [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/16-1998-477639
+  date: '1998-06-30'
+- type: corrected_by
+  target: pt:dre:562466:por
+  label: Rectificado pela DECL.DD6352.19.10.1981.PCM, DR.IS [249] de 29.10.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-562466
+  date: '1981-10-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:45Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +112,15 @@ de 5 de Setembro
 
 O Governo decreta, nos termos da alínea e) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Consular entre a República Portuguesa e a República da Guiné-Bissau, assinado em 24 de Fevereiro de 1979, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Consular entre a República Portuguesa e a República da Guiné-Bissau, assinado em 24 de Fevereiro de 1979, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 21 de Agosto de 1981.**
+Assinado em 21 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO DE COOPERAÇÃO CONSULAR ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU
 

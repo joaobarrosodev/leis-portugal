@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-1973-288629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 878b87b8cbb49776c52925c497a0671989b59a743b0467a0cac7e48d7126cb7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fd52265a0bc90970c09d274d85e48f6b8291f1a2f6402bbe941d92976732952
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:435226:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:53Z'
   warnings: []
   errors: []
 ---
@@ -91,22 +95,22 @@ Por motivo de urgência, nos termos do disposto no § 3.º do artigo 136.º da C
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. O contrato-promessa de compra e venda de bens imóveis ou a simples promessa de venda, quando o futuro adquirente seja pessoa singular ou colectiva de nacionalidade estrangeira, não poderá ser celebrado sem que prèviamente se obtenha a autorização do Ministro do Ultramar, exigida pelo artigo 1.º do [Decreto n.º 28228](https://diariodarepublica.pt/dr/detalhe/decreto/28228-1937-435226), de 24 de Novembro de 1937.
+Artigo 1.º - 1. O contrato-promessa de compra e venda de bens imóveis ou a simples promessa de venda, quando o futuro adquirente seja pessoa singular ou colectiva de nacionalidade estrangeira, não poderá ser celebrado sem que prèviamente se obtenha a autorização do Ministro do Ultramar, exigida pelo artigo 1.º do [Decreto n.º 28228](https://diariodarepublica.pt/dr/detalhe/decreto/28228-1937-435226), de 24 de Novembro de 1937.
 
 2. A autorização prevista no número anterior é também necessária para a celebração de contrato-promessa que tenha por objecto a prática de quaisquer outros actos que se destinem a operar a transmissão, quer a título gratuito, quer oneroso, de direitos reais sobre bens imóveis.
 
-###### Art. 2.º - O contrato-promessa celebrado sem a autorização prévia exigida pelo artigo 1.º do [Decreto n.º 28228](https://diariodarepublica.pt/dr/detalhe/decreto/28228-1937-435226), qualquer que seja a forma que revista, não produzirá efeitos entre as partes, nem em relação a terceiros.
+Art. 2.º - O contrato-promessa celebrado sem a autorização prévia exigida pelo artigo 1.º do [Decreto n.º 28228](https://diariodarepublica.pt/dr/detalhe/decreto/28228-1937-435226), qualquer que seja a forma que revista, não produzirá efeitos entre as partes, nem em relação a terceiros.
 
-###### Art. 3.º O Ministro do Ultramar poderá usar da faculdade que lhe concede o artigo 5.º do citado [Decreto n.º 28228](https://diariodarepublica.pt/dr/detalhe/decreto/28228-1937-435226).
+Art. 3.º O Ministro do Ultramar poderá usar da faculdade que lhe concede o artigo 5.º do citado [Decreto n.º 28228](https://diariodarepublica.pt/dr/detalhe/decreto/28228-1937-435226).
 
-###### Art. 4.º Este decreto entra imediatamente em vigor.
+Art. 4.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Dezembro de 1972.**
+Promulgado em 30 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES TROMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES TROMAZ.
 
 Para ser publicado n.o Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

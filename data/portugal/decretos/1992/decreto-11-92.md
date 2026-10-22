@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/11/1992/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-1992-157642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9eecc816ac1b12198b2fbbba25e9960bb9de82399dca5b461b22abee27e9c252
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40377cf010b78f59693c57d428ac6deaddf5102cdf11d1a31f8e025b914e74cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Adesão à Comunidade Europeia
 - CEE
 - Convenção
-- Portugal
 - Direitos Aduaneiros
 - Espanha
-- Adesão à Comunidade Europeia
 - Importação
 - Israel
 - Mercado Interno CE
+- Portugal
 relationships:
 - type: cites
   target: celex:31972R1035
@@ -86,15 +86,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1980/3033/oj
 article_structure:
-  article_count: 34
+  article_count: 33
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:29Z'
   warnings: []
   errors: []
 ---
@@ -105,19 +105,19 @@ de 11 de Fevereiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo, assinado em Bruxelas em 17 de Dezembro de 1987, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual estes dois Estados membros das Comunidades aderiram ao Acordo de Cooperação entre a Comunidade Económica Europeia e o Estado de Israel, assinado em Bruxelas em 11 de Maio de 1975, e o Protocolo Adicional a esse Acordo, assinado em Bruxelas em 8 de Fevereiro de 1977, cuja versão autêntica em língua portuguesa segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo, assinado em Bruxelas em 17 de Dezembro de 1987, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual estes dois Estados membros das Comunidades aderiram ao Acordo de Cooperação entre a Comunidade Económica Europeia e o Estado de Israel, assinado em Bruxelas em 11 de Maio de 1975, e o Protocolo Adicional a esse Acordo, assinado em Bruxelas em 8 de Fevereiro de 1977, cuja versão autêntica em língua portuguesa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Assinado em 1 de Abril de 1991.**
+Assinado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Abril de 1991.**
+Referendado em 2 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO AO ACORDO DE COOPERAÇÃO ENTRE A COMUNIDADE ECONÓMICA EUROPEIA E O ESTADO DE ISRAEL NA SEQUÊNCIA DA ADESÃO DO REINO DE ESPANHA E DA REPÚBLICA PORTUGUESA À COMUNIDADE.
 
@@ -137,11 +137,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Jakob Esper Larsen, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Werner Ungerer, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Constantinos Lyberopoulos, embaixador extraordinário e plenipotenciário;
 
@@ -149,15 +149,15 @@ Sua Majestade o Rei de Espanha:
 
 Carlos Westendorp y Cabeza, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 François Scheer, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 John H. F. Campbell, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Pietro Calamia, embaixador extraordinário e plenipotenciário;
 
@@ -169,7 +169,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 P. C. Nieman, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Leonardo Mathias, embaixador extraordinário e plenipotenciário;
 
@@ -235,7 +235,7 @@ A última redução, de 10%, será efectuada em 1 de Janeiro de 1993.
 
 2 - Em derrogação do disposto no n.º 1, relativamente aos produtos a seguir mencionados, os direitos de base são os indicados em relação a cada um deles:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/035a00/07870904.pdf))](https://files.diariodarepublica.pt/1s/1992/02/035a00/07870904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/035a00/07870904.pdf)
 
 ###### Artigo 5.º
 
@@ -575,4 +575,4 @@ O presente Protocolo é redigido em duplo exemplar em línguas alemã, dinamarqu
 
 Do ANEXO I ao ANEXO XVII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/035a00/07870904.pdf))](https://files.diariodarepublica.pt/1s/1992/02/035a00/07870904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/035a00/07870904.pdf)

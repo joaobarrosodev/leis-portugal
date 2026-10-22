@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/20/1993/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-1993-268425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9f7d6a6012e2d2b85d6feccf74d5fcbe8c43b2b5a56d4a80fb2343ede354866
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c44b7f9eb337d4f3333b28637fb39c37efd9d056905907ae46fdffbf04a18e32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- ONU
-- Nova Iorque
-- Proteção do Ambiente
 - Alteração Climática
 - Clima
+- Convenção
+- Nova Iorque
+- ONU
+- Portugal
+- Proteção do Ambiente
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADOS OS ANEXOS I E II DA CONVENCAO QUADRO SOBRE ALTERAÇÕES CLIMATICAS, PELO AVISO 222/93, DO MNE, DE 30\
+    \ DE AGOSTO, PUBLICADO NO DR.IS-A, 229, DE 930929.\0 930929.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:224623:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534641:por
+  label: "Estendida ao Território de Macau a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.137/99.1999.04.22.PR,\
+    \ DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/137-1999-534641
+  date: '1999-04-22'
+- type: amended_by
+  target: pt:dre:224623:por
+  label: "Alterado o título e o texto da Convenção pelo DEC.14/2003.2003.04.04.MNE DR.IS-A [80] de 04/Abr/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/14-2003-224623
+  date: '2003-02-28'
+- type: corrected_by
+  target: pt:dre:651704:por
+  label: Rectificados os anexos I e II da Convenção pelo(a) Aviso n.º 222/93 - Diário da República n.º 229/1993, Série I-A
+    de 1993-09-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/222-1993-651704
+  date: '1993-09-29'
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:22Z'
   warnings: []
   errors: []
 ---
@@ -97,19 +119,19 @@ de 21 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Quadro sobre Alterações Climáticas, adoptada em 9 de Maio de 1992 pelo Comité Intergovernamental de Negociação instituído pela Assembleia Geral das Nações Unidas e aberta à assinatura em 4 de Junho de 1992 na Conferência das Nações Unidas sobre o Ambiente e Desenvolvimento, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção Quadro sobre Alterações Climáticas, adoptada em 9 de Maio de 1992 pelo Comité Intergovernamental de Negociação instituído pela Assembleia Geral das Nações Unidas e aberta à assinatura em 4 de Junho de 1992 na Conferência das Nações Unidas sobre o Ambiente e Desenvolvimento, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1993. - Aníbal António Cavaco Silva - Domingos Manuel Martins Jerónimo - Carlos Alberto Diogo Soares Borrego.
 
 Ratificado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE
 
@@ -1177,7 +1199,7 @@ Uma Parte que seja uma organização de integração económica regional pode fa
 
 ###### Artigo 19.º — Depositário
 
-**O Secretário-Geral das Nações Unidas será o depositário da Convenção e dos protocolos adoptados segundo os termos do artigo 17.º**
+O Secretário-Geral das Nações Unidas será o depositário da Convenção e dos protocolos adoptados segundo os termos do artigo 17.º
 
 ###### Artigo 20.º — Assinatura
 

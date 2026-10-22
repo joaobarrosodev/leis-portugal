@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 25/1975, 1º Suplemento, Série I de 1975-01-30
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 124-(1) a 124-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/02501/00010001.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-a-1975-305818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 405ac9df51dc82049c6c5659ae248a48d586aafa2fb515e05d0f9b027a6cd65d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c77b203f30e52f9e4bfc0bab744e8d70faaa0e87bac9fd551d62e86a686918e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:10Z'
   warnings: []
   errors: []
 ---
@@ -90,10 +90,10 @@ Usando da faculdade conferida pelo n.º 13.º do artigo 7.º da Lei Constitucion
 
 Tenho por bem nomear o Dr. Vasco Vieira de Almeida e os engenheiros Manuel Alfredo Resende de Oliveira e Joaquim Altino Antunes da Cunha Ministros, respectivamente, da Economia, das Obras Públicas, Habitação e Urbanismo e dos Transportes e Comunicações do Estado de Angola.
 
-**Assinado em 30 de Janeiro de 1975.**
+Assinado em 30 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES. - Vasco dos Santos Gonçalves - António de Almeida Santos.**
+O Presidente da República, FRANCISCO DA COSTA GOMES. - Vasco dos Santos Gonçalves - António de Almeida Santos.
 
 Para ser publicado nos Boletins Oficiais de todos os territórios ultramarinos. - A. de Almeida Santos.

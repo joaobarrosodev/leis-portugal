@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1981-388470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26367ee8bfd5627b4dd426e91d3e0178ad86854df6a1760b861e088750287cfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3e6f8cb46eb08b1a4a049794831745e336255862fb5c933b4c84d3b4da74bc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Canadá
+- Convenção
+- Portugal
+- Segurança Social
+- Toronto
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:41Z'
   warnings: []
   errors: []
 ---
@@ -86,23 +91,23 @@ de 5 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção sobre Segurança Social entre a República Portuguesa e o Canadá, assinada em Toronto em 15 de Dezembro de 1980, cujos textos em português, inglês e francês vão anexos ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção sobre Segurança Social entre a República Portuguesa e o Canadá, assinada em Toronto em 15 de Dezembro de 1980, cujos textos em português, inglês e francês vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 12 de Fevereiro de 1981.**
+Promulgado em 12 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO SOBRE SEGURANÇA SOCIAL ENTRE PORTUGAL E O CANADÁ
 
 O Governo de Portugal e o Governo do Canadá, desejando cooperar no âmbito social, decidiram subscrever um acordo sobre segurança social e, para esse fim, convieram nas disposições seguintes:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
-ARTIGO I
+###### ARTIGO I
 
 Para aplicação no presente Acordo, desde que o contexto não exija interpretação diferente:
 
@@ -140,7 +145,7 @@ p) O termo «prestação por morte» significa, relativamente a Portugal, o subs
 
 q) Os termos não definidos no presente artigo têm o sentido que lhes é atribuído ao abrigo da legislação aplicável.
 
-ARTIGO II
+###### ARTIGO II
 
 1 - As legislações a que o presente Acordo se aplica são:
 
@@ -164,7 +169,7 @@ ii) O Regime de Pensões do Canadá.
 
 4 - As legislações provinciais de segurança social poderão ser objecto de ajustes nos termos do artigo XXIV.
 
-ARTIGO III
+###### ARTIGO III
 
 1 - O presente Acordo aplica-se às pessoas que estejam ou tenham estado sujeitas à legislação referida no artigo II, bem como às pessoas a seu cargo e aos seus sobreviventes, consoante a legislação de uma ou de outra Parte.
 
@@ -172,23 +177,23 @@ ARTIGO III
 
 3 - As disposições do presente Acordo não são aplicáveis aos agentes diplomáticos e consulares de carreira, incluindo os funcionários do quadro das chancelarias que não sejam residentes permanentes ou nacionais do Estado recebedor.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Com ressalva do disposto nos artigos XII, XIII, XIV e XV do presente Acordo, as pensões, prestações, rendas subsídios por morte adquiridos nos termos da legislação de uma das Partes Contratantes não podem sofrer qualquer redução, alteração, suspensão, supressão ou confisco pelo simples facto de o beneficiário residir no território da outra Parte e serão concedidos no território desta Parte.
 
-ARTIGO V
+###### ARTIGO V
 
 Qualquer pensão, prestação, renda e subsídio por morte pagável, nos termos do presente Acordo, por uma Parte no território da outra, sê-lo-á igualmente no território de um terceiro Estado.
 
-# PARTE II — Disposições relativas à legislação aplicável
+## PARTE II — Disposições relativas à legislação aplicável
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - Com ressalva do disposto nos artigos VII, VII e IX um trabalhador apenas fica sujeito à legislação da Parte em cujo território exerce actividade.
 
 2 - Sem prejuízo dos artigos VII, VIII, e IX, o trabalhador que exerça, para a mesma entidade patronal, emprego no território das duas Partes no decurso do mesmo período apenas fica sujeito à legislação da Parte em cujo território resida habitualmente.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - Quando, após a entrada em vigor do presente Acordo, um trabalhador que não seja o mencionado no artigo VIII, estando sujeito à legislação de uma Parte e ao serviço de uma entidade patronal com sede ou sucursal no território dessa Parte, tiver sido destacado pela referida entidade patronal para o território da outra Parte para aí exercer actividade, a legislação da primeira Parte continua a aplicar-se ao mesmo trabalhador, em referência a essa relação de trabalho, por um período máximo de vinte e quatro meses.
 
@@ -202,7 +207,7 @@ ii) Se não lhe era aplicada qualquer legislação ou se as legislações das du
 
 3 - O acordo prévio e conjunto das autoridades competentes das duas Partes ou das autoridades em que para o efeito aquelas tenham delegado competência é necessário para a prorrogação, se for caso disso, da manutenção de sujeição à legislação da primeira Parte, mencionada no parágrafo 1 ou 2, no caso de o destacamento dever prolongar-se para além de vinte e quatro meses.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - Quando uma pessoa que pertença a um serviço administrativo oficial, relativamente a Portugal, é enviada em serviço ao território canadiano, não lhe é aplicável a legislação do Canadá e continua sujeita à legislação portuguesa.
 
@@ -214,7 +219,7 @@ ARTIGO VIII
 
 A comunicação por escrito da decisão deve ser feita à autoridade competente da primeira Parte dentro dos seis meses subsequentes à data de entrada em vigor do presente Acordo ou dentro dos seis meses subsequentes ao início do trabalho, conforme a data mais recente, e a decisão será executória a contar do dia em que a comunicação seja feita.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - Com ressalva do disposto nos parágrafos 2 e 3, qualquer nacional de uma Parte que exerça um emprego como membro da tripulação de um navio ou aeronave da outra Parte apenas está sujeito, relativamente a esse emprego, à legislação desta última Parte.
 
@@ -226,7 +231,7 @@ i) Não obstante o disposto no artigo II, a legislação do Canadá compreende s
 
 ii) O termo «navio de uma Parte» significa um navio cuja tripulação está ao serviço de uma entidade patronal cuja sede se situa no território dessa Parte.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - Com ressalva do disposto no parágrafo 2, se, nos termos da presente parte, uma pessoa, que não seja a referida no artigo IX, estiver sujeita à legislação canadiana, incluindo o regime geral de pensões de uma província, durante qualquer período de residência no território português, este período de residência será considerado - relativamente a essa pessoa, ao seu cônjuge e às pessoas a seu cargo que com ela habitem e não exerçam emprego durante o período referido - como um período de residência no Canadá para efeitos da Lei sobre a Segurança na Velhice.
 
@@ -238,15 +243,15 @@ ARTIGO X
 
 5 - Se a pessoa referida no parágrafo 3 ficar também sujeita ao Regime de Pensões do Canadá ou ao regime geral de pensões de uma província do Canadá pelo facto de exercer simultaneamente mais que um emprego, este período de emprego não pode ser equiparado a um período de residência no Canadá para efeitos da Lei sobre a Segurança na Velhice.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Não obstante o disposto nos artigos VI, VII, VIII e IX, as autoridades competentes podem estabelecer qualquer acordo considerado necessário no interesse de determinadas categorias de pessoas, em conformidade com o espírito e os princípios fundamentais do presente Acordo.
 
-# PARTE III — Disposições relativas às prestações
+## PARTE III — Disposições relativas às prestações
 
 ### CAPÍTULO 1.º — Prestações de velhice
 
-ARTIGO XII
+###### ARTIGO XII
 
 1 - a) Se uma pessoa tiver direito a uma prestação de velhice nos termos da legislação de Portugal sem recorrer às disposições seguintes do presente artigo, a prestação pagável ao abrigo da legislação portuguesa sê-lo-á igualmente em território canadiano.
 
@@ -278,7 +283,7 @@ iii) Um mês com início em 1 de Janeiro de 1966 ou posteriormente, que seria um
 
 ### CAPÍTULO 2.º — Subsídio de cônjuge
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1 - A legislação canadiana aplicável relativamente ao subsídio de cônjuge, nos termos do presente artigo, é, não obstante as demais disposições do presente Acordo, a Lei sobre a Segurança na Velhice, com exclusão do parágrafo 17.1 (1) da referida lei.
 
@@ -290,7 +295,7 @@ ARTIGO XIII
 
 Prestação de sobrevivência, prestações de invalidez, prestações por descendentes a cargo e prestações por morte.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1 - As disposições do presente artigo são aplicáveis às prestações de sobrevivência, às prestações de invalidez, às prestações por descendentes a cargo e às prestações por morte, na medida exigida pela natureza destas prestações.
 
@@ -316,7 +321,7 @@ ii) Pela proporção que os períodos de contribuição para o Regime de Pensõe
 
 ### CAPÍTULO 4.º — Disposições comuns
 
-ARTIGO XV
+###### ARTIGO XV
 
 1 - Em caso de totalização relativamente a uma prestação, segundo as disposições dos artigos XII, XIII e XIV, se a duração total dos períodos cumpridos ao abrigo da legislação de uma Parte não atingir um ano, a instituição ou autoridade dessa Parte não tem que conceder prestações com base nos referidos períodos, nos termos deste Acordo.
 
@@ -326,19 +331,19 @@ ARTIGO XV
 
 ### CAPÍTULO 5.º — Contribuições voluntárias
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 Para determinar a admissibilidade às contribuições voluntárias para o respectivo regime geral de seguro obrigatório de invalidez, velhice e morte, bem como de prestações de sobrevivência, a instituição portuguesa competente tomará em consideração, se necessário, para completar os períodos de seguro cumpridos ao abrigo da legislação que aplica, os períodos creditados ao abrigo do Regime de Pensões do Canadá, em conformidade com as disposições do subparágrafo 4, b), ii), do artigo XII.
 
-# PARTE IV — Disposições diversas
+## PARTE IV — Disposições diversas
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 1 - Um acordo administrativo geral, estabelecido pelas autoridades competentes das duas Partes, fixará, no que se torna necessário, as condições de aplicação do presente Acordo.
 
 2 - Naquele acordo serão designados os organismos de ligação das duas Partes Contratantes.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 1 - As autoridades competentes e as instituições responsáveis pela aplicação do Acordo:
 
@@ -350,25 +355,25 @@ c) Transmitem-se mutuamente, sempre que possível, todas as informações sobre 
 
 2 - As informações fornecidas ao abrigo do parágrafo 1 do presente artigo devem ser utilizadas unicamente para efeitos da aplicação do Acordo e das legislações a que o Acordo é aplicável e não para qualquer outra finalidade.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 1 - A isenção ou redução de custos previstas pela legislação de uma Parte relativamente à emissão de certificados ou documentos a apresentar para aplicação da legislação referida é extensiva aos certificados e documentos para aplicação da legislação da outra Parte.
 
 2 - Os actos e documentos de natureza oficial a apresentar para efeitos da aplicação do presente Acordo estão dispensados de legalização ou de qualquer outra formalidade similar.
 
-ARTIGO XX
+###### ARTIGO XX
 
 Os pedidos, comunicações ou recursos que, ao abrigo da legislação de uma das Partes, deveriam ser apresentados dentro de um prazo estabelecido à autoridade competente da referida Parte ou a uma das suas instituições responsável pela aplicação deste Acordo, mas que foram apresentados, no mesmo prazo, à autoridade ou à instituição correspondente da outra Parte, são considerados como tendo sido apresentados à autoridade ou à instituição da primeira Parte. Neste caso, a autoridade ou instituição da segunda Parte transmite, logo que possível, esses pedidos, comunicações ou recursos à autoridade ou à instituição da primeira Parte.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 Para aplicação do presente Acordo, as autoridades e instituições competentes das duas Partes podem comunicar directamente entre si em qualquer das línguas oficiais de uma ou de outra Parte.
 
-ARTIGO XXII
+###### ARTIGO XXII
 
 As autoridades competentes das duas Partes comprometem-se a solucionar, na medida do possível, as dificuldades que possam resultar da interpretação ou da aplicação do presente Acordo, em conformidade com o seu espírito e princípios fundamentais.
 
-ARTIGO XXIII
+###### ARTIGO XXIII
 
 1 - No caso de o presente Acordo deixar de estar em vigor, serão mantidos os direitos adquiridos por uma pessoa ao abrigo das disposições do referido Acordo e serão estabelecidas negociações para a regularização dos direitos em via de aquisição, nos termos das referidas disposições.
 
@@ -378,13 +383,13 @@ ARTIGO XXIII
 
 4 - Ressalvadas as disposições dos parágrafos 1, 2 e 3 do presente artigo, uma pensão, um subsídio ou prestações serão pagáveis nos termos do presente Acordo, mesmo no caso de se referirem a uma situação anterior à data da sua entrada em vigor.
 
-ARTIGO XXIV
+###### ARTIGO XXIV
 
 1 - A autoridade competente portuguesa e as autoridades competentes das províncias do Canadá poderão celebrar ajustes relativamente a toda a legislação de segurança social dependente da competência provincial, desde que esses ajustes não sejam contrários às disposições do presente Acordo.
 
 2 - Quando tenha sido celebrado um ajuste entre a autoridade competente portuguesa e uma província que tenha instituído um regime geral de pensões, relativamente a este regime provincial de pensões, o Canadá poderá, se o julgar necessário, para efeitos de aplicação do presente Acordo, celebrar com essa província um ajuste quanto às modalidades de coordenação do Regime de Pensões do Canadá e desse regime e, entre outros efeitos, aceitar como período de contribuição para a legislação do Canadá os períodos de contribuição para o regime provincial.
 
-ARTIGO XXV
+###### ARTIGO XXV
 
 1 - O presente Acordo entrará em vigor após a conclusão do acordo administrativo geral no primeiro dia do segundo mês subsequente à data da troca de instrumentos de ratificação.
 

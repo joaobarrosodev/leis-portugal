@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/36/2001/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-2001-642566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:12:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99852f9f1a81ebfef352d2cd4a5d6c23b10ebe91bef0e35aba9b9def016553ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b14ee17c86ae8d5a6e7d0718594a3e97e097a852ec6965bb8898df9228006e35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:12:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Combate ao Crime
 - Combate ao Terrorismo
 - Convenção
 - Cooperação
-- Portugal
-- Combate ao Crime
 - Moscovo
+- Portugal
 - Rússia
 relationships: []
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:12:00Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +96,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa.
 
-**Assinado em 23 de Agosto de 2001.**
+Assinado em 23 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Agosto de 2001.**
+Referendado em 30 de Agosto de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA FEDERAÇÃO DA RÚSSIA NO DOMÍNIO DO COMBATE À CRIMINALIDADE.
 

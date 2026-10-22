@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/23/2006/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-2006-541261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4c62bea7405c85c2ce1f338c022b2b6c0b2382b2893404e7e4e53e14ce68aa0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 099978253b1c136c6a4c292eb7823c71432011835861cf7cc9455178152533b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Acidente Ecológico
 - Assistência Mútua
 - Convenção
-- Portugal
-- Acidente Ecológico
-- Finlândia
 - Cooperação Internacional
+- Finlândia
 - Poluição Industrial
 - Poluição Transfronteiriça
+- Portugal
 - Substância Perigosa
 relationships: []
 article_structure:
   article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:33Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Francisco Carlos da Graça Nunes Correia.
 
-**Assinado em 14 de Julho de 2006.**
+Assinado em 14 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 17 de Julho de 2006.**
+Referendado em 17 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 CONVENTION ON THE TRANSBOUNDARY EFFECTS OF INDUSTRIAL ACCIDENTS
 
@@ -526,7 +526,7 @@ Where a substance or preparation named in part II also falls within a category i
 
 For the identification of hazardous activities, Parties shall take into consideration the foreseeable possibility of aggravation of the hazards involved and the quantities of the hazardous substances and their proximity, whether under the charge of one or more operators.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf))](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf)
 
 ANNEX II
 
@@ -646,7 +646,7 @@ Analysis and evaluation
 
 2 - The following table illustrates, for the purposes of the related articles, matters which should be considered in the analysis and evaluation, for the purposes listed:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf))](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf)
 
 ANNEX VI
 
@@ -1178,7 +1178,7 @@ A presente Convenção estará aberta para assinatura em Helsínquia nos dias 17
 
 ###### Artigo 28.º — Depositário
 
-**O Secretário-Geral das Nações Unidas actuará como depositário desta Convenção.**
+O Secretário-Geral das Nações Unidas actuará como depositário desta Convenção.
 
 ###### Artigo 29.º — Ratificação, aceitação, aprovação e adesão
 
@@ -1220,7 +1220,7 @@ Se uma substância ou uma preparação nomeadamente designada na parte II aparec
 
 Para a indicação de actividades perigosas, as Partes tomarão em consideração a possibilidade de previsão de agravamento dos perigos envolvidos e a quantidade das substâncias perigosas e a sua proximidade, quer sob o cargo de um ou mais operadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf))](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf)
 
 ## ANEXO II — Procedimentos da comissão de inquérito de acordo com os artigos 4.º e 5.º
 
@@ -1332,7 +1332,7 @@ As seguintes medidas poderão ser desenvolvidas de acordo com o direito e práti
 
 2 - A seguinte tabela ilustra, para o efeito dos artigos relevantes, matérias que devem ser consideradas na análise e avaliação, para esse objectivo aqui listadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf))](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/19200/71187143.pdf)
 
 ## ANEXO VI — Processo de decisão sobre o local de acordo com o artigo 7.º
 

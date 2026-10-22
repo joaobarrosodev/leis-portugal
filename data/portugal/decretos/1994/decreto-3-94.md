@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/1994/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-1994-495711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eff369ae3981922301bb116a0813ce7aa36f61f49c6d98e8536a099660130a9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a666119c8653816fb2a651920b415b22a86cfc0a538314ce67a851cb5aedd891
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
 subjects:
 - Contentor
 - Convenção
+- Londres
 - Portugal
 - Segurança no Trabalho
-- Londres
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:16Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 26 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas, para aceitação, as Emendas à Convenção Internacional sobre a Segurança dos Contentores, concluídas em Londres, a 17 de Maio de 1991, cuja versão autêntica em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. São aprovadas, para aceitação, as Emendas à Convenção Internacional sobre a Segurança dos Contentores, concluídas em Londres, a 17 de Maio de 1991, cuja versão autêntica em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 1993. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Eduardo Eugénio Castro de Azevedo Soares.
 
 Ratificado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ANNEX
 

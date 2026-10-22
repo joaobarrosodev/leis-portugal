@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/28/2013/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-2013-499184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:21:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46f02cc609616d4eafe6f99cadfbd96184934151f2126b08b78704cfb45c8459
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6695343b6fa865aa9b5ec5b0f0b429c7024a5c2d36f130248853c78d8386fb78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:21:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Moscovo
+- Portugal
 - Rússia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/24/2007/10/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/24/2007/10/18/p/dre
+- type: cites
+  target: pt:dre:629122:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:21:53Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +110,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 11 de julho de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Miguel Bento Martins Costa Macedo e Silva.
 
-**Assinado em 26 de julho de 2013.**
+Assinado em 26 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de julho de 2013.**
+Referendado em 29 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 Protocolo de Aplicação entre o Governo da República Portuguesa e o Governo da Federação da Rússia relativo à aplicação do Acordo de Readmissão entre a Comunidade Europeia e a Federação da Rússia, de 25 de maio de 2006.
 
@@ -258,11 +262,11 @@ Em caso de divergência de interpretação deste Protocolo de Aplicação, dever
 
 Pelo Governo da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf)
 
 Pelo Governo da Federação da Rússia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf)
 
 Implementing Protocol between the Government of the Portuguese Republic and the Government of the Russian Federation on the implementation of the Agreement between the European Community and the Russian Federation on readmission of 25 May 2006.
 
@@ -430,8 +434,8 @@ In case of divergence of interpretation of this Implementing Protocol, the Engli
 
 For the Government of the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf)
 
 For the Government of the Russian Federation:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15200/0479004795.pdf)

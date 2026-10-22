@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/98-1977-250618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a765d17bc08e70ecefe08c4183afec3f83db8c613a5286552b28982b4ae61db0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cbf84852cf4736583b04da3ab91be3f99ec165fb9f7bb4b81cfd3d8e378fa3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Económica
+- Cooperação Industrial
+- Cooperação Técnica
+- Índia
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:24Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +94,7 @@ de 13 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Comercial e de Cooperação Económica, Industrial e Técnica entre o Governo de Portugal e o Governo da Índia, assinado em Lisboa aos 7 de Abril de 1977, cujos textos em inglês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo Comercial e de Cooperação Económica, Industrial e Técnica entre o Governo de Portugal e o Governo da Índia, assinado em Lisboa aos 7 de Abril de 1977, cujos textos em inglês e respectiva tradução para português acompanham o presente decreto.
 
 TRADE AND ECONOMIC, INDUSTRIAL AND TECHNICAL COOPERATION AGREEMENT BETWEEN THE GOVERNMENT OF PORTUGAL AND THE GOVERNMENT OF INDIA.
 
@@ -261,15 +268,15 @@ O Governo de Portugal e o Governo da Índia, animados do desejo de encorajar e f
 
 Acordam no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes contribuirão, no quadro das leis e regulamentos em vigor nos dois países, para um aumento harmonioso e substancial, em especial a longo prazo, do volume do comércio e para a expansão da cooperação económica, industrial e técnica, com vista a obter a máxima utilização das possibilidades resultantes do seu desenvolvimento económico.
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes Contratantes concedem-se o tratamento de nação mais favorecida em todas as matérias relacionadas com o comércio entre os dois países, em conformidade com as disposições do Acordo Geral de Pautas Aduaneiras e Comércio (GATT).
 
-ARTIGO III
+###### ARTIGO III
 
 As disposições dos artigos I e II não se aplicarão, contudo, à concessão ou manutenção de:
 
@@ -281,7 +288,7 @@ c) Vantagens ou preferências concedidas no quadro de qualquer esquema para a ex
 
 d) Vantagens ou preferências resultantes de uma união aduaneira e/ou de uma zona de comércio livre de que um dos países seja ou possa vir a ser parte.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Contratantes, de acordo com os objectivos e necessidades do seu desenvolvimento económico, encorajarão e facilitarão a conclusão e execução de contratos e programas de comércio e de cooperação económica, industrial e técnica a longo prazo entre empresas e organizações interessadas dos dois países e proporcionarão todas as facilidades possíveis para a realização de projectos de interesse mútuo.
 
@@ -289,7 +296,7 @@ Ambas as Partes Contratantes, de acordo com os respectivos regimes de importaç�
 
 Estas listas têm carácter indicativo e não devem ser tomadas como excluindo bens e produtos que não estejam nelas indicados.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes deverão:
 
@@ -301,7 +308,7 @@ c) Conceder todas as facilidades possíveis a homens de negócios e empresas com
 
 d) Facilitar o intercâmbio de informações comerciais numa base de vantagem mútua.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Ambas as Partes Contratantes acordam em explorar, para fins de vantagem mútua e no quadro das suas leis e regulamentos, as possibilidades de cooperação entre os dois países em vários campos, nomeadamente:
 
@@ -311,7 +318,7 @@ b) Fornecimento de serviços de consultores de engineering, de instalações de 
 
 c) Execução conjunta de contratos, fornecimento de serviços e estabelecimentos de joint ventures em terceiros países.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As Partes Contratantes deverão, em conformidade com as suas leis e regulamentos, e em condições não menos favoráveis do que as concedidas a terceiros países, permitir a importação e a exportação de:
 
@@ -319,7 +326,7 @@ a) Amostras e material publicitário;
 
 b) Mercadorias e objectos para feiras e exposições, permanentes ou temporárias.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Ambos os Governos acordam em estabelecer contactos estreitos no domínio do transporte marítimo.
 
@@ -327,11 +334,11 @@ Em conformidade com as leis e regulamentos em vigor em cada um dos países, aos 
 
 Contudo, as disposições deste artigo não se aplicarão ao comércio costeiro ou actividades de pesca de qualquer espécie, ou a quaisquer condições especiais que existam ou venham a existir no futuro no sentido de melhorar as marinhas mercantes nacionais de cada um dos países.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Todos os pagamentos entre os dois países efectuar-se-ão em divisas livremente convertíveis, de acordo com as leis e regulamentos em vigor nos respectivos países.
 
-ARTIGO X
+###### ARTIGO X
 
 Para alcançar os objectivos do presente Acordo, as Partes Contratantes constituirão uma comissão mista, formada por representantes dos dois Governos.
 
@@ -347,7 +354,7 @@ Rever periodicamente as listas indicativas de produtos anexas ao presente Acordo
 
 A comissão pode, segundo o seu critério, convidar representantes do comércio e indústria de cada um dos países a participar nas suas reuniões se e quando necessário.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O presente Acordo entrará em vigor na data da recepção da segunda das notas pelas quais as Partes se informam acerca da sua aprovação, de acordo com os seus procedimentos constitucionais.
 

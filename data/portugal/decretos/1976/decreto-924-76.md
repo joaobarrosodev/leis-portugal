@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 303/1976, 3º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2900-(60) a 2900-(60)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30303/00600060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/924-1976-391210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 782af64cec1e24c684d32ee40ecfdba79f0e8d3807cf5f5346f5050ce7273cc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f041bfc0a75a493c5aafb144fde30283395dc134f19863399a63d367c0cec78e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Horas Extraordinárias
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:404487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:404487:por
+  label: "Revogado, a partir de 16.01.1978, pelo DR.89/77.31.12.1977.PCM, DR.IS [302-2ºSupl] de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/89-1977-404487
+  date: '1977-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:01Z'
   warnings: []
   errors: []
 ---
@@ -103,30 +119,30 @@ Ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodar
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Ao pessoal docente dos estabelecimentos de ensino preparatório, secundário e médio é permitida a realização de trabalho extraordinário, nos termos dos n.os 1, 2 e 3 do artigo 11.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto.
+Artigo 1.º - 1. Ao pessoal docente dos estabelecimentos de ensino preparatório, secundário e médio é permitida a realização de trabalho extraordinário, nos termos dos n.os 1, 2 e 3 do artigo 11.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto.
 
 2. O trabalho previsto no número anterior é considerado com carácter de permanência e regularidade, dispensando-se neste caso, para a sua remuneração, a autorização a que se reporta o n.º 3 do artigo 11.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto.
 
 3. O trabalho extraordinário só dá direito a remuneração desde que efectivamente prestado.
 
-###### Art. 2.º Ao disposto no artigo anterior do presente diploma aplica-se o limite fixado no n.º 4 do artigo 10.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto.
+Art. 2.º Ao disposto no artigo anterior do presente diploma aplica-se o limite fixado no n.º 4 do artigo 10.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto.
 
-###### Art. 3.º - 1. A hora normal de serviço docente nocturno vale para todos os efeitos hora e meia de serviço docente diurno, considerando-se o horário de quinze tempos nocturnos semanais como horário completo.
+Art. 3.º - 1. A hora normal de serviço docente nocturno vale para todos os efeitos hora e meia de serviço docente diurno, considerando-se o horário de quinze tempos nocturnos semanais como horário completo.
 
 2. No cômputo final dos tempos lectivos dos horários nocturnos ou mistos, bem como na sua remuneração, não são de considerar as fracções a que a aplicação da norma do número anterior possa dar origem.
 
 3. O trabalho normal nocturno não dá direito a qualquer acréscimo de remuneração além do que lhe couber por força do disposto no n.º 1 do presente artigo.
 
-###### Art. 4.º As dúvidas e casos não previstos serão resolvidos por despacho conjunto do Ministro da Administração Interna, do Ministro das Finanças e do Ministro da Educação e Investigação Científica.
+Art. 4.º As dúvidas e casos não previstos serão resolvidos por despacho conjunto do Ministro da Administração Interna, do Ministro das Finanças e do Ministro da Educação e Investigação Científica.
 
-###### Art. 5.º O trabalho extraordinário realizado no ano lectivo de 1975-1976, ao abrigo dos despachos ministeriais de 13 de Agosto e 7 de Outubro, ambos de 1975, e ainda não remunerado, deverá sê-lo pelas verbas orçamentadas, para o ano lectivo de 1975-1976, na rubrica «Horas extraordinárias».
+Art. 5.º O trabalho extraordinário realizado no ano lectivo de 1975-1976, ao abrigo dos despachos ministeriais de 13 de Agosto e 7 de Outubro, ambos de 1975, e ainda não remunerado, deverá sê-lo pelas verbas orçamentadas, para o ano lectivo de 1975-1976, na rubrica «Horas extraordinárias».
 
-###### Art. 6.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 30 de Dezembro de 1976.**
+Promulgado em 30 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

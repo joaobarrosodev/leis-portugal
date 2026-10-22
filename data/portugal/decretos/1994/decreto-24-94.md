@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/24/1994/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-1994-222806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ffbc668347ecc72d54f4ad7c72ece29e4ab69f4ced458290afa92a6767f89b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2daafa82753091fcf31e6526427ed97ead6c3a607249e1e9c58877f30272e4c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ subjects:
 - Investimento no Estrangeiro
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:10Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +88,19 @@ de 10 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo para a Promoção e a Protecção Recíproca de Investimentos entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil, assinado em Brasília, a 9 de Fevereiro de 1994, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo para a Promoção e a Protecção Recíproca de Investimentos entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil, assinado em Brasília, a 9 de Fevereiro de 1994, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Junho de 1994. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Fernnado Manuel Barbosa Faria de Oliveira.
 
 Ratificado em 13 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Julho de 1994.**
+Referendado em 15 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO PARA A PROMOÇÃO E A PROTECÇÃO RECÍPROCA DE INVESTIMENTOS ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL.
 
@@ -114,9 +114,7 @@ Convencidos de que a profunda solidariedade e amizade existentes entre Portugal 
 
 acordam o seguinte:
 
-Artigo I
-
-Definições
+###### Artigo I — Definições
 
 1 - Para os fins do presente Acordo, entende-se que:
 
@@ -148,17 +146,13 @@ VI) O termo «liquidação» significa a cessação do investimento feita de aco
 
 2 - Nenhuma modificação da forma segundo a qual os bens e direitos tenham sido investidos ou reinvestidos afectará a sua qualificação como investimentos em consonância com o presente Acordo, desde que observadas as disposições legais pertinentes.
 
-Artigo II
-
-Promoção e admissão
+###### Artigo II — Promoção e admissão
 
 1 - Ambas as Partes Contratantes promoverão e protegerão a realização nos seus territórios de investimentos efectuados por investidores da outra Parte Contratante e admitirão esses investimentos de acordo com as suas leis e regulamentos.
 
 2 - Cada Parte Contratante, de acordo com a sua legislação, concederá as autorizações exigidas para a realização desses investimentos, permitirá contratos de licença de fabrico, assistência técnica, comercial, financeira e administrativa e outorgará as autorizações requeridas para as actividades de consultores ou peritos contratados por investidores da outra Parte Contratante.
 
-Artigo III
-
-Tratamento
+###### Artigo III — Tratamento
 
 1 - Cada Parte Contratante garantirá, em seu território, tratamento não discriminatório, justo e equitativo aos investimentos realizados por investidores da outra Parte Contratante.
 
@@ -172,9 +166,7 @@ b) Acordos para evitar a dupla tributação ou qualquer outro instrumento em mat
 
 4 - Além das disposições do n.º 2 deste artigo, cada Parte Contratante concederá aos investimentos da outra Parte Contratante, ressalvado o disposto na respectiva legislação nacional, tratamento não menos favorável que o dado aos investimentos de seus nacionais.
 
-Artigo IV
-
-Nacionalização e expropriação
+###### Artigo IV — Nacionalização e expropriação
 
 1 - A nacionalização, expropriação ou qualquer outra medida de características ou efeitos equivalentes que possa ser adoptada por autoridades de uma Parte Contratante ou de uma subdivisão política sua em relação a investimentos efectuados em seu território por investidores da outra Parte Contratante restringir-se-á aos casos de utilidade, necessidade ou interesse público e será tomada de forma não discriminatória, conforme as disposições legais da Parte Contratante no território da qual o investimento foi efectuado e mediante justa e pronta indemnização.
 
@@ -182,9 +174,7 @@ Nacionalização e expropriação
 
 3 - Os investidores de uma das Partes Contratantes que venham a sofrer perdas de investimentos no território da outra Parte Contratante em razão de guerra, conflitos armados, estado de emergência nacional ou outros eventos similares receberão dessa Parte Contratante tratamento não menos favorável do que o concedido a seus próprios investidores ou aos de terceiros Estados.
 
-Artigo V
-
-Transferência
+###### Artigo V — Transferência
 
 1 - Cada Parte Contratante, em conformidade com a sua legislação, garantirá aos investidores da outra Parte Contratante a livre transferência das importâncias relacionadas com os investimentos, em particular, mas não exclusivamente:
 
@@ -204,17 +194,13 @@ f) De quaisquer pagamentos que devam ser efectuados por força da sub-rogação 
 
 3 - As transferências serão autorizadas na moeda em que tiver sido feito o investimento ou, quando solicitado pelo investidor, em outra moeda convertível.
 
-Artigo VI
-
-Princípio de sub-rogação
+###### Artigo VI — Princípio de sub-rogação
 
 1 - No caso em que uma Parte Contratante ou uma de suas agências tenha concedido um seguro contra riscos não comerciais a investimentos realizados por investidor dessa Parte Contratante no território da outra e tenha efectuado o pagamento correspondente ao seguro concedido, esta última reconhecerá à primeira a sub-rogação de direitos na mesma posição creditícia do investidor segurado. Os pagamentos a serem efectuados à primeira Parte Contratante ou a uma de suas agências em virtude da referida sub-rogação abrangerão as situações contempladas no artigo IV.
 
 2 - No caso de sub-rogação, tal como se encontra definida no n.º 1 deste artigo, o investidor não iniciará qualquer acção judicial sem prévia autorização da Parte Contratante ou da agência por ela designada.
 
-Artigo VII
-
-Solução de diferendos entre as Partes Contratantes
+###### Artigo VII — Solução de diferendos entre as Partes Contratantes
 
 1 - Os diferendos surgidos entre as Partes Contratantes relativos à interpretação e aplicação deste Acordo deverão ser, na medida do possível, dirimidos por via diplomática.
 
@@ -230,9 +216,7 @@ Solução de diferendos entre as Partes Contratantes
 
 7 - Cada uma das Partes Contratantes arcará com as despesas do respectivo árbitro, bem como com as relativas à sua representação no processo arbitral. As despesas do presidente e os demais custos do processo serão igualmente repartidos pelas Partes Contratantes.
 
-Artigo VIII
-
-Solução de diferendos entre uma Parte Contratante e um investidor
+###### Artigo VIII — Solução de diferendos entre uma Parte Contratante e um investidor
 
 1 - Os diferendos surgidos no âmbito deste Acordo entre uma das Partes Contratantes e um investidor da outra Parte Contratante que tenha realizado investimentos no território da primeira serão, na medida do possível, solucionados por meio de consultas amigáveis.
 
@@ -256,29 +240,21 @@ ii) A tribunal ad hoc, estabelecido de acordo com as Regras de Arbitragem da Com
 
 7 - As Partes Contratantes abster-se-ão de tratar, por meio de canais diplomáticos, de questões relativas a diferendos submetidos a processo judicial ou à arbitragem internacional, até que os processos correspondentes estejam concluídos, salvo no caso em que uma das partes no diferendo não tenha dado cumprimento à sentença judicial ou à decisão do tribunal arbitral, nos termos estabelecidos na respectiva sentença ou decisão.
 
-Artigo IX
-
-Consultas
+###### Artigo IX — Consultas
 
 Os representantes das Partes Contratantes deverão, sempre que necessário, realizar reuniões sobre qualquer matéria relacionada com a aplicação deste Acordo. Estas reuniões serão realizadas sob proposta de uma das Partes Contratantes, em lugar e data a acordar por via diplomática.
 
-Artigo X
-
-Aplicação de outras normas
+###### Artigo X — Aplicação de outras normas
 
 Se as disposições de outro acordo internacional ao qual hajam aderido ou venham a aderir as duas Partes Contratantes ou a regulamentação interna de qualquer das Partes estabelecer um regime mais favorável do que o previsto no presente Acordo, prevalecerá sobre este o regime mais favorável.
 
-Artigo XI
-
-Investimentos anteriores ao Acordo
+###### Artigo XI — Investimentos anteriores ao Acordo
 
 1 - O presente Acordo aplicar-se-á a todos os investimentos já realizados por investidores de uma Parte Contratante no território da outra Parte Contratante, em conformidade com as respectivas disposições legais.
 
 2 - O presente Acordo não se aplica a diferendos surgidos antes da sua vigência.
 
-Artigo XII
-
-Entrada em vigor, prorrogação e denúncia
+###### Artigo XII — Entrada em vigor, prorrogação e denúncia
 
 1 - Cada Parte Contratante notificará a outra sobre o cumprimento dos respectivos requisitos legais internos necessários à entrada em vigor deste Acordo, a qual se dará 30 dias após a data do recebimento da segunda notificação.
 

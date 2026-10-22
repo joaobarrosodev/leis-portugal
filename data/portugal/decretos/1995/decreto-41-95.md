@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/41/1995/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/41-1995-635209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f39af500045782c48588014a4e8ea19301ca36fcc94f0c245dab9a36eef53c1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd8638697ad45b5bf2ac4d5ac8638248ad560c09f53301ac811b02a82fe8f25f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,33 @@ reuse:
 subjects:
 - África
 - América Latina
+- ÁSIA
 - Autoridade Central
-- Financiamento
 - Caraíbas
 - Convenção
-- Cooperação Técnica
-- Portugal
-- Direcção Geral das Florestas
-- SECA
-- Mar Mediterrâneo
-- ÁSIA
-- Paris
-- Diversidade Biológica
-- Programa de Acção
 - Cooperação Científica
 - Cooperação Internacional
+- Cooperação Técnica
 - Desertificação
+- Direcção Geral das Florestas
+- Diversidade Biológica
+- Financiamento
+- Mar Mediterrâneo
+- Paris
+- Portugal
+- Programa de Acção
+- SECA
 relationships: []
 article_structure:
-  article_count: 85
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 84
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:01Z'
   warnings: []
   errors: []
 ---
@@ -105,19 +105,19 @@ de 14 de Dezembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Internacional de Combate à Desertificação nos Países Afectados pela Seca Grave e ou Desertificação, particularmente em África, e respectivos quatro anexos, feita em Paris a 17 de Junho de 1994, cujo texto original em inglês e respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção Internacional de Combate à Desertificação nos Países Afectados pela Seca Grave e ou Desertificação, particularmente em África, e respectivos quatro anexos, feita em Paris a 17 de Junho de 1994, cujo texto original em inglês e respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1995. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - António Duarte Silva - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 UNITED NATIONS CONVENTION TO COMBAT DESERTIFICATION IN THOSE COUNTRIES EXPERIENCING SERIOUS DROUGHT AND OR DESERTIFICATION, PARTICULARLY IN AFRICA.
 
@@ -1615,7 +1615,7 @@ Reconhecendo a necessidade urgente de melhorar a eficácia e a coordenação da 
 
 Decididas a tomar as medidas adequadas ao combate à desertificação e à mitigação dos efeitos da seca para benefício das gerações presentes e futuras; acordaram no seguinte:
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 ###### Artigo 1.º — Termos utilizados
 
@@ -1673,7 +1673,7 @@ c) As Partes deverão fomentar, num espírito de parceria, a cooperação a todo
 
 d) As Partes deverão tomar plenamente em consideração as necessidades e as circunstâncias particulares dos países Partes em desenvolvimento afectados, em especial os países menos avançados.
 
-# PARTE II — Disposições gerais
+## PARTE II — Disposições gerais
 
 ###### Artigo 4.º — Obrigações gerais
 
@@ -1737,7 +1737,7 @@ Ao implementar a presente Convenção, as Partes darão prioridade aos países a
 
 2 - As disposições da presente Convenção não afectam os direitos e obrigações que recaiam sobre qualquer das Partes em virtude de um acordo bilateral, regional ou internacional a que essa mesma Parte estivesse ligada anteriormente à entrada em vigor, para si, da presente Convenção.
 
-# PARTE III — Programas de acção, cooperação científica e técnica e medidas de apoio
+## PARTE III — Programas de acção, cooperação científica e técnica e medidas de apoio
 
 #### SECÇÃO I — Programas de acção
 
@@ -1997,7 +1997,7 @@ d) Dê conta das suas actividades à Conferência das Partes a partir da segunda
 
 7 - A Conferência das Partes, na sua terceira sessão ordinária, examinará as políticas, as modalidades de funcionamento e as actividades do Mecanismo Global pelas quais ele é responsável perante aquela Conferência, de harmonia com o estabelecido no n.º 4 deste artigo, tendo em conta as disposições do artigo 7.º Com base neste exame, ela estudará e adoptará as medidas tidas por conveniente.
 
-# PARTE IV — Instituições
+## PARTE IV — Instituições
 
 ###### Artigo 22.º — Conferência das Partes
 
@@ -2079,7 +2079,7 @@ a) Identificar quais as unidades nacionais, sub-regionais, regionais e internaci
 
 b) Identificar as unidades melhor colocadas para facilitar e reforçar a constituição, a todos os níveis, desta rede.
 
-# PARTE V — Questões processuais
+## PARTE V — Questões processuais
 
 ###### Artigo 26.º — Comunicação da informação
 
@@ -2159,7 +2159,7 @@ b) Tenham feito uma declaração relativamente aos anexos de implementação reg
 
 2 - Nos assuntos da sua competência, as organizações regionais de integração económica exercerão o seu direito de voto com um número de votos igual ao número dos seus Estados membros que sejam Partes na Convenção. Essas organizações não exercerão o seu direito de voto se qualquer dos seus Estados membros exercer o seu e vice-versa.
 
-# PARTE VI — Disposições finais
+## PARTE VI — Disposições finais
 
 ###### Artigo 33.º — Assinatura
 
@@ -2199,7 +2199,7 @@ Não poderão ser formuladas reservas à presente Convenção.
 
 ###### Artigo 39.º — Depositário
 
-**O Secretário-Geral das Nações Unidas é o Depositário da presente Convenção.**
+O Secretário-Geral das Nações Unidas é o Depositário da presente Convenção.
 
 ###### Artigo 40.º — Textos autênticos
 
@@ -2209,7 +2209,9 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, assina
 
 Feita em Paris em 17 de Junho de 1994.
 
-## ANEXO I — ANEXO DE IMPLEMENTAÇÃO REGIONAL PARA ÁFRICA
+## ANEXO I
+
+## ANEXO DE IMPLEMENTAÇÃO REGIONAL PARA ÁFRICA
 
 ###### Artigo 1.º — Âmbito
 
@@ -2521,7 +2523,9 @@ b) A nível sub-regional, através de um comité consultivo científico e técni
 
 c) A nível regional, através de estruturas definidas de harmonia com as disposições pertinentes do Tratado que institui a Comunidade Económica Africana e de um Comité Consultivo Científico e Técnico para África.
 
-## ANEXO II — ANEXO DE IMPLEMENTAÇÃO REGIONAL PARA A ÁSIA
+## ANEXO II
+
+## ANEXO DE IMPLEMENTAÇÃO REGIONAL PARA A ÁSIA
 
 ###### Artigo 1.º — Objecto
 
@@ -2639,7 +2643,9 @@ b) Informação aos organismos bilaterais e multilaterais competentes acerca das
 
 c) Fornecimento de quaisquer outras informações que possam ser úteis à criação ou melhoria dos processos de coordenação.
 
-## ANEXO III — ANEXO DE IMPLEMENTAÇÃO REGIONAL PARA A AMÉRICA LATINA E CARAÍBAS
+## ANEXO III
+
+## ANEXO DE IMPLEMENTAÇÃO REGIONAL PARA A AMÉRICA LATINA E CARAÍBAS
 
 ###### Artigo 1.º — Objecto
 
@@ -2739,7 +2745,9 @@ b) Informação aos organismos bilaterais e multilaterais competentes acerca das
 
 c) Fornecimento de quaisquer outras informações que possam ser úteis à criação ou melhoria dos processos de coordenação.
 
-## ANEXO IV — ANEXO DE IMPLEMENTAÇÃO REGIONAL PARA O NORTE DO MEDITERRÂNEO
+## ANEXO IV
+
+## ANEXO DE IMPLEMENTAÇÃO REGIONAL PARA O NORTE DO MEDITERRÂNEO
 
 ###### Artigo 1.º — Objecto
 

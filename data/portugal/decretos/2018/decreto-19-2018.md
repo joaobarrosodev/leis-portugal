@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/2018/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-2018-115609037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a70cf726241574de7a1a12dbe215ef9fca000fc93d479fae84b708d428f4bdce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f41496ff3816ce730102ff9e27927e95b95acd4c986f5a4766ba796a55af887b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
+- Genebra
+- Poluição Transfronteiriça
 - Portugal
 - Proteção do Ambiente
-- Poluição Transfronteiriça
-- Genebra
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/20/2004/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/20/2004/08/20/p/dre
+- type: cites
+  target: pt:dre:480296:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:45Z'
   warnings: []
   errors: []
 ---
@@ -109,15 +113,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 14 de junho de 2018. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - João Pedro Soeiro de Matos Fernandes.
 
-**Assinado em 15 de junho de 2018.**
+Assinado em 15 de junho de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de junho de 2018.**
+Referendado em 21 de junho de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 Decision 2012/2
 
@@ -579,37 +583,37 @@ Table 1
 
 Emission ceilings for 2010 up to 2020 for Parties that ratified the present Protocol prior to 2010 (expressed in thousands of tonnes per year)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 2
 
 Emission reduction commitments for sulphur dioxide for 2020 and beyond
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 3
 
 Emission reduction commitments for nitrogen oxides for 2020 and beyond(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 4
 
 Emission reduction commitments for ammonia for 2020 and beyond
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 5
 
 Emission reduction commitments for Volatile Organic Compounds for 2020 and beyond
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 6
 
 Emission reduction commitments for PM(índice 2.5) for 2020 and beyond
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 P. Annex III
 
@@ -693,7 +697,7 @@ Table 1
 
 Limit values for SO(índice 2) emissions from combustion plants(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 8. Gas oil:
 
@@ -701,7 +705,7 @@ Table 2
 
 Limit values for the sulphur content of gas oil(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 9. Mineral oil and gas refineries:
 
@@ -711,7 +715,7 @@ Table 3
 
 Limit value expressed as a minimum sulphur recovery rate of sulphur recovery units
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 10. Titanium dioxide production:
 
@@ -721,7 +725,7 @@ Limit values for SO(índice x) emissions released from titanium dioxide producti
 
 (annual average)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canada
 
@@ -815,7 +819,7 @@ Table 1
 
 Limit values for NO(índice x) emissions released from combustion plants(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 7. Onshore combustion turbines with a rated thermal input exceeding 50 MWth: the NO(índice x) ELVs expressed in mg/m3 (at a reference O(índice 2) content of 15%) are to be applied to a single turbine. The ELVs in table 2 apply only above 70% load.
 
@@ -825,7 +829,7 @@ Limit values for NO(índice x) emissions released from onshore combustion turbin
 
 (including Combined Cycle Gas turbines (CCGT)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 8. Cement production:
 
@@ -833,7 +837,7 @@ Table 3
 
 Limit values for NO(índice x) emissions released from cement clinker production(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 9. Stationary engines:
 
@@ -841,7 +845,7 @@ Table 4
 
 Limit values for NO(índice x) emissions released from new stationary engines
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 10. Iron ore sinter plants:
 
@@ -849,7 +853,7 @@ Table 5
 
 Limit values for NO(índice x) emissions released from iron ore sinter plants
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 11. Nitric acid production:
 
@@ -857,7 +861,7 @@ Table 6
 
 Limit values for NO(índice x) emissions from nitric acid production excluding acid concentration units
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canada
 
@@ -1065,13 +1069,13 @@ Table 1
 
 Limit values for VOC emissions from the storage and distribution of petrol, excluding the loading of seagoing ships (stage I)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 2
 
 Limit values for VOC emissions for car refuelling at service station (stage II)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 9. Adhesive coating:
 
@@ -1079,7 +1083,7 @@ Table 3
 
 Limit values for adhesive coating
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 10. Wood and plastic lamination:
 
@@ -1087,7 +1091,7 @@ Table 4
 
 Limit values for wood and plastic lamination
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 11. Coating activities (vehicle coating industry):
 
@@ -1095,7 +1099,7 @@ Table 5
 
 Limit values for coating activities in the vehicle industry
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 12. Coating activities (metal, textile, fabric, film, plastic, paper and wooden surfaces coating):
 
@@ -1103,7 +1107,7 @@ Table 6
 
 Limit values for coating activities in various industrial sectors
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 13. Coating activities (leather and winding wire coating):
 
@@ -1111,7 +1115,7 @@ Table 7
 
 Limit values for leather and winding wire coating
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 14. Coating activities (coil coating):
 
@@ -1119,7 +1123,7 @@ Table 8
 
 Limit values for coil coating
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 15. Dry cleaning:
 
@@ -1127,7 +1131,7 @@ Table 9
 
 Limit values for dry cleaning
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 16. Manufacturing of coatings, varnishes, inks and adhesives:
 
@@ -1135,7 +1139,7 @@ Table 10
 
 Limit values form manufacturing of coatings, varnishes, inks and adhesives
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 17. Printing activities (flexography, heat-set web offset, publication rotogravure, etc.):
 
@@ -1143,7 +1147,7 @@ Table 11
 
 Limit values for printing activities
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 18. Manufacturing of pharmaceutical products:
 
@@ -1151,7 +1155,7 @@ Table 12
 
 Limit values for manufacturing of pharmaceutical products
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 19. Conversion of natural or synthetic rubber:
 
@@ -1159,7 +1163,7 @@ Table 13
 
 Limit values for conversion of natural or synthetic rubber
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 20. Surface cleaning:
 
@@ -1167,7 +1171,7 @@ Table 14
 
 Limit values for surface cleaning
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 21. Vegetable oil and animal fat extraction and vegetable oil refining processes:
 
@@ -1175,7 +1179,7 @@ Table 15
 
 Limit values for extraction of vegetable and animal fat and refining of vegetable oil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 22. Impregnation of wood:
 
@@ -1183,7 +1187,7 @@ Table 16
 
 Limit values for impregnation of wood
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canada
 
@@ -1593,85 +1597,85 @@ Table 1
 
 Limit values for passenger cars and light-duty vehicles
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 2
 
 Limit values for heavy-duty vehicles steady-state cycle load-response tests
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 3
 
 Limit values for heavy-duty vehicles - transient cycle tests
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 4
 
 Limit values for diesel engines for non-road mobile machines, agricultural and forestry tractors (stage IIIB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 5
 
 Limit values for diesel engines for non-road mobile machines, agricultural and forestry tractors (stage IV)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 6
 
 Limit values for spark-ignition engines for non-road mobile machines
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 7
 
 Limit values for engines used for propulsion of locomotives
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 8
 
 Limit values for engines used for propulsion of railcars
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 9
 
 Limit values for engines for propulsion of inland waterways vessels
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 10
 
 Limit values for engines in recreational crafts
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 11
 
 Limit values for motorcycles ((maior que) 50 cm3; (maior que) 45 km/h)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 12
 
 Limit values for mopeds ((menor que)50 cm3; (menor que) 45 km/h)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table13
 
 Environmental specifications for marketed fuels to be used for vehicles equipped with positive-ignition engines - Type: Petrol
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 14
 
 Environmental specifications for marketed fuels to be used for vehicles equipped with compression-ignition engines - Type: Diesel fuel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canada
 
@@ -1803,7 +1807,7 @@ Table 1
 
 Limit values for dust emissions from combustion plants(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 8. Mineral oil and gas refineries:
 
@@ -1811,7 +1815,7 @@ Table 2
 
 Limit values for dust emissions released from mineral oil and gas refineries
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 9. Cement clinker production:
 
@@ -1819,7 +1823,7 @@ Table 3
 
 Limit values for dust emissions released from cement production(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 10. Lime production:
 
@@ -1827,7 +1831,7 @@ Table 4
 
 Limit values for dust emissions released from lime production(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 11. Production and processing of metals:
 
@@ -1835,19 +1839,19 @@ Table 5
 
 Limit values for dust emissions released from primary iron and steel production
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 6
 
 Limit values for dust emissions released from iron foundries
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 7
 
 Limit values for dust emissions released from non-ferrous metals production and processing
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 12. Glass production:
 
@@ -1855,7 +1859,7 @@ Table 8
 
 Limit values for dust emissions released from glass production(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 13. Pulp production:
 
@@ -1863,7 +1867,7 @@ Table 9
 
 Limit values for dust emissions released from pulp production
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 14. Waste incineration:
 
@@ -1871,7 +1875,7 @@ Table 10
 
 Limit values for dust emissions released from waste incineration
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 15. Titanium dioxide production:
 
@@ -1879,7 +1883,7 @@ Table 11
 
 Limit values for dust emissions released from titanium dioxide production
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 16. Combustion installations with a rated thermal input (menor que) 50 MWth:
 
@@ -1897,19 +1901,19 @@ Table 12
 
 Recommended limit values for dust emissions released from new solid fuel combustion installations with a rated thermal input (menor que) 500 kWth to be used with product standards
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 13
 
 Recommended limit values for dust emissions released from boilers and process heaters with a rated thermal input of 100 kWth-1 MWth.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 14
 
 Recommended limit values for dust emissions released from boilers and process heaters with a rated thermal input of 1 MWth-50 MWth
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canada
 
@@ -2203,13 +2207,13 @@ Table 1
 
 Maximum VOC content for paints and varnishes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Table 2
 
 Maximum VOC content for vehicle refinishing products
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canada
 
@@ -2703,37 +2707,37 @@ Quadro 1
 
 Valores-limite de emissão (expressos em milhares de toneladas por ano) para o período de 2010 a 2020, aplicáveis às Partes que ratificaram o presente Protocolo antes de 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 2
 
 Compromissos de redução das emissões de dióxido de enxofre para 2020 e anos subsequentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 3
 
 Compromissos de redução das emissões de óxidos de azoto para 2020 e anos subsequentes(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 4
 
 Compromissos de redução das emissões de amoníaco para 2020 e anos subsequentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 5
 
 Compromissos de redução das emissões de compostos orgânicos voláteis para 2020 e anos subsequentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 6
 
 Compromissos de redução das emissões de PM(índice 2,5) para 2020 e anos subsequentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 P. Anexo III
 
@@ -2817,7 +2821,7 @@ Quadro 1
 
 Valores-limite para as emissões de SO(índice 2) provenientes de instalações de combustão(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 8. Gasóleo
 
@@ -2825,7 +2829,7 @@ Quadro 2
 
 Valores-limite para o teor de enxofre do gasóleo(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 9. Refinarias de óleos minerais e de gás:
 
@@ -2835,7 +2839,7 @@ Quadro 3
 
 Valor-limite, expresso em taxa mínima de recuperação, para as unidades de recuperação de enxofre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 10. Produção de dióxido de titânio:
 
@@ -2843,7 +2847,7 @@ Quadro 4
 
 Valores-limite para as emissões de SOx decorrentes da produção de dióxido de titânio (média anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canadá
 
@@ -2937,7 +2941,7 @@ Quadro 1
 
 Valores-limite para as emissões de NO(índice x) provenientes de instalações de combustão(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 7. Turbinas de combustão terrestres com potência térmica nominal superior a 50 MWth: os VLE para os NO(índice x), expressos em mg/m3 (com um teor de referência de O(índice 2) de 15 %) são aplicáveis a uma única turbina. Os VLE que constam do quadro 2 só são aplicáveis quando a carga é superior a 70 %.
 
@@ -2945,7 +2949,7 @@ Quadro 2
 
 Valores-limite para as emissões de NO(índice x) provenientes de turbinas de combustão terrestres (incluindo as turbinas a gás de ciclo combinado - TGCC)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 8. Produção de cimento:
 
@@ -2953,7 +2957,7 @@ Quadro 3
 
 Valores-limite para as emissões de NO(índice x) provenientes de instalações de produção de clínquer(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 9. Motores fixos:
 
@@ -2961,7 +2965,7 @@ Quadro 4
 
 Valores-limite para as emissões de NO(índice x) provenientes de novos motores fixos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 10. Instalações de sinterização de minérios de ferro:
 
@@ -2969,7 +2973,7 @@ Quadro 5
 
 Valores-limite para emissões de NO(índice x) provenientes de instalações de sinterização de minérios de ferro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 11. Produção de ácido nítrico:
 
@@ -2977,7 +2981,7 @@ Quadro 6
 
 Valores-limite para as emissões de NO(índice x) resultantes da produção de ácido nítrico, excluindo as unidades de concentração do ácido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canadá
 
@@ -3185,13 +3189,13 @@ Quadro 1
 
 Valores-limite para as emissões de COV resultantes da armazenagem e distribuição de gasolina, excluindo o carregamento de navios de mar (fase I)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 2
 
 Valores-limite aplicáveis às emissões de COV no reabastecimento de automóveis nas estações de serviço (fase II)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 9. Revestimentos adesivos:
 
@@ -3199,7 +3203,7 @@ Quadro 3
 
 Valores-limite para revestimentos adesivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 10. Laminagem de madeiras e plástico:
 
@@ -3207,7 +3211,7 @@ Quadro 4
 
 Valores-limite para a laminagem de madeiras e plásticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 11. Atividades de revestimento (indústria de revestimento de veículos):
 
@@ -3215,7 +3219,7 @@ Quadro 5
 
 Valores-limite para as atividades de revestimento na indústria automóvel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 12. Atividades de revestimento (metais, têxteis, tecidos, películas, plásticos, papel e revestimento de superfícies de madeiras):
 
@@ -3223,7 +3227,7 @@ Quadro 6
 
 Valores-limite para as atividades de revestimento em vários setores industriais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 13. Atividades de revestimento (revestimento de couros e de fios metálicos para bobinas):
 
@@ -3231,7 +3235,7 @@ Quadro 7
 
 Valores-limite para o revestimento de couros e fios metálicos para bobinas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 14. Atividades de revestimento (revestimento de bobinas):
 
@@ -3239,7 +3243,7 @@ Quadro 8
 
 Valores-limite para o revestimento de bobinas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 15. Limpeza a seco:
 
@@ -3247,7 +3251,7 @@ Quadro 9
 
 Valores-limite para a limpeza a seco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 16. Fabrico de revestimentos, vernizes, tintas de impressão e adesivos:
 
@@ -3255,7 +3259,7 @@ Quadro 10
 
 Valores-limite para o fabrico de revestimentos, vernizes, tintas de impressão e adesivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 17. Atividades de impressão (flexografia, impressão rotativa offset com secagem a quente, rotogravura para publicação, etc.):
 
@@ -3263,7 +3267,7 @@ Quadro 11
 
 Valores-limite para as atividades de impressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 18. Fabrico de produtos farmacêuticos
 
@@ -3271,7 +3275,7 @@ Quadro 12
 
 Valores-limite para o fabrico de produtos farmacêuticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 19. Processamento de borracha natural ou sintética:
 
@@ -3279,7 +3283,7 @@ Quadro 13
 
 Valores-limite para o processamento de borracha natural ou sintética
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 20. Limpeza de superfícies:
 
@@ -3287,7 +3291,7 @@ Quadro 14
 
 Valores-limite para a limpeza de superfícies
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 21. Extração de óleos vegetais e gorduras animais e refinação de óleos vegetais:
 
@@ -3295,7 +3299,7 @@ Quadro 15
 
 Valores-limite para a extração de óleos vegetais e gorduras animais e a refinação de óleos vegetais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 22. Impregnação de madeiras:
 
@@ -3303,7 +3307,7 @@ Quadro 16
 
 Valores-limite para a impregnação de madeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canadá
 
@@ -3561,7 +3565,7 @@ bbbb) Transformação de asfalto e fabrico de coberturas (fontes locais) - 40 C.
 
 cccc) Fabrico de tintas e produtos conexos (fontes locais) - 40 C.F.R. Part 63, Subpart CCCCCCC.
 
-## Apêndice
+Apêndice
 
 Plano de gestão dos solventes
 
@@ -3713,85 +3717,85 @@ Quadro 1
 
 Valores-limite para automóveis de passageiros e veículos comerciais ligeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 2
 
 Valores-limite a aplicar aos ciclos de ensaios de carga de veículos pesados em estado estacionário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 3
 
 Valores-limite a aplicar aos ensaios de ciclo transiente de veículos pesados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 4
 
 Valores-limite para os motores diesel de máquinas móveis não rodoviárias e os tratores agrícolas e florestais (fase IIIB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 5
 
 Valores-limite para os motores diesel de máquinas móveis não rodoviárias e os tratores agrícolas e florestais (fase IV)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 6
 
 Valores-limite para os motores de ignição comandada de máquinas móveis não rodoviárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 7
 
 Valores-limite para os motores utilizados na propulsão de locomotivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 8
 
 Valores-limite para os motores utilizados na propulsão de automotoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 9
 
 Valores-limite para os motores utilizados na propulsão de embarcações de navegação interior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 10
 
 Valores-limite para os motores destinados a embarcações de recreio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 11
 
 Valores-limite para os motociclos ((maior que) 50 cm3; (maior que) 45 km/h)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 12
 
 Valores-limite para os motociclos ((menor que) 50 cm3; (menor que) 45 km/h)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 13
 
 Especificações ambientais para os combustíveis comercializados para utilização em veículos equipados com motores de ignição comandada - tipo: Gasolina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 14
 
 Especificações ambientais para os combustíveis comercializados para utilização em veículos equipados com motores de ignição por compressão - tipo: Gasóleo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canadá
 
@@ -3921,7 +3925,7 @@ Quadro 1
 
 Valores-limite para as emissões de poeiras provenientes de instalações de combustão(a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 8. Refinarias de óleos minerais e de gás:
 
@@ -3929,7 +3933,7 @@ Quadro 2
 
 Valores-limite para as emissões de poeiras provenientes de refinarias de óleos minerais e de gás
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 9. Produção de clínquer:
 
@@ -3937,7 +3941,7 @@ Quadro 3
 
 Valores-limite para as emissões de poeiras resultantes da produção de cimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 10. Produção de cal:
 
@@ -3945,7 +3949,7 @@ Quadro 4
 
 Valores-limite para as emissões de poeiras resultantes da produção de cal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 11. Produção e transformação de metais:
 
@@ -3953,19 +3957,19 @@ Quadro 5
 
 Valores-limite para as emissões de poeiras resultantes da produção primária de ferro e aço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 6
 
 Valores-limite para as emissões de poeiras provenientes de fundições de ferro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 7
 
 Valores-limite para as emissões de poeiras resultantes da produção e transformação de metais não-ferrosos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 12. Produção de vidro:
 
@@ -3973,7 +3977,7 @@ Quadro 8
 
 Valores-limite para as emissões de poeiras resultantes da produção de vidro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 13. Produção da pasta de papel:
 
@@ -3981,7 +3985,7 @@ Quadro 9
 
 Valores-limite para as emissões de poeiras resultantes da produção de pasta de papel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 14. Incineração de resíduos:
 
@@ -3989,7 +3993,7 @@ Quadro 10
 
 Valores-limite para as emissões de poeiras resultantes da incineração de resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 15. Produção de dióxido de titânio:
 
@@ -3997,7 +4001,7 @@ Quadro 11
 
 Valores-limite para as emissões de poeiras decorrentes da produção de dióxido de titânio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 16. Instalações de combustão com potência térmica nominal (menor que) 50 MWth:
 
@@ -4015,19 +4019,19 @@ Quadro 12
 
 Valores-limite recomendados para as emissões de poeiras provenientes de novas instalações de combustão de combustíveis sólidos com potência térmica nominal (menor que) 500 kWth, a utilizar conjuntamente com as normas para produtos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 13
 
 Valores-limite recomendados para as emissões de poeiras provenientes de caldeiras e geradores de calor industriais com potência térmica nominal de 100 kwth-1 MWth
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 14
 
 Valores-limite recomendados para as emissões de poeiras provenientes de caldeiras e geradores de calor industriais com potência térmica nominal de 1 MWth-50 MWth
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canadá
 
@@ -4319,13 +4323,13 @@ Quadro 1
 
 Teor máximo de COV para as tintas e vernizes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 Quadro 2
 
 Teor máximo de COV para os produtos de retoque de veículos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf))](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/12400/0265202822.pdf)
 
 B. Canadá
 
@@ -4382,3 +4386,5 @@ Eu, Susana Vaz Patto, Diretora do Departamento de Assuntos Jurídicos do Minist�
 Lisboa, 13 de dezembro de 2017
 
 Susana Vaz Patto
+
+111446915

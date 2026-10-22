@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/767-1974-461254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f111e5dd3fc2e7cde3293583f484f087b463ef7446fe164903d489b25578610f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0db7dd048394280c8ac84962647abc7ed90f7c1895e0b5cd8112508b07dbdab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:26Z'
   warnings: []
   errors: []
 ---
@@ -88,20 +92,20 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério do Interior, um crédito especial de 5000000$00, a inscrever no segundo dos mencionados Ministérios, sob a forma seguinte:
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério do Interior, um crédito especial de 5000000$00, a inscrever no segundo dos mencionados Ministérios, sob a forma seguinte:
 
-### Capítulo 2.º «Secretaria-Geral do Ministério»:
+Capítulo 2.º «Secretaria-Geral do Ministério»:
 
-###### Artigo 21.º-A «Outras despesas correntes»:
+Artigo 21.º-A «Outras despesas correntes»:
 
 N.º 2 «Para satisfação de todos os encargos resultantes da preparação e realização do acto eleitoral» ... 5000000$00
 
-###### Art. 2.º Para compensação do crédito previsto no artigo anterior, é adicionada igual importância à verba descrita no capítulo 1.º, grupo 1, artigo 3.º «Imposto profissional», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação do crédito previsto no artigo anterior, é adicionada igual importância à verba descrita no capítulo 1.º, grupo 1, artigo 3.º «Imposto profissional», do actual orçamento das receitas do Estado.
 
 Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes.
 
-**Promulgado em 19 de Dezembro de 1974.**
+Promulgado em 19 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/67-1978-297607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8877d0c8c0f0922c056479c75822e838d46fa20d923531edf562f52af071a6f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e143ee02de8f0327d18c308450b3a1bc1115313e0b55d1ffe23fe10204474be4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Polícia Judiciária
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:57Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +98,7 @@ Tendo em atenção o disposto no artigo 6.º do [Decreto-Lei n.º 48234](https:/
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único - 1 - É autorizada a Directoria-Geral da Polícia Judiciária a celebrar contrato com a firma Standard Eléctrica, S. A. R. L., para o fornecimento de uma central telefónica pela importância de 5840651$20, sendo os encargos máximos de cada um dos anos económicos da sua validade os seguintes:
+Artigo único - 1 - É autorizada a Directoria-Geral da Polícia Judiciária a celebrar contrato com a firma Standard Eléctrica, S. A. R. L., para o fornecimento de uma central telefónica pela importância de 5840651$20, sendo os encargos máximos de cada um dos anos económicos da sua validade os seguintes:
 
 Em 1978 ... 2920325$60
 
@@ -103,8 +110,8 @@ Em 1980 ... 584065$20
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - José Dias dos Santos Pais.
 
-**Promulgado em 30 de Junho de 1978.**
+Promulgado em 30 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

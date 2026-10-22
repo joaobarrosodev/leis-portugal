@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/582-1974-471510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef208a753472b965708f855d442d031eed50454e14eae634bd1262a725d3103e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f1792fd3f9f422fa97ac3abdee165194f537894040cff6bcf6bbc3a6789e5c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:622873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:23Z'
   warnings: []
   errors: []
 ---
@@ -90,20 +94,20 @@ Considerando indispensável dar execução ao disposto no artigo 4.º do [Decret
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. A partir da data da entrada em vigor deste diploma, opera-se a extinção efectiva do Centro de Bioceanologia e Pesca e do Centro de Biologia Aquática Tropical pertencentes à Junta de Investigações Científicas do antigo Ministério do Ultramar.
+Artigo 1.º - 1. A partir da data da entrada em vigor deste diploma, opera-se a extinção efectiva do Centro de Bioceanologia e Pesca e do Centro de Biologia Aquática Tropical pertencentes à Junta de Investigações Científicas do antigo Ministério do Ultramar.
 
 2. A competência dos serviços extintos nos termos do número anterior é transferida para a Direcção-Geral da Investigação e Protecção dos Recursos Vivos e do Ambiente Aquático.
 
-###### Art. 2.º - 1. O pessoal das organizações extintas a que se refere o artigo 1.º que vier a constar de despacho do Secretário de Estado das Pescas, publicado nos termos do disposto no n.º 4 do artigo 4.º do [Decreto-Lei n.º 240/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1974-622873), de 5 de Junho, fica integrado na Secretaria de Estado das Pescas, independentemente de quaisquer requisitos ou formalidades, devendo essa integração estar efectuada até 31 de Dezembro de 1974.
+Art. 2.º - 1. O pessoal das organizações extintas a que se refere o artigo 1.º que vier a constar de despacho do Secretário de Estado das Pescas, publicado nos termos do disposto no n.º 4 do artigo 4.º do [Decreto-Lei n.º 240/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1974-622873), de 5 de Junho, fica integrado na Secretaria de Estado das Pescas, independentemente de quaisquer requisitos ou formalidades, devendo essa integração estar efectuada até 31 de Dezembro de 1974.
 
 2. A colocação de pessoal proveniente das organizações extintas em lugares dos serviços da Secretaria de Estado das Pescas será feita, à medida que estes forem sendo organizados e de acordo com as possibilidades dos respectivos quadros, mediante listas aprovadas por despacho do Secretário de Estado das Pescas, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo.
 
-###### Art. 3.º Por despacho conjunto do Ministro da Coordenação Interterritorial e dos Secretários de Estado do Orçamento e das Pescas, serão estabelecidas as condições em que se efectuará a transferência, a favor da Secretaria de Estado das Pescas, das receitas utilizadas para cobertura das despesas dos serviços extintos.
+Art. 3.º Por despacho conjunto do Ministro da Coordenação Interterritorial e dos Secretários de Estado do Orçamento e das Pescas, serão estabelecidas as condições em que se efectuará a transferência, a favor da Secretaria de Estado das Pescas, das receitas utilizadas para cobertura das despesas dos serviços extintos.
 
 Vasco dos Santos Gonçalves - Deodato Nuno de Azevedo Coutinho - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 23 de Outubro de 1974.**
+Promulgado em 23 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

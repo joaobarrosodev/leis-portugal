@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/1993/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-1993-648477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60e474a1d3945516197b08f911a3965bf67a21651a34c91454444ca6d49801c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18349372464eabef1641627abefde001946d1f3df1d026aeea73ab0693fb3c79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
 subjects:
 - Colômbia
 - Convenção
+- Cooperação Científica
 - Cooperação Técnica
 - Portugal
-- Cooperação Científica
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:50Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 12 de Fevereiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo de Cooperação Científica e Técnica entre o Governo da República Portuguesa e o Governo da República da Colômbia, assinado em Lisboa, em 28 de Maio de 1988, cuja versão autêntica em língua portuguesa segue em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo de Cooperação Científica e Técnica entre o Governo da República Portuguesa e o Governo da República da Colômbia, assinado em Lisboa, em 28 de Maio de 1988, cuja versão autêntica em língua portuguesa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro.
 
 Ratificado em 6 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Outubro de 1992.**
+Referendado em 7 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO CIENTÍFICA E TÉCNICA ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA COLÔMBIA
 
@@ -118,19 +118,19 @@ Tendo em conta as possibilidades de cooperação científica e técnica existent
 
 acordaram no seguinte:
 
-Artigo I
+###### Artigo I
 
 As Partes Contratantes envidarão esforços no sentido de favorecer o desenvolvimento da cooperação científica e técnica entre os dois países.
 
-Artigo II
+###### Artigo II
 
 As Partes Contratantes reconhecem o interesse de obter um melhor conhecimento recíproco dos seus planos de desenvolvimento científico e tecnológico a médio e longo prazos, a fim de favorecer a cooperação científica e técnica entre os dois países.
 
-Artigo III
+###### Artigo III
 
 Com o objectivo de dar cumprimento à cooperação prevista neste convénio, as Partes Contratantes poderão celebrar acordos complementares de execução, em desenvolvimento do artigo IV, nos quais serão estabelecidos as condições específicas e o financiamento do projecto correspondente.
 
-Artigo IV
+###### Artigo IV
 
 A cooperação prevista neste Acordo poderá assumir as seguintes formas:
 
@@ -144,7 +144,7 @@ d) Realização conjunta de projectos de investigação e desenvolvimento;
 
 e) Outras formas de cooperação que venham a acordar-se.
 
-Artigo V
+###### Artigo V
 
 Para promover a aplicação do presente Acordo é criada uma Comissão Mista, composta por representantes das Partes Contratantes. A referida Comissão deverá identificar as acções susceptíveis de serem consideradas no âmbito do presente Acordo, analisar as propostas apresentadas por cada uma das Partes Contratantes e, quando for o caso, recomendar a sua aceitação.
 
@@ -154,19 +154,19 @@ Nas suas reuniões, a Comissão Mista ocupar-se-á, para além da programação 
 
 A Comissão Mista reunir-se-á, por solicitação de uma das Partes Contratantes, alternadamente em Lisboa e Bogotá.
 
-Artigo VI
+###### Artigo VI
 
 Qualquer diferendo que surja entre as Partes Contratantes, resultante da aplicação do presente Acordo ou da interpretação das suas cláusulas, será resolvido por via diplomática.
 
-Artigo VII
+###### Artigo VII
 
 O presente Acordo terá uma validade de três anos e será tacitamente prorrogado por períodos de um ano se nenhuma das Partes notificar a outra, por escrito e com uma antecedência de pelo menos três meses em relação à data do seu termo, do seu desejo de cancelá-lo.
 
-Artigo VIII
+###### Artigo VIII
 
 O presente Acordo pode ser denunciado por qualquer das Partes mediante notificação escrita, que terá efeito três meses depois da data da recepção pela Parte respectiva, salvo acordo em contrário das duas Partes. A denúncia ou o não prolongamento do presente Acordo não afectará a continuação ou conclusão dos projectos e programas determinados por meio dos acordos complementares, subscritos em conformidade com o artigo III.
 
-Artigo IX
+###### Artigo IX
 
 O presente Acordo entrará em vigor depois da notificação recíproca da sua aprovação, segundo os trâmites previstos pela legislação vigente em cada um dos Estados.
 

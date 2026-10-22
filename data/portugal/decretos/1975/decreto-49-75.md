@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49-1975-159519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 482dfcc0ffbc21a4461f30f73d557f66548e0ae3c51b0ecb7a4f487ae912aab1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1df5b52a874d6f77c0533cc9c28ee9f3ef2beef71288c5055eb1bd2e9fcfebf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:422238:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:49Z'
   warnings: []
   errors: []
 ---
@@ -87,14 +91,14 @@ de 3 de Fevereiro
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos termos e para os efeitos do disposto no artigo 28.º, n.º 3, do [Decreto-Lei n.º 223/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1973-422238), de 11 de Maio, é autorizado o Instituto de Acção Social Escolar, do Ministério da Educação e Cultura, a aceitar do Sr. António Vieira de Castro a importância de 250000$00 por este doada para o fundo de manutenção de uma cantina escolar a instituir no núcleo de Real, freguesia de Tougues, concelho de Vila do Conde.
+Artigo 1.º Nos termos e para os efeitos do disposto no artigo 28.º, n.º 3, do [Decreto-Lei n.º 223/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1973-422238), de 11 de Maio, é autorizado o Instituto de Acção Social Escolar, do Ministério da Educação e Cultura, a aceitar do Sr. António Vieira de Castro a importância de 250000$00 por este doada para o fundo de manutenção de uma cantina escolar a instituir no núcleo de Real, freguesia de Tougues, concelho de Vila do Conde.
 
-###### Art. 2.º A administração da cantina é autónoma e será confiada a uma comissão de, pelo menos, três membros nomeados pelo Ministro da Educação e Cultura.
+Art. 2.º A administração da cantina é autónoma e será confiada a uma comissão de, pelo menos, três membros nomeados pelo Ministro da Educação e Cultura.
 
 Vasco dos Santos Gonçalves - Manuel Rodrigues de Carvalho.
 
-**Promulgado em 24 de Janeiro de 1975.**
+Promulgado em 24 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

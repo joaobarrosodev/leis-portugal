@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/544-1973-412272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfa1f647fb0bdc0beb09d8b4d71920498547011e53c69890c5f6fce079a69905
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b97c9319c3e58b3d3b89fc2718afd920961ea4dd8c9ffa234a594bca5d5b40e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conta Bancária
+- Mercado Cambial
+- Moeda
 relationships:
 - type: amended_by
   target: pt:dre:451790:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401915:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:451790:por
+  label: "Revogado pelo DEC LEI.227/83.27.05.1983.MFP, DR.IS [122] de 27.05.1983, sem prejuízo do disposto nos seus n.os 2\
+    \ e 3 do artigo 47.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1983-451790
+  date: '1983-05-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:26Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +130,7 @@ Convindo disciplinar e uniformizar a concessão do regime de compensações e de
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Poderão beneficiar do regime previsto no presente decreto as pessoas colectivas de direito privado não consideradas instituições de crédito que forem havidas como residentes em território nacional e vierem a ser expressamente autorizadas, em consequência das características e relevância da sua actividade económica principal, da diversidade dos territórios em que essa actividade for exercida, ou de outros condicionalismos especialmente considerados.
+Artigo 1.º - 1. Poderão beneficiar do regime previsto no presente decreto as pessoas colectivas de direito privado não consideradas instituições de crédito que forem havidas como residentes em território nacional e vierem a ser expressamente autorizadas, em consequência das características e relevância da sua actividade económica principal, da diversidade dos territórios em que essa actividade for exercida, ou de outros condicionalismos especialmente considerados.
 
 2. As autorizações referidas no número anterior dependerão de despacho:
 
@@ -107,11 +140,11 @@ b) Do Ministro do Ultramar, quando se tratar de pessoas colectivas que exerçam 
 
 c) Do Ministro das Finanças e do Ultramar, conjuntamente, nos restantes casos.
 
-###### Art. 2.º - 1. As pessoas colectivas que pretendam beneficiar do regime do presente decreto deverão solicitá-lo ao Ministro ou Ministros competentes, mediante requerimento a entregar, consoante o território nacional em que exerçam a sua actividade económica principal, no Banco de Portugal ou na respectiva inspecção provincial de crédito e seguros ou do comércio bancário.
+Art. 2.º - 1. As pessoas colectivas que pretendam beneficiar do regime do presente decreto deverão solicitá-lo ao Ministro ou Ministros competentes, mediante requerimento a entregar, consoante o território nacional em que exerçam a sua actividade económica principal, no Banco de Portugal ou na respectiva inspecção provincial de crédito e seguros ou do comércio bancário.
 
 2. O requerimento mencionado, instruído com memória explicativa dos fundamentos da pretensão, deverá ser submetido a despacho ministerial, com o parecer, conforme o caso, do Banco de Portugal, da autoridade cambial da província ultramarina interessada ou das duas entidades conjuntamente.
 
-###### Art. 3.º - 1. Tendo em atenção a particularidade de cada caso, poderão as pessoas colectivas referidas ser autorizadas a abrir:
+Art. 3.º - 1. Tendo em atenção a particularidade de cada caso, poderão as pessoas colectivas referidas ser autorizadas a abrir:
 
 a) Contas à ordem em moeda estrangeira, em instituições de crédito autorizadas a exercer o comércio de câmbios no continente e ilhas adjacentes ou numa província ultramarina, em conformidade com o disposto no artigo 31.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, no artigo 22.º do [Decreto-Lei n.º 478/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1971-240266), de 6 de Novembro, e no artigo 40.º do [Decreto n.º 173/72](https://diariodarepublica.pt/dr/detalhe/decreto/173-1972-401915), de 20 de Maio;
 
@@ -119,19 +152,19 @@ b) Contas em escudos metropolitanos ou em escudos ultramarinos, nos termos do di
 
 2. A autorização citada poderá, ainda, abranger a abertura de contas em moedas estrangeiras, à sua ordem e em seu nome, numa instituição de crédito estrangeira, desde que se verifique o condicionalismo do artigo 28.º do referido [Decreto n.º 173/72](https://diariodarepublica.pt/dr/detalhe/decreto/173-1972-401915) e os saldos constituídos nessas contas não excedam os limites eventualmente fixados nas respectivas autorizações.
 
-###### Art. 4.º - 1. As receitas derivadas de quaisquer transacções de mercadorias, de invisíveis correntes ou de capitais, realizadas com residentes noutros territórios nacionais ou no estrangeiro, deverão ser transferidas para o território em que as pessoas colectivas beneficiadas sejam residentes, no prazo máximo de noventa dias a contar do fim do trimestre em que os direitos a que tais operações respeitem hajam sido constituídos, salvo se prazo inferior vier a ser fixado no despacho de autorização a que se refere o artigo 1.º
+Art. 4.º - 1. As receitas derivadas de quaisquer transacções de mercadorias, de invisíveis correntes ou de capitais, realizadas com residentes noutros territórios nacionais ou no estrangeiro, deverão ser transferidas para o território em que as pessoas colectivas beneficiadas sejam residentes, no prazo máximo de noventa dias a contar do fim do trimestre em que os direitos a que tais operações respeitem hajam sido constituídos, salvo se prazo inferior vier a ser fixado no despacho de autorização a que se refere o artigo 1.º
 
 2. Poderão as pessoas colectivas deduzir ao valor das receitas a transferir, nos termos do número anterior e dentro do prazo nele referido, o valor dos débitos em que hajam incorrido por força de outras transacções de mercadorias, de invisíveis correntes ou de capitais, e, também, a importância necessária à sustentação dos seus serviços fora do mencionado território, entendendo-se como incorridos dentro daquele prazo quer os débitos nele vencidos, quer os vencidos em trimestres anteriores e não regularizados.
 
 3. Especialmente autorizadas pelo Banco de Portugal ou pelas competentes autoridades cambiais das províncias ultramarinas, poderão, ainda, as mesmas pessoas colectivas reservar quantias para liquidar encargos correntes com vencimento no trimestre seguinte, bem como quantias respeitantes a dividendos ou outros lucros e demais fundos que devam ser transferidos.
 
-###### Art. 5.º Para efeitos do disposto nos artigos 3.º e 4.º deste decreto, e em conformidade com os respectivos despachos de autorização, as adequadas instruções serão transmitidas às pessoas colectivas interessadas:
+Art. 5.º Para efeitos do disposto nos artigos 3.º e 4.º deste decreto, e em conformidade com os respectivos despachos de autorização, as adequadas instruções serão transmitidas às pessoas colectivas interessadas:
 
 a) Pelo Banco de Portugal, nos casos referidos nas alíneas a) e c) do n.º 2 do artigo 1.º; nesta última alínea, com audiência prévia das inspecções provinciais dos respectivos territórios;
 
 b) Pelas respectivas inspecções provinciais de crédito e seguros ou do comércio bancário, no caso a que respeita a alínea b) do mesmo n.º 2 do artigo 1.º
 
-###### Art. 6.º - 1. As pessoas colectivas beneficiárias do regime do presente decreto enviarão, consoante os casos, ao Banco de Portugal ou às inspecções provinciais de crédito e seguros ou do comércio bancário, além de outros que venham a ser exigidos, os seguintes elementos de informação:
+Art. 6.º - 1. As pessoas colectivas beneficiárias do regime do presente decreto enviarão, consoante os casos, ao Banco de Portugal ou às inspecções provinciais de crédito e seguros ou do comércio bancário, além de outros que venham a ser exigidos, os seguintes elementos de informação:
 
 a) Mapas dos saldos, em fim de trimestre, das contas de disponibilidades, ou responsabilidades em moedas estrangeiras e em escudos, evidenciando a natureza dessas disponibilidades ou responsabilidades, e as moedas e instituições de crédito em que se encontrem constituídas;
 
@@ -143,16 +176,16 @@ c) Mapas das transferências efectuadas para o território em que sejam resident
 
 3. Sempre que as transacções de mercadorias, de invisíveis correntes ou de capitais especialmente autorizadas tenham reflexo nas contas mencionadas na alínea a) do n.º 1 deste artigo, as pessoas colectivas farão a identificação dessas transacções nos mapas referidos na alínea b) desse mesmo n.º 1.
 
-###### Art. 7.º Para a correcta elaboração dos mapas mencionados no artigo anterior, o Banco de Portugal ou as inspecções provinciais de crédito e seguros ou do comércio bancário, conforme os casos, transmitirão às pessoas colectivas interessadas as instruções julgadas indispensáveis e adequadas a cada caso, tendo em conta, nomeadamente, o estabelecido nos §§ 1.º e 2.º do artigo 7.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), com a redacção dada pelo artigo 3.º do [Decreto-Lei n.º 49306](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49306-1969-216291), de 16 de Outubro de 1969, no artigo 10.º do [Decreto n.º 550/71](https://diariodarepublica.pt/dr/detalhe/decreto/550-1971-158611) e nos n.os 2 e 3 do artigo 13.º do [Decreto n.º 173/72](https://diariodarepublica.pt/dr/detalhe/decreto/173-1972-401915).
+Art. 7.º Para a correcta elaboração dos mapas mencionados no artigo anterior, o Banco de Portugal ou as inspecções provinciais de crédito e seguros ou do comércio bancário, conforme os casos, transmitirão às pessoas colectivas interessadas as instruções julgadas indispensáveis e adequadas a cada caso, tendo em conta, nomeadamente, o estabelecido nos §§ 1.º e 2.º do artigo 7.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), com a redacção dada pelo artigo 3.º do [Decreto-Lei n.º 49306](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49306-1969-216291), de 16 de Outubro de 1969, no artigo 10.º do [Decreto n.º 550/71](https://diariodarepublica.pt/dr/detalhe/decreto/550-1971-158611) e nos n.os 2 e 3 do artigo 13.º do [Decreto n.º 173/72](https://diariodarepublica.pt/dr/detalhe/decreto/173-1972-401915).
 
-###### Art. 8.º O disposto no presente decreto entra imediatamente em vigor.
+Art. 8.º O disposto no presente decreto entra imediatamente em vigor.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 9 de Outubro de 1973.**
+Promulgado em 9 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

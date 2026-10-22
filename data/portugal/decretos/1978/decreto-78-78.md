@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/78-1978-296854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68837e369af49b6f94b217e52d58e97e991a076786fe933c5729635a6849f24c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee62248735863028d8fd2d49403878721df834c1fbf65ab6a559a8782ef3087b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diploma
+- Educador de Infância
+- Ensino Particular
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:08Z'
   warnings: []
   errors: []
 ---
@@ -95,20 +98,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Aos diplomas de educadores de infância emitidos por estabelecimentos particulares é atribuída equivalência, para todos os efeitos legais, aos diplomas passados por escolas ou cursos oficiais de formação de educadores de infância, sempre que o respectivo plano de estudos abranja uma duração de três anos, incluindo estágio.
+Artigo 1.º Aos diplomas de educadores de infância emitidos por estabelecimentos particulares é atribuída equivalência, para todos os efeitos legais, aos diplomas passados por escolas ou cursos oficiais de formação de educadores de infância, sempre que o respectivo plano de estudos abranja uma duração de três anos, incluindo estágio.
 
-###### Art. 2.º Aos diplomas de educadores de infância emitidos por estabelecimentos particulares na sequência de cursos cuja duração seja inferior à indicada no artigo 1.º é atribuída equivalência, para o exercício de funções docentes no ensino particular, aos diplomas passados por escolas ou cursos oficiais de educadores de infância.
+Art. 2.º Aos diplomas de educadores de infância emitidos por estabelecimentos particulares na sequência de cursos cuja duração seja inferior à indicada no artigo 1.º é atribuída equivalência, para o exercício de funções docentes no ensino particular, aos diplomas passados por escolas ou cursos oficiais de educadores de infância.
 
-###### Art. 3.º A equivalência referida nos artigos 1.º e 2.º deste decreto-lei depende de confirmação dos diplomas pela Inspecção-Geral do Ensino Particular, à qual incumbe ainda verificar o cumprimento das normas legais vigentes ao tempo do início do curso a que cada diploma respeite, nomeadamente aprovação oficial dos respectivos planos e programas e habilitações para ingresso.
+Art. 3.º A equivalência referida nos artigos 1.º e 2.º deste decreto-lei depende de confirmação dos diplomas pela Inspecção-Geral do Ensino Particular, à qual incumbe ainda verificar o cumprimento das normas legais vigentes ao tempo do início do curso a que cada diploma respeite, nomeadamente aprovação oficial dos respectivos planos e programas e habilitações para ingresso.
 
-###### Art. 4.º Os planos e programas das escolas particulares de formação de educadores de infância deverão ser objecto de aprovação ministerial por períodos de três anos.
+Art. 4.º Os planos e programas das escolas particulares de formação de educadores de infância deverão ser objecto de aprovação ministerial por períodos de três anos.
 
-###### Art. 5.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura.
+Art. 5.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura.
 
 Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 21 de Julho de 1978.**
+Promulgado em 21 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

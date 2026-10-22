@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/24/1993/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-1993-380319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efcece631fd318f872e8f00e797842f06c2f25cb61fda2ed88bb9cc791f4b59d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b53fcb53288bd373e000f4fdefa854758ed0b63557127396e8fd0706b787a52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
+- Cooperação Económica
 - Cooperação Técnica
 - Portugal
-- Cooperação Económica
 relationships: []
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:25Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 9 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Geral de Cooperação Técnico-Económica entre o Governo da República Portuguesa e o Governo da República da Gâmbia, assinado em Lisboa em 10 de Fevereiro de 1993, cuja versão original, nas línguas portuguesa e inglesa, segue em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo Geral de Cooperação Técnico-Económica entre o Governo da República Portuguesa e o Governo da República da Gâmbia, assinado em Lisboa em 10 de Fevereiro de 1993, cuja versão original, nas línguas portuguesa e inglesa, segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 1993. - Aníbal António Cavaco Silva - Domingos Manuel Martins Jerónimo.
 
 Ratificado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1993.**
+Referendado em 23 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO GERAL DE COOPERAÇÃO TÉCNICO-ECONÓMICA ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA GÂMBIA.
 

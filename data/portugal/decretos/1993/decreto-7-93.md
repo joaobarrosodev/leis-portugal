@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/7/1993/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-1993-657450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6816c3d9a2d2ee8873798f84909e911f0eabe1d007be6aaacd72303626441c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0e899ad7d8473b56333bb510fb67cfba32c7e7c387e874f9c40ca9719c47547
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ subjects:
 - Bissau
 - Convenção
 - Cooperação Bilateral
-- Portugal
 - Pesca
+- Portugal
 relationships: []
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:54Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 26 de Fevereiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Especial de Cooperação no Domínio das Pescas entre a República da Guiné-Bissau e a República Portuguesa, assinado em Bissau em 24 de Maio de 1991, cujo texto original segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Especial de Cooperação no Domínio das Pescas entre a República da Guiné-Bissau e a República Portuguesa, assinado em Bissau em 24 de Maio de 1991, cujo texto original segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1992. - Aníbal António Cavaco Silva - Manuel Filipe Correia de Jesus - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Assinado em 24 de Novembro de 1992.**
+Assinado em 24 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Novembro de 1992.**
+Referendado em 25 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ESPECIAL DE COOPERAÇÃO NO DOMÍNIO DAS PESCAS ENTRE A REPÚBLICA DA GUINÉ-BISSAU E A REPÚBLICA PORTUGUESA.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/40/2017/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/40-2017-114233331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 177a9b3228a4bf5e567d9ab7112c10fcca46405581a8bc8ffdac382b62a0f3e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d21c21f2069f035e57485a5fb053f15c632e8cec2b8af18acaa0d5b9f6b72ceb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,14 +71,14 @@ subjects:
 relationships: []
 article_structure:
   article_count: 63
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:31Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +101,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 28 de setembro de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Adalberto Campos Fernandes - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes.
 
-**Assinado em 9 de outubro de 2017.**
+Assinado em 9 de outubro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de outubro de 2017.**
+Referendado em 16 de outubro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 MINAMATA CONVENTION ON MERCURY
 
@@ -959,13 +959,13 @@ PART I
 
 Products subject to article 4, paragraph 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
 
 PART II
 
 Products subject to article 4, paragraph 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
 
 ANNEX B
 
@@ -975,13 +975,13 @@ PART I
 
 Processes subject to article 5, paragraph 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
 
 PART II
 
 Processes subject to article 5, paragraph 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
 
 ANNEX C
 
@@ -1935,7 +1935,7 @@ Não podem ser estabelecidas reservas à presente Convenção.
 
 ###### Artigo 34.º — Depositário
 
-**O Secretário-Geral das Nações Unidas será o Depositário da presente Convenção.**
+O Secretário-Geral das Nações Unidas será o Depositário da presente Convenção.
 
 ###### Artigo 35.º — Textos autênticos
 
@@ -1961,23 +1961,23 @@ d) Produtos usados em práticas tradicionais ou religiosas; e
 
 e) Vacinas contendo tiomersal como conservante.
 
-# PARTE I — Produtos sujeitos ao disposto no artigo 4.º, n.º 1
+## PARTE I — Produtos sujeitos ao disposto no artigo 4.º, n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
 
-# PARTE II — Produtos condicionados ao disposto no artigo 4.º, n.º 3
+## PARTE II — Produtos condicionados ao disposto no artigo 4.º, n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
 
 ## ANEXO B — Processos de fabrico que utilizam mercúrio ou compostos de mercúrio
 
-# PARTE I — Processos sujeitos ao disposto no artigo 5.º, n.º 2
+## PARTE I — Processos sujeitos ao disposto no artigo 5.º, n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
 
-# PARTE II — Processos sujeitos ao disposto no artigo 5.º, n.º 3
+## PARTE II — Processos sujeitos ao disposto no artigo 5.º, n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf))](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/22600/0613606170.pdf)
 
 ## ANEXO C — Extração de ouro artesanal e em pequena escala
 
@@ -2035,7 +2035,7 @@ Instalações de produção de clinquer.
 
 ## ANEXO E — Procedimentos de arbitragem e conciliação
 
-# PARTE I — Procedimento de arbitragem
+## PARTE I — Procedimento de arbitragem
 
 O procedimento de arbitragem, para os efeitos do disposto na alínea a) do n.º 2 do artigo 25.º da presente Convenção será o seguinte:
 
@@ -2121,7 +2121,7 @@ A decisão final é vinculativa para as Partes em conflito. A interpretação da
 
 Qualquer discordância que possa surgir entre aqueles que estão vinculados pela decisão final nos termos do artigo 16.º da presente parte, no que se refere a interpretação ou modo de implementação da decisão final, poderá ser submetida por qualquer deles à decisão do tribunal arbitral que a proferiu.
 
-# PARTE II — Procedimento de conciliação
+## PARTE II — Procedimento de conciliação
 
 O procedimento de conciliação para os efeitos do n.º 6 do artigo 25.º da presente Convenção será o seguinte:
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 300/1975, 7º Suplemento, Série I de 1975-12-31
   number: '300'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 2160-(129) a 2160-(129)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30007/01290129.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/780-1975-355341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a54817c66a73576ae6ce52d44084de09ecc1d088c3eea764e959f918111a387e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce008f7207014918c00c273e07777c3b24a618dc21fddf90e46efa4fdb50de8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Crédito Especial
+- Despesas Públicas
+- Ministério das Finanças
+- Orçamento Geral do Estado
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:25Z'
   warnings: []
   errors: []
 ---
@@ -88,30 +98,30 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 21300000$00, destinado a reforçar as seguintes dotações do orçamento em vigor do Ministério da Educação e Investigação Científica:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 21300000$00, destinado a reforçar as seguintes dotações do orçamento em vigor do Ministério da Educação e Investigação Científica:
 
-### Capítulo 5.º Direcção-Geral do Ensino Superior:
+Capítulo 5.º Direcção-Geral do Ensino Superior:
 
 Universidade de Coimbra
 
-###### Artigo 97.º «Transferências - Instituições particulares»:
+Artigo 97.º «Transferências - Instituições particulares»:
 
 N.º 2 «Serviços Sociais da Universidade» ... 17500000$00
 
 Universidade de Lisboa
 
-###### Artigo 272.º «Transferências - Instituições particulares»:
+Artigo 272.º «Transferências - Instituições particulares»:
 
 N.º 1 «Serviços Sociais da Universidade» ... 3800000$00
 
 ... 21300000$00
 
-###### Art. 2.º Para compensação do crédito mencionado no artigo anterior é aumentada igual quantia à verba descrita no capítulo 14.º, artigo 162.º «Reposições não abatidas nos pagamentos», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação do crédito mencionado no artigo anterior é aumentada igual quantia à verba descrita no capítulo 14.º, artigo 162.º «Reposições não abatidas nos pagamentos», do actual orçamento das receitas do Estado.
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 31 de Dezembro de 1975.**
+Promulgado em 31 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

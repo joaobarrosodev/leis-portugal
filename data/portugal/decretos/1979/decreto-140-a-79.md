@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 296/1979, 2º Suplemento, Série I de 1979-12-26
   number: '296'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3350-(27) a 3350-(43)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29602/00270043.pdf
 entry_into_force_dates: []
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/140-a-1979-430030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8426e71c286f15c4fe3d6030826cae2fe4499dd319cd2af223e2e92ef11d938b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9ea501861fb1db1651d099b19953124789c93607b555c9ede74ae08a273df81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Direito de Autor
+- Paris
+- Portugal
+- Unesco
 relationships:
 - type: amended_by
   target: pt:dre:534630:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534630:por
+  label: "Estendida ao Território de Macau a Convenção aprovada pelo presente diploma, pelo DEC.134/99.1999.04.22.PR, DR.IS-A\
+    \ [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/134-1999-534630
+  date: '1999-04-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:13Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +101,15 @@ de 26 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o texto da Convenção Universal sobre Direito de Autor, revista em Paris a 24 de Julho de 1971, cujo texto em francês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado, para adesão, o texto da Convenção Universal sobre Direito de Autor, revista em Paris a 24 de Julho de 1971, cujo texto em francês e respectiva tradução para português acompanham o presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 17 de Dezembro de 1979.**
+Assinado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention universelle sur le droit d'auteur, révisée à Paris le 24 juillet 1971
 
@@ -466,11 +477,11 @@ Convenção Universal sobre Direito de Autor, revista em Paris a 24 de Julho de 
 
 Os Estados Contratantes, animados pelo desejo de assegurar, em todos os países, a protecção dos direitos dos autores sobre obras literárias, científicas e artísticas, convencidos de que um sistema de protecção dos direitos dos autores adequado a todas as nações e expresso numa convenção universal que seja complemento dos sistemas internacionais vigentes, sem os afectar, contribuirá para assegurar o respeito dos direitos da pessoa humana e para favorecer o desenvolvimento das letras, das ciências e das artes, persuadidos de que um tal regime universal de protecção do direito de autor facilitará a difusão das obras do espírito e contribuirá para uma melhor compreensão internacional, decidiram rever a Convenção Universal sobre Direito de Autor, assinada em Genebra a 6 de Setembro de 1952, que passará a ser designada por «Convenção de 1952», e, em consequência, acordaram no que segue:
 
-ARTIGO I
+###### ARTIGO I
 
 Cada um dos Estados Contratantes compromete-se a tomar todas as medidas necessárias a assegurar uma concreta e eficaz protecção dos direitos dos autores e de quaisquer outros titulares destes direitos sobre obras literárias, científicas e artísticas, tais como os escritos, as obras musicais, dramáticas e cinematográficas e as de pintura, gravura e escultura.
 
-ARTIGO II
+###### ARTIGO II
 
 1 - As obras publicadas dos cidadãos de qualquer Estado Contratante, bem como as obras publicadas pela primeira vez no território de tal Estado, gozam, em todos os Estados Contratantes, da protecção que cada um desses Estados concede às obras dos seus nacionais publicadas pela primeira vez no seu próprio território, assim como da protecção especial concedida pela presente Convenção.
 
@@ -478,7 +489,7 @@ ARTIGO II
 
 3 - Para aplicação da presente Convenção, os Estados Contratantes poderão, mediante disposições da sua legislação interna, assimilar aos seus nacionais todas as pessoas domiciliadas nesse Estado.
 
-ARTIGO III
+###### ARTIGO III
 
 1 - Qualquer Estado Contratante cuja legislação interna exija como condição para a protecção dos direitos dos autores o cumprimento de formalidades tais como o depósito, registo, menção, certificados notariais, pagamento de taxas e fabricação ou publicação no território nacional considerará satisfeitas tais exigências para qualquer obra protegida nos termos da presente Convenção publicada pela primeira vez fora do território deste Estado e cujo autor não seja seu nacional se desde a primeira publicação da referida obra todos os seus exemplares, publicados com a autorização do autor ou de qualquer outro titular dos seus direitos, tiverem levado o símbolo c, acompanhado do nome do titular do direito de autor e da indicação do ano da sua primeira publicação; o símbolo, o nome e o ano devem colocar-se de modo e em lugar tal que mostrem claramente que o direito de autor está reservado.
 
@@ -490,7 +501,7 @@ ARTIGO III
 
 5 - Se um Estado Contratante conceder protecção por mais que um período e se o primeiro período tiver uma duração superior a um dos períodos mínimos previstos no artigo IV da presente Convenção, tal Estado poderá não aplicar o parágrafo 1 do presente artigo no que diz respeito ao segundo período de protecção, assim como aos períodos seguintes.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - O prazo de protecção da obra será estabelecido pela lei do Estado Contratante onde é pedida a protecção, de acordo com as disposições do artigo II e com as do presente artigo.
 
@@ -510,13 +521,13 @@ b) Para fins da aplicação da alínea a), se a legislação de um Estado Contra
 
 6 - Para fins da aplicação do parágrafo 4 acima, no caso de publicação simultânea em dois ou mais Estados Contratantes, a obra será considerada como tendo sido publicada pela primeira vez no Estado que conceda o mais pequeno período de protecção. Será considerada como publicada simultaneamente em vários países toda a obra que tenha sido publicada em dois ou mais países dentro do prazo de trinta dias a partir da sua primeira publicação.
 
-ARTIGO IV-BIS
+###### ARTIGO IV-BIS
 
 1 - Os direitos referidos no artigo I incluem os direitos fundamentais que asseguram os interesses económicos do autor, incluindo o direito exclusivo de autorizar a reprodução por qualquer meio, a representação e execução públicas e a radiodifusão. As disposições do presente artigo aplicar-se-ão às obras protegidas pela presente Convenção, quer na sua forma original, quer sob qualquer forma reconhecível derivada do original.
 
 2 - No entanto, cada Estado Contratante poderá, através da sua legislação nacional, abrir excepções aos direitos mencionados no parágrafo 1 deste artigo que não sejam contrárias ao espírito e às disposições da presente Convenção. Os Estados que usarem eventualmente desta faculdade deverão, no entanto, conceder um nível razoável de protecção efectiva a cada um dos direitos que sejam objecto dessas excepções.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - Os direitos mencionados no artigo I incluem o direito exclusivo de o autor fazer, publicar e autorizar que se faça e publique a tradução de obras protegidas por esta Convenção.
 
@@ -534,7 +545,7 @@ e) O título original e o nome do autor da obra deverão constar em todos os exe
 
 f) A licença não poderá ser concedida no caso de o autor ter retirado de circulação os exemplares da obra.
 
-ARTIGO V-BIS
+###### ARTIGO V-BIS
 
 1 - Todos os Estados Contratantes considerados como países em desenvolvimento, segundo a prática estabelecida pela Assembleia Geral das Nações Unidas, poderão, na altura da sua ratificação, aceitação ou adesão a esta Convenção, ou posteriormente, mediante notificação ao director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (passará a ser designado por «director-geral»), valer-se de uma ou de todas as excepções estipuladas nos artigos v-ter e v-quater.
 
@@ -546,7 +557,7 @@ ARTIGO V-BIS
 
 5 - Qualquer Estado Contratante que tiver feito uma notificação de acordo com o artigo XIII referente à aplicação desta Convenção a um determinado país ou território cuja situação se possa considerar análoga à dos Estados referidos no parágrafo 1 do presente artigo poderá também apresentar notificações e renová-las de acordo com o previsto neste artigo, no que diz respeito a qualquer desses países ou territórios. Durante o período de validade destas notificações poderão aplicar-se as disposições dos artigos v-ter e v-quater a esses países ou territórios. O envio de exemplares provenientes do referido país ou território para o Estado Contratante será considerado como uma exportação no sentido dos artigos v-ter e v-quater.
 
-ARTIGO V-TER
+###### ARTIGO V-TER
 
 1 - a) Cada Estado Contratante ao qual seja aplicável o parágrafo 1 do artigo v-bis poderá substituir o período de sete anos previsto no parágrafo 2 do artigo V por um período de três anos ou por um período mais longo, segundo a sua legislação nacional. No entanto, no caso de uma tradução numa língua que não seja de uso geral num ou mais países desenvolvidos partes da presente Convenção ou somente da Convenção de 1952, o período de três anos será substituído pelo de um ano.
 
@@ -604,7 +615,7 @@ c) Sob reserva do disposto nas alíneas a) e b), as outras disposições do pres
 
 9 - Sob reserva do disposto no presente artigo, qualquer licença concedida ao abrigo deste reger-se-á pelas disposições do artigo v e continuará a reger-se pelas disposições do artigo v e pelas do presente artigo, mesmo depois de terminado o período de sete anos estipulado no parágrafo 2 do artigo v. Porém, uma vez expirado este período, o titular desta licença poderá pedir a sua substituição por outra, regida exclusivamente pelas disposições do artigo v.
 
-ARTIGO V-QUATER
+###### ARTIGO V-QUATER
 
 1 - Qualquer dos Estados Contratantes a que se refere o parágrafo 1 do artigo v-bis poderá adoptar as seguintes disposições:
 
@@ -654,15 +665,15 @@ d) A licença não poderá ser concedida no caso de o autor ter retirado de circ
 
 b) As disposições do presente artigo aplicar-se-ão também à reprodução, em forma áudio-visual, de fixações lícitas áudio-visuais que incluam obras protegidas pela presente Convenção, assim como a tradução do texto que as acompanha, numa língua de uso geral no Estado habilitado a conceder a licença, ficando bem claro que as fixações áudio-visuais em causa foram concedidas e publicadas unicamente para uso escolar e universitário.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Para fins da presente Convenção entende-se por «publicação» a reprodução em forma material e a distribuição ao público de exemplares da obra que lhe permitam lê-la ou dela tomar conhecimento visual.
 
-ARTIGO VII
+###### ARTIGO VII
 
 A presente Convenção não se aplicará às obras ou aos direitos sobre as mesmas que, à data da entrada em vigor da presente Convenção no Estado Contratante que pede a protecção, tenham perdido definitivamente a protecção no referido Estado Contratante ou nunca tenham sido nele protegidos.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - A presente Convenção, que terá a data de 24 de Julho de 1971, será depositada junto do director-geral e ficará aberta à assinatura de todos os Estados Partes da Convenção de 1952 durante um período de cento e vinte dias a partir da data da presente Convenção. Será submetida a ratificação ou a aceitação dos Estados signatários.
 
@@ -670,7 +681,7 @@ ARTIGO VIII
 
 3 - A ratificação, aceitação ou adesão efectuar-se-ão mediante o depósito de um instrumento dirigido para tal efeito ao director-geral.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - A presente Convenção entrará em vigor três meses após o depósito de doze instrumentos de ratificação, aceitação ou adesão.
 
@@ -680,13 +691,13 @@ ARTIGO IX
 
 4 - As relações entre os Estados Partes da presente Convenção e os Estados unicamente Partes da Convenção de 1952 serão regidas pela Convenção de 1952. No entanto, um Estado unicamente Parte da Convenção de 1952 poderá declarar, mediante a notificação depositada junto do director-geral, que admite a aplicação da Convenção de 1971 a obras de seus nacionais ou publicadas pela primeira vez no seu território por qualquer Estado Parte da presente Convenção.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - Qualquer Estado Contratante compromete-se a adoptar, de acordo com a sua Constituição, as medidas necessárias para assegurar a aplicação da presente Convenção.
 
 2 - Fica estabelecido que, à data da entrada em vigor para um Estado da presente Convenção, esse Estado deverá encontrar-se, de acordo com a sua legislação nacional, em condições de aplicar as disposições da presente Convenção.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1 - Fica constituído, pela presente Convenção, um Comité Intergovernamental, com as seguintes atribuições:
 
@@ -704,27 +715,27 @@ d) Informação aos Estados Partes da Convenção Universal dos seus trabalhos.
 
 4 - O director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura, o director da Organização Mundial da Propriedade Intelectual e o secretário-geral da Organização dos Estados Americanos, ou seus representantes, poderão assistir às reuniões do Comité, com carácter consultivo.
 
-ARTIGO XII
+###### ARTIGO XII
 
 O Comité Intergovernamental convocará conferências, para revisão, sempre que o julgue necessário ou quando as mesmas sejam solicitadas por pelo menos dez Estados Partes da presente Convenção.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1 - Qualquer Estado Contratante poderá, no momento do depósito do seu instrumento de ratificação, aceitação ou adesão, ou posteriormente, declarar, mediante notificação dirigida ao director-geral, que a presente Convenção se aplica à totalidade ou a parte dos países ou territórios de que ele assegura as relações externas; a Convenção aplicar-se-á então aos países ou territórios designados na notificação após expirar o prazo de três meses, previsto no artigo IX. Na falta de tal notificação, a presente Convenção não se aplicará a estes países ou territórios.
 
 2 - No entanto, o presente artigo não poderá, em caso algum, ser interpretado como implicando o reconhecimento tácito ou a aceitação, por parte de qualquer dos Estados Contratantes, da situação de facto de qualquer território ao qual a presente Convenção tenha sido declarada aplicável por outro Estado Contratante de acordo com as disposições deste artigo.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 Qualquer Estado Contratante poderá denunciar a presente Convenção, em seu nome ou em nome da totalidade ou parte dos países ou territórios que tenham sido objecto da notificação prevista no artigo XIII. A denúncia terá lugar mediante notificação dirigida ao director-geral e aplicar-se-á igualmente à Convenção de 1952.
 
 2 - Tal denúncia apenas terá efeito no que respeita ao Estado, ou ao país ou território em nome do qual tenha sido feita, e somente doze meses após a data em que tenha sido recebida a notificação.
 
-ARTIGO XV
+###### ARTIGO XV
 
 Qualquer divergência entre dois ou mais Estados Contratantes, no que se refere à interpretação ou à aplicação da presente Convenção, que não possa ser resolvida por negociação será levada perante o Tribunal Internacional de Justiça, para deliberação deste, a menos que os Estados interessados concordem noutra solução.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 1 - A presente Convenção será redigida em francês, inglês e espanhol. Os três textos serão assinados e farão igualmente fé.
 
@@ -734,25 +745,25 @@ ARTIGO XVI
 
 4 - Todos estes textos serão apensos ao texto assinado da presente Convenção.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 1 - A presente Convenção não afectará em nada as disposições da Convenção de Berna para a Protecção das Obras Literárias e Artísticas nem o facto de pertencerem à União criada por aquela Convenção.
 
 2 - Em aplicação do parágrafo precedente, foi apensa ao presente artigo uma declaração que constitui parte integrante da presente Convenção para os Estados que assinaram a Convenção de Berna em 1 de Janeiro de 1951 ou que a ela tenham aderido posteriormente. A assinatura da presente Convenção pelos Estados acima mencionados implica igualmente a assinatura da declaração referida, tal como a ratificação, aceitação ou adesão da Convenção por esses Estados implica a ratificação, a aceitação ou adesão da declaração.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 A presente Convenção não derroga as convenções ou acordos multilaterais ou bilaterais sobre direitos de autor que estejam ou possam vir a estar em vigor exclusivamente entre duas ou mais repúblicas americanas. Em caso de divergência, quer entre as disposições de quaisquer convenções ou acordos existentes e as disposições desta Convenção, quer entre as disposições desta Convenção e as disposições de qualquer nova convenção ou acordo que possa ser estabelecido entre duas ou várias repúblicas americanas depois da entrada em vigor desta Convenção, prevalecerá entre as partes a convenção ou acordo mais recente. Os direitos adquiridos sobre uma obra em qualquer Estado Contratante em virtude de convenções ou acordos já existentes à data da entrada em vigor desta Convenção nesse Estado Contratante não serão afectados pela mesma.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 A presente Convenção não derroga as convenções ou acordos multilaterais ou bilaterais sobre direitos de autor em vigor entre dois ou mais Estados Contratantes. Em caso de divergência entre as disposições de uma das referidas convenções ou acordos e as disposições da presente Convenção, prevalecerão as disposições desta última. Não serão afectados os direitos adquiridos sobre uma obra em virtude de convenções ou acordos em vigor num dos Estados Contratantes anteriormente à data da entrada em vigor da presente Convenção nesse Estado. O presente artigo não afectará em nada as disposições dos artigos XVII e XVIII.
 
-ARTIGO XX
+###### ARTIGO XX
 
 Não são admitidas reservas à presente Convenção.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 1 - O director-geral enviará cópias conformes da presente Convenção aos Estados interessados e ao Secretário-Geral das Nações Unidas para que este as registe.
 

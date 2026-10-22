@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/60/1991/12/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/60-1991-315524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99f90b19daf6c89b0adbc0827d2187f17f5f87c2c7878d3d858825a4a7d8b042
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e46f03f03e346dde4c7484a54d46ce2873bc501362af2c2a21eb8a96e003171
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Adesão à Comunidade Europeia
 - CEE
 - Convenção
-- Portugal
 - Direitos Aduaneiros
 - Espanha
-- Adesão à Comunidade Europeia
 - Importação
 - Mercado Interno CE
+- Portugal
 relationships:
 - type: cites
   target: celex:31968R0805
@@ -93,15 +93,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1987/822/oj
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:23Z'
   warnings: []
   errors: []
 ---
@@ -112,19 +112,19 @@ de 3 de Dezembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo, assinado em Bruxelas em 3 de Janeiro de 1989, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo de Cooperação entre a Comunidade Económica Europeia e a República Socialista Federativa da Jugoslávia, assinado em Belgrado em 2 de Abril de 1980, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo, assinado em Bruxelas em 3 de Janeiro de 1989, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo de Cooperação entre a Comunidade Económica Europeia e a República Socialista Federativa da Jugoslávia, assinado em Belgrado em 2 de Abril de 1980, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Assinado em 1 de Abril de 1991.**
+Assinado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Abril de 1991.**
+Referendado em 2 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO AO ACORDO DE COOPERAÇÃO ENTRE A COMUNIDADE ECONÓMICA EUROPEIA E A REPÚBLICA SOCIALISTA FEDERATIVA DA JUGOSLÁVIA NA SEQUÊNCIA DA ADESÃO DO REINO DE ESPANHA E DA REPÚBLICA PORTUGUESA À COMUNIDADE.
 
@@ -144,11 +144,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Jakob Esper Larsen, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Federal da Alemanha;**
+O Presidente da República Federal da Alemanha;
 
 Werner Ungerer, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Constantinos Lyberopoulos, embaixador extraordinário e plenipotenciário;
 
@@ -156,15 +156,15 @@ Sua Majestade o Rei de Espanha:
 
 Carlos Westendorp y Cabeza, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 François Scheer, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 John H. F. Campbell, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Pietro Camalia, embaixador extraordinário e plenipotenciário;
 
@@ -176,7 +176,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 P. C. Nieman, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Leonardo Mathias, embaixador extraordinário e plenipotenciário;
 
@@ -438,7 +438,7 @@ Suprimido em 1 de Janeiro de 1991.
 
 2 - No entanto em relação ao produto seguinte, o elemento fiscal do direito aduaneiro aplicado pela República Portuguesa será eliminado segundo o calendário previsto no n.º 2 do artigo 12.º:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/278a00/62846367.pdf))](https://files.diariodarepublica.pt/1s/1991/12/278a00/62846367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/278a00/62846367.pdf)
 
 3 - No caso de a República Portuguesa utilizar a faculdade de que dispõe nos termos do n.º 3 do artigo 196.º do Acto de Adesão, de substituir o elemento fiscal do direito aduaneiro por uma imposição interna, o elemento eventualmente não coberto pela imposição interna constitui o direito de base a partir do qual a eliminação deve ser efectuada. Este elemento será suprimido nas trocas comerciais com a Jugoslávia segundo o calendário previsto no n.º 2 do artigo 12.º
 
@@ -448,7 +448,7 @@ Suprimido em 1 de Janeiro de 1991.
 
 2 - A República Portuguesa pode submeter o produto seguinte a restrições quantitativas à importação, até 31 de Dezembro de 1992, na condição de aplicar medidas da mesma natureza em relação aos países terceiros não preferenciais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/278a00/62846367.pdf))](https://files.diariodarepublica.pt/1s/1991/12/278a00/62846367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/278a00/62846367.pdf)
 
 O ritmo de aumento progressivo do contingente é de 20% no início de cada ano; o aumento é sempre acrescido ao contingente e o aumento seguinte calculado a partir do número total obtido. Quando se verificar que as importações em Portugal deste produto foram, durante dois anos consecutivos, inferiores a 90% do contingentamento, a importação do produto originário da Jugoslávia será liberalizada a partir do início do ano seguinte a esses dois anos.
 
@@ -564,7 +564,7 @@ Aquando da entrada em vigor do presente Protocolo, são imediatamente aplicávei
 
 O presente Protocolo é redigido em duplo exemplar em línguas alemã, dinamarquesa, espanhola, francesa, grega, inglesa, italiana, neerlandesa, portuguesa e servo-croata, fazendo fé qualquer dos textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/278a00/62846367.pdf))](https://files.diariodarepublica.pt/1s/1991/12/278a00/62846367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/278a00/62846367.pdf)
 
 Declaração do representante da República Federal da Alemanha respeitante à aplicação do Protocolo a Berlim
 

@@ -49,36 +49,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/565-1975-312228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d57549ae9a19fd560bc6ef38d9664984eb113d81dd091410757d588f4f366b37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b82dce0f954f9ca30f0f32b69a979a2205b808ccbcbc14b4b91157a355f7b6fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo
+- Comércio
+- Convenção
+- Lisboa
+- Política Económica
+- Polónia
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:07Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +96,15 @@ de 3 de Outubro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Polónia sobre o Desenvolvimento das Trocas Comerciais, a Navegação e a Cooperação Económica, Industrial e Técnica, assinado em Lisboa em 14 de Maio de 1975, bem como a carta dirigida pelo Ministro do Comércio Externo de Portugal ao Ministro do Comércio Externo da Polónia, relativa ao disposto no artigo II do Acordo em apreço, cujos textos em português vão anexos ao presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Polónia sobre o Desenvolvimento das Trocas Comerciais, a Navegação e a Cooperação Económica, Industrial e Técnica, assinado em Lisboa em 14 de Maio de 1975, bem como a carta dirigida pelo Ministro do Comércio Externo de Portugal ao Ministro do Comércio Externo da Polónia, relativa ao disposto no artigo II do Acordo em apreço, cujos textos em português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Jorge Fernando Branco de Sampaio.
 
-**Assinado em 15 de Setembro de 1975.**
+Assinado em 15 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Polónia sobre o Desenvolvimento das Trocas Comerciais, a Navegação e a Cooperação Económica, Industrial e Técnica.
 
@@ -113,11 +120,11 @@ Convencidos da utilidade que apresenta o estabelecimento de entendimentos a long
 
 Tendo em vista a participação de ambos os países no Acordo Geral sobre Tarifas Aduaneiras e Comércio/GATT, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 A fim de realizar os objectivos do presente Acordo, as Partes Contratantes decidem fazer todos os esforços possíveis - num espírito de igualdade e de benefício mútuo - no sentido de assegurar, tendo em conta os interesses económicos dos dois países, o desenvolvimento harmonioso das suas relações económicas e, em particular, das trocas comerciais, da navegação e da cooperação económica, industrial e técnica, de modo a obter-se a mais completa utilização das possibilidades decorrentes do progresso das economias respectivas.
 
-ARTIGO II
+###### ARTIGO II
 
 A fim de realizar os objectivos do presente Acordo, as Partes Contratantes reafirmam que se concedem nas suas relações comerciais mútuas, com efeito imediato e incondicionalmente, o tratamento de nação mais favorecida, no que respeita aos direitos aduaneiros, taxas, impostos e processos daí decorrentes, bem como às formalidades e regras referentes à importação e à exportação.
 
@@ -127,7 +134,7 @@ Quando da importação de produtos originários e provenientes da Polónia, a Pa
 
 Quando da importação dos produtos originários e provenientes de Portugal, a Parte Polaca concederá o mesmo tratamento que concede aos produtos similares importados de outros países beneficiários do tratamento de nação mais favorecida.
 
-ARTIGO III
+###### ARTIGO III
 
 As disposições do artigo II não serão aplicadas às vantagens:
 
@@ -135,27 +142,27 @@ a) Concedidas, ou que possam vir a sê-lo, no futuro, por uma das Partes Contrat
 
 b) Resultantes de uniões aduaneiras ou zonas de comércio livre concluídas, ou que possam vir a sê-lo, no futuro, por uma das Partes Contratantes.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Contratantes tomarão as iniciativas destinadas a incentivar, apoiar e desenvolver a cooperação económica, industrial e técnica entre as empresas, organizações e instituições dos dois países nos diversos sectores em que esta cooperação ofereça melhores perspectivas e, em particular, na indústria, na agricultura, no comércio, nos transportes e também no progresso técnico.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes apoiarão e facilitarão a celebração de acordos a longo prazo de cooperação em matéria de produção entre empresas de ambos os países, procurando que as trocas resultantes destes acordos beneficiem, na maior medida das vantagens previstas nas legislações respectivas, nomeadamente as respeitantes ao tráfico de aperfeiçoamento, à importação temporária em franquia de direitos, à utilização de portos e zonas francas e à simplificação de formalidades alfandegárias e administrativas.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Partes Contratantes facilitarão a celebração de acordos entre instituições científicas, de investigação e técnicas de ambos os países, visando a especialização de pessoal científico e técnico, o intercâmbio de cientistas, peritos e bolseiros e a realização conjunta de trabalhos de investigação de interesse para os dois países, em particular os resultantes da sua cooperação industrial.
 
-ARTIGO VII
+###### ARTIGO VII
 
 A fim de aproveitar as possibilidades de cooperação entre empresas de ambos os países, as Partes Contratantes apoiarão a realização de fornecimentos comuns a terceiros países e também o estabelecimento de empresas mistas nos territórios destes países.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As Partes Contratantes facilitarão o intercâmbio de licenças, patentes, informação e documentação científica e técnica entre instituições e empresas de ambos os países.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Cada uma das Partes Contratantes:
 
@@ -163,15 +170,15 @@ Encorajará e facilitará as visitas de grupos e delegações tendo em vista a c
 
 Encorajará e facilitará a organização e a participação em feiras, exposições, seminários, simpósios e outras actividades da mesma natureza, nos domínios acima mencionados, a empresas, organizações e instituições do outro país.
 
-ARTIGO X
+###### ARTIGO X
 
 Cada Parte Contratante reconhecerá, em conformidade com a sua regulamentação interna, os certificados sanitários, veterinários, fitopatológicos e as análises qualitativas emitidos pelas instituições competentes da outra Parte.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As Partes Contratantes, nas suas relações mútuas, contribuirão para a liberdade da navegação comercial e abster-se-ão de qualquer actividade que possa dificultar o desenvolvimento normal da navegação internacional.
 
-ARTIGO XII
+###### ARTIGO XII
 
 As Partes Contratantes:
 
@@ -183,17 +190,17 @@ As Partes Contratantes:
 
 As disposições deste artigo não prejudicarão os direitos de navios com bandeira de terceiros países participarem no tráfego entre os portos das Partes Contratantes.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Cada Parte Contratante concederá à outra Parte Contratante o tratamento de nação mais favorecida, em tudo o que se refere ao comércio marítimo. Em especial, os navios, suas tripulações, passageiros e carga de uma Parte Contratante receberão o tratamento de nação mais favorecida nos portos, águas internas e territoriais da outra Parte Contratante.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1. Os documentos relativos à nacionalidade do navio, sua navegabilidade e segurança, bem como os certificados de tonelagem e registo emitidos ou reconhecidos pelas autoridades competentes de cada uma das Partes Contratantes, serão reconhecidos pela outra Parte Contratante.
 
 2. Cada uma das Partes Contratantes adoptará, dentro dos limites da sua lei e regulamentos portuários, todas as medidas apropriadas para facilitar e acelerar o tráfego marítimo, impedir demoras desnecessárias dos navios, acelerar e simplificar, tanto quanto possível, as formalidades alfandegárias, bem como as relativas à liquidação dos custos e fretes devidos nos seus portos pelos navios da outra Parte Contratante.
 
-ARTIGO XV
+###### ARTIGO XV
 
 1. Se um navio de uma das Partes Contratantes naufraga, encalha ou sofre outros danos nas águas territoriais da outra Parte Contratante, as autoridades competentes desta última Parte Contratante concederão aos respectivos passageiros, tripulação, navio e carga a mesma ajuda e assistência que é concedida aos seus navios.
 
@@ -201,15 +208,15 @@ O navio que tenha sofrido um acidente, bem como a sua carga e provisões, não s
 
 2. As disposições deste artigo não prejudicarão quaisquer direitos a remunerações devidas por salvamento, no que respeita a ajuda ou assistência concedida a um navio, seus passageiros, tripulação e carga.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 Os dois Governos, conscientes da importância das condições de financiamento asseguradas às operações comerciais e às operações resultantes da cooperação industrial, consideram que os objectivos do presente Acordo deverão ser tomados em conta nos acordos e contratos que forem celebrados entre instituições financeiras e bancárias de ambos os países.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 Os pagamentos resultantes das operações realizadas no âmbito do presente Acordo serão efectuados em divisas livremente convertíveis, em conformidade com as regulamentações cambiais em vigor em ambos os países.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 1. As Partes Contratantes criam uma comissão mista, que terá por missão velar pela boa execução do presente Acordo. A comissão mista estudará os problemas relativos às trocas comerciais, à navegação e à cooperação económica, industrial e técnica entre os dois países e apresentará aos respectivos Governos propostas de aplicação dos meios apropriados com vista a um considerável incremento das trocas comerciais e ao alargamento da cooperação económica nos restantes domínios mencionados. A comissão mista definirá os sectores concretos da cooperação económica, industrial e técnica.
 
@@ -217,7 +224,7 @@ ARTIGO XVIII
 
 3. As disposições detalhadas relativas às trocas comerciais e à cooperação nos sectores mencionados no presente Acordo constarão de protocolos a estabelecer pela comissão mista.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 1. O presente Acordo é concluído por um período de cinco anos e entrará em vigor na data da troca de notas, declarando a sua aceitação em conformidade com a legislação em vigor em cada um dos dois países.
 

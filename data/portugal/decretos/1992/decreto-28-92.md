@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/28/1992/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1992-516736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 233e4ea93b2a13205de8126744e022c7cfab7b25005aa41fc06a1506acc6faab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ea9e81f20c6030498de4824bba474cb791731629966f4de3db9c6c8e47ab680
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,15 @@ subjects:
 - Segurança Social
 relationships: []
 article_structure:
-  article_count: 27
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 26
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:44Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +90,19 @@ de 4 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção sobre Segurança Social entre a República Portuguesa e a Austrália, assinada em Lisboa em 30 de Abril de 1991, cujo texto original nas línguas portuguesa e inglesa segue em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção sobre Segurança Social entre a República Portuguesa e a Austrália, assinada em Lisboa em 30 de Abril de 1991, cujo texto original nas línguas portuguesa e inglesa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1992. - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - José Albino da Silva Peneda.
 
 Ratificado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENÇÃO SOBRE SEGURANÇA SOCIAL ENTRE A REPÚBLICA PORTUGUESA E A AUSTRÁLIA
 
@@ -114,7 +114,7 @@ Decididos a coordenar os respectivos sistemas de segurança social;
 
 acordaram no seguinte:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Definições
 
@@ -234,7 +234,7 @@ Logo que um nacional australiano seja considerado como residente em Portugal tem
 
 4 - Salvo disposição em contrário na presente Convenção, as prestações de desemprego e de doença nos termos da legislação australiana não são pagas fora do território da Austrália e as prestações de doença e maternidade e de desemprego nos termos da legislação portuguesa bem como as pensões portuguesas mencionadas no n.º 1, alínea b), subalínea iii), do artigo 2.º não são pagas fora do território de Portugal.
 
-# PARTE II — Disposições sobre a legislação aplicável
+## PARTE II — Disposições sobre a legislação aplicável
 
 ###### Artigo 7.º — Legislação aplicável
 
@@ -250,7 +250,7 @@ b) Legislação australiana, se forem residentes australianos.
 
 As autoridades competentes decidem em conformidade com a legislação dos respectivos países sobre a legislação a aplicar no melhor interesse de uma pessoa.
 
-# PARTE III — Disposições relativas a prestações
+## PARTE III — Disposições relativas a prestações
 
 #### SECÇÃO 1 — Prestações australianas
 
@@ -380,7 +380,7 @@ e, para efeito de reciprocidade relativamente à presente Convenção, é consid
 
 2 - Para efeito da determinação da taxa de incapacidade permanente devida a acidentes de trabalho ou doenças profissionais ao abrigo da legislação portuguesa, os acidentes de trabalho ou doenças profissionais pelos quais tenha sido conferido a uma pessoa o direito a uma prestação nos termos da legislação australiana são considerados como se tivessem ocorrido ao abrigo da legislação portuguesa.
 
-# PARTE IV — Disposições diversas
+## PARTE IV — Disposições diversas
 
 ###### Artigo 19.º — Apresentação de documentos
 
@@ -490,7 +490,7 @@ As autoridades competentes das Partes devem adoptar quaisquer acordos administra
 
 Sempre que uma Parte solicite à outra Parte uma reunião para efeito de revisão da presente Convenção, as Partes reunir-se-ão para esse efeito o mais tardar seis meses após o pedido e, a não ser que as Partes acordem de outro modo, essa reunião realizar-se-á no território da Parte a quem foi apresentado o pedido.
 
-# PARTE V — Disposições finais
+## PARTE V — Disposições finais
 
 ###### Artigo 26.º — Entrada em vigor e termo
 

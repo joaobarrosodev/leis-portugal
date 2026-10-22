@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/2014/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-2014-571037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8c3a868b880734517d240b16a4940fe14b5c74730c5e5abacf3ee494cf7de04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 984d1bd65f74e75204349921907401a38760b6d502acd9de38a6fb0663396259
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alenquer
+- ÁREA NON Aedificandi
 - Centro de Formação Militar e Técnica da Força Aérea
-- Formação Profissional
 - Chefe do Estado Maior da Força Aérea
-- Força Aérea
 - Definição de Competências
 - Fiscalização
+- Força Aérea
+- Formação Profissional
 - Instalação Militar
-- OTA
-- Zona de Proteção
 - Ministro da Defesa Nacional
+- OTA
 - Servidão Militar
-- ÁREA NON Aedificandi
-relationships: []
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:24Z'
   warnings: []
   errors: []
 ---
@@ -336,22 +348,22 @@ O presente decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de dezembro de 2013. - Paulo Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Jorge Manuel Lopes Moreira da Silva.
 
-**Assinado em 10 de janeiro de 2014.**
+Assinado em 10 de janeiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de janeiro de 2014.**
+Referendado em 15 de janeiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
 Planta das zonas de proteção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01400/0044900453.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01400/0044900453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01400/0044900453.pdf)
 
 Planta das zonas da superfície de desobstrução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01400/0044900453.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01400/0044900453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01400/0044900453.pdf)

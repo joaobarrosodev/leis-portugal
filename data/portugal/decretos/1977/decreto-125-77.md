@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/22200/23302338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/125-1977-278224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6d56057082ff350fc076656898f25bade5ff88a06c0e9a4603996d6ecdbdf6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e6908b277a843a2df1df26ee3d70d07a73281b370a9f148aca554e944c4ccc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Inspeção Geral de Finanças
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:461851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383828:por
+  label: "Aumentados lugares ao quadro de pessoal publicado em anexo, pela PORT.260/79.05.06.1979.PCM, DR.IS [129] de 05.06.1979\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/260-1979-383828
+  date: '1979-06-05'
+- type: amended_by
+  target: pt:dre:382021:por
+  label: "Alargado o quadro de pessoal aprovado pelo presente diploma, pela PORT.353/79.19.07.1979.PCM, DR.IS [165] de 19.07.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-1979-382021
+  date: '1979-07-19'
+- type: cites
+  target: pt:dre:344176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:147386:por
+  label: "Revogado pelo DEC LEI.513-Z/79.27.12.1979.MF, DR.IS [297]Supl de 27.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-z-1979-147386
+  date: '1979-12-27'
 article_structure:
   article_count: 58
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:38Z'
   warnings: []
   errors: []
 ---
@@ -592,14 +622,14 @@ Na satisfação dos encargos resultantes da execução deste diploma serão util
 
 Mário Soares - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 3 de Setembro de 1977.**
+Promulgado em 3 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o n.º 1 do artigo 20.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/22200/23302338.pdf))](https://files.diariodarepublica.pt/1s/1977/09/22200/23302338.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/22200/23302338.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

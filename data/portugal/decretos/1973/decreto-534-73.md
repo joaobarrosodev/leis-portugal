@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/534-1973-412380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 468c8ca6667425f359da845264a58a5f5cb1fdf343113aaa4aa9381cd7d85aef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8054afab0e62fd89a9389158895bbdf3aff03bf86485c79876f9d4014ff36800
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:432584:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:303113:por
+  label: "Rectificados os mapas B e C anexos ao presente diploma, pela RECT.DD288.08.01.1974.PC, DG.IS [6] de 08.01.1974\0\
+    \0"
+  source: null
+  date: '1974-01-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:19Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +107,9 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Nos quadros privativos e de pessoal assalariado dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique são criadas as designações funcionais e correspondentes categorias constantes do mapa A anexo ao presente decreto.
+Artigo 1.º Nos quadros privativos e de pessoal assalariado dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique são criadas as designações funcionais e correspondentes categorias constantes do mapa A anexo ao presente decreto.
 
-###### Art. 2.º - 1. Nos quadros referidos no artigo anterior são extintas as designações funcionais que constam do mapa B anexo a este decreto.
+Art. 2.º - 1. Nos quadros referidos no artigo anterior são extintas as designações funcionais que constam do mapa B anexo a este decreto.
 
 2. Ficarão extintas, à medida que forem vagando os respectivos lugares, as seguintes designações funcionais:
 
@@ -121,15 +131,15 @@ Radiotelegrafista de 1.ª classe;
 
 Radiotelegrafista de 2.ª classe.
 
-###### Art. 3.º Às designações funcionais dos quadros referidos nos artigos anteriores, que constam do mapa C anexo a este decreto, são atribuídas as novas categorias nele mencionadas.
+Art. 3.º Às designações funcionais dos quadros referidos nos artigos anteriores, que constam do mapa C anexo a este decreto, são atribuídas as novas categorias nele mencionadas.
 
-###### Art. 4.º - 1. O Governador-Geral de Moçambique distribuirá, por despachos, o pessoal que actualmente ocupa os lugares cujas designações foram extintas ou alteradas nos lugares que forem considerados correspondentes nas novas designações.
+Art. 4.º - 1. O Governador-Geral de Moçambique distribuirá, por despachos, o pessoal que actualmente ocupa os lugares cujas designações foram extintas ou alteradas nos lugares que forem considerados correspondentes nas novas designações.
 
 2. Os despachos a que se refere o número anterior serão simplesmente anotados pelo Tribunal Administrativo e os agentes por eles abrangidos entrarão nas novas funções nas datas da publicação daqueles despachos no Boletim Oficial.
 
 3. Os agentes que na data da entrada em vigor deste decreto tenham o tempo de serviço previsto na classe para mudarem de designação e categoria ou apenas de categoria ingressarão na nova situação se tiverem boas informações anuais, pelo menos, nos últimos três anos.
 
-###### Art. 5.º Do mapa III anexo ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, são abolidas as seguintes gratificações:
+Art. 5.º Do mapa III anexo ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, são abolidas as seguintes gratificações:
 
 Inspector de contabilidade e fiscalização - quando exercendo as funções de chefe de repartição ou secção ... 300$00
 
@@ -141,27 +151,27 @@ Maquinista de guindastes de 1.ª classe ... 250$00
 
 Mecânicos electricistas de 1.ª classe - quando prestando serviço nas secções de sinalização eléctrica e rádio dos caminhos de ferro ou de rádio e instrumentos dos transportes aéreos ... 300$00
 
-###### Art. 6.º O § único do artigo 5.º e o artigo 7.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, quando aplicados ao Estado Português de Moçambique, passam a ter as seguintes redacções:
+Art. 6.º O § único do artigo 5.º e o artigo 7.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, quando aplicados ao Estado Português de Moçambique, passam a ter as seguintes redacções:
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 § único. Não estão sujeitos ao desconto para compensação de aposentação os abonos indicados nas alíneas a) a h), j) e k) deste artigo.
 
-###### Art. 7.º Como incentivo à redução dos custos das unidades de trabalho e ao aumento do rendimento da exploração em geral, é mantido o direito ao abono de prémios de economia e de rendimento, mediante percentagens e regras a fixar pelo conselho de administração dos Serviços de Portos, Caminhos de Ferro e Transportes com base na economia e rendimentos realizados e incidindo sobre os vencimentos dos intervenientes.
+Art. 7.º Como incentivo à redução dos custos das unidades de trabalho e ao aumento do rendimento da exploração em geral, é mantido o direito ao abono de prémios de economia e de rendimento, mediante percentagens e regras a fixar pelo conselho de administração dos Serviços de Portos, Caminhos de Ferro e Transportes com base na economia e rendimentos realizados e incidindo sobre os vencimentos dos intervenientes.
 
-###### Art. 7.º No Estado Português de Moçambique deixa de ter aplicação o artigo 6.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959.
+Art. 7.º No Estado Português de Moçambique deixa de ter aplicação o artigo 6.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959.
 
-###### Art. 8.º - 1. A execução das disposições do presente decreto terá lugar por fases, de harmonia com as necessidades dos Serviços e as suas possibilidades financeiras.
+Art. 8.º - 1. A execução das disposições do presente decreto terá lugar por fases, de harmonia com as necessidades dos Serviços e as suas possibilidades financeiras.
 
 2. O conselho de administração dos Serviços de Portos, Caminhos de Ferro e Transportes fará o reajustamento das percentagens dos prémios de economia e de rendimento à medida que der execução ao preconizado no número anterior.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Outubro de 1973.**
+Promulgado em 11 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - J. da Silva Cunha.
 
@@ -169,7 +179,7 @@ MAPA A
 
 (A que se refere o artigo 1.º do Decreto n.º 534/73)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24400/18671871.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24400/18671871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24400/18671871.pdf)
 
 MAPA B
 
@@ -391,6 +401,6 @@ MAPA C
 
 (A que se refere o artigo 3.º do Decreto n.º 534/73)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24400/18671871.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24400/18671871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24400/18671871.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

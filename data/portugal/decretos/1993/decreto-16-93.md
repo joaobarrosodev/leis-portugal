@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/16/1993/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-1993-275640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 103a9219996f0c5720313afa7721a782be9255263ab505e3c5913bbd7396f478
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb88f024629a7ee96875ac8a84e9bcb9d88bfcd65d0401828769e54a0347ac34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Lisboa
 - ÁREA Crítica de Recuperação e Reconversão Urbanística
-- Loures
 - Exposição Internacional de Lisboa de 1998
+- Lisboa
+- Loures
 - ZONA Degradada
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:19Z'
   warnings: []
   errors: []
 ---
@@ -103,22 +107,22 @@ Assim:
 
 Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, que dele faz parte integrante, situada na zona oriental da cidade de Lisboa e no município de Loures.
+Artigo 1.º É declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, que dele faz parte integrante, situada na zona oriental da cidade de Lisboa e no município de Loures.
 
-###### Art. 2.º Compete à Administração, através da Sociedade Parque EXPO, S. A., promover as acções e o processo de recuperação e reconversão urbanística da área referida no artigo anterior.
+Art. 2.º Compete à Administração, através da Sociedade Parque EXPO, S. A., promover as acções e o processo de recuperação e reconversão urbanística da área referida no artigo anterior.
 
 Presidência do Conselho de Ministros, 29 de Março de 1993.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Assinado em 26 de Abril de 1993.**
+Assinado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/111b00/25242524.pdf))](https://files.diariodarepublica.pt/1s/1993/05/111b00/25242524.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/111b00/25242524.pdf)

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 303/1976, 4º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2900-(89) a 2900-(91)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30304/00890091.pdf
 entry_into_force_dates: []
@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/947-1976-390845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f23178c715763ec504b4f74f83c6fa3a380f1fff8823cf3113c529b6ead7215b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bae360d79adef5185f20708e4469cda8c042f886a77db4f6f69840d195e5573
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ANO Económico
+- Delegação
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:12Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +98,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
@@ -123,7 +132,7 @@ Ministério do Trabalho
 
 Encargos dos anos de 1972 a 1975, referentes a conservação e aproveitamento de bens, locação de bens, publicidade e propaganda, consumos de secretaria, equipamento de secretaria, comunicações, remunerações diversas - em numerário, gratificações variáveis ou eventuais e deslocações, pertencentes aos Gabinetes do Ministro e do Secretário de Estado do Trabalho, Secretaria-Geral, Direcções-Gerais do Trabalho, do Emprego e das Relações Colectivas do Trabalho, Inspecção-Geral do Trabalho e Direcção de Serviços de Formação Profissional e Administrativos ... 4405812$40
 
-###### Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
+Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
 
 Ministério das Obras Públicas
 
@@ -133,7 +142,7 @@ Ex-Ministério da Cooperação
 
 Despesas do ano de 1975, referentes a vencimentos, abono de família, subsídio de Natal, pensões de aposentação e assistência médica e medicamentosa, a pagar pela Direcção-Geral de Fazenda em conta da verba inscrita no capítulo 16.º, artigo 132.º, n.º 1, consignada a «Despesas com a descolonização ...» ... 18528005$50
 
-###### Art. 3.º Ficam também autorizados a satisfazer as quantias seguidamente indicadas, pelas verbas de despesas de anos findos dos seus actuais orçamentos privativos, os seguintes serviços:
+Art. 3.º Ficam também autorizados a satisfazer as quantias seguidamente indicadas, pelas verbas de despesas de anos findos dos seus actuais orçamentos privativos, os seguintes serviços:
 
 Junta Autónoma dos Portos de Barlavento do Algarve
 
@@ -169,8 +178,8 @@ Encargo dos anos de 1974 e 1975, relativo a vencimentos ... 58200$00
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 31 de Dezembro de 1976.**
+Promulgado em 31 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

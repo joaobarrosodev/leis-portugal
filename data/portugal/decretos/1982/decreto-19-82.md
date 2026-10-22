@@ -46,36 +46,37 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-1982-600922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:59:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6e94d6651829a718a135206fea7243ed114abb87677295e3a06c1137ae04f08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03bd67eab7f24691eca54bb0966959007aca0308af962e85a7d2e9ebb0ccbf8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:59:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comutação da Pena
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:59:53Z'
   warnings: []
   errors: []
 ---
@@ -84,12 +85,12 @@ validation:
 
 de 26 de Janeiro
 
-**O Presidente da República decreta, nos termos do artigo 137.º, n.º 1, alínea e), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 137.º, n.º 1, alínea e), da Constituição, o seguinte:
 
 É comutada a pena de suspensão dos direitos políticos por 4 anos imposta a José António Barroso por Acórdão do Tribunal Militar Territorial de Coimbra de 18 de Julho de 1978 (processo n.º 34/78), que é reduzida para a pena de 3 anos e 6 meses de suspensão dos direitos políticos.
 
-**Assinado em 22 de Dezembro de 1981.**
+Assinado em 22 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

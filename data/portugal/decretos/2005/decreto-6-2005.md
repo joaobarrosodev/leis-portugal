@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/2005/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-2005-606307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f737ec77120bb9b66cbce6789fa1a75548262925c2849ed970a90ea0efee422e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec9b11a6e0fe58746d5fd4db68e4c62505511b3766f9c18b92704bea175a026b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Alimentar
-- Luta contra a Pobreza
+- Argentina
 - Austrália
-- EUA
+- Canadá
 - CE Países
 - Convenção
+- EUA
+- Londres
+- Luta contra a Pobreza
+- Noruega
 - Portugal
 - União Europeia
-- Noruega
-- Londres
-- Argentina
-- Canadá
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:18Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António Victor Martins Monteiro - Carlos Henrique da Costa Neves.
 
-**Assinado em 7 de Janeiro de 2005.**
+Assinado em 7 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Janeiro de 2005.**
+Referendado em 11 de Janeiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 FOOD AID CONVENTION, 1999
 
@@ -250,7 +250,7 @@ d) Whether its commitment is expressed in tonnage, in value, or in a combination
 
 e) Subject to the provisions of article VI, the commitment of each member shall be:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)
 
 f) Transport and other operational costs, when counted towards a member's commitment, must be incurred as part of a food aid operation which is also eligible to be counted towards a member's commitment.
 
@@ -848,7 +848,7 @@ d) Que leur engagement soit exprimé en tonnage, en valeur ou en une combinaison
 
 e) Sous réserve des dispositions de l'article VI, l'engagement de chaque membre sera le suivant:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)
 
 f) Les coûts de transport et autres coûts opérationnels, lorsqu'ils sont pris en compte dans l'engagement d'un membre, doivent être encourus dans le cadre d'une opération d'aide alimentaire elle-même autorisée à être prise en compte dans l'engagement d'un membre.
 
@@ -1326,7 +1326,9 @@ Desejosos de melhorar a eficácia e a qualidade da ajuda alimentar enquanto inst
 
 acordaram no seguinte:
 
-# PARTE I — Objectivos e definições
+PARTE I
+
+Objectivos e definições
 
 Artigo I
 
@@ -1416,7 +1418,9 @@ b) Qualquer referência, na presente Convenção, a um «governo», «governos»
 
 c) Qualquer referência, na presente Convenção, a um «governo» ou «membro», deve ser entendida, se for caso disso, como incluindo qualquer território aduaneiro autónomo, na acepção do Acordo Geral sobre Pautas Aduaneiras e Comércio ou do Acordo que institui a Organização Mundial do Comércio.
 
-# PARTE II — Contribuições e necessidades
+PARTE II
+
+Contribuições e necessidades
 
 Artigo III
 
@@ -1432,7 +1436,7 @@ d) Quer o respectivo compromisso seja expresso em toneladas ou valor quer numa c
 
 e) Sem prejuízo do disposto no artigo VI, o compromisso de cada membro deve ser:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)](https://files.diariodarepublica.pt/1s/2005/02/037a00/14541493.pdf)
 
 f) Os custos de transporte e outros custos operacionais, quando contabilizados no compromisso de um membro, devem corresponder a uma parte de uma operação de ajuda alimentar que seja igualmente elegível para contabilização no compromisso de um membro.
 
@@ -1662,7 +1666,9 @@ d) Os membros devem proceder ao intercâmbio de informações sobre as suas pol�
 
 e) Os membros devem indicar ao Comité, antecipadamente, o montante do seu compromisso que não é efectuado sob a forma de donativos e os termos dessa ajuda.
 
-# PARTE III — Disposições administrativas
+PARTE III
+
+Disposições administrativas
 
 Artigo XV
 
@@ -1746,13 +1752,15 @@ a) Em caso de divergências relativas à interpretação ou à aplicação da pr
 
 b) Os membros acordam em tomar em consideração as recomendações e conclusões alcançadas por consenso pelo Comité em casos de divergência quanto à aplicação das disposições da presente Convenção.
 
-# PARTE IV — Disposições finais
+PARTE IV
+
+Disposições finais
 
 Artigo XXI
 
 Depositário
 
-**O Secretário-Geral da Organização das Nações Unidas é designado depositário da presente Convenção.**
+O Secretário-Geral da Organização das Nações Unidas é designado depositário da presente Convenção.
 
 Artigo XXII
 
@@ -1818,7 +1826,9 @@ Os textos da presente Convenção nas línguas inglesa, francesa, russa e espanh
 
 Feito em Londres em 13 de Abril de 1999.
 
-## ANEXO A — Custos de transporte e outros custos operacionais
+ANEXO A
+
+Custos de transporte e outros custos operacionais
 
 Os seguintes custos de custos de transporte e outros custos operacionais relacionados com as contribuições de ajuda alimentar estão incluídos na alínea a), subalínea vii), do artigo II e nos artigos III, X e XIV da presente Convenção:
 
@@ -1866,7 +1876,9 @@ Registo dos beneficiários;
 
 Serviços técnicos no interior do país.
 
-## ANEXO B — Beneficiários elegíveis
+ANEXO B
+
+Beneficiários elegíveis
 
 Os beneficiários elegíveis para ajuda alimentar ao abrigo do artigo VII da presente Convenção são os países e territórios em desenvolvimento incluídos na lista dos beneficiários da ajuda do Comité de Ajuda ao Desenvolvimento (CAD) da OCDE, em vigor desde 1 de Janeiro de 1997, e os países incluídos na lista da OCM de países em desenvolvimento que são importadores líquidos de alimentos, em vigor desde 1 de Março de 1999:
 

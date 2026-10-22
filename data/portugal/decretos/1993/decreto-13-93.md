@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/13/1993/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-1993-689623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ab1a43d4f43613ff56cf9cc4a1c97d3b9d7beb929f508e8b8550a649be2eea7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79b8fac87cc59ca23e8e538ae3d21a890b585408b5d92bbd92119238ae710bfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Animal Doméstico
-- Proteção dos Animais
 - Convenção
-- Portugal
 - Estrasburgo
+- Portugal
+- Proteção dos Animais
 relationships:
 - type: amended_by
   target: pt:dre:432864:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 24
+  article_count: 23
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:15Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ de 13 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - É aprovada, para ratificação, a Convenção Europeia para a Protecção dos Animais de Companhia, aberta à assinatura dos Estados membros do Conselho da Europa em 13 de Novembro de 1987, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. - 1 - É aprovada, para ratificação, a Convenção Europeia para a Protecção dos Animais de Companhia, aberta à assinatura dos Estados membros do Conselho da Europa em 13 de Novembro de 1987, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 2 - Nos termos do disposto no n.º 1 do artigo 21.º da Convenção, declara-se a não aceitação da alínea a) do n.º 1 do artigo 10.º da Convenção.
 
@@ -103,13 +103,13 @@ Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1992. - Aníbal An
 
 Ratificado em 16 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1993.**
+Referendado em 18 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION EUROPÉENNE POUR LA PROTECTION DES ANIMAUX DE COMPAGNIE
 
@@ -761,7 +761,7 @@ A presente Convenção está aberta à assinatura dos Estados membros do Conselh
 
 ###### Artigo 23.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer Estado que tenha aderido à presente Convenção ou que tenha sido convidado a fazê-lo:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer Estado que tenha aderido à presente Convenção ou que tenha sido convidado a fazê-lo:
 
 a) De qualquer assinatura;
 

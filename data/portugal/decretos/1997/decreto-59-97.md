@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/59/1997/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/59-1997-674576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37b8251a5877318118d5c3d18d388215cc18734214353471d8cecc6b873fd52f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf3709228a7e09fe8776f0be34abf97892ad37c2aa473b8d1ab39244287b9ad1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Avião
-- Investigação Científica e Tecnológica
 - Convenção
-- Portugal
+- Diversidade Biológica
+- Embarcação
 - Erupção Vulcânica
+- Investigação Científica e Tecnológica
 - Meio Marinho
-- Resíduo
 - Oceano Atlântico
 - Paris
-- Proteção do Ambiente
-- Diversidade Biológica
 - Poluição Marinha
 - Poluição pelos Navios
 - Poluição Transfronteiriça
+- Portugal
+- Proteção do Ambiente
+- Resíduo
 relationships:
 - type: amended_by
   target: pt:dre:168196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168196:por
+  label: "Aprovadas as emendas constituídas pelo anexo V e pelo apêndice n.º 3 à Convenção para a Protecção do Meio Marinho\
+    \ do Atlântico Nordeste aprovada para ratificação pelo presente diploma, adoptadas em 23 de Julho de 1998, em Sintra,\
+    \ pelo DEC.7/2006.09.01.2006.MNE, DR.IS-A [6] de 09.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/7-2006-168196
+  date: '2006-01-09'
 article_structure:
   article_count: 61
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:24Z'
   warnings: []
   errors: []
 ---
@@ -114,13 +121,13 @@ Visto e aprovado em Conselho de Ministros de 21 de Agosto de 1997. - António Ma
 
 Ratificado em 6 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Outubro de 1997.**
+Referendado em 9 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONVENTION FOR THE PROTECTION OF THE MARINE ENVIRONMENT OF THE NORTH-EAST ATLANTIC
 
@@ -1836,7 +1843,7 @@ c) Obter, sempre que necessário, os conselhos e os serviços de organizações 
 
 d) Colaborar com outras organizações regionais e outras organizações internacionais competentes na realização das avaliações do estado da qualidade.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Critérios de definição das práticas e técnicas referidas no parágrafo 3, b), i), do artigo 2.º da Convenção
 
@@ -1904,7 +1911,7 @@ g) Às consequências económicas e sociais.
 
 9 - Se a redução das contribuições resultante do recurso à melhor prática ambiental não conduzir a resultados aceitáveis no que respeita ao meio ambiente, deverão ser aplicadas medidas complementares e a melhor prática ambiental deverá ser redefinida.
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Critérios referidos no parágrafo 2 do artigo 1.º do anexo I e no parágrafo 2 do artigo 2.º do anexo III
 

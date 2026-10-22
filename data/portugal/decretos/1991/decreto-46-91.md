@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/46/1991/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46-1991-668078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4028f5cfd0ec7a4113c02aa8334b7c4905807f666d7f28e8795c7ca8cc82b112
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95f0f7860a5bc64499cce1078b894f83b2b2de591f7049fe5446b03df62e1b4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,37 @@ subjects:
 - Servidão Aeronáutica
 - Servidão Militar
 - VILA do Bispo
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:06Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +117,15 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com os radiofaróis VOR/DME de Sagres, instalados em Torre de Aspas, município de Vila do Bispo, indicados na planta anexa ao presente diploma e que dele faz parte integrante.
+Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com os radiofaróis VOR/DME de Sagres, instalados em Torre de Aspas, município de Vila do Bispo, indicados na planta anexa ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º A área sujeita a servidão é constituída pelas seguintes zonas:
+Art. 2.º A área sujeita a servidão é constituída pelas seguintes zonas:
 
 a) Zona primária - terrenos situados no interior de uma circunferência com 300 m de raio com centro no VOR/DME, definido pelas seguintes coordenadas rectangulares: M = - 72318, 6 e P = - 286580,6 referidas ao ponto central (Melriça);
 
 b) Zona secundária - terrenos confinantes com a zona primária e delimitados exteriormente por uma circunferência de 2000 m de raio e com centro no VOR/DME.
 
-###### Art. 3.º Os terrenos compreendidos nas zonas definidas no artigo anterior ficam sujeitos a servidão, nos termos do artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Junho de 1955, e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de licença prévia da Direcção-Geral da Aviação Civil (DGAC) a execução dos trabalhos e actividades seguintes:
+Art. 3.º Os terrenos compreendidos nas zonas definidas no artigo anterior ficam sujeitos a servidão, nos termos do artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Junho de 1955, e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de licença prévia da Direcção-Geral da Aviação Civil (DGAC) a execução dos trabalhos e actividades seguintes:
 
 a) Na zona primária e na zona secundária carece de licença prévia da DGAC a execução dos seguintes trabalhos e actividades:
 
@@ -131,11 +151,11 @@ c) A inclinação da superfície limitativa de obstáculos referida na alínea a
 
 d) Para os efeitos do disposto na alínea anterior, consideram-se obstáculos metálicos, entre outros, as linhas aéreas de transporte de energia eléctrica, agregados de mais de quatro linhas telefónicas aéreas (oito fios), hangares, armazéns e pavilhões de grande vão com estrutura ou cobertura metálicas, torres para antena, vedações com rede metálica de comprimento superior a 20 m, grandes depósitos de sucata ou de materiais metálicos.
 
-###### Art. 4.º - 1 - Compete à Direcção-Geral de Aviação Civil (DGAC) o licenciamento dos trabalhos ou actividades nas zonas sujeitas a servidão, ouvida a empresa pública Aeroportos e Navegação Aérea - ANA, E. P., bem como ordenar a demolição de obras e construções nos casos previstos na lei e aplicar administrativamente as coimas pelas infracções verificadas.
+Art. 4.º - 1 - Compete à Direcção-Geral de Aviação Civil (DGAC) o licenciamento dos trabalhos ou actividades nas zonas sujeitas a servidão, ouvida a empresa pública Aeroportos e Navegação Aérea - ANA, E. P., bem como ordenar a demolição de obras e construções nos casos previstos na lei e aplicar administrativamente as coimas pelas infracções verificadas.
 
 2 - Para execução das suas decidões pode a DGAC solicitar a intervenção das forças policiais.
 
-###### Art. 5.º - 1 - As licenças previstas no presente diploma são requeridas ao director-geral da Aviação Civil, nos termos do disposto no n.º 3 do artigo 9.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril, por intermédio da câmara municipal respectiva, sendo os processos instruídos conforme o indicado no artigo 8.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
+Art. 5.º - 1 - As licenças previstas no presente diploma são requeridas ao director-geral da Aviação Civil, nos termos do disposto no n.º 3 do artigo 9.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril, por intermédio da câmara municipal respectiva, sendo os processos instruídos conforme o indicado no artigo 8.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
 
 2 - O requerimento dirigido ao director-geral da Aviação Civil deve indicar no seu texto ou em memória anexa:
 
@@ -157,20 +177,20 @@ c) Volumetria na escala 1:200 (conjunto de plantas dos pisos e cobertura, alçad
 
 6 - Os processos a submeter à apreciação da DGAC têm de ser apresentados em triplicado.
 
-###### Art. 6.º A fiscalização dos trabalhos e actividades nas zonas sujeitas a servidão é da competência da DGAC, da empresa pública Aeroportos e Navegação Aérea - ANA, E. P., e da Câmara Municipal de Vila do Bispo.
+Art. 6.º A fiscalização dos trabalhos e actividades nas zonas sujeitas a servidão é da competência da DGAC, da empresa pública Aeroportos e Navegação Aérea - ANA, E. P., e da Câmara Municipal de Vila do Bispo.
 
 Presidência do Conselho de Ministros, 29 de Abril de 1991.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Francisco Valente de Oliveira - Manuel Pereira - Joaquim Martins Ferreira do Amaral.
 
-**Assinado em 7 de Junho de 1991.**
+Assinado em 7 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1991.**
+Referendado em 12 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/155b00/34963497.pdf))](https://files.diariodarepublica.pt/1s/1991/07/155b00/34963497.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/155b00/34963497.pdf)

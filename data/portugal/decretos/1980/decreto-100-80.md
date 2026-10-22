@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23400/32443255.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/100-1980-462206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b746040c569542ea1e7b01c93aedca2c867b4db352c7bf489fb70ef0496338c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f8b5adebb5c9458d87be1e295eeb11efc7c2c9e0e573216cff9d254efbddff3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência de Emprego
+- Convenção
+- OIT
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:400179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:400179:por
+  label: "Revogado pelo DEC.68/84.17.10.1984.MNE, DR.IS [241] de 17.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/68-1984-400179
+  date: '1984-10-17'
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:13Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +100,15 @@ de 9 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação, com aceitação da sua parte II, a Convenção n.º 96, relativa às agências de colocação não gratuitas, adoptada pela Conferência Internacional do Trabalho na sua 32.ª sessão, cujos textos em inglês e francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada para ratificação, com aceitação da sua parte II, a Convenção n.º 96, relativa às agências de colocação não gratuitas, adoptada pela Conferência Internacional do Trabalho na sua 32.ª sessão, cujos textos em inglês e francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Assinado em 23 de Setembro de 1980.**
+Assinado em 23 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention 96
 
@@ -585,7 +594,7 @@ Considerando que esse serviço deve estar ao alcance de todas as categorias de t
 
 adopta, no primeiro dia do mês de Julho de 1949, a seguinte convenção, que será denominada Convenção sobre as Agências de Colocação não Gratuitas (revista), 1949:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### ARTIGO 1.º
 
@@ -603,7 +612,7 @@ b) As agências de colocação com fins não lucrativos, isto é, os serviços d
 
 2 - Todo e qualquer Membro que aceitar as disposições da parte III da Convenção pode ulteriormente notificar o director-geral que aceita as disposições da parte II; a partir da data do registo dessa notificação pelo director-geral, as disposições da parte III da Convenção deixarão de ter efeito para esse Membro, ao qual passarão a ser aplicáveis as disposições da parte II.
 
-# PARTE II
+## PARTE II
 
 Supressão progressiva das agências de colocação não gratuitas com fins lucrativos e regulamentação das outras agências de colocação.
 
@@ -663,7 +672,7 @@ Prescrever-se-ão sanções penais apropriadas, incluindo a apreensão, se tal s
 
 Os relatórios anuais previstos pelo artigo 22.º da Constituição da Organização Internacional do Trabalho darão todas as informações necessárias sobre as derrogações permitidas em virtude do artigo 5.º e mais particularmente informações sobre o número de agências que beneficiam de derrogações e da amplitude das suas actividades, as razões que motivam as derrogações e as medidas adoptadas pela autoridade competen e para controlar a actividade dessas agências.
 
-# PARTE III — Regulamentação das agências de colocação não gratuitas
+## PARTE III — Regulamentação das agências de colocação não gratuitas
 
 ###### ARTIGO 10.º
 
@@ -699,7 +708,7 @@ Prescrever-se-ão sanções penais apropriadas, incluindo a apreensão, se tal s
 
 Os relatórios anuais previstos pelo artigo 22.º da Constituição da Organização Internacional do Trabalho darão todas as informações necessárias sobre as medidas tomadas pela autoridade competente para controlar as operações das agências de colocação não gratuitas, incluindo, em particular, as agências com fins lucrativos.
 
-# PARTE IV — Disposições diversas
+## PARTE IV — Disposições diversas
 
 ###### ARTIGO 15.º
 
@@ -709,7 +718,7 @@ Os relatórios anuais previstos pelo artigo 22.º da Constituição da Organiza�
 
 3 - Todo e qualquer Membro que recorrer às disposições do presente artigo deve indicar, nos seus relatórios anuais ulteriores, as regiões para as quais renuncia ao direito de recorrer às ditas disposições.
 
-# PARTE V — Disposições finais
+## PARTE V — Disposições finais
 
 ###### ARTIGO 16.º
 

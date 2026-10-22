@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 280/1974, 1º Suplemento, Série I de 1974-12-02
   number: '280'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1488-(2) a 1488-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/28001/00020024.pdf
 entry_into_force_dates: []
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/687-1974-242060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfed669d0361418c8ee614081bd13fbf9887520090268e55f1cbe124c2bad5bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffe4795df54cbb2aaef29d167a8826619afd414d21ad14d2e38467a11fe455df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acordo Internacional
+- Açúcar
+- Conselho Internacional do Açúcar
+- Convenção
+- Genebra
+relationships:
+- type: amended_by
+  target: pt:dre:161109:por
+  label: Tornado público que foi introduzida uma correcção no anexo A do Acordo pelo(a) Aviso - Diário do Governo n.º 65/1975,
+    Série I de 1975-03-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1975-161109
+  date: '1975-03-18'
+- type: corrected_by
+  target: pt:dre:373823:por
+  label: Retificado o presente diploma, pelo(a) Declaração - Diário do Governo n.º 295/1974, 1º Suplemento, Série I de 1974-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-373823
+  date: '1974-12-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:58Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +102,15 @@ de 2 de Dezembro
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo Internacional do Açúcar, 1973, concluído na Conferência das Nações Unidas sobre o Açúcar, realizada em Genebra de 9 de Setembro a 13 de Outubro de 1973, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo Internacional do Açúcar, 1973, concluído na Conferência das Nações Unidas sobre o Açúcar, realizada em Genebra de 9 de Setembro a 13 de Outubro de 1973, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar - Mário Soares.
 
-**Promulgado em 26 de Novembro de 1974.**
+Promulgado em 26 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACCORD INTERNATIONAL SUR LE SUCRE, 1973
 
@@ -1376,7 +1392,7 @@ Se o Conselho verificar que um Membro não está cumprindo com as obrigações i
 
 ###### ARTIGO 44.º — Notificação pelo secretário-geral da Organização das Nações Unidas
 
-**O secretário-geral da Organização das Nações Unidas notificará todos os Estados Membros da Organização das Nações Unidas, membros de qualquer das suas agências especializadas ou membros da Agência Internacional de Energia Atómica de qualquer assinatura, de qualquer depósito de instrumento de ratificação, de aceitação, de aprovação ou de adesão, de qualquer notificação efectuada nos termos do artigo 34.º e de cada indicação nos termos do artigo 35.º e das datas em que o Acordo entrar em vigor a título provisório ou definitivo. O secretário-geral notificará todas as Partes Contratantes de qualquer notificação efectuada nos termos do artigo 38.º, de qualquer notificação de retirada nos termos do artigo 39.º, de qualquer exclusão nos termos do artigo 40.º, da data na qual uma emenda entrar em vigor ou for tida por retirada nos termos do parágrafo 1 do artigo 43.º e de qualquer cessação de participação na Organização, nos termos do parágrafo 2 do artigo 43.º**
+O secretário-geral da Organização das Nações Unidas notificará todos os Estados Membros da Organização das Nações Unidas, membros de qualquer das suas agências especializadas ou membros da Agência Internacional de Energia Atómica de qualquer assinatura, de qualquer depósito de instrumento de ratificação, de aceitação, de aprovação ou de adesão, de qualquer notificação efectuada nos termos do artigo 34.º e de cada indicação nos termos do artigo 35.º e das datas em que o Acordo entrar em vigor a título provisório ou definitivo. O secretário-geral notificará todas as Partes Contratantes de qualquer notificação efectuada nos termos do artigo 38.º, de qualquer notificação de retirada nos termos do artigo 39.º, de qualquer exclusão nos termos do artigo 40.º, da data na qual uma emenda entrar em vigor ou for tida por retirada nos termos do parágrafo 1 do artigo 43.º e de qualquer cessação de participação na Organização, nos termos do parágrafo 2 do artigo 43.º
 
 Em fé do que os abaixo assinados, devidamente autorizados para tal pelos seus respectivos Governos, assinaram o presente Acordo na data que figura a seguir à sua assinatura.
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 303/1976, 3º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2900-(70) a 2900-(71)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30303/00700071.pdf
 entry_into_force_dates: []
@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/932-1976-391221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a104ca2f1c204e62367c472cd8204fe2ce6419dd6ed69f6a6791b303623fdb54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60e33bebaf5862f1cea57f5b6e9094e88a519de7124137ea9e4be76a6a9ec9e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério da Educação Nacional
+- Ministério das Finanças
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:06Z'
   warnings: []
   errors: []
 ---
@@ -88,24 +96,24 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 47530300$00, destinado a reforçar a seguinte dotação insuficientemente dotada do vigente orçamento do Ministério da Educação Nacional:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 47530300$00, destinado a reforçar a seguinte dotação insuficientemente dotada do vigente orçamento do Ministério da Educação Nacional:
 
 Secretaria de Estado da Orientação Pedagógica
 
-### Capítulo 8.º «Direcção-Geral do Ensino Básico»:
+Capítulo 8.º «Direcção-Geral do Ensino Básico»:
 
 Direcção-Geral
 
-###### Artigo 835.º «Outras despesas correntes»:
+Artigo 835.º «Outras despesas correntes»:
 
 N.º 1 «Cursos ou escolas do ensino básico de Português no estrangeiro» ... 47530300$00
 
-###### Art. 2.º Para compensação do crédito designado no artigo anterior é aumentada igual quantia à verba descrita no capítulo 14.º, artigo 157.º «Reposições não abatidas nos pagamentos», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação do crédito designado no artigo anterior é aumentada igual quantia à verba descrita no capítulo 14.º, artigo 157.º «Reposições não abatidas nos pagamentos», do actual orçamento das receitas do Estado.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 30 de Dezembro de 1976.**
+Promulgado em 30 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

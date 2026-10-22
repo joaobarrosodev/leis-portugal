@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 214/2005, 1º Suplemento, Série I-A de 2005-11-08
   number: '214'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6456-(2) a 6456-(35)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/11/214a01/00020035.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/25-a/2005/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/25-a-2005-251019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afaa0fd00ea78ef49b7d294dd4d12e204cb3f3fb2afd7d4677666024cefa9cdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25f7596a3ed5cb627aace9fedfed01fc753bad4e2823b8d33b706e5a561ce134
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
+- Genebra
+- OMS
 - Portugal
 - Tabaco
-- OMS
-- Genebra
 relationships: []
 article_structure:
   article_count: 38
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:13Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +98,17 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - António Fernando Correia de Campos.
 
-**Assinado em 4 de Novembro de 2005.**
+Assinado em 4 de Novembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Novembro de 2005.**
+Referendado em 6 de Novembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/11/214a01/00020035.pdf))](https://files.diariodarepublica.pt/1s/2005/11/214a01/00020035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/11/214a01/00020035.pdf)
 
 CONVENÇÃO QUADRO DA ORGANIZAÇÃO MUNDIAL DE SAÚDE PARA O CONTROLO DO TABACO
 
@@ -164,7 +164,7 @@ Relembrando, ainda, que a Convenção sobre os Direitos da Criança, adoptada pe
 
 acordaram no seguinte:
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 ###### Artigo 1.º — Definições
 
@@ -192,7 +192,7 @@ g) «Patrocínio do tabaco» designa toda a forma de contribuição para qualque
 
 2 - As disposições da presente Convenção e seus protocolos não afectam, de modo algum, o direito de uma Parte celebrar acordos bilaterais ou multilaterais, incluindo acordos regionais ou sub-regionais, sobre matérias relevantes ou conexas com a presente Convenção e seus protocolos, desde que tais acordos sejam compatíveis com as obrigações das Partes decorrentes da presente Convenção e seus protocolos. A Parte em causa comunicará o texto de tais acordos à Conferência das Partes, por intermédio do Secretariado.
 
-# PARTE II — Objectivo, princípios directores e obrigações gerais
+## PARTE II — Objectivo, princípios directores e obrigações gerais
 
 ###### Artigo 3.º — Objectivo
 
@@ -242,7 +242,7 @@ b) Adoptar e implementar medidas legislativas, executivas, administrativas e ou 
 
 6 - As Partes cooperarão entre si, de acordo com os meios e os recursos de que disponham, com vista à obtenção dos recursos financeiros necessários para uma eficaz implementação da presente Convenção através de mecanismos de financiamento bilaterais e multilaterais.
 
-# PARTE III — Medidas relativas à redução da procura de tabaco
+## PARTE III — Medidas relativas à redução da procura de tabaco
 
 ###### Artigo 6.º — Medidas financeiras e fiscais destinadas a reduzir a procura do tabaco
 
@@ -358,7 +358,7 @@ c) Criar, em estabelecimentos de saúde e centros de readaptação, programas de
 
 d) Colaborar com as outras Partes a fim de facilitar o acesso ao tratamento da dependência do tabaco a custo acessível, incluindo os produtos farmacêuticos, em conformidade com o artigo 22.º da presente Convenção. Tais produtos e seus componentes poderão incluir medicamentos ou produtos utilizados na administração de medicamentos e diagnósticos, conforme os casos.
 
-# PARTE IV — Medidas relacionadas com a redução da oferta de tabaco
+## PARTE IV — Medidas relacionadas com a redução da oferta de tabaco
 
 ###### Artigo 15.º — Comércio ilícito dos produtos do tabaco
 
@@ -418,13 +418,13 @@ d) A garantia de que as máquinas automáticas de venda de produtos do tabaco so
 
 As Partes envidarão esforços, mediante cooperação entre si e com as organizações intergovernamentais internacionais e regionais competentes, no sentido de promover, conforme se mostre adequado, soluções alternativas economicamente viáveis para os trabalhadores e cultivadores de tabaco e, se for caso disso, para os vendedores.
 
-# PARTE V — Protecção do ambiente
+## PARTE V — Protecção do ambiente
 
 ###### Artigo 18.º — Protecção do ambiente e da saúde das pessoas
 
 No cumprimento das obrigações decorrentes da presente Convenção, as Partes terão em devida consideração a protecção do ambiente e da saúde das pessoas relacionada com o ambiente, no que respeita à cultura do tabaco e à manufactura de produtos do tabaco nos respectivos territórios.
 
-# PARTE VI — Questões relacionadas com a responsabilidade
+## PARTE VI — Questões relacionadas com a responsabilidade
 
 ###### Artigo 19.º — Responsabilidade
 
@@ -442,7 +442,7 @@ b) Informações sobre a legislação e a regulamentação em vigor, bem como so
 
 5 - Numa fase inicial e tendo em consideração o trabalho em curso nas instâncias internacionais competentes, a Conferência das Partes poderá, se possível, tomar em conta as questões relacionadas com a responsabilidade, incluindo abordagens internacionais adequadas sobre tais questões e meios apropriados para auxiliar as Partes, a pedido destas, nas suas actividades legislativas e outras, nos termos do presente artigo.
 
-# PARTE VII — Cooperação científica e técnica e transmissão de informações
+## PARTE VII — Cooperação científica e técnica e transmissão de informações
 
 ###### Artigo 20.º — Pesquisa, controlo e troca de informações
 
@@ -516,7 +516,7 @@ f) Promover, se for caso disso, a pesquisa que permita tornar mais acessível o 
 
 2 - A Conferência das Partes encorajará e facilitará a transferência de conhecimentos técnicos, científicos, jurídicos e tecnológicos com o apoio financeiro obtido de acordo com o artigo 26.º da presente Convenção.
 
-# PARTE VIII — Disposições institucionais e recursos financeiros
+## PARTE VIII — Disposições institucionais e recursos financeiros
 
 ###### Artigo 23.º — Conferência das Partes
 
@@ -594,7 +594,7 @@ c) Com base num estudo efectuado pelo Secretariado e noutras informações perti
 
 d) A Conferência das Partes tomará em consideração os resultados de tal avaliação para determinar se deverão ser reforçados os mecanismos já existentes ou se deverá ser criado um fundo global de contribuições voluntárias ou qualquer outro mecanismo de financiamento apropriado, com vista a canalizar, se necessário, os recursos suplementares, para os países em vias de desenvolvimento, que sejam Partes, e para as Partes com economia em fase de transição, e a ajudá-los a alcançar, desse modo, o objectivo da presente Convenção.
 
-# PARTE IX — Resolução de diferendos
+## PARTE IX — Resolução de diferendos
 
 ###### Artigo 27.º — Resolução de diferendos
 
@@ -604,7 +604,7 @@ d) A Conferência das Partes tomará em consideração os resultados de tal aval
 
 3 - As disposições do presente artigo serão aplicáveis a qualquer protocolo celebrado entre as Partes nesse Protocolo, salvo se de outro modo aí se dispuser.
 
-# PARTE X — Evolução da Convenção
+## PARTE X — Evolução da Convenção
 
 ###### Artigo 28.º — Alterações à presente Convenção
 
@@ -626,7 +626,7 @@ d) A Conferência das Partes tomará em consideração os resultados de tal aval
 
 3 - Os anexos conterão apenas as listas, os formulários e outros elementos descritivos relativos a questões processuais, científicas, técnicas ou administrativas.
 
-# PARTE XI — Disposições finais
+## PARTE XI — Disposições finais
 
 ###### Artigo 30.º — Reservas
 
@@ -684,7 +684,7 @@ A presente Convenção ficará aberta à assinatura de todos os membros da Organ
 
 ###### Artigo 37.º — Depositário
 
-**O Secretário-Geral da Organização das Nações Unidas será o depositário da presente Convenção e das respectivas alterações, bem como dos seus protocolos e anexos adoptados em conformidade com os artigos 28.º, 29.º e 33.º da presente Convenção.**
+O Secretário-Geral da Organização das Nações Unidas será o depositário da presente Convenção e das respectivas alterações, bem como dos seus protocolos e anexos adoptados em conformidade com os artigos 28.º, 29.º e 33.º da presente Convenção.
 
 ###### Artigo 38.º — Textos que fazem fé
 

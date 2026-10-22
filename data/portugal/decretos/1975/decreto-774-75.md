@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 300/1975, 6º Suplemento, Série I de 1975-12-31
   number: '300'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 2160-(117) a 2160-(118)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30006/01170118.pdf
 entry_into_force_dates: []
@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/774-1975-355337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54f4b1bdbde652d42d43dde350a0535d10bfdf226aa1b5b1283855cee5ea57c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ee3e92a9842b9aa07fd0bfae1041a7ede11e21e80af5ac62e48ec01cb29edba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Autorização de Despesas
+- Crédito Especial
+- Ministério das Finanças
+- Orçamento
+- Reforço de Verbas
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:21Z'
   warnings: []
   errors: []
 ---
@@ -88,37 +99,37 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 52698029$20, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 52698029$20, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Defesa Nacional - Departamento do Exército
 
-### Capítulo 5.º «Serviços do quartel-mestre»:
+Capítulo 5.º «Serviços do quartel-mestre»:
 
 Direcção do Serviço de Fortificações e Obras Militares
 
-###### Artigo 305.º «Bens duradouros», n.º 1 «Construções e grandes reparações» ... 5149480$00
+Artigo 305.º «Bens duradouros», n.º 1 «Construções e grandes reparações» ... 5149480$00
 
 Ministério das Finanças
 
 Secretaria de Estado do Tesouro
 
-### Capítulo 19.º «Direcção-Geral da Fazenda Pública»:
+Capítulo 19.º «Direcção-Geral da Fazenda Pública»:
 
-###### Artigo 253.º «Passivos financeiros», n.º 1 «Títulos a longo prazo» ... 12500000$00
+Artigo 253.º «Passivos financeiros», n.º 1 «Títulos a longo prazo» ... 12500000$00
 
 Ministério da Economia
 
 Secretaria de Estado do Comércio Externo e Turismo
 
-### Capítulo 22.º «Conselho de Inspecção de Jogos»:
+Capítulo 22.º «Conselho de Inspecção de Jogos»:
 
-###### Artigo 417.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 1 «Pessoal dos quadros aprovados por lei» ... 127522$00
+Artigo 417.º «Vencimentos e salários», n.º 1 «Vencimentos», alínea 1 «Pessoal dos quadros aprovados por lei» ... 127522$00
 
-###### Artigo 418.º «Gratificações certas e permanentes» ... 19200$00
+Artigo 418.º «Gratificações certas e permanentes» ... 19200$00
 
-###### Artigo 426.º «Remunerações diversas - Previdência social», n.º 2 «Subsídio de Natal» ... 25400$00
+Artigo 426.º «Remunerações diversas - Previdência social», n.º 2 «Subsídio de Natal» ... 25400$00
 
-###### Artigo 431.º «Despesas gerais de funcionamento», n.º 1 «Comunicações» ... 6000$00
+Artigo 431.º «Despesas gerais de funcionamento», n.º 1 «Comunicações» ... 6000$00
 
 ... 178122$00
 
@@ -128,27 +139,27 @@ Secretarias de Estado das Obras Públicas e da Habitação e Urbanismo
 
 Secretaria de Estado das Obras Públicas
 
-### Capítulo 6.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 6.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 98.º «Bens não duradouros», n.º 3 «Outros bens não duradouros», alínea 4 «Edifícios da Direcção-Geral dos Serviços Pecuários» ... 3530000$00
+Artigo 98.º «Bens não duradouros», n.º 3 «Outros bens não duradouros», alínea 4 «Edifícios da Direcção-Geral dos Serviços Pecuários» ... 3530000$00
 
 Secretarias de Estado dos Transportes e Comunicações e da Marinha Mercante
 
 Secretaria de Estado dos Transportes e Comunicações
 
-### Capítulo 3.º «Aeronáutica Civil»:
+Capítulo 3.º «Aeronáutica Civil»:
 
 Centros de «contrôle» regional da navegação aérea
 
-###### Artigo 52.º «Horas extraordinárias» ... 2445023$00
+Artigo 52.º «Horas extraordinárias» ... 2445023$00
 
-###### Artigo 54.º «Deslocações» ... 225741$30
+Artigo 54.º «Deslocações» ... 225741$30
 
-### Capítulo 13.º «Contas de ordem»:
+Capítulo 13.º «Contas de ordem»:
 
-###### Artigo 336.º «Fundo Especial de Transportes Terrestres» ... 13669662$90
+Artigo 336.º «Fundo Especial de Transportes Terrestres» ... 13669662$90
 
-###### Artigo 337.º «Juntas Autónomas dos Portos»:
+Artigo 337.º «Juntas Autónomas dos Portos»:
 
 Do Norte:
 
@@ -168,40 +179,40 @@ Do Distrito de Angra do Heroísmo ... 350000$00
 
 Ministério da Educação e Cultura
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 46.º «Transferências - Sector público», n.º 2 «Obra das Mães pela Educação Nacional» ... 3000000$00
+Artigo 46.º «Transferências - Sector público», n.º 2 «Obra das Mães pela Educação Nacional» ... 3000000$00
 
 ... 52698029$20
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 1.º, grupo 1, artigo 2.º «Contribuição predial» ... 12500000$00
+Capítulo 1.º, grupo 1, artigo 2.º «Contribuição predial» ... 12500000$00
 
-### Capítulo 2.º, grupo 3, artigo 46.º «Fiscalização de actividades comerciais e industriais» ... 178122$00
+Capítulo 2.º, grupo 3, artigo 46.º «Fiscalização de actividades comerciais e industriais» ... 178122$00
 
-### Capítulo 5.º, grupo 3, artigo 96.º «Transferências diversas» ... 2670764$30
+Capítulo 5.º, grupo 3, artigo 96.º «Transferências diversas» ... 2670764$30
 
-### Capítulo 7.º, grupo 8, artigo 111.º «Serviços dos edifícios e monumentos nacionais» ... 3530000$00
+Capítulo 7.º, grupo 8, artigo 111.º «Serviços dos edifícios e monumentos nacionais» ... 3530000$00
 
-### Capítulo 9.º, grupo 3, artigo 130.º «Serviços gerais» ... 5149480$00
+Capítulo 9.º, grupo 3, artigo 130.º «Serviços gerais» ... 5149480$00
 
-### Capítulo 14.º, artigo 162.º «Reposições não abatidas nos pagamentos» ... 3000000$00
+Capítulo 14.º, artigo 162.º «Reposições não abatidas nos pagamentos» ... 3000000$00
 
-### Capítulo 15.º, artigo 181.º «Fundo Especial de Transportes Terrestres» ... 13669662$90
+Capítulo 15.º, artigo 181.º «Fundo Especial de Transportes Terrestres» ... 13669662$90
 
-### Capítulo 15.º, artigo 182.º «Juntas autónomas dos portos» ... 12000000$00
+Capítulo 15.º, artigo 182.º «Juntas autónomas dos portos» ... 12000000$00
 
 ... 52698029$20
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos - Álvaro Augusto Veiga de Oliveira - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 31 de Dezembro de 1975.**
+Promulgado em 31 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

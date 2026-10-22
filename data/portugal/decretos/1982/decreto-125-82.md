@@ -47,36 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/125-1982-378305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:59:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c918a778f8b3219f355855c1ae9a6d76a62b11430231d03d34cf08f7a7ca90df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c266e82e2e6c3876e71867ff533402a81e8d6fe913ac4cea5e23d24cf160213
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:59:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Biologia
+- Curso de Bioquímica
+- Curso de Ciências Geofísicas
+- Curso de Computação
+- Curso de Engenharia Geográfica
+- Curso de Ensino da Física
+- Curso de Ensino da Química
+- Curso de Ensino de Geologia
+- Curso de Ensino de Matemática
+- Curso de Estatística e Investigação Operacional
+- Curso de Física
+- Curso de Física Tecnológica
+- Curso de Geologia
+- Curso de Geologia Económica Aplicada
+- Curso de Matemática
+- Curso de Probabilidades e Estatística
+- Curso de Química
+- Curso de Química Tecnológica
+- Ensino Superior
+- Faculdade de Ciências
+- Licenciatura
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:147199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633894:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:540610:por
+  label: Rectificado pela DECL.DD2204.1982.12.07.PCM DR.IS [9] de 12/Jan/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-540610
+  date: '1982-12-07'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:59:17Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +152,7 @@ Em Agosto do corrente ano, a Universidade de Lisboa apresentou uma proposta de r
 
 A referida proposta afasta-se nalguns aspectos dos princípios base fixados no referido despacho normativo, alguns dos quais já era intenção do Governo alterar.
 
-# Parte-se do princípio de que a Universidade de Lisboa ao apresentar proposta de tal fôlego avaliou, em relação a cada um dos cursos, as consequências da sua criação sob todos os aspectos, de entre os quais não é certamente o menos importante o do mercado de trabalho que deverá absorver os seus licenciados.
+Parte-se do princípio de que a Universidade de Lisboa ao apresentar proposta de tal fôlego avaliou, em relação a cada um dos cursos, as consequências da sua criação sob todos os aspectos, de entre os quais não é certamente o menos importante o do mercado de trabalho que deverá absorver os seus licenciados.
 
 Crê-se igualmente que a Universidade de Lisboa terá avaliado a sua capacidade humana e material para executar a proposta ou que, a não dispor ainda da totalidade dos meios para a fazer entrar totalmente em vigor, saberá dar-lhe início progressivamente.
 
@@ -223,8 +274,8 @@ Este diploma entra imediatamente em vigor.
 
 Diogo Pinto de Freitas do Amaral - João José Fraústo da Silva.
 
-**Promulgado em 20 de Outubro de 1982.**
+Promulgado em 20 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

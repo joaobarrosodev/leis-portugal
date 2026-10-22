@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 303/1974, 6º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 1670-(126) a 1670-(126)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30306/01260126.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/801-1974-235950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f97e8c75c0c6c7df3fb628f2ab224b68ca5b8df9220d25740c72c8465f98dd6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ace07b14212c5a994d3cbf2ec1b72ab5f22fcbc920509b6d454a044e5f281543
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:36Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +92,15 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 18950000$00, destinados quer a reforçar verbais insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 18950000$00, destinados quer a reforçar verbais insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 1.º «Presidência da República»:
+Capítulo 1.º «Presidência da República»:
 
 Secretaria-Geral da Presidência da República
 
-###### Artigo 15.º-A «Outras despesas correntes»:
+Artigo 15.º-A «Outras despesas correntes»:
 
 N.º 4 «Para pagamento de todas as despesas com os Altos-Comissários» ... 4000000$00
 
@@ -108,43 +112,43 @@ Ministério das Finanças
 
 Secretaria de Estado do Tesouro
 
-### Capítulo 5.º «Encargos da dívida pública»:
+Capítulo 5.º «Encargos da dívida pública»:
 
-###### Artigo 72.º «Encargos de empréstimos a realizar» ... 10500000$00
+Artigo 72.º «Encargos de empréstimos a realizar» ... 10500000$00
 
 Secretaria de Estado do Orçamento
 
-### Capítulo 16.º «Direcção-Geral das Alfândegas»:
+Capítulo 16.º «Direcção-Geral das Alfândegas»:
 
-###### Artigo 253.º «Bens não duradouros», n.º 6 «Outros bens não duradouros» ... 300000$00
+Artigo 253.º «Bens não duradouros», n.º 6 «Outros bens não duradouros» ... 300000$00
 
 ... 10800000$00
 
 Ministério da Justiça
 
-### Capítulo 7.º «Direcção-Geral dos Serviços Tutelares de Menores»:
+Capítulo 7.º «Direcção-Geral dos Serviços Tutelares de Menores»:
 
 Centro de Observação anexo ao Tribunal Central de Menores de Coimbra
 
-###### Artigo 395.º «Bens não duradouros», n.º 2 «Alimentação, roupas e calçado» ... 150000$00
+Artigo 395.º «Bens não duradouros», n.º 2 «Alimentação, roupas e calçado» ... 150000$00
 
 ... 18950000$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 1.º, grupo 1, artigo 1.º «Contribuição industrial» ... 18500000$00
+Capítulo 1.º, grupo 1, artigo 1.º «Contribuição industrial» ... 18500000$00
 
-### Capítulo 7.º, grupo 10, artigo 124.º «Publicações e impressos»: «Serviços de administração financeira» ... 300000$00
+Capítulo 7.º, grupo 10, artigo 124.º «Publicações e impressos»: «Serviços de administração financeira» ... 300000$00
 
-### Capítulo 7.º, grupo 10, artigo 130.º «Diversos serviços e bens não duradouros»: «Serviços diversos» ... 150000$00
+Capítulo 7.º, grupo 10, artigo 130.º «Diversos serviços e bens não duradouros»: «Serviços diversos» ... 150000$00
 
 ... 18950000$00
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no vigente orçamento do Ministério das Finanças:
+Art. 3.º É autorizada a seguinte alteração de rubrica no vigente orçamento do Ministério das Finanças:
 
 A observação (102) aposta à dotação descrita no capítulo 16.º, artigo 253.º, n.º 6, é alterada para:
 
@@ -158,8 +162,8 @@ b) Aquisição de impressos ... 2700000$00
 
 Vasco dos Santos Gonçalves - Francisco Salgado Zenha - José da Silva Lopes.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

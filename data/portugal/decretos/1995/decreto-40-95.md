@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/40/1995/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/40-1995-691655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad2b16f3a50f7fc5bbc09ccbeff42296a01dcbe451708071f85fd8bf49408c34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66f0c3aa75b010ad02bf82b24400262554acf926c7e65a992ba6d2d053510349
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cabo Espichel
-- Imóvel Classificado
 - Direcção Geral do Património do Estado
 - Direcção Geral dos Edifícios e Monumentos Nacionais
+- Imóvel Classificado
 - Património do Estado
-- Zona de Proteção
 - Protecção do Património
 - Sesimbra
-relationships: []
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445083:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:57Z'
   warnings: []
   errors: []
 ---
@@ -110,32 +126,32 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É autorizada a aceitação da doação, a favor do Estado, do edifício sito no Cabo Espichel, na freguesia do Castelo, no município de Sesimbra, inscrito na matriz predial urbana sob o artigo 7826, correspondente à ala norte do Santuário de Nossa Senhora do Cabo.
+Artigo 1.º É autorizada a aceitação da doação, a favor do Estado, do edifício sito no Cabo Espichel, na freguesia do Castelo, no município de Sesimbra, inscrito na matriz predial urbana sob o artigo 7826, correspondente à ala norte do Santuário de Nossa Senhora do Cabo.
 
-###### Art. 2.º A aceitação da doação referida no artigo anterior é autorizada com vista a viabilizar a salvaguarda, preservação e reabilitação do Santuário de Nossa Senhora do Cabo, classificado como imóvel de interesse público pelo [Decreto n.º 37728](https://diariodarepublica.pt/dr/detalhe/decreto/37728-1950-445083), de 5 de Janeiro de 1950, bem como a recuperação e reconversão da zona envolvente, abrangida pela zona especial de proteçcão definida por portaria do Ministro da Educação Nacional de 6 de Novembro de 1963, publicada no Diário do Governo, 2.ª série, de 29 de Novembro de 1963, para subsequente afectação do conjunto a fins culturais e turísticos.
+Art. 2.º A aceitação da doação referida no artigo anterior é autorizada com vista a viabilizar a salvaguarda, preservação e reabilitação do Santuário de Nossa Senhora do Cabo, classificado como imóvel de interesse público pelo [Decreto n.º 37728](https://diariodarepublica.pt/dr/detalhe/decreto/37728-1950-445083), de 5 de Janeiro de 1950, bem como a recuperação e reconversão da zona envolvente, abrangida pela zona especial de proteçcão definida por portaria do Ministro da Educação Nacional de 6 de Novembro de 1963, publicada no Diário do Governo, 2.ª série, de 29 de Novembro de 1963, para subsequente afectação do conjunto a fins culturais e turísticos.
 
-###### Art. 3.º Compete à Direcção-Geral do Património do Estado intervir, em representação do Estado, nos autos e contratos necessários à concretização do disposto no presente diploma.
+Art. 3.º Compete à Direcção-Geral do Património do Estado intervir, em representação do Estado, nos autos e contratos necessários à concretização do disposto no presente diploma.
 
-###### Art. 4.º - 1 - O Estado, através da Direcção-Geral dos Edifícios e Monumentos Nacionais (DGEMN), promoverá a recuperação de todo o conjunto, incluindo a igreja e o edifício correspondente à ala sul do Santuário, que constituem propriedade da Confraria de Nossa Senhora do Cabo.
+Art. 4.º - 1 - O Estado, através da Direcção-Geral dos Edifícios e Monumentos Nacionais (DGEMN), promoverá a recuperação de todo o conjunto, incluindo a igreja e o edifício correspondente à ala sul do Santuário, que constituem propriedade da Confraria de Nossa Senhora do Cabo.
 
 2 - Compete à DGEMN o desenvolvimento dos projectos necessários à realização das obras.
 
-###### Art. 5.º - 1 - Com o acordo da Confraria de Nossa Senhora do Cabo e precedendo vistoria ad perpetuam rei memoriam, o Estado, através da DGEMN, entrará de imediato na posse de todos os imóveis que compõem o Santuário de Nossa Senhora do Cabo e respectivos logradouros.
+Art. 5.º - 1 - Com o acordo da Confraria de Nossa Senhora do Cabo e precedendo vistoria ad perpetuam rei memoriam, o Estado, através da DGEMN, entrará de imediato na posse de todos os imóveis que compõem o Santuário de Nossa Senhora do Cabo e respectivos logradouros.
 
 2 - A vistoria a que se refere o número anterior será efectuada nos termos previstos na lei para as expropriações de carácter urgente.
 
-###### Art. 6.º As obras previstas no presente diploma devem iniciar-se até final do corrente ano e ficar concluídas no prazo de dois anos, sendo devolvidos à Confraria de Nossa Senhora do Cabo os imóveis de sua propriedade referidos no n.º 1 do artigo 4.º
+Art. 6.º As obras previstas no presente diploma devem iniciar-se até final do corrente ano e ficar concluídas no prazo de dois anos, sendo devolvidos à Confraria de Nossa Senhora do Cabo os imóveis de sua propriedade referidos no n.º 1 do artigo 4.º
 
 Presidência do Conselho de Ministros, 24 de Julho de 1995.
 
 Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

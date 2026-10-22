@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-1982-601483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75c40ae7eed91f40c719c045ac70dc072255dfeacabef7d061cc9fd4ddaa594f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de63d44bb710ab84512c192ccf7d1ff512bbe5c41b0af2b0ff05aae32392bc54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- Proteção dos Animais
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:21Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +89,15 @@ de 20 de Janeiro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Europeia para a Protecção dos Animais nos Locais de Criação, aberta à assinatura em 10 de Março de 1976, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção Europeia para a Protecção dos Animais nos Locais de Criação, aberta à assinatura em 10 de Março de 1976, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 30 de Dezembro de 1981.**
+Assinado em 30 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION EUROPÉENNE SUR LA PROTECTION DES ANIMAUX DANS LES ÉLEVAGES
 
@@ -296,33 +299,33 @@ acordaram no seguinte:
 
 ## TÍTULO I — Princípios gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 A presente Convenção aplica-se à alimentação, cuidados e alojamento dos animais, em particular no que se refere aos sistemas modernos de criação intensiva. No âmbito da presente Convenção, entende-se por «animais» todos os animais que são criados ou mantidos com vista à produção de géneros alimentícios, lã, couro, peles ou outros fins agrícolas e por «modernos sistemas de criação intensiva» todos o sistemas que utilizem instalações técnicas funcionando principalmente por meio de dispositivos automáticos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As Partes Contratantes aplicarão os princípios relativos à protecção de animais incluídos nos artigos 3.º a 7.º da presente Convenção.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Os animais devem beneficiar de alojamento, alimentação e cuidados que - atendendo à sua espécie, ao grau de desenvolvimento, adaptação e domesticação - sejam apropriados às suas necessidades fisiológicas e etológicas, de acordo com a experiência adquirida e os conhecimentos científicos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - A liberdade de movimentos própria dos animais, atendendo à sua espécie e de acordo com a experiência adquirida e os conhecimentos científicos, não deverá ser restringida por forma a causar-lhes sofrimento ou danos inúteis.
 
 2 - Quando um animal se encontra, contínua ou habitualmente, amarrado ou preso, deve ser-lhe proporcionado um espaço apropriado às suas necessidades fisiológicas e etológicas, de acordo com a experiência adquirida e os conhecimentos científicos.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 A iluminação, temperatura, grau de humidade, circulação de ar, ventilação do alojamento do animal e demais condições de ambiente, como a concentração de gazes ou a intensidade de ruídos, devem, atendendo à espécie, grau de desenvolvimento, adaptação e domesticação, ser apropriados às suas necessidades fisiológicas e etológicas, de acordo com a experiência adquirida e os conhecimentos científicos.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Nenhum animal pode ser alimentado de forma susceptível de causar-lhe danos ou sofrimento inúteis e a sua alimentação não deve conter substâncias que possam causar-lhe danos ou sofrimento inúteis.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1 - A condição e o estado de saúde do animal devem ser objecto de uma inspecção rigorosa, a efectuar a intervalos suficientes, para evitar sofrimentos inúteis, e pelo menos uma vez por dia, no caso de animais mantidos em modernos sistemas de criação intensiva.
 
@@ -330,7 +333,7 @@ Nenhum animal pode ser alimentado de forma susceptível de causar-lhe danos ou s
 
 ## TÍTULO II — Disposições específicas para a aplicação da presente Convenção
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - Durante o prazo de 1 ano, a contar da data da entrada em vigor da presente Convenção, deve ser constituído um Comité Permanente.
 
@@ -350,7 +353,7 @@ c) A adopção do relatório mencionado no artigo 13.º, relatório esse que, se
 
 6 - Sem prejuízo das disposições da presente Convenção, o Comité Permanente deve estabelecer o seu regulamento interno.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1 - O Comité Permanente deve encarregar-se da elaboração e da adopção das recomendações às Partes Contratantes contendo disposições detalhadas com vista à aplicação dos princípios enunciados no título I da presente Convenção; tais disposições devem basear-se nos conhecimentos científicos referentes às diferentes espécies.
 
@@ -360,25 +363,25 @@ c) A adopção do relatório mencionado no artigo 13.º, relatório esse que, se
 
 4 - Se 2 ou mais Partes Contratantes ou a Comunidade Económica Europeia, ela própria Parte Contratante, notificarem, em conformidade com o n.º 3 do presente artigo, a sua decisão de não aplicar ou de já não aplicar uma determinada recomendação, tal recomendação deixará de ter efeito.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 O Comité Permanente deverá facilitar, se necessário, a resolução amigável de qualquer dificuldade que possa surgir entre as Partes Contratantes relativamente à aplicação da presente Convenção.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 O Comité Permanente pode, a pedido de uma Parte Contratante, emitir parecer consultivo sobre qualquer assunto relativo à protecção dos animais.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Com vista a assistir o Comité Premanente nos seus trabalhos, qualquer Parte Contratante pode designar um ou mais órgãos aos quais este Comité pode pedir informações e conselhos. As Partes Contratantes comunicarão ao Secretário-Geral do Conselho da Europa o nome e a morada dos referidos órgãos.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 O Comité Permanente submeterá ao Comité de Ministros do Conselho da Europa, 3 anos após a entrada em vigor da presente Convenção e, posteriormente, aquando da expiração de cada período de 3 anos, um relatório sobre os trabalhos e o funcionamento da Convenção, incluindo, se assim o julgar necessário, propostas que visem alterar a Convenção.
 
 ## TÍTULO III — Disposições finais
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1 - A presente Convenção fica aberta à assinatura pelos Estados membros do Conselho da Europa e pela Comunidade Económica Europeia. Será ratificada, aceite ou aprovada. Os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do Secretário-Geral do Conselho da Europa.
 
@@ -386,13 +389,13 @@ O Comité Permanente submeterá ao Comité de Ministros do Conselho da Europa, 3
 
 3 - Entrará em vigor, no que se refere a qualquer Parte signatária que a ratifique, aceite ou aprove após a data mencionada no n.º 2 do presente artigo, 6 meses após a data do depósito do seu instrumento de ratificação, aceitação ou aprovação.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1 - Após a entrada em vigor da presente Convenção, o Comité de Ministros do Conselho da Europa poderá convidar, segundo as modalidades que considere adequadas, qualquer Estado não membro do Conselho a aderir à presente Convenção.
 
 2 - A adesão efectuar-se-á mediante o depósito, junto do Secretário-Geral do Conselho da Europa, de um instrumento de adesão que produzirá efeito 6 meses após a data do seu depósito.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1 - Qualquer Parte Contratante pode, no momento da assinatura ou do depósito do seu instrumento de ratificação, aceitação, aprovação ou adesão, designar o ou os territórios aos quais se aplicará a presente Convenção.
 
@@ -400,15 +403,15 @@ O Comité Permanente submeterá ao Comité de Ministros do Conselho da Europa, 3
 
 3 - Qualquer declaração feita nos termos do número precedente poderá ser retirada, no que respeita a qualquer território designado na declaração, segundo as condições previstas pelo artigo 17.º da presente Convenção.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 1 - Qualquer Parte Contratante poderá, no que lhe diz respeito, denunciar a presente Convenção, mediante notificação dirigida ao Secretário-Geral do Conselho da Europa.
 
 2 - A denúncia produzirá efeitos 6 meses após a data da recepção da notificação pelo Secretário-Geral.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
-**O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho, assim como qualquer outra Parte Contratante não membro do Conselho:**
+O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho, assim como qualquer outra Parte Contratante não membro do Conselho:
 
 a) Das assinaturas;
 
@@ -430,6 +433,6 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, assina
 
 Feita em Estrasburgo, aos 10 dias do mês de Março de 1976, em francês e em inglês, fazendo ambos os textos igualmente fé, num único exemplar, que será depositado nos arquivos do Conselho da Europa.
 
-**O Secretário-Geral do Conselho da Europa enviará cópia autenticada a cada uma das Partes signatárias e aderentes.**
+O Secretário-Geral do Conselho da Europa enviará cópia autenticada a cada uma das Partes signatárias e aderentes.
 
 Seguem-se as assinaturas.

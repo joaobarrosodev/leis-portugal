@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/98-1975-160557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 779450318621add23025f670fe959ff48ff7efde0c27061a5605095fe79a1b8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1af13871a9191ebd5bed7005b023e74ca68a6d25e0556045e5c05d2df128dae8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:241850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:41Z'
   warnings: []
   errors: []
 ---
@@ -90,20 +94,20 @@ Deste facto resulta que o troço de estrada entre Montalvão e Perais se integra
 
 Usando da faculdade conferida pela Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. De harmonia com o preceituado no artigo 4.º do [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945, e por força do artigo 48.º do mesmo diploma, é incluído, na rede rodoviária nacional, o troço de estrada nacional n.º 359-3, entre Montalvão e Perais, a que se refere o mapa em anexo a este decreto, que dele faz parte integrante.
+Artigo único. De harmonia com o preceituado no artigo 4.º do [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945, e por força do artigo 48.º do mesmo diploma, é incluído, na rede rodoviária nacional, o troço de estrada nacional n.º 359-3, entre Montalvão e Perais, a que se refere o mapa em anexo a este decreto, que dele faz parte integrante.
 
 Vasco dos Santos Gonçalves - Manuel da Costa Brás - José Augusto Fernandes.
 
-**Promulgado em 19 de Fevereiro de 1975.**
+Promulgado em 19 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Mapa anexo ao Decreto n.º 98/75
 
 Estradas classificadas ao abrigo do artigo 48.º do [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/05100/03300330.pdf))](https://files.diariodarepublica.pt/1s/1975/03/05100/03300330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/05100/03300330.pdf)
 
-**O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.**
+O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.

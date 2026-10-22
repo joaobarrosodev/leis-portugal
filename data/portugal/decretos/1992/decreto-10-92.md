@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/1992/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1992-157640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be277fa6ec39273bba5d83626e023a59f6dd5c2ad6caa603a3d73d158e397f7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2207df98e6c9914eb4006fcda6ad4a4da020e0cc2f943fbc33633f189e913826
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Manifestação Cultural
 - Convenção
-- Portugal
 - Exposição
 - Manifestação Comercial
+- Manifestação Cultural
 - Paris
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:632045:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684404:por
+  label: "Estendida ao Território de Macau a Emenda à Convenção (aprovada para ratificação pelo presente diploma) pelo DEC.219/99.1999.11.16.PR,\
+    \ DR.IS-A [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/219-1999-684404
+  date: '1999-11-16'
+- type: amended_by
+  target: pt:dre:632045:por
+  label: "Estendida ao Território de Macau a Convenção aprovada pelo presente diploma, pelo DEC.232/99.1999.12.09.PR, DR.IS-A\
+    \ [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/232-1999-632045
+  date: '1999-12-09'
 article_structure:
-  article_count: 4
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:28Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +108,19 @@ de 11 de Fevereiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a emenda à Convenção Relativa às Exposições Internacionais, adoptada pela Assembleia Geral do Bureau Internacional das Exposições em 31 de Maio de 1988, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a emenda à Convenção Relativa às Exposições Internacionais, adoptada pela Assembleia Geral do Bureau Internacional das Exposições em 31 de Maio de 1988, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1991. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
 
 Ratificado em 21 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1992.**
+Referendado em 24 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 AMENDEMENT À LA CONVENTION DU 22 NOVEMBRE 1928, MODIFIÉE ET COMPLÉTÉE PAR LES PROTOCOLES DES 10 MAI 1948, 16 NOVEMBRE 1966 ET 30 NOVEMBRE 1972 ET PAR L'AMENDEMENT DU 24 JUIN 1982, ADOPTÉ PAR L'ASSEMBLÉE GÉNÉRALE LE 31 MAI 1988.
 
@@ -250,13 +262,13 @@ Considerando que as regras e procedimentos instaurados pela Convenção Relativa
 
 Desejosos de adaptar às condições da actividade moderna as referidas regras e procedimentos; decidiu, em conformidade com as disposições do artigo 33.º da Convenção modificada de 22 de Novembro de 1928, alterar certas regras e procedimentos relativos às exposições internacionais nos seguintes termos:
 
-Artigo I
+###### Artigo I
 
 O artigo 2.º da Convenção de 22 de Novembro de 1928 modificada é completado por um segundo parágrafo, assim redigido:
 
 Independentemente do nome que possa vir a ser dado a uma exposição pelos seus organizadores, a presente Convenção distingue entre exposições registadas e exposições reconhecidas.
 
-Artigo II
+###### Artigo II
 
 O artigo 3.º do título I e os artigos 4.º e 5.º, que constituem o título II da Convenção de 22 de Novembro de 1928 modificada, são revogados e substituídos pelas disposições seguintes, que constituem o novo título II, cuja designação passa a ser «Condições gerais de organização das exposições internacionais».
 
@@ -298,15 +310,15 @@ convocadas para se realizarem no intervalo entre duas exposições registadas.
 
 As datas de abertura e de encerramento de uma exposição e as suas características gerais são fixadas no momento do seu registo ou do seu reconhecimento e apenas podem ser alteradas com o consentimento do GIE.
 
-Artigo III
+###### Artigo III
 
 Os artigos 14.º e 15.º da Convenção de 22 de Novembro de 1928 modificada são revogados.
 
-Artigo IV
+###### Artigo IV
 
 Na primeira frase do artigo 8.º da Convenção de 22 de Novembro de 1928 modificada substituir «artigo 4.º» por «artigo 5.º».
 
-Artigo V
+###### Artigo V
 
 1 - No artigo 12.º da Convenção de 22 de Novembro de 1928 modificada inserir, entre as palavras «um comissário-geral da exposição» e as palavras «encarregado de o representar», as palavras «se se tratar de uma exposição registada, ou um comissário da exposição, se se tratar de uma exposição reconhecida».
 
@@ -332,7 +344,7 @@ No n.º 2 do artigo 20.º, entre as palavras «o comissário-geral» e as palavr
 
 7 - No artigo 21.º, entre as palavras «o comissário-geral» e as palavras «da exposição», inserir as palavras «ou o comissário».
 
-Artigo VI
+###### Artigo VI
 
 1 - Após as palavras «o registo», acrescentar as palavras «ou o reconhecimento»:
 

@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/457-1974-473772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:34:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e11473e8c0f8523455a1356b1fafb815cdae3523c3a4045e0fde8bedc242309
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2429e34eb924f418c6c53fb43519910bcabae77181daf435f6b6b288604ea56a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Consultiva das Pescas
+- Comissão Nacional das Pescas e de Protecção dos Recursos Vivos e do Ambiente Aquático
+- Criação de Serviços
+- Extinção de Serviços
+- Orgânica
+- Pesca
+- Proteção do Ambiente
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:387282:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:34:40Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +115,7 @@ Nos termos do disposto no n.º 2 do artigo 3.º do referido decreto-lei;
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Em substituição da Comissão Consultiva das Pescas, que funcionava no âmbito do Ministério da Marinha, nos termos do [Decreto-Lei n.º 49081](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49081-1969-200264), de 25 de Junho de 1969, extinta por força do presente diploma, é criada na Secretaria de Estado das Pescas a Comissão Nacional das Pescas e Protecção dos Recursos e do Ambiente Aquático (CNAPRA).
+Artigo 1.º - 1. Em substituição da Comissão Consultiva das Pescas, que funcionava no âmbito do Ministério da Marinha, nos termos do [Decreto-Lei n.º 49081](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49081-1969-200264), de 25 de Junho de 1969, extinta por força do presente diploma, é criada na Secretaria de Estado das Pescas a Comissão Nacional das Pescas e Protecção dos Recursos e do Ambiente Aquático (CNAPRA).
 
 2. São atribuições da CNAPRA:
 
@@ -109,7 +129,7 @@ d) Estabelecer doutrina a seguir na apreciação de projectos e pedidos de licen
 
 e) Preparar estudos e propostas e dar parecer sobre matérias e problemas administrativos, técnicos, económicos e sociais, relacionados com a participação portuguesa em organismos, convenções, conferências e outras reuniões, internacionais e regionais, que se ocupem da pesca e do uso e protecção dos recursos e do ambiente aquático.
 
-###### Art. 2.º - 1. A CNAPRA é constituída por um presidente, um vice-presidente, um secretário e vogais que exercem o seu mandato ou são designados:
+Art. 2.º - 1. A CNAPRA é constituída por um presidente, um vice-presidente, um secretário e vogais que exercem o seu mandato ou são designados:
 
 a) Por inerência dos seus cargos oficiais;
 
@@ -125,7 +145,7 @@ e) A título pessoal, tendo em atenção a sua especial competência e a experi�
 
 3. Os cargos de presidente, vice-presidente e secretário serão remunerados através de uma gratificação mensal, a fixar pelo Secretário de Estado das Pescas, com o acordo do Ministro das Finanças, e os vogais terão direito a senhas de presença e ao pagamento de despesas de deslocação, se residirem fora de Lisboa.
 
-###### Art. 3.º - 1. Na Secretaria de Estado das Pescas é criado o Gabinete de Coordenação, com as seguintes atribuições:
+Art. 3.º - 1. Na Secretaria de Estado das Pescas é criado o Gabinete de Coordenação, com as seguintes atribuições:
 
 a) Coordenar os programas e actividades das direcções-gerais e serviços da Secretaria de Estado e facilitar as suas actividades mediante serviços administrativos e outros de interesse comum;
 
@@ -139,8 +159,8 @@ d) Assegurar o secretariado da CNAPRA e dos seus órgãos subsidiários.
 
 Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 9 de Setembro de 1974.**
+Promulgado em 9 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

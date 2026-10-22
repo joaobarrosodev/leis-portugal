@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13500/0480304819.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/13/2015/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-2015-69800942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae2701179b849df79cf1eb335d56ed35afe2e624c2710b3ac0780fd72e09a2d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41a1805e29297ce051ae34d0ff0b2f5b08513a0304cff4c435418892595da28e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ subjects:
 - Atenas
 - Bagagem
 - CE Países
-- Transporte Marítimo
-- Mar
 - Convenção
-- Portugal
 - Direito de Reserva
-- União Europeia
 - Londres
+- Mar
 - OMI
+- Portugal
 - Responsabilidade Civil
 - Seguro contra Danos
 - Transporte
 - Transporte de Passageiros
+- Transporte Marítimo
+- União Europeia
 relationships:
 - type: cites
   target: celex:32012D0022
@@ -89,13 +89,13 @@ relationships:
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:35Z'
   warnings: []
   errors: []
 ---
@@ -176,15 +176,15 @@ Relação entre a presente reserva e as Linhas de Orientação da OMI para a apl
 
 Visto e aprovado em Conselho de Ministros de 28 de maio de 2015. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - José Diogo Santiago de Albuquerque.
 
-**Assinado em 30 de junho de 2015.**
+Assinado em 30 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de julho de 2015.**
+Referendado em 2 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 PROTOCOL OF 2002 TO THE ATHENS CONVENTION RELATING TO THE CARRIAGE OF PASSENGERS AND THEIR LUGGAGE BY SEA, 1974
 
@@ -644,7 +644,7 @@ CERTIFICATE OF INSURANCE OR OTHER FINANCIAL SECURITY IN RESPECT OF LIABILITY FOR
 
 Issued in accordance with the provisions of article 4bis of the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, 2002
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13500/0480304819.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13500/0480304819.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13500/0480304819.pdf)
 
 This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of article 4bis of the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, 2002.
 
@@ -958,7 +958,7 @@ b) Se o operador de uma instalação nuclear for responsável por esses danos po
 
 «Artigo 1.º bis
 
-## Anexo
+Anexo
 
 O anexo à presente Convenção constitui parte integrante da Convenção.»
 
@@ -1124,7 +1124,7 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito pelos r
 
 Emitido nos termos do disposto no artigo 4.º bis da Convenção de Atenas de 2002 relativa ao Transporte de Passageiros e suas Bagagens por Mar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13500/0480304819.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13500/0480304819.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13500/0480304819.pdf)
 
 Certifica-se pelo presente que o navio supracitado está coberto por uma apólice de seguro ou outra garantia financeira válida que satisfaz os requisitos do artigo 4.º bis da Convenção de Atenas de 2002 relativa ao Transporte de Passageiros e suas Bagagens por Mar.
 

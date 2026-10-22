@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/123-1977-278544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eaa7a6d801519bc04660eae41e4e2a031932b8eb0f96498a9b0f55a72717d724
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f768863ede591e87b6c03209775591382c76732366866816cc426d2617dd47aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Científica
+- Cooperação Cultural
+- Itália
+- Lisboa
+- Política de Cooperação
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:36Z'
   warnings: []
   errors: []
 ---
@@ -87,25 +94,25 @@ de 23 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Italiana sobre Cooperação Cultural e Científica, assinado em Lisboa a 24 de Março de 1977, cujo texto em português vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Italiana sobre Cooperação Cultural e Científica, assinado em Lisboa a 24 de Março de 1977, cujo texto em português vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 3 de Setembro de 1977.**
+Assinado em 3 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO DE COOPERAÇÃO CULTURAL E CIENTÍFICA ENTRE PORTUGAL E A ITÁLIA
 
 O Governo da República Portuguesa e o Governo da República Italiana, no desejo de reforçarem os laços de amizade existentes entre os dois Países e de desenvolverem as suas relações no campo cultural, artístico, científico e técnico, no espírito das recomendações do Conselho da Europa e da UNESCO, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Cada uma das Partes Contratantes favorecerá a criação, nas suas Universidades e em outros estabelecimentos de ensino superior, de cadeiras, leitorados e cursos livres de língua, literatura e história da outra Parte.
 
-ARTIGO II
+###### ARTIGO II
 
 1. Cada uma das Partes Contratantes poderá criar e manter instituições culturais no território da outra, de harmonia com a respectiva legislação vigente e segundo as condições a fixar por ambas as Partes.
 
@@ -115,7 +122,7 @@ ARTIGO II
 
 4. Para a execução do disposto nos números anteriores, as Partes Contratantes estabelecerão acordos por troca de notas.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes procurarão favorecer os contactos directos entre as Universidades e outros estabelecimenos de ensino superior e apoiarão, na medida do possível, a organização e o desenvolvimento de:
 
@@ -125,7 +132,7 @@ b) Cursos de férias destinados a estudantes e a professores;
 
 c) Visitas de estudo, individuais ou em grupo.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Ambas as Partes favorecerão a cooperação entre instituições científicas e de investigação dos dois Países, através de:
 
@@ -135,23 +142,23 @@ b) Trocas de livros, publicações e outros materiais de informação e document
 
 c) Estabelecimento de acordos ou convénios específicos de colaboração mútua.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes favorecerão a estreita colaboração entre as associações científicas, artísticas e culturais e os organismos educativos e profissionais dos dois Países, com o fim de assegurar uma assistência recíproca no campo das actividades intelectuais, artísticas, científicas, técnicas, sociais e educativas.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Cada Parte Contratante concederá, anualmente e em regime de reciprocidade, bolsas de estudo e de especialização, a fim de permitir que, no seu território, cidadãos da outra Parte iniciem ou prossigam estudos, trabalhos e investigações ou aperfeiçoem a sua formação artística, cultural e científica.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As Partes Contratantes estudarão a possibilidade de estabelecer critérios e as condições de equivalência dos estudos efectuados ou dos títulos e diplomas conferidos pelas competentes autoridades da outra Parte e, com tal fim, examinarão a possibilidade de concluir acordos específicos.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Cada Parte Contratante esforçar-se-á, nos limites permitidos pela respectiva legislação, por que os manuais utilizados nos seus estabelecimentos de ensino não contenham inexactidões acerca da vida e da cultura do outro país.
 
-ARTIGO IX
+###### ARTIGO IX
 
 As Partes Contratantes, com o objectivo de fomentar o conhecimento mútuo da história, da literatura, das artes plásticas, da música, do teatro, da dança e da cinematografia e, bem assim, dos outros domínios da actividade artística e cultural, comprometem-se, na medida do possível, a promover:
 
@@ -171,33 +178,33 @@ g) Difusão de programas de rádio e de televisão;
 
 h) Difusão de obras literárias, artísticas, científicas e técnicas e outras.
 
-ARTIGO X
+###### ARTIGO X
 
 1. Cada Parte Contratante favorecerá e apoiará, através dos organismos competentes do seu País, a tradução de obras de todos os domínios e géneros da outra Parte, dando particular atenção aos autores clássicos e às obras de elevado valor e prestígio literário, científico e cultural.
 
 2. A escolha de tais obras, cuja tradução seja de reconhecido interesse comum, será feita por intermédio das instituições culturais a que alude o artigo II do presente Acordo.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As Partes Contratantes facilitarão o desenvolvimento das relações entre os museus, bibliotecas e arquivos e, bem assim, entre outras instituições culturais, através do intercâmbio de peritos e troca de livros, publicações, informações e microfilmes de carácter educativo, artístico, cultural e técnico-científico.
 
-ARTIGO XII
+###### ARTIGO XII
 
 As Partes Contratantes encorajarão a colaboração no campo da pesquisa e das escavações arqueológicas, a actividade das missões arqueológicas, bem como a conservação e o restauro dos monumentos históricos, obras de arte e espécies documentais, em conformidade com a respectiva legislação vigente.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 As Partes Contratantes concederão as facilidades alfandegárias necessárias à importação no seu território, de harmonia com a respectiva legislação, de todo o material proveniente do território da outra Parte, não destinado a fins comerciais e que tenha por objectivo a efectivação das actividades decorrentes do presente Acordo.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 As Partes Contratantes comprometem-se a fiscalizar e a impedir a saída de obras de arte e de espécies documentais de valor histórico ou que constituam património cultural; comprometem-se, por outro lado, a facilitar o intercâmbio de obras destinadas a manifestações culturais no quadro do presente Acordo.
 
-ARTIGO XV
+###### ARTIGO XV
 
 As Partes Contratantes favorecerão o desenvolvimento do intercâmbio de jovens, assim como o intercâmbio no domínio dos desportos e da educação física.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 1. Para a execução do presente Acordo, será constituída uma comissão mista, de composição paritária, encarregada de apresentar sugestões, recomendações e pareceres às Partes Contratantes, tendo em vista a elaboração de programas de intercâmbio e cooperação.
 
@@ -205,11 +212,11 @@ ARTIGO XVI
 
 3. A comissão mista poderá convocar peritos para as suas reuniões, na qualidade de conselheiros ou assessores.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 O presente Acordo é válido sem limite de tempo, podendo, no entanto, ser denunciado por qualquer das Partes Contratantes mediante pré-aviso, por escrito, com a antecedência de seis meses.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 O Acordo entrará em vigor sessenta dias depois de as Partes Contratantes serem reciprocamente notificadas de estarem satisfeitas as exigências requeridas, para esse efeito, pelas legislações de cada país.
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 7/1980, 4º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 26-(69) a 26-(70)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00704/00690070.pdf
 entry_into_force_dates: []
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-a-1980-508602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0a7359ec985f79f3e94e12837d99a7acabe5cd714a6eaff136f0c5f9ecac9c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b47226b9246514a2264fe8b6fabac9267102703058181aaad678cdb490c6f331
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Estação Radionaval
+- Horta
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:36Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +102,7 @@ Considerando o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr/detal
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ficam sujeitas ao regime de servidão militar as áreas confinantes com as instalações da Estação Radionaval da Horta, definidas como segue:
+Artigo 1.º Ficam sujeitas ao regime de servidão militar as áreas confinantes com as instalações da Estação Radionaval da Horta, definidas como segue:
 
 a) Área A:
 
@@ -112,7 +124,7 @@ e) Área E:
 
 Área do círculo com 3000 m de raio com o centro no centro da antena do radiogoniómetro.
 
-###### Art. 2.º Nos termos do artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), é proibida a execução, sem licença da autoridade militar competente, dos trabalhos e actividades seguintes, referidos às áreas mencionadas no artigo anterior:
+Art. 2.º Nos termos do artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), é proibida a execução, sem licença da autoridade militar competente, dos trabalhos e actividades seguintes, referidos às áreas mencionadas no artigo anterior:
 
 a) Nas áreas A e C:
 
@@ -142,19 +154,19 @@ d) Na área E:
 
 2) Instalações de radiocomunicações ou outras que possam produzir interferência nas recepções radiotelefónicas, radiotelegráficas e de radiolocalização da Estação.
 
-###### Art. 3.º - 1 - A concessão da licença a que se faz referência neste decreto compete ao Comando Naval dos Açores, depois de ouvido o Estado-Maior da Armada.
+Art. 3.º - 1 - A concessão da licença a que se faz referência neste decreto compete ao Comando Naval dos Açores, depois de ouvido o Estado-Maior da Armada.
 
 2 - Das decisões tomadas ao abrigo do n.º 1 deste artigo cabe recurso para o Chefe do Estado-Maior da Armada.
 
-###### Art. 4.º - 1 - A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando da Defesa Marítima do Porto da Horta;
+Art. 4.º - 1 - A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando da Defesa Marítima do Porto da Horta;
 
 2 - Compete também ao Comando da Defesa Marítima do Porto da Horta ordenar a demolição das obras e aplicar as multas pelas infracções verificadas, nos casos e nas condições previstos no [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
 
 3 - Das decisões tomadas ao abrigo do n.º 2 deste artigo cabe recurso para o comandante naval dos Açores.
 
-###### Art. 5.º Em conformidade com o disposto no § 1.º do artigo 7.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), os trabalhos e actividades condicionados pela servidão estabelecida pelo presente decreto que hajam de ser executados pelo Estado, nomeadamente pela Junta Autónoma dos Portos do Distrito da Horta e pelas autarquias locais, não carecem de licença, mas só podem realizar-se com a concordância do Chefe do Estado-Maior da Armada.
+Art. 5.º Em conformidade com o disposto no § 1.º do artigo 7.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), os trabalhos e actividades condicionados pela servidão estabelecida pelo presente decreto que hajam de ser executados pelo Estado, nomeadamente pela Junta Autónoma dos Portos do Distrito da Horta e pelas autarquias locais, não carecem de licença, mas só podem realizar-se com a concordância do Chefe do Estado-Maior da Armada.
 
-###### Art. 6.º - 1 - Dos requerimentos das licenças a que se refere o artigo 3.º deverão constar:
+Art. 6.º - 1 - Dos requerimentos das licenças a que se refere o artigo 3.º deverão constar:
 
 a) A descrição precisa e clara dos trabalhos ou actividades cuja execução se pretende, com a pormenorização necessária à sua conveniente caracterização;
 
@@ -162,7 +174,7 @@ b) A localização do prédio em que se pretende efectuar os trabalhos ou activi
 
 2 - Os requerimentos deverão ser acompanhados de planta geral, em triplicado, com a situação das obras em relação ao prédio onde ela se projecta e, se for caso disso, de memória descritiva da construção projectada, também em triplicado, em escala não inferior a 1:200.
 
-###### Art. 7.º As áreas sujeitas a servidão militar serão demarcadas em planta apropriada, sendo destinados exemplares aos seguintes departamentos:
+Art. 7.º As áreas sujeitas a servidão militar serão demarcadas em planta apropriada, sendo destinados exemplares aos seguintes departamentos:
 
 Ministério da Defesa Nacional;
 
@@ -176,8 +188,8 @@ Departamentos do Governo Regional dos Açores competentes.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - José Alberto Loureiro dos Santos - Henrique Afonso da Silva Horta.
 
-**Promulgado em 3 de Janeiro de 1980.**
+Promulgado em 3 de Janeiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

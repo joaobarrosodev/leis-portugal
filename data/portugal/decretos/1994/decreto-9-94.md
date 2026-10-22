@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/1994/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-1994-515467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97b89b93d52f2a110125aea6910f4458414ffea20bda04f52f9d9760428435c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b24ac5791097c50337fbb8392cf40bc316e8e31b97de731235491273fbfde47d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Unesco
 - Convenção
-- Portugal
+- Financiamento
 - ONU
 - Palop
+- Portugal
+- Unesco
 relationships: []
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:27Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 24 de Fevereiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo entre o Governo da República Portuguesa e a Organização das Nações Unidas para a Educação, Ciência e Cultura Relativo à Constituição e Utilização do Fundo Acordado pelo Estado Português e a UNESCO, assinado em Lisboa em 8 de Julho de 1993, cujas versões autênticas nas línguas portuguesa e francesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo entre o Governo da República Portuguesa e a Organização das Nações Unidas para a Educação, Ciência e Cultura Relativo à Constituição e Utilização do Fundo Acordado pelo Estado Português e a UNESCO, assinado em Lisboa em 8 de Julho de 1993, cujas versões autênticas nas línguas portuguesa e francesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Durão Barroso.
 
-**Assinado em 3 de Novembro de 1993.**
+Assinado em 3 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1993.**
+Referendado em 4 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACCORD ENTRE L'ORGANISATION DES NATIONS UNIES POUR L'ÉDUCATION, LA SCIENCE ET LA CULTURE ET LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE CONCERNANT LA CONSTITUTION ET L'UTILISATION D'UN FOND ACCORDÉ ENTRE L'UNESCO ET L'ÉTAT PORTUGAIS.
 

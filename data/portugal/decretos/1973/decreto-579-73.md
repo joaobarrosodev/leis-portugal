@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/579-1973-412620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7d8a913bcc4e20b0469c4b11391355ce3fe732625f0943b1818fe0ab817729a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58016d3a2377859e8680297f40b63c4deb6b49489793a18255adc92b091feb49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:46Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +98,9 @@ Tendo em conta o disposto no artigo 6.º e seu § 1.º do [Decreto-Lei n.º 4823
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com a firma Turbomar, Lda., para fornecimento e montagem de grupos electrogéneos em diversas estações de microondas do Grupo de Detecção, Alerta e Conduta da Intercepção, pela importância de 762910$00.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com a firma Turbomar, Lda., para fornecimento e montagem de grupos electrogéneos em diversas estações de microondas do Grupo de Detecção, Alerta e Conduta da Intercepção, pela importância de 762910$00.
 
-###### Art. 2.º O encargo com esta aquisição, no montante de 762910$00, a custear por conta da verba adequada do orçamento suplementar de Defesa, será liquidada pelo referido conselho administrativo:
+Art. 2.º O encargo com esta aquisição, no montante de 762910$00, a custear por conta da verba adequada do orçamento suplementar de Defesa, será liquidada pelo referido conselho administrativo:
 
 Em 1973 - 508300$00 pelo capítulo 16.º, artigo 542.º do orçamento dos Encargos Gerais da Nação - Despesa extraordinária;
 
@@ -104,8 +108,8 @@ Em 1974 - 254610$00 e o que se apurar como saldo em 1973.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - José Pereira do Nascimento - Augusto Victor Coelho.
 
-**Promulgado em 20 de Outubro de 1973.**
+Promulgado em 20 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

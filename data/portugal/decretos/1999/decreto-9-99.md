@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/1999/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-1999-144989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:10:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f51c1bff860852144d70837dc42017f3e8ad7911b825266d090bd2b683481c65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56119ce4de0c7ed8ac7f2501edf5f563d8e0f4b69aad53f2c5998b9c1c68ff33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:10:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Controlo Administrativo
 - Controlo Médico
 - Convenção
-- Portugal
-- Dinamarca
 - Copenhaga
+- Dinamarca
 - Política de Saúde
+- Portugal
 - Prestações em Espécie
 - Reembolso
 - Segurança Social
@@ -88,13 +88,13 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:10:44Z'
   warnings: []
   errors: []
 ---
@@ -111,15 +111,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição da Repúbl
 
 Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Assinado em 26 de Fevereiro de 1999.**
+Assinado em 26 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Março de 1999.**
+Referendado em 4 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO DE RENÚNCIA AO REEMBOLSO DE DESPESAS EFECTUADAS COM A CONCESSÃO DE PRESTAÇÕES EM ESPÉCIE E COM OS CONTROLOS ADMINISTRATIVOS E MÉDICOS, NO QUADRO DOS N.OS 3 DOS ARTIGOS 36.º E 63.º DO REGULAMENTO (CEE) N.º [1408/71](http://data.europa.eu/eli/reg/1971/1408/oj?locale=pt) E DO N.º 2 DO ARTIGO 105.º DO REGULAMENTO (CEE) N.º [574/72](http://data.europa.eu/eli/reg/1972/574/oj?locale=pt).
 

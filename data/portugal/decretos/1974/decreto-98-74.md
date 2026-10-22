@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/98-1974-412443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 583273f395cc5c69425eb918806a69ef7cfcd034f0e0e91d41b2fe0f38549b3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31a2c1c83c179ed559bd3faf74d754dc7150ece227525f1784b92b9be513c724
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Café
+- Comércio Internacional
+- Cooperação Internacional
+- Exportação
+- Importação
+- Londres
+- Nova Iorque
+- Organização Internacional do CAFÉ
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:307611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307611:por
+  label: "Aprovado, para ratificação, o Protocolo para a continuação em vigor do Convénio Internacional do Café de 1968 (aprovado,\
+    \ para ratificação pelo Dec Lei 48570 de 05-Set de 1968, e cuja forma cuja forma modificada foi aprovada, para ratificação,\
+    \ pelo presente diploma), o qual conjuntamente com o Protocolo passam a constituir um instrumento único, conhecido como\
+    \ o Convénio Internacional do Café de 1968 Prorrogado, pelo DEC.483/75.04.09.1975.MNE, DG.IS [204] de 04.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/483-1975-307611
+  date: '1975-09-04'
+- type: cites
+  target: pt:dre:265081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:56Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +113,7 @@ Tendo o Conselho Internacional do Café, pela sua resolução n.º 264, de 14 de
 
 Nestes termos, e usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único - 1. É aprovada para ratificação a forma modificada do Acordo Internacional do Café, aberto à assinatura em Nova Iorque de 18 a 31 de Março de 1968, e dos seus Anexos.
+Artigo único - 1. É aprovada para ratificação a forma modificada do Acordo Internacional do Café, aberto à assinatura em Nova Iorque de 18 a 31 de Março de 1968, e dos seus Anexos.
 
 2. A referida forma modificada foi adoptada na 2.ª reunião plenária da 22.ª sessão do Conselho Internacional do Café, realizada em Londres em 14 de Abril de 1973, nos termos do parágrafo 2) do artigo 69 daquele Acordo.
 
@@ -100,11 +121,11 @@ Nestes termos, e usando da faculdade conferida pela 2.ª parte do n.º 2.º do a
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 8 de Março de 1974.**
+Assinado em 8 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 CONVÉNIO INTERNACIONAL DO CAFÉ DE 1968 PRORROGADO
 
@@ -124,7 +145,7 @@ Acordam no seguinte:
 
 ### CAPÍTULO I — Objectivos
 
-###### ARTIGO 1.º (Modificado)
+ARTIGO 1.º (Modificado)
 
 Objectivos
 
@@ -140,7 +161,7 @@ b) Como centro competente e eficaz para coligir e disseminar informações estat
 
 ### CAPÍTULO II — Definições
 
-###### ARTIGO 2.º (Modificado)
+ARTIGO 2.º (Modificado)
 
 Definições
 
@@ -196,7 +217,7 @@ g) «Café solúvel» significa as partículas desidratadas, solúveis em água,
 
 ### CAPÍTULO III — Membros
 
-###### ARTIGO 3.º (Modificado)
+ARTIGO 3.º (Modificado)
 
 Participação na organização
 
@@ -214,7 +235,7 @@ Participação na organização
 
 Toda a Parte Contratante que seja importadora líquida de café pode, em qualquer momento, mediante a notificação prevista no parágrafo 2) do artigo 65.º, declarar que participa na Organização separadamente de qualquer dos seus territórios dependentes por ela especificados, que sejam exportadores líquidos de café. Em tal caso, o território metropolitano e os territórios dependentes não especificados constituem um único Membro e os territórios dependentes especificados têm participação separada como Membros, seja individual ou colectivamente, conforme se indique na notificação.
 
-###### ARTIGO 5.º (Modificado)
+ARTIGO 5.º (Modificado)
 
 Participação inicial em grupo
 
@@ -292,7 +313,7 @@ Dois ou mais Membros exportadores podem, em qualquer momento após o Convénio t
 
 Em regra, o Conselho reúne-se duas vezes por ano em sessão ordinária. Pode reunir-se em sessões extraordinárias se assim o decidir, ou quando assim lhe for solicitado seja pela Junta Executiva, seja por cinco Membros quaisquer, seja por um ou mais Membros que disponham de, pelo menos, 200 votos. As sessões do Conselho são convocadas com uma antecedência de, pelo menos, trinta dias, excepto em casos de emergência. Salvo decisão em contrário do Conselho, as sessões têm lugar na sede da Organização.
 
-###### ARTIGO 12.º (Modificado)
+ARTIGO 12.º (Modificado)
 
 Votos
 
@@ -360,7 +381,7 @@ d) Se o Conselho não submeter a moção a nova votação, ela é considerada re
 
 7) Se os votos obtidos por um Membro eleito ultrapassarem 499, os Membros que nele votaram ou que a ele atribuíram os seus votos, providenciarão entre si para que um ou mais deles retirem os votos dados a esse Membro e os transfiram para outro Membro eleito, de modo que nenhum Membro eleito disponha de mais de 499 votos.
 
-###### ARTIGO 17.º (Modificado)
+ARTIGO 17.º (Modificado)
 
 Competência da Junta
 
@@ -456,7 +477,7 @@ b) Concede isenção de impostos sobre os haveres, as receitas e os demais bens 
 
 3) A contribuição inicial de qualquer Membro que entre para a Organização depois de o Convénio entrar em vigor é fixada pelo Conselho com base no número de votos que lhe são atribuídos e em função do período restante do exercício financeiro em curso, permanecendo inalteradas as contribuições fixadas aos outros Membros, para esse exercício financeiro.
 
-###### ARTIGO 25.º (Modificado)
+ARTIGO 25.º (Modificado)
 
 Pagamento das contribuições
 
@@ -612,7 +633,7 @@ Política de «stocks»
 
 ### CAPÍTULO XVII — Informações e estudos
 
-###### ARTIGO 55.º (Modificado)
+ARTIGO 55.º (Modificado)
 
 Informações
 
@@ -634,7 +655,7 @@ b) Na medida em que o julgar conveniente, informações técnicas sobre o cultiv
 
 ### CAPÍTULO XVIII — Dispensa de obrigações
 
-###### ARTIGO 57.º (Modificado)
+ARTIGO 57.º (Modificado)
 
 Dispensa de obrigações
 
@@ -646,7 +667,7 @@ Dispensa de obrigações
 
 ### CAPÍTULO XIX — Consultas, litígios e reclamações
 
-###### ARTIGO 58.º (Modificado)
+ARTIGO 58.º (Modificado)
 
 Consultas
 
@@ -670,7 +691,7 @@ Qualquer Membro acolherá favoravelmente as diligências que possam ser feitas p
 
 (Suprimido.)
 
-###### ARTIGO 63.º (Modificado)
+ARTIGO 63.º (Modificado)
 
 Adesão
 
@@ -682,7 +703,7 @@ Adesão
 
 Não são admitidas reservas quanto a qualquer das disposições deste Convénio.
 
-###### ARTIGO 65.º (Modificado)
+ARTIGO 65.º (Modificado)
 
 Notificações relativas aos territórios dependentes
 
@@ -708,7 +729,7 @@ Se o Conselho decidir que um Membro deixou de cumprir as obrigações que lhe im
 
 2) O Membro que se houver retirado ou tiver deixado de participar no Convénio não tem direito a parte alguma do produto da liquidação, ou de outros haveres da Organização, no momento em que terminar o Convénio, em virtude do artigo 69.º
 
-###### ARTIGO 69.º (Modificado)
+ARTIGO 69.º (Modificado)
 
 Vigência e termo - Negociação de um novo convénio
 
@@ -726,13 +747,13 @@ Vigência e termo - Negociação de um novo convénio
 
 2) Qualquer Parte Contratante, ou qualquer território dependente que seja Membro ou integrante de um Grupo Membro, e em cujo nome não tenha sido feita notificação de aceitação de uma emenda até a data da sua entrada em vigor, deixa, a partir dessa data, de participar do Convénio.
 
-###### ARTIGO 71.º (Modificado)
+ARTIGO 71.º (Modificado)
 
 Notificações pelo secretário-geral das Nações Unidas
 
-**O secretário-geral das Nações Unidas notifica a todas as Partes Contratantes do Convénio Internacional do Café de 1968 e a todos os outros governos de Estados Membros das Nações Unidas ou de qualquer das suas agências especializadas qualquer depósito de instrumento de aceitação ou adesão. O secretário-geral das Nações Unidas informa igualmente todas as Partes Contratantes de qualquer notificação feita nos termos dos artigos 5.º, 65.º, 66.º ou 67.º, da data em que o Convénio termina segundo o artigo 69.º e da data em que uma emenda entra em vigor em virtude do artigo 70.º**
+O secretário-geral das Nações Unidas notifica a todas as Partes Contratantes do Convénio Internacional do Café de 1968 e a todos os outros governos de Estados Membros das Nações Unidas ou de qualquer das suas agências especializadas qualquer depósito de instrumento de aceitação ou adesão. O secretário-geral das Nações Unidas informa igualmente todas as Partes Contratantes de qualquer notificação feita nos termos dos artigos 5.º, 65.º, 66.º ou 67.º, da data em que o Convénio termina segundo o artigo 69.º e da data em que uma emenda entra em vigor em virtude do artigo 70.º
 
-###### ARTIGO 72.º (Modificado)
+ARTIGO 72.º (Modificado)
 
 Disposições suplementares e transitórias
 
@@ -764,8 +785,8 @@ Os textos deste Convénio em espanhol, francês, inglês e português são igual
 
 ## ANEXO D — Países exportadores - Distribuição de votos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/06200/03370348.pdf))](https://files.diariodarepublica.pt/1s/1974/03/06200/03370348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/06200/03370348.pdf)
 
 Distribuição de votos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/06200/03370348.pdf))](https://files.diariodarepublica.pt/1s/1974/03/06200/03370348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/06200/03370348.pdf)

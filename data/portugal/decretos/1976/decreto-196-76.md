@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06500/05380541.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/196-1976-501614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ec63c18ce27b1c9d7b0f89658119ea564ded40de7c58a41c2b7a700654773b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce93815030bc325e5b98ebeba2df4493b7f29c680bbedd4984c5c40b6b9b7a5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Função Pública
+- Quadro de Pessoal
+- Secretaria de Estado da Administração Pública
+- Serviço Central de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:508610:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:531016:por
+  label: "Alterado o nº 2 do art. 1º e revogado o art. 7º pelo DEC LEI.307-A/76.26.04.1976.MCOOP, DR.IS [98-Supl] de 26.04.1976\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-a-1976-531016
+  date: '1976-04-26'
+- type: amended_by
+  target: pt:dre:250582:por
+  label: "Alterado o n.º 1 do artigo 3.º e n.º 1 do artigo 6.º pelo DEC.93/77.05.07.1977.PCM, DR.IS [153] de 05.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/93-1977-250582
+  date: '1977-07-05'
+- type: amended_by
+  target: pt:dre:369823:por
+  label: "Determinada a extinção e transição para a Direcção-Geral de Recrutamento e Formação das respectivas atribuições,\
+    \ nos termos previstos no art. 20º, do Serviço Central de Pessoal, criado pelo presente diploma e reestruturado pelo Decreto\
+    \ n.º 93/77, de 5 de Julho, pelo DEC LEI.385/79.19.09.1979.PCM, DR.IS [217] de 19.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1979-369823
+  date: '1979-09-19'
+- type: amended_by
+  target: pt:dre:508610:por
+  label: Substituído o quadro do pessoal do Serviço Central de Pessoal pelo(a) Portaria n.º 26-B/80 - Diário da República
+    n.º 7/1980, 2º Suplemento, Série I de 1980-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-b-1980-508610
+  date: '1980-01-09'
+- type: cites
+  target: pt:dre:336361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:231301:por
+  label: "Revogado pelo DR.80/79.31.12.1979.PCM, DR.IS [300-6ºSupl] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/80-1979-231301
+  date: '1979-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:07Z'
   warnings: []
   errors: []
 ---
@@ -268,14 +318,14 @@ Este diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Francisco Salgado Zenha - Rui Alberto Barradas do Amaral.
 
-**Promulgado em 4 de Março de 1976.**
+Promulgado em 4 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06500/05380541.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06500/05380541.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06500/05380541.pdf)
 
-**O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro das Finanças, Francisco Salgado Zenha. - O Secretário de Estado da Função Pública, Rui Alberto Barradas do Amaral.**
+O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro das Finanças, Francisco Salgado Zenha. - O Secretário de Estado da Função Pública, Rui Alberto Barradas do Amaral.

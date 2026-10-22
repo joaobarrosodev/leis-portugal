@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/255-1974-622812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33cb69454d30e6a7316ca360a886e20de2fd859f806db7cc75548d52b8e498fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79c8f993c2e1d583c7054fadcc444f9959d2e3100f74d43e0ceeab1a1e2a5109
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:423020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:29Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +96,7 @@ Nos termos do artigo 22.º do Estatuto Político-Administrativo de Moçambique, 
 
 Usando da faculdade conferida pelo n.º 4.º do n.º 1 do artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo 1.º As Secretarias do Estado de Moçambique passam a ser as seguintes:
+Artigo 1.º As Secretarias do Estado de Moçambique passam a ser as seguintes:
 
 a) Secretaria da Administração Territorial;
 
@@ -108,15 +116,15 @@ h) Secretaria de Obras Públicas, Habitação e Urbanismo;
 
 i) Secretaria da Comunicação Social e do Turismo.
 
-###### Art. 2.º Para coadjuvarem o Governador-Geral no exercício das funções executivas, são criados, no Estado de Moçambique, cinco lugares de secretários-adjuntos do Governador-Geral.
+Art. 2.º Para coadjuvarem o Governador-Geral no exercício das funções executivas, são criados, no Estado de Moçambique, cinco lugares de secretários-adjuntos do Governador-Geral.
 
-###### Art. 3.º - 1. Os secretários-adjuntos do Governador-Geral preferem, na ordem de precedência, aos secretários que dirigem as Secretarias referidas no artigo 1.º
+Art. 3.º - 1. Os secretários-adjuntos do Governador-Geral preferem, na ordem de precedência, aos secretários que dirigem as Secretarias referidas no artigo 1.º
 
 2. A precedência entre os secretários do Estado de Moçambique determina-se pela ordem por que se acham enumeradas, no artigo 1.º, as Secretarias respectivas.
 
-###### Art. 4.º Enquanto não estiver provido o lugar de secretário-geral, os serviços de administração civil serão atribuídos ao secretário da Administração Territorial.
+Art. 4.º Enquanto não estiver provido o lugar de secretário-geral, os serviços de administração civil serão atribuídos ao secretário da Administração Territorial.
 
-###### Art. 5.º - 1. O secretário da Coordenação Económica será assistido no exercício das suas funções executivas pelos seguintes subsecretários:
+Art. 5.º - 1. O secretário da Coordenação Económica será assistido no exercício das suas funções executivas pelos seguintes subsecretários:
 
 a) Subsecretário de Planeamento e Finanças;
 
@@ -132,16 +140,16 @@ e) Subsecretário de Pecuária e Pescas.
 
 3. Os subsecretários da Secretaria de Coordenação Económica preferem entre si pela ordem por que estão referidos no n.º 1 deste artigo.
 
-###### Art. 6.º O secretário da Educação e Cultura será assistido no exercício das suas funções executivas por um subsecretário de Educação Física e Desportos.
+Art. 6.º O secretário da Educação e Cultura será assistido no exercício das suas funções executivas por um subsecretário de Educação Física e Desportos.
 
-###### Art. 7.º Este decreto entra imediatamente em vigor.
+Art. 7.º Este decreto entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - António de Almeida Santos.
 
-**Assinado em 5 de Junho de 1974.**
+Assinado em 5 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - A. de Almeida Santos.

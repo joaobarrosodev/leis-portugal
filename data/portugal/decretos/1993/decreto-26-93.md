@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/26/1993/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/26-1993-329452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fca9c0972b7807fa5be102728a52787d633d78628c5fba36380d9c686ebb0bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c97d2dd7999feda54806ab20406c1586d7cd2acdc96246bcce02a8fed209209
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Trabalho
-- Radioprotecção
 - Convenção
-- Portugal
-- Segurança no Trabalho
-- OIT
 - Genebra
+- OIT
+- Portugal
+- Radioprotecção
+- Segurança no Trabalho
 - Trabalhador
+- Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:426769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426769:por
+  label: "Estendida ao Território de Macau a aplicação da Convenção aprovada para ratificação pelo presente diploma, pelo\
+    \ DEC.169/99.1999.08.05.PR DR.IS [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/169-1999-426769
+  date: '1999-08-05'
+- type: amended_by
+  target: pt:dre:667278:por
+  label: "Tornada pública a aplicação a Macau da Convenção nº 115 aprovada para ratificação pelo presente diploma, pelo AV.167/99.1999.09.28.MNE,\
+    \ DR.IS-A [244] de 19/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/167-1999-667278
+  date: '1999-09-28'
 article_structure:
-  article_count: 24
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 23
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:26Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +110,19 @@ de 18 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção n.º 115 da Organização Internacional do Trabalho, relativa às radiações ionizantes, adoptada pela Conferência Internacional do Trabalho em 21 de Junho de 1960, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção n.º 115 da Organização Internacional do Trabalho, relativa às radiações ionizantes, adoptada pela Conferência Internacional do Trabalho em 21 de Junho de 1960, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1993. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso - José Albino da Silva Peneda - Arlindo Gomes de Carvalho.
 
 Ratificado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1993.**
+Referendado em 23 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION 115 - CONVENTION CONCERNANT LA PROTECTION DES TRAVAILLEURS CONTRE LES RADIATIONS IONISANTES
 
@@ -286,7 +298,7 @@ Tendo decidido que essas propostas tomariam a forma de uma convenção internaci
 
 adopta, neste 22.º dia de Junho de 1960, a seguinte Convenção, que será denominada Convenção sobre a Protecção contra as Radiações:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º
 
@@ -314,7 +326,7 @@ c) O membro em causa deverá enviar ao director-geral da Repartição Internacio
 
 d) Ao fim de um período de três anos após a entrada em vigor inicial da presente Convenção, o conselho de administração da Repartição Internacional do Trabalho apresentará à Conferência um relatório especial sobre a aplicação da alínea b) do presente parágrafo, contendo propostas julgadas oportunas com vista à tomada de medidas relacionadas com a referida alínea.
 
-# PARTE II — Medidas de protecção
+## PARTE II — Medidas de protecção
 
 ###### Artigo 4.º
 
@@ -382,7 +394,7 @@ Nenhum trabalhador deverá ser afecto ou continuar a sê-lo a um trabalho suscep
 
 Qualquer membro que ratifique a presente Convenção obrigar-se-á a encarregar serviços de inspecção apropriados do controlo da aplicação das suas disposições ou a verificar que seja assegurada uma inspecção adequada.
 
-# PARTE III — Disposições finais
+## PARTE III — Disposições finais
 
 ###### Artigo 16.º
 

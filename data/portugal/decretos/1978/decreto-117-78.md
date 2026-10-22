@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/117-1978-327582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b034e60fda4dc567ec6def9be4a658ce0462baa91c802d8d8d7937d05b40f224
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a36a6f437f85b8c7ff475d523622ce901fa2cb361da54c79b4f5f27fd4c73b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Despesas Públicas
+- Equipamento Eléctrico
+- Força Aérea
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:53Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +100,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção do Serviço de Electricidade e Telecomunicações da Força Aérea a celebrar um contrato com a Gelpor - Geradores Eléctricos de Portugal, Lda., para aquisição de grupos electrogéneos até ao montante de 7771930$00.
+Artigo 1.º É autorizada a Direcção do Serviço de Electricidade e Telecomunicações da Força Aérea a celebrar um contrato com a Gelpor - Geradores Eléctricos de Portugal, Lda., para aquisição de grupos electrogéneos até ao montante de 7771930$00.
 
-###### Art. 2.º - 1 - O encargo da aquisição a que se refere o artigo anterior não poderá, em cada ano, exceder as seguintes importâncias:
+Art. 2.º - 1 - O encargo da aquisição a que se refere o artigo anterior não poderá, em cada ano, exceder as seguintes importâncias:
 
 Em 1978 - 3885965$00.
 
@@ -101,12 +110,12 @@ Em 1979 - 3885965$00.
 
 2 - A importância fixada para o ano de 1979 será acrescida do saldo que se apurar no ano anterior.
 
-###### Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos nos anos de 1978 e 1979 pela dotação adequada atribuída e a atribuir em despesas gerais do orçamento do Departamento da Força Aérea para cada um daqueles anos.
+Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos nos anos de 1978 e 1979 pela dotação adequada atribuída e a atribuir em despesas gerais do orçamento do Departamento da Força Aérea para cada um daqueles anos.
 
 Visto e aprovado em Conselho da Revolução em 29 de Setembro de 1978.
 
-**Promulgado em 30 de Setetmbro de 1978.**
+Promulgado em 30 de Setetmbro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Alfredo Jorge Nobre da Costa.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Alfredo Jorge Nobre da Costa.

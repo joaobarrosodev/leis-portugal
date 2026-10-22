@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/2009/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-2009-603259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b50b4afa3d0822ef4a3e1715c28965e03471dd3c4a46e25c273fd8ee12d17bc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 287b3b05c997eafabbb237c552b7bfa4bed305c05fa46d009518dcb06999b729
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Argentina
 - Convenção
 - Portugal
-- Argentina
 - Santiago do Chile
 - Segurança Social
 relationships: []
 article_structure:
   article_count: 39
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:04Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge.
 
-**Assinado em 23 de Março de 2009.**
+Assinado em 23 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Março de 2009.**
+Referendado em 26 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 CONVENÇÃO SOBRE SEGURANÇA SOCIAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ARGENTINA
 
@@ -476,15 +476,15 @@ Os períodos de seguro cumpridos de acordo com a legislação de cada um dos Est
 
 O Estado Contratante em cujo território a presente Convenção for assinada submetê-la-á para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar o outro Estado Contratante da conclusão deste procedimento e indicar-lhe o número de registo atribuído.
 
-**Assinada em Santiago do Chile em 9 de Novembro de 2007, em dois exemplares, nas línguas espanhola e portuguesa, fazendo ambos os textos igualmente fé.**
+Assinada em Santiago do Chile em 9 de Novembro de 2007, em dois exemplares, nas línguas espanhola e portuguesa, fazendo ambos os textos igualmente fé.
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf)
 
 Pela República Argentina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf)
 
 CONVENIO DE SEGURIDAD SOCIAL ENTRE LA REPÚBLICA ARGENTINA Y LA REPÚBLICA PORTUGUESA
 
@@ -498,7 +498,7 @@ Han decidido celebrar un convenio que sustituye al Convenio de Seguridad Social 
 
 por el que acordaron lo siguiente:
 
-## TITULO I
+TITULO I
 
 Disposiciones generales
 
@@ -608,7 +608,7 @@ Reducción, suspensión o supresión de las prestaciones
 
 Las cláusulas de reducción, suspensión o supresión de las prestaciones previstas por la legislación de uno de los Estados Contratantes, en el caso de acumulación de una prestación con otras prestaciones de seguridad social o con otros ingresos, incluyendo los que resulten del ejercicio de una actividad profesional, son oponibles al interesado, aunque se trate de prestaciones adquiridas según los términos de la legislación del otro Estado Contratante o de ingresos obtenidos en el territorio de ese otro Estado.
 
-## TITULO II
+TITULO II
 
 Disposiciones sobre la legislación aplicable
 
@@ -654,7 +654,7 @@ Excepciones
 
 Las autoridades competentes de ambos Estados Contratantes o los organismos designados por ellas, podrán, de común acuerdo, en interés de ciertas personas o categorías de personas, establecer excepciones a lo dispuesto en los artículos 8 y 9, a pedido de las mismas o de los respectivos empleadores.
 
-## TITULO III
+TITULO III
 
 Disposiciones relativas a las prestaciones de invalidez, vejez y muerte
 
@@ -740,7 +740,7 @@ Régimen de capitalización individual
 
 2 - Las prestaciones otorgadas por el régimen de capitalización argentino se adicionarán a las prestaciones que se encuentren a cargo del régimen previsional público o de reparto, cuando el trabajador reúna las requisitos establecidos por la legislación vigente, aplicándose en caso de resultar necesario, la totalización de periodos, como así también, las disposiciones relativas al cálculo de las prestaciones contenidas en la sección 1 de este capítulo.
 
-## TITULO IV
+TITULO IV
 
 Disposiciones relativas a otras prestaciones
 
@@ -808,7 +808,7 @@ Evaluación del grado de incapacidad
 
 Si para evaluar el grado de incapacidad en caso de accidente de trabajo o de enfermedad profesional, la legislación de uno de los Estados Contratantes prevé que los accidentes del trabajo y las enfermedades profesionales verificados anteriormente sean tomados en consideración, lo serán también los accidentes del trabajo y las enfermedades profesionales verificados anteriormente bajo la legislación del otro Estado, como si se hubieran verificado bajo la legislación del primer Estado.
 
-## TITULO V
+TITULO V
 
 Disposiciones diversas y finales
 
@@ -956,8 +956,8 @@ Hecho en la ciudad de Santiago de Chile, a los 9 días de noviembre de 2007, en 
 
 Por la República Argentina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf)
 
 Por la República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06600/0208402097.pdf)

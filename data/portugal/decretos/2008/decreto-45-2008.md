@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/45/2008/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-2008-452724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5757eccf5748dc181c3354ec7ef67a3ceddf5e065ef8b626e2253ea88a2cc0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 657f0b4b51c13a0fe6ef035d2a0ea09d9fc110396a77b9ef237fc437261210b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,20 @@ subjects:
 - Autoridade Nacional de Segurança
 - Bulgária
 - Convenção
-- Portugal
 - Documentação Classificada
+- Portugal
 - Segurança da Informação
 relationships: []
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:49Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +103,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira.
 
-**Assinado em 15 de Setembro de 2008.**
+Assinado em 15 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado 16 de Setembro de 2008.**
+Referendado 16 de Setembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA BULGÁRIA RELATIVO À PROTECÇÃO MÚTUA DE INFORMAÇÃO CLASSIFICADA
 
@@ -191,7 +191,7 @@ State Commission on Information Security, Angel Kanchev 1 Str., 1040 Sofia, Bulg
 
 a) A parte destinatária concederá à informação classificada recebida um grau de protecção equivalente ao grau de classificação de segurança expressamente concedido pela parte transmissora à informação classificada;
 
-b) O acesso à informação classificada é limitado às pessoas que, para poder desempenhar as suas funções, tenham acesso a informação classificada com base na necessidade de conhecer e estejam habilitadas com uma credenciação de segurança do pessoal para acesso a informação classificada de «confidencial/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/confidential» ou superior.
+b) O acesso à informação classificada é limitado às pessoas que, para poder desempenhar as suas funções, tenham acesso a informação classificada com base na necessidade de conhecer e estejam habilitadas com uma credenciação de segurança do pessoal para acesso a informação classificada de «confidencial/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/confidential» ou superior.
 
 2 - Com o objectivo de se obterem e manterem padrões de segurança equivalentes, as autoridades nacionais de segurança deverão, sempre que solicitado, disponibilizar informação sobre os seus padrões de segurança, procedimentos e práticas para a protecção de informação classificada.
 
@@ -199,7 +199,7 @@ b) O acesso à informação classificada é limitado às pessoas que, para poder
 
 As Partes acordam que os seguintes graus de classificação de segurança são equivalentes e correspondem aos graus de classificação de segurança previstos no respectivo direito em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)
 
 ###### Artigo 7.º — Assistência aos procedimentos de credenciação de segurança
 
@@ -219,7 +219,7 @@ As Partes acordam que os seguintes graus de classificação de segurança são e
 
 ###### Artigo 9.º — Tradução, reprodução e destruição
 
-1 - A informação classificada marcada como «muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/top secret» apenas poderá ser traduzida ou reproduzida mediante autorização escrita da autoridade nacional de segurança da parte transmissora, ao abrigo do respectivo direito em vigor.
+1 - A informação classificada marcada como «muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/top secret» apenas poderá ser traduzida ou reproduzida mediante autorização escrita da autoridade nacional de segurança da parte transmissora, ao abrigo do respectivo direito em vigor.
 
 2 - As traduções e reproduções da informação classificada serão efectuadas em conformidade com os procedimentos seguintes:
 
@@ -231,11 +231,11 @@ c) As traduções e o número de reproduções serão limitados ao necessário p
 
 d) As traduções deverão ter a indicação apropriada na língua para a qual é traduzida, indicando que contêm informação classificada recebida da parte transmissora.
 
-3 - A informação classificada marcada como «muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/top secret» não poderá ser destruída e deverá ser devolvida à autoridade nacional de segurança da parte transmissora.
+3 - A informação classificada marcada como «muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/top secret» não poderá ser destruída e deverá ser devolvida à autoridade nacional de segurança da parte transmissora.
 
-4 - Para a destruição de informação classificada marcada como «secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/secret» será necessário consentimento prévio, por escrito, da parte transmissora.
+4 - Para a destruição de informação classificada marcada como «secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/secret» será necessário consentimento prévio, por escrito, da parte transmissora.
 
-5 - A informação classificada marcada até «confidencial/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/confidential», inclusive, deverá ser destruída de acordo com o respectivo direito em vigor.
+5 - A informação classificada marcada até «confidencial/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/confidential», inclusive, deverá ser destruída de acordo com o respectivo direito em vigor.
 
 6 - No caso de uma situação em que se torne impossível proteger e devolver informação classificada criada ou transferida no âmbito do presente Acordo, a informação classificada deverá ser imediatamente destruída. A parte destinatária deverá notificar a autoridade nacional de segurança da parte transmissora acerca da destruição da informação classificada com a maior brevidade possível.
 
@@ -395,7 +395,7 @@ Pela República da Bulgária:
 
 Tsveta Markova, Presidente da Comissão de Estado da Segurança da Informação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF BULGARIA ON THE MUTUAL PROTECTION OF CLASSIFIED INFORMATION
 
@@ -485,7 +485,7 @@ Security rules
 
 a) The receiving party shall afford to the received classified information a level of protection equivalent to the security classification levels expressly given to the classified information by the originating party;
 
-b) The access to classified information shall be restricted to persons who, in order to perform their functions, have access to the classified information, on a need-to-know basis, hold a personnel security clearance for access to information classified «confidencial/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/confidential» or above.
+b) The access to classified information shall be restricted to persons who, in order to perform their functions, have access to the classified information, on a need-to-know basis, hold a personnel security clearance for access to information classified «confidencial/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/confidential» or above.
 
 2 - In order to achieve and maintain comparable standards of security, the national security authorities shall, on request, provide each other with information about their security standards, procedures and practices for protection of classified information.
 
@@ -495,7 +495,7 @@ Equivalence of the security classification levels
 
 The Parties agree that the following security classification levels are equivalent and correspond to the security classification levels specified in the respective law in force:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)
 
 Article 7
 
@@ -521,7 +521,7 @@ Article 9
 
 Translation, reproduction and destruction
 
-1 - Classified information marked as «muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/top secret» shall be translated or reproduced only upon the written permission of the national security authority of the originating party, in accordance with the respective law in force.
+1 - Classified information marked as «muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/top secret» shall be translated or reproduced only upon the written permission of the national security authority of the originating party, in accordance with the respective law in force.
 
 2 - Translations and reproductions of classified information shall be made in accordance with the following procedures:
 
@@ -533,11 +533,11 @@ c) The translations and the number of reproductions shall be limited to that req
 
 d) The translations shall bear an appropriate note in the language into which it is translated indicating that it contains classified information received from the originating party.
 
-3 - Classified Information marked as «muito secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/top secret» shall not be destroyed and it shall be returned to the national security authority of the originating party.
+3 - Classified Information marked as «muito secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/top secret» shall not be destroyed and it shall be returned to the national security authority of the originating party.
 
-4 - For the destruction of classified information marked as «secreto/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/secret» prior written consent of the originating party is required.
+4 - For the destruction of classified information marked as «secreto/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/secret» prior written consent of the originating party is required.
 
-5 - Classified information marked up to «confidencial/[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/confidential», including, shall be destroyed in accordance with the respective law in force.
+5 - Classified information marked up to «confidencial/[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19800/0732607336.pdf)/confidential», including, shall be destroyed in accordance with the respective law in force.
 
 6 - In case of a situation which makes it impossible to protect and return classified information generated or transferred according to the present Agreement, the classified information shall be destroyed immediately. The receiving party shall notify the national security authority of the originating party about the destruction of the classified information as soon as possible.
 

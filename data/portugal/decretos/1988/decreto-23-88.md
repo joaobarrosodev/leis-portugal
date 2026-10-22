@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-1988-370416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 216d09a35a751f006844b7b64e57ce5646f534e1999f6ab23a12dc57c13ca4c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b4cce181b48d73c5b8cd3f5d67715d8ad1776dfa3a76b1165e0b5935f0e7846
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Ozono
+- Portugal
+- Proteção do Ambiente
+- Viena
+relationships:
+- type: amended_by
+  target: pt:dre:372070:por
+  label: "Tornada pública a extenção ao território de Macau, da Convenção aprovada para adesão pelo presente diploma, pelo\
+    \ AV.89/99.1999.06.08.MNE DR.IS-A [151] DE 01/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/89-1999-372070
+  date: '1999-06-08'
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:25Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +97,19 @@ de 1 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção de Viena, de 22 de Março de 1985, para a Protecção da Camada de Ozono, assim como os anexos I e II, cujos textos originais em inglês e respectiva tradução em português vão anexos ao presente decreto.
+Artigo único. É aprovada, para adesão, a Convenção de Viena, de 22 de Março de 1985, para a Protecção da Camada de Ozono, assim como os anexos I e II, cujos textos originais em inglês e respectiva tradução em português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 1988. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
 Ratificado em 8 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1988.**
+Referendado em 10 de Agosto de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Vienna Convention for the Protection of the Ozone Layer
 

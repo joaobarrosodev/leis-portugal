@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/595-1973-411623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a469637cf7aa371c20243efe2f32ac2192987206f14665c187e270c0f6f42634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80acff400c154c6e9cd649ee985de8d6d42067ae4d23d7ff7654dae92f24b9b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691262:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:53Z'
   warnings: []
   errors: []
 ---
@@ -97,28 +109,28 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. É alterado o quadro do pessoal dos Serviços Regionais de Estudo e Planeamento do Gabinete do Plano do Zambeze, constante do mapa II anexo ao [Decreto n.º 218/70](https://diariodarepublica.pt/dr/detalhe/decreto/218-1970-142329), com a criação e extinção dos lugares constantes do mapa anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º - 1. É alterado o quadro do pessoal dos Serviços Regionais de Estudo e Planeamento do Gabinete do Plano do Zambeze, constante do mapa II anexo ao [Decreto n.º 218/70](https://diariodarepublica.pt/dr/detalhe/decreto/218-1970-142329), com a criação e extinção dos lugares constantes do mapa anexo ao presente diploma e que dele faz parte integrante.
 
 2. Para as novas categorias de piloto aviador-chefe e mecânico de aeronaves-chefe transitarão os actuais piloto aviador-chefe e mecânico de aeronaves-chefe, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.
 
 3. Os lugares de piloto principal serão providos por escolha do Ministro do Ultramar de entre os pilotos aviadores de 1.ª classe ao serviço do Gabinete ou por pilotos estranhos a este de reconhecida competência.
 
-###### Art. 2.º Os encargos resultantes da execução do presente diploma serão suportados pelo orçamento do Gabinete do Plano do Zambeze aprovado para o corrente ano económico.
+Art. 2.º Os encargos resultantes da execução do presente diploma serão suportados pelo orçamento do Gabinete do Plano do Zambeze aprovado para o corrente ano económico.
 
-###### Art. 3.º Este diploma entra em vigor trinta dias decorridos sobre a data da sua publicação.
+Art. 3.º Este diploma entra em vigor trinta dias decorridos sobre a data da sua publicação.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 22 de Outubro de 1973.**
+Promulgado em 22 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 Alteração do quadro do pessoal dos Serviços Regionais de Estudo e Planeamento do Gabinete do Plano do Zambeze, constante do mapa II anexo ao [Decreto n.º 218/70](https://diariodarepublica.pt/dr/detalhe/decreto/218-1970-142329).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26000/21312131.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26000/21312131.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26000/21312131.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 161/1976, 1º Suplemento, Série I de 1976-07-12
   number: '161'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1540-(2) a 1540-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16101/00020002.pdf
 entry_into_force_dates: []
@@ -48,40 +48,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/550-b-1976-181627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 236eb1cb18d03a783b7fe47b4a32119314ef53e3db96e8eaaf1d83b60a97dfa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30cbd403f5602bea13e3fe4ec7b957cb010b89b3e956e2dbe42ca8e98f517b09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arsenal do Alfeite
+- Quadro de Pessoal
+- Regulamento
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:457581:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251775:por
+  label: "Reposto em vigor, tansitoriamente, o mapa anexo ao Dec 31873 de 27-Jan de 1942, revogado pelo presente diploma,\
+    \ e alterado o art. 32º, com a redacção conferida no presente, pelo DEC LEI.179/77.04.05.1977.CR, DR.IS [103] de 04.05.1977\
+    \ DEC LEI.179/77.04.05.1977.CR, DR.IS [103] de 04.05.1977\0977\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1977-251775
+  date: '1977-05-04'
+- type: cites
+  target: pt:dre:168826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632030:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:457581:por
+  label: "Revogado o art. 66.º do Regulamento do Arsenal do Alfeite, aprovado pelo Decreto n.º 31873, de 27 de Janeiro de\
+    \ 1942, com a redacção dada pelo presente diploma, pelo DEC LEI.523/80.05.11.1980.CR, DR.IS [256] de 05.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/523-1980-457581
+  date: '1980-11-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:00Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +133,20 @@ Convindo, igualmente, suprimir as gratificações especiais previstas na tabela 
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 32.º do [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 32.º do [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942, passa a ter a seguinte redacção:
 
-###### Art. 32.º Os quadros e a forma de provimento do pessoal do Arsenal do Alfeite serão fixados por portaria do Chefe do Estado-Maior da Armada.
+Art. 32.º Os quadros e a forma de provimento do pessoal do Arsenal do Alfeite serão fixados por portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 2.º O artigo 66.º do [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826) de 27 de Janeiro de 1942, com a redacção que lhe foi dada pelo [Decreto n.º 47382](https://diariodarepublica.pt/dr/detalhe/decreto/47382-1966-477648), de 15 de Dezembro de 1966, passa a ter a seguinte redacção:
+Art. 2.º O artigo 66.º do [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826) de 27 de Janeiro de 1942, com a redacção que lhe foi dada pelo [Decreto n.º 47382](https://diariodarepublica.pt/dr/detalhe/decreto/47382-1966-477648), de 15 de Dezembro de 1966, passa a ter a seguinte redacção:
 
-###### Art. 66.º Os militares da Armada que sejam colocados em comissão no Arsenal do Alfeite desempenharão os lugares do quadro, ou além deste, para que forem designados, de acordo com a formação técnico-profissional ministrada pela Armada, ou por seu intermédio, que os habilite para o exercício das referidas funções, com as remunerações que couberem a esses cargos e serão pagos, respectivamente, pelas disponibilidades das dotações orçamentais destinadas ao pessoal dos quadros ou por verba especialmente inscrita para esse fim.
+Art. 66.º Os militares da Armada que sejam colocados em comissão no Arsenal do Alfeite desempenharão os lugares do quadro, ou além deste, para que forem designados, de acordo com a formação técnico-profissional ministrada pela Armada, ou por seu intermédio, que os habilite para o exercício das referidas funções, com as remunerações que couberem a esses cargos e serão pagos, respectivamente, pelas disponibilidades das dotações orçamentais destinadas ao pessoal dos quadros ou por verba especialmente inscrita para esse fim.
 
-###### Art. 3.º É revogado o mapa anexo ao [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942, com a redacção que lhe foi dada pelo [Decreto n.º 533/71](https://diariodarepublica.pt/dr/detalhe/decreto/533-1971-632030), de 3 de Dezembro, e respectiva tabela de gratificações especiais.
+Art. 3.º É revogado o mapa anexo ao [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942, com a redacção que lhe foi dada pelo [Decreto n.º 533/71](https://diariodarepublica.pt/dr/detalhe/decreto/533-1971-632030), de 3 de Dezembro, e respectiva tabela de gratificações especiais.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 12 de Julho de 1976.**
+Promulgado em 12 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

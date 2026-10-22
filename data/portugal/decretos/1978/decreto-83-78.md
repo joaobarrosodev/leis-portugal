@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/83-1978-299442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e38c50882f3efd98b8d465c9eff411eb477c7bd65e44d10f042a4f07a13a05dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1945eafd91c38c7a1075d7585cdba1309713c09c3f6e5742071113c29a1ccc24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atividade Industrial
+- Investimento Público
+- Resina
+relationships:
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472719:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:13Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +102,14 @@ A importância e extensão do problema justificam um estudo que se pretende prof
 
 Assim, nos termos da alínea g) do artigo 202.º da Constituição, e usando da faculdade conferida pelo artigo 35.º do [Decreto-Lei n.º 533/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1974-472719), de 10 de Outubro, o Governo decreta o seguinte:
 
-###### Artigo 1.º A indústria de fabricação de resinas sintéticas, matérias plásticas e elastómeros deixa de se enquadrar entre as indústrias de acesso limitado e passa a estar sujeita ao regime de satisfação de requisitos previsto nos artigos 10.º e seguintes do [Decreto-Lei n.º 533/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1974-472719), de 10 de Outubro, considerando-se em consequência alterados os quadros I e II anexos ao diploma citado.
+Artigo 1.º A indústria de fabricação de resinas sintéticas, matérias plásticas e elastómeros deixa de se enquadrar entre as indústrias de acesso limitado e passa a estar sujeita ao regime de satisfação de requisitos previsto nos artigos 10.º e seguintes do [Decreto-Lei n.º 533/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1974-472719), de 10 de Outubro, considerando-se em consequência alterados os quadros I e II anexos ao diploma citado.
 
-###### Art. 2.º Este diploma produz efeitos no dia imediato ao da respectiva publicação.
+Art. 2.º Este diploma produz efeitos no dia imediato ao da respectiva publicação.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - Carlos Montês Melancia.
 
-**Promulgado em 10 de Agosto de 1978.**
+Promulgado em 10 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

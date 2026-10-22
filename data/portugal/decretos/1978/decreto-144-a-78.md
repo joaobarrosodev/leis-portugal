@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 276/1978, 2º Suplemento, Série I de 1978-11-30
   number: '276'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2542-(5) a 2542-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf
 entry_into_force_dates: []
@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/144-a-1978-223472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:49:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42d7bc0cfdefe4127e2a1877c85a87392939d5758cd97528044116b05f52b2bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f369fafac7f3b39aac819ca4bc1bc8c760ef0096398c7f514da33d9ae83b5a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conferência ONU
+- Convenção
+- FIDA
+- ONU
+- Portugal
+- Roma
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 55
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:49:20Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 30 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo Constitutivo do Fundo Internacional de Desenvolvimento Agrícola, adoptado em Roma pela Conferência das Nações Unidas sobre a criação de um Fundo Internacional de Desenvolvimento Agrícola a 13 de Junho de 1976.
+Artigo único. É aprovado para ratificação o Acordo Constitutivo do Fundo Internacional de Desenvolvimento Agrícola, adoptado em Roma pela Conferência das Nações Unidas sobre a criação de um Fundo Internacional de Desenvolvimento Agrícola a 13 de Junho de 1976.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 30 de Novembro de 1978.**
+Assinado em 30 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACCORD PORTANT CRÉATION DU FONDS INTERNATIONAL DE DÉVELOPPEMENT AGRICOLE
 
@@ -547,23 +553,23 @@ ANNEXE I
 
 Première partie - Pays pouvant devenir Membres originaires
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
 
 Deuxième partie - Annonces de contributions initiales (ver nota 1)
 
 Catégorie I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
 
 Catégorie II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
 
 (nota 1) Sous réserve de l'approbation législative éventuellement nécessaire.
 
 Catégorie III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
 
 ANNEXE II
 
@@ -759,7 +765,7 @@ e foi resolvido que é necessário criar imediatamente um Fundo Internacional de
 
 As Partes Contratantes acordaram na criação de um Fundo Internacional de Desenvolvimento Agrícola que será regido pelas seguintes disposições:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Definições
 
@@ -783,13 +789,13 @@ e) O termo «governador» significa a pessoa designada por um Membro como seu pr
 
 f) A expressão «votos emitidos» designa os votos afirmativos e os votos negativos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Objectivo e funções
 
 O objectivo do Fundo é o de mobilizar e fornecer, em condições de favor, recursos financeiros suplementares para o desenvolvimento agrícola dos Estados Membros em desenvolvimento. Com este objectivo, o Fundo financiará principalmente projectos e programas destinados, de forma expressa, a iniciar, desenvolver ou melhorar os sistemas de produção alimentar e a reforçar as políticas e instituições conexas no quadro das prioridades e estratégias nacionais, tendo em conta a necessidade de aumentar a produção de alimentos nos países mais probres com deficit alimentar; o potencial de aumento da produção alimentar noutros países em desenvolvimento; a importância de melhorar o nível de nutrição das populações mais pobres dos países em desenvolvimento, assim como as suas condições de vida.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Membros
 
@@ -799,23 +805,23 @@ a) Pode tornar-se Membro do Fundo qualquer Estado membro da Organização das Na
 
 b) Pode também tornar-se Membro do Fundo qualquer agrupamento de Estados cujos membros lhe tenham delegado poderes nos domínios da competência do Fundo e que esteja em condições de cumprir todas as obrigações de um Membro do Fundo.
 
-#### Secção 2 - Membros fundadores e Membros não fundadores:
+Secção 2 - Membros fundadores e Membros não fundadores:
 
 a) São Membros fundadores do Fundo os Estados enumerados no Anexo I - parte integrante do presente Acordo - que se tornem partes do presente Acordo conforme a secção 1, b), do artigo 13.º
 
 b) São Membros não fundadores do Fundo os outros Estados que, depois da aprovação da sua admissão como Membros pelo Conselho de Governadores, se tornem partes do presente Acordo conforme a secção 1, c), do artigo 13.º
 
-#### Secção 3 - Classificação dos Membros:
+Secção 3 - Classificação dos Membros:
 
 a) Os Membros fundadores são classificados numa das três categorias: I, II e III, como se indica no Anexo I do presente Acordo. Os Membros não fundadores são classificados pelo Conselho de Governadores pela maioria de dois terços do número total de votos, com o assentimento dos referidos Membros, no momento em que se aprove a sua admissão como Membros.
 
 b) A classificação de um Membro pode ser modificada pelo Conselho de Governadores, por maioria de dois terços do número total de votos, com o assentimento do referido Membro.
 
-#### Secção 4 - Limitação de responsabilidade:
+Secção 4 - Limitação de responsabilidade:
 
 Nenhum Membro, pelo facto de o ser, é responsável pelos actos ou obrigações do Fundo.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Recursos
 
@@ -831,7 +837,7 @@ iii) Contribuições especiais de Estados não Membros e de outras origens;
 
 iv) Recursos provenientes de operações do Fundo ou de outras origens.
 
-#### Secção 2 - Contribuições iniciais:
+Secção 2 - Contribuições iniciais:
 
 a) Cada Membro fundador da categoria I ou II contribui, e qualquer Membro fundador da categoria III pode contribuir, para os recursos iniciais do Fundo, entregando a quantia expressa na moeda estipulada no instrumento de ratificação, de aceitação, de aprovação ou de adesão depositado pelo citado Estado em conformidade com a secção 1, b), do artigo 13.º
 
@@ -839,15 +845,15 @@ b) Cada Membro não fundador da categoria I ou II contribui, e qualquer Membro n
 
 c) A contribuição inicial de cada Membro é exigível e pagável como previsto na secção 5, b), e 5, c), deste artigo, podendo o Membro escolher a forma de um depósito único ou de três prestações iguais. O depósito único ou a primeira prestação devem ser feitos até ao 30.º dia depois da data de entrada em vigor do presente Acordo para o referido Membro; no caso dos pagamentos por prestações, a segunda e terceira devem ser feitas até ao primeiro e segundo aniversários da data a partir da qual foi devida a primeira prestação.
 
-#### Secção 3 - Contribuições suplementares:
+Secção 3 - Contribuições suplementares:
 
 Para assegurar a continuidade das operações do Fundo, o Conselho de Governadores examina periodicamente, com os intervalos que julgar convenientes, se os recursos de que o Fundo dispõe são suficientes, e fá-lo-á pela primeira vez o mais tardar três anos depois do começo das operações do Fundo. Se o Conselho de Governadores o considerar então necessário ou conveniente, pode convidar os Membros a entregar ao Fundo contribuições suplementares segundo modalidades e condições compatíveis com as disposições da secção 5 deste artigo. As decisões respeitantes ao previsto nesta secção são tomadas por maioria de dois terços do número total de votos.
 
-#### Secção 4 - Aumento de contribuições.
+Secção 4 - Aumento de contribuições.
 
 O Conselho de Governadores pode autorizar, em qualquer altura, que um Membro aumente o quantitativo de qualquer das suas contribuições.
 
-#### Secção 5 - Princípios que regem as contribuições:
+Secção 5 - Princípios que regem as contribuições:
 
 a) As contribuições são entregues sem restrição quanto à sua utilização e são reembolsadas aos Membros contribuintes unicamente de acordo com a secção 4 do artigo 9.º
 
@@ -861,15 +867,15 @@ ii) No caso de só uma parte de uma contribuição ser entregue em espécie, é 
 
 iii) As contribuições iniciais, incluindo todos os aumentos, são utilizadas antes das contribuições suplementares. A mesma regra aplica-se às futuras contribuições suplementares.
 
-#### Secção 6 - Contribuições especiais:
+Secção 6 - Contribuições especiais:
 
 Os recursos do Fundo podem ser aumentados por contribuições especiais de Estados não membros ou de outras fontes segundo modalidades e condições que sejam compatíveis com a secção 5 deste artigo e que sejam aprovadas pelo Conselho de Governadores por recomendação do Conselho de Administração.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Moedas
 
-#### Secção 1 - Utilização das moedas:
+Secção 1 - Utilização das moedas:
 
 a) Os Membros não mantêm nem impõem nenhuma restrição à detenção ou à utilização pelo Fundo das moedas livremente convertíveis.
 
@@ -885,7 +891,7 @@ i) No caso da moeda de um Membro do Fundo Monetário Internacional para a qual n
 
 ii) No caso da moeda de um Estado que não é membro do Fundo Monetário Internacional, o seu valor em direitos especiais de saque seja calculado pelo Fundo na base de uma taxa de troca apropriada entre a dita moeda e a de um membro do Fundo Monetário Internacional cujo valor é calculado como foi acima previsto.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Organização e administração
 
@@ -897,7 +903,7 @@ b) De um Conselho de Administração;
 
 c) De um Presidente e do pessoal necessário para que o Fundo possa cumprir as suas funções.
 
-#### Secção 2 - Conselho de Governadores:
+Secção 2 - Conselho de Governadores:
 
 a) Cada Membro é representado no Conselho de Governadores e nomeia um governador e um suplente. Um suplente só pode votar na ausência do titular.
 
@@ -925,17 +931,17 @@ f) O Conselho de Governadores pode, por maioria de dois terços do número total
 
 g) O quórum de qualquer reunião do Conselho de Governadores é constituído por um número de governadores dispondo de dois terços do número total de votos de todos os membros, sendo necessário que estejam presentes os governadores dispondo de metade do número total de votos dos Membros de cada uma das categorias I, II e III.
 
-#### Secção 3 - Votação no Conselho de Governadores:
+Secção 3 - Votação no Conselho de Governadores:
 
 a) O Conselho de Governadores dispõe de um total de 1800 votos, divididos igualmente pelas categorias I, II e III. Os votos de que cada uma das categorias dispõe são divididos pelos seus membros segundo as modalidades referidas para a dita categoria no Anexo II, que faz parte integrante deste Acordo.
 
 b) Salvo disposições contrárias deste Acordo, as decisões do Conselho de Governadores são homologadas por maioria simples do número total de votos.
 
-#### Secção 4 - Presidente do Conselho de Governadores:
+Secção 4 - Presidente do Conselho de Governadores:
 
 O Conselho de Governadores elege entre os governadores um presidente para um mandato de dois anos.
 
-#### Secção 5 - Conselho de Administração:
+Secção 5 - Conselho de Administração:
 
 a) O Conselho de Administração compreende dezoito Membros do Fundo, eleitos na sessão anual do Conselho de Governadores. Os governadores dos Membros de cada categoria elegem, segundo os processos definidos ou estabelecidos consoante as modalidades previstas no Anexo II, para a referida categoria, seis membros do Conselho de Administração de entre os membros da sua categoria e podem também eleger (ou, no que diz respeito à categoria I, tomar disposições para nomear) no máximo seis suplentes, que só podem votar na ausência de um membro efectivo.
 
@@ -949,17 +955,17 @@ e) Os representantes de um membro ou de um membro suplente do Conselho de Admini
 
 f) O quórum de todas as reuniões do Conselho de Administração é constituído por dois terços do número total dos votos de todos os seus membros, sob reserva de que estejam presentes metade do número total de votos dos membros de cada uma das categorias I, II e III.
 
-#### Secção 6 - Votação no Conselho de Administração:
+Secção 6 - Votação no Conselho de Administração:
 
 a) O Conselho de Administração dispõe, no total, de 1800 votos, divididos igualmente entre as categorias I, II e III. Os votos de que cada categoria dispõe são divididos entre os seus membros consoante as modalidades expostas para a dita categoria no Anexo II.
 
 b) Salvo disposições contrárias do presente Acordo, as decisões do Conselho de Administração são tomadas pela maioria de três quintos dos votos expressos, na condição de esta maioria representar mais de metade do número total dos votos de que o conjunto dos membros do Conselho de Administração dispõe.
 
-#### Secção 7 - Presidente do Conselho de Administração:
+Secção 7 - Presidente do Conselho de Administração:
 
-**O Presidente do Fundo é Presidente do Conselho de Administração e participa nas reuniões sem direito a voto.**
+O Presidente do Fundo é Presidente do Conselho de Administração e participa nas reuniões sem direito a voto.
 
-#### Secção 8 - Presidente e pessoal do Fundo:
+Secção 8 - Presidente e pessoal do Fundo:
 
 a) O Conselho de Governadores nomeia o Presidente pela maioria de dois terços do número total de votos. O Presidente é nomeado para um período de três anos e o seu mandato só pode ser renovado uma vez. O Conselho de Governadores pode revogar o mandato do Presidente por decisão tomada pela maioria de dois terços do número total de votos.
 
@@ -981,21 +987,21 @@ h) O Presidente ou um representante designado por ele pode participar sem direit
 
 O Conselho de Governadores decide, por maioria dos dois terços do número total de votos, o local da sede permanente do Fundo. O Fundo tem provisoriamente a sua sede em Roma.
 
-#### Secção 10 - Orçamento administrativo:
+Secção 10 - Orçamento administrativo:
 
-**O Presidente elabora um orçamento administrativo anual, que submete ao Conselho de Administração, que o transmite ao Conselho de Governadores para aprovação por maioria de dois terços do número total de votos.**
+O Presidente elabora um orçamento administrativo anual, que submete ao Conselho de Administração, que o transmite ao Conselho de Governadores para aprovação por maioria de dois terços do número total de votos.
 
-#### Secção 11 - Publicação de relatórios e comunicação de informações:
+Secção 11 - Publicação de relatórios e comunicação de informações:
 
 O Fundo publica um relatório anual sobre a situação das contas e, com intervalos apropriados, uma análise recapitulativa da situação financeira e dos resultados das suas operações.
 
 A cada Membro é enviada uma cópia dos relatórios, a situação das contas e publicações concernentes ao título desta secção.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Operações
 
-#### Secção 1 - Utilização dos recursos e condições de financiamento:
+Secção 1 - Utilização dos recursos e condições de financiamento:
 
 a) O Fundo utiliza os seus recursos com vista ao objectivo enunciado no artigo 2.º
 
@@ -1013,7 +1019,7 @@ No quadro das prioridades acima mencionadas, a concessão da ajuda é função d
 
 e) Sujeitando-se às disposições do presente Acordo, a concessão de um financiamento pelo Fundo é regida pelas políticas gerais, os critérios e os regulamentos adoptados de tempos a tempos pelo Conselho dos Governadores por maioria de dois terços do número total dos votos.
 
-#### Secção 2 - Modalidades e condições de financiamento:
+Secção 2 - Modalidades e condições de financiamento:
 
 a) O Fundo concede os meios financeiros sob forma de donativos e empréstimos, segundo as modalidades e as condições que julgar apropriadas, em relação à situação e às perspectivas económicas do Membro assim como à natureza e às exigências da actividade encarada.
 
@@ -1041,19 +1047,19 @@ j) No que diz respeito à compra de bens e de serviços a financiar com a ajuda 
 
 Além das operações especificadas noutras secções do presente Acordo, o Fundo pode empreender todas as actividades acessórias e exercer, no âmbito das suas operações, todos os poderes necessários para atingir o seu objectivo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Relações com a Organização das Nações Unidas e com outras organizações, instituições e organismos
 
-#### Secção 1 - Relações com a Organização das Nações Unidas:
+Secção 1 - Relações com a Organização das Nações Unidas:
 
 O Fundo encetará negociações com a Organização das Nações Unidas para concluir um acordo ligando-o à Organização das Nações Unidas como uma das instituições especializadas previstas no artigo 57 da Carta das Nações Unidas. Qualquer acordo concluído em conformidade com o artigo 63 da Carta deve ser aprovado pelo Conselho dos Governadores, pela maioria de dois terços do número total de votos, segundo recomendação do Conselho de Administração.
 
-#### Secção 2 - Relações com outras organizações, instituições e organismos:
+Secção 2 - Relações com outras organizações, instituições e organismos:
 
 O Fundo coopera intimamente com a Organização das Nações Unidas para a Alimentação e a Agricultura e com os outros organismos das Nações Unidas. Também coopera intimamente com outras organizações intergovernamentais, instituições financeiras internacionais, organizações não governamentais e organismos governamentais que se dedicam ao desenvolvimento agrícola. Com este objectivo, o Fundo procura, nas suas actividades, a colaboração da Organização das Nações Unidas para a Alimentação e a Agricultura e de outros organismos acima mencionados e, por decisão do Conselho de Administração, pode concluir acordos ou estabelecer relações de trabalho com os citados organismos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Retirada, suspensão dos Membros e cessação das operações
 
@@ -1069,17 +1075,17 @@ a) Se um Membro falta a qualquer uma das suas obrigações em relação ao Fundo
 
 b) Durante a suspensão, um Membro não pode exercer nenhum dos direitos conferidos pelo presente Acordo, excepto o de se retirar, mas fica submetido a todas as suas obrigações.
 
-#### Secção 3 - Direitos e obrigações dos Estados que deixam de ser Membros:
+Secção 3 - Direitos e obrigações dos Estados que deixam de ser Membros:
 
 Quando um Estado deixa de ser Membro, quer seja por se retirar ou pela aplicação das disposições da secção 2 deste artigo, não tem nenhum dos direitos conferidos pelo presente Acordo, excepto os que são previstos na presente secção ou na secção 2 do artigo 11, mas permanece ligado por todas as obrigações financeiras que contraiu com o Fundo, na sua qualidade de Membro, como devedor ou a qualquer outro título.
 
-#### Secção 4 - Cessação das operações e repartição dos bens:
+Secção 4 - Cessação das operações e repartição dos bens:
 
 a) O Conselho de Governadores pode pôr fim às operações do Fundo por maioria de três quartos do número total de votos. Uma vez votada esta cessação das operações, o Fundo termina imediatamente todas as suas actividades, excepto as que se referem à realização metódica e à conservação dos seus bens, assim como à liquidação das suas obrigações. Até à liquidação definitiva das citadas obrigações e da repartição dos ditos bens, o Fundo continua existindo, e todos os direitos e obrigações mútuas do Fundo e dos seus Membros, nos termos do presente Acordo, mantêm-se vigentes, exceptuando que nenhum Membro pode ser suspenso nem retirar-se.
 
 b) Só haverá distribuição do activo entre os Membros depois de todas as obrigações para com os credores terem sido regularizadas ou de terem sido tomadas as disposições necessárias à sua regularização. O Fundo repartirá os seus bens entre os Membros contribuintes proporcionalmente à contribuição de cada um deles para recursos do Fundo. Esta repartição será decidida pelo Conselho de Governadores por maioria de três quartos do número total de votos e efectuar-se-á nas datas e nas moedas ou outros bens que o Conselho de Governadores considerar justos e equitativos.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Estatuto jurídico, privilégios e imunidades
 
@@ -1087,7 +1093,7 @@ Estatuto jurídico, privilégios e imunidades
 
 O Fundo tem personalidade jurídica internacional.
 
-#### Secção 2 - Privilégios e imunidades:
+Secção 2 - Privilégios e imunidades:
 
 a) O Fundo goza, no território de cada um dos seus Membros, dos privilégios e das imunidades que lhe são necessários para exercer as suas funções e atingir o seu objectivo. Os representantes dos Membros, o Presidente e o pessoal do Fundo gozam dos privilégios e das imunidades que lhes são necessários para exercer, com toda a independência, as suas funções em relação ao Fundo.
 
@@ -1101,7 +1107,7 @@ iii) Os definidos noutros acordos concluídos pelo Fundo.
 
 c) Quando um Membro é um agrupamento de Estados, ele assegurará a aplicação dos privilégios e imunidades definidos neste artigo no território de todos os Estados que constituem o agrupamento.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Interpretação e arbitragem
 
@@ -1115,7 +1121,7 @@ b) Quando o Conselho de Administração tenha tomado uma resolução segundo as 
 
 Os diferendos que surjam entre o Fundo e um Estado que deixou de ser Membro, ou entre o Fundo e qualquer Membro ao terminarem as operações do Fundo, são submetidos a um tribunal com três árbitros. Um dos árbitros é nomeado pelo Fundo, outro é nomeado pelo Membro ou ex-Membro interessado e as duas partes nomeiam o terceiro, que é o presidente do tribunal. Se nos quarenta e cinco dias seguintes à recepção do pedido de arbitragem uma das partes não nomeou árbitro, ou se o terceiro árbitro não tiver sido nomeado nos trinta dias seguintes à nomeação dos dois árbitros, qualquer das partes pode pedir a nomeação de um árbitro ao presidente do Tribunal Internacional de Justiça ou a outra autoridade que tenha sido prevista nos regulamentos adoptados pelo Conselho de Governadores. O processo de arbitragem nomeação de um árbitro ao Presidente do Tribunal tem plenos poderes para regular todas as questões do processo em caso de desacordo a seu respeito. Estes árbitros decidem por maioria e as suas decisões são sem apelo e têm o valor de obrigatoriedade para as partes.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Alterações
 
@@ -1139,11 +1145,11 @@ b) No que diz respeito às diversas partes do Anexo II, as alterações são pro
 
 c) O Presidente notifica imediatamente todos os Membros e o Depositário das alterações adoptadas, assim como da data da sua entrada em vigor.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Disposições finais
 
-#### Secção 1 - Assinatura, ratificação e aceitação, aprovação e adesão:
+Secção 1 - Assinatura, ratificação e aceitação, aprovação e adesão:
 
 a) O presente Acordo será aberto à rubrica dos Estados enumerados no Anexo I do referido Acordo durante a Conferência das Nações Unidas sobre a criação do Fundo e será aberto à assinatura dos Estados enumerados no citado anexo, na sede das Nações Unidas em Nova Iorque, logo que as contribuições iniciais indicadas no citado anexo, que devem ser entregues em moedas livremente convertíveis, atinjam, pelo menos, o equivalente a 1 bilião de dólares dos Estados Unidos (valor em vigor em 10 de Junho de 1976). Se a 30 de Setembro de 1976 a condição acima indicada não tiver sido preenchida, a Comissão Preparatória instituída por esta Conferência reunirá os Estados enumerados no Anexo I antes de 31 de Janeiro de 1977. Esta reunião poderá, por maioria de dois terços de cada categoria, deduzir o quantitativo acima especificado; também poderá estipular outras condições para abertura da assinatura deste Acordo.
 
@@ -1179,55 +1185,57 @@ Em fé do que, os subscritos, devidamente autorizados para este efeito, assinara
 
 ## ANEXO I — Primeira parte - Países podendo tornar-se Membros fundadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
 
 Segunda parte - Anúncios de contribuições iniciais (ver nota 2)
 
 Categoria I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
 
 (nota 2) Direitos especiais de saque (DES) do Fundo Monetário Internacional na base do seu valor em 10 de Junho de 1976. Estas equivalências são dadas unicamente para informação, segundo a secção 2, a), do artigo 5.º do Acordo, entendendo-se que as contribuições iniciais anunciadas serão pagáveis segundo as disposições da secção 2, a), do artigo 4.º do Acordo, na quantia e na moeda especificadas pelos Estados.
 
 Categoria II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
 
 Categoria III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27602/00050031.pdf)
 
 ## ANEXO II — Repartição dos votos e eleição dos membros do Conselho de Administração
 
 #### Secção I - Categoria I:
 
-##### Subsecção A - Repartição dos votos no Conselho de Governadores.
+Subsecção A - Repartição dos votos no Conselho de Governadores.
 
-##### Subsecção B - Eleição dos membros e seus suplentes do Conselho de Administração.
+Subsecção B - Eleição dos membros e seus suplentes do Conselho de Administração.
 
-##### Subsecção C - Repartição dos votos no Conselho de Administração.
-
-##### Subsecção D - Modificações.
-
-#### Secção II - Categoria II:
-
-##### Subsecção A - Repartição dos votos no Conselho de Governadores.
-
-##### Subsecção B - Eleição dos membros e seus suplentes do Conselho de Administração.
-
-##### Subsecção C - Repartição dos votos no Conselho de Administração.
+Subsecção C - Repartição dos votos no Conselho de Administração.
 
 ##### Subsecção D - Modificações.
 
-#### Secção III - Categoria III:
+Secção II - Categoria II:
 
-##### Subsecção A - Repartição dos votos no Conselho de Governadores.
+Subsecção A - Repartição dos votos no Conselho de Governadores.
 
-##### Subsecção B - Eleição dos membros e seus suplentes do Conselho de Administração.
+Subsecção B - Eleição dos membros e seus suplentes do Conselho de Administração.
 
-##### Subsecção C - Repartição dos votos no Conselho de Administração.
+Subsecção C - Repartição dos votos no Conselho de Administração.
 
-##### Subsecção D - Modificações. — Secção I - Categoria I
+##### Subsecção D - Modificações.
+
+Secção III - Categoria III:
+
+Subsecção A - Repartição dos votos no Conselho de Governadores.
+
+Subsecção B - Eleição dos membros e seus suplentes do Conselho de Administração.
+
+Subsecção C - Repartição dos votos no Conselho de Administração.
+
+##### Subsecção D - Modificações.
+
+#### Secção I - Categoria I
 
 A - Repartição dos votos no Conselho de Governadores
 
@@ -1289,7 +1297,7 @@ D - Modificações
 
 2 - Os governadores que representam Membros da categoria I podem modificar as disposições da subsecção C se uma maioria de 75% do conjunto de votos de que os governadores dispõem se pronunciar a favor da modificação. A menos que seja de outro modo, a modificação entra em vigor com efeito imediato. O Presidente é informado de qualquer emenda da subsecção C.
 
-# Parte II - Categoria II
+Parte II - Categoria II
 
 A - Repartição dos votos no Conselho de Governadores
 
@@ -1337,7 +1345,7 @@ D - Modificações
 
 1 - As disposições da secção A-D podem ser modificadas por um voto dos governadores representando dois terços dos Membros da categoria II cujas contribuições [dadas pela aplicação da secção 5, c), do artigo 4.º] representam 70% das contribuições de todos os Membros da categoria. Qualquer modificação será comunicada ao Presidente.
 
-# Parte III - Categoria III
+Parte III - Categoria III
 
 A - Repartição dos votos no Conselho de Governadores
 

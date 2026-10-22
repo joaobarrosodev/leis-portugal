@@ -49,36 +49,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/75-1980-464391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6a6e3336d95eb22bda27cfc4e16a37ba1264f4c7ad7730bbc7bd9e976d39264
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a7cec906c9a75447f3f40e859ac0bb0d54781dcf7dd3d2d209b5bce50474e3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Copenhaga
+- Dinamarca
+- Embaixador
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:402961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:00Z'
   warnings: []
   errors: []
 ---
@@ -89,12 +101,12 @@ de 6 de Setembro
 
 Considerando que, em virtude do acórdão de 12 de Outubro de 1979 da Comissão para a Reintegração dos Servidores de Estado, foi determinada a reintegração do Dr. Francisco Ramos da Costa na função pública, daí resultando a necessidade de dar cumprimento ao prescrito na primeira parte do § 1.º do artigo 38.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, com a nova redacção dada ao referido artigo pelo [Decreto-Lei n.º 308/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1974-402961), de 6 de Julho:
 
-**O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:
 
 É anulado, sob proposta do Governo, o decreto, publicado no Diário da República, de 26 de Dezembro de 1978, que colocou o embaixador de Portugal em Copenhaga Dr. Francisco Ramos da Costa na situação de disponibilidade, por conveniência de serviço, com efeitos a partir de 10 de Setembro do mesmo ano, sendo colocado o mesmo embaixador na situação de aguardando aposentação, com efeitos a partir da referida data de 10 de Setembro de 1978.
 
-**Assinado em 4 de Agosto de 1980.**
+Assinado em 4 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco Sá Carneiro. - O Ministro dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco Sá Carneiro. - O Ministro dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.

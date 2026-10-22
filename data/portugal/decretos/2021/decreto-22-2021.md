@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/22/2021/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-2021-171183635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 627c3f8f616f7309e957e1b0369aa5bc06170467868af24d657ecbb2743f2e03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17cc738ac685118b63b16fefd18b1f8d5dc66a6da1efddcc606ce55d0ee51e6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Reino Unido
 - Colocação Familiar
 - Convenção
-- Portugal
-- Missão Diplomática
-- Protecção e Assistência Consular
 - Irlanda do Norte
+- Missão Diplomática
+- Portugal
+- Protecção e Assistência Consular
+- Reino Unido
 - Remuneração
 - Representação Consular
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:52Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 26 de agosto de 2021. - Mariana Guimarães Vieira da Silva - Berta Ferreira Milheiro Nunes.
 
-**Assinado em 1 de setembro de 2021.**
+Assinado em 1 de setembro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de setembro de 2021.**
+Referendado em 3 de setembro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO UNIDO DA GRÃ-BRETANHA E IRLANDA DO NORTE SOBRE O EXERCÍCIO DE ATIVIDADES REMUNERADAS POR MEMBROS DA FAMÍLIA QUE FAZEM PARTE DO AGREGADO FAMILIAR DOS MEMBROS DE MISSÕES DIPLOMÁTICAS E DE POSTOS CONSULARES
 
@@ -208,11 +208,11 @@ Feito em Lisboa, em 24 de junho de 2021, em dois originais, nas línguas portugu
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf)
 
 Pelo Reino Unido da Grã-Bretanha e Irlanda do Norte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND REGARDING THE EMPLOYMENT OF MEMBERS OF THE FAMILY FORMING PART OF THE HOUSEHOLD OF MEMBERS OF DIPLOMATIC MISSIONS AND CONSULAR POSTS
 
@@ -328,8 +328,10 @@ Done in Lisbon, on the 24 of June 2021, in two originals, each in the Portuguese
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf)
 
 For the United Kingdom of Great Britain and Northern Ireland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf))](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/09/17800/0000200009.pdf)
+
+114545221

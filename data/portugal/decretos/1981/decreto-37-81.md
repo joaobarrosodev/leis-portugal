@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/37-1981-388050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39f398829858a2e022ed85471bef986cde621df62a66f431a2bef52765a77437
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d25e51297daa80e0771b7cd129a261be87b964ef3e817623dad3239229b1d22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Noruega
+- Portugal
+- Segurança Social
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:46Z'
   warnings: []
   errors: []
 ---
@@ -86,21 +90,21 @@ de 18 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção sobre Segurança Social entre a República Portuguesa e o Reino da Noruega, assinada em Oslo em 5 de Junho de 1980, cujos textos em português e inglês vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção sobre Segurança Social entre a República Portuguesa e o Reino da Noruega, assinada em Oslo em 5 de Junho de 1980, cujos textos em português e inglês vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 18 de Fevereiro de 1981.**
+Promulgado em 18 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENÇÃO SOBRE SEGURANÇA SOCIAL ENTRE A REPÚBLICA DE PORTUGAL E O REINO DA NORUEGA
 
 O Reino da Noruega e a República de Portugal, animados do desejo de regular as relações entre os dois Estados no respeitante à segurança social, acordaram em concluir a seguinte convenção:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### ARTIGO 1.º
 
@@ -186,7 +190,7 @@ Salvo disposição em contrário desta Convenção, as pensões de velhice, as p
 
 As prestações mencionadas no artigo 5.º devidas por uma das Partes Contratantes serão pagas aos nacionais da outra Parte Contratante que residam num terceiro Estado nas mesmas condições e na mesma medida que aos nacionais da primeira Parte Contratante residentes nesse terceiro Estado.
 
-# PARTE II — Disposições relativas à legislação aplicável
+## PARTE II — Disposições relativas à legislação aplicável
 
 ###### ARTIGO 7.º
 
@@ -228,7 +232,7 @@ b) À legislação portuguesa, se residirem ou estiverem ocupadas em Portugal.
 
 As autoridades competentes podem acordar, a pedido conjunto da entidade patronal e do trabalhador ou a pedido de um trabalhador por conta própria, em isentar certas pessoas ou grupos de pessoas da aplicação das disposições dos artigos 7.º a 10.º Independentemente do pedido, as autoridades competentes podem acordar nesta isenção, depois de ouvidas as pessoas interessadas.
 
-# PARTE III — Disposições especiais
+## PARTE III — Disposições especiais
 
 Doença, maternidade e parto
 
@@ -348,7 +352,7 @@ Acidentes de trabalho e doenças profissionais
 
 4 - Se por essa doença profissional forem devidas prestações ao abrigo do regime de seguro de uma Parte Contratante, qualquer agravamento que ocorra no território da outra Parte será também coberto pelo sistema de seguro da primeira Parte Contratante, desde que o agravamento não possa ser atribuído ao emprego no território da última Parte Contratante em ocupação susceptível de provocar a mesma doença.
 
-# PARTE IV — Disposições diversas e finais
+## PARTE IV — Disposições diversas e finais
 
 Disposições diversas
 

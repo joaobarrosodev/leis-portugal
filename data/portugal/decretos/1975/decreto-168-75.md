@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/168-1975-161495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f5c6aa9f9892cbbe60b395df7b35441d9b68eb3ae7db9edff817a823ef9a199
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5f76c010da56fed0df3bb08f672d0c3cab0c53b97dc47a4981eaa3ff2b3df94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:241850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245094:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:24Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +103,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º De harmonia com o preceituado no artigo 4.º do [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945, e por força do artigo 48.º do mesmo diploma, é incluído na rede rodoviária nacional o troço da estrada municipal n.º 550, do distrito de Bragança, entre Vinhas e a estação de caminho de ferro de Sendas, ficando integrado na estrada nacional n.º 15-5, tal como consta do mapa n.º 1 anexo a este decreto.
+Artigo 1.º De harmonia com o preceituado no artigo 4.º do [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945, e por força do artigo 48.º do mesmo diploma, é incluído na rede rodoviária nacional o troço da estrada municipal n.º 550, do distrito de Bragança, entre Vinhas e a estação de caminho de ferro de Sendas, ficando integrado na estrada nacional n.º 15-5, tal como consta do mapa n.º 1 anexo a este decreto.
 
-###### Art. 2.º A estrada municipal n.º 550, do distrito de Bragança, classificada pelo [Decreto-Lei n.º 42271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42271-1959-245094), de 20 de Maio de 1959, ficará com o itinerário constante do mapa n.º 2 anexo a este decreto.
+Art. 2.º A estrada municipal n.º 550, do distrito de Bragança, classificada pelo [Decreto-Lei n.º 42271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42271-1959-245094), de 20 de Maio de 1959, ficará com o itinerário constante do mapa n.º 2 anexo a este decreto.
 
 Vasco dos Santos Gonçalves - José Augusto Fernandes.
 
-**Promulgado em 18 de Março de 1975.**
+Promulgado em 18 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Mapas anexos ao Decreto n.º 168/75
 
@@ -113,12 +121,12 @@ MAPA N.º 1
 
 Estradas nacionais classificadas nos termos do [Decreto-Lei n.º 34593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34593-1945-241850), de 11 de Maio de 1945
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/07400/04890489.pdf))](https://files.diariodarepublica.pt/1s/1975/03/07400/04890489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/07400/04890489.pdf)
 
 MAPA N.º 2
 
 Estradas municipais do distrito de Bragança cujo itinerário foi alterado nos termos do [Decreto-Lei n.º 42271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42271-1959-245094), de 20 de Maio de 1959.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/07400/04890489.pdf))](https://files.diariodarepublica.pt/1s/1975/03/07400/04890489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/07400/04890489.pdf)
 
-**O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.**
+O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/29-1973-685040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 904d32cee89e1185344b663810849d342abbf24c94e3c6f46fe019e4cc627019
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72198a673e4fea5efc77938240eef2681e4391fbefd43c725500609a1eadd2c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:263031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291792:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:58Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +99,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O § 2.º do artigo 1.º e o artigo 2.º do [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031), de 16 de Novembro de 1968, alterado pelo [Decreto n.º 7/72](https://diariodarepublica.pt/dr/detalhe/decreto/7-1972-291792), de 6 de Janeiro, tomam a redacção seguinte:
+Artigo único. O § 2.º do artigo 1.º e o artigo 2.º do [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031), de 16 de Novembro de 1968, alterado pelo [Decreto n.º 7/72](https://diariodarepublica.pt/dr/detalhe/decreto/7-1972-291792), de 6 de Janeiro, tomam a redacção seguinte:
 
 ###### Artigo 1.º ...
 
@@ -101,7 +109,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 2.º Para o desempenho das suas funções, o superintendente dos Serviços do Pessoal e o superintendente dos Serviços do Material dispõem, cada um:
+Art. 2.º Para o desempenho das suas funções, o superintendente dos Serviços do Pessoal e o superintendente dos Serviços do Material dispõem, cada um:
 
 a) De um gabinete de estudos;
 
@@ -111,8 +119,8 @@ c) De oficiais adjuntos.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo.
 
-**Promulgado em 24 de Janeiro de 1973.**
+Promulgado em 24 de Janeiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

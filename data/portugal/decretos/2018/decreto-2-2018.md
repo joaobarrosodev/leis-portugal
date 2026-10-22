@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/2018/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-2018-114509689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87f898a232cf5ff2c370ad4beffed2674d32ab411ed8c0625555fd24ea7c5e0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 798c6d0dde1302fe2c8dd3212c1852eef7b6bdedb3a4ec3c56df319aa2258170
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Segurança Interna
-- Portugal
 - Lisboa
 - Paraguai
+- Portugal
+- Segurança Interna
 relationships: []
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:46Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de novembro de 2017. - António Luís Santos da Costa - Ana Paula Baptista Grade Zacarias - Eduardo Arménio do Nascimento Cabrita.
 
-**Assinado em 21 de dezembro de 2017.**
+Assinado em 21 de dezembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de janeiro de 2018.**
+Referendado em 4 de janeiro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO PARAGUAI EM MATÉRIA DE SEGURANÇA INTERNA
 
@@ -250,11 +250,11 @@ Feito em Lisboa, no dia 21 de outubro de 2016, em dois exemplares originais, amb
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf)
 
 Pela República do Paraguai:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf)
 
 ACUERDO DE COOPERACIÓN ENTRE LA REPÚBLICA DEL PARAGUAY Y LA REPÚBLICA PORTUGUESA EN MATERIA DE SEGURIDAD INTERNA
 
@@ -428,8 +428,10 @@ Hecho en Lisboa, el 21 de octubre de 2016, en dos ejemplares originales, en idio
 
 Por la República del Paraguay:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf)
 
 Por la República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00800/0036100365.pdf)
+
+111039322

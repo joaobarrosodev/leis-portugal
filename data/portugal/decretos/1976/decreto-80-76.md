@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 22/1976, 1º Suplemento, Série I de 1976-01-27
   number: '22'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 196-(5) a 196-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02201/00050008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/80-1976-321544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09dee531d744390a041afdc5e1f989e2fe7108f6e55b96b09feeb02a1fad4a76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f49aeee6cb375068939970586bd8d3b4ea97fb89cdaf1c379377c32f6a53465
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Carne de Vaca
+- Comércio
+- Definição de Competências
+- Fundo de Abastecimento
+- Junta Nacional dos Produtos Pecuários
+- Matadouro
+- Preço de Venda
+- Preço Máximo
+- Rectificação de TIPO de Diploma
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:509024:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:507608:por
+  label: Rectificado pela DECL.DD8560.21.02.1976.PCM, DG.IS [44] de 21.02.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-507608
+  date: '1976-02-21'
+- type: corrected_by
+  target: pt:dre:427818:por
+  label: Rectificado pela DECL.DD8827.08.05.1976.PCM, DR.IS [108] de 08.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-427818
+  date: '1976-05-08'
+- type: repealed_by
+  target: pt:dre:509024:por
+  label: "Revogado pelo DEC LEI.75-O/77.28.02.1977.MAP, DR.IS [49]Supl de 28.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-o-1977-509024
+  date: '1977-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:25Z'
   warnings: []
   errors: []
 ---
@@ -134,9 +164,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e ou promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A compra de gado bovino destinado ao abate imediato é efectuada pela Junta Nacional dos Produtos Pecuários, nos matadouros a indicar em portaria do Ministério do Comércio Interno, e aos preços fixados no presente decreto-lei.
+Artigo 1.º A compra de gado bovino destinado ao abate imediato é efectuada pela Junta Nacional dos Produtos Pecuários, nos matadouros a indicar em portaria do Ministério do Comércio Interno, e aos preços fixados no presente decreto-lei.
 
-###### Art. 2.º Os preços a pagar à produção por quilograma de carcaça, deduzido o enxugo e descontada a taxa de seguro, são os seguintes:
+Art. 2.º Os preços a pagar à produção por quilograma de carcaça, deduzido o enxugo e descontada a taxa de seguro, são os seguintes:
 
 Novilhos e novilhas de 1.ª categoria:
 
@@ -170,17 +200,17 @@ Vitelas de 1.ª categoria ... 70$00
 
 Vitelas de 2.ª categoria ... 65$00
 
-###### Art. 3.º O preço do gado lidado em espectáculos tauromáquicos é o correspondente a boi de 1.ª, 2.ª ou 3.ª categoria, conforme a classificação atribuída à respectiva carcaça.
+Art. 3.º O preço do gado lidado em espectáculos tauromáquicos é o correspondente a boi de 1.ª, 2.ª ou 3.ª categoria, conforme a classificação atribuída à respectiva carcaça.
 
-###### Art. 4.º Entende-se por carcaça de bovino, de acordo com a Norma Portuguesa 776/70, a rês abatida, esfolada e privada das miudezas, mas conservando a rilada.
+Art. 4.º Entende-se por carcaça de bovino, de acordo com a Norma Portuguesa 776/70, a rês abatida, esfolada e privada das miudezas, mas conservando a rilada.
 
-###### Art. 5.º A Junta Nacional dos Produtos Pecuários pagará um diferencial de 10$00 por quilograma de carcaça aos produtores que tenham inscrito gado bovino para abate na Junta Nacional dos Produtos Pecuários e abatido o gado desde 13 de Maio último até à data de entrada em vigor deste decreto-lei.
+Art. 5.º A Junta Nacional dos Produtos Pecuários pagará um diferencial de 10$00 por quilograma de carcaça aos produtores que tenham inscrito gado bovino para abate na Junta Nacional dos Produtos Pecuários e abatido o gado desde 13 de Maio último até à data de entrada em vigor deste decreto-lei.
 
-###### Art. 6.º - 1. Por despacho conjunto dos Ministro da Agricultura e Pescas, Ministro do Comércio Interno, Ministro do Comércio Externo e Ministro das Finanças será fixado o montante de subsídio a atribuir à Junta Nacional dos Produtos Pecuários por quilograma de carne de bovino.
+Art. 6.º - 1. Por despacho conjunto dos Ministro da Agricultura e Pescas, Ministro do Comércio Interno, Ministro do Comércio Externo e Ministro das Finanças será fixado o montante de subsídio a atribuir à Junta Nacional dos Produtos Pecuários por quilograma de carne de bovino.
 
 2. Constituirá receita do Fundo de Abastecimento o diferencial existente entre o preço de compra por quilograma pela Junta Nacional dos Produtos Pecuários, de carcaças de bovino congelada, acrescido das respectivas despesas de importação, e o seu preço de venda ao comércio definido no artigo 12.º do presente decreto-lei.
 
-###### Art. 7.º - 1. Nos matadouros pertencentes à Junta Nacional dos Produtos Pecuários que não constem da portaria a que se refere o artigo 1.º continua a facultar-se a prática do auto-abastecimento, devendo aquele organismo pagar aos apresentantes das reses os seguintes diferenciais por quilograma de carcaça:
+Art. 7.º - 1. Nos matadouros pertencentes à Junta Nacional dos Produtos Pecuários que não constem da portaria a que se refere o artigo 1.º continua a facultar-se a prática do auto-abastecimento, devendo aquele organismo pagar aos apresentantes das reses os seguintes diferenciais por quilograma de carcaça:
 
 Novilhos de 1.ª categoria ... 20$00
 
@@ -192,17 +222,17 @@ Bois e Vacas de 1.ª e 2.ª categoria ... 15$00
 
 3. O subsídio a pagar pela Junta Nacional dos Produtos Pecuários aos apresentantes das reses, nos termos deste artigo, não poderá ultrapassar o valor correspondente ao contingente máximo fixado.
 
-###### Art. 8.º A venda de carne de bovino e do 5.º quarto proveniente das reses abatidas é efectuada pela Junta Nacional dos Produtos Pecuários nos matadouros a indicar em portaria do Ministro do Comércio Interno.
+Art. 8.º A venda de carne de bovino e do 5.º quarto proveniente das reses abatidas é efectuada pela Junta Nacional dos Produtos Pecuários nos matadouros a indicar em portaria do Ministro do Comércio Interno.
 
-###### Art. 9.º Os preços de entrega, por quilograma, das carcaças de bovino ao comércio nas instalações da Junta Nacional dos Produtos Pecuários são os seguintes:
+Art. 9.º Os preços de entrega, por quilograma, das carcaças de bovino ao comércio nas instalações da Junta Nacional dos Produtos Pecuários são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/02201/00050008.pdf))](https://files.diariodarepublica.pt/1s/1976/01/02201/00050008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/02201/00050008.pdf)
 
-###### Art. 10.º Os preços máximos de venda ao público da carne de bovino adulto, novilho, vitela e carne de bovino congelada constam de tabelas anexas a este diploma.
+Art. 10.º Os preços máximos de venda ao público da carne de bovino adulto, novilho, vitela e carne de bovino congelada constam de tabelas anexas a este diploma.
 
-###### Art. 11.º A venda ao público de todos os tipos de carne referidos no artigo anterior fica sujeita ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+Art. 11.º A venda ao público de todos os tipos de carne referidos no artigo anterior fica sujeita ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
 
-###### Art. 12.º Os preços de venda ao comércio a praticar pela Junta Nacional dos Produtos Pecuários por quilograma de carcaça de bovino congelada são os seguintes:
+Art. 12.º Os preços de venda ao comércio a praticar pela Junta Nacional dos Produtos Pecuários por quilograma de carcaça de bovino congelada são os seguintes:
 
 Quartos compensados ... 49$00
 
@@ -210,32 +240,32 @@ Quartos traseiros ... 57$50
 
 Quartos dianteiros ... 40$50
 
-###### Art. 13.º Os preços previstos no número anterior serão acrescidos de $60 por quilograma-carcaça quando o transporte ao talho for efectuado pela Junta Nacional dos Produtos Pecuários.
+Art. 13.º Os preços previstos no número anterior serão acrescidos de $60 por quilograma-carcaça quando o transporte ao talho for efectuado pela Junta Nacional dos Produtos Pecuários.
 
-###### Art. 14.º Quando o rendimento comercial das carcaças congeladas for inferior ao considerado para a elaboração das tabelas, poderá a Junta Nacional dos Produtos Pecuários elaborar propostas de correcção dos preços de venda fixados no artigo 9.º, que serão sujeitas a despacho conjunto dos Ministros do Comércio Interno e das Finanças.
+Art. 14.º Quando o rendimento comercial das carcaças congeladas for inferior ao considerado para a elaboração das tabelas, poderá a Junta Nacional dos Produtos Pecuários elaborar propostas de correcção dos preços de venda fixados no artigo 9.º, que serão sujeitas a despacho conjunto dos Ministros do Comércio Interno e das Finanças.
 
-###### Art. 15.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho do Ministro do Comércio Interno e do Ministro das Finanças.
+Art. 15.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho do Ministro do Comércio Interno e do Ministro das Finanças.
 
-###### Art. 16.º Este decreto-lei não é aplicável nos arquipélagos dos Açores e da Madeira.
+Art. 16.º Este decreto-lei não é aplicável nos arquipélagos dos Açores e da Madeira.
 
-###### Art. 17.º O presente diploma entra em vigor à data da sua publicação.
+Art. 17.º O presente diploma entra em vigor à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 21 de Janeiro de 1976.**
+Promulgado em 21 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Tabela de preços máximos de venda de carne verde e congelada de bovino adulto ao público
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/02201/00050008.pdf))](https://files.diariodarepublica.pt/1s/1976/01/02201/00050008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/02201/00050008.pdf)
 
 Tabela de preços máximos de venda de carne de vitela ao público
 
 Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/02201/00050008.pdf))](https://files.diariodarepublica.pt/1s/1976/01/02201/00050008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/02201/00050008.pdf)
 
-**O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.**
+O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.

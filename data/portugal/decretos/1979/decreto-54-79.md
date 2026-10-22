@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/54-1979-381095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c74354fcdd95c40118b56fa5c9d59746432b3c6110e0fa0bf0e32acdd7748571
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c8ccb128311574eb3f32d7b129a2bdd551a0748c0e444ffdee8dc7327de934e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Contrato
+- Força Aérea
+- Material Aeronáutico
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:23Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +100,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção do Serviço de Material da Força Aérea a celebrar um contrato com a Aeritália para a aquisição de catorze kits para a modificação das asas dos aviões Fiat G-91 R/3, até ao montante de 46154080$00, correspondentes a US$ 824180,00, ao câmbio de 56$00.
+Artigo 1.º É autorizada a Direcção do Serviço de Material da Força Aérea a celebrar um contrato com a Aeritália para a aquisição de catorze kits para a modificação das asas dos aviões Fiat G-91 R/3, até ao montante de 46154080$00, correspondentes a US$ 824180,00, ao câmbio de 56$00.
 
-###### Art. 2.º - 1 - Os encargos resultantes da aquisição a efectuar a que se refere o artigo anterior não poderão, em cada ano, exceder as seguintes importâncias:
+Art. 2.º - 1 - Os encargos resultantes da aquisição a efectuar a que se refere o artigo anterior não poderão, em cada ano, exceder as seguintes importâncias:
 
 Em 1979 - 13846224$00, correspondentes a US$ 247254,00;
 
@@ -103,12 +112,12 @@ Em 1980 - 32307856$00, correspondentes a US$ 576926,00.
 
 3 - Os montantes referidos nos números anteriores serão acrescidos das quantias indispensáveis à cobertura dos encargos assumidos, sempre que a oscilação cambial o justifique.
 
-###### Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos por dotações das despesas gerais dos orçamentos da Defesa Nacional - Departamento da Força Aérea, para os anos de 1979 e 1980, a inscrever pelos montantes correspondentes.
+Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos por dotações das despesas gerais dos orçamentos da Defesa Nacional - Departamento da Força Aérea, para os anos de 1979 e 1980, a inscrever pelos montantes correspondentes.
 
 Visto e aprovado em Conselho da Revolução em 14 de Maio de 1979.
 
-**Promulgado em 14 de Maio de 1979.**
+Promulgado em 14 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

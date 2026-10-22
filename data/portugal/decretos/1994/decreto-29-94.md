@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/29/1994/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/29-1994-606078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f606e7f19962a509ffb52c25faf8eb4aeead5e498c93fd655a4c0959a8ef204
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84081f692edfee64c9cb974264e407e3884ac158478d7c3ef366ca9f6a0d7b12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Regime Florestal
 - Câmara Municipal
+- Regime Florestal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:16Z'
   warnings: []
   errors: []
 ---
@@ -98,26 +98,26 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É excluída do regime florestal parcial, a que foi submetida por Decreto de 2 de Junho de 1949, uma parcela de terreno do perímetro florestal de Mértola, com a área de 500 m2, conforme demarcação na planta em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º - 1 - É excluída do regime florestal parcial, a que foi submetida por Decreto de 2 de Junho de 1949, uma parcela de terreno do perímetro florestal de Mértola, com a área de 500 m2, conforme demarcação na planta em anexo ao presente diploma, do qual faz parte integrante.
 
 2 - A parcela de terreno referida no número anterior pertence à Câmara Municipal de Mértola e destina-se à instalação de armazenamento e depósito de gás.
 
 3 - Caso não venha a concretizar-se, no prazo de um ano, o uso referido no número anterior, a área em causa será novamente integrada no perímetro florestal dos coutos.
 
-###### Art. 2.º A entrega da parcela só será efectivada depois de a Câmara Municipal de Mértola proceder à respectiva demarcação, de acordo com as orientações técnicas do Instituto Florestal.
+Art. 2.º A entrega da parcela só será efectivada depois de a Câmara Municipal de Mértola proceder à respectiva demarcação, de acordo com as orientações técnicas do Instituto Florestal.
 
 Presidência do Conselho de Ministros, 11 de Julho de 1994.
 
 Joaquim Fernando Nogueira - António Duarte Silva.
 
-**Assinado em 5 de Setembro de 1994.**
+Assinado em 5 de Setembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1994.**
+Referendado em 8 de Setembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/222b00/57645765.pdf))](https://files.diariodarepublica.pt/1s/1994/09/222b00/57645765.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/222b00/57645765.pdf)

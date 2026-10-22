@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/609-1973-411577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 801a9403a57545f3f0443065871c248eb6b117c0044ebbcd8d5490533b291e61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f103f5d52998681d429a3c9da0af160ba11e85aa41061eb24ac0fc80c9100e3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério da Economia
+- Ministério da Educação Nacional
+- Ministério da Habitação e Obras Públicas
+- Ministério das Corporações e Previdência Social
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685448:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:59Z'
   warnings: []
   errors: []
 ---
@@ -88,29 +106,29 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 26003731$00 destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 26003731$00 destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Obras Públicas
 
 Secretaria de Estado do Urbanismo e Habitação
 
-### Capítulo 13.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 13.º «Direcção-Geral dos Serviços de Urbanização»:
 
-###### Artigo 232.º «Abono de família» ... 350000$00
+Artigo 232.º «Abono de família» ... 350000$00
 
 Gabinete do Plano Director da Região de Lisboa
 
-###### Artigo 261.º «Abono de família» ... 35000$00
+Artigo 261.º «Abono de família» ... 35000$00
 
 Secretaria de Estado das Obras Públicas
 
-### Capítulo 20.º «Direcção-Geral das Construções Escolares»:
+Capítulo 20.º «Direcção-Geral das Construções Escolares»:
 
 Educação e Investigação
 
 Edifícios de ensino superior e investigação
 
-###### Artigo 400.º «Investimentos», n.º 2 «Edifícios» ... 10195000$00
+Artigo 400.º «Investimentos», n.º 2 «Edifícios» ... 10195000$00
 
 ... 10580000$00
 
@@ -118,7 +136,7 @@ Ministério da Educação Nacional
 
 Secretaria de Estado de Instrução e Cultura
 
-### Capítulo 5.º «Direcção-Geral do Ensino Superior»:
+Capítulo 5.º «Direcção-Geral do Ensino Superior»:
 
 Instrução Universitária
 
@@ -128,7 +146,7 @@ Instituto Superior de Ciências do Trabalho e da Empresa
 
 Despesas correntes:
 
-###### Artigo 621.º-A «Outras despesas correntes» ... (ver nota 39)
+Artigo 621.º-A «Outras despesas correntes» ... (ver nota 39)
 
 ... 4000000$00
 
@@ -136,21 +154,21 @@ Ministério da Economia
 
 Secretaria de Estado da Indústria
 
-### Capítulo 18.º «Direcção-Geral dos Serviços Industriais»:
+Capítulo 18.º «Direcção-Geral dos Serviços Industriais»:
 
-###### Artigo 380.º «Deslocações», n.º 2 «Vistorias e outras encargos, nos termos do artigo 14.º do [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317), de 28 de Março de 1966 ... 1500000$00
+Artigo 380.º «Deslocações», n.º 2 «Vistorias e outras encargos, nos termos do artigo 14.º do [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317), de 28 de Março de 1966 ... 1500000$00
 
-### Capítulo 24.º «Contas de ordem»:
+Capítulo 24.º «Contas de ordem»:
 
-###### Artigo 453.º «Fundo de Fomento de Exportação», n.º 1 «Serviços gerais» ... 3000000$00
+Artigo 453.º «Fundo de Fomento de Exportação», n.º 1 «Serviços gerais» ... 3000000$00
 
 ... 4500000$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 4.º «Secretaria-Geral»:
+Capítulo 4.º «Secretaria-Geral»:
 
-###### Artigo 44.º «Vencimentos e salários»:
+Artigo 44.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -162,31 +180,31 @@ Inspecção do Trabalho
 
 (Durante oito meses e quatro dias)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26700/22022203.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26700/22022203.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26700/22022203.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 11308731$00
+Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 11308731$00
 
-### Capítulo 7.º, grupo 10, artigo 122.º «Vistorias e ensaios»:
+Capítulo 7.º, grupo 10, artigo 122.º «Vistorias e ensaios»:
 
 Serviços industriais ... 1500000$00
 
-### Capítulo 15.º, artigo 186.º «Fundo de Fomento de Exportação»:
+Capítulo 15.º, artigo 186.º «Fundo de Fomento de Exportação»:
 
 Serviços gerais ... 3000000$00
 
 Receita extraordinária:
 
-### Capítulo 12.º, grupo 7, artigo 206.º «Crédito interno» ... 10195000$00
+Capítulo 12.º, grupo 7, artigo 206.º «Crédito interno» ... 10195000$00
 
 ... 26003731$00
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 3.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério da Educação Nacional
 
@@ -224,8 +242,8 @@ Inclui:
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 5 de Novembro de 1973.**
+Promulgado em 5 de Novembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

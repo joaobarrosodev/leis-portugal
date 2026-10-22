@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/136-1981-562465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b0e8701899c9cae3b759835a9e0c07d9ce8f103faf4e7bcf5749b0c3b8420c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb9caafd2adf7fce44057bd1e1705c2742da16514e48f9839b9eebbeec372e04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Argentina
+- Convenção
+- Cooperação Cultural
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:09Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 29 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo Cultural entre a República Portuguesa e a República Argentina, assinado em Lisboa em 30 de Junho de 1981, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo Cultural entre a República Portuguesa e a República Argentina, assinado em Lisboa em 30 de Junho de 1981, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 14 de Outubro de 1981.**
+Assinado em 14 de Outubro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO CULTURAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ARGENTINA
 
@@ -106,11 +110,11 @@ Decididos a fornecer de comum acordo uma maior difusão das respectivas línguas
 
 acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes estimularão a cooperação entre as instituições culturais, educativas, científicas, artísticas e desportivas de ambos os países, ficando esta cooperação sujeita às normas e preceitos legais da jurisdição interna de cada uma das Partes Contratantes.
 
-ARTIGO II
+###### ARTIGO II
 
 Para promover a cooperação prevista, as Partes Contratantes apoiarão:
 
@@ -124,43 +128,43 @@ Para promover a cooperação prevista, as Partes Contratantes apoiarão:
 
 5) O ensino das respectivas línguas através de cursos ou de outros mecanismos que as Partes Contratantes acordem para este fim.
 
-ARTIGO III
+###### ARTIGO III
 
 Cada uma das Partes Contratantes compromete-se a conceder, na medida das suas possibilidades, bolsas estudo a nacionais da outra Parte que lhes permitam seguir estudos ou frequentar cursos de especialização em estabelecimentos de ensino superior.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Contratantes facilitarão e apoiarão negociações entre as instituições competentes com o fim de reconhecer mutuamente os diplomas, certificados de cursos superiores, títulos e graus científicos, de acordo com as disposições em vigor em cada país.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes fomentarão o estabelecimento e desenvolvimento de relações entre os museus, bibliotecas e arquivos dos dois países.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Cada uma das Partes Contratantes estimulará a organização de manifestações e encontros entre os desportistas de ambos os países e a participação dos mesmos em cursos, manifestações e encontros de carácter internacional, que tenham lugar no território da outra Parte Contratante.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Cada Parte Contratante favorecerá e estimulará, no seu respectivo território, visitas e viagens de informação docente e de funcionários responsáveis em matéria de educação e de acção e fomento cultural da outra Parte Contratante.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Cada uma das Partes Contratantes facilitará a protecção dos direitos de autor das obras culturais, educativas e artísticas de nacionais da outra Parte Contratante de acordo com as normas legais vigentes em cada país.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Para a realização dos objectivos do presente Acordo, cada uma das Partes Contratantes procurará conceder facilidades para a importação de material proveniente da outra Parte Contratante, para fins não comerciais, de acordo com a legislação vigente em cada país.
 
-ARTIGO X
+###### ARTIGO X
 
 Para a aplicação do presente Acordo, bem como para a formulação de propostas destinadas ao ulterior desenvolvimento das relações culturais entre os dois países, as Partes Contratantes propõem-se criar uma comissão mista, que reunirá alternadamente em Lisboa e Buenos Aires pelo menos de três em três anos.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O presente Acordo estará sujeito a ratificação, de acordo com os respectivos preceitos constitucionais, e entrará em vigor na data da troca dos instrumentos de ratificação.
 
-ARTIGO XII
+###### ARTIGO XII
 
 O presente Acordo terá uma duração de três anos, a contar da data da sua entrada em vigor, prorrogando-se automaticamente por iguais períodos, salvo se uma das Partes o denunciar, por escrito, até seis meses antes do termo de cada período.
 
@@ -176,4 +180,4 @@ Pelo Governo da República Argentina:
 
 (Assinatura ilegível.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24900/28612863.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24900/28612863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24900/28612863.pdf)

@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/99-1981-579360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04b628b8adb78e7ae064b260bff659f627ba599c7386bed76ce412b87db23e8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d72bf95730030c371940403c83a1924b271d8add0624eb978d525312d07dd8bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Convenção
+- Estrasburgo
+- Portugal
+- Proteção dos Animais
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:49Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 29 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Europeia sobre a Protecção dos Animais de Abate, aberta à assinatura em 10 de Maio de 1979, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção Europeia sobre a Protecção dos Animais de Abate, aberta à assinatura em 10 de Maio de 1979, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 15 de Julho de 1981.**
+Assinado em 15 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention Européenne sur la Protéction des Animaux d'Abattage
 
@@ -452,7 +457,7 @@ acordam no que segue:
 
 ### CAPÍTULO I — Princípios gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1 - A presente Convenção aplica-se ao encaminhamento, recolha, imobilização, atordoamento e abate dos animais domésticos das espécies seguintes: solípedes, ruminantes, porcinos, coelhos e aves de capoeira.
 
@@ -470,7 +475,7 @@ acordam no que segue:
 
 «Abate», a matança de um animal após a sua imobilização, atordoamento e sangria, salvo as excepções previstas no capítulo III da presente Convenção.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1 - As Partes Contratantes tomarão as medidas necessárias para assegurar a aplicação efectiva das disposições da presente Convenção.
 
@@ -482,7 +487,7 @@ acordam no que segue:
 
 ### CAPÍTULO II — Entrega dos animais aos matadouros e sua recolha até ao abate
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1 - Os animais devem ser descarregados o mais depressa possível. Enquanto aguardarem nos meios de transporte, devem ficar abrigados de influências climáticas extremas e beneficiar de ventilação adequada.
 
@@ -490,7 +495,7 @@ acordam no que segue:
 
 #### SECÇÃO I — Encaminhamento dos animais no recinto dos matadouros
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - Os animais devem ser descarregados e encaminhados com cuidado.
 
@@ -502,7 +507,7 @@ Esse equipamento deverá ser construído com pavimento não escorregadio e, se n
 
 4 - Sempre que necessário, os animais serão conduzidos individualmente; caso sejam levados por corredores, estes deverão ser concebidos de modo que os animais não possam ferir-se.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - Os animais deverão ser deslocados recorrendo-se à sua natureza gregária. Os instrumentos destinados a orientar os animais só serão usados para este fim e sempre por períodos curtos. É particularmente vedado agredir os animais em partes do corpo especialmente sensíveis ou empurrá-los tocando essas partes. Os aparelhos de descarga eléctrica só poderão ser utilizados com bovinos e porcinos; contudo, as descargas não poderão durar mais de dois segundos, deverão ser suficientemente espaçadas e os animais deverão dispor do espaço necessário para se moverem; as descargas só serão aplicadas na musculatura apropriada.
 
@@ -512,7 +517,7 @@ Esse equipamento deverá ser construído com pavimento não escorregadio e, se n
 
 4 - Os animais entregues em gaiolas, cabazes ou caixotes de fundo perfurado ou flexível deverão ser descarregados com cuidados especiais a fim de evitar que sejam feridas as suas extremidades. Sempre que necessário, os animais serão descarregados individualmente.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1 - Os animais só poderão ser encaminhados para os locais de abate se puderem ser abatidos imediatamente.
 
@@ -520,7 +525,7 @@ Esse equipamento deverá ser construído com pavimento não escorregadio e, se n
 
 #### SECÇÃO II — Recolha dos animais
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1 - Os animais deverão ser protegidos das influências metereológicas ou climáticas desfavoráveis. Os matadouros deverão dispor de instalações suficientes para a recolha dos animais em estábulos ou redis com protecção contra as intempéries.
 
@@ -540,7 +545,7 @@ Esse equipamento deverá ser construído com pavimento não escorregadio e, se n
 
 #### SECÇÃO III — Cuidados com os animais
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - Deverá ser fornecida água aos animais, caso não sejam conduzidos ao local de abate o mais depressa possível.
 
@@ -548,7 +553,7 @@ Esse equipamento deverá ser construído com pavimento não escorregadio e, se n
 
 3 - Caso os animais não estejam presos, deverão dispor de manjedouras que lhes permitam alimentar-se sem perturbações.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1 - As condições e o estado de saúde dos animais deverão ser inspeccionados pelo menos todas as manhãs e noites.
 
@@ -556,33 +561,33 @@ Esse equipamento deverá ser construído com pavimento não escorregadio e, se n
 
 #### SECÇÃO IV — Outras disposições
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 As Partes Contratantes poderão autorizar derrogações das disposições do capítulo II da presente Convenção no que diz respeito às renas.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 As Partes Contratantes poderão dispor que as disposições do capítulo II da presente Convenção se apliquem, mutatis mutandis, à entrega e recolha de animais fora dos matadouros.
 
 ### CAPÍTULO III — Abate dos animais
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Os animais deverão ser imobilizados imediatamente antes do abate, se necessário, e, com as excepções do artigo 17.º, atordoados pelos processos adequados.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 No caso de abate ritual, é obrigatória a imobilização dos animais da espécie bovina, antes do abate, por processos mecânicos destinados a evitar as dores, sofrimento e agitação, bem como ferimentos ou contusões.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 É vedado utilizar meios de contenção que causem sofrimentos evitáveis, ligar os membros posteriores dos animais ou suspendê-los antes do atordoamento e, no caso de abate ritual, antes do fim da sangria. Contudo, as aves domésticas e os coelhos poderão ser suspensos desde que o atordoamento seja efectuado logo após a suspensão.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Quaisquer operações de abate não previstas no n.º 2 do artigo 1.º só poderão ser iniciadas depois da morte do animal.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1 - Os processos de atordoamento autorizados pelas Partes Contratantes deverão pôr os animais num estado de inconsciência que dure até ao abate, de modo a poupar-lhes todo e qualquer sofrimento evitável.
 
@@ -598,7 +603,7 @@ Anestesia por gás.
 
 4 - As Partes Contratantes poderão autorizar derrogações das disposições dos n.os 2 e 3 do presente artigo em caso de abate de um animal pelo produtor, para consumo próprio, no local onde o animal se encontrar.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 1 - As Partes Contratantes poderão autorizar derrogações das disposições relativas ao atordoamento prévio nos casos seguintes:
 
@@ -612,19 +617,19 @@ Matança de animais por motivos de controle sanitário, se necessário por razõ
 
 2 - As Partes Contratantes que fizerem uso das derrogações previstas no n.º 1 do presente artigo deverão, contudo, velar para que no momento do abate ou matança dos animais lhes sejam poupadas as dores ou sofrimentos evitáveis.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1 - As Partes Contratantes deverão assegurar a aptidão das pessoas que devam proceder profissionalmente à imobilização, atordoamento e abate dos animais.
 
 2 - As Partes Contratantes deverão velar por que os instrumentos, aparelhos ou instalações necessários à imobilização e atordoamento dos animais obedeçam às prescrições da Convenção.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 As Partes Contratantes que autorizem abates segundo ritos religiosos deverão certificar-se da autorização dos sacrificantes pelos organismos religiosos, a não ser que emitam, elas próprias, as autorizações necessárias.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 1 - A presente Convenção fica aberta à assinatura dos Estados membros do Conselho da Europa e da Comunidade Económica Europeia. Será ratificada, aceite ou aprovada. Os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do Secretário-Geral do Conselho da Europa.
 
@@ -632,13 +637,13 @@ As Partes Contratantes que autorizem abates segundo ritos religiosos deverão ce
 
 3 - Entrará em vigor, relativamente às Partes signatárias que a ratificarem, aceitarem ou aprovarem após a data prevista no n.º 2 do presente artigo, seis meses após a data do depósito do respectivo instrumento de ratificação, aceitação ou aprovação.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 1 - Após a entrada em vigor da presente Convenção, o Comité de Ministros do Conselho da Europa poderá convidar, nos termos e condições que achar apropriados, qualquer Estado não membro do Conselho da Europa a aderir à presente Convenção.
 
 2 - Essa adesão efectivar-se-á pelo depósito, junto do Secretário-Geral do Conselho da Europa, de um instrumento de adesão, que produzirá efeitos seis meses após a data do seu depósito.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 1 - Os Estados poderão, no momento da assinatura ou do depósito do respectivo instrumento de ratificação, aceitação, aprovação ou adesão, designar o território ou territórios a que se aplicará a presente Convenção.
 
@@ -646,15 +651,15 @@ As Partes Contratantes que autorizem abates segundo ritos religiosos deverão ce
 
 3 - As declarações feitas nos termos do número anterior poderão ser retiradas, no que diga respeito ao território ou territórios mencionados nessa declaração, por notificação dirigida ao Secretário-Geral. Tal facto produzirá efeitos seis meses após a data de recepção da notificação pelo Secretário-Geral.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 1 - As Partes Contratantes poderão, no que lhes diga respeito, denunciar a presente Convenção dirigindo uma notificação ao Secretário-Geral do Conselho da Europa.
 
 2 - A denúncia produzirá efeitos seis meses após a data de recepção da notificação pelo Secretário-Geral.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
-**O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho e as Partes Contratantes que não sejam membros do Conselho:**
+O Secretário-Geral do Conselho da Europa deverá notificar os Estados membros do Conselho e as Partes Contratantes que não sejam membros do Conselho:
 
 a) De todas as assinaturas;
 

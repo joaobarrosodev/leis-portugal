@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/423-1975-314455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5207564b99a1277caeeb501162731d75d3b0c534c635e2ce89b40d0120929547
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c43f2c64182bd75fc29358c8f5a311a9f81d9a01f511701d8e4b38c673197871
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ACTO Constitutivo
+- Bruxelas
+- Centro Europeu de Previsão do Tempo a Médio Prazo
+- Convenção
+- Meteorologia
+- Portugal
+- Privilegios e Imunidades
 relationships:
 - type: amended_by
   target: pt:dre:489715:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489705:por
+  label: "Ratificadas as Emendas à Convenção Relativa à Criação do Centro Europeu de Previsão do Tempo a Médio Prazo e a Emenda\
+    \ ao Protocolo sobre Privilégios e Imunidades do Centro Europeu de Previsão do Tempo a Médio Prazo, aprovada para ratificação\
+    \ pelo presente diploma, aprovadas pela Res 89/2009, de 15-Set, da AR, pelo DEC.92/2009.15.09.2009.PR, DR.IS [179] de\
+    \ 15.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/92-2009-489705
+  date: '2009-09-15'
+- type: amended_by
+  target: pt:dre:489715:por
+  label: "Aprovadas as Emendas à Convenção Relativa à Criação do Centro Europeu de Previsão do Tempo a Médio Prazo e a Emenda\
+    \ ao Protocolo sobre Privilégios e Imunidades do Centro Europeu de Previsão do Tempo a Médio Prazo, aprovada para ratificação\
+    \ pelo presente diploma, pela RES.89/2009.15.09.2009.AR, DR.IS [179] de 15.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/89-2009-489715
+  date: '2009-09-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:35Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +113,15 @@ de 11 de Agosto
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovados para ratificação a Convenção Relativa à Criação do Centro Europeu de Previsão do Tempo a Médio Prazo e o Protocolo sobre Privilégios e Imunidades do Centro Europeu de Previsão do Tempo a Médio Prazo, concluídos em Bruxelas em 11 de Outubro de 1973, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. São aprovados para ratificação a Convenção Relativa à Criação do Centro Europeu de Previsão do Tempo a Médio Prazo e o Protocolo sobre Privilégios e Imunidades do Centro Europeu de Previsão do Tempo a Médio Prazo, concluídos em Bruxelas em 11 de Outubro de 1973, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Vasco dos Santos Gonçalves - Álvaro Augusto Veiga de Oliveira - Joaquim Jorge de Pinho Campinos.
 
-**Assinado em 29 de Julho de 1975.**
+Assinado em 29 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 CONVENTION ESTABLISHING THE EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS
 
@@ -127,7 +149,7 @@ Mr. Joseph van der Meulem, ambassador extraordinary and plenipotentiary, permane
 
 By Her Majesty the Queen of Denmark:
 
-Mr. Niels [([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18400/11121134.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18400/11121134.pdf), ambassador extraordinary and plenipotentiary, permanent representative of Denmark to the European Communities;
+Mr. Niels [(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18400/11121134.pdf), ambassador extraordinary and plenipotentiary, permanent representative of Denmark to the European Communities;
 
 By the President of the Federal Republic of Germany:
 
@@ -841,7 +863,7 @@ Sr. Joseph van der Meulen, embaixador extraordinário e plenipotenciário, repre
 
 Por Sua Majestade a Rainha da Dinamarca:
 
-Sr. Niels [([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18400/11121134.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18400/11121134.pdf), embaixador extraordinário e plenipotenciário, representante permanente da Dinamarca junto das Comunidades Europeias;
+Sr. Niels [(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18400/11121134.pdf), embaixador extraordinário e plenipotenciário, representante permanente da Dinamarca junto das Comunidades Europeias;
 
 Pelo Presidente da República Federal da Alemanha:
 
@@ -1237,7 +1259,7 @@ Para cada Estado aderente, a presente Convenção entra em vigor no primeiro dia
 
 ###### ARTIGO 24.º
 
-**O secretário-geral do Conselho das Comunidades Europeias deve notificar aos Estados signatários e aderentes:**
+O secretário-geral do Conselho das Comunidades Europeias deve notificar aos Estados signatários e aderentes:
 
 a) Qualquer assinatura da presente Convenção;
 

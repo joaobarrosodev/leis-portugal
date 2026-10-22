@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/99-1973-684240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 792fba281a43975480b54f6697b8f9912af6e9796776d84a16dff9821aef5011
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 044f17c80e753631dc44fb1273aa9bd561f509118459078bb9c570cb10010d8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:163785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:35Z'
   warnings: []
   errors: []
 ---
@@ -98,35 +106,35 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios das Obras Públicas e da Economia, créditos especiais no montante de 317541000$00, destinados a reforçar as seguintes dotações do Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios das Obras Públicas e da Economia, créditos especiais no montante de 317541000$00, destinados a reforçar as seguintes dotações do Orçamento Geral do Estado em vigor:
 
 Ministério das Obras Públicas
 
-### Capítulo 22.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 22.º «Direcção-Geral dos Serviços de Urbanização»:
 
 Melhoramentos rurais
 
 Abastecimento de água às populações rurais:
 
-###### Artigo 463.º «Transferências - Sector público»:
+Artigo 463.º «Transferências - Sector público»:
 
 N.º 1 «Autarquias locais» ... 30000000$00
 
 Esgotos:
 
-###### Artigo 466.º «Transferências - Sector público»:
+Artigo 466.º «Transferências - Sector público»:
 
 N.º 1 «Autarquias locais» ... 40000000$00
 
 Viação rural:
 
-###### Artigo 474.º «Transferências - Sector público»:
+Artigo 474.º «Transferências - Sector público»:
 
 N.º 1 «Autarquias locais» ... 20000000$00
 
 Outros melhoramentos:
 
-###### Artigo 475.º «Transferências - Sector público»:
+Artigo 475.º «Transferências - Sector público»:
 
 N.º 1 «Autarquias locais» ... 5000000$00
 
@@ -134,38 +142,38 @@ Habitação e urbanização
 
 Melhoramentos urbanos:
 
-###### Artigo 478.º «Transferências - Sector público»:
+Artigo 478.º «Transferências - Sector público»:
 
 N.º 1 «Autarquias locais» ... 22541000$00
 
 Ministério da Economia
 
-### Capítulo 36.º «Direcção-Geral dos Serviços Eléctricos»:
+Capítulo 36.º «Direcção-Geral dos Serviços Eléctricos»:
 
 Electrificação rural:
 
-###### Artigo 778.º «Transferências - Sector público»:
+Artigo 778.º «Transferências - Sector público»:
 
 N.º 1 «Autarquias locais» ... 200000000$00
 
 ... 317541000$00
 
-###### Art. 2.º Para compensação dos créditos referidos no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de inscrição ou aumento da previsão de receitas:
+Art. 2.º Para compensação dos créditos referidos no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de inscrição ou aumento da previsão de receitas:
 
 Receita ordinária
 
-### Capítulo 1.º, grupo 2, artigo 13.º-A «Imposto sobre veículos» ... 150000000$00
+Capítulo 1.º, grupo 2, artigo 13.º-A «Imposto sobre veículos» ... 150000000$00
 
 Receita extraordinária
 
-### Capítulo 12.º, grupo 9, artigo 208.º «Crédito interno» ... 167541000$00
+Capítulo 12.º, grupo 9, artigo 208.º «Crédito interno» ... 167541000$00
 
 ... 317541000$00
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 1 de Março de 1973.**
+Promulgado em 1 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

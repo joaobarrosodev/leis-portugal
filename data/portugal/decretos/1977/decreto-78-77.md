@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/12400/12491249.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/78-1977-252976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2c513bfe999f8b5dfee24a4a8caf8df9645d49647af38b6d73dbf0c918f0c35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da0425a8f6e401f823154b721ef3eba3b727d6be5fff495dadc143dddac7db81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dispensa de Serviço
+- Estatuto
+- Militar
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:571401:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193246:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571401:por
+  label: Revogado, a partir de 21.05.1990, pelo DEC LEI.153/90.16.05.1990.MF, DR.IS [112] de 16.05.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-1990-571401
+  date: '1990-05-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:04Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +108,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Os sargentos e praças da Guarda Fiscal poderão ser dispensados do serviço da mesma Guarda desde que o requeiram ao comandante-geral.
+Artigo 1.º - 1. Os sargentos e praças da Guarda Fiscal poderão ser dispensados do serviço da mesma Guarda desde que o requeiram ao comandante-geral.
 
 2. O requerimento será deferido logo que haja sido indicada pelo Ministério de origem do requerente a unidade ou o distrito de recrutamento e mobilização a que ele terá passagem quando for dispensado e cumulativamente se mostre estar ele quite com a Fazenda Nacional.
 
-###### Art. 2.º - 1. Os sargentos e praças dispensados do serviço nos termos do artigo anterior poderão ser reintegrados na Guarda Fiscal desde que o requeiram ao comandante-geral e os motivos invocados sejam por este julgados atendíveis.
+Art. 2.º - 1. Os sargentos e praças dispensados do serviço nos termos do artigo anterior poderão ser reintegrados na Guarda Fiscal desde que o requeiram ao comandante-geral e os motivos invocados sejam por este julgados atendíveis.
 
 2. As reintegrações previstas no número anterior se podem ser concedidas aos sargentos e praças que:
 
@@ -109,18 +122,18 @@ b) Conservem a robustez física necessária, comprovada pela Junta Superior de S
 
 c) Demonstrem, por meio de certificado do registo criminal e por atestado emitido pela autoridade administrativa, que têm bom comportamento moral e civil.
 
-###### Art. 3.º - 1. O militar será reintegrado na categoria que tinha anteriormente à dispensa e terá direito ao vencimento a partir do dia em que se apresentar na unidade a que for destinado.
+Art. 3.º - 1. O militar será reintegrado na categoria que tinha anteriormente à dispensa e terá direito ao vencimento a partir do dia em que se apresentar na unidade a que for destinado.
 
 2. A reintegração, porém, só se efectuará quando ocorrer a primeira vaga no quadro a que pertencia o interessado quando foi abatido ao efectivo.
 
-###### Art. 4.º As disposições deste decreto são aplicáveis à reintegração dos sargentos e praças que a seu pedido tenham sido dispensados do serviço da Guarda Fiscal antes da entrada em vigor do presente diploma.
+Art. 4.º As disposições deste decreto são aplicáveis à reintegração dos sargentos e praças que a seu pedido tenham sido dispensados do serviço da Guarda Fiscal antes da entrada em vigor do presente diploma.
 
-###### Art. 5.º Fica revogado o [Decreto n.º 44866](https://diariodarepublica.pt/dr/detalhe/decreto/44866-1963-193246), de 1 de Fevereiro de 1963.
+Art. 5.º Fica revogado o [Decreto n.º 44866](https://diariodarepublica.pt/dr/detalhe/decreto/44866-1963-193246), de 1 de Fevereiro de 1963.
 
 Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 15 de Maio de 1977.**
+Promulgado em 15 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

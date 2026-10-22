@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/51/1999/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/51-1999-684847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:10:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e7a7b434d5e38a7b422bab7138c841d6cc60f4a1d78a997f7f815dfcd267e01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fa3e5eef2d545997efc7a1d4d2a5f80b3f6d5e8c651855bec88234fa1f84a32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:10:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Pessoal do MAR
 - Convenção
-- Portugal
-- Segurança no Trabalho
+- Embarcação
 - Londres
+- Navegação Marítima
 - OMI
+- Pessoal do MAR
+- Portugal
 - Salvaguarda da VIDA Humana no MAR
 - Segurança Marítima
-- Navegação Marítima
+- Segurança no Trabalho
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 10
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:10:34Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Cardona Gomes Cravinho.
 
-**Assinado em 15 de Outubro de 1999.**
+Assinado em 15 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOL OF 1988 RELATING TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974
 
@@ -632,7 +632,7 @@ This is to certify:
 
 3) The following subdivision load lines:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 2.2 - The ship complied with the requirements of the Convention as regards structural fire protection, fire safety systems and appliances and fire control plans;
 
@@ -712,11 +712,11 @@ Minimum number of persons with required qualifications to operate the radio inst
 
 2 - Details of live-saving appliance:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 3 - Details of radio facilities:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 4 - Methods used to ensure availability of radio facilities (regulations IV/15.6 and 15.7):
 
@@ -728,11 +728,11 @@ Minimum number of persons with required qualifications to operate the radio inst
 
 5 - Ships constructed before 1 February 1995 which do not comply with all the applicable requirements of chapter IV of the Convention as amended in 1988 (ver nota 4):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 6 - Ships constructed before 1 February 1992 which do not fully comply with the applicable requirements of chapter III of the Convention as amended in 1988 (ver nota 5):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 This is to certify that this Record is correct in all respects.
 
@@ -1198,11 +1198,11 @@ Distinctive number or letters ...
 
 2 - Details of life-saving appliances:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 3 - Ships constructed before 1 February 1992 which do not fully comply with the applicable requirements of chapter III of the Convention as amended in 1988 (ver nota 2):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 This is to certify that this Record is correct in all respects.
 
@@ -1380,7 +1380,7 @@ Minimum number of persons with required qualifications to operate the radio inst
 
 2 - Details of radio facilities:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 3 - Methods used to ensure availability of radio facilities (regulations IV/15.6 and 15.7):
 
@@ -1394,11 +1394,11 @@ Minimum number of persons with required qualifications to operate the radio inst
 
 4.1 - For ships required to be fitted with radiotelegraphy in accordance with the Convention in force prior to 1 February 1992:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 4.2 - For ships required to be fitted with radiotelephony in accordance with the Convention in force prior to 1 February 1992:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 This is to certify that this Record is correct in all respects.
 
@@ -1792,11 +1792,11 @@ Minimum number of persons with required qualifications to operate the radio inst
 
 2 - Details of life-saving appliances:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 3 - Details of radio facilities:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 4 - Methods used to ensure availability of radio facilities (regulations IV/15.6 and 15.7):
 
@@ -1810,15 +1810,15 @@ Minimum number of persons with required qualifications to operate the radio inst
 
 5.1 - For ships required to be fitted with radiotelegraphy in accordance with the Convention in force prior to 1 February 1992:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 5.2 - For ships required to be fitted with radiotelephony in accordance with the Convention in force prior to 1 February 1992:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 6 - Ships constructed before 1 February 1992 which do not fully comply with the applicable requirements of chapter III of the Convention as amended in 1988 (ver nota 5):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 This is to certify that this Record is correct in all respects.
 
@@ -1940,9 +1940,7 @@ Considerando que a melhor forma de fazer face a esta necessidade é a de elabora
 
 concordaram no seguinte:
 
-Artigo I
-
-Obrigações gerais
+###### Artigo I — Obrigações gerais
 
 1 - As Partes do presente Protocolo comprometem-se a pôr em execução as disposições do mesmo e do seu anexo, o qual constitui parte integrante do presente Protocolo. Toda a referência ao presente Protocolo constitui igualmente uma referência ao seu anexo.
 
@@ -1950,9 +1948,7 @@ Obrigações gerais
 
 3 - As Partes do presente Protocolo aplicarão aos navios autorizados a usar a bandeira de um Estado que não é Parte da Convenção e do presente Protocolo os requisitos da Convenção e do presente Protocolo sempre que for necessário para estes navios não beneficiarem de condições mais favoráveis.
 
-Artigo II
-
-Tratados anteriores
+###### Artigo II — Tratados anteriores
 
 1 - O presente Protocolo substitui e revoga o Protocolo de 1978 da Convenção entre as Partes do presente Protocolo.
 
@@ -1960,9 +1956,7 @@ Tratados anteriores
 
 3 - Qualquer Parte do presente Protocolo não deve emitir qualquer certificado em aplicação e em conformidade com as disposições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar adoptada em 1 de Novembro de 1974.
 
-Artigo III
-
-Comunicação de informações
+###### Artigo III — Comunicação de informações
 
 As Partes do presente Protocolo comprometem-se a comunicar ao Secretário-Geral da Organização Marítima Internacional (daqui em diante referida «a Organização») e a depositar junto dele:
 
@@ -1972,9 +1966,7 @@ b) Uma lista dos inspectores designados ou dos organismos reconhecidos que estej
 
 c) Um número suficiente de modelos dos certificados emitidos em conformidade com as disposições do presente Protocolo.
 
-Artigo IV
-
-Assinatura, ratificação, aceitação, aprovação e adesão
+###### Artigo IV — Assinatura, ratificação, aceitação, aprovação e adesão
 
 1 - O presente Protocolo estará aberto à assinatura, na sede da Organização, de 1 de Março de 1989 a 28 de Fevereiro de 1990 e ficará seguidamente aberto à adesão. Sob reserva das disposições do parágrafo 3, os Estados podem exprimir o seu consentimento de ficarem ligados pelo presente Protocolo por:
 
@@ -1988,9 +1980,7 @@ c) Adesão.
 
 3 - O presente Protocolo só pode ser objecto de uma assinatura sem reserva, de uma ratificação, de uma aceitação, de uma aprovação ou de uma adesão por parte dos Estados que assinaram sem reserva, ratificaram, aceitaram ou aprovaram a Convenção ou que à mesma aderiram.
 
-Artigo V
-
-Entrada em vigor
+###### Artigo V — Entrada em vigor
 
 1 - O presente Protocolo entra em vigor 12 meses após a data na qual as duas condições seguintes se verifiquem:
 
@@ -2004,9 +1994,7 @@ b) As condições da entrada em vigor do Protocolo de 1988 Relativo à Convenç�
 
 4 - Todo o instrumento de ratificação, de aceitação, de aprovação ou de adesão depositado após a data na qual uma emenda ao presente Protocolo é considerada ter sido aceite, em conformidade com o artigo IV, se aplica ao Protocolo na sua forma modificada.
 
-Artigo VI
-
-Emendas
+###### Artigo VI — Emendas
 
 Os procedimentos mencionados no artigo VIII da Convenção aplicam-se às emendas ao presente Protocolo, entendendo-se que:
 
@@ -2016,9 +2004,7 @@ b) As emendas aos artigos e ao anexo do presente Protocolo são adoptadas e post
 
 c) As emendas ao apêndice do anexo do presente Protocolo podem ser adoptadas e postas em vigor em conformidade com o procedimento aplicável às emendas ao anexo da Convenção, excepto às do capítulo I.
 
-Artigo VII
-
-Denúncia
+###### Artigo VII — Denúncia
 
 1 - O presente Protocolo pode ser denunciado por uma qualquer das Partes a todo o momento após a expiração do período de cinco anos contado a partir da data na qual o presente Protocolo entre em vigor para esta Parte.
 
@@ -2028,9 +2014,7 @@ Denúncia
 
 4 - Toda a denúncia da Convenção por uma Parte constitui uma denúncia do presente Protocolo por essa Parte. Uma tal denúncia produz efeito na mesma data na qual a denúncia da Convenção produz efeito, conforme o artigo XI, c), da Convenção.
 
-Artigo VIII
-
-Depositário
+###### Artigo VIII — Depositário
 
 1 - O presente Protocolo é depositado junto do Secretário-Geral da Organização (a seguir indicado «o depositário»).
 
@@ -2048,9 +2032,7 @@ b) Transmite cópias autênticas certificadas do presente Protocolo aos Governos
 
 3 - Logo que o presente Protocolo entre em vigor, o depositário envia uma cópia autêntica certificada ao Secretariado da Organização das Nações Unidas, para registo e publicação, de acordo com o artigo 102 da Carta das Nações Unidas.
 
-Artigo IX
-
-Línguas
+###### Artigo IX — Línguas
 
 O presente Protocolo é elaborado num único original em línguas árabe, chinesa, espanhola, francesa, inglesa e russa, fazendo igualmente fé cada um dos textos.
 
@@ -2064,7 +2046,7 @@ Em testemunho do que os abaixo assinados, devidamente autorizados para este efei
 
 ### CAPÍTULO I — Disposições gerais
 
-# PARTE A
+## PARTE A
 
 Aplicações, definições, etc.
 
@@ -2080,7 +2062,7 @@ Juntar o parágrafo seguinte ao texto actual:
 
 «n) 'Data de aniversário' significa o dia e o mês de cada ano que corresponde à data de caducidade do certificado pertinente.»
 
-# PARTE B — Vistorias e certificados
+## PARTE B — Vistorias e certificados
 
 Regra 6
 
@@ -2380,7 +2362,7 @@ e) A autoridade do Estado do porto respectivo deve comunicar às autoridades do 
 
 f) No exercício da fiscalização no âmbito desta regra, deverão ser feitos todos os esforços para evitar que o navio seja indevidamente retido ou atrasado. Em consequência, se um navio for indevidamente retido ou atrasado, tem o direito a uma indemnização por perdas e danos sofridos.»
 
-## APÊNDICE
+APÊNDICE
 
 Modificações e adições ao apêndice ao anexo da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974
 
@@ -2438,7 +2420,7 @@ Certifica:
 
 3) Às linhas de carga de compartimentagem seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 2.2 - Que o navio obedecia aos requisitos da Convenção no que diz respeito às condições estruturais para a protecção contra incêndios, os sistemas e os dispositivos de protecção contra incêndios, de detecção e os planos de combate a incêndios;
 
@@ -2478,7 +2460,7 @@ Confirmação quando tenha sido completada uma vistoria de renovação e se apli
 
 O navio satisfaz aos requisitos pertinentes da Convenção e o presente certificado, de acordo com a regra I/14, d), da Convenção é aceite como válido até ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2490,7 +2472,7 @@ Confirmação da extensão da validade do certificado até que o navio chegue ao
 
 O presente certificado, de acordo com a regra I/14, e)/I/14, f) (ver nota 1), da Convenção, é aceite como válido até ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2518,11 +2500,11 @@ Número mínimo de pessoas com as qualificações exigidas para operar as instal
 
 2 - Descrição dos meios de salvação:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 3 - Descrição dos meios radioeléctricos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 4 - Métodos utilizados para assegurar a disponibilidade das instalações radioeléctricas (regra IV/15.6 e 15.7):
 
@@ -2534,11 +2516,11 @@ Número mínimo de pessoas com as qualificações exigidas para operar as instal
 
 5 - Navios construídos antes de 1 de Fevereiro de 1995 que não satisfazem a todos os requisitos aplicáveis do capítulo IV da Convenção emendada em 1988 (ver nota 4):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 6 - Navios construídos antes de 1 de Fevereiro de 1992 que não satisfazem plenamente aos requisitos aplicáveis do capítulo III da Convenção emendada em 1988 (ver nota 5):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 Certifica que a presente relação está correcta em todos os seus aspectos.
 
@@ -2640,7 +2622,7 @@ Certifica que na vistoria prescrita na regra I/10 da Convenção se constatou qu
 
 Vistoria anual:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2650,7 +2632,7 @@ Data: ...
 
 Vistoria anual/intermédia (ver nota 1):
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2660,7 +2642,7 @@ Data: ...
 
 Vistoria anual/intermédia (ver nota 1):
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2670,7 +2652,7 @@ Data: ...
 
 Vistoria anual:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2684,7 +2666,7 @@ Vistoria anual/intermédia efectuada conforme a regra I/14, h), iii)
 
 Certifica que na vistoria anual/intermédia (ver nota 1) efectuada conforme a regra I/14, h), iii), da Convenção se constatou que o navio satisfaz aos requisitos pertinentes da Convenção.
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2700,7 +2682,7 @@ Certifica que numa inspecção prescrita pela regra I/10 da Convenção se const
 
 Primeira inspecção:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2710,7 +2692,7 @@ Data: ...
 
 Segunda inspecção:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2724,7 +2706,7 @@ Confirmação da prorrogação do certificado válido por um período inferior a
 
 O navio satisfaz aos requisitos pertinentes da Convenção e o presente certificado, conforme a regra I/14, c), da Convenção, será aceite como válido até ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2736,7 +2718,7 @@ Confirmação da prorrogação do certificado depois de completada a vistoria de
 
 O navio satisfaz aos requisitos pertinentes da Convenção e o presente certificado, conforme a regra I/14, d), da Convenção, será aceite como válido até ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2748,7 +2730,7 @@ Confirmação da prorrogação da validade do certificado para que o navio compl
 
 O presente certificado, em conformidade com a regra I/14, e)/I/14, f) (ver nota 1), da Convenção, será aceite como válido até ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2762,7 +2744,7 @@ Confirmação da antecipação da data de aniversário, quando a regra I/14, h),
 
 De acordo com a regra I/14, h), da Convenção, a nova data de aniversário é fixada em ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2772,7 +2754,7 @@ Data: ...
 
 De acordo com a regra I/14, h), da Convenção, a nova data de aniversário é fixada em ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2876,7 +2858,7 @@ Certifica que na vistoria prescrita na regra I/8 da Convenção se constatou que
 
 Vistoria anual:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2886,7 +2868,7 @@ Data: ...
 
 Vistoria anual/periódica (ver nota 1):
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2896,7 +2878,7 @@ Data: ...
 
 Vistoria anual/periódica (ver nota 1):
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2906,7 +2888,7 @@ Data: ...
 
 Vistoria anual:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2920,7 +2902,7 @@ Vistoria anual/periódica conforme a regra I/14, h), iii)
 
 Certifica que na vistoria anual/periódica (ver nota 1) efectuada conforme a regra I/14, h), iii), da Convenção se constatou que o navio satisfaz aos requisitos pertinentes da Convenção.
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2934,7 +2916,7 @@ Confirmação da prorrogação do certificado válido por um período inferior a
 
 O navio satisfaz aos requisitos pertinentes da Convenção e o presente certificado, conforme a regra I/14, c), da Convenção, será aceite como válido até ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2946,7 +2928,7 @@ Confirmação da prorrogação do certificado depois de completada a vistoria de
 
 O navio satisfaz aos requisitos pertinentes da Convenção e o presente certificado, conforme a regra I/14, d), da Convenção, será aceite como válido até ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2958,7 +2940,7 @@ Confirmação da prorrogação do certificado para que o navio complete a sua vi
 
 O presente certificado, em conformidade com a regra I/14, e)/I/14, f) (ver nota 1), da Convenção, será aceite como válido até ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2972,7 +2954,7 @@ Confirmação da antecipação da data de aniversário, quando a regra I/14, h),
 
 Por aplicação da regra I/14, h), da Convenção, a nova data de aniversário é fixada em ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -2982,7 +2964,7 @@ Data: ...
 
 De acordo com a regra I/14, h), da Convenção, a nova data de aniversário é fixada em ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3004,11 +2986,11 @@ Distintivo do navio em número ou letras...
 
 2 - Descrição dos meios de salvação:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 3 - Navios construídos antes de 1 de Fevereiro de 1992 que não satisfazem plenamente às prescrições aplicáveis do capítulo III da Convenção emendada em 1988 (ver nota 2):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 Certifica que a presente relação está correcta em todos os seus aspectos.
 
@@ -3096,7 +3078,7 @@ Certifica que na vistoria exigida pela regra I/9 da Convenção se constatou que
 
 Vistoria periódica:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3106,7 +3088,7 @@ Data: ...
 
 Vistoria periódica:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3116,7 +3098,7 @@ Data: ...
 
 Vistoria periódica:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3126,7 +3108,7 @@ Data: ...
 
 Vistoria periódica:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3138,7 +3120,7 @@ Vistoria periódica efectuada em conformidade com a regra I/14, h), iii)
 
 Certifica que na vistoria periódica efectuada de acordo com a regra I/14, h), iii), da Convenção, se constatou que o navio satisfaz aos requisitos pertinentes da Convenção.
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3150,7 +3132,7 @@ Confirmação da prorrogação do certificado, válido por um período inferior 
 
 O navio satisfaz aos requisitos pertinentes da Convenção e o presente certificado, conforme a regra I/14, c), da Convenção, será aceite como válido até ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3162,7 +3144,7 @@ Confirmação da prorrogação do certificado depois de completada a vistoria de
 
 O navio satisfaz aos requisitos pertinentes da Convenção e o presente certificado, conforme a regra I/14, d), da Convenção, será aceite como válido até ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3174,7 +3156,7 @@ Confirmação da prorrogação do certificado para que o navio complete a sua vi
 
 O presente certificado, conforme a regra I/14, e)/I/14, f) (ver nota 1), da Convenção, será aceite como válido até ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3188,7 +3170,7 @@ Confirmação da antecipação da data de aniversário quando a regra I/14, h), 
 
 Por aplicação da regra I/14, h), da Convenção, a nova data de aniversário é fixada em ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3198,7 +3180,7 @@ Data: ...
 
 Por aplicação da regra I/14, h), da Convenção, a nova data de aniversário é fixada em ...
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3222,7 +3204,7 @@ Número mínimo de pessoas com as qualificações exigidas para operar as instal
 
 2 - Descrição dos meios radioeléctricos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 3 - Métodos utilizados para assegurar a disponibilidade das instalações radioeléctricas (regras IV/15.6 e IV/15.7):
 
@@ -3236,11 +3218,11 @@ Número mínimo de pessoas com as qualificações exigidas para operar as instal
 
 4.1 - Navios que devem possuir instalação radiotelegráfica conforme a Convenção em vigor antes de 1 de Fevereiro de 1992:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 4.2 - Navios que devem possuir instalação radiotelefónica conforme a Convenção em vigor antes de 1 de Fevereiro de 1992:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 Certifica que a presente relação está correcta em todos os seus aspectos.
 
@@ -3364,7 +3346,7 @@ Certifica que na vistoria prescrita na regra I/10 da Convenção se constatou qu
 
 Vistoria anual:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3374,7 +3356,7 @@ Data: ...
 
 Vistoria anual/intermédia (ver nota 1):
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3384,7 +3366,7 @@ Data: ...
 
 Vistoria anual/intermédia (ver nota 1):
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3394,7 +3376,7 @@ Data: ...
 
 Vistoria anual:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3408,7 +3390,7 @@ Vistoria anual/intermédia efectuada de acordo com a regra I/14, h), iii)
 
 Certifica que na vistoria anual/intermédia (ver nota 1) efectuada de acordo com as regras I/10 e I/14, h), iii), da Convenção se constatou que o navio satisfaz aos requisitos pertinentes da Convenção.
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3424,7 +3406,7 @@ Certifica que na inspecção prescrita pela regra I/10 da Convenção se constat
 
 Primeira inspecção:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3434,7 +3416,7 @@ Data: ...
 
 Segunda inspecção:
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3450,7 +3432,7 @@ Certifica que na vistoria prescrita pela regra I/8 da Convenção se constatou q
 
 Vistoria anual:
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3460,7 +3442,7 @@ Data:...
 
 Vistoria anual/periódica (ver nota 1):
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3470,7 +3452,7 @@ Data:...
 
 Vistoria anual/periódica (ver nota 1):
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3480,7 +3462,7 @@ Data:...
 
 Vistoria anual:
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3494,7 +3476,7 @@ Vistoria anual/periódica efectuada de acordo com a regra I/14, h), iii)
 
 Certifica que na vistoria anual/periódica (ver nota 1) efectuada de acordo com as regras I/8 e I/14, h), iii), da Convenção se constatou que o navio satisfaz aos requisitos pertinentes da Convenção.
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3510,7 +3492,7 @@ Certifica que na vistoria prescrita pela regra I/9 da Convenção se constatou q
 
 Vistoria periódica:
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3520,7 +3502,7 @@ Data:...
 
 Vistoria periódica:
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3530,7 +3512,7 @@ Data:...
 
 Vistoria periódica:
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3540,7 +3522,7 @@ Data:...
 
 Vistoria periódica:
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3552,7 +3534,7 @@ Vistoria periódica efectuada em conformidade com a regra I/14, h), iii)
 
 Certifica que na vistoria periódica efectuada de acordo com as regras I/9 e I/14, h), iii), da Convenção se constatou que o navio satisfaz aos requisitos pertinentes da Convenção.
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3564,7 +3546,7 @@ Confirmação da prorrogação do certificado válido por um período inferior a
 
 O navio satisfaz aos requisitos pertinentes da Convenção e o presente certificado, de acordo com a regra I/14, c), da Convenção, será aceite como válido até ...
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3576,7 +3558,7 @@ Confirmação da prorrogação do certificado, depois de completada a vistoria d
 
 O navio satisfaz aos requisitos pertinentes da Convenção e o presente certificado, de acordo com a regra I/14, d), da Convenção, será aceite como válido até ...
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3588,7 +3570,7 @@ Confirmação da prorrogação do certificado para que o navio complete a sua vi
 
 O presente certificado, de acordo com a regra I/14, e)/I/14, f) (ver nota 1), da Convenção, será aceite como válido até ...
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3602,7 +3584,7 @@ Confirmação da antecipação da data de aniversário quando a regra I/14, h), 
 
 Por aplicação da regra I/14, h), da Convenção, a nova data de aniversário é fixada em ...
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3612,7 +3594,7 @@ Data:...
 
 Por aplicação da regra I/14, h), da Convenção, a nova data de aniversário é fixada em ...
 
-**Assinado:... (assinatura da pessoa autorizada).**
+Assinado:... (assinatura da pessoa autorizada).
 
 Local:...
 
@@ -3636,11 +3618,11 @@ Número mínimo de pessoas com as qualificações exigidas para operar as instal
 
 2 - Descrição dos meios de salvação:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 3 - Descrição dos meios radioeléctricos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 4 - Métodos utilizados para assegurar a disponibilidade das instalações radioeléctricas (regras IV/15.6 e IV/15.7):
 
@@ -3654,15 +3636,15 @@ Número mínimo de pessoas com as qualificações exigidas para operar as instal
 
 5.1 - Navios que devem possuir instalação radiotelegráfica conforme a Convenção em vigor de 1 de Fevereiro de 1992:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 5.2 - Navios que devem possuir instalação radiotelefónica conforme a Convenção em vigor antes de 1 de Fevereiro de 1992:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 6 - Navios construídos antes de 1 de Fevereiro de 1992 que não satisfazem plenamente aos requisitos aplicáveis do capítulo III da Convenção emendada em 1988 (ver nota 5):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)](https://files.diariodarepublica.pt/1s/1999/11/269a00/81328170.pdf)
 
 Certifica que a presente relação está correcta em todos os seus aspectos.
 
@@ -3738,7 +3720,7 @@ Confirmação da prorrogação do certificado válido por um período inferior a
 
 O presente certificado, de acordo com a regra I/14, c), da Convenção, será aceite como válido até ... desde que o certificado ..., ao qual o presente certificado está junto, permanecer válido.
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3750,7 +3732,7 @@ Confirmação da prorrogação do certificado depois de completada a vistoria de
 
 O presente certificado, de acordo com a regra I/14, d), da Convenção, será aceite como válido até ... enquanto o certificado ..., ao qual o presente certificado está junto, permaneça válido.
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 
@@ -3762,7 +3744,7 @@ Confirmação da prorrogação do certificado para que o navio complete a sua vi
 
 O presente certificado, de acordo com a regra I/14, e)/I/14, f) (ver nota 1), da Convenção, será aceite como válido até ... enquanto o certificado ..., ao qual o presente certificado está junto, permaneça válido.
 
-**Assinado: ... (assinatura da pessoa autorizada).**
+Assinado: ... (assinatura da pessoa autorizada).
 
 Local: ...
 

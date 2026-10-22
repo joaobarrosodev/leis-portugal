@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/30/1991/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/30-1991-598335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b856c02762ec377e109247252065848c01542b569d8afb9f0aa2cdf5580f449
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8545e6ff8fc6d1ad47ef2b1fc833c75a1d3b94e21956035d41e406630e30859
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,15 +72,15 @@ subjects:
 - Portugal
 relationships: []
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:51Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 24 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Jurídica e Judiciária entre a República Portuguesa e a República Popular de Moçambique, assinado em Lisboa, a 26 de Junho de 1990, em dois originais, cuja versão autêntica em língua portuguesa segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Jurídica e Judiciária entre a República Portuguesa e a República Popular de Moçambique, assinado em Lisboa, a 26 de Junho de 1990, em dois originais, cuja versão autêntica em língua portuguesa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 14 de Março de 1991. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 9 de Abril de 1991.**
+Assinado em 9 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Abril de 1991.**
+Referendado em 12 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO ADICIONAL AO ACORDO DE COOPERAÇÃO JURÍDICA E JUDICIÁRIA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DE MOÇAMBIQUE.
 

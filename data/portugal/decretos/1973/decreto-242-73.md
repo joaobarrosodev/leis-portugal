@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/242-1973-422069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1cf55385e661eb7c4c865f2c1e7a04050ec959777e6df4dbe84d73bd0bb7afc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7811c4c5e2ed7193d84a7c32152259c9b2c1af91bc9248e5d6bdd91243dbf763
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:228439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228440:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:32Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +99,9 @@ Atendendo ao disposto no artigo 5.º do [Decreto-Lei n.º 78/70](https://diariod
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A alínea a) do n.º 2 do artigo 9.º do [Decreto n.º 79/70](https://diariodarepublica.pt/dr/detalhe/decreto/79-1970-228440), de 3 de Março, passa a ter a seguinte redacção:
+Artigo único. A alínea a) do n.º 2 do artigo 9.º do [Decreto n.º 79/70](https://diariodarepublica.pt/dr/detalhe/decreto/79-1970-228440), de 3 de Março, passa a ter a seguinte redacção:
 
-###### Art. 9.º - 1. ...
+Art. 9.º - 1. ...
 
 2. ...
 
@@ -107,8 +115,8 @@ Por cada tonelada métrica de qualquer outra mercadoria ... 15$00
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.
 
-**Promulgado em 1 de Maio de 1973.**
+Promulgado em 1 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/73-1974-412665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6859a4912f4b570f8ff08633ffc76bf1d676a18791e7ae24b36eb3660718dd7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e7509b94f5d8c739918bb6bb45c40115924954ac729854b8e7f828e0a394eb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:18Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +92,16 @@ Considerando o parecer favorável dos serviços competentes;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial uma parcela de terreno, com a área de 20400 m2, integrada na Mata do Bailadouro.
+Artigo 1.º É excluída do regime florestal parcial uma parcela de terreno, com a área de 20400 m2, integrada na Mata do Bailadouro.
 
-###### Art. 2.º Dado a parcela em questão estar arborizada, a Junta de Freguesia de Pousos indemnizará o Estado na importância de 259000$00, ficando a pertencer-lhe o arvoredo que se tornar necessário abater.
+Art. 2.º Dado a parcela em questão estar arborizada, a Junta de Freguesia de Pousos indemnizará o Estado na importância de 259000$00, ficando a pertencer-lhe o arvoredo que se tornar necessário abater.
 
-###### Art. 3.º A entrega desta parcela só será efectivada depois de liquidada a importância referida no artigo anterior e após a Junta de Freguesia proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 3.º A entrega desta parcela só será efectivada depois de liquidada a importância referida no artigo anterior e após a Junta de Freguesia proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Eduardo Mendes Ferrão.
 
-**Promulgado em 15 de Fevereiro de 1974.**
+Promulgado em 15 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

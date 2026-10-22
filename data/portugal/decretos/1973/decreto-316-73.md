@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/316-1973-420981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f10ed1a80f531aea67fe7e9d5c4ae2b974ea3ec2aa4056911f4776b0be9dade9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 279c9e7d057dea70f16c6d0da8d42ade2c6306b41f204905c8abf4addeeb870c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:14Z'
   warnings: []
   errors: []
 ---
@@ -88,29 +92,29 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 2332608$00 destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 2332608$00 destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 12.º «Contas de ordem»:
+Capítulo 12.º «Contas de ordem»:
 
-###### Artigo 508.º «Comissão dos Explosivos» ... 150000$00
+Artigo 508.º «Comissão dos Explosivos» ... 150000$00
 
 Ministério das Finanças
 
-### Capítulo 21.º «Comando-Geral da Guarda Fiscal»:
+Capítulo 21.º «Comando-Geral da Guarda Fiscal»:
 
 Reapetrechamento da Guarda Fiscal
 
-###### Artigo 312.º «Investimentos», n.º 1 «Construções diversas» ... 700000$00
+Artigo 312.º «Investimentos», n.º 1 «Construções diversas» ... 700000$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 5.º «Magistratura do Trabalho»:
+Capítulo 5.º «Magistratura do Trabalho»:
 
 Tribunais do trabalho (a reembolsar)
 
-###### Artigo 93.º «Vencimentos e salários»:
+Artigo 93.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -118,24 +122,24 @@ Alínea 1 «Pessoal dos quadros aprovados por lei»:
 
 (Durante sete meses e dezasseis dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/14400/10591060.pdf))](https://files.diariodarepublica.pt/1s/1973/06/14400/10591060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/14400/10591060.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
 
 Orçamento das receitas do Estado
 
-### Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 1482608$00
+Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 1482608$00
 
-### Capítulo 14.º, artigo 165.º «Reposições não abatidas nos pagamentos» ... 700000$00
+Capítulo 14.º, artigo 165.º «Reposições não abatidas nos pagamentos» ... 700000$00
 
-### Capítulo 15.º, artigo 169.º «Comissão dos Explosivos» ... 150000$00
+Capítulo 15.º, artigo 169.º «Comissão dos Explosivos» ... 150000$00
 
 ... 2332608$00
 
 Marcello Caetano - João Mota Pereira de Campos - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 6 de Junho de 1973.**
+Promulgado em 6 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

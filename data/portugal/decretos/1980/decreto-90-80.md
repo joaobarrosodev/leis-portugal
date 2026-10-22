@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/90-1980-461867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2aef31149f899bd320cc493585f99d9ab6ef208e5715e267a36ba874df37070
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7303727cb59e1c07a579e6d575c1b8451b707f09bd568bc29302e59701b52dad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Convenção
+- OIT
+- Pessoal do MAR
+- Portugal
+relationships:
+- type: corrected_by
+  target: pt:dre:570340:por
+  label: Rectificado pela DECL.DD6230.19.12.1980.PCM, DR.IS [8] de 10.01.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-570340
+  date: '1980-12-19'
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:14Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +97,15 @@ de 23 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção n.º 109, relativa aos salários, à duração do trabalho a bordo e às lotações, adoptada pela Conferência Internacional do Trabalho na sua 41.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção n.º 109, relativa aos salários, à duração do trabalho a bordo e às lotações, adoptada pela Conferência Internacional do Trabalho na sua 41.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Assinado em 25 de Agosto de 1980.**
+Assinado em 25 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ANNEXE
 
@@ -579,7 +589,7 @@ Considerando que aquelas propostas deveriam tomar a forma de uma convenção int
 
 adopta, neste dia 14 de Maio de 1958, a Convenção seguinte, que será denominada Convenção sobre os Salários, a Duração do Trabalho a Bordo e as Lotações (revista), 1958.
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### ARTIGO 1.º
 
@@ -663,7 +673,7 @@ d) O termo «salário ou vencimento base» designa a remuneração em dinheiro d
 
 5 - Enquanto uma declaração feita nos termos do parágrafo 1 do presente artigo continuar em vigor no que respeita à parte II, o Membro pode declarar que tenciona aceitar aquela parte com o valor de recomendação.
 
-# PARTE II — Salários
+## PARTE II — Salários
 
 ###### ARTIGO 6.º
 
@@ -721,7 +731,7 @@ a) Para assegurar, através de um sistema de contrôle e de sanções, que as re
 
 b) Para assegurar que qualquer pessoa que tenha sido remunerada a uma taxa inferior à taxa decorrente da presente Convenção possa recuperar, através de um processo eficaz e pouco oneroso, quer por via judicial, quer por qualquer outra via legal, o montante da soma que lhe é devida.
 
-# PARTE III — Duração do trabalho a bordo
+## PARTE III — Duração do trabalho a bordo
 
 ###### ARTIGO 11.º
 
@@ -887,7 +897,7 @@ f) Tempo suplementar exigido pela normal rendição dos quartos.
 
 2 - Para os efeitos deste artigo, o termo «noite» significa pelo menos nove horas consecutivas, compreendidas num período a começar antes da meia-noite e a terminar depois da meia-noite e que será determinado pela legislação nacional ou pelas convenções colectivas.
 
-# PARTE IV — Lotações
+## PARTE IV — Lotações
 
 ###### ARTIGO 21.º
 
@@ -903,7 +913,7 @@ c) Evitar todo o excesso de trabalho da tripulação e suprimir ou restringir, t
 
 3 - No funcionamento deste mecanismo participarão representantes das associações de armadores e marítimos, com ou sem o concurso de outras pessoas ou autoridades.
 
-# PARTE V — Aplicação da Convenção
+## PARTE V — Aplicação da Convenção
 
 ###### ARTIGO 22.º
 
@@ -947,7 +957,7 @@ e) Assegure aos marítimos meios de receberem as remunerações devidas como com
 
 Com vista a estabelecer uma assistência recíproca para a aplicação da presente Convenção, cada um dos Membros ratificantes obriga-se a determinar às autoridades competentes de todos os portos situados no seu território que comuniquem à autoridade consular ou a qualquer outra autoridade qualificada de um outro Membro ratificante todos os casos, de que tenham conhecimento, de não observância das disposições da presente Convenção a bordo de um navio registado no território desse outro Membro.
 
-# PARTE VI — Disposições finais
+## PARTE VI — Disposições finais
 
 ###### ARTIGO 25.º
 

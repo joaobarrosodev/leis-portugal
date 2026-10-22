@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/834-1976-406765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fee878108da56a6b3eefae5881db39869ca8e0e847ce9f24843e4c377c3ad84c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6569aebcfc195dfc9491486bccc4bba6ef02fbfc7ff213ef9ce8e53e666f83b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da Estrada
+- Condutor
+- Segurança Rodoviária
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:33Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Considerando o disposto no § único do artigo 1.º do [Decreto-Lei n.º 39672](
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os n.os 3 do artigo 17.º e 5 e 17 do artigo 38.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
+Artigo 1.º Os n.os 3 do artigo 17.º e 5 e 17 do artigo 38.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
 
 ###### ARTIGO 17.º — Disposição da carga e dos passageiros
 
@@ -115,14 +123,14 @@ A contravenção do disposto neste número será punida com a multa de 200$00.
 
 17. São aplicáveis aos condutores e passageiros dos ciclomotores e velocípedes com motor as disposições constantes dos n.os 3, 4 e 5 do artigo 31.º
 
-###### Art. 2.º É revogado o n.º 2 do artigo 43.º do Código da Estrada.
+Art. 2.º É revogado o n.º 2 do artigo 43.º do Código da Estrada.
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 14 de Novembro de 1976.**
+Promulgado em 14 de Novembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

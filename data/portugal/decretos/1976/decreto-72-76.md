@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/72-1976-506834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1b9a9816b3c843a06247fdf66a37e36826287105cd0323ac6bca3ce984e020e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 757ebb701107060fba9b3a4c33ae75a09fe73b6a7444b24e214b982d4710ce59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Fiscalização
+- Companhia de Seguros
+- Conselho de Gestão
+- Definição de Competências
+- Empresa Pública
+- Gestão Orçamental
+- Nacionalização
+- Orgânica
+- Rectificação de TIPO de Diploma
+- Trabalhador
+relationships:
+- type: cites
+  target: pt:dre:620081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:57Z'
   warnings: []
   errors: []
 ---
@@ -100,17 +114,17 @@ Nestes termos, usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3
 
 ### CAPÍTULO I — Âmbito do diploma
 
-###### Artigo 1.º O presente diploma aplica-se às companhias de seguros nacionalizadas pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março.
+Artigo 1.º O presente diploma aplica-se às companhias de seguros nacionalizadas pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março.
 
 ### CAPÍTULO II — Natureza das companhias de seguros nacionalizadas
 
-###### Art. 2.º As companhias de seguros nacionalizadas são pessoas colectivas de direito público, dotadas de personalidade jurídica, administrativa e financeira, com a natureza de empresas públicas.
+Art. 2.º As companhias de seguros nacionalizadas são pessoas colectivas de direito público, dotadas de personalidade jurídica, administrativa e financeira, com a natureza de empresas públicas.
 
 ### CAPÍTULO III — Capital, fundos de reserva e provisões
 
-###### Art. 3.º As companhias de seguros nacionalizadas dispõem de um capital inicial, igual ao existente ao tempo da nacionalização, que lhes é afectado pelo Estado.
+Art. 3.º As companhias de seguros nacionalizadas dispõem de um capital inicial, igual ao existente ao tempo da nacionalização, que lhes é afectado pelo Estado.
 
-###### Art. 4.º - 1. As companhias de seguros nacionalizadas têm um fundo de reserva especial, sem limite máximo, constituído por transferência de lucros líquidos apurados em cada exercício, distribuídos nos termos do artigo 28.º
+Art. 4.º - 1. As companhias de seguros nacionalizadas têm um fundo de reserva especial, sem limite máximo, constituído por transferência de lucros líquidos apurados em cada exercício, distribuídos nos termos do artigo 28.º
 
 2. Além do fundo referido no número anterior, podem os conselhos de gestão das respectivas companhias criar outros fundos e provisões necessários para prevenir riscos de depreciação ou prejuízos previsíveis.
 
@@ -118,35 +132,35 @@ Nestes termos, usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3
 
 ### CAPÍTULO IV — Trabalhadores
 
-###### Art. 5.º - 1. Os trabalhadores das companhias de seguros nacionalizadas, incluindo os membros dos conselhos de gestão, estão sujeitos às normas do contrato de trabalho.
+Art. 5.º - 1. Os trabalhadores das companhias de seguros nacionalizadas, incluindo os membros dos conselhos de gestão, estão sujeitos às normas do contrato de trabalho.
 
 2. Não se aplicam aos membros dos conselhos de gestão as normas do contrato de trabalho sobre despedimentos e as que contrariem as disposições legais sobre administradores de empresas públicas.
 
 3. Deverão prever-se formas adequadas de intervenção dos trabalhadores no desenvolvimento e contrôle da actividade da empresa, tendo em atenção o disposto na lei sobre o contrôle organizado da gestão pelos trabalhadores.
 
-###### Art. 6.º - 1. Os conselhos de gestão devem divulgar, por escrito, a política do pessoal e organizar os instrumentos adequados a essa mesma política.
+Art. 6.º - 1. Os conselhos de gestão devem divulgar, por escrito, a política do pessoal e organizar os instrumentos adequados a essa mesma política.
 
 2. A política do pessoal será definida após audição dos órgãos institucionais de representação dos trabalhadores.
 
-###### Art. 7.º Os membros do conselho de gestão, bem como os restantes trabalhadores, e, ainda, os membros da comissão de fiscalização não podem, nos termos da lei, revelar factos ou elementos cujo conhecimento lhes advenha do exercício das funções.
+Art. 7.º Os membros do conselho de gestão, bem como os restantes trabalhadores, e, ainda, os membros da comissão de fiscalização não podem, nos termos da lei, revelar factos ou elementos cujo conhecimento lhes advenha do exercício das funções.
 
-###### Art. 8.º Os membros dos conselhos de gestão, bem como os restantes trabalhadores, e, ainda, os membros das comissões de fiscalização não podem, do mesmo modo, depor ou prestar declarações em juízo ou fora dele sobre factos de que devam guardar segredo profissional.
+Art. 8.º Os membros dos conselhos de gestão, bem como os restantes trabalhadores, e, ainda, os membros das comissões de fiscalização não podem, do mesmo modo, depor ou prestar declarações em juízo ou fora dele sobre factos de que devam guardar segredo profissional.
 
 ### CAPÍTULO V — Gestão e fiscalização
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 9.º São órgãos das companhias de seguros nacionalizadas o conselho de gestão e a comissão de fiscalização.
+Art. 9.º São órgãos das companhias de seguros nacionalizadas o conselho de gestão e a comissão de fiscalização.
 
-###### Art. 10.º - 1. O conselho de gestão é composto por três a cinco membros, um dos quais será o presidente.
+Art. 10.º - 1. O conselho de gestão é composto por três a cinco membros, um dos quais será o presidente.
 
 2. Os membros do conselho de gestão exercem as suas funções por períodos, renováveis, de três anos, podendo fazê-lo em comissão de serviço.
 
 3. Considera-se termo do período de três anos a data da aprovação das contas do último exercício.
 
-###### Art. 11.º O presidente e os restantes membros do conselho de gestão são nomeados pelo Conselho de Ministros, sob proposta do Ministro das Finanças.
+Art. 11.º O presidente e os restantes membros do conselho de gestão são nomeados pelo Conselho de Ministros, sob proposta do Ministro das Finanças.
 
-###### Art. 12.º A comissão de fiscalização é constituída por três membros, designados:
+Art. 12.º A comissão de fiscalização é constituída por três membros, designados:
 
 a) Um pelo Ministro das Finanças (que presidirá, com voto de qualidade);
 
@@ -154,17 +168,17 @@ b) Um pelos trabalhadores da respectiva companhia;
 
 c) Um revisor de contas pelo Ministro das Finanças.
 
-###### Art. 13.º - 1. Os membros da comissão de fiscalização exercem as suas funções pelo período de três anos, renovável uma só vez para cada membro.
+Art. 13.º - 1. Os membros da comissão de fiscalização exercem as suas funções pelo período de três anos, renovável uma só vez para cada membro.
 
 2. As funções de membro da comissão de fiscalização são acumuláveis com o exercício de outras funções profissionais.
 
 #### SECÇÃO II — Conselho de gestão
 
-###### Art. 14.º - 1. O conselho de gestão terá todos os poderes necessários à prossecução dos fins da respectiva companhia, designadamente com o objectivo de assegurar a gestão e o desenvolvimento da empresa, a administração do seu património, a aquisição e a alienação de bens e a sua representação em juízo e fora dele, subordinando-se, no entanto, às disposições emanadas do órgão coordenador da actividade seguradora.
+Art. 14.º - 1. O conselho de gestão terá todos os poderes necessários à prossecução dos fins da respectiva companhia, designadamente com o objectivo de assegurar a gestão e o desenvolvimento da empresa, a administração do seu património, a aquisição e a alienação de bens e a sua representação em juízo e fora dele, subordinando-se, no entanto, às disposições emanadas do órgão coordenador da actividade seguradora.
 
 2. O conselho de gestão pode delegar os poderes que lhe estão atribuídos, por acta, em um ou mais dos seus membros ou em trabalhadores e autorizar que se proceda à subdelegação desses poderes, estabelecendo, em cada caso, os respectivos limites e condições.
 
-###### Art. 15.º - 1. Compete, em especial, ao presidente ou a quem, legalmente, o substituir:
+Art. 15.º - 1. Compete, em especial, ao presidente ou a quem, legalmente, o substituir:
 
 a) Representar a companhia;
 
@@ -180,25 +194,25 @@ f) Praticar tudo o mais que, nos termos legais, lhe incumbir.
 
 2. O presidente pode, em acta do conselho de gestão, delegar em um ou mais dos membros do conselho parte das atribuições que lhe são cometidas no número anterior.
 
-###### Art. 16.º - 1. O presidente será substituído, nas suas faltas ou impedimentos, pelo membro do conselho mais antigo na actividade seguradora, ou pelo mais velho, em igualdade de circunstâncias.
+Art. 16.º - 1. O presidente será substituído, nas suas faltas ou impedimentos, pelo membro do conselho mais antigo na actividade seguradora, ou pelo mais velho, em igualdade de circunstâncias.
 
 2. A regra de substituição estabelecida no número anterior aplica-se aos casos de vacatura do cargo, enquanto esta se verificar.
 
-###### Art. 17.º O presidente, ou quem o substituir, tem sempre voto de qualidade nas reuniões a que preside.
+Art. 17.º O presidente, ou quem o substituir, tem sempre voto de qualidade nas reuniões a que preside.
 
-###### Art. 18.º - 1. A cada membro do conselho de gestão são atribuídos pelouros, correspondentes a um ou mais serviços da companhia, para se permitir a necessária descentralização.
+Art. 18.º - 1. A cada membro do conselho de gestão são atribuídos pelouros, correspondentes a um ou mais serviços da companhia, para se permitir a necessária descentralização.
 
 2. Cada membro do conselho de gestão pode presidir a comissões executivas permanentes ou eventuais que forem consideradas necessárias para a descentralização e bom andamento dos serviços.
 
 3. O conselho de gestão pode delegar nas comissões executivas parte dos poderes que lhe são conferidos.
 
-###### Art. 19.º - 1. O conselho de gestão reúne, ordinariamente, pelo menos, uma vez por semana e, extraordinariamente, sempre que seja convocado pelo presidente.
+Art. 19.º - 1. O conselho de gestão reúne, ordinariamente, pelo menos, uma vez por semana e, extraordinariamente, sempre que seja convocado pelo presidente.
 
 2. Para o conselho deliberar validamente é indispensável a presença da maioria absoluta dos membros em exercício, não sendo incluídos nesta categoria os que estiverem impedidos em serviço fora da zona de influência da sede ou por motivo de doença.
 
 3. As deliberações do conselho são tomadas por maioria simples de voto dos membros presentes, não sendo permitidas abstenções.
 
-###### Art. 20.º - 1. Nas actas do conselho de gestão e das comissões executivas mencionam-se, sumariamente, mas com clareza, todos os assuntos tratados nas respectivas reuniões.
+Art. 20.º - 1. Nas actas do conselho de gestão e das comissões executivas mencionam-se, sumariamente, mas com clareza, todos os assuntos tratados nas respectivas reuniões.
 
 2. As actas são assinadas por todos os membros do conselho de gestão que participaram na reunião.
 
@@ -206,7 +220,7 @@ f) Praticar tudo o mais que, nos termos legais, lhe incumbir.
 
 #### SECÇÃO III — Comissão de fiscalização
 
-###### Art. 21.º - 1. Compete à comissão de fiscalização:
+Art. 21.º - 1. Compete à comissão de fiscalização:
 
 a) Acompanhar o funcionamento da companhia e o cumprimento das leis e regulamentos que lhe são aplicáveis;
 
@@ -220,7 +234,7 @@ e) Chamar a atenção do conselho de gestão para qualquer assunto que entenda d
 
 2. A comissão de fiscalização pode ser coadjuvada por técnicos especialmente designados ou contactados para esse efeito ou por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 22.º - 1. A comissão de fiscalização reúne, condicionalmente, uma vez por mês e sempre que seja convocada pelo presidente.
+Art. 22.º - 1. A comissão de fiscalização reúne, condicionalmente, uma vez por mês e sempre que seja convocada pelo presidente.
 
 2. Para deliberar validamente é indispensável a presença da maioria absoluta dos membros em exercício.
 
@@ -230,21 +244,21 @@ e) Chamar a atenção do conselho de gestão para qualquer assunto que entenda d
 
 5. Os seus membros têm direito a gratificação mensal, fixada pelo Ministro das Finanças.
 
-###### Art. 23.º Os membros da comissão de fiscalização podem assistir às reuniões do conselho de gestão, com voto meramente consultivo, sendo obrigatória nas reuniões ordinárias, por escala, a presença de um deles.
+Art. 23.º Os membros da comissão de fiscalização podem assistir às reuniões do conselho de gestão, com voto meramente consultivo, sendo obrigatória nas reuniões ordinárias, por escala, a presença de um deles.
 
 ### CAPÍTULO VI — Organização dos serviços
 
-###### Art. 24.º O conselho de gestão decide da orgânica e do modo do funcionamento dos serviços e elabora os regulamentos internos necessários.
+Art. 24.º O conselho de gestão decide da orgânica e do modo do funcionamento dos serviços e elabora os regulamentos internos necessários.
 
-###### Art. 25.º Com vista a garantir a possível uniformização de estruturas nas companhias, deverão os projectos de deliberação, referidos no artigo anterior, sempre que importem alteração relevante, ser previamente comunicados ao Ministro das Finanças.
+Art. 25.º Com vista a garantir a possível uniformização de estruturas nas companhias, deverão os projectos de deliberação, referidos no artigo anterior, sempre que importem alteração relevante, ser previamente comunicados ao Ministro das Finanças.
 
 ### CAPÍTULO VII — Orçamento, balanço e contas
 
-###### Art. 26.º - 1. Anualmente cada companhia elaborará um orçamento de exploração.
+Art. 26.º - 1. Anualmente cada companhia elaborará um orçamento de exploração.
 
 2. O orçamento de cada ano será comunicado ao Ministro das Finanças até 30 de Novembro do ano anterior.
 
-###### Art. 27.º - 1. Até 31 de Março, com referência ao último dia do ano anterior, as companhias enviarão ao Ministro das Finanças, para aprovação, o relatório, o balanço e contas anuais de gerência, depois de discutidos e apreciados pelo conselho de gestão e com o parecer da comissão de fiscalização.
+Art. 27.º - 1. Até 31 de Março, com referência ao último dia do ano anterior, as companhias enviarão ao Ministro das Finanças, para aprovação, o relatório, o balanço e contas anuais de gerência, depois de discutidos e apreciados pelo conselho de gestão e com o parecer da comissão de fiscalização.
 
 2. Na falta do despacho do Ministro das Finanças, o relatório, balanço e contas consideram-se aprovados decorridos trinta dias após a data do seu recebimento.
 
@@ -252,26 +266,26 @@ e) Chamar a atenção do conselho de gestão para qualquer assunto que entenda d
 
 4. Mantêm-se em vigor as restantes obrigações que, nesta matéria, impendem sobre as companhias de seguros.
 
-###### Art. 28.º Lei especial virá a regular a afectação dos resultados do exercício; todavia, enquanto não se proceder à respectiva publicação, caberá ao Ministro das Finanças competência para definir a sua distribuição.
+Art. 28.º Lei especial virá a regular a afectação dos resultados do exercício; todavia, enquanto não se proceder à respectiva publicação, caberá ao Ministro das Finanças competência para definir a sua distribuição.
 
 ### CAPÍTULO VIII — Disposições gerais e transitórias
 
-###### Art. 29.º - 1. As companhias de seguros nacionalizadas obrigam-se pela assinatura de dois membros do respectivo conselho de gestão.
+Art. 29.º - 1. As companhias de seguros nacionalizadas obrigam-se pela assinatura de dois membros do respectivo conselho de gestão.
 
 2. O conselho de gestão pode, em acta, delegar os poderes referidos no número anterior nos membros que o integram ou em outros trabalhadores da instituição, estabelecendo, em cada caso, os limites e condições.
 
-###### Art. 30.º Os membros do conselho de gestão não poderão exercer quaisquer funções profissionais remuneradas fora da companhia ou ser membros de corpos sociais de qualquer sociedade.
+Art. 30.º Os membros do conselho de gestão não poderão exercer quaisquer funções profissionais remuneradas fora da companhia ou ser membros de corpos sociais de qualquer sociedade.
 
-###### Art. 31.º Na parte não contrariada pelo presente diploma continuam em vigor as normas, gerais ou especiais, que actualmente regem as companhias de seguros.
+Art. 31.º Na parte não contrariada pelo presente diploma continuam em vigor as normas, gerais ou especiais, que actualmente regem as companhias de seguros.
 
-###### Art. 32.º As actuais comissões administrativas provisórias das companhias de seguros nacionalizadas permanecerão em exercício até tomada de posse dos conselhos de gestão, que ocorrerá durante o mês de Janeiro de 1976.
+Art. 32.º As actuais comissões administrativas provisórias das companhias de seguros nacionalizadas permanecerão em exercício até tomada de posse dos conselhos de gestão, que ocorrerá durante o mês de Janeiro de 1976.
 
-###### Art. 33.º O presente decreto-lei entra em vigor na data da publicação.
+Art. 33.º O presente decreto-lei entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 15 de Janeiro de 1976.**
+Promulgado em 15 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

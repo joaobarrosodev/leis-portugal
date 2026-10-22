@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/161-1975-161504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e3d484c31c182c78954221010fd4b1958c6f8454a1ac4ba6fb1d270aebff83c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f31797cecd499275e9930814cf6a128676513fc1e7c10b694b652b61f789729
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:20Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +87,15 @@ de 27 de Março
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas para ratificação as emendas aos artigos 24.º e 25.º da Constituição da Organização Mundial de Saúde, adoptadas em 23 de Maio de 1967 pela Resolução WHA 20.36 da XX Assembleia Mundial da Saúde, cujo texto em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. São aprovadas para ratificação as emendas aos artigos 24.º e 25.º da Constituição da Organização Mundial de Saúde, adoptadas em 23 de Maio de 1967 pela Resolução WHA 20.36 da XX Assembleia Mundial da Saúde, cujo texto em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Vasco dos Santos Gonçalves - Victor Manuel Rodrigues Alves - Ernesto Augusto Melo Antunes - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - António de Almeida Santos - Manuel da Costa Brás - Francisco Salgado Zenha - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar - Mário Soares - José Augusto Fernandes - Manuel Rodrigues de Carvalho - José Inácio da Costa Martins - Maria de Lourdes Pintasilgo - Jorge Correia Jesuíno.
 
-**Assinado em 17 de Março de 1975.**
+Assinado em 17 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ## ANEXO A — (Texto inglês)
 

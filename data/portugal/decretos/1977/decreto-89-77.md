@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/89-1977-250389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35057a6eca08897e1ff58b4374ace230158bf0360bf357bc97f0db9343be34bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 979bcfe6f2fd73a0e12844a292ae1ff27a496bae7636c8181ad2c245954422bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Álcool
+relationships:
+- type: cites
+  target: pt:dre:550598:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:16Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +101,18 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. A desnaturação do álcool industrial, seja qual for a sua proveniência, que se destine a ser utilizado como matéria-prima em actividades industriais, poderá ser feita pela adição de qualquer desnaturante, conforme for requerido pela unidade industrial a que se destina, desde que a proporção a adicionar seja julgada suficiente para que se efective a desnaturação e o desnaturante seja admitido pela Administração-Geral do Açúcar e do Álcool (AGA).
+Artigo 1.º - 1. A desnaturação do álcool industrial, seja qual for a sua proveniência, que se destine a ser utilizado como matéria-prima em actividades industriais, poderá ser feita pela adição de qualquer desnaturante, conforme for requerido pela unidade industrial a que se destina, desde que a proporção a adicionar seja julgada suficiente para que se efective a desnaturação e o desnaturante seja admitido pela Administração-Geral do Açúcar e do Álcool (AGA).
 
 2. Fora dos casos previstos no número anterior, a desnaturação do álcool industrial deverá ser feita pela adição de aguarrás ou de petróleo e de verde-malaquite ou azul-de-metileno, nas proporções de, respectivamente, 3 l e 2 g por 100 l de álcool com teor alcoólico mínimo de 90% em volume, a 20ºC.
 
-###### Art. 2.º No caso do n.º 1 do artigo anterior, poderá a Administração-Geral do Açúcar e do Álcool (AGA), se assim o entender justificável, proceder à desnaturação do álcool nas próprias instalações industriais onde vai ser utilizado, com desnaturante fornecido pelo industrial utilizador.
+Art. 2.º No caso do n.º 1 do artigo anterior, poderá a Administração-Geral do Açúcar e do Álcool (AGA), se assim o entender justificável, proceder à desnaturação do álcool nas próprias instalações industriais onde vai ser utilizado, com desnaturante fornecido pelo industrial utilizador.
 
-###### Art. 3.º Fica revogado o [Decreto n.º 33753](https://diariodarepublica.pt/dr/detalhe/decreto/33753-1944-550598), de 30 de Junho de 1944.
+Art. 3.º Fica revogado o [Decreto n.º 33753](https://diariodarepublica.pt/dr/detalhe/decreto/33753-1944-550598), de 30 de Junho de 1944.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Alfredo Jorge Nobre da Costa - Carlos Alberto da Mota Pinto.
 
-**Promulgado em 6 de Junho de 1977.**
+Promulgado em 6 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

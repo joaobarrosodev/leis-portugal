@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/39/1993/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-1993-664320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88559dee6900e025129b39b02bae57468def59cfefe30ba3fc8c06dddd3b466a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8955ea5401e69e131abce599b244595a6f8cd206c8cb3ec8e0d43ef252eb3846
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartografia
-- Ministério da Defesa Nacional
 - Convenção
 - Cooperação Técnica
-- Portugal
 - Espanha
+- Ministério da Defesa Nacional
+- Portugal
 relationships: []
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:39Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 29 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Base entre o Ministério da Defesa Nacional da República Portuguesa e o Ministério da Defesa do Reino de Espanha Relativo à Cooperação Técnica em Matéria de Cartografia Militar, assinado em Lisboa a 8 de Abril de 1993, cuja versão autêntica nas línguas portuguesa e espanhola segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Base entre o Ministério da Defesa Nacional da República Portuguesa e o Ministério da Defesa do Reino de Espanha Relativo à Cooperação Técnica em Matéria de Cartografia Militar, assinado em Lisboa a 8 de Abril de 1993, cuja versão autêntica nas línguas portuguesa e espanhola segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - José Manuel Durão Barroso.
 
-**Assinado em 29 de Setembro de 1993.**
+Assinado em 29 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Outubro de 1993.**
+Referendado em 2 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO BASE ENTRE O MINISTÉRIO DA DEFESA NACIONAL DA REPÚBLICA PORTUGUESA E O MINISTÉRIO DA DEFESA DO REINO DE ESPANHA RELATIVO À COOPERAÇÃO TÉCNICA EM MATÉRIA DE CARTOGRAFIA.
 
@@ -183,4 +183,4 @@ Pelo Ministério da Defesa do Reino de Espanha:
 
 Santos Castro Fernández, secretário-geral técnico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/254a00/60926095.pdf))](https://files.diariodarepublica.pt/1s/1993/10/254a00/60926095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/254a00/60926095.pdf)

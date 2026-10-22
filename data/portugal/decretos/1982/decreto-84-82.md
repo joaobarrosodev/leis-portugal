@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15300/19891989.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/84-1982-394703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec0442b0cbc4fdcf4572e567cfadb811a5b70d034f536818a1cd1fbc8fa0668b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df67b1720fb6ee4cdbdb4876b645eead3efb5f8e2bc0c6dc5456344000477e7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Direcção Geral dos Transportes Terrestres
+- Faro
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:534618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:682059:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534618:por
+  label: "Revogado pelo DEC LEI.296/94.1994.11.17.MOPTC, DR.IS-A [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1994-534618
+  date: '1994-11-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:56Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +109,18 @@ Deste modo, visando evitar as delongas que as actuais circunstâncias ocasionam 
 
 Assim, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada na Direcção de Transportes do Sul uma delegação de transportes com sede em Faro.
+Artigo 1.º É criada na Direcção de Transportes do Sul uma delegação de transportes com sede em Faro.
 
-###### Art. 2.º À Delegação de Transportes de Faro caberá prosseguir, no distrito de Faro, as atribuições da Direcção de Transportes do Sul, nos termos a definir por despacho do director-geral, sob proposta do respectivo director de Transportes.
+Art. 2.º À Delegação de Transportes de Faro caberá prosseguir, no distrito de Faro, as atribuições da Direcção de Transportes do Sul, nos termos a definir por despacho do director-geral, sob proposta do respectivo director de Transportes.
 
-###### Art. 3.º A Delegação de Transportes de Faro será chefiada por um técnico superior ou por um técnico a designar pelo director-geral de Transportes Terrestres.
+Art. 3.º A Delegação de Transportes de Faro será chefiada por um técnico superior ou por um técnico a designar pelo director-geral de Transportes Terrestres.
 
-###### Art. 4.º O funcionamento da Delegação de Transportes de Faro será assegurado através das dotações atribuídas pelo Orçamento Geral do Estado à Direcção-Geral de Transportes Terrestres.
+Art. 4.º O funcionamento da Delegação de Transportes de Faro será assegurado através das dotações atribuídas pelo Orçamento Geral do Estado à Direcção-Geral de Transportes Terrestres.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Carlos Pinto Soromenho Viana Baptista - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 22 de Junho de 1982.**
+Promulgado em 22 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

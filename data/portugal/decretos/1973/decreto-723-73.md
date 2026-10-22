@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 302/1973, 1º Suplemento, Série I de 1973-12-31
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2568-(3) a 2568-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/30201/00030004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/723-1973-218112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1174ee4c374fec77f24e3ab4266fde1015cc16c579677714286929a72698173f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1249d4a90dcee7daed638939a95f396814d57fcbc2813fbb0509d84ed6dce731
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:03Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -118,12 +122,12 @@ Ministério das Corporações e Segurança Social
 
 Despesas do ano de 1972, respeitantes a senhas de presença e deslocações, contraídas pela Comissão Consultiva de Estatística e delegação do Instituto Nacional do Trabalho e Previdência em Braga ... 2778$50
 
-###### Art. 2.º Fica igualmente autorizada a Assistência na Doença aos Servidores Civis do Estado a satisfazer, em conta da verba de despesas de anos findos do seu actual orçamento privativo, a importância de 1682435$70, respeitante a comparticipações no custo de medicamentos fornecidos a beneficiários e a despesas com assistência hospitalar nos anos de 1971 e 1972.
+Art. 2.º Fica igualmente autorizada a Assistência na Doença aos Servidores Civis do Estado a satisfazer, em conta da verba de despesas de anos findos do seu actual orçamento privativo, a importância de 1682435$70, respeitante a comparticipações no custo de medicamentos fornecidos a beneficiários e a despesas com assistência hospitalar nos anos de 1971 e 1972.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha - João Mota Pereira de Campos - César Henrique Moreira Baptista - António Maria de Mendonça Lino Neto - Manuel Artur Cotta Agostinho Dias - Alberto de Andrade e Silva - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa - José Veiga Simão - Joaquim Dias da Silva Pinto - Clemente Rogeiro.
 
-**Promulgado em 28 de Dezembro de 1973.**
+Promulgado em 28 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

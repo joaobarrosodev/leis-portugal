@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/456-1975-314923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9f2f2423c019d6a5ae91c684ca142d7e6098fd7a3655a7b2bab036fd0d4af81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c72705fab050c8e37f31d5ef67569b5696a5246be20c2414855e2f104237f262
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Crédito Especial
+- Despesas Públicas
+- Ministério das Finanças
+- Orçamento
+- Orçamento Geral do Estado
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:305469:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:42Z'
   warnings: []
   errors: []
 ---
@@ -88,22 +99,22 @@ Com fundamento no n.º 2 do artigo 10.º do [Decreto-Lei n.º 294/75](https://di
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 126000000$00 destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 126000000$00 destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/19300/12181219.pdf))](https://files.diariodarepublica.pt/1s/1975/08/19300/12181219.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/19300/12181219.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, é efectuada a seguinte alteração ao actual Orçamento Geral do Estado, representativa de aumento de previsão da seguinte receita:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, é efectuada a seguinte alteração ao actual Orçamento Geral do Estado, representativa de aumento de previsão da seguinte receita:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 2.º, grupo 1, artigo 14.º-A «Sobretaxa de importação» ... 126000000$00
+Capítulo 2.º, grupo 1, artigo 14.º-A «Sobretaxa de importação» ... 126000000$00
 
 Vasco dos Santos Gonçalves - José Joaquim Fragoso.
 
-**Promulgado em 8 de Agosto de 1975.**
+Promulgado em 8 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

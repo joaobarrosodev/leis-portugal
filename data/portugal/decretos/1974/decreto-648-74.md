@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/648-1974-466038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a2fc8a8988ef68e1c771ffabd0720da40d52569d0359ed1f3a4a6959a566851
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57313e1b5de502124f5263c79edcd9d3088faa64091e285290cd565671dcb526
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Azeite
+- Convenção
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:48Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +89,15 @@ de 21 de Novembro
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo de 23 de Março de 1973 para prorrogar novamente o Acordo Internacional do Azeite, 1963, com emendas ao referido Acordo, concluído na Conferência das Nações Unidas sobre o Azeite, realizada em Genebra de 19 a 23 de Março de 1973, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Protocolo de 23 de Março de 1973 para prorrogar novamente o Acordo Internacional do Azeite, 1963, com emendas ao referido Acordo, concluído na Conferência das Nações Unidas sobre o Azeite, realizada em Genebra de 19 a 23 de Março de 1973, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar.
 
-**Assinado em 12 de Novembro de 1974.**
+Assinado em 12 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Protocole du 23 mars 1973 portant nouvelle reconduction de l'Accord international sur l'huile d'olive, 1963, avec amendements audit accord.
 
@@ -842,7 +845,7 @@ Desejando manter o Acordo em vigor depois daquela data,
 
 Acordaram o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1. O Acordo, tal como emendado pelo presente Protocolo, continuará a produzir os seus efeitos entre as Partes no Protocolo até 31 de Dezembro de 1978.
 
@@ -850,7 +853,7 @@ Acordaram o seguinte:
 
 3. Para as Partes no presente Protocolo, o Acordo e o presente Protocolo serão lidos e interpretados como um só instrumento e serão considerados como o Acordo Internacional do Azeite, 1963, tal como emendado em 1973.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As disposições correspondentes do Acordo são emendadas como segue:
 
@@ -866,7 +869,7 @@ Entendendo que é essencial prosseguir e desenvolver a acção empreendida no â
 
 ### CAPÍTULO I — Objectivos gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Substituir o texto do parágrafo 1 pelo seguinte:
 
@@ -882,7 +885,7 @@ Substituir o número do parágrafo 5 pelo número 6 e modificá-lo como segue:
 
 ### CAPÍTULO II — Membros
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Substituir o texto deste artigo pelo seguinte:
 
@@ -890,7 +893,7 @@ Cada Parte Contratante constituirá um só membro do Conselho, sob reserva das d
 
 ### CAPÍTULO III — Definições
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Substituir o texto do parágrafo 1 pelo seguinte:
 
@@ -922,21 +925,21 @@ IV) Que, não obstante as disposições do artigo 33.º do presente Acordo, as c
 
 ### CAPÍTULO IV — Obrigações gerais
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Suprimir as palavras «Governos participantes» e substituí-las por «Membros».
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Suprimir as palavras «Governos participantes» e substituí-las por «Membros».
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Suprimir as palavras «Governos participantes» e substituí-las por «Membros».
 
 Suprimir as palavras «e evitar a introdução de práticas de concorrência desleal no comércio mundial do azeite».
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Suprimir as palavras «Governos participantes» e substituí-las, em cada caso, por «Membros».
 
@@ -946,7 +949,7 @@ Suprimir o título deste capítulo e substituí-lo por:
 
 Denominação e definição dos azeites e dos óleos de bagaço de azeitona. Indicações de proveniência e designações de origem.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Parágrafo 1: Substituir o texto do parágrafo 1 pelo seguinte:
 
@@ -956,7 +959,7 @@ O parágrafo 2 do artigo é redigido como segue:
 
 Os Membros comprometem-se a suprimir tanto para o comércio interno como para o comércio internacional, no mais breve prazo e o mais tardar antes de expirar o presente Acordo, qualquer emprego da denominação «azeite», só ou combinada com outras palavras que não estejam em conformidade com o presente artigo.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Parágrafo 1: Substituir o texto do parágrafo 1 pelo seguinte:
 
@@ -966,7 +969,7 @@ Parágrafo 2: Substituir o texto do parágrafo 2 pelo seguinte:
 
 2. Estas denominações, obrigatórias no comércio internacional, deverão empregar-se para cada qualidade de azeite e de óleo de bagaço de azeitona e figurar em caracteres bem legíveis em todas as embalagens.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Parágrafo 1: Suprimir as palavras «Governos participantes» e substituí-las por «Membros».
 
@@ -980,11 +983,11 @@ Depois das palavras «referindo-se à comercialização internacional dos azeite
 
 No fim do parágrafo, inserir as palavras «e dos óleos de bagaço de azeitona».
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Parágrafo 1: Substituir no texto «as designações de origem ou as indicações de proveniência» por «as indicações de proveniência ou as designações de origem».
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Parágrafo 1: Substituir o texto deste parágrafo pelo seguinte:
 
@@ -996,13 +999,13 @@ Parágrafo 2: Substituir o texto deste parágrafo pelo seguinte:
 
 ### CAPÍTULO VI — Propaganda mundial para fomentar o consumo de azeite
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Parágrafo 1: Suprimir as palavras «Os Governos participantes» e substituí-las por «Os Membros que contribuam para o Fundo de Propaganda a que se refere o parágrafo 3 do presente artigo».
 
 Parágrafo 2: Depois das palavras «características organolépticas e químicas» suprimir as palavras «assim como» e substituí-las por «e, se necessário...».
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Substituir o texto deste artigo pelo seguinte:
 
@@ -1014,7 +1017,7 @@ II) A execução dos programas não se poderá encarar antes da data em que os p
 
 III) Consultas a organismos e instituições competentes.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Parágrafo 1:
 
@@ -1064,7 +1067,7 @@ Segunda alínea: Suprimir a palavra «país» e substituí-la por «Membro».
 
 ### CAPÍTULO VII — Medidas económicas
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Parágrafo 1: Suprimir as palavras «Governo participante» e substituí-las por «Membro».
 
@@ -1088,13 +1091,13 @@ Na segunda frase, suprimir as palavras «Governos participantes» e substituí-l
 
 Parágrafo 5: Suprimir as palavras «Governos participantes» e substituí-las por «Membros».
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Suprimir as palavras «Governos participantes» e substituí-las por «Membros».
 
 ### CAPÍTULO VIII — Administração
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 No título que precede este artigo, suprimir as palavras «Conselho Oleícola» e substituí-las por «Conselho Oleícola Internacional (ver nota 1)».
 
@@ -1102,7 +1105,7 @@ Substituir o texto do artigo 21.º pelo seguinte: «Compete ao Conselho Oleícol
 
 (nota 1) Esta modificação respeita apenas aos textos inglês, espanhol e francês do Acordo.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Parágrafo 2: Depois das palavras «os meios de assegurar», inserir «o desenvolvimento das trocas internacionais e».
 
@@ -1130,7 +1133,7 @@ Parágrafo 6: Substituir o texto deste parágrafo pelo seguinte:
 
 6. O Conselho estabelecerá os processos segundo os quais os Membros informarão o referido Conselho das conclusões a que tenham chegado do exame das recomendações e das sugestões mencionadas no presente artigo ou decorrentes da execução do presente Acordo.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 Parágrafo 1: Suprimir a primeira frase e substituí-la por «Sob reserva das disposições do parágrafo 2 do presente artigo, cada Parte Contratante será Membro do Conselho com direito de voto».
 
@@ -1156,7 +1159,7 @@ Na segunda frase, suprimir as palavras «da delegação do seu Governo» e subst
 
 Parágrafo 4: Suprimir as palavras «Governos participantes» e substituí-las por «Partes Contratantes».
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 Parágrafo 1: Inserir a seguinte frase no fim do parágrafo:
 
@@ -1168,19 +1171,19 @@ Alínea I) Suprimir as palavras «Governos participantes» e substituí-las por 
 
 Alínea II) Suprimir as palavras «Governos participantes» e substituí-las por «Membros».
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 Suprimir as palavras «Governos dos países» e substituí-las por «Membros».
 
 Suprimir as palavras «Governos participantes» e substituí-las por «Membros».
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Na primeira frase, substituir as palavras «Governos participantes» e «Governo participante», respectivamente, por «Membros» e «Membro».
 
 Na segunda frase, substituir as palavras «Governos participantes» por «Membros».
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Parágrafo 1: Suprimir as palavras «país participante» e substituí-las por «Membro».
 
@@ -1190,7 +1193,7 @@ Parágrafo 2: Suprimir este parágrafo.
 
 Parágrafo 3: Substituir o número do parágrafo 3 pelo número 2.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 Parágrafo 1: Suprimir a palavra «países» e substituí-la por «Membros».
 
@@ -1214,7 +1217,7 @@ Suprimir as palavras «que o seu país possua» e substituí-las por «que o ref
 
 Suprimir as palavras «países principalmente importadores» e substituí-las por «Membros principalmente importadores».
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 Parágrafos 1 e 2: Suprimir estes parágrafos e substituí-los pelo seguinte parágrafo 1:
 
@@ -1226,7 +1229,7 @@ Parágrafos 4, 5, 6 e 7: Substituir, respectivamente, os números destes parágr
 
 Parágrafo 8: Substituir o número deste parágrafo pelo número 7 e substituir as palavras «Governo participante» por «Membro».
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 Parágrafo 4: Suprimir as palavras «Governos participantes» e substituí-las por «Membros».
 
@@ -1236,7 +1239,7 @@ Suprimir o título deste capítulo e substituí-lo por:
 
 Privilégios e imunidades
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 Parágrafo 1: Suprimir as palavras «cada Estado participante» e substituí-las por «o território de cada Membro».
 
@@ -1248,7 +1251,7 @@ Inserir um novo parágrafo 3, como segue:
 
 ### CAPÍTULO X — Disposições financeiras
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 Parágrafo 1: Suprimir as palavras «dos seus respectivos Governos» e substituí-las por «dos Membros interessados».
 
@@ -1270,7 +1273,7 @@ Suprimir este título e substituí-lo por:
 
 Cooperação com outras organizações e admissão de observadores
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 Substituir o texto deste artigo pelo seguinte:
 
@@ -1282,7 +1285,7 @@ Substituir o texto deste artigo pelo seguinte:
 
 ### CAPÍTULO XII — Contestações e reclamações
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 Parágrafo 1: Suprimir as palavras «Governo participante» e substituí-las por «Membro».
 
@@ -1298,11 +1301,11 @@ Suprimir a palavra «Governo» e, em cada caso, substituí-la por «Membro».
 
 ### CAPÍTULO XIV — Duração, emendas, suspensão, retirada, expiração e renovação
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 Parágrafo 2: Suprimir as palavras «Governos participantes» e substituí-las por «Membros».
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 Parágrafo 1: Suprimir as palavras «Governo participante» e substituí-las por «Membro».
 
@@ -1330,7 +1333,7 @@ b) O Conselho decidirá, sem prazo, se a emenda é de uma importância tal que d
 
 Parágrafo 7: Suprimir as palavras «Governo participante suspenso» e substituí-las por «Membro cuja participação foi suspensa».
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 Parágrafo 1: Substituir o texto deste parágrafo pelo seguinte:
 
@@ -1356,11 +1359,11 @@ Parágrafo 3: Suprimir as palavras «Um Governo participante» e substituí-las 
 
 Suprimir as palavras «Se está comprometido» e substituí-las por «Se está comprometida».
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 Suprimir as palavras «Governos participantes» e substituí-las por «Membros».
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 Parágrafo 1: Suprimir as palavras «Qualquer Governo participante que se retire ou seja suspenso do Acordo» e substituí-las por «Qualquer Parte Contratante que se retire e qualquer Membro cuja participação no Acordo seja suspensa».
 
@@ -1372,7 +1375,7 @@ Depois das palavras «o Acordo», acrescentar «tal como emendado em 1973».
 
 ### CAPÍTULO XV — Aplicação territorial
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 Suprimir este capítulo, que inclui o artigo 42.º, parágrafos 1, 2 e 3.
 
@@ -1476,7 +1479,7 @@ Uruguai ... 5
 
 ## ANEXO D — (Suprimido.)
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1. Qualquer Governo Membro da Conferência das Nações Unidas para o Comércio e o Desenvolvimento poderá vir a ser parte no presente Protocolo, de acordo com os seus processos constitucionais ou institucionais:
 
@@ -1488,25 +1491,25 @@ c) A ele aderindo.
 
 2. Ao assinar o presente Protocolo, cada Governo signatário declarará se, de acordo com o seu processo constitucional ou institucional, a sua assinatura deverá ser ou não sujeita a ratificação, aceitação ou aprovação.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O presente Protocolo estará aberto em Madrid, junto do Governo de Espanha, Governo depositário do Acordo e do presente Protocolo, até 30 de Outubro de 1973, inclusive, à assinatura de qualquer Governo que, nesta data, seja parte no Acordo.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Quando seja necessária a ratificação, aceitação ou aprovação, o instrumento correspondente deve ser depositado, junto do Governo depositário do Acordo, o mais tardar até 31 de Dezembro de 1973, entendendo-se contudo que o Conselho pode conceder uma ou mais prorrogações do prazo a qualquer Governo signatário que não tenha depositado o referido instrumento naquela data.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Qualquer Governo não signatário, podendo aderir ao presente Protocolo em virtude do artigo 9.º, poderá notificar o Governo depositário que se compromete a cumprir o processo constitucional ou institucional exigido para a sua adesão ao referido Protocolo, no mais breve prazo.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1. Qualquer Governo signatário que não tenha podido depositar o seu instrumento de ratificação, de aceitação ou de aprovação até 31 de Dezembro de 1973, o mais tardar, e tendo obtido uma prorrogação do prazo para aquele depósito em virtude do artigo 5.º do presente Protocolo, assim como qualquer Governo não signatário tendo efectuado a notificação prevista no artigo 6.º do presente Protocolo, poderão indicar ao Governo depositário que aplicarão o Acordo a título provisório, tal como emendado pelo presente Protocolo.
 
 2. Durante todo o período de vigência do Acordo emendado pelo presente Protocolo, quer definitivamente, quer provisoriamente, um Governo signatário que tenha obtido uma prorrogação do prazo em virtude do artigo 5.º do presente Protocolo, ou um Governo não signatário que tenha dado a indicação prevista no parágrafo 1 do presente artigo, será Membro provisório, com todos os direitos e obrigações correspondentes, até à data a partir da qual aquele Governo se torne Parte Contratante.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1. O presente Protocolo entrará em vigor, a título definitivo, em 1 de Janeiro de 1974, ou em qualquer data nos doze meses seguintes, entre os Governos que o tenham assinado e, se o seu processo constitucional ou institucional o exige, que tenham ratificado, aceitado ou aprovado ou a ele tenham aderido, se figurarem entre eles os Governos de seis países principalmente produtores, representando, em conjunto, pelo menos, 60% da produção mundial de azeite no decurso do período de referência previsto no artigo 3.º do Acordo, assim como os Governos de três países principalmente importadores. Entrará igualmente em vigor, a título definitivo, em qualquer data posterior à sua entrada em vigor provisória, quando as condições indicadas na frase anterior, no que respeita ao número de Governos e à produção mundial de azeite, se encontrem preenchidas pelo depósito de instrumentos de ratificação, de aceitação, de aprovação ou de adesão.
 
@@ -1516,7 +1519,7 @@ Qualquer Governo não signatário, podendo aderir ao presente Protocolo em virtu
 
 4. Se até 30 de Outubro de 1973 o presente Protocolo não tiver obtido um número suficiente de assinaturas para que possa entrar em vigor após ratificação, aceitação ou aprovação, os Governos que o tenham assinado e, no caso em que o seu processo constitucional ou institucional o exija, que o tenham ratificado, aceitado, aprovado ou a ele aderido, ou tendo indicado que o aplicarão provisoriamente, poderão decidir, de comum acordo, que o presente Protocolo entrará em vigor entre eles, ou poderão tomar quaisquer outras medidas que a situação lhes pareça exigir.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1. O presente Protocolo estará aberto à adesão de qualquer Governo não signatário, membro da Conferência das Nações Unidas para o Comércio e o Desenvolvimento.
 
@@ -1524,11 +1527,11 @@ Qualquer Governo não signatário, podendo aderir ao presente Protocolo em virtu
 
 3. A adesão efectuar-se-á pelo depósito de um instrumento de adesão junto do Governo depositário do Acordo e produzirá efeito a partir da data do depósito daquele instrumento ou da data da entrada em vigor do presente Protocolo, se esta for posterior àquela.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Se até 31 de Dezembro de 1978 for negociado um novo acordo destinado a prorrogar ou a renovar o Acordo devidamente reconduzido pelo presente Protocolo e tiver obtido um número suficiente de assinaturas para que possa entrar em vigor após ratificação, aceitação ou aprovação em conformidade com as disposições previstas para esse efeito pelo Acordo, mas se este novo acordo não estiver em vigor, provisoriamente ou definitivamente, o presente Protocolo permanecerá em vigor para além de 31 de Dezembro de 1978, até à entrada em vigor do novo Acordo, sem que a duração desta prorrogação possa ser superior a doze meses.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1. Qualquer Governo poderá, no momento da assinatura ou do depósito do seu instrumento de ratificação, de aceitação ou de aprovação do presente Protocolo ou da adesão a este, declarar, por notificação dirigida ao Governo depositário, que o Acordo tal como emendado em 1973 se aplicará a algum ou alguns dos territórios de que assegura nesse momento e em última instância as relações internacionais; o referido Acordo aplicar-se-á aos territórios mencionados na notificação a partir da data desta ou da data na qual o presente Protocolo entrar em vigor para aquele Governo, se esta for posterior à notificação.
 
@@ -1536,11 +1539,11 @@ Se até 31 de Dezembro de 1978 for negociado um novo acordo destinado a prorroga
 
 3. Quando um território ao qual o Acordo tal como emendado em 1973 tenha sido aplicado em virtude do parágrafo 1 do presente artigo se tornar posteriormente independente, o Governo deste território poderá, nos noventa dias que se seguirem à obtenção da independência, declarar por notificação ao Governo depositário que assumiu os direitos e as obrigações de uma Parte Contratante do Acordo tal como emendado em 1973. Será Parte Contratante do referido Acordo a contar da data desta notificação.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 O Governo depositário do Acordo informará sem demora os Governos signatários e aderentes, de qualquer assinatura, ratificação, aceitação ou aprovação do presente Protocolo ou adesão a este Protocolo, de qualquer notificação depositada e de qualquer indicação efectuada de acordo com os artigos 6.º e 7.º do referido Protocolo, assim como a data da entrada em vigor do presente Protocolo.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 A Comunidade Económica Europeia tem os mesmos direitos e poderes que os Governos mencionados no presente Protocolo, incluindo aqueles a que se faz referência nos artigos 3.º e 9.º do presente Protocolo.
 

@@ -46,36 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/457-1973-413603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07852c22527a97840f8cc68d7523bb0e6a40b3a1306dd88410ba0fa0b980e4c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27021036efde5d97bcc4a1cc3846d0cfd09668b8d65fa6df720fe630841b6ea7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- Formas de Provimento
+- GNR
+- Governador
+- Gratificação
+- Junta de Investigações do Ultramar
+- Macau.Colónia Portuguesa
+- Moçambique.Colónia Portuguesa
+- PSP
+- Remuneração
+- Remuneração Acessória
+- São Tomé e Príncipe.Colónia Portuguesa
+relationships:
+- type: cites
+  target: pt:dre:214915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685059:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:34Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +133,9 @@ Disposições gerais
 
 A) S. Tomé e Príncipe
 
-###### Artigo 1.º O artigo 4.º do [Decreto n.º 43527](https://diariodarepublica.pt/dr/detalhe/decreto/43527-1961-561063), de 8 de Março de 1961, alterado pelo artigo 2.º do [Decreto n.º 49227](https://diariodarepublica.pt/dr/detalhe/decreto/49227-1969-214915), de 5 de Setembro de 1969, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto n.º 43527](https://diariodarepublica.pt/dr/detalhe/decreto/43527-1961-561063), de 8 de Março de 1961, alterado pelo artigo 2.º do [Decreto n.º 49227](https://diariodarepublica.pt/dr/detalhe/decreto/49227-1969-214915), de 5 de Setembro de 1969, passa a ter a seguinte redacção:
 
-###### Art. 4.º Os lugares constantes do quadro a que se refere o artigo anterior só poderão ser providos por oficiais, sargentos, cabos e soldados da Guarda Nacional Republicana em regime de comissão voluntária ou por imposição, com preferência para a primeira.
+Art. 4.º Os lugares constantes do quadro a que se refere o artigo anterior só poderão ser providos por oficiais, sargentos, cabos e soldados da Guarda Nacional Republicana em regime de comissão voluntária ou por imposição, com preferência para a primeira.
 
 § 1.º A comissão voluntária terá a duração de quatro anos, podendo ser prorrogada por períodos de dois anos até ao limite fixado no Estatuto do Funcionalismo Ultramarino.
 
@@ -108,7 +145,7 @@ A) S. Tomé e Príncipe
 
 B) Angola
 
-###### Art. 2.º - 1. Aos funcionários dos quadros do Instituto das Indústrias de Pesca de Angola poderão ser atribuídos comulativamente gratificação e subsídio diário, sem prejuízo da percepção de subsídios de isolamento, de renda de casa, ajudas de custo ou outros que vigorem no Estado de Angola.
+Art. 2.º - 1. Aos funcionários dos quadros do Instituto das Indústrias de Pesca de Angola poderão ser atribuídos comulativamente gratificação e subsídio diário, sem prejuízo da percepção de subsídios de isolamento, de renda de casa, ajudas de custo ou outros que vigorem no Estado de Angola.
 
 2. Os quantitativos e as normas de atribuição da gratificação e do subsídio diário serão fixados por despacho do Governador-Geral.
 
@@ -118,15 +155,15 @@ B) Angola
 
 C) Moçambique
 
-###### Art. 3.º Ao lugar de comandante-geral de Segurança da província, criado pelo [Decreto n.º 305/72](https://diariodarepublica.pt/dr/detalhe/decreto/305-1972-676412), de 16 de Agosto, com o aditamento constante do [Decreto n.º 154/73](https://diariodarepublica.pt/dr/detalhe/decreto/154-1973-675617), de 7 de Abril, passa a ser atribuída a categoria da letra C a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 3.º Ao lugar de comandante-geral de Segurança da província, criado pelo [Decreto n.º 305/72](https://diariodarepublica.pt/dr/detalhe/decreto/305-1972-676412), de 16 de Agosto, com o aditamento constante do [Decreto n.º 154/73](https://diariodarepublica.pt/dr/detalhe/decreto/154-1973-675617), de 7 de Abril, passa a ser atribuída a categoria da letra C a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 D) Macau
 
-###### Art. 4.º Fica o Governo da província autorizado a elaborar em patacas o orçamento geral para o ano económico de 1974, ao câmbio de 5$00.
+Art. 4.º Fica o Governo da província autorizado a elaborar em patacas o orçamento geral para o ano económico de 1974, ao câmbio de 5$00.
 
-###### Art. 5.º É autorizado o Governo da província a subscrever, até ao montante de $2500000 patacas, acções representativas do aumento do capital social da Companhia de Electricidade de Macau, S. A. R. L., utilizando como contrapartida $1000000,00 do «Fundo de reserva» e $1500000,00 dos «Saldos de exercícios findos».
+Art. 5.º É autorizado o Governo da província a subscrever, até ao montante de $2500000 patacas, acções representativas do aumento do capital social da Companhia de Electricidade de Macau, S. A. R. L., utilizando como contrapartida $1000000,00 do «Fundo de reserva» e $1500000,00 dos «Saldos de exercícios findos».
 
-###### Art. 6.º - 1. São autorizados os órgãos legislativos da província:
+Art. 6.º - 1. São autorizados os órgãos legislativos da província:
 
 a) A rever os vencimentos complementares em vigor na província, em função do coeficiente de revalorização da pataca em relação ao escudo;
 
@@ -136,7 +173,7 @@ b) A conceder aos aposentados e pensionistas residentes na província, cujas pen
 
 3. A melhoria a que se refere a alínea b) do mesmo número será integrada na respectiva pensão complementar.
 
-###### Art. 7.º - 1. Ao comandante da Polícia de Segurança Pública é atribuída a gratificação mensal de 2500$00.
+Art. 7.º - 1. Ao comandante da Polícia de Segurança Pública é atribuída a gratificação mensal de 2500$00.
 
 2. Ao chefe do Serviço de Máquinas e Electricidade dos Serviços de Marinha da mesma província é atribuída a gratificação mensal de 2000$00 pelo exercício, por inerência, das funções de director das Oficinas Navais.
 
@@ -144,16 +181,16 @@ II
 
 Disposições comuns
 
-###### Art. 8.º As verbas fixadas nas alíneas a) dos artigos 7.º, 17.º e 24.º do [Decreto n.º 488/72](https://diariodarepublica.pt/dr/detalhe/decreto/488-1972-685059), de 5 de Dezembro, consignadas à Junta de Investigações do do Ultramar, são elevadas, respectivamente, para 13358694$00, 9960856$00 e 469840$00.
+Art. 8.º As verbas fixadas nas alíneas a) dos artigos 7.º, 17.º e 24.º do [Decreto n.º 488/72](https://diariodarepublica.pt/dr/detalhe/decreto/488-1972-685059), de 5 de Dezembro, consignadas à Junta de Investigações do do Ultramar, são elevadas, respectivamente, para 13358694$00, 9960856$00 e 469840$00.
 
-###### Art. 9.º É elevado para 10100000$00 o montante fixado pelo artigo 10.º do [Decreto n.º 336/72](https://diariodarepublica.pt/dr/detalhe/decreto/336-1972-676604), de 24 de Agosto.
+Art. 9.º É elevado para 10100000$00 o montante fixado pelo artigo 10.º do [Decreto n.º 336/72](https://diariodarepublica.pt/dr/detalhe/decreto/336-1972-676604), de 24 de Agosto.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Setembro de 1973.**
+Promulgado em 3 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de S. Tomé e Príncipe, Angola, Moçambique e Macau. - J. da Silva Cunha.

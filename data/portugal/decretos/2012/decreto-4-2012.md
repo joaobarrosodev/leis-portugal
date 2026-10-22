@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/2012/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2012-553437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:21:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e561bce38107cf449bc9148cd749e9613adea0e00f70579101c3da20acd21d82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43fc740c2e214b061a2bbc598cbd869070ac6a93f2cf166b7dc4c5cd1571a67f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:21:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Promoção Turística
+- China
 - Convenção
+- Lisboa
 - Política de Cooperação
 - Portugal
-- China
-- Lisboa
+- Promoção Turística
+- Turismo
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:21:30Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 2 de fevereiro de 2012. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas - Álvaro Santos Pereira.
 
-**Assinado em 1 de março de 2012.**
+Assinado em 1 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de março de 2012.**
+Referendado em 8 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DA CHINA NO DOMÍNIO DO TURISMO
 
@@ -202,7 +202,7 @@ O presente Acordo entrará em vigor trinta (30) dias após a data de recepção 
 
 A Parte em cujo território o presente Acordo for assinado, no mais breve prazo possível após a sua entrada em vigor, submetê-lo-á para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar-lhe o número de registo atribuído.
 
-**Assinado em Lisboa, no dia 7 de Novembro de 2010, nas línguas portuguesa, chinesa e inglesa, fazendo todos os textos igualmente fé. Em caso de divergência de interpretação prevalecerá a versão inglesa.**
+Assinado em Lisboa, no dia 7 de Novembro de 2010, nas línguas portuguesa, chinesa e inglesa, fazendo todos os textos igualmente fé. Em caso de divergência de interpretação prevalecerá a versão inglesa.
 
 Pela República Portuguesa:
 
@@ -212,7 +212,7 @@ Pela República Popular da China:
 
 Shao Qiwei, Presidente da Administração Nacional de Turismo da China.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/05200/0110801111.pdf))](https://files.diariodarepublica.pt/1s/2012/03/05200/0110801111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/05200/0110801111.pdf)
 
 CO-OPERATION AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE PEOPLE'S REPUBLIC OF CHINA IN THE FIELD OF TOURISM
 

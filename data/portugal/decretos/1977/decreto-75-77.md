@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/75-1977-251998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 245709e2529f11179bc1b571f902d16f08238aadf22e0c94afe0d837f3c84849
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c20d082adc9f3866ff50dbefcdac7f552d3fc9bd98035c98ee995ce5b943cc6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Lisboa
+- Marrocos
+- Pesca
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:00Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 23 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo em Matéria de Pesca Marítima entre o Governo da República Portuguesa e o Governo do Reino de Marrocos, assinado em Lisboa, em 25 de Março de 1976, cujos textos em francês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo em Matéria de Pesca Marítima entre o Governo da República Portuguesa e o Governo do Reino de Marrocos, assinado em Lisboa, em 25 de Março de 1976, cujos textos em francês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 18 de Abril de 1977.**
+Assinado em 18 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO EM MATÉRIA DE PESCA MARÍTIMA ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO REINO DE MARROCOS.
 
@@ -108,33 +113,33 @@ Animados da vontade de realizar operações de pesca em bases científicas que s
 
 decidem aplicar as disposições seguintes:
 
-ARTIGO I
+###### ARTIGO I
 
 O Governo da República Portuguesa e o Governo do Reino de Marrocos, adiante designados por Partes Contratantes, comprometem-se a desenvolver a cooperação no domínio da pesca e através dos seus navios, tomando para tal fim todas as medidas apropriadas.
 
-ARTIGO II
+###### ARTIGO II
 
 Os navios de pesca pertencentes a cada uma das Partes Contratantes poderão utilizar as instalações portuárias da outra Parte Contratante, de acordo com as leis e regulamentos em vigor no território desta última, para fins de reparação, abastecimento e armazenagem dos produtos de pesca.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes desenvolverão a cooperação no domínio das pesquisas científicas e técnicas, através da troca de informações sobre os recursos haliêuticos, as quantidades e as espécies de peixe capturado, as técnicas e equipamento de pesca, os métodos de conservação e de tratamento de peixe, a comercialização de peixe e dos produtos do mar, através da exploração em comum de zonas de pesca, pela troca de informações sobre os meios de lutar contra a poluição dos meios marítimos e, finalmente, pela preparação e execução em comum de programas de interesse mútuo.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Contratantes desenvolverão a cooperação no domínio da formação de técnicos a todos os níveis, em institutos de pesquisa, escolas de pesca, a bordo de navios, bem como nas empresas dependentes do sector da pesca, em particular de conservas, da fabricação de redes e utensílios de pesca, de construção e de reparação naval.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes trocarão os seus pontos de vista e consultar-se-ão no que respeita à política de pesca mundial no quadro das organizações regionais e internacionais de pesca, a fim de coordenarem as suas posições respectivas sobre questões de interesse mútuo.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1. As duas Partes Contratantes encorajarão e facilitarão a constituição de sociedades de capitais mistos luso-marroquinas nos diferentes domínios da pesca, da sua indústria e na comercialização dos produtos de pesca.
 
 2. A constituição e a exploração destas sociedades beneficiarão das vantagens previstas nas leis em vigor e nomeadamente em matéria de transferência de dividendos e do capital investido em caso de dissolução de uma ou das sociedades referidas.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Será constituído um comité técnico misto, a fim de tratar de todas as questões respeitantes à execução do presente Acordo.
 
@@ -144,7 +149,7 @@ Quando necessário, o comité preparará e proporá as soluções convenientes p
 
 O comité reunir-se-á alternadamente em Rabat e em Lisboa, uma vez por ano, a pedido de uma das duas Partes Contratantes.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 O presente Acordo será ratificado por cada uma das duas Partes, nos termos das suas disposições constitucionais, e entrará em vigor à data da troca dos instrumentos de ratificação.
 

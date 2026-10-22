@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/692-1976-409127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0afb363968daefb43bb8b0f1f56b3482a622ea832d9c4b5fc8b6053ba7267768
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acc6b20cd032005b3aadefe4df8726736bc4ca6ee44d67d4a74ac1fbd006856b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Colocação de Professores
+- Ensino Primário
+- Pessoal Docente
+- Prorrogação de Prazo
+- Tomada de Posse
+relationships:
+- type: cites
+  target: pt:dre:314910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662736:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:50Z'
   warnings: []
   errors: []
 ---
@@ -97,14 +110,14 @@ Considerando o disposto no artigo único do Decreto-Lei n.º 355/76, de 14 de Ma
 
 Usando da faculdade conferida pela alínea c) do artigo 202.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É prorrogado para 30 de Setembro o termo do prazo de posse previsto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 454/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1975-314910), de 21 de Agosto.
+Artigo 1.º É prorrogado para 30 de Setembro o termo do prazo de posse previsto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 454/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1975-314910), de 21 de Agosto.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, só se aplicando no ano de 1976.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, só se aplicando no ano de 1976.
 
 Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 6 de Setembro de 1976.**
+Promulgado em 6 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

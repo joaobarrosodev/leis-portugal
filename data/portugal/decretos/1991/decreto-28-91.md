@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/28/1991/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1991-592568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a0a3ff4b05793c90cb3e44b31aff35050e2bab35d989b52f8eae4a9c0109f5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ce38e7599ded8b30722273c0c8b156242c01de310f472ab5df06576c5c38780
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Adesão à Comunidade Europeia
 - CECA
 - Convenção
-- Portugal
 - Espanha
-- Adesão à Comunidade Europeia
+- Portugal
 relationships: []
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:48Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 19 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo, assinado em Bruxelas a 3 de Janeiro de 1989, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a República Socialista Federativa da Jugoslávia, assinado em Belgrado a 2 de Abril de 1980, cuja versão autêntica, em língua portuguesa, segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo, assinado em Bruxelas a 3 de Janeiro de 1989, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a República Socialista Federativa da Jugoslávia, assinado em Belgrado a 2 de Abril de 1980, cuja versão autêntica, em língua portuguesa, segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Rogado Salvador Pinheiro.
 
-**Assinado em 1 de Abril de 1991.**
+Assinado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Abril de 1991.**
+Referendado em 4 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO AO ACORDO ENTRE OS ESTADOS MEMBROS DA COMUNIDADE EUROPEIA DO CARVÃO E DO AÇO E A COMUNIDADE EUROPEIA DO CARVÃO E DO AÇO, POR UM LADO, E A REPÚBLICA SOCIALISTA FEDERATIVA DA JUGOSLÁVIA, POR OUTRO, NA SEQUÊNCIA DA ADESÃO DO REINO DE ESPANHA E DA REPÚBLICA PORTUGUESA À COMUNIDADE.
 
@@ -179,7 +179,7 @@ Em 1 de Janeiro de 1992 e em 1 de Janeiro de 1993 serão efectuadas as duas últ
 
 3 - Relativamente ao produto a seguir indicado, o direito de base a aplicar por Portugal é de 20%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/091a00/22382241.pdf))](https://files.diariodarepublica.pt/1s/1991/04/091a00/22382241.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/091a00/22382241.pdf)
 
 4 - Relativamente aos produtos enumerados no anexo, o direito de base a partir do qual devem ser efectuadas as reduções sucessivas previstas no n.º 1, para cada produto, é o direito aplicado pela República Portuguesa em 1 de Janeiro de 1985 em relação à Jugoslávia.
 
@@ -219,7 +219,7 @@ O presente Protocolo é redigido em duplo exemplar, em língua alemã, dinamarqu
 
 ## ANEXO — Lista a que se refere o n.º 4 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/091a00/22382241.pdf))](https://files.diariodarepublica.pt/1s/1991/04/091a00/22382241.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/091a00/22382241.pdf)
 
 Declaração do representante da República Federal da Alemanha respeitante à aplicação do Protocolo a Berlim
 

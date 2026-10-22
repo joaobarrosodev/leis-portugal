@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-1978-468851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1d616202e474426a2c7bed542fa581677de308755c717caa81d29817041f340
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9213a8bd6077d946cfbf7da000d68de3b560d73a766a64adf798e7f199d1ae65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Imersão de Resíduos
+- Londres
+- Poluição Marinha
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:12Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 7 de Janeiro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção para a Prevenção da Poluição Marinha por Operações de Imersão de Detritos e Outros Produtos, concluída em Londres em 1972, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção para a Prevenção da Poluição Marinha por Operações de Imersão de Detritos e Outros Produtos, concluída em Londres em 1972, cujos textos em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Assinado em 21 de Dezembro de 1977.**
+Assinado em 21 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter
 
@@ -493,15 +498,15 @@ Desejando melhorar a protecção do meio ambiente marinho, encorajando os Estado
 
 Acordaram nas seguintes disposições:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes promoverão, individualmente e colectivamente, o contrôle efectivo de todas as fontes de poluição do meio ambiente marinho e comprometem-se especialmente a tomar todas as medidas possíveis para prevenir a poluição do mar por imersão de detritos e outras matérias susceptíveis de colocar em perigo a saúde do homem, de causar dano aos recursos vivos e à vida marinha, de prejudicar as possibilidades de recreio ou de dificultar outras utilizações legítimas do mar.
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes Contratantes tomarão, como fica estipulado nos artigos seguintes, medidas eficazes, individualmente, segundo as suas possibilidades científicas, técnicas e económicas, e colectivamente, para prevenir a poluição marinha causada por imersão, harmonizando as suas políticas a este respeito.
 
-ARTIGO III
+###### ARTIGO III
 
 1 - Para os fins da presente Convenção:
 
@@ -531,7 +536,7 @@ c) O vertimento de resíduos ou outros produtos directamente provenientes ou rel
 
 7 - Por «a Organização» entende-se a Organização designada pelas Partes Contratantes de acordo com o artigo XIV, parágrafo 2.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - De acordo com as disposições da presente Convenção, as Partes Contratantes proibirão a imersão de quaisquer detritos ou de outros produtos sob qualquer forma ou em quaisquer condições, consoante os casos abaixo mencionados:
 
@@ -545,7 +550,7 @@ c) A imersão de todos os detritos e de todos os produtos requer uma autorizaç�
 
 3 - Nenhuma disposição da presente Convenção deve ser interpretada como impedimento a uma Parte Contratante de proibir, na medida em que afecta essa parte, a imersão de detritos ou outras matérias não mencionadas no anexo I. Essa Parte Contratante notificará tais medidas à Organização.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - As disposições do artigo IV não se aplicarão quando for necessário garantir a segurança da vida humana ou de navios, aeronaves, plataformas ou outras estruturas feitas pelo homem no mar, em casos de força maior, provocada por intempéries, ou em qualquer caso que constitua um perigo para a vida humana ou uma ameaça real para navios, aeronaves, plataformas ou outras estruturas feitas pelo homem no mar, se a imersão parecer ser o único meio de evitar o perigo e se houver todas as probabilidades de que os danos resultantes de tal imersão sejam menores do que os provocados de outra forma. Tal imersão deverá ser efectuada de modo a minimizar a probabilidade de danos para a vida humana ou vida marinha e deverá ser notificada imediatamente à Organização.
 
@@ -553,7 +558,7 @@ ARTIGO V
 
 3 - Qualquer Parte Contratante pode renunciar os seus direitos enunciados no parágrafo 2 na altura da ratificação ou adesão a esta Convenção, ou posteriormente.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - Cada Parte Contratante designará uma autoridade ou autoridades apropriadas para:
 
@@ -575,7 +580,7 @@ b) Carregado por um navio ou aeronave registado no seu território ou hasteando 
 
 4 - Cada Parte Contratante comunicará à Organização, quer directamente, quer através de um secretariado criado segundo um acordo regional, e quando apropriado também a outras Partes Contratantes, a informação especificada nos subparágrafos c) e d) do parágrafo 1 descrito acima, e os critérios, medidas e requisitos que adoptou de acordo com o parágrafo 3 deste artigo. O processo a seguir para a elaboração de tais relatórios, bem como as suas características, serão acordados pelas Partes Contratantes que foram consultadas.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - Cada Parte Contratante aplicará as medidas necessárias para cumprir a presente Convenção a todos:
 
@@ -593,11 +598,11 @@ c) Os navios e aeronaves e plataformas fixas ou flutuantes sob a sua jurisdiçã
 
 5 - Nada na presente Convenção afectará o direito de cada Parte Contratante de adoptar outras medidas para prevenir, de acordo com os princípios do direito internacional, a imersão de detritos no mar.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Tendo em vista os objectivos futuros da presente Convenção, as Partes Contratantes com interesses comuns na protecção do meio ambiente marinho de uma determinada área geográfica esforçar-se-ão no sentido de entrarem em acordos regionais para a prevenção da poluição, especialmente por imersão, tendo em conta as características fundamentais da região e de acordo com a presente Convenção. As Partes Contratantes à presente Convenção esforçar-se-ão por agir de acordo com os objectivos e disposições de tais acordos regionais, os quais serão notificados às Partes Contratantes pela Organização. As Partes Contratantes procurarão cooperar com as Partes Contratantes de acordos regionais, a fim de desenvolverem processos conjuntos a serem seguidos pelas Partes Contratantes das diferentes convenções interessadas. Deverá ser dada uma atenção especial à cooperação no campo do contrôle em contínuo da poluição e investigação científica.
 
-ARTIGO IX
+###### ARTIGO IX
 
 As Partes Contratantes promoverão, através da colaboração entre a Organização e outros organismos internacionais, o apoio a outras Partes que o solicitem para:
 
@@ -609,15 +614,15 @@ c) A eliminação e tratamento de detritos e outras medidas para prevenir ou min
 
 de preferência ao alcance dos países interessados, dando assim realização aos objectivos e resoluções da presente Convenção.
 
-ARTIGO X
+###### ARTIGO X
 
 De acordo com os princípios do direito internacional relacionados com as responsabilidades dos Estados no que diz respeito aos danos causados ao meio ambiente de outros Estados ou a qualquer outra zona do meio ambiente, danos esses provocados pela imersão de resíduos ou outros produtos de qualquer espécie, as Partes Contratantes comprometem-se a desenvolver processos para a determinação de responsabilidades e para a resolução de diferendos relacionados com a imersão.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As Partes Contratantes deverão, na sua primeira reunião consultiva, considerar processos para a resolução de diferendos relacionados com a interpretação e aplicação da presente Convenção.
 
-ARTIGO XII
+###### ARTIGO XII
 
 As Partes Contratantes comprometem-se a promover, no âmbito dos departamentos competentes especializados e outros organismos internacionais, as medidas para proteger o meio ambiente marinho contra a poluição provocada por:
 
@@ -635,11 +640,11 @@ f) Detritos ou outros produtos provenientes directamente ou relacionados com os 
 
 As Partes Contratantes promoverão também, no âmbito das organizações internacionais apropriadas, a codificação de sinais a serem utilizados pelos navios que fazem a imersão.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Nada na presente Convenção prejudicará a codificação e elaboração do direito do mar pela Conferência das Nações Unidas sobre o Direito do Mar, convocada de acordo com a Resolução 2750 C (XXV) da Assembleia Geral das Nações Unidas, nem os direitos actuais ou futuros e os aspectos legais de qualquer Estado relacionados com o direito do mar e as características e extensões da jurisdição das águas costeiras e territoriais. As Partes Contratantes acordam em debater o assunto numa reunião a ser convocada pela Organização depois da Conferência sobre o Direito do Mar, e nunca em qualquer caso depois de 1976, tendo em vista a definição da natureza e extensão do direito e responsabilidade de um Estado costeiro em fazer aplicar a Convenção na zona adjacente à sua costa.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1 - O Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte, como Governo depositário, convocará uma reunião das Partes Contratantes, o mais tardar três meses após a entrada em vigor desta Convenção, para decisões sobre assuntos relacionados com problemas de organização.
 
@@ -673,7 +678,7 @@ f) Considerar qualquer acção adicional que possa ser necessária.
 
 5 - As Partes Contratantes, na sua primeira reunião consultiva, estabelecerão as regras de procedimento a aplicar quando necessário.
 
-ARTIGO XV
+###### ARTIGO XV
 
 1 - a) Nas reuniões das Partes Contratantes convocadas de acordo com o artigo XIV, podem ser adoptadas modificações à presente Convenção por uma maioria de dois terços das Partes presentes. As modificações entrarão em vigor, para as Partes que as tenham aprovado, no sexagésimo dia após dois terços das Partes Contratantes terem depositado, junto da Organização, um instrumento de aprovação da modificação. Depois disso, a modificação entrará em vigor para qualquer outra Parte Contratante trinta dias após essa Parte Contratante ter depositado o seu instrumento de aprovação da modificação.
 
@@ -685,25 +690,25 @@ b) A Organização informará todas as Partes Contratantes de qualquer pedido fe
 
 4 - Até à designação da Organização, as funções de secretariado aqui atribuídas à mesma serão efectuadas temporariamente pelo Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte, como um dos Governos depositários da presente Convenção.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 A presente Convenção estará aberta para assinatura de qualquer Estado em Londres, Cidade do México, Moscovo e Washington, de 29 de Dezembro de 1972 até 31 de Dezembro de 1973.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 A presente Convenção estará sujeita a ratificação. Os instrumentos de ratificação serão depositados junto dos Governos do México, da União das Repúblicas Socialistas Soviéticas, do Reino Unido da Grã-Bretanha e Irlanda do Norte e dos Estados Unidos da América.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 Depois de 31 de Dezembro de 1973, a presente Convenção estará aberta à adesão por qualquer Estado. Os instrumentos de adesão serão depositados junto dos Governos do México, da União das Repúblicas Socialistas Soviéticas, do Reino Unido da Grã-Bretanha e Irlanda do Norte e dos Estados Unidos da América.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 1 - A presente Convenção entrará em vigor no trigésimo dia após a data de depósito do décimo quinto instrumento de ratificação ou adesão.
 
 2 - Para cada Parte Contratante que ratifique ou adira à Convenção após o depósito do décimo quinto instrumento de ratificação ou adesão, a Convenção entrará em vigor no trigésimo dia após o depósito por cada Parte Contratante do seu instrumento de ratificação ou adesão.
 
-ARTIGO XX
+###### ARTIGO XX
 
 Os Governos depositários informarão as Partes Contratantes:
 
@@ -711,11 +716,11 @@ a) Das assinaturas à presente Convenção e do depósito de instrumentos de rat
 
 b) Da data em que a presente Convenção entrará em vigor, em aplicação do artigo XIX.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 Qualquer Parte Contratante pode denunciar a presente Convenção mediante notificação escrita, enviada com seis meses de antecedência ao depositário, o qual informará imediatamente todas as Partes Contratantes de tal notificação.
 
-ARTIGO XXII
+###### ARTIGO XXII
 
 O original da presente Convenção, cujos textos em inglês, francês, russo e espanhol fazem igualmente fé, ficará depositado junto dos Governos do México, da União das Repúblicas Socialistas Soviéticas, do Reino Unido da Grã-Bretanha e Irlanda do Norte e dos Estados Unidos da América, que enviarão ainda cópias autenticadas a todos os Estados.
 

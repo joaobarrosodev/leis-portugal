@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/88-1979-378882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1740ff16bd06fc56c3d3c2958f5dc5eabf732737e506677b8882b49dca63a15a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f488e56d8822eb5ddf5672826a86318eb5ce53c3fce132908ae00d017e95d7e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Poluição Marinha
+- Poluição por Hidrocarbonetos
+- Portugal
+- Protecção do Litoral
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:59Z'
   warnings: []
   errors: []
 ---
@@ -87,13 +92,13 @@ de 21 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Internacional sobre a Intervenção no Alto Mar em Caso de Acidente Que Provoque ou Possa Vir a Provocar a Poluição por Hidrocarbonetos, concluída em Bruxelas em 29 de Novembro de 1969, cujo texto segue em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção Internacional sobre a Intervenção no Alto Mar em Caso de Acidente Que Provoque ou Possa Vir a Provocar a Poluição por Hidrocarbonetos, concluída em Bruxelas em 29 de Novembro de 1969, cujo texto segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 11 de Julho de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 25 de Julho de 1979.**
+Assinado em 25 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
 Presidente da República, ANTÓNIO RAMALHO EANES.
 
@@ -403,13 +408,13 @@ Convencidos de que em tais circunstâncias poderá ser necessário tomar medidas
 
 estão convencidos do que os segue:
 
-ARTIGO I
+###### ARTIGO I
 
 1 - As Partes da presente Convenção podem tomar ao alto mar as medidos consideradas necessários para impedir, atenuar ou eliminar os perigos graves e iminentes, que poderão representar para as suas costas, ou interesses relacionados, uma poluição ou uma ameaça de poluição das águas do mar por hidrocarbonetos como consequência de um acidente de mar, ou acções com ele relacionadas, susceptíveis de terem consequências perniciosas consideráveis.
 
 2 - Todavia, nenhuma medida deverá ser tomada de acordo com a presente Convenção contra navios de guerra ou outros navios pertencentes a um Estado ou sob a sua exploração e exclusivamente destinados a um serviço governamental não comercial, no momento considerado.
 
-ARTIGO II
+###### ARTIGO II
 
 Para os fins da presente Convenção:
 
@@ -433,7 +438,7 @@ c) À saúde das populações ribeirinhas e ao bem-estar da região considerada,
 
 5 - A expressão «Organização» designa a Organização Intergovernamental Consultiva da Navegação Marítima.
 
-ARTIGO III
+###### ARTIGO III
 
 O direito de um Estado ribeirinho tomar medidas de acordo com o artigo I é exercida nas seguintes condições:
 
@@ -449,13 +454,13 @@ e) O Estado ribeirinho tendo tomado tais medidas e durante a sua execução, esf
 
 f) As medidas que foram tomadas em aplicação do artigo I devem ser notificadas sem demora aos Estados e às pessoas físicas ou morais envolvidas que forem conhecidas, bem como ao secretário-geral da Organização.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - Sob o contrôle da Organização, será elaborada e mantida em dia a lista de técnicos, citada no artigo III de presente Convenção. A Organização edita as regras apropriadas para este assunto e determina as qualificações requeridas.
 
 2 - Os Estados membros da Organização e as Partes à presente Convenção podem indicar nomes para a elaboração desta lista. Os técnicos são pagos pelos Estados que a eles recorram, em função dos serviços prestados.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - As medidas de intervenção tomadas pelo Estado ribeirinho de acordo com as disposições do artigo I devem ser proporcionais aos estragos que ele efectivamente sofreu ou de que está ameaçado.
 
@@ -469,21 +474,21 @@ b) A eficácia provável dessas medidas; e
 
 c) A extensão dos danos que podem ser causados por essas medidas.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Toda a Parte à Convenção que tomar medidas em contravenção com as disposições da presente Convenção, causando prejuízos a outrem, é obrigada a indemnizá-lo da extensão dos danos causados pelas medidas que ultrapassem o razoavelmente necessário para conseguir os fins mencionados no artigo I.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Salvo disposição expressa em contrário, nada na presente Convenção modifica uma obrigação ou atenta contra um direito, privilégio ou imunidade previstos noutro sítio, ou priva qualquer das Partes ou outra pessoa física ou moral interessada de qualquer recurso de que ela de outro modo pudesse dispor.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - Qualquer diferendo entre as Partes para concluir se as medidas tomadas em aplicação do artigo transgridem as disposições da presente Convenção, se é devida uma reparação em virtude do artigo VI, bem como sobre o montante da indemnização, se não for regulado pela via das negociações entre as Partes em causa ou entre a Parte que tomou as medidas e as pessoas físicas ou morais que pedem indemnização, e salvo decisão contrária das Partes, será submetido, a pedido de uma das Partes em questão, à conciliação, ou, em caso de fracasso da conciliação, à arbitragem nas condições previstas em anexo à presente Convenção.
 
 2 - A Parte que tomou as medidas não tem o direito de recusar um pedido de conciliação ou de arbitragem apresentado ao abrigo do parágrafo anterior pelo único motivo de que os recursos diante dos seus tribunais próprios, abertos pela sua própria legislação nacional, não foram todos esgotados.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - A presente Convenção está aberta para assinatura até 31 de Dezembro de 1970 e, em seguida, fica aberta à adesão.
 
@@ -495,19 +500,19 @@ b) Assinatura sob reserva de ratificação, aceitação ou aprovação, seguida 
 
 c) Adesão.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - A ratificação, aceitação, aprovação ou adesão efectuam-se pela entrega de um documento formal para o efeito ao Secretário-Geral da Organização.
 
 2 - Todo o documento de ratificação, aceitação, aprovação ou adesão, entregue depois da entrada em vigor de uma emenda à presente Convenção com respeito a todos os Estados já membros da Convenção ou depois do cumprimento de todas as medidas requeridas para a entrada em vigor da emenda com respeito a todos esses Estados, é referido como aplicando-se à Convenção modificada pela emenda.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1 - A presente Convenção entra em vigor noventa dias depois da data em que os governos de quinze Estados ou a tenham assinado sem reservas quanto à ratificação, aceitação ou aprovação, ou tenham entregue um documento de ratificação, aceitação, aprovação ou adesão ao Secretário-Geral da Organização.
 
 2 - Para cada um dos Estados que ratificam, aceitam e aprovam a Convenção ou a ela aderem posteriormente, a dita Convenção entra em vigor noventa dias depois da entrega desse documento pelo respectivo Estado.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1 - A presente Convenção pode ser denunciada por qualquer das suas Partes em qualquer momento a contar da data em que entrar em vigor com respeito a esse Estado.
 
@@ -515,7 +520,7 @@ ARTIGO XII
 
 3 - A denunciação torna-se efectiva um ano após a entrega do respectivo documento ao Secretário-geral da Organização, ou ao expirar qualquer período mais longo que poderá ser especificado nesse documento.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1 - A Organização das Nações Unidas, quando assume a responsabilidade da administração de um território, ou qualquer Estado membro da presente convenção encarregado de assegurar as relações internacionais de um território, consulta, sempre que possível, as autoridades competentes desse território ou toma qualquer outra medida apropriada para o abranger com a aplicação da presente Convenção e pode, em qualquer altura, por notificação escrita endereçada ao Secretário-Geral da Organização, dar a conhecer que esta extensão teve lugar.
 
@@ -525,13 +530,13 @@ ARTIGO XIII
 
 4 - A presente Convenção deixa de se aplicar ao território designado na notificação um ano após a data da sua recepção pelo Secretário-Geral da Organização ou ao expirar outro período mais longo especificado nessa notificação.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1 - A Organização pode convocar uma conferência, tendo por objectivo rever ou corrigir a presente Convenção.
 
 2 - A Organização convoca uma conferência dos Estados membros da presente Convenção, tendo por objectivo rever ou corrigir a presente Convenção, a pedido de um terço, pelo menos, das Partes.
 
-ARTIGO XV
+###### ARTIGO XV
 
 1 - A presente Convenção será entregue ao Secretário-Geral da Organização.
 
@@ -547,11 +552,11 @@ iii) Da extensão da presente Convenção a qualquer território, ao abrigo do p
 
 b) Distribuirá cópias autenticadas da presente Convenção a todos os Estados signatários da mesma e a todos os Estados que a ela aderirem.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 Após a entrada em vigor da presente Convenção, o Secretário-Geral da Organização envia o texto ao Secretariado das Nações Unidas, com vista ao seu registo e à sua publicação, de acordo com o artigo 102 da Carta das Nações Unidas.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 A presente Convenção foi elaborada num exemplar único, em língua francesa e inglesa, fazendo fé qualquer dos textos. Elaboraram-se traduções oficiais em língua russa e espanhola, que são entregues com o original assinado.
 
@@ -559,7 +564,9 @@ Em testemunho do que os abaixo assinados, devidamente autorizados pelos seus gov
 
 Feita em Bruxelas a 29 de Novembro de 1969.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Conciliação
 

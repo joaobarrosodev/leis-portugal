@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 155/1976, 3º Suplemento, Série I de 1976-07-05
   number: '155'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1476-(15) a 1476-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15503/00150019.pdf
 entry_into_force_dates: []
@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/524-h-1976-353909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92893956c03568ab32c7d869f6a57f7d57bb4c33d151ad6de3a9b769a82d5139
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8bbfd9b09e274d3379e6ce0303f35bd930e5350a46df7695a776164be6c2b95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Nacional Ultramarino
+- Cabo Verde
+- Cidade da Praia
+- Convenção
+- Integração de Trabalhadores
+- Portugal
+- Transferência de Competências
+- Transferência Patrimonial
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:50Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +95,19 @@ de 5 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único É aprovado o Acordo entre a República de Portugal e a República de Cabo Verde sobre a Transferência do Departamento do Banco Nacional Ultramarino em Cabo Verde, assinado em 15 de Abri de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único É aprovado o Acordo entre a República de Portugal e a República de Cabo Verde sobre a Transferência do Departamento do Banco Nacional Ultramarino em Cabo Verde, assinado em 15 de Abri de 1976, cujo texto vai anexo ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Francisco Salgado Zenha - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 5 de Julho de 1976.**
+Assinado em 5 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO ENTRE A REPÚBLICA DE PORTUGAL E A REPÚBLICA DE CABO VERDE SOBRE A TRANSFERÊNCIA DO DEPARTAMENTO DO BANCO NACIONAL ULTRAMARINO EM CABO VERDE.
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1. O Estado Português, por intermédio do Banco Nacional Ultramarino, transferirá para o Estado de Cabo Verde, por intermédio do Banco de Cabo Verde, as atribuições, o activo e o passivo do departamento daquele Banco em Cabo Verde.
 
@@ -115,19 +123,19 @@ ACORDO ENTRE A REPÚBLICA DE PORTUGAL E A REPÚBLICA DE CABO VERDE SOBRE A TRANS
 
 7. Os actos de transferência ficarão isentos de usa e de quaisquer outros impostos e pela celebração do instrumento ou instrumentos necessários para o efeito não serão cobrados quaisquer taxas, selos ou emolumentos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1. O património a transferir será reportado, para todos os efeitos, aos valores activos e passivos existentes à data da transferência do departamento, embora os apuramentos contabilísticos referentes a esta data possam vir a ser concretizados até três meses depois da transferência acordada.
 
 2. À data da transferência do departamento não será elaborado um balanço de cessão, sendo os valores transferir os constantes do balancete mensal da contabilidade.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1. A inventariação física dos bens patrimoniais afectos ao departamento do Banco Nacional Ultramarino em Cabo Verde, bem como a verificação dos respectivos cofres e sua segurança, deverão estar prontas até à data da transferência do referido departamento.
 
 2. As delegações portuguesa e de Cabo Verde comprometem-se a indicar, até trinta dias antes da data prevista para a transferência, a pessoa ou pessoas que, em nome de cada uma delas, procederão às operações referidas, a iniciar logo após aquela indicação, devendo ser elaborados os competentes autos de verificação e, quando for caso disso, os correspondentes autos de entrega.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1. Para efeito do exercício do privilégio emissor por parte do Banco de Cabo Verde:
 
@@ -137,17 +145,17 @@ b) Passará para a propriedade e posse do Banco de Cabo Verde todo o material ex
 
 2. O Banco Nacional Ultramarino informará e instruirá os fabricantes a cuja guarda se encontra o referido material de que, a partir da data da transferência do departamento, a sua propriedade e posse cabem exclusivamente ao Banco de Cabo Verde.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Por efeito da transferência do departamento do Banco Nacional Ultramarino para o Banco de Cabo Verde, este sucederá em todos os direitos e obrigações que se integram na esfera jurídica do departamento do Banco e nas acções em que o Banco Nacional Ultramarino seja parte, por motivo da actividade exercida através do mesmo departamento.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1. À data da transferência do departamento, o Banco Nacional Ultramarino porá à inteira disposição do Banco de Cabo Verde os valores que, encontrando-se à sua guarda, na sede ou noutros departamentos situados fora de Cabo Verde, pertençam ao departamento do Banco neste Estado e que, como tal, façam parte dos registos contabilísticos privativos deste departamento.
 
 2. A sede de Banco Nacional Ultramarino compromete-se a fazer a entrega, por sua conta, em Cabo Verde, de todos os valores referidos no número anterior logo que tal seja solicitado.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1. O Banco de Cabo Verde substituirá o Banco Nacional Ultramarino em todas as responsabilidades por este assumidas perante terceiros existentes à data da transferência do seu departamento em Cabo Verde e respeitantes a Cabo Verde.
 
@@ -155,7 +163,7 @@ Por efeito da transferência do departamento do Banco Nacional Ultramarino para 
 
 3. Nos casos em que, excepcionalmente, o Banco Nacional Ultramarino permaneça vinculado a credores estrangeiros, o Banco de Cabo Verde assumirá, perante o Banco Nacional Ultramarino e perante o credor, o correspondente compromisso de bom pagamento, obrigando-se o Governo de Cabo Verde a dar imediata prioridade nas transferências para Portugal necessárias à atempada recepção pela sede do Banco Nacional Ultramarino das coberturas destinadas aos pagamentos que este tiver de efectuar por força das responsabilidades assumidas perante terceiros de conta de Cabo Verde.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1. O Banco Nacional Ultramarino informará, com a antecedência mínima de trinta dias, todos os seus agentes e correspondentes e outras instituições financeiras com relações com o departamento do Banco em Cabo Verde, da transferência deste departamento para o Banco de Cabo Verde, da respectiva data e do consequente cancelamento das listas de assinaturas e chaves telegráficas respeitantes ao departamento.
 
@@ -165,31 +173,31 @@ Por efeito da transferência do departamento do Banco Nacional Ultramarino para 
 
 4. Serão finalmente informados os referidos agentes, correspondentes e instituições de que as responsabilidades a cargo do departamento nessa data serão transmitidas para o Banco de Cabo Verde, nos termos do artigo anterior.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Todas as contas com a sede e outros departamentos fora de Cabo Verde do Banco Nacional Ultramarino serão regularizadas e compensadas entre si, à data da transferência, sendo apenas exigível o saldo resultante desta compensação.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Todas as questões respeitantes aos trabalhadores do departamento do Banco Nacional Ultramarino em Cabo Verde estão tratadas no anexo I, que faz parte integrante do presente Acordo.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Consideram-se extintos, na data da transferência do departamento do Banco Nacional Ultramarino, todas as contribuições, taxas e impostos que aquele porventura deva na República de Cabo Verde, bem como quaisquer créditos de natureza tributária que o mesmo departamento possa ter sobre o Tesouro daquele Estado.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 O Governo Português, dentro das suas possibilidades, e desde que solicitado pelo Governo de Cabo Verde, dará ao Banco de Cabo Verde a assistência técnica necessária, nomeadamente através de cooperantes e de apoio técnico na realização de operações financeiras no exterior.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Na data da assinatura do presente Acordo, o Banco de Cabo Verde designará um ou mais representantes para acompanhar a gestão do departamento do Banco Nacional Ultramarino em Cabo Verde, os quais serão obrigatoriamente ouvidos, com voto consultivo, sobre todas as operações a realizar pelo mesmo departamento.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 O Governo Português e o Governo de Cabo Verde obrigam-se a promover a prática de todos os actos, incluindo a publicação de diplomas legais, que se revelem necessários para conferir força jurídica ao presente Acordo, bem como para permitir a sua perfeita execução.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 O presente Acordo entrará em vigor na data da sua assinatura e durará até à materialização dos actos de transferência do departamento do Banco Nacional Ultramarino em Cabo Verde.
 

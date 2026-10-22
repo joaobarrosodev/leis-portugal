@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/708-1976-408936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14b419781faec4d26831e260c31afa889308eaa1852b127138f25aebb969eaa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddbb934724e1d07c37ea5d205632b1a5db3b900e60f6044b3eb8c69f2db6b8e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Contrato de Construção
+- Despesas Públicas
+- Direcção Geral de Portos
+- Empreitada de Obras Públicas
+- Ericeira
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421668:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:53Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +119,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 O Governo decreta, nos termos do artigo 202.º, alínea g), da Constituição, o seguinte:
 
-###### Artigo 1.º - É a Direcção-Geral de Portos autorizada a celebrar contrato adicional, o segundo da ordem, ao primeiro contrato adicional de execução da empreitada de construção de um molhe de protecção do terrapleno da zona marítima do varadouro do porto da Ericeira pela importância de 11000000$00, passando, assim, a ser de 37000000$00 o valor limite do contrato inicial e seus dois adicionais.
+Artigo 1.º - É a Direcção-Geral de Portos autorizada a celebrar contrato adicional, o segundo da ordem, ao primeiro contrato adicional de execução da empreitada de construção de um molhe de protecção do terrapleno da zona marítima do varadouro do porto da Ericeira pela importância de 11000000$00, passando, assim, a ser de 37000000$00 o valor limite do contrato inicial e seus dois adicionais.
 
-###### Art. 2.º - 1. Tendo em conta os dispêndios efectuados até final de 1975, não poderá a Direcção-Geral de Portos ser obrigada a efectuar pagamentos, relativos aos trabalhos executados por virtude do contrato inicial e seus dois adicionais, que excedam as importâncias abaixo indicadas:
+Art. 2.º - 1. Tendo em conta os dispêndios efectuados até final de 1975, não poderá a Direcção-Geral de Portos ser obrigada a efectuar pagamentos, relativos aos trabalhos executados por virtude do contrato inicial e seus dois adicionais, que excedam as importâncias abaixo indicadas:
 
 Em 1976 - 9000092$70.
 
@@ -117,8 +131,8 @@ Em 1977 - 10000000$00.
 
 Mário Soares - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 18 de Setembro de 1976.**
+Promulgado em 18 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

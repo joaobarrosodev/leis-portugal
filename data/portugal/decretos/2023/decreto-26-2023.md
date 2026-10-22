@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19700/0008600094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/26/2023/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/26-2023-222645052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfa5634e1a0741ef83e8aad98c609be635ce451b27821edd7e91442380c20b78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3df33e60349ae043bf4cd15dd5fb80d2afd8260449be271bf5eea94e616d193c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
 subjects:
 - Contrastaria
 - Convenção
-- Portugal
-- Marca
 - Estocolmo
-- Metal Precioso
 - Indústria de Ourivesaria e Relojoaria
 - Joalharia e Ourivesaria
+- Marca
+- Metal Precioso
+- Portugal
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:28Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +107,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 14 de setembro de 2023. - António Luís Santos da Costa - Francisco Gonçalo Nunes André - Fernando Medina Maciel Almeida Correia - António José da Costa Silva.
 
-**Assinado em 26 de setembro de 2023.**
+Assinado em 26 de setembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de outubro de 2023.**
+Referendado em 2 de outubro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ANNEXES I AND II
 
@@ -307,7 +307,8 @@ d) What precious metal the article is made of: this is shown by a mark, symbol o
 
 5.5.1.3 - The CCM can be a conformity mark only: in this case, it is surrounded by a standardised octagonal shield, as described below (type 2).
 
-![](https://files.diariodarepublica.pt/images/222645052/222662775.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/222645052/222662775.png) |
+| --- |
 
 5.5.2 - Approved sizes - the approved sizes of the CCM and other compulsory marks are defined by the Standing Committee.
 
@@ -493,7 +494,8 @@ d) De que metal precioso é feito o artigo: tal é demonstrado por uma marca, s�
 
 5.5.1.3 - A MCC pode ser apenas uma marca de conformidade: nesse caso, é cercada por um enquadramento octogonal padronizado, como descrito adiante (tipo 2).
 
-![](https://files.diariodarepublica.pt/images/222645052/222662776.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/222645052/222662776.png) |
+| --- |
 
 5.5.2 - Dimensões aprovadas - as dimensões aprovadas da MCC e de outras marcas obrigatórias são definidas pelo Comité Permanente.
 
@@ -514,3 +516,5 @@ d) De que metal precioso é feito o artigo: tal é demonstrado por uma marca, s�
 5.9.1 - As marcas referidas no ponto 5.1.2 devem ser aplicadas na parte de metal precioso de um artigo multimetal. A marca (ou equivalente) deve ser aplicada na parte metálica, em conformidade com o ponto 2.6 do Anexo I da Convenção.
 
 5.9.2 - O Comité Permanente poderá decidir sobre outros pormenores ou exceções.
+
+116926663

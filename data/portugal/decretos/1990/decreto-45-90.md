@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-1990-565432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7b269bf02b72ddb64670c439af757492875152916b02edf8b479b36d4cbc9d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf2c41a571944b8bfae1cc1df72a41551be222cd557aa104493cb3143b55a7f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abalroamento
+- Convenção
+- Direito Marítimo
+- Embarcação
+- Londres
+- Navegação Marítima
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:426758:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426758:por
+  label: "Estendida ao Território de Macau a aplicação da Convenção aprovada para Adesão pelo presente diploma, pelo DEC.171/99.1999.08.05.PR\
+    \ DR.IS [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/171-1999-426758
+  date: '1999-08-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:21Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +103,19 @@ de 20 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas, para adesão, as emendas introduzidas ao Regulamento Internacional para Evitar Abalroamentos no Mar, 1972, concluídas em Londres em Novembro de 1987, cuja versão autêntica em língua inglesa e respectiva tradução para língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. São aprovadas, para adesão, as emendas introduzidas ao Regulamento Internacional para Evitar Abalroamentos no Mar, 1972, concluídas em Londres em Novembro de 1987, cuja versão autêntica em língua inglesa e respectiva tradução para língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Agosto de 1990. - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro - Álvaro Severiano da Silva Magalhães - Fernando Nunes Ferreira Real.
 
 Ratificado em 28 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1990.**
+Referendado em 3 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ANNEX
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/23/1999/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-1999-371451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:09:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28a8f47616a7d6fa03e4e040756a39f247baf95eb30ffe411c116a3edc662ead
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0f34e9d9c99acaf560c574450d073401aa23871696d15f6c8261841a4fa3d08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:09:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Mútua
-- Proteção Civil
-- Serviço Nacional de Protecção Civil
 - Convenção
+- Cooperação Científica
 - Cooperação Técnica
-- Portugal
 - Lisboa
 - Planeamento Civil de Emergência
-- Cooperação Científica
+- Portugal
 - Profissão Independente
+- Proteção Civil
 - Reembolso
 - Rússia
+- Serviço Nacional de Protecção Civil
 relationships: []
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:09:53Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +105,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho.
 
-**Assinado em 29 de Abril de 1999.**
+Assinado em 29 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Maio de 1999.**
+Referendado em 4 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA FEDERAÇÃO DA RÚSSIA SOBRE A COOPERAÇÃO NO DOMÍNIO DA PROTECCÇÃO CIVIL, PREVENÇÃO E GESTÃO DAS EMERGÊNCIAS.
 
@@ -239,7 +239,7 @@ Procedimentos para a travessia de fronteiras das equipas para prestação de ass
 
 Os membros das equipas para prestação de assistência atravessarão a fronteira do Estado da Parte requerente através dos postos fronteiriços abertos ao trânsito internacional usando passaportes apropriados. Eles poderão permanecer no território do Estado da Parte requerente sem vistos e autorização de estada.
 
-**O chefe da equipa deve ter o documento apropriado emitido pelo organismo competente da Parte requerida confirmando a sua autoridade e a lista dos membros da equipa de prestação de assistência.**
+O chefe da equipa deve ter o documento apropriado emitido pelo organismo competente da Parte requerida confirmando a sua autoridade e a lista dos membros da equipa de prestação de assistência.
 
 As normas para a travessia da fronteira e estada no território do Estado da Parte requerente para as equipas de cães de busca serão definidas casuisticamente de acordo com os regulamentos de quarentena em vigor no Estado da Parte requerente.
 

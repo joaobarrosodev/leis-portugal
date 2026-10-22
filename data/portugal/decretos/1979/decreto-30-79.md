@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/30-1979-382456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d2c6901a537825e05dbe645bdc5155f291e9ccc1d5b08df836fa279f1ad7404
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 883bc41e8fe898936ba5afe6b86c4e3f9088bae4f732d0a67ab6ddfef1acdb30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola
+- Convenção
+- Energia Elétrica
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:03Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 14 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Especial de Cooperação no Sector Eléctrico entre o Governo da República Portuguesa e o Governo da República Popular de Angola, assinado em Luanda em 17 de Fevereiro de 1979, cujo texto em língua portuguesa acompanha o presente decreto.
+Artigo único. É aprovado o Acordo Especial de Cooperação no Sector Eléctrico entre o Governo da República Portuguesa e o Governo da República Popular de Angola, assinado em Luanda em 17 de Fevereiro de 1979, cujo texto em língua portuguesa acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 17 de Março de 1979.**
+Assinado em 17 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo Especial de Cooperação no Sector Eléctrico entre a República Portuguesa e a República Popular de Angola
 
@@ -107,11 +111,11 @@ Considerando os benefícios que possam advir para os dois países da cooperaçã
 
 Acordam os Governos da República Portuguesa e da República Popular de Angola no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Na medida das suas possibilidades, a Parte Portuguesa permitirá e facilitará o recrutamento e a formação do pessoal qualificado necessário ao preenchimento dos quadros das empresas e organismos do sector eléctrico da República Popular de Angola, bem como do que se destinar a acções de formação e aperfeiçoamento profissional dos trabalhadores angolanos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Para efeitos do presente Acordo, consideram-se como empresas e organismos do sector eléctrico da República Popular de Angola:
 
@@ -119,19 +123,19 @@ a) A Sonefe - Sociedade Angolana de Empreendimentos para o Fornecimento de Energ
 
 b) As unidades económicas estatais e os organismos do sector eléctrico dependentes do Ministério da Indústria e Energia.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1 - São considerados cooperantes no sector eléctrico todos os trabalhadores portugueses que venham a prestar serviço nas empresas e organismos mencionados no artigo anterior.
 
 2 - Poderão também optar pelo regime definido no presente Acordo, nos sessenta dias seguintes à sua entrada em vigor, os trabalhadores portugueses que, na data da sua assinatura, se encontrem já a prestar serviço nas empresas e organismos referidos no artigo anterior.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - Considera-se família do cooperante, para os efeitos previstos neste Acordo, o cônjuge e os seus filhos e enteados menores e os seus filhos e enteados maiores que sejam incapazes ou que, encontrando-se a estudar com bom aproveitamento, tenham menos de 25 anos.
 
 2 - Beneficiam da qualificação formulada no número anterior a pessoa que, nos termos admitidos pela lei portuguesa e anteriormente à assinatura do contrato referido na alínea a) do n.º 1 do artigo 5.º, já viva em situação marital com o cooperante e, bem assim, os filhos nascidos dessa ligação.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - A prestação de serviço dos cooperantes portugueses poderá ser efectuada ao abrigo de:
 
@@ -143,7 +147,7 @@ b) Contrato de assistência técnica celebrado entre a EDP - Electricidade de Po
 
 3 - Ao visarem os contratos, nos termos dos números precedentes, ambas as Partes assumem, subsidiariamente, a responsabilidade pelo seu cumprimento.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1 - Os cooperantes ficam sujeitos às leis da República Popular de Angola e submetidos à autoridade administrativa ou empresarial junto da qual forem colocados.
 
@@ -155,27 +159,27 @@ b) Contrato de assistência técnica celebrado entre a EDP - Electricidade de Po
 
 5 - É interdito aos cooperantes o exercício de qualquer actividade particular lucrativa, salvo autorização expressa da Parte Angolana.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Os cooperantes ficam isentos de todas as contribuições e impostos na República Popular de Angola, com excepção do imposto do selo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 A Parte Angolana atribuirá aos cooperantes do sexo feminino, nos casos de gravidez e parto, os mesmos direitos e regalias reconhecidos, em casos idênticos, às trabalhadoras angolanas.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 No caso previsto na alínea a) do n.º 1 do artigo 5.º, caberá à Parte Portuguesa o recrutamento e a formação dos candidatos a lugares de cooperantes solicitados pela Parte Angolana, sendo da competência desta a selecção final dos candidatos.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Os contratos a que se refere a alínea a) do n.º 1 do artigo 5.º terão a duração de dois anos e considerar-se-ão prorrogados por períodos sucessivos de um ano, se qualquer das partes não declarar desejar pôr-lhes termo, por carta dirigida à outra parte, com aviso de recepção, com antecedência mínima de noventa dias.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 A prestação de serviço dos cooperantes realizar-se-á numa base de financiamento comum, nos termos dos dois artigos seguintes.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Serão suportados pela Parte Portuguesa os encargos relativos:
 
@@ -183,7 +187,7 @@ a) À formação dos candidatos a cooperantes;
 
 b) Ao transporte, de Portugal para Angola, do cooperante e sua família, por via aérea, e das respectivas bagagens, por via marítima e até ao limite a fixar no contrato.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1 - Serão suportados pela Parte Angolana os seguintes encargos:
 
@@ -201,7 +205,7 @@ e) Indemnizações que decorrerem das condições contratuais.
 
 3 - No caso de a Parte Angolana não dispor de alojamento para o cooperante, o salário contratual deste será fixado tendo em conta esse facto.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1 - Os familiares dos cooperantes que residam em Portugal beneficiarão de assistência médica, medicamentosa, cirúrgica e hospitalar, nas condições estabelecidas para os familiares dos trabalhadores portugueses.
 
@@ -211,7 +215,7 @@ e) Indemnizações que decorrerem das condições contratuais.
 
 4 - Os cooperantes e os seus familiares beneficiarão das prestações referidas no n.º 1, quando da sua estada temporária em Portugal, desde que venham a necessitar de assistência médica, inclusive hospitalização, ou quando se desloquem a Portugal para tratamento médico.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1 - Aos cooperantes e suas famílias é garantido o direito aos benefícios previstos no Estatuto da Caixa Nacional de Pensões, bem como ao subsídio por doença e às prestações de acção médico-social asseguradas em Portugal pelas instituições competentes.
 
@@ -219,15 +223,15 @@ e) Indemnizações que decorrerem das condições contratuais.
 
 3 - O disposto nos n.os 1 e 2 é aplicável aos trabalhadores portugueses que, na data do presente Acordo, se encontrem a trabalhar em Angola em empresas ou organismos do sector eléctrico e não usem da faculdade conferida pelo n.º 2 do artigo 3.º
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 As prestações sociais previstas no presente Acordo serão concedidas sem prejuízo de condições mais favoráveis que sejam estabelecidas nos contratos.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 O Governo da República Popular de Angola assegura ao trabalhador cooperante o direito de transferir mensalmente para Portugal uma importância até 50% do seu salário contratual, sem prejuízo de condições mais favoráveis que a lei interna angolana possa vir a estabelecer.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1 - As prestações pecuniárias previstas no presente Acordo e nos contratos celebrados ao seu abrigo serão expressas:
 
@@ -239,7 +243,7 @@ b) Em dólares dos Estados Unidos da América, todas as restantes previstas no p
 
 3 - Para efeitos da determinação, em dólares dos Estados Unidos da América, do quantitativo das prestações pecuniárias previstas na alínea b) do n.º 1, utilizar-se-á a taxa de câmbio vigente em Angola na data da assinatura de cada contrato individual, excepto se se tratar das indemnizações ou compensações devidas nos casos de sinistro ou de acidente de trabalho, em que se utilizará a taxa de câmbio vigente na data da respectiva transferência.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 1 - O cooperante tem direito a gozar, anualmente, trinta dias de férias remuneradas.
 
@@ -249,7 +253,7 @@ b) Em dólares dos Estados Unidos da América, todas as restantes previstas no p
 
 4 - No caso de o cooperante não querer usar do direito atribuído no número anterior, receberá, em dólares dos Estados Unidos da América, a quantia correspondente às despesas do transporte de ida e volta, por via aérea, seu e de sua família.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 1 - As falias por doença, devidamente comprovada, até trinta dias, não implicarão qualquer desconto no vencimento do cooperante.
 
@@ -265,7 +269,7 @@ b) Em dólares dos Estados Unidos da América, todas as restantes previstas no p
 
 7 - O contrato, se terminar antes de o cooperante ser dado por curado, com ou sem incapacidade, considerar-se-á prorrogado até que tal se verifique, sem prejuízo, porém, do disposto nos n.os 3 e 5.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 1 - O cooperante que não respeitar o prazo para a denúncia do contrato fixado no artigo 10.º perderá quaisquer direitos ou garantias previstos no presente Acordo para o termo normal da prestação de serviço.
 
@@ -273,17 +277,17 @@ b) Em dólares dos Estados Unidos da América, todas as restantes previstas no p
 
 3 - No caso previsto no número anterior, o pagamento de quaisquer indemnizações a que houver lugar será feito, integralmente, no momento em que o contrato for denunciado.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Se o contrato for rescindido pela Parte Angolana com justa causa, ou pelo cooperante sem justa causa, este obrigar-se-á a reembolsar a Parte Portuguesa dos pagamentos que hajam sido efectuados com a sua viagem e da sua família e com o transporte das respectivas bagagens, na proporção do número de meses que faltarem para completar o período contratual.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 1 - A rescisão do contrato, sem justa causa, por parte da entidade a que o cooperante presta a sua actividade, confere a este o direito de receber uma indemnização igual a 50% das remunerações devidas até ao termo do período contratual.
 
 2 - O pagamento da indemnização prevista no número precedente deverá efectuar-se, na íntegra, no momento em que o contrato for rescindido e a sua transferência efectuar-se dentro dos trinta dias seguintes.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 1 - Na altura do seu regresso definitivo, correspondente ao termo do contrato ou suas renovações, o cooperante e sua família terão o direito de transferir para Portugal os seus bens mobiliários de uso pessoal e doméstico, incluindo os artigos electrodomésticos, assim como a viatura automóvel, desde que adquirida há mais de dois anos, ficando isentos de tributação ou de quaisquer direitos de exportação ou de importação.
 
@@ -299,13 +303,13 @@ b) Por via aérea, até 40 kg de excesso de bagagem pelo agregado familiar.
 
 5 - O disposto nos n.os 1 e 2 do presente artigo é aplicável aos trabalhadores portugueses que, encontrando-se a prestar serviço em empresas ou organismos do sector eléctrico de Angola, não usem da faculdade conferida pelo n.º 2 do artigo 3.º
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 1 - O tempo de serviço dos cooperantes, prestado nos termos do presente Acordo, será contado em Portugal para todos os efeitos legais, designadamente os de antiguidade, promoção e acesso a regalias de carácter social concedidas aos trabalhadores portugueses do sector eléctrico.
 
 2 - Para efeitos do direito à reforma, a pensões por invalidez, velhice ou sobrevivência e a subsídio por morte, será contado a cada trabalhador todo o tempo de serviço prestado no sector eléctrico, tanto em Portugal como em Angola, desde a data da primeira inscrição numa caixa de previdência portuguesa.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 1 - O Governo da República Portuguesa assegura aos cooperantes colocação em empresa pública do sector eléctrico, desde que aqueles tenham terminado os contratos com empresas ou organismos do sector eléctrico com uma prestação de serviço mínima de quatro anos em Angola, seguidos ou interpolados, dois dos quais obrigatoriamente ao abrigo de contratos de trabalho celebrados nos termos do presente Acordo.
 
@@ -313,40 +317,40 @@ b) Por via aérea, até 40 kg de excesso de bagagem pelo agregado familiar.
 
 3 - O disposto no n.º 1 não se aplica quando a empresa ou organismo do sector eléctrico de Angola haja rescindido o contrato com justa causa ou o cooperante o tenha rescindido sem justa causa.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 1 - A República Popular de Angola assegura a regular transferência para o exterior das importâncias devidas, desde 11 de Novembro de 1975, a título de pensões de reforma, por invalidez, velhice ou sobrevivência e de subsídio por morte, a que tenham direito antigos trabalhadores portugueses do sector eléctrico de Angola ou suas famílias, quando uns ou outras não residam em Angola.
 
 2 - A Parte Angolana autorizará a transferência para Portugal dos montantes relativos às contribuições mensais que, a título de reforma, invalidez, velhice, sobrevivência ou morte, hajam sido efectuadas, até à data da assinatura do presente Acordo, pelas empresas do sector eléctrico de Angola ou pelos trabalhadores portugueses que nelas prestaram ou prestam serviço e que não tenham ainda sido transferidos.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 É facultado ao cônjuge do cooperante o exercício da sua actividade profissional em Angola, nos termos previstos para os trabalhadores estrangeiros residentes.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 A Parte Portuguesa desenvolverá, a pedido da Parte Angolana e sem encargo para esta, acções de formação e aperfeiçoamento profissional ou técnico de trabalhadores angolanos, bem como facultará a frequência, por estes, de cursos, estágios ou outras acções de formação ou aperfeiçoamento profissional que promova.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 Os Governos dos dois países comprometem-se a que as respectivas empresas ou organismos do sector eléctrico dêem preferência, em igualdade de circunstâncias e sempre que tal exceda a capacidade dos meios locais, aos equipamentos e aos gabinetes de estudos técnicos do outro país.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 1 - Com vista a apreciar a forma como decorrem as relações de cooperação, no sector eléctrico, entre os dois países, propor as providências necessárias à aplicação do presente Acordo e resolver as dificuldades que possam surgir na sua execução, será criada uma comissão mista, constituída por membros nomeados pelos dois Governos.
 
 2 - A referida comissão integrar-se-á na Comissão Mista Permanente de Cooperação prevista no artigo 10.º do Acordo Geral de Cooperação celebrado entre as Partes Contratantes, podendo ainda reunir-se, a pedido de qualquer das Partes, em lugar e data previamente acordados.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 O presente Acordo terá a duração de três anos, sendo renovável automaticamente por períodos sucessivos de um ano, podendo, contudo, ser denunciados, por escrito, a todo o momento por qualquer das Partes Contratantes, mediante aviso prévio de seis meses.
 
 Feito em Luanda, aos 17 dias do mês de Fevereiro de 1979, em dois exemplares igualmente autênticos.
 
-**O Chefe da Delegação Governamental da República Popular de Angola:**
+O Chefe da Delegação Governamental da República Popular de Angola:
 
 Adolfo N'Sikalangu, Secretário de Estado da Cooperação.
 
-**O Chefe da Delegação Governamental da República Portuguesa:**
+O Chefe da Delegação Governamental da República Portuguesa:
 
 Hugo Fernando de Jesus, Secretário de Estado da Energia e Indústrias de Base.

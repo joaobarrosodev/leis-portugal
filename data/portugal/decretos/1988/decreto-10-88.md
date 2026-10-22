@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1988-374427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fb925b3a98021a6220b0cc0882dd13fb5251bcb6cf39a0d1626ee168ed0f78a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b02101926768fcec0463f850537349c7806ba50cf5078d0d76b15517629bfec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Angola
+- Assistência Mútua
+- Brasil
+- Cabo Verde
+- Convenção
+- Fraude Aduaneira
+- Guiné-Bissau
+- Infracção Aduaneira
+- Lisboa
+- Luanda
+- Moçambique
+- Palop
+- Portugal
+- São Tomé e Príncipe
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:13Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +102,19 @@ de 24 de Maio
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada a Convenção sobre Assistência Mútua Administrativa entre Estados de Língua Oficial Portuguesa para Prevenção, Investigação e Repressão das Infracções Aduaneiras, concluída em 26 de Setembro de 1986, cujo texto em língua portuguesa segue em anexo.
+Artigo único. É aprovada a Convenção sobre Assistência Mútua Administrativa entre Estados de Língua Oficial Portuguesa para Prevenção, Investigação e Repressão das Infracções Aduaneiras, concluída em 26 de Setembro de 1986, cujo texto em língua portuguesa segue em anexo.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 29 de Abril de 1988.**
+Assinado em 29 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Maio de 1988.**
+Referendado em 4 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENÇÃO SOBRE ASSISTÊNCIA MÚTUA ADMINISTRATIVA ENTRE ESTADOS DE LÍNGUA OFICIAL PORTUGUESA PARA PREVENÇÃO, INVESTIGAÇÃO E REPRESSÃO DAS INFRACÇÕES ADUANEIRAS.
 
@@ -115,7 +130,7 @@ acordam no seguinte:
 
 ### CAPÍTULO I — Definições e campo de aplicação
 
-###### Artigo 1.º Para efeitos da presente Convenção, entende-se por:
+Artigo 1.º Para efeitos da presente Convenção, entende-se por:
 
 a) «Legislação aduaneira», o conjunto de disposições legais e regulamentares aplicáveis pelas administrações aduaneiras à importação, exportação, trânsito e circulação de mercadorias, quer se trate da percepção ou da garantia de direitos ou taxas, quer da aplicação de medidas de proibição, de restrição ou de controle;
 
@@ -125,19 +140,19 @@ c) «Administração aduaneira», o organismo encarregado da aplicação das dis
 
 d) «Mercadoria proibida», aquela mercadoria cuja importação ou exportação estejam proibidas pela legislação de cada Parte Contratante.
 
-###### Art. 2.º As administrações aduaneiras das Partes Contratantes prestarão entre si mútua assistência nas condições definidas na presente Convenção, com o fim de prevenir, investigar e reprimir as infracções aduaneiras.
+Art. 2.º As administrações aduaneiras das Partes Contratantes prestarão entre si mútua assistência nas condições definidas na presente Convenção, com o fim de prevenir, investigar e reprimir as infracções aduaneiras.
 
 ### CAPÍTULO II — Disposições relativas a certas mercadorias
 
-###### Art. 3.º - 1 - As administrações aduaneiras das Partes Contratantes permutarão listas de mercadorias cuja importação ou exportação estejam proibidas pela legislação de cada uma delas ou sujeitas a restrições especiais.
+Art. 3.º - 1 - As administrações aduaneiras das Partes Contratantes permutarão listas de mercadorias cuja importação ou exportação estejam proibidas pela legislação de cada uma delas ou sujeitas a restrições especiais.
 
 2 - As administrações aduaneiras de cada Parte Contratante não autorizarão a exportação de mercadorias cuja importação esteja proibida em outra Parte Contratante quando a esta se destinem.
 
-###### Art. 4.º As administrações aduaneiras das Partes Contratantes permutarão listas de mercadorias conhecidas como sendo objecto de tráfico ilícito nos respectivos territórios.
+Art. 4.º As administrações aduaneiras das Partes Contratantes permutarão listas de mercadorias conhecidas como sendo objecto de tráfico ilícito nos respectivos territórios.
 
 ### CAPÍTULO III — Fiscalização de pessoas, de mercadorias e de meios de transporte
 
-###### Art. 5.º A administração aduaneira de cada Parte Contratante exercerá, a pedido expresso de outra, fiscalização especial na zona da sua jurisdição:
+Art. 5.º A administração aduaneira de cada Parte Contratante exercerá, a pedido expresso de outra, fiscalização especial na zona da sua jurisdição:
 
 a) Na entrada e na saída do seu território de determinadas pessoas suspeitas de se dedicarem profissional ou habitualmente a actividades contrárias à legislação aduaneira no território da Parte solicitante;
 
@@ -147,7 +162,7 @@ c) Sobre determinadas embarcações, aeronaves e outros meios de transporte susp
 
 ### CAPÍTULO IV — Comunicação de informações
 
-###### Art. 6.º A administração aduaneira de cada Parte Contratante comunicará às administrações aduaneiras das outras Partes Contratantes:
+Art. 6.º A administração aduaneira de cada Parte Contratante comunicará às administrações aduaneiras das outras Partes Contratantes:
 
 a) Espontaneamente e sem demora, todas as informações de que disponha sobre:
 
@@ -169,7 +184,7 @@ ii) Que possam servir para a descoberta de falsas declarações, especialmente n
 
 iii) Relativas a certificados de origem, facturas e outros documentos reconhecidos ou presumivelmente falsos.
 
-###### Art. 7.º - 1 - A pedido expresso, a administração aduaneira de cada Parte Contratante prestará às administrações aduaneiras das outras Partes, através da forma mais adequada, informações sobre os seguintes pontos:
+Art. 7.º - 1 - A pedido expresso, a administração aduaneira de cada Parte Contratante prestará às administrações aduaneiras das outras Partes, através da forma mais adequada, informações sobre os seguintes pontos:
 
 a) A autenticidade dos documentos oficiais apresentados às autoridades aduaneiras da Parte solicitante em apoio de um despacho de mercadorias;
 
@@ -183,33 +198,33 @@ d) A importação no seu território de mercadorias exportadas do território da
 
 ### CAPÍTULO V — Inquéritos e notificações efectuados a pedido de uma Parte Contratante
 
-###### Art. 8.º Dentro dos limites da sua competência e no âmbito da respectiva legislação nacional, a administração aduaneira de uma Parte Contratante, a pedido expresso da de outra Parte Contratante:
+Art. 8.º Dentro dos limites da sua competência e no âmbito da respectiva legislação nacional, a administração aduaneira de uma Parte Contratante, a pedido expresso da de outra Parte Contratante:
 
 a) Procederá a inquéritos destinados a obter elementos de prova relativos a uma infracção aduaneira que seja objecto de investigação no território da Parte solicitante;
 
 b) Transmitirá à administração aduaneira da Parte solicitante o resultado das suas investigações, bem como qualquer documento ou outro elemento de prova.
 
-###### Art. 9.º A pedido expresso da administração aduaneira de uma Parte Contratante, a de outra Parte Contratante notificará os interessados ou fá-los-á notificar de qualquer medida ou decisão adoptadas pelas autoridades administrativas ou judiciais relativas a uma infracção aduaneira.
+Art. 9.º A pedido expresso da administração aduaneira de uma Parte Contratante, a de outra Parte Contratante notificará os interessados ou fá-los-á notificar de qualquer medida ou decisão adoptadas pelas autoridades administrativas ou judiciais relativas a uma infracção aduaneira.
 
 ### CAPÍTULO VI — Disposições gerais
 
-###### Art. 10.º - 1 - As administrações aduaneiras das Partes Contratantes adoptarão as disposições necessárias para que os responsáveis dos seus serviços encarregados da prevenção, investigação e repressão das infracções aduaneiras estejam em contanto pessoal e directo.
+Art. 10.º - 1 - As administrações aduaneiras das Partes Contratantes adoptarão as disposições necessárias para que os responsáveis dos seus serviços encarregados da prevenção, investigação e repressão das infracções aduaneiras estejam em contanto pessoal e directo.
 
 2 - A lista dos funcionários referidos no número anterior será remetida pela administração aduaneira de cada Parte Contratante às administrações aduaneiras das outras Partes Contratantes.
 
-###### Art. 11.º - 1 - Todas as informações e documentos facultados de acordo com as disposições da presente Convenção serão considerados confidenciais, só podendo ser utilizados com o fim de prevenir, investigar e reprimir as infracções aduaneiras.
+Art. 11.º - 1 - Todas as informações e documentos facultados de acordo com as disposições da presente Convenção serão considerados confidenciais, só podendo ser utilizados com o fim de prevenir, investigar e reprimir as infracções aduaneiras.
 
 2 - As informações e os documentos poderão ser utilizados tanto nos autos, informações e depoimentos como no curso dos processos e deprecadas perante as autoridades administrativas ou judiciais de uma Parte Contratante, salvo reserva expressa da administração aduaneira da outra Parte Contratante.
 
-###### Art. 12.º A Parte solicitada não é obrigada a conceder a assistência prevista pela presente Convenção se considerar que tal assistência é de natureza a prejudicar a sua soberania, a sua segurança ou outros interesses essenciais.
+Art. 12.º A Parte solicitada não é obrigada a conceder a assistência prevista pela presente Convenção se considerar que tal assistência é de natureza a prejudicar a sua soberania, a sua segurança ou outros interesses essenciais.
 
 ### CAPÍTULO VII — Cláusulas finais
 
-###### Art. 13.º A presente Convenção é aplicável no território de cada uma das Partes Contratantes tal como é definido na respectiva legislação.
+Art. 13.º A presente Convenção é aplicável no território de cada uma das Partes Contratantes tal como é definido na respectiva legislação.
 
-###### Art. 14.º Qualquer diferendo entre duas ou mais Partes Contratantes relativamente à interpretação ou à aplicação da presente Convenção será resolvido por meio de negociações directas entre as referidas Partes, podendo ser ouvidas as demais Partes Contratantes.
+Art. 14.º Qualquer diferendo entre duas ou mais Partes Contratantes relativamente à interpretação ou à aplicação da presente Convenção será resolvido por meio de negociações directas entre as referidas Partes, podendo ser ouvidas as demais Partes Contratantes.
 
-###### Art. 15.º Qualquer Estado de língua oficial portuguesa poderá tornar-se parte contratante da presente Convenção:
+Art. 15.º Qualquer Estado de língua oficial portuguesa poderá tornar-se parte contratante da presente Convenção:
 
 a) Assinando-a sem reserva de ratificação;
 
@@ -217,17 +232,17 @@ b) Depositando um instrumento de ratificação depois de a ter assinado sob rese
 
 c) A ela aderindo.
 
-###### Art. 16.º - 1 - A presente Convenção entrará em vigor um mês após três dos Estados a terem assinado sem reserva de ratificação ou terem depositado o seu instrumento de ratificação ou de adesão.
+Art. 16.º - 1 - A presente Convenção entrará em vigor um mês após três dos Estados a terem assinado sem reserva de ratificação ou terem depositado o seu instrumento de ratificação ou de adesão.
 
 2 - Relativamente a qualquer Estado que assine a presente Convenção sem reserva de ratificação, que a ratifique ou que a ela adira, após a mesma ter entrado em vigor, esta obrigará esse Estado decorrido um mês a contar da data da referida assinatura sem reserva de ratificação ou do depósito do instrumento de ratificação ou de adesão.
 
-###### Art. 17.º - 1 - A presente Convenção é de duração ilimitada. Todavia, qualquer Parte Contratante poderá denunciá-la em qualquer momento dois anos depois da entrada em vigor nesse Estado.
+Art. 17.º - 1 - A presente Convenção é de duração ilimitada. Todavia, qualquer Parte Contratante poderá denunciá-la em qualquer momento dois anos depois da entrada em vigor nesse Estado.
 
 2 - A denúncia será notificada por documento escrito ao Ministério dos Negócios Estrangeiros de Portugal.
 
 3 - A denúncia produzirá efeitos seis meses depois do recebimento da respectiva notificação pelo Ministério dos Negócios Estrangeiros de Portugal.
 
-###### Art. 18.º O Ministério dos Negócios Estrangeiros de Portugal notificará as Partes Contratantes da presente Convenção:
+Art. 18.º O Ministério dos Negócios Estrangeiros de Portugal notificará as Partes Contratantes da presente Convenção:
 
 a) Das assinaturas, ratificações e adesões a que alude o artigo 15.º da presente Convenção;
 

@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/124-1978-325962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:49:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e372f7d443e4c4d38b6bf235f1a99ece9a5c0736c2abc1e44b1739d64e00456
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf66bbefcf13e486f8a68778b83c93470fe45d945f21ca75f66d12136811507c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Domínio Público do Estado
+- Estrada
+- Ponte
+- Ponte Ferroviária sobre o Rio Douro
+- Rede de Estradas
+relationships:
+- type: cites
+  target: pt:dre:276619:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:49:00Z'
   warnings: []
   errors: []
 ---
@@ -92,12 +101,12 @@ Considerando os inconvenientes de tal preceituado:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. É suprimido o n.º 1 do artigo único do [Decreto n.º 178/77](https://diariodarepublica.pt/dr/detalhe/decreto/178-1977-276619), de 31 de Dezembro, mantendo-se a redacção do n.º 2 do mesmo decreto.
+Artigo único. É suprimido o n.º 1 do artigo único do [Decreto n.º 178/77](https://diariodarepublica.pt/dr/detalhe/decreto/178-1977-276619), de 31 de Dezembro, mantendo-se a redacção do n.º 2 do mesmo decreto.
 
 Alfredo Jorge Nobre da Costa - António Gonçalves Ribeiro - João Orlindo Almeida Pina.
 
-**Promulgado em 31 de Outubro de 1978.**
+Promulgado em 31 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

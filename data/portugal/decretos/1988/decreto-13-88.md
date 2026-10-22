@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-1988-371781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6257fcb8032f4cf6f7f69375a734e73da24fda8b99daedb6d2fdd5f6d7c110b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9109dbcdb7bc8228bf415b48e9d9c4ec747254f1274a12fcbd717f7a08e4e996
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Doação
+- Edifício Público
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:16Z'
   warnings: []
   errors: []
 ---
@@ -92,22 +94,22 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizado o Ministério das Finanças a aceitar, para o Estado, a doação do prédio onde viveu o Prof. Doutor João Carrington Simões da Costa, situado na Rua de Nery Delgado, 2, freguesia da Parede, Município de Cascais, com todo o respectivo recheio, com o fim de aí ser instalada a Casa-Museu e a Biblioteca Carrington da Costa.
+Artigo 1.º - 1 - É autorizado o Ministério das Finanças a aceitar, para o Estado, a doação do prédio onde viveu o Prof. Doutor João Carrington Simões da Costa, situado na Rua de Nery Delgado, 2, freguesia da Parede, Município de Cascais, com todo o respectivo recheio, com o fim de aí ser instalada a Casa-Museu e a Biblioteca Carrington da Costa.
 
 2 - A doação do prédio é feita com reserva de usufruto vitalício a favor da viúva do referido cientista.
 
-###### Art. 2.º O Estado fará contratar, de acordo com a legislação geral do trabalho, as duas pessoas que já asseguram a guarda e limpeza do imóvel.
+Art. 2.º O Estado fará contratar, de acordo com a legislação geral do trabalho, as duas pessoas que já asseguram a guarda e limpeza do imóvel.
 
 Presidência do Conselho de Ministros, 5 de Maio de 1988.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Assinado em 27 de Maio de 1988.**
+Assinado em 27 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Junho de 1988.**
+Referendado em 1 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

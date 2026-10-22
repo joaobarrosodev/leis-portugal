@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/00200/00070012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-1976-480771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8221fde4e5e65e12f0ebb86dfe32b0bb7d3670f357367edf0f278c95a664fb83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 937edac4c4b3e84104f9faf9bfeb2b14a7da5036cd40696c93c61febd15c01ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração dos Portos do Douro e Leixões
+- Porto de Leixões
+- Porto do Douro
+- Portos
+- Regulamento
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:252058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633370:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:252058:por
+  label: "Revogado pelo DR.28/77.03.05.1977.MCT, DR.IS [114] de 17.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/28-1977-252058
+  date: '1977-05-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:35Z'
   warnings: []
   errors: []
 ---
@@ -104,17 +132,17 @@ Tendo em conta o disposto no artigo 8.º, n.os 2.º e 13.º, do mesmo diploma;
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. São substituídos pelo articulado do presente diploma os artigos 6.º e 7.º do título I «Disposições gerais», os artigos 52.º a 60.º do capítulo I «Guindastes de cais», os artigos 61.º e 62.º do capítulo II «Guindastes automóveis» do título IV «Aparelhos elevatórios», os artigos 71.º-A e 72.º do capítulo I «Rebocadores e lanchas» do título V «Serviços marítimos», o artigo 89.º do título VI «Rampas e varadouros», os artigos 91.º a 93.º e 97.º, n.º 1, do capítulo I «Fornecimento de água», o artigo 101.º do capítulo V «Afixação de anúncios», o artigo 102.º do capítulo VI «Portagens de veículos e pessoas» do título VII «Fornecimentos, aluguéis, serviços e autorizações diversas», o artigo 107.º do capítulo II «Transportes de mercadorias em vagões», os artigos 110.º a 113.º do capítulo III «Tracção», o artigo 114.º do capítulo IV «Estacionamento de vagões» do título VIII «Uso de vias férreas», o artigo 115.º do título IX «Ocupação de terrenos e armazéns», o artigo 122.º-A do título X «Pranchas firmes, rampas, pontes, estacas, estaleiros e outras instalações ocupando o leito do rio ou ligadas às margens dos portos» e os artigos 123.º a 127.º do título XI «Transportes automóveis» do regulamento de tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, e alterado pelos Decretos n.os 35842, de 30 de Agosto de 1946, 48345, de 20 de Abril de 1968, [341/70](https://diariodarepublica.pt/dr/detalhe/decreto/341-1970-141592), de 17 de Julho, e [432/71](https://diariodarepublica.pt/dr/detalhe/decreto/432-1971-633370), de 14 de Outubro.
+Artigo único. São substituídos pelo articulado do presente diploma os artigos 6.º e 7.º do título I «Disposições gerais», os artigos 52.º a 60.º do capítulo I «Guindastes de cais», os artigos 61.º e 62.º do capítulo II «Guindastes automóveis» do título IV «Aparelhos elevatórios», os artigos 71.º-A e 72.º do capítulo I «Rebocadores e lanchas» do título V «Serviços marítimos», o artigo 89.º do título VI «Rampas e varadouros», os artigos 91.º a 93.º e 97.º, n.º 1, do capítulo I «Fornecimento de água», o artigo 101.º do capítulo V «Afixação de anúncios», o artigo 102.º do capítulo VI «Portagens de veículos e pessoas» do título VII «Fornecimentos, aluguéis, serviços e autorizações diversas», o artigo 107.º do capítulo II «Transportes de mercadorias em vagões», os artigos 110.º a 113.º do capítulo III «Tracção», o artigo 114.º do capítulo IV «Estacionamento de vagões» do título VIII «Uso de vias férreas», o artigo 115.º do título IX «Ocupação de terrenos e armazéns», o artigo 122.º-A do título X «Pranchas firmes, rampas, pontes, estacas, estaleiros e outras instalações ocupando o leito do rio ou ligadas às margens dos portos» e os artigos 123.º a 127.º do título XI «Transportes automóveis» do regulamento de tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, e alterado pelos Decretos n.os 35842, de 30 de Agosto de 1946, 48345, de 20 de Abril de 1968, [341/70](https://diariodarepublica.pt/dr/detalhe/decreto/341-1970-141592), de 17 de Julho, e [432/71](https://diariodarepublica.pt/dr/detalhe/decreto/432-1971-633370), de 14 de Outubro.
 
 ## TÍTULO I — Disposições gerais
 
 ...
 
-###### Art. 6.º O serviço prestado fora das horas normais de trabalho dos dias úteis é considerado de exclusiva conveniência do interessado, que o deve requisitar previamente.
+Art. 6.º O serviço prestado fora das horas normais de trabalho dos dias úteis é considerado de exclusiva conveniência do interessado, que o deve requisitar previamente.
 
 § único. Em caso de congestionamento dos portos do Douro e Leixões, a Administração poderá obrigar a execução de serviços fora do horário normal.
 
-###### Art. 7.º Todo o utente que necessite de material e pessoal para serviço extraordinário terá de fazer previamente a sua requisição por escrito, indicando expressamente nesse documento o tempo que precisa para esse serviço.
+Art. 7.º Todo o utente que necessite de material e pessoal para serviço extraordinário terá de fazer previamente a sua requisição por escrito, indicando expressamente nesse documento o tempo que precisa para esse serviço.
 
 O material será debitado pelas tarifas em vigor por todo o tempo requisitado, quer seja utilizado ou não pelo utente, assim como todo o pessoal a ele afecto.
 
@@ -124,13 +152,13 @@ O material será debitado pelas tarifas em vigor por todo o tempo requisitado, q
 
 ### CAPÍTULO I — Guindastes de cais
 
-###### Art. 52.º O uso de guindastes de cais da Administração, nos portos do Douro e Leixões, é obrigatório em todos os cais onde se efectuem serviços de carga e descarga de mercadorias, desde que haja apetrechamento disponível que possa ser empregado com eficiência.
+Art. 52.º O uso de guindastes de cais da Administração, nos portos do Douro e Leixões, é obrigatório em todos os cais onde se efectuem serviços de carga e descarga de mercadorias, desde que haja apetrechamento disponível que possa ser empregado com eficiência.
 
-###### Art. 53.º A guindagem de mercadorias com os aparelhos da Administração de capacidade de carga até 5 t será tarifada a 8$00 por tonelada, quando o rendimento horário for igual ou superior a 15 t, e a 120$00 por hora, quando for inferior.
+Art. 53.º A guindagem de mercadorias com os aparelhos da Administração de capacidade de carga até 5 t será tarifada a 8$00 por tonelada, quando o rendimento horário for igual ou superior a 15 t, e a 120$00 por hora, quando for inferior.
 
 § único. O mínimo cobrável de guindagem com os aparelhos referidos neste artigo é de uma hora.
 
-###### Art. 54.º Pela guindagem de mercadorias de peso superior a 5 t com aparelhos convencionais serão cobradas as seguintes taxas:
+Art. 54.º Pela guindagem de mercadorias de peso superior a 5 t com aparelhos convencionais serão cobradas as seguintes taxas:
 
 a) Guindastes de capacidade de carga de 5 t a 15 t ... 400$00/hora
 
@@ -138,27 +166,27 @@ b) Guindastes de capacidade de carga superior a 15 t ... 800$00/hora
 
 § único. O mínimo cobrável de guindagem com os aparelhos referidos neste artigo é de uma hora, admitindo-se fracções de meia hora.
 
-###### Art. 55.º No cálculo do rendimento horário de guindagem a que se refere o artigo 53.º, contar-se-á como tempo de aluguer dos guindastes o período que decorrer desde o momento em que os aparelhos forem postos à disposição do cliente no local de prestação do serviço até ao momento em que o mesmo cliente os dispensar, no final do serviço, exceptuando apenas as horas de paralisação resultantess do disposto no artigo 7.º ou por caso de força maior.
+Art. 55.º No cálculo do rendimento horário de guindagem a que se refere o artigo 53.º, contar-se-á como tempo de aluguer dos guindastes o período que decorrer desde o momento em que os aparelhos forem postos à disposição do cliente no local de prestação do serviço até ao momento em que o mesmo cliente os dispensar, no final do serviço, exceptuando apenas as horas de paralisação resultantess do disposto no artigo 7.º ou por caso de força maior.
 
-###### Art. 56.º Quando um guindaste de capacidade de carga até 5 t requisitado e pronto a prestar serviço seja dispensado sem ter sido utilizado pelo requisitante, será cobrada a taxa de guindaste à ordem de 80$00 por hora.
+Art. 56.º Quando um guindaste de capacidade de carga até 5 t requisitado e pronto a prestar serviço seja dispensado sem ter sido utilizado pelo requisitante, será cobrada a taxa de guindaste à ordem de 80$00 por hora.
 
 § único. Para efeito de aplicação da taxa de guindaste à ordem referida neste artigo, o tempo conta-se desde a hora a que o aparelho foi posto à disposição do cliente até ao momento em que foi dispensado, salvaguardando o disposto no artigo 7.º
 
-###### Art. 57.º Quando um guindaste de capacidade de carga superior a 5 t seja requisitado e pronto a prestar serviço e não seja utilizado no início do período para que estava requisitado, mas só posteriormente, será cobrada a taxa de guindastes à ordem, que será igual a metade dos valores indicados no artigo 54.º
+Art. 57.º Quando um guindaste de capacidade de carga superior a 5 t seja requisitado e pronto a prestar serviço e não seja utilizado no início do período para que estava requisitado, mas só posteriormente, será cobrada a taxa de guindastes à ordem, que será igual a metade dos valores indicados no artigo 54.º
 
 § único. Para efeito de aplicação das taxas de guindaste à ordem referidas neste artigo, o tempo conta-se desde a hora a que o aparelho foi posto à disposição do cliente até ao momento em que o serviço for iniciado ou o aparelho for dispensado, salvaguardando o disposto no artigo 7.º
 
-###### Art. 58.º Se um guindaste, qualquer que seja a sua capacidade, posto à disposição do requisitante for dispensado do serviço para que foi requisitado sem ser utilizado, será cobrado, dentro do horário normal em dias úteis, o mínimo de uma hora de guindaste à ordem.
+Art. 58.º Se um guindaste, qualquer que seja a sua capacidade, posto à disposição do requisitante for dispensado do serviço para que foi requisitado sem ser utilizado, será cobrado, dentro do horário normal em dias úteis, o mínimo de uma hora de guindaste à ordem.
 
-###### Art. 59.º Não é permitido utilizar nos serviços de guindagem ferramentas, aparelhos ou utensílios que não sejam propriedade da Administração, salvo se a mesma os não possuir e autorize a sua utilização.
+Art. 59.º Não é permitido utilizar nos serviços de guindagem ferramentas, aparelhos ou utensílios que não sejam propriedade da Administração, salvo se a mesma os não possuir e autorize a sua utilização.
 
-###### Art. 60.º Pela utilização de cestas de maxilas na guindagem de mercadorias é cobrada a taxa de 1$50 por tonelada de mercadoria movimentada.
+Art. 60.º Pela utilização de cestas de maxilas na guindagem de mercadorias é cobrada a taxa de 1$50 por tonelada de mercadoria movimentada.
 
 ### CAPÍTULO II — Guindastes automóveis
 
-###### Art. 61.º Ao serviço de guindagem realizado por guindastes automóveis da Administração aplicam-se as disposições e taxas estabelecidas para os guindastes de cais.
+Art. 61.º Ao serviço de guindagem realizado por guindastes automóveis da Administração aplicam-se as disposições e taxas estabelecidas para os guindastes de cais.
 
-###### Art. 62.º Quando os serviços de guindastes automóveis forem prestados fora das zonas dos portos, serão cobradas as seguintes taxas, por hora indivisível, contando-se o tempo desde a saída até à entrada dos aparelhos na recolha ou serviços:
+Art. 62.º Quando os serviços de guindastes automóveis forem prestados fora das zonas dos portos, serão cobradas as seguintes taxas, por hora indivisível, contando-se o tempo desde a saída até à entrada dos aparelhos na recolha ou serviços:
 
 a) Guindastes automóveis de capacidade de carga até 5 t ... 300$00/hora
 
@@ -168,7 +196,7 @@ b) Guindastes automóveis de capacidade de carga de mais de 5 t até 15 t ... 50
 
 ### CAPÍTULO I — Rebocadores e lanchas
 
-###### Art. 71.º-A ...
+Art. 71.º-A ...
 
 1) ...
 
@@ -178,7 +206,7 @@ b) Guindastes automóveis de capacidade de carga de mais de 5 t até 15 t ... 50
 
 ...
 
-###### Art. 72.º Pelo aluguer das embarcações adiante especificadas e por cada período de vinte e quatro horas, indivisível, dentro do porto de Leixões ou no rio Douro, serão cobradas as seguintes taxas:
+Art. 72.º Pelo aluguer das embarcações adiante especificadas e por cada período de vinte e quatro horas, indivisível, dentro do porto de Leixões ou no rio Douro, serão cobradas as seguintes taxas:
 
 Barco caíque para sondagens sem pessoal ... 100$00
 
@@ -194,7 +222,7 @@ Batelão de dragados com dois marinheiros ... 1500$00
 
 ## TÍTULO VI — Rampas e varadouros
 
-###### Art. 89.º Todas as embarcações que encalhem e estacionem ao longo das margens acima da linha da baixa-mar de águas vivas pagam a taxa de ocupação de terreno de $20 por metro quadrado e por dia.
+Art. 89.º Todas as embarcações que encalhem e estacionem ao longo das margens acima da linha da baixa-mar de águas vivas pagam a taxa de ocupação de terreno de $20 por metro quadrado e por dia.
 
 § 1.º Esta taxa é aplicável ao depósito de materiais nas rampas e varadouros.
 
@@ -224,19 +252,19 @@ sendo de 5 m3 o mínimo facturável nos fornecimentos por barca-cisterna.
 
 ...
 
-###### Art. 97.º - 1. A água doce fornecida a instalações terrestres será facturada ao preço a que for fornecida pelos Serviços Municipalizados de Matosinhos acrescido de 20% para despesas da APDL.
+Art. 97.º - 1. A água doce fornecida a instalações terrestres será facturada ao preço a que for fornecida pelos Serviços Municipalizados de Matosinhos acrescido de 20% para despesas da APDL.
 
 2. Pelo fornecimento de água salgada será facturada a taxa de 30$00 por hora de bombagem.
 
 ### CAPÍTULO V — Afixação de anúncios
 
-###### Art. 101.º A colocação de anúncios-reclamos nos recintos vedados, nos cais ou nos locais que confinem com a via pública, depois de devidamente autorizada, está sujeita à taxa de 360$00 por metro quadrado e por ano.
+Art. 101.º A colocação de anúncios-reclamos nos recintos vedados, nos cais ou nos locais que confinem com a via pública, depois de devidamente autorizada, está sujeita à taxa de 360$00 por metro quadrado e por ano.
 
 § único. A colocação e remoção dos anúncios são de conta dos anunciantes.
 
 ### CAPÍTULO VI — Portagem de veículos e pessoas
 
-###### Art. 102.º Por cada pessoa ou veículo que a Administração autorize a dar ingresso nos seus recintos reservados será cobrada, por dia, a seguinte taxa de portagem:
+Art. 102.º Por cada pessoa ou veículo que a Administração autorize a dar ingresso nos seus recintos reservados será cobrada, por dia, a seguinte taxa de portagem:
 
 a) Nos cais comerciais de Leixões e Douro:
 
@@ -292,7 +320,7 @@ Motociclos e velocípedes motorizados ... 250$00
 
 ### CAPÍTULO II — Transporte de mercadorias em vagões
 
-###### Art. 107.º Todo o vagão estranho à Administração que utilize as respectivas linhas privativas no transporte de mercadorias ou de bagagens está sujeito à taxa de trânsito de 5$00 por cada transporte efectuado.
+Art. 107.º Todo o vagão estranho à Administração que utilize as respectivas linhas privativas no transporte de mercadorias ou de bagagens está sujeito à taxa de trânsito de 5$00 por cada transporte efectuado.
 
 § único. A taxa de trânsito referida no corpo deste artigo não inclui a tracção.
 
@@ -300,23 +328,23 @@ Motociclos e velocípedes motorizados ... 250$00
 
 ...
 
-###### Art. 110.º A taxa de tracção é de 6$00 por tonelada de mercadoria transportada.
+Art. 110.º A taxa de tracção é de 6$00 por tonelada de mercadoria transportada.
 
-###### Art. 111.º Quando um serviço de tracção tenha sido requisitado e a máquina esteja pronta a prestar serviço, mas não seja utilizada por motivos estranhos à Administração, será aplicada uma taxa de máquina à ordem de 200$00 por hora.
+Art. 111.º Quando um serviço de tracção tenha sido requisitado e a máquina esteja pronta a prestar serviço, mas não seja utilizada por motivos estranhos à Administração, será aplicada uma taxa de máquina à ordem de 200$00 por hora.
 
-###### Art. 112.º Para efeito da aplicação da taxa de máquina à ordem, o tempo conta-se desde a hora a que a máquina foi posta à disposição do requisitante até à hora em que o serviço for iniciado ou a máquina for dispensada, salvaguardando o disposto no artigo 7.º
+Art. 112.º Para efeito da aplicação da taxa de máquina à ordem, o tempo conta-se desde a hora a que a máquina foi posta à disposição do requisitante até à hora em que o serviço for iniciado ou a máquina for dispensada, salvaguardando o disposto no artigo 7.º
 
 § único. Se uma máquina reservada a um serviço for utilizada pela Administração noutros serviços, o tempo de utilização será descontado ao primeiro requisitante.
 
-###### Art. 113.º Se a máquina posta à disposição do requisitante for dispensada do serviço para que foi requisitada sem ser utilizada será cobrado, dentro do horário normal em dias úteis, o mínimo de uma hora de máquina à ordem.
+Art. 113.º Se a máquina posta à disposição do requisitante for dispensada do serviço para que foi requisitada sem ser utilizada será cobrado, dentro do horário normal em dias úteis, o mínimo de uma hora de máquina à ordem.
 
 ### CAPÍTULO IV — Estacionamento de vagões
 
-###### Art. 114.º O estacionamento, por mais de vinte e quatro horas, de vagões carregados ou descarregados nas linhas da Administração, efectuando operações ou não por conta de um cliente, que não seja por interesse da mesma Administração, pagará uma taxa de estacionamento de 5$00 por vagão e por dia.
+Art. 114.º O estacionamento, por mais de vinte e quatro horas, de vagões carregados ou descarregados nas linhas da Administração, efectuando operações ou não por conta de um cliente, que não seja por interesse da mesma Administração, pagará uma taxa de estacionamento de 5$00 por vagão e por dia.
 
 ## TÍTULO IX — Ocupação de terrenos e armazéns
 
-###### Art. 115.º ...
+Art. 115.º ...
 
 ...
 
@@ -334,7 +362,7 @@ Pranchas firmes, rampas, pontes, estacas, estaleiros e outras instalações ocup
 
 ...
 
-###### Art. 122.º-A. Pela utilização do plano de querenagem da Administração serão cobradas as seguintes taxas de encalhe e de estadia:
+Art. 122.º-A. Pela utilização do plano de querenagem da Administração serão cobradas as seguintes taxas de encalhe e de estadia:
 
 1. Traineiras até 60 t de arqueação bruta:
 
@@ -418,7 +446,7 @@ A partir do 61.º dia ... 400$00/dia
 
 ## TÍTULO XI — Transportes automóveis
 
-###### Art. 123.º Pela utilização de aparelhos de transporte automóvel na movimentação de mercadorias dentro das zonas dos portos serão cobradas as seguintes taxas:
+Art. 123.º Pela utilização de aparelhos de transporte automóvel na movimentação de mercadorias dentro das zonas dos portos serão cobradas as seguintes taxas:
 
 a) Empilhadores de capacidade de carga até 6 t - 10$00 por tonelada, quando o rendimento horário for igual ou superior a 15 t por hora, e 150$00 por hora, quando for inferior;
 
@@ -434,9 +462,9 @@ e) Camiões e camionetas - 150$00 por hora.
 
 § 2.º Os atrelados que no fim do transporte diário forem deixados carregados pagarão 50$00 por dia.
 
-###### Art. 124.º No cálculo dos rendimentos horários referidos no artigo 123.º, contar-se-á como tempo de aluguer dos aparelhos o período que decorrer desde o momento em que forem postos à disposição do cliente, no local de prestação do serviço, até ao momento em que o mesmo cliente os dispensar, no final do serviço, exceptuando apenas as horas de paralisação resultantes do disposto no artigo 7.º ou por caso de força maior.
+Art. 124.º No cálculo dos rendimentos horários referidos no artigo 123.º, contar-se-á como tempo de aluguer dos aparelhos o período que decorrer desde o momento em que forem postos à disposição do cliente, no local de prestação do serviço, até ao momento em que o mesmo cliente os dispensar, no final do serviço, exceptuando apenas as horas de paralisação resultantes do disposto no artigo 7.º ou por caso de força maior.
 
-###### Art. 125.º Quando os serviços dos aparelhos de transporte automóvel forem prestados fora dos portos, serão cobradas as seguintes tarifas, por hora indivisível, contando-se o tempo desde a saída até à entrada na recolha ou nos serviços:
+Art. 125.º Quando os serviços dos aparelhos de transporte automóvel forem prestados fora dos portos, serão cobradas as seguintes tarifas, por hora indivisível, contando-se o tempo desde a saída até à entrada na recolha ou nos serviços:
 
 a) Empilhadores de capacidade de carga até 6 t ... 200$00/hora
 
@@ -450,16 +478,16 @@ e) Tractores ... 120$00/hora
 
 f) Atrelados ... 60$00/dia
 
-###### Art. 126.º Quando um aparelho de transporte automóvel for requisitado e pronto a prestar serviço, mas seja dispensado sem ter sido utilizado pelo requisitante, será cobrada a taxa de aparelho à ordem, que será igual a metade dos valores indicados no artigo 123.º
+Art. 126.º Quando um aparelho de transporte automóvel for requisitado e pronto a prestar serviço, mas seja dispensado sem ter sido utilizado pelo requisitante, será cobrada a taxa de aparelho à ordem, que será igual a metade dos valores indicados no artigo 123.º
 
 § único. Para efeito de aplicação da taxa de aparelho à ordem, o tempo conta-se desde a hora a que o aparelho foi posto à disposição do cliente até ao momento em que for dispensado, salvaguardando o disposto no artigo 7.º
 
-###### Art. 127.º Se um aparelho de transporte automóvel, posto à disposição do requisitante, for dispensado do serviço para que foi requisitado sem ser utilizado, será cobrado, dentro do horário normal em dias úteis, o mínimo de uma hora de aparelho à ordem.
+Art. 127.º Se um aparelho de transporte automóvel, posto à disposição do requisitante, for dispensado do serviço para que foi requisitado sem ser utilizado, será cobrado, dentro do horário normal em dias úteis, o mínimo de uma hora de aparelho à ordem.
 
 José Baptista Pinheiro de Azevedo - Joaquim Jorge Magalhães Mota - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 19 de Dezembro de 1975.**
+Promulgado em 19 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

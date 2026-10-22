@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/253-1973-422218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d93ee83c6891977cfa08a889f26e1d2012283d2c50b63a7e41e77a0c7da0a4fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c24f7c1641e8cb37743b9c1619853bc831274abee36c93a2c389d5afecb06887
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:445772:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:39Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +97,20 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º O artigo 30.º do [Decreto n.º 109/71](https://diariodarepublica.pt/dr/detalhe/decreto/109-1971-445772), de 29 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 30.º do [Decreto n.º 109/71](https://diariodarepublica.pt/dr/detalhe/decreto/109-1971-445772), de 29 de Março, passa a ter a seguinte redacção:
 
-###### Art. 30.º O subdirector dos Portos é designado pelo Ministro do Ultramar por escolha entre os engenheiros-chefes e os engenheiros de 1.ª classe do quadro comum dos Serviços de Portos, Caminhos de Ferro e Transportes ou entre diplomados em Engenharia Civil com reconhecida competência em assuntos portuários.
+Art. 30.º O subdirector dos Portos é designado pelo Ministro do Ultramar por escolha entre os engenheiros-chefes e os engenheiros de 1.ª classe do quadro comum dos Serviços de Portos, Caminhos de Ferro e Transportes ou entre diplomados em Engenharia Civil com reconhecida competência em assuntos portuários.
 
-###### Art. 2.º O lugar de subdirector dos Portos da Junta Autónoma dos Portos de Cabo Verde passa a ter a categoria da letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 2.º O lugar de subdirector dos Portos da Junta Autónoma dos Portos de Cabo Verde passa a ter a categoria da letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 3.º Ao director da Junta Autónoma dos Portos de Cabo Verde é atribuída, cumulativamente, a gratificação mensal de 2500$00.
+Art. 3.º Ao director da Junta Autónoma dos Portos de Cabo Verde é atribuída, cumulativamente, a gratificação mensal de 2500$00.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Maio de 1973.**
+Promulgado em 4 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/276-1973-422255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7670c3611acbe19a1f644506b12744083b890eb9ffde09de943395ce8a20f96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dc471e2153f32cc6f4a666f0d07026e81227ecc9d1b3ed78ec767a1aa205b52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Horário de Trabalho
+- Radio Marconi
+- Regime Laboral
 relationships:
 - type: amended_by
   target: pt:dre:474171:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:632735:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:474171:por
+  label: "Revogado o artigo 6.º pelo DR.16/80.22.05.1980.MT, DR.IS [118] de 22.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/16-1980-474171
+  date: '1980-05-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:51Z'
   warnings: []
   errors: []
 ---
@@ -97,36 +109,36 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O regime definido no [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, é aplicado ao trabalho prestado à Companhia Portuguesa Rádio Marconi, S. A. R. L., com as adaptações constantes do presente diploma.
+Artigo 1.º O regime definido no [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, é aplicado ao trabalho prestado à Companhia Portuguesa Rádio Marconi, S. A. R. L., com as adaptações constantes do presente diploma.
 
-###### Art. 2.º - 1. Os trabalhadores são obrigados a prestar fora do período normal de trabalho e em dias de descanso semanal o trabalho que for imposto pelas necessidades do serviço público de que a Companhia é concessionária, a menos que sejam dispensados por motivos atendíveis.
+Art. 2.º - 1. Os trabalhadores são obrigados a prestar fora do período normal de trabalho e em dias de descanso semanal o trabalho que for imposto pelas necessidades do serviço público de que a Companhia é concessionária, a menos que sejam dispensados por motivos atendíveis.
 
 2. A empresa é obrigada a comunicar semestralmente ao Instituto Nacional do Trabalho e Previdência o número de horas de trabalho extraordinário prestado pelos seus trabalhadores que ultrapassem os limites fixados no n.º 1 do artigo 19.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), bem assim como o número de horas de trabalho prestado em dias de descanso semanal.
 
-###### Art. 3.º O trabalho extraordinário e o trabalho prestado em dias de descanso semanal, feriados obrigatórios e descansos semanais complementares concedidos pela empresa são remunerados nos termos da lei geral.
+Art. 3.º O trabalho extraordinário e o trabalho prestado em dias de descanso semanal, feriados obrigatórios e descansos semanais complementares concedidos pela empresa são remunerados nos termos da lei geral.
 
-###### Art. 4.º - 1. Os menores de 18 anos podem prestar trabalho extraordinário quando executem o serviço de distribuição e recolha de telegramas.
+Art. 4.º - 1. Os menores de 18 anos podem prestar trabalho extraordinário quando executem o serviço de distribuição e recolha de telegramas.
 
 2. A empresa é obrigada a comunicar semestralmente ao Instituto Nacional do Trabalho e Previdência o número de horas de trabalho extraordinário prestado por menores de 18 anos.
 
-###### Art. 5.º A empresa é autorizada a laborar continuamente.
+Art. 5.º A empresa é autorizada a laborar continuamente.
 
-###### Art. 6.º O disposto no artigo 14.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735) não se aplica aos trabalhadores que exerçam na empresa cargos de direcção e chefia.
+Art. 6.º O disposto no artigo 14.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735) não se aplica aos trabalhadores que exerçam na empresa cargos de direcção e chefia.
 
-###### Art. 7.º 1. A retribuição do trabalho nocturno será superior em 50% à retribuição a que dá direito o trabalho equivalente prestado durante o dia, sendo este aumento cumulável com o acréscimo da retribuição devida pelo trabalho extraordinário ou pelo trabalho prestado em dias de descanso semanal, feriados obrigatórios ou descansos complementares concedidos pela empresa.
+Art. 7.º 1. A retribuição do trabalho nocturno será superior em 50% à retribuição a que dá direito o trabalho equivalente prestado durante o dia, sendo este aumento cumulável com o acréscimo da retribuição devida pelo trabalho extraordinário ou pelo trabalho prestado em dias de descanso semanal, feriados obrigatórios ou descansos complementares concedidos pela empresa.
 
 2. Considera-se nocturno o trabalho prestado no período que decorre entre as O horas e as 8 horas (entre as 24 horas de um dia e as 8 horas do dia seguinte).
 
-###### Art. 8.º Poderão também prestar trabalho nocturno as mulheres quando executem o serviço de operadores de telefone, telex e P. B. X., de teletipistas ou de aceitação de telegramas do público.
+Art. 8.º Poderão também prestar trabalho nocturno as mulheres quando executem o serviço de operadores de telefone, telex e P. B. X., de teletipistas ou de aceitação de telegramas do público.
 
-###### Art. 9.º - 1. Em tudo o que não for contrário às disposições do presente diploma mantém-se em vigor para a empresa o Regulamento Especial do Horário de Trabalho para as Empresas de Telecomunicações, publicado no Diário do Governo, 2.ª série, n.º 259, de 6 de Novembro de 1947.
+Art. 9.º - 1. Em tudo o que não for contrário às disposições do presente diploma mantém-se em vigor para a empresa o Regulamento Especial do Horário de Trabalho para as Empresas de Telecomunicações, publicado no Diário do Governo, 2.ª série, n.º 259, de 6 de Novembro de 1947.
 
 2. O Regulamento Especial do Horário de Trabalho para as Empresas de Telecomunicações poderá ser substituído por normas constantes de instrumentos de regulamentação colectiva do trabalho.
 
 Marcello Caetano - João Maria Leitão de Oliveira Martins - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 19 de Maio de 1973.**
+Promulgado em 19 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

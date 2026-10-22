@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/122-1974-412204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c21dd872438af1e24f587128732258215251b06c6534e5c574b78a39dcd971c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1059bdbf55c51845eb6e0f72056ae9cf4c105bab508f08d43d9ec2afc634787
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: corrected_by
+  target: pt:dre:411826:por
+  label: Rectificada a alínea d) do artigo 6.º e alínea a) do n.º 4 do artigo 8.º pela DECL.DD9529.11.04.1974.PC, DG.IS [86]
+    de 11.04.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-411826
+  date: '1974-04-11'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:50Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +94,19 @@ Tornando-se necessário regular a estrutura orgânica e o funcionamento do Insti
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado e posto em execução o Regulamento do Instituto de Técnicas de Pesca, que faz parte integrante deste decreto.
+Artigo único. É aprovado e posto em execução o Regulamento do Instituto de Técnicas de Pesca, que faz parte integrante deste decreto.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 14 de Março de 1974.**
+Promulgado em 14 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DO INSTITUTO DE TÉCNICAS DE PESCA
 
-###### Artigo 1.º - 1. O Instituto de Técnicas de Pesca (ITP) é um organismo do Ministério da Marinha tendo por finalidade a investigação no domínio das técnicas aplicadas à indústria da pesca, tanto no campo da captura como no do transporte e tratamento do pescado, competindo-lhe essencialmente:
+Artigo 1.º - 1. O Instituto de Técnicas de Pesca (ITP) é um organismo do Ministério da Marinha tendo por finalidade a investigação no domínio das técnicas aplicadas à indústria da pesca, tanto no campo da captura como no do transporte e tratamento do pescado, competindo-lhe essencialmente:
 
 a) Estudar as técnicas respeitantes à captura, transporte e aproveitamento das espécies de animais e plantas marinhos que tenham interesse económico, com vista à sua exploração racional;
 
@@ -126,13 +132,13 @@ j) Facultar, na medida das suas possibilidades, os meios de que dispõe a cienti
 
 3. O pessoal do Instituto, para os fins referidos no n.º 1, pode embarcar em embarcações de estudo ou de pesca, nacionais ou estrangeiras.
 
-###### Art. 2.º O Instituto de Técnicas de Pesca é dirigido por um cientista, com superior competência em técnicas aplicadas à indústria da pesca, escolhido pelo Ministro da Marinha entre os oficiais da Armada, do activo ou da reserva, ou entre os investigadores do quadro do pessoal civil do Ministério da Marinha.
+Art. 2.º O Instituto de Técnicas de Pesca é dirigido por um cientista, com superior competência em técnicas aplicadas à indústria da pesca, escolhido pelo Ministro da Marinha entre os oficiais da Armada, do activo ou da reserva, ou entre os investigadores do quadro do pessoal civil do Ministério da Marinha.
 
-###### Art. 3.º - 1. O director do Instituto de Técnicas de Pesca é coadjuvado por um subdirector, diplomado com um curso superior de formação científica, do quadro do pessoal civil do Ministério da Marinha, que o substituirá nos seus impedimentos.
+Art. 3.º - 1. O director do Instituto de Técnicas de Pesca é coadjuvado por um subdirector, diplomado com um curso superior de formação científica, do quadro do pessoal civil do Ministério da Marinha, que o substituirá nos seus impedimentos.
 
 2. O subdirector é nomeado pelo Ministro da Marinha, mediante proposta do director.
 
-###### Art. 4.º Ao director compete, de uma maneira geral, dirigir e fiscalizar toda a actividade do Instituto e, em especial:
+Art. 4.º Ao director compete, de uma maneira geral, dirigir e fiscalizar toda a actividade do Instituto e, em especial:
 
 a) Propor os planos anuais e ocasionais de estudos e trabalhos;
 
@@ -146,7 +152,7 @@ e) Nomear o pessoal dos serviços e demais órgãos do Instituto;
 
 f) Informar, louvar e punir o pessoal do Instituto, nos termos da legislação em vigor.
 
-###### Art. 5.º O subdirector coadjuva o director na direcção do Instituto, substitui-o nas suas faltas e impedimentos e compete-lhe especialmente:
+Art. 5.º O subdirector coadjuva o director na direcção do Instituto, substitui-o nas suas faltas e impedimentos e compete-lhe especialmente:
 
 a) Exercer, por delegação do director, as funções que por este lhe forem atribuídas;
 
@@ -154,7 +160,7 @@ b) Chefiar o serviço do pessoal;
 
 c) Orientar superiormente o serviço da Secretaria Central.
 
-###### Art. 6.º O Instituto de Técnicas de Pesca compreende:
+Art. 6.º O Instituto de Técnicas de Pesca compreende:
 
 a) Secretaria Central;
 
@@ -176,13 +182,13 @@ i) Serviço de Abastecimento;
 
 j) Serviços gerais.
 
-###### Art. 7.º - 1. A Secretaria Central destina-se a realizar os trabalhos de expediente e de arquivo necessários ao funcionamento do Instituto de Técnicas de Pesca e serve todos os órgãos que não disponham de secretaria própria.
+Art. 7.º - 1. A Secretaria Central destina-se a realizar os trabalhos de expediente e de arquivo necessários ao funcionamento do Instituto de Técnicas de Pesca e serve todos os órgãos que não disponham de secretaria própria.
 
 2. Compete à Secretaria Central a publicação da ordem de serviço do Instituto nos moldes da ordem de serviço dos organismos da Armada.
 
 3. A Secretaria Central é chefiada por um oficial do quadro do pessoal civil do Ministério da Marinha, que fica directamente subordinado ao subdirector.
 
-###### Art. 8.º - 1. A administração das dotações orçamentais e das receitas próprias do Instituto de Técnicas de Pesca será exercida por um conselho administrativo.
+Art. 8.º - 1. A administração das dotações orçamentais e das receitas próprias do Instituto de Técnicas de Pesca será exercida por um conselho administrativo.
 
 2. Aos membros do conselho administrativo, quando acumularem essas funções com outras exercidas no Ministério da Marinha, poderão ser atribuídas gratificações fixadas pelo Ministro da Marinha, com o acordo do Ministro das Finanças.
 
@@ -202,7 +208,7 @@ b) Submeter à apreciação do Tribunal de Contas as respectivas contas anuais.
 
 5. O conselho administrativo dispõe de secretaria própria.
 
-###### Art. 9.º - 1. O conselho científico é um órgão de consulta do director, que o ouvirá sempre que o considere conveniente.
+Art. 9.º - 1. O conselho científico é um órgão de consulta do director, que o ouvirá sempre que o considere conveniente.
 
 2. O conselho científico tem a seguinte constituição:
 
@@ -230,7 +236,7 @@ c) Planos de preparação do pessoal;
 
 d) Publicação dos trabalhos realizados pelo Instituto.
 
-###### Art. 10.º - 1. Ao Serviço de Técnicas de Pesca compete, no âmbito do Instituto, a investigação e ensaio no domínio da detecção e captura dos recursos animais do mar que interessam directa ou indirectamente à alimentação humana.
+Art. 10.º - 1. Ao Serviço de Técnicas de Pesca compete, no âmbito do Instituto, a investigação e ensaio no domínio da detecção e captura dos recursos animais do mar que interessam directa ou indirectamente à alimentação humana.
 
 2. O Serviço de Técnicas de Pesca compreende as seguintes secções:
 
@@ -240,7 +246,7 @@ b) Prospecção de pesqueiros e tácticas de pesca.
 
 3. O Serviço de Técnicas de Pesca é chefiado por um investigador.
 
-###### Art. 11.º - 1. Ao Serviço de Técnicas de Conservação e Transporte do Pescado compete, no âmbito do Instituto, os estudos relativos ao tratamento do pescado posteriormente à sua captura.
+Art. 11.º - 1. Ao Serviço de Técnicas de Conservação e Transporte do Pescado compete, no âmbito do Instituto, os estudos relativos ao tratamento do pescado posteriormente à sua captura.
 
 2. O Serviço de Técnicas de Conservação e Transporte do Pescado compreende as seguintes secções:
 
@@ -250,7 +256,7 @@ b) Técnicas de aproveitamento do pescado.
 
 3. O Serviço de Técnicas de Conservação e Transporte do Pescado é chefiado por um investigador.
 
-###### Art. 12.º - 1. Ao Serviço de Documentação compete a recolha, recepção, emissão, arquivo e execução de documentação bibliográfica, gráfica, fotográfica e outra, no âmbito do Serviço, necessária à actividade do Instituto.
+Art. 12.º - 1. Ao Serviço de Documentação compete a recolha, recepção, emissão, arquivo e execução de documentação bibliográfica, gráfica, fotográfica e outra, no âmbito do Serviço, necessária à actividade do Instituto.
 
 2. O Serviço de Documentação compreende as seguintes secções:
 
@@ -264,37 +270,37 @@ d) Desenho, Fotografia e Reprodução.
 
 3. O Serviço de Documentação é chefiado por um investigador.
 
-###### Art. 13.º - 1. O Laboratório destina-se a apoiar o trabalho dos serviços e demais órgãos do Instituto, devendo para o efeito estar apetrechado para responder às necessidades correntes dos trabalhos e estudos levados a efeito nas várias secções.
+Art. 13.º - 1. O Laboratório destina-se a apoiar o trabalho dos serviços e demais órgãos do Instituto, devendo para o efeito estar apetrechado para responder às necessidades correntes dos trabalhos e estudos levados a efeito nas várias secções.
 
 2. O Laboratório é chefiado por um investigador.
 
-###### Art. 14.º - 1. Competem ao Serviço de Pessoal os assuntos relativos ao pessoal em funções no Instituto, com excepção dos relacionados com contratos e assalariamento do pessoal civil não pertencente ao quadro, bem como as respectivas rescisões ou denúncias.
+Art. 14.º - 1. Competem ao Serviço de Pessoal os assuntos relativos ao pessoal em funções no Instituto, com excepção dos relacionados com contratos e assalariamento do pessoal civil não pertencente ao quadro, bem como as respectivas rescisões ou denúncias.
 
 2. O Serviço de Pessoal é chefiado pelo subdirector e dispõe de secretaria própria.
 
-###### Art. 15.º - 1. O Serviço de Abastecimento tem atribuições análogas às dos serviços de abastecimento dos organismos da Armada e destina-se a prestar apoio logístico aos serviços e demais órgãos do Instituto de Técnicas de Pesca.
+Art. 15.º - 1. O Serviço de Abastecimento tem atribuições análogas às dos serviços de abastecimento dos organismos da Armada e destina-se a prestar apoio logístico aos serviços e demais órgãos do Instituto de Técnicas de Pesca.
 
 2. O Serviço de Abastecimento é chefiado por um oficial de administração naval.
 
 3. O Serviço de Abastecimento utiliza a secretaria do conselho administrativo.
 
-###### Art. 16.º Os serviços gerais (infra-estruturas, comunicações e oficinas) têm atribuições análogas às dos serviços de igual ou equivalente designação dos organismos da Armada e destinam-se a prestar apoio técnico e logístico aos serviços e demais órgãos do Instituto.
+Art. 16.º Os serviços gerais (infra-estruturas, comunicações e oficinas) têm atribuições análogas às dos serviços de igual ou equivalente designação dos organismos da Armada e destinam-se a prestar apoio técnico e logístico aos serviços e demais órgãos do Instituto.
 
-###### Art. 17.º Compete ao director designar, entre os funcionários do quadro do pessoal civil do Ministério da Marinha que prestem serviço no Instituto, os que devem dirigir os serviços e demais órgãos, com excepção do Serviço de Abastecimento.
+Art. 17.º Compete ao director designar, entre os funcionários do quadro do pessoal civil do Ministério da Marinha que prestem serviço no Instituto, os que devem dirigir os serviços e demais órgãos, com excepção do Serviço de Abastecimento.
 
-###### Art. 18.º A lotação do pessoal militar do Instituto de Técnicas de Pesca é fixada por portaria do Ministro da Marinha.
+Art. 18.º A lotação do pessoal militar do Instituto de Técnicas de Pesca é fixada por portaria do Ministro da Marinha.
 
-###### Art. 19.º A lotação do pessoal civil do Instituto é fixada por despacho do Ministro da Marinha.
+Art. 19.º A lotação do pessoal civil do Instituto é fixada por despacho do Ministro da Marinha.
 
-###### Art. 20.º Todo o pessoal do Instituto de Técnicas de Pesca é obrigado a prestar serviço nos locais e circunstâncias que a actividade do Instituto exija.
+Art. 20.º Todo o pessoal do Instituto de Técnicas de Pesca é obrigado a prestar serviço nos locais e circunstâncias que a actividade do Instituto exija.
 
-###### Art. 21.º O pessoal do Instituto, quer do quadro, quer o contratado além deste, quando deslocado da sua residência oficial por motivo de trabalhos e missões científicas ou técnicas a realizar fora da sede do Instituto, tem direito a receber:
+Art. 21.º O pessoal do Instituto, quer do quadro, quer o contratado além deste, quando deslocado da sua residência oficial por motivo de trabalhos e missões científicas ou técnicas a realizar fora da sede do Instituto, tem direito a receber:
 
 a) Em serviço em terra, as ajudas de custo fixadas para os servidores do Estado com igual vencimento;
 
 b) Em serviço a bordo, uma gratificação diária segundo a legislação vigente.
 
-###### Art. 22.º - 1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções, da competência do director do Instituto:
+Art. 22.º - 1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções, da competência do director do Instituto:
 
 a) Multa de um a dez dias, correspondente ao salário diário do infractor;
 
@@ -302,14 +308,14 @@ b) Demissão.
 
 2. A pena de demissão aplica-se também ao pessoal que, no decurso de doze meses consecutivos, seja punido com mais de quinze dias de multa.
 
-###### Art. 23.º O Instituto de Técnicas de Pesca apoia-se nos trabalhos de biologia marítima do Instituto de Biologia Marítima e de oceanografia do Instituto Hidrográfico.
+Art. 23.º O Instituto de Técnicas de Pesca apoia-se nos trabalhos de biologia marítima do Instituto de Biologia Marítima e de oceanografia do Instituto Hidrográfico.
 
-###### Art. 24.º - 1. O Instituto de Técnicas de Pesca poderá apoiar-se, para a realização de trabalhos no mar, em embarcações, incluindo as de pesca.
+Art. 24.º - 1. O Instituto de Técnicas de Pesca poderá apoiar-se, para a realização de trabalhos no mar, em embarcações, incluindo as de pesca.
 
 2. As condições em que os navios da Armada apoiam o Instituto serão definidas por portaria do Ministro da Marinha.
 
 3. As condições em que são utilizadas outras embarcações serão definidas por despacho do Ministro da Marinha.
 
-###### Art. 25.º As dúvidas que se suscitem na execução deste diploma serão esclarecidas por despacho do Ministro da Marinha.
+Art. 25.º As dúvidas que se suscitem na execução deste diploma serão esclarecidas por despacho do Ministro da Marinha.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

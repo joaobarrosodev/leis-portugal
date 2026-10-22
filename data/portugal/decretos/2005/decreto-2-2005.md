@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/2005/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-2005-618942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 282adf0623f7cbdc346e38f569f268d17aedc276199ad5d01209d92bc670ebe9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b2dc5c39acc1eb6a1cce0448b97f510b91aa72577ee92b4f305bbf80b4d3af9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cabo Verde
 - Cidade da Praia
 - Convenção
 - Portugal
-- Cabo Verde
 - Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:106642825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106642825:por
+  label: Aprovado o Acordo de Revisão (emendados os arts.1.º, 4.º, 8.º, 9.º e 22.º) da Convenção sobre Segurança Social entre
+    a República Portuguesa e a República de Cabo Verde, aprovada pelo presente diploma, Decreto n.º 9/2017 - Diário da República
+    n.º 58/2017, Série I de 2017-03-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/9-2017-106642825
+  date: '2017-03-22'
+- type: cites
+  target: pt:dre:171570:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:561641:por
+  label: "Rectificado pela DECL-RECT.26/2005.24.03.2005.PCM, DR.IS-A [67] de 06.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/26-2005-561641
+  date: '2005-03-24'
 article_structure:
   article_count: 45
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:08Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +124,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 2002. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Luís Filipe Pereira - António José de Castro Bagão Félix.
 
-**Assinado em 2 de Agosto de 2002.**
+Assinado em 2 de Agosto de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Agosto de 2002.**
+Referendado em 6 de Agosto de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 CONVENÇÃO SOBRE SEGURANÇA SOCIAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE
 
@@ -124,7 +140,7 @@ Preâmbulo
 
 A República Portuguesa e a República de Cabo Verde, animadas do desejo de desenvolver as relações existentes entre os dois Estados no âmbito da segurança social em função, designadamente, das modificações introduzidas nas respectivas legislações desde a entrada em vigor da convenção entre a República Portuguesa e a República de Cabo Verde sobre Segurança Social, assinada em 17 de Dezembro de 1981, resolveram concluir uma nova convenção destinada a substituir a acima mencionada.
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -244,7 +260,7 @@ A pessoa nacional de uma das Partes Contratantes que resida no território de um
 
 2 - As cláusulas de redução, de suspensão ou de supressão previstas na legislação de uma Parte Contratante, no caso de acumulação de uma prestação com outras prestações de segurança social, com prestações por acidente de trabalho ou com outros rendimentos ou pelo facto do exercício de uma actividade profissional, são oponíveis ao beneficiário, ainda que se trate de prestações adquiridas nos termos da legislação da outra Parte ou de rendimentos obtidos ou de uma actividade profissional exercida no território desta última Parte.
 
-## TÍTULO II
+TÍTULO II
 
 Disposições relativas à determinação da legislação aplicável
 
@@ -278,7 +294,7 @@ b) Todavia, o trabalhador ocupado e remunerado por uma sucursal ou representaç�
 
 As autoridades competentes das Partes Contratantes ou os organismos por elas designados podem estabelecer, de comum acordo, excepções ao disposto nos artigos 8.º a 10.º, no interesse de determinados trabalhadores ou categorias de trabalhadores.
 
-## TÍTULO III
+TÍTULO III
 
 Disposições particulares relativas às diferentes categorias de prestações
 
@@ -458,7 +474,7 @@ A instituição competente da primeira Parte Contratante deve assumir o encargo 
 
 A instituição competente da outra Parte deve assumir o encargo do suplemento da prestação correspondente ao agravamento. O montante deste suplemento é determinado nos termos da legislação aplicada por esta última Parte e é igual à diferença entre o montante da prestação que teria sido devida após o agravamento e o montante da prestação que teria sido devida antes do agravamento, como se a doença tivesse ocorrido no seu território.
 
-## TÍTULO IV
+TÍTULO IV
 
 Disposições diversas
 
@@ -524,7 +540,7 @@ A redução efectua-se em conformidade com a legislação aplicável à institui
 
 2 - As modalidades de aplicação deste artigo podem ser fixadas por acordo administrativo.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições transitórias e finais
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/01800/00780080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/21-1975-158952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37ec4109a347906e0b57b79d80065f4b810d1168abe30b2df65a35ff45ca7776
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cb0572b38c8c77f7d61e6d8ac65fba0900c6ad13949bebeeb44a728d8b64122
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA NON Aedificandi
+- Medidas Preventivas
+- Ordenamento do Território
+- Parque Natural do Centro
+- Política de Solos
+- Proteção do Ambiente
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:516273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:516273:por
+  label: Integrada a área correspondente ao arquipélago das Berlengas na área definida no art. 2.º do presente diploma e prorrogadas
+    pelo período de seis meses as medidas preventivas nele estabelecidas pelo(a) Decreto n.º 57-A/76 - Diário do Governo n.º
+    18/1976, 1º Suplemento, Série I de 1976-01-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/57-a-1976-516273
+  date: '1976-01-22'
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADAS AS NORMAS PROVIS&#211;RIAS RELATIVAS AO CENTRO LITORAL PELO DECRETO 31/93, DE 4 DE OUTUBRO, PUBLICADO\
+    \ NO DR.IS-B, 233, DE 931004.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:35Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +117,7 @@ Neste sentido, e na intenção de harmonizar todas as intervenções no interess
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Aplicação ao Parque Natural do Centro das restrições previstas pelo [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730))
 
@@ -112,7 +135,7 @@ e) Derrube de árvores, em maciço.
 
 2. Não carecem da autorização a que se refere o número anterior quaisquer obras no interior de povoações que possuam planos de urbanização, às quais serão aplicáveis os regulamentos dos respectivos planos ou, para as que, não possuindo plano, se localizem estritamente dentro do seu perímetro urbano, desde que não se trate do estabelecimento de actividades poluentes ou que afectem o ambiente.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Delimitação da área)
 
@@ -160,7 +183,7 @@ u) Pela estrada nacional n.º 8-5 deste cruzamento até ao limite do distrito de
 
 v) Pelo ponto de encontro com o limite do distrito de Leiria até ao mar.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Prazo)
 
@@ -168,7 +191,7 @@ v) Pelo ponto de encontro com o limite do distrito de Leiria até ao mar.
 
 2. Este prazo poderá ser prorrogado nos termos do n.º 2 da mesma disposição.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Violações)
 
@@ -176,7 +199,7 @@ v) Pelo ponto de encontro com o limite do distrito de Leiria até ao mar.
 
 2. São nulas e de nenhum efeito as licenças municipais concedidas com violação do regime instituído neste decreto.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Entrada em vigor)
 
@@ -184,12 +207,12 @@ O presente decreto entra imediatamente em vigor.
 
 Vasco dos Santos Gonçalves - José Augusto Fernandes
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/01800/00780080.pdf))](https://files.diariodarepublica.pt/1s/1975/01/01800/00780080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/01800/00780080.pdf)
 
-**O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.**
+O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.

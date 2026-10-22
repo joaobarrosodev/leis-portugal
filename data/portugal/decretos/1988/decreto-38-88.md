@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/38-1988-354960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ed4224ae6e3207fd02d0f9d0b4068ef1e86d7b8525aa2fe8d4a43331e21fc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4128dea897d336695161a1bac8ad705b11ec436ff6ecd6962c33faf220ab740
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- MIRA
+- Regime Florestal
 relationships:
 - type: amended_by
   target: pt:dre:108280430:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:585035:por
+  label: "Alterada a finalidade da exclusão do regime florestal parcial, pelo DEC.1/2002.2002.01.07.MADRP DR.IS-B [5]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/1-2002-585035
+  date: '2002-01-07'
+- type: amended_by
+  target: pt:dre:108280430:por
+  label: Alterada a finalidade da exlusão do regime florestal parcial operada pelo presente diploma, pelo(a) Decreto n.º 30/2017
+    - Diário da República n.º 195/2017, Série I de 2017-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/30-2017-108280430
+  date: '2017-10-10'
+- type: cites
+  target: pt:dre:497207:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:41Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +118,15 @@ Considerando ainda ter havido parecer favorável dos serviços competentes e que
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É excluída do regime florestal parcial em que foi incluída pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno do perímetro florestal das dunas de Mira, com a área de 330 ha, pertença da Câmara Municipal de Mira.
+Artigo 1.º - 1 - É excluída do regime florestal parcial em que foi incluída pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno do perímetro florestal das dunas de Mira, com a área de 330 ha, pertença da Câmara Municipal de Mira.
 
 2 - A referida parcela destina-se à instalação de viveiros de plantas ornamentais de exterior.
 
 3 - Caso não se venha a concretizar o uso referido no número anterior, a parcela de terreno em causa será novamente integrada no perímetro florestal das dunas de Mira.
 
-###### Art. 2.º A área a desafectar, demarcada em planta anexa a este diploma, é limitada a norte pela estrada florestal do Areão ao Seixo, a sul pela estrada florestal da Areia Rasa a Portomar, a nascente pelo limite do perímetro, devidamente demarcado ao longo de uma serventia pública, e a poente pela estrada florestal n.º 1, desde o Leque do Poço da Cruz, a norte, até ao cruzamento com a já citada estrada florestal da Areia Rasa a Portomar, a sul.
+Art. 2.º A área a desafectar, demarcada em planta anexa a este diploma, é limitada a norte pela estrada florestal do Areão ao Seixo, a sul pela estrada florestal da Areia Rasa a Portomar, a nascente pelo limite do perímetro, devidamente demarcado ao longo de uma serventia pública, e a poente pela estrada florestal n.º 1, desde o Leque do Poço da Cruz, a norte, até ao cruzamento com a já citada estrada florestal da Areia Rasa a Portomar, a sul.
 
-###### Art. 3.º - 1 - Com a finalidade de impedir eventuais movimentações de areias, fica a Câmara Municipal de Mira obrigada a cumprir as seguintes normas de utilização e protecção da referida parcela:
+Art. 3.º - 1 - Com a finalidade de impedir eventuais movimentações de areias, fica a Câmara Municipal de Mira obrigada a cumprir as seguintes normas de utilização e protecção da referida parcela:
 
 a) Manter uma faixa de 50 m de largura, ao longo das estradas florestais que marginam a área a norte, sul e poente, aproveitando o arvoredo existente e introduzindo um estrado arbustivo composto por samoucos e mióporos;
 
@@ -122,14 +140,14 @@ Presidência do Conselho de Ministros, 29 de Agosto de 1988.
 
 Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Álvaro dos Santos Amaro.
 
-**Assinado em 29 de Setembro de 1988.**
+Assinado em 29 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1988.**
+Referendado em 3 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/23900/42174218.pdf))](https://files.diariodarepublica.pt/1s/1988/10/23900/42174218.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/23900/42174218.pdf)

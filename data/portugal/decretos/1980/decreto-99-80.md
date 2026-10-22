@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/99-1980-462184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a121062eb2fe9dc4ce4a5a54bb0f796e760e7e8779c33f0c95f5ff4d8961f576
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6122d11892d9d888633b7fa4dd14ecb61cc62f341a01930ee9a64bb1236605c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Estrangeiros
+- Cabo Verde
+- Cidadão Nacional
+- Consulado
+- Convenção
+- Cooperação Consular
+- Embaixada
+- Emolumento Consular
+- Lisboa
+- Passaporte
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:21Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +98,15 @@ de 7 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Protocolo Adicional ao Acordo de Cooperação Consular entre a República Portuguesa e a República de Cabo Verde, assinado em 30 de Novembro de 1979, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado para ratificação o Protocolo Adicional ao Acordo de Cooperação Consular entre a República Portuguesa e a República de Cabo Verde, assinado em 30 de Novembro de 1979, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 22 de Setembro de 1980.**
+Assinado em 22 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Protocolo Adicional ao Acordo de Cooperação Consular
 
@@ -109,13 +120,13 @@ O disposto no artigo 18.º, n.º 3, do Acordo;
 
 concordam em subscrever o presente Protocolo Adicional:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O n.º 2 do artigo 1.º do Acordo passa a ser o n.º 3, acrescentando-se um novo n.º 2, com a seguinte redacção:
 
 2 - Para os efeitos do número anterior, cada uma das Partes Contratantes comunicará à outra, por nota, quais os países em que aos seus nacionais deva ser prestada protecção consular nos termos do presente Acordo. A Parte Contratante cuja cooperação é solicitada indicará os postos consulares aptos a prestá-la.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 O artigo 7.º passa a ter a seguinte redacção:
 
@@ -131,13 +142,13 @@ O artigo 7.º passa a ter a seguinte redacção:
 
 6 - Nas hipóteses previstas nos n.os 1 e 2, o posto consular poderá cobrar ao interessado uma taxa pelo serviço a prestar e receberá ainda um quantitativo correspondente ao emolumento, que será transferido para a entidade emitente, de acordo com normas a estabelecer.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 O n.º 2 do artigo 8.º passa a ter a seguinte redacção:
 
 2 - O visto, que constará de um documento apropriado, será enviado ao posto consular que transmitiu o pedido.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O artigo 16.º passa a ter a seguinte redacção:
 
@@ -145,7 +156,7 @@ O artigo 16.º passa a ter a seguinte redacção:
 
 2 - O disposto no número anterior não prejudica a eventual aplicação do imposto ou taxas previstos na lei interna do Estado do nacional requerente.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 O presente Protocolo reger-se-á, quanto às condições de vigência e de denúncia, pelo disposto no artigo 18.º do Acordo de Cooperação Consular.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/1/2009/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-2009-603001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f50c289dce0ec2a708a362046a5af5bf862150f18fb6ee6238a81fa9d869616a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 576973863676f3688335c5a4634a8d97c9bfd8ed9da3a7a5d5a799f7e383d242
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADIS Abeba
-- Etiópia
-- Turismo
-- Juventude
 - Comunicação Social
 - Convenção
-- Educação
-- Portugal
 - Cooperação Científica
 - Cooperação Cultural
 - Cultura
-- Ensino Superior
 - Desporto
+- Educação
+- Ensino Superior
+- Etiópia
+- Juventude
+- Portugal
+- Turismo
 relationships: []
 article_structure:
   article_count: 22
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:04Z'
   warnings: []
   errors: []
 ---
@@ -111,15 +111,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 20 de Novembro de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Manuel Pedro Cunha da Silva Pereira - Manuel António Gomes de Almeida de Pinho - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - José António de Melo Pinto Ribeiro - Augusto Ernesto Santos Silva.
 
-**Assinado em 15 de Janeiro de 2009.**
+Assinado em 15 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Janeiro de 2009.**
+Referendado em 16 de Janeiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 Acordo de Cooperação nos Domínios da Educação, Ciência, Ensino Superior, Cultura, Juventude, Desporto, Turismo e Comunicação Social entre a República Portuguesa e a República Federal Democrática da Etiópia.
 

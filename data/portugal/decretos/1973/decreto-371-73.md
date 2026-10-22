@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/07/17200/13001300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/371-1973-421839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a84bdbc9a4015e4293e99aa031c0dc4d3455866a5e6176d387f4c24db5ae81d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89ca67c63e9e88310e04bdc763e707a73a62b68272f3995fe048d448855841f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ relationships:
   target: pt:dre:389378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:639695:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:389378:por
+  label: "Revogado pelo DEC LEI.56/81.31.03.1981.CR, DR.IS [75] de 31.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1981-389378
+  date: '1981-03-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:48Z'
   warnings: []
   errors: []
 ---
@@ -92,12 +101,12 @@ Considerando a necessidade de criar o cargo de adido militar, naval e aeronáuti
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Nos termos do artigo 1.º do [Decreto-Lei n.º 39315](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39315-1953-639695), de 14 de Agosto de 1953, é criado o lugar de adido militar, naval e aeronáutico junto da Embaixada de Portugal em Estocolmo, em acumulação com idênticas funções em Bona.
+Artigo único. Nos termos do artigo 1.º do [Decreto-Lei n.º 39315](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39315-1953-639695), de 14 de Agosto de 1953, é criado o lugar de adido militar, naval e aeronáutico junto da Embaixada de Portugal em Estocolmo, em acumulação com idênticas funções em Bona.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - José Pereira do Nascimento.
 
-**Promulgado em 10 de Julho de 1973.**
+Promulgado em 10 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

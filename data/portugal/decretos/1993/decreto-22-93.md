@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/22/1993/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-1993-267032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb4ad9fab0895d5ea5e6bac819a5a596c2f0509b6cf8ddd0f27d6bb4d618bf34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9e59b4a7058cbbb99257882009cd9eba0a235243149a0bb06937843a2b0ef42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- OIT
 - Emprego
 - Estatística
+- OIT
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:683176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683176:por
+  label: "Estendida a convenção ao território de Macau pelo DEC.211/99.1999.11.09.PR DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/211-1999-683176
+  date: '1999-11-09'
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:24Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +101,19 @@ de 26 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção n.º 160 da Organização Internacional do Trabalho, relativa às estatísticas do trabalho, adoptada pela Conferência Internacional do Trabalho em 25 de Junho de 1985, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção n.º 160 da Organização Internacional do Trabalho, relativa às estatísticas do trabalho, adoptada pela Conferência Internacional do Trabalho em 25 de Junho de 1985, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1993. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - José Albino da Silva Peneda.
 
 Ratificado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION 160 - CONVENTION CONCERNANT LES STATISTIQUES DU TRAVAIL
 

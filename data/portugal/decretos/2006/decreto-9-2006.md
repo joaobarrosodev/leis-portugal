@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/2006/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-2006-541039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6ed6ea72e4cb60f25e4f5898a25b9bba8b59e9f7a10f54c0a3b919ff854c6cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce0b2dcad6efe6865144a314efbfb723c7d6d2f2acf1e64a03498b581e299111
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
 - Convenção
-- Portugal
+- Efeito de Estufa
 - Montreal
 - Ozono
-- Proteção do Ambiente
 - Pequim
-relationships: []
+- Portugal
+- Proteção do Ambiente
+relationships:
+- type: cites
+  target: pt:dre:370452:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:42Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - António José de Castro Guerra - Francisco Carlos da Graça Nunes Correia.
 
-**Assinado em 10 de Janeiro de 2006.**
+Assinado em 10 de Janeiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Janeiro de 2006.**
+Referendado em 11 de Janeiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 AMENDMENT TO THE MONTREAL PROTOCOL ON SUBSTANCES THAT DEPLETE THE OZONE LAYER
 
@@ -296,7 +300,7 @@ R - Annex C:
 
 The following group shall be added to annex C to the Protocol:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/016a00/04920496.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/016a00/04920496.pdf)](https://files.diariodarepublica.pt/1s/2006/01/016a00/04920496.pdf)
 
 Article 2
 
@@ -316,7 +320,9 @@ Entry into force
 
 EMENDA AO PROTOCOLO DE MONTREAL RELATIVO ÀS SUBSTÂNCIAS QUE DETERIORAM A CAMADA DE OZONO
 
-###### Artigo 1.º — Emenda
+Artigo 1.º
+
+Emenda
 
 A - N.º 5 do artigo 2.º:
 
@@ -482,13 +488,17 @@ R - Anexo C:
 
 Deve aditar-se o seguinte grupo ao anexo C do Protocolo:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/016a00/04920496.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/016a00/04920496.pdf)](https://files.diariodarepublica.pt/1s/2006/01/016a00/04920496.pdf)
 
-###### Artigo 2.º — Relação com a Emenda de 1997
+Artigo 2.º
+
+Relação com a Emenda de 1997
 
 Os Estados ou organizações regionais de integração económica apenas poderão depositar um instrumento de ratificação, aceitação ou aprovação ou adesão à presente Emenda desde que tenham procedido, prévia ou simultaneamente, ao depósito do referido instrumento relativamente à Emenda adoptada na Nona Reunião das Partes, realizada em Montreal em 17 de Setembro de 1997.
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 1 - A presente Emenda entrará em vigor em 1 de Janeiro de 2001, sob reserva do depósito, nesta data de pelo menos 20 instrumentos de ratificação, aceitação ou aprovação da Emenda pelos Estados ou organizações regionais de integração económica que são Partes do Protocolo de Montreal Relativo às Substâncias Que Deterioram a Camada de Ozono. Na eventualidade de esta condição não se encontrar satisfeita nessa data, a Emenda entrará em vigor no 90.º dia seguinte à data em que esta tiver sido satisfeita.
 

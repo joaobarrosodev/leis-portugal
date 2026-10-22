@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15100/15381538.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/41-1980-473275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 939f91f72b36ee9d8812d2f4f34f6e145fb44b3378598a01b0506f0b73e88ae9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5fb4adc7c30eaf00f337b15115161528f8c5abd153adc4f45297d634d651fec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Alimentação Animal
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:498102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329202:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:498102:por
+  label: "Revogado pelo DEC LEI.372/87.05.12.1987.MAPA, DR.IS [280] de 05.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/372-1987-498102
+  date: '1987-12-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:29Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +113,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 8.º e 10.º do Regulamento de Preparação e Comércio de Alimentos para Animais, já alterados pelo artigo 3.º do [Decreto n.º 104/78](https://diariodarepublica.pt/dr/detalhe/decreto/104-1978-329202), de 28 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 8.º e 10.º do Regulamento de Preparação e Comércio de Alimentos para Animais, já alterados pelo artigo 3.º do [Decreto n.º 104/78](https://diariodarepublica.pt/dr/detalhe/decreto/104-1978-329202), de 28 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 8.º - 1 - A Comissão de Alimentação Animal (CAA) é presidida pelo director-geral dos Serviços Veterinários, ou por um seu delegado, e constituída por representantes das seguintes entidades:
+Art. 8.º - 1 - A Comissão de Alimentação Animal (CAA) é presidida pelo director-geral dos Serviços Veterinários, ou por um seu delegado, e constituída por representantes das seguintes entidades:
 
 a) Direcção-Geral dos Serviços Veterinários;
 
@@ -130,7 +141,7 @@ j) Associação Portuguesa dos Industriais de Alimentos Compostos para Animais.
 
 3 - O presidente poderá convidar a participarem nas reuniões personalidades especialmente competentes nas matérias em estudo.
 
-###### Art. 10.º São atribuições da CAA as seguintes:
+Art. 10.º São atribuições da CAA as seguintes:
 
 a) Coordenar as acções cometidas aos organismos ou instituições intervenientes nos diversos campos em que se subdivide o vasto sector da alimentação animal;
 
@@ -150,8 +161,8 @@ h) Emitir pareceres acerca de assuntos relacionados com a alimentação animal q
 
 Francisco Sá Carneiro - António José Baptista Cardoso e Cunha - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 19 de Junho de 1980.**
+Promulgado em 19 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

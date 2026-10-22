@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/32/1992/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/32-1992-300391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bae39466d1edc9d4b27f38c11f99e42473f38ed76f35311f34df416395204b76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e70a38f6130e6c64645e855f195cac12c75d081d9076ba352afefd6177266776
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
 subjects:
 - CEE
 - Convenção
-- Portugal
 - Estrasburgo
 - Farmacopeia Europeia
+- Portugal
 - Produto Farmacêutico
 relationships: []
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:50Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 16 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo à Convenção Relativa à Elaboração de Uma Farmacopeia Europeia, aberto à assinatura dos Estados membros do Conselho da Europa em 16 de Novembro de 1989, cujo texto original em língua francesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Protocolo à Convenção Relativa à Elaboração de Uma Farmacopeia Europeia, aberto à assinatura dos Estados membros do Conselho da Europa em 16 de Novembro de 1989, cujo texto original em língua francesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1992. - Aníbal António Cavaco Silva - Duarte Ivo Cruz - Arlindo Gomes de Carvalho.
 
 Ratificado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Julho de 1992.**
+Referendado em 3 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLE À LA CONVENTION RELATIVE À L'ÉLABORATION D'UNE PHARMACOPÉE EUROPÉENNE
 
@@ -276,7 +276,7 @@ O presente Protocolo entra em vigor no 1.º dia do mês seguinte ao decurso de u
 
 ###### Artigo 9.º
 
-**O Secretário-Geral do Conselho da Europa notifica os Estados membros do Conselho, os outros Estados Contratantes na Convenção e a Comunidade Económica Europeia de:**
+O Secretário-Geral do Conselho da Europa notifica os Estados membros do Conselho, os outros Estados Contratantes na Convenção e a Comunidade Económica Europeia de:
 
 a) Qualquer assinatura;
 

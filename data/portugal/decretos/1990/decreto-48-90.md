@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48-1990-566034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 362a1d79cbebe808e86559ab1c8ee6bc9d34a719b850a40e52d99e460ef40c39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3a8bca3d4e2e9d4149230533b312110026f16eea5e9f38afa091a24d71d57f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Londres
+- Poluição Marinha
+- Poluição pelos Navios
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:23Z'
   warnings: []
   errors: []
 ---
@@ -87,25 +92,25 @@ de 7 de Novembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas, para adesão, as emendas de 1984 introduzidas ao anexo ao Protocolo da Convenção Internacional para a Prevenção da Poluição por Navios (MARPOL 73), concluídas em Londres em 7 de Setembro de 1984, cuja versão autêntica em língua inglesa e respectiva tradução para língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. São aprovadas, para adesão, as emendas de 1984 introduzidas ao anexo ao Protocolo da Convenção Internacional para a Prevenção da Poluição por Navios (MARPOL 73), concluídas em Londres em 7 de Setembro de 1984, cuja versão autêntica em língua inglesa e respectiva tradução para língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Álvaro Severiano da Silva Magalhães - Fernando Nunes Ferreira Real.
 
 Ratificado em 28 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1990.**
+Referendado em 3 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ANNEX
 
 AMENDMENTS TO ANNEX THE OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
 
 ## ANEXO — Emendas ao Anexo ao Protocolo de 1978 à Convenção Internacional para a Prevenção da Poluição por Navios, 1973
 
@@ -411,7 +416,7 @@ ii) Tais dispositivos de fluxo parcial cumpram os requisitos estabelecidos pela 
 
 Regra 20
 
-# Livro de Registo de Hidrocarbonetos
+Livro de Registo de Hidrocarbonetos
 
 O texto dos parágrafos 1 e 2 deve ser substituído pelo seguinte:
 
@@ -475,11 +480,11 @@ O texto da alínea a) do parágrafo 2 deve ser substituído pelo seguinte, e as 
 
 a) Avaria no costado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
 
 b) Avaria no fundo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
 
 c) Se uma avaria de menores dimensões que as dimensões máximas da avaria especificadas nas alíneas a) e b) do presente parágrafo ocasionar uma situação mais grave, será considerada esta avaria.
 
@@ -517,7 +522,7 @@ A primeira frase do parágrafo 5 deve ser emendada como segue:
 
 5 - Aos capitães dos navios petroleiros novos, e aos responsáveis dos navios petroleiros novos sem propulsão própria, aos quais se aplique o presente Anexo, será fornecido o seguinte modelo aprovado:
 
-## APÊNDICE II
+APÊNDICE II
 
 O modelo do certificado deve ser substituído pelo seguinte:
 
@@ -537,7 +542,7 @@ por ...
 
 (nome completo da pessoa competente ou do organismo autorizado nos termos das disposições da Convenção)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
 
 Tipo de navio:
 
@@ -579,7 +584,7 @@ Certifica-se que na vistoria exigida pela regra 4 do Anexo I à Convenção se v
 
 Vistoria anual:
 
-**Assinado ...**
+Assinado ...
 
 (assinatura do funcionário devidamente autorizado)
 
@@ -591,7 +596,7 @@ Data ...
 
 Vistoria anual (ver nota *)/intermédia (ver nota *):
 
-**Assinado ...**
+Assinado ...
 
 (assinatura do funcionário devidamente autorizado)
 
@@ -603,7 +608,7 @@ Data ...
 
 Vistoria anual (ver nota *)/intermédia (ver nota *):
 
-**Assinado ...**
+Assinado ...
 
 (assinatura do funcionário devidamente autorizado)
 
@@ -615,7 +620,7 @@ Data ...
 
 Vistoria anual:
 
-**Assinado ...**
+Assinado ...
 
 (assinatura do funcionário devidamente autorizado)
 
@@ -633,7 +638,7 @@ Suplemento ao Certificado Internacional de Prevenção da Poluição por Hidroca
 
 Registo de construção e equipamento para navios que não sejam petroleiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
 
 MODELO B
 
@@ -641,17 +646,17 @@ Suplemento ao Certificado Internacional para a Prevenção da Poluição por Hid
 
 Registo de construção e equipamento para navios petroleiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
 
-## APÊNDICE III
+APÊNDICE III
 
 Os modelos do Livro de Registo de Hidrocarbonetos e respectivos suplementos são substituídos pelos seguintes:
 
 Modelo do Livro de Registo de Hidrocarbonetos
 
-# Livro de Registo de Hidrocarbonetos
+Livro de Registo de Hidrocarbonetos
 
-# Parte I - Operações nas casas de máquinas
+Parte I - Operações nas casas de máquinas
 
 (Todos os navios)
 
@@ -775,15 +780,15 @@ Número ou letras do distintivo do navio ...
 
 Operações de carga/lastragem (navios petroleiros) (ver nota *)/operações nas casas de máquinas (todos os navios) (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
 
 Assinatura do Capitão ...
 
 (nota *) Riscar como apropriado.
 
-# Livro de Registo de Hidrocarbonetos
+Livro de Registo de Hidrocarbonetos
 
-# Parte II - Operações de carga/lastragem
+Parte II - Operações de carga/lastragem
 
 (Navios petroleiros)
 
@@ -805,7 +810,7 @@ Esquemas dos tanques de carga e de resíduos
 
 (a ser preenchido a bordo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
 
 Introdução
 
@@ -1061,7 +1066,7 @@ Número ou letras do distintivo do navio ...
 
 Operações de carga/lastragem (navios petroleiros) (ver nota *)/operações nas casas de máquinas (todos os navios) (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25700/45644594.pdf)
 
 Assinatura do Capitão ...
 

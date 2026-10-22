@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/331-1974-475968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3097978ddb10cc4d3be0639697ee9e03128d2060fc417cfd05fcbebe801e472
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41005a073fcad43b4d4712fa74803755a2e27ebad7c0f3fed972382e3d374c98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exoneração
+- Governo Provisório
+- Governo Provisório I
+- Ministro
+- Ministro da Administração Interna
+- Ministro da Coordenação Económica
+- Ministro da Defesa Nacional
+- Ministro sem Pasta
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:50Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +96,6 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 7.º e nos termos do n.º
 
 Exonerar, a seu pedido, o Dr. Francisco Sá Carneiro, o tenente-coronel do CEM Mário Firmino Miguel, o Dr. Joaquim Jorge Magalhães Mota e o Dr. Vasco Vieira de Almeida dos cargos, respectivamente, de Ministros sem pasta, da Defesa Nacional, da Administração Interna e da Coordenação Económica.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Julho de 1974. - O Presidente da República ANTÓNIO DE SPÍNOLA.

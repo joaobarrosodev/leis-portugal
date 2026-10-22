@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-1976-506066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f6f75e4f02b2d8e2b4874a2703b1c40944e6544b5b25a39c6a6b004871a4294
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97f7d630720c29bcbe97c3327d9571f7de79f7f243feb0f3ea91ebaa92ccaebb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Integração de Trabalhadores
+- Junta de Investigações Científicas do Ultramar
+- Junta de Investigações do Ultramar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:234076:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:416787:por
+  label: Alterado o art. 2.º e prorrogado por trinta dias o prazo a que se reporta o art. 3.º pelo(a) Decreto n.º 279/76 -
+    Diário da República n.º 90/1976, 1º Suplemento, Série I de 1976-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/279-1976-416787
+  date: '1976-04-15'
+- type: cites
+  target: pt:dre:412604:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:454043:por
+  label: Rectificado pela DECL.DD8450.28.01.1976.PCM, DG.IS [23]Supl de 28.01.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-454043
+  date: '1976-01-28'
+- type: corrected_by
+  target: pt:dre:507186:por
+  label: Rectificado o quadro IV «Pessoal administrativo e contabilidade» pelo(a) Declaração - Diário do Governo n.º 28/1976,
+    Série I de 1976-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-507186
+  date: '1976-02-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:21Z'
   warnings: []
   errors: []
 ---
@@ -94,42 +119,42 @@ Mostrando-se conveniente, por outro lado, alterar os quadros anexos ao citado de
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os quadros anexos ao [Decreto-Lei n.º 583/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1973-412604), de 6 de Novembro, são substituídos pelos quadros anexos ao presente diploma.
+Artigo 1.º Os quadros anexos ao [Decreto-Lei n.º 583/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1973-412604), de 6 de Novembro, são substituídos pelos quadros anexos ao presente diploma.
 
-###### Art. 2.º A colocação do pessoal que, nos termos dos artigos 128.º e 144.º do [Decreto-Lei n.º 583/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1973-412604), de 6 de Novembro, transitar da Junta de Investigações do Ultramar para a Junta de Investigações Científicas do Ultramar far-se-á no prazo de trinta dias, a contar da publicação deste diploma, mediante lista nominativa a aprovar por despacho do Ministro da Cooperação, independentemente de quaisquer formalidades, salvo o visto das novas situações pelo Tribunal de Contas e a publicação no Diário do Governo.
+Art. 2.º A colocação do pessoal que, nos termos dos artigos 128.º e 144.º do [Decreto-Lei n.º 583/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1973-412604), de 6 de Novembro, transitar da Junta de Investigações do Ultramar para a Junta de Investigações Científicas do Ultramar far-se-á no prazo de trinta dias, a contar da publicação deste diploma, mediante lista nominativa a aprovar por despacho do Ministro da Cooperação, independentemente de quaisquer formalidades, salvo o visto das novas situações pelo Tribunal de Contas e a publicação no Diário do Governo.
 
-###### Art. 3.º O regime geral de pessoal da Junta de Investigações Científicas do Ultramar, designadamente no que respeita a formas e requisitos de provimento e sistemas de admissão e promoção das categorias previstas no seu quadro, deverá ser aprovado mediante decreto dos Ministros da Administração Interna, das Finanças e da Cooperação no prazo de dois meses, a contar da data da publicação deste diploma.
+Art. 3.º O regime geral de pessoal da Junta de Investigações Científicas do Ultramar, designadamente no que respeita a formas e requisitos de provimento e sistemas de admissão e promoção das categorias previstas no seu quadro, deverá ser aprovado mediante decreto dos Ministros da Administração Interna, das Finanças e da Cooperação no prazo de dois meses, a contar da data da publicação deste diploma.
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 31 de Dezembro de 1975.**
+Promulgado em 31 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 QUADRO I
 
 Pessoal científico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
 
 QUADRO II
 
 Pessoal técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
 
 QUADRO III
 
 Pessoal oficial e auxiliar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
 
 QUADRO IV
 
 Pessoal administrativo e de contabilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
 
-**O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa.**
+O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa.

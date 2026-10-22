@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 294/1979, 2º Suplemento, Série I de 1979-12-22
   number: '294'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3318-(7) a 3318-(51)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf
 entry_into_force_dates: []
@@ -47,40 +47,135 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/138-a-1979-676853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9eaa7b6aa0e7062fe132979a1b3eef86a7ef20ed27e16a826b223c123676f24a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eaf254f94e93075b83b9672be36e3a522fb802b368b66c288b81271fff02936e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Equipamento de Veículo
+- Genebra
+- Homologação
+- Normalização
+- Portugal
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:534786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:477117:por
+  label: "Aprovado o Regulamento nº 43, anexo ao presente Acordo pelo DEC.14/90.24.05.1990.MNE, DR.IS [119-Supl] de 24.05.1990\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/14-1990-477117
+  date: '1990-05-24'
+- type: amended_by
+  target: pt:dre:666768:por
+  label: "Tornadas públicas as modificações ao Regulamento nº 108 do Acordo aprovado para Adesão pelo presente diploma, pelo\
+    \ AV.147/99.1999.09.20.MNE, DR.IS-A [240] de 16/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/147-1999-666768
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:666769:por
+  label: "Tornadas públicas as modificações ao Regulamento nº 107 do Acordo aprovado para Adesão pelo presente diploma, pelo\
+    \ AV.148/99.1999.09.20.MNE, DR.IS-A [240] de 16/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/148-1999-666769
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:666770:por
+  label: "Tornadas públicas as modificações ao Regulamento nº 109 do Acordo aprovado para Adesão pelo presente diploma, pelo\
+    \ AV.146/99.1999.09.20.MNE, DR.IS-A [240] de 16/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/146-1999-666770
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:666875:por
+  label: "Tornadas públicas as modificações ao Regulamento nº 90 do Acordo aprovado para Adesão pelo presente diploma, pelo\
+    \ AV.146/99.1999.09.20.MNE, DR.IS-A [240] de 16/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/149-1999-666875
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:666877:por
+  label: "Tornada públicas as modificações ao regulamento nº 36 do Acordo aprovado para Adesão pelo presente diploma, pelo\
+    \ AV.145/99.1999.09.20.MNE, DR.IS-A [240] de 14/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/145-1999-666877
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:666879:por
+  label: "Tornadas públicas as modificações ao Regulamento nº 37 do Acordo aprovado para Adesão pelo presente diploma, pelo\
+    \ AV.150/99.1999.09.20.MNE, DR.IS-A [240] de 16/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/150-1999-666879
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:667129:por
+  label: "Tornada pública a cessação da aplicação por parte da Espanha do Regulamento nº 107 do Acordo aprovado para adesão\
+    \ pelo presente diploma, pelo AV.162/99.1999.09.20.MNE, DR.IS-A [241 de 15/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/162-1999-667129
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:667136:por
+  label: "Tornadas públicas as modificações ao Regulamento nº 13 do Acordo aprovado para Adesão pelo presente diploma, pelo\
+    \ AV.154/99.1999.09.20.MNE, DR.IS-A [241] de 15/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/154-1999-667136
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:667141:por
+  label: "Tornadas públicas as modificações ao Regulamento n.º 17 do Acordo aprovado para adesão pelo presente diploma, pelo\
+    \ AV.159/99.1999.09.20.MNE, DR.IS-A [241] de 15/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/159-1999-667141
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:534781:por
+  label: "Publicitada a adopção pelo Comité Administrativo do Acordo de modificações dos textos autênticos inglês e francês\
+    \ do Regulamento nº 30, relativo à adopção de condições uniformes de homologação dos pneumáticos para automóveis e seus\
+    \ reboques, aprovado para adesão por Portugal pelo presente diploma, pelo AV.199/2005.22.03.2005.MNE, DR.IS-A [89] de\
+    \ 09.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/199-2005-534781
+  date: '2005-03-22'
+- type: amended_by
+  target: pt:dre:534786:por
+  label: "Publicitada a adopção pelo Comité Administrativo do Acordo de modificações dos textos inglês e francês do Regulamento\
+    \ nº 54 do Acordo aprovado para adesão pelo presente diploma, AV.204/2005.28.03.2005.MNE, DR.IS-A [89] de 09.05.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/204-2005-534786
+  date: '2005-03-28'
+- type: amended_by
+  target: pt:dre:677050:por
+  label: "Publicitada a adopção pelo Comité Administrativo do Acordo de modificações dos textos em inglês e francês do Regulamento\
+    \ nº 54 do Acordo aprovado para adesão pelo presente diploma, pelo AV.394/2006.03.02.2006.MNE, DR.IS-A [37] de 21.02.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/394-2006-677050
+  date: '2006-02-03'
+- type: amended_by
+  target: pt:dre:677057:por
+  label: "Publicitada a adopção pelo Comité Administrativo do Acordo, de emendas propostas ao Regulamento nº 109 do Acordo\
+    \ aprovado para adesão pelo presente diploma, pelo AV.395/2006.03.02.2006.MNE, DR.IS-A [37] de 21.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/395-2006-677057
+  date: '2006-02-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:08Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +186,17 @@ de 22 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado para adesão o Acordo Relativo à Adopção de Condições Uniformes de Homologação e ao Reconhecimento Recíproco de Homologação dos Equipamentos e Peças de Veículos a Motor, concluído em Genebra em 20 de Março de 1958, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo 1.º É aprovado para adesão o Acordo Relativo à Adopção de Condições Uniformes de Homologação e ao Reconhecimento Recíproco de Homologação dos Equipamentos e Peças de Veículos a Motor, concluído em Genebra em 20 de Março de 1958, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
-###### Art. 2.º É adoptado o regulamento n.º 30 sobre disposições uniformes relativas a homologação dos pneus para automóveis e seus reboques, anexo ao referido Acordo, cujo texto em francês e respectiva tradução para português se juntam ao presente decreto.
+Art. 2.º É adoptado o regulamento n.º 30 sobre disposições uniformes relativas a homologação dos pneus para automóveis e seus reboques, anexo ao referido Acordo, cujo texto em francês e respectiva tradução para português se juntam ao presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 30 de Novembro de 1979.**
+Assinado em 30 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Accord concernant l'Adoption de Conditions Uniformes d'Homologation et la Reconnaissance Réciproque de l'Homologation des Équipements et Pièces de Véhicules à Moteur.
 
@@ -369,7 +464,7 @@ Au sens du présent Règlement, on entend par:
 
 2.30.3 - Les catégories de vitesse sont celles indiquées dans le tableau ci-après:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 3 - Inscriptions:
 
@@ -591,7 +686,7 @@ Figure explicative
 
 (Voir paragraphe 2 du Règlement)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 ANNEXE 1
 
@@ -601,7 +696,7 @@ Indication de l'Administration
 
 Communication concernant l'homologation (ou le refus ou le retrait d'une homologation) d'un type de pneumatique, en application du Règlement nº 30.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 Nº d'homologation ...
 
@@ -671,11 +766,11 @@ ANNEXE 2
 
 Schéma de la marque d'homologation
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 La marque d'homologation ci-dessus, apposée sur un pneumatique, indique que ce type de pneumatique a été homologué aux Pays-Bas (E4), sous le nº 2439.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 Ces inscriptions définissent un pneumatique:
 
@@ -715,17 +810,17 @@ Schéma des inscriptions du pneumatique
 
 Exemple des inscriptions que devront porter les pneumatiques mis sur le marché postérieurement à l'entrée en vigueur du présent Règlement:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 ANNEXE 4
 
 Liste des symboles des indices de capacité de charge
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 La formule donnant la charge maximale correspondant à la valeur LI(índice n) = n est la suivante:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 ANNEXE 5
 
@@ -737,13 +832,13 @@ PREMIÈRE PARTIE
 
 Pneumatiques européens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 SECOND PART
 
 USA tyres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 ANNEXE 6
 
@@ -757,7 +852,7 @@ Méthode de mesure des pneumatiques
 
 1.2.2 - Pour les pneumatiques à structure diagonale:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 1.2.3 - Pour les pneumatiques normaux à structure radiale: 1,8 bar;
 
@@ -783,7 +878,7 @@ Mode operatoire des essais de performance charge/vitesse
 
 Pression de gonflage d'essais (bars)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 1.3 - Le fabricant pourra demander en le justifiant qu'il soit fait usage d'une pression de gonflage d'essai différente de celles figurant au paragraphe 1.2 ci-dessus. Dans ce cas, le pneumatique sera gonflé à cette pression.
 
@@ -1087,7 +1182,7 @@ A lista destes índices e das cargas máximas correspondentes consta do anexo 4 
 
 2.30.3 - As categorias de velocidade são as indicadas no quadro abaixo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 3 - Inscrições:
 
@@ -1315,7 +1410,7 @@ Figura explicativa
 
 (V. parágrafo 2 do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 ## ANEXO 1 — [Formato máximo: A4 (210 mm x 297 mm)]
 
@@ -1325,7 +1420,7 @@ Comunicação relativa à homologação
 
 (ou recusa ou retirada de uma homologação) de um tipo de pneu, em aplicação do Regulamento n.º 30
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 N.º de homologação ...
 
@@ -1393,7 +1488,7 @@ Ficam anexas à presente comunicação as peças seguintes, fornecidas pelo requ
 
 ## ANEXO 2 — Esquema da marca de homologação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 A marca de homologação acima, aposta num pneu, indica que este tipo de pneu foi homologado nos Países Baixos (E4), com o n.º 2439.
 
@@ -1403,7 +1498,7 @@ Nota. - O número de homologação deve ser colocado próximo do círculo e ser 
 
 Exemplo das inscrições que deverão conter os pneus postos no mercado posteriormente à entrada em vigor do presente Regulamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 Estas inscrições definem um pneu:
 
@@ -1437,11 +1532,11 @@ d) A indicação da data de fabrico deve situar-se por baixo das indicações pr
 
 ## ANEXO 4 — Lista dos símbolos dos índices de capacidade de carga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 A fórmula que dá a carga máxima que corresponde ao valor LI(índice n) = n é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 ## ANEXO 5 — Designação e dimensões dos pneus
 
@@ -1451,13 +1546,13 @@ PRIMEIRA PARTE
 
 Pneus europeus
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 SEGUNDA PARTE
 
 Pneus dos Estados Unidos da América
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 ## ANEXO 6 — Método de medição dos pneus
 
@@ -1469,7 +1564,7 @@ Pneus dos Estados Unidos da América
 
 1.2.2 - Para os pneus de estrutura diagonal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 1.2.3 - Para os pneus normais de estrutura radial, 1,8 bar;
 
@@ -1491,7 +1586,7 @@ Pneus dos Estados Unidos da América
 
 1.2 - Enchê-lo à pressão apropriada constante do quadro abaixo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29402/00070051.pdf)
 
 1.3 - O fabricante poderá solicitar, com justificação, que seja utilizada uma pressão de enchimento diferente das constantes do parágrafo 1.2 acima. Neste caso, o pneu poderá ser cheio a tal pressão;
 

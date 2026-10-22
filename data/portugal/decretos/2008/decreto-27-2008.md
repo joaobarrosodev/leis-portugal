@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/27/2008/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/27-2008-453516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dd1ed9324e30d9f37df337e47ad622babed2d8ab00e033e1828a83bf8f21cb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0372705a2fd05a17aa116ba42bb95535efb7fa0596e176fa79ade4929d7d70f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Lisboa
 - Cooperação Económica
 - Líbia
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:29Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel António Gomes de Almeida de Pinho.
 
-**Assinado em 1 de Agosto de 2008.**
+Assinado em 1 de Agosto de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Agosto de 2008.**
+Referendado em 5 de Agosto de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A GRANDE JAMAHIRIYA ÁRABE LÍBIA POPULAR SOCIALISTA SOBRE COOPERAÇÃO ECONÓMICA
 
@@ -222,7 +222,7 @@ Pela Grande Jamahiriya Árabe Líbia Popular Socialista:
 
 Abdurrahman M. Shalgham, Secretário do Comité Geral Popular para as Relações Externas e Cooperação Internacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/16200/0586005865.pdf))](https://files.diariodarepublica.pt/1s/2008/08/16200/0586005865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/16200/0586005865.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND GREAT SOCIALIST PEOPLE'S LIBYAN ARAB JAMAHIRIYA ON ECONOMIC COOPERATION
 

@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-1980-474285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df237154da80ed4fd1ed2b7c2ed48932050ca697071d5961829368c2f485cfca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63a8c2f29d5c444328df96847ea65a9b7804909d8319b88f8465c8e907a73623
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cabo Verde
+- Convenção
+- Cooperação Científica
+- Cooperação Técnica
+- Cooperante
+- Portugal
+relationships:
+- type: corrected_by
+  target: pt:dre:388995:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 87/1981, Série I de 1981-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-388995
+  date: '1981-04-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:20Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +98,15 @@ de 22 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Científica e Técnica entre a República Portuguesa e a República de Cabo Verde, assinado em 26 de Janeiro de 1979, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Científica e Técnica entre a República Portuguesa e a República de Cabo Verde, assinado em 26 de Janeiro de 1979, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 11 de Maio de 1980.**
+Assinado em 11 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Protocolo Adicional ao Acordo de Cooperação Científica e Técnica entre a República Portuguesa e a República de Cabo Verde.
 
@@ -105,19 +116,19 @@ Considerando que importa assegurar a mútua protecção dos respectivos interess
 
 As Partes contratantes decidiram acordar nas disposições seguintes:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Os contratos de prestação de serviço previstos no artigo 7.º do Acordo de Cooperação Científica e Técnica terão início na data do desembarque do cooperante no Estado de Cabo Verde.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Quaisquer especiais direitos, regalias ou facilidades a atribuir ao cooperante, como estímulo ou compensação à sua prestação de serviço em território estrangeiro, serão definidos por cada uma das Partes através de despachos dos departamentos governamentais competentes.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 As autoridades competentes do Estado de Cabo Verde decidirão da colocação, transferência e locais de trabalho do cooperante consoante as necessidades do serviço e de modo a permitir uma utilização racional de trabalho qualificado, salvaguardando o respeito pela aplicação da lei dos cônjuges e a observância de quaisquer imperativos essenciais à preservação das boas condições de saúde do cooperante.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O artigo 15.º passa a ter a seguinte redacção:
 
@@ -135,7 +146,7 @@ O artigo 15.º passa a ter a seguinte redacção:
 
 7 - Nos casos previstos na segunda parte do n.º 4 e nos n.os 5 e 6 o pagamento das indemnizações a que houver lugar será feito, integralmente, no momento da denúncia do contrato.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - Para os efeitos do artigo 15.º e demais preceitos aplicáveis do Acordo, considera-se justa causa o comportamento culposo de alguma das Partes que, pela sua gravidade e consequências, torne imediata e praticamente impossível a subsistência das relações contratuais.
 
@@ -145,19 +156,19 @@ O artigo 15.º passa a ter a seguinte redacção:
 
 4 - A justa causa invocada pelo cooperante será apreciada e julgada em conformidade com a legislação do Estado ao qual é imputado o respectivo facto constitutivo.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 O n.º 1 do artigo 17.º passa a ter a seguinte redacção:
 
 1 - Por cada ano de vigência do contrato o cooperante terá direito a trinta dias de férias, que, normalmente, serão gozadas no 12.º mês do referido período anual, mas que poderão ser antecipadas, decorridos que sejam os primeiros cento e oitenta dias de serviço efectivo, com o acordo expresso das autoridades locais e nas condições por elas definidas.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Ao n.º 3 do artigo 19.º é conferida a seguinte redacção:
 
 3 - No caso de o contrato terminar antes de expirado o prazo de noventa dias referido no n.º 1 sem que o cooperante seja dado por curado, com ou sem incapacidade, considerar-se-á o mesmo prorrogado até que tal se verifique ou que se complete o mencionado período de noventa dias.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Ao artigo 19.º são aditados três números, com a redacção seguinte:
 
@@ -167,14 +178,14 @@ Ao artigo 19.º são aditados três números, com a redacção seguinte:
 
 6 - Em caso de morte, o Estado de Cabo Verde obrigar-se-á ao repatriamento do corpo do cooperante, bem como ao transporte de regresso dos seus familiares e respectivas bagagens, além do pagamento de um subsídio correspondente a seis ou três meses (conforme a duração do contrato tenha sido igual ou inferior a dois anos) da remuneração que lhe competiria. Se a morte for resultante de doença profissional ou de acidente de trabalho, acrescerão as indemnizações legais.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 No âmbito das suas actividades profissionais, o cooperante goza dos direitos de queixa, reclamação e recurso contencioso relativamente a actos lesivos dos seus legítimos interesses, nos termos em que, na respectiva lei interna, tais direitos sejam reconhecidos aos nacionais de Cabo Verde.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Os casos omissos ou duvidosos resultantes da interpretação ou aplicação das disposições contratuais que não sejam solucionados por negociação diplomática poderão ser decididos por arbitragem.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 O presente Protocolo reger-se-á, quanto às condições de vigência e de denúncia, pelo disposto no artigo 24.º do Acordo de Cooperação Científica e Técnica.

@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-1990-332394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e46fb32386a7c81ee3f0acc30ec629b0d49057993e1bcd69cb92e1636cbf6d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 446347a8981258aef9b61e02d9219e7255a5311cf1efc1a7f26ab77106540699
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Económica
+- Investimento
+- Marrocos
+- Portugal
+- Rabat
+- Transferência de Capitais
 relationships:
 - type: amended_by
   target: pt:dre:453260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453260:por
+  label: "Anulado e substituído o Acordo aprovado pelo presente diploma, a partir da entrada em vigor do Acordo sobre a Promoção\
+    \ e Protecção Recíprocas de Investimento aprovado pelo DEC.30/2008.27.08.2008.MNE, DR.IS [165] de 27.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/30-2008-453260
+  date: '2008-08-27'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:26Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +104,19 @@ de 1 de Março
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre a República Portuguesa e o Reino de Marrocos no Que Se Refere à Promoção e Protecção Recíprocas dos Investimentos, assinado em Rabat, a 18 de Outubro de 1988, cujo texto original, nas línguas portuguesa, árabe e francesa, segue em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo entre a República Portuguesa e o Reino de Marrocos no Que Se Refere à Promoção e Protecção Recíprocas dos Investimentos, assinado em Rabat, a 18 de Outubro de 1988, cujo texto original, nas línguas portuguesa, árabe e francesa, segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro - Joaquim Martins Ferreira do Amaral.
 
 Ratificado em 13 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Fevereiro de 1990.**
+Referendado em 14 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE MARROCOS NO QUE SE REFERE À PROMOÇÃO E PROTECÇÃO RECÍPROCAS DOS INVESTIMENTOS.
 
@@ -221,7 +234,7 @@ Pelo Governo do Reino de Marrocos:
 
 (Assinatura ilegível.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/05000/08190824.pdf))](https://files.diariodarepublica.pt/1s/1990/03/05000/08190824.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/05000/08190824.pdf)
 
 ACCORD ENTRE LA RÉPUBLIQUE PORTUGAISE ET LE ROYAUME DU MAROC CONCERNANT LA PROMOTION ET LA PROTECTION RECIPROQUES DES INVESTISSEMENTS.
 

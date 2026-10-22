@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/6/1995/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-1995-230109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3afce39397d65f640d6d353ea9e4392a56ba9f48971afccb5538d6b4cc3bcbf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2db840bb315b4e90570aba9813bcacbd3abccb336d5f08a691c252fe046cefa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
-- Caracas
-- Venezuela
-- Convenção
-- Portugal
 - Apoio ao Investimento
+- Caracas
+- Convenção
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
+- Portugal
+- Protecção do Investimento
+- Venezuela
 relationships: []
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:02Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +96,19 @@ de 15 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo de Promoção e Protecção Mútua de Investimentos entre o Governo da República Portuguesa e o Governo da República da Venezuela, assinado em Caracas, a 17 de Junho de 1994, bem como o Protocolo anexo, cujas versões autênticas nas línguas portuguesa e espanhola seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo de Promoção e Protecção Mútua de Investimentos entre o Governo da República Portuguesa e o Governo da República da Venezuela, assinado em Caracas, a 17 de Junho de 1994, bem como o Protocolo anexo, cujas versões autênticas nas línguas portuguesa e espanhola seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Durão Barroso - Fernando Manuel Barbosa Faria de Oliveira.
 
 Ratificado em 9 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Março de 1995.**
+Referendado em 13 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA VENEZUELA SOBRE A PROMOÇÃO E PROTECÇÃO MÚTUA DE INVESTIMENTOS.
 
@@ -296,4 +296,4 @@ Pelo Governo da República da Venezuela:
 
 Miguel Angel Burelli Rivas, Ministro de Relações Exteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/089a00/21712178.pdf))](https://files.diariodarepublica.pt/1s/1995/04/089a00/21712178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/089a00/21712178.pdf)

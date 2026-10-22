@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1980, 16º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 16º Suplemento
+  supplement: null
   pages: 4244-(302) a 4244-(305)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30116/03020305.pdf
 entry_into_force_dates: []
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/149-1980-226460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35bfa6e469ce489572af609980302458bbfec735c086fe8b98b0ee42c60f793d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1b786f252c489e9d772209fabb74ef37edc8411a869fb3ebd893beff1894255
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério das Finanças e do Plano
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:389401:por
+  label: Rectificado pela DECL.DD6437.13.03.1981.PCM, DR.IS [74] de 30.03.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-389401
+  date: '1981-03-13'
 article_structure:
-  article_count: 13
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:03Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +100,11 @@ Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diar
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 438205 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 438205 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30116/03020305.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30116/03020305.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30116/03020305.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas do aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas do aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
@@ -100,31 +112,31 @@ Orçamento das receitas do Estado
 
 Receitas correntes:
 
-### Capítulo 02 «Impostos indirectos»:
+Capítulo 02 «Impostos indirectos»:
 
 Grupo 03 «Outros»:
 
-###### Artigo 19 «Serviços aduaneiros e da Guarda Fiscal - Emolumentos» ... 9000
+Artigo 19 «Serviços aduaneiros e da Guarda Fiscal - Emolumentos» ... 9000
 
-### Capítulo 05 «Transferências»:
+Capítulo 05 «Transferências»:
 
 Grupo 06 «Exterior»:
 
-###### Artigo 03 «Transferências diversas» ... 12909
+Artigo 03 «Transferências diversas» ... 12909
 
-### Capítulo 06 «Venda de bens duradouros»:
+Capítulo 06 «Venda de bens duradouros»:
 
 Grupo 03 «Outros sectores»:
 
-###### Artigo 01 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 258000
+Artigo 01 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 258000
 
-### Capítulo 07 «Venda de serviços e bens não duradouros»:
+Capítulo 07 «Venda de serviços e bens não duradouros»:
 
 Grupo 10 «Diversos - Outros sectores»:
 
-###### Artigo 09 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 4000
+Artigo 09 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 4000
 
-###### Artigo 10 «Diversos serviços e bens não duradouros»:
+Artigo 10 «Diversos serviços e bens não duradouros»:
 
 Serviços diversos ... 16601
 
@@ -132,40 +144,40 @@ Receitas de capital:
 
 ... (Em contos)
 
-### Capítulo 09 «Venda de bens de investimento»:
+Capítulo 09 «Venda de bens de investimento»:
 
 Grupo 18 «Maquinaria e equipamento - Outros sectores»:
 
-###### Artigo 01 «Serviços gerais - Fundo de Regularização da Dívida pública» ... 8000
+Artigo 01 «Serviços gerais - Fundo de Regularização da Dívida pública» ... 8000
 
-### Capítulo 15 «Contas de ordem»:
+Capítulo 15 «Contas de ordem»:
 
 Grupo 03 «Finanças e do Plano»:
 
-###### Artigo 04 «Tribunal de Contas» ... 6000
+Artigo 04 «Tribunal de Contas» ... 6000
 
 Grupo 05 «Agricultura e Pescas»:
 
-###### Artigo 01 «Serviços regionais de agricultura» ... 7295
+Artigo 01 «Serviços regionais de agricultura» ... 7295
 
-###### Artigo 02 «Instituto de Gestão e Estruturação Fundiária» ... 400
+Artigo 02 «Instituto de Gestão e Estruturação Fundiária» ... 400
 
-###### Artigo 11 «Instituto Nacional de Veterinária» ... 3000
+Artigo 11 «Instituto Nacional de Veterinária» ... 3000
 
 Grupo 06 «Indústria e Energia»:
 
-###### Artigo 02 «Laboratório Nacional de Engenharia e Tecnologia Industrial» ... 63000
+Artigo 02 «Laboratório Nacional de Engenharia e Tecnologia Industrial» ... 63000
 
 Grupo 11 «Transportes e Comunicações»:
 
-###### Artigo 04 «Juntas autónomas dos portos» ... 50000
+Artigo 04 «Juntas autónomas dos portos» ... 50000
 
 ... 438205
 
 Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - António José Baptista Cardoso e Cunha - Álvaro Roque de Pinho Bissaia Barreto - Vítor Pereira Crespo - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 30 de Dezembro de 1980**
+Promulgado em 30 de Dezembro de 1980
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

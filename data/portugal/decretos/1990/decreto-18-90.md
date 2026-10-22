@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/18-1990-575127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d20bec6e2552a1ab86211596577a78cde814749dce7fe3235b8564991bd3ceb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a45b0fd1f79b95d2d6f3d4f799679d36cb77fe658e583045fb556a6ae4bf7655
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Mindelo
+- Política de Cooperação
+- Portugal
 relationships: []
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:54Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +91,19 @@ de 7 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação no Domínio da Juventude entre a República Portuguesa e a República de Cabo Verde, assinado no Mindelo, em 13 de Junho de 1988, em dois exemplares originais, cuja versão autêntica segue em anexo.
+Artigo único. É aprovado o Acordo de Cooperação no Domínio da Juventude entre a República Portuguesa e a República de Cabo Verde, assinado no Mindelo, em 13 de Junho de 1988, em dois exemplares originais, cuja versão autêntica segue em anexo.
 
 Visto e aprovado em Conselho de Ministros de 26 de Abril de 1990. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos.
 
-**Assinado em 24 de Maio de 1990.**
+Assinado em 24 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1990.**
+Referendado em 28 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO NO DOMÍNIO DA JUVENTUDE ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE
 
@@ -170,8 +175,8 @@ Feito na cidade do Mindelo, aos 13 dias do mês de Junho de 1988, em dois exempl
 
 Pela República Portuguesa:
 
-**O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Manuel Durão Barroso.**
+O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Manuel Durão Barroso.
 
 Pela República de Cabo Verde:
 
-**O Ministro Adjunto do Ministro do Plano e da Cooperação, José Brito.**
+O Ministro Adjunto do Ministro do Plano e da Cooperação, José Brito.

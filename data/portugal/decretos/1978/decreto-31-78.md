@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-1978-446964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1fbee11d59c5d320bf5b1ce012b631fb41b06a104323d4f012c885fe5af7843
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a6c04e255dd0009b4f63886bfc041e2340d5074ffef5ec2bf68b317688aac0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Orgânica
+- Recrutamento de Pessoal
+- Secretário
+relationships:
+- type: cites
+  target: pt:dre:173361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:25Z'
   warnings: []
   errors: []
 ---
@@ -89,14 +102,14 @@ Reconhecendo-se que o preenchimento do lugar de secretário da direcção do Lab
 
 Ao abrigo do disposto no artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 21.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, passa a ter a seguinte redacção:
+Artigo único. O artigo 21.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, passa a ter a seguinte redacção:
 
-###### Art. 21.º O lugar de secretário da direcção do Laboratório será preenchido por escolha entre engenheiros ou outros licenciados do LNEC ou de outros serviços do Ministério das Obras Públicas, com mais de quatro anos de serviço no quadro, ou entre outros indivíduos estranhos ao quadro, de reconhecida competência, habilitados com um curso superior de natureza adequada e licenciados há mais de quatro anos.
+Art. 21.º O lugar de secretário da direcção do Laboratório será preenchido por escolha entre engenheiros ou outros licenciados do LNEC ou de outros serviços do Ministério das Obras Públicas, com mais de quatro anos de serviço no quadro, ou entre outros indivíduos estranhos ao quadro, de reconhecida competência, habilitados com um curso superior de natureza adequada e licenciados há mais de quatro anos.
 
 Mário Soares - Rui Eduardo Ferreira Rodrigues Pena - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 18 de Março de 1978.**
+Promulgado em 18 de Março de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

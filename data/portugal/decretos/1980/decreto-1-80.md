@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-1980-581863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63b42c9ef52a07e40c760db9e2155d99f3c1f99fd628703aba26fb013a73da70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4668afcdd5cf9bc6c9a3bc4ed2030e9e31a8cbf13e024f3a07ad0b37ed01146d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Constitucional
+- Gabinete Governamental
+- Pessoal de Gabinete
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:369844:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:09Z'
   warnings: []
   errors: []
 ---
@@ -88,14 +96,14 @@ Considerando que os vencimentos dos membros do gabinete de apoio ao presidente d
 
 O Conselho da Revolução decreta, nos termos do n.º 1 do artigo 285.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal que presta serviço no gabinete de apoio ao presidente da Comissão Constitucional tem direito ao vencimento que for fixado para as categorias homólogas dos gabinetes dos membros do Governo.
+Artigo 1.º O pessoal que presta serviço no gabinete de apoio ao presidente da Comissão Constitucional tem direito ao vencimento que for fixado para as categorias homólogas dos gabinetes dos membros do Governo.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos a partir da data referida no artigo 4.º do [Decreto-Lei n.º 382/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1979-369844), de 18 de Setembro.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos a partir da data referida no artigo 4.º do [Decreto-Lei n.º 382/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1979-369844), de 18 de Setembro.
 
 Visto e aprovado em Conselho da Revolução em 17 de Outubro de 1979.
 
-**Promulgado em 5 de Dezembro de 1979.**
+Promulgado em 5 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.

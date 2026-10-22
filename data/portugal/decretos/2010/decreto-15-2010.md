@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/15/2010/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-2010-307655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c5d4c35a4e70e6eee9795f7690d90d515eb8df2cd9dfa8b6a601a87fb9c6626
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a055d0fde0f1d7f728f3813b91929230cc72ddc56124c402c14df4a20db5115e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
-- Países Ibero-Americanos
-- Convenção
-- Portugal
-- Direito do Trabalho
-- Invalidez
 - Chile
+- Convenção
+- Direito do Trabalho
 - Doença Profissional
+- Invalidez
+- Países Ibero-Americanos
+- Portugal
 - Proteção na Velhice
 - Proteção Social
 - Regime Contributivo da Segurança Social
@@ -91,14 +91,14 @@ relationships:
   source: http://data.europa.eu/eli/reg/1972/574/oj
 article_structure:
   article_count: 35
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:34Z'
   warnings: []
   errors: []
 ---
@@ -125,15 +125,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 2010. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - Manuel Pedro Cunha da Silva Pereira - Maria Helena dos Santos André.
 
-**Assinado em 20 de Setembro de 2010.**
+Assinado em 20 de Setembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Setembro de 2010.**
+Referendado em 27 de Setembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 CONVENÇÃO MULTILATERAL IBERO-AMERICANA DE SEGURANÇA SOCIAL
 
@@ -153,7 +153,7 @@ Afirmando a urgência de contar com um instrumento de coordenação das legisla�
 
 acordam:
 
-## TÍTULO I
+TÍTULO I
 
 Regras gerais e determinação da legislação aplicável
 
@@ -295,7 +295,7 @@ Dois ou mais Estados Partes, as autoridades competentes desses Estados ou os org
 
 Em matéria de pensões, o interessado pode beneficiar do seguro voluntário de um Estado Parte, ainda que esteja obrigatoriamente sujeito à legislação de outro Estado Parte, sempre que anteriormente já tenha estado sujeito à legislação do primeiro Estado Parte pelo facto ou em consequência do exercício de uma actividade como trabalhador dependente ou independente e na condição de a referida acumulação ser admitida na legislação do primeiro Estado Parte.
 
-## TÍTULO II
+TÍTULO II
 
 Disposições particulares para as diferentes categorias de prestações
 
@@ -361,7 +361,7 @@ Os Estados Partes nos quais vigorem regimes de capitalização individual podem 
 
 O direito às prestações por acidente de trabalho ou doença profissional é determinado de acordo com a legislação do Estado Parte à qual o trabalhador se encontra sujeito na data em que ocorre o acidente ou se verifica a doença.
 
-## TÍTULO III
+TÍTULO III
 
 Mecanismos de cooperação administrativa
 
@@ -399,7 +399,7 @@ b) Às alterações das respectivas legislações susceptíveis de afectar a apl
 
 As isenções ou reduções de taxas, selos, emolumentos notariais ou de registo estabelecidos na legislação de um Estado Parte para a emissão dos documentos exigidos por essa mesma legislação são extensivas à emissão dos documentos análogos exigidos pela legislação de qualquer outro Estado Parte para efeitos de aplicação da presente Convenção.
 
-## TÍTULO IV
+TÍTULO IV
 
 Comité técnico-administrativo
 
@@ -423,7 +423,7 @@ d) Fomentar o uso das novas tecnologias, em particular mediante a modernização
 
 e) Exercer qualquer outra função no âmbito das suas competências por força da presente Convenção e do Acordo de Aplicação ou de qualquer convenção ou acordo que venha a celebrar-se no quadro dos referidos instrumentos.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições transitórias
 
@@ -435,7 +435,7 @@ As prestações que tenham sido negadas ou concedidas por um ou vários Estados 
 
 2 - Qualquer período de seguro, de contribuição ou de emprego cumprido ao abrigo da legislação de um Estado Parte antes da data de aplicação da presente Convenção no Estado Parte em causa é tido em conta para a determinação dos direitos decorrentes da presente Convenção.
 
-## TÍTULO VI
+TÍTULO VI
 
 Disposições finais
 
@@ -505,25 +505,25 @@ Andorra:
 
 Argentina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Bolívia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Brasil:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Chile:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Colômbia:
 
 Costa Rica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Cuba:
 
@@ -531,11 +531,11 @@ Equador:
 
 El Salvador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Espanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Guatemala:
 
@@ -549,25 +549,25 @@ Panamá:
 
 Paraguai:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Peru:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Portugal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 República Dominicana:
 
 Uruguai:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Venezuela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 ## ANEXO I — Regimes aos quais não se aplica a Convenção Multilateral (artigo 3.º, n.º 2)
 
@@ -1017,7 +1017,7 @@ Afirmando la urgencia de contar con un instrumento de coordinación de legislaci
 
 han convenido lo siguiente:
 
-## TÍTULO I
+TÍTULO I
 
 Reglas generales y determinación de la legislación aplicable
 
@@ -1183,7 +1183,7 @@ Seguro voluntario
 
 En materia de pensiones, el interesado podrá ser admitido al seguro voluntario de un Estado Parte, incluso cuando esté obligatoriamente sometido a la legislación de otro Estado Parte, siempre que, con anterioridad, haya estado sometido a la legislación del primer Estado Parte por el hecho o como consecuencia del ejercicio de una actividad como trabajador dependiente o no dependiente y a condición de que dicha acumulación esté admitida en la legislación del primer Estado Parte.
 
-## TÍTULO II
+TÍTULO II
 
 Disposiciones particulares para las distintas categorías de prestaciones
 
@@ -1261,7 +1261,7 @@ Determinación del derecho a prestaciones
 
 El derecho a las prestaciones derivadas de accidente de trabajo o enfermedad profesional será determinado de acuerdo con la legislación del Estado Parte a la que el trabajador se hallase sujeto en la fecha de producirse el accidente o de contraerse la enfermedad.
 
-## TÍTULO III
+TÍTULO III
 
 Mecanismos de cooperación administrativa
 
@@ -1307,7 +1307,7 @@ Exenciones
 
 Las exenciones o reducciones de impuestos, tributos, tasas, timbres y derechos judiciales o de registro, establecidos en la legislación de un Estado Parte para la expedición de los documentos exigidos por esa misma legislación, se extenderán a la expedición de los documentos análogos exigidos por la legislación de cualquier otro Estado Parte a efectos del presente Convenio.
 
-## TÍTULO IV
+TÍTULO IV
 
 Comité técnico administrativo
 
@@ -1335,7 +1335,7 @@ d) Fomentar el uso de las nuevas tecnologías, en particular mediante la moderni
 
 e) Ejercer cualquier otra función que forme parte de sus competencias en virtud del presente Convenio y del Acuerdo de Aplicación, o de todo convenio o acuerdo que pudiere celebrarse dentro del marco de dichos instrumentos.
 
-## TÍTULO V
+TÍTULO V
 
 Disposición transitoria
 
@@ -1349,7 +1349,7 @@ Las prestaciones que hayan sido denegadas o reconocidas por uno o varios Estados
 
 2 - Todo período de seguro, cotización o empleo, acreditado bajo la legislación de un Estado Parte antes de la fecha de aplicación del presente Convenio en el Estado Parte interesado, se tomará en cuenta para la determinación de los derechos originados conforme al presente Convenio.
 
-## TITULO VI
+TITULO VI
 
 Disposiciones finales
 
@@ -1439,25 +1439,25 @@ Andorra:
 
 Argentina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Bolivia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Brasil:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Chile:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Colombia:
 
 Costa Rica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Cuba:
 
@@ -1465,11 +1465,11 @@ Ecuador:
 
 El Salvador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 España:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Guatemala:
 
@@ -1483,25 +1483,25 @@ Panamá:
 
 Paraguay:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Perú:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Portugal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 República Dominicana:
 
 Uruguay:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 Venezuela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20900/0486004884.pdf)
 
 ## ANEXO I — Regímenes a los que no se aplica el Convenio Multilateral (artículo 3, apartado 2)
 

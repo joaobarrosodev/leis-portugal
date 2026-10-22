@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/127-1974-412176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8aa8d87514f2c1dd1f58df75f68614b78acf2d8bc25b8afeb4b99e5e29ac9a36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f35c72df22ebb5daec84ad296ee7795499fd15669ed8cccb7b80e00b78e26745
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:53Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +86,15 @@ de 1 de Abril
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo Internacional do Cacau, 1972, concluído na Conferência das Nações Unidas sobre o Cacau, realizada em Genebra de 11 de Setembro a 20 de Outubro de 1972, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo Internacional do Cacau, 1972, concluído na Conferência das Nações Unidas sobre o Cacau, realizada em Genebra de 11 de Setembro a 20 de Outubro de 1972, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 27 de Março de 1974.**
+Assinado em 27 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ACCORD INTERNATIONAL DE 1972 SUR LE CACAO
 
@@ -1204,7 +1204,7 @@ ANNEXE A
 
 Contingents de base mentionnés au paragraphe 1 de l'article 30
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf))](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
 
 Note. - Contingents calculés pour la première année contingentaire en fonction du chiffre le plus élevé de production annuelle pendant les années écoulées à partir de la campagne de récolte 1964-1965 comprise.
 
@@ -1212,7 +1212,7 @@ ANNEXE B
 
 Pays produisant moins de 10000 t de cacao ordinaire mentionnés au paragraphe 1 de l'article 30
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf))](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
 
 Source. - F. A. O., Statistiques du cacao, Bulletin mensuel, juillet 1972 (à l'exception des chiffres à l'Ouganda qui ont été communiqués par la délégation de ce pays à la Conférence des Nations Unies sur le cacao, 1972).
 
@@ -1222,17 +1222,17 @@ Producteurs de cacao fin («fine» ou «flavour»)
 
 1. Pays exportateurs produisant exclusivement du cacao fin («fine» ou «flavour»):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf))](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
 
 2. Pays exportateurs produisant, mais non exclusivement, du cacao fin («fine» ou «flavour»):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf))](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
 
 ANNEXE C
 
 Importations de cacao calculées aux fins de l'article 10 (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf))](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
 
 (nota 1) Moyenne pour les trois années 1969-1971 - ou moyenne des trois dernières années pour lesquelles des statistiques soient disponibles - des importations nettes de fèves de cacao plus les importations brutes de produits dérivés du cacao, converties en équivalent de fèves au moyen des coefficients de conversion énumérés au paragraphe 2 de l'article 32.
 
@@ -1242,7 +1242,7 @@ ANNEXE E
 
 Pays exportateurs auxquels s'applique le paragraphe 2 de l'article 36
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf))](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
 
 Brésil.
 
@@ -2180,7 +2180,7 @@ O Conselho pode fixar um prazo durante o qual cada Parte Contratante notificará
 
 ###### ARTIGO 76.º — Notificações pelo secretário-geral da Organização das Nações Unidas
 
-**O secretário-geral da Organização das Nações Unidas notificará todos os Estados membros da Organização das Nações Unidas, membros de qualquer das suas agências especializadas ou membros da Agência Internacional de Energia Atómica, de qualquer assinatura, de qualquer instrumento de ratificação, de aceitação, de aprovação ou de adesão, de qualquer notificação efectuada segundo o artigo 65.º e de qualquer intenção indicada de acordo com o artigo 66.º, e das datas nas quais o presente Acordo entrar em vigor a título provisório ou definitivo. O secretário-geral notificará todas as Partes Contratantes de qualquer notificação efectuada de acordo com o artigo 70.º, de qualquer notificação de retirada, de qualquer exlusão, do termo do presente Acordo, ou da sua prorrogação, da data na qual uma emenda entrar em vigor, ou for tida por retirada, e de qualquer cessação de participação no presente Acordo segundo o parágrafo 2 do artigo 75.º**
+O secretário-geral da Organização das Nações Unidas notificará todos os Estados membros da Organização das Nações Unidas, membros de qualquer das suas agências especializadas ou membros da Agência Internacional de Energia Atómica, de qualquer assinatura, de qualquer instrumento de ratificação, de aceitação, de aprovação ou de adesão, de qualquer notificação efectuada segundo o artigo 65.º e de qualquer intenção indicada de acordo com o artigo 66.º, e das datas nas quais o presente Acordo entrar em vigor a título provisório ou definitivo. O secretário-geral notificará todas as Partes Contratantes de qualquer notificação efectuada de acordo com o artigo 70.º, de qualquer notificação de retirada, de qualquer exlusão, do termo do presente Acordo, ou da sua prorrogação, da data na qual uma emenda entrar em vigor, ou for tida por retirada, e de qualquer cessação de participação no presente Acordo segundo o parágrafo 2 do artigo 75.º
 
 ###### ARTIGO 77.º — Textos autênticos do presente Acordo
 
@@ -2190,13 +2190,13 @@ Em fé do que os abaixo assinados, devidamente autorizados para tal pelos seus r
 
 ## ANEXO A — Quotas básicas de acordo com o parágrafo 1 do artigo 30.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf))](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
 
 Nota. - Quotas básicas calculadas para o primeiro ano-quota em função do número mais elevado da produção anual durante os anos passados a partir da campanha de colheita de 1964-1965, inclusive.
 
 ## ANEXO B — Países produzindo menos de 10 t de cacau ordinário, mencionados no parágrafo 1 do artigo 30.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf))](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
 
 Fonte. - F. A. O., «Estatísticas do cacau», Boletim Mensal, Julho de 1972 (com excepção dos números relativos ao Uganda, que foram comunicados pela delegação deste país à Conferência das Nações Unidas sobre o Cacau, 1972).
 
@@ -2204,15 +2204,15 @@ Fonte. - F. A. O., «Estatísticas do cacau», Boletim Mensal, Julho de 1972 (co
 
 1. Países exportadores produzindo exclusivamente cacau fino ou aromático:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf))](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
 
 2. Países exportadores produzindo, mas não exclusivamente, cacau fino ou aromático:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf))](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
 
 ## ANEXO D — Importações de cacau calculadas para os fins do artigo 10.º (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf))](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/07700/04250469.pdf)
 
 Fonte. - Números da F. A. O., «Estatísticas de cacau», extraídos da publicação Boletim Mensal, Julho de 1972.
 

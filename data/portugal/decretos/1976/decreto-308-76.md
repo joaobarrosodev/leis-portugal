@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/308-1976-502062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae54a9448e851647517cb665c58e3df6db22fa6edda33e69bb73f0d932501f3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 694126fa64f485f585fcbce2a143136c2f74f035a145d1621116ef4389524613
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento de Tarifas da Administração Geral do Porto de Lisboa
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:514034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:514034:por
+  label: "Alterados os arts. 26º, 30º, 34º e 47º do Regulamento de Tarifas da Administação do Porto de Lisboa, aprovado pelo\
+    \ Dec 24831 de 31-Dez 1934, com as alterações introduzidas pelo presente diploma, pela PORT.925-G/87.04.12.1987.MOPTC,\
+    \ DR.IS [279-2º Supl] de 04.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/925-g-1987-514034
+  date: '1987-12-04'
+- type: cites
+  target: pt:dre:154983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435978:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:427120:por
+  label: "Rectificado pela RECT.DD212.09.06.1976.PCM, DR.IS [135] de 09.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-427120
+  date: '1976-06-09'
+- type: repealed_by
+  target: pt:dre:599755:por
+  label: "Revogado o art. 3º pelo DEC LEI.8/87.06.01.1987.MOPTC, DR.IS [4] de 06.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-1987-599755
+  date: '1987-01-06'
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:41Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +138,7 @@ As disposições do Regulamento de Tarifas da Administração-Geral do Porto de 
 
 ...
 
-###### Art. 6.º Salvo nos casos especialmente previstos neste Regulamento, quando se trate de serviços que de qualquer modo envolvam mão-de-obra, as taxas fixadas são aumentadas de:
+Art. 6.º Salvo nos casos especialmente previstos neste Regulamento, quando se trate de serviços que de qualquer modo envolvam mão-de-obra, as taxas fixadas são aumentadas de:
 
 a) Nas três primeiras horas após o período normal de trabalho - 50%;
 
@@ -115,11 +146,11 @@ b) Nas restantes horas após o período normal de trabalho dos dias úteis, na h
 
 ...
 
-###### Art. 14.º Em casos especiais, devidamente justificados, pode o conselho de administração conceder redução de taxas, devendo iguais reduções ser aplicadas em regra a todos os casos idênticos que posteriormente se apresentem.
+Art. 14.º Em casos especiais, devidamente justificados, pode o conselho de administração conceder redução de taxas, devendo iguais reduções ser aplicadas em regra a todos os casos idênticos que posteriormente se apresentem.
 
 ...
 
-###### Art. 24.º ...
+Art. 24.º ...
 
 a) ...
 
@@ -129,13 +160,13 @@ c) Navios que entrem no porto de Lisboa para descarregar mercadoria em quantidad
 
 § único ...
 
-###### Art. 25.º ...
+Art. 25.º ...
 
 § 1.º Para aplicação da taxa de estacionamento de navio, a contagem do tempo começa e termina, respectivamente, quando o navio entra e sai a barra, de acordo com as horas indicadas pela Corporação dos Pilotos do Rio e Barra de Lisboa; se, entretanto, o navio não tiver realizado operações comerciais, é descontado o tempo de demora ocasionado por mau tempo, nevoeiro ou por motivo de força maior.
 
 § 2.º O navio com calado superior a 12 m que entre ou saia a barra fica sujeito ao pagamento de uma sobretaxa, dita sobretaxa de passagem da barra, a fixar pelo conselho de administração.
 
-###### Art. 26.º A taxa de estacionamento, por tonelada de arqueação bruta, é a seguinte:
+Art. 26.º A taxa de estacionamento, por tonelada de arqueação bruta, é a seguinte:
 
 a) Navios de carga, de carreira não regular:
 
@@ -169,7 +200,7 @@ Por iguais períodos sucessivos ... $08
 
 § único. Os navios portugueses de carga, de passageiros e de excursionistas ou turistas e os navios estrangeiros que por tratados especiais com Portugal têm o mesmo tratamento que os navios nacionais pagam 50% das taxas fixadas neste artigo.
 
-###### Art. 27.º ...
+Art. 27.º ...
 
 a) Os navios de carga, de carreira não regular, a partir da 4.ª viagem do mesmo ano civil pagam 70% das taxas da alínea a) do artigo 26.º;
 
@@ -181,7 +212,7 @@ c) Os navios que entrem no porto de Lisboa única e exclusivamente para sofrer r
 
 2.º Os das alíneas b), c) e d) do artigo 26.º - 60% das taxas respectivas.
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 a) ...
 
@@ -209,7 +240,7 @@ l) ...
 
 ...
 
-###### Art. 30.º A taxa de acostagem de navios, por tonelada de arqueação bruta e por período de vinte e quatro horas indivisível, é a seguinte:
+Art. 30.º A taxa de acostagem de navios, por tonelada de arqueação bruta e por período de vinte e quatro horas indivisível, é a seguinte:
 
 a) Navios de carreira não regular ... $30
 
@@ -235,21 +266,21 @@ h) Navios não abrangidos nas alíneas anteriores, material flutuante para fins 
 
 ...
 
-###### Art. 34.º Pode ser concedido por avença, na muralha, lugar fixo para acostagem mediante a taxe de 2500$00, por metro corrente e por ano civil.
+Art. 34.º Pode ser concedido por avença, na muralha, lugar fixo para acostagem mediante a taxe de 2500$00, por metro corrente e por ano civil.
 
 § único. Por metro de muralha ocupado a mais, paga a taxa de 15$00, por período de vinte e quatro horas
 
 ...
 
-###### Art. 38.º ...
+Art. 38.º ...
 
 § único. Além da taxa de porto, outras taxas podem incidir sobre a mercadoria, nomeadamente a taxa de armazenagem e a taxa de tráfego.
 
-###### Art. 39.º Denomina-se entreposto o recinto vedado em regime de depósito geral franco.
+Art. 39.º Denomina-se entreposto o recinto vedado em regime de depósito geral franco.
 
 ...
 
-###### Art. 47.º ...
+Art. 47.º ...
 
 § único. Cada grupo abrange, no todo ou em parte, as seguintes classes:
 
@@ -263,9 +294,9 @@ Mercadorias em regime de reexportação, reimportação, trânsito e baldeação
 
 Classe C - Mercadorias de tráfego fluvial.
 
-###### Art. 48.º A taxa de porto, aplicada de acordo com o grupo e a classe de mercadorias, é, por tonelada:
+Art. 48.º A taxa de porto, aplicada de acordo com o grupo e a classe de mercadorias, é, por tonelada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/04/09900/09150923.pdf))](https://files.diariodarepublica.pt/1s/1976/04/09900/09150923.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/04/09900/09150923.pdf)
 
 § 1.º ...
 
@@ -275,7 +306,7 @@ Classe C - Mercadorias de tráfego fluvial.
 
 § 4.º A taxa de porto a incidir sobre a areia para construção e escórias embarcadas ou desembarcadas nos cais livres, pontes ou desembarcadouros da AGPL, em regime de tráfego fluvial, é de 1$50 por tonelada.
 
-###### Art. 49.º São isentos da taxa de porto:
+Art. 49.º São isentos da taxa de porto:
 
 a) ...
 
@@ -301,7 +332,7 @@ l) As mercadorias que utilizam os transportes fluviais colectivos;
 
 m) Os materiais utilizados pela Direcção de Faróis na instalação e conservação dos faróis a seu cargo.
 
-###### Art. 50.º No pagamento da taxa de porto estão incluídos os direitos e a prestação de serviços seguintes:
+Art. 50.º No pagamento da taxa de porto estão incluídos os direitos e a prestação de serviços seguintes:
 
 a) Grupo I:
 
@@ -323,9 +354,9 @@ b) Grupo II:
 
 ...
 
-###### Art. 53.º O estacionamento de mercadorias, a coberto ou a descoberto, quer nos entrepostos quer nos terraplenos livres, além do prazo conferido pelo pagamento da taxa de porto, é passível do pagamento de uma taxa, dita taxa de armazenagem.
+Art. 53.º O estacionamento de mercadorias, a coberto ou a descoberto, quer nos entrepostos quer nos terraplenos livres, além do prazo conferido pelo pagamento da taxa de porto, é passível do pagamento de uma taxa, dita taxa de armazenagem.
 
-###### Art. 54.º A taxa de armazenagem de mercadoria estacionada nos terraplenos livres, com excepção de contentores, é, por metro quadrado:
+Art. 54.º A taxa de armazenagem de mercadoria estacionada nos terraplenos livres, com excepção de contentores, é, por metro quadrado:
 
 Por dia:
 
@@ -357,7 +388,7 @@ Do 1.º ao 8.º dia ... 1$00
 
 § 3.º Em caso de reconhecida necessidade, para desembaraço de um terrapleno, pode a AGPL, mediante aviso prévio, promover a remoção da mercadoria para outro terrapleno do porto, sendo o encargo da remoção de conta da mercadoria, se esta no prazo fixado não tiver sido retirada.
 
-###### Art. 55.º Toda a mercadoria classificada como carga geral que se ache armazenada a coberto nos entrepostos paga as seguintes taxas de armazenagem por quintal métrico ou 100 dm3:
+Art. 55.º Toda a mercadoria classificada como carga geral que se ache armazenada a coberto nos entrepostos paga as seguintes taxas de armazenagem por quintal métrico ou 100 dm3:
 
 Até oito dias ... $50
 
@@ -375,11 +406,11 @@ em que m representa o número completo ou incompleto dos meses de armazenagem e 
 
 § 3.º Em caso de reconhecida necessidade, para desembaraço dos terraplenos e armazéns, pode a AGPL, mediante aviso prévio, promover a remoção de mercadorias independentemente do seu regime alfandegário para outra zona do porto, sendo o encargo da remoção de conta da mercadoria, se esta no prazo fixado não tiver sido retirada.
 
-###### Art. 56.º As taxas de armazenagem que incidem sobre as mercadorias classificadas como carga especial e, bem assim, sobre veículos ligeiros, pesados, atrelados, industriais, agrícolas e de turismo, motorizados ou não, são duplas das correspondentes a carga geral fixadas no artigo 55.º
+Art. 56.º As taxas de armazenagem que incidem sobre as mercadorias classificadas como carga especial e, bem assim, sobre veículos ligeiros, pesados, atrelados, industriais, agrícolas e de turismo, motorizados ou não, são duplas das correspondentes a carga geral fixadas no artigo 55.º
 
-###### Art. 57.º A taxa de armazenagem a descoberto nos entrepostos é igual a 50% da correspondente taxa de armazenagem a coberto, salvo para os contentores, aos quais se aplicam as taxas do artigo 58.º
+Art. 57.º A taxa de armazenagem a descoberto nos entrepostos é igual a 50% da correspondente taxa de armazenagem a coberto, salvo para os contentores, aos quais se aplicam as taxas do artigo 58.º
 
-###### Art. 58.º A taxa de armazenagem de contentores, com carga ou vazios, é a seguinte:
+Art. 58.º A taxa de armazenagem de contentores, com carga ou vazios, é a seguinte:
 
 a) Estacionamento nos terraplenos, fora de terminais especializados, por contentor e por período indivisível de oito dias:
 
@@ -429,27 +460,27 @@ Superior a 20 pés ... 170$00
 
 ...
 
-###### Art. 72.º A taxa devida por exame, modificação, extracção de amostras, selagem, marcação e outros serviços acessórios requisitados para mercadoria entrepositada é de 30$00 por quarto de hora indivisível.
+Art. 72.º A taxa devida por exame, modificação, extracção de amostras, selagem, marcação e outros serviços acessórios requisitados para mercadoria entrepositada é de 30$00 por quarto de hora indivisível.
 
 § único. Esta taxa inclui pesagens, ferramentas, material de consumo e assistência de pessoal da AGPL, quando tal se verifique.
 
 ...
 
-###### Art. 75.º A taxa devida por aluguer de encerado para cobertura de mercadoria é de 30$00 por encerado e por dia completo ou incompleto.
+Art. 75.º A taxa devida por aluguer de encerado para cobertura de mercadoria é de 30$00 por encerado e por dia completo ou incompleto.
 
-###### Art. 76.º A taxa devida por estacionamento nos terraplenos livres de barracas desmontáveis ou amovíveis, quando a área ocupada for igual ou inferior a 8 m2, é de 60$00 por mês.
+Art. 76.º A taxa devida por estacionamento nos terraplenos livres de barracas desmontáveis ou amovíveis, quando a área ocupada for igual ou inferior a 8 m2, é de 60$00 por mês.
 
 § único. O estacionamento com área superior a 8 m2 é regulado pelo disposto no artigo 163.º
 
-###### Art. 77.º Os veículos que estacionem nos terraplenos em locais destinados a esse fim ficam sujeitos ao pagamento das taxas e às regras de utilização que forem estabelecidas pela AGPL.
+Art. 77.º Os veículos que estacionem nos terraplenos em locais destinados a esse fim ficam sujeitos ao pagamento das taxas e às regras de utilização que forem estabelecidas pela AGPL.
 
 § único. São dispensados do pagamento dessas taxas os veículos de transportes públicos quando estacionados em serviço em parques especialmente reservados.
 
 ...
 
-###### Art. 96.º O uso de guindastes de via é obrigatório em todos os cais onde se efectue serviço de carga ou descarga de mercadorias, desde que os haja disponíveis e possam ser empregados nesses serviços com a devida eficiência.
+Art. 96.º O uso de guindastes de via é obrigatório em todos os cais onde se efectue serviço de carga ou descarga de mercadorias, desde que os haja disponíveis e possam ser empregados nesses serviços com a devida eficiência.
 
-###### Art. 97.º As taxas de aluguer de guindastes de via são, por hora, as seguintes:
+Art. 97.º As taxas de aluguer de guindastes de via são, por hora, as seguintes:
 
 Até 5 t de força ... 200$00
 
@@ -461,7 +492,7 @@ De mais de 10 t até 20 t ... 350$00
 
 § 2.º Para efeito de aplicação da taxa considera-se início do período de aluguer o momento em que o guindaste é posto à disposição do requisitante no local da prestação do serviço.
 
-###### Art. 98.º Fora do período normal de trabalho as taxas ficam sujeitas aos seguintes agravamentos por hora:
+Art. 98.º Fora do período normal de trabalho as taxas ficam sujeitas aos seguintes agravamentos por hora:
 
 Nas três primeiras horas após o período normal de trabalho ... 150$00
 
@@ -469,7 +500,7 @@ b) Nas restantes horas após o período normal de trabalho dos dias úteis, na h
 
 § único. As taxas incluem o pessoal da AGPL, adstrito aos guindastes de via, necessário à efectivação do serviço, e são devidas até final do período para que foi aceite a requisição das operações de carga e descarga.
 
-###### Art. 99.º O 1.º período de aluguer dos guindastes de via é de uma hora indivisível; em serviços continuados mantém-se a facturação horária, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
+Art. 99.º O 1.º período de aluguer dos guindastes de via é de uma hora indivisível; em serviços continuados mantém-se a facturação horária, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
 
 § 1.º Quando o requisitante dispensar a utilização do guindaste antes de concluído o tempo para o qual tenha sido autorizado, é devida a facturação correspondente ao tempo não utilizado.
 
@@ -481,7 +512,7 @@ b) Se o pedido de cancelamento, desistência ou adiamento não for apresentado c
 
 § 3.º A AGPL não fica obrigada a conceder prorrogações para além do período para o qual o aluguer tenha sido autorizado.
 
-###### Art. 100.º A taxa de aluguer de gruas porta-contentores na movimentação de mercadoria que não seja contentor é de 2600$00 por hora.
+Art. 100.º A taxa de aluguer de gruas porta-contentores na movimentação de mercadoria que não seja contentor é de 2600$00 por hora.
 
 § 1.º O 1.º período de aluguer das gruas porta-contentores é de uma hora indivisível; em serviços continuados mantém-se a facturação horária, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
 
@@ -489,7 +520,7 @@ b) Se o pedido de cancelamento, desistência ou adiamento não for apresentado c
 
 § 3.º Fora do período normal de trabalho o pessoal é facturado nos termos do disposto no artigo 154.º
 
-###### Art. 101.º As taxas devidas pela utilização de aparelhos de guindar flutuantes são, por hora, as seguintes:
+Art. 101.º As taxas devidas pela utilização de aparelhos de guindar flutuantes são, por hora, as seguintes:
 
 Até 60 t ... 3200$00
 
@@ -503,9 +534,9 @@ b) Se o material se desloca para prestar mais de um serviço, atende-se para cad
 
 § 2.º À taxa inclui o emprego de rebocadores quando necessários e a lingagem que tenha de ser feita a bordo dos próprios aparelhos.
 
-###### Art. 102.º O 1.º período de aluguer dos aparelhos de guindar flutuantes é de uma hora indivisível; em serviços continuados mantém-se a facturação horária, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
+Art. 102.º O 1.º período de aluguer dos aparelhos de guindar flutuantes é de uma hora indivisível; em serviços continuados mantém-se a facturação horária, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
 
-###### Art. 103.º Fora do período normal de trabalho, as taxas estão sujeitas aos seguintes agravamentos por hora:
+Art. 103.º Fora do período normal de trabalho, as taxas estão sujeitas aos seguintes agravamentos por hora:
 
 a) Nas três primeiras horas após o período normal de trabalho ... 400$00
 
@@ -513,21 +544,21 @@ b) Nas restantes horas após o período normal de trabalho dos dias úteis, na h
 
 ...
 
-###### Art. 105.º Quando os aparelhos forem requisitados e não forem utilizados por motivos estranhos à AGPL, observa-se o seguinte:
+Art. 105.º Quando os aparelhos forem requisitados e não forem utilizados por motivos estranhos à AGPL, observa-se o seguinte:
 
 a) Se o pedido de cancelamento, desistência ou adiamento for apresentado com a antecedência de, pelo menos, duas horas em relação à hora marcada para início do serviço, é facturada a importância correspondente a 50% do tempo estimado, com o mínimo de quatro horas;
 
 b) Se o pedido de cancelamento, desistência ou adiamento não for apresentado com a antecedência de duas horas em relação a o início previsto, o serviço requisitado é facturado na totalidade como se se tivesse efectuado.
 
-###### Art. 106.º O tempo de transporte e permanência de volumes suspensos ou no convés dos aparelhos é contado para efeito de aplicação da taxa.
+Art. 106.º O tempo de transporte e permanência de volumes suspensos ou no convés dos aparelhos é contado para efeito de aplicação da taxa.
 
 § único. Quando os aparelhos transportem volumes no convés e, entretanto, forem realizados serviços para segundos requisitantes, é feito o correspondente desconto de tempo ao primeiro requisitante.
 
-###### Art. 107.º Na movimentação de volumes que pela sua forma, dimensão, natureza, valor ou riscos obriguem a manobras ou cuidados especiais, em serviços a prestar fora da área de jurisdição da AGPL e em salvamentos, não é de aplicar a taxa do artigo 101.º
+Art. 107.º Na movimentação de volumes que pela sua forma, dimensão, natureza, valor ou riscos obriguem a manobras ou cuidados especiais, em serviços a prestar fora da área de jurisdição da AGPL e em salvamentos, não é de aplicar a taxa do artigo 101.º
 
 § único. O preço do serviço prestado é fixado, caso por caso, pela AGPL.
 
-###### Art. 108.º Pela utilização de rebocadores ou lanchas em serviço de atracação (precedida ou não de reboque), de desatracação (seguida ou não de reboque), de amarração e de desamarração de navios a quaisquer instalações fixas ou flutuantes é cobrada, por cada unidade empregada, a taxa dada em escudos pelas seguintes expressões:
+Art. 108.º Pela utilização de rebocadores ou lanchas em serviço de atracação (precedida ou não de reboque), de desatracação (seguida ou não de reboque), de amarração e de desamarração de navios a quaisquer instalações fixas ou flutuantes é cobrada, por cada unidade empregada, a taxa dada em escudos pelas seguintes expressões:
 
 Navios até 500 ... T 750
 
@@ -545,11 +576,11 @@ em que T representa a tonelagem de arqueação bruta.
 
 § 2.º As taxas estabelecidas neste artigo e seu § 1.º correspondem ao limite de duração dos serviços de uma hora, excepto quando se trate de navios que atraquem às estações marítimas para desembarcar ou embarcar passageiros, caso em que é concedido o limite de duas horas; o tempo excedente é facturado pela taxa de rebocador ou lancha, à hora.
 
-###### Art. 109.º O cabo de reboque é fornecido pelo navio rebocado, podendo, todavia, quando solicitado pelo capitão do navio (ou por quem, no momento, o substitua), ser fornecido pela AGPL mediante o pagamento de 300$00 por cabo utilizado.
+Art. 109.º O cabo de reboque é fornecido pelo navio rebocado, podendo, todavia, quando solicitado pelo capitão do navio (ou por quem, no momento, o substitua), ser fornecido pela AGPL mediante o pagamento de 300$00 por cabo utilizado.
 
 ...
 
-###### Art. 111.º Pelo serviço de desatracação e atracação sucessivas e correspondente reboque, de desamarração e amarração sucessivas a instalações fixas ou flutuantes e, ainda, pela condução de navios dos locais onde se encontram atracados ou amarrados para entrada em doca seca ou vice-versa cobra-se, por rebocador ou lancha empregados, a taxa do artigo 108.º correspondente à operação simples de atracação ou desatracação, acrescida de 50%, desde que não haja interrupção de reboque.
+Art. 111.º Pelo serviço de desatracação e atracação sucessivas e correspondente reboque, de desamarração e amarração sucessivas a instalações fixas ou flutuantes e, ainda, pela condução de navios dos locais onde se encontram atracados ou amarrados para entrada em doca seca ou vice-versa cobra-se, por rebocador ou lancha empregados, a taxa do artigo 108.º correspondente à operação simples de atracação ou desatracação, acrescida de 50%, desde que não haja interrupção de reboque.
 
 § 1.º Sempre que haja interrupção na actuação do reboque ou que este siga, isolado, para novo local de manobra por motivos estranhos à AGPL, os serviços de desatracação e atracação são facturados separadamente.
 
@@ -557,11 +588,11 @@ em que T representa a tonelagem de arqueação bruta.
 
 ...
 
-###### Art. 114.º Para efeito de contagem do tempo na aplicação das taxas fixadas para as operações referidas nos artigos 108.º, 110.º e 111.º, a origem e o fim dos serviços são determinados, respectivamente, pelo momento em que a unidade chega junto do navio para lhe prestar o serviço ou pela hora para que foi requisitado, se o navio chegar posteriormente a essa hora, e o momento em que termina a operação.
+Art. 114.º Para efeito de contagem do tempo na aplicação das taxas fixadas para as operações referidas nos artigos 108.º, 110.º e 111.º, a origem e o fim dos serviços são determinados, respectivamente, pelo momento em que a unidade chega junto do navio para lhe prestar o serviço ou pela hora para que foi requisitado, se o navio chegar posteriormente a essa hora, e o momento em que termina a operação.
 
 ...
 
-###### Art. 116.º As taxas devidas por serviços não discriminados nos artigos 108.º, 110.º e 111.º prestados por rebocadores são, por hora:
+Art. 116.º As taxas devidas por serviços não discriminados nos artigos 108.º, 110.º e 111.º prestados por rebocadores são, por hora:
 
 Rebocador até 500 HP ... 750$00
 
@@ -581,9 +612,9 @@ b) Se a unidade se desloca para prestar mais de um serviço, atende-se, por serv
 
 ...
 
-###### Art. 118.º A taxa devida por serviço de retirar fragatas das muralhas ou dos canais de acesso é de 200$00 por operação de rebocador ou lancha e por fragata.
+Art. 118.º A taxa devida por serviço de retirar fragatas das muralhas ou dos canais de acesso é de 200$00 por operação de rebocador ou lancha e por fragata.
 
-###### Art. 119.º A taxa devida por serviços prestados por lanchas não discriminados nos artigos 108.º, 110.º e 111.º é de 500$00 por hora.
+Art. 119.º A taxa devida por serviços prestados por lanchas não discriminados nos artigos 108.º, 110.º e 111.º é de 500$00 por hora.
 
 § 1.º São aplicáveis aos serviços a que se refere o corpo deste artigo as disposições dos §§ 1.º e 2.º do artigo 116.º
 
@@ -595,7 +626,7 @@ b) Se a unidade se desloca para prestar mais de um serviço, atende-se, por serv
 
 § 5.º As disposições dos §§ 2.º e 3.º não são aplicáveis quando, por indisponibilidade do seu material, a AGPL não possa fornecer lancha ou quando, sendo suficiente uma só unidade, a empresa proprietária do material flutuante disponha dela e a utilize.
 
-###### Art. 120.º Quando os rebocadores e lanchas forem requisitados e não forem utilizados por motivos estranhos à AGPL, observa-se o seguinte:
+Art. 120.º Quando os rebocadores e lanchas forem requisitados e não forem utilizados por motivos estranhos à AGPL, observa-se o seguinte:
 
 a) Se o pedido de cancelamento, desistência ou adiamento for apresentado com a antecedência de, pelo menos, uma hora em relação à hora marcada para início do serviço, é facturada a importância correspondente a 50% do tempo requisitado, com o mínimo de duas horas;
 
@@ -603,11 +634,11 @@ b) Se o pedido de cancelamento, desistência ou adiamento não for apresentado c
 
 ...
 
-###### Art. 124.º As taxas fixadas neste capítulo só são aplicáveis aios serviços prestados em condições normais e dentro da área de jurisdição da AGPL.
+Art. 124.º As taxas fixadas neste capítulo só são aplicáveis aios serviços prestados em condições normais e dentro da área de jurisdição da AGPL.
 
 § único. Fora destes casos, designadamente nos que digam respeito a salvamento, as importâncias a cobrar são fixadas pelo conselho de administração.
 
-###### Art. 125.º Salvo nos casos previstos no § 2.º, é facultativa a utilização de rebocadores para todos os navios que atraquem (desatraquem) aos (dos) cais ou outras instalações acostáveis, a (de) outro navio já acostado e, ainda, para os que entrem (saiam) nas (das) docas secas ou molhadas.
+Art. 125.º Salvo nos casos previstos no § 2.º, é facultativa a utilização de rebocadores para todos os navios que atraquem (desatraquem) aos (dos) cais ou outras instalações acostáveis, a (de) outro navio já acostado e, ainda, para os que entrem (saiam) nas (das) docas secas ou molhadas.
 
 § 1.º Se for necessário o emprego de rebocadores, é obrigatória a utilização de, pelo menos, uma unidade da AGPL, excepto para os navios do Estado e de tráfego local.
 
@@ -619,35 +650,35 @@ b) Se o pedido de cancelamento, desistência ou adiamento não for apresentado c
 
 § 5.º As disposições dos parágrafos anteriores não são aplicáveis quando, por indisponibilidade do seu material, a ACPL não possa fornecer rebocador ou quando, sendo suficiente uma só unidade, a empresa proprietária do navio disponha dela e a utilize.
 
-###### Art. 126.º A taxa devida por aluguer de lanchas-defensas ou de pontões-cais é de 1760$00 por dia indivisível.
+Art. 126.º A taxa devida por aluguer de lanchas-defensas ou de pontões-cais é de 1760$00 por dia indivisível.
 
-###### Art. 127.º A taxa devida por aluguer de cada unidade flutuante servindo de defensa a navios que venham acostar às muralhas da AGPL, incluindo a sua colocação e remoção, é de 330$00 por dia indivisível.
+Art. 127.º A taxa devida por aluguer de cada unidade flutuante servindo de defensa a navios que venham acostar às muralhas da AGPL, incluindo a sua colocação e remoção, é de 330$00 por dia indivisível.
 
 ...
 
-###### Art. 131.º A taxa a aplicar por serviço de mergulhador, compreendendo todo o pessoal e material, é, durante as operações de mergulho, de 1650$00 por hora, sendo o mínimo cobrável de duas horas. O tempo excedente é facturado por hora, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
+Art. 131.º A taxa a aplicar por serviço de mergulhador, compreendendo todo o pessoal e material, é, durante as operações de mergulho, de 1650$00 por hora, sendo o mínimo cobrável de duas horas. O tempo excedente é facturado por hora, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
 
 § único. A deslocação do material e do pessoal é de conta do requisitante.
 
-###### Art. 132.º Reverte a favor dos mergulhadores que tenham intervindo no serviço, desde que a intervenção tenha tido reconhecimento eficaz e dela unicamente haja dependido o bom resultado do trabalho, a importância correspondente a 10% do valor cobrado nos termos do disposto no corpo do artigo 131.º
+Art. 132.º Reverte a favor dos mergulhadores que tenham intervindo no serviço, desde que a intervenção tenha tido reconhecimento eficaz e dela unicamente haja dependido o bom resultado do trabalho, a importância correspondente a 10% do valor cobrado nos termos do disposto no corpo do artigo 131.º
 
-###### Art. 133.º A taxa a que se refere o artigo 131.º somente é aplicável na área de jurisdição da AGPL e para operações de inspecção e lingagem de objectos caldos ao rio ou outros trabalhos simples, não sendo aplicável a tarefas especiais, designadamente as relacionadas com operações de salvamento.
-
-...
-
-###### Art. 142.º A taxa devida por fornecimento de água é de 10$00 por metro cúbico.
+Art. 133.º A taxa a que se refere o artigo 131.º somente é aplicável na área de jurisdição da AGPL e para operações de inspecção e lingagem de objectos caldos ao rio ou outros trabalhos simples, não sendo aplicável a tarefas especiais, designadamente as relacionadas com operações de salvamento.
 
 ...
 
-###### Art. 144.º Fora do período normal de trabalho, o pessoal é facturado nos termos do disposto no artigo 154.º
+Art. 142.º A taxa devida por fornecimento de água é de 10$00 por metro cúbico.
 
 ...
 
-###### Art. 148.º A taxa devida por fornecimento de luz eléctrica necessária à execução de serviços de carga e descarga, fora do período normal de trabalho, é de 250$00 por hora indivisível e por requisitante do serviço.
+Art. 144.º Fora do período normal de trabalho, o pessoal é facturado nos termos do disposto no artigo 154.º
+
+...
+
+Art. 148.º A taxa devida por fornecimento de luz eléctrica necessária à execução de serviços de carga e descarga, fora do período normal de trabalho, é de 250$00 por hora indivisível e por requisitante do serviço.
 
 § único. A taxa inclui o material e o pessoal da AGPL necessário ao fornecimento.
 
-###### Art. 149.º As taxas devidas por utilização de básculas são:
+Art. 149.º As taxas devidas por utilização de básculas são:
 
 a) Por veículo vazio ... 10$00
 
@@ -657,7 +688,7 @@ b) Por veículo carregado ou por quaisquer volumes de mercadorias, por cada tone
 
 ...
 
-###### Art. 152.º As taxas devidas por aluguer de ferramentas e utensílios vários são, por unidade e por dia indivisível:
+Art. 152.º As taxas devidas por aluguer de ferramentas e utensílios vários são, por unidade e por dia indivisível:
 
 a) Ferramentas (chaves-inglesas ou francesas, corta-arames, maços, martelos, trinchas, etc.) ... 20$00
 
@@ -667,7 +698,7 @@ b) Utensílios (estropos, lingas, patolas, pranchas, etc.) ... 50$00
 
 ...
 
-###### Art. 155.º As taxas devidas por fornecimento de impressos são, por unidade:
+Art. 155.º As taxas devidas por fornecimento de impressos são, por unidade:
 
 a) Modelos 0001, 0001-A, 0004, 0005, 0005-A, 0963, 1024 e 1332 ... 4$00
 
@@ -677,11 +708,11 @@ c) Modelos 0006 e 1225 ... 2$00
 
 ...
 
-###### Art. 164.º Pelas pontes, estacadas e outras instalações ocupando o leito do Tejo dentro da área de jurisdição da AGPL, quer as já existentes quer a; que venham a ser autorizadas, é cobrada pela superfície do álveo cativo, por metro quadrado e por mês, a taxa de 1$00.
+Art. 164.º Pelas pontes, estacadas e outras instalações ocupando o leito do Tejo dentro da área de jurisdição da AGPL, quer as já existentes quer a; que venham a ser autorizadas, é cobrada pela superfície do álveo cativo, por metro quadrado e por mês, a taxa de 1$00.
 
 ...
 
-###### Art. 166.º A taxa devida pela utilização de passadiços de acesso a navios nas estações marítimas é de 300$00 por passadiço e por período de doze horas indivisível.
+Art. 166.º A taxa devida pela utilização de passadiços de acesso a navios nas estações marítimas é de 300$00 por passadiço e por período de doze horas indivisível.
 
 § 1.º Esta taxa inclui o transporte de e para o local de serviço, a colocação e a assistência durante o período de utilização do passadiço.
 
@@ -689,7 +720,7 @@ c) Modelos 0006 e 1225 ... 2$00
 
 § 3.º No caso de utilização de passadiços fora das estações marítimas é devida a taxa de 150$00 por passadiço e por período de vinte e quatro horas indivisível. Esta taxa não inclui o transporte de e para local de serviço e a colocação fora do período normal de trabalho do pessoal.
 
-###### Art. 167.º Pela utilização do estações marítimas de passageiros e de terminais para car-ferry, com exclusão de quaisquer serviços de guindastes e de passadiços móveis, são cobradas as seguintes taxas:
+Art. 167.º Pela utilização do estações marítimas de passageiros e de terminais para car-ferry, com exclusão de quaisquer serviços de guindastes e de passadiços móveis, são cobradas as seguintes taxas:
 
 a) Por passageiro ... 50$00
 
@@ -731,7 +762,7 @@ e) Os passageiros em trânsito e os excursionistas.
 
 Os títulos e capítulos do Regulamento de Tarifas da Administração-Geral do Porto de Lisboa, aprovado pelo [Decreto n.º 24831](https://diariodarepublica.pt/dr/detalhe/decreto/24831-1934-435978), de 31 de Dezembro de 1934, a seguir indicados, passam a vigorar com a seguinte designação:
 
-## Título III - Capítulo VI «Terraplenos livres»; Título IV - Capítulo I «Guindastes de via», Capítulo II «Gruas porta-contentores», Capítulo III «Aparelhos de guindar flutuantes»; Título V - Capítulo I «Rebocadores e lanchas»; Título XI «Utilização de estações marítimas de passageiros e de terminais car-ferry».
+Título III - Capítulo VI «Terraplenos livres»; Título IV - Capítulo I «Guindastes de via», Capítulo II «Gruas porta-contentores», Capítulo III «Aparelhos de guindar flutuantes»; Título V - Capítulo I «Rebocadores e lanchas»; Título XI «Utilização de estações marítimas de passageiros e de terminais car-ferry».
 
 ###### ARTIGO 3.º — (Modificação de tarifas)
 
@@ -747,8 +778,8 @@ Este decreto revoga as seguintes disposições do Regulamento de Tarifas da Admi
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - José Augusto Fernandes.
 
-**Promulgado em 12 de Abril de 1976.**
+Promulgado em 12 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

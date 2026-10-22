@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-1981-570356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb82c0fd264114fa62ff39677e4726667855ba81c2db05bd49066e4c88c22bdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09c4f293b342d67201d372b6246414e623ec83979c4b83830ea0a5d68cdc6999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comutação da Pena
+- Perdão da Pena
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:25Z'
   warnings: []
   errors: []
 ---
@@ -84,12 +86,12 @@ validation:
 
 de 9 de Janeiro
 
-**O Presidente da República decreta, nos termos do artigo 137.º, n.º 1, alínea e), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 137.º, n.º 1, alínea e), da Constituição, o seguinte:
 
 É comutada a pena de três anos de suspensão dos direitos políticos imposta a Luís José Mendes Teixeira da Fonseca pelo Acórdão de 24 de Outubro de 1978 do Tribunal Militar Territorial de Coimbra, que é reduzida para dois anos.
 
-**Assinado em 22 de Dezembro de 1980.**
+Assinado em 22 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - Pelo Primeiro-Ministro, Diogo Pinto de Freitas do Amaral, Vice-Primeiro-Ministro.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - Pelo Primeiro-Ministro, Diogo Pinto de Freitas do Amaral, Vice-Primeiro-Ministro.

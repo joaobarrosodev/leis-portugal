@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 227/1973, 1º Suplemento, Série I de 1973-09-27
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1672-(6) a 1672-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/09/22701/00060008.pdf
 entry_into_force_dates: []
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/486-1973-599971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be362dbfd091e252b0edb0131673b5355500a7512a62ee03b5e56dfd5df893ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 184cf81733800c93e8c49c39143f598a992f0ee395f99d0912b18923931583f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Nacional de Pensões
+- Caixa Sindical de Previdência
+- Cálculo de Pensões
+- Pensão de Invalidez
+- Pensão de Reforma
+- Pensão de Velhice
+- Previdência Social
+- Regulamento
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:497850:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251778:por
+  label: "Dada nova redação aos arts. 77º e 88º do Regulamento Geral das Caixas Sindicais de Previdência, aprovado pelo Dec\
+    \ 45266 de 23-set 1963, alterado pelo presente diploma, pelo DR.26/77.04.05.1977.MAS, DR.IS [103] de 04.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-1977-251778
+  date: '1977-05-04'
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:52Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +126,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 77.º, 80.º, 88.º e 89.º do Regulamento Geral das Caixas Sindicais de Previdência, aprovado pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 77.º, 80.º, 88.º e 89.º do Regulamento Geral das Caixas Sindicais de Previdência, aprovado pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passam a ter a seguinte redacção:
 
-###### Art. 77.º - 1. ...
+Art. 77.º - 1. ...
 
 2. Na Caixa Nacional de Pensões o tempo a considerar como prazo de garantia será de três anos de inscrição, exigindo-se ainda que o beneficiário conte vinte e quatro meses de contribuição.
 
@@ -121,7 +140,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 80.º - 1. O montante da pensão será calculado nos termos previstos no estatuto da instituição, não podendo ultrapassar 70% nem ser inferior a 30% da retribuição a considerar para o cálculo.
+Art. 80.º - 1. O montante da pensão será calculado nos termos previstos no estatuto da instituição, não podendo ultrapassar 70% nem ser inferior a 30% da retribuição a considerar para o cálculo.
 
 2. Na Caixa Nacional de Pensões o montante mensal da pensão é igual a 2% da retribuição média calculada nos termos do número seguinte, por cada ano civil com entrada de contribuições.
 
@@ -139,24 +158,24 @@ em que S representa o total das retribuições dos cinco anos civis a que corres
 
 ...
 
-###### Art. 88.º - 1. O direito à pensão é reconhecido aos beneficiários que tenham completado a idade e o tempo de inscrição estatutariamente previstos, não podendo este ser inferior a três anos.
+Art. 88.º - 1. O direito à pensão é reconhecido aos beneficiários que tenham completado a idade e o tempo de inscrição estatutariamente previstos, não podendo este ser inferior a três anos.
 
 2. Na Caixa Nacional de Pensões a idade normal de reforma será de 65 anos para os beneficiários do sexo masculino e de 62 para os do sexo feminino e o prazo de garantia será de três anos de inscrição, exigindo-se ainda que o beneficiário conte vinte e quatro meses, de contribuições.
 
 3. O Ministro das Corporações e Previdência Social poderá, por despacho publicado no Diário do Governo, reduzir a idade de reforma referida no n.º 2 deste artigo relativamente aos beneficiários que exerçam profissões especialmente desgastantes.
 
-###### Art. 89.º - 1. O montante da pensão será calculado nos termos previstos no estatuto da Caixa, não podendo ultrapassar 70% nem ser inferior a 30% do salário base.
+Art. 89.º - 1. O montante da pensão será calculado nos termos previstos no estatuto da Caixa, não podendo ultrapassar 70% nem ser inferior a 30% do salário base.
 
 2. Na Caixa Nacional de Pensões o montante da pensão será de 2% da retribuição média, calculado nos termos do n.º 3 do artigo 80.º, por cada ano civil com entrada de contribuições.
 
 3. Às pensões de reforma aplica-se o disposto nos n.os 4 a 6 do artigo 80.º
 
-###### Art. 2.º O presente diploma entra em vigor em 1 de Janeiro de 1974.
+Art. 2.º O presente diploma entra em vigor em 1 de Janeiro de 1974.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 20 de Setembro de 1973.**
+Promulgado em 20 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

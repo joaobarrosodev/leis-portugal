@@ -46,40 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1982-600294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4999b201dcf439135fd6e93b590ebc56b328f6fae93a214693175868feb0ed0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc13907542e82f81a3811e40f727757955276801dd622e3b72f2cdd44d70119c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Imóvel Classificado
+- Património Cultural
+- Protecção do Património
 relationships:
 - type: amended_by
   target: pt:dre:179557:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552318:por
+  label: "Alterado o artigo 2.º, na parte referente ao «Convento de São Francisco e cemitério anexo», no distrito de Évora,\
+    \ pelo DEC.45/93.30.11.1993.PCM, DR.IS-B [280] de 30.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45-1993-552318
+  date: '1993-11-30'
+- type: amended_by
+  target: pt:dre:321683:por
+  label: "Alterado o art. 2º pelo DEC 67/97.1997.12.31.MC, DR.IS-B [301]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/67-1997-321683
+  date: '1997-12-31'
+- type: amended_by
+  target: pt:dre:278071:por
+  label: "Alterado na parte referente à \"Quinra de Valflores\" o art. 2º pelo DEC.5/2002.2002.02.19.MC, DR.IS [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/5-2002-278071
+  date: '2002-02-19'
+- type: amended_by
+  target: pt:dre:179557:por
+  label: "Reclassificado como monumento nacional o Teatro Nacional de São João, no Porto, classificado como imóvel de interesse\
+    \ público, pelo DEC.16/2012.10.07.2012.PCM, DR.IS [132] de 10.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/16-2012-179557
+  date: '2012-07-10'
+- type: amended_by
+  target: pt:dre:145710680:por
+  label: Revista e ampliada a zona especial de proteção da Quinta de Valflores, concelho de Loures, distrito de Lisboa pelo(a)
+    Portaria n.º 621/2020 - Diário da República n.º 203/2020, Série II de 2020-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-2020-145710680
+  date: '2020-10-19'
+- type: cites
+  target: pt:dre:184960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:02Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +161,7 @@ de 26 de Fevereiro
 
 De acordo, nomeadamente, com os artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, do n.º 1 do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965, do n.º 1 do artigo 1.º e n.º 1 do artigo 2.º do [Decreto-Lei n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1978-468850), de 7 de Janeiro, da alínea a) do artigo 2.º e alínea a) do artigo 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, e do artigo 3.º do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
+Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
 
 Distrito de Bragança:
 
@@ -126,7 +197,7 @@ Concelho de Vila Pouca de Aguiar:
 
 Castelo de Pena de Aguiar, na freguesia de Telões.
 
-###### Art. 2.º São classificados como de interesse público os seguintes imóveis:
+Art. 2.º São classificados como de interesse público os seguintes imóveis:
 
 Distrito de Aveiro:
 
@@ -502,7 +573,7 @@ Concelho de São Pedro do Sul:
 
 Ponte de Manhouce, sobre a ribeira de Manhouce.
 
-###### Art. 3.º São classificados como valores concelhios os seguintes imóveis:
+Art. 3.º São classificados como valores concelhios os seguintes imóveis:
 
 Distrito de Beja:
 
@@ -658,7 +729,7 @@ Concelho de Viseu:
 
 Solar dos Peixotos, no Largo de São Martinho, em Viseu.
 
-###### Art. 4.º Fica esclarecido que:
+Art. 4.º Fica esclarecido que:
 
 a) O imóvel classificado como monumento nacional pelo Decreto de 16 de Junho de 1910, no concelho de Pedrógão Grande, distrito de Leiria, se denomina «Ponte do Cabril», e não «Fonte do Cabril», como, por lapso, se lê no referido decreto;
 
@@ -678,8 +749,8 @@ h) O valor concelhio situado na Rua do Castelo, em Freixo de Numão, concelho de
 
 Francisco José Pereira Pinto Balsemão - Francisco António Lucas Pires.
 
-**Promulgado em 11 de Fevereiro de 1982.**
+Promulgado em 11 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

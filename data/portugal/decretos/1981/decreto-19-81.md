@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-1981-570343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8317585a93c1ca3488ecffbf9d7fe97e9049a016900d9f97e24ab48f4fb34c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ae4e02dbe5c1af201f21e76e24569803bc5b6cd92f4e0508e82eb1336fd7d3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comutação da Pena
+- Perdão da Pena
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:25Z'
   warnings: []
   errors: []
 ---
@@ -85,12 +87,12 @@ validation:
 
 de 9 de Janeiro
 
-**O Presidente da República decreta, nos termos do artigo 137.º, n.º 1, alínea e), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 137.º, n.º 1, alínea e), da Constituição, o seguinte:
 
 É comutada a pena de dezasseis anos e três meses de prisão maior que, além do mais, foi imposta a Manuel Joaquim Malaquias Negrita pelo Acórdão, de 27 de Junho de 1977 do 2.º Juízo do Tribunal de Coimbra (processo n.º 64/77) para a pena de dez anos e três meses de prisão maior.
 
-**Assinado em 22 de Dezembro de 1980.**
+Assinado em 22 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - Pelo Primeiro-Ministro, Diogo Pinto de Freitas do Amaral, Vice-Primeiro-Ministro.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - Pelo Primeiro-Ministro, Diogo Pinto de Freitas do Amaral, Vice-Primeiro-Ministro.

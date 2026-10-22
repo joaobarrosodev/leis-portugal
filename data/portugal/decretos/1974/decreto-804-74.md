@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 303/1974, 6º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 1670-(127) a 1670-(128)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30306/01270128.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/804-1974-235946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ca5b61c0a03adc5d84404df4e893f253040c5dffd4c6d0dbb10e5439057657c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98b740bb576f24a6efeb03aa6eb2ef34b29dc27447c9b6e125b06517add2d2be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,29 @@ relationships:
   target: pt:dre:408542:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:351731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376267:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408542:por
+  label: Revogado o n.º 1 do art. 4.º, pelo(a) Decreto n.º 686/76 - Diário da República n.º 218/1976, Série I de 1976-09-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/686-1976-408542
+  date: '1976-09-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:38Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +105,11 @@ Considerando necessário e urgente proceder à liquidação do Grémio dos Indus
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É extinto o Grémio dos Industriais de Transportes em Automóveis, criado pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267), de 5 de Fevereiro de 1935.
+Artigo 1.º - 1. É extinto o Grémio dos Industriais de Transportes em Automóveis, criado pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267), de 5 de Fevereiro de 1935.
 
 2. A extinção efectiva processar-se-á em 31 de Dezembro de 1974, podendo excepcionalmente fixar-se uma data posterior mediante despacho do Secretário de Estado dos Transportes e Comunicações.
 
-###### Art. 2.º - 1. Por despacho do Secretário de Estado dos Transportes e Comunicações será nomeada uma comissão liquidatária, a fim de assegurar o funcionamento dos serviços e a gestão do pessoal.
+Art. 2.º - 1. Por despacho do Secretário de Estado dos Transportes e Comunicações será nomeada uma comissão liquidatária, a fim de assegurar o funcionamento dos serviços e a gestão do pessoal.
 
 2. A esta comissão compete:
 
@@ -112,7 +125,7 @@ e) Dar parecer sobre todas as matérias que superiormente sejam submetidas à su
 
 3. Ao presidente da comissão cabem as atribuições cometidas ao delegado do Governo no Grémio dos Industriais de Transportes em Automóveis pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267).
 
-###### Art. 3.º - 1. A extinção efectiva do Grémio dos Industriais de Transportes em Automóveis implica a transferência para as entidades que venham a substituí-lo, mediante despacho do Secretário de Estado dos Transportes e Comunicações:
+Art. 3.º - 1. A extinção efectiva do Grémio dos Industriais de Transportes em Automóveis implica a transferência para as entidades que venham a substituí-lo, mediante despacho do Secretário de Estado dos Transportes e Comunicações:
 
 a) Das funções que devam subsistir;
 
@@ -126,20 +139,20 @@ c) Dos saldos de fundos existentes.
 
 4. A transferência do património dos organismos extintos está isenta de quaisquer contribuições e impostos.
 
-###### Art. 4.º - 1 O pessoal do organismo extinto deverá ficar ao serviço das entidades privadas, às quais venham a ser atribuídas as funções que àquele competiam e a totalidade ou parte do seu património.
+Art. 4.º - 1 O pessoal do organismo extinto deverá ficar ao serviço das entidades privadas, às quais venham a ser atribuídas as funções que àquele competiam e a totalidade ou parte do seu património.
 
 2. A responsabilidade pela colocação do pessoal deverá condicionar sempre a possibilidade da transferência do património do organismo extinto para quaisquer entidades privadas.
 
 3. Essa transferência efectuar-se-á independentemente de quaisquer requisitos ou formalidades.
 
-###### Art. 5.º As dúvidas suscitadas na aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado dos Transportes e Comunicações.
+Art. 5.º As dúvidas suscitadas na aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado dos Transportes e Comunicações.
 
-###### Art. 6.º Este diploma entra imediatamente em vigor.
+Art. 6.º Este diploma entra imediatamente em vigor.
 
 Vasco dos Santos Gonçalves - José Augusto Fernandes.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

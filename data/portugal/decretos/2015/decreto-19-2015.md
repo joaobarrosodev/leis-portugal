@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20600/0915709163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/2015/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-2015-70762382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7889d0874551daae1c3670447f5290de80c3839c67a91de746dc55d32971f07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 917afef62e61b15f27c8ac0bd65a0e54bef0959b794ffe081f9ddc8a2653d855
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
-- Convenção
-- Portugal
-- DOHA
-- Nova Iorque
-- Quioto
 - Alteração Climática
 - Clima
+- Convenção
+- DOHA
+- Efeito de Estufa
+- Nova Iorque
+- Portugal
+- Quioto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/av/129/1994/03/23/p/dre
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/7/2002/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/7/2002/03/25/p/dre
+- type: cites
+  target: pt:dre:224623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300578:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:40Z'
   warnings: []
   errors: []
 ---
@@ -129,15 +145,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de outubro de 2015. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Paulo Guilherme da Silva Lemos.
 
-**Assinado em 14 de outubro de 2015.**
+Assinado em 14 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de outubro de 2015.**
+Referendado em 16 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 Doha amendment to the Kyoto Protocol
 
@@ -147,7 +163,7 @@ A. Annex B to the Kyoto Protocol
 
 The following table shall replace the table in Annex B to the Protocol:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/20600/0915709163.pdf))](https://files.diariodarepublica.pt/1s/2015/10/20600/0915709163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/20600/0915709163.pdf)
 
 B. Annex A to the Kyoto Protocol
 
@@ -245,7 +261,7 @@ This amendment shall enter into force in accordance with Articles 20 and 21 of t
 
 (1) Applies only from the beginning of the second commitment period.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/20600/0915709163.pdf))](https://files.diariodarepublica.pt/1s/2015/10/20600/0915709163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/20600/0915709163.pdf)
 
 Emenda de Doha ao Protocolo de Quioto
 
@@ -253,7 +269,7 @@ Emenda de Doha ao Protocolo de Quioto
 
 A tabela no anexo B do Protocolo é substituída pela seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/20600/0915709163.pdf))](https://files.diariodarepublica.pt/1s/2015/10/20600/0915709163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/20600/0915709163.pdf)
 
 B. Anexo A do Protocolo de Quioto
 
@@ -345,7 +361,7 @@ pelas palavras:
 
 válido durante o período de cumprimento a que se refere o artigo 3.º
 
-###### Artigo 2.º: Entrada em vigor
+Artigo 2.º: Entrada em vigor
 
 Esta Emenda entrará em vigor de acordo com os artigos 20.º e 21.º do Protocolo de Quioto.
 

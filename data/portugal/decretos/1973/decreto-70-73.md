@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/70-1973-684801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:31:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f99b8d3ac29d0d322255558c53796ca44e0d6fb6c9a94bca5b62f83ae4db68a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e97615e8f9ca6b2441dfdb7af64da6e5e4ccbecb7b3129d9a8c684c781cb2f05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:31:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:31:52Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +134,7 @@ f) Contribuir para a realização dos fins que lhe forem assinalados em despacho
 
 ###### ARTIGO 4.º — (Remunerações do presidente, vogais e secretário da comissão administrativa)
 
-**O presidente, vogais e secretário da comissão administrativa terão direito a remunerações, a fixar por despacho do Governador-Geral.**
+O presidente, vogais e secretário da comissão administrativa terão direito a remunerações, a fixar por despacho do Governador-Geral.
 
 ###### ARTIGO 5.º — (Receitas do Fundo)
 
@@ -220,10 +220,10 @@ Este diploma entrará em vigor nos Estados de Angola e Moçambique na data da en
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 16 de Fevereiro de 1973.**
+Promulgado em 16 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais dos Estados de Angola e Moçambique. - J. da Silva Cunha.

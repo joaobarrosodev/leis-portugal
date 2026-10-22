@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46-1990-565408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe533c145cdb0ff90700b5910a692912b405cc694bf75a9fcf0e67a09927f9be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e19b543ac8428b0c64ffad06a89dc0c66a030ac1b07b4a70e6f873e1d01d339
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo AGR
+- Acordo Europeu
+- Auto-estrada
+- Convenção
+- Genebra
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:22Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +92,19 @@ de 26 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Acordo Europeu sobre as Grandes Estradas de Tráfego Internacional (AGR), concluído em Genebra em 15 de Novembro de 1975, cujo texto original em inglês e a respectiva tradução para Português seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para adesão, o Acordo Europeu sobre as Grandes Estradas de Tráfego Internacional (AGR), concluído em Genebra em 15 de Novembro de 1975, cujo texto original em inglês e a respectiva tradução para Português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 1990. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Álvaro Severiano da Silva Magalhães.
 
 Ratificado em 28 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1990.**
+Referendado em 3 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 EUROPEAN AGREEMENT ON MAIN INTERNATIONAL TRAFFIC ARTERIES (AGR)
 
@@ -284,7 +290,7 @@ Explanatory notes
 
 LIST OF ROADS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
 
 ANNEX II
 
@@ -432,7 +438,7 @@ In straight alignment, the cross-section of the carriageway shall consist of one
 
 In curves, the maximum superelevation shall be 7 per cent. The minimum radius without modification of the cross-section of the straight alignment is given (in metres) in the following table as a function of the design speed (in Km/h):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
 
 III.1.2 - Shoulders and central reserve:
 
@@ -476,7 +482,7 @@ The difference in level per 3 m run shall not exceed 4 mm.
 
 III.2.2.2 - The principal geometric characteristics of international roads are summarized in the following table: they are based on a coefficient of longitudinal friction (locked wheels, smooth tyres) of 0.4 at 50 km/h; they shall be regarded as minimum values to be observed.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
 
 The design speed of 120 km/h shall be chosen only if the carriageways are separated and if most of the intersections are designed as interchanges (see IV below). The design speed of 140 km/h is applicable only to motorways.
 
@@ -492,7 +498,7 @@ III.2.2.4 - The horizontal and vertical visibility provided shall be such as to 
 
 The minimum visibility distances necessary for overtaking on two-way carriageways are given in the following table:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
 
 These visibility distances shall be provided on as great a percentage of the lenght of the road and, as uniformly distributed, as possible.
 
@@ -502,7 +508,7 @@ III.3 - Traffic flows:
 
 Roads of the various categories shall permit normally, i.e., with a quality or level of service judged necessary for international roads, and in conformity with the standards laid down in III.2, the flows (ver nota *) indicated in column 1 of the following table expressed in passenger car units (pcu) per hour (ver nota **):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
 
 (nota *) A passenger car unit corresponds to a private car. For other vehicles a pcu equivalent shall be applied.
 
@@ -982,7 +988,7 @@ Notas explicativas
 
 LISTA DE ESTRADAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
 
 ## ANEXO II — Condições a que devem obedecer as grandes estradas de tráfego internacional
 
@@ -1128,7 +1134,7 @@ Em alinhamento recto, o perfil transversal da faixa de rodagem é constituído p
 
 Nas curvas a sobre elevação máxima será de 7%. O raio mínimo admissível sem modificação do perfil transversal do alinhamento recto é dado (em metros) no quadro a seguir, em função da velocidade de projecto (em quilómetros/hora):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
 
 III.1.2 - Bermas e separador central:
 
@@ -1172,7 +1178,7 @@ III.2.2.1 - O pavimento das estradas internacionais deverá apresentar, na sua t
 
 III.2.2.2 - As principais características geométricas das estradas internacionais estão resumidas no quadro abaixo; baseiam-se num coeficiente de atrito longitudinal (rodas bloqueadas, pneus lisos) de 0,4 à velocidade de 50 km/h; devem ser consideradas como valores mínimos a respeitar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
 
 A velocidade de projecto de 120 km/h só será escolhida se as faixas de rodagem forem separadas e se a maior parte das intersecções for concebida como nós de ligação (ver IV adiante).
 
@@ -1192,7 +1198,7 @@ III.2.2.4 - A visibilidade horizontal e vertical deverão garantir o mesmo grau 
 
 As distâncias mínimas de visibilidade de ultrapassagem nas faixas de rodagem com dois sentidos são apresentadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
 
 Estas distâncias deverão ser asseguradas numa percentagem de extensão da estrada tão elevada e uniformemente repartida quanto possível.
 
@@ -1202,7 +1208,7 @@ III.3 - Volumes de serviço:
 
 As estradas das diversas classes poderão permitir normalmente, isto é, com uma qualidade ou um nível de serviço considerado necessário para as estradas internacionais e em conformidade com as normas apresentadas em III.2, a circulação dos volumes de tráfego (ver nota *) indicados na coluna 1 do quadro a seguir, expressos em unidades de veículos ligeiros (uvl) equivalentes por hora (ver nota **):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24800/43934416.pdf)
 
 (nota *) Uma unidade de tráfego corresponde a um veículo ligeiro. Para os outros veículos deve ser aplicado um coeficiente de equivalência.
 

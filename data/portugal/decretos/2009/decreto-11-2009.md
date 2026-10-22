@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/11/2009/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-2009-603957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f30f2613298972d3635d0953555576dabaa84deea6a1fec8fb2ed1ee6637f2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79d2a885989075ad9e585ed1ef716c167d05a274db7aad5965221c5230cab41c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Juventude
+- Chile
 - Comunicação Social
 - Convenção
-- Educação
-- Portugal
-- Lisboa
-- Chile
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Internacional
-- Ensino Superior
 - Desporto
+- Educação
+- Ensino Superior
+- Juventude
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:07Z'
   warnings: []
   errors: []
 ---
@@ -109,15 +109,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Manuel Pedro Cunha da Silva Pereira - Maria de Lurdes Reis Rodrigues - Manuel Frederico Tojal de Valsassina Heitor - Maria Paula Fernandes dos Santos - Augusto Ernesto Santos Silva.
 
-**Assinado em 26 de Março de 2009.**
+Assinado em 26 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Março de 2009.**
+Referendado em 27 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DO CHILE NAS ÁREAS DA EDUCAÇÃO, CIÊNCIA E ENSINO SUPERIOR, CULTURA, JUVENTUDE, DESPORTO E COMUNICAÇÃO SOCIAL.
 

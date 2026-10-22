@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/29/2009/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/29-2009-483410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 147e2d84cc1ed8b02021b0fcd0950450627a35c600b575e9314a185ad4850363
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e58654b1b3e20dfbe4441e5aa45c0f44a4dcaeb7acd594ee5708154d68edd90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bolsa de Estudos
+- Circulação de Mercadorias
 - Circulação de Pessoas
-- Juventude
 - Comunicação Social
 - Convenção
-- Educação
-- Portugal
-- Direito de Autor
-- Património Cultural
-- Lisboa
-- Importação
-- Cooperação Tecnológica
-- Ensino Secundário
-- Circulação de Mercadorias
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Internacional
+- Cooperação Tecnológica
+- Direito de Autor
+- Educação
 - Ensino Básico
+- Ensino Secundário
 - Ensino Superior
-- Bolsa de Estudos
+- Importação
+- Juventude
+- Lisboa
+- Património Cultural
+- Portugal
 relationships: []
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:23Z'
   warnings: []
   errors: []
 ---
@@ -117,15 +117,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - José António de Melo Pinto Ribeiro - Augusto Ernesto Santos Silva.
 
-**Assinado em 13 de Outubro de 2009.**
+Assinado em 13 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de Outubro de 2009.**
+Referendado em 15 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A GRANDE JAMAHIRIYA ÁRABE LÍBIA POPULAR SOCIALISTA NAS ÁREAS DA EDUCAÇÃO, CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR, LÍNGUA, CULTURA, JUVENTUDE, DESPORTO E COMUNICAÇÃO SOCIAL.
 
@@ -263,7 +263,7 @@ Pela Grande Jamahiriya Árabe Líbia Popular Socialista:
 
 Abdurrahman M. Shalgham, Secretário do Comité Geral Popular para as Relações Externas e Cooperação Internacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/21100/0826408271.pdf))](https://files.diariodarepublica.pt/1s/2009/10/21100/0826408271.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/21100/0826408271.pdf)
 
 COOPERATION AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE GREAT SOCIALIST PEOPLE'S LIBYAN ARAB JAMAHIRIYA IN THE FIELDS OF EDUCATION, SCIENCE, TECHNOLOGY AND HIGHER EDUCATION, LANGUAGE, CULTURE, YOUTH, SPORTS AND MASS MEDIA.
 

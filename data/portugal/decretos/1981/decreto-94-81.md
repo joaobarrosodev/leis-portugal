@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/94-1981-579513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4920b2f878d82649464f6e39baaabd7e586296e66dc825405d8d56cce5c682f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d391d42c693b6d7b228fa8f150ee8ff17cdd9caa5b2c17d3257d03f9b572e32d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- OIT
+- Portugal
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:216957:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216957:por
+  label: "Ratificada, na totalidade, a Convenção nº 102 da OIT, relativa à norma mínima de Segurança Social, aprovada para\
+    \ ratificação, com exclusão da sua parte VI, pelo presente diploma, pelo DEC.25/92.1992.11.03.PR, DR.IS [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/25-1992-216957
+  date: '1992-11-03'
+- type: corrected_by
+  target: pt:dre:561836:por
+  label: Retificado o art único pela DECL.PCM, de 17-out, DR.IS [239]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-561836
+  date: '1981-09-30'
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:46Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +106,15 @@ de 22 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação, com exclusão da sua parte IV, a Convenção n.º 102, relativa à norma mínima da segurança social, adoptada pela Conferência Internacional do Trabalho na sua 35.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada para ratificação, com exclusão da sua parte IV, a Convenção n.º 102, relativa à norma mínima da segurança social, adoptada pela Conferência Internacional do Trabalho na sua 35.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 19 de Maio de 1981.**
+Assinado em 19 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION Nº 102, CONCERNANT LA NORME MINIMUM DE LA SÉCURITÉ SOCIALE
 
@@ -767,7 +782,7 @@ TABLEAU
 
 Paiements périodiques aux bénéficiaires-types
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16600/18011830.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16600/18011830.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16600/18011830.pdf)
 
 PARTIE XII
 
@@ -1077,7 +1092,7 @@ Após ter decidido que essas propostas tomariam a forma de uma convenção inter
 
 adopta neste dia 28 de Junho de 1952 a seguinte Convenção, que será denominada Convenção sobre a Segurança Social (Norma Mínima), 1952.
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### ARTIGO 1.º
 
@@ -1143,7 +1158,7 @@ b) Cobrirem uma parte substancial das pessoas cuja remuneração não ultrapasse
 
 c) Satisfizerem, conjuntamente com as outras formas de protecção, caso existam, as disposições da Convenção que lhes digam respeito.
 
-# PARTE II — Assistência médica
+## PARTE II — Assistência médica
 
 ###### ARTIGO 7.º
 
@@ -1201,7 +1216,7 @@ As prestações mencionadas no artigo 10.º devem, na eventualidade coberta, ser
 
 2 - Quando tiver sido feita uma declaração em conformidade com o artigo 3.º, a duração das prestações pode ser limitada a treze semanas por caso.
 
-# PARTE III — Subsídio por doença
+## PARTE III — Subsídio por doença
 
 ###### ARTIGO 13.º
 
@@ -1243,7 +1258,7 @@ a) Quer a um período tal que o número total de dias por os quais o subsídio p
 
 b) Quer a treze semanas em caso de doença, com a possibilidade de não pagar a prestação relativa aos três primeiros dias de suspensão da remuneração.
 
-# PARTE IV — Subsídios por desemprego
+## PARTE IV — Subsídios por desemprego
 
 ###### ARTIGO 19.º
 
@@ -1287,7 +1302,7 @@ b) Quando forem protegidos todos os residentes cujos recursos durante a eventual
 
 4 - Quando se trate de trabalhadores temporários, a duração da prestação e o período de espera podem ser adaptados às condições de emprego.
 
-# PARTE V — Prestações por velhice
+## PARTE V — Prestações por velhice
 
 ###### ARTIGO 25.º
 
@@ -1345,7 +1360,7 @@ b) Quando em princípio todas as pessoas activas estiverem protegidas, a qualque
 
 As prestações mencionadas nos artigos 28.º e 29.º devem ser concedidas durante toda a duração da eventualidade.
 
-# PARTE VI — Prestações em caso de acidentes de trabalho e de doenças profissionais
+## PARTE VI — Prestações em caso de acidentes de trabalho e de doenças profissionais
 
 ###### ARTIGO 31.º
 
@@ -1427,7 +1442,7 @@ As prestações mencionadas nos artigos 34.º e 36.º devem, na eventualidade co
 
 As prestações mencionadas nos artigos 34.º e 36.º devem ser concedidas durante todo o tempo que durar a eventualidade; todavia, quando se trate de incapacidade para o trabalho, a prestação poderá não ser paga durante os três primeiros dias em cada caso de suspensão da remuneração.
 
-# PARTE VII — Prestações às famílias
+## PARTE VII — Prestações às famílias
 
 ###### ARTIGO 39.º
 
@@ -1475,7 +1490,7 @@ b) Quer 1,5% do salário supracitado, multiplicado pelo número total dos filhos
 
 Quando as prestações consistirem numa pensão devem ser concedidas durante todo o tempo que durar a eventualidade.
 
-# PARTE VIII — Prestações de maternidade
+## PARTE VIII — Prestações de maternidade
 
 ###### ARTIGO 46.º
 
@@ -1521,7 +1536,7 @@ As prestações mencionadas nos artigos 49.º e 50.º devem, na eventualidade co
 
 As prestações mencionadas nos artigos 49.º e 50.º devem ser concedidas durante todo o tempo que durar a eventualidade coberta; todavia, os pagamentos periódicos podem ser limitados a doze semanas, a não ser que a legislação nacional imponha ou autorize um período mais longo de abstenção do trabalho, caso em que os pagamentos não poderão ser limitados a um período de menor duração.
 
-# PARTE IX — Prestações por invalidez
+## PARTE IX — Prestações por invalidez
 
 ###### ARTIGO 53.º
 
@@ -1573,7 +1588,7 @@ b) Quando, em princípio, todas as pessoas activas estiverem protegidas, a qualq
 
 As prestações mencionadas nos artigos 56.º e 57.º devem ser concedidas durante todo o tempo que durar a eventualidade ou até à sua substituição por uma prestação por velhice.
 
-# PARTE X — Prestações de sobrevivência
+## PARTE X — Prestações de sobrevivência
 
 ###### ARTIGO 59.º
 
@@ -1629,7 +1644,7 @@ b) Quando, em princípio, estiverem protegidos as mulheres e os filhos de todas 
 
 As prestações mencionadas nos artigos 62.º e 63.º devem ser concedidas durante toda a duração da eventualidade.
 
-# PARTE XI — Cálculo das pensões
+## PARTE XI — Cálculo das pensões
 
 ###### ARTIGO 65.º
 
@@ -1709,9 +1724,9 @@ QUADRO
 
 Pagamentos periódicos aos beneficiários tipo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16600/18011830.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16600/18011830.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16600/18011830.pdf)
 
-# PARTE XII — Igualdade de tratamento dos residentes não nacionais
+## PARTE XII — Igualdade de tratamento dos residentes não nacionais
 
 ###### ARTIGO 68.º
 
@@ -1719,7 +1734,7 @@ Pagamentos periódicos aos beneficiários tipo
 
 2 - Nos sistemas de segurança social contributiva cuja protecção se aplique aos assalariados, as pessoas protegidas que sejam nacionais de outro Membro que tenha aceitado as obrigações decorrentes da parte correspondente da Convenção devem ter, relativamente à dita parte, os mesmos direitos que os nacionais do Membro interessado. No entanto, a aplicação do presente parágrafo pode ser subordinada à existência de um acordo bilateral ou multilateral que preveja uma reciprocidade.
 
-# PARTE XIII — Disposições comuns
+## PARTE XIII — Disposições comuns
 
 ###### ARTIGO 69.º
 
@@ -1767,7 +1782,7 @@ j) Em caso de prestação de sobrevivência, enquanto a viúva viver em concubin
 
 2 - O Membro deve assumir uma responsabilidade geral na boa administração das instituições e serviços que concorrem para a aplicação da presente Convenção.
 
-# PARTE XIV — Disposições diversas
+## PARTE XIV — Disposições diversas
 
 ###### ARTIGO 73.º
 
@@ -1813,7 +1828,7 @@ Os Membros deverão fornecer essas provas de acordo, tanto quanto possível, na 
 
 2 - Um Membro pode excluir os marinheiros e os marinheiros-pescadores do número, quer dos assalariados, quer das pessoas da população activa, quer dos residentes, tomados em consideração para o cálculo da percentagem dos assalariados ou dos residentes que serão protegidos em cumprimento de qualquer das partes II a X abrangidas pela ratificação.
 
-# PARTE XV — Disposições finais
+## PARTE XV — Disposições finais
 
 ###### ARTIGO 78.º
 
@@ -1893,6 +1908,6 @@ As versões francesa e inglesa do texto da presente Convenção são igualmente 
 
 Nomenclatura dos ramos, categorias e classes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16600/18011830.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16600/18011830.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16600/18011830.pdf)
 
 (nota 1) Esta classificação mais actualizada vem anexo à Convenção n.º 130, de 1969.

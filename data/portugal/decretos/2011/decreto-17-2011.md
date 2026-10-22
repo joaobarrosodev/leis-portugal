@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/17/2011/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-2011-670278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b019ba3fb960340dbe250a13c67182dc2da885bb65b5334a2e70836817b91864
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ec33a2958c9cd219ad91c7b9b7d7f495d13d55010331834e944b21923bd38fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Energia Nuclear
 - Paris
+- Portugal
 - Responsabilidade Civil
 relationships: []
 article_structure:
-  article_count: 28
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:53Z'
   warnings: []
   errors: []
 ---
@@ -113,15 +113,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 21 de Outubro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Dulce dos Prazeres Fidalgo Álvaro Pássaro - José Mariano Rebelo Pires Gago.
 
-**Assinado em 12 de Abril de 2011.**
+Assinado em 12 de Abril de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Abril de 2011.**
+Referendado em 18 de Abril de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 PROTOCOL TO AMEND THE CONVENTION ON THIRD PARTY LIABILITY IN THE FIELD OF NUCLEAR ENERGY OF 29 JULY 1960, AS AMENDED BY THE ADDITIONAL PROTOCOL OF 28 JANUARY 1964 AND BY THE PROTOCOL OF 16 NOVEMBER 1982.
 
@@ -411,7 +411,7 @@ O presente texto constitui a tradução da língua inglesa para a língua portug
 
 Vai numerado e rubricado em todas as páginas.
 
-**O Presidente do Conselho Directivo do ITN, Prof. Júlio Montalvão e Silva.**
+O Presidente do Conselho Directivo do ITN, Prof. Júlio Montalvão e Silva.
 
 PROTOCOLO PARA EMENDAR A CONVENÇÃO SOBRE RESPONSABILIDADE CIVIL NO DOMÍNIO DA ENERGIA NUCLEAR DE 29 DE JULHO DE 1960, COM AS EMENDAS INTRODUZIDAS PELO PROTOCOLO ADICIONAL DE 28 DE JANEIRO DE 1964 E PELO PROTOCOLO DE 16 DE NOVEMBRO DE 1982.
 
@@ -675,9 +675,9 @@ Y) O termo «dano» que surge nos seguintes artigos deve ser substituído pelo t
 
 ###### Artigo 4.º, a) e b);
 
-###### Artigo 5.º, a) e c);
+Artigo 5.º, a) e c);
 
-###### Artigo 6.º, a), b), d), f) e h).
+Artigo 6.º, a), b), d), f) e h).
 
 Z) Na primeira frase do artigo 4.º do texto em francês, a palavra «stockage» [armazenagem] deverá ser substituída pela palavra «entreposage» e neste mesmo artigo a palavra «transportées» [transportadas] é substituída pelas palavras «en cours de transport» [em transporte].
 
@@ -1039,7 +1039,7 @@ c) Os territórios de uma Parte Contratante, incluindo aqueles por que ela se re
 
 ###### Artigo 24.º
 
-**O Secretário-Geral da Organização deverá notificar todos os Signatários e Governos aderentes sobre a recepção de qualquer instrumento de ratificação, aceitação, aprovação, adesão ou desistência, sobre qualquer notificação sob os artigos 13.º, b), e 23.º, sobre as decisões do Comité Director de acordo com o artigo 1.º, a), ii), 1.º, a), iii), e 1.º, b), sobre a data em que esta Convenção entra em vigor, sobre o texto de qualquer alteração a este e sobre a data em que tal alteração entra em vigor, e ainda sobre qualquer reserva respeitante ao artigo 18.º**
+O Secretário-Geral da Organização deverá notificar todos os Signatários e Governos aderentes sobre a recepção de qualquer instrumento de ratificação, aceitação, aprovação, adesão ou desistência, sobre qualquer notificação sob os artigos 13.º, b), e 23.º, sobre as decisões do Comité Director de acordo com o artigo 1.º, a), ii), 1.º, a), iii), e 1.º, b), sobre a data em que esta Convenção entra em vigor, sobre o texto de qualquer alteração a este e sobre a data em que tal alteração entra em vigor, e ainda sobre qualquer reserva respeitante ao artigo 18.º
 
 ## ANEXO I — (à Convenção de Paris)
 

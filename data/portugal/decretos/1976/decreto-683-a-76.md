@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 213/1976, 1º Suplemento, Série I de 1976-09-10
   number: '213'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2144-(1) a 2144-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/21301/00010003.pdf
 entry_into_force_dates: []
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/683-a-1976-384608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cf65c082458e2e39324a3171b433cf5524d9818fd3e938b30456138049de2ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31d993eeb5d3205f089f769dcbff7d1038ff2174081e2698cda7fb5263b7027c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo I
+- Orgânica
+- Rectificação de TIPO de Diploma
 relationships:
 - type: amended_by
   target: pt:dre:508610:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644374:por
+  label: "Alterados os artigos 1.º, 4.º, 7.º e 8.º pelo DEC LEI.178-A/77.03.05.1977.PCM, DR.IS [102]Supl de 03.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-a-1977-644374
+  date: '1977-05-03'
+- type: cites
+  target: pt:dre:276460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:409151:por
+  label: Rectificado pela DECL.DD8212.24.09.1976.PCM, DR.IS [225] de 24.09.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-409151
+  date: '1976-09-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:43Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +115,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela alínea a) do n.º 1 do artigo 201.º da Constituição da República Portuguesa, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Governo é constituído pelo Primeiro-Ministro, por um Ministro de Estado, por um Ministro sem pasta, pelos Ministros, Secretários e Subsecretários de Estado.
+Artigo 1.º - 1. O Governo é constituído pelo Primeiro-Ministro, por um Ministro de Estado, por um Ministro sem pasta, pelos Ministros, Secretários e Subsecretários de Estado.
 
 2. O Governo compreende os seguintes departamentos ministeriais:
 
@@ -146,9 +167,9 @@ d) Ambiente.
 
 7. O Secretário de Estado da Comunicação Social é coadjuvado por um Subsecretário de Estado da Comunicação Social.
 
-###### Art. 2.º Compete ao Ministro da Defesa Nacional assegurar a ligação entre o Governo e as Forças Armadas, através do Chefe do Estado-Maior-General das Forças Armadas, e, designadamente, orientar a política global de defesa, tendo em atenção as perspectivas do desenvolvimento social e económico do Estado Português, por forma a que nessa política seja integrada a acção militar.
+Art. 2.º Compete ao Ministro da Defesa Nacional assegurar a ligação entre o Governo e as Forças Armadas, através do Chefe do Estado-Maior-General das Forças Armadas, e, designadamente, orientar a política global de defesa, tendo em atenção as perspectivas do desenvolvimento social e económico do Estado Português, por forma a que nessa política seja integrada a acção militar.
 
-###### Art. 3.º - 1. O Ministério do Plano e Coordenação Económica compreende as seguintes Secretarias de Estado:
+Art. 3.º - 1. O Ministério do Plano e Coordenação Económica compreende as seguintes Secretarias de Estado:
 
 a) Planeamento;
 
@@ -158,7 +179,7 @@ b) Coordenação Económica.
 
 3. Fica integrado no Ministério do Plano e Coordenação Económica o Gabinete da Área de Sines.
 
-###### Art. 4.º - 1. O Ministério da Administração Interna compreende as seguintes Secretarias de Estado:
+Art. 4.º - 1. O Ministério da Administração Interna compreende as seguintes Secretarias de Estado:
 
 a) Administração Regional e Local;
 
@@ -168,11 +189,11 @@ c) Integração Administrativa.
 
 2. O Ministro da Administração Interna é coadjuvado por um Subsecretário de Estado da Administração Interna.
 
-###### Art. 5.º O Ministério da Justiça compreende a Secretaria de Estado da Justiça.
+Art. 5.º O Ministério da Justiça compreende a Secretaria de Estado da Justiça.
 
-###### Art. 6.º O Ministério dos Negócios Estrangeiros compreende a Secretaria de Estado da Emigração.
+Art. 6.º O Ministério dos Negócios Estrangeiros compreende a Secretaria de Estado da Emigração.
 
-###### Art. 7.º - 1. O Ministério das Finanças compreende as seguintes Secretarias de Estado:
+Art. 7.º - 1. O Ministério das Finanças compreende as seguintes Secretarias de Estado:
 
 a) Orçamento;
 
@@ -182,7 +203,7 @@ c) Tesouro.
 
 2. O Secretário de Estado do Tesouro é coadjuvado por um Subsecretário de Estado do Tesouro.
 
-###### Art. 8.º - 1. O Ministério da Agricultura e Pescas compreende as seguintes Secretarias de Estado:
+Art. 8.º - 1. O Ministério da Agricultura e Pescas compreende as seguintes Secretarias de Estado:
 
 a) Estruturação Agrária;
 
@@ -194,7 +215,7 @@ d) Pescas.
 
 2. O Ministro da Agricultura e Pescas é coadjuvado por um Subsecretário de Estado das Florestas.
 
-###### Art. 9.º O Ministério da Indústria e Tecnologia compreende as seguintes Secretarias de Estado:
+Art. 9.º O Ministério da Indústria e Tecnologia compreende as seguintes Secretarias de Estado:
 
 a) Indústria Ligeira;
 
@@ -202,7 +223,7 @@ b) Indústria Pesada;
 
 c) Energia e Minas.
 
-###### Art. 10.º - 1. O Ministério do Comércio e Turismo compreende as seguintes Secretarias de Estado:
+Art. 10.º - 1. O Ministério do Comércio e Turismo compreende as seguintes Secretarias de Estado:
 
 a) Comércio Interno;
 
@@ -212,11 +233,11 @@ c) Turismo.
 
 2. Ao Ministro do Comércio e Turismo compete escutar a política nacional de comércio e turismo, bem como conduzir as actividades externas nesses domínios e orientar as acções que compreendem naqueles sectores.
 
-###### Art. 11.º - 1. O Ministério do Trabalho compreende a Secretaria de Estado do Trabalho.
+Art. 11.º - 1. O Ministério do Trabalho compreende a Secretaria de Estado do Trabalho.
 
 2. O Ministro do Trabalho é coadjuvado por um Subsecretário de Estado do Trabalho.
 
-###### Art. 12.º O Ministério da Educação e Investigação Científica compreende as seguintes Secretarias de Estado:
+Art. 12.º O Ministério da Educação e Investigação Científica compreende as seguintes Secretarias de Estado:
 
 a) Administração e Equipamento Escolar;
 
@@ -228,7 +249,7 @@ d) Orientação Pedagógica;
 
 e) Juventude e dos Desportos.
 
-###### Art. 13.º - 1. O Ministério dos Assuntos Sociais compreende as seguintes Secretarias de Estado:
+Art. 13.º - 1. O Ministério dos Assuntos Sociais compreende as seguintes Secretarias de Estado:
 
 a) Saúde;
 
@@ -236,25 +257,25 @@ b) Segurança Social.
 
 2. A Comissão da Condição Feminina, departamento interministerial funcionando junto do Ministério dos Assuntos Sociais, fica integrada na Presidência do Conselho de Ministros.
 
-###### Art. 14.º O Ministério dos Transportes e Comunicações compreende as seguintes Secretarias de Estado:
+Art. 14.º O Ministério dos Transportes e Comunicações compreende as seguintes Secretarias de Estado:
 
 a) Transportes e Comunicações;
 
 b) Marinha Mercante.
 
-###### Art. 15.º O Ministério das Obras Públicas compreende as seguintes Secretarias de Estado:
+Art. 15.º O Ministério das Obras Públicas compreende as seguintes Secretarias de Estado:
 
 a) Obras Públicas;
 
 b) Recursos Hídricos e Saneamento Básico.
 
-###### Art. 16.º O Ministério da Habitação, Urbanismo e Construção compreende as seguintes Secretarias de Estado:
+Art. 16.º O Ministério da Habitação, Urbanismo e Construção compreende as seguintes Secretarias de Estado:
 
 a) Habitação e Urbanismo;
 
 b) Construção Civil.
 
-###### Art. 17.º - 1. São extintos os Ministérios seguintes:
+Art. 17.º - 1. São extintos os Ministérios seguintes:
 
 a) Cooperação;
 
@@ -272,7 +293,7 @@ d) Comunicação Social.
 
 5. Os serviços da Secretaria de Estado da Informação, bem como o pessoal da Secretaria-Geral do Ministério da Comunicação Social, ficam integrados na Secretaria de Estado da Comunicação Social.
 
-###### Art. 18.º - 1. São extintas as Secretarias de Estado seguintes;
+Art. 18.º - 1. São extintas as Secretarias de Estado seguintes;
 
 a) Descolonização;
 
@@ -302,7 +323,7 @@ m) Informação.
 
 3. As despesas suportadas pelo orçamento do Fundo de Desenvolvimento da Mão-de-Obra com serviços e funcionários do Ministério do Trabalho dependem de autorização do Ministro do Trabalho.
 
-###### Art. 19.º São extintos os seguintes cargos de Subsecretários de Estado:
+Art. 19.º São extintos os seguintes cargos de Subsecretários de Estado:
 
 a) Adjunto do Ministro das Finanças;
 
@@ -338,20 +359,20 @@ q) Adjunto do Ministro da Habitação, Urbanismo e Construção;
 
 r) Construção Civil.
 
-###### Art. 20.º O pessoal dos Ministérios e Secretarias de Estado extintos transitará para os departamentos que passarem a desempenhar as respectivas atribuições, independentemente de quaisquer formalidades, e sendo respeitados os direitos adquiridos.
+Art. 20.º O pessoal dos Ministérios e Secretarias de Estado extintos transitará para os departamentos que passarem a desempenhar as respectivas atribuições, independentemente de quaisquer formalidades, e sendo respeitados os direitos adquiridos.
 
-###### Art. 21.º - 1. Manter-se-á até final do corrente ano económico a actual estrutura do Orçamento Geral do Estado, e nessa conformidade serão elaboradas as correspondentes contas mensais provisórias, bem como a Conta Geral do Estado.
+Art. 21.º - 1. Manter-se-á até final do corrente ano económico a actual estrutura do Orçamento Geral do Estado, e nessa conformidade serão elaboradas as correspondentes contas mensais provisórias, bem como a Conta Geral do Estado.
 
 2. Às despesas com os novos departamentos governamentais aplicar-se-ão os princípios constantes do [Decreto-Lei n.º 233-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-a-1975-276460), de 17 de Maio, de harmonia com a orientação a definir pelo Ministro das Finanças.
 
-###### Art. 22.º As situações não contempladas no presente diploma serão submetidas ao regime previsto no artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 29 de Janeiro.
+Art. 22.º As situações não contempladas no presente diploma serão submetidas ao regime previsto no artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 29 de Janeiro.
 
-###### Art. 23.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 23.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 9 de Setembro de 1976.**
+Promulgado em 9 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-1979-393410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-02-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ba074718ebddbb977a66fc7d1277f87a96e8fba9fdf01700efc6b3015073a37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06d71fc3cb4bdb031ef0f948952e499fac07e371d5e2d846b609084c02a1d20a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Escócia
+- Guernsey
+- ILHA de MAN
+- Inglaterra
+- Irlanda do Norte
+- Jersey
+- Portugal
+- Reino Unido
+- Segurança Social
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:37Z'
   warnings: []
   errors: []
 ---
@@ -85,15 +95,15 @@ validation:
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção sobre Segurança Social entre o Governo de Portugal e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte, assinada em Londres em 15 de Novembro de 1978, cujos textos em português e inglês vão anexos ao presente decreto, bem como os do Protocolo Relativo a Tratamento Médico, assinado em Londres na mesma data.
+Artigo único. É aprovada para ratificação a Convenção sobre Segurança Social entre o Governo de Portugal e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte, assinada em Londres em 15 de Novembro de 1978, cujos textos em português e inglês vão anexos ao presente decreto, bem como os do Protocolo Relativo a Tratamento Médico, assinado em Londres na mesma data.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 30 de Dezembro de 1978.**
+Assinado em 30 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENÇÃO SOBRE SEGURANÇA SOCIAL ENTRE O GOVERNO DE PORTUGAL E O GOVERNO DO REINO UNIDO DA GRÃ-BRETANHA E IRLANDA DO NORTE.
 
@@ -111,7 +121,7 @@ Desejando ainda estabelecer acordos que habilitem as pessoa que se desloquem do 
 
 acordaram no seguinte:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### ARTIGO 1.º
 
@@ -219,7 +229,7 @@ Uma pessoa sujeita à legislação de uma Parte Contratante que passe a residir 
 
 3) Sem prejuízo do disposto nos subsequentes artigos da presente Convenção, quando, ao abrigo da legislação de uma Parte, uma prestação ou uma melhoria da prestação fosse de pagar em relação a um familiar, se ele residisse no território dessa Parte, deverá ser paga enquanto estiver no território da outra Parte.
 
-# PARTE II — Disposições que determinam a legislação aplicável
+## PARTE II — Disposições que determinam a legislação aplicável
 
 ###### ARTIGO 5.º
 
@@ -271,7 +281,7 @@ c) Quando uma pessoa residir habitualmente no território de uma Parte e exercer
 
 As autoridades competentes das Partes Contratantes podem, de comum acordo, alterar o disposto nos artigos 5.º a 8.º da presente Convenção em relação a determinadas pessoas ou categorias de pessoas, quando tal seja do interesse dessas pessoas.
 
-# PARTE III — Disposições especiais
+## PARTE III — Disposições especiais
 
 #### SECÇÃO I — Disposições especiais relativas à aplicação da legislação do território do Reino Unido
 
@@ -505,7 +515,7 @@ b) Como se qualquer criança da sua família ou qualquer criança pela qual seja
 
 Quando uma instituição competente de uma Parte Contratante tiver efectuado um pagamento adiantado de uma prestação em relação a qualquer período, qualquer quantia em dívida referente a uma prestação correspondente que seja pagável em relação ao mesmo período, ao abrigo da legislação da outra Parte, pode ser retida, desde que o montante retido não exceda o montante do pagamento adiantado. Quando uma instituição competente de uma Parte tiver pago uma prestação em excesso em relação a um período, pelo qual a instituição competente da outra Parte tenha posteriormente obrigação de pagar uma prestação correspondente, o pagamento em excesso será considerado, para efeito do disposto no primeiro período deste artigo, como um pagamento adiantado.
 
-# PARTE IV — Disposições diversas
+## PARTE IV — Disposições diversas
 
 ###### ARTIGO 28.º
 
@@ -569,7 +579,7 @@ b) Se, dentro do prazo prescrito, qualquer das Partes não designar um árbitro,
 
 3) A decisão do tribunal arbitral será tomada por maioria. A sua decisão será vinculativa para ambas as Partes. Cada Parte suportará as despesas do árbitro por ela designado. Os custos remanescentes serão suportados em partes iguais pelas duas Partes. O tribunal arbitral determinará as suas próprias normas de processo.
 
-# PARTE V — Disposições transitórias e finais
+## PARTE V — Disposições transitórias e finais
 
 ###### ARTIGO 36.º
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/63/1997/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/63-1997-403538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55fab8b9e574f01ce46e8a976ffe49ce76532a183baa346b445faadc56587d16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbe2648a0e6d2c476a79e1dc9c8cfa2a9722a353f94f9680c2cecd65e5d18348
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Invalidez
-- Pensão de Invalidez
 - Doença Profissional
+- Invalidez
+- Luxemburgo
+- Pensão de Invalidez
 - Pessoal Assalariado
+- Portugal
 - Trabalhador Assalariado
 - Trabalhador não Assalariado
-- Luxemburgo
 relationships:
 - type: cites
   target: celex:31971R1408
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:29Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +107,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Assinado em 21 de Novembro de 1997.**
+Assinado em 21 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Novembro de 1997.**
+Referendado em 28 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O GRÃO-DUCADO DO LUXEMBURGO SOBRE O RECONHECIMENTO DAS DECISÕES TOMADAS PELAS INSTITUIÇÕES DE UMA PARTE CONTRATANTE EM RELAÇÃO AO ESTADO DE INVALIDEZ DE REQUERENTES DE PENSÃO PELAS INSTITUIÇÕES DA OUTRA PARTE CONTRATANTE.
 
@@ -171,11 +171,11 @@ Feito no Luxemburgo em 10 de Março de 1997, em duplo exemplar, nas línguas por
 
 Pelo Governo da República Portuguesa:
 
-**O Secretário de Estado da Segurança Social, Fernando Lopes Ribeiro Mendes.**
+O Secretário de Estado da Segurança Social, Fernando Lopes Ribeiro Mendes.
 
 Pelo Governo do Grão-Ducado do Luxemburgo:
 
-**A Ministra da Segurança Social, dos Transportes e das Comunicações, Mady Delvaux-Stehres.**
+A Ministra da Segurança Social, dos Transportes e das Comunicações, Mady Delvaux-Stehres.
 
 ACCORD ENTRE LA REPUBLIQUE PORTUGAISE ET LE GRAND-DUCHE DE LUXEMBOURG SUR LA RECONNAISSANCE DES DECISIONS PRISES PAR LES INSTITUTIONS D'UNE PARTIE CONTRACTANTE PAR LES INSTITUTIONS DE L'AUTRE PARTIE CONTRACTANTE AU SUJET DE L'ETAT D'INVALIDITE DES DEMANDEURS DE PENSION.
 

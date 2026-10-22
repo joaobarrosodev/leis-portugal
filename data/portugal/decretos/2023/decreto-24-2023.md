@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/24/2023/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-2023-220341083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea84c19bf73ed00e20873c36d97e97e0b95b24db39a9192d5f3b1a9f2d0af7f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18dc7623e7bdc23faa663444482f6c733527c414217421f39cfa3f6f9fe99e04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- DILI
 - CPLP
+- DILI
 - Países de Língua Portuguesa
+- Portugal
 - Proteção Social
 - Segurança Social
 relationships: []
 article_structure:
   article_count: 28
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:27Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 21 de julho de 2023. - Mariana Guimarães Vieira da Silva - Francisco Gonçalo Nunes André.
 
-**Assinado em 28 de julho de 2023.**
+Assinado em 28 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de julho de 2023.**
+Referendado em 28 de julho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 CONVENÇÃO MULTILATERAL DE SEGURANÇA SOCIAL DA COMUNIDADE DE PAÍSES DE LÍNGUA PORTUGUESA - CPLP
 
@@ -350,11 +350,13 @@ Feito em Díli, Timor-Leste, a 24 de julho de 2015.
 
 Pela República de Angola:
 
-![](https://files.diariodarepublica.pt/images/220341083/220257088.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/220341083/220257088.png) |
+| --- |
 
 Pela República Federativa do Brasil:
 
-![](https://files.diariodarepublica.pt/images/220341083/220257089.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/220341083/220257089.png) |
+| --- |
 
 Pela República de Cabo Verde:
 
@@ -362,16 +364,21 @@ Pela República da Guiné-Bissau:
 
 Pela República da Guiné Equatorial:
 
-![](https://files.diariodarepublica.pt/images/220341083/220257090.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/220341083/220257090.png) |
+| --- |
 
 Pela República de Moçambique:
 
-![](https://files.diariodarepublica.pt/images/220341083/220257091.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/220341083/220257091.png) |
+| --- |
 
 Pela República Portuguesa:
 
-![](https://files.diariodarepublica.pt/images/220341083/220257092.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/220341083/220257092.png) |
+| --- |
 
 Pela República Democrática de São Tomé e Príncipe:
 
 Pela República Democrática de Timor-Leste:
+
+116741026

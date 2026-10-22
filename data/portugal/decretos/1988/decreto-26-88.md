@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/26-1988-370213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6069827402bfe41aa462efa844a9ee14e1dde4bd2b0284040bc2dd3114650a12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18e2fca4b3f392aee7b8d06fe73a1d778c06ec2f2f0bdb0ea223bc099dab7f15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Câmara Municipal
+- MIRA
+- Ordenamento do Território
+- Regime Florestal
+- Zona Industrial
+relationships:
+- type: cites
+  target: pt:dre:497207:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:30Z'
   warnings: []
   errors: []
 ---
@@ -91,26 +100,26 @@ Considerando o interesse económico-social do empreendimento para a economia reg
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É excluída do regime florestal parcial em que foi incluída por utilidade pública pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno do Pinhal do Fojo da Videira do perímetro florestal das dunas de Mira, com a área de 24 ha, pertencente à Câmara Municipal de Mira.
+Artigo 1.º - 1 - É excluída do regime florestal parcial em que foi incluída por utilidade pública pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno do Pinhal do Fojo da Videira do perímetro florestal das dunas de Mira, com a área de 24 ha, pertencente à Câmara Municipal de Mira.
 
 2 - A referida parcela destina-se à ampliação da Zona Industrial de Mira, a ceder à firma HORTIBELI - Sociedade de Hortifrutifloricultura do Mercado de Origem da Beira Litoral, S. A.
 
 3 - Caso não venha a concretizar-se o uso previsto no presente decreto, a parcela de terreno em causa será novamente integrada no perímetro florestal das dunas de Mira, sob o respectivo regime.
 
-###### Art. 2.º A Câmara Municipal de Mira indemnizará o Estado pelo abate do arvoredo necessário à concretização do empreendimento.
+Art. 2.º A Câmara Municipal de Mira indemnizará o Estado pelo abate do arvoredo necessário à concretização do empreendimento.
 
-###### Art. 3.º A entrega desta parcela só será efectivada depois de a Câmara Municipal de Mira proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral das Florestas.
+Art. 3.º A entrega desta parcela só será efectivada depois de a Câmara Municipal de Mira proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral das Florestas.
 
 Presidência do Conselho de Ministros, 1 de Agosto de 1988.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Assinado em 19 de Agosto de 1988.**
+Assinado em 19 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1988.**
+Referendado em 23 de Agosto de 1988.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.

@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-1989-619916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c945a9da510e16e448b228035bd2f3f2e43b3b71e40b3cc56bb121af0df85f53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fc6e1361383ea4f0686a2e9cd81b58431a362eb6ab5fd9b7ddf4fe60980b0a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Convenção
+- Guiné-Bissau
+- Portugal
+- Televisão
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:14Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 21 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Técnica e de Intercâmbio no Domínio da Comunicação Social Relativo à Implantação da Televisão na República da Guiné-Bissau entre o Governo da República Portuguesa e o Governo da República da Guiné-Bissau, feito em Lisboa a 13 de Outubro de 1987, cujo texto vai anexo ao presente diploma.
+Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Técnica e de Intercâmbio no Domínio da Comunicação Social Relativo à Implantação da Televisão na República da Guiné-Bissau entre o Governo da República Portuguesa e o Governo da República da Guiné-Bissau, feito em Lisboa a 13 de Outubro de 1987, cujo texto vai anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos.
 
-**Assinado em 10 de Julho de 1989.**
+Assinado em 10 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1989.**
+Referendado em 12 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO ADICIONAL AO ACORDO DE COOPERAÇÃO TÉCNICA E DE INTERCÂMBIO NO DOMÍNIO DA COMUNICAÇÃO SOCIAL RELATIVO À IMPLANTAÇÃO DA TELEVISÃO NA REPÚBLICA DA GUINÉ-BISSAU.
 
@@ -163,8 +168,8 @@ Feito em Lisboa aos 13 de Outubro de 1987, em dois exemplares originais em líng
 
 Pelo Governo da República Portuguesa:
 
-**O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Manuel Durão Barroso.**
+O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Manuel Durão Barroso.
 
 Pelo Governo da República da Guiné-Bissau:
 
-**O Ministro da Informação e Telecomunicações, Moussa Djassi.**
+O Ministro da Informação e Telecomunicações, Moussa Djassi.

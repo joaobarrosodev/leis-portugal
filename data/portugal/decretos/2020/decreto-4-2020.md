@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15200/0000300014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/2020/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2020-139679800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78814500b1872fad519903e1302555329c0da9cc5efb7dbc84ff401e78b80dd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e8a44fe4338384ca9b22e24237d9d5b1b973941dc582f601211a0be82b1de0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
-- Trabalho
 - Convenção
-- Portugal
-- Noruega
+- Família
 - Funcionário Diplomático
+- Noruega
 - Pessoal Consular
 - Pessoal Diplomático
+- Portugal
+- Trabalho
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:33Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +105,13 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 16 de julho de 2020. - António Luís Santos da Costa - Augusto Ernesto Santos Silva.
 
-**Assinado em 23 de julho de 2020.**
+Assinado em 23 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de julho de 2020.**
+Referendado em 27 de julho de 2020.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
 
@@ -205,7 +205,7 @@ O Acordo entrará em vigor no trigésimo (30) dia após a receção da última n
 
 Em boa-fé do que, os signatários abaixo assinam o presente Acordo.
 
-**Assinado em Lisboa, em 13 de janeiro de 2020, em dois originais, nas línguas portuguesa, norueguesa e inglesa, sendo todos os textos igualmente autênticos. Em caso de divergência de interpretação, o texto em inglês prevalecerá.**
+Assinado em Lisboa, em 13 de janeiro de 2020, em dois originais, nas línguas portuguesa, norueguesa e inglesa, sendo todos os textos igualmente autênticos. Em caso de divergência de interpretação, o texto em inglês prevalecerá.
 
 Pela República Portuguesa:
 
@@ -215,7 +215,7 @@ Pelo Reino da Noruega:
 
 Ine Eriksen Soreide, Ministra dos Negócios Estrangeiros do Reino da Noruega.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15200/0000300014.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15200/0000300014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15200/0000300014.pdf)
 
 AGREEMENT ON EMPLOYMENT OF MEMBERS OF THE FAMILY OF DIPLOMATIC AND CONSULAR PERSONNEL BETWEEN THE PORTUGUESE REPUBLIC AND THE KINGDOM OF NORWAY
 
@@ -340,3 +340,5 @@ Augusto Santos Silva, Minister of State and Foreign Affairs of the Portuguese Re
 For the Kingdom of Norway:
 
 Ine Eriksen Soreide, Minister of Foreign Affairs of the Kingdom of Norway.
+
+113447275

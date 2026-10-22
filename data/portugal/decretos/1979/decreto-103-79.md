@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/103-1979-369822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 348fe4eeb52a897c42bd845eab816bdd0f45db2440ac3f435e13b03c627e5a5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be7592f6f35002ef2a0e6d25c2e09122fc8b90989c36ea0185e1ebdee2d28456
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Hungria
+- Portugal
+- Transporte Marítimo
+relationships:
+- type: corrected_by
+  target: pt:dre:364747:por
+  label: Rectificado pela DECL.DD7155.20.10.1979.PCM, DR.IS [243] de 20.10.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-364747
+  date: '1979-10-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:36Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +96,15 @@ de 19 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Hungria sobre Transportes Marítimos, assinado em Budapeste em 24 de Março de 1979, cujos textos em português, húngaro e inglês acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Hungria sobre Transportes Marítimos, assinado em Budapeste em 24 de Março de 1979, cujos textos em português, húngaro e inglês acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 16 de Julho de 1979.**
+Assinado em 16 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo de Transportes Marítimos entre o Governo da República Portuguesa e o Governo da República Popular da Hungria.
 
@@ -109,7 +118,7 @@ Com o fim de promover o desenvolvimento do transporte marítimo entre os dois pa
 
 acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Para efeitos do presente Acordo, consideram-se navios mercantes de bandeiras portuguesa e húngara os navios matriculados no território de cada uma das Partes Contratantes, em conformidade com a sua respectiva legislação, com exclusão de:
 
@@ -119,7 +128,7 @@ b) Navios de pesquisa (hidrográficos, oceanográficos e científicos);
 
 c) Navios de pesca.
 
-ARTIGO II
+###### ARTIGO II
 
 1 - As Partes Contratantes adoptarão no comércio marítimo entre os seus países princípios de igualdade, mútuo benefício e vantagens recíprocas.
 
@@ -133,7 +142,7 @@ b) Cooperar na eliminação dos obstáculos que possam dificultar o desenvolvime
 
 3 - O disposto neste artigo não impedirá a participação de navios de terceiros países no tráfego entre a República Portuguesa e a República Popular da Hungria.
 
-ARTIGO III
+###### ARTIGO III
 
 1 - No que respeita ao livre acesso aos portos, à sua utilização para embarque e desembarque de passageiros e mercadorias e ainda à utilização dos serviços destinados à navegação e ao exercício de operações comerciais, cada uma das Partes Contratantes assegurará, nos seus portos, aos navios da outra Parte Contratante e aos membros da sua tripulação o mesmo tratamento que conceder aos seus próprios navios e tripulantes.
 
@@ -145,17 +154,17 @@ b) Ao exercício de actividades reservadas por cada Parte Contratante aos seus o
 
 c) A situações abrangidas por disposições legais relativas à entrada e permanência de cidadãos estrangeiros.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Contratantes tomarão as medidas necessárias para diminuir o tempo de permanência dos navios nos portos e para simplificar quanto possível as formalidades administrativas, aduaneiras e sanitárias em vigor.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - Os certificados de nacionalidade, de arqueação e outros documentos de bordo emitidos e reconhecidos por uma das Partes Contratantes serão também reconhecidos pelas autoridades marítimas competentes da outra Parte Contratante.
 
 2 - O cálculo dos impostos e das taxas de navegação será efectuado com base nos certificados de arqueação, sem que seja necessário proceder a nova arqueação.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - Cada uma das Partes Contratantes reconhece os documentos de identidade dos membros da tripulação, desde que emitidos pelas autoridades competentes da outra Parte Contratante.
 
@@ -167,13 +176,13 @@ Para a República Popular da Hungria, «Hajós Útlevél».
 
 3 - A expressão «membro da tripulação do navio» significa qualquer pessoa empregada a bordo, durante a viagem, em serviços relacionados com a exploração ou manutenção do navio e incluída no rol de matrícula.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - Aos possuidores dos documentos de identidade de marítimo, especificados no artigo IV do presente Acordo, é permitido, enquanto membros da tripulação de um navio de uma Parte Contratante, permanecer temporariamente em terra durante a estadia do mesmo navio num porto da outra Parte Contratante, desde que figurem no rol de matrícula do navio e na lista entregue às autoridades do porto.
 
 2 - Os membros da tripulação referidos, quando desembarquem ou embarquem num navio, estão sujeitos ao contrôle de fronteira e de alfândega em vigor naquele porto.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - Aos possuidores dos documentos de identidade de marítimo, especificados no artigo VI do presente Acordo, é igualmente permitido entrar no território da outra Parte Contratante, ou passar através dele em trânsito, sempre que se dirijam para os seus navios, ou por qualquer outra razão, desde que aceite pelas autoridades dessa outra Parte Contratante.
 
@@ -181,7 +190,7 @@ ARTIGO VIII
 
 3 - Cada Parte Contratante reserva-se o direito de impedir a entrada no seu território aos marítimos que considere indesejáveis.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - Se um navio pertencente a uma das Partes Contratantes naufragar, encalhar ou sofrer qualquer dano ou avaria ao largo da costa da outra Parte o navio e a sua carga gozarão dos mesmos direitos e suportarão os mesmos encargos que, em iguais circunstâncias, forem atribuídos a um navio desta Parte e à sua carga.
 
@@ -193,17 +202,17 @@ ARTIGO IX
 
 5 - As disposições do presente artigo não prejudicam a aplicação das normas em vigor em cada uma das Partes Contratantes no que respeita à armazenagem temporária de mercadorias.
 
-ARTIGO X
+###### ARTIGO X
 
 As disposições do presente Acordo serão também aplicadas à navegação no Danúbio, tendo em consideração o respectivo regime jurídico.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1 - Para efeitos de execução do presente Acordo é criada uma comissão mista, que se reunirá uma vez por ano, alternadamente em Portugal e na Hungria, em data acordada ou extraordinariamente a pedido de uma das Partes Contratantes.
 
 2 - A composição da comissão prevista no n.º 1 será definida pelas autoridades competentes das Partes Contratantes.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1 - O presente Acordo entrará em vigor na data em que ambas as Partes Contratantes tenham reciprocamente notificado que o Acordo foi aprovado em conformidade com as suas disposições constitucionais.
 
@@ -215,7 +224,7 @@ Pelo Governo da República Portuguesa, João Carlos Lopes Cardoso de Freitas Cru
 
 Pelo Governo da República Popular da Hungria, Puilai Árpád.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/21700/24292434.pdf))](https://files.diariodarepublica.pt/1s/1979/09/21700/24292434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/21700/24292434.pdf)
 
 Agreement on Merchant Shipping Between the Government of the Portuguese Republic and the Government of the Hungarian People's Republic.
 

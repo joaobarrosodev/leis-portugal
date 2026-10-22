@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13400/0478504791.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/12/2015/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/12-2015-69778944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8cd5a2b48a726c8c2897d29afa3161f994e1681b5670c3bb3120e4c2e95351b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2397ea6fecef3c5c0d5d66fe3789c0a095efd35286c08d5b74139bc0b5279d86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- EUA
-- Política de Cooperação
-- Educação
-- Portugal
-- Intercâmbio Académico
 - Cooperação Científica
-relationships: []
+- Educação
+- EUA
+- Intercâmbio Académico
+- Política de Cooperação
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:69889525:por
+  label: Tornado público que em 13 de julho de 2015 entrou em vigor o Acordo aprovado pelo presente diploma, por nessa data
+    ter sido emitida Nota pelo Ministério dos Negócios Estrangeiros de Portugal em que se comunicou terem sido cumpridos os
+    respetivos procedimentos internos para a entrada em vigor do referido Acordo, pelo(a) Aviso n.º 51/2015 - Diário da República
+    n.º 146/2015, Série I de 2015-07-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/51-2015-69889525
+  date: '2015-07-29'
 article_structure:
   article_count: 18
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:35Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +112,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 28 de maio de 2015. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Nuno Paulo de Sousa Arrobas Crato.
 
-**Assinado em 1 de julho de 2015.**
+Assinado em 1 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de julho de 2015.**
+Referendado em 3 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E OS ESTADOS UNIDOS DA AMÉRICA RELATIVO À CONTINUAÇÃO DA COMISSÃO PARA O INTERCÂMBIO EDUCACIONAL ENTRE OS ESTADOS UNIDOS DA AMÉRICA E PORTUGAL.
 
@@ -126,7 +134,7 @@ Considerando os benefícios mútuos decorrentes de tais programas, bem como o de
 
 acordaram o seguinte:
 
-# PARTE I — Estatuto e atividades da Comissão para o Intercâmbio Educacional entre os Estados Unidos da América e Portugal
+## PARTE I — Estatuto e atividades da Comissão para o Intercâmbio Educacional entre os Estados Unidos da América e Portugal
 
 ###### Artigo 1.º — Estatuto jurídico da Comissão para o Intercâmbio Educacional entre os Estados Unidos da América e Portugal
 
@@ -170,7 +178,7 @@ c) Recomendação de candidatos que sejam cidadãos e nacionais dos Estados Unid
 
 2 - A Comissão tem o direito de realizar outras atividades fora do âmbito deste Acordo, mas em consonância com ele. Essas outras atividades são financiadas por outras fontes que não as previstas com base neste Acordo, sendo, em especial, quaisquer custos administrativos incorridos com a gestão de tais atividades também financiados por essas outras fontes.
 
-# PARTE II — Órgãos da Comissão
+## PARTE II — Órgãos da Comissão
 
 ###### Artigo 4.º — Estrutura da Comissão
 
@@ -202,7 +210,7 @@ f) Aprovar qualquer pessoal a recrutar, sob proposta do Diretor Executivo, e, pa
 
 ###### Artigo 6.º — O Presidente do Conselho Diretivo
 
-**O Presidente é eleito pelo Conselho Diretivo de entre os seus membros por um ano, desde que a Presidência seja assumida alternadamente por um cidadão dos Estados Unidos da América e um cidadão da República Portuguesa. O Presidente age em nome do Conselho Diretivo, em todos os assuntos.**
+O Presidente é eleito pelo Conselho Diretivo de entre os seus membros por um ano, desde que a Presidência seja assumida alternadamente por um cidadão dos Estados Unidos da América e um cidadão da República Portuguesa. O Presidente age em nome do Conselho Diretivo, em todos os assuntos.
 
 ###### Artigo 7.º — Tesoureiro e Vice-Tesoureiro da Comissão
 
@@ -210,7 +218,7 @@ O Tesoureiro e o Vice-Tesoureiro da Comissão são eleitos pelo Conselho Diretiv
 
 ###### Artigo 8.º — Copresidentes honorários da Comissão
 
-**O Chefe da Missão diplomática dos Estados Unidos da América junto da República Portuguesa e um representante da República Portuguesa a nível ministerial são os Copresidentes Honorários da Comissão, com direito de participar nas reuniões do Conselho Diretivo como membros não votantes. O Copresidente Honorário americano tem o poder para designar e, em consonância com o Direito português, destituir os membros americanos do Conselho Diretivo, dois dos quais deverão ser funcionários do Foreign Service (Serviço de Relações Diplomáticas) dos Estados Unidos na República Portuguesa. O Copresidente honorário português tem o poder para designar e, em consonância com o Direito português, destituir, os membros portugueses do Conselho Diretivo, dois dos quais deverão ser representantes do Governo da República Portuguesa.**
+O Chefe da Missão diplomática dos Estados Unidos da América junto da República Portuguesa e um representante da República Portuguesa a nível ministerial são os Copresidentes Honorários da Comissão, com direito de participar nas reuniões do Conselho Diretivo como membros não votantes. O Copresidente Honorário americano tem o poder para designar e, em consonância com o Direito português, destituir os membros americanos do Conselho Diretivo, dois dos quais deverão ser funcionários do Foreign Service (Serviço de Relações Diplomáticas) dos Estados Unidos na República Portuguesa. O Copresidente honorário português tem o poder para designar e, em consonância com o Direito português, destituir, os membros portugueses do Conselho Diretivo, dois dos quais deverão ser representantes do Governo da República Portuguesa.
 
 ###### Artigo 9.º — Diretor Executivo da Comissão
 
@@ -222,7 +230,7 @@ O Tesoureiro e o Vice-Tesoureiro da Comissão são eleitos pelo Conselho Diretiv
 
 Na medida em que tal se revele necessário, o Diretor Executivo pode selecionar e recrutar pessoal para a Comissão, de acordo com um procedimento público e mediante aprovação prévia do Conselho Diretivo.
 
-# PARTE III — Obrigações das Partes
+## PARTE III — Obrigações das Partes
 
 ###### Artigo 11.º — Obrigações financeiras
 
@@ -236,7 +244,7 @@ Na medida em que tal se revele necessário, o Diretor Executivo pode selecionar 
 
 As Partes envidam todos os esforços para facilitar os programas de intercâmbio mútuo de pessoas selecionadas pela Comissão e aprovadas pelo Fulbright Foreign Scholarship Board, e resolver problemas que possam surgir aquando da sua execução.
 
-# PARTE IV — Disposições gerais e finais
+## PARTE IV — Disposições gerais e finais
 
 ###### Artigo 13.º — Órgãos das Partes responsáveis pela aplicação do Acordo
 

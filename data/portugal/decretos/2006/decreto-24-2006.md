@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/24/2006/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-2006-545402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b76fb7df3766417367fdbdc1151e10021224c54e8b995d9d2f09d3d74984a541
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4407642d70ba7d905b5caaf0f82250540dc819922e8e06987b0bca3d3b749bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/295/2002/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/295/2002/03/19/p/dre
+- type: cites
+  target: pt:dre:263767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274808:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:33Z'
   warnings: []
   errors: []
 ---
@@ -101,12 +109,12 @@ Ao abrigo do disposto no n.º 1 do artigo 34.º da [Portaria n.º 295/2002](http
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 2006. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia.
 
-**Assinado em 11 de Novembro de 2006.**
+Assinado em 11 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 14 de Novembro de 2006.**
+Referendado em 14 de Novembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

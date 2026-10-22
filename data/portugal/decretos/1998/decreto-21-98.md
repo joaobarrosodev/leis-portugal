@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/21/1998/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/21-1998-485048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86a7435e6214105f970241600040146a0df40c4ede753b614405810b39dbec65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bf7a7d45b047b49c0e25320653b0df58c983323a3a39757136fc08371cb4460
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Pessoal do MAR
 - Convenção
+- Embarcação
+- Navegação Marítima
+- Pessoal do MAR
 - Portugal
-- Segurança no Trabalho
 - Salvaguarda da VIDA Humana no MAR
 - Segurança Marítima
+- Segurança no Trabalho
 - Sistema Mundial de Socorro e Segurança Marítima
-- Navegação Marítima
 relationships:
 - type: amended_by
   target: pt:dre:340262:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:340262:por
+  label: "Alterados os capits IX, X e XI do anexo à Convenção aprovada para adesão pelo presente diploma, o qual é republicado\
+    \ na integra com as citadas alterações pelo DEC.19/2000.2000.08.11.MES DR.IS-B [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/19-2000-340262
+  date: '2000-08-11'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:49Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +113,15 @@ São aprovadas, para adesão, as emendas ao anexo da Convenção Internacional p
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - João Cardona Gomes Cravinho.
 
-**Assinado em 22 de Maio de 1998.**
+Assinado em 22 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Maio de 1998.**
+Referendado em 29 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ADDITION OF NEW CHAPTERS IX, X AND XI TO; AND AMENDMENTS TO THE APPENDIX TO; THE ANNEX TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974
 
@@ -211,7 +217,7 @@ For the purpose of this chapter:
 
 2 - 'High speed craft' is a craft capable of a maximum speed in metres per second (m/s) equal to or exceeding:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31063112.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31063112.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31063112.pdf)
 
 3 - 'Craft constructed' means a craft the keel of which is laid or which is at a similar stage of construction.
 
@@ -419,7 +425,7 @@ Para os fins do presente capítulo:
 
 2 - 'Embarcação de alta velocidade' é toda a embarcação capaz de atingir uma velocidade máxima, em metros por segundo (m/s), igual ou superior a:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31063112.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31063112.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31063112.pdf)
 
 3 - 'Embarcação construída' significa uma embarcação cuja quilha já foi assente ou se encontra numa fase equivalente de construção.
 

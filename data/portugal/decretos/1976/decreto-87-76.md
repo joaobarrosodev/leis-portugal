@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/87-1976-507027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6701808498d77f927510553a4359be97c1b238a2d28493dac236b28b950503e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9fa238a50fe1665947e92ab892b60d59df78cf6af12e2e424fb736a398564dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Extinção de Serviços
+- Junta de Investigações Científicas do Ultramar
+- Junta de Investigações do Ultramar
+- Transferência de Pessoal
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:444699:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:45Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +97,16 @@ Atendendo a que foram dados por findos os trabalhos previstos no [Decreto n.º 1
 
 Usando da faculdade concedida pelo artigo 3.º, n.º 4, alínea 1), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São extintos, a partir da data da publicação deste diploma, o Grupo de Missões Científicas do Zambeze e a sua Missão de Ecologia Aplicada, criados pelo [Decreto n.º 173/71](https://diariodarepublica.pt/dr/detalhe/decreto/173-1971-444699), de 28 de Abril.
+Artigo 1.º São extintos, a partir da data da publicação deste diploma, o Grupo de Missões Científicas do Zambeze e a sua Missão de Ecologia Aplicada, criados pelo [Decreto n.º 173/71](https://diariodarepublica.pt/dr/detalhe/decreto/173-1971-444699), de 28 de Abril.
 
-###### Art. 2.º O respectivo património, incluindo os saldos existentes nas suas contas, serão transferidos para a Junta de Investigações do Ultramar.
+Art. 2.º O respectivo património, incluindo os saldos existentes nas suas contas, serão transferidos para a Junta de Investigações do Ultramar.
 
-###### Art. 3.º O pessoal dos organismos agora extintos transita para a Junta de Investigações Científicas do Ultramar.
+Art. 3.º O pessoal dos organismos agora extintos transita para a Junta de Investigações Científicas do Ultramar.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 21 de Janeiro de 1976.**
+Promulgado em 21 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

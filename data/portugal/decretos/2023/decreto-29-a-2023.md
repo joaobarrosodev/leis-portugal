@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 232/2023, 2º Suplemento, Série I de 2023-11-30
   number: '232'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 20-(2) a 20-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/23202/0000200016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/29-a/2023/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/29-a-2023-225125594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a56d8248d5bc7b8671ae4e7a3f3da21a46fde75abb355b095f1ad9c936f3060c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffd74baa8e52cad5248449c5875cf626162f7d0db9e9595dee6b3b7e4118603d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reino Unido
 - Carta de Condução
 - Convenção
-- Portugal
 - Londres
+- Portugal
+- Reino Unido
 relationships:
 - type: cites
   target: celex:32016R0679
@@ -79,13 +79,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:31Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 16 de novembro de 2023. - Mariana Guimarães Vieira da Silva - Paulo Alexandre Nascimento Cafôfo.
 
-**Assinado em 23 de novembro de 2023.**
+Assinado em 23 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de novembro de 2023.**
+Referendado em 24 de novembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO UNIDO DA GRÃ-BRETANHA E IRLANDA DO NORTE SOBRE RECONHECIMENTO MÚTUO PARA EFEITOS DE CONDUÇÃO E TROCA DE CARTAS DE CONDUÇÃO
 
@@ -288,9 +288,9 @@ Notas
 
 3 - Exceções à equivalência das categorias de cartas de condução do Reino Unido constam dos quadros 4-5 e as exceções à equivalência das categorias das cartas de condução portuguesas constam do quadro 6.
 
-|  |  |
+| Categorias do Reino Unido<br>(cartas de condução da GB, NIrl e GI emitidas a partir de 19 de janeiro de 2013) | Categorias da República Portuguesa |
 | --- | --- |
-| Categorias do Reino Unido (cartas de condução da GB, NIrl e GI emitidas a partir de 19 de janeiro de 2013) | Categorias da República Portuguesa |
+|  |  |
 | A ... | A |
 | A2 ... | A2 |
 | A1 ... | A1 |
@@ -324,9 +324,9 @@ Notas
 
 2 - As exceções à equivalência das categorias de cartas de condução do Reino Unido constam dos quadros 4-5.
 
-|  |  |  |
+| Categorias do Reino Unido<br>(cartas de condução da GB e NIrl emitidas de 1 de junho de 1990 a 19 de janeiro de 2013) | Categorias do Reino Unido<br>(cartas de condução de Gibraltar emitidas de 2 de dezembro de 1990 a 19 de janeiro de 2013) | Categorias da República Portuguesa |
 | --- | --- | --- |
-| Categorias do Reino Unido (cartas de condução da GB e NIrl emitidas de 1 de junho de 1990 a 19 de janeiro de 2013) | Categorias do Reino Unido (cartas de condução de Gibraltar emitidas de 2 de dezembro de 1990 a 19 de janeiro de 2013) | Categorias da República Portuguesa |
+|  |  |  |
 | A1 ... | A1 ... | A1 |
 | A2 ... | - | A2 |
 | A ... | A ... | A |
@@ -355,9 +355,9 @@ Notas
 
 2 - As exceções à equivalência das categorias de cartas de condução do Reino Unido constam do quadro 4.
 
-|  |  |
+| Categorias do Reino Unido<br>(cartas de condução da GB & NIrl emitidas até 31 de maio de 1990) | Categorias da República Portuguesa |
 | --- | --- |
-| Categorias do Reino Unido (cartas de condução da GB & NIrl emitidas até 31 de maio de 1990) | Categorias da República Portuguesa |
+|  |  |
 | A ... | B |
 |  | B1 |
 |  | BE |
@@ -383,9 +383,9 @@ QUADRO 4
 
 Exceções à troca de categorias de cartas de condução do Reino Unido (Grã-Bretanha e Irlanda do Norte)
 
-|  |  |
+| RU (GB e NIrl)<br>Notações | Informação |
 | --- | --- |
-| RU (GB e NIrl) Notações | Informação |
+|  |  |
 | Código 1 antes de 1 de janeiro de 1997 e código 101 a partir de 1 de janeiro de 1997 na GB. 079 (NFHR) na NIrl. | O código 101 significa proibição de aluguer. Esta categoria não é concedida na carta de condução da República Portuguesa. Normalmente segue as categorias D1 e D1E. Trata-se de um regime nacional no Reino Unido e não confere ao seu titular o direito de obter esta categoria aquando da troca de uma carta de condução do Reino Unido por uma carta de condução portuguesa. |
 | Código 102 ... | A categoria CE com esta restrição destina-se apenas a reboques com lança. A República Portuguesa não tem equivalente a esta categoria. Estes condutores não foram aprovados num exame de condução no Reino Unido nesta categoria e, por conseguinte, não provaram a sua competência para a condução destes veículos. Trata-se de uma disposição nacional no Reino Unido e não confere ao titular o direito de obter esta categoria aquando da troca de uma carta de condução do Reino Unido por uma carta de condução portuguesa. |
 | Código 105 ... | Comprimento não superior a 5,5 m. |
@@ -396,18 +396,18 @@ QUADRO 5
 
 Exceções à troca de categorias de cartas de condução do Reino Unido (Gibraltar)
 
-|  |  |
+| RU (Gibraltar)<br>Notação | Informação |
 | --- | --- |
-| RU (Gibraltar) Notação | Informação |
-| Código 105 ... | Apenas para veículos automáticos da categoria C. Pode ser trocada na República Portuguesa pela categoria C com o código 78. A habilitação para a categoria D é concedida para veículos de caixa manual. Condução sem passageiros. Apenas aplicável a Gibraltar. Não é trocada na República Portuguesa. |
+|  |  |
+| Código 105 ... | Apenas para veículos automáticos da categoria C. Pode ser trocada na República Portuguesa pela categoria C com o código 78.<br>A habilitação para a categoria D é concedida para veículos de caixa manual. Condução sem passageiros. Apenas aplicável a Gibraltar. Não é trocada na República Portuguesa. |
 
 QUADRO 6
 
 Exceções à troca de categorias de cartas de condução portuguesas
 
-|  |  |
-| --- | --- |
 | Notação portuguesa | Informação |
+| --- | --- |
+|  |  |
 | Categoria B ... | Na República Portuguesa, uma carta de condução emitida para a categoria B habilita o seu titular a conduzir a categoria A1 (motociclos ligeiros). Isto não se aplica no Reino Unido, pelo que a habilitação para conduzir a categoria A1 não será concedida, no Reino Unido, aquando da troca, em virtude de uma habilitação da categoria B numa carta de condução portuguesa. |
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND ON MUTUAL RECOGNITION FOR THE PURPOSE OF DRIVING AND EXCHANGE OF DRIVING LICENCES
@@ -616,9 +616,9 @@ Notes
 
 3 - See tables 4-5 for exceptions to the equivalence of United Kingdom driving licence categories and table 6 for exceptions to the equivalence of Portuguese driving licence categories.
 
-|  |  |
+| UK Categories<br>(GB, NI & Gibraltar driving licences issued from 19th January 2013) | Portuguese categories |
 | --- | --- |
-| UK Categories (GB, NI & Gibraltar driving licences issued from 19th January 2013) | Portuguese categories |
+|  |  |
 | A ... | A |
 | A2 ... | A2 |
 | A1 ... | A1 |
@@ -654,9 +654,9 @@ Notes
 
 2 - See tables 4-5 for exceptions to the equivalence of United Kingdom driving licence categories.
 
-|  |  |  |
-| --- | --- | --- |
 | UK Categories (GB & NI driving licences issued from 1st June 1990 to 19th January 2013) | UK Categories (Gibraltar driving licences issued from 2nd December 1990 to 19th January 2013) | Portuguese categories |
+| --- | --- | --- |
+|  |  |  |
 | A1 ... | A1 ... | A1 |
 | A2 ... | - | A2 |
 | A ... | A ... | A |
@@ -688,9 +688,9 @@ Notes
 
 2 - See table 4 for exceptions to the equivalence of United Kingdom driving licence categories.
 
-|  |  |
-| --- | --- |
 | UK categories (GB & NI driving licences issued up to 31st May 1990) | Portuguese categories |
+| --- | --- |
+|  |  |
 | A ... | B |
 |  | B1 |
 |  | BE |
@@ -716,9 +716,9 @@ TABLE 4
 
 Exceptions to exchange of UK (Great Britain and Northern Ireland) driving licence categories
 
-|  |  |
-| --- | --- |
 | UK (GB & NI) Notation | Information |
+| --- | --- |
+|  |  |
 | Code 1 before 1st January 1997 and Code 101 from 1st January 1997 in GB. 079 (NFHR) in NI. | Code 101 means not for hire or reward. This category of driving licence is not granted in the Portuguese Republic. Usually follow categories D1 and D1E. This is a national arrangement in the UK and does not entitle the holder to obtain this category on exchange of a UK driving licence for a Portuguese driving licence. |
 | Code 102 ... | The category CE with this restriction is for drawbar trailer only. The Portuguese Republic has no equivalent to this. These drivers have not passed a driving test in the UK in this category and have therefore not proved their competence in these vehicles. This is a national arrangement in the UK and does not entitle the holder to obtain this category on exchange of a UK driving licence for a Portuguese driving licence. |
 | Code 105 ... | Not more than 5.5 m long. |
@@ -729,16 +729,18 @@ TABLE 5
 
 Exceptions to exchange of UK (Gibraltar) driving licence categories
 
-|  |  |
-| --- | --- |
 | UK (Gibraltar) Notation | Information |
-| Code 105 ... | For category C automatic vehicles only. Exchangeable in the Portuguese Republic for category C with code 78. Category D entitlement is awarded for manual vehicles. No passengers. Only local to Gibraltar. Not exchangeable in the Portuguese Republic. |
+| --- | --- |
+|  |  |
+| Code 105 ... | For category C automatic vehicles only. Exchangeable in the Portuguese Republic for category C with code 78.<br>Category D entitlement is awarded for manual vehicles. No passengers. Only local to Gibraltar. Not exchangeable in the Portuguese Republic. |
 
 TABLE 6
 
 Exceptions to exchange of Portuguese driving licence categories
 
-|  |  |
-| --- | --- |
 | Portuguese notation | Information |
+| --- | --- |
+|  |  |
 | Category B ... | In the Portuguese Republic a driving licence issued for category B entitles the holder to drive category A1 (light motorbike). This does not apply in UK, and so entitlement to drive category A1 shall not, in the UK, be granted on exchange by virtue of a category B entitlement on a Portuguese driving licence. |
+
+117102812

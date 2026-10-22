@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/1/2006/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-2006-202666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a4b48bd9f54844f5d855853ecd35ec2d08fe79d77612c53faadf41e2cfdefbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b0a2f3fcfef045fb31a16f98b04b493672e4b7402bab3880da398aee8c6b06f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/56/1991/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/56/1991/09/21/p/dre
+- type: cites
+  target: pt:dre:301010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565432:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:22Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +110,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Luís Filipe Marques Amado - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
 
-**Assinado em 9 de Dezembro de 2005.**
+Assinado em 9 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Dezembro de 2005.**
+Referendado em 19 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Emendas ao Regulamento Internacional para Evitar Abalroamentos no Mar,1972
 
@@ -182,7 +190,7 @@ O parágrafo c) passa a ter o seguinte texto:
 
 Um apito instalado a bordo de um navio deve assegurar, na direcção de máxima intensidade e a uma distância de 1 m, um nível de pressão acústica não inferior ao valor estabelecido na tabela seguinte, pelo menos, numa faixa de um terço de oitava, situada na gama de frequências de 180 Hz a 700 Hz ((mais ou menos) 1%) para um navio de comprimento igual ou superior a 20 m, ou de 180 Hz a 2100 Hz ((mais ou menos) 1%) para um navio de comprimento inferior a 20 m.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00080010.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00080010.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00080010.pdf)
 
 O parágrafo b) da secção 2 «Sino ou tantã», passa a ter o seguinte texto:
 
@@ -262,7 +270,7 @@ Paragraph c) is amended to read as follows:
 
 A whistle fitted in a vessel shall provide, in the direction of maximum intensity of the whistle and at a distance of 1 m from it, a sound pressure level in at least one 1/3rd-octave band within the range of frequencies 180-700 Hz ((mais ou menos) l%) for a vessel of 20 m or more in length, or 180-2100 Hz ((mais ou menos) 1%) for a vessel of less than 20 m in length, of not less than the appropriate figure given in the table below:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00080010.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00080010.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00080010.pdf)
 
 Section 2, «Bell or gong», paragraph b) is amended to read as follows:
 

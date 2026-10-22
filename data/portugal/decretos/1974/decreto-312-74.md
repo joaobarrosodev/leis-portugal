@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/312-1974-476323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d29550a03979216ec7d060e1a68787d64e311c3e1f22419bf6d7a743aceb48cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90f86094a3470f14219976ed061dc4261d2a3a3ebccd955030056a9b7933529b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398778:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:43Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +93,16 @@ Havendo necessidade de serem alteradas as categorias atribuídas, pelo mapa II a
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos quadros privativos dos Serviços da Aeronáutica Civil de Angola e de Moçambique os lugares de operador de telecomunicações de 1.ª e 2.ª classes constantes do mapa II anexo ao [Decreto n.º 77/72](https://diariodarepublica.pt/dr/detalhe/decreto/77-1972-398778), de 7 de Março, são incluídos, respectivamente, nas categorias das letras K e L, a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Artigo 1.º Nos quadros privativos dos Serviços da Aeronáutica Civil de Angola e de Moçambique os lugares de operador de telecomunicações de 1.ª e 2.ª classes constantes do mapa II anexo ao [Decreto n.º 77/72](https://diariodarepublica.pt/dr/detalhe/decreto/77-1972-398778), de 7 de Março, são incluídos, respectivamente, nas categorias das letras K e L, a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 2.º Os operadores de telecomunicações de 2.ª classe dos quadros privativos dos Serviços da Aeronáutica Civil de Angola e de Moçambique, em serviço à data da entrada em vigor deste diploma, serão promovidos a operadores de telecomunicações de 1.ª classe, sem necessidade de concurso, por ordem de antiguidade, à medida que se verificarem as respectivas vagas.
+Art. 2.º Os operadores de telecomunicações de 2.ª classe dos quadros privativos dos Serviços da Aeronáutica Civil de Angola e de Moçambique, em serviço à data da entrada em vigor deste diploma, serão promovidos a operadores de telecomunicações de 1.ª classe, sem necessidade de concurso, por ordem de antiguidade, à medida que se verificarem as respectivas vagas.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - António de Almeida Santos.
 
-**Promulgado em 3 de Julho de 1974.**
+Promulgado em 3 de Julho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos Boletins Oficiais dos Estados de Angola e Moçambique. - Almeida Santos.

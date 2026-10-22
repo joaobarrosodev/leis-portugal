@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/688-1976-409122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f58f28c7b5c0da18b4fe7ea242b32e59e090117e3b4eda47ebf577ebd1e49be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e0420dfcae7cfe1aea4ade43718118e1994ca3f8a40417c28eaec450c55dba3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Compra
+- Contrato de Compra e Venda
+- Despesas Públicas
+- Direcção Geral do Património
+- Oeiras
+- Prédio Urbano
+- Serviços Mecanográficos do Ministério das Finanças
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:48Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +103,9 @@ Tendo em vista o disposto no artigo 6.º do [Decreto-Lei n.º 48234](https://dia
 
 Usando da faculdade conferida pela alínea g) do artigo 202.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral do Património a celebrar escritura para aquisição de um prédio urbano sito em Alfragide, freguesia da Amadora, concelho de Oeiras, descrito na Delegação da Amadora da Conservatória do Registo Predial de Oeiras sob o n.º 4733, a fl. 40 do livro B-16 e inscrito na competente matriz sob o artigo 5643, pela importância de 80000000$00.
+Artigo 1.º É autorizada a Direcção-Geral do Património a celebrar escritura para aquisição de um prédio urbano sito em Alfragide, freguesia da Amadora, concelho de Oeiras, descrito na Delegação da Amadora da Conservatória do Registo Predial de Oeiras sob o n.º 4733, a fl. 40 do livro B-16 e inscrito na competente matriz sob o artigo 5643, pela importância de 80000000$00.
 
-###### Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior será satisfeito da seguinte forma:
+Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior será satisfeito da seguinte forma:
 
 Em 1976 - 30000000$00.
 
@@ -103,8 +115,8 @@ Em 1978 - 25000000$00.
 
 Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 6 de Setembro de 1976.**
+Promulgado em 6 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/142-1979-365738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58ea0f8124a31f94a3575c959fe836ae693268fdb43a7bf7b1cc8429018119b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: beeeaec60d8ea5597f7806a43d094c2a3f2c7b9296c87e0962bc2034a638bdf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Pesca
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:17Z'
   warnings: []
   errors: []
 ---
@@ -86,13 +89,13 @@ de 27 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Pescas entre o Governo de Portugal e o Governo do Japão, assinado em Tóquio em 17 de Outubro de 1978, cujo texto em inglês e a respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo de Pescas entre o Governo de Portugal e o Governo do Japão, assinado em Tóquio em 17 de Outubro de 1978, cujo texto em inglês e a respectiva tradução para português acompanham o presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 30 de Novembro de 1979.**
+Assinado em 30 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
 Presidente da República, ANTÓNIO RAMALHO EANES.
 
@@ -218,7 +221,7 @@ Desejosos de estabelecer os termos e condições que definam o quadro no qual de
 
 acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 1 - O Governo de Portugal obriga-se a permitir que navios japoneses pesquem em águas sob jurisdição exclusiva de pesca de Portugal, numa área por fora dos limites das suas águas territoriais, designada daqui em diante por «Zona», quotas atribuídas, conforme for apropriado, em partes das capturas totais permitidas que excedam a capacidade de captura de Portugal, de acordo com o estabelecido nos n.os 2 e 3 deste artigo.
 
@@ -232,11 +235,11 @@ c) Depois de consultas apropriadas, a quota ou quotas a atribuir ao Japão, conf
 
 3 - O Governo de Portugal obriga-se a transmitir ao Governo do Japão, em tempo oportuno, pelas vias mais apropriadas, a acordar entre os dois Governos, os resultados das determinações referidas nas alíneas a) e b) do número anterior, e as quotas atribuídas mencionadas na alínea c) do mesmo número.
 
-ARTIGO II
+###### ARTIGO II
 
 Ao proceder à atribuição da quota ou quotas que poderão ser postas à disposição dos navios de pesca japoneses ao abrigo do disposto na alínea c) do n.º 2 do artigo I, o Governo de Portugal, no prosseguimento do objectivo de uma utilização óptima dos recursos, tomará em conta todos os factores relevantes, incluindo, entre outros, os interesses portugueses, a pesca tradicional dos nacionais e navios japoneses, a cooperação já prestada por parte do Japão relativamente à conservação dos recursos vivos de interesse comum e ao desenvolvimento da cooperação entre os dois Governos, em conformidade com as disposições deste Acordo, em especial no que se refere a investigação das pescas e identificação das populações (stocks) por parte do Japão.
 
-ARTIGO III
+###### ARTIGO III
 
 O Governo do Japão tomará todas as medidas necessárias para assegurar que:
 
@@ -246,19 +249,19 @@ b) Todos esses navios cumpram, quando no exercício da pesca, os termos e condi�
 
 c) A quota ou quotas atribuídas, nos termos da alínea c) do n.º 2 do artigo I, não sejam excedidas em qualquer pescaria.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - O Governo do Japão prestará ao Governo de Portugal informações relativas à identidade e actividade de cada um dos navios de pesca japoneses que tencionem pescar na Zona, de acordo com as normas estabelecidas pelo Governo de Portugal.
 
 2 - Após a recepção da informação referida no número anterior, o Governo de Portugal tomará as necessárias medidas administrativas, incluindo a emissão de licenças, em conformidade com a legislação portuguesa aplicável, a fim de que os navios japoneses possam exercer a pesca na Zona, ao abrigo das disposições do presente Acordo. Tais medidas poderão incluir a exigência de pagamentos de taxas razoáveis com o objectivo de facilitar a aplicação deste Acordo e assegurar a conservação e gestão dos recursos vivos.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - O Governo do Japão assegurará que, quando em actividade de pesca na Zona, ao abrigo deste Acordo, os navios de pesca japoneses cumprirão as leis e regulamentos portugueses a respeito de pescas, e os outros termos e condições estabelecidos pelo Governo de Portugal, nomeadamente as medidas administrativas tomadas em conformidade com o n.º 2 do artigo IV.
 
 2 - O Governo de Portugal comunicará ao Governo do Japão todos os termos e condições referidos no número anterior.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - O Governo do Japão tomará medidas adequadas para assegurar que cada um dos navios japoneses que, nos termos deste Acordo, se entreguem à pesca dos recursos vivos da Zona permita e preste assistência à visita e inspecção desse navio por qualquer funcionário de fiscalização português, devidamente credenciado, e coopere em qualquer acção de fiscalização que seja empreendida.
 
@@ -266,7 +269,7 @@ ARTIGO VI
 
 3 - Os navios de pesca apresados e as tripulações que forem objecto de detenção deverão ser libertados sem demora, após prestação de fiança razoável ou qualquer outra garantia, conforme for determinado pelo tribunal.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - O Governo do Japão obriga-se a cooperar com o Governo de Portugal, do modo mais indicado para o desenvolvimento das relações de pesca entre os dois países, nos termos deste Acordo, na investigação científica para fins de conservação e em outras medidas apropriadas à utilização óptima e à gestão dos recursos vivos da Zona.
 
@@ -274,7 +277,7 @@ ARTIGO VII
 
 3 - O Governo de Portugal e o Governo do Japão obrigam-se a cooperar, directamente ou através das competentes organizações internacionais, com vista a assegurar a conservação das espécies altamente migratórias dentro da Zona.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - O Governo de Portugal e o Governo do Japão deverão proceder a consultas bilaterais periódicas sobre a execução deste Acordo.
 
@@ -282,11 +285,11 @@ ARTIGO VIII
 
 3 - O Governo de Portugal e o Governo do Japão examinarão também, em conjunto, a possibilidade de celebração de acordos para utilização de portos portugueses por navios de pesca japoneses, com vista ao embarque ou desembarque de membros da tripulação ou outras pessoas, ou para outros fins que sejam acordados.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Nenhuma das disposições deste Acordo poderá ser interpretada de forma a afectar ou prejudicar de qualquer forma o cumprimento de acordos internacionais em matérias de pesca de que Portugal e o Japão sejam partes ou ainda os pontos de vista e posições de qualquer dos dois Governos a respeito de qualquer questão relacionada com o direito do mar.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - Este Acordo entrará em vigor à data da recepção da segunda das notas pelas quais os dois Governos se comunicarem terem sido completadas as necessárias formalidades legais de cada país para essa entrada em vigor.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/12/2009/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/12-2009-603875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:20:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5179c71e5dd736e4cedb32a85c4e0edf9a3949d7f840ed3a84e8eef9d7ba1320
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9f80a36a8603ef00aa50aa8511c100de1e291ba7b23c302b7eccde4806058a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:20:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AIEA
-- Gestão de Resíduos
 - Combustível Usado
+- Convenção
+- Energia Nuclear
+- Gestão de Resíduos
+- Portugal
+- Proteção do Ambiente
 - Radiactividade
 - Radioprotecção
-- Segurança Nuclear
-- Convenção
-- Portugal
-- Energia Nuclear
-- Proteção do Ambiente
 - Resíduo Radioactivo
+- Segurança Nuclear
 - Viena
 relationships: []
 article_structure:
   article_count: 44
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:20:07Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Humberto Delgado Ubach Chaves Rosa - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Assinado em 13 de Março de 2009.**
+Assinado em 13 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de Março de 2009.**
+Referendado em 19 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 JOINT CONVENTION ON THE SAFETY OF SPENT FUEL MANAGEMENT AND ON THE SAFETY OF RADIOACTIVE WASTE MANAGEMENT
 

@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/138-1980-458874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe6883b9e23e59bcbb083788c282b233ec1d2b6b96b4e3506a77dd9ef7ce8917
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab21c787b6b8796ec6020c51f0aac7fd0d21ec8be7b45b64933a49e85dac4985
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amã.cidade
+- Comércio
+- Convenção
+- Cooperação Económica
+- Cooperação Técnica
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:455092:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455092:por
+  label: "Determinada a cessação da vigência do Acordo Comercial e Económico e de Cooperação Técnica entre o Governo da República\
+    \ Portuguesa e o Governo do Reino Hachemita da Jordânia pelo DEC.25/2008.07.08.2008.MNE, DR.IS [152] de 07.08.2008, com\
+    \ a entrada em vigor do Acordo aprovado por este último diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/25-2008-455092
+  date: '2008-08-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:49Z'
   warnings: []
   errors: []
 ---
@@ -91,25 +104,25 @@ de 5 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Comercial e Económico e de Cooperação Técnica entre o Governo da República Portuguesa e o Governo do Reino Achemita da Jordânia, assinado em Amã aos 13 de Maio de 1980, cujo texto, nas línguas portuguesa e inglesa, acompanha o presente decreto.
+Artigo único. É aprovado o Acordo Comercial e Económico e de Cooperação Técnica entre o Governo da República Portuguesa e o Governo do Reino Achemita da Jordânia, assinado em Amã aos 13 de Maio de 1980, cujo texto, nas línguas portuguesa e inglesa, acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 1980. - Francisco Sá Carneiro. - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 25 de Novembro de 1980.**
+Assinado em 25 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo Comercial e Económico e de Cooperação Técnica entre o Governo da República Portuguesa e o Governo do Reino Achemita da Jordânia.
 
 O Governo Português e o Governo do Reino Achemita da Jordânia, desejosos de estimular e facilitar o desenvolvimento do comércio e da cooperação económica e técnica entre ambos os países na base da iguadade e respeito mútuo e do benefício comum, acordaram no que se segue:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes comprometem-se a empreender todos os possíveis esforços no sentido de facilitar e desenvolver trocas comerciais, como também procurar alcançar uma balança comercial equitativa entre os dois países. Contribuirão também, dentro da orgânica de leis e regulamentos em vigor nos dois países, para a expansão económica e a cooperação técnica, a fim de alcançar a máxima utilização das possibilidades do seu respectivo desenvolvimento económico.
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes Contratantes esforçar-se-ão por desenvolver e fortalecer a cooperação técnica e económica entre os dois países, principalmente nos seguintes campos:
 
@@ -129,11 +142,11 @@ Aviação civil.
 
 Com esta finalidade, ambas as Partes Contratantes tomarão todas as medidas necessárias para atingir os objectivos estipulados neste Acordo, em conformidade com as leis e regulamentos em vigor nos dois países.
 
-ARTIGO III
+###### ARTIGO III
 
 A fim de assegurar as condições de mútuo benefício necessárias para a expansão do comércio entre os dois países, cada uma das Partes Contratantes deverá dispensar um tratamento especial às mercadorias originárias e importadas do território da outra Parte Contratante, bem como às procedentes do seu próprio território e exportadas para o território da outra Parte Contratante.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As provisões do artigo III não se aplicarão a:
 
@@ -145,17 +158,17 @@ c) Preferências ou vantagens por meio de acordos comerciais globais ou regionai
 
 d) Preferências ou vantagens que o Reino Ashemita da Jordânia tenha concedido ou venha a conceder a qualquer país árabe.
 
-ARTIGO V
+###### ARTIGO V
 
 As Partes Contratantes tomarão as medidas apropriadas, dentro dos limites da sua legislação, de modo a promover o comércio entre os dois países em geral e em particular no que respeita aos bens mencionados nas listas juntas (anexos I e II deste Acordo). Com este objectivo, as listas serão revistas periodicamente por ambas as Partes Contratantes e será dada ampla publicidade aos artigos destinados à exportação de qualquer dos países.
 
 As listas são indicativas na sua natureza e não serão elaboradas com o fim de excluir bens e comodidades nelas não relacionados.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Partes Contratantes, em conformidade com os objectivos e a necessidade do seu respectivo desenvolvimento económico e de acordo com as suas leis e regulamento em vigor deverão apoiar e facilitar a conclusão e execução de contratos e programas para o comércio e para a cooperação económica e técnica entre as empresas e organizações em causa de ambos os países e deverão providenciar todas as facilidades possíveis para a realização de projectos de interesse mútuo.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As Partes Contratantes deverão:
 
@@ -167,15 +180,15 @@ c) Conceder todas as facilidades possíveis aos negociantes e às empresas comer
 
 d) Facilitar a troca de informação comercial na base do benefício mútuo.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Em conformidade com as leis e regulamentos nos dois países, ambas as Partes Contratantes deverão estimular a sua participação nas feiras internacionais promovidas em ambos os países e a abertura de centros comerciais e feiras provisórias ou permanentes, bem como providenciar todas as necessárias facilidades para a importação de amostras e material de propaganda, como também dos indispensáveis contentores para tal. Ambos os países autorizarão a entrada de toda a mercadoria e materiais necessários para promover feiras comerciais ou com a finalidade de propaganda noutro país com isenção de direitos alfandegários e outras taxas similares, desde que estas entradas de materiais sejam numa base provisória, e daí serão exportados posteriormente.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Os pagamentos entre os dois países serão efectuados na moeda livremente convertível, de acordo com os regulamentos de cambiais em vigor nos dois países.
 
-ARTIGO X
+###### ARTIGO X
 
 A fim de atingir os objectivos deste Acordo, as Partes Contratantes nomearão uma comissão mista, composta por representantes dos dois Governos.
 
@@ -189,7 +202,7 @@ Auxiliar e facilitar o desenvolvimento do comércio e da cooperação técnica e
 
 Ponderar sobre outras questões resultantes da execução deste Acordo.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Este Acordo entrará em vigor no dia da troca de notas, confirmando a ratificação pelas autoridades competentes de ambas as Partes Contratantes.
 

@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/81-1978-299399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb94a84e171a387f06f550458f3c92122d275777b89ecce3d53468bfd9cba92b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1e69469d9d8e6c8efa75fce9a337f96d5a17e2a3400ea594f9869fb3ac31eba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Instalação de Serviços
+- Secretário Nacional de Reabilitação
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256054:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:11Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +104,20 @@ Assim:
 
 Para cumprimento do disposto no artigo 6.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 3 de Janeiro de 1968, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizado o Secretariado Nacional de Reabilitação a contratar a aquisição, para o seu património, do prédio sito em Lisboa na Avenida do Conde de Valbom, 63, pela importância de 52138394$00.
+Artigo 1.º É autorizado o Secretariado Nacional de Reabilitação a contratar a aquisição, para o seu património, do prédio sito em Lisboa na Avenida do Conde de Valbom, 63, pela importância de 52138394$00.
 
-###### Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior será satisfeito pelo orçamento privativo do Secretariado Nacional de Reabilitação, na seguinte conformidade:
+Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior será satisfeito pelo orçamento privativo do Secretariado Nacional de Reabilitação, na seguinte conformidade:
 
 Em 1978 - 14800000$00;
 
 Em 1979 - 37338394$00.
 
-###### Art. 3.º A quantia referente ao encargo do ano de 1979 será englobada na dotação que for inscrita, ao abrigo do n.º 1 do artigo 41.º do [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054), de 20 de Agosto, no orçamento para aquele ano dos Encargos Gerais da Nação.
+Art. 3.º A quantia referente ao encargo do ano de 1979 será englobada na dotação que for inscrita, ao abrigo do n.º 1 do artigo 41.º do [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054), de 20 de Agosto, no orçamento para aquele ano dos Encargos Gerais da Nação.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 16 de Agosto de 1978.**
+Promulgado em 16 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

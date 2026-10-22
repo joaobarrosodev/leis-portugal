@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/24/2000/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-2000-533383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:11:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 550afeb2be1ca7758de6fedbbb905d37f15ecdb75b5e077ce10cdc339e433303
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 616657592825c47637d1644f767217068527e261b96c1061013167a56888c216
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:11:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- EUA
 - Cidadão Nacional
 - Convenção
-- Portugal
+- EUA
 - Expulsão de Estrangeiros
+- Portugal
 relationships: []
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:11:03Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +94,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Nuno Severiano Teixeira.
 
-**Assinado em 3 de Outubro de 2000.**
+Assinado em 3 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 2000.**
+Referendado em 4 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOLO ENTRE PORTUGAL E OS ESTADOS UNIDOS DA AMÉRICA SOBRE O PROCESSO DE DEPORTAÇÃO DE CIDADÃOS PORTUGUESES DOS ESTADOS UNIDOS DA AMÉRICA E DE CIDADÃOS AMERICANOS DE PORTUGAL.
 
@@ -128,7 +128,7 @@ O artigo 36.º da Convenção de Viena sobre as Relações Consulares determina 
 
 Tendo em conta estas considerações, os Governos de Portugal e dos Estados Unidos da América acordam adoptar as medidas e procedimentos seguintes, por forma a facilitar o retorno para o território nacional dos cidadãos portugueses e americanos que tenham sido deportados dos Estados Unidos e de Portugal.
 
-# PARTE I — Procedimentos para a notificação inicial
+## PARTE I — Procedimentos para a notificação inicial
 
 A) O U. S. Immigration and Naturalization Service (INS) procurará tomar todas as medidas adequadas para fornecer ao Governo da República Portuguesa, através da sua Embaixada em Washington, D. C., uma lista de todos os nacionais portugueses que sejam alvo de um processo de deportação. Esta lista deverá conter informação sobre o local onde cada nacional se encontra detido, assim como se o mesmo se encontra sob custódia do INS ou de outra autoridade e quem administra a instalação. Esta lista deverá ser fornecida semestralmente, devendo conter todas as informações que o INS disponha à data da sua emissão.
 
@@ -142,7 +142,7 @@ E) Para facilitar o contacto com as autoridades consulares americanas, o SEF dev
 
 F) Sempre que os nacionais portugueses ou americanos a isso se não oponham, as autoridades consulares portuguesas e americanas podem contactar e visitar os seus nacionais nas instituições federais, estatais ou locais onde se encontrem detidos, a fim de recolherem todas as informações necessárias para que os respectivos Governos providenciem a assistência social adequada aos seus nacionais deportados, após o seu retorno. Para o efeito, os funcionários consulares portugueses e os funcionários consulares americanos podem obter dados médicos ou outros dados dos seus nacionais e, dentro dos limites dos regulamentos das instituições responsáveis pela detenção, tomarem providências para garantir o seu acompanhamento pelos serviços sociais.
 
-# PARTE II — Pedido e emissão dos documentos de viagem
+## PARTE II — Pedido e emissão dos documentos de viagem
 
 A) Pedido de documentos de viagem
 
@@ -178,7 +178,7 @@ Recebido o pedido de documento de viagem, e provado que o indivíduo a deportar 
 
 5) Procedimentos correspondentes aos acima indicados são aplicáveis quando as autoridades portuguesas apresentem o pedido de emissão dos documentos de viagem em relação aos cidadãos dos Estados Unidos sujeitos a deportação de Portugal. Os pedidos de documentos de viagem serão processados de acordo com os procedimentos portugueses e submetidos à Embaixada dos Estados Unidos em Lisboa.
 
-# PARTE III — Notificação final sobre o itinerário de viagem
+## PARTE III — Notificação final sobre o itinerário de viagem
 
 Após a emissão do documento de viagem e assim que seja transmitida a notificação final para deportação, o INS deverá adoptar as seguintes diligências:
 
@@ -208,7 +208,7 @@ D) As autoridades portuguesas competentes, após a emissão da notificação fin
 
 2) Notificação em caso de necessidade de escolta: quando o cidadão americano a deportar precisar de ser escoltado, as autoridades portuguesas competentes deverão notificar a Embaixada dos Estados Unidos em Lisboa com a antecedência necessária à obtenção das devidas autorizações de viagem.
 
-# PARTE IV — Preparativos de viagem
+## PARTE IV — Preparativos de viagem
 
 A) O INS propõe-se, em circunstâncias normais e sempre que possível, efectuar as deportações dos cidadãos portugueses em voos comerciais directos para o território português. No caso de os cidadãos portugueses a deportar serem acompanhados por agentes americanos, o retorno poderá fazer-se por voos com escalas intermédias. Qualquer itinerário não convencional deverá ser coordenado entre o Department of State e o Governo da República Portuguesa.
 

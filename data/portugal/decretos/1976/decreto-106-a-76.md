@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 31/1976, 1º Suplemento, Série I de 1976-02-06
   number: '31'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 268-(1) a 268-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03101/00010001.pdf
 entry_into_force_dates: []
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/106-a-1976-373825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-09-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3da3051d360bcf11f4d9e9d25f71cca570ab8e8b6a0ecd47b507b06ebdeca7e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 198791f0787f383655e32dacfdeed3a05e2240272a6314f433403fdad45f5e9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional de Eleições
+- Eleição
 relationships:
 - type: amended_by
   target: pt:dre:408550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502236:por
+  label: Alterado o quadro dos técnicos pelo(a) Decreto n.º 280/76 - Diário da República n.º 91/1976, Série I de 1976-04-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/280-1976-502236
+  date: '1976-04-17'
+- type: amended_by
+  target: pt:dre:408550:por
+  label: Substituído, pelo(a) Decreto n.º 687/76 - Diário da República n.º 219/1976, Série I de 1976-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/687-1976-408550
+  date: '1976-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:43Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +106,7 @@ Tendo em vista a necessidade de assegurar a igualdade efectiva de oportunidade d
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A Comissão Nacional das Eleições tem a seguinte composição:
+Artigo 1.º A Comissão Nacional das Eleições tem a seguinte composição:
 
 Presidente - Conselheiro Adriano Vera Jardim;
 
@@ -126,12 +138,12 @@ Dr. João José Godinho Leite de Novais;
 
 Dr. José Anselmo Dias Rodrigues.
 
-###### Art. 2.º O presente decreto entra em vigor na data da sua publicação.
+Art. 2.º O presente decreto entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Ernesto Augusto de Melo Antunes - António de Almeida Santos.
 
-**Promulgado em 29 de Janeiro de 1976.**
+Promulgado em 29 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

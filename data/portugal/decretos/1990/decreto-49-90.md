@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49-1990-566605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 269ac76bf28fcef84476c55ebc83560c02def4481caf04a692f83a64dc8e802d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8b6870b9c17e0dd14fa5720621c5cc4312d9747ff02ba51471101e5f6bc714a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Fundo Bibliográfico de Língua Portuguesa
+- Moçambique
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:26Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +91,19 @@ de 13 de Novembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação para o Estabelecimento de Um Fundo Bibliográfico de Língua Portuguesa na República Popular de Moçambique, assinado em Lisboa, a 8 de Abril de 1988, em dois originais, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Cooperação para o Estabelecimento de Um Fundo Bibliográfico de Língua Portuguesa na República Popular de Moçambique, assinado em Lisboa, a 8 de Abril de 1988, em dois originais, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 23 de Agosto de 1990. - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 25 de Outubro de 1990.**
+Assinado em 25 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Outubro de 1990.**
+Referendado em 29 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO DE COOPERAÇÃO PARA O ESTABELECIMENTO DE UM FUNDO BIBLIOGRÁFICO DE LÍNGUA PORTUGUESA NA REPÚBLICA POPULAR DE MOÇAMBIQUE
 

@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/27-1988-370204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfdf9add0053178f4f9373bc09003b070003170dd1e2ac6ced9034e19b9dae33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa94bc5cacca69bd68826885972cc1f2f89e57f37d99fb375148f2fd1cd67524
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Estrasburgo
+- Farmacopeia Europeia
+- Portugal
+- Produto Farmacêutico
 relationships: []
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:30Z'
   warnings: []
   errors: []
 ---
@@ -86,17 +91,17 @@ de 6 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção Relativa à Elaboração de Uma Farmacopeia Europeia, concluída em Estrasburgo em 22 de Julho de 1964, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para adesão, a Convenção Relativa à Elaboração de Uma Farmacopeia Europeia, concluída em Estrasburgo em 22 de Julho de 1964, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Julho de 1988. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Ratificado em 19 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1988.**
+Referendado em 23 de Agosto de 1988.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.
 
@@ -492,7 +497,7 @@ A Comissão terá um secretariado, cujo chefe e pessoal técnico serão nomeados
 
 ###### Artigo 15.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notificará as Partes Contrantes sobre:**
+O Secretário-Geral do Conselho da Europa notificará as Partes Contrantes sobre:
 
 a) Qualquer assinatura;
 

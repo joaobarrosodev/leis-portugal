@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/458-1973-413604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd7618b469f87cd7f53b4e6b5adfee0ea690717e228e438df2da0be5b93503e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4191b550259d2ff6a362fa833184797288908e1c7cbbd008ddc2aa1d424990ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- Governador
+- Promoção Profissional
+- Recrutamento de Pessoal
+- Regulamento
+- Serviços de Portos Caminhos de Ferro e Transportes
+relationships:
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:34Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +107,20 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º São revogados os artigos 97.º, 99.º, 101.º, 103.º, 108.º, 116.º, 137.º, 138.º, 139.º e 142.º da Portaria Ministerial n.º 29, publicada em Angola em 12 de Dezembro de 1942.
+Artigo 1.º São revogados os artigos 97.º, 99.º, 101.º, 103.º, 108.º, 116.º, 137.º, 138.º, 139.º e 142.º da Portaria Ministerial n.º 29, publicada em Angola em 12 de Dezembro de 1942.
 
-###### Art. 2.º Dentro do prazo de dois anos, a partir da entrada em vigor do presente decreto, deverá o Governo-Geral de Angola, sob proposta do conselho de administração dos Serviços de Portos, Caminhos de Ferro e Transportes, submeter à aprovação do Ministro do Ultramar um regulamento geral para admissão e promoção do pessoal do quadro privativo destes Serviços.
+Art. 2.º Dentro do prazo de dois anos, a partir da entrada em vigor do presente decreto, deverá o Governo-Geral de Angola, sob proposta do conselho de administração dos Serviços de Portos, Caminhos de Ferro e Transportes, submeter à aprovação do Ministro do Ultramar um regulamento geral para admissão e promoção do pessoal do quadro privativo destes Serviços.
 
-###### Art. 3.º Enquanto não for aprovado o regulamento referido no artigo anterior, será a admissão e promoção do pessoal do quadro privativo realizada, caso a caso, segundo normas aprovadas pelo Governador-Geral, sob proposta do conselho de administração dos Serviços.
+Art. 3.º Enquanto não for aprovado o regulamento referido no artigo anterior, será a admissão e promoção do pessoal do quadro privativo realizada, caso a caso, segundo normas aprovadas pelo Governador-Geral, sob proposta do conselho de administração dos Serviços.
 
-###### Art. 4.º É autorizado o Governador-Geral de Angola a estabelecer e outorgar, sob proposta do conselho de administração dos Serviços de Portos, Caminhos de Ferro e Transportes, contratos de prestação de serviços para a realização de trabalhos com carácter eventual, nos termos do artigo 48.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
+Art. 4.º É autorizado o Governador-Geral de Angola a estabelecer e outorgar, sob proposta do conselho de administração dos Serviços de Portos, Caminhos de Ferro e Transportes, contratos de prestação de serviços para a realização de trabalhos com carácter eventual, nos termos do artigo 48.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Setembro de 1973.**
+Promulgado em 3 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20600/0916309170.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/20/2015/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-2015-70762383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee140765bd985b1ac7648ccc3027ea8d11bdd2da0d552f45f5e9156c5413664a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a66e5abe78e566fa7ef4a692f3d404916c6d7105cd8c2af3f24e0cecaeee7bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
+- Alteração Climática
+- Bruxelas
 - CE Países
+- Clima
 - Convenção
-- União Europeia
+- Efeito de Estufa
+- Islândia
 - ONU
 - Quioto
-- Islândia
-- Alteração Climática
-- Clima
-- Bruxelas
+- União Europeia
 relationships:
 - type: cites
   target: celex:32003L0087
@@ -107,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/7/2002/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/7/2002/03/25/p/dre
+- type: cites
+  target: pt:dre:224623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300578:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:44Z'
   warnings: []
   errors: []
 ---
@@ -143,15 +155,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de outubro de 2015. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Paulo Guilherme da Silva Lemos.
 
-**Assinado em 14 de outubro de 2015.**
+Assinado em 14 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de outubro de 2015.**
+Referendado em 16 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 Acordo entre a União Europeia e os seus Estados-Membros, por um lado, e a Islândia, por outro, relativo à participação da Islândia no cumprimento conjunto dos compromissos da União Europeia, dos seus Estados-Membros e da Islândia no segundo período de compromisso do Protocolo de Quioto à Convenção-Quadro das Nações Unidas sobre Alterações Climáticas.
 
@@ -313,7 +325,7 @@ Pelo Reino Unido da Grã-Bretanha e Irlanda do Norte,
 
 Pela Islândia,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/20600/0916309170.pdf))](https://files.diariodarepublica.pt/1s/2015/10/20600/0916309170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/20600/0916309170.pdf)
 
 ## ANEXO 1 — (Lista prevista no artigo 4.º)
 
@@ -373,4 +385,4 @@ QUADRO 1
 
 Níveis de emissões dos Estados-Membros e da Islândia (antes da aplicação do artigo 3.º, n.º 7-A) expressos em toneladas de equivalente de dióxido de carbono para o segundo período de compromisso do Protocolo de Quioto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/20600/0916309170.pdf))](https://files.diariodarepublica.pt/1s/2015/10/20600/0916309170.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/20600/0916309170.pdf)

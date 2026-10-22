@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/16/2018/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-2018-115456105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6009b3a98030b98a7d7371e297d3e102d7d2d8480bfebff6e1775583f166f2dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8a4a226f3b5197c8cc3437ba6ce4d4a094dc551d9cdfb4acadbdad27feb9897
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Montreal
 - Ozono
+- Portugal
 - Proteção do Ambiente
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:370452:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:44Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +106,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 17 de maio de 2018. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - João Pedro Soeiro de Matos Fernandes.
 
-**Assinado em 23 de maio de 2018.**
+Assinado em 23 de maio de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de maio de 2018.**
+Referendado em 30 de maio de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 Decision XXVIII/1: Further Amendment of the Montreal Protocol
 
@@ -396,19 +400,19 @@ Annex A
 
 The following table shall replace the table for Group I in Annex A to the Protocol:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
 
 Annex C an d Annex F
 
 The following table shall replace the table for Group I in Annex C to the Protocol:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
 
 The following annex shall be added to the Protocol after Annex E:
 
 "'Annex F: Controlled substances
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
 
 Article II: Relationship to the 1999 Amendment
 
@@ -434,7 +438,7 @@ Any Party may, at any time before this Amendment enters into force for it, decla
 
 Emenda ao Protocolo de Montreal Relativo às Substâncias que Empobrecem a Camada de Ozono
 
-Artigo I: Emenda
+###### Artigo I: Emenda
 
 ###### Artigo 1.º n.º 4
 
@@ -452,7 +456,7 @@ No artigo 2.º, n.º 5, do Protocolo, a expressão:
 
 «artigos 2.º-H e 2.º-J»
 
-###### Artigo 2.º, n.º 8, alínea a), n.º 9, alínea a), e n.º 11
+Artigo 2.º, n.º 8, alínea a), n.º 9, alínea a), e n.º 11
 
 No artigo 2.º, n.º 8, alínea a), e n.º 11, do Protocolo, a expressão:
 
@@ -712,19 +716,19 @@ No artigo 17.º do Protocolo, a expressão:
 
 O quadro seguinte substitui o quadro relativo ao Grupo I no Anexo A do Protocolo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
 
 ## Anexo C e Anexo F
 
 O quadro seguinte substitui o quadro relativo ao Grupo I no Anexo C do Protocolo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
 
 Após o Anexo E do Protocolo, é inserido o seguinte anexo:
 
 «Anexo F: Substâncias regulamentadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf))](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/10700/0237702386.pdf)
 
 Artigo II: Relação com a Emenda de 1999
 
@@ -751,3 +755,5 @@ Qualquer Parte pode, a qualquer momento antes da entrada em vigor da presente Em
 Eu, Susana Vaz Patto, Diretora do Departamento de Assuntos Jurídicos do Minstério dos Negócios Estrangeiros certifico que esta tradução, num total de 9 páginas, por mim rubricadas e seladas, está conforme o texto original na sua versão em língua inglesa.
 
 Lisboa, 7 de março de 2018.
+
+111391398

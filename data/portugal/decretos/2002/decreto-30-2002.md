@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/30/2002/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/30-2002-632058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:13:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cd6ae24227068253522ec9080d8dda34e23668d41e479773d8f9833d169c135
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea6da494dc15d0158bf31ec51c38b383dba68511304c6fd02b0ad511ec4f6e12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:13:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
+- Brasil
 - Brasília
 - Convenção
-- Portugal
+- Família
 - Funcionário Diplomático
-- Pessoal Consular
 - Missão Diplomática
-- Brasil
 - Pessoal Administrativo
 - Pessoal Auxiliar
+- Pessoal Consular
 - Pessoal de Chefia
 - Pessoal Diplomático
 - Pessoal Técnico
+- Portugal
 - Trabalho Remunerado
 relationships: []
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:13:24Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +110,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Pedro Lynce de Faria - Luís Filipe Pereira - António José de Castro Bagão Félix.
 
-**Assinado em 16 de Agosto de 2002.**
+Assinado em 16 de Agosto de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Agosto de 2002.**
+Referendado em 22 de Agosto de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FEDERATIVA DO BRASIL SOBRE O EXERCÍCIO DE ACTIVIDADES REMUNERADAS POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, ADMINISTRATIVO, TÉCNICO E DE APOIO OU SERVIÇO.
 
@@ -190,8 +190,8 @@ Feito em Brasília, em 5 de Setembro de 2001, em dois exemplares originais, no i
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/09/209a00/63526353.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/09/209a00/63526353.pdf)](https://files.diariodarepublica.pt/1s/2002/09/209a00/63526353.pdf)
 
 Pela República Federativa do Brasil:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/09/209a00/63526353.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/09/209a00/63526353.pdf)](https://files.diariodarepublica.pt/1s/2002/09/209a00/63526353.pdf)

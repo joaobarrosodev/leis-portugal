@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/17700/17751776.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/79-1979-381356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2eae90475112d6d737f7cd1c8b0225dbf9eddda42f46e4dad453ccd93c77e3a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e94d3d6a9c5281b453c6a10e4b46ff0cbbffffba5ac86d27966731a7288cbb58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Beja
+- Braga
+- Bragança
+- Castelo Branco
+- Centro Regional de Segurança Social
+- Coimbra
+- Criação de Serviços
+- Évora
+- Faro
+- Guarda
+- Leiria
+- Portalegre
+- Porto
+- Santarém
+- Setúbal
+- Viana do Castelo
+- Vila Real
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:346485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459896:por
+  label: "Integrada orgânica e funcionalmente no Centro Regional de Segurança Social de Vila Real criado pelo presente diploma,\
+    \ pela PORT.1066/80.15.12.1980.MAS, DR.IS [288] de 15.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1066-1980-459896
+  date: '1980-12-15'
+- type: amended_by
+  target: pt:dre:346485:por
+  label: Extintos os Centros Regionais de Segurança Social, pelo presente diploma, e revogado este diploma, pelo(a) Decreto-Lei
+    n.º 260/93 - Diário da República n.º 171/1993, Série I-A de 1993-07-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1993-346485
+  date: '1993-07-23'
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:48Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +149,7 @@ Nesta conformidade, para execução do disposto no [Decreto-Lei n.º 549/77](htt
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São criados os centros regionais de segurança social a seguir indicados:
+Artigo 1.º - 1 - São criados os centros regionais de segurança social a seguir indicados:
 
 a) Aveiro:
 
@@ -142,16 +189,16 @@ r) Viseu.
 
 3 - Em portaria do Secretário de Estado da Segurança Social serão indicados os órgãos, serviços e instituições que, nos termos do n.º 2 do artigo 19.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ficam integrados em cada um dos centros regionais referidos no n.º 1.
 
-###### Art. 2.º - 1 - Os centros regionais criados pelo artigo anterior entram em regime de instalação, aplicando-se-lhes o disposto nos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 2.º - 1 - Os centros regionais criados pelo artigo anterior entram em regime de instalação, aplicando-se-lhes o disposto nos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
 2 - O funcionamento de cada um dos centros regionais terá início na data da tomada de posse da respectiva comissão instaladora.
 
-###### Art. 3.º O financiamento dos centros regionais será assegurado pelo orçamento aprovado para a segurança social.
+Art. 3.º O financiamento dos centros regionais será assegurado pelo orçamento aprovado para a segurança social.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 24 de Julho de 1979.**
+Promulgado em 24 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

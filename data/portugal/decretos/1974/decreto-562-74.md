@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/562-1974-471359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64eee5300cad8b017a7dec210790d8650e7db706bc2f41982405cacbfcec66e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae24e7c8bb145a5990595c49d1637ce38144b884839596f3f6a66ff1f6ce723d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:15Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -106,7 +110,7 @@ Ministério da Educação e Cultura
 
 Encargos dos anos de 1971 a 1973, respeitantes a telefones, comunicações, encargos próprios das instalações, gratificações variáveis ou eventuais, horas extraordinárias, deslocações, vestuário e artigos pessoais - compensação de encargos, equipamento de secretaria, combustíveis e lubrificantes, consumos de secretaria, conservação e aproveitamento de bens, locação de bens, publicidade e propaganda, trabalhos especiais diversos, maquinaria e equipamento e outras despesas correntes, contraídos pela Direcção-Geral do Ensino Secundário, Faculdade de Letras da Universidade do Porto, Faculdade de Ciências e Tecnologia - Instituto Geofísico da Universidade de Coimbra, Faculdades de Medicina, de Letras, de Ciências e de Farmácia da Universidade de Lisboa, Escola Superior de Belas-Artes de Lisboa, Secretaria-Geral e Secretaria de Estado da Instrução e Cultura ... 1650667$60
 
-###### Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos do actual ano económico, as quantias seguintes:
+Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos do actual ano económico, as quantias seguintes:
 
 Encargos Gerais da Nação
 
@@ -116,7 +120,7 @@ Ministério da Economia
 
 Encargos do ano de 1973, respeitantes a ajudas de custo, a processar pela Direcção-Geral dos Serviços Florestais e Aquícolas, em conta da dotação consignada a «Compensação de encargos», inscrita no capítulo 31.º, artigo 823.º ... 7499$50
 
-###### Art. 3.º Ficam também autorizados a satisfazer as quantias seguidamente indicadas pelas verbas de despesas de anos findos dos seus actuais orçamentos privativos os seguintes serviços:
+Art. 3.º Ficam também autorizados a satisfazer as quantias seguidamente indicadas pelas verbas de despesas de anos findos dos seus actuais orçamentos privativos os seguintes serviços:
 
 Cadeia de Monsanto
 
@@ -128,8 +132,8 @@ Despesa do ano de 1973 referente à sua comparticipação na fiscalização da p
 
 Vasco dos Santos Gonçalves - Victor Manuel Rodrigues Alves - Ernesto Augusto Melo Antunes - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Manuel da Costa Brás - Francisco Salgado Zenha - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar - Mário Soares - José Augusto Fernandes - Vitorino Magalhães Godinho - José Inácio da Costa Martins - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 21 de Outubro de 1974.**
+Promulgado em 21 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

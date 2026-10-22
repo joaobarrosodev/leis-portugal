@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/32/1994/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/32-1994-621287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56394b075b00411582f6e520822e726b9bb04bebf41f68c37d5fa81e4f8e8ac2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6198503f7941bd54fbfc7b8477858483b28ce8438807428b658394c102eaf404
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
 subjects:
 - Acordo Europeu
 - Convenção
-- Transporte Ferroviário
 - Portugal
-- Transporte de Mercadorias
 - Transporte de Carga
+- Transporte de Mercadorias
+- Transporte Ferroviário
 - Transporte Internacional
 relationships: []
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:20Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +94,19 @@ de 3 de Novembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Acordo Europeu sobre as Grandes Linhas de Transporte Combinado Internacional e Respectivas Instalações, concluído em Genebra em 1 de Fevereiro de 1991, cuja versão autêntica em língua francesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para adesão, o Acordo Europeu sobre as Grandes Linhas de Transporte Combinado Internacional e Respectivas Instalações, concluído em Genebra em 1 de Fevereiro de 1991, cuja versão autêntica em língua francesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Durão Barroso - Jorge Manuel Mendes Antas.
 
 Ratificado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 European Agreement on Important International Combined Transport Lines and related Installations (AGTC) concluded at Geneva on 1 February 1991.
 
@@ -376,13 +376,13 @@ ANNEXE I
 
 Lignes de chemin de fer importantes pour le transport international combiné
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf))](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
 
 ANNEXE II
 
 Installations importantes pour le transport international combiné
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf))](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
 
 ANNEXE III
 
@@ -402,7 +402,7 @@ Par analogie, les spécifications indiquées dans le tableau ci-après sont auss
 
 Paramètres d'infrastructure du réseau des grandes lignes de transport international combiné
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf))](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
 
 Explication des paramètres présentés dans le tableau ci-dessus
 
@@ -488,7 +488,7 @@ B - Paramètres de performances des trains
 
 5 - Les trains utilisés pour le transport international combiné devront répondre aux normes minimales suivantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf))](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
 
 C - Normes minimales applicables aux lignes de chemin de fer
 
@@ -618,7 +618,7 @@ Os anexos ao presente Acordo constituem parte integrante do mesmo. Novos anexos 
 
 ###### Artigo 6.º — Designação do depositário
 
-**O Secretário-Geral das Nações Unidas será o depositário do presente Acordo.**
+O Secretário-Geral das Nações Unidas será o depositário do presente Acordo.
 
 ###### Artigo 7.º — Assinatura
 
@@ -732,11 +732,11 @@ Feito em Genebra em 1 de Fevereiro de 1991.
 
 ## ANEXO I — Linhas de caminho de ferro importantes para o transporte combinado internacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf))](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
 
 ## ANEXO II — Instalações importantes para o transporte combinado internacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf))](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
 
 ## ANEXO III — Características técnicas da rede de grandes linhas de transporte combinado internacional
 
@@ -754,7 +754,7 @@ Por analogia, as especificações indicadas no quadro a seguir apresentado tamb�
 
 Parâmetros de infra-estrutura para a rede de grandes linhas de transporte combinado internacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf))](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
 
 Explicação dos parâmetros constantes do quadro atrás apresentado
 
@@ -838,7 +838,7 @@ B - Parâmetros de eficácia dos comboios
 
 5 - Os comboios utilizados no transporte combinado internacional devem satisfazer as seguintes normas mínimas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf))](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/254a00/66066634.pdf)
 
 No caso de não se poder operar com comboios directos, os comboios deverão, sempre que possível, ser constituídos por um número reduzido de grupos de vagões, tendo os vagões pertencentes a cada grupo um mesmo destino. Também na medida do possível não deverão haver paragens no trajecto por razões de ordem técnica ou devido ao controlo no atravessamento de fronteiras.
 

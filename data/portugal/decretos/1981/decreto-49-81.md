@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49-1981-394909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3387e3bdee1805731abfd87db02c71c3f082f5ef45fa02c1fc8d497737a9fb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9822ef6a604a6d14bd95068bf2c61edbb995de9e804378fc300addc0f7bee461
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:632223:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:57Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +96,12 @@ Considerando, por isso, a necessidade de libertar os particulares dos condiciona
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. É revogado o [Decreto n.º 569/71](https://diariodarepublica.pt/dr/detalhe/decreto/569-1971-632223), de 21 de Dezembro, que instituiu a servidão militar para protecção da Carreira de Tiro de Guimarães, situada ao concelho do mesmo nome.
+Artigo único. É revogado o [Decreto n.º 569/71](https://diariodarepublica.pt/dr/detalhe/decreto/569-1971-632223), de 21 de Dezembro, que instituiu a servidão militar para protecção da Carreira de Tiro de Guimarães, situada ao concelho do mesmo nome.
 
 Francisco José Pereira Pinto Balsemão - Fernando Monteiro do Amaral - Luís Aníbal de Sá de Azevedo Coutinho - Luís Eduardo da Silva Barbosa.
 
-**Promulgado em 13 de Abril de 1981.**
+Promulgado em 13 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

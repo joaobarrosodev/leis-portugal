@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18201/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3-b/2024/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-b-2024-888343126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc38be26023f87fd410193e35cd748e9dfda520e2e75ba415f29b5554c9f0315
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8fb1f9f3d12dd88606aa7ba8fc72211ce7bfb97beb55200311c42a357a4c773
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
 - Catástrofe
+- Incêndio
 - Luto Nacional
 - Vítima
 relationships:
@@ -74,16 +74,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/40/2006/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2006/08/25/p/dre
+- type: cites
+  target: pt:dre:540661:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:46Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ Desde o dia 15 de setembro de 2024, a deflagração e propagação de incêndios
 
 Assim:
 
-Nos termos da alínea j) do n.º 1 do artigo 197.º e da alínea g) do n.º 1 do artigo 200.º da Constituição e dos n.<sup>os</sup>1 e 3 do artigo 42.º da [Lei n.º 40/2006](https://diariodarepublica.pt/dr/detalhe/lei/40-2006-540661), de 25 de agosto, o Governo decreta o seguinte:
+Nos termos da alínea j) do n.º 1 do artigo 197.º e da alínea g) do n.º 1 do artigo 200.º da Constituição e dos n.os1 e 3 do artigo 42.º da [Lei n.º 40/2006](https://diariodarepublica.pt/dr/detalhe/lei/40-2006-540661), de 25 de agosto, o Governo decreta o seguinte:
 
 ###### Artigo 1.º — Luto nacional
 
@@ -106,12 +110,14 @@ O presente decreto reporta os seus efeitos à data da sua aprovação.
 
 Visto e aprovado em Conselho de Ministros de 19 de setembro de 2024. - Luís Montenegro.
 
-**Assinado em 19 de setembro de 2024.**
+Assinado em 19 de setembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de setembro de 2024.**
+Referendado em 19 de setembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118140317

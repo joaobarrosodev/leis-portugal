@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/33/2008/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-2008-452919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:19:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 709d6dee5ff4bef5bb324b6e4917d661e6e42bd6a9f01a0f4ea12eb324e255c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 295ec6c511cdf3faaeeba1d2ed153d8e3cf2b60697f9b25f0938de4d329060c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:19:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
 subjects:
 - Autoridade Nacional de Segurança
 - Convenção
-- Portugal
 - Documentação Classificada
 - Espanha
-- Segurança da Informação
 - Madrid
+- Portugal
+- Segurança da Informação
 relationships: []
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:19:39Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Manuel Pedro Cunha da Silva Pereira.
 
-**Assinado em 15 de Setembro de 2008.**
+Assinado em 15 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Setembro de 2008.**
+Referendado em 16 de Setembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO PARA A PROTECÇÃO DA MATÉRIA CLASSIFICADA ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA
 
@@ -194,7 +194,7 @@ e) A Parte destinatária não pode baixar a classificação nem desclassificar m
 
 2 - As Partes acordam que os seguintes graus de classificação de segurança são equivalentes e correspondem aos graus de segurança especificados na respectiva legislação nacional:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0709807106.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0709807106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0709807106.pdf)
 
 ###### Artigo 7.º — Cooperação no âmbito da credenciação de segurança
 
@@ -478,7 +478,7 @@ Clasificaciones de seguridad y equivalencias
 
 2 - Las Partes acuerdan que los siguientes niveles de clasificación de seguridad son equivalentes y corresponden a los niveles de clasificación de seguridad especificados en la legislación nacional de cada Parte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19400/0709807106.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19400/0709807106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19400/0709807106.pdf)
 
 Artículo 7
 

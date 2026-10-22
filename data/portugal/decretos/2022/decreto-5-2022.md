@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19500/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/2022/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-2022-202015534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8e1bb7add628459ef0f46f478a1ccebe686fc81c2ff4209f7a9150978fe78c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86539270a20a2c28bce25a3fe743bf4b903a8831ea9c1504f115780af5d9818a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,7 +65,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime Florestal
 - Energia Renovável
 - Instituto da Conservação da Natureza e das Florestas
 - MIRA
@@ -75,21 +74,26 @@ subjects:
 - Prazo
 - Produção de Energia Elétrica
 - Projeto
+- Regime Florestal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/30/2017/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/30/2017/10/10/p/dre
+- type: cites
+  target: pt:dre:108280430:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:06Z'
   warnings: []
   errors: []
 ---
@@ -148,16 +152,18 @@ O presente decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de setembro de 2022. - António Luís Santos da Costa - João Paulo Marçal Lopes Catarino.
 
-**Assinado em 5 de outubro de 2022.**
+Assinado em 5 de outubro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de outubro de 2022.**
+Referendado em 6 de outubro de 2022.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/10/19500/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2022/10/19500/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/10/19500/0000200004.pdf)
+
+115756342

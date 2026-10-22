@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/07/16700/12411246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/363-1973-421616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f82cedadd3bf504fbc229b2e7d9f53a79a6a2e9154b7817eec2e4d50abdb1d9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5af8ceba7dc839ac7726aeae19dfcdf121c163c0440043d6ddfb7545548ee382
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência de Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:370064:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:445505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686581:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:370064:por
+  label: "Revogado pelo DEC LEI.359/79.31.08.1979.MCT, DR.IS [201] de 31.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/359-1979-370064
+  date: '1979-08-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:43Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +115,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ### CAPÍTULO I — Das licenças, alvarás e autorizações
 
-###### Artigo 1.º - 1. O pedido de licença para o exercício da actividade de agências de viagens e turismo, abertura de sucursal, mudança de localização de estabelecimento e exercício da actividade de delegado de agência estrangeira deverá ser formulado em requerimento dirigido ao Secretário de Estado da Informação e Turismo.
+Artigo 1.º - 1. O pedido de licença para o exercício da actividade de agências de viagens e turismo, abertura de sucursal, mudança de localização de estabelecimento e exercício da actividade de delegado de agência estrangeira deverá ser formulado em requerimento dirigido ao Secretário de Estado da Informação e Turismo.
 
 2. No caso de exercício da actividade de agências de viagens e turismo o requerimento referido no número anterior deverá ser acompanhado de:
 
@@ -132,7 +151,7 @@ c) De documento abonatório, no caso de ser estrangeiro, passado pelo agente dip
 
 7. A idoneidade moral e comercial e a competência profissional serão livremente apreciadas pela Secretaria de Estado da Informação e Turismo, constituindo os documentos exigidos nos termos deste artigo meros elementos instrutórios do processo.
 
-###### Art. 2.º - 1. A entrega dos requerimentos a que se refere o artigo anterior será precedida de depósito, a efectuar, mediante guias passadas pelo Fundo de Turismo, na Caixa Geral de Depósitos, Crédito e Previdência, dos seguintes montantes:
+Art. 2.º - 1. A entrega dos requerimentos a que se refere o artigo anterior será precedida de depósito, a efectuar, mediante guias passadas pelo Fundo de Turismo, na Caixa Geral de Depósitos, Crédito e Previdência, dos seguintes montantes:
 
 a) 5000$00 no pedido de licença de uma agência da classe A;
 
@@ -148,7 +167,7 @@ e) 3000$00 no pedido de exercício de actividade de delegado de agência estrang
 
 3. Se o processo não for ultimado por motivos imputáveis ao requerente o depósito reverterá para o Fundo de Turismo.
 
-###### Art. 3.º - 1. A passagem do alvará das agências de viagens e de turismo depende da verificação das seguintes condições:
+Art. 3.º - 1. A passagem do alvará das agências de viagens e de turismo depende da verificação das seguintes condições:
 
 a) Apresentação de certidão da escritura da sociedade, quando a licença haja sido requerida antes da constituição da mesma;
 
@@ -170,13 +189,13 @@ b) Da vistoria ao novo estabelecimento realizada pela Direcção-Geral do Turism
 
 5. A Direcção-Geral do Turismo comunicará sempre ao Grémio Nacional das Agências de Viagens e Turismo, com a antecedência mínima de oito dias, a data em que se realizam as vistorias previstas neste artigo, a fim de que este organismo corporativo possa enviar, para assistir às mesmas, um delegado seu.
 
-###### Art. 4.º - 1. As agências de viagens e de turismo e os delegados das agências estrangeiras, quando for caso disso, são obrigados a apresentar, na Direcção-Geral do Turismo, os projectos de instalação de estabelecimentos ou de escritórios próprios, no prazo de quarenta e cinco dias após a concessão da licença ou autorização prévia do Secretário de Estado da Informação e Turismo.
+Art. 4.º - 1. As agências de viagens e de turismo e os delegados das agências estrangeiras, quando for caso disso, são obrigados a apresentar, na Direcção-Geral do Turismo, os projectos de instalação de estabelecimentos ou de escritórios próprios, no prazo de quarenta e cinco dias após a concessão da licença ou autorização prévia do Secretário de Estado da Informação e Turismo.
 
 2. A Direcção-Geral do Turismo deverá pronunciar-se sobre os projectos nos trinta dias seguintes aos da sua entrada nos serviços, decorridos os quais, se o não fizer, considerar-se-ão aprovados.
 
 3. Os interessados deverão executar as obras dentro do prazo fixado pela Direcção-Geral do Turismo ou, na sua falta, dentro de um ano, contado a partir dos trinta dias referidos no número anterior.
 
-###### Art. 5.º - 1. As licenças ficam sem efeito e os respectivos alvarás, averbamentos ou autorizações não serão concedidos:
+Art. 5.º - 1. As licenças ficam sem efeito e os respectivos alvarás, averbamentos ou autorizações não serão concedidos:
 
 a) Se a caução não for prestada dentro do prazo fixado ou, na ausência de prazo, até à data da realização da vistoria do estabelecimento ou escritório;
 
@@ -186,7 +205,7 @@ b) Se as obras não estiverem terminadas dentro do prazo fixado pela Direcção-
 
 3. A decisão que negue a aprovação das obras deverá ser devidamente fundamentada.
 
-###### Art. 6.º - 1. O alvará da agência de viagens e de turismo caduca:
+Art. 6.º - 1. O alvará da agência de viagens e de turismo caduca:
 
 a) Se a empresa não iniciar a sua actividade dentro de trinta dias, a contar da notificação da concessão, a não ser que se prove justo impedimento;
 
@@ -198,7 +217,7 @@ c) Se a empresa deixar de exercer completamente a sua actividade.
 
 3. As regras dos números anteriores aplicam-se com as devidas adaptações às autorizações concedidas aos delegados das agências estrangeiras.
 
-###### Art. 7.º - 1. Serão cassados, mediante despacho do Secretário de Estado da Informação e Turismo, os alvarás das agências de viagens e turismo:
+Art. 7.º - 1. Serão cassados, mediante despacho do Secretário de Estado da Informação e Turismo, os alvarás das agências de viagens e turismo:
 
 a) Que não exerçam regularmente as actividades que lhes são impostas;
 
@@ -216,7 +235,7 @@ e) Que não reintegrem as cauções no prazo de trinta dias após a verificaçã
 
 4. No caso de infracções sucessivas e graves, capazes de comprometer os interesses do turismo nacional ou o prestígio da classe, poderá o Secretário de Estado da Informação e Turismo, sob proposta da Direcção-Geral do Turismo ou do Grémio Nacional das Agências de Viagens e de Turismo, determinar o encerramento do estabelecimento da agência, sendo igualmente cassado o alvará.
 
-###### Art. 8.º Serão anuladas as autorizações concedidas aos delegados das agências estrangeiras quando:
+Art. 8.º Serão anuladas as autorizações concedidas aos delegados das agências estrangeiras quando:
 
 a) Se verifique que não exercem regularmente as actividades que lhes são impostas;
 
@@ -232,11 +251,11 @@ f) Ocorrerem situações idênticas às referidas nos n.os 2 e 4 do artigo 7.º
 
 ### CAPÍTULO II — Das viagens turísticas colectivas
 
-###### Art. 9.º A planificação, organização e realização das viagens turísticas colectivas fica sujeita ao disposto no diploma regulamentar previsto no artigo 48.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro.
+Art. 9.º A planificação, organização e realização das viagens turísticas colectivas fica sujeita ao disposto no diploma regulamentar previsto no artigo 48.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro.
 
 ### CAPÍTULO III — Das taxas
 
-###### Art. 10.º São devidas as seguintes taxas pelas agências de viagens e de turismo ou pelos delegados de agências estrangeiras:
+Art. 10.º São devidas as seguintes taxas pelas agências de viagens e de turismo ou pelos delegados de agências estrangeiras:
 
 a) Concessão de alvará de agências de viagens e de turismo: 2% sobre o valor da caução fixada nos termos das alíneas a) e b) do artigo 30.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro;
 
@@ -246,7 +265,7 @@ c) Mudança de localização do estabelecimento para concelho diferente: 2% sobr
 
 d) Autorização para delegado de agência de viagens estrangeiras: 2% sobre o valor da caução referida na alínea c) do artigo 30.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro.
 
-###### Art. 11.º Pelas vistorias realizadas a agências de viagens e de turismo e a escritórios de delegados de agências estrangeiras são devidas as seguintes taxas:
+Art. 11.º Pelas vistorias realizadas a agências de viagens e de turismo e a escritórios de delegados de agências estrangeiras são devidas as seguintes taxas:
 
 a) Agências de viagens e de turismo da classe A:
 
@@ -278,7 +297,7 @@ e) Escritórios de delegados de agências estrangeiras:
 
 2) Outras vistorias realizadas posteriormente: 500$00.
 
-###### Art. 12.º - 1. As taxas previstas nos artigos 10.º e 11.º deste decreto constituem receita do Fundo de Turismo.
+Art. 12.º - 1. As taxas previstas nos artigos 10.º e 11.º deste decreto constituem receita do Fundo de Turismo.
 
 2. As taxas serão pagas na Caixa Geral de Depósitos, Crédito e Previdência, mediante guias, em quadruplicado, emitidas pela Direcção-Geral do Turismo ou pelas entidades que, nos termos legais, se lhe substituírem.
 
@@ -286,9 +305,9 @@ e) Escritórios de delegados de agências estrangeiras:
 
 ### CAPÍTULO IV — Das infracções e respectivas sanções
 
-###### Art. 13.º O produto das multas por infracção das normas do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e do presente decreto constituirá receita do Estado.
+Art. 13.º O produto das multas por infracção das normas do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e do presente decreto constituirá receita do Estado.
 
-###### Art. 14.º - 1. Independentemente da competência dos Serviços de Inspecção da Direcção-Geral do Turismo, a que se refere o [Decreto-Lei n.º 74/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1971-445505), de 17 de Março, e sem prejuízo da mesma, a fiscalização do disposto no [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e no presente diploma compete ainda a todas as autoridades administrativas, policiais e seus agentes.
+Art. 14.º - 1. Independentemente da competência dos Serviços de Inspecção da Direcção-Geral do Turismo, a que se refere o [Decreto-Lei n.º 74/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1971-445505), de 17 de Março, e sem prejuízo da mesma, a fiscalização do disposto no [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e no presente diploma compete ainda a todas as autoridades administrativas, policiais e seus agentes.
 
 2. Todas as autoridades administrativas, policiais e seus agentes que tomem conhecimento das infracções devem participá-las à Direcção-Geral do Turismo no prazo de quarenta e oito horas.
 
@@ -298,7 +317,7 @@ e) Escritórios de delegados de agências estrangeiras:
 
 5. O disposto neste artigo não se aplica às viagens turísticas, que serão objecto de regulamentação própria.
 
-###### Art. 15.º - 1. Com a notificação da aplicação da multa devem entregar-se ao infractor as guias, em triplicado, para efeito de pagamento voluntário.
+Art. 15.º - 1. Com a notificação da aplicação da multa devem entregar-se ao infractor as guias, em triplicado, para efeito de pagamento voluntário.
 
 2. O pagamento voluntário deverá efectuar-se na tesouraria da Fazenda Pública do concelho ou bairro fiscal da sede da empresa ou, nos demais casos, no domicílio do infractor.
 
@@ -312,9 +331,9 @@ e) Escritórios de delegados de agências estrangeiras:
 
 7. A execução fiscal poderá ser suspensa nos termos do artigo 16.º e seus §§ 1.º e 2.º do Código de Processo das Contribuições e Impostos.
 
-###### Art. 16.º A violação das prescrições do n.º 1 do artigo 56.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, será punida com a multa de 5000$00 a 50000$00.
+Art. 16.º A violação das prescrições do n.º 1 do artigo 56.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, será punida com a multa de 5000$00 a 50000$00.
 
-###### Art. 17.º As agências de viagens e de turismo que não observarem as prescrições do artigo 8.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, sujeitam-se às seguintes penalidades:
+Art. 17.º As agências de viagens e de turismo que não observarem as prescrições do artigo 8.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, sujeitam-se às seguintes penalidades:
 
 a) Multa de 500$00 a 5000$00 se se verificar não estarem habilitadas a fornecer indicações actualizadas relativamente ao n.º 2 do referido artigo;
 
@@ -322,25 +341,25 @@ b) Multa de 1000$00 a 8000$00 quando se recusarem a vender bilhetes ou reservar 
 
 c) Multa de 2500$00 a 10000$00 quando se recusarem a expor e distribuir o material de propaganda que lhes for enviado pelos serviços centrais de turismo e órgãos locais de turismo.
 
-###### Art. 18.º Pela abusiva solicitação de documentos ao abrigo da faculdade concedida no artigo 10.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, as agências de viagens e de turismo serão punidas com a multa de 1000$00 a 10000$00.
+Art. 18.º Pela abusiva solicitação de documentos ao abrigo da faculdade concedida no artigo 10.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, as agências de viagens e de turismo serão punidas com a multa de 1000$00 a 10000$00.
 
-###### Art. 19.º - 1. A intromissão no serviço alfandegário em desrespeito da prescrição do n.º 2 do artigo 11.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581) implica para o transgressor o pagamento de multa de 500$00 a 5000$00.
+Art. 19.º - 1. A intromissão no serviço alfandegário em desrespeito da prescrição do n.º 2 do artigo 11.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581) implica para o transgressor o pagamento de multa de 500$00 a 5000$00.
 
 2. A agência de viagens e de turismo que tiver solicitado ao Grémio Nacional de Agências de Viagens e de Turismo o cartão referido no n.º 3 do citado artigo 11.º é solidariamente responsável pelo pagamento da referida multa.
 
 3. A reincidência na intromissão no serviço alfandegário será punida com a interdição futura de acesso aos recintos referidos no n.º 1 do artigo 11.º, sendo cassado, ao indivíduo em questão, pelo Grémio Nacional de Agências de Viagens e de Turismo, o respectivo cartão de identidade.
 
-###### Art. 20.º - 1. Quando se verifique a mudança de localização do estabelecimento principal de uma agência de viagens e de turismo sem aprovação das novas instalações será cassado o respectivo alvará.
+Art. 20.º - 1. Quando se verifique a mudança de localização do estabelecimento principal de uma agência de viagens e de turismo sem aprovação das novas instalações será cassado o respectivo alvará.
 
 2. No caso de mudança de localidade de uma sucursal sem observância do disposto no n.º 4 do artigo 13.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e do n.º 3 do artigo 3.º deste diploma, será apenas encerrada.
 
 3. A agência de viagens e de turismo punida nos termos do n.º 2 deste artigo fica impedida de, nos cinco anos posteriores, requerer a abertura de qualquer nova sucursal.
 
-###### Art. 21.º - 1. A não observância do disposto nos n.os 1 e 2 do artigo 24.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, implica a aplicação de multa entre 10000$00 e 50000$00.
+Art. 21.º - 1. A não observância do disposto nos n.os 1 e 2 do artigo 24.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, implica a aplicação de multa entre 10000$00 e 50000$00.
 
 2. Se os interessados não regularizarem entretanto o processo, nos termos do artigo 26.º do referido decreto-lei, será cassado o alvará da agência de viagens e de turismo.
 
-###### Art. 22.º - 1. A comprovada falta de zelo das agências de viagens e de turismo no que respeita aos direitos e interesses dos seus clientes, segundo os princípios gerais de direito e os usos próprios da actividade, implica sanções que irão de advertência a multa até 5000$00.
+Art. 22.º - 1. A comprovada falta de zelo das agências de viagens e de turismo no que respeita aos direitos e interesses dos seus clientes, segundo os princípios gerais de direito e os usos próprios da actividade, implica sanções que irão de advertência a multa até 5000$00.
 
 2. A não exibição ao público, em lugar bem visível, da tabela das comissões e taxas a cobrar pelas agências de viagens e de turismo implica o pagamento da multa de 5000$00.
 
@@ -348,19 +367,19 @@ c) Multa de 2500$00 a 10000$00 quando se recusarem a expor e distribuir o materi
 
 4. A cobrança, pelas agências de viagens e de turismo, de preços superiores aos consentidos será punida com multa igual a vinte vezes a diferença, mas nunca inferior a 5000$00.
 
-###### Art. 23.º A falta de remessa, dentro do prazo estipulado, dos elementos a que se referem os n.os 1 a 3 do artigo 55.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, será punida com multa de 500$00 a 2500$00.
+Art. 23.º A falta de remessa, dentro do prazo estipulado, dos elementos a que se referem os n.os 1 a 3 do artigo 55.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, será punida com multa de 500$00 a 2500$00.
 
-###### Art. 24.º O empregado das agências de viagens e de turismo que proceda incorrectamente para com os clientes no exercício das suas funções ou os prejudique nos seus interesses será punido com multa de 500$00 a 5000$00, salvaguardada sempre a responsabilidade criminal e civil em que possa vir a incorrer por via dessa atitude ou procedimento.
+Art. 24.º O empregado das agências de viagens e de turismo que proceda incorrectamente para com os clientes no exercício das suas funções ou os prejudique nos seus interesses será punido com multa de 500$00 a 5000$00, salvaguardada sempre a responsabilidade criminal e civil em que possa vir a incorrer por via dessa atitude ou procedimento.
 
-###### Art. 25.º As disposições dos artigos 13.º e seguintes deste diploma são extensivas aos delegados das agências de viagens estrangeiras, na parte que lhes possa ser aplicável, tendo em conta os artigos 12.º, 20.º, 21.º, 27.º e os n.os 2 e 3 do artigo 58.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro.
+Art. 25.º As disposições dos artigos 13.º e seguintes deste diploma são extensivas aos delegados das agências de viagens estrangeiras, na parte que lhes possa ser aplicável, tendo em conta os artigos 12.º, 20.º, 21.º, 27.º e os n.os 2 e 3 do artigo 58.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro.
 
-###### Art. 26.º As multas previstas no presente diploma serão elevadas para o dobro em caso de reincidência, considerando os seus limites máximo e mínimo.
+Art. 26.º As multas previstas no presente diploma serão elevadas para o dobro em caso de reincidência, considerando os seus limites máximo e mínimo.
 
-###### Art. 27.º As infracções aos preceitos do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e do presente diploma para as quais não se encontrem expressamente previstas sanções nos artigos anteriores serão punidas nos termos do artigo 58.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), tendo em conta os critérios definidos no seu artigo 60.º
+Art. 27.º As infracções aos preceitos do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e do presente diploma para as quais não se encontrem expressamente previstas sanções nos artigos anteriores serão punidas nos termos do artigo 58.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), tendo em conta os critérios definidos no seu artigo 60.º
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 28.º - 1. São exigidos para o estabelecimento das agências de viagens e de turismo os seguintes requisitos mínimos:
+Art. 28.º - 1. São exigidos para o estabelecimento das agências de viagens e de turismo os seguintes requisitos mínimos:
 
 a) Localização em lugar situado ao rés-do-chão, dispondo de montras para exposição de cartazes e outros elementos de propaganda turística;
 
@@ -374,7 +393,7 @@ e) Separação rigorosa de quaisquer residências particulares ou de outros esta
 
 2. As situações ressalvadas no último período da [Portaria n.º 16543](https://diariodarepublica.pt/dr/detalhe/portaria/16543-1958-521654), de 15 de Janeiro de 1958, manter-se-ão desde que, relativamente a essas agências de viagens, não ocorram quaisquer das circunstâncias previstas no n.º 4 do artigo 13.º e nos n.os 1 e 2 do artigo 24.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro.
 
-###### Art. 29.º - 1. As agências de viagens e de turismo e os delegados das agências estrangeiras terão um livro de reclamações, que será obrigatoriamente facultado aos clientes que o solicitem e exibam documento comprovativo da sua identificação.
+Art. 29.º - 1. As agências de viagens e de turismo e os delegados das agências estrangeiras terão um livro de reclamações, que será obrigatoriamente facultado aos clientes que o solicitem e exibam documento comprovativo da sua identificação.
 
 2. O livro de modelo a aprovar pela Direcção-Geral do Turismo deverá ter termos de abertura e encerramento assinados pelo chefe da repartição competente, com as folhas numeradas e rubricadas pelo mesmo funcionário, podendo estas assinaturas e rubricas ser de chancela.
 
@@ -384,30 +403,30 @@ e) Separação rigorosa de quaisquer residências particulares ou de outros esta
 
 5. Em todas as agências de viagens e de turismo e nos escritórios dos delegados das agências de viagens estrangeiras, quando existirem, deverá afixar-se, em local bem visível, em português, francês, inglês e alemão, a indicação da existência de um livro de reclamações ao dispor dos clientes.
 
-###### Art. 30.º - 1. As agências de viagens e de turismo são obrigadas a indemnizar os seus clientes pelos prejuízos e danos causados no exercício da respectiva actividade nos termos gerais de direito.
+Art. 30.º - 1. As agências de viagens e de turismo são obrigadas a indemnizar os seus clientes pelos prejuízos e danos causados no exercício da respectiva actividade nos termos gerais de direito.
 
 2. Quando o montante em causa for estimado em quantia inferior a 3000$00 e as partes prescindam do recurso aos tribunais ordinários poderá solicitar-se a arbitragem da Direcção-Geral do Turismo, que, ouvidos os interessados, fixará a indemnização.
 
 3. A aceitação da arbitragem pela agência de viagens e de turismo significa que ela se obriga a pagar tempestivamente a indemnização que vier a ser arbitrada, devendo a sua conduta, a tal propósito, ser tida em conta para efeitos do registo a que se refere o n.º 2 do artigo 54. do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro.
 
-###### Art. 31.º - 1. As agências de viagens e de turismo podem recusar o serviço de qualquer profissional de informação turística indicado pelo respectivo sindicato, mas devem comunicar os motivos da recusa à Direcção-Geral do Turismo e ao organismo corporativo em questão.
+Art. 31.º - 1. As agências de viagens e de turismo podem recusar o serviço de qualquer profissional de informação turística indicado pelo respectivo sindicato, mas devem comunicar os motivos da recusa à Direcção-Geral do Turismo e ao organismo corporativo em questão.
 
 2. Os profissionais de informação turística indicados só se poderão recusar a trabalhar para a agência de viagens e de turismo se ocorrerem motivos ponderosos como tais reconhecidos pela Direcção-Geral do Turismo.
 
 3. A não observância das prescrições dos números anteriores fica sujeita às sanções do artigo 24.º deste diploma.
 
-###### Art. 32.º O Grémio Nacional das Agências de Viagens e de Turismo prestará colaboração aos organismos ou entidades encarregados de zelar pelo cumprimento das disposições do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e do presente diploma, a pedido dos mesmos ou por sua iniciativa.
+Art. 32.º O Grémio Nacional das Agências de Viagens e de Turismo prestará colaboração aos organismos ou entidades encarregados de zelar pelo cumprimento das disposições do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e do presente diploma, a pedido dos mesmos ou por sua iniciativa.
 
-###### Art. 33.º As agências de viagens da classe B, actualmente existentes, que tenham remodelado as suas instalações e satisfaçam as restantes condições do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e deste diploma poderão, se o requererem, e sem outras exigências de licenciamento, passar à classe A.
+Art. 33.º As agências de viagens da classe B, actualmente existentes, que tenham remodelado as suas instalações e satisfaçam as restantes condições do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e deste diploma poderão, se o requererem, e sem outras exigências de licenciamento, passar à classe A.
 
-###### Art. 34.º - 1. As agências de viagens e de turismo existentes, ou a constituir, que pretendam vender a emigrantes bilhetes para qualquer meio de transporte ou classe deverão apresentar na Direcção-Geral do Turismo uma declaração donde conste tal propósito.
+Art. 34.º - 1. As agências de viagens e de turismo existentes, ou a constituir, que pretendam vender a emigrantes bilhetes para qualquer meio de transporte ou classe deverão apresentar na Direcção-Geral do Turismo uma declaração donde conste tal propósito.
 
 2. Da declaração a que se refere o número anterior constará ainda que as agências de viagens e de turismo têm conhecimento de que lhes continua apenas vedado, nos termos do artigo 7.º do [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, a intervenção no que respeita à obtenção de passaportes para emigrantes, bem como de outros documentos necessários à organização dos respectivos processos de emigração, com a ressalva do disposto no n.º 3 do mesmo artigo.
 
 Marcello Caetano - César Henrique Moreira Baptista.
 
-**Promulgado em 4 de Julho de 1973.**
+Promulgado em 4 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

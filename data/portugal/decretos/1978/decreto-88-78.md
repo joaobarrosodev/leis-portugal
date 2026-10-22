@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/88-1978-330184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1726ad21d48326ee61546a3665c0fbac7d3e57cfdb38dbfeefbdb81ef1c4951d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca753d9c4de03623e11e88c01a60094cf56d4306a1f2b3c46c67a7f9c80eb1c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Editorial do Ministério da Educação
+- Ministro da Educação e Cultura
+- Regulamento
+- Reitor
+- Reitoria
+- Universidade NOVA de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:17Z'
   warnings: []
   errors: []
 ---
@@ -90,25 +100,25 @@ Tendo em conta o disposto no n.º 3 do artigo 12.º do [Decreto-Lei n.º 402/73]
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Regulamento das Actividades Editoriais da Reitoria da Universidade Nova de Lisboa, que faz parte integrante do presente decreto.
+Artigo único. É aprovado o Regulamento das Actividades Editoriais da Reitoria da Universidade Nova de Lisboa, que faz parte integrante do presente decreto.
 
 Regulamento das Actividades Editoriais da Reitoria da Universidade Nova de Lisboa
 
-###### Artigo 1.º - 1 - Na prossecução das suas actividades de ensino e investigação, pode a Universidade Nova de Lisboa, através da Reitoria, editar obras de carácter pedagógico, científico e cultural, criadas no âmbito das suas Faculdades e serviços.
+Artigo 1.º - 1 - Na prossecução das suas actividades de ensino e investigação, pode a Universidade Nova de Lisboa, através da Reitoria, editar obras de carácter pedagógico, científico e cultural, criadas no âmbito das suas Faculdades e serviços.
 
 2 - Poderá ainda a Universidade Nova de Lisboa editar obras produzidas por entidades a ela estranhas, públicas ou privadas, e no interesse da comunidade, quando o mérito das mesmas, apreciado pelo conselho editorial, assim o justifique e sem prejuízo das actividades referidas no número anterior.
 
-###### Art. 2.º - 1 - As actividades editoriais da Universidade Nova de Lisboa destinam-se a assegurar a edição de obras criadas no âmbito das atribuições próprias das Faculdades que a integram.
+Art. 2.º - 1 - As actividades editoriais da Universidade Nova de Lisboa destinam-se a assegurar a edição de obras criadas no âmbito das atribuições próprias das Faculdades que a integram.
 
 2 - Os manuais de ensino e o material de referência didáctica a publicar sob a forma de livros deverão, sempre que possível, ser editados pela Universidade Nova de Lisboa.
 
-###### Art. 3.º - 1 - As actividades editoriais da Universidade Nova de Lisboa são superiormente orientadas pelo conselho editorial e coordenadas e dirigidas pelo secretariado editorial.
+Art. 3.º - 1 - As actividades editoriais da Universidade Nova de Lisboa são superiormente orientadas pelo conselho editorial e coordenadas e dirigidas pelo secretariado editorial.
 
 2 - O apoio técnico e gráfico às actividades editoriais é assegurado pelos serviços gráficos da Universidade Nova de Lisboa.
 
 3 - Quando as circunstâncias o justifiquem, a execução dos trabalhos gráficos pode ser cometida a empresas públicas ou privadas do ramo.
 
-###### Art. 4.º O conselho editorial é constituído por:
+Art. 4.º O conselho editorial é constituído por:
 
 a) O reitor, que presidirá;
 
@@ -118,7 +128,7 @@ c) O chefe dos serviços de contabilidade da Reitoria;
 
 d) Um representante da comissão instaladora de cada uma das Faculdades da Universidade Nova de Lisboa.
 
-###### Art. 5.º Compete ao conselho editorial:
+Art. 5.º Compete ao conselho editorial:
 
 a) Definir as grandes linhas da actividade editorial da Universidade Nova de Lisboa, que deverão conter os critérios qualitativos e orçamentais a observar na selecção e edição das obras;
 
@@ -128,7 +138,7 @@ c) Elaborar e aprovar, ouvidas as Faculdades, as listas de peritos, por matéria
 
 d) Aprovar anualmente o relatório das actividades desenvolvidas pelo secretariado editorial.
 
-###### Art. 6.º - 1 - Mediante convocação pelo respectivo presidente, o conselho editorial reunirá ordinariamente para o exercício das atribuições constantes do artigo anterior e extraordinariamente quando tal seja considerado necessário.
+Art. 6.º - 1 - Mediante convocação pelo respectivo presidente, o conselho editorial reunirá ordinariamente para o exercício das atribuições constantes do artigo anterior e extraordinariamente quando tal seja considerado necessário.
 
 2 - As deliberações serão abertas e tomadas à pluralidade de votos.
 
@@ -136,7 +146,7 @@ d) Aprovar anualmente o relatório das actividades desenvolvidas pelo secretaria
 
 4 - A participação nas reuniões confere direito à percepção de senhas de presença, nos termos da lei geral.
 
-###### Art. 7.º O secretariado editorial é constituído por:
+Art. 7.º O secretariado editorial é constituído por:
 
 a) Um representante do conselho editorial;
 
@@ -146,7 +156,7 @@ c) O chefe dos serviços de contabilidade da Reitoria;
 
 d) Um representante dos Serviços de Documentação.
 
-###### Art. 8.º Compete ao secretariado editorial:
+Art. 8.º Compete ao secretariado editorial:
 
 a) Fornecer ao conselho editorial todas as informações necessárias à definição das grandes linhas da actividade editorial;
 
@@ -160,7 +170,7 @@ e) Minutar os contratos de edição e distribuição a celebrar pela Universidad
 
 f) Elaborar o relatório anual das respectivas actividades.
 
-###### Art. 9.º - 1 - O plano editorial semestral deverá conter:
+Art. 9.º - 1 - O plano editorial semestral deverá conter:
 
 a) Identificação das obras a editar;
 
@@ -188,11 +198,11 @@ m) Listas de distribuição.
 
 2 - O plano editorial semestral deverá também conter a previsão dos trabalhos gráficos a executar pelos serviços gráficos da Universidade Nova de Lisboa e que não sejam pertinentes à edição de obras.
 
-###### Art. 10.º - 1 - O secretariado editorial reunirá ordinariamente uma vez por mês e extraordinariamente sempre que qualquer dos membros o convocar.
+Art. 10.º - 1 - O secretariado editorial reunirá ordinariamente uma vez por mês e extraordinariamente sempre que qualquer dos membros o convocar.
 
 2 - A participação nas reuniões confere direito à percepção de senhas de presença, nos termos da lei geral.
 
-###### Art. 11.º Os serviços gráficos são orientados por um técnico da Universidade Nova de Lisboa com formação superior, ao qual compete:
+Art. 11.º Os serviços gráficos são orientados por um técnico da Universidade Nova de Lisboa com formação superior, ao qual compete:
 
 a) Superintender e orientar toda a actividade prosseguida pelos serviços;
 
@@ -204,32 +214,32 @@ d) Propor ao reitor da Universidade Nova de Lisboa a aquisição dos equipamento
 
 e) Propor superiormente todas as medidas tendentes ao aperfeiçoamento técnico dos serviços.
 
-###### Art. 12.º - 1 - Deverá ser assegurada em instrumento apropriado, nos termos da legislação em vigor, a definição dos direitos e obrigações, designadamente patrimoniais, do criador intelectual da obra e da Universidade Nova de Lisboa, mesmo quando caiba a esta a titularidade originária dos direitos de autor.
+Art. 12.º - 1 - Deverá ser assegurada em instrumento apropriado, nos termos da legislação em vigor, a definição dos direitos e obrigações, designadamente patrimoniais, do criador intelectual da obra e da Universidade Nova de Lisboa, mesmo quando caiba a esta a titularidade originária dos direitos de autor.
 
 2 - Com o acordo dos autores, tradutores, orientadores ou coordenadores das obras a editar, poderão os seus direitos patrimoniais ser assegurados mediante retribuição em regime de tarefa ou de prestação eventual de serviços.
 
-###### Art. 13.º - 1 - A distribuição das obras editadas será objecto de contrato a celebrar entre a Universidade Nova de Lisboa e qualquer entidade pública ou privada.
+Art. 13.º - 1 - A distribuição das obras editadas será objecto de contrato a celebrar entre a Universidade Nova de Lisboa e qualquer entidade pública ou privada.
 
 2 - Pode, no entanto, a Universidade Nova de Lisboa proceder à venda directa de obras por ela editadas, bem como de trabalhos executados pelos serviços gráficos.
 
-###### Art. 14.º As actividades editoriais da Universidade Nova de Lisboa estão isentas de todos os impostos, contribuição ou taxas, custos, emolumentos e selos nos processos, actos notariais, de registo ou outros em que a Universidade Nova de Lisboa intervenha, em termos e condições idênticas aos do Estado.
+Art. 14.º As actividades editoriais da Universidade Nova de Lisboa estão isentas de todos os impostos, contribuição ou taxas, custos, emolumentos e selos nos processos, actos notariais, de registo ou outros em que a Universidade Nova de Lisboa intervenha, em termos e condições idênticas aos do Estado.
 
-###### Art. 15.º - 1 - O produto da venda das obras editadas e o dos serviços prestados na execução de trabalhos gráficos e reprográficos, bem como as comparticipações ou subsídios concedidos por entidades públicas ou privadas, para incentivar ou custear a publicação de obras, serão inscritos como receitas próprias da Reitoria, consignadas à cobertura das despesas dos serviços gráficos e dos núcleos reprográficos das Faculdades.
+Art. 15.º - 1 - O produto da venda das obras editadas e o dos serviços prestados na execução de trabalhos gráficos e reprográficos, bem como as comparticipações ou subsídios concedidos por entidades públicas ou privadas, para incentivar ou custear a publicação de obras, serão inscritos como receitas próprias da Reitoria, consignadas à cobertura das despesas dos serviços gráficos e dos núcleos reprográficos das Faculdades.
 
 2 - As Faculdades que integram a Universidade Nova de Lisboa inscreverão nos seus orçamentos verbas destinadas a custear as despesas necessárias com a publicação das obras criadas no seu âmbito que pretendam editar nos termos do presente Regulamento, bem como dos trabalhos gráficos que mandem executar.
 
-###### Art. 16.º Os custos fixos decorrentes das actividades editoriais da Universidade Nova de Lisboa são suportados pelo orçamento da Reitoria e a sua execução fica a cargo do seu órgão de gestão financeira.
+Art. 16.º Os custos fixos decorrentes das actividades editoriais da Universidade Nova de Lisboa são suportados pelo orçamento da Reitoria e a sua execução fica a cargo do seu órgão de gestão financeira.
 
-###### Art. 17.º - 1 - Sempre que as necessidades de serviço o justifiquem, poderá o reitor da Universidade Nova de Lisboa contratar, em regime de prestação de serviços, pessoal técnico especializado em artes gráficas.
+Art. 17.º - 1 - Sempre que as necessidades de serviço o justifiquem, poderá o reitor da Universidade Nova de Lisboa contratar, em regime de prestação de serviços, pessoal técnico especializado em artes gráficas.
 
 2 - Os contratos referidos no número anterior, que serão reduzidos a escrito, mencionarão a tarefa, o prazo e a remuneração respectivos, bem como a indicação expressa de que os contratados, em caso algum, adquirirão a qualidade de agentes administrativos.
 
-###### Art. 18.º As omissões e as dúvidas que se suscitem na aplicação do presente Regulamento serão resolvidas por despacho do Ministro da Educação e Cultura, por proposta do reitor da Universidade Nova de Lisboa.
+Art. 18.º As omissões e as dúvidas que se suscitem na aplicação do presente Regulamento serão resolvidas por despacho do Ministro da Educação e Cultura, por proposta do reitor da Universidade Nova de Lisboa.
 
 Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 10 de Agosto de 1978.**
+Promulgado em 10 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

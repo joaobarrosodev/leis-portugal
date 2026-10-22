@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/42/1991/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-1991-667898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce5d2489c588bfd49340b8ed0b58b94014fbbfe1733b89ead5e9450cdcadf0c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3aff0402edf3bcce0c8927343ee047938d43be479b1dfdf6b66d77e7470ca976
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Portugal
+- Desenvolvimento Económico
 - ONU
 - Palop
-- Desenvolvimento Económico
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:02Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 5 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Memorando de Intenções entre o Programa das Nações Unidas para o Desenvolvimento e a República Portuguesa Relativo à Promoção de Iniciativas para o Desenvolvimento Económico dos Países Africanos de Língua Oficial Portuguesa, assinado em Nova Iorque a 22 de Fevereiro de 1991, cuja versão original em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Memorando de Intenções entre o Programa das Nações Unidas para o Desenvolvimento e a República Portuguesa Relativo à Promoção de Iniciativas para o Desenvolvimento Económico dos Países Africanos de Língua Oficial Portuguesa, assinado em Nova Iorque a 22 de Fevereiro de 1991, cuja versão original em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1991. - Aníbal António Cavaco Silva - Duarte Ivo Cruz.
 
-**Assinado em 19 de Junho de 1991.**
+Assinado em 19 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1991.**
+Referendado em 22 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MEMORANDUM OF INTENT BETWEEN THE UNITED NATIONS DEVELOPMENT PROGRAMME AND THE REPUBLIC OF PORTUGAL CONCERNING THE ESTABLISHMENT OF INITIATIVES FOR THE ECONOMIC DEVELOPMENT OF THE AFRICAN LUSOPHONE COUNTRIES.
 
@@ -165,23 +165,23 @@ Considerando que as duas partes chegaram a acordo para confiar ao Programa das N
 
 as duas partes acordaram o seguinte:
 
-Artigo I
+###### Artigo I
 
 O Programa das Nações Unidas para o Desenvolvimento gerirá o fundo em sintonia com os objectivos fixados no artigo II, de acordo com a modalidade de financiamento apropriada.
 
-Artigo II
+###### Artigo II
 
 O fundo servirá para financiar missões de consultadoria, projectos de assistência técnica e actividades de formação, com particular ênfase nas novas iniciativas para a promoção do desenvolvimento de África.
 
-Artigo III
+###### Artigo III
 
 As actividades financeiras deverão reverter em favor dos países africanos de língua oficial portuguesa.
 
-Artigo IV
+###### Artigo IV
 
 As modalidades jurídicas, técnicas e operacionais de funcionamento do fundo serão estabelecidas por um acordo entre o Programa das Nações Unidas para o Desenvolvimento e a República Portuguesa, num prazo de três meses após a data de assinatura do presente acordo.
 
-Artigo V
+###### Artigo V
 
 O presente acordo entrará em vigor na data da última comunicação do cumprimento das formalidades exigidas pelo ordenamento jurídico de cada uma das partes.
 

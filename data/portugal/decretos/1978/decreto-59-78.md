@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/59-1978-298274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b4e536ae2aca9af349fc3398c2a0586206e04981f740843b671569649eef33b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6f9887cbdb7c01046053b11b9fa8c479095e92f6947a5855f40bc23d5432f49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adido de Embaixada
+- Concurso
+- Ministério dos Negócios Estrangeiros
+- Pessoal Diplomático
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:579303:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:579303:por
+  label: "Alterada a redacção do art. 20º, pelo DR.27/81.1981.06.17.MNE, DR.IS [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/27-1981-579303
+  date: '1981-06-17'
+- type: cites
+  target: pt:dre:471524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:51Z'
   warnings: []
   errors: []
 ---
@@ -93,27 +111,27 @@ Considerando que o incremento da actividade diplomática portuguesa, resultante 
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Concurso de Admissão aos Lugares de Adido de Embaixada, a que se refere o artigo 43.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e que baixa assinado pelo Ministro dos Negócios Estrangeiros.
+Artigo 1.º É aprovado o Regulamento do Concurso de Admissão aos Lugares de Adido de Embaixada, a que se refere o artigo 43.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e que baixa assinado pelo Ministro dos Negócios Estrangeiros.
 
-###### Art. 2.º Fica revogado o [Decreto n.º 586/74](https://diariodarepublica.pt/dr/detalhe/decreto/586-1974-471524), de 6 de Novembro.
+Art. 2.º Fica revogado o [Decreto n.º 586/74](https://diariodarepublica.pt/dr/detalhe/decreto/586-1974-471524), de 6 de Novembro.
 
 Mário Soares - Vítor Augusto Nunes de Sá Machado.
 
-**Promulgado em 5 de Junho de 1978.**
+Promulgado em 5 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DO CONCURSO DE ADMISSÃO AOS LUGARES DE ADIDO DE EMBAIXADA
 
-###### Artigo 1.º - 1 - O concurso de admissão aos lugares de adido de embaixada a que se refere o artigo 25.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966 (Lei Orgânica do Ministério dos Negócios Estrangeiros), será aberto pelo prazo de sessenta dias, a contar da publicação no Diário da República do respectivo aviso, que deverá ser assinado pelo secretário-geral do Ministério.
+Artigo 1.º - 1 - O concurso de admissão aos lugares de adido de embaixada a que se refere o artigo 25.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966 (Lei Orgânica do Ministério dos Negócios Estrangeiros), será aberto pelo prazo de sessenta dias, a contar da publicação no Diário da República do respectivo aviso, que deverá ser assinado pelo secretário-geral do Ministério.
 
 2 - Será aberto concurso, nos termos do número anterior, sempre que se verifique a existência de oito vagas de terceiro-secretário de embaixada ou quando o interesse do Ministério o justifique.
 
-###### Art. 2.º Só poderão apresentar-se a este concurso candidatos licenciados com um curso superior professado em Universidade ou estabelecimento de ensino superior português ou com um curso superior estrangeiro que o Ministério da Educação e Cultura considere equivalente a licenciatura num curso superior português para efeito de provimento em cargos públicos.
+Art. 2.º Só poderão apresentar-se a este concurso candidatos licenciados com um curso superior professado em Universidade ou estabelecimento de ensino superior português ou com um curso superior estrangeiro que o Ministério da Educação e Cultura considere equivalente a licenciatura num curso superior português para efeito de provimento em cargos públicos.
 
-###### Art. 3.º Os candidatos entregarão no prazo marcado no aviso de abertura do concurso os seus requerimentos, acompanhados da seguinte documentação:
+Art. 3.º Os candidatos entregarão no prazo marcado no aviso de abertura do concurso os seus requerimentos, acompanhados da seguinte documentação:
 
 Certidão narrativa completa do registo de nascimento;
 
@@ -121,57 +139,57 @@ Carta ou certidão lavrada em boa e devida forma que prove serem licenciados em 
 
 Facultativamente, quaisquer outros documentos que possam apresentar comprovativos do seu mérito e aptidões.
 
-###### Art. 4.º A validade dos documentos apresentados será examinada por uma comissão, designada para o efeito pelo secretário-geral, que será integrada por três funcionários do serviço diplomático do Ministério.
+Art. 4.º A validade dos documentos apresentados será examinada por uma comissão, designada para o efeito pelo secretário-geral, que será integrada por três funcionários do serviço diplomático do Ministério.
 
-###### Art. 5.º A lista definitiva dos candidatos admitidos a concurso será publicada no Diário da República, nos quinze dias seguintes ao termo do prazo referido no artigo 1.º
+Art. 5.º A lista definitiva dos candidatos admitidos a concurso será publicada no Diário da República, nos quinze dias seguintes ao termo do prazo referido no artigo 1.º
 
-###### Art. 6.º Não será admitida a dispensa deste concurso para o ingresso na carreira diplomática, sendo obrigatória a prestação de todas as provas.
+Art. 6.º Não será admitida a dispensa deste concurso para o ingresso na carreira diplomática, sendo obrigatória a prestação de todas as provas.
 
-###### Art. 7.º O júri que apreciará as provas do concurso será presidido pelo secretário-geral do Ministério ou por um embaixador ou ministro plenipotenciário de 1.ª classe, em sua representação, e por dois funcionários diplomáticos designados pelo secretário-geral, ouvido o Conselho do Ministério. Integrarão o júri, para efeitos de arguição, julgamento e classificação das provas académicas, escritas e orais, dois professores universitários designados pelo Ministro. O presidente do júri nomeará ainda um secretário do concurso, que não disporá de voto.
+Art. 7.º O júri que apreciará as provas do concurso será presidido pelo secretário-geral do Ministério ou por um embaixador ou ministro plenipotenciário de 1.ª classe, em sua representação, e por dois funcionários diplomáticos designados pelo secretário-geral, ouvido o Conselho do Ministério. Integrarão o júri, para efeitos de arguição, julgamento e classificação das provas académicas, escritas e orais, dois professores universitários designados pelo Ministro. O presidente do júri nomeará ainda um secretário do concurso, que não disporá de voto.
 
-###### Art. 8.º - 1 - As matérias objecto das provas do concurso serão as constantes do programa anexo a este Regulamento.
+Art. 8.º - 1 - As matérias objecto das provas do concurso serão as constantes do programa anexo a este Regulamento.
 
 2 - O Ministro poderá aprovar novo programa, mas este só poderá ser exigido em concursos abertos seis meses após a sua publicação.
 
-###### Art. 9.º As provas do concurso serão escritas e orais.
+Art. 9.º As provas do concurso serão escritas e orais.
 
-###### Art. 10.º As provas escritas não poderão ser assinadas ou de qualquer modo identificadas pelos candidatos. O secretário do concurso deverá atribuir a cada uma delas um número convencional, que substituirá o nome do candidato até que o júri complete a avaliação das provas.
+Art. 10.º As provas escritas não poderão ser assinadas ou de qualquer modo identificadas pelos candidatos. O secretário do concurso deverá atribuir a cada uma delas um número convencional, que substituirá o nome do candidato até que o júri complete a avaliação das provas.
 
-###### Art. 11.º - 1 - Os candidatos prestarão provas de francês e de inglês, nos termos do artigo seguinte.
+Art. 11.º - 1 - Os candidatos prestarão provas de francês e de inglês, nos termos do artigo seguinte.
 
 2 - Facultativamente, e para efeitos de valorização das suas classificações, cada candidato poderá indicar uma terceira língua em que deseje prestar provas, ficando, no entanto, a realização destas dependente do critério do júri.
 
-###### Art. 12.º Na prestação de provas de inglês e de francês os candidatos deverão:
+Art. 12.º Na prestação de provas de inglês e de francês os candidatos deverão:
 
 Redigir numa dessas línguas, à sua escolha, no tempo máximo de duas horas, um comentário sobre um tema de política portuguesa ou internacional de actualidade, que cada candidato escolherá de entre três que lhe serão propostos;
 
 Retroverter para a outra língua, no prazo máximo de uma hora, uma nota diplomática, carta, memorial, ofício ou outro documento de carácter oficial.
 
-###### Art. 13.º - 1 - Na segunda prova escrita, cada candidato escolherá um de três temas tirados à sorte de entre os que constam do programa mencionado no artigo 8.º deste Regulamento. O candidato desenvolverá o tema escolhido segundo o critério que melhor lhe parecer, devendo, porém, ter em vista o seu enquadramento na perspectiva que melhor interesse apresente para a actividade do Ministério dos Negócios Estrangeiros.
+Art. 13.º - 1 - Na segunda prova escrita, cada candidato escolherá um de três temas tirados à sorte de entre os que constam do programa mencionado no artigo 8.º deste Regulamento. O candidato desenvolverá o tema escolhido segundo o critério que melhor lhe parecer, devendo, porém, ter em vista o seu enquadramento na perspectiva que melhor interesse apresente para a actividade do Ministério dos Negócios Estrangeiros.
 
 2 - Esta prova terá a duração máxima de quatro horas. Durante a prova os candidatos não poderão comunicar com pessoa alguma estranha ao acto do concurso nem entre si, não lhes sendo também permitida a consulta de qualquer livro, documento ou processo, sob pena de exclusão do concurso.
 
-###### Art. 14.º Findas as provas escritas, estas serão avaliadas e classificadas pelo júri. Será posteriormente afixada em edital, assinado pelo presidente do júri, a lista por ordem alfabética dos candidatos admitidos às provas orais e o dia e hora em que estas provas começam.
+Art. 14.º Findas as provas escritas, estas serão avaliadas e classificadas pelo júri. Será posteriormente afixada em edital, assinado pelo presidente do júri, a lista por ordem alfabética dos candidatos admitidos às provas orais e o dia e hora em que estas provas começam.
 
-###### Art. 15.º A prova oral constará de uma exposição feita pelo candidato, durante cerca de meia hora, sobre um tema tirado à sorte quatro horas antes, de entre os fixados no programa do concurso, exposição que será seguida de debate com os arguentes por igual período.
+Art. 15.º A prova oral constará de uma exposição feita pelo candidato, durante cerca de meia hora, sobre um tema tirado à sorte quatro horas antes, de entre os fixados no programa do concurso, exposição que será seguida de debate com os arguentes por igual período.
 
-###### Art. 16.º Findas as provas orais, o júri reunirá e classificá-las-á, determinando quais os candidatos que nelas mereceram aprovação. Será então afixada, em edital assinado pelo presidente do júri, a lista por ordem alfabética desses candidatos e o dia e hora a que cada um será presente a uma entrevista de apreciação global, nos termos do artigo seguinte.
+Art. 16.º Findas as provas orais, o júri reunirá e classificá-las-á, determinando quais os candidatos que nelas mereceram aprovação. Será então afixada, em edital assinado pelo presidente do júri, a lista por ordem alfabética desses candidatos e o dia e hora a que cada um será presente a uma entrevista de apreciação global, nos termos do artigo seguinte.
 
-###### Art. 17.º A entrevista de apreciação global será individual para cada candidato, deverá durar cerca de meia hora e a ela estarão presentes os funcionários do Ministério dos Negócios Estrangeiros que integram o júri.
+Art. 17.º A entrevista de apreciação global será individual para cada candidato, deverá durar cerca de meia hora e a ela estarão presentes os funcionários do Ministério dos Negócios Estrangeiros que integram o júri.
 
-###### Art. 18.º Nesta entrevista, o júri, tendo em conta as provas já prestadas pelo candidato, avaliará da cultura geral, interesse pela política nacional e internacional, compreensão e empenho pela profissão diplomática e consular, presença, capacidade de percepção, argumentação e resposta, bom senso e presença de espírito e outras qualidades do concorrente, analisando ainda a sua experiência anterior relevante.
+Art. 18.º Nesta entrevista, o júri, tendo em conta as provas já prestadas pelo candidato, avaliará da cultura geral, interesse pela política nacional e internacional, compreensão e empenho pela profissão diplomática e consular, presença, capacidade de percepção, argumentação e resposta, bom senso e presença de espírito e outras qualidades do concorrente, analisando ainda a sua experiência anterior relevante.
 
-###### Art. 19.º Findas as entrevistas, o júri reunirá e escolherá de entre os candidatos os que considere aptos para o exercício do serviço diplomático, graduando-os em mérito relativo. A respectiva lista será transcrita em edital, assinado pelo presidente do júri, para sua imediata afixação em lugar conveniente do Ministério e posterior publicação no Diário da República.
+Art. 19.º Findas as entrevistas, o júri reunirá e escolherá de entre os candidatos os que considere aptos para o exercício do serviço diplomático, graduando-os em mérito relativo. A respectiva lista será transcrita em edital, assinado pelo presidente do júri, para sua imediata afixação em lugar conveniente do Ministério e posterior publicação no Diário da República.
 
-###### Art. 20 - 1 - Os candidatos considerados aptos serão chamados, segundo a ordem por que forem graduados, para preencherem as vagas existentes e as que venham a abrir-se no período de um ano, a contar da publicação no Diário da República da lista referida no artigo anterior.
+Art. 20 - 1 - Os candidatos considerados aptos serão chamados, segundo a ordem por que forem graduados, para preencherem as vagas existentes e as que venham a abrir-se no período de um ano, a contar da publicação no Diário da República da lista referida no artigo anterior.
 
 2 - No fim desse período de um ano, o concurso prescreve, não tendo os candidatos considerados aptos e que até então não hajam sido chamados por inexistência de vagas, qualquer direito à ocupação das que posteriormente se vierem a dar.
 
 3 - Os candidatos não admitidos não terão quaisquer direitos emergentes do concurso.
 
-###### Art. 21.º Todas as decisões do júri, nomeadamente as resultantes de apreciações em relação a cada prova, ficarão exaradas em acta, que só poderá perder o seu carácter confidencial por decisão expressa do Ministro.
+Art. 21.º Todas as decisões do júri, nomeadamente as resultantes de apreciações em relação a cada prova, ficarão exaradas em acta, que só poderá perder o seu carácter confidencial por decisão expressa do Ministro.
 
-**O Ministro dos Negócios Estrangeiros, Vítor Augusto Nunes de Sá Machado.**
+O Ministro dos Negócios Estrangeiros, Vítor Augusto Nunes de Sá Machado.
 
 Programa do concurso para adidos de embaixada
 
@@ -333,4 +351,4 @@ IV - Política internacional da actualidade
 
 12 - Presença portuguesa no Mundo. Comunidades portuguesas. Áreas linguísticas portuguesas.
 
-**O Ministro dos Negócios Estrangeiros, Vítor Augusto Nunes de Sá Machado.**
+O Ministro dos Negócios Estrangeiros, Vítor Augusto Nunes de Sá Machado.

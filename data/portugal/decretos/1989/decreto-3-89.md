@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-1989-234490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31066a17d24ab03f674be19589aa1dd32b6b51a3c34f8eaa2da4afe30cd687cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d7b99c8916c48d20ed97691f3dc664856065c2866355a9fe9e6986bc0b78e43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Congo-kinshasa
+- Convenção
+- Emigrante
+- Indemnização
+- Portugal
 relationships: []
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:12Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +91,19 @@ de 7 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre a República Portuguesa e a República do Zaire Relativo à Indemnização dos Bens Zairinizados Que Pertenciam a Nacionais Portugueses, assinado em Kinshasa, em 5 de Fevereiro de 1988, cujos textos originais em francês e português, ambos fazendo igualmente fé, vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo entre a República Portuguesa e a República do Zaire Relativo à Indemnização dos Bens Zairinizados Que Pertenciam a Nacionais Portugueses, assinado em Kinshasa, em 5 de Fevereiro de 1988, cujos textos originais em francês e português, ambos fazendo igualmente fé, vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
 Ratificado em 22 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1988.**
+Referendado em 27 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACCORD ENTRE LA RÉPUBLIQUE PORTUGAISE ET LA RÉPUBLIQUE DU ZAÏRE RELATIF À L'INDEMNISATION DES BIENS ZAÏRIANISÉS AYANT APPARTENU À DES RESSORTISSANTS PORTUGAIS.
 

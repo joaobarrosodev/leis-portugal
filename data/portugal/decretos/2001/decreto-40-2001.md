@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/40/2001/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/40-2001-614358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:12:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef705781ba2724dbc9431f1bc5ba942ce97683811ab66b362b6a2acf582d1398
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 315b8accc393cbc0ceca1c83ef59e6dceb769c82407d4a5836330a439d8723fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:12:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Londres
 - Poluição por Hidrocarbonetos
+- Portugal
 - Responsabilidade Civil
 relationships:
 - type: amended_by
   target: pt:dre:1135578392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168223:por
+  label: "Aprovadas as emendas aos limites de responsabilidade introduzidas pelo Protocolo de 1992 (alteração do art. 6º do\
+    \ Protocolo constante do presente diploma) à Convenção Internacional sobre a Responsabilidade Civil pelos Prejuízos Devidos\
+    \ à Poluição para Hidrocarbonetos aprovada para ratificação pelo Dec 694/76 de 21-Set , pelo DEC.4/2006.06.01.2006.MOPTC,\
+    \ DR.IS-B [5] de 06.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/4-2006-168223
+  date: '2006-01-06'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:12:08Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2001. - Jaime José Matos da Gama - Jaime José Matos da Gama - Rui Eduardo Ferreira Rodrigues Pena - Eduardo Guimarães de Oliveira Fernandes - Rui Nobre Gonçalves.
 
-**Assinado em 11 de Setembro de 2001.**
+Assinado em 11 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2001.**
+Referendado em 13 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PROTOCOL OF 1992 TO AMEND THE INTERNATIONAL CONVENTION ON CIVIL LIABILITY FOR OIL POLLUTION DAMAGE, 1969
 
@@ -444,7 +452,7 @@ Certificate of insurance or other financial security in respect of civil liabili
 
 Issued in accordance with the provisions of article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1992:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/226a00/61436154.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/226a00/61436154.pdf)](https://files.diariodarepublica.pt/1s/2001/09/226a00/61436154.pdf)
 
 This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1992.
 
@@ -792,7 +800,7 @@ Certificado de seguro ou de qualquer outra garantia financeira relativa à respo
 
 Emitido em conformidade com as disposições do artigo VII da Convenção Internacional sobre a Responsabilidade Civil pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, 1992:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/226a00/61436154.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/226a00/61436154.pdf)](https://files.diariodarepublica.pt/1s/2001/09/226a00/61436154.pdf)
 
 Serve o presente documento para certificar que o navio acima identificado está coberto por uma apólice de seguros ou outra garantia financeira que satisfaz os requisitos formulados no artigo VII da Convenção Internacional sobre a Responsabilidade Civil pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, 1992.
 

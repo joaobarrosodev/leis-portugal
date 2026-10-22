@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/846-1976-407890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8164d19b072f8158f2e4afbe470bbaa0a02d18a16160b216902df0fdc902add
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04dfa0cfea7658e826e074bd520a16607f8a917271a0d01d5aa8cd1edda1f105
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Delegação
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:36Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +98,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -123,7 +132,7 @@ Ministério da Comunicação Social (extinto)
 
 Despesas dos anos de 1972 a 1974, respeitantes a conservação e aproveitamento de bens, a pagar pela Secretaria-Geral ... 313$60
 
-###### Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
+Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
 
 Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
@@ -133,7 +142,7 @@ Ministério da Cooperação (extinto)
 
 Encargos do ano de 1975, respeitantes a pensões, vencimentos, abono de família e subsídio de Natal, a satisfazer pela Direcção-Geral de Fazenda, em conta da verba inscrita no capítulo 16.º, artigo 132.º, n.º 1, consignada a «despesas com a descolonização ...» ... 21921923$60
 
-###### Art. 3.º Ficam também autorizados a satisfazer as quantias abaixo indicadas, pelas verbas consignadas a despesas de anos findos dos seus actuais orçamentos privativos, os seguintes serviços:
+Art. 3.º Ficam também autorizados a satisfazer as quantias abaixo indicadas, pelas verbas consignadas a despesas de anos findos dos seus actuais orçamentos privativos, os seguintes serviços:
 
 Instituto Português de Oncologia de Francisco Gentil
 
@@ -153,8 +162,8 @@ Encargos dos anos de 1971 e 1974, respeitantes a vencimentos ... 20150$00
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Firmino Miguel - António Francisco Barroso de Sousa Gomes - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira - José Manuel de Medeiros Ferreira - António Miguel Morais Barreto - Walter Ruivo Pinto Gomes Rosa - Francisco Manuel Marcelo Monteiro Curto - Mário Augusto Sottomayor Leal Cardia - Armando Bacelar - Emílio Rui da Veiga Peixoto Vilar - João Orlindo de Almeida Pina - Eduardo Ribeiro Pereira.
 
-**Promulgado em 24 de Novembro de 1976.**
+Promulgado em 24 de Novembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

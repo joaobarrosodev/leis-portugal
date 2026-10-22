@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/134-1982-379160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:59:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2e57ba5d5fcd007ec0443c74f8fba97b00ae7eea300cc9cc877a08aa6d69520
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d93055b171b62214dc7a0bb19d885b880978dc0735bcf5014b10cdd8513aa7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:59:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Ministério da Educação
+relationships:
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:59:23Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +104,18 @@ Assim, ao abrigo do disposto no artigo 26.º do [Decreto-Lei n.º 211/79](https:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os contratos escritos de aquisição de bens, a realizar no âmbito do Ministério da Educação, poderão prever o pagamento total ou pagamentos parciais antecipados das mercadorias a que respeitam.
+Artigo 1.º Os contratos escritos de aquisição de bens, a realizar no âmbito do Ministério da Educação, poderão prever o pagamento total ou pagamentos parciais antecipados das mercadorias a que respeitam.
 
-###### Art. 2.º O uso da faculdade conferida pelo artigo anterior fica condicionado à prestação pelo fornecedor de garantia bancária a favor da entidade adjudicante, em montante, pelo menos, igual ao do pagamento efectuado, até integral cumprimento do contrato.
+Art. 2.º O uso da faculdade conferida pelo artigo anterior fica condicionado à prestação pelo fornecedor de garantia bancária a favor da entidade adjudicante, em montante, pelo menos, igual ao do pagamento efectuado, até integral cumprimento do contrato.
 
-###### Art. 3.º A garantia bancária será accionada em favor da entidade adjudicante, em caso de incumprimento total ou parcial do contrato, sem prejuízo da satisfação das penalizações e da perda das cauções contratualmente previstas.
+Art. 3.º A garantia bancária será accionada em favor da entidade adjudicante, em caso de incumprimento total ou parcial do contrato, sem prejuízo da satisfação das penalizações e da perda das cauções contratualmente previstas.
 
-###### Art. 4.º Nos contratos que envolvam pagamentos antecipados, ao abrigo do disposto no presente diploma, serão obrigatoriamente previstas penalizações pelo seu incumprimento, de montante nunca inferior aos juros das quantias correspondentes aos pagamentos antecipados, remunerados à taxa de juros dos depósitos a prazo superior a 1 ano.
+Art. 4.º Nos contratos que envolvam pagamentos antecipados, ao abrigo do disposto no presente diploma, serão obrigatoriamente previstas penalizações pelo seu incumprimento, de montante nunca inferior aos juros das quantias correspondentes aos pagamentos antecipados, remunerados à taxa de juros dos depósitos a prazo superior a 1 ano.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - João José Fraústo da Silva.
 
-**Assinado em 26 de Novembro de 1982.**
+Assinado em 26 de Novembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

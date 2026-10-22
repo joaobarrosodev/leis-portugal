@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/128-1974-412180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c842dd30f3609c56f13e47f974cd26b17a279e69cd35c55773dc84611a4540d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8f8fe55e89a4567c5b2fb045716725ab0e34a489d2c1809f202d643c550e066
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:54Z'
   warnings: []
   errors: []
 ---
@@ -89,24 +101,24 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças e da Coordenação Económica, a favor do Ministério das Comunicações, um crédito especial de 320000000$00, a inscrever no segundo dos mencionados Ministérios sob a seguinte forma:
+Artigo 1.º É aberto no Ministério das Finanças e da Coordenação Económica, a favor do Ministério das Comunicações, um crédito especial de 320000000$00, a inscrever no segundo dos mencionados Ministérios sob a seguinte forma:
 
 Despesa extraordinária
 
 Outras despesas extraordinárias
 
-### Capítulo 22.º «Secretaria-Geral»:
+Capítulo 22.º «Secretaria-Geral»:
 
 Despesas correntes
 
-###### Artigo 534.º - A «Transferências - Empresas», n.º 1 «Subsídio extraordinário para pagamento à Caixa Nacional de Pensões de encargos da Companhia dos Caminhos de Ferro Portugueses, nos termos da base LIII, anexa ao [Decreto-Lei n.º 104/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1973-684232), de 13 de Março, com a nova redacção dada pelo [Decreto-Lei n.º 287/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1973-422817), de 5 de Junho» ... 320000000$00
+Artigo 534.º - A «Transferências - Empresas», n.º 1 «Subsídio extraordinário para pagamento à Caixa Nacional de Pensões de encargos da Companhia dos Caminhos de Ferro Portugueses, nos termos da base LIII, anexa ao [Decreto-Lei n.º 104/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1973-684232), de 13 de Março, com a nova redacção dada pelo [Decreto-Lei n.º 287/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1973-422817), de 5 de Junho» ... 320000000$00
 
-###### Art. 2.º Para compensação do crédito previsto no artigo anterior, é adicionada igual importância à verba descrita, em receita extraordinária, no capítulo 12.º, grupo 9 «Títulos a longo prazo - Outros sectores», artigo 205.º «Crédito interno», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação do crédito previsto no artigo anterior, é adicionada igual importância à verba descrita, em receita extraordinária, no capítulo 12.º, grupo 9 «Títulos a longo prazo - Outros sectores», artigo 205.º «Crédito interno», do actual orçamento das receitas do Estado.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 20 de Março de 1974.**
+Promulgado em 20 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15300/19912006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1982-394719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:44:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88783805a8f85ba75314bad92e613c67028e7bba0c624007cdaaa26b1e2d6fed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 385f5fb795e2457337227e53a882941b949e2522c894f262c8d91facd56d9f7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aditivo Alimentar
+- Alimento para Animais
+- Comércio
+- Regulamento
+- Saúde Animal
 relationships:
 - type: amended_by
   target: pt:dre:660524:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:454053:por
+  label: Acrescentados novos aditivos ao grupo B do anexo II do Regulamento da Comercialização e Utilização de Aditivos nos
+    Alimentos para Animais pelo(a) Portaria n.º 814/83 - Diário da República n.º 177/1983, Série I de 1983-08-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-1983-454053
+  date: '1983-08-03'
+- type: cites
+  target: pt:dre:314057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505047:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:375399:por
+  label: Rectificado o presente diploma pela DECL.DD5978.06.09.1982.PCM, DR.IS [228] de 01.10.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375399
+  date: '1982-09-06'
+- type: repealed_by
+  target: pt:dre:660524:por
+  label: "Revogado pelo DEC LEI.50/84.1984.02.08.MAFA DR.IS [33]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1984-660524
+  date: '1984-02-08'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:44:02Z'
   warnings: []
   errors: []
 ---
@@ -106,35 +143,35 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais, que faz parte do presente decreto-lei.
 
-###### Art. 2.º O artigo 2.º do Regulamento de Preparação e Comércio de Alimentos para Animais, aprovado pelo [Decreto n.º 47776](https://diariodarepublica.pt/dr/detalhe/decreto/47776-1967-314057), de 5 de Julho de 1967, passa a ter a seguinte redacção:
+Art. 2.º O artigo 2.º do Regulamento de Preparação e Comércio de Alimentos para Animais, aprovado pelo [Decreto n.º 47776](https://diariodarepublica.pt/dr/detalhe/decreto/47776-1967-314057), de 5 de Julho de 1967, passa a ter a seguinte redacção:
 
-###### Art. 2.º Os alimentos destinados aos animais incluir-se-ão obrigatoriamente em qualquer dos seguintes grupos: alimentos simples, alimentos compostos, aditivos e pré-misturas.
+Art. 2.º Os alimentos destinados aos animais incluir-se-ão obrigatoriamente em qualquer dos seguintes grupos: alimentos simples, alimentos compostos, aditivos e pré-misturas.
 
-###### Art. 3.º São revogados os artigos 5.º, 6.º, 14.º e 15.º do Regulamento referido no artigo anterior.
+Art. 3.º São revogados os artigos 5.º, 6.º, 14.º e 15.º do Regulamento referido no artigo anterior.
 
-###### Art. 4.º - 1 - É revogado o § 1.º do artigo 3.º da [Portaria n.º 663/73](https://diariodarepublica.pt/dr/detalhe/portaria/663-1973-413060), de 4 de Outubro.
+Art. 4.º - 1 - É revogado o § 1.º do artigo 3.º da [Portaria n.º 663/73](https://diariodarepublica.pt/dr/detalhe/portaria/663-1973-413060), de 4 de Outubro.
 
 2 - O disposto nas alíneas a) a i) do artigo 3.º da [Portaria n.º 663/73](https://diariodarepublica.pt/dr/detalhe/portaria/663-1973-413060), de 4 de Outubro, aplica-se apenas a alimentos compostos que não contenham aditivos ou pré-misturas, continuando as restantes disposições da portaria a aplicar-se a alimentos compostos com e sem aditivos ou misturas.
 
-###### Art. 5.º O Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais entrará em vigor 90 dias após a data da publicação deste diploma.
+Art. 5.º O Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais entrará em vigor 90 dias após a data da publicação deste diploma.
 
-###### Art. 6.º As dúvidas e omissões resultantes da aplicação do presente diploma e seu Regulamento serão resolvidas por despacho do Ministro da Agricultura, Comércio e Pescas, sob proposta da Comissão de Alimentação Animal.
+Art. 6.º As dúvidas e omissões resultantes da aplicação do presente diploma e seu Regulamento serão resolvidas por despacho do Ministro da Agricultura, Comércio e Pescas, sob proposta da Comissão de Alimentação Animal.
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 12 de Maio de 1982.**
+Promulgado em 12 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DA COMERCIALIZAÇÃO E UTILIZAÇÃO DE ADITIVOS NOS ALIMENTOS PARA ANIMAIS
 
-###### Artigo 1.º O presente Regulamento diz respeito à comercialização e à utilização de aditivos nos alimentos para animais.
+Artigo 1.º O presente Regulamento diz respeito à comercialização e à utilização de aditivos nos alimentos para animais.
 
-###### Art. 2.º Para efeitos deste Regulamento, entende-se por:
+Art. 2.º Para efeitos deste Regulamento, entende-se por:
 
 1) Aditivo - substância que, incorporada nos alimentos para animais, é susceptível de influenciar as características destes ou a produção animal;
 
@@ -152,7 +189,7 @@ REGULAMENTO DA COMERCIALIZAÇÃO E UTILIZAÇÃO DE ADITIVOS NOS ALIMENTOS PARA A
 
 8) Animais de companhia - os animais pertencentes a espécies normalmente alimentadas e detidas, mas não consumidas pelo homem, à excepção dos animais produtores de peles.
 
-###### Art. 3.º - 1 - Só os aditivos que constam dos anexos I e II do presente Regulamento, nas doses e demais condições de utilização aí indicadas, podem ser comercializados e utilizados em pré-misturas e alimentos compostos para animais.
+Art. 3.º - 1 - Só os aditivos que constam dos anexos I e II do presente Regulamento, nas doses e demais condições de utilização aí indicadas, podem ser comercializados e utilizados em pré-misturas e alimentos compostos para animais.
 
 2 - Não são permitidas como aditivos as substâncias de efeito hormonal e anti-hormonal.
 
@@ -160,7 +197,7 @@ REGULAMENTO DA COMERCIALIZAÇÃO E UTILIZAÇÃO DE ADITIVOS NOS ALIMENTOS PARA A
 
 4 - Todas as alterações aos anexos I e II serão feitas sob proposta da Comissão de Alimentação Animal e publicadas em portaria assinada pelo Ministro da Agricultura, Comércio e Pescas.
 
-###### Art. 4.º Para que seja permitida a comercialização e utilização em alimentação animal de um novo aditivo, este terá de preencher os seguintes requisitos:
+Art. 4.º Para que seja permitida a comercialização e utilização em alimentação animal de um novo aditivo, este terá de preencher os seguintes requisitos:
 
 1) Quando incorporado nos alimentos, tenha um efeito favorável nas suas características ou na produção animal;
 
@@ -170,7 +207,7 @@ REGULAMENTO DA COMERCIALIZAÇÃO E UTILIZAÇÃO DE ADITIVOS NOS ALIMENTOS PARA A
 
 4) As doses de incorporação a prescrever excluam a finalidade terapêutica.
 
-###### Art. 5.º - 1 - O pedido de inclusão de um novo aditivo nos anexos I ou II deve ser dirigido à comissão de alimentação animal pela entidade interessada, acompanhado dos seguintes elementos:
+Art. 5.º - 1 - O pedido de inclusão de um novo aditivo nos anexos I ou II deve ser dirigido à comissão de alimentação animal pela entidade interessada, acompanhado dos seguintes elementos:
 
 a) Documento comprovativo de livre prática comercial no país de origem e ainda prova de autorização da Food and Drug Administration ou da CEE;
 
@@ -180,7 +217,7 @@ c) Toda a documentação que elucide sobre a acção a obter com o emprego do ad
 
 2 - No prazo de 90 dias, a contar da data da entrega do processo completo dos pedidos referidos no n.º 1, a Comissão de Alimentação Animal deverá pronunciar-se sobre a inclusão ou não do aditivo nos anexos I ou II. Em caso afirmativo, será cumprido o disposto no n.º 4 do artigo 3.º; caso contrário, será a entidade requerente notificada das razões justificativas.
 
-###### Art. 6.º - 1 - Os estabelecimentos onde se proceda ao fabrico de pré-misturas e alimentos compostos que contenham aditivos ou pré-misturas deverão obedecer aos requisitos específicos de natureza técnica que vierem a ser estabelecidos em diploma a publicar.
+Art. 6.º - 1 - Os estabelecimentos onde se proceda ao fabrico de pré-misturas e alimentos compostos que contenham aditivos ou pré-misturas deverão obedecer aos requisitos específicos de natureza técnica que vierem a ser estabelecidos em diploma a publicar.
 
 2 - As entidades interessadas na comercialização de aditivos, pré-misturas e alimentos compostos que contenham aditivos ou pré-misturas deverão, previamente:
 
@@ -202,7 +239,7 @@ b) Apresentar à Direcção-Geral dos Serviços Veterinários um exemplar dos pr
 
 3 - Enquanto não for publicada a legislação a que se refere o n.º 1, poderão ser fabricadas pré-misturas e alimentos compostos que contenham aditivos ou pré-misturas, na condição de as entidades interessadas cumprirem o disposto nas alíneas a) e b) do número anterior.
 
-###### Art. 7.º - 1 - Na fabricação de pré-misturas e na incorporação de aditivos em alimentos compostos deverão ser observados os seguintes requisitos:
+Art. 7.º - 1 - Na fabricação de pré-misturas e na incorporação de aditivos em alimentos compostos deverão ser observados os seguintes requisitos:
 
 a) Cada um dos aditivos a incorporar tem de constar nos anexos I ou II;
 
@@ -216,7 +253,7 @@ d) Os cocciadiostáticos e outras substâncias de efeitos específicos pertencen
 
 3 - O teor de aditivos nos alimentos complementares, tendo em conta a diluição a efectuar para a sua utilização, não poderá ser superior ao dos alimentos completos correspondentes.
 
-###### Art. 8.º - 1 - Para efeitos de comercialização, os aditivos e as pré-misturas deverão ser convenientemente acondicionados, de forma inviolável, em embalagens perdidas. Deverão constar obrigatoriamente nas embalagens, rótulos, dísticos ou etiquetas que as acompanham as seguintes indicações:
+Art. 8.º - 1 - Para efeitos de comercialização, os aditivos e as pré-misturas deverão ser convenientemente acondicionados, de forma inviolável, em embalagens perdidas. Deverão constar obrigatoriamente nas embalagens, rótulos, dísticos ou etiquetas que as acompanham as seguintes indicações:
 
 a) «Aditivo» ou «Pré-mistura»;
 
@@ -244,7 +281,7 @@ m) O preço, por unidade ou por quilograma.
 
 2 - Não é permitida qualquer outra indicação nas embalagens, rótulos, dísticos ou etiquetas dos aditivos e das pré-misturas, além das constantes do n.º 1 deste artigo.
 
-###### Art. 9.º - 1 - Para efeitos de comercialização, os alimentos compostos que contenham aditivos ou pré-misturas deverão ser convenientemente acondicionados, de forma inviolável, em embalagens perdidas.
+Art. 9.º - 1 - Para efeitos de comercialização, os alimentos compostos que contenham aditivos ou pré-misturas deverão ser convenientemente acondicionados, de forma inviolável, em embalagens perdidas.
 
 2 - Deverão constar obrigatoriamente nas embalagens, rótulos, dísticos ou etiquetas que as acompanham os seguintes elementos:
 
@@ -290,30 +327,30 @@ c) Do valor energético em unidade adequada para a espécie e função a que o a
 
 7 - Não é permitida qualquer outra indicação nas embalagens, rótulos, dísticos ou etiquetas dos alimentos compostos que contenham aditivos ou pré-misturas além das que constam deste artigo.
 
-###### Art. 10.º - 1 - Nos termos do artigo 2.º do [Decreto-Lei n.º 351/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1980-464005), de 3 de Setembro, compete ao Instituto de Qualidade Alimentar efectuar a inspecção e fiscalização dos aditivos, das pré-misturas e dos alimentos compostos que contenham aditivos ou pré-misturas.
+Art. 10.º - 1 - Nos termos do artigo 2.º do [Decreto-Lei n.º 351/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1980-464005), de 3 de Setembro, compete ao Instituto de Qualidade Alimentar efectuar a inspecção e fiscalização dos aditivos, das pré-misturas e dos alimentos compostos que contenham aditivos ou pré-misturas.
 
 2 - Para cumprimento do disposto no número anterior poderão ser colhidas amostras para análise dos aditivos, das pré-misturas, dos alimentos compostos que contenham aditivos ou pré-misturas e dos produtos finais das explorações pecuárias (carne, leite e ovos) em qualquer ponto do circuito comercial, nomeadamente na venda ou exposição à venda, bem como na aquisição, transporte ou armazenagem para o comércio.
 
-###### Art. 11.º - 1 - Para análise das amostras de aditivos, de pré-misturas, de alimentos compostos que contenham aditivos ou pré-misturas e de produtos finais das explorações pecuárias serão utilizados os métodos oficiais de análise, publicados por norma portuguesa.
+Art. 11.º - 1 - Para análise das amostras de aditivos, de pré-misturas, de alimentos compostos que contenham aditivos ou pré-misturas e de produtos finais das explorações pecuárias serão utilizados os métodos oficiais de análise, publicados por norma portuguesa.
 
 2 - Na ausência daqueles métodos, deverá o Instituto de Qualidade Alimentar, sob proposta da comissão técnica de normalização respectiva, estabelecer quais os métodos de análise a utilizar.
 
 3 - O disposto no número anterior terá sempre um carácter transitório, cessando com a publicação do método oficial.
 
-###### Art. 12.º Com a entrada em vigor do presente Regulamento cessa a vigência das autorizações para preparação de correctivos minerais, suplementos alimentares e aditivos, concedidas pela Direcção-Geral dos Serviços Pecuários ao abrigo do disposto na alínea a) do n.º 1 do § 4.º do artigo 4.º do [Decreto-Lei n.º 42979](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42979-1960-505047), de 16 de Maio de 1960, e no artigo 14.º do Regulamento de Preparação e Comércio de Alimentos para Animais, aprovado pelo Decreto-Lei n.º 47776, de 5 de Julho de 1967.
+Art. 12.º Com a entrada em vigor do presente Regulamento cessa a vigência das autorizações para preparação de correctivos minerais, suplementos alimentares e aditivos, concedidas pela Direcção-Geral dos Serviços Pecuários ao abrigo do disposto na alínea a) do n.º 1 do § 4.º do artigo 4.º do [Decreto-Lei n.º 42979](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42979-1960-505047), de 16 de Maio de 1960, e no artigo 14.º do Regulamento de Preparação e Comércio de Alimentos para Animais, aprovado pelo Decreto-Lei n.º 47776, de 5 de Julho de 1967.
 
-###### Art. 13.º - 1 - As infracções ao disposto no n.º 1 do artigo 3.º e na alínea a) do n.º 1 do artigo 7.º do presente Regulamento serão punidas com multa de 10000$00 a 50000$00.
+Art. 13.º - 1 - As infracções ao disposto no n.º 1 do artigo 3.º e na alínea a) do n.º 1 do artigo 7.º do presente Regulamento serão punidas com multa de 10000$00 a 50000$00.
 
 2 - A infracção ao disposto no n.º 2 do artigo 3.º do presente Regulamento será punida com pena de prisão de 3 a 6 meses e multa de 10000$00 a 50000$00.
 
 3 - Consideram-se perdidos a favor do Estado os produtos objecto das infracções punidas nos termos dos n.os 1 e 2.
 
-###### Art. 14.º O não cumprimento do disposto nos n.os 2 e 3 do artigo 6.º do presente Regulamento será punido com multa de 2000$00 a 20000$00.
+Art. 14.º O não cumprimento do disposto nos n.os 2 e 3 do artigo 6.º do presente Regulamento será punido com multa de 2000$00 a 20000$00.
 
-###### Art. 15.º O não cumprimento do disposto nos n.os 1, com excepção da sua alínea a), e 3 do artigo 7.º do presente Regulamento será punido com multa de 3000$00 a 30000$00.
+Art. 15.º O não cumprimento do disposto nos n.os 1, com excepção da sua alínea a), e 3 do artigo 7.º do presente Regulamento será punido com multa de 3000$00 a 30000$00.
 
-###### Art. 16.º - 1 - As infracções ao disposto nos n.os 1 e 2 do artigo 8.º, bem como na alínea a) do n.º 1 e nos n.os 2, 5, 6 e 7 do artigo 9.º, deste Regulamento serão punidas com multa de 1000$00 a 20000$00.
+Art. 16.º - 1 - As infracções ao disposto nos n.os 1 e 2 do artigo 8.º, bem como na alínea a) do n.º 1 e nos n.os 2, 5, 6 e 7 do artigo 9.º, deste Regulamento serão punidas com multa de 1000$00 a 20000$00.
 
 2 - A multa será elevada para o dobro se as declarações a que se referem as alíneas h) e l) do n.º 1 do artigo 8.º e as alíneas a), c), e), f), g) e i) do n.º 2 do artigo 9.º não corresponderem à composição e respectivos teores e à data limite de garantia, constantes obrigatoriamente nas embalagens, rótulos, dísticos ou etiquetas.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/15300/19912006.pdf))](https://files.diariodarepublica.pt/1s/1982/07/15300/19912006.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/15300/19912006.pdf)

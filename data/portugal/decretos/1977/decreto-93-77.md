@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/15300/16581659.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/93-1977-250582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a368880383d866f27a39de278be4f6d1414b983c29a0d089c4e8aff8107ffbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25f378594e3f0ef79a4650ddc0f34dc6e5bb6ffdbf8e5cbc8b7beb889d2ee065
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Quadro de Pessoal
+- Secretaria de Estado da Administração Pública
+- Serviço Central de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:231301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:369823:por
+  label: "Determinada a extinção e transição para a Direcção-Geral de Recrutamento e Formação das respectivas atribuições,\
+    \ nos termos previstos no art. 20º, do Serviço Central de Pessoal, criado pelo Decreto n.º 196/76, de 17 de Março, e reestruturado\
+    \ pelo presente diploma pelo DEC LEI.385/79.19.09.1979.PCM, DR.IS [217] de 19.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1979-369823
+  date: '1979-09-19'
+- type: cites
+  target: pt:dre:501614:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:231301:por
+  label: "Revogado pelo DR.80/79.31.12.1979.PCM, DR.IS [300-6ºSupl] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/80-1979-231301
+  date: '1979-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:20Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +120,9 @@ Assim, tendo em consideração os artigos 6.º e 10.º do [Decreto n.º 196/76](
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 3.º e n.º 1 do artigo 6.º do [Decreto n.º 196/76](https://diariodarepublica.pt/dr/detalhe/decreto/196-1976-501614), de 17 de Março, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 3.º e n.º 1 do artigo 6.º do [Decreto n.º 196/76](https://diariodarepublica.pt/dr/detalhe/decreto/196-1976-501614), de 17 de Março, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1. No âmbito das finalidades referidas no artigo anterior, são designadamente atribuições do Serviço Central de Pessoal:
+Art. 3.º - 1. No âmbito das finalidades referidas no artigo anterior, são designadamente atribuições do Serviço Central de Pessoal:
 
 a) ...
 
@@ -128,7 +148,7 @@ l) Dar parecer sobre os projectos de diploma e sobre todas as questões relativa
 
 ...
 
-###### Art. 6.º - 1. O Serviço Central de Pessoal disporá dos seguintes serviços:
+Art. 6.º - 1. O Serviço Central de Pessoal disporá dos seguintes serviços:
 
 a) Gabinete de Análise e Planeamento de Emprego;
 
@@ -144,26 +164,26 @@ f) Direcção de Serviços de Administração Geral;
 
 g) Serviço de Acolhimento e Relações Públicas.
 
-###### Art. 2.º As responsabilidades que vinham a ser exercidas pelas Direcções-Gerais da Função Pública e da Organização Administrativa em matéria de desenvolvimento de acções de formação e aperfeiçoamento profissional dos trabalhadores da função pública consideram-se transferidas para o Serviço Central de Pessoal, nos termos definidos no n.º 1 do artigo 3.º do [Decreto n.º 196/76](https://diariodarepublica.pt/dr/detalhe/decreto/196-1976-501614), de 17 de Março, com a redacção que lhe é conferida pelo presente diploma.
+Art. 2.º As responsabilidades que vinham a ser exercidas pelas Direcções-Gerais da Função Pública e da Organização Administrativa em matéria de desenvolvimento de acções de formação e aperfeiçoamento profissional dos trabalhadores da função pública consideram-se transferidas para o Serviço Central de Pessoal, nos termos definidos no n.º 1 do artigo 3.º do [Decreto n.º 196/76](https://diariodarepublica.pt/dr/detalhe/decreto/196-1976-501614), de 17 de Março, com a redacção que lhe é conferida pelo presente diploma.
 
-###### Art. 3.º - 1. O Serviço Central de Pessoal passa a dispor do quadro de pessoal anexo ao presente diploma, o qual poderá ser alterado mediante portaria do Primeiro-Ministro e do Ministro das Finanças.
+Art. 3.º - 1. O Serviço Central de Pessoal passa a dispor do quadro de pessoal anexo ao presente diploma, o qual poderá ser alterado mediante portaria do Primeiro-Ministro e do Ministro das Finanças.
 
 2. Ao primeiro provimento dos lugares acrescidos relativamente ao quadro de pessoal aprovado pelo [Decreto n.º 196/76](https://diariodarepublica.pt/dr/detalhe/decreto/196-1976-501614), de 17 de Março, são aplicáveis as regras constantes dos artigos 13.º e 17.º do mesmo diploma.
 
 3. Consideram-se investidos, em comissão de serviço, nos lugares de director-geral e subdirector-geral, independentemente de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas e a publicação em Diário de República das novas situações, os actuais director e subdirector do Serviço Central de Pessoal.
 
-###### Art. 4.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - José Dias dos Santos Pais.
 
-**Promulgado em 25 de Junho de 1977.**
+Promulgado em 25 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/15300/16581659.pdf))](https://files.diariodarepublica.pt/1s/1977/07/15300/16581659.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/15300/16581659.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.**
+O Ministro das Finanças, Henrique Medina Carreira. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.

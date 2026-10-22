@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/23/2002/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-2002-198877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:12:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9ff78291822c0fa628bda153b9e885aeea78337f4ee8d49b396c547bf454364
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27c5043e8fc34d22886eaa07e6010e07f4df2525c871168ebe815bf741bab7cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:12:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - África do Sul
 - Convenção
-- Portugal
 - Cooperação Policial
+- Portugal
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:12:43Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +101,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 2002. - José Manuel Durão Barroso - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona.
 
-**Assinado em 25 de Junho de 2002.**
+Assinado em 25 de Junho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Junho de 2002.**
+Referendado em 27 de Junho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA ÁFRICA DO SUL SOBRE A COOPERAÇÃO NO DOMÍNIO POLICIAL
 
@@ -247,15 +247,15 @@ O presente Acordo vigorará por um período inicial de três anos, sendo renovad
 
 O presente Acordo poderá ser alterado, por mútuo consentimento das Partes.
 
-**Assinado em Pretória em 22 de Abril de 2002, em dois exemplares originais, respectivamente em língua inglesa e em língua portuguesa, ambos os textos fazendo igualmente fé.**
+Assinado em Pretória em 22 de Abril de 2002, em dois exemplares originais, respectivamente em língua inglesa e em língua portuguesa, ambos os textos fazendo igualmente fé.
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)
 
 Pelo Governo da República da África do Sul:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)
 
 AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF PORTUGAL AND THE GOVERNMENT OF THE REPUBLIC OF SOUTH AFRICA ON POLICE COOPERATION.
 
@@ -423,8 +423,8 @@ Done at Pretoria on this 22nd day of April in this year 2002.
 
 For the Government of the Republic of Portugal:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)
 
 For the Government of the Republic of South Africa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)](https://files.diariodarepublica.pt/1s/2002/07/157a00/52855289.pdf)

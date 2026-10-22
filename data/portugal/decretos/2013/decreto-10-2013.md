@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/2013/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-2013-496725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:21:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15247acf35028ed6f7410099aa8c4706d93e79515255aa41cdee87e36d8773d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5757f13bb7387beaf462f3054c8a8add95baa4f3339202cce3a54c8d2779a2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:21:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Portugal
-- Ensino no Estrangeiro
-- Equivalência de Habilitações Literárias
 - China
+- Ensino no Estrangeiro
+- Ensino Superior
+- Equiparação de Cursos
+- Equivalência de Diplomas
+- Equivalência de Habilitações Literárias
 - Licenciatura
 - Mestrado
 - Pequim
-- Equiparação de Cursos
-- Equivalência de Diplomas
-- Ensino Superior
+- Portugal
 relationships: []
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:21:38Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 2 de maio de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 31 de maio de 2013.**
+Promulgado em 31 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de junho de 2013.**
+Referendado em 3 de junho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA POPULAR DA CHINA SOBRE O RECONHECIMENTO DE GRAUS ACADÉMICOS E DE PERÍODOS DE ESTUDOS DE ENSINO SUPERIOR.
 
@@ -218,8 +218,8 @@ Feito em Beijing, aos 12 de Janeiro de 2005, em dois exemplares originais, nas l
 
 Pelo Governo da República Portuguesa,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11300/0330103304.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11300/0330103304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11300/0330103304.pdf)
 
 Pelo Governo da República Popular da China,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11300/0330103304.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11300/0330103304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11300/0330103304.pdf)

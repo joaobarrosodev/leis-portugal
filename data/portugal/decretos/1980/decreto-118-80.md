@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/118-1980-457613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2eabb34171d37afbfc145befb26b306ffeff5cc009345d1a6db76ff7bde5f60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77fdf38431312cf2da6b225ad92bd7add97c28398d00a87d35f24d44a47962e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Convenção
+- Cooperação Económica
+- México
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:28Z'
   warnings: []
   errors: []
 ---
@@ -86,29 +91,29 @@ de 7 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Económico e Comercial entre o Governo da República Portuguesa e o Governo dos Estados Unidos Mexicanos, assinado em Lisboa em 28 de Agosto de 1980, cujos textos em português e espanhol acompanham o presente decreto.
+Artigo único. É aprovado o Acordo Económico e Comercial entre o Governo da República Portuguesa e o Governo dos Estados Unidos Mexicanos, assinado em Lisboa em 28 de Agosto de 1980, cujos textos em português e espanhol acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 25 de Outubro de 1980.**
+Assinado em 25 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo Económico e Comercial entre o Governo da República Portuguesa e o Governo dos Estados Unidos Mexicanos
 
 O Governo da República Portuguesa e o Governo dos Estados Unidos Mexicanos, designados, em seguida, por Partes Contratantes, animados do desejo de incrementar a amizade entre os dois países e desenvolver as suas relações económicas e comerciais numa base de igualdade e benefício mútuos, acordam no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes Contratantes desenvolverão todos os esforços, de conformidade com as leis e regulamentos em vigor nos seus respectivos países, para intensificar o intercâmbio comercial recíproco.
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes Contratantes estimularão a cooperação económica entre diferentes sectores de ambos os países, designadamente no industrial, das pescas, do turismo e da tecnologia.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes concedem-se nas suas relações comerciais o tratamento de nação mais favorecida em tudo o que respeita a:
 
@@ -122,7 +127,7 @@ d) Restrições quantitativas e outras limitações não tarifárias referentes 
 
 e) Regulamentações acerca dos pagamentos relativos ao intercâmbio de bens e serviços, incluindo o outorgamento de divisas e a transferência dos ditos pagamentos.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As disposições do artigo III não se aplicam às vantagens:
 
@@ -132,19 +137,19 @@ b) Resultantes de uniões aduaneiras ou de zonas de livre comércio e de acordos
 
 c) Concedidas pelas Partes Contratantes na aplicação do Protocolo de Negociações Comerciais entre Países em Desenvolvimento.
 
-ARTIGO V
+###### ARTIGO V
 
 O intercâmbio de mercadorias entre as Partes Contratantes realizar-se-á com base em listas de produtos que serão elaboradas conjuntamente por ambas as Partes. Tais listas têm carácter meramente indicativo e não limitativo.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Nos termos do presente Acordo, a liquidação de todas as transacções será efectuada em divisas livremente convertíveis e em conformidade com as leis e os regulamentos em vigor em cada uma das Partes Contratantes.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Com vista a incrementar o desenvolvimento do comércio entre os dois países, as Partes Contratantes concederão uma à outra as facilidades necessárias à organização de feiras, exposições e missões comerciais que uma Parte Contratante promova na outra, conforme as leis e regulamentos respectivos.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - As Partes Contratantes, em conformidade com as suas respectivas legislações, concederão as facilidades necessárias para:
 
@@ -158,17 +163,17 @@ c) A introdução no país, em importação temporária, de maquinaria e equipam
 
 3 - As Partes Contratantes acordam em conceder as facilidades necessárias para o seu trabalho aos representantes oficiais, homens de negócios e técnicos de ambos os países que tenham de permanecer num ou noutro país no cumprimento de actividades relacionadas com o incremento do intercâmbio comercial recíproco.
 
-ARTIGO IX
+###### ARTIGO IX
 
 A fim de facilitar a concretização dos objectivos enunciados no presente Acordo, as Partes Contratantes acordam em que organizações e empresas dos dois países possam negociar convénios a longo prazo em sectores que apresentem um interesse particular para ambos, sempre que estes acordos cumpram com as respectivas disposições legais.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - As Partes Contratantes reconhecem mutuamente a validade dos certificados oficiais zoossanitários, fitossanitários, de inspecção comercial e de análise qualitativa, emitidos pelas instituições oficiais do outro país e que cumpram as normas internacionais e, quando for o caso, as que se acordem entre as ditas instituições de ambas as Partes.
 
 2 - Cada uma das Partes Contratantes conserva o direito de proceder, se o julgar oportuno, a todas as verificações necessárias, não obstante a apresentação dos documentos mencionados no parágrafo anterior, sem que delas resultem demoras ou dificuldades injustificadas que constituam uma perturbação para a importação.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1 - Para a coordenação das acções a desenvolver em cumprimento do presente Acordo, ambas as Partes concordam em constituir uma Comissão Mista, a qual será integrada pelas autoridades designadas pelos respectivos Governos.
 
@@ -178,11 +183,11 @@ ARTIGO XI
 
 4 - A Comissão e subcomissões reunir-se-ão, alternadamente em Portugal e no México, segundo o acordo das Partes Contratantes.
 
-ARTIGO XII
+###### ARTIGO XII
 
 As disposições do presente Acordo manter-se-ão aplicáveis a todos os contratos e operações comerciais celebrados no período da sua vigência e que não tenham sido inteiramente executados até à data da sua expiração.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1 - O presente Acordo entrará em vigor depois da notificação recíproca da sua aprovação, segundo os processos previstos pelas leis em vigor em cada um dos países.
 
@@ -198,4 +203,4 @@ Pelo Governo dos Estados Unidos Mexicanos:
 
 Héctor Hernández Cervantes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/25800/37763779.pdf))](https://files.diariodarepublica.pt/1s/1980/11/25800/37763779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/25800/37763779.pdf)

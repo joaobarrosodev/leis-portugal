@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/593-1974-471527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce652c6611b42af384ddf7464455a86703b8533f3a48549e8d1e069e08b1fc4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82beb8e1111c623b8b8c05a1b8eb7d1f0360f3f461135010f91849a620de5004
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:514803:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:25Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +97,14 @@ Considerando o disposto no artigo 1.º da Lei Constitucional n.º 3/74, de 14 de
 
 Usando da faculdade conferida pelo n.º 4.º do n.º 1 do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo único. É conferida competência aos órgãos legislativos do Estado de Angola para reestruturar, ampliar e ajustar os quadros de pessoal anexos ao Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960.
+Artigo único. É conferida competência aos órgãos legislativos do Estado de Angola para reestruturar, ampliar e ajustar os quadros de pessoal anexos ao Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960.
 
 Vasco dos Santos Gonçalves - António de Almeida Santos.
 
-**Promulgado em 28 de Outubro de 1974.**
+Promulgado em 28 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - A. Almeida Santos.

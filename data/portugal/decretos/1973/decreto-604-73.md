@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/604-1973-411775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4892881e7bb377ababd66c3d903ef56b1e7892c1642863602ac90590ede847c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3dfc1a8863a2c327d46845f9e54d2d031385a7c4e09100937ccb3f991074fec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,50 @@ relationships:
   target: pt:dre:466057:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:466057:por
+  label: "Alterada a área definida no nº3 da base I anexa ao presente diploma, pelo DEC LEI.638/74.20.11.1974.MCINT, DG.IS\
+    \ [270] de 20.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/638-1974-466057
+  date: '1974-11-20'
+- type: cites
+  target: pt:dre:142307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675049:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:58Z'
   warnings: []
   errors: []
 ---
@@ -105,25 +139,25 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar em nome do Estado e em representação do Estado de Angola com uma sociedade anónima de responsabilidade limitada, a constituir pela Companhia Mineira do Lobito e a Johannesburg Consolidated Investment Company, Ltd., um contrato em conformidade com as bases anexas ao presente decreto, que são aprovadas para todos os efeitos, dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar em nome do Estado e em representação do Estado de Angola com uma sociedade anónima de responsabilidade limitada, a constituir pela Companhia Mineira do Lobito e a Johannesburg Consolidated Investment Company, Ltd., um contrato em conformidade com as bases anexas ao presente decreto, que são aprovadas para todos os efeitos, dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar.
 
-###### Art. 2.º Além das partes contratantes previstas no artigo anterior, outorgará também no contrato a Companhia Mineira do Lobito para os efeitos de transferir para a nova sociedade os direitos que possui na área que é objecto da nova concessão.
+Art. 2.º Além das partes contratantes previstas no artigo anterior, outorgará também no contrato a Companhia Mineira do Lobito para os efeitos de transferir para a nova sociedade os direitos que possui na área que é objecto da nova concessão.
 
-###### Art. 3.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo de sessenta dias, contados a partir da aprovação dos seus estatutos pelo Ministro do Ultramar.
+Art. 3.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo de sessenta dias, contados a partir da aprovação dos seus estatutos pelo Ministro do Ultramar.
 
-###### Art. 4.º O contrato deverá ser assinado dentro de sessenta dias, contados a partir da data da constituição da sociedade.
+Art. 4.º O contrato deverá ser assinado dentro de sessenta dias, contados a partir da data da constituição da sociedade.
 
-###### Art. 5.º Não serão aplicáveis à nova sociedade as disposições contidas no [Decreto n.º 37677](https://diariodarepublica.pt/dr/detalhe/decreto/37677-1949-268454), de 22 de Dezembro de 1949, e no contrato de 1 de Março de 1950, celebrado entre o Governo Português e a Companhia Mineira do Lobito, em harmonia com o citado decreto.
+Art. 5.º Não serão aplicáveis à nova sociedade as disposições contidas no [Decreto n.º 37677](https://diariodarepublica.pt/dr/detalhe/decreto/37677-1949-268454), de 22 de Dezembro de 1949, e no contrato de 1 de Março de 1950, celebrado entre o Governo Português e a Companhia Mineira do Lobito, em harmonia com o citado decreto.
 
-###### Art. 6.º Este decreto entra imediatamente em vigor.
+Art. 6.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 20 de Outubro de 1973.**
+Promulgado em 20 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.
 
@@ -367,7 +401,7 @@ c) Outras despesas com trabalhos geológicos e mineiros, necessários ao desenvo
 
 d) A depreciação anual dos bens do activo imobilizado, nas seguintes percentagens máximas dos respectivos valores de aquisição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26500/21812192.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26500/21812192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26500/21812192.pdf)
 
 e) As perdas, prejuízos e destruições sofridos durante o ano social, não cobertos ou compensados por seguro ou qualquer outra forma;
 
@@ -651,4 +685,4 @@ BASE XXXVI
 
 2. Após a revisão a que se refere o número anterior, as disposições contratuais serão revistas, com a mesma finalidade, de dez em dez anos.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

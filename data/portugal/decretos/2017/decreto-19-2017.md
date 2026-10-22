@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/13900/0386903871.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/2017/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-2017-107714206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cca41a3da8af19fb62e6ab31f797f8a74bfc9f037ee5760eb95b50c419fc4064
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9458c8e55370c32a90099a8c7c91f943f0421ea5e46217cf94032cdc0063d74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
+- Cabo Verde
 - Cidade da Praia
 - Convenção
+- Pessoal Diplomático
 - Portugal
 - Profissão Diplomática
-- Cabo Verde
-- Pessoal Diplomático
 - Remuneração
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:06Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +105,15 @@ Nos termos do disposto na alínea c) do n.º 1 do artigo 197.º da Constituiçã
 
 Visto e aprovado em Conselho de Ministros de 8 de junho de 2017. - António Luís Santos da Costa - Maria Teresa Gonçalves Ribeiro.
 
-**Assinado em 28 de junho de 2017.**
+Assinado em 28 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de junho de 2017.**
+Referendado em 30 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO SOBRE AS ATIVIDADES REMUNERADAS DE MEMBROS DA FAMÍLIA DO PESSOAL DIPLOMÁTICO E CONSULAR ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE
 

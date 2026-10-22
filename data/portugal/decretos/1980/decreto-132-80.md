@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/132-1980-459039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a6424f4527d972d552e77fa6c60a12503444e42bcaf77fd6bef76242bebaae3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63dfd6960662687c66e7d400387b8afa5f00e16988dcb445436e395492b26e98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Almada
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:43Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +104,7 @@ Considerando o disposto nos artigos 6.º, alínea b), 12.º e 13.º da [Lei n.º
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com o Centro de Intercepção de Murfacém, no concelho de Almada, compreendida num círculo de raio de 300 m, com centro num ponto com as seguintes coordenadas: militares M = 104843,5, P = 189779,55 e geográficas M = 95156,5 P = 110220,45. Esta área considera-se subdividida em três zonas, como segue:
+Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com o Centro de Intercepção de Murfacém, no concelho de Almada, compreendida num círculo de raio de 300 m, com centro num ponto com as seguintes coordenadas: militares M = 104843,5, P = 189779,55 e geográficas M = 95156,5 P = 110220,45. Esta área considera-se subdividida em três zonas, como segue:
 
 1 - Uma primeira zona, com a largura de 30 m, a contar dos limites do aquartelamento;
 
@@ -102,7 +112,7 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 3 - Uma terceira zona, a contar dos limites da anterior até ao limite do círculo definido no corpo deste artigo.
 
-###### Art. 2.º Na área descrita no n.º 1 do artigo anterior é proibida, sem licença da autoridade militar competente, a execução de quaisquer dos trabalhos e actividades seguintes:
+Art. 2.º Na área descrita no n.º 1 do artigo anterior é proibida, sem licença da autoridade militar competente, a execução de quaisquer dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
 
@@ -120,7 +130,7 @@ g) Trabalhos de levantamento fotográficos ou topográficos;
 
 h) Outros trabalhos ou actividades que possam inequivocamente prejudicar a segurança das instalações ou a execução das missões que competem às forças armadas.
 
-###### Art. 3.º Na área descrita no n.º 2 do artigo 1.º é proibida, sem licença devidamente condicionada da autoridade militar competente, a execução de quaisquer dos trabalhos e actividades seguintes:
+Art. 3.º Na área descrita no n.º 2 do artigo 1.º é proibida, sem licença devidamente condicionada da autoridade militar competente, a execução de quaisquer dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
 
@@ -132,7 +142,7 @@ d) Instalação de linhas de energia eléctrica ou telegráfica, quer áreas, qu
 
 e) Outros trabalhos ou actividades que possam, inequivocamente, prejudicar a segurança das instalações ou a execução das missões que competem às forças armadas.
 
-###### Art. 4.º Na área descrita no n.º 3 do artigo 1.º é proibido, sem licença devidamente condicionada da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
+Art. 4.º Na área descrita no n.º 3 do artigo 1.º é proibido, sem licença devidamente condicionada da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza que excedam a cota de 120 m;
 
@@ -146,15 +156,15 @@ e) Montagem de transmissores ou retransmissores.
 
 § único. Muito embora as construções a levar a efeito nesta área, e que não atingem a cota de 120 m, não careçam de licença militar, as mesmas só se poderão iniciar depois de ser dado cumprimento ao determinado no artigo 6.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
 
-###### Art. 5.º Ao governador militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados, conceder as licenças a que neste decreto se faz referência.
+Art. 5.º Ao governador militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados, conceder as licenças a que neste decreto se faz referência.
 
-###### Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando do Batalhão de Reconhecimento das Transmissões e à Direcção do Serviço de Fortificações e Obras do Exército ou sua delegação em Lisboa.
+Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando do Batalhão de Reconhecimento das Transmissões e à Direcção do Serviço de Fortificações e Obras do Exército ou sua delegação em Lisboa.
 
-###### Art. 7.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são da competência da delegação da Direcção do Serviço de Fortificações e Obras do Exército em Lisboa.
+Art. 7.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são da competência da delegação da Direcção do Serviço de Fortificações e Obras do Exército em Lisboa.
 
-###### Art. 8.º Das decisões tomadas nos termos do artigo 5.º cabe recurso para o titular do departamento do Exército; das decisões tomadas nos termos do artigo anterior cabe recurso para o governador militar de Lisboa, e da decisão deste, para o titular do departamento do Exército.
+Art. 8.º Das decisões tomadas nos termos do artigo 5.º cabe recurso para o titular do departamento do Exército; das decisões tomadas nos termos do artigo anterior cabe recurso para o governador militar de Lisboa, e da decisão deste, para o titular do departamento do Exército.
 
-###### Art. 9.º As áreas descritas no artigo 1.º serão demarcadas em planta, na escala de 1/2000, organizando-se nove colecções com a classificação de reservado, que terão os seguintes destinos:
+Art. 9.º As áreas descritas no artigo 1.º serão demarcadas em planta, na escala de 1/2000, organizando-se nove colecções com a classificação de reservado, que terão os seguintes destinos:
 
 Uma ao Ministério da Defesa Nacional;
 
@@ -170,12 +180,12 @@ Uma ao Ministério da Habitação e Obras Públicas;
 
 Duas ao Ministério da Administração Interna.
 
-###### Art. 10.º Este decreto entra imediatamente em vigor.
+Art. 10.º Este decreto entra imediatamente em vigor.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Adelino Manuel Lopes Amaro da Costa - Eurico de Melo - João Lopes Porto.
 
-**Promulgado em 20 de Novembro de 1980.**
+Promulgado em 20 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

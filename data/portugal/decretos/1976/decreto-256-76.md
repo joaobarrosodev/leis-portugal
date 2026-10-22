@@ -46,36 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/256-1976-502788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 366f6d176e5194c87cf3051f8bf7f060129ee2dff0cc6dfc1fe6744de79fdaeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31c3b17e2c91c24f197170c7365e87940cd161f3a124d9c40d8135c5dc5bc3a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Descrição de Funções
+- Direcção Geral da Aeronáutica Civil
+- Duração do Trabalho
+- Estatuto
+- Funcionário Público
+- Horário de Trabalho
+- Integração de Trabalhadores
+- Pessoal Técnico
+- Pessoal Técnico de Telecomunicações Aeronáuticas
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Reestruturação de Carreiras
+- Regime Jurídico
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:198715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636700:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:25Z'
   warnings: []
   errors: []
 ---
@@ -420,16 +459,16 @@ d) [Decreto-Lei n.º 93/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - José Augusto Fernandes.
 
-**Promulgado em 30 de Março de 1976.**
+Promulgado em 30 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 MAPA I
 
 Mapa a que se refere o artigo 2.º do Decreto n.º 256/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/04/08400/07040710.pdf))](https://files.diariodarepublica.pt/1s/1976/04/08400/07040710.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/04/08400/07040710.pdf)
 
-**O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro dos Transportes e Comunicações, José Augusto Fernandes.**
+O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro dos Transportes e Comunicações, José Augusto Fernandes.

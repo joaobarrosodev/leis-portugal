@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/1991/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-1991-693434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad952e716d98ff80aec663376970ca2e4ad1ade5835fdd6ecbf8ed18b2445159
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e20a44edce24215a8334c91d02362cccee0f8abf06639b32add11b16f312bf4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
+- Guiné-Bissau
 - Língua Portuguesa
 - Portugal
-- Guiné-Bissau
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:41Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 9 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação entre a República Portuguesa e a República da Guiné-Bissau Relativo ao Apoio ao Ensino da Língua Portuguesa na Guiné-Bissau, assinado em Bissau, em 22 de Julho de 1990, em dois exemplares originais, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Cooperação entre a República Portuguesa e a República da Guiné-Bissau Relativo ao Apoio ao Ensino da Língua Portuguesa na Guiné-Bissau, assinado em Bissau, em 22 de Julho de 1990, em dois exemplares originais, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 22 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro - Roberto Artur da Luz Carneiro.
 
-**Assinado em 11 de Dezembro de 1990.**
+Assinado em 11 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Dezembro de 1990.**
+Referendado em 16 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Protocolo de Cooperação entre a República Portuguesa e a República da Guiné Bissau Relativo ao Apoio ao Ensino da Língua Portuguesa na Guiné-Bissau.
 

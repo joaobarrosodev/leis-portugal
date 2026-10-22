@@ -46,40 +46,168 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/95-1978-329662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56161fe3a66b673a9b551ce876cfa071deb6a6b738f1ba2030f59425358dbbbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cd74e6bf99c77d9c02ce157084e632a6a07e7edd9e360ffe2c9e14a26e3bec3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abrantes
+- Açores
+- Alcanena
+- Alcobaça
+- Alpiarça
+- Amarante
+- Ansião
+- Arcos de Valdevez
+- Arganil
+- Aveiro
+- Baião
+- Barcelos
+- Beja
+- Braga
+- Bragança
+- Caminha
+- Cascais
+- Castelo Branco
+- Castelo de Paiva
+- Chamusca
+- Cinfães
+- Coimbra
+- Covilhã
+- Évora
+- Faro
+- Figueira da Foz
+- Figueira de Castelo Rodrigo
+- Fundão
+- Góis
+- Gouveia
+- Guarda
+- Guimarães
+- Imóvel Classificado
+- Leiria
+- Lisboa
+- Lousada
+- Mação
+- Madeira.região Autónoma
+- Mangualde
+- Matosinhos
+- Meda
+- Moncorvo
+- Mondim de Basto
+- Montemor-o-Velho
+- Nazaré
+- Odemira
+- Oliveira do Hospital
+- Património Cultural
+- Peniche
+- Ponta do SOL
+- Portalegre
+- Portimão
+- Porto
+- Protecção do Património
+- Região Autónoma
+- Santarém
+- Satão
+- Sesimbra
+- Setúbal
+- Silves
+- Sines
+- Sintra
+- Tarouca
+- Terras de Bouro
+- Trancoso
+- Viana do Castelo
+- VILA do Conde
+- VILA NOVA de Famalicão
+- VILA NOVA de FOZ COA
+- VILA NOVA de GAIA
+- VILA NOVA de Milfontes
+- Vila Real
+- VILA Verde
+- Vinhais
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:181363001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:321683:por
+  label: "Alterado o art. 2º pelo DEC 67/97.1997.12.31.MC, DR.IS-B [301] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/67-1997-321683
+  date: '1997-12-31'
+- type: amended_by
+  target: pt:dre:2213954:por
+  label: "Ampliada a área da \"Baixa Pombalina\" - que passa a abranger os outros núcleos de expansão da cidade assumidos\
+    \ no denominado Plano Pombalino de reconstrução da cidade de Lisboa -, pela PORT.740-DV/2012.24.12.2012.SECU-PCM, DR.IIS\
+    \ [248-Supl] de 24.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/740-dv-2012-2213954
+  date: '2012-12-24'
+- type: amended_by
+  target: pt:dre:798128:por
+  label: "Ampliada a área, alterada a designação e a categoria de classificação, de imóvel de interesse público para conjunto\
+    \ de interesse público (CIP), do Palácio dos Condes de Anadia, classificada como imóvel de interesse público, pelo presente\
+    \ diploma, pela PORT.23/2014.10.01.2014.SECU-PCM, DR.IIS [7] de 10.01.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23-2014-798128
+  date: '2014-01-10'
+- type: amended_by
+  target: pt:dre:164712114:por
+  label: Reclassificado como monumento de interesse nacional e redenominada a classificação para Sé de Castelo Branco/Igreja
+    de São Miguel, pelo(a) Decreto n.º 10/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/10-2021-164712114
+  date: '2021-06-07'
+- type: amended_by
+  target: pt:dre:179188084:por
+  label: Alterada a delimitação e revista a classificação, para conjunto de interesse público (CIP), da Estação arqueológica
+    da Quinta da Goucha, conhecida por «Cabeço da Bruxa», na Quinta da Goucha, freguesia e concelho de Alpiarça, distrito
+    de Santarém, classificada como imóvel de interesse público (IIP) pelo presente diploma, pelo(a) Portaria n.º 334/2022
+    - Diário da República n.º 33/2022, Série II de 2022-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/334-2022-179188084
+  date: '2022-02-16'
+- type: cites
+  target: pt:dre:231947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:26Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +218,7 @@ de 12 de Setembro
 
 Em conformidade com os artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, do n.º 1 do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965, e n.º 1 do artigo 1.º e n.º 1 do artigo 2.º do [Decreto-Lei n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1978-468850), de 7 de Janeiro, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
+Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
 
 Distrito da Guarda:
 
@@ -120,7 +248,7 @@ Concelho de Ponte de Lima.
 
 Capela do Anjo da Guarda.
 
-###### Art. 2.º São classificados como de interesse público os seguintes imóveis:
+Art. 2.º São classificados como de interesse público os seguintes imóveis:
 
 Distrito de Beja:
 
@@ -466,7 +594,7 @@ Concelho de Santa Cruz:
 
 Capela de Nossa Senhora da Consolação, no sítio da Quinta, freguesia do Caniço.
 
-###### Art. 3.º São classificados como valores concelhios os seguintes imóveis:
+Art. 3.º São classificados como valores concelhios os seguintes imóveis:
 
 Distrito de Aveiro:
 
@@ -556,7 +684,7 @@ Concelho de Ponta do Sol:
 
 Capela de Nossa Senhora dos Anjos, em Ponta do Sol.
 
-###### Art. 4.º Fica esclarecido que:
+Art. 4.º Fica esclarecido que:
 
 a) A classificação de monumento nacional atribuída à Igreja de S. João de Tarouca, compreendendo o túmulo do conde de Barcelos e o quadro S. Pedro, de Grão-Vasco, pelo [Decreto n.º 40684](https://diariodarepublica.pt/dr/detalhe/decreto/40684-1956-231947), de 13 de Julho de 1956, passa a abranger o Convento de S. João de Tarouca, com todos os elementos que ainda possui;
 
@@ -564,8 +692,8 @@ b) A classificação de imóvel de interesse público atribuída à ponte sobre 
 
 Mário Soares - Mário Augusto Sottomayor Leal Cardia - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 17 de Agosto de 1978.**
+Promulgado em 17 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

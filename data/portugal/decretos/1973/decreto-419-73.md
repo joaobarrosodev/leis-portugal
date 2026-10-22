@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/419-1973-419620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14c0f2cdee8ebccb362d26026e53c3d06c76c6c1070b78a418104deb568c4dab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49ce71841c709da12217ce2d728147193ae076d69b66a02ee38c5ecd8c6ab823
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carta de Condução
+- Código da Estrada
+- Contravenção
+- Estacionamento
+- Habilitações Literárias
+- Multa
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:596890:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:467195:por
+  label: Tornado extensivo a Macau o o presente decreto, pelo(a) Portaria n.º 808/74 - Diário do Governo n.º 289/1974, Série
+    I de 1974-12-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/808-1974-467195
+  date: '1974-12-11'
+- type: amended_by
+  target: pt:dre:502633:por
+  label: "Dada nova redacção aos nºs 1 e 3 do art. 47º do Código da Estrada aprovado pelo Dec Lei 39672 de 20-Mai de 1954,\
+    \ com a redacção conferida no presente diploma, pelo DEC LEI.266/76.10.04.1976.MTC, DR.IS [86] de 10.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-1976-502633
+  date: '1976-04-10'
+- type: amended_by
+  target: pt:dre:601315:por
+  label: "Alterados, nos termos do art. 5.º, os n.ºs 5 e 6 do art. 46.º, os n.ºs 2, 4, 5, 7 e 8 do art. 47.º, todos do Código\
+    \ da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954, na redacção do presente diploma, pelo DR.4/82.15.01.1982.MHOPT,\
+    \ DR.IS [12] de 15.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-1982-601315
+  date: '1982-01-15'
+- type: amended_by
+  target: pt:dre:375391:por
+  label: "Alteradas, nos termos do art. 6.º, as als. a) e f) do n.º 1 do art. 46.º do Código da Estrada, aprovado pelo Dec\
+    \ Lei 39672, de 20-Mai 1954, na redacçao do presente diploma, pelo DR.65/82.28.09.1982.MHOPT, DR.IS [225] de 28.09.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/65-1982-375391
+  date: '1982-09-28'
+- type: amended_by
+  target: pt:dre:614780:por
+  label: Alterado o artigo 19.º do Código da Estrada, aprovado pelo Dec Lei 39672, de 20 de Mai de 1954, com a redação dada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 95/89 - Diário da República n.º 72/1989, Série I de 1989-03-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1989-614780
+  date: '1989-03-28'
+- type: amended_by
+  target: pt:dre:575115:por
+  label: "Dada nova redacção ao art. 19º do Código da Estrada, aprovado pelo Dec Lei 39672 de 20-Mai 1954, alterado pelo presente\
+    \ diploma, pelo DEC LEI.194/90.18.06.1990.MOPTC, DR.IS [138] de 18.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1990-575115
+  date: '1990-06-18'
+- type: amended_by
+  target: pt:dre:687812:por
+  label: "Alterados os artigos 46.º, 47º e 55.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39672, de 20 de Maio de\
+    \ 1954, na redacção do presente diploma, pelo DEC LEI.268/91.06.08.1991.MOPTC, DR.IS-A [[179]] de 06.08.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1991-687812
+  date: '1991-08-06'
+- type: amended_by
+  target: pt:dre:596890:por
+  label: "Alterados os arts. 19.º e 47.º do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954, na redacção do\
+    \ presente diploma, pelo DEC LEI.270/92.30.11.1992.MAI, DR.IS-A [277] de 30.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1992-596890
+  date: '1992-11-30'
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:09Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +160,7 @@ Considerando o disposto no § único do artigo 1.º do [Decreto-Lei n.º 39672](
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O n.º 1, as alíneas c) e e) do n.º 3 e o n.º 8 do artigo 14.º, o artigo 16.º, os n.os 1 e 5 do artigo 19.º, o n.º 4 do artigo 25.º, o n.º 6 do artigo 46.º, os n.os 7 e 12 do artigo 47.º e a primeira parte do n.º 1 do artigo 55.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 1, as alíneas c) e e) do n.º 3 e o n.º 8 do artigo 14.º, o artigo 16.º, os n.os 1 e 5 do artigo 19.º, o n.º 4 do artigo 25.º, o n.º 6 do artigo 46.º, os n.os 7 e 12 do artigo 47.º e a primeira parte do n.º 1 do artigo 55.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
 
 ###### ARTIGO 14.º — Paragem e estacionamento
 
@@ -220,7 +282,7 @@ A contravenção do disposto neste número é punida com a multa de 200$00.
 
 ...
 
-###### Art. 2.º Aos artigos 1.º, 14.º e 22.º são acrescentados os n.os 5, 9 e 5, respectivamente, com a seguinte redacção:
+Art. 2.º Aos artigos 1.º, 14.º e 22.º são acrescentados os n.os 5, 9 e 5, respectivamente, com a seguinte redacção:
 
 ###### ARTIGO 1.º
 
@@ -244,8 +306,8 @@ A circulação de veículos em contravenção do disposto no parágrafo anterior
 
 Marcello Caetano - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 6 de Agosto de 1973.**
+Promulgado em 6 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

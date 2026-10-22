@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/23/1992/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-1992-200863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc42b9892809bafc8e38b39324d2c5f85eb9f6e066bbb1b28f45499ca33c3007
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db5b9a347b800dfeea8bfb3d78a86bd084c26dcdda7703004db7bc01b65cb2c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - Angola
 - Café
+- Convenção
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:39Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +90,19 @@ de 15 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação no Âmbito do Café entre a República Portuguesa e a República Popular de Angola, assinado em Lisboa em 12 de Abril de 1991, cujo texto original segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Cooperação no Âmbito do Café entre a República Portuguesa e a República Popular de Angola, assinado em Lisboa em 12 de Abril de 1991, cujo texto original segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Nunes Liberato - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha.
 
-**Assinado em 2 de Abril de 1992.**
+Assinado em 2 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Abril de 1992.**
+Referendado em 4 de Abril de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO DE COOPERAÇÃO NO ÂMBITO DO CAFÉ ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DE ANGOLA.
 
@@ -110,11 +110,11 @@ A República Portuguesa e a República Popular de Angola, adiante designadas por
 
 I - Disposições gerais
 
-Artigo I
+###### Artigo I
 
 A cooperação científica e técnica, no âmito do café, entre os dois Estados far-se-á através da mobilização das estruturas do Ministério da Agricultura, Pescas e Alimentação (MAPA), do Instituto de Investigação Científica Tropical (IICT) e do Instituto para a Cooperação Económica (ICE), pela Parte portuguesa, e da Secretaria de Estado do Café, pela Parte angolana, podendo efectuar-se em todos os domínios na esfera das suas competências próprias.
 
-Artigo II
+###### Artigo II
 
 1 - Sem prejuízo de outros domínios que venham a ser reconhecidos de interesse pelas Partes, são desde já estabelecidos os seguintes:
 
@@ -156,7 +156,7 @@ e) Cursos, estágios e outras acções de formação de pessoal;
 
 f) Exposições, seminários, reuniões e conferências.
 
-Artigo III
+###### Artigo III
 
 1 - A gestão do presente Protocolo caberá a uma comissão coordenadora, que integrará representantes das instituições referidas no artigo I, competindo-lhe:
 
@@ -172,7 +172,7 @@ c) Elaborar, no final de cada ano, um relatório sobre as actividades desenvolvi
 
 II - Disposições financeiras
 
-Artigo IV
+###### Artigo IV
 
 1 - O suporte financeiro das acções decorrentes da aplicação do presente Protocolo e constantes dos programas de trabalho estabelecidos será assegurado pela conjugação das disponibilidades de verbas das Partes portuguesa e angolana, bem como pelas demais verbas que, para o efeito, venham a ser conseguidas no âmbito bilateral ou multilateral.
 
@@ -206,11 +206,11 @@ e) A colaboração das entidades e serviços públicos locais.
 
 III - Disposições finais
 
-Artigo V
+###### Artigo V
 
 O texto do presente Protocolo poderá ser modificado por meio de negociações directas ou através da troca de correspondência entre as Partes, mas a entrada em vigor das respectivas modificações ficará dependente do cumprimento das formalidades estabelecidas no artigo seguinte.
 
-Artigo VI
+###### Artigo VI
 
 1 - O presente Protocolo é estabelecido pelo período de três anos, prorrogável por iguais períodos, se não for denunciado por qualquer das Partes pelo menos três meses antes do termo do período de validade então em curso, salvaguardada a continuidade dos programas que se encontrarem em execução, os quais deverão prosseguir até ao seu termo.
 

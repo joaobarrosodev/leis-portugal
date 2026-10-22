@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15600/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/22/2023/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-2023-219826017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65f20958e3eec2568530fbb954c0b42be1723a94d360ebbe7851fb9492db95cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 535e54fea3c13755f46f525a8d8a2091e8d10818a08921a2045f29a36e4c1647
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Turismo
-- Portugal
 - Lisboa
+- Portugal
 - São Tomé e Príncipe
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/151/2015/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/151/2015/09/11/p/dre
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:26Z'
   warnings: []
   errors: []
 ---
@@ -116,15 +120,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 21 de julho de 2023. - Mariana Guimarães Vieira da Silva - Francisco Gonçalo Nunes André - António José da Costa Silva.
 
-**Assinado em 31 de julho de 2023.**
+Assinado em 31 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 1 de agosto de 2023.**
+Referendado em 1 de agosto de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE DE COOPERAÇÃO NO DOMÍNIO DO TURISMO
 
@@ -207,3 +211,5 @@ Pedro Siza Vieira, Ministro Adjunto e da Economia.
 Pela República de São Tomé e Príncipe:
 
 Maria da Graça Lavres, Ministra do Turismo, Cultura, Comércio e Indústria.
+
+116740979

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/22400/20412042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/104-1978-329202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:48:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b7cb1a6af1bb382d0183c901c8e07ce1e7ce3d1f9c8f45a9d86846bb0a431e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e014789981c713ecb46748b81d5f52cc6d0144002fe86e0a2456dfd747f77af8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:48:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimento para Animais
+- Comissão de Alimentação Animal
+- Comissão Técnica Permanente de Nutrição Animal
+- Criação de Serviços
+- Direcção Geral dos Serviços Veterinários
+- Extinção de Serviços
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:498102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473275:por
+  label: "Alterados os artigos 8.º e 10.º do Regulamento de Preparação e Comércio de Alimentos para Animais, aprovado pelo\
+    \ Decreto n.º 47776, de 5 de Julho de 1967, alterados no artigo 3.º do presente diploma, pelo DEC.41/80.03.07.1980.MAP,\
+    \ DR.IS [151] de 03.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/41-1980-473275
+  date: '1980-07-03'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314057:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:327367:por
+  label: Rectificado pela DECL.DD7487.31.10.1978.PCM, DR.IS [251] de 31.10.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-327367
+  date: '1978-10-31'
+- type: repealed_by
+  target: pt:dre:498102:por
+  label: "Revogado pelo DEC LEI.372/87.05.12.1987.MAPA, DR.IS [280] de 05.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/372-1987-498102
+  date: '1987-12-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:48:36Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +131,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinta a Comissão Técnica Permanente de Nutrição Animal, criada pelo [Decreto n.º 47776](https://diariodarepublica.pt/dr/detalhe/decreto/47776-1967-314057), de 5 de Julho de 1967.
+Artigo 1.º É extinta a Comissão Técnica Permanente de Nutrição Animal, criada pelo [Decreto n.º 47776](https://diariodarepublica.pt/dr/detalhe/decreto/47776-1967-314057), de 5 de Julho de 1967.
 
-###### Art. 2.º É criada a Comissão de Alimentação Animal.
+Art. 2.º É criada a Comissão de Alimentação Animal.
 
-###### Art. 3.º Os artigos 7.º, 8.º, 9.º e 10.º do Regulamento de Preparação e Comércio de Alimentos para Animais passarão a ter a seguinte redacção:
+Art. 3.º Os artigos 7.º, 8.º, 9.º e 10.º do Regulamento de Preparação e Comércio de Alimentos para Animais passarão a ter a seguinte redacção:
 
 B) Comissão de Alimentação Animal
 
@@ -175,8 +207,8 @@ i) Pronunciar-se, a pedido da Direcção-Geral das Indústrias Transformadoras L
 
 Mário Soares - Luís Silvério Gonçalves Saias - Carlos Montês Melancia.
 
-**Promulgado em 30 de Agosto de 1978.**
+Promulgado em 30 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

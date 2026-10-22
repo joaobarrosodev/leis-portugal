@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/110-1979-364880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90de6f2e4f0268f9b615d9c3084056ff3097d1ca31ba436c34bf716f3219ed48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e997902057fd1d142d8e1db218badfacfcf0d37ee143e55910ed6c88e1335110
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Administração Geral do Porto de Lisboa
+- Alteração Orçamental
+- Crédito Especial
+- Despesas Públicas
+- Ministério das Finanças e do Plano
+- Orçamento Geral do Estado
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:363925:por
+  label: Rectificado pela DECL.DD7166.29.10.1979.PCM, DR.IS [250] de 29.10.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-363925
+  date: '1979-10-29'
 article_structure:
-  article_count: 28
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:41Z'
   warnings: []
   errors: []
 ---
@@ -88,77 +104,77 @@ Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diar
 
 O Governo decreta, nos temos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 3804017 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realizado de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 3804017 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realizado de despesas não previstas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/23500/26152619.pdf))](https://files.diariodarepublica.pt/1s/1979/10/23500/26152619.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/23500/26152619.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
 Receitas correntes: ... Contos
 
-### Capítulo 05 «Transferências»:
+Capítulo 05 «Transferências»:
 
 Grupo 01 «Sector público»:
 
-###### Artigo 02 «Fundos autónomos» ... 1500
+Artigo 02 «Fundos autónomos» ... 1500
 
-###### Artigo 03 «Serviços autónomos» ... 49409
+Artigo 03 «Serviços autónomos» ... 49409
 
-###### Artigo 07 «Cofre do Tribunal de Contas» ... 13500
+Artigo 07 «Cofre do Tribunal de Contas» ... 13500
 
 Grupo 06 «Exterior»:
 
-###### Artigo 04 «Transferências diversas» ... 147000
+Artigo 04 «Transferências diversas» ... 147000
 
-### Capítulo 06 «Venda de bens duradouros»:
+Capítulo 06 «Venda de bens duradouros»:
 
 Grupo 03 «Outros sectores»:
 
-###### Artigo 02 «Serviços gerais» ... 185488
+Artigo 02 «Serviços gerais» ... 185488
 
-### Capítulo 07 «Venda de serviços e bens não duradouros»:
+Capítulo 07 «Venda de serviços e bens não duradouros»:
 
 Grupo 10 «Diversos - Outros sectores»:
 
-###### Artigo 06 «Trabalhos de conta de terceiros»:
+Artigo 06 «Trabalhos de conta de terceiros»:
 
 «Serviços industriais - Comissão dos Explosivos» ... 450
 
-###### Artigo 10 «Diversos serviços e bens não duradouros»:
+Artigo 10 «Diversos serviços e bens não duradouros»:
 
 «Serviços de administração geral» ... 1000
 
-### Capítulo 08 «Outras receitas correntes»:
+Capítulo 08 «Outras receitas correntes»:
 
-###### Artigo 05 «Comparticipações nas despesas da ADSE» ... 400000
+Artigo 05 «Comparticipações nas despesas da ADSE» ... 400000
 
 Receitas de capital: ... Contos
 
-### Capítulo 15.º «Contas de ordem»:
+Capítulo 15.º «Contas de ordem»:
 
 Grupo 01 «Encargos Gerais da Nação»:
 
-###### Artigo 01 «Centro de Estudos da Profilaxia da Droga» ... 100
+Artigo 01 «Centro de Estudos da Profilaxia da Droga» ... 100
 
 Grupo 02 «Defesa Nacional»:
 
 «Estado-Maior-General das Forças Armadas»:
 
-###### Artigo 01 «Comissão dos Explosivos» ... 800
+Artigo 01 «Comissão dos Explosivos» ... 800
 
 Grupo 04 «Justiça»:
 
-###### Artigo 01 «Serviços prisionais» ... 25000
+Artigo 01 «Serviços prisionais» ... 25000
 
 Grupo 05 «Agricultura e Pescas»:
 
-###### Artigo 02 «Serviços regionais de agricultura» ... 27150
+Artigo 02 «Serviços regionais de agricultura» ... 27150
 
 Grupo 09 «Assuntos Sociais»:
 
-###### Artigo 02 «Direcção-Geral da Assistência Social:
+Artigo 02 «Direcção-Geral da Assistência Social:
 
 «Assistência a diminuídos físicos» ... 30000
 
@@ -166,87 +182,87 @@ Grupo 09 «Assuntos Sociais»:
 
 Grupo 10 «Transportes e Comunicações»:
 
-###### Artigo 01 «Fundo Especial de Transportes Terrestres» ... 351983
+Artigo 01 «Fundo Especial de Transportes Terrestres» ... 351983
 
-###### Artigo 02 «Administração-Geral do Porto de Lisboa» ... 150000
+Artigo 02 «Administração-Geral do Porto de Lisboa» ... 150000
 
-###### Artigo 03 «Administração dos Portos do Douro e Leixões» ... 120000
+Artigo 03 «Administração dos Portos do Douro e Leixões» ... 120000
 
-###### Artigo 04 «Juntas autónomas dos portos» ... 82237
+Artigo 04 «Juntas autónomas dos portos» ... 82237
 
 Grupo 11 «Habitação e Obras Públicas»:
 
-###### Artigo 01 «Fundo de Fomento da Habitação» ... 2040350
+Artigo 01 «Fundo de Fomento da Habitação» ... 2040350
 
-###### Artigo 04 «Laboratório Nacional de Engenharia Civil» ... 78050
+Artigo 04 «Laboratório Nacional de Engenharia Civil» ... 78050
 
 ... 3804017
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubricas no orçamento do
+Art. 3.º São autorizadas as seguintes alterações de rubricas no orçamento do
 
 06 - Ministério das Finanças e do Plano
 
 Às dotações inscritas no capítulo 27, classificação económica 44.09, alíneas A) e B), é aposta a seguinte observação: (104) «Tem compensação de receita.»
 
-###### Art. 4.º São autorizadas as seguintes alterações nos orçamentos privativos:
+Art. 4.º São autorizadas as seguintes alterações nos orçamentos privativos:
 
 Da Administração-Geral do Porto de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/23500/26152619.pdf))](https://files.diariodarepublica.pt/1s/1979/10/23500/26152619.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/23500/26152619.pdf)
 
 Contrapartidas:
 
 Receitas correntes: ... Contos
 
-### Capítulo 07 «Venda de serviços e bens não duradouros»:
+Capítulo 07 «Venda de serviços e bens não duradouros»:
 
 Grupo 07 «Rendas de bens duradouros - Outros sectores» ... 58000
 
 Grupo 10 «Diversos - Outros sectores»:
 
-###### Artigo 01 «Estacionamento de navios» ... 2000
+Artigo 01 «Estacionamento de navios» ... 2000
 
-###### Artigo 03 «Taxa de porto» ... 60000
+Artigo 03 «Taxa de porto» ... 60000
 
-###### Artigo 11 «Rebocadores e gasolinas» ... 12000
+Artigo 11 «Rebocadores e gasolinas» ... 12000
 
 Receitas de capital: ... Contos
 
-### Capítulo 13 «Outras receitas de capital»:
+Capítulo 13 «Outras receitas de capital»:
 
 Grupo 01 «Receitas não enquadráveis nas rubricas anteriores»:
 
-###### Artigo 01 «Saldo de gerência» ... 18000
+Artigo 01 «Saldo de gerência» ... 18000
 
 ... 150000
 
 Da Administração dos Portos do Douro e Leixões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/23500/26152619.pdf))](https://files.diariodarepublica.pt/1s/1979/10/23500/26152619.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/23500/26152619.pdf)
 
 Contrapartidas:
 
 Receitas correntes: ... Contos
 
-### Capítulo 03 «Taxas, multas e outras penalidades»:
+Capítulo 03 «Taxas, multas e outras penalidades»:
 
 Grupo 01 «Taxas» ... 42445
 
-### Capítulo 07 «Venda de serviços e bens não duradouros»:
+Capítulo 07 «Venda de serviços e bens não duradouros»:
 
 Grupo 10 «Diversos - Outros sectores»:
 
-###### Artigo 01 «Acostagem» ... 2000
+Artigo 01 «Acostagem» ... 2000
 
-###### Artigo 06 «Guindagem» ... 10000
+Artigo 06 «Guindagem» ... 10000
 
-###### Artigo 11 «Material automóvel» ... 12000
+Artigo 11 «Material automóvel» ... 12000
 
-###### Artigo 13 «Reboques» ... 6000
+Artigo 13 «Reboques» ... 6000
 
 Receitas de capital: ... Contos
 
-### Capítulo 13 «Outras receitas de capital»:
+Capítulo 13 «Outras receitas de capital»:
 
 Grupo 01 «Saldo de gerência de 1978» ... 47555
 
@@ -254,8 +270,8 @@ Grupo 01 «Saldo de gerência de 1978» ... 47555
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 24 de Setembro de 1979.**
+Promulgado em 24 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

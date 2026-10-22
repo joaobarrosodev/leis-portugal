@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/365-1973-421610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5f5355654b33253369d8ed0626b200d3978a53ab70e97d494871ae60f50347e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95c10bbcb1432bb1892668762eaed9b4be75c8fd4dbfce1c1294d4d54c4637b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Copenhaga
+- Dinamarca
+- Dupla Tributação
+- Imposto sobre o Rendimento
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:43Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 19 de Julho
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção entre Portugal e a Dinamarca para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento, assinada em Copenhaga, aos 3 de Março de 1972, cujo texto em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção entre Portugal e a Dinamarca para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento, assinada em Copenhaga, aos 3 de Março de 1972, cujo texto em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 29 de Junho de 1973.**
+Assinado em 29 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Convention between Portugal and Denmark for the Avoidance of Double Taxation with Respect to Taxes on Income.
 
@@ -149,9 +155,9 @@ b) In the case of Denmark:
 
 3) The old age pension contribution (Folkepensionsbidraget);
 
-4) The seamen's tax [([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf))](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf);
+4) The seamen's tax [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf);
 
-5) The special income tax (Den [([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf))](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf) indkomstskat);
+5) The special income tax (Den [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf) indkomstskat);
 
 6) The church tax (Kirkeskatten); and
 
@@ -399,7 +405,7 @@ ARTICLE 16
 
 Directors' fees
 
-Directors' fees and similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors (in Portugal, conselho de administração) or shareholders' committee (in Portugal, conselho fiscal and in Denmark [([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf))](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf)) of a company which is a resident of the other Contracting State may be taxed in that other State, provided that remuneration paid by that company to a member of its board of directors in respect of the exercise of a continuous activity shall be taxable according to the provisions of Article 15.
+Directors' fees and similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors (in Portugal, conselho de administração) or shareholders' committee (in Portugal, conselho fiscal and in Denmark [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf)) of a company which is a resident of the other Contracting State may be taxed in that other State, provided that remuneration paid by that company to a member of its board of directors in respect of the exercise of a continuous activity shall be taxable according to the provisions of Article 15.
 
 ARTICLE 17
 
@@ -553,7 +559,7 @@ Marcus Fontes Pereira de Melo Fonseca.
 
 For the Government of Denmark:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf))](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf)
 
 Protocol
 
@@ -583,7 +589,7 @@ Marcus Fontes Pereira de Melo da Fonseca.
 
 For the Government of Denmark:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf))](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf)
 
 Convenção entre Portugal e a Dinamarca para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento.
 
@@ -633,7 +639,7 @@ b) Relativamente à Dinamarca:
 
 3.º A contribuição para as pensões por velhice (Folkepensionsbidraget)
 
-4.º O imposto dos marinheiros [([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf))](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf);
+4.º O imposto dos marinheiros [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf);
 
 5.º O imposto especial sobre o rendimento (Den saerlige indkomstskat);
 
@@ -993,7 +999,7 @@ Marcus Fontes Pereira de Melo Fonseca.
 
 Pelo Governo da Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf))](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf)
 
 Protocolo
 
@@ -1023,4 +1029,4 @@ Marcus Fontes Pereira de Melo da Fonseca.
 
 Pelo Governo da Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf))](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/16800/12511267.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/1995/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-1995-187694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2e6bdb912023a2261e9cf0944321ead3b528a72cf5646a9fc424a6fb4976198
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 203c3a6579d9f8f37759313f7e514abbd9d3225ba9be590291e557423344e713
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caracas
-- Venezuela
 - Convenção
-- Cooperação Técnica
-- Portugal
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Política
+- Cooperação Técnica
+- Portugal
+- Venezuela
 relationships: []
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:01Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +95,19 @@ de 20 de Fevereiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Quadro de Cooperação entre a República Portuguesa e a República da Venezuela, assinado em Caracas, a 17 de Junho de 1994, cujas versões autênticas nas línguas portuguesa e castelhana seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo Quadro de Cooperação entre a República Portuguesa e a República da Venezuela, assinado em Caracas, a 17 de Junho de 1994, cujas versões autênticas nas línguas portuguesa e castelhana seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - José Manuel Durão Barroso - António Duarte Silva - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
 Ratificado em 24 de Janeiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1995.**
+Referendado em 26 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO QUADRO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA VENEZUELA
 
@@ -319,4 +319,4 @@ Pela República da Venezuela:
 
 Miguel Angel Burelli Rivas, Ministro de Relações Exteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/043a00/10201027.pdf))](https://files.diariodarepublica.pt/1s/1995/02/043a00/10201027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/043a00/10201027.pdf)

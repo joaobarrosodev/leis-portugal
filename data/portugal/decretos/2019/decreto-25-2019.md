@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/25/2019/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/25-2019-125085455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49e3c1f09461e13adef29b66515421b8ad7c321eb3096c3ebe0fc0e4f716019c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e624daf58a4cbfd7f4dea28a0d8af8506b520f16cb6d3bbde976efa451a8855
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - China
+- Convenção
 - Funcionário Diplomático
 - Missão Diplomática
+- Passaporte
 - Pequim
 - Pessoal Diplomático
+- Portugal
 - Representação Diplomática
-- Passaporte
 relationships: []
 article_structure:
-  article_count: 0
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:21Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 12 de setembro de 2019. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Eduardo Arménio do Nascimento Cabrita.
 
-**Assinado em 29 de setembro de 2019.**
+Assinado em 29 de setembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de outubro de 2019.**
+Referendado em 7 de outubro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA POPULAR DA CHINA SOBRE SUPRESSÃO MÚTUA DE VISTOS PARA PORTADORES DE PASSAPORTES DIPLOMÁTICOS
 
@@ -124,15 +124,11 @@ Tendo concluído consultas amigáveis sobre supressão mútua de vistos para por
 
 acordam o seguinte:
 
-Artigo I
-
-Objeto
+###### Artigo I — Objeto
 
 O presente Acordo estabelece a base jurídica para a supressão mútua de vistos para portadores de passaportes diplomáticos das Partes acreditados junto da outra Parte.
 
-Artigo II
-
-Definições
+###### Artigo II — Definições
 
 Para efeitos do presente Acordo, entende-se por:
 
@@ -140,9 +136,7 @@ a) «Passaporte válido», o passaporte diplomático com simultaneamente validad
 
 b) «Membro da família», o cônjuge ou o parceiro com quem vive em união de facto desde que esta última esteja prevista na lei do Estado de origem, assim como filhos solteiros, dependentes, até aos 23 anos de idade, e filhos solteiros dependentes portadores de deficiência física ou mental, sem limite de idade.
 
-Artigo III
-
-Entrada e saída
+###### Artigo III — Entrada e saída
 
 1 - Os cidadãos da República Portuguesa portadores de passaportes diplomáticos que sejam nomeados para missões diplomáticas, postos consulares ou organizações internacionais na República Popular da China, assim como os membros da sua família portadores de passaportes diplomáticos, estão isentos de visto para entrar, sair, transitar ou permanecer no território da outra Parte durante o período da acreditação.
 
@@ -152,47 +146,35 @@ Entrada e saída
 
 4 - Os cidadãos de qualquer das Partes referidos no Artigo I entrarão, sairão ou transitarão pelo território da outra Parte em todos os pontos de passagem abertos ao tráfico internacional e respeitarão as formalidades necessárias em conformidade com as regras das respetivas autoridades competentes.
 
-Artigo IV
-
-Cumprimento do Direito Interno das Partes
+###### Artigo IV — Cumprimento do Direito Interno das Partes
 
 1 - Os cidadãos de qualquer das Partes estão obrigados pelo Direito interno em vigor para a outra Parte durante a sua estada no território dessa Parte.
 
 2 - O presente Acordo não exclui o direito das autoridades competentes de cada uma das Partes recusar a entrada ou permanência cidadãos da outra Parte no seu território ou terminar a estada em seu território em conformidade com o direito aplicável.
 
-Artigo V
-
-Suspensão
+###### Artigo V — Suspensão
 
 1 - Qualquer uma das Partes poderá suspender temporariamente a aplicação do presente Acordo, total ou parcialmente, por razões de segurança nacional, ordem pública ou saúde pública.
 
 2 - A suspensão da aplicação do presente Acordo e o seu levantamento serão imediatamente notificados à outra Parte por escrito, por via diplomática à outra Parte.
 
-Artigo VI
-
-Informação sobre Passaportes
+###### Artigo VI — Informação sobre Passaportes
 
 1 - As Partes trocarão, por via diplomática, espécimes dos seus passaportes referidos no Artigo I do presente Acordo, até trinta (30) dias a contar da data de entrada em vigor do presente Acordo, em conformidade com o Artigo IX.
 
 2 - Durante o período de vigência do presente Acordo, qualquer das Partes informará a outra Parte, por via diplomática, trinta (30) dias antes da sua entrada em circulação, de qualquer alteração ao formato de passaporte e submeterá à outra Parte espécime do novo passaporte.
 
-Artigo VII
-
-Solução de Controvérsias
+###### Artigo VII — Solução de Controvérsias
 
 1 - Qualquer controvérsia entre as Partes relativa à interpretação ou aplicação do presente Acordo será solucionada amigavelmente, através de consultas, negociação, inquérito internacional, mediação ou conciliação internacional, por via diplomática.
 
-Artigo VIII
-
-Revisão
+###### Artigo VIII — Revisão
 
 1 - O presente Acordo pode ser revisto a pedido de uma das Partes.
 
 2 - As emendas entrarão em vigor de acordo com os termos especificados no Artigo IX do presente Acordo.
 
-Artigo IX
-
-Entrada em vigor
+###### Artigo IX — Entrada em vigor
 
 1 - O presente Acordo entrará em vigor trinta (30) dias após a receção da última notificação, por escrito e por via diplomática, informando que foram cumpridos os requisitos de Direito interno das Partes necessários para o efeito.
 
@@ -202,11 +184,11 @@ Feito em Pequim, no dia 25 de abril, em dois originais nas línguas chinesa, por
 
 Pelo Governo da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf))](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf)
 
 Pelo Governo da República Popular da China:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf))](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf)
 
 AGREEMENT BETWEEN THE GOVERNMENT OF THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE PEOPLE'S REPUBLIC OF CHINA ON MUTUAL VISA ESEMPTION FOR HOLDERS OF DIPLOMATIC PASSPORTS
 
@@ -296,8 +278,10 @@ Done in Beijing on April 25 2019, in duplicate in the Portuguese, Chinese and En
 
 For the Government of the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf))](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf)
 
 For the Government of the People's Republic of China:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf))](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/19400/0001100021.pdf)
+
+112646241

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/251-1973-422215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dbbbae682e6bd64dd9002a15920c84954dd22356f81d3612c421eda258b4aeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 690f063eea01a6a62ff52e6e5e54336ab736ddc2bb40df61c9460c90582cac8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164861:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:38Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +101,13 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º, do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É revogado o artigo 54.º e respectivo § único do Regulamento da Pesca de Arrasto na Província de Angola, aprovado e mandado pôr em execução pelo [Decreto n.º 44398](https://diariodarepublica.pt/dr/detalhe/decreto/44398-1962-164861), de 14 de Junho de 1962.
+Artigo 1.º É revogado o artigo 54.º e respectivo § único do Regulamento da Pesca de Arrasto na Província de Angola, aprovado e mandado pôr em execução pelo [Decreto n.º 44398](https://diariodarepublica.pt/dr/detalhe/decreto/44398-1962-164861), de 14 de Junho de 1962.
 
-###### Art. 2.º Às embarcações que têm vindo a exercer a pesca de arrasto e àquelas cuja autorização de construção não caducou até 1 de Julho de 1972 - embarcações cuja relação será publicada em edital da Direcção Provincial dos Serviços de Marinha de Angola - será permitido o registo na pesca de arrasto, ainda que não satisfaçam às condições mínimas exigidas pelo Regulamento da Pesca de Arrasto na Província de Angola, aprovado e mandado pôr em execução pelo [Decreto n.º 44398](https://diariodarepublica.pt/dr/detalhe/decreto/44398-1962-164861), de 14 de Junho de 1962.
+Art. 2.º Às embarcações que têm vindo a exercer a pesca de arrasto e àquelas cuja autorização de construção não caducou até 1 de Julho de 1972 - embarcações cuja relação será publicada em edital da Direcção Provincial dos Serviços de Marinha de Angola - será permitido o registo na pesca de arrasto, ainda que não satisfaçam às condições mínimas exigidas pelo Regulamento da Pesca de Arrasto na Província de Angola, aprovado e mandado pôr em execução pelo [Decreto n.º 44398](https://diariodarepublica.pt/dr/detalhe/decreto/44398-1962-164861), de 14 de Junho de 1962.
 
-###### Art. 3.º Não será permitida a substituição, reconstrução ou grandes reparações, incluindo a substituição de motores de aparelhos de propulsão, quando se tratar de embarcações abrangidas pelo artigo anterior, a não ser que se destinem a outra modalidade de pesca compatível com as suas características.
+Art. 3.º Não será permitida a substituição, reconstrução ou grandes reparações, incluindo a substituição de motores de aparelhos de propulsão, quando se tratar de embarcações abrangidas pelo artigo anterior, a não ser que se destinem a outra modalidade de pesca compatível com as suas características.
 
-###### Art. 4.º - 1. As licenças destas embarcações serão requeridas pelos proprietários ou armadores, separadamente por cada embarcação, e serão passadas nominalmente.
+Art. 4.º - 1. As licenças destas embarcações serão requeridas pelos proprietários ou armadores, separadamente por cada embarcação, e serão passadas nominalmente.
 
 2. Em caso algum serão as licenças negociáveis.
 
@@ -119,16 +123,16 @@ c) Se o pacto social da empresa a quem pertence a embarcação for alterado sem 
 
 5. No caso de transmissão de herdeiros, estes deverão requerer o licenciamento da embarcação em seu nome, caso pretendam que ela continue a exercer a mesma actividade.
 
-###### Art. 5.º O Governo-Geral do Estado de Angola aprovará e mandará pôr em execução por meio de decreto provincial um novo regulamento de pesca de arrasto.
+Art. 5.º O Governo-Geral do Estado de Angola aprovará e mandará pôr em execução por meio de decreto provincial um novo regulamento de pesca de arrasto.
 
-###### Art. 6.º O [Decreto n.º 44398](https://diariodarepublica.pt/dr/detalhe/decreto/44398-1962-164861), de 14 de Junho de 1962, deixará de vigorar a partir do momento em que entrar em vigor o decreto provincial a que se refere o artigo anterior.
+Art. 6.º O [Decreto n.º 44398](https://diariodarepublica.pt/dr/detalhe/decreto/44398-1962-164861), de 14 de Junho de 1962, deixará de vigorar a partir do momento em que entrar em vigor o decreto provincial a que se refere o artigo anterior.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Maio de 1973.**
+Promulgado em 1 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Par ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/35/1992/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-1992-275580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 563b20f7911dca03743a252dc872a305c9e636dc0f1ed56863a073f0b3bf5f0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc0093d21d04d2e0d8387e9b1e7ceee04a85d048ed7b64e677ed3a07dde225a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Definição de Competências
-- Renovação Urbana
-- Lisboa
 - ÁREA Crítica de Recuperação e Reconversão Urbanística
-- Política de Solos
-- Urbanismo
 - Câmara Municipal
-relationships: []
+- Definição de Competências
+- Lisboa
+- Ordenamento do Território
+- Política de Solos
+- Renovação Urbana
+- Urbanismo
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:54Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +110,9 @@ Assim:
 
 Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, situada na freguesia de Santa Maria dos Olivais, da cidade de Lisboa.
+Artigo 1.º É declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, situada na freguesia de Santa Maria dos Olivais, da cidade de Lisboa.
 
-###### Art. 2.º - 1 - Compete à Câmara Municipal de Lisboa promover as acções e o processo de recuperação e reconversão urbanísticos.
+Art. 2.º - 1 - Compete à Câmara Municipal de Lisboa promover as acções e o processo de recuperação e reconversão urbanísticos.
 
 2 - A intervenção referida no número anterior deverá respeitar os condicionalismos resultantes da classificação como imóveis de interesse público, atribuída ao conjunto da Praça da Viscondessa dos Olivais e à casa da Fonte do Anjo, pelos Decretos n.os 8/83, de 24 de Janeiro, e 29/84, de 25 de Junho, respectivamente.
 
@@ -116,14 +120,14 @@ Presidência do Conselho de Ministros, 4 de Maio de 1992.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Assinado em 2 de Julho de 1992.**
+Assinado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Julho de 1992.**
+Referendado em 3 de Julho de 1992.
 
-**O Primeiro-ministro, Aníbal António Cavaco Silva.**
+O Primeiro-ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/171b00/34943494.pdf))](https://files.diariodarepublica.pt/1s/1992/07/171b00/34943494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/171b00/34943494.pdf)

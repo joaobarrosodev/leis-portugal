@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/90-1981-580089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7849c0fa80edea6eaeefcd3052786c6adc338cf82ff2f2cc705435fd4cf14a1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a7b5137a007f55323ca0eb711a9b66af7ddfeffcd0dd2f67a3948176cd26e3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Estatística
+- Horário de Trabalho
+- OIT
+- Portugal
+- Remuneração
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:42Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +92,15 @@ de 15 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção n.º 63, relativa às estatísticas dos salários e das horas de trabalho, adoptada pela Conferência Internacional do Trabalho na sua 24.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção n.º 63, relativa às estatísticas dos salários e das horas de trabalho, adoptada pela Conferência Internacional do Trabalho na sua 24.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 19 de Maio de 1981.**
+Assinado em 19 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENTION 63, CONCERNANT LES STATISTIQUES DES SALAIRES ET DES HEURES DE TRAVAIL DANS LES PRINCIPALES INDUSTRIES MINIÈRES ET MANUFACTURIÈRES, Y COMPRIS LE BATIMENT ET LA CONSTRUCTION, ET DANS L'AGRICULTURE.
 
@@ -386,7 +392,7 @@ Após ter decidido adoptar diversas propostas relativas a estatísticas de salá
 
 adopta, no dia 20 de Junho de 1938, a seguinte convenção, que será denominada «Convenção Relativa às Estatísticas dos Salários e das Horas de Trabalho, 1938».
 
-# PARTE I
+## PARTE I
 
 Disposições gerais.
 
@@ -424,7 +430,7 @@ Nada na presente Convenção impõe a obrigação de publicar ou dar a conhecer 
 
 2 - Nada na presente Convenção deve ser interpretado como a obrigação imposta a um Membro de compilar estatísticas quando, após inquéritos efectuados de acordo com o parágrafo 1 do presente artigo, esse Membro não se encontrar praticamente em condições de obter as informações necessárias sem exercer coacção legal.
 
-# PARTE II — Estatísticas dos ganhos médios e das horas de trabalho efectuadas nas indústrias mineiras e transformadoras
+## PARTE II — Estatísticas dos ganhos médios e das horas de trabalho efectuadas nas indústrias mineiras e transformadoras
 
 ###### ARTIGO 5.º
 
@@ -480,7 +486,7 @@ Quando as estatísticas de ganhos médios e de horas de trabalho efectuadas não
 
 3 - Na publicação desses números índice deve indicar-se o método utilizado para o seu cálculo.
 
-# PARTE III
+## PARTE III
 
 Estatísticas das taxas salariais ao tempo e dos horários normais de trabalho nas indústrias mineiras e transformadoras.
 
@@ -558,7 +564,7 @@ No caso de países e de indústrias em que os abonos em espécie, por exemplo so
 
 4 - Na publicação desses números índice devem fornecer-se indicações sobre o método empregado para o seu estabelecimento.
 
-# PARTE IV — Estatísticas dos salários e dos horários de trabalho na agricultura
+## PARTE IV — Estatísticas dos salários e dos horários de trabalho na agricultura
 
 ###### ARTIGO 22.º
 
@@ -582,7 +588,7 @@ c) Os métodos utilizados para a sua compilação;
 
 d) Na medida do possível, os horários normais de trabalho dos operários considerados.
 
-# PARTE V — Disposições diversas
+## PARTE V — Disposições diversas
 
 ###### ARTIGO 23.º
 
@@ -602,7 +608,7 @@ a) A submeter ao exame da sua autoridade competente no domínio da estatística 
 
 b) A indicar no seu relatório anual sobre a aplicação da Convenção a medida em que pôs em prática essas propostas.
 
-# PARTE VI — Disposições finais
+## PARTE VI — Disposições finais
 
 ###### ARTIGO 25.º
 

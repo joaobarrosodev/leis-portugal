@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/28/1994/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1994-585422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c35e3b46f8e75fd30ae95991da56fcea294678cc7f74b5e47663d02314fa71d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 757b6231360c7978be99ec922fa0deff62b228cb869969d0ba00cfdd9b6c94fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Patente
 - Munique
+- Patente
+- Portugal
 relationships: []
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:15Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 19 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acto Relativo à Revisão do Artigo 63.º da Convenção sobre a Concessão de Patentes Europeias (Convenção sobre a Patente Europeia), de 5 de Outubro de 1973, assinado em 17 de Dezembro de 1991, bem como a Resolução Relativa à Informação Mútua e a Acta Final da Conferência dos Estados Contratantes, cuja versão autêntica em língua francesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acto Relativo à Revisão do Artigo 63.º da Convenção sobre a Concessão de Patentes Europeias (Convenção sobre a Patente Europeia), de 5 de Outubro de 1973, assinado em 17 de Dezembro de 1991, bem como a Resolução Relativa à Informação Mútua e a Acta Final da Conferência dos Estados Contratantes, cuja versão autêntica em língua francesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Luís Fernando Mira Amaral.
 
 Ratificado em 16 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1994.**
+Referendado em 22 de Agosto de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACTE PORTANT REVISION DE L'ARTICLE 63 DE LA CONVENTION SUR LA DÉLIVRANCE DE BREVETS EUROPÉENS (CONVENTION SUR LE BREVET EUROPÉEN) DU 5 OCTOBRE 1973.
 

@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/607-1975-312453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f846c5a1487bfda163595a628050aebcf7ec0456c092effa591caf03af7d498d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f24da74ee911d003d769780b3bbd00369f3c74a7006b9d3d4280f3648e989410
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Despesas Públicas
+- Gestão Orçamental
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:22Z'
   warnings: []
   errors: []
 ---
@@ -88,32 +95,32 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério do Equipamento Social (Secretarias de Estado das Obras Públicas e da Habitação e Urbanismo), um crédito especial no montante de 30000000$00, a inscrever no vigente orçamento do segundo dos referidos Ministérios sob a forma seguinte:
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério do Equipamento Social (Secretarias de Estado das Obras Públicas e da Habitação e Urbanismo), um crédito especial no montante de 30000000$00, a inscrever no vigente orçamento do segundo dos referidos Ministérios sob a forma seguinte:
 
 Outras despesas extraordinárias
 
 Secretaria de Estado das Obras Públicas
 
-### Capítulo 26.º «Direcção-Geral dos Serviços Hidráulicos»:
+Capítulo 26.º «Direcção-Geral dos Serviços Hidráulicos»:
 
 Melhoramento das condições de abastecimento de água e campanhas de cloragem
 
 Despesas correntes:
 
-###### Artigo 441.º-A «Outras despesas correntes» ... 10000000$00
+Artigo 441.º-A «Outras despesas correntes» ... 10000000$00
 
 Despesas de capital:
 
-###### Artigo 441.º-B «Outras despesas de capital» ... 20000000$00
+Artigo 441.º-B «Outras despesas de capital» ... 20000000$00
 
 ... 30000000$00
 
-###### Art. 2.º Para compensação do crédito aludido no artigo precedente, é aumentada igual quantia à receita extraordinária, descrita no capítulo 12.º, grupo 9, artigo 199.º «Crédito interno», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação do crédito aludido no artigo precedente, é aumentada igual quantia à receita extraordinária, descrita no capítulo 12.º, grupo 9, artigo 199.º «Crédito interno», do actual orçamento das receitas do Estado.
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 16 de Outubro de 1975.**
+Promulgado em 16 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/552-1976-430426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bd09f487dbf1c0576241178fd15fdc69baf26a2309cc16fc92b0fee0fa1e212
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3c9b81b5f65682c62661ba9e1a3a5588ddcd2c2931e20d5e9a57d05c5d72c96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bulgária
+- Convenção
+- Cooperação Cultural
+- Portugal
+- Sofia
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:08Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 13 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República Popular da Bulgária, assinado em Sófia em 7 de Maio de 1976, cujo texto em português vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República Popular da Bulgária, assinado em Sófia em 7 de Maio de 1976, cujo texto em português vai anexo ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Ernesto Augusto de Melo Antunes - Vítor Manuel Rodrigues Alves - António de Almeida Santos.
 
-**Assinado em 28 de Junho de 1976.**
+Assinado em 28 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO CULTURAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DA BULGÁRIA
 
@@ -108,7 +113,7 @@ E desejando promover o conhecimento mútuo dos resultados obtidos pelos dois pa�
 
 Decidiram concluir o presente Acordo, com base no respeito recíproco dos princípios da soberania e da independência nacionais, da igualdade dos direitos e das vantagens mútuas, da não ingerência nos assuntos internos.
 
-ARTIGO I
+###### ARTIGO I
 
 As duas Partes favorecerão o desenvolvimento da cooperação entre as instituições científicas e de investigação dos dois países através:
 
@@ -116,7 +121,7 @@ a) De visitas recíprocas de cientistas e de investigadores científicos, com fi
 
 b) De trocas de livros e publicações científicas e outros materiais de informação científica.
 
-ARTIGO II
+###### ARTIGO II
 
 As duas Partes favorecerão o desenvolvimento das relações no domínio do ensino através:
 
@@ -130,23 +135,23 @@ d) Do envio recíproco de documentação e informações sobre a economia, a geo
 
 e) De trocas de publicações da especialidade e outros materiais documentais e de informação no domínio do ensino.
 
-ARTIGO III
+###### ARTIGO III
 
 Cada Parte concederá reciprocamente bolsas de estudo e de especialização, a fim de permitir que os cidadãos da outra Parte efectuem estudos, investigações ou trabalhos no seu território ou aperfeiçoem a sua formação artístico-cultural e técnico-científica.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Cada Parte estudará as possibilidades de equivalência recíproca dos títulos, graus e diplomas de ensino e científicos obtidos no território da outra Parte.
 
 Para esse efeito, cada Parte porá à disposição da outra a documentação necessária e fará as propostas adequadas.
 
-ARTIGO V
+###### ARTIGO V
 
 1. As duas Partes, a pedido, prestarão reciprocamente assistência nos domínios da ciência, do ensino, da protecção sanitária e noutros domínios, pelo envio de especialistas para trabalharem no outro país durante períodos limitados.
 
 2. O envio de especialistas realizar-se-á com base em protocolos concluídos entre os Ministérios e as instituições competentes dos dois países, que estabelecerão as condições concretas de actividade e de remuneração dos especialistas. Com esta finalidade, serão celebrados contratos entre o país que recebe os especialistas e os especialistas da outra Parte.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As duas Partes favorecerão a cooperação no domínio da literatura, do teatro, da música, das artes plásticas, da cinematografia, bem como noutros domínios da actividade cultural e artística, através:
 
@@ -160,33 +165,33 @@ d) Da tradução e publicação de obras literárias e científicas do outro pa�
 
 e) Da organização recíproca de manifestações culturais por ocasião das festas nacionais dos dois países.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As duas Partes facilitarão o desenvolvimento das relações entre os museus, bibliotecas e outras instituições culturais através da troca de livros, publicações e microfilmes sobre matéria social, cultural, artística e técnico-científica.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As duas Partes favorecerão a coooperação directa entre as agências de imprensa e as estações de radiodifusão e de televisão dos dois países, bem como o intercâmbio de visitas de jornalistas e repórteres.
 
-ARTIGO IX
+###### ARTIGO IX
 
 As duas Partes facilitarão os convites recíprocos dirigidos a personalidades nos domínios da ciência, do ensino, da cultura e da arte, a fim de participarem em congressos, festivais e outras manifestações de carácter internacional organizados nos respectivos países.
 
-ARTIGO X
+###### ARTIGO X
 
 As duas Partes favorecerão o desenvolvimento do intercâmbio nos domínios do turismo e dos desportos.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Cada Parte assegurará condições normais para o desenvolvimento das actividades da outra Parte, assim como para a divulgação, através dos meios de comunicação social, das suas realizações culturais, científicas e artísticas, com base nas estipulações do presente Acordo e em conformidade com as regulamentações em vigor no seu território.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1. Após a entrada em vigor do presente Acordo, as duas Partes estabelecerão programas periódicos, concretizando actividades a realizar, bem como as condições necessárias à sua organização e financiamento.
 
 2. As negociações para o estabelecimento dos programas realizar-se-ão alternadamente nas capitais dos dois países.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1. Para a execução das disposições do artigo anterior será constituída uma comissão mista, de composição paritária, encarregada de apresentar sugestões, recomendações e pareceres às Partes Contratantes, com vista à elaboração dos programas de intercâmbio cultural e científico.
 
@@ -198,7 +203,7 @@ ARTIGO XIII
 
 5. A comissão mista poderá convocar peritos para as suas reuniões, na qualidade de conselheiros ou assessores.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1. O presente Acordo será submetido à aprovação dos organismos competentes das duas Partes e entrará em vigor na data da última notificação da aprovação.
 

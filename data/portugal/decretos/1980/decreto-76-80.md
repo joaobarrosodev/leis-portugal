@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/76-1980-464392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:56:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94fa8931935c68475a061df7f01bbebea136371e5da8dcfe70985dabf66f6226
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a47c517bebc6a4904853928084903197c10152ef6b4865733aa277a9e5473311
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:408551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:56:00Z'
   warnings: []
   errors: []
 ---
@@ -88,30 +93,30 @@ Estando em estudo a revisão da orgânica da Superintendência dos Serviços do 
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º O corpo dos artigos 10.º e 11.º e o n.º 1 dos artigos 13.º e 15.º do [Decreto n.º 685/76](https://diariodarepublica.pt/dr/detalhe/decreto/685-1976-408551), de 14 de Setembro, passam a ter as seguintes redacções:
+Artigo 1.º O corpo dos artigos 10.º e 11.º e o n.º 1 dos artigos 13.º e 15.º do [Decreto n.º 685/76](https://diariodarepublica.pt/dr/detalhe/decreto/685-1976-408551), de 14 de Setembro, passam a ter as seguintes redacções:
 
-###### Art. 10.º À DSM, que é dirigida por um contra-almirante ou capitão-de-mar-e-guerra de qualquer das classes de marinha, engenheiros construtores navais, engenheiros maquinistas navais ou de engenheiros de material naval, compete:
-
-...
-
-###### Art. 11.º Ao GE, órgão de apoio directo do director-geral do Material Naval, dirigido por um contra-almirante ou capitão-de-mar-e-guerra de qualquer das classes de marinha, engenheiros construtores navais, engenheiros maquinistas navais ou de engenheiros de material naval, competem as seguintes funções principais:
+Art. 10.º À DSM, que é dirigida por um contra-almirante ou capitão-de-mar-e-guerra de qualquer das classes de marinha, engenheiros construtores navais, engenheiros maquinistas navais ou de engenheiros de material naval, compete:
 
 ...
 
-###### Art. 13.º - 1 - À DIN, dirigida por um contra-almirante ou capitão-de-mar-e-guerra de qualquer das classes de marinha, engenheiros construtores navais, engenheiros maquinistas navais, engenheiros de material naval ou de administração naval, compete:
+Art. 11.º Ao GE, órgão de apoio directo do director-geral do Material Naval, dirigido por um contra-almirante ou capitão-de-mar-e-guerra de qualquer das classes de marinha, engenheiros construtores navais, engenheiros maquinistas navais ou de engenheiros de material naval, competem as seguintes funções principais:
 
 ...
 
-###### Art. 15.º - 1 - À DA, dirigida por um contra-almirante ou capitão-de-mar-e-guerra das classes de marinha ou de administração naval, compete:
+Art. 13.º - 1 - À DIN, dirigida por um contra-almirante ou capitão-de-mar-e-guerra de qualquer das classes de marinha, engenheiros construtores navais, engenheiros maquinistas navais, engenheiros de material naval ou de administração naval, compete:
 
 ...
 
-###### Art. 2.º O presente decreto entra em vigor à data da sua publicação.
+Art. 15.º - 1 - À DA, dirigida por um contra-almirante ou capitão-de-mar-e-guerra das classes de marinha ou de administração naval, compete:
+
+...
+
+Art. 2.º O presente decreto entra em vigor à data da sua publicação.
 
 Visto e aprovado em Conselho da Revolução em 20 de Agosto de 1980.
 
-**Promulgado em 20 de Agosto de 1980.**
+Promulgado em 20 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

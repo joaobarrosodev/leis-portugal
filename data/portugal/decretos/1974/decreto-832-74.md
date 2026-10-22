@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 303/1974, 11º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 11º Suplemento
+  supplement: null
   pages: 1670-(200) a 1670-(201)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30311/02000201.pdf
 entry_into_force_dates: []
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/832-1974-238225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 761f3df89aba2a58c8bb9e05e59213d7944c389bf451f8c18fbfc9b330da00ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a14ed2022ef6a83eb9d3c76ac03e2ed283aeb32b3c7cb325273f3d8952d453cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Lisboa
+- Quadro de Pessoal
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:579301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:579301:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pelo DEC.76/81.17.06.1981.MAS, DR.IS [137] de 17.06.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/76-1981-579301
+  date: '1981-06-17'
+- type: cites
+  target: pt:dre:185350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:266085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:50Z'
   warnings: []
   errors: []
 ---
@@ -99,23 +128,23 @@ Com fundamento no n.º 1 do artigo 3.º do [Decreto-Lei n.º 692/70](https://dia
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O quadro do pessoal de direcção e chefia da Santa Casa da Misericórdia de Lisboa, anexo ao [Decreto-Lei n.º 692/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/692-1970-414417), de 31 de Dezembro, é substituído pelo quadro anexo ao presente diploma.
+Artigo 1.º O quadro do pessoal de direcção e chefia da Santa Casa da Misericórdia de Lisboa, anexo ao [Decreto-Lei n.º 692/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/692-1970-414417), de 31 de Dezembro, é substituído pelo quadro anexo ao presente diploma.
 
-###### Art. 2.º O presente diploma tem efeito retroactivo a 1 de Janeiro de 1974, sendo pagas as diferenças entre o vencimento correspondente à categoria em que cada funcionário for integrado no novo quadro e o vencimento que correspondia à categoria que o mesmo detinha, tendo em consideração, em ambos os casos, os vencimentos que vigoraram ao longo do ano de 1974.
+Art. 2.º O presente diploma tem efeito retroactivo a 1 de Janeiro de 1974, sendo pagas as diferenças entre o vencimento correspondente à categoria em que cada funcionário for integrado no novo quadro e o vencimento que correspondia à categoria que o mesmo detinha, tendo em consideração, em ambos os casos, os vencimentos que vigoraram ao longo do ano de 1974.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 MAPA ANEXO
 
 Quadro do pessoal de direcção e chefia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30311/02000201.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30311/02000201.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30311/02000201.pdf)
 
 NOTAS
 
@@ -127,4 +156,4 @@ NOTAS
 
 4 - Na colocação do pessoal neste quadro observar-se-á o preceituado no n.º 1 do artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
-**O Ministro dos Assuntos Sociais, Maria de Lourdes Pintasilgo.**
+O Ministro dos Assuntos Sociais, Maria de Lourdes Pintasilgo.

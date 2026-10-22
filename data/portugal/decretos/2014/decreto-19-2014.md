@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/2014/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-2014-25345946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed29fa1eed915c8b927067c48feb1d95dcf3f216ff62bddc57216af9b9e3c878
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22a1fe673fa55f57ee5e2aaf318e5ab807213511bb525991cbbcdb1066279de1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
 subjects:
 - Ankara
 - Convenção
+- Cooperação Científica
+- Cooperação Tecnológica
 - Política de Cooperação
 - Portugal
-- Cooperação Tecnológica
-- Cooperação Científica
 - Turquia
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:13Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +106,15 @@ Nos termos da alínea c) do n º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 24 de abril de 2014. - Pedro Passos Coelho - Luís Álvaro Barbosa de Campos Ferreira - Nuno Paulo de Sousa Arrobas Crato.
 
-**Assinado em 22 de maio de 2014.**
+Assinado em 22 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de maio de 2014.**
+Referendado em 26 de maio de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO DE COOPERAÇÃO CIENTÍFICA E TECNOLÓGICA ENTRE A REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA TURQUIA
 
@@ -128,11 +128,11 @@ Considerando que tal cooperação deverá promover o desenvolvimento das relaç�
 
 Acordam o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes deverão encorajar e apoiar a cooperação, entre os dois países, no domínio da ciência e da tecnologia para fins pacíficos, com base na igualdade e no benefício mútuo, nos termos do disposto neste Acordo.
 
-ARTIGO II
+###### ARTIGO II
 
 Considerando os objetivos prioritários comuns dos dois países, a cooperação no quadro do presente Acordo pode ser desenvolvida nas seguintes áreas de interesse comum:
 
@@ -144,7 +144,7 @@ c. Ciências Sociais; e
 
 d. Outras áreas de interesse que podem ser incluídas por consentimento mútuo.
 
-ARTIGO III
+###### ARTIGO III
 
 A cooperação no quadro deste Acordo pode ser desenvolvida para o seguinte:
 
@@ -164,7 +164,7 @@ g. Troca de conhecimento e experiência quanto a atividades de investigação e 
 
 h. Outras formas de cooperação científica e tecnológica que podem ser objeto de acordo mútuo.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes deverão designar as autoridades competentes, responsáveis pela aplicação deste Acordo:
 
@@ -172,7 +172,7 @@ a. Pela República Portuguesa: A Fundação para a Ciência e Tecnologia do Mini
 
 b. Pelo Governo da República da Turquia: O Conselho de Investigação Científica e Tecnológica da Turquia ((ver documeto original)).
 
-ARTIGO V
+###### ARTIGO V
 
 1. Para efeitos de aplicação deste Acordo, deverá ser criado um Comité Conjunto composto por um número igual de representantes designados pelas duas Partes.
 
@@ -192,7 +192,7 @@ d. Encorajar a troca de experiência resultante da cooperação bilateral no dom
 
 5. O Comité Conjunto pode adotar o seu próprio regulamento interno.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Os custos relativos ao intercâmbio de peritos, cientistas e outros especialistas, resultantes deste Acordo, salvo acordo separado em contrário, deverão ser suportados com base no seguinte:
 
@@ -200,43 +200,43 @@ a) A Parte que envia deverá suportar os custos das viagens internacionais;
 
 b) A Parte que recebe deverá suportar os custos das viagens no seu território, bem como as despesas de alimentação e alojamento, de acordo com os seus próprios regulamentos.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Os resultados científicos e tecnológicos e quaisquer outras informações resultantes das atividades de cooperação ao abrigo deste Acordo deverão ser anunciados, publicados ou explorados comercialmente, com o consentimento escrito das unidades científicas cooperantes e nos termos dos acordos internacionais em matéria de direitos de propriedade intelectual vinculativos para as duas Partes.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1. Os cientistas, especialistas, investigadores e instituições de países terceiros ou de organizações internacionais podem, com o consentimento de ambas as Partes, ser convidados para participar em projetos desenvolvidos ao abrigo deste Acordo.
 
 2. O custo de tal participação deverá ser suportado por países terceiros ou organizações internacionais, salvo acordo escrito em contrário das Partes.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1. Qualquer conflito relativo à aplicação ou interpretação deste Acordo deverá ser resolvido por via diplomática entre as Partes.
 
 2. O presente Acordo não prejudica os direitos e obrigações de qualquer uma das Partes ao abrigo de outros acordos internacionais.
 
-ARTIGO X
+###### ARTIGO X
 
 1. Este Acordo entrará em vigor na data de receção da última notificação, por escrito e por via diplomática, de que foram cumpridos os respetivos requisitos internos necessários para a sua entrada em vigor.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1. Este Acordo pode ser objeto de revisão mediante pedido escrito de uma das Partes.
 
 2. As emendas entrarão em vigor em conformidade com o artigo X.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Este Acordo permanecerá em vigor por um período de cinco anos, renovável automaticamente por períodos sucessivos de cinco anos, a menos que qualquer uma das Partes notifique a outra, por escrito, da sua intenção de denunciar este Acordo.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1. Qualquer uma das Partes pode, em qualquer momento, denunciar este Acordo mediante notificação escrita à outra Parte por via diplomática, com seis meses de antecedência.
 
 2. A denúncia deste Acordo não afeta os projetos ou programas empreendidos ao abrigo deste Acordo e não completamente concluídos aquando da sua denúncia, salvo acordo escrito em contrário das Partes.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 Após a entrada em vigor do presente Acordo, a Parte em cujo território o mesmo for assinado deverá submetê-lo para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar-lhe o número de registo atribuído.
 
@@ -250,9 +250,9 @@ Nuno Crato, Ministro da Educação e Ciência.
 
 PELO GOVERNO DA REPÚBLICA DA TURQUIA:
 
-Fikri [([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf))](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf), Ministro da Ciência Indústria e Tecnologia.
+Fikri [(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf), Ministro da Ciência Indústria e Tecnologia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf))](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY ON SCIENTIFIC AND TECHNOLOGICAL COOPERATION.
 
@@ -308,7 +308,7 @@ The Parties shall designate as competent authorities responsible for the impleme
 
 a. For the Portuguese Republic: The Foundation for Science and Technology of the Ministry of Education and Science (FCT);
 
-b. For the Government of the Republic of Turkey: The Scientific and Technological Research Council of Turkey ([([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf))](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf)).
+b. For the Government of the Republic of Turkey: The Scientific and Technological Research Council of Turkey ([(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf)).
 
 ARTICLE V
 
@@ -388,4 +388,4 @@ Nuno Crato, Minister of Education and Science.
 
 FOR THE GOVERNMENT OF THE REPUBLIC OF TURKEY:
 
-Fikri [([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf))](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf), Minister of Science Industry and Technology.
+Fikri [(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/10500/0302403028.pdf), Minister of Science Industry and Technology.

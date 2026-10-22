@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/89-1979-378875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b55f869e4ae448d5e65289593132d7bc8ad0ea9caf86f6ad3d8557b2d6fc1fbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e99c74c207edd3393a2c884940a89a54080d5d99afec5df5efe9df36652f1a5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ACTO Constitutivo
+- Congresso Postal Universal
+- Convenção
+- Lausana
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:253048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487341:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:59Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +99,15 @@ de 22 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Segundo Protocolo Adicional à Constituição da União Postal Universal, aprovada pelo [Decreto-Lei n.º 47597](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47597-1967-253048), de 21 de Março de 1967, e modificada pelo [Decreto-Lei n.º 257/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1971-487341), de 15 de Junho, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Segundo Protocolo Adicional à Constituição da União Postal Universal, aprovada pelo [Decreto-Lei n.º 47597](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47597-1967-253048), de 21 de Março de 1967, e modificada pelo [Decreto-Lei n.º 257/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1971-487341), de 15 de Junho, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 30 de Julho de 1979.**
+Assinado em 30 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Deuxième Protocole additionnel à la Constitution de l'Union postale universelle
 
@@ -148,9 +161,7 @@ Segundo Protocolo Adicional à Constituição da União Postal Universal
 
 Os plenipotenciários dos Governos dos Países membros da União Postal Universal, reunidos em congresso em Lausana, nos termos do artigo 30, parágrafo 2, da Constituição da União Postal Universal, celebrada em Viena em 10 de Julho de 1964, adoptaram sob reserva de ratificação, as modificações seguintes à dita Constituição.
 
-ARTIGO I
-
-(Artigo 21 modificado)
+###### ARTIGO I — (Artigo 21 modificado)
 
 Despesas da União. Contribuição dos Países membros
 
@@ -166,15 +177,11 @@ b) As despesas relativas à reunião do próximo congresso.
 
 4. No caso de adesão ou de admissão na União, em consequência do artigo 11.º, o Governo da Confederação Suíça determina, de comum acordo com o Governo do país interessado, a classe de contribuição em que este deve ser incluído, no que respeita à repartição das despesas da União.
 
-ARTIGO II
-
-Escolha da classe do contribuição
+###### ARTIGO II — Escolha da classe do contribuição
 
 O artigo 1, parágrafo 3, é aplicável antes da entrada em execução do presente Protocolo Adicional.
 
-ARTIGO III
-
-Adesão ao Protocolo Adicional e aos outros actos do União
+###### ARTIGO III — Adesão ao Protocolo Adicional e aos outros actos do União
 
 1. Os Países membros que não assinaram o presente Protocolo podem aderir ao mesmo em qualquer altura.
 
@@ -182,9 +189,7 @@ Adesão ao Protocolo Adicional e aos outros actos do União
 
 3. Os instrumentos de adesão relativos aos casos previstos nos parágrafos 1 e 2 são transmitida, por via diplomática ao Governo do país sede, que notifica esse depósito aos Países membros.
 
-ARTIGO IV
-
-Entrada em vigor o duração do Protocolo Adicional à Constituição de União Postal Universal
+###### ARTIGO IV — Entrada em vigor o duração do Protocolo Adicional à Constituição de União Postal Universal
 
 O presente Protocolo Adicional entrará em vigor no dia 1 de Janeiro de 1976 o vigorará por tempo indeterminado.
 

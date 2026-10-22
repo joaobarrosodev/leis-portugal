@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47-1981-389035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35f4dc77c2b89ce95bb6ef10e2248c9d5e1c023ad7020018d76898a790cf0356
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97d379d497e97aeb5feed0ae0ea508dd39e445dd571fd842d0f6de6c78869ce4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- TIR
+- Transporte de Mercadorias
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:56Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +93,11 @@ Considerando que a Convenção Aduaneira Relativa ao Transporte Internacional de
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º No texto francês da regra 10, c), do anexo 1 é suprimida a seguinte frase:
+Artigo 1.º No texto francês da regra 10, c), do anexo 1 é suprimida a seguinte frase:
 
 Lorsqu'il n'y a pas assez d'espace pour inscrire sur le manifeste toutes les marchandises transportées.
 
-###### Art. 2.º No anexo 6 do texto francês, a seguir ao n.º 0.45, é inserida a seguinte nota explicativa:
+Art. 2.º No anexo 6 do texto francês, a seguir ao n.º 0.45, é inserida a seguinte nota explicativa:
 
 Annexe 1
 
@@ -103,11 +107,11 @@ Annexe 1
 
 Listes de chargement annexées au manifeste des marchandises. - L'article 10, c), des règles relatives à l'utilisation du carnet TIR autorise l'utilisation, sous forme d'annexe à ce carnet, de listes de chargement, même s'il y a assez d'espace pour inscrire sur le manifeste toutes les marchandises transportées. Toutefois, cette pratique n'est autorisée que si ces listes présentent, sous une forme lisible et reconnaissable, toutes les indications requises aux fins du manifeste des marchandises et si toutes les autres dispositions de la règle 10, c), sont respectées.
 
-###### Art. 3.º No texto português da regra 10, c), do anexo 1 é suprimida a seguinte frase:
+Art. 3.º No texto português da regra 10, c), do anexo 1 é suprimida a seguinte frase:
 
 Quando não houver espaço suficiente para inscrever no manifesto todas as mercadorias transportadas.
 
-###### Art. 4.º No anexo 6 do texto português, a seguir ao n.º 0.45, é inserida a seguinte nota explicativa:
+Art. 4.º No anexo 6 do texto português, a seguir ao n.º 0.45, é inserida a seguinte nota explicativa:
 
 ## Anexo 1
 
@@ -119,8 +123,8 @@ Listas de carga anexas ao manifesto das mercadorias. - O artigo 10.º, c), das r
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 30 de Março de 1981.**
+Assinado em 30 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

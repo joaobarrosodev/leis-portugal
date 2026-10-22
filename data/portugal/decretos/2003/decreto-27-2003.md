@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/27/2003/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/27-2003-541854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:15:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48e8e12d9bfb84e883ca40de595e351ce76865b42b694ad82b791e2919611477
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46b724c37e22caf6c72185333a0483e5f20886b8d1d7a8551c0f6e830923d435
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:15:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
 subjects:
 - Budapeste
 - Convenção
-- Portugal
 - Hungria
+- Portugal
 - Relações Consulares
 relationships: []
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:15:04Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona.
 
-**Assinado em 2 de Maio de 2003.**
+Assinado em 2 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Maio de 2003.**
+Referendado em 6 de Maio de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 CONVENÇÃO CONSULAR ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA HUNGRIA
 
@@ -370,21 +370,21 @@ As Partes colaborarão, na base de entendimento ad hoc, no sentido de fornecer p
 
 3 - A denúncia da presente Convenção não prejudicará os procedimentos consulares iniciados antes do término da Convenção.
 
-**Assinada em Budapeste, aos 4 de Novembro de 2002, em dois exemplares originais, nas línguas portuguesa e húngara, fazendo ambos os textos igualmente fé.**
+Assinada em Budapeste, aos 4 de Novembro de 2002, em dois exemplares originais, nas línguas portuguesa e húngara, fazendo ambos os textos igualmente fé.
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Pela República da Hungria:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
-## ANEXO — [(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+## ANEXO — [[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Informação relativa ao direito a protecção consular da pessoa detida
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Nos termos do artigo 14.º da Convenção Consular entre a República Portuguesa e a República da Hungria:
 
@@ -404,49 +404,49 @@ c) O cônsul tem o direito de:
 
 O cônsul abster-se-á do exercício dos direitos previstos na alínea c) se V. Ex.ª prescindir da sua intervenção através de uma declaração feita na presença do cônsul.
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Eu, abaixo assinado, ... (nome da pessoa detida), declaro que li e entendi quanto precede.
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Dado em ..., aos ... de ... de ...
 
 ...
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 (assinatura da pessoa detida)
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Declaração
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Eu, abaixo assinado, ... (nome da pessoa detida), exercendo o meu direito, previsto na alínea c) do presente guia informativo, declaro, na presença do cônsul, que não desejo que o cônsul tome quaisquer medidas no meu interesse.
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Dado em ..., aos ... de ... de ...
 
 ...
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 (assinatura do cônsul)
 
 ...
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 (assinatura da pessoa detida)
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Informação relativa ao direito à protecção consular da pessoa detida
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Nos termos do artigo 14.º da Convenção Consular entre a República Portuguesa e a República da Hungria:
 
@@ -466,40 +466,40 @@ c) O cônsul tem o direito de:
 
 O cônsul abster-se-á do exercício dos direitos previstos na alínea c) se V. Ex.ª prescindir da sua intervenção através de uma declaração feita na presença do cônsul.
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Eu, abaixo assinado, ... (nome da pessoa detida), declaro que li e entendi quanto precede.
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Dado em ..., aos ... de ... de ...
 
 ...
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 (assinatura da pessoa detida)
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Declaração
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Eu, abaixo assinado, ... (nome da pessoa detida), exercendo o meu direito, previsto na alínea c) do presente guia informativo, declaro, na presença do cônsul, que não desejo que o cônsul tome quaisquer medidas no meu interesse.
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 Dado em ..., aos ... de ... de ...
 
 ...
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 (assinatura do cônsul)
 
 ...
 
-[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)](https://files.diariodarepublica.pt/1s/2003/05/117a00/31523162.pdf)
 
 (assinatura da pessoa detida)

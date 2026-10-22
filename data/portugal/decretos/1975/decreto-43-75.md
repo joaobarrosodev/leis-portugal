@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/02/02700/01390140.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43-1975-159490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62892fb95412f7cf99f004275dea8caeab94f700643a6d75e8c7c4953d05bc0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dca11667e1d0bab536de1930f8f146935767442b9ce74d18e5439301851cbfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hoteleiro
+- Indústria Hoteleira
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:161897:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:161897:por
+  label: "Revogado pelo DEC LEI.194/75.12.04.1975.MECO, DG.IS [86] de 12.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1975-161897
+  date: '1975-04-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:36Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +115,9 @@ A solução adoptada é a única que corresponde a uma justa remuneração do in
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 172.º, 208.º, 244.º e 249.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 172.º, 208.º, 244.º e 249.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 172.º - 1. No exterior dos restaurantes, e na proximidade imediata da entrada destinada aos clientes, será obrigatoriamente afixada a lista do dia, em local destacado, e em termos de permitir uma fácil e completa leitura, sem necessidade de para isso se entrar no estabelecimento.
+Art. 172.º - 1. No exterior dos restaurantes, e na proximidade imediata da entrada destinada aos clientes, será obrigatoriamente afixada a lista do dia, em local destacado, e em termos de permitir uma fácil e completa leitura, sem necessidade de para isso se entrar no estabelecimento.
 
 2. Havendo várias entradas destinadas aos clientes dando para diferentes artérias ou lugares públicos, deve observar-se, em relação a cada uma dessas entradas, o disposto no número anterior.
 
@@ -124,7 +137,7 @@ c) A composição e o preço da refeição completa, quando o estabelecimento a 
 
 ...
 
-###### Art. 208.º - 1. ...
+Art. 208.º - 1. ...
 
 2. ...
 
@@ -138,22 +151,22 @@ c) A composição e o preço da refeição completa, quando o estabelecimento a 
 
 ...
 
-###### Art. 244.º As infracções do disposto nos artigos 172.º e 173.º serão punidas com a multa de 1000$00 a 10000$00.
+Art. 244.º As infracções do disposto nos artigos 172.º e 173.º serão punidas com a multa de 1000$00 a 10000$00.
 
-###### Art. 249.º - 1. ...
+Art. 249.º - 1. ...
 
 2. As infracções do disposto nos n.os 2 a 6 do artigo 208.º serão punidas com multa de 1000$00 a 10000$00.
 
-###### Art. 2.º O disposto no artigo 172.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), com a redacção que lhe é dada pelo artigo 1.º do presente diploma, é aplicável a todos os estabelecimentos similares nos quais sejam servidas refeições.
+Art. 2.º O disposto no artigo 172.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), com a redacção que lhe é dada pelo artigo 1.º do presente diploma, é aplicável a todos os estabelecimentos similares nos quais sejam servidas refeições.
 
-###### Art. 3.º Ficam revogados os artigos 176.º, 177.º e 226.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226).
+Art. 3.º Ficam revogados os artigos 176.º, 177.º e 226.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226).
 
-###### Art. 4.º Salvo o disposto nos artigos 3.º e 4.º, que são de aplicação imediata, o presente diploma entrará em vigor sessenta dias após a data da sua publicação no Diário do Governo.
+Art. 4.º Salvo o disposto nos artigos 3.º e 4.º, que são de aplicação imediata, o presente diploma entrará em vigor sessenta dias após a data da sua publicação no Diário do Governo.
 
 Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 24 de Janeiro de 1975.**
+Promulgado em 24 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

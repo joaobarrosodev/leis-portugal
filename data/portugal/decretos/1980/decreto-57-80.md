@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/57-1980-470247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 701e9eaf3039c2d12c969f38829de2695f5444820412b34e2e6e77d6674c261d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3a7bc60c3b0ec98d4c7e43d35d7460d369d2c0cdcdab7b02c6a2b0fd8d4d662
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- OIT
+- Política Social
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:44Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 1 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção n.º 117, relativa aos objectos e normas de base da política social, adoptada pela Conferência Internacional do Trabalho na sua 46.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção n.º 117, relativa aos objectos e normas de base da política social, adoptada pela Conferência Internacional do Trabalho na sua 46.ª sessão, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 7 de Julho de 1980.**
+Assinado em 7 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention 117
 
@@ -390,7 +394,7 @@ Considerando que deveriam tomar-se todas as iniciativas possíveis para interess
 
 adopta, neste dia 22 de Junho de 1962, a seguinte convenção, que será denominada «Convenção sobre a Política Social (Objectivos e Normas de Base), 1962»:
 
-# PARTE I — Princípios gerais
+## PARTE I — Princípios gerais
 
 ###### ARTIGO 1.º
 
@@ -398,7 +402,7 @@ adopta, neste dia 22 de Junho de 1962, a seguinte convenção, que será denomin
 
 2 - Na definição de todas as políticas de alcance geral serão devidamente consideradas as repercussões dessas políticas sobre o bem-estar da população.
 
-# PARTE II — Melhoria dos níveis de vida
+## PARTE II — Melhoria dos níveis de vida
 
 ###### ARTIGO 2.º
 
@@ -438,7 +442,7 @@ e) Reduzir os custos da produção e da distribuição por todos os meios possí
 
 2 - Ao fixar o nível de vida mínimo, deverão ter-se em conta as necessidades familiares essenciais dos trabalhadores, incluindo a alimentação e o seu valor nutritivo, a habitação, o vestuário, a assistência médica e a educação.
 
-# PARTE III — Disposições relativas aos trabalhadores migrantes
+## PARTE III — Disposições relativas aos trabalhadores migrantes
 
 ###### ARTIGO 6.º
 
@@ -460,7 +464,7 @@ Quando, a título temporário, se apelar em favor de uma região para os recurso
 
 Quando os trabalhadores e a sua família se deslocarem de uma região em que o custo de vida é baixo para uma região em que o custo de vida for mais elevado, deve ter-se em conta o aumento do custo de vida provocado por essa mudança de residência.
 
-# PARTE IV — Remuneração dos trabalhadores e questões conexas
+## PARTE IV — Remuneração dos trabalhadores e questões conexas
 
 ###### ARTIGO 10.º
 
@@ -510,7 +514,7 @@ c) Limitar as somas descontadas a título de bens e serviços que constituam um 
 
 2 - Tomar-se-ão todas as medidas práticas e possíveis para a protecção dos assalariados e dos produtores independentes contra a usura, em particular através de medidas destinadas à redução das taxas de juro sobre os empréstimos, pela fiscalização das operações dos prestamistas e pelo encorajamento de sistemas de empréstimos, para fins apropriados, por meio de organizações cooperativas de crédito ou de instituições sujeitas à superintendência da autoridade competente.
 
-# PARTE V
+## PARTE V
 
 Não discriminação no domínio da raça, da cor, do sexo, da crença, da qualidade de membro de um grupo tradicional ou da filiação sindical.
 
@@ -542,7 +546,7 @@ i) Aos valores salariais, que devem ser estabelecidos de acordo com o princípio
 
 4 - As disposições precedentes deste artigo não poderão causar prejuízo às medidas que a autoridade competente julgar necessário ou oportuno tomar a fim de proteger a maternidade e de garantir a saúde, a segurança e o bem-estar das trabalhadoras.
 
-# PARTE VI — Educação e formação profissional
+## PARTE VI — Educação e formação profissional
 
 ###### ARTIGO 15.º
 
@@ -558,7 +562,7 @@ i) Aos valores salariais, que devem ser estabelecidos de acordo com o princípio
 
 2 - As autoridades competentes encarregar-se-ão da organização e da superintendência dessa formação profissional, após consulta das organizações patronais e de trabalhadores do país donde vêm os candidatos e do país da formação.
 
-# PARTE VII — Disposições finais
+## PARTE VII — Disposições finais
 
 ###### ARTIGO 17.º
 

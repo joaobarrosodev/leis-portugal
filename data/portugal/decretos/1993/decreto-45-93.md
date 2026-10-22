@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/45/1993/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-1993-552318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc827ff93231b9620f410ef91a5a15fca8a248986d9e43f5d64f570c400a0c03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccae86cdf8e89f7f4901b145001f376f69ef4d508958b865e978eb01844570fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,83 @@ relationships:
   target: pt:dre:2405468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621157:por
+  label: "Alterado o anexo III, na parte referente à classificação da «Igreja Paroquial de Nossa Senhora da Oliveira, no distrito\
+    \ de Setúbal, pelo DEC.2/96.06.03.1996.MC, DR.IS-B [56] de 06.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/2-1996-621157
+  date: '1996-03-06'
+- type: amended_by
+  target: pt:dre:115499504:por
+  label: Desclassificado o Palácio dos Condes de Mesquitela, no Largo Dr. António de Sousa Macedo, 1 a 1-N, na Travessa do
+    Alcaide, 19 a 19-B, na Rua do Sol a Santa Catarina, 30-A a 30-C, e na Travessa dos Judeus, 2 a 4-B, em Lisboa, pelo(a)
+    Portaria n.º 348/2018 - Diário da República n.º 112/2018, Série II de 2018-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/348-2018-115499504
+  date: '2018-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-f/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-f/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616463:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2405468:por
+  label: Rectificada a localização do Palácio Pombal, largo e chafariz fronteiro, sito na freguesia de Santa Catarina, concelho
+    e distrito de Lisboa, pela PORT.1276/2009.27.11.2009.MC, DR.IIS [231] de 27.11.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1276-2009-2405468
+  date: '2009-11-27'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:48Z'
   warnings: []
   errors: []
 ---
@@ -176,15 +239,15 @@ Presidência do Conselho de Ministros, 4 de Outubro de 1993.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Assinado em 3 de Novembro de 1993.**
+Assinado em 3 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1993.**
+Referendado em 4 de Novembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Monumentos nacionais
 

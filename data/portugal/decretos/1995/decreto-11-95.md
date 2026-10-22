@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/11/1995/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-1995-515222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 442912fad4c79f5462b809ceb8f24ae4955a219f4f52a97214ef4a7c2f8a5fdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26aef1b39c483e48cbd9f434622d1df0eda94de6a68c349589fd3524386287b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Bruxelas
 - CECA
+- Comissão CE
 - Convenção
 - Portugal
-- Comissão CE
 - Prazo
 - Trabalhador
 - Tratado CECA
-- Bruxelas
 relationships:
 - type: cites
   target: eli:/application/external/ceca
   label: null
   source: /application/external/ceca
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:31Z'
   warnings: []
   errors: []
 ---
@@ -101,19 +101,19 @@ de 29 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas as alterações ao artigo 11.º e ao n.º 2 do artigo 12.º da Convenção entre a Comissão das Comunidades Europeias e o Governo Português para definir as condições e modalidades de concessão dos auxílios previstos na alínea c) do n.º 1 e na alínea b) do n.º 2 do artigo 56.º do [Tratado CECA](https://diariodarepublica.pt/application/external/ceca), assinada em Bruxelas, a 13 de Julho de 1989, cujo texto segue em anexo ao presente decreto.
+Artigo único. São aprovadas as alterações ao artigo 11.º e ao n.º 2 do artigo 12.º da Convenção entre a Comissão das Comunidades Europeias e o Governo Português para definir as condições e modalidades de concessão dos auxílios previstos na alínea c) do n.º 1 e na alínea b) do n.º 2 do artigo 56.º do [Tratado CECA](https://diariodarepublica.pt/application/external/ceca), assinada em Bruxelas, a 13 de Julho de 1989, cujo texto segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1995. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - José Bernardo Veloso Falcão e Cunha.
 
-**Assinado em 17 de Março de 1995.**
+Assinado em 17 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Março de 1995.**
+Referendado em 20 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Instrumentos para a aprovação das alterações à convenção bilateral Portugal/Comissão das Comunidades Europeias sobre a Concessão de Auxílios à adaptação previstos no artigo 56.º do [Tratado CECA](https://diariodarepublica.pt/application/external/ceca).
 

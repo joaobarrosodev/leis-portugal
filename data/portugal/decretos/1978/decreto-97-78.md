@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/97-1978-329647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc22388d69d2cd53a1c252a2725abc1b7b89a92d70617d89572a124750dafd50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7935e519b6f6e4720a5d579b3204e0e9fa7b6cb75ac9d69d451023e5e788014f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Emigração
+- Portugal
+- Venezuela
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:27Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 13 de Setembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Operacional de Emigração entre o Governo da República Portuguesa e o Governo da República da Venezuela, assinado em Caracas em 29 de Maio de 1978, cujos textos em português e venezuelano vão anexos ao presente decreto.
+Artigo único. É aprovado o Acordo Operacional de Emigração entre o Governo da República Portuguesa e o Governo da República da Venezuela, assinado em Caracas em 29 de Maio de 1978, cujos textos em português e venezuelano vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Firmino Miguel - Vítor Augusto Nunes de Sá Machado.
 
-**Assinado em 10 de Agosto de 1978.**
+Assinado em 10 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo Operacional de Emigração entre o Governo da República Portuguesa e o Governo da República da Venezuela.
 
@@ -104,7 +108,7 @@ Convencidos de que para ambos os países será proveitosa a emigração de traba
 
 Decidem subscrever, para o efeito, o seguinte Acordo Operacional de Emigração, fundamentado no espírito de colaboração internacional fortalecido pelos vínculos de amizade existentes:
 
-ARTIGO I
+###### ARTIGO I
 
 Os objectivos deste Acordo são:
 
@@ -114,7 +118,7 @@ Os objectivos deste Acordo são:
 
 3. Facilitar a deslocação dos familiares dos emigrantes portugueses, tendo em vista o estabelecimento destes no país.
 
-ARTIGO II
+###### ARTIGO II
 
 1 - O organismo competente da Parte Portuguesa para a execução das normas previstas neste Acordo é a Direcção-Geral de Emigração, da Secretaria de Estado dos Negócios Estrangeiros e da Emigração (DGE).
 
@@ -124,13 +128,13 @@ ARTIGO II
 
 4 - O Governo Venezuelano comunicará, por via diplomática, ao Governo Português a designação de representações em Portugal para entrevistar os trabalhadores portugueses interessados, examinar a adequação das características das ofertas de trabalho transmitidas à Direcção-Geral de Emigração (DGE) e realizar a selecção médica.
 
-ARTIGO III
+###### ARTIGO III
 
 1 - A Parte Venezuelana encomendará ao CIME, ou a outro organismo que considere pertinente, os serviços relacionados com a selecção, transporte, recepção, colocação e integração dos trabalhadores emigrantes, tal como se prevê no Convénio sobre Normas Operativas e no Acordo Complementar subscrito entre o Governo da Venezuela e o Comité Intergovernamental para as Migrações Europeias.
 
 2 - A parte portuguesa, igualmente membro do CIME, poderá encomendar os serviços atrás referidos a este Comité.
 
-ARTIGO IV
+###### ARTIGO IV
 
 A emigração para a Venezuela poderá efectuar-se mediante ofertas de trabalho individuais ou colectivas realizadas através do PRH.
 
@@ -148,11 +152,11 @@ C) Programa de mão-de-obra permanente (MOP):
 
 Neste programa enquadram-se os emigrantes que entrem na Venezuela sem uma colocação predeterminada para preencher carências de mão-de-obra especializada em sectores ou empresas. A avaliação das necessidades e a qualificação dos trabalhadores serão fixadas pelo PRH.
 
-ARTIGO V
+###### ARTIGO V
 
 A DGE informará o PRH acerca das disponibilidades de trabalhadores e respectivas qualificações profissionais existentes nos registos dos serviços de emprego portugueses e que hajam manifestado o seu desejo de emigrar para a Venezuela.
 
-ARTIGO VI
+###### ARTIGO VI
 
 O PRH comunicará à DGE as ofertas de trabalho especificando o seguinte:
 
@@ -172,7 +176,7 @@ O PRH comunicará à DGE as ofertas de trabalho especificando o seguinte:
 
 8. Outros requisitos, condições e observações que permitam cumprir integralmente a oferta.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - A DGE, em colaboração com os serviços de emprego portugueses, realizará o recrutamento e a pré-selecção dos trabalhadores.
 
@@ -182,11 +186,11 @@ ARTIGO VII
 
 4 - A DGE efectuará as diligências pertinentes para que os trabalhadores portugueses seleccionados pelo competente organismo venezuelano sejam munidos com a documentação portuguesa necessária à sua emigração para a Venezuela, incluindo o passaporte.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 A DGE remeterá ao PRH a documentação profissional e pessoal dos trabalhadores pré-selecionados. O PRH comunicará à DGE os resultados do processo. Os trabalhadores portugueses serão informados pela DGE da decisão que vier a ser tomada.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - Aos trabalhadores que preencham os requisitos do Programa de Recursos Humanos para entrar na Venezuela ser-lhes-á passado um contrato de trabalho de acordo com as disposições legais e contratuais da Venezuela.
 
@@ -196,29 +200,29 @@ ARTIGO IX
 
 4 - O contrato de trabalho estará sujeito em todas as suas cláusulas à legislação venezuelana e respectiva contratação colectiva. Estipular-se-á a jurisdição dos tribunais venezuelanos como a competente para dirimir os diferendos que surjam de sua interpretação ou execução.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - O PRH encarregar-se-á junto das competentes autoridades venezuelanas dos vistos de entrada e dos documentos de identificação necessários que permitam aos trabalhadores seleccionados residir e trabalhar legalmente na Venezuela.
 
 2 - Além disso o PRH encarregar-se-á junto das competentes autoridades venezuelanas para que aos trabalhadores portugueses seja concedida autorização para importarem, de acordo com as disposições legais correspondentes, os seus objectos pessoais, livros, ferramentas e equipamento técnico relacionados com a sua profissão, de uma só vez, com isenção de impostos alfandegários e outras cargas fiscais e num prazo de três meses após a entrada do trabalhador na Venezuela.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1 - O transporte dos trabalhadores, contratados de acordo com as normas estabelecidas no presente Acordo, deverá efectuar-se, de preferência em navios e aviões de empresas venezuelanas ou portuguesas, mediante uma participação equitativa das linhas marítimas e aéreas de ambas as Partes.
 
 2 - Os trabalhadores portugueses e respectivas mulheres e filhos menores poderão beneficiar na viagem para a Venezuela de tarifas especiais concebidas pelas empresas de transporte venezuelanas e portuguesas ao CIME e outros organismos.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1 - O trabalhador deve viajar só e posteriormente poderá solicitar autorização para a deslocação dos seus familiares para a Venezuela.
 
 2 - A esposa e os filhos menores do trabalhador emigrante serão autorizados a reunir-se-lhe sempre que este disponha de um alojamento higiénico para a sua família, suficiente e equiparável ao dos trabalhadores nacionais na localidade onde esteja empregado, bem como dos meios económicos suficientes para a manutenção do agregado familiar.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Os trabalhadores contratados poderão enviar para Portugal, de acordo com legislação em vigor na Venezuela, fundos provenientes do seu trabalho.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1 - O PRH velará para que os emigrantes sejam recebidos no porto ou aeroporto de chegada, lhes sejam dados alojamento e manutenção até que iniciem o trabalho e sejam auxiliados.
 
@@ -226,19 +230,19 @@ ARTIGO XIV
 
 3 - Ambas estas actividades serão desenvolvidas pelo organismo de apoio venezuelano.
 
-ARTIGO XV
+###### ARTIGO XV
 
 Para atingir de forma prática e eficaz a finalidade do presente Acordo poder-se-ão convocar, por via diplomática, reuniões especiais de representantes de ambos os Governos para examinar a sua devida execução e apresentar às Partes sugestões sobre a sua eventual actualização.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 Os diferendos que possam surgir na interpretação ou aplicação do presente Acordo decidir-se-ão por acordo entre ambas as Partes.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 O presente Acordo poderá ser denunciado, em qualquer altura, por escrito, por qualquer das Partes e os seus efeitos cessarão seis meses após esta data. A denúncia não afectará os programas e projectos em execução, salvo se as Partes Contratantes decidirem o contrário.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 1 - O presente Acordo entrará em vigor a partir da data da última das notificações que se façam as Partes Contratantes de terem cumprido as formalidades legais internas exigidas para tal fim.
 
@@ -254,4 +258,4 @@ Pelo Governo da República da Venezuela:
 
 Jorge Gómez Mantellini, Encarregado do Ministério das Relações Exteriores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21100/19051910.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21100/19051910.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21100/19051910.pdf)

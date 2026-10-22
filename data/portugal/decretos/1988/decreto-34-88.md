@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1988-355487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 673639073703f598d4fa306cfcc9a84a86bea8d7b595ee20d04703784acc042b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6c63d09f9d62606b2b3ff950b35a561f2b6478a0e7602f9b5f311f8eea49f1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cacau
+- Convenção
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:554581:por
+  label: "Tornado público ter sido prorrogado em parte, pelo período de dois anos a contar de 1 de Outubro de 1990, o Acordo\
+    \ Internacional sobre o Cacau, 1986, concluído em Genebra em 25 de Julho, pelo AV.DD2003.02.10.1990.MNE, DR.IS [228] de\
+    \ 02.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1990-554581
+  date: '1990-10-02'
 article_structure:
-  article_count: 78
+  article_count: 77
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:38Z'
   warnings: []
   errors: []
 ---
@@ -86,17 +96,17 @@ de 22 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Internacional sobre o Cacau, concluído em Genebra a 25 de Julho de 1986, cujo texto original em francês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo Internacional sobre o Cacau, concluído em Genebra a 25 de Julho de 1986, cujo texto original em francês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 1988. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Joaquim Martins Ferreira do Amaral.
 
 Ratificado em 19 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1988.**
+Referendado em 23 de Agosto de 1988.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.
 
@@ -1352,7 +1362,7 @@ ANNEXE D
 
 Exportations de cacao calculées aux fins de l'article 70 (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf)
 
 (nota a) Moyenne, pour les trois années 1982-1983 à 1984-1985, des exportations nettes de fèves de cacao, augmentées des exportations nettes de produits dérivés du cacao, converties en équivalent fèves de cacao par application des coefficients de conversion prévus à l'article 28.
 
@@ -1362,7 +1372,7 @@ ANNEXE E
 
 Exportations de cacao calculées aux fins de l'article 70 (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf)
 
 (nota a) Moyenne, pour les trois années 1982-1983 à 1984-1985, des exportations nettes de fèves de cacao, augmentées des exportations nettes de produits dérivés du cacao, converties en équivalent fèves de cacao par application des coefficients de conversion prévus à l'article 28.
 
@@ -2220,7 +2230,7 @@ O presente Acordo estará aberto na sede da Organização das Nações Unidas de
 
 ###### Artigo 66.º — Depositário
 
-**O Secretário-Geral da Organização das Nações Unidas é o depositário do presente Acordo.**
+O Secretário-Geral da Organização das Nações Unidas é o depositário do presente Acordo.
 
 ###### Artigo 67.º — Ratificação, aceitação ou aprovação
 
@@ -2426,7 +2436,7 @@ Papuásia-Nova Guiné (75%).
 
 ## ANEXO D — Exportações de cacau calculadas para efeitos do artigo 70.º (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf)
 
 (nota a) Média de três anos, 1982-1983 a 1984-1985, das exportações líquidas de cacau em semente acrescidas das exportações líquidas de produtos derivados do cacau, convertidas em equivalente de cacau em semente, por aplicação dos coeficientes de conversão referidos no artigo 28.º
 
@@ -2434,7 +2444,7 @@ Fonte: Secretariado da Organização Internacional do Cacau. Os números baseiam
 
 ## ANEXO E — Importações de cacau calculadas para efeitos do artigo 70.º (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22000/38543896.pdf)
 
 (nota a) Médias para os três anos, 1982-1983 a 1984-1985, das importações líquidas de cacau em semente acrescidas das importações brutas de produtos derivados do cacau, convertidas em equivalente de cacau em semente, por aplicação dos coeficientes de conversão previstos no artigo 28.º
 

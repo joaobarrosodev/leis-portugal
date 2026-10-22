@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 178/1976, 1º Suplemento, Série I de 1976-07-31
   number: '178'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1844-(1) a 1844-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17801/00010003.pdf
 entry_into_force_dates: []
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/654-a-1976-673410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3ee7d1b83ee0a63e1b0cbc396b6cf21d1f2c63677aacd6f2e8a2e8fcbd6b325
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27c886888271df50aae14c5b85b4a8dce16c752e31f19647761f201572ba6bc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Constitucional
+- Definição de Competências
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:389595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:363886:por
+  label: "Alterado o mapa anexo ao presente diploma, pelo DEC.116/79.02.11.1979.CR, DR.IS [253] de 02.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/116-1979-363886
+  date: '1979-11-02'
+- type: amended_by
+  target: pt:dre:389595:por
+  label: "Alterado o art. 2º e o mapa anexo pelo DEC.42/81.02.04.1981.CR, DR.IS [77] de 02.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/42-1981-389595
+  date: '1981-04-02'
+- type: cites
+  target: pt:dre:232941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245514:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408739:por
+  label: Rectificado pela DECL.DD8180.04.09.1976.CR, DR.IS [208] de 04.09.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-408739
+  date: '1976-09-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:37Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +125,11 @@ I
 
 Da secretaria
 
-###### Artigo 1.º Para assegurar o seu expediente a Comissão Constitucional tem uma secretaria com a composição e organização constantes do presente diploma.
+Artigo 1.º Para assegurar o seu expediente a Comissão Constitucional tem uma secretaria com a composição e organização constantes do presente diploma.
 
-###### Art. 2.º A secretaria é integrada pelos elementos constantes do mapa anexo a este diploma, que são requisitados ou admitidos em comissão de serviço, nos termos da lei, sob proposta do presidente da Comissão, devendo o secretário ser um licenciado em Direito de reconhecida competência.
+Art. 2.º A secretaria é integrada pelos elementos constantes do mapa anexo a este diploma, que são requisitados ou admitidos em comissão de serviço, nos termos da lei, sob proposta do presidente da Comissão, devendo o secretário ser um licenciado em Direito de reconhecida competência.
 
-###### Art. 3.º Pertence designadamente à secretaria:
+Art. 3.º Pertence designadamente à secretaria:
 
 a) A execução de todos os serviços relativos ao andamento dos processos;
 
@@ -124,7 +151,7 @@ i) A prática, em geral, de todos os actos de expediente que pela presidência f
 
 j) Assegurar a prestação dos serviços auxiliares necessários ao funcionamento da Comissão e do serviço de apoio.
 
-###### Art. 4.º - 1. Os serviços da secretaria são dirigidos pelo secretário, sob a superintendência do presidente da Comissão.
+Art. 4.º - 1. Os serviços da secretaria são dirigidos pelo secretário, sob a superintendência do presidente da Comissão.
 
 2 - Incumbe especialmente ao secretário:
 
@@ -148,9 +175,9 @@ i) Escriturar e manter sob a sua guarda o livro da correspondência confidencial
 
 j) Fiscalizar as contas de receitas e despesas.
 
-###### Art. 5.º Aos escrivães de direito compete promover o andamento dos processos.
+Art. 5.º Aos escrivães de direito compete promover o andamento dos processos.
 
-###### Art. 6.º Aos oficiais de diligências compete particularmente:
+Art. 6.º Aos oficiais de diligências compete particularmente:
 
 a) Preparar a correspondência para a expedição e fazer o seu registo;
 
@@ -160,21 +187,21 @@ c) Fazer todo o serviço externo que lhes for determinado;
 
 d) Executar tarefas de secretaria que forem compatíveis com as suas habilitações.
 
-###### Art. 7.º Todos os funcionários da secretaria coadjuvam o secretário, executando o trabalho que por ele lhes for ordenado.
+Art. 7.º Todos os funcionários da secretaria coadjuvam o secretário, executando o trabalho que por ele lhes for ordenado.
 
-###### Art. 8.º Haverá na secretaria os registos indispensáveis ao bom andamento dos serviços e tantos livros quantos forem necessários à boa ordem da escrituração.
+Art. 8.º Haverá na secretaria os registos indispensáveis ao bom andamento dos serviços e tantos livros quantos forem necessários à boa ordem da escrituração.
 
 II
 
 Do serviço de apoio
 
-###### Art. 9.º O serviço de apoio é constituído por dois núcleos:
+Art. 9.º O serviço de apoio é constituído por dois núcleos:
 
 a) Um gabinete de apoio ao presidente da Comissão;
 
 b) Um núcleo de apoio documental à Comissão.
 
-###### Art. 10.º Ao núcleo de apoio documental compete:
+Art. 10.º Ao núcleo de apoio documental compete:
 
 a) Organizar a biblioteca e inventariar as publicações recebidas ou adquiridas;
 
@@ -186,7 +213,7 @@ d) Rever as provas dos acordos a publicar em apêndice ao Diário da República;
 
 e) Preparar a edição, pela Imprensa Nacional, da colecção dos acórdãos e pareceres da Comissão, a publicar anualmente, autorizada quanto aos últimos a respectiva publicação pelo Conselho da Revolução.
 
-###### Art. 11.º - 1. Ao gabinete de apoio compete coadjuvar, directamente, o presidente, desempenhando as tarefas que por ele lhe forem determinadas.
+Art. 11.º - 1. Ao gabinete de apoio compete coadjuvar, directamente, o presidente, desempenhando as tarefas que por ele lhe forem determinadas.
 
 2. O gabinete de apoio é constituído por um chefe de gabinete, três adjuntos de gabinete e dois secretários pessoais, os quais têm direito aos vencimentos constantes do quadro anexo ao presente diploma, não podendo beneficiar de quaisquer gratificações ou abonos por trabalho extraordinário.
 
@@ -194,35 +221,35 @@ e) Preparar a edição, pela Imprensa Nacional, da colecção dos acórdãos e p
 
 4. Os elementos do gabinete de apoio cessam as suas funções quando cessarem as do presidente que os escolheu.
 
-###### Art. 12.º - 1. O núcleo de apoio documental é constituído pelos elementos referidos no mapa anexo ao presente diploma.
+Art. 12.º - 1. O núcleo de apoio documental é constituído pelos elementos referidos no mapa anexo ao presente diploma.
 
 2. Os elementos mencionados no número anterior são requisitados ou admitidos em comissão de serviço, nos termos da lei, sob proposta do presidente da Comissão.
 
-###### Art. 13.º O pessoal do serviço de apoio está sob a dependência directa do presidente da Comissão.
+Art. 13.º O pessoal do serviço de apoio está sob a dependência directa do presidente da Comissão.
 
-###### Art. 14.º O presidente pode designar um dos técnicos para orientar a actividade do núcleo de apoio documental.
+Art. 14.º O presidente pode designar um dos técnicos para orientar a actividade do núcleo de apoio documental.
 
-###### Art. 15.º Para o serviço de apoio pode o presidente da Comissão promover o contrato de individualidades de reconhecido mérito para a realização de estudos, inquéritos e outros trabalhos de carácter técnico eventual.
+Art. 15.º Para o serviço de apoio pode o presidente da Comissão promover o contrato de individualidades de reconhecido mérito para a realização de estudos, inquéritos e outros trabalhos de carácter técnico eventual.
 
-###### Art. 16.º - 1. Na requisição, contratação ou nomeação em comissão de serviço, nos termos do artigo 18.º do [Decreto-Lei n.º 503-F/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-f-1976-232941), são observadas, na parte aplicável, as regras constantes do artigo 17.º do [Decreto-Lei n.º 246-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-b-1975-245514), de 21 de Maio.
+Art. 16.º - 1. Na requisição, contratação ou nomeação em comissão de serviço, nos termos do artigo 18.º do [Decreto-Lei n.º 503-F/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-f-1976-232941), são observadas, na parte aplicável, as regras constantes do artigo 17.º do [Decreto-Lei n.º 246-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-b-1975-245514), de 21 de Maio.
 
 2. Ao pessoal admitido segundo as formas mencionadas no número anterior é aplicável o disposto no artigo 23.º do [Decreto-Lei n.º 246-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-b-1975-245514), nos casos em que o presidente da Comissão o achar justificável e, como tal, o propuser ao presidente dos Serviços de Apoio do Conselho da Revolução.
 
-###### Art. 17.º - 1. O Conselho Administrativo dos Serviços de Apoio do Conselho da Revolução presta todo o apoio administrativo e financeiro à Comissão.
+Art. 17.º - 1. O Conselho Administrativo dos Serviços de Apoio do Conselho da Revolução presta todo o apoio administrativo e financeiro à Comissão.
 
 2. Os encargos resultantes da constituição e funcionamento da Comissão, incluindo a secretaria e o serviço de apoio, são suportados, inteiramente, pelos Serviços de Apoio do Conselho da Revolução.
 
 3. Para satisfação de tais encargos e tendo em vista o que preceitua o artigo 52.º do [Decreto-Lei n.º 503-F/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-f-1976-232941), são inscritas, nos anos de 1976 e 1977, dotações globais no orçamento de Encargos Gerais da Nação.
 
-###### Art. 18.º A Imprensa Nacional-Casa da Moeda remeterá à secretaria da Comissão duas colecções completas do Diário da República e do Diário da Assembleia da República.
+Art. 18.º A Imprensa Nacional-Casa da Moeda remeterá à secretaria da Comissão duas colecções completas do Diário da República e do Diário da Assembleia da República.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 31 de Julho de 1976.**
+Promulgado em 31 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal
 

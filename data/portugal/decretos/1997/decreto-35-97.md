@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/35/1997/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-1997-147868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 513fc07a5c3c5a63b13d3f2ffc325f47fa43ee14e3b555619bcd7126996cbf69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b51e1bb27630bc1a71f31f0dfba61f86bb16feccc5a75f4a61b880fbb3239048
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comunicações
 - Convenção
+- Genebra
 - Portugal
 - Quioto
-- Comunicações
-- Genebra
 - União Internacional das Telecomunicações
 relationships:
 - type: amended_by
   target: pt:dre:302100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302100:por
+  label: "Aprovados, para ratifica&#231;&#227;o, os Actos Finais da Confer&#234;ncia de Plenipotenci&#225;rios, realizada\
+    \ em Mine&#225;polis, que cont&#233;m as altera&#231;&#245;es &#224; Constitui&#231;&#227;o e &#224; Conven&#231;&#227;o\
+    \ da UIT aprovadas para ratifica&#231;&#227;o pela Res 10-A/95, de 21-Fev, cujas altera&#231;&#245;es foram aprovadas\
+    \ para ratifica&#231;&#227;o pelo presente diploma, pela RES.36/2004.26.02.2004.AR, DR.IS-A [104] de 04.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/36-2004-302100
+  date: '2004-02-26'
 article_structure:
-  article_count: 12
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 11
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:03Z'
   warnings: []
   errors: []
 ---
@@ -121,13 +129,13 @@ Visto e aprovado em Conselho de Ministros de 6 de Março de 1997. - António Man
 
 Ratificado em 22 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Junho de 1997.**
+Referendado em 6 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACTES FINALS DE LA CONFÉRENCE DE PLÉNIPOTENTIAIRES DE L'UNION INTERNATIONALE DES TÉLÉCOMMUNICATIONS (KYOTO, 1994)
 
@@ -3893,7 +3901,7 @@ Instrumento de alteração à Constituição da União Internacional das Telecom
 
 [Alterações adoptadas pela Conferência de Plenipotenciários (Quioto, 1994)]
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 Em virtude e em aplicação das disposições pertinentes da Constituição da União Internacional das Telecomunicações (Genebra, 1992) e, nomeadamente, das disposições do seu artigo 55.º, a Conferência de Plenipotenciários da União Internacional das Telecomunicações (Quioto, 1994) adoptou as seguintes alterações à referida Constituição:
 
@@ -3939,7 +3947,7 @@ MOD 163
 
 4) A classe de contribuição escolhida por cada membro, em conformidade com o n.º 161 ou o n.º 162, será aplicável ao primeiro orçamento bienal a contar do termo do período de seis meses previsto no n.º 161 ou n.º 162.
 
-# PARTE II — Data de entrada em vigor
+## PARTE II — Data de entrada em vigor
 
 As alterações contidas no presente instrumento entrarão em vigor, na sua totalidade e sob a forma de um único instrumento, em 1 de Janeiro de 1996, entre os membros que são partes na Constituição e na Convenção a União Internacional das Telecomunicações (Genebra, 1992) e que tenham depositado, antes desta data, o seu instrumento de ratificação, de aceitação ou de aprovação do presente instrumento ou de adesão ao mesmo.
 
@@ -3953,7 +3961,7 @@ Instrumento de alteração à Convenção da União Internacional das Telecomuni
 
 [Alterações propostas pela Conferência de Plenipotenciários (Quioto, 1994)]
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 Em virtude e em aplicação das disposições pertinentes da Convenção da União Internacional das Telecomunicações (Genebra, 1992) e, nomeadamente, das disposições do seu artigo 42.º, a Conferência de Plenipotenciários da União Internacional das Telecomunicações (Quioto, 1994) adoptou as seguintes alterações à referida Convenção:
 
@@ -4009,7 +4017,7 @@ MOD 379
 
 2) O texto de qualquer proposta importante que deva ser objecto de tradução deverá ser distribuído nas línguas de trabalho da conferência, com a antecedência suficiente para permitir o seu estudo antes da discussão.
 
-###### Artigo 33.º (CV) (ver nota *)
+Artigo 33.º (CV) (ver nota *)
 
 Finanças
 
@@ -4081,7 +4089,7 @@ Observador: pessoa enviada:
 
 em conformidade com as disposições pertinentes da presente Convenção.
 
-# PARTE II — Data da entrada em vigor
+## PARTE II — Data da entrada em vigor
 
 As alterações contidas no presente instrumento entrarão em vigor, na sua totalidade e sob a forma de um único instrumento, em 1 de Janeiro de 1996, entre os membros que são partes na Constituição e na Convenção da União Internacional das Telecomunicações (Genebra, 1992) e que tenham depositado, antes desta data, o seu instrumento de ratificação, de aceitação ou de aprovação do presente instrumento ou de adesão ao mesmo.
 

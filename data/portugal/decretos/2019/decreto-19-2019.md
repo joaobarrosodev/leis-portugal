@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/2019/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-2019-123183038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: deab13ab196f0960627f424be8704b66fd7627bef99c4703c774ca6265fd1446
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5637208f9be8eef64f09b9b894d01a629df0b8428a6dfa039583dfad297df96e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
 - Convenção
 - Cooperação Técnica
-- Portugal
 - Espanha
 - Évora
+- Portugal
+- Proteção Civil
 - Região Fronteiriça
 - Valladolid
 relationships:
@@ -83,13 +83,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:11Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 4 de julho de 2019. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Eduardo Arménio do Nascimento Cabrita.
 
-**Assinado em 8 de julho de 2019.**
+Assinado em 8 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de julho de 2019.**
+Referendado em 10 de julho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 PROTOCOLO ADICIONAL ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA SOBRE AJUDA MÚTUA NAS ZONAS FRONTEIRIÇAS, ADOTADO NOS TERMOS DO ARTIGO 8.º DO PROTOCOLO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA SOBRE COOPERAÇÃO TÉCNICA E ASSISTÊNCIA MÚTUA EM MATÉRIA DE PROTEÇÃO CIVIL, ASSINADO EM ÉVORA, EM 9 DE MARÇO DE 1992.
 
@@ -288,23 +288,23 @@ Pedro Sánchez Pérez-Castejón, Presidente do Governo.
 
 ## ANEXO 1 — Formulário de pedido à DG para a biodiversidade de meios de extinção de incêndios florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
 
 ## ANEXO 2 — Formulário de resposta ao pedido por outros países de meios de extinção de incêndios florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
 
 ## ANEXO 3 — Pontos operacionais do contacto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
 
 ## ANEXO 4 — Formulário de pedido de meios de intervenção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
 
 ## ANEXO 5 — Formulário de resposta a pedidos de meios de intervenção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
 
 PROTOCOLO ADICIONAL ENTRE LA REPÚBLICA PORTUGUESA Y EL REINO DE ESPAÑA SOBRE AYUDA MUTUA EN ZONAS FRONTERIZAS, ADOPTADO EN LOS TÉRMINOS DEL ARTÍCULO 8 DEL PROTOCOLO ENTRE LA REPÚBLICA PORTUGUESA Y EL REINO DE ESPAÑA SOBRE COOPERACIÓN TÉCNICA Y ASISTENCIA MUTUA EN MATERIA DE PROTECCION CIVIL, HECHO EN ÉVORA EL 9 DE MARZO DE 1992.
 
@@ -504,20 +504,22 @@ Pedro Sánchez Pérez-Castejón, Presidente del Gobierno.
 
 ## ANEXO 1 — Formulario de solicitud por otros países de medios de extinción de incendios forestales
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
 
 ## ANEXO 2 — Formulario de respuesta a la solicitud por otros países de medios de extinción de incendios forestales
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
 
 ## ANEXO 3 — Puntos de contacto operativos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
 
 ## ANEXO 4 — Formulario de petición de medios de intervención
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
 
 ## ANEXO 5 — Formulario de respuesta a petición de medios de intervención
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0001300036.pdf)
+
+112437967

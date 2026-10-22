@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00200/0000700007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/2021/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-2021-152850636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d73d846ee480dc0c4c773a6ca75efadb63c7e97798f860fb7f8fa695ee92a8c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fbb6562c30583a5760cd684c68f37195653b043246785da7b66cd009036cef7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,13 +86,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:47Z'
   warnings: []
   errors: []
 ---
@@ -105,16 +105,18 @@ O Governo decreta, nos termos da alínea e) do artigo 199.º da Constituição o
 
 Considerando o disposto no n.º 2 do artigo 24.º do [Decreto-Lei n.º 204/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/545648/details/normal?l=1), de 27 de outubro, conjugado com o disposto no artigo 30.º do [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/145192/details/normal?l=1), de 29 de dezembro, e no artigo 20.º do [Decreto-Lei n.º 40-A/98](https://diariodarepublica.pt/web/guest/pesquisa/-/search/399178/details/normal?l=1), de 27 de fevereiro;
 
-**O Ministro Plenipotenciário de 1.ª classe Paulo João Lopes do Rego Vizeu Pinheiro é promovido a Embaixador, com efeitos a 22 de dezembro de 2020, na vaga resultante da passagem à disponibilidade do Embaixador Francisco Manuel da Fonseca Xavier Esteves.**
+O Ministro Plenipotenciário de 1.ª classe Paulo João Lopes do Rego Vizeu Pinheiro é promovido a Embaixador, com efeitos a 22 de dezembro de 2020, na vaga resultante da passagem à disponibilidade do Embaixador Francisco Manuel da Fonseca Xavier Esteves.
 
 Em 9 de dezembro de 2020. - O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro de Estado e dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.
 
-**Assinado em 15 de dezembro de 2020.**
+Assinado em 15 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de dezembro de 2020.**
+Referendado em 17 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113848622

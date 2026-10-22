@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/15/2007/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-2007-636051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d41ced8018a9b36e0ce06d7a52bec21b682cab9071f799e4680631e4be107964
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51b420769749f95340c8a45e985f20d264c3a4e32a8ac14fb5d3cfd49278d780
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Convenção
-- Portugal
 - Lisboa
+- Portugal
 - Rússia
+- Turismo
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:48Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Bernardo Luís Amador Trindade.
 
-**Assinado em 29 de Junho de 2007.**
+Assinado em 29 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Julho de 2007.**
+Referendado em 5 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A FEDERAÇÃO DA RÚSSIA NO DOMÍNIO DO TURISMO
 
@@ -222,7 +222,7 @@ Pela Federação da Rússia:
 
 Vladimir Strzhalkovsky, Chefe da Agência Federal do Turismo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/13700/0455604560.pdf))](https://files.diariodarepublica.pt/1s/2007/07/13700/0455604560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/13700/0455604560.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE RUSSIAN FEDERATION ON COOPERATION IN THE FIELD OF TOURISM
 

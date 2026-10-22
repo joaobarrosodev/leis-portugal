@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24409260c17f26fb966bfbdb71095561c3ce69c22f855f589dfbcc891a7c740f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2408b452e42728e688309bded337d5b6cac30b4e7fee8a89f164b4766cf20d75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Regulamento do Ministério dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:666295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:500435:por
+  label: Rectificado pela DECL.DD8694.03.04.1976.PCM, DG.IS [80] de 03.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-500435
+  date: '1976-04-03'
+- type: repealed_by
+  target: pt:dre:666295:por
+  label: "Revogados os artigos 31.º, 32.º, 33.º e 34.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo\
+    \ Decreto n.º 47478, de 31 de Dezembro de 1966, na redacção do presente diploma, pelo DR.27/87.15.04.1987.MNE, DR.IS [88]\
+    \ de 15.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/27-1987-666295
+  date: '1987-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:56Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +109,9 @@ de 20 de Fevereiro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 31.º a 34.º, 89.º e 99.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, passam a ter a redacção seguinte:
+Artigo único. Os artigos 31.º a 34.º, 89.º e 99.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, passam a ter a redacção seguinte:
 
-###### Art. 31.º O conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais, pelo inspector diplomático e consular, por doze representantes dos funcionários do serviço diplomático, por doze representantes do pessoal do quadro administrativo, por seis representantes do quadro do pessoal auxiliar ou por seis representantes do restante pessoal, eleitos por um período de dezoito meses, que participarão nas reuniões de acordo com o estipulado nos parágrafos 6.º a 8.º deste artigo.
+Art. 31.º O conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais, pelo inspector diplomático e consular, por doze representantes dos funcionários do serviço diplomático, por doze representantes do pessoal do quadro administrativo, por seis representantes do quadro do pessoal auxiliar ou por seis representantes do restante pessoal, eleitos por um período de dezoito meses, que participarão nas reuniões de acordo com o estipulado nos parágrafos 6.º a 8.º deste artigo.
 
 § 1.º Os doze representantes do pessoal do serviço diplomático serão um ministro plenipotenciário de 1.ª classe, dois ministros plenipotenciários de 2.ª classe, dois conselheiros de embaixada, dois primeiros-secretários, dois segundos-secretários e três terceiros-secretários ou adidos de embaixada, eleitos para o efeito, respectivamente, pelos funcionários de cada uma daquelas categorias.
 
@@ -111,7 +129,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 § 8.º Os representantes do restante pessoal participarão apenas nas reuniões do conselho convocadas para apreciação dos assuntos referidos nos n.os 4), 5) e 7) do artigo seguinte quando respeitem àquele mesmo pessoal.
 
-###### Art. 32.º Compete ao conselho do Ministério:
+Art. 32.º Compete ao conselho do Ministério:
 
 1) Apreciar a aptidão dos adidos de embaixada para efeitos de ingresso definitivo no serviço diplomático;
 
@@ -131,9 +149,9 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 9) Deliberar sobre o projecto anual de inspecção aos serviços externos do Ministério, elaborado pelo inspector diplomático e consular, propô-lo ao Ministro e recomendar ao mesmo as inspecções extraordinárias julgadas convenientes.
 
-###### Art. 33.º O conselho do Ministério deverá reunir-se ordinariamente uma vez por mês e extraordinariamente sempre que for convocado por determinação do Ministro ou do seu presidente, ou a pedido da maioria dos seus membros. Nestes últimos dois casos o Ministro será obrigatoriamente informado da data da reunião do conselho e da respectiva ordem do dia.
+Art. 33.º O conselho do Ministério deverá reunir-se ordinariamente uma vez por mês e extraordinariamente sempre que for convocado por determinação do Ministro ou do seu presidente, ou a pedido da maioria dos seus membros. Nestes últimos dois casos o Ministro será obrigatoriamente informado da data da reunião do conselho e da respectiva ordem do dia.
 
-###### Art. 34.º O conselho só poderá reunir se estiver presente a maioria dos seus membros, devendo as deliberações ser tomadas pela maioria absoluta dos membros presentes, quando não for exigido número superior. As deliberações sobre o mérito dos candidatos ao ingresso definitivo no serviço diplomático, sobre o mérito dos funcionários para efeito de ordenação para promoção, assim como sobre colocações e transferências, carecem de aprovação por maioria de dois terços dos membros presentes, no primeiro escrutínio, e por maioria simples, no segundo.
+Art. 34.º O conselho só poderá reunir se estiver presente a maioria dos seus membros, devendo as deliberações ser tomadas pela maioria absoluta dos membros presentes, quando não for exigido número superior. As deliberações sobre o mérito dos candidatos ao ingresso definitivo no serviço diplomático, sobre o mérito dos funcionários para efeito de ordenação para promoção, assim como sobre colocações e transferências, carecem de aprovação por maioria de dois terços dos membros presentes, no primeiro escrutínio, e por maioria simples, no segundo.
 
 § 1.º A participação nas reuniões do conselho é obrigatória e na falta ou impedimento de algum dos seus membros efectivos deverão os respectivos substitutos legais ou suplentes substituí-los.
 
@@ -145,7 +163,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 ...
 
-###### Art. 89.º A partir do ingresso no serviço diplomático, as promoções até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, fazem-se, por mérito ou por antiguidade, de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.
+Art. 89.º A partir do ingresso no serviço diplomático, as promoções até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, fazem-se, por mérito ou por antiguidade, de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
 § 1.º As promoções referidas no corpo do presente artigo obedecem à ordem estabelecida pelo conselho do Ministério.
 
@@ -161,7 +179,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 ...
 
-###### Art. 99.º As promoções para os lugares de segundo-oficial, primeiro-oficial e chefe de secção serão efectuadas à medida que se verificarem vagas no respectivo quadro, na proporção de três por mérito e uma por antiguidade.
+Art. 99.º As promoções para os lugares de segundo-oficial, primeiro-oficial e chefe de secção serão efectuadas à medida que se verificarem vagas no respectivo quadro, na proporção de três por mérito e uma por antiguidade.
 
 § 1.º O conselho do Ministério, ao elaborar a lista de promoções por mérito, deverá ter em conta os serviços prestados e o conhecimento de línguas estrangeiras, para cuja aprendizagem poderá o Ministro autorizar a concessão de subsídios.
 
@@ -169,8 +187,8 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Ernesto Augusto de Melo Antunes.
 
-**Promulgado em 10 de Fevereiro de 1976.**
+Promulgado em 10 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

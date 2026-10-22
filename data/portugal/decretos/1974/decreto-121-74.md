@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/121-1974-412195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a197dae53282141ebc9ba85dc25ad6f9b4f45271854a1d844d20f9ae86ba6363
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0d32e2d78559f2f5f23227f72b839517f79a510ad69b5ad2bb7702218ceda40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:445731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673845:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:49Z'
   warnings: []
   errors: []
 ---
@@ -88,21 +100,21 @@ Tornando-se necessário actualizar a estrutura orgânica do Instituto de Biologi
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado e posto em execução o Regulamento do Instituto de Biologia Marítima, que faz parte integrante deste decreto.
+Artigo 1.º É aprovado e posto em execução o Regulamento do Instituto de Biologia Marítima, que faz parte integrante deste decreto.
 
-###### Art. 2.º É revogado o [Decreto n.º 136/71](https://diariodarepublica.pt/dr/detalhe/decreto/136-1971-445731), de 9 de Abril.
+Art. 2.º É revogado o [Decreto n.º 136/71](https://diariodarepublica.pt/dr/detalhe/decreto/136-1971-445731), de 9 de Abril.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 14 de Março de 1974.**
+Promulgado em 14 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DO INSTITUTO DE BIOLOGIA MARÍTIMA
 
-###### Artigo 1.º - 1. O Instituto de Biologia Marítima (IBM) é um organismo do Ministério da Marinha tendo por finalidade a investigação no domínio da biologia marítima aplicada aos recursos naturais e à aquacultura, competindo-lhe essencialmente:
+Artigo 1.º - 1. O Instituto de Biologia Marítima (IBM) é um organismo do Ministério da Marinha tendo por finalidade a investigação no domínio da biologia marítima aplicada aos recursos naturais e à aquacultura, competindo-lhe essencialmente:
 
 a) Estudar a biologia das espécies de animais e plantas marinhos que tenham interesse económico, com vista à sua exploração racional;
 
@@ -142,15 +154,15 @@ n) Facultar, na medida das suas possibilidades, os meios de que dispõe a cienti
 
 b) Nos casos em que a exploração é feita por embarcações ou organismos que tenham base em territórios ultramarinos a acção do Instituto exercer-se-á a pedido das autoridades competentes.
 
-###### Art. 2.º O Instituto de Biologia Marítima é dirigido por um licenciado em Ciências Biológicas do quadro do pessoal civil do Ministério da Marinha, escolhido pelo Ministro da Marinha, não devendo ter categoria inferior a investigador de 1.ª classe.
+Art. 2.º O Instituto de Biologia Marítima é dirigido por um licenciado em Ciências Biológicas do quadro do pessoal civil do Ministério da Marinha, escolhido pelo Ministro da Marinha, não devendo ter categoria inferior a investigador de 1.ª classe.
 
-###### Art. 3.º - 1. O director do Instituto de Biologia Marítima é coadjuvado por um subdirector, licenciado em Ciências Biológicas, do quadro do pessoal civil do Ministério da Marinha, que o substituirá nos seus impedimentos.
+Art. 3.º - 1. O director do Instituto de Biologia Marítima é coadjuvado por um subdirector, licenciado em Ciências Biológicas, do quadro do pessoal civil do Ministério da Marinha, que o substituirá nos seus impedimentos.
 
 2. O subdirector é nomeado pelo Ministro da Marinha, mediante proposta do director, não devendo ter categoria inferior a investigador de 1.ª classe.
 
-###### Art. 4.º O subdirector do Instituto de Biologia Marítima é coadjuvado por um adjunto, investigador do quadro do pessoal civil do Ministério da Marinha, não devendo ter categoria inferior a investigador de 2.ª classe.
+Art. 4.º O subdirector do Instituto de Biologia Marítima é coadjuvado por um adjunto, investigador do quadro do pessoal civil do Ministério da Marinha, não devendo ter categoria inferior a investigador de 2.ª classe.
 
-###### Art. 5.º Ao director compete, de uma maneira geral, dirigir e fiscalizar toda a actividade do Instituto, e em especial:
+Art. 5.º Ao director compete, de uma maneira geral, dirigir e fiscalizar toda a actividade do Instituto, e em especial:
 
 a) Propor os planos anuais e ocasionais de estudos e trabalhos;
 
@@ -164,7 +176,7 @@ e) Nomear o adjunto do subdirector e o pessoal dos serviços e demais órgãos d
 
 f) Informar, louvar e punir o pessoal do Instituto, nos termos da legislação em vigor.
 
-###### Art. 6.º O subdirector coadjuva o director na direcção do Instituto, substitui-o nas suas faltas e impedimentos e compete-lhe especialmente:
+Art. 6.º O subdirector coadjuva o director na direcção do Instituto, substitui-o nas suas faltas e impedimentos e compete-lhe especialmente:
 
 a) Exercer, por delegação do director, as funções que por este lhe forem atribuídas;
 
@@ -172,9 +184,9 @@ b) Chefiar o serviço do pessoal;
 
 c) Orientar superiormente o serviço da secretaria central.
 
-###### Art. 7.º O adjunto do subdirector coadjuva o subdirector na direcção do Instituto, e exerce, por delegação deste, as funções que lhe forem atribuídas.
+Art. 7.º O adjunto do subdirector coadjuva o subdirector na direcção do Instituto, e exerce, por delegação deste, as funções que lhe forem atribuídas.
 
-###### Art. 8.º O Instituto de Biologia Marítima compreende:
+Art. 8.º O Instituto de Biologia Marítima compreende:
 
 a) Secretaria Central;
 
@@ -198,13 +210,13 @@ j) Serviços gerais;
 
 l) Serviços externos.
 
-###### Art. 9.º - 1. A Secretaria Central destina-se a realizar os trabalhos de expediente e de arquivo necessários ao funcionamento do Instituto de Biologia Marítima e serve todos os órgãos que não disponham de secretaria própria.
+Art. 9.º - 1. A Secretaria Central destina-se a realizar os trabalhos de expediente e de arquivo necessários ao funcionamento do Instituto de Biologia Marítima e serve todos os órgãos que não disponham de secretaria própria.
 
 2. Compete à Secretaria Central a publicação da ordem de serviço do Instituto, nos moldes da ordem de serviço dos organismos da Armada.
 
 3. A Secretaria Central é chefiada por um oficial do quadro do pessoal civil do Ministério da Marinha, que fica directamente subordinado ao subdirector.
 
-###### Art. 10.º - 1. A administração das dotações orçamentais e das receitas próprias do Instituto de Biologia Marítima, a que se referem os artigos 4.º, 8.º e 9.º e seus parágrafos do [Decreto-Lei n.º 38079](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38079-1950-490944), de 5 de Dezembro de 1950, com a alteração estabelecida pelo [Decreto-Lei n.º 217/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1972-673845), de 27 de Junho, será exercida por um conselho administrativo.
+Art. 10.º - 1. A administração das dotações orçamentais e das receitas próprias do Instituto de Biologia Marítima, a que se referem os artigos 4.º, 8.º e 9.º e seus parágrafos do [Decreto-Lei n.º 38079](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38079-1950-490944), de 5 de Dezembro de 1950, com a alteração estabelecida pelo [Decreto-Lei n.º 217/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1972-673845), de 27 de Junho, será exercida por um conselho administrativo.
 
 2. Aos membros do conselho administrativo, quando acumularem essas funções com outras exercidas no Ministério da Marinha, poderão ser atribuídas gratificações fixadas pelo Ministro da Marinha, com o acordo do Ministro das Finanças.
 
@@ -224,7 +236,7 @@ b) Submeter à apreciação do Tribunal de Contas as respectivas contas anuais.
 
 5. O conselho administrativo dispõe de secretaria própria.
 
-###### Art. 11.º - 1. O conselho científico é um órgão de consulta do director, que o ouvirá sempre que considere conveniente.
+Art. 11.º - 1. O conselho científico é um órgão de consulta do director, que o ouvirá sempre que considere conveniente.
 
 2. O conselho científico tem a seguinte constituição:
 
@@ -254,37 +266,37 @@ c) Planos de preparação do pessoal;
 
 d) Publicações dos trabalhos realizados pelo Instituto.
 
-###### Art. 12.º - 1. A Biblioteca destina-se a guardar, devidamente inventariados e catalogados, os livros, publicações e outros documentos de estudo e consulta adquiridos ou oferecidos ao Instituto.
+Art. 12.º - 1. A Biblioteca destina-se a guardar, devidamente inventariados e catalogados, os livros, publicações e outros documentos de estudo e consulta adquiridos ou oferecidos ao Instituto.
 
 2. A Biblioteca é dirigida por um investigador.
 
-###### Art. 13.º - 1. Ao Serviço de Investigação de Recursos Haliêuticos compete o estudo da biologia das espécies marinhas, tanto animais como vegetais, com interesse económico, tendo em vista a avaliação das potencialidades das respectivas populações e a sua racional exploração.
+Art. 13.º - 1. Ao Serviço de Investigação de Recursos Haliêuticos compete o estudo da biologia das espécies marinhas, tanto animais como vegetais, com interesse económico, tendo em vista a avaliação das potencialidades das respectivas populações e a sua racional exploração.
 
 2. Ao Serviço de Investigação de Recursos Haliêuticos compete a compilação, processamento e tratamento dos dados estatísticos necessários à pressecução de programas em curso ou previstos no âmbito das atribuições do Instituto.
 
 3. O Serviço de Recursos Haliêuticos é chefiado por um investigador.
 
-###### Art. 14.º - 1. Ao Serviço de Aquacultura compete o estudo dos aspectos que concorrem para a efectivação das culturas de animais e plantas marinhas e sua exploração racional.
+Art. 14.º - 1. Ao Serviço de Aquacultura compete o estudo dos aspectos que concorrem para a efectivação das culturas de animais e plantas marinhas e sua exploração racional.
 
 2. O Serviço de Aquacultura é chefiado por um investigador.
 
-###### Art. 15.º - 1. O Laboratório destina-se a apoiar o trabalho dos Serviços de Recursos Haliêuticos e de Aquacultura e ainda das estações, postos e parques de culturas, devendo para o efeito estar apetrechado para responder às necessidades correntes dos trabalhos e estudos levados a efeito nas varias secções e órgãos externos.
+Art. 15.º - 1. O Laboratório destina-se a apoiar o trabalho dos Serviços de Recursos Haliêuticos e de Aquacultura e ainda das estações, postos e parques de culturas, devendo para o efeito estar apetrechado para responder às necessidades correntes dos trabalhos e estudos levados a efeito nas varias secções e órgãos externos.
 
 2. O Laboratório é chefiado por um investigador.
 
-###### Art. 16.º - 1. Competem ao Serviço de Pessoal os assuntos relativos ao pessoal em funções no Instituto, com excepção dos relacionados com contratos e assalariamento do pessoal civil não pertencente ao quadro, bem como as respectivas rescisões ou denúncias.
+Art. 16.º - 1. Competem ao Serviço de Pessoal os assuntos relativos ao pessoal em funções no Instituto, com excepção dos relacionados com contratos e assalariamento do pessoal civil não pertencente ao quadro, bem como as respectivas rescisões ou denúncias.
 
 2. O Serviço de Pessoal é chefiado pelo subdirector e pode dispor de secretaria própria.
 
-###### Art. 17.º - 1. O Serviço de Abastecimento tem atribuições análogas às dos serviços de abastecimento dos organismos da Armada e destina-se a prestar apoio logístico aos serviços e demais órgãos do Instituto.
+Art. 17.º - 1. O Serviço de Abastecimento tem atribuições análogas às dos serviços de abastecimento dos organismos da Armada e destina-se a prestar apoio logístico aos serviços e demais órgãos do Instituto.
 
 2. O Serviço de Abastecimento é chefiado por um oficial de administração naval.
 
 3. O Serviço de Abastecimento utiliza a secretaria do conselho administrativo.
 
-###### Art. 18.º Os serviços gerais (desenho e reprodução, publicações, infra-estruturas, transportes e oficinas) têm atribuições análogas às dos serviços de igual ou equivalente designação dos organismos da Armada e destina-se a prestar apoio técnico e logístico aos serviços e demais órgãos do Instituto.
+Art. 18.º Os serviços gerais (desenho e reprodução, publicações, infra-estruturas, transportes e oficinas) têm atribuições análogas às dos serviços de igual ou equivalente designação dos organismos da Armada e destina-se a prestar apoio técnico e logístico aos serviços e demais órgãos do Instituto.
 
-###### Art. 19.º - 1. Os serviços externos compreendem:
+Art. 19.º - 1. Os serviços externos compreendem:
 
 a) As estações e postos que se destinam a estudos e investigações de interesse especial ou local;
 
@@ -296,23 +308,23 @@ b) Parques de cultura que se destinam a trabalhos de campo no âmbito das funç�
 
 4. À data da publicação do presente diploma consideram-se criados os postos de Aveiro, de Setúbal e de Faro.
 
-###### Art. 20.º Compete ao director designar, entre os funcionários do quadro do pessoal civil do Ministério da Marinha que prestem serviço no Instituto, os que devem dirigir os serviços e demais órgãos, com excepção do Serviço de Abastecimento.
+Art. 20.º Compete ao director designar, entre os funcionários do quadro do pessoal civil do Ministério da Marinha que prestem serviço no Instituto, os que devem dirigir os serviços e demais órgãos, com excepção do Serviço de Abastecimento.
 
-###### Art. 21.º A lotação do pessoal militar do Instituto de Biologia Marítima é fixada por portaria do Ministro da Marinha.
+Art. 21.º A lotação do pessoal militar do Instituto de Biologia Marítima é fixada por portaria do Ministro da Marinha.
 
-###### Art. 22.º A lotação do pessoal civil do Instituto de Biologia Marítima é fixada por despacho do Ministro da Marinha.
+Art. 22.º A lotação do pessoal civil do Instituto de Biologia Marítima é fixada por despacho do Ministro da Marinha.
 
-###### Art. 23.º - 1. Todo o pessoal do Instituto de Biologia Marítima é obrigado a prestar serviço nos locais e circunstâncias que a actividade do Instituto exija.
+Art. 23.º - 1. Todo o pessoal do Instituto de Biologia Marítima é obrigado a prestar serviço nos locais e circunstâncias que a actividade do Instituto exija.
 
 2. O pessoal que for admitido ou destacado para servir nas estações, postos ou parques de cultura terá unicamente o vencimento legal estabelecido para a sua categoria, sem direito a qualquer outra remuneração por motivo de exercer funções fora da sede do Instituto, a menos que legislação especial a estabeleça.
 
-###### Art. 24.º O pessoal do Instituto, quer do quadro, quer o contratado além deste, quando deslocado da sua residência oficial por motivo de trabalhos e missões científicas ou técnicas a realizar fora da sede do Instituto, tem direito a perceber:
+Art. 24.º O pessoal do Instituto, quer do quadro, quer o contratado além deste, quando deslocado da sua residência oficial por motivo de trabalhos e missões científicas ou técnicas a realizar fora da sede do Instituto, tem direito a perceber:
 
 a) Em serviço em terra, as ajudas de custo fixadas para os servidores do Estado com igual vencimento;
 
 b) Em serviço a bordo, uma gratificação diária segundo a legislação vigente.
 
-###### Art. 25.º - 1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções, da competência do director do Instituto:
+Art. 25.º - 1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções, da competência do director do Instituto:
 
 a) Multa de um a dez dias, correspondente ao salário diário do infractor;
 
@@ -320,12 +332,12 @@ b) Demissão.
 
 2. A pena de demissão aplica-se também ao pessoal que, no decurso de doze meses consecutivos, seja punido com mais de quinze dias de multa.
 
-###### Art. 26.º - 1. O Instituto de Biologia Marítima poderá apoiar-se, para a realização de trabalhos no mar, em embarcações, incluindo as de pesca.
+Art. 26.º - 1. O Instituto de Biologia Marítima poderá apoiar-se, para a realização de trabalhos no mar, em embarcações, incluindo as de pesca.
 
 2. As condições em que os navios da Armada apoiam o Instituto de Biologia Marítima serão definidas por portaria do Ministro da Marinha.
 
 3. As condições em que são utilizadas outras embarcações serão definidas por despacho do Ministro da Marinha.
 
-###### Art. 27.º As dúvidas que se suscitem na execução deste diploma serão esclarecidas por despacho do Ministro da Marinha.
+Art. 27.º As dúvidas que se suscitem na execução deste diploma serão esclarecidas por despacho do Ministro da Marinha.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

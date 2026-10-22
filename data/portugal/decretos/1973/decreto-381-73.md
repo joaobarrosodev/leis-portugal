@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/381-1973-421817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31519bbfbec33c0c83aad45e85d9a9a87b20e37f9024f705028efbbe4c840b11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d839b22d53465a02ea55109bcb863f84248f5cea16070d5dd23d1da587ba8b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:411363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:52Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +106,7 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º São aprovadas as seguintes normas técnicas, às quais devem obedecer as instalações do serviço público de televisão a preto e branco, tanto de emissão como de distribuição, nas províncias ultramarinas portuguesas de África:
+Artigo 1.º São aprovadas as seguintes normas técnicas, às quais devem obedecer as instalações do serviço público de televisão a preto e branco, tanto de emissão como de distribuição, nas províncias ultramarinas portuguesas de África:
 
 a) Canal de televisão:
 
@@ -178,7 +190,7 @@ do pré-amplificador do microfone até à saída do emissor, excluindo qualquer 
 
 3) A distorção harmónica na via som, a qualquer frequência de modulação da faixa 30 - 15000 Hz e às percentagens de modulação de 25, 50 e 100%, medida incluindo as harmónicas até 30 KHz e empregando no equipamento de medida um circuito de desacentuação com constante de tempo de 50(mi)s, não deve exceder os valores seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/17400/13241328.pdf))](https://files.diariodarepublica.pt/1s/1973/07/17400/13241328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/17400/13241328.pdf)
 
 sendo recomendável que qualquer das três partes do emissor (emissor propriamente dito, circuito de ligação dos estúdios ao emissor e circuito de audifrequência nos estúdios) não apresente isoladamente uma distorção superior a metade dos valores indicados acima.
 
@@ -186,22 +198,22 @@ sendo recomendável que qualquer das três partes do emissor (emissor propriamen
 
 5) O ruído de fundo da via som, em modulação de amplitude, deve ser inferior a -50 db em relação ao nível correspondente a uma modulação de amplitude de 100%.
 
-###### Art. 2.º As normas técnicas a que deverão obedecer as instalações do serviço público de televisão a preto e branco nas províncias ultramarinas portuguesas da Ásia e da Oceânia e as normas técnicas a que deverão obedecer as instalações do serviço público de televisão a cores em todos os territórios portugueses do ultramar serão oportunamente aprovadas.
+Art. 2.º As normas técnicas a que deverão obedecer as instalações do serviço público de televisão a preto e branco nas províncias ultramarinas portuguesas da Ásia e da Oceânia e as normas técnicas a que deverão obedecer as instalações do serviço público de televisão a cores em todos os territórios portugueses do ultramar serão oportunamente aprovadas.
 
-###### Art. 3.º A fiscalização do cumprimento do estabelecido no presente decreto será exercida pelos serviços dos correios, telégrafos e telefones das províncias ultramarinas, de acordo com a competência que lhes é conferida pelo [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
+Art. 3.º A fiscalização do cumprimento do estabelecido no presente decreto será exercida pelos serviços dos correios, telégrafos e telefones das províncias ultramarinas, de acordo com a competência que lhes é conferida pelo [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 9 de Julho de 1973.**
+Promulgado em 9 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 Desenhos anexos ao Decreto n.º 381/73
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/17400/13241328.pdf))](https://files.diariodarepublica.pt/1s/1973/07/17400/13241328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/17400/13241328.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

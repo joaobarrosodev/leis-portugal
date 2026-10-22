@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 43/1981, 1º Suplemento, Série I de 1981-02-20
   number: '43'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 472-(1) a 472-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/04301/00010011.pdf
 entry_into_force_dates: []
@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-a-1981-275585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:57:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9e3d69daaa94c7ef43d1edca9982bb7f1b92ec2cfb392dd3495d2b3f1b766bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32a1ba9097939c3d194db0889e447c83ff45cdb9d1c82c8b803dcfee44abedbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:57:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- EUA
+- Pesca
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:57:38Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 20 de Fevereiro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo de Portugal e o Governo dos Estados Unidos da América Respeitante a Pescarias ao Largo das Costas dos Estados Unidos da América, assinado em Washington em 16 de Outubro de 1980, cujos textos em português e inglês acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo de Portugal e o Governo dos Estados Unidos da América Respeitante a Pescarias ao Largo das Costas dos Estados Unidos da América, assinado em Washington em 16 de Outubro de 1980, cujos textos em português e inglês acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 16 de Fevereiro de 1981.**
+Assinado em 16 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo entre o Governo de Portugal e o Governo dos Estados Unidos da América Respeitante a Pescarias ao Largo das Costas dos Estados Unidos da América.
 
@@ -115,7 +119,7 @@ acordaram no seguinte:
 
 Este Acordo tem por finalidade assegurar a conservação efectiva, a utilização óptima e a gestão racional das pescarias de interesse mútuo ao largo das costas dos Estados Unidos e estabelecer um entendimento comum sobre os princípios e procedimentos pelos quais cidadãos e navios portugueses podem conduzir operações de pesca de recursos vivos sobre os quais os Estados Unidos têm autoridade de gestão conforme o estipulado por lei dos Estados Unidos.
 
-ARTIGO II
+###### ARTIGO II
 
 Termos utilizados neste Acordo:
 
@@ -151,7 +155,7 @@ b) Ajudar ou assistir um ou mais navios no mar na execução de qualquer activid
 
 8 - «Mamífero marinho» significa qualquer mamífero morfologicamente adaptado ao ambiente marinho, incluindo lontras marinhas e membros das ordens Sirenia, Pinnipedia e Cetacea, ou que primariamente habite em ambiente marinho, tal como os ursos polares.
 
-ARTIGO III
+###### ARTIGO III
 
 1 - Dependente dos termos deste Acordo, o Governo dos Estados Unidos está na disposição de permitir o acesso a navios portugueses para pescarem, de acordo com os termos e condições a estabelecer em autorizações a emitir nos termos do artigo VI, uma porção da captura total permitida de uma pescaria específica que não seja capturada por navios de pesca dos Estados Unidos.
 
@@ -179,15 +183,15 @@ e) Requisitos tendentes a facilitar a fiscalização de tais condições e restr
 
 4 - O Governo dos Estados Unidos notificará oportunamente o Governo de Portugal sobre as determinações estipuladas neste artigo.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Ao determinar a porção dos excedentes que possam ficar disponíveis para navios portugueses, o Governo dos Estados Unidos promoverá o objectivo da óptima utilização dos recursos vivos, tomando em linha de conta, inter alia, a pesca tradicional, se a houver, a contribuição para a investigação das pescas e identificação dos stocks, a cooperação prévia relativamente à conservação e gestão dos recursos pesqueiros de preocupação mútua, a cooperação da intensificação do comércio e de oportunidades comerciais para produtos de pesca dos Estados Unidos, outra cooperação na melhoria do desenvolvimento da indústria de pesca dos Estados Unidos, incluindo sociedades mistas, e quaisquer outros assuntos julgados apropriados.
 
-ARTIGO V
+###### ARTIGO V
 
 O Governo de Portugal obriga-se a melhorar e incrementar oportunidades comerciais para produtos da pesca provenientes da indústria de pesca dos Estados Unidos pela adopção de medidas que facilitem a entrada em Portugal de produtos da pesca dos Estados Unidos, através de informações relativas a assuntos técnicos e administrativos e quaisquer outras acções que possam vir a ser necessárias e apropriadas.
 
-ARTIGO VI
+###### ARTIGO VI
 
 O Governo de Portugal tomará todas as medidas necessárias para assegurar:
 
@@ -197,17 +201,17 @@ O Governo de Portugal tomará todas as medidas necessárias para assegurar:
 
 3) Que a quota total referida no artigo III, n.º 2, alínea d), deste Acordo não seja excedida para qualquer pescaria.
 
-ARTIGO VII
+###### ARTIGO VII
 
 O Governo de Portugal submeterá um pedido ao Governo dos Estados Unidos para obtenção de uma licença para cada um dos navios de pesca portugueses que desejem exercer actividades na zona de conservação das pescarias, nos termos deste Acordo.
 
 Tal pedido será preparado e processado de acordo com o anexo I, o qual constitui parte integrante deste Acordo. O Governo dos Estados Unidos poderá solicitar o pagamento de taxas razoáveis por tais licenças e pelo exercício da pesca na zona de conservação das pescarias dos Estados Unidos.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 O Governo de Portugal tem proibido e continuará a proibir aos cidadãos e navios portugueses porem em perigo, caçarem, capturarem ou matarem ou tentarem pôr em perigo, caçar, capturar ou matar qualquer mamífero marinho dentro da zona de conservação das pescarias dos Estados Unidos, com excepção do que for estipulado por acordo internacional respeitante a mamíferos marinhos de que os Estados Unidos sejam parte ou de acordo com autorização específica para captura de mamíferos marinhos e controle das suas capturas incidentais estabelecidas pelo Governo dos Estados Unidos.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O Governo de Portugal garantirá que na condução das pescas, nos termos deste Acordo:
 
@@ -221,11 +225,11 @@ O Governo de Portugal garantirá que na condução das pescas, nos termos deste 
 
 5) Sejam tomadas todas as medidas necessárias para assegurar a pronta e adequada compensação a cidadãos dos Estados Unidos por qualquer perda ou prejuízo causado aos seus navios de pesca, às artes de pesca ou às capturas por qualquer navio de pesca português conforme determinado pelos procedimentos judiciais aplicáveis dos Estados Unidos.
 
-ARTIGO X
+###### ARTIGO X
 
 O Governo de Portugal tomará todas as medidas apropriadas, na extensão permitida pelas suas leis nacionais, para assegurar que cada navio português autorizado a pescar nos termos deste Acordo e qualquer outro navio de pesca português que se ocupe da pesca de recursos vivos sujeitos à autoridade de gestão dos Estados Unidos permitirá e dará assistência à entrada a bordo e à inspecção de tal navio por qualquer entidade fiscalizadora dos Estados Unidos, devidamente autorizada, e cooperará em tal acção fiscalizadora, nos termos das leis dos Estados Unidos.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1 - O Governo dos Estados Unidos imporá penalizações apropriadas, de acordo com as leis dos Estados Unidos, aos navios portugueses e aos seus armadores ou operadores que violarem os requisitos deste Acordo ou de qualquer licença emitida com base nele.
 
@@ -233,11 +237,11 @@ ARTIGO XI
 
 3 - Nos casos de apreensão e arresto de um navio português pelas autoridades do Governo dos Estados Unidos, será prontamente feita uma notificação através dos meios diplomáticos, informando o Governo de Portugal da acção tomada e de quaisquer penalidades subsequentemente impostas.
 
-ARTIGO XII
+###### ARTIGO XII
 
 O Governo dos Estados Unidos compromete-se a autorizar os navios de pesca portugueses, licenciados para a pesca nos termos deste Acordo, a entrarem em portos dos Estados Unidos com o fim de adquirirem isco, mantimentos ou equipamentos, efectuarem reparações ou para quaisquer outros fins que possam ser autorizados.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1 - Os Governos dos Estados Unidos e de Portugal cooperarão, na medida das suas capacidades, na condução da investigação científica necessária à gestão e conservação dos recursos vivos sujeitos à autoridade de gestão das pescarias dos Estados Unidos, incluindo a compilação da melhor informação científica disponível para a gestão e conservação dos stocks de interesse mútuo.
 
@@ -247,15 +251,15 @@ ARTIGO XIII
 
 4 - O Governo de Portugal cooperará com o Governo dos Estados Unidos na implementação de procedimentos para recolha e divulgação de informações bioestatísticas e dados de pesca, incluindo estatísticas de captura e esforço, de acordo com os procedimentos constantes do anexo II, que constitui parte integrante deste Acordo.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 Se o Governo dos Estados Unidos vier a indicar ao Governo de Portugal que cidadãos e navios dos Estados Unidos desejam exercer a pesca na zona de conservação de pescarias de Portugal ou sua equivalente, o Governo de Portugal autorizará tal actividade com base em reciprocidade e em condições não menos restritivas do que as estabelecidas nos termos deste Acordo.
 
-ARTIGO XV
+###### ARTIGO XV
 
 O contido no presente Acordo em nada afectará ou prejudicará de qualquer maneira as posições de qualquer dos Governos em relação à extensão das águas interiores, do mar territorial, do mar alto e da jurisdição ou autoridade do estado costeiro para qualquer fim que não seja o da conservação e gestão das pescarias conforme previsto neste Acordo.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 1 - Este Acordo entrará em vigor em data a ser mutuamente acordada por troca de notas após completados os procedimentos internos de ambos os Governos e manter-se-á por um período de cinco anos, a menos que venha a ser prorrogado por troca de notas entre as duas Partes. Não obstante o adiante mencionado, qualquer das Partes poderá dar por findo este Acordo por notificação com a antecedência de um ano.
 

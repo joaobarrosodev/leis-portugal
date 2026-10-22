@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/51-1979-383230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4035f4ee7730085e1291b6784345494d18643fed4bc148e9fb4c74940ebb954d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01f28cc6da7ce8f29fbf97a0b2ef4a692500077125a1e897d120af49c85f112f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Oceano Atlântico
+- Otava
+- Pesca
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:22Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 8 de Junho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção para a Futura Cooperação das Pescarias do Noroeste do Atlântico (NAFO), assinada em Otava em 24 de Outubro de 1978, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção para a Futura Cooperação das Pescarias do Noroeste do Atlântico (NAFO), assinada em Otava em 24 de Outubro de 1978, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 22 de Maio de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 22 de Maio de 1979.**
+Assinado em 22 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries
 
@@ -656,7 +661,7 @@ Desejando promover a conservação e utilização óptima dos recursos haliêuti
 
 Concordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 1 - A área à qual se aplica a presente Convenção, daqui em diante designada por Área da Convenção, compreende as águas do Noroeste do oceano Atlântico a norte do paralelo de 35º 00' de latitude norte, a oeste do meridiano de 42º 00' de longitude oeste até ao paralelo de 59º 00' de latitude norte e, para norte deste paralelo, a oeste do meridiano de 44º 00' de longitude oeste, até à costa da Gronelândia, bem como as águas do golfo de S. Lourenço, as do estreito de Davis e as da baía de Baffin a sul de 78º 10' de latitude norte.
 
@@ -668,7 +673,7 @@ ARTIGO I
 
 5 - Nenhuma disposição da presente Convenção poderá ser interpretada de modo a afectar ou prejudicar as posições ou pretensões de qualquer Parte Contratante a respeito de águas interiores, mar territorial ou limites ou extensão da jurisdição de qualquer Parte Contratante em matéria de pescas, nem de modo a afectar ou prejudicar os pontos de vista ou posições de qualquer Parte Contratante no que se refere ao direito do mar.
 
-ARTIGO II
+###### ARTIGO II
 
 1 - As Partes Contratantes acordam em criar e manter uma organização internacional cujo mandato será contribuir, pela consultação e cooperação, para a utilização óptima, a gestão racional e a conservação dos recursos haliêuticos da Área da Convenção. Esta organização terá o nome de Organização das Pescarias do Noroeste do Atlântico, será, daqui em diante, designada simplesmente por «a Organização», e terá as funções enunciadas na presente Convenção.
 
@@ -686,7 +691,7 @@ d) Um Secretariado.
 
 4 - A Organização terá a sua sede em Dartmouth, na Nova Escócia, Canadá, ou em qualquer outro lugar que venha a ser decidido pelo Conselho Geral.
 
-ARTIGO III
+###### ARTIGO III
 
 O Conselho terá as seguintes funções:
 
@@ -698,7 +703,7 @@ c) Passar em revista e fixar a composição da Comissão de Pescas, nos termos d
 
 d) Exercer os outros poderes que lhe são conferidos pela presente Convenção.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - Cada Parte Contratante será membro do Conselho Geral e nomeará para este, no máximo, três representantes que poderão ser acompanhados, em quaisquer reuniões do Conselho, por suplentes, peritos e conselheiros.
 
@@ -712,7 +717,7 @@ ARTIGO IV
 
 6 - O Conselho Geral poderá criar os comités e souscomités que considerar necessários ao desempenho das suas funções e obrigações.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - Cada Parte Contratante disporá de um voto nas deliberações do Conselho Geral.
 
@@ -722,7 +727,7 @@ ARTIGO V
 
 4 - O Conselho Geral deverá submeter à apreciação das Partes Contratantes um relatório anual das actividades da Organização.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - O Conselho Científico terá as seguintes funções:
 
@@ -738,7 +743,7 @@ d) Habilitar a Comissão de Pescas com pareceres científicos, nos termos do art
 
 3 - As Partes Contratantes deverão, a pedido do Conselho Científico, para os fins do presente artigo, fornecer-lhe os dados estatísticos e científicos de que disponham.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - A pedido de um Estado costeiro, o Conselho Científico considerará qualquer questão relativa aos fundamentos científicos da gestão e conservação dos recursos haliêuticos das águas da Área da Convenção, sobre as quais esse Estado costeiro exerce jurisdição em matéria de pescas, e dará parecer sobre essa questão.
 
@@ -750,11 +755,11 @@ b) Nos casos em que forem pedidas avaliações ou previsões científicas, uma e
 
 c) Quando tal se justificar, uma especificação dos objectivos prosseguidos pelo Estado costeiro e uma indicação sobre se se pretende um parecer específico ou a determinação de um leque de opções.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 O Conselho Científico estudará toda e qualquer questão que for submetida pela Comissão de Pescas, relativa aos fundamentos científicos de gestão e conservação dos recursos haliêuticos da Área de Regulamentação, e elaborará o competente parecer, tomando em conta os critérios de referência especificados pela Comissão de Pescas relativamente a essa questão.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - Cada Parte Contratante será membro do Conselho Científico e nomeará para este os seus representantes, que poderão ser acompanhados, em qualquer das reuniões do Conselho, por suplentes, peritos e conselheiros.
 
@@ -764,7 +769,7 @@ ARTIGO IX
 
 4 - O Conselho Científico poderá criar os comités e subcomités que considerar necessários ao desempenho das suas funções e obrigações.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - Os pareceres científicos, apresentados pelo Conselho Científico no quadro da presente Convenção, deverão ser formulados por consenso. Quando se não puder obter consenso, o Conselho deverá explanar no seu relatório todas as opiniões expressas sobre a questão que foi considerada.
 
@@ -772,7 +777,7 @@ ARTIGO X
 
 3 - O Conselho Científico adoptará e, quando necessário, modificará os regulamentos por que se devem reger a realização das suas reuniões e o exercício das suas funções.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1 - A Comissão de Pescas, daqui em diante designada por «a Comissão», será responsável pela gestão e conservação dos recursos haliêuticos da Área de Regulamentação, nos termos do presente artigo.
 
@@ -798,7 +803,7 @@ Em consequência, a Comissão e o Estado costeiro em questão promoverão a coor
 
 9 - A Comissão poderá solicitar a atenção de todos ou alguns dos membros da Comissão para quaisquer questões relacionadas com os objectivos e fins da presente Convenção na Área de Regulamentação.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1 - Se um membro da Comissão apresentar ao secretário executivo uma objecção a uma proposta nos sessenta dias seguintes à data de transmissão especificada pelo dito secretário na notificação da proposta, essa proposta não se converterá em medida executiva antes de passados quarenta dias após a data de transmissão especificada na notificação daquela objecção às Partes Contratantes. A partir desse momento, qualquer outro membro da Comissão poderá igualmente apresentar uma objecção antes de expirar o prazo suplementar de quarenta dias, ou nos trinta dias seguintes à data de transmissão especificada na notificação às Partes Contratantes de qualquer objecção apresentada durante o dito prazo suplementar de quarenta dias, consoante aquele dos dois prazos que for o último a expirar. A proposta converter-se-á numa medida executiva para todas as Partes Contratantes no termo do ou dos prazos prorrogados de apresentação de objecções, salvo para aqueles que tenham apresentado uma objecção. Todavia, se no termo desse ou desses prazos prorrogados objecções tiverem sido apresentadas e mantidas por uma maioria de membros da Comissão, a proposta não se converterá em medida executiva, excepto se todos ou quaisquer dos membros da Comissão acordarem entre si assim a considerar a partir de uma data também acordada.
 
@@ -814,7 +819,7 @@ b) Da data em que qualquer proposta se converte em medida executiva nos termos d
 
 c) Da recepção de cada notificação referida no n.º 3.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1 - A composição da Comissão será revista e fixada pelo Conselho Geral na sua reunião anual.
 
@@ -834,7 +839,7 @@ b) Qualquer Parte Contratante que apresentar ao Conselho Geral prova satisfatór
 
 6 - A Comissão poderá criar os comités e subcomités que considerar necessários ao desempenho das suas funções e obrigações.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1 - Cada membro da Comissão disporá de um voto nas deliberações da Comissão.
 
@@ -842,7 +847,7 @@ ARTIGO XIV
 
 3 - A Comissão adoptará e modificará, quando necessário, os regulamentos por que se devem reger a realização das suas reuniões e o exercício das suas funções.
 
-ARTIGO XV
+###### ARTIGO XV
 
 1 - O Secretariado proporcionará serviços à Organização no campo das funções e obrigações desta.
 
@@ -852,7 +857,7 @@ ARTIGO XV
 
 4 - O secretário executivo deterá, sob a supervisão do Conselho Geral, plenos poderes e autoridade sobre o pessoal do Secretariado e desempenhará quaisquer outras funções que lhe forem atribuídas pelo Conselho Geral.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 1 - Cada Parte Contratante deverá pagar as despesas da sua delegação relativas a todas as reuniões realizadas no quadro da presente Convenção.
 
@@ -884,19 +889,19 @@ As capturas nominais acima referidas serão as capturas comunicadas das espécie
 
 11 - Se a Convenção entrar em vigor em 1 de Janeiro de 1979, deverá aplicar-se, em vez do disposto no n.º 6, o disposto no anexo II, que faz parte integrante da presente Convenção.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 As Partes Contratantes acordam em tomar as medidas necessárias, incluindo a aplicação de sanções adequadas em caso de infracção, para tornar efectivas as disposições da presente Convenção, em promulgar as medidas que se convertam em medidas executivas, nos termos do n.º 7 do artigo XI, e em aplicar as medidas em vigor, nos termos do artigo XXIII. Cada Parte Contratante deverá enviar à Comissão um relatório anual sobre as acções que tomou com esse fim.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 As Partes Contratantes acordam em manter em vigor e aplicar, na Área de Regulamentação, um sistema de fiscalização internacional conjunta, na forma em que seja aplicável, nos termos do artigo XXIII, ou modificado de acordo com as medidas referidas no n.º 5 do artigo XI. Este sistema deverá conferir às Partes Contratantes direitos recíprocos de visita e inspecção de navios e prever procedimento judicial e sanções a aplicar pelo Estado da nacionalidade do navio visitado, com base nas provas que resultarem de tais visitas e inspecções. No relatório anual, referido no artigo XVII, deverá ser incluído um relato dos processos levantados e das sanções impostas.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 As Partes Contratantes acordam em chamar a atenção de qualquer Estado que não seja Parte da presente Convenção para quaisquer questões, relacionadas com as actividades de pesca dos nacionais ou navios desse Estado na Área de Regulamentação, sempre que essas actividades pareçam obstar à realização dos fins da presente Convenção. As Partes Contratantes acordam ainda em consultar-se oportunamente sobre as medidas a tomar para obviar a semelhantes prejuízos.
 
-ARTIGO XX
+###### ARTIGO XX
 
 1 - A Área da Convenção é dividida em subáreas, divisões e subdivisões científicas e estatísticas, cujos limites são definidos no anexo III da presente Convenção.
 
@@ -906,7 +911,7 @@ ARTIGO XX
 
 4 - O anexo III da presente Convenção, quer nos seus termos actuais, quer por sua vez modificado, nos termos do presente artigo, faz parte integrante da presente Convenção.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 1 - Qualquer Parte Contratante poderá propor emendas à presente Convenção, que serão submetidas à consideração e decisão do Conselho Geral, numa reunião ordinária anual ou em reunião extraordinária. Qualquer proposta de emenda deverá ser enviada ao secretário executivo nunca menos de noventa dias antes da reunião em que se propõe deliberar sobre essa proposta e o secretário executivo deverá transmiti-la imediatamente a todas as Partes Contratantes.
 
@@ -918,7 +923,7 @@ ARTIGO XXI
 
 5 - O Depositário deverá notificar prontamente todas as Partes Contratantes da recepção das notificações de aprovação de emendas, da recepção das notificações de objecção ou retirada de objecção e da entrada em vigor de emendas.
 
-ARTIGO XXII
+###### ARTIGO XXII
 
 1 - A presente Convenção estará aberta, até 31 de Dezembro de 1978, à assinatura, em Otava, das Partes representadas na Conferência Diplomática sobre o Futuro da Cooperação Multilateral nas Pescarias do Noroeste do Atlântico, realizada em Otava de 11 a 21 de Outubro de 1977. Seguidamente, estará aberta à adesão.
 
@@ -932,17 +937,17 @@ ARTIGO XXII
 
 6 - O Depositário convocará a primeira reunião da Organização, a realizar no prazo máximo de seis meses a partir da entrada em vigor da presente Convenção, e comunicará a cada Parte Contratante a ordem de trabalhos provisória, nunca menos de um mês antes da data da reunião.
 
-ARTIGO XXIII
+###### ARTIGO XXIII
 
 No momento da entrada em vigor da presente Convenção, cada proposta já transmitida ou que já está em vigor, nos termos do artigo VIII da Convenção Internacional das Pescarias do Noroeste do Atlântico, de 1949, converter-se-á, nos termos desta Convenção de 1949, numa medida executiva para qualquer Parte Contratante no que respeita a Área de Regulamentação, quer imediatamente, no caso da proposta já estar em vigor no quadro da Convenção de 1949 acima referida, quer no momento em que ela deverá entrar em vigor no quadro da mesma Convenção. Sem prejuízo do disposto no n.º 3 do artigo XII daquela Convenção de 1949, qualquer destas medidas continuará executiva para todas as Partes Contratantes até à sua expiração ou à sua substituição por uma medida tornada executiva, nos termos do artigo XI da presente Convenção, não podendo, porém, esta substituição ter efeito antes de um ano a partir da entrada em vigor da presente Convenção.
 
-ARTIGO XXIV
+###### ARTIGO XXIV
 
 1 - Qualquer Parte Contratante poderá praticar o recesso da presente Convenção em 31 de Dezembro de um ano qualquer, notificando para tanto, até ao dia 30 de Junho precedente, o Depositário, que enviará cópias dessa notificação às outras Partes Contratantes.
 
 2 - Qualquer outra Parte Contratante poderá, desde esse momento, praticar por sua vez o recesso da presente Convenção no mesmo dia 31 de Dezembro, notificando o Depositário nesse sentido, dentro de um mês a contar da recepção da cópia da notificação feita nos termos do número anterior.
 
-ARTIGO XXV
+###### ARTIGO XXV
 
 1 - O original da presente Convenção será depositado nos arquivos do Governo do Canadá, o qual transmitirá cópias certificadas a todos os signatários e a todas as Partes Contratantes.
 
@@ -998,7 +1003,7 @@ Camarões de águas frias (pandalídeos) - Pandalus sp.
 
 2 - As contribuições, devidas nos termos do número anterior, deverão ser pagas por cada Parte Contratante o mais cedo possível depois de 1 de Janeiro de 1979, ou depois da sua adesão à Convenção, se esta se verificar posteriormente àquela data.
 
-## Apêndice ao anexo II da Convenção
+Apêndice ao anexo II da Convenção
 
 Partes contratantes:
 
@@ -1042,51 +1047,51 @@ As subáreas, divisões e subdivisões científicas e estatísticas previstas no
 
 1 - b) A subárea 0 compreende duas divisões:
 
-##### Divisão O-A. - A parte da subárea que fica a norte do paralelo de 66º 15' de latitude norte;
+Divisão O-A. - A parte da subárea que fica a norte do paralelo de 66º 15' de latitude norte;
 
-##### Divisão O-B. - A parte da subárea que fica a sul do paralelo de 66º 15' de latitude norte.
+Divisão O-B. - A parte da subárea que fica a sul do paralelo de 66º 15' de latitude norte.
 
 2 - a) Subárea 1. - A parte da Área da Convenção que fica a leste da subárea O e a norte e leste da linha de rumo que une o ponto de 61º 00' de latitude norte e 59º 00' de longitude oeste com o ponto de 52º 15' de latitude norte e 42º 00' de longitude oeste.
 
 2 - b) A subárea 1 compreende seis divisões:
 
-##### Divisão 1-A. - A parte da subárea que fica a norte do paralelo de 68º 50' de latitude norte (Christianshaab);
+Divisão 1-A. - A parte da subárea que fica a norte do paralelo de 68º 50' de latitude norte (Christianshaab);
 
-##### Divisão 1-B. - A parte da subárea que fica entre o paralelo de 66º 15' de latitude norte (5 milhas a norte de Umanarsugssuak e o paralelo de 68º 50' de latitude norte (Christianshaab);
+Divisão 1-B. - A parte da subárea que fica entre o paralelo de 66º 15' de latitude norte (5 milhas a norte de Umanarsugssuak e o paralelo de 68º 50' de latitude norte (Christianshaab);
 
-##### Divisão 1-C. - A parte da subárea que fica entre o paralelo de 64º 15' de latitude norte (4 milhas a norte de Godthaab) e o paralelo de 66º 15' de latitude norte (5 milhas a norte de Umanarsugssuak);
+Divisão 1-C. - A parte da subárea que fica entre o paralelo de 64º 15' de latitude norte (4 milhas a norte de Godthaab) e o paralelo de 66º 15' de latitude norte (5 milhas a norte de Umanarsugssuak);
 
-##### Divisão 1-D. - A parte da subárea que fica entre o paralelo de 62º 30' de latitude norte (glaciar de Frederikshaab) e o paralelo de 64º 15' de latitude norte (4 milhas a norte de Godthaab);
+Divisão 1-D. - A parte da subárea que fica entre o paralelo de 62º 30' de latitude norte (glaciar de Frederikshaab) e o paralelo de 64º 15' de latitude norte (4 milhas a norte de Godthaab);
 
-##### Divisão 1-E. - A parte da subárea que fica entre o paralelo de 60º 45' de latitude norte (cabo Desolação) e o paralelo de 62º 30' de latitude norte (glaciar de Frederikshaab);
+Divisão 1-E. - A parte da subárea que fica entre o paralelo de 60º 45' de latitude norte (cabo Desolação) e o paralelo de 62º 30' de latitude norte (glaciar de Frederikshaab);
 
-##### Divisão 1-F. - A parte da subárea que fica a sul do paralelo de 60º 45' de latitude norte (cabo Desolação).
+Divisão 1-F. - A parte da subárea que fica a sul do paralelo de 60º 45' de latitude norte (cabo Desolação).
 
 3 - a) Subárea 2. - A parte da Área da Convenção que fica a leste do meridiano de 64º 30' de longitude oeste na área do estreito de Hudson, a sul da subárea 0, a sul e oeste da subárea 1 e a norte do paralelo de 52º 15' de latitude norte.
 
 3 - b) A subárea 2 compreende três divisões:
 
-##### Divisão 2-G. - A parte da subárea que fica a norte do paralelo de 57º 40' de latitude norte (cabo Mugford);
+Divisão 2-G. - A parte da subárea que fica a norte do paralelo de 57º 40' de latitude norte (cabo Mugford);
 
-##### Divisão 2-H. - A parte da subárea que fica entre o paralelo de 55º 20' de latitude norte (Hopedale) e o paralelo de 57º 40' de latitude norte (cabo Mugford);
+Divisão 2-H. - A parte da subárea que fica entre o paralelo de 55º 20' de latitude norte (Hopedale) e o paralelo de 57º 40' de latitude norte (cabo Mugford);
 
-##### Divisão 2-J. - A parte da subárea que fica a sul do paralelo de 55º 20' de latitude norte (Hopedale).
+Divisão 2-J. - A parte da subárea que fica a sul do paralelo de 55º 20' de latitude norte (Hopedale).
 
 4 - a) Subárea 3. - A parte da Área da Convenção que fica a sul do paralelo de 52º 15' de latitude norte, a leste do segmento de meridiano que vai do cabo Bauld, na costa norte da Terra Nova, até 52º 15' de latitude norte, a norte do paralelo de 39º 00' de latitude norte, e a leste e norte de uma linha de rumo que, numa direcção para noroeste, parte do ponto de 39º 00' de latitude norte, 50º 00' de longitude oeste, passa pelo ponto de 43º 30' de latitude norte, 55º 00' de longitude oeste, continua em direcção ao ponto de 47º 50' de latitude norte, 60º 00' de longitude oeste até à intersecção da linha de rumo que liga o cabo Ray, na costa da Terra Nova, com o cabo Norte, na ilha de Cabo Bretão, e finalmente, a partir dessa intersecção, a leste desta última linha de rumo, que, numa direcção para nordeste, vai até ao cabo Ray.
 
 4 - b) A subárea 3 compreende seis divisões:
 
-##### Divisão 3-K. - A parte da subárea que fica a norte do paralelo de 49º 15' de latitude norte (cabo Freels, na Terra Nova);
+Divisão 3-K. - A parte da subárea que fica a norte do paralelo de 49º 15' de latitude norte (cabo Freels, na Terra Nova);
 
-##### Divisão 3-L. - A parte da subárea que fica entre a linha da costa da Terra Nova, do cabo Freels ao cabo de St. Mary, e uma linha descrita como segue: começando no cabo Freels, segue a leste verdadeiro até ao meridiano de 46º 00' de longitude oeste, daí segue este meridiano até ao paralelo de 46º 00' de latitude norte, daí a oeste verdadeiro até ao meridiano de 54º 30' de longitude oeste, e daí ao longo de uma linha de rumo até ao cabo d e St. Mary, na Terra Nova;
+Divisão 3-L. - A parte da subárea que fica entre a linha da costa da Terra Nova, do cabo Freels ao cabo de St. Mary, e uma linha descrita como segue: começando no cabo Freels, segue a leste verdadeiro até ao meridiano de 46º 00' de longitude oeste, daí segue este meridiano até ao paralelo de 46º 00' de latitude norte, daí a oeste verdadeiro até ao meridiano de 54º 30' de longitude oeste, e daí ao longo de uma linha de rumo até ao cabo d e St. Mary, na Terra Nova;
 
-##### Divisão 3-M. - A parte da subárea que fica ao sul do paralelo de 49º 15' de latitude norte e a leste do meridiano de 46º 30' de longitude oeste;
+Divisão 3-M. - A parte da subárea que fica ao sul do paralelo de 49º 15' de latitude norte e a leste do meridiano de 46º 30' de longitude oeste;
 
-##### Divisão 3-N. - A parte da subárea que fica a sul do paralelo de 46º 00' de latitude norte e entre o meridiano de 46º 30' de longitude oeste e o meridiano de 51º 00' de longitude oeste;
+Divisão 3-N. - A parte da subárea que fica a sul do paralelo de 46º 00' de latitude norte e entre o meridiano de 46º 30' de longitude oeste e o meridiano de 51º 00' de longitude oeste;
 
-##### Divisão 3-O. - A parte ela subárea que fica a sul do paralelo de 46º 00' de latitude norte e entre o meridiano de 51º 00' de longitude oeste e o meridiano de 54º 30' de longitude oeste;
+Divisão 3-O. - A parte ela subárea que fica a sul do paralelo de 46º 00' de latitude norte e entre o meridiano de 51º 00' de longitude oeste e o meridiano de 54º 30' de longitude oeste;
 
-##### Divisão 3-P. - A parte da subárea que fica a sul da costa da Terra Nova e a oeste de uma linha que vai do cabo de St. Mary, na Terra Nova, até ao ponto de 46º 00' de latitude norte e 54º 30' de longitude oeste e, a partir desse ponto, segue o meridiano de 54º 30' de longitude oeste até ao limite da subárea.
+Divisão 3-P. - A parte da subárea que fica a sul da costa da Terra Nova e a oeste de uma linha que vai do cabo de St. Mary, na Terra Nova, até ao ponto de 46º 00' de latitude norte e 54º 30' de longitude oeste e, a partir desse ponto, segue o meridiano de 54º 30' de longitude oeste até ao limite da subárea.
 
 A divisão 3P compreende duas subdivisões:
 
@@ -1098,13 +1103,13 @@ A divisão 3P compreende duas subdivisões:
 
 5 - b) A subárea 4 compreende seis divisões:
 
-##### Divisão 4-R. - A parte da subárea que fica entre a linha da costa da Terra Nova, de cabo Bauld a cabo Ray, e uma linha descrita como segue: começando no cabo Bauld, corre a norte verdadeiro até ao paralelo de 52º 15' de latitude norte, daí a oeste verdadeiro até à costa do Lavrador, daí segue ao longo da linha da costa do Lavrador até ao termo da fronteira do Lavrador com o Quebeque, daí segue a linha de rumo que une esse termo, numa direcção para sudoeste, ao ponto de 49º 25' de latitude norte 60º 00' de longitude oeste daí corre a sul verdadeiro até ao ponto de 57º 50' ele latitude norte, 60º 00' de longitude oeste, daí segue a linha de rumo que, numa direcção para sueste, une esse ponto ao ponto em que o limite da subárea 3 intersecta a linha de rumo que liga o cabo Norte, na Nova Escócia, ao cabo Ray, na Terra Nova, e depois segue esta linha até o cabo Ray, na Terra Nova;
+Divisão 4-R. - A parte da subárea que fica entre a linha da costa da Terra Nova, de cabo Bauld a cabo Ray, e uma linha descrita como segue: começando no cabo Bauld, corre a norte verdadeiro até ao paralelo de 52º 15' de latitude norte, daí a oeste verdadeiro até à costa do Lavrador, daí segue ao longo da linha da costa do Lavrador até ao termo da fronteira do Lavrador com o Quebeque, daí segue a linha de rumo que une esse termo, numa direcção para sudoeste, ao ponto de 49º 25' de latitude norte 60º 00' de longitude oeste daí corre a sul verdadeiro até ao ponto de 57º 50' ele latitude norte, 60º 00' de longitude oeste, daí segue a linha de rumo que, numa direcção para sueste, une esse ponto ao ponto em que o limite da subárea 3 intersecta a linha de rumo que liga o cabo Norte, na Nova Escócia, ao cabo Ray, na Terra Nova, e depois segue esta linha até o cabo Ray, na Terra Nova;
 
-##### Divisão 4-S. - A parte da subárea que fica entre a costa sul do Quebeque, a partir do termo da fronteira do Lavrador com o Quebeque até à ponta dos Montes, e uma linha descrita como segue: começando na ponta dos Montes, corre a leste verdadeiro até ao ponto de 49º 25' de latitude norte, 64º 40' de longitude oeste, daí segue a linha de rumo que, numa direcção para es-sueste, une esse ponto ao ponto, de 47º 50' de latitude norte, 60º 00' de longitude oeste, daí corre a norte verdadeiro até ao ponto de 49º 25' de latitude norte, 60º 00' de longitude oeste, e daí segue a linha de rumo que une esse ponto, numa direcção para nordeste, ao termo da fronteira do Lavrador com o Quebeque;
+Divisão 4-S. - A parte da subárea que fica entre a costa sul do Quebeque, a partir do termo da fronteira do Lavrador com o Quebeque até à ponta dos Montes, e uma linha descrita como segue: começando na ponta dos Montes, corre a leste verdadeiro até ao ponto de 49º 25' de latitude norte, 64º 40' de longitude oeste, daí segue a linha de rumo que, numa direcção para es-sueste, une esse ponto ao ponto, de 47º 50' de latitude norte, 60º 00' de longitude oeste, daí corre a norte verdadeiro até ao ponto de 49º 25' de latitude norte, 60º 00' de longitude oeste, e daí segue a linha de rumo que une esse ponto, numa direcção para nordeste, ao termo da fronteira do Lavrador com o Quebeque;
 
-##### Divisão 4-T. - A parte da subárea que fica entre a linha da costa da Nova Escócia, de New Brunswick e Quebeque, do cabo Norte à ponta dos Montes, e uma linha descrita como segue: começando na ponta dos Montes, corre a leste verdadeiro até ao ponto de 49º 25' de latitude norte, 64º 40' de longitude oeste, daí segue a linha ele rumo que, numa direcção para sueste, une esse ponto ao ponto de 47º 50' de latitude norte, 60º 00' de longitude oeste, e deste ponto segue a linha de rumo que o une, numa direcção para sueste, ao cabo Norte, na Nova Escócia;
+Divisão 4-T. - A parte da subárea que fica entre a linha da costa da Nova Escócia, de New Brunswick e Quebeque, do cabo Norte à ponta dos Montes, e uma linha descrita como segue: começando na ponta dos Montes, corre a leste verdadeiro até ao ponto de 49º 25' de latitude norte, 64º 40' de longitude oeste, daí segue a linha ele rumo que, numa direcção para sueste, une esse ponto ao ponto de 47º 50' de latitude norte, 60º 00' de longitude oeste, e deste ponto segue a linha de rumo que o une, numa direcção para sueste, ao cabo Norte, na Nova Escócia;
 
-##### Divisão 4-V. - A parte da subárea que fica entre a linha da costa da Nova Escócia, do cabo
+Divisão 4-V. - A parte da subárea que fica entre a linha da costa da Nova Escócia, do cabo
 
 Norte a Fourchu, e uma linha descrita como segue: começando em Fourchu, segue a linha de rumo que une Fourchu, numa direcção para leste, ao ponto de 45º 40' de latitude norte, 60º 00' de longitude oeste, daí corre a sul verdadeiro até ao paralelo de 44º 10' de latitude norte, daí corre a leste verdadeiro até ao meridiano de 59º 00' de longitude oeste, daí a sul verdadeiro até ao paralelo de 39º 00' de latitude norte, daí a leste verdadeiro até ao ponto onde o limite entre as subáreas 3 e 4 intersecta o paralelo de 39º 00' de latitude norte, daí segue, numa direcção para noroeste, ao longo do limite entre as subáreas 3 e 4, prolongando esta na mesma direcção até ao ponto de 47º 50' de latitude norte, 60º 00' de longitude oeste, e daí segue a linha de rumo que une este último ponto ao cabo Norte, na Nova Escócia.
 
@@ -1114,17 +1119,17 @@ A divisão 4-V compreende duas subdivisões:
 
 4-Vs. - Subdivisão sul. - A parte da divisão 4-V que fica a sul do paralelo de 45º 40' de latitude norte.
 
-##### Divisão 4-W. - A parte da subárea que fica entre a linha da costa da Nova Escócia, de Halifax a Fourchu, e uma linha descrita como segue: começando em Fourchu, segue ao longo da linha de rumo que une Fourchu, numa direcção para leste, ao ponto de 45º 40' de latitude norte, 60º 00' de longitude oeste, desse ponto corre a sul verdadeiro até ao paralelo de 44º 10' de latitude norte, daí a leste verdadeiro até ao meridiano de 59º 00' de longitude oeste, daí a sul verdadeiro até ao paralelo de 39º 00' de latitude norte, daí a oeste verdadeiro até ao meridiano de 63º 20' de longitude oeste, daí a norte verdadeiro até ao ponto de 44º 20' de latitude norte e daí segue a linha de rumo que, numa direcção para noroeste, une esse ponto a Halifax, na Nova Escócia;
+Divisão 4-W. - A parte da subárea que fica entre a linha da costa da Nova Escócia, de Halifax a Fourchu, e uma linha descrita como segue: começando em Fourchu, segue ao longo da linha de rumo que une Fourchu, numa direcção para leste, ao ponto de 45º 40' de latitude norte, 60º 00' de longitude oeste, desse ponto corre a sul verdadeiro até ao paralelo de 44º 10' de latitude norte, daí a leste verdadeiro até ao meridiano de 59º 00' de longitude oeste, daí a sul verdadeiro até ao paralelo de 39º 00' de latitude norte, daí a oeste verdadeiro até ao meridiano de 63º 20' de longitude oeste, daí a norte verdadeiro até ao ponto de 44º 20' de latitude norte e daí segue a linha de rumo que, numa direcção para noroeste, une esse ponto a Halifax, na Nova Escócia;
 
-##### Divisão 4-X. - A parte da subárea que fica entre o limite oeste da subárea 4, continuado pela linha da costa de New Brunswick e da Nova Escócia, do termo da fronteira entre New Brunswick e o Maine até Halifax, e uma linha descrita como segue: começando em Halifax, segue a linha de rumo que, numa direcção para sueste, une Halifax ao ponto de 44º 20' de latitude norte, 63º 20' de longitude oeste, daí corre a sul verdadeiro até ao paralelo de 39º 00' de latitude norte e daí a oeste verdadeiro até ao meridiano de 65º 40' de longitude oeste.
+Divisão 4-X. - A parte da subárea que fica entre o limite oeste da subárea 4, continuado pela linha da costa de New Brunswick e da Nova Escócia, do termo da fronteira entre New Brunswick e o Maine até Halifax, e uma linha descrita como segue: começando em Halifax, segue a linha de rumo que, numa direcção para sueste, une Halifax ao ponto de 44º 20' de latitude norte, 63º 20' de longitude oeste, daí corre a sul verdadeiro até ao paralelo de 39º 00' de latitude norte e daí a oeste verdadeiro até ao meridiano de 65º 40' de longitude oeste.
 
 6 - a) Subárea 5. - A parte da Área da Convenção que fica a oeste do limite oeste da subárea 4, a norte do paralelo de 39º 00' de latitude norte e a leste do meridiano de 71º 40' de longitude oeste
 
 6 - b) A subárea 5 compreende duas divisões:
 
-##### Divisão 5-Y. - A parte da subárea que fica entre a linha da costa do Maine, de New Hampshire e Massachusetts, a partir do termo da fronteira entre o Maine e New Brunswick, até 70º 00' de longitude oeste, no cabo Cod (aproximadamente em 42º de latitude norte) e uma linha descrita como segue: começando no ponto, no cabo Cod, de 70º de longitude oeste (aproximadamente em 42º de latitude norte), corre a norte verdadeiro até 42º 20' de latitude norte, daí a leste verdadeiro até 67º 40' de longitude oeste, no limite das subáreas 4 e 5, e daí ao longo desse limite até ao termo da fronteira do Canadá com os Estados Unidos;
+Divisão 5-Y. - A parte da subárea que fica entre a linha da costa do Maine, de New Hampshire e Massachusetts, a partir do termo da fronteira entre o Maine e New Brunswick, até 70º 00' de longitude oeste, no cabo Cod (aproximadamente em 42º de latitude norte) e uma linha descrita como segue: começando no ponto, no cabo Cod, de 70º de longitude oeste (aproximadamente em 42º de latitude norte), corre a norte verdadeiro até 42º 20' de latitude norte, daí a leste verdadeiro até 67º 40' de longitude oeste, no limite das subáreas 4 e 5, e daí ao longo desse limite até ao termo da fronteira do Canadá com os Estados Unidos;
 
-##### Divisão 5-Z. - A parte da subárea que fica para sul e leste da divisão 5-Y.
+Divisão 5-Z. - A parte da subárea que fica para sul e leste da divisão 5-Y.
 
 A divisão 5-Z está dividida em duas subdivisões: uma subdivisão leste e uma subdivisão oeste, definidas como segue:
 
@@ -1136,18 +1141,18 @@ A divisão 5-Z está dividida em duas subdivisões: uma subdivisão leste e uma 
 
 7 - b) A subárea 6 compreende oito divisões:
 
-##### Divisão 6-A. - A parte da subárea que fica a norte do paralelo de 39º 00' de latitude norte e a oeste da subárea 5;
+Divisão 6-A. - A parte da subárea que fica a norte do paralelo de 39º 00' de latitude norte e a oeste da subárea 5;
 
-##### Divisão 6-B. - A parte da subárea que fica a oeste de 70º 00' de longitude oeste, a sul do paralelo de 39º 00' de latitude norte e a norte e oeste de uma linha que corre para oeste ao longo do paralelo de 37º 00' de latitude norte até 76º 00' de longitude oeste e daí a sul verdadeiro até cabo Henry, na Virgínia;
+Divisão 6-B. - A parte da subárea que fica a oeste de 70º 00' de longitude oeste, a sul do paralelo de 39º 00' de latitude norte e a norte e oeste de uma linha que corre para oeste ao longo do paralelo de 37º 00' de latitude norte até 76º 00' de longitude oeste e daí a sul verdadeiro até cabo Henry, na Virgínia;
 
-##### Divisão 6-C. - A parte da subárea que fica a oeste de 70º 00' de longitude oeste e a sul da subdivisão 6-B;
+Divisão 6-C. - A parte da subárea que fica a oeste de 70º 00' de longitude oeste e a sul da subdivisão 6-B;
 
-##### Divisão 6-D. - A parte da subárea que fica a leste das divisões 6-B e 6-C e a oeste de 65º 00' de longitude oeste;
+Divisão 6-D. - A parte da subárea que fica a leste das divisões 6-B e 6-C e a oeste de 65º 00' de longitude oeste;
 
-##### Divisão 6-E. - A parte da subárea que fica a leste da divisão 6-D e a oeste de 60º 00' de longitude oeste;
+Divisão 6-E. - A parte da subárea que fica a leste da divisão 6-D e a oeste de 60º 00' de longitude oeste;
 
-##### Divisão 6-F. - A parte da subárea que fica a leste da divisão 6-E e a oeste de 55º 00' de longitude oeste;
+Divisão 6-F. - A parte da subárea que fica a leste da divisão 6-E e a oeste de 55º 00' de longitude oeste;
 
-##### Divisão 6-G. - A parte da subárea que fica a leste da divisão 6-F e a oeste de 50º 00' de longitude oeste;
+Divisão 6-G. - A parte da subárea que fica a leste da divisão 6-F e a oeste de 50º 00' de longitude oeste;
 
-##### Divisão 6-H. - A parte da subárea que fica a leste do divisão 6-G e a oeste de 42º 00' de longitude oeste.
+Divisão 6-H. - A parte da subárea que fica a leste do divisão 6-G e a oeste de 42º 00' de longitude oeste.

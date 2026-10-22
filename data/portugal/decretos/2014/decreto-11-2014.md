@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/11/2014/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-2014-25344039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3baa0cf21d5857ffddd62e8f20a3cda96ad5585377fb0c4729d032576cb902be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbb8c98c7888a75c9cb522c5cc732f623452ef7f333a6883a2cbfb573c8803f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Força Aérea
+- ÁREA NON Aedificandi
 - Definição de Competências
-- Instalações Radioelétricas
 - Fiscalização
-- Prédio Militar
+- Força Aérea
 - Instalação Militar
+- Instalações Radioelétricas
 - Licenciamento
+- Ministro da Defesa Nacional
 - OTA
 - Ovar
-- Zona de Proteção
-- Ministro da Defesa Nacional
+- Prédio Militar
 - Servidão Aeronáutica
 - Servidão Militar
 - Servidão Radioelétrica
-- ÁREA NON Aedificandi
-relationships: []
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:05Z'
   warnings: []
   errors: []
 ---
@@ -373,29 +397,29 @@ O presente decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de fevereiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva.
 
-**Assinado em 2 de abril de 2014.**
+Assinado em 2 de abril de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de abril de 2014.**
+Referendado em 4 de abril de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
 Planta das zonas de proteção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/07300/0240502410.pdf))](https://files.diariodarepublica.pt/1s/2014/04/07300/0240502410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/07300/0240502410.pdf)
 
 Planta das zonas das superfícies de desobstrução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/07300/0240502410.pdf))](https://files.diariodarepublica.pt/1s/2014/04/07300/0240502410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/07300/0240502410.pdf)
 
 Planta das zonas de proteção radioelétrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/07300/0240502410.pdf))](https://files.diariodarepublica.pt/1s/2014/04/07300/0240502410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/07300/0240502410.pdf)
 
 ## ANEXO II — (a que se refere o artigo 8.º)
 

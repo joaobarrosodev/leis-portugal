@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/47/1992/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47-1992-597144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa6cffa53bda326ed03786f503f76559630fd7c845ce2f7b00bc945af2a6903f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2584becf0e9fb940712bdb3ca330cf832bd1fd596cfedec93455de38e98ddbc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
+- Brasil
 - Convenção
 - Portugal
-- Brasil
+- Transporte Aéreo
 relationships: []
 article_structure:
-  article_count: 24
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 23
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:04Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 2 de Dezembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo sobre Transportes Aéreos Regulares entre a República Portuguesa e a República Federativa do Brasil, bem como o respectivo anexo e quadro de rotas, assinados em Brasília em 7 de Maio de 1991, cuja versão autêntica em língua portuguesa segue em anexo ao presente decreto, que substitui o Acordo assinado em Lisboa em 10 de Dezembro de 1946.
+Artigo único. É aprovado, para ratificação, o Acordo sobre Transportes Aéreos Regulares entre a República Portuguesa e a República Federativa do Brasil, bem como o respectivo anexo e quadro de rotas, assinados em Brasília em 7 de Maio de 1991, cuja versão autêntica em língua portuguesa segue em anexo ao presente decreto, que substitui o Acordo assinado em Lisboa em 10 de Dezembro de 1946.
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1992. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Joaquim Martins Ferreira do Amaral.
 
 Ratificado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO SOBRE TRANSPORTES AÉREOS REGULARES ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL.
 
@@ -317,7 +317,7 @@ O presente Acordo revoga o Acordo firmado pelas duas Partes Contratantes em 10 d
 
 Cada Parte Contratante notificará a outra, por via diplomática, da conclusão das formalidades constitucionais necessárias à entrada em vigor do presente Acordo, a qual se dará 30 dias a partir da data da recepção da segunda notificação.
 
-**Assinado em Brasília, em dois originais em língua portuguesa, ambos igualmente válidos, no dia 7 de Maio de 1991.**
+Assinado em Brasília, em dois originais em língua portuguesa, ambos igualmente válidos, no dia 7 de Maio de 1991.
 
 Pelo Governo da República de Portugal:
 
@@ -327,7 +327,9 @@ Pelo Governo da República Federativa do Brasil:
 
 Fernando Collor de Melo.
 
-## ANEXO — SECÇÃO I
+## ANEXO
+
+#### SECÇÃO I
 
 Direitos de tráfego acessórios
 

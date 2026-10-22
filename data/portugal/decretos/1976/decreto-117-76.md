@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/117-1976-506650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a37dff35df88c5ebbb57ac871e6f5462cc499fc56b39f559a9856f3f200aff16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6490c383e7c706e7ede2202ccfcb1528f887ca1b4a548595d3cae896b311517e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Genebra
+- IMCO
+- OMI
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:644137:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RATIFICADAS EMENDAS A CONVENCAO, PELO DECRETO 141/79, DE 27 DE DEZEMBRO, PUBLICADO NO DR.IS, 297.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-12-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A DESIGNAÇÃO PARA ORGANIZAÇÃO MARÍTIMA INTERNACIONAL (IMO), CONFORME AVISO (DD527/82), DE 6 DE JULHO DE
+    1982, PUBLICADO NO DR.IS, 153, DE 820706.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-07-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: APROVADAS, PARA RATIFICAÇÃO, EMENDAS A CONVENCAO, PELO DECRETO 126/82, DE 9 DE NOVEMBRO, PUBLICADO NO DR.IS, 259.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-11-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "APROVADAS, PARA ADESÃO, EMENDAS A CONVENCAO, PELO DECRETO 10/94, DE 10 DE MARCO, PUBLICADO NO DR.IS-A, 58.\0O, PUBLICADO\
+    \ NO DR.IS-A, 58."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-10'
+- type: amended_by
+  target: pt:dre:644137:por
+  label: "Aprovadas as emendas à Convenção sobre a Organização Marítima Internacional -Parte VI artºs 16º, 17º e 19º (aprovada\
+    \ para adesão pelo presente diploma) pelo DEC.31/2001.2001.09.11.MNE,DR.IS-A[211]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/31-2001-644137
+  date: '2001-09-11'
 article_structure:
-  article_count: 1
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:46Z'
   warnings: []
   errors: []
 ---
@@ -90,21 +123,21 @@ de 9 de Fevereiro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada para adesão a Convenção Instituidora da Organização Marítima Consultiva Intergovernamental, feita em Genebra em 6 de Março de 1948 e alterada de harmonia com as resoluções adoptadas pela Assembleia em 15 de Setembro de 1964 e 28 de Setembro de 1965, cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada para adesão a Convenção Instituidora da Organização Marítima Consultiva Intergovernamental, feita em Genebra em 6 de Março de 1948 e alterada de harmonia com as resoluções adoptadas pela Assembleia em 15 de Setembro de 1964 e 28 de Setembro de 1965, cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Ernesto Augusto de Melo Antunes - José Augusto Fernandes.
 
-**Assinado em 28 de Janeiro de 1976.**
+Assinado em 28 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 CONVENÇÃO INSTITUIDORA DA ORGANIZAÇÃO MARÍTIMA CONSULTIVA INTERGOVERNAMENTAL
 
 (Feita em Genebra em 6 de Março de 1948 e alterada de harmonia com as resoluções adoptadas pela assembleia em 15 de Setembro de 1964 e 28 de Setembro de 1965.)
 
-# PARTE I — Fins da Organização
+## PARTE I — Fins da Organização
 
 ###### ARTIGO 1
 
@@ -120,7 +153,7 @@ d) Examinar todas as questões relativas à navegação marítima que lhe sejam 
 
 e) Permitir a troca de informações entre Governos sobre as questões estudadas pela Organização.
 
-# PARTE II — Funções
+## PARTE II — Funções
 
 ###### ARTIGO 2
 
@@ -140,7 +173,7 @@ c) Instituir um sistema de consultas entre os Membros e de troca de informaçõe
 
 Para as questões que considerar susceptíveis de solução pelos métodos comerciais habituais em matéria de transportes marítimos internacionais, a Organização recomendará este modo de solução. Se a Organização considerar que uma questão relativa às práticas restritivas desleais das empresas de navegação marítima não é susceptível de solução pelos métodos comerciais habituais em matéria de transportes marítimos internacionais, ou se de facto se provou não ser possível resolvê-la por estes métodos, a Organização, sob reserva de que o problema tenha sido primeiro objecto de negociações directas entre os Membros interessados, examinará o problema, a pedido de um deles.
 
-# PARTE III — Membros
+## PARTE III — Membros
 
 ###### ARTIGO 5
 
@@ -170,13 +203,13 @@ Um Membro associado tem os direitos e as obrigações reconhecidas a qualquer Me
 
 Nenhum Estado ou território pode tornar-se ou continuar Membro da Organização, contrariamente a uma resolução da Assembleia Geral das Nações Unidas.
 
-# PARTE IV — Órgãos
+## PARTE IV — Órgãos
 
 ###### ARTIGO 12
 
 A Organização compreende uma Assembleia, um Conselho, um Comité de Segurança Marítima e os órgãos auxiliares que a Organização venha a julgar conveniente criar, assim como um Secretariado.
 
-# PARTE V — A Assembleia
+## PARTE V — A Assembleia
 
 ###### ARTIGO 13
 
@@ -216,7 +249,7 @@ i) Recomendar aos Membros a adopção de regras relativas à segurança marítim
 
 j) Reenviar ao Conselho, para exame ou decisão, todos os assuntos da competência da Organização, entendendo-se, todavia, que a função de fazer recomendações, prevista na alínea i) do presente artigo, não será delegada.
 
-# PARTE VI — O Conselho
+## PARTE VI — O Conselho
 
 ###### ARTIGO 17
 
@@ -274,7 +307,7 @@ O Conselho pode concluir acordos ou tomar disposições relativas às relações
 
 Entre as sessões da Assembleia, o Conselho exerce todas as funções que competem à Organização, com excepção da função de fazer recomendações que resulta da alínea i) do artigo 16.
 
-# PARTE VII — Comité de Segurança Marítima
+## PARTE VII — Comité de Segurança Marítima
 
 ###### ARTIGO 28 (ver nota *)
 
@@ -332,13 +365,13 @@ Elege o seu secretariado para cada sessão anual e adopta o seu regulamento inte
 
 O Comité de Segurança Marítima, quando examina uma questão que interessa particularmente um Membro da Organização, convida este a participar, sem direito de voto, nas suas deliberações.
 
-# PARTE VIII — Secretariado
+## PARTE VIII — Secretariado
 
 ###### ARTIGO 33
 
 O Secretariado compreende o Secretário-Geral, o Secretário do Comité de Segurança Marítima e o pessoal que a Organização necessitar.
 
-**O Secretário-Geral é o mais alto funcionário da Organização e, sob reserva das disposições do artigo 23, nomeia o pessoal acima mencionado.**
+O Secretário-Geral é o mais alto funcionário da Organização e, sob reserva das disposições do artigo 23, nomeia o pessoal acima mencionado.
 
 ###### ARTIGO 34
 
@@ -346,11 +379,11 @@ O Secretariado está encarregado de ter em ordem todos os arquivos necessários 
 
 ###### ARTIGO 35
 
-**O Secretário-Geral estabelece e submete ao Conselho as contas anuais assim como um orçamento bienal indicando separadamente as previsões correspondentes a cada ano.**
+O Secretário-Geral estabelece e submete ao Conselho as contas anuais assim como um orçamento bienal indicando separadamente as previsões correspondentes a cada ano.
 
 ###### ARTIGO 36
 
-**O Secretário-Geral está encarregado de manter os Membros ao corrente da actividade da Organização. Qualquer Membro pode acreditar um ou mais representantes que ficarão em contacto com o Secretário-Geral.**
+O Secretário-Geral está encarregado de manter os Membros ao corrente da actividade da Organização. Qualquer Membro pode acreditar um ou mais representantes que ficarão em contacto com o Secretário-Geral.
 
 ###### ARTIGO 37
 
@@ -358,9 +391,9 @@ No cumprimento dos seus deveres, o Secretário-Geral e o pessoal não solicitam 
 
 ###### ARTIGO 38
 
-**O Secretário-Geral assume todas as outras funções que lhe possam ser destinadas pela Convenção, a Assembleia, o Conselho e o Comité de Segurança Marítima.**
+O Secretário-Geral assume todas as outras funções que lhe possam ser destinadas pela Convenção, a Assembleia, o Conselho e o Comité de Segurança Marítima.
 
-# PARTE IX — Finanças
+## PARTE IX — Finanças
 
 ###### ARTIGO 39
 
@@ -380,7 +413,7 @@ b) A Assembleia reparte o montante das despesas por todos os Membros segundo o c
 
 Qualquer Membro que não cumpra as suas obrigações financeiras para com a Organização no prazo de um ano, contado a partir da data do seu vencimento, não tem direito de voto nem na Assembleia, nem no Conselho, nem no Comité de Segurança Marítima; todavia, a Assembleia, se assim o desejar, pode derrogar essas disposições.
 
-# PARTE X — Voto
+## PARTE X — Voto
 
 ###### ARTIGO 43
 
@@ -392,7 +425,7 @@ b) Se a Convenção ou um acordo internacional conferindo atribuições à Assem
 
 c) Para os fins da presente Convenção, a expressão «Membros presentes e votantes» significa «Membros presentes e exprimindo um voto afirmativo ou negativo». Os Membros que se abstêm são considerados como não votando.
 
-# PARTE XI — Sede da Organização
+## PARTE XI — Sede da Organização
 
 ###### ARTIGO 44
 
@@ -402,7 +435,7 @@ b) Se for necessário, a Assembleia pode, por maioria de dois terços, mudar a s
 
 c) Se o Conselho o julgar necessário, a Assembleia pode reunir-se em qualquer outro lugar que não seja o da sede.
 
-# PARTE XII — Relações com as Nações Unidas e outras organizações
+## PARTE XII — Relações com as Nações Unidas e outras organizações
 
 ###### ARTIGO 45
 
@@ -424,7 +457,7 @@ A Organização poderá fazer arranjos julgados convenientes para consulta e coo
 
 Sob reserva de aprovação pela Assembleia por maioria de dois terços dos votos, a Organização está autorizada a receber de todas as outras organizações internacionais, governamentais ou não, as atribuições, os recursos e as obrigações da sua competência que lhe sejam transferidos por virtude de acordos internacionais ou de entendimentos mutuamente aceites, concluídos pelas autoridades competentes das organizações interessadas. A Organização poderá igualmente assumir todas as funções administrativas da sua competência, que foram confiadas a um governo nos termos de qualquer instrumento internacional.
 
-# PARTE XIII — Capacidade jurídica, privilégios e imunidades
+## PARTE XIII — Capacidade jurídica, privilégios e imunidades
 
 ###### ARTIGO 50
 
@@ -434,7 +467,7 @@ A capacidade jurídica, assim como os privilégios e imunidades que serão recon
 
 Cada Membro compromete-se a aplicar as disposições do Anexo II da presente Convenção, enquanto não tiver aderido à dita Convenção Geral no que diz respeito à Organização.
 
-# PARTE XIV — Emendas
+## PARTE XIV — Emendas
 
 ###### ARTIGO 52
 
@@ -448,7 +481,7 @@ Todas as emendas adoptadas nas condições prescritas no artigo 52 são deposita
 
 As declarações ou aceitações previstas no artigo 52 são efectuadas pela comunicação de um instrumento ao Secretário-Geral, para depósito junto do Secretário-Geral da Organização das Nações Unidas. O Secretário-Geral notificará os Membros da recepção do dito instrumento e da data na qual a emenda entrará em vigor.
 
-# PARTE XV — Interpretação
+## PARTE XV — Interpretação
 
 ###### ARTIGO 55
 
@@ -458,7 +491,7 @@ Qualquer diferendo ou questão levantados a propósito da interpretação ou da 
 
 Todas as questões de direito que não possam ser reguladas pelos meios indicados no artigo 55 são levadas, pela Organização, perante o Tribunal Internacional de Justiça, para parecer consultivo, conforme o artigo 96 da Carta das Nações Unidas.
 
-# PARTE XVI — Disposições diversas
+## PARTE XVI — Disposições diversas
 
 ###### ARTIGO 57 — Assinatura e aceitação
 
@@ -488,7 +521,7 @@ a) Os Membros podem retirar-se da Organização depois de uma notificação escr
 
 b) A aplicação da Convenção aos territórios ou grupos de territórios indicados no artigo 58 pode terminar em qualquer momento por notificação escrita enviada ao Secretário-Geral da Organização das Nações Unidas pelo Membro encarregado das suas relações internacionais ou pelas Nações Unidas, se se trata de um território sob tutela em que a administração depende das Nações Unidas. O Secretário-Geral da Organização das Nações Unidas avisa imediatamente todos os Membros e o Secretário-Geral da Organização. A notificação tem efeito doze meses depois da data em que ela é recebida pelo Secretário-Geral da Organização das Nações Unidas.
 
-# PARTE XVII — Entrada em vigor
+## PARTE XVII — Entrada em vigor
 
 ###### ARTIGO 60
 
@@ -526,13 +559,13 @@ Capacidade jurídica, privilégios e imunidades
 
 Enquanto não aderirem à Convenção Geral sobre Privilégios e Imunidades das Agências Especializadas, no que diz respeito à Organização, os Membros aplicarão à Organização ou a respeito dela as disposições seguintes relativas à capacidade jurídica, aos privilégios e às imunidades:
 
-#### Secção 1. A Organização goza, sobre o território de cada um dos seus Membros, da capacidade jurídica necessária à realização dos seus fins e ao exercício das suas funções.
+Secção 1. A Organização goza, sobre o território de cada um dos seus Membros, da capacidade jurídica necessária à realização dos seus fins e ao exercício das suas funções.
 
-#### Secção 2. - a) A Organização goza, sobre o território de cada um dos seus Membros, de privilégios e imunidades necessários à realização dos seus fins e ao exercício das suas funções;
+Secção 2. - a) A Organização goza, sobre o território de cada um dos seus Membros, de privilégios e imunidades necessários à realização dos seus fins e ao exercício das suas funções;
 
 b) Os representantes dos Membros, incluindo os suplentes, os conselheiros, os funcionários e os empregados da Organização, gozam igualmente de privilégios e imunidades necessários ao exercício, com toda a independência, das funções que desempenham no seio da Organização.
 
-#### Secção 3. Pela aplicação das disposições das secções 1 e 2 do presente anexo, os Membros conformar-se-ão, na medida do possível, com as cláusulas tipo da Convenção Geral sobre os Privilégios e Imunidades das Agências Especializadas.
+Secção 3. Pela aplicação das disposições das secções 1 e 2 do presente anexo, os Membros conformar-se-ão, na medida do possível, com as cláusulas tipo da Convenção Geral sobre os Privilégios e Imunidades das Agências Especializadas.
 
 CONVENTION PORTANT CRÉATION DE L'ORGANISATION INTERGOUVERNEMENTALE CONSULTATIVE DE LA NAVIGATION MARITIME
 

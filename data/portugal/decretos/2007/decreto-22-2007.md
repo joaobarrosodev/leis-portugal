@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/22/2007/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-2007-629138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb610b749738d245804426a37bc7a620cc454114a078bafb116323f53ec3ed23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2704b1026279fcbdc0bfa9fc1e200af6877bd3a8ef873d1bc670784f58ec7005
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CE Países
+- Comunicação por Satélite
 - Comunidade Europeia
 - Convenção
+- County Clare
+- Galileo
 - Irlanda
 - Portugal
-- Comunicação por Satélite
-- Galileo
-- County Clare
 relationships: []
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:57Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +107,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Henrique Nuno Pires Severiano Teixeira - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Assinado em 20 de Setembro de 2007.**
+Assinado em 20 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Setembro de 2007.**
+Referendado em 21 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 AGREEMENT ON THE PROMOTION, PROVISION AND USE OF GALILEO AND GPS SATELLITE-BASED NAVIGATION SYSTEMS AND RELATED APPLICATIONS
 
@@ -395,7 +395,7 @@ Entry into force and termination
 
 Done at Dromoland Castle, Co. Clare, on the twenty-sixth day of June 2004, in duplicate in the Danish, Dutch, English, Finnish, French, German, Greek, Italian, Portuguese, Spanish, Swedish, Czech, Estonian, Hungarian, Latvian, Lithuanian, Maltese, Polish, Slovakian and Slovenian languages. English shall be the authentic language.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20000/0749607510.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20000/0749607510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20000/0749607510.pdf)
 
 ANNEX
 

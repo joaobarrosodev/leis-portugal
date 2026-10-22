@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/1999/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-1999-185079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:10:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca628b485e6ec4edaf71f2418fab1b79b63d312fc5a2c9a0f23975dcee5d86b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3ba43eb1cb22ccb8dea2a870a145687b504b706703d6df2a908a3776268eef2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:10:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
 - CE Países
+- Comércio
 - Comércio Internacional
-- Transporte Aéreo
+- Contrato de Seguro
 - Convenção
-- Portugal
 - GATT
-- Seguro
+- Genebra
 - Organização Mundial do Comércio
-- Transporte de Mercadorias
+- Portugal
 - Prémio de Seguro
 - Prestação de Serviços
-- Genebra
-- Comércio
+- Seguro
+- Transporte Aéreo
+- Transporte de Mercadorias
 relationships: []
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:10:23Z'
   warnings: []
   errors: []
 ---
@@ -107,15 +107,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco.
 
-**Assinado em 18 de Janeiro de 1999.**
+Assinado em 18 de Janeiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Janeiro de 1999.**
+Referendado em 19 de Janeiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 FIFTH PROTOCOL TO THE GENERAL AGREEMENT ON TRADE IN SERVICES
 
@@ -141,7 +141,7 @@ Schedule of Specific Commitments
 
 Modes of supply: 1) Cross-border supply; 2) Consumption abroad; 3) Commercial presence; 4) Presence of natural persons.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/02/028a00/06120631.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/02/028a00/06120631.pdf)](https://files.diariodarepublica.pt/1s/1999/02/028a00/06120631.pdf)
 
 Additional commitments by the European Communities and their member States
 
@@ -195,7 +195,7 @@ Lista de Compromissos Específicos
 
 Modos de prestação: 1) Prestação transfronteiras; 2) Consumo no estrangeiro; 3) Presença comercial; 4) Presença de pessoas singulares.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/02/028a00/06120631.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/02/028a00/06120631.pdf)](https://files.diariodarepublica.pt/1s/1999/02/028a00/06120631.pdf)
 
 Compromissos adicionais das Comunidades Europeias e seus Estados membros
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/33/1992/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-1992-292686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1cea46c6cf607fe8d7ee8e9cf55cb09038c10dbb557c65ad05067f428d96ade
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e93622b702f50a71c1c922804124dec687c88b70a49a04125083eec4e1ccd1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - China
+- Convenção
 - Desporto
+- Portugal
 relationships: []
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:51Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +90,19 @@ de 23 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação no Domínio do Desporto entre a República Portuguesa e a República Popular da China, assinado em Pequim, em 22 de Julho de 1991, cuja versão autêntica, nas línguas portuguesa e chinesa, segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação no Domínio do Desporto entre a República Portuguesa e a República Popular da China, assinado em Pequim, em 22 de Julho de 1991, cuja versão autêntica, nas línguas portuguesa e chinesa, segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1992. - Joaquim Fernando Nogueira - José Manuel Durão Barroso - António Fernando Couto dos Santos.
 
-**Assinado em 2 de Julho de 1992.**
+Assinado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Julho de 1992.**
+Referendado em 3 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO DE COOPERAÇÃO NO DOMÍNIO DO DESPORTO ENTRE OS GOVERNOS DA REPÚBLICA PORTUGUESA E DA REPÚBLICA POPULAR DA CHINA.
 
@@ -114,7 +114,7 @@ Considerando a necessidade de uma conjugação de esforços com vista à defesa 
 
 Considerando o clima de boas relações desportivas que tem vindo a ser mantido nos últimos anos entre ambos os países:
 
-**O Ministro da Educação da República Portuguesa e o Presidente da Comissão de Estado de Educação Física e dos Desportos da República Popular da China, em representação dos respectivos Governos, acordam em promover a intensificação da cooperação bilateral no domínio dos desportos, subscrevendo para o efeito o seguinte Acordo:**
+O Ministro da Educação da República Portuguesa e o Presidente da Comissão de Estado de Educação Física e dos Desportos da República Popular da China, em representação dos respectivos Governos, acordam em promover a intensificação da cooperação bilateral no domínio dos desportos, subscrevendo para o efeito o seguinte Acordo:
 
 ###### Artigo 1.º
 
@@ -166,4 +166,4 @@ Roberto Artur da Luz Carneiro.
 
 Pela República Popular de China:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/168a00/34443446.pdf))](https://files.diariodarepublica.pt/1s/1992/07/168a00/34443446.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/168a00/34443446.pdf)

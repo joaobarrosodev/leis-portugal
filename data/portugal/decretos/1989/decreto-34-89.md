@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1989-619278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:02:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8075f574a2665d41e9f593bcfe2554854aade1360e09a662c9e38f73b809649
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e18b395ab8235b5514b29ce77d992a0017b5ca43264bef2a5e1b79ef8faab6d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Domínio Público Hídrico
+- RIO LIS
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:306646:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:02:17Z'
   warnings: []
   errors: []
 ---
@@ -96,22 +103,22 @@ Considerando o disposto nos artigos 1.º e 4.º do [Decreto-Lei n.º 48784](http
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É desafectada do domínio público a parcela de terreno marginal ao rio Lis, situada na freguesia de Vieira de Leiria, município da Marinha Grande, representada na planta anexa a este diploma, de que faz parte integrante, para ser vendida, com dispensa de hasta pública, ao actual utente.
+Artigo 1.º É desafectada do domínio público a parcela de terreno marginal ao rio Lis, situada na freguesia de Vieira de Leiria, município da Marinha Grande, representada na planta anexa a este diploma, de que faz parte integrante, para ser vendida, com dispensa de hasta pública, ao actual utente.
 
-###### Art. 2.º O referido terreno será utilizado para fins de interesse turístico, não podendo nele ser executadas quaisquer obras sem licença prévia da Direcção-Geral dos Recursos Naturais, bem como das demais entidades competentes nos termos da lei.
+Art. 2.º O referido terreno será utilizado para fins de interesse turístico, não podendo nele ser executadas quaisquer obras sem licença prévia da Direcção-Geral dos Recursos Naturais, bem como das demais entidades competentes nos termos da lei.
 
 Presidência do Conselho de Ministros, 20 de Março de 1989.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Assinado em 26 de Julho de 1989.**
+Assinado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Julho de 1989.**
+Referendado em 31 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18900/33783379.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18900/33783379.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18900/33783379.pdf)

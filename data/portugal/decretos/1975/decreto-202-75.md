@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/202-1975-162079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9da2d2302e453835065395970e825d28eda8e924b53abfa9ee0ea5d8acf8c06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47a3d5f5cc0e537ebb9ed7aee0f7df5296bb81591bc49fe852a0420f354d9723
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Marinha Mercante
+- Moscovo
+- Portugal
+- URSS
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:31Z'
   warnings: []
   errors: []
 ---
@@ -87,23 +92,23 @@ de 15 de Abril
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre os Governos de Portugal e da União das Repúblicas Socialistas Soviéticas sobre Navegação Mercante.
+Artigo único. É aprovado, para ratificação, o Acordo entre os Governos de Portugal e da União das Repúblicas Socialistas Soviéticas sobre Navegação Mercante.
 
 O Acordo agora aprovado para ratificação foi assinado em Moscovo, em 20 de Dezembro de 1974, e o respectivo texto em português vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Joaquim Jorge de Pinho Campinos.
 
-**Assinado em 5 de Abril de 1975.**
+Assinado em 5 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Acordo entre o Governo da República Portuguesa e o Governo da União das Repúblicas Socialistas Soviéticas sobre Navegação Mercante.
 
 O Governo da República Portuguesa e o Governo da União das Repúblicas Socialistas Soviéticas, desejando desenvolver a navegação mercante entre os dois países e contribuir para o desenvolvimento da navegação internacional com base nos princípios da liberdade do comércio marítimo, decidiram celebrar o presente Acordo.
 
-###### ARTIGO 1
+ARTIGO 1
 
 No presente Acordo:
 
@@ -111,15 +116,15 @@ No presente Acordo:
 
 2. O termo «membro da tripulação» significará o comandante e qualquer pessoa efectivamente empregada a bordo durante a viagem no trabalho ou serviço de um navio e incluída na lista de tripulantes.
 
-###### ARTIGO 2
+ARTIGO 2
 
 As Partes Contratantes concederão toda a assistência possível à liberdade de navegação mercante e abster-se-ão de quaisquer actos que possam causar dano ao desenvolvimento normal da navegação internacional.
 
-###### ARTIGO 3
+ARTIGO 3
 
 As Partes Contratantes devem, dentro dos limites da sua respectiva legislação, continuar os seus esforços para manter e desenvolver efectivas relações de trabalho entre as autoridades responsáveis pelo transporte marítimo nos seus países. Em particular, as Partes Contratantes concordam em manter consultas mútuas e trocas de informações entre os departamentos governamentais responsáveis pelos assuntos marítimos nos seus países, bem como em encorajar o desenvolvimento de contactos entre as suas respectivas empresas de navegação.
 
-###### ARTIGO 4
+ARTIGO 4
 
 1. As Partes Contratantes concordam em seguir no comércio marítimo internacional, na medida do possível, princípios de livre e leal concorrência. Em particular, concordam em:
 
@@ -133,7 +138,7 @@ c) Não dificultar a participação de navios de uma Parte Contratante no comér
 
 3. As disposições deste artigo não afectarão o direito de os navios de terceiros países participarem no comércio entre os portos das Partes Contratantes.
 
-###### ARTIGO 5
+ARTIGO 5
 
 1. Cada Parte Contratante concederá aos navios da outra Parte Contratante o mesmo tratamento que concede aos seus próprios navios quando em viagens internacionais, no que respeita ao livre acesso aos portos, utilização de portos para embarque e desembarque de passageiros e cargas, pagamento de impostos de tonelagem e outros impostos e taxas, utilização de serviços destinados à navegação e exercício de operações comerciais normais.
 
@@ -149,17 +154,17 @@ d) Não se aplicarão a regulamentos respeitantes à entrada e permanência de e
 
 3. Se de outro modo não for estabelecido neste Acordo, cada Parte Contratante concederá à outra Parte Contratante o tratamento de nação mais favorecida, em todos os assuntos referentes à navegação mercante.
 
-###### ARTIGO 6
+ARTIGO 6
 
 As Partes Contratantes adoptarão, dentro dos limites da sua lei e regulamentos portuários, todas as medidas apropriadas para facilitar e acelerar o tráfego marítimo, impedir demoras desnecessárias dos navios e acelerar e simplificar tanto quanto possível as formalidades alfandegárias e outras aplicáveis nos portos.
 
-###### ARTIGO 7
+ARTIGO 7
 
 1. Os documentos que certificam a nacionalidade dos navios, certificados de tonelagem e outros documentos do navio emitidos ou reconhecidos por uma das Partes Contratantes serão reconhecidos também pela outra Parte.
 
 2. Os navios de cada Parte Contratante que possuam certificados de tonelagem legalmente emitidos não serão objecto de nova medição nos portos da outra Parte.
 
-###### ARTIGO 8
+ARTIGO 8
 
 Cada Parte Contratante concederá aos portadores de documentos de identidade de marítimo emitidos pela autoridade competente da outra Parte Contratante os direitos estabelecidos nos artigos 9 e 10 do presente Acordo, sujeitos às correspondentes condições. Estes documentos de identidade são:
 
@@ -167,13 +172,13 @@ Para os marítimos dos navios da República Portuguesa - uma «Cédula marítima
 
 Para os marítimos dos navios soviéticos - um «Passaporte de marítimo da URSS».
 
-###### ARTIGO 9
+ARTIGO 9
 
 Aos possuidores dos documentos de identidade de marítimo especificados no artigo 8 do presente Acordo é permitido, quando membros da tripulação de um navio de uma Parte Contratante, permanecer temporariamente em terra sem vistos, durante a estadia do mesmo navio num porto da outra Parte Contratante, desde que a respectiva lista da tripulação tenha sido submetida às competentes autoridades, de harmonia com os regulamentos em vigor naquele porto.
 
 As referidas pessoas quando desembarcam ou embarcam no navio estão sujeitas ao contrôle de fronteira e de alfândega em vigor naquele porto.
 
-###### ARTIGO 10
+ARTIGO 10
 
 1. Aos possuidores dos documentos de identidade de marítimo especificados no artigo 8 do presente Acordo é permitido, como passageiro de qualquer meio de transporte, entrar no território da outra Parte Contratante ou passar através dele em trânsito, sempre que se dirijam para os seus navios ou se mudem para outro navio, a caminho da pátria, ou por qualquer outra razão que seja aceite pelas autoridades desta outra Parte Contratante.
 
@@ -181,13 +186,13 @@ As referidas pessoas quando desembarcam ou embarcam no navio estão sujeitas ao 
 
 3. No caso de o possuidor do documento de identidade de marítimo especificado no artigo 8 não ser um cidadão de qualquer Parte Contratante, os vistos especificados no presente artigo, para entrada ou passagem em trânsito através do território da outra Parte Contratante, serão concedidos desde que o regresso ao território da Parte Contratante que emitiu o documento de identidade de marítimo esteja garantido para o possuidor de tal documento.
 
-###### ARTIGO 11
+ARTIGO 11
 
 1. Exceptuando o disposto nos artigos 8 a 10 do presente Acordo, os regulamentos respeitantes à entrada, estadia e saída de estrangeiros mantêm-se em vigor no território das Partes Contratantes no que respeita aos possuidores de documentos de identidade de marítimo.
 
 2. Cada Parte Contratante reserva-se o direito de negar entrada no seu território aos marítimos que considere indesejáveis.
 
-###### ARTIGO 12
+ARTIGO 12
 
 1. As autoridades judiciais de uma das Partes Contratantes só tomarão em consideração acções judiciais resultantes de um contrato de serviço como membro da tripulação de um navio da outra Parte Contratante desde que tenham consentimento da autoridade consular ou diplomática competente desta outra Parte.
 
@@ -207,11 +212,11 @@ e) Se o procedimento for necessário para combater o comércio proibido de narc�
 
 4. As disposições dos parágrafos 2 e 3 deste artigo não afectam o direito de contrôle e investigação que as autoridades de cada Parte Contratante têm ao abrigo da sua legislação.
 
-###### ARTIGO 13
+ARTIGO 13
 
 Uma empresa de navegação que possua o centro de decisão e contrôle no território de uma das Partes Contratantes e não desenvolva a sua actividade através de uma filial ou agência no território da outra Parte Contratante não estará sujeita nem pagará, no território desta outra Parte, impostos directamente relacionados com a sua actividade de transportador marítimo de passageiros e carga e sua entrega no cais; porém, a empresa não será considerada, para efeitos deste artigo, como exercendo a sua actividade por intermédio de uma filial ou agência no território da outra Parte Contratante, apenas porque desenvolve a sua actividade naquele território através de um broker actuando no curso normal das suas funções.
 
-###### ARTIGO 14
+ARTIGO 14
 
 1. Se um navio de uma das Partes Contratantes naufraga, encalha, dá à costa ou sofre qualquer outro acidente ao largo da costa da outra Parte, o navio e a carga gozarão, no território desta última Parte, os mesmos benefícios e privilégios e aceitarão as mesmas responsabilidades que são atribuídos a um navio desta Parte e à sua carga.
 
@@ -223,7 +228,7 @@ Uma empresa de navegação que possua o centro de decisão e contrôle no territ
 
 5. Nada poderá levar a interpretar as disposições do parágrafo 4 deste artigo de forma a impedir a aplicação das leis e regulamentos das Partes Contratantes no que respeita à armazenagem temporária de mercadorias.
 
-###### ARTIGO 15
+ARTIGO 15
 
 1. Cada Parte Contratante proporcionará as compensações que resultarem de sentenças dadas por um tribunal da outra Parte Contratante em processos civis ligados com:
 
@@ -233,13 +238,13 @@ b) Transporte de passageiros ou cargas por aquele navio.
 
 2. No território de uma das Partes Contratantes o navio propriedade da outra Parte Contratante não será sujeito a arresto relacionado com qualquer das acções civis especificadas no parágrafo 1, desde que o armador indique o seu representante no território da primeira Parte Contratante.
 
-###### ARTIGO 16
+ARTIGO 16
 
 1. Com o fim de velar pela execução do presente Acordo é criada uma comissão mista, que apresentará as adequadas recomendações às autoridades competentes de ambas as Partes. A comissão mista reúne-se a pedido de qualquer das Partes, pelo menos uma vez cada ano.
 
 2. A composição e âmbito de actividades da comissão prevista no parágrafo 1 serão definidos pelas autoridades marítimas competentes das Partes Contratantes.
 
-###### ARTIGO 17
+ARTIGO 17
 
 Cada Parte Contratante notificará a outra Parte de se terem completado os trâmites requeridos pela sua legislação interna para a entrada em vigor do presente Acordo, que começará a vigorar trinta dias a contar da data da última notificação.
 

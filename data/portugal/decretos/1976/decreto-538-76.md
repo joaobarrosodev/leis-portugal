@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15900/15081512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/538-1976-431461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12c53590e61a5d519218268212a27bb57f7b0f24b55ed0a2b0e97fb85a29d6ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f3e740eaefe24a10b70878a55399d974f43cb374ad161bda23712fd781ed110
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Instituto Nacional de Investigação Científica
+- Integração de Trabalhadores
+- Orgânica
+- Pessoal Dirigente
+- Presidente
 relationships:
 - type: amended_by
   target: pt:dre:261128:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:408556:por
+  label: Converte o Centro de Documentação Científica do antigo Instituto de Alta Cultura no Centro de Documentação Científica
+    e Técnica que funciona na dependência do Instituto Nacional de Investigação Científica criado pelo presente diploma, pelo(a)
+    Portaria n.º 567/76 - Diário da República n.º 217/1976, Série I de 1976-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/567-1976-408556
+  date: '1976-09-15'
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Alterado o presente diploma, relativamente à tutela do Instituto Nacional de Investigação Cientifica, pelo(a) Decreto-Lei
+    n.º 451/91 - Diário da República n.º 279/1991, 1º Suplemento, Série I-A de 1991-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:261128:por
+  label: "Extinto o Instituto Nacional de Investiga&#231;&#227;o Cient&#237;fica (INIC), pelo DEC LEI.188/92.27.08.1992.MPLAT,\
+    \ DR.IS-A [197] de 27.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/188-1992-261128
+  date: '1992-08-27'
+- type: cites
+  target: pt:dre:411374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:461662:por
+  label: "Revogado pelo DEC LEI.414/80.27.09.1980.MECI, DR.IS [224] de 27.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-1980-461662
+  date: '1980-09-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:56Z'
   warnings: []
   errors: []
 ---
@@ -114,9 +157,9 @@ Ao abrigo do disposto no artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/76](https:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado o Instituto Nacional de Investigação Científica (INIC), pessoa colectiva de direito público que faz parte dos serviços centrais do Ministério da Educação e Investigação Científica e à qual incumbe contribuir para a formulação, coordenação e realização da política científica nacional, bem como colaborar na definição e execução dos planos de preparação do pessoal qualificado necessário ao desenvolvimento do País.
+Artigo 1.º É criado o Instituto Nacional de Investigação Científica (INIC), pessoa colectiva de direito público que faz parte dos serviços centrais do Ministério da Educação e Investigação Científica e à qual incumbe contribuir para a formulação, coordenação e realização da política científica nacional, bem como colaborar na definição e execução dos planos de preparação do pessoal qualificado necessário ao desenvolvimento do País.
 
-###### Art. 2.º Em prossecução destas finalidades, compete, essencialmente, ao INIC:
+Art. 2.º Em prossecução destas finalidades, compete, essencialmente, ao INIC:
 
 a) Realizar estudos e formular propostas para o planeamento da investigação efectuada no âmbito do Ministério da Educação e Investigação Científica e actuar como órgão dinamizador dos planos de acção definidos;
 
@@ -134,9 +177,9 @@ g) Promover e subsidiar publicações de carácter científico, técnico ou did�
 
 h) Patrocinar as relações científicas nacionais e internacionais, favorecendo a realização de congressos, colóquios e outras reuniões e subsidiando a participação de investigadores, docentes e técnicos nessas actividades.
 
-###### Art. 3.º O INIC goza de autonomia administrativa.
+Art. 3.º O INIC goza de autonomia administrativa.
 
-###### Art. 4.º O INIC compreende os seguintes órgãos e serviços:
+Art. 4.º O INIC compreende os seguintes órgãos e serviços:
 
 1. Órgãos:
 
@@ -158,7 +201,7 @@ c) Divisão de Expediente e Secretariado;
 
 d) Divisão de Finanças e Património.
 
-###### Art. 5.º - 1. Ao presidente compete dirigir superiormente o INIC, orientar e coordenar as suas actividades e, designadamente:
+Art. 5.º - 1. Ao presidente compete dirigir superiormente o INIC, orientar e coordenar as suas actividades e, designadamente:
 
 a) Convocar o conselho geral, os conselhos consultivos e o conselho administrativo, presidindo às suas reuniões;
 
@@ -174,7 +217,7 @@ e) Representar o INIC em juízo e fora dele.
 
 3. O presidente será coadjuvado por um vice-presidente, no qual poderá delegar alguma das suas competências.
 
-###### Art. 6.º - 1. Ao conselho geral compete:
+Art. 6.º - 1. Ao conselho geral compete:
 
 a) Propor, no quadro da política científica nacional, a definição dos domínios prioritários das actividades do INIC, elaborando ou apreciando planos de acção anuais ou plurianuais;
 
@@ -214,7 +257,7 @@ i) Um delegado do pessoal do INIC.
 
 4. A lista dos departamentos ministeriais referidos na alínea c) do número anterior, assim como os requisitos e forma de designação dos delegados a que se referem as alíneas e), f) g), h) e i) do mesmo número, serão definidos mediante portaria do Primeiro-Ministro e do Ministro da Educação e Investigação Científica.
 
-###### Art. 7.º - 1. Os conselhos consultivos são órgãos de apoio especializados, essencialmente constituídos por pessoas designadas pela sua qualificação, aos quais cumpre dar parecer sobre o mérito e o interesse das actividades da competência do INIC cuja apreciação lhes for determinada pelo presidente.
+Art. 7.º - 1. Os conselhos consultivos são órgãos de apoio especializados, essencialmente constituídos por pessoas designadas pela sua qualificação, aos quais cumpre dar parecer sobre o mérito e o interesse das actividades da competência do INIC cuja apreciação lhes for determinada pelo presidente.
 
 2. A coordenação das actividades de cada conselho consultivo será realizada por um secretário.
 
@@ -222,7 +265,7 @@ i) Um delegado do pessoal do INIC.
 
 4. Sem prejuízo das atribuições cometidas aos conselhos consultivos, pode o presidente do INIC solicitar parecer a individualidades qualificadas, nacionais ou estrangeiras.
 
-###### Art. 8.º - 1. Compete ao conselho administrativo:
+Art. 8.º - 1. Compete ao conselho administrativo:
 
 a) Orientar a preparação do projecto de orçamento anual do INIC;
 
@@ -252,15 +295,15 @@ l) Pronunciar-se sobre qualquer outro assunto que lhe seja apresentado pelo pres
 
 4. Os membros do conselho administrativo são solidariam ente responsáveis pelas deliberações tomadas, salvo se não tiverem estado presentes ou se houverem feito exarar em acta a sua discordância.
 
-###### Art. 9.º À Divisão de Planeamento e Intercâmbio compete, nomeadamente, a preparação do planeamento e do contrôle global da actividade das entidades subsidiadas pelo INIC, o apoio aos conselhos consultivos, a preparação e execução das acções de intercâmbio e de publicações e ainda a recolha e tratamento de dados, de origem nacional e estrangeira, sobre política e organização científica e tecnológica.
+Art. 9.º À Divisão de Planeamento e Intercâmbio compete, nomeadamente, a preparação do planeamento e do contrôle global da actividade das entidades subsidiadas pelo INIC, o apoio aos conselhos consultivos, a preparação e execução das acções de intercâmbio e de publicações e ainda a recolha e tratamento de dados, de origem nacional e estrangeira, sobre política e organização científica e tecnológica.
 
-###### Art. 10.º À Divisão de Programas compete, nomeadamente, a organização dos processos relativos à concessão de bolsas, subsídios de estudo e equiparações e ainda a organização dos processos relativos a programas de actividades dos institutos e centros subsidiados pelo INIC e de outras realizações de natureza conexa, bem como a execução das decisões tomadas a esses propósitos.
+Art. 10.º À Divisão de Programas compete, nomeadamente, a organização dos processos relativos à concessão de bolsas, subsídios de estudo e equiparações e ainda a organização dos processos relativos a programas de actividades dos institutos e centros subsidiados pelo INIC e de outras realizações de natureza conexa, bem como a execução das decisões tomadas a esses propósitos.
 
-###### Art. 11.º À Divisão de Expediente e Secretariado compete, nomeadamente, assegurar o secretariado da presidência, o serviço de expediente geral, o serviço de arquivo e ainda realizar as tarefas de apoio às restantes divisões de que for incumbida pelo presidente.
+Art. 11.º À Divisão de Expediente e Secretariado compete, nomeadamente, assegurar o secretariado da presidência, o serviço de expediente geral, o serviço de arquivo e ainda realizar as tarefas de apoio às restantes divisões de que for incumbida pelo presidente.
 
-###### Art. 12.º À Divisão de Finanças e Património compete, nomeadamente, organizar e assegurar o serviço de contabilidade e tesouraria, o serviço de gestão de pessoal, sem prejuízo da competência própria da Secretaria-Geral do Ministério, os serviços de património e economato, bem como elaborar o projecto de orçamento anual e verificar as contas prestadas por entidades dependentes do INIC.
+Art. 12.º À Divisão de Finanças e Património compete, nomeadamente, organizar e assegurar o serviço de contabilidade e tesouraria, o serviço de gestão de pessoal, sem prejuízo da competência própria da Secretaria-Geral do Ministério, os serviços de património e economato, bem como elaborar o projecto de orçamento anual e verificar as contas prestadas por entidades dependentes do INIC.
 
-###### Art. 13.º - 1. Constituem receitas consignadas do INIC:
+Art. 13.º - 1. Constituem receitas consignadas do INIC:
 
 a) Os subsídios, comparticipações ou quaisquer liberalidades atribuídas por entidades públicas ou privadas e aceites pelo Ministério da Educação e Investigação Científica;
 
@@ -274,15 +317,15 @@ d) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou 
 
 3. Os depósitos a que se refere o número anterior serão sempre feitos em nome do INIC e a sua movimentação estará isenta do imposto do selo e de prémio de transferência.
 
-###### Art. 14.º O INIC e os organismos dele dependentes estão isentos de todos os impostos, contribuições ou taxas, custas, emolumentos e selos nos processos, actos notariais, de registo ou outros em que intervenha, em termos e condições idênticos aos do Estado.
+Art. 14.º O INIC e os organismos dele dependentes estão isentos de todos os impostos, contribuições ou taxas, custas, emolumentos e selos nos processos, actos notariais, de registo ou outros em que intervenha, em termos e condições idênticos aos do Estado.
 
-###### Art. 15.º - 1. O INIC disporá do pessoal dirigente, técnico, administrativo e auxiliar que, fazendo parte dos quadros únicos dos serviços centrais do Ministério da Educação e Investigação Científica, constará de portaria dos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica, a publicar no prazo de cento e vinte dias.
+Art. 15.º - 1. O INIC disporá do pessoal dirigente, técnico, administrativo e auxiliar que, fazendo parte dos quadros únicos dos serviços centrais do Ministério da Educação e Investigação Científica, constará de portaria dos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica, a publicar no prazo de cento e vinte dias.
 
 2. O quadro do INIC poderá ser alterado mediante portaria dos Ministros indicados no número anterior.
 
 3. O pessoal do INIC será distribuído pelos respectivos serviços mediante despacho do presidente.
 
-###### Art. 16.º - 1. As formas de recrutamento e os regimes de provimento do pessoal do quadro do INIC são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto no artigo 23.º do presente diploma e nas alíneas seguintes:
+Art. 16.º - 1. As formas de recrutamento e os regimes de provimento do pessoal do quadro do INIC são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto no artigo 23.º do presente diploma e nas alíneas seguintes:
 
 a) O lugar de presidente será provido por escolha do Primeiro-Ministro e do Ministro da Educação e Investigação Científica;
 
@@ -304,7 +347,7 @@ c) Os secretários dos conselhos consultivos serão designados por escolha do Mi
 
 8. O presidente e o vice-presidente podem, quando nomeados em comissão, optar, a todo o tempo, pelo vencimento, abonos e gratificações a que, a qualquer título, tinham direito no serviço de origem, sendo-lhes, contudo, essas remunerações pagas através do INIC.
 
-###### Art. 17.º - 1. Os membros do conselho geral e dos conselhos consultivos são nomeados ou designados por períodos de três anos, renováveis, podendo ser substituídos em qualquer momento.
+Art. 17.º - 1. Os membros do conselho geral e dos conselhos consultivos são nomeados ou designados por períodos de três anos, renováveis, podendo ser substituídos em qualquer momento.
 
 2. Os membros do conselho geral e dos conselhos consultivos terão direito a ajudas de custo e transportes, nos termos da lei geral.
 
@@ -314,15 +357,15 @@ c) Os secretários dos conselhos consultivos serão designados por escolha do Mi
 
 5. O disposto no número anterior só se aplicará, contudo, quanto aos membros dos referidos conselhos que sejam trabalhadores da função pública, relativamente à participação em reuniões efectuadas fora das horas de serviço.
 
-###### Art. 18.º - 1. O Ministro da Educação e Investigação Científica poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado além do quadro pessoal técnico e administrativo destinado a ocorrer às necessidades eventuais ou extraordinárias dos serviços.
+Art. 18.º - 1. O Ministro da Educação e Investigação Científica poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado além do quadro pessoal técnico e administrativo destinado a ocorrer às necessidades eventuais ou extraordinárias dos serviços.
 
 2. A utilização das disponibilidades de vencimentos de pessoal do quadro, para efeitos do disposto no presente artigo, carece de autorização do Ministro das Finanças.
 
-###### Art. 19.º O presidente poderá, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual ou transitório necessários ao bom desempenho das atribuições do INIC.
+Art. 19.º O presidente poderá, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual ou transitório necessários ao bom desempenho das atribuições do INIC.
 
-###### Art. 20.º O disposto nos artigos 18.º e 19.º do presente diploma deve entender-se sem prejuízo do disposto na legislação geral sobre excedentes de pessoal.
+Art. 20.º O disposto nos artigos 18.º e 19.º do presente diploma deve entender-se sem prejuízo do disposto na legislação geral sobre excedentes de pessoal.
 
-###### Art. 21.º - 1. As atribuições e competência definidas na alínea a) do n.º 1 e no n.º 2 do artigo 1.º bem como no n.º 1 do artigo 2.º do [Decreto-Lei n.º 613/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1973-411374), de 15 de Novembro, deixam de pertencer ao Instituto de Alta Cultura (IAC) e passam a ser exercidas pelo INIC, nos moldes definidos pelo presente diploma.
+Art. 21.º - 1. As atribuições e competência definidas na alínea a) do n.º 1 e no n.º 2 do artigo 1.º bem como no n.º 1 do artigo 2.º do [Decreto-Lei n.º 613/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1973-411374), de 15 de Novembro, deixam de pertencer ao Instituto de Alta Cultura (IAC) e passam a ser exercidas pelo INIC, nos moldes definidos pelo presente diploma.
 
 2. São extintas a Divisão de Investigação Científica e a Divisão de Bolsas de Estudo e Intercâmbio Científico do IAC, às quais se referem os artigos 4.º, 10.º e 11.º do [Decreto-Lei n.º 613/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1973-411374), sendo transferidos para o INIC os arquivos e outra documentação correspondente às actividades exercidas até agora pelas referidas Divisões.
 
@@ -334,9 +377,9 @@ c) Os secretários dos conselhos consultivos serão designados por escolha do Mi
 
 6. O Ministro da Educação e Investigação Científica fixará, por despacho, qual a parte dos bens patrimoniais do IAC e dos organismos dele dependentes ou a ele afectados que serão transferidos para o INIC.
 
-###### Art. 22.º O actual Centro de Documentação Científica do IAC será, mediante portaria do Ministro da Educação e Investigação Científica, convertido no Centro de Documentação Científica e Técnica, na dependência do INIC, implicando esta integração a transferência para este Instituto da totalidade dos bens e equipamento presentemente afectos àquele.
+Art. 22.º O actual Centro de Documentação Científica do IAC será, mediante portaria do Ministro da Educação e Investigação Científica, convertido no Centro de Documentação Científica e Técnica, na dependência do INIC, implicando esta integração a transferência para este Instituto da totalidade dos bens e equipamento presentemente afectos àquele.
 
-###### Art. 23.º - 1. O pessoal do quadro do IAC que presta serviço na Divisão de Investigação Científica, na Divisão de Bolsas de Estudo e Intercâmbio Científico e no Centro de Documentação Científica será transferido para o quadro do pessoal do INIC, salvo o despacho favorável a requerimento em contrário submetido ao Ministro da Educação e Investigação Científica no prazo de quinze dias, a contar da data da publicação da portaria referida no n.º 1 do artigo 15.º
+Art. 23.º - 1. O pessoal do quadro do IAC que presta serviço na Divisão de Investigação Científica, na Divisão de Bolsas de Estudo e Intercâmbio Científico e no Centro de Documentação Científica será transferido para o quadro do pessoal do INIC, salvo o despacho favorável a requerimento em contrário submetido ao Ministro da Educação e Investigação Científica no prazo de quinze dias, a contar da data da publicação da portaria referida no n.º 1 do artigo 15.º
 
 2. Poderá também ser transferido para o INIC, mediante prévio despacho favorável sobre requerimento submetido ao Ministro da Educação e Investigação Científica no prazo de quinze dias, a contar da data da publicação da portaria mencionada no n.º 1 do artigo 15.º, pessoal do quadro do IAC colocado em serviços diversos dos mencionados no número precedente.
 
@@ -348,26 +391,26 @@ c) Os secretários dos conselhos consultivos serão designados por escolha do Mi
 
 6. Enquanto não for publicado o quadro do pessoal do INIC, o pessoal a transferir para o mesmo, nos termos deste artigo, poderá ser destacado para assegurar os respectivos serviços.
 
-###### Art. 24.º - 1. Na perspectiva de reestruturação da política científica do Ministério da Educação e Investigação Científica, são revogadas todas as disposições legais que criaram ou regem os institutos, centros de estudos, núcleos de estudos e outros organismos de investigação do âmbito daquele Ministério que até 30 de Junho de 1975 dependiam do IAC.
+Art. 24.º - 1. Na perspectiva de reestruturação da política científica do Ministério da Educação e Investigação Científica, são revogadas todas as disposições legais que criaram ou regem os institutos, centros de estudos, núcleos de estudos e outros organismos de investigação do âmbito daquele Ministério que até 30 de Junho de 1975 dependiam do IAC.
 
 2. Os organismos de investigação ou de apoio à investigação criados em consequência da reestruturação em curso passam a depender do INIC, no âmbito do qual serão regulamentados.
 
 3. O Secretário de Estado do Ensino Superior e Investigação Científica tomará as disposições necessárias para solucionar quaisquer dificuldades que possam resultar da aplicação do número anterior.
 
-###### Art. 25.º Através de portaria conjunta dos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica será criado, logo que possível, um quadro complementar de pessoal técnico, administrativo e auxiliar, próprio dos organismos dependentes do INIC, com a composição adequada à prestação do apoio de que necessitam. A portaria considerará integrado o pessoal prestando serviço na data da entrada em vigor deste decreto e o provimento operar-se-á mediante lista nominativa, aprovada pelo Ministro da Educação e Investigação Científica, a publicar no Diário da República, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas.
+Art. 25.º Através de portaria conjunta dos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica será criado, logo que possível, um quadro complementar de pessoal técnico, administrativo e auxiliar, próprio dos organismos dependentes do INIC, com a composição adequada à prestação do apoio de que necessitam. A portaria considerará integrado o pessoal prestando serviço na data da entrada em vigor deste decreto e o provimento operar-se-á mediante lista nominativa, aprovada pelo Ministro da Educação e Investigação Científica, a publicar no Diário da República, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas.
 
-###### Art. 26.º Os bolseiros do INIC que forem trabalhadores da função pública conservam as regalias inerentes aos seus cargos, incluindo a contagem de tempo, para todos os efeitos legais.
+Art. 26.º Os bolseiros do INIC que forem trabalhadores da função pública conservam as regalias inerentes aos seus cargos, incluindo a contagem de tempo, para todos os efeitos legais.
 
-###### Art. 27.º O regime de equiparação a bolseiro implica, para os docentes, investigadores ou comissionados que sejam trabalhadores da função pública, a conservação de todas as regalias inerentes aos seus cargos, incluindo a contagem de tempo para quaisquer efeitos legais.
+Art. 27.º O regime de equiparação a bolseiro implica, para os docentes, investigadores ou comissionados que sejam trabalhadores da função pública, a conservação de todas as regalias inerentes aos seus cargos, incluindo a contagem de tempo para quaisquer efeitos legais.
 
-###### Art. 28.º Os encargos resultantes da execução do presente diploma serão suportados por força das dotações inscritas no orçamento privativo do IAC, que em parte serão transferidas para o INIC, nos termos dos n.os 3, 4 e 5 do artigo 21.º No orçamento do MEIC para 1976 serão efectuadas as alterações orçamentais indispensáveis, com base em proposta conjunta do IAC e do INIC.
+Art. 28.º Os encargos resultantes da execução do presente diploma serão suportados por força das dotações inscritas no orçamento privativo do IAC, que em parte serão transferidas para o INIC, nos termos dos n.os 3, 4 e 5 do artigo 21.º No orçamento do MEIC para 1976 serão efectuadas as alterações orçamentais indispensáveis, com base em proposta conjunta do IAC e do INIC.
 
-###### Art. 29.º O presidente do INIC tomará, até ao fim do corrente ano, as disposições necessárias para organizar os serviços referidos no n.º 2 do artigo 4.º deste decreto.
+Art. 29.º O presidente do INIC tomará, até ao fim do corrente ano, as disposições necessárias para organizar os serviços referidos no n.º 2 do artigo 4.º deste decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Rodrigues Alves - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 29 de Junho de 1976.**
+Promulgado em 29 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

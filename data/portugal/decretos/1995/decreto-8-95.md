@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/8/1995/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-1995-223812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b6d8f27db057ae69a2b7ef40706b08f0e0444bb178d6856a7503c590a04fe09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c629c0b36b34a17df4aea3d72ec7f7f583a21d4eb8489ee46569638aee55ae31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Desenvolvimento Industrial
 - Apoio ao Investimento
+- Convenção
+- Desenvolvimento Industrial
 - Onudi
+- Portugal
 - Viena
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:04Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ de 20 de Abril
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre a República Portuguesa e a Organização das Nações Unidas para o Desenvolvimento Industrial Respeitante a Uma Contribuição Especial para o Fundo de Desenvolvimento Industrial e para o Estabelecimento de Um Serviço da UNIDO em Portugal para a Promoção do Investimento Industrial e para o Fortalecimento da Cooperação com os Países em Vias de Desenvolvimento, assinado em Viena a 18 de Novembro de 1991, cuja versão original, nas línguas portuguesa e inglesa, segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo entre a República Portuguesa e a Organização das Nações Unidas para o Desenvolvimento Industrial Respeitante a Uma Contribuição Especial para o Fundo de Desenvolvimento Industrial e para o Estabelecimento de Um Serviço da UNIDO em Portugal para a Promoção do Investimento Industrial e para o Fortalecimento da Cooperação com os Países em Vias de Desenvolvimento, assinado em Viena a 18 de Novembro de 1991, cuja versão original, nas línguas portuguesa e inglesa, segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 12 de Janeiro de 1995. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Luís Fernando Mira Amaral.
 
-**Assinado em 9 de Março de 1995.**
+Assinado em 9 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Março de 1995.**
+Referendado em 13 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA O DESENVOLVIMENTO INDUSTRIAL RESPEITANTE A UMA CONTRIBUIÇÃO ESPECIAL PARA O FUNDO DE DESENVOLVIMENTO INDUSTRIAL E PARA O ESTABELECIMENTO DE UM SERVIÇO DA UNIDO EM PORTUGAL PARA A PROMOÇÃO DO INVESTIMENTO INDUSTRIAL E PARA O FORTALECIMENTO DA COOPERAÇÃO COM OS PAÍSES EM VIAS DE DESENVOLVIMENTO.
 
@@ -117,7 +117,7 @@ Considerando que foi acordado entre a UNIDO e Portugal que a UNIDO será respons
 
 Consequentemente, a UNIDO e Portugal acordaram no seguinte:
 
-Artigo I
+###### Artigo I
 
 1 - Portugal porá à disposição da UNIDO, como parte da contribuição geral para o FDI, uma contribuição especial com o fim de instituir uma conta a partir da qual o projecto será financiado.
 
@@ -131,7 +131,7 @@ Artigo I
 
 6 - Todos os documentos contabilísticos serão expressos em dólares dos Estados Unidos da América, não sendo válida a contabilidade organizada em qualquer outra moeda. Para fins de registo de recebimentos e ou pagamentos, todas as transacções serão convertidas em dólares dos Estados Unidos da América, à taxa de câmbio oficial das Nações Unidas aplicável à data do recebimento e ou pagamento.
 
-Artigo II
+###### Artigo II
 
 1 - Serão debitadas na conta-projecto todas as despesas efectivas feitas pela UNIDO no cumprimento do presente Acordo.
 
@@ -139,7 +139,7 @@ Artigo II
 
 3 - A conta-projecto será igualmente onerada com uma quantia equivalente a 1% da remuneração do salário líquido das pessoas contratadas pela UNIDO e cuja contratação seja financiada através da conta-projecto, a fim de constituir uma reserva para cobertura de qualquer pedido de indemnização por morte, ferimentos ou doença em serviço, ao abrigo de contratos ou dos regulamentos e normas da UNIDO aplicáveis, reserva essa que não pode ser devolvida a Portugal.
 
-Artigo III
+###### Artigo III
 
 1 - A UNIDO iniciará a condução das acções objecto do presente Acordo a partir da assinatura, notificação segundo o artigo XII deste Acordo, e do depósito na conta subsidiária para a contribuição especial de Portugal para o FDI de fundos suficientes para satisfazer as obrigações assumidas por Portugal nos termos fixados no escalonamento de pagamentos anexo ao documento-projecto.
 
@@ -147,19 +147,19 @@ Artigo III
 
 3 - No caso de a UNIDO considerar necessária qualquer alteração dos componentes e ou serviços adicionais que não estejam previstos no documento-projecto, submeterá à aprovação de Portugal um orçamento suplementar justificativo das alterações nas entradas e ou ajustamentos de financiamento necessários.
 
-Artigo IV
+###### Artigo IV
 
 O equipamento, técnico ou de outra natureza, bem como os materiais e fornecimentos financiados pelos fundos postos por Portugal à disposição do projecto são de propriedade da UNIDO. Após a conclusão do projecto, a propriedade do equipamento, materiais e fornecimentos necessários para a consecussão do mesmo será transferida para Portugal.
 
-Artigo V
+###### Artigo V
 
 A avaliação das actividades descritas no presente Acordo, incluindo a avaliação conjunta a fazer pela UNIDO e por Portugal, será conduzida de acordo com as disposições do anexo A.
 
-Artigo VI
+###### Artigo VI
 
 A conta subsidiária para a contribuição especial de Portugal e os projectos por ela financiados ficarão sujeitos exclusivamente aos processos de auditoria interna e externa constantes nos regulamentos, normas e instruções administrativas da UNIDO.
 
-Artigo VII
+###### Artigo VII
 
 Além da informação relativa aos contactos e relatórios tal como especificada no anexo A, a UNIDO fornecerá a Portugal os seguintes extractos e relatórios, sob a forma normalmente usada pela UNIDO para relatórios contabilísticos e financeiros:
 
@@ -169,23 +169,23 @@ b) Um balanço anual respeitante à conta subsidiária para a contribuição esp
 
 c) Um balanço financeiro, a elaborar no prazo de seis meses a contar do termo do presente Acordo, do qual constem todas as receitas e despesas feitas durante a vigência do projecto.
 
-Artigo VIII
+###### Artigo VIII
 
 A UNIDO notificará Portugal logo que, em sua opinião, os fins para os quais a conta-projecto foi estabelecida tiverem sido realizados. A data de tal notificação será considerada como a data da finalização operacional do projecto. O presente Acordo manter-se-á em vigor para os fins estabelecidos no artigo X.
 
-Artigo IX
+###### Artigo IX
 
 O presente Acordo poderá ser rescindido por qualquer das Partes, com um pré-aviso de 30 dias, a enviar por escrito à outra Parte, mantendo-se no entanto em vigor o artigo X para os fins nele estabelecidos.
 
-Artigo X
+###### Artigo X
 
 Após o termo do projecto nos termos do artigo VIII ou no caso de cessação da vigência do presente Acordo nos termos do artigo IX, a conta-projecto continuará aberta até que sejam satisfeitas todas as despesas feitas pela UNIDO. Após a apresentação do balanço final, a elaborar ao abrigo do artigo VII, alínea c), qualquer saldo devido à UNIDO nos termos do artigo III será debitado pela UNIDO na conta subsidiária para a contribuição especial de Portugal para o FDI, e Portugal reembolsará a UNIDO de qualquer saldo negativo eventualmente apresentado por essa conta. Qualquer saldo resultante de fundos não utilizados pela conta-projecto será devolvido a Portugal ou terá o destino que Portugal solicitar.
 
-Artigo XI
+###### Artigo XI
 
 De acordo com o artigo 21.º da Constituição da UNIDO, a Convenção sobre Privilégios e Imunidades das Nações Unidas (1946) aplicar-se-á ao Serviço da UNIDO em Lisboa. Do mesmo modo, o artigo II da citada Convenção aplicar-se-á ao Serviço e respectivos bens, fundos, actividades, instalações e arquivos, o artigo III às comunicações do Serviço, os artigos V e VII aos funcionários da UNIDO colocados no Serviço e os artigos VI e VII aos peritos que se encontrem em missões da UNIDO relacionadas com o Serviço.
 
-Artigo XII
+###### Artigo XII
 
 O presente Acordo entrará em vigor na data da notificação escrita, pela República Portuguesa à UNIDO, do cumprimento das formalidades pelo seu ordenamento jurídico interno.
 
@@ -215,7 +215,7 @@ Contraparte governamental - Instituto para a Cooperação Económica; Ministéri
 
 Origem e data do pedido - Carta da Missão Permanente de Portugal junto da UNIDO com data de 1 de Setembro de 1991.
 
-## Título do projecto - Serviço da UNIDO em Portugal para a Promoção do Investimento Industrial e para o Fortalecimento da Cooperação com os Países em Vias de Desenvolvimento (adiante designado por Serviço).
+Título do projecto - Serviço da UNIDO em Portugal para a Promoção do Investimento Industrial e para o Fortalecimento da Cooperação com os Países em Vias de Desenvolvimento (adiante designado por Serviço).
 
 Contribuição da UNIDO - US$ 479260 (incluindo custos gerais).
 
@@ -223,7 +223,7 @@ Contribuição governamental - em espécie.
 
 Moeda exigida - convertível.
 
-#### Secção de apoio técnico da UNIDO - Divisão de Investimento Industrial.
+Secção de apoio técnico da UNIDO - Divisão de Investimento Industrial.
 
 Proposta apresentada por - R. Norris.
 
@@ -285,7 +285,7 @@ e) No prazo de seis meses após o final do ano financeiro no qual a UNIDO fizer 
 
 Orçamento para o período de dois anos (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/093a00/22472254.pdf))](https://files.diariodarepublica.pt/1s/1995/04/093a00/22472254.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/093a00/22472254.pdf)
 
 (nota *) Não inclui instalações e mobiliário.
 
@@ -485,7 +485,7 @@ e) Not later than six months after the end of the financial year in which UNIDO 
 
 Attachment budget for a duration of two years (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/093a00/22472254.pdf))](https://files.diariodarepublica.pt/1s/1995/04/093a00/22472254.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/093a00/22472254.pdf)
 
 (nota *) Does not cover premises and furniture.
 

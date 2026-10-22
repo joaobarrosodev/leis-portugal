@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/573-1973-412638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:30:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b46cf2a337c7f0d0947117983ec904b97da29715b8c6effed098c30e2b4afe96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b06a561e66331c7d91471542e1a36eeca71ce9c4dd0f38d95512bb64de919e45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:30:43Z'
   warnings: []
   errors: []
 ---
@@ -88,31 +92,31 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 43074685$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 43074685$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 4.º «Instituto Nacional de Estatística»:
+Capítulo 4.º «Instituto Nacional de Estatística»:
 
-###### Artigo 158-A «Outras despesas correntes»:
+Artigo 158-A «Outras despesas correntes»:
 
 N.º 1 «Inquérito sobre transportes na área metropolitana de Lisboa» (19) ... 6000000$00
 
-### Capítulo 16.º «Despesas comuns»:
+Capítulo 16.º «Despesas comuns»:
 
 Forças militares extraordinárias no ultramar
 
-###### Artigo 553.º «Bens duradouros» ... 438685$00
+Artigo 553.º «Bens duradouros» ... 438685$00
 
 ... 6438685$00
 
 Ministério da Justiça
 
-### Capítulo 4.º «Direcção-Geral das Serviços Prisionais»:
+Capítulo 4.º «Direcção-Geral das Serviços Prisionais»:
 
 Prisão-Hospital de S. João de Deus
 
-###### Artigo 381.º «Bens não duradouros»:
+Artigo 381.º «Bens não duradouros»:
 
 N.º 1 «Matérias-primas e subsidiárias» ... 300000$00
 
@@ -124,40 +128,40 @@ Ministério da Economia
 
 Secretaria de Estado do Comércio
 
-### Capítulo 12.º «Direcção-Geral do Comércio»:
+Capítulo 12.º «Direcção-Geral do Comércio»:
 
 Direcção-Geral
 
-###### Artigo 260.º «Despesas gerais de funcionamento», n.º 4 «Publicidade e propaganda» ... 541000$00
+Artigo 260.º «Despesas gerais de funcionamento», n.º 4 «Publicidade e propaganda» ... 541000$00
 
-### Capítulo 24.º «Contas de ordem»:
+Capítulo 24.º «Contas de ordem»:
 
-###### Artigo 453.º «Fundo de Fomento de Exportação», n.º 1 «Serviços gerais» ... 35755000$00
+Artigo 453.º «Fundo de Fomento de Exportação», n.º 1 «Serviços gerais» ... 35755000$00
 
 ... 36296000$00
 
 ... 43074685$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
-### Capítulo 5.º, grupo 2, artigo 94.º «Serviços de comércio - Registo de marcas» ... 541000$00
+Capítulo 5.º, grupo 2, artigo 94.º «Serviços de comércio - Registo de marcas» ... 541000$00
 
-### Capítulo 7.º, grupo 8, artigo 116.º «Serviços diversos» ... 340000$00
+Capítulo 7.º, grupo 8, artigo 116.º «Serviços diversos» ... 340000$00
 
-### Capítulo 7.º, grupo 10, artigo 129.º «Diversos serviços e bens não duradouros - Serviços diversos» ... 6000000$00
+Capítulo 7.º, grupo 10, artigo 129.º «Diversos serviços e bens não duradouros - Serviços diversos» ... 6000000$00
 
-### Capítulo 14.º, artigo 165.º «Reposições não abatidas nos pagamentos» ... 438685$00
+Capítulo 14.º, artigo 165.º «Reposições não abatidas nos pagamentos» ... 438685$00
 
-### Capítulo 15.º, artigo 186.º «Fundo de Fomento de Exportação - Serviços gerais» ... 35755000$00
+Capítulo 15.º, artigo 186.º «Fundo de Fomento de Exportação - Serviços gerais» ... 35755000$00
 
 ... 43074685$00
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 26 de Outubro de 1973.**
+Promulgado em 26 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/26/2018/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/26-2018-117343945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d5ba3af91f23d1fc71597188911f49e3dd3901dceed217e4258603780101366
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1da476fc37bf6ae1ae939db5e22eca2f02ae94c8887cc921a52f6572ed9945e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
 subjects:
 - Administração Naval
 - Convenção
-- Portugal
 - Londres
-- Segurança Internacional
+- Portugal
 - Proteção do Ambiente
 - Responsabilidade Internacional
+- Segurança Internacional
 relationships: []
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:54Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 15 de novembro de 2018. - António Luís Santos da Costa - José Luís Pereira Carneiro - Ana Paula Mendes Vitorino.
 
-**Assinado em 30 de novembro de 2018.**
+Assinado em 30 de novembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de dezembro de 2018.**
+Referendado em 6 de dezembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 CONVENÇÃO INTERNACIONAL RELATIVA AO CONTROLO DOS SISTEMAS ANTIVEGETATIVOS NOCIVOS NOS NAVIOS, 2001
 
@@ -436,7 +436,7 @@ Feito em Londres, aos cinco dias do mês de outubro do ano dois mil e um.
 
 ## ANEXO 1 — Controlo dos sistemas antivegetativos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf))](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
 
 ## ANEXO 2 — Elementos necessários para uma proposta inicial
 
@@ -616,13 +616,13 @@ Declaração de sistema antivegetativo
 
 (**) Ver as orientações adotadas pela Organização pela Resolução A.739(18), conforme emendada pela Organização, e para as especificações adotadas pela Organização pela Resolução A.789(19), conforme emendada pela Organização
 
-## APÊNDICE 1 AO ANEXO 4
+APÊNDICE 1 AO ANEXO 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf))](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
 
-## APÊNDICE 2 AO ANEXO 4
+APÊNDICE 2 AO ANEXO 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf))](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
 
 INTERNATIONAL CONVENTION ON THE CONTROL OF HARMFUL ANTI-FOULING SYSTEMS ON SHIPS, 2001
 
@@ -990,7 +990,7 @@ ANNEX 1
 
 Controls on anti-fouling systems
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf))](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
 
 ANNEX 2
 
@@ -1178,8 +1178,10 @@ Declaration on anti-fouling system
 
 APPENDIX 1 TO ANNEX 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf))](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
 
 APPENDIX 2 TO ANNEX 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf))](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/23900/0575805777.pdf)
+
+111892845

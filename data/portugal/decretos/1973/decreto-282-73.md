@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/282-1973-422388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fd2084547297b35c700c1af076fe13ee4f8b60d569251ec2802a3366a057b35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab5e5f6dcc2f4fd839e7d725624ee47eb8b15bccfbe3ea0a378a9b7f077eb7e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:54Z'
   warnings: []
   errors: []
 ---
@@ -89,12 +93,12 @@ Tendo em vista o disposto no artigo 6.º, n.º 1, do [Decreto-Lei n.º 48234](ht
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É autorizado o director-geral de Viação, como outorgante por parte do Estado, a celebrar contrato com Abel Português Direito da Mota Gomes Santiago para o arrendamento do rés-do-chão do prédio sito em Aveiro, na Praceta da Rua de Aires Barbosa, por um prazo de dez anos, com início em 1 de Julho de 1973, e renovável, se isso convier às partes contratantes, por iguais e sucessivos períodos de um ano, sendo a renda fixada em 120000$00 anuais, podendo esta ser revista decorridos cinco anos sobre a data do arrendamento, nos termos das disposições legais aplicáveis.
+Artigo único. É autorizado o director-geral de Viação, como outorgante por parte do Estado, a celebrar contrato com Abel Português Direito da Mota Gomes Santiago para o arrendamento do rés-do-chão do prédio sito em Aveiro, na Praceta da Rua de Aires Barbosa, por um prazo de dez anos, com início em 1 de Julho de 1973, e renovável, se isso convier às partes contratantes, por iguais e sucessivos períodos de um ano, sendo a renda fixada em 120000$00 anuais, podendo esta ser revista decorridos cinco anos sobre a data do arrendamento, nos termos das disposições legais aplicáveis.
 
 Marcello Caetano - Augusto Victor Coelho - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 23 de Maio de 1973.**
+Promulgado em 23 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

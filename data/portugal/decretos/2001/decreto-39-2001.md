@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/39/2001/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-2001-615201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:12:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3396092e8a065690d7dcf42b51af81751fbb54013ac068396242bf305b942cb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed0933cec965d2b66cd135ec12dbb94904322d3fed72a0edc5f50034af5b168b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:12:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,21 @@ subjects:
 - Convenção
 - Educação
 - Portugal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:452538:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:12:03Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +98,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2001. - Jaime José Matos da Gama - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Júlio Domingos Pedrosa da Luz de Jesus.
 
-**Assinado em 6 de Setembro de 2001.**
+Assinado em 6 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2001.**
+Referendado em 13 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONVÉNIO DE COOPERAÇÃO EDUCATIVA ENTRE A REPÚBLICA PORTUGUESA E O PRINCIPADO DE ANDORRA
 
@@ -174,11 +178,11 @@ O Convénio, cujas versões fazem igualmente fé nos idiomas de Portugal e de An
 
 Andorra-a-Velha, 15 de Novembro de 2000.
 
-**O Ministro da Educação, Juventude e Desportos de Andorra:**
+O Ministro da Educação, Juventude e Desportos de Andorra:
 
 Pere Cervós Cardona.
 
-**O Ministro de Estado e dos Negócios Estrangeiros de Portugal:**
+O Ministro de Estado e dos Negócios Estrangeiros de Portugal:
 
 Jaime José Matos da Gama.
 
@@ -186,7 +190,7 @@ Jaime José Matos da Gama.
 
 1 - Regime de equivalências entre os cursos dos sistemas educativos andorrano e português, relativamente ao ensino não universitário.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/225a00/61196122.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/225a00/61196122.pdf)](https://files.diariodarepublica.pt/1s/2001/09/225a00/61196122.pdf)
 
 2 - Modalidades para a integração de estudantes portugueses no sistema educativo de Andorra e de estudantes andorranos no sistema educativo português.
 
@@ -206,7 +210,7 @@ No final do 5.º ano do ensino básico, os alunos andorranos poderão optar pela
 
 1 - Regime de equivalências entre os diplomas e títulos dos sistemas educativos andorrano e português, no que se refere ao ensino universitário.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/225a00/61196122.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/09/225a00/61196122.pdf)](https://files.diariodarepublica.pt/1s/2001/09/225a00/61196122.pdf)
 
 2 - Modalidades para a integração dos estudantes portugueses no sistema educativo universitário andorrano e de estudantes andorranos no sistema educativo universitário português.
 

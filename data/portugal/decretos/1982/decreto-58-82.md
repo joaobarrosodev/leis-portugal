@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/58-1982-392400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 449e06b24bacdfa96066bd032bf7a4848b052d6453723afea111dde107168ee2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e9f1a5d193b149efcb819dc1cd9f0ad51a006191b5e3ee8991916cb0a28fef7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mar Vermelho
+- Navegação Marítima
+- Portugal
+- Taxa
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:30Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 21 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para adesão o Acordo Internacional para a Manutenção da Iluminação no Mar Vermelho, concluído em Londres em 20 de Fevereiro de 1962, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para adesão o Acordo Internacional para a Manutenção da Iluminação no Mar Vermelho, concluído em Londres em 20 de Fevereiro de 1962, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 26 de Abril de 1982.**
+Assinado em 26 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 International Agreement Regarding the Maintenance of Certain Lights in the Red Sea
 
@@ -234,7 +238,7 @@ Desejando concluir um acordo que providencie a manutenção da iluminação nas 
 
 acordaram nas seguintes disposições:
 
-###### ARTIGO 1
+ARTIGO 1
 
 No presente Acordo:
 
@@ -248,11 +252,11 @@ iv) A expressão «ano financeiro» significa doze meses acabando em 31 de Març
 
 v) A expressão «a iluminação» significa a iluminação nas ilhas de Abu Ail e Jabal at Tair.
 
-###### ARTIGO 2
+ARTIGO 2
 
 De acordo com as disposições do artigo 6, o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte deverá ser o Governo dirigente e, como tal, deverá continuar a orientar e manter a iluminação. O Governo Dirigente pode designar um representante para actuar em seu nome, e os honorários serão combinados entre o Governo Dirigente e tal representante.
 
-###### ARTIGO 3
+ARTIGO 3
 
 1) Os Governos contribuintes deverão liquidar as despesas de administração e manutenção da dita iluminação através de contribuições baseadas na tonelagem total de navios de cada Governo contribuinte, de acordo com o previsto nos parágrafos 5) e 6) do presente artigo.
 
@@ -272,13 +276,13 @@ a) Ano financeiro em que o presente Acordo entra em vigor, de acordo com as disp
 
 b) Ano financeiro em que assina o presente Acordo, de acordo com as disposições do artigo 9.
 
-###### ARTIGO 4
+ARTIGO 4
 
 1) Se por qualquer motivo a contribuição de um Governo contribuinte respeitante a algum ano financeiro não tiver sido paga dentro do tempo limite de doze meses referido no artigo 3, 4), o Governo em falta ficará responsável pela contribuição em dívida e o Governo Dirigente deverá fazer todas as diligências para obter os dinheiros em dívida.
 
 2) Se tais esforços falharem depois de um espaço de tempo de dois anos, os outros Governos contribuintes deverão liquidar as importâncias em falta nas proporções estabelecidas no artigo 3, 1), e os direitos ao abrigo do artigo 3, 2) e 3), e ao abrigo do artigo 7 deverão ser suspensos em relação ao Governo em falta, até que os pagamentos em dívida sejam efectuados e reassumido o pagamento das contribuições.
 
-###### ARTIGO 5
+ARTIGO 5
 
 1) Cada Governo contratante tem o direito de interromper a sua contribuição em qualquer ano financeiro, a seguir a ter comunicado por escrito ao Governo Dirigente antes de 1 de Outubro do ano financeiro anterior; deverá continuar a ser responsável pela sua contribuição corrente até 31 de Março a seguir à data de tal comunicação.
 
@@ -286,23 +290,23 @@ Qualquer Governo que fizer tal comunicação deverá referir as razões para ess
 
 2) O Governo Dirigente deverá informar todos os Governos contratantes de qualquer comunicação recebida, de acordo com as disposições do presente artigo.
 
-###### ARTIGO 6
+ARTIGO 6
 
 1) O Governo do Reino Unido tem o direito de interromper a sua obrigação de ser o Governo Dirigente a notificar por escrito, e para tal efeito, os outros Governos contratantes. A sua obrigação deverá cessar no fim do ano financeiro a seguir ao ano financeiro em que for feita a comunicação.
 
 2) Nestas circunstâncias, os Governos contratantes deverão consultar-se entre eles com vista a nomear outro Governo como Governo Dirigente ou a adoptar outras disposições para a administração da iluminação. Se não forem adoptadas outras disposições antes que a obrigação do Governo do Reino Unido cesse de acordo com o parágrafo 1) do presente artigo, o presente Acordo deverá deixar de estar em vigor.
 
-###### ARTIGO 7
+ARTIGO 7
 
 Se qualquer Governo contratante desejar que qualquer emenda deva ser feita às disposições do presente Acordo, deverá comunicar as suas propostas, juntamente com as razões justificativas, ao Governo Dirigente. O Governo Dirigente deverá informar todos os outros Governos contratantes de qualquer proposta de emenda por ele recebida, com a solicitação de que eles deverão, o mais cedo possível, informá-lo se aceitam a proposta. Só se deverá considerar que um Governo contratante aceitou a proposta de emenda após a notificação de aceitação ter sido registada pelo Governo Dirigente.
 
 Se uma proposta de emenda for aceite por todos os Governos contratantes, o Governo Dirigente deverá redigir um certificado da emenda que tenha sido acordada e comunicá-lo a todos os outros Governos contratantes, e a emenda deverá ser considerada como entrando em vigor na data do certificado, a não ser que uma data efectiva diferente tenha sido estipulada na proposta aceite.
 
-###### ARTIGO 8
+ARTIGO 8
 
 Nada no presente Acordo deverá ser considerado como uma decisão para o futuro das Ilhas ou territórios indicados no artigo 16 do Tratado de Lausana ou que prejudique a conclusão de qualquer decisão no futuro.
 
-###### ARTIGO 9
+ARTIGO 9
 
 1) De acordo com as disposições do parágrafo 2) do presente artigo, o Governo de qualquer Estado convidado a assistir à Conferência Diplomática respeitante à manutenção de iluminação no mar Vermelho, que teve lugar em Londres de 11 a 13 de Outubro de 1961, nomeadamente a Dinamarca, a República Federal da Alemanha, a Finlândia, a França, a Grécia, a Itália, a Libéria, a Holanda, a Noruega, o Paquistão, o Panamá, a Suécia, as Repúblicas Socialistas da União Soviética, as Repúblicas Árabes Unidas, o Reino Unido da Grã-Bretanha e Irlanda do Norte e os Estados Unidos da América, poderá tornar-se parte do presente Acordo através de:
 
@@ -320,15 +324,15 @@ iii) Aceitação.
 
 5) O Governo do Reino Unido deverá informar todos os Governos signatários e todos os Governos que tenham aceite o presente Acordo de cada assinatura ou aceitação recebida da data da sua recepção e de qualquer declaração feita de acordo com o parágrafo 4) do presente artigo.
 
-###### ARTIGO 10
+ARTIGO 10
 
 Se em qualquer ano cronológico a tonelagem total dos navios de qualquer Governo que não seja um Governo contratante que atravessa o canal de Suez atingir mais de 1% da tonelagem total de todos os navios que atravessam o canal de Suez, o Governo Dirigente, depois de obtida a concordância de todos os Governos contratantes, deverá convidar esse Governo a assinar o presente Acordo.
 
-###### ARTIGO 11
+ARTIGO 11
 
 O Governo do Reino Unido notificará todos os Governos signatários e todos os Governos que aceitaram o presente Acordo sempre que a tonelagem total dos navios pertencentes aos Governos que tomaram as providências requeridas pelo artigo 9 para se tornarem partes do Acordo e que atravessam o canal de Suez tenha excedido, no ano anterior, 50% da tonelagem total de todos os navios que tenham atravessado o canal de Suez nesse ano, e o Acordo entrará em vigor na data da mesma notificação.
 
-###### ARTIGO 12
+ARTIGO 12
 
 1) Qualquer Governo contratante pode denunciar o presente Acordo por notificação ao Governo Dirigente. A notificação de intenção de interromper a contribuição por um período indefinido deverá ser considerada como sendo uma notificação de denúncia.
 

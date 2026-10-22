@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14300/0001000013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/2023/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-2023-216154389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:25:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6af7cba7d6ac568d0cc24752d550eec35ca3454575065984be74f0c316a00bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4f93439d0cb44ad75fdd6c82ba7764e0ad490c508a2b02cbbe2418a0d0b2cff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:25:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
+- Escola Portuguesa de Moçambique-Centro de Ensino e Língua Portuguesa
+- Estabelecimento de Ensino
+- Maputo
 - Moçambique
 - Portugal
-- Escola Portuguesa de Moçambique-Centro de Ensino e Língua Portuguesa
-- Maputo
-- Estabelecimento de Ensino
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/2004/04/14/p/dre
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:220751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:25:22Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +127,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de junho de 2023. - Mariana Guimarães Vieira da Silva - João Titterington Gomes Cravinho - João Miguel Marques da Costa.
 
-**Assinado em 18 de julho de 2023.**
+Assinado em 18 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de julho de 2023.**
+Referendado em 19 de julho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ADICIONAL AO ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE MOÇAMBIQUE RELATIVO À ESCOLA PORTUGUESA DE MOÇAMBIQUE - CENTRO DE ENSINO E LÍNGUA PORTUGUESA, ASSINADO EM MAPUTO A 24 DE MARÇO DE 2008
 
@@ -202,3 +214,5 @@ João Gomes Cravinho, Ministro dos Negócios Estrangeiros.
 Pela República de Moçambique:
 
 Verónica Nataniel Macamo Dlhovo, Ministra dos Negócios Estrangeiros e Cooperação.
+
+116692824

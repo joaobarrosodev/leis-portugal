@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/28/2012/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-2012-191088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:21:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3a8d813d8a5e344b8fad139a0a6997d62b582375655a7a2c9da98c9096a1012
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca1c2093a96ed97473a08cfe554658d77a2ad88217b657de7c5697e99a956a37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:21:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:156190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:21:18Z'
   warnings: []
   errors: []
 ---
@@ -125,14 +133,14 @@ Ao abrigo do disposto no n.º 1 do artigo 28.º da [Lei n.º 107/2001](https://d
 
 Visto e aprovado em Conselho de Ministros de 18 de outubro de 2012. - Pedro Passos Coelho.
 
-**Assinado em 9 de novembro de 2012.**
+Assinado em 9 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de novembro de 2012.**
+Referendado em 12 de novembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/22400/0666806669.pdf))](https://files.diariodarepublica.pt/1s/2012/11/22400/0666806669.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/22400/0666806669.pdf)

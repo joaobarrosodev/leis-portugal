@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/2006/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-2006-168228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61dd5c43dedd22e7d57d84975086098964b5293f8fe0dbd1a2e0448c0cd1d778
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e65069418ed923b4259149780f059894215b164c1b5cbb5963e08db3a27745d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Argélia
-- Investigação Científica e Tecnológica
 - Circulação de Pessoas
-- Juventude
 - Comunicação Social
 - Convenção
 - Cooperação Bilateral
-- Portugal
+- Cultura
+- Desporto
+- Ensino Superior
+- Investigação Científica e Tecnológica
+- Juventude
 - Lisboa
 - Livre Circulação de Pessoas
-- Cultura
-- Ensino Superior
-- Desporto
+- Portugal
 relationships: []
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:37Z'
   warnings: []
   errors: []
 ---
@@ -109,15 +109,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Manuel Pedro Cunha da Silva Pereira - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Assinado em 12 de Dezembro de 2005.**
+Assinado em 12 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Dezembro de 2005.**
+Referendado em 19 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA E POPULAR DA ARGÉLIA NAS ÁREAS DA EDUCAÇÃO, DO ENSINO SUPERIOR E DA INVESTIGAÇÃO CIENTÍFICA, DA CULTURA, DA JUVENTUDE, DO DESPORTO E DA COMUNICAÇÃO SOCIAL.
 

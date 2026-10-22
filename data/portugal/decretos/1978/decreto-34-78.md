@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1978-446929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec950afa3d22bae748570d4a902d9448732d599e205aaf25b9c9a96d09f881fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f0e038800613091f8f82d162ddc83d8096ad0e8b48371f266dacafc311fae5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- OMS
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:26Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +90,15 @@ de 6 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovadas para ratificação as emendas aos artigos 24.º e 25.º da Constituição da Organização Mundial de Saúde, adoptadas em 17 de Maio de 1976 pela Resolução WHA 29.38 da 29.ª Assembleia Mundial de Saúde, cujo texto em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. São aprovadas para ratificação as emendas aos artigos 24.º e 25.º da Constituição da Organização Mundial de Saúde, adoptadas em 17 de Maio de 1976 pela Resolução WHA 29.38 da 29.ª Assembleia Mundial de Saúde, cujo texto em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Augusto Nunes de Sá Machado.
 
-**Assinado em 27 de Março de 1978.**
+Assinado em 27 de Março de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO A — (Texto inglês)
 

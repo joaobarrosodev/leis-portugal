@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15300/0000700048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/2020/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-2020-139804820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d350182d6e86912f6dc036c96f1333981b9b43c1ce5f156d7cc885d07f47694
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f73f48ec747a8270629e3e3d1eed4915a27704fe1c1aa731229f18e71e7cb6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,22 @@ subjects:
 - Contrato
 - Contrato de Compra e Venda
 - Convenção
-- Portugal
-- ONU
 - Mercadoria
+- ONU
+- Portugal
 - Venda
 - Viena
 relationships: []
 article_structure:
   article_count: 101
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:34Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +102,13 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 16 de julho de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - Francisca Eugénia da Silva Dias Van Dunem.
 
-**Assinado em 23 de julho de 2020.**
+Assinado em 23 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de julho de 2020.**
+Referendado em 27 de julho de 2020.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
 
@@ -924,7 +924,7 @@ Entendendo que a adoção de regras uniformes, que sejam aplicáveis aos contrat
 
 acordam no seguinte:
 
-# PARTE I — Âmbito de aplicação e disposições gerais
+## PARTE I — Âmbito de aplicação e disposições gerais
 
 ### CAPÍTULO I — Âmbito de aplicação
 
@@ -1020,7 +1020,7 @@ Qualquer disposição do artigo 11.º, artigo 29.º ou da Parte II da presente C
 
 Para efeitos da presente Convenção, «por escrito» incluí as comunicações por telegrama e telex.
 
-# PARTE II — Formação do contrato
+## PARTE II — Formação do contrato
 
 ###### Artigo 14.º
 
@@ -1088,7 +1088,7 @@ O contrato conclui-se logo que a aceitação de uma proposta contratual se torna
 
 Para efeitos da presente Parte da Convenção, uma proposta contratual, uma declaração de aceitação ou qualquer outra manifestação de intenção «chega» ao destinatário quando lhe é feita verbalmente ou lhe é entregue pessoalmente por qualquer outro meio, no seu estabelecimento, no seu endereço postal, ou, se ele não tiver nem estabelecimento nem endereço postal, na sua residência habitual.
 
-# PARTE III — Compra e venda de mercadorias
+## PARTE III — Compra e venda de mercadorias
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -1562,11 +1562,11 @@ A parte obrigada a adotar medidas para assegurar a conservação das mercadorias
 
 3 - A parte que vender as mercadorias tem o direito de deduzir do produto da venda um montante igual às despesas razoáveis incorridas com a conservação e a venda das mercadorias, tendo que entregar o remanescente à outra parte.
 
-# PARTE IV — Disposições finais
+## PARTE IV — Disposições finais
 
 ###### Artigo 89.º
 
-**O Secretário-Geral das Nações Unidas é designado depositário da presente Convenção.**
+O Secretário-Geral das Nações Unidas é designado depositário da presente Convenção.
 
 ###### Artigo 90.º
 
@@ -1659,3 +1659,5 @@ Não são admitidas quaisquer reservas para além das expressamente autorizadas 
 Feita em Viena, neste dia 11 de abril de 1980, num único exemplar, cujos textos em árabe, chinês, espanhol, francês, inglês e russo são igualmente autênticos.
 
 Em fé do que, os plenipotenciários abaixo-assinados, devidamente autorizados pelos seus respetivos Governos, assinaram a presente Convenção.
+
+113447364

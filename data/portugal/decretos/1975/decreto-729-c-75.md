@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 294/1975, 4º Suplemento, Série I de 1975-12-22
   number: '294'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2116-(8) a 2116-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29404/00080014.pdf
 entry_into_force_dates: []
@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/729-c-1975-307232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abe366a95e46c45135ffd5847f08a820f4d0b6ae73729599f1b62c96b52442f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d24bcc965f10bdb26fc7fa79572fba434b2b3ee61fc90d352672b5e7a25e41f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Despesas Públicas
+- Macau
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642729:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:10Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +107,11 @@ Por proposta do Governador de Macau;
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo 1.º As receitas e despesas públicas distribuem-se no Orçamento Geral de Macau por ordinárias e extraordinárias, podendo umas e outras ser correntes ou de capital.
+Artigo 1.º As receitas e despesas públicas distribuem-se no Orçamento Geral de Macau por ordinárias e extraordinárias, podendo umas e outras ser correntes ou de capital.
 
-###### Art. 2.º As receitas ordinárias e extraordinárias distribuem-se, de conformidade com a sua natureza económica, por capítulos e grupos, pela forma esquematizada no mapa I anexo ao presente diploma.
+Art. 2.º As receitas ordinárias e extraordinárias distribuem-se, de conformidade com a sua natureza económica, por capítulos e grupos, pela forma esquematizada no mapa I anexo ao presente diploma.
 
-###### Art. 3.º - 1. As transferências, assim como a venda de bens duradouros, serão desenvolvidas em grupos pelos seguintes sectores institucionais originários das receitas:
+Art. 3.º - 1. As transferências, assim como a venda de bens duradouros, serão desenvolvidas em grupos pelos seguintes sectores institucionais originários das receitas:
 
 Sector público;
 
@@ -126,19 +137,19 @@ Diversos (venda de serviços e bens não duradouros).
 
 3. Dentro de cada grupo far-se-á a discriminação administrativa das correspondentes receitas, por artigos, com numeração seguida no respectivo Orçamento.
 
-###### Art. 4.º - 1. O Orçamento será dividido em capítulos, constituindo cada serviço um capítulo.
+Art. 4.º - 1. O Orçamento será dividido em capítulos, constituindo cada serviço um capítulo.
 
 2. Haverá também um capítulo para os encargos gerais do território, que incluirá, além dos órgãos de governo próprio e de segurança interna, os serviços e despesas que superiormente se determinarem.
 
-###### Art. 5.º - 1. A classificação das despesas em correntes e de capital verificar-se-á em relação a cada organismo (capítulo) e serviços dependentes (divisões) e a numeração dos artigos em que se dividem será seguida em cada orçamento.
+Art. 5.º - 1. A classificação das despesas em correntes e de capital verificar-se-á em relação a cada organismo (capítulo) e serviços dependentes (divisões) e a numeração dos artigos em que se dividem será seguida em cada orçamento.
 
 2. Quando se verifique a necessidade de os capítulos não corresponderem a organismos, poderão estes e os serviços subordinados descrever-se em divisões.
 
-###### Art. 6.º - 1. Os encargos da «Dívida pública» e as «Pensões de aposentação e reforma» constituirão divisões integradas no capítulo dos Serviços de Finanças.
+Art. 6.º - 1. Os encargos da «Dívida pública» e as «Pensões de aposentação e reforma» constituirão divisões integradas no capítulo dos Serviços de Finanças.
 
 2. Constituirão também divisões especiais, a integrar no mesmo capítulo, as «Despesas comuns» e «Contas de ordem».
 
-###### Art. 7.º As despesas extraordinárias serão distribuídas num capítulo especial, conforme a seguinte ordem:
+Art. 7.º As despesas extraordinárias serão distribuídas num capítulo especial, conforme a seguinte ordem:
 
 Segurança pública;
 
@@ -146,7 +157,7 @@ Plano de fomento;
 
 Outras despesas extraordinárias.
 
-###### Art. 8.º - 1. As despesas ordinárias e extraordinárias, classificadas em correntes e de capital, serão distribuídas por artigos e números, de conformidade com o esquema de classificação económico-administrativa constante do mapa II anexo ao presente diploma.
+Art. 8.º - 1. As despesas ordinárias e extraordinárias, classificadas em correntes e de capital, serão distribuídas por artigos e números, de conformidade com o esquema de classificação económico-administrativa constante do mapa II anexo ao presente diploma.
 
 2. Os «Investimentos» descrevem-se por tipos de bens de capital correspondentes aos seguintes números:
 
@@ -184,7 +195,7 @@ Particulares;
 
 Exterior.
 
-###### Art. 9.º As operações financeiras descrevem-se em receita ou despesa de capital, de acordo com o seu tipo e grau de liquidez, do seguinte modo:
+Art. 9.º As operações financeiras descrevem-se em receita ou despesa de capital, de acordo com o seu tipo e grau de liquidez, do seguinte modo:
 
 Activos financeiros;
 
@@ -218,15 +229,15 @@ Outros passivos financeiros;
 
 aditando-se, na parte da despesa, os sectores devedores ou credores descritos no n.º 3 do artigo anterior.
 
-###### Art. 10.º - 1. Para além das rubricas tipo definidas no mapa II, poderão criar-se novas designações tipificadas nas condições referidas no n.º 3 do artigo 16.º do presente diploma.
+Art. 10.º - 1. Para além das rubricas tipo definidas no mapa II, poderão criar-se novas designações tipificadas nas condições referidas no n.º 3 do artigo 16.º do presente diploma.
 
 2. As despesas podem ainda explicitar-se dentro de cada artigo ou subdividir-se em alíneas, tão-somente nos casos em que se mostre conveniente ou indispensável uma maior especialização.
 
-###### Art. 11.º - 1. As remunerações ao pessoal, certas e permanentes, em que se compreendem os vencimentos, salários, gratificações e despesas de representação, serão desenvolvidas, em relação a cada serviço, fora da parte substancial do Orçamento Geral, em documento que dele se considera como fazendo parte integrante.
+Art. 11.º - 1. As remunerações ao pessoal, certas e permanentes, em que se compreendem os vencimentos, salários, gratificações e despesas de representação, serão desenvolvidas, em relação a cada serviço, fora da parte substancial do Orçamento Geral, em documento que dele se considera como fazendo parte integrante.
 
 2. Para efeitos de classificação de despesas, prevista neste diploma, os vencimentos abrangem os honorários, os ordenados, as diuturnidades, as compensações, complementos e diferenças de vencimentos.
 
-###### Art. 12.º - 1. Não podem, em princípio, abranger-se numa mesma rubrica descrita nos mapas I e II anexos quaisquer receitas ou despesas de diferente natureza económica.
+Art. 12.º - 1. Não podem, em princípio, abranger-se numa mesma rubrica descrita nos mapas I e II anexos quaisquer receitas ou despesas de diferente natureza económica.
 
 2. Nos casos de comprovada impossibilidade de inicialmente se proceder no Orçamento à discriminação dos encargos pelas rubricas próprias, serão os mesmos, a título excepcional, descritos nas epígrafes residuais «Outras despesas correntes» ou «Outras despesas de capital».
 
@@ -234,13 +245,13 @@ aditando-se, na parte da despesa, os sectores devedores ou credores descritos no
 
 4. Cumpre aos respectivos serviços proceder ao registo, em termos de classificação económica, das importâncias efectivamente levantadas dos cofres do Tesouro nas condições referidas nos n.os 2 e 3 deste artigo.
 
-###### Art. 13.º - 1. A classificação funcional das despesas públicas far-se-á de conformidade com o esquema do mapa III anexo ao presente diploma.
+Art. 13.º - 1. A classificação funcional das despesas públicas far-se-á de conformidade com o esquema do mapa III anexo ao presente diploma.
 
 2. No seguimento da descrição orçamental de cada capítulo e suas divisões serão referenciadas com o número do respectivo código as classificações atribuídas aos diversos organismos.
 
 3. Os Serviços de Finanças juntarão ao Orçamento um mapa, por capítulos e suas divisões, com as despesas ordinárias e extraordinárias distribuídas pelos agrupamentos reveladores da actividade básica dos serviços públicos.
 
-###### Art. 14.º - 1. Até 31 de Maio de cada ano, os serviços processadores das correspondentes despesas enviarão aos Serviços de Finanças os elementos, relativos ao ano anterior, que a seguir se descrevem:
+Art. 14.º - 1. Até 31 de Maio de cada ano, os serviços processadores das correspondentes despesas enviarão aos Serviços de Finanças os elementos, relativos ao ano anterior, que a seguir se descrevem:
 
 1.º Valores liquidados em conta das seguintes dotações orçamentais:
 
@@ -266,7 +277,7 @@ f) «Reposições não abatidas em pagamento», distribuídas pelas corresponden
 
 2. Até ao dia 31 de Maio de cada ano, os Serviços de Finanças organizarão, relativamente ao ano anterior, um mapa-resumo, por capítulos e divisões, com os valores dos pagamentos efectivos pelas dotações de «Despesas de anos findos», distribuídos pelas diferentes designações de natureza económica.
 
-###### Art. 15.º - 1. É criada uma comissão de coordenação do Orçamento, com a seguinte constituição:
+Art. 15.º - 1. É criada uma comissão de coordenação do Orçamento, com a seguinte constituição:
 
 Presidente - Secretário-adjunto de Coordenação Económica;
 
@@ -288,7 +299,7 @@ d) Vigiar pela correcta classificação das receitas e despesas públicas e evit
 
 e) Sugerir os estudos e trabalhos necessários com vista à simplificação e planeamento das estruturas do Orçamento e respectivas contas ao nível de todo o sector público.
 
-###### Art. 16.º - 1. As dificuldades ou dúvidas que surjam na descrição ou classificação das receitas e despesas, em conformidade com as regras prescritas nos artigos antecedentes, serão resolvidas pelos Serviços de Finanças, ouvida, quando necessário, a comissão de coordenação do Orçamento.
+Art. 16.º - 1. As dificuldades ou dúvidas que surjam na descrição ou classificação das receitas e despesas, em conformidade com as regras prescritas nos artigos antecedentes, serão resolvidas pelos Serviços de Finanças, ouvida, quando necessário, a comissão de coordenação do Orçamento.
 
 2. Carecem de confirmação do Governador as propostas para solução dos casos que mereçam dúvidas à referida comissão.
 
@@ -296,9 +307,9 @@ e) Sugerir os estudos e trabalhos necessários com vista à simplificação e pl
 
 4. As resoluções tomadas nos termos do número anterior serão publicadas no Boletim Oficial.
 
-###### Art. 17.º As verbas autorizadas para certa despesa não podem ter aplicação diversa da que estiver indicada no Orçamento ou no diploma que abrir o crédito.
+Art. 17.º As verbas autorizadas para certa despesa não podem ter aplicação diversa da que estiver indicada no Orçamento ou no diploma que abrir o crédito.
 
-###### Art. 18.º - 1. As infracções por utilização indevida das dotações e pela classificação errada das despesas, quando não possam ser relevadas em virtude das circunstâncias especiais em que ocorreram, determinam o pagamento, pelas entidades responsáveis dos serviços processadores, de uma multa até $2000,00, segundo a gravidade da falta.
+Art. 18.º - 1. As infracções por utilização indevida das dotações e pela classificação errada das despesas, quando não possam ser relevadas em virtude das circunstâncias especiais em que ocorreram, determinam o pagamento, pelas entidades responsáveis dos serviços processadores, de uma multa até $2000,00, segundo a gravidade da falta.
 
 2. Nos casos em que se revele o propósito de fraude, além da referida multa, são os responsáveis punidos com a restituição das importâncias despendidas.
 
@@ -306,27 +317,27 @@ e) Sugerir os estudos e trabalhos necessários com vista à simplificação e pl
 
 4. Para efeitos deste artigo, são consideradas como boas as classificações que pelos Serviços de Finanças forem dadas às receitas e despesas em face das consultas apresentadas pelos Serviços.
 
-###### Art. 19.º - 1. As regras de classificação das receitas e despesas estabelecidas no presente diploma são aplicáveis aos orçamentos privativos dos serviços e fundos autónomos da administração pública.
+Art. 19.º - 1. As regras de classificação das receitas e despesas estabelecidas no presente diploma são aplicáveis aos orçamentos privativos dos serviços e fundos autónomos da administração pública.
 
 2. Os organismos do sector público produtivo e os serviços e fundos referidos no número anterior que, por razões justificáveis, não possam dar cumprimento imediato a este preceito, poderão ser provisoriamente dispensados de o observar, mediante despacho do Governador.
 
 3. As disposições do presente diploma não se aplicam às empresas públicas que, todavia, nos seus orçamentos privativos, quando os tenham, procurarão adaptar-se a elas.
 
-###### Art. 20.º Através dos Serviços de Finanças serão expedidas as instruções necessárias à boa execução deste diploma.
+Art. 20.º Através dos Serviços de Finanças serão expedidas as instruções necessárias à boa execução deste diploma.
 
-###### Art. 21.º A abertura de créditos especiais e as transferências de disponibilidades de uma para outra dotação, ainda que de capítulos diferentes, são da competência do Governador e na sua efectivação continua a observar-se a legislação em vigor.
+Art. 21.º A abertura de créditos especiais e as transferências de disponibilidades de uma para outra dotação, ainda que de capítulos diferentes, são da competência do Governador e na sua efectivação continua a observar-se a legislação em vigor.
 
-###### Art. 22.º As disposições do presente diploma começarão a ser aplicadas com referência aos orçamentos de 1976.
+Art. 22.º As disposições do presente diploma começarão a ser aplicadas com referência aos orçamentos de 1976.
 
-###### Art. 23.º São revogados todos os preceitos legais que determinam a classificação de receitas e despesas por forma diferente da estabelecida neste diploma.
+Art. 23.º São revogados todos os preceitos legais que determinam a classificação de receitas e despesas por forma diferente da estabelecida neste diploma.
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo.
 
-**Promulgado em 22 de Dezembro de 1975.**
+Promulgado em 22 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado no Boletim Oficial de Macau. - Vítor Manuel Trigueiros Crespo.
 
@@ -334,18 +345,18 @@ MAPA I
 
 Classificação económico-administrativa das receitas públicas ordinária e extraordinária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29404/00080014.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29404/00080014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29404/00080014.pdf)
 
 MAPA II
 
 Classificação económico-administrativa das despesas públicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29404/00080014.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29404/00080014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29404/00080014.pdf)
 
 MAPA III
 
 Classificação funcional das despesas públicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29404/00080014.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29404/00080014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29404/00080014.pdf)
 
-**O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo.**
+O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo.

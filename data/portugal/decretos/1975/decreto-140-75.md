@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/140-1975-161165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 574f1e5dcfde08c08e829ec3ff10311519a4ab76926b2f5e3c0c7e77fbe7a33f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b89d6aa5f86024e6232a6f86fb73aed3b29912e0db18827728742953eca3e41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:10Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +96,7 @@ Tendo em vista o disposto no artigo 15.º do [Decreto-Lei n.º 48912](https://di
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. As entidades que, nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, pretendam obter a concessão da exploração de jogos de fortuna ou azar na zona de jogo temporário da Póvoa de Varzim deverão dirigir os seus requerimentos ao Secretário de Estado do Comércio Externo e Turismo, em carta fechada, registada e lacrada, endereçada ao Conselho de Inspecção de Jogos e com indicação exterior de se destinarem ao respectivo concurso, dentro do prazo de trinta dias, a contar da data da publicação do anúncio da sua abertura no Diário do Governo.
+Artigo 1.º - 1. As entidades que, nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, pretendam obter a concessão da exploração de jogos de fortuna ou azar na zona de jogo temporário da Póvoa de Varzim deverão dirigir os seus requerimentos ao Secretário de Estado do Comércio Externo e Turismo, em carta fechada, registada e lacrada, endereçada ao Conselho de Inspecção de Jogos e com indicação exterior de se destinarem ao respectivo concurso, dentro do prazo de trinta dias, a contar da data da publicação do anúncio da sua abertura no Diário do Governo.
 
 2. A concessão, que se iniciará com a assinatura dos contratos, termina em 31 de Dezembro de 1988.
 
@@ -96,7 +104,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constituci
 
 4. Só poderá ser assinado contrato com empresa abrangida pelo número anterior depois de efectuado o pagamento da importância da aquisição nele referida.
 
-###### Art. 2.º - 1. As obrigações mínimas que a concessionária da zona de jogo da Póvoa de Varzim tem de assumir, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo, são as seguintes:
+Art. 2.º - 1. As obrigações mínimas que a concessionária da zona de jogo da Póvoa de Varzim tem de assumir, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo, são as seguintes:
 
 a) Execução, até 31 de Maio de 1977, do plano de obras de ampliação, remodelação e beneficiação e de reequipamento do actual casino, segundo o programa estabelecido pelo Conselho de Inspecção de Jogos e pela Direcção-Geral do Turismo, relativamente ao qual os concorrentes indicarão, obrigatoriamente, o valor mínimo que se propõem investir, nunca inferior, porém, a 20000 contos, tendo em especial atenção a respectiva afectação a espectáculos de natureza cultural e a centro de convívio e lazer, para além da necessidade de ampliar as salas destinadas aos jogos.
 
@@ -156,7 +164,7 @@ b) Todo o mobiliário, equipamento e utensilagem que seja utilizado para fazer f
 
 c) O novo casino com todo o seu equipamento, mobiliário e utensilagem.
 
-###### Art. 3.º - 1. Os requerimentos a que se refere o n.º 1 do artigo 1.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
+Art. 3.º - 1. Os requerimentos a que se refere o n.º 1 do artigo 1.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
 
 a) Documentos comprovativos da constituição da sociedade, obedecendo aos requisitos fixados no [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840) e no presente diploma, ou declaração de que os requerentes se obrigam a constituí-la, nos mesmos termos, dentro do prazo de sessenta dias a seguir à adjudicação, ou a caucionar as obrigações assumidas, nos termos dos §§ 1.º e 2.º do artigo 8.º do mencionado decreto-lei;
 
@@ -192,17 +200,17 @@ p) Declaração respeitante ao planeamento anual da totalidade dos investimentos
 
 3. O depósito a que se refere a alínea c) do n.º 1 deste artigo poderá ser substituído por garantia bancária e fica à ordem do presidente do Conselho de Inspecção de Jogos, sendo perdido a favor do Estado se, feita a adjudicação, o contrato não vier a ser assinado por culpa do concorrente escolhido, ou se este não aceitar os valores da avaliação que o Estado promova quanto aos bens referidos no n.º 3 do artigo 1.º do presente diploma, no caso de a avaliação feita pelo concorrente se mostrar aquém dos valores normais atribuíveis aos mesmos bens.
 
-###### Art. 4.º Não serão consideradas propostas cujos elementos contenham expressões vagas, com programas ou planos imprecisos, ou que condicionem, por qualquer forma, as realizações ou obrigações a assumir, quer quanto às enunciadas no [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), no presente diploma ou demais legislação aplicável à generalidade das zonas de jogo, quer quanto às oferecidas nos termos da alínea i) do n.º 1 do artigo anterior, ou em termos que possam dificultar o confronto com as demais propostas.
+Art. 4.º Não serão consideradas propostas cujos elementos contenham expressões vagas, com programas ou planos imprecisos, ou que condicionem, por qualquer forma, as realizações ou obrigações a assumir, quer quanto às enunciadas no [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), no presente diploma ou demais legislação aplicável à generalidade das zonas de jogo, quer quanto às oferecidas nos termos da alínea i) do n.º 1 do artigo anterior, ou em termos que possam dificultar o confronto com as demais propostas.
 
-###### Art. 5.º - 1. No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á à abertura das propostas no Conselho de Inspecção de Jogos, o qual emitirá parecer sobre elas, após o que o Governo, em Conselho de Ministros, decidirá sobre as adjudicações.
+Art. 5.º - 1. No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á à abertura das propostas no Conselho de Inspecção de Jogos, o qual emitirá parecer sobre elas, após o que o Governo, em Conselho de Ministros, decidirá sobre as adjudicações.
 
 2. O Conselho de Inspecção de Jogos poderá solicitar aos concorrentes os esclarecimentos que julgue necessários.
 
 3. O Governo reserva-se o direito de não aceitar as propostas apresentadas, se assim o considerar conveniente para os interesses do Estado.
 
-###### Art. 6.º Se, aberto concurso, não houver concorrentes ou, havendo-os, não lhes seja feita a adjudicação, o Governo poderá extinguir a zona ou abrir novo concurso na oportunidade que escolher e com os condicionamentos que então se justificarem.
+Art. 6.º Se, aberto concurso, não houver concorrentes ou, havendo-os, não lhes seja feita a adjudicação, o Governo poderá extinguir a zona ou abrir novo concurso na oportunidade que escolher e com os condicionamentos que então se justificarem.
 
-###### Art. 7.º A restituição das importâncias dos depósitos previstos nas alíneas b) e c) do n.º 1 do artigo 3.º do presente diploma ou o cancelamento das cauções que as substituem efectuar-se-á:
+Art. 7.º A restituição das importâncias dos depósitos previstos nas alíneas b) e c) do n.º 1 do artigo 3.º do presente diploma ou o cancelamento das cauções que as substituem efectuar-se-á:
 
 a) No prazo de quinze dias após a celebração do contrato, relativamente ao concorrente a que for adjudicada a zona;
 
@@ -210,8 +218,8 @@ b) No prazo de quinze dias após a notificação relativa à adjudicação da zo
 
 Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 11 de Março de 1975.**
+Promulgado em 11 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

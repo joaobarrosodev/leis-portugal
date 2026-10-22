@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/116-1982-376179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:59:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61752181ea716fcb7ff7a20166b733a25914a808c7ce3d1932aa2a2d30b395b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed524db2fc36809e4d0edb23233dcf3324ede59b7d29977ac46adc326284a0f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:59:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Extinção de Serviços
+- Grémio dos Armadores da Pesca da Sardinha
+- Pesca
+relationships:
+- type: cites
+  target: pt:dre:577092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:59:07Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +101,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A partir da data da entrada em vigor deste diploma, opera-se a extinção efectiva do Grémio dos Armadores da Pesca da Sardinha, transferindo-se as suas atribuições e competências, os valores existentes e as responsabilidades apuradas, assim como quaisquer direitos, para a Direcção-Geral da Administração das Pescas.
+Artigo 1.º A partir da data da entrada em vigor deste diploma, opera-se a extinção efectiva do Grémio dos Armadores da Pesca da Sardinha, transferindo-se as suas atribuições e competências, os valores existentes e as responsabilidades apuradas, assim como quaisquer direitos, para a Direcção-Geral da Administração das Pescas.
 
-###### Art. 2.º A liquidação das responsabilidades constituirá encargo das verbas para o efeito consignadas no orçamento da Direcção-Geral da Administração das Pescas.
+Art. 2.º A liquidação das responsabilidades constituirá encargo das verbas para o efeito consignadas no orçamento da Direcção-Geral da Administração das Pescas.
 
-###### Art. 3.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura, Comércio e Pescas, com o acordo do Ministro da Reforma Administrativa, quando estiver em causa matéria da respectiva competência.
+Art. 3.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura, Comércio e Pescas, com o acordo do Ministro da Reforma Administrativa, quando estiver em causa matéria da respectiva competência.
 
-###### Art. 4.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 4.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - Basílio Adolfo Mendonça Horta da Franca - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 6 de Outubro de 1982.**
+Promulgado em 6 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

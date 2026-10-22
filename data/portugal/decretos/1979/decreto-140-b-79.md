@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 296/1979, 3º Suplemento, Série I de 1979-12-26
   number: '296'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3350-(51) a 3350-(55)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29603/00510055.pdf
 entry_into_force_dates: []
@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/140-b-1979-430026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be91328763b83332e8c9556415fa1574f031b5c4a8f199d013b4dae10e65acc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7f143b37045a17361985d096b51958cb3db5cd20c9ab5bb6b0ab8a58103c544
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- França
+- Portugal
+- Segurança Social
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:16Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 26 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Adicional à Convenção Geral sobre Segurança Social entre a República Portuguesa e a República Francesa, assinada em 29 de Julho de 1971, cujos textos em português e francês acompanham o presente decreto.
+Artigo único. É aprovado o Acordo Adicional à Convenção Geral sobre Segurança Social entre a República Portuguesa e a República Francesa, assinada em 29 de Julho de 1971, cujos textos em português e francês acompanham o presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 13 de Dezembro de 1979.**
+Assinado em 13 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo Adicional à Convenção Geral sobre Segurança Social entre a República Francesa e a República Portuguesa, assinada em 29 de Julho de 1971.
 
@@ -104,7 +108,7 @@ O Governo da República Francesa e o Governo da República Portuguesa, desejosos
 
 O artigo 4.º da Convenção é revogado e substituído pelas seguintes disposições:
 
-###### Art. 4.º Os territórios abrangidos pelas disposições da presente Convenção são:
+Art. 4.º Os territórios abrangidos pelas disposições da presente Convenção são:
 
 No que diz respeito à França: os departamentos europeus e os departamentos do ultramar da República Francesa;
 
@@ -114,7 +118,7 @@ No que diz respeito a Portugal: o território de Portugal no continente europeu 
 
 O último parágrafo do artigo 17.º da Convenção é revogado e substituído pela seguinte disposição:
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 A concessão das prestações em espécie é assegurada, conforme escolha do trabalhador, quer pela instituição do país de estada, quer directamente pela instituição em que o trabalhador esteja inscrito.
 
@@ -122,7 +126,7 @@ A concessão das prestações em espécie é assegurada, conforme escolha do tra
 
 Os artigos 25.º, 26.º e 27.º da Convenção são revogados e substituídos pelas seguintes disposições:
 
-###### Art. 25.º O trabalhador salariado francês ou português que no decurso da sua carreira tenha estado sujeito sucessiva ou alternadamente no território dos dois Estados Contratantes a um ou a vários regimes de seguro de velhice de cada um dos mesmos Estados beneficia das prestações nas seguintes condições:
+Art. 25.º O trabalhador salariado francês ou português que no decurso da sua carreira tenha estado sujeito sucessiva ou alternadamente no território dos dois Estados Contratantes a um ou a vários regimes de seguro de velhice de cada um dos mesmos Estados beneficia das prestações nas seguintes condições:
 
 I) Se o interessado satisfizer às condições requeridas pela legislação de cada um desses Estados para ter direito às prestações, a instituição competente de cada Parte Contratante determina o montante da prestação segundo as disposições da legislação que ela aplica, tomando em conta somente os períodos de seguro cumpridos ao abrigo dessa legislação.
 
@@ -146,13 +150,13 @@ III) Quando o direito estiver adquirido ao abrigo da legislação de um dos dois
 
 A instituição competente da outra Parte procede à liquidação da prestação que lhe compete nos termos referidos no § II.
 
-###### Art. 26.º Para efeito da aplicação do artigo 25.º (II), os períodos reconhecidos equivalentes a períodos de seguro são, no que respeita a cada Estado, os que forem reconhecidos como tais pela legislação desse Estado.
+Art. 26.º Para efeito da aplicação do artigo 25.º (II), os períodos reconhecidos equivalentes a períodos de seguro são, no que respeita a cada Estado, os que forem reconhecidos como tais pela legislação desse Estado.
 
 Quando o período reconhecido como equivalente a um período de seguro pela legislação de um Estado coincidir com um período de seguro cumprido no território do outro Estado, só o período de seguro é tomado em consideração pela instituição deste último Estado.
 
 Quando um mesmo período for reconhecido como equivalente a um período de seguro, simultaneamente pela legislação francesa e pela legislação portuguesa, o mesmo período é tomado em consideração pela instituição do Estado em cujo território o interessado tenha estado segurado a título obrigatório em último lugar antes do período em causa.
 
-###### Art. 27.º - 1 - Para efeito da aplicação do artigo 25.º (II), quando a legislação de um dos Estados subordinar a concessão de certas prestações de velhice à condição de os períodos de seguro terem sido cumpridos numa profissão ou num emprego abrangido por um regime especial ou por disposições particulares de seguro, apenas são tomados em conta para a admissão ao benefício dessas prestações os períodos cumpridos ao abrigo do regime especial ou das disposições particulares da legislação do outro Estado.
+Art. 27.º - 1 - Para efeito da aplicação do artigo 25.º (II), quando a legislação de um dos Estados subordinar a concessão de certas prestações de velhice à condição de os períodos de seguro terem sido cumpridos numa profissão ou num emprego abrangido por um regime especial ou por disposições particulares de seguro, apenas são tomados em conta para a admissão ao benefício dessas prestações os períodos cumpridos ao abrigo do regime especial ou das disposições particulares da legislação do outro Estado.
 
 2 - Se na legislação de um dos dois Estados não existir para a profissão ou emprego considerado regime especial ou disposições particulares, os períodos de seguro cumpridos naquela profissão são, no entanto, tomados em conta para a admissão ao benefício das prestações do regime geral.
 
@@ -170,7 +174,7 @@ nos termos do precedente artigo 25.º (II).
 
 O artigo 29.º da Convenção é revogado e substituído pelas seguintes disposições:
 
-###### Art. 29.º - 1 - Quando o interessado não satisfaça, no mesmo momento, às condições exigidas pelas legislações de velhice dos dois Estados:
+Art. 29.º - 1 - Quando o interessado não satisfaça, no mesmo momento, às condições exigidas pelas legislações de velhice dos dois Estados:
 
 Se satisfizer à totalidade das condições da legislação de um dos Estados, a prestação de velhice devida ao abrigo dessa legislação é calculada nos termos do artigo 25.º (I), sem tomar em conta os períodos de seguro cumpridos ao abrigo da legislação do outro Estado;
 
@@ -216,7 +220,7 @@ ARTICLE PREMIER
 
 L'article 4 de la Convention est abrogé et remplacé par les dispositions suivantes:
 
-###### Art. 4 - Les territoires couverts par les dispositions de la présente Convention sont:
+Art. 4 - Les territoires couverts par les dispositions de la présente Convention sont:
 
 En ce qui concerne la France: les départements européens et les départements d'outre-mer de la République française;
 
@@ -226,7 +230,7 @@ ARTICLE 2
 
 Le dernier alinéa de l'article 17 de la Convention est abrogé et remplacé par la disposition suivante:
 
-###### Art. 17 ...
+Art. 17 ...
 
 Le service des prestations et nature est assuré, au choix du travailleur, soit par l'institution du pays de séjour, soit directement par l'institution d'affiliation.
 
@@ -234,7 +238,7 @@ ARTICLE 3
 
 Les articles 25, 26 et 27 de la Convention sont abrogés et remplacés par les dispositions suivantes:
 
-###### Art. 25 - Le travailleur salarié français ou portugais qui, au cours de sa carrière, a été soumis successivement ou alternativement sur le territoire des deux États contractants à un ou plusieurs régimes d'assurance vieillesse de chacun de ces États, bénéficie des prestations dans les conditions suivantes:
+Art. 25 - Le travailleur salarié français ou portugais qui, au cours de sa carrière, a été soumis successivement ou alternativement sur le territoire des deux États contractants à un ou plusieurs régimes d'assurance vieillesse de chacun de ces États, bénéficie des prestations dans les conditions suivantes:
 
 I) Si l'intéressé satisfait aux conditions requises par la législation de chacun de ces États pour avoir droit aux prestations, l'institution compétente de chaque Partie contractante détermine le montant de la prestation selon les dispositions de la législation qu'elle applique compte tenu des seules périodes d'assurance accomplies sous cette législation.
 
@@ -258,13 +262,13 @@ III) Lorsque le droit est acquis au titre de la législation de l'un des deux É
 
 L'institution compétente de l'autre Partie procède à la liquidation de la prestation mise à sa charge dans les conditions visées au § II.
 
-###### Art. 26 - Pour l'application de l'article 25 (II), les périodes reconnues équivalentes à des périodes d'assurance sont, sur le territoire de chaque État, celles qui sont reconnues comme telles par la législation de cet État.
+Art. 26 - Pour l'application de l'article 25 (II), les périodes reconnues équivalentes à des périodes d'assurance sont, sur le territoire de chaque État, celles qui sont reconnues comme telles par la législation de cet État.
 
 Lorsque la période reconnue équivalente à une période d'assurance par la législation d'un État coincide avec une période d'assurance accomplie sur le territoire de l'autre État, seule la période d'assurance est prise en considération par l'institution de ce dernier État.
 
 Lorsqu'une même période est reconnue équivalente à une période d'assurance à la fois par la législation française et par la législation portugaise, ladite période est prise en considération par l'institution de l'État sur le territoire duquel l'intéressé a été assuré à titre obligatoire en dernier lieu avant la période en cause.
 
-###### Art. 27 - 1 - Pour l'application de l'article 25 (II), lorsque la législation de l'un des États subordonne l'octroi de certains avantages à la condition que les périodes d'assurance aient été accomplies dans une profession ou un emploi soumis à un régime spécial ou à des dispositions particulières d'assurance, ne sont prises en compte, pour l'admission au bénéfice de ces avantages, que les périodes accomplies sous le régime spécial ou les dispositions particulières de la législation de l'autre État.
+Art. 27 - 1 - Pour l'application de l'article 25 (II), lorsque la législation de l'un des États subordonne l'octroi de certains avantages à la condition que les périodes d'assurance aient été accomplies dans une profession ou un emploi soumis à un régime spécial ou à des dispositions particulières d'assurance, ne sont prises en compte, pour l'admission au bénéfice de ces avantages, que les périodes accomplies sous le régime spécial ou les dispositions particulières de la législation de l'autre État.
 
 2 - Si, dans la législation de l'un des deux États, il n'existe pas, pour la profession ou l'emploi considéré, de régime spécial ou de dispositions particulières, les périodes d'assurance accomplies dans ladite profession sont néanmoins prises en compte pour l'admission au bénéfice des prestations du régime général.
 
@@ -280,7 +284,7 @@ ARTICLE 5
 
 L'article 29 de la Convention est abrogé et remplacé par les dispositions suivantes:
 
-###### Art. 29 - 1 - Lorsque l'intéressé ne reunit pas à un moment donné les conditions requises par les législations de vieillesse des deux États:
+Art. 29 - 1 - Lorsque l'intéressé ne reunit pas à un moment donné les conditions requises par les législations de vieillesse des deux États:
 
 S'il satisfait à l'ensemble des conditions de la législation de l'un des États, la prestation de vieillesse due au titre de cette législation est calculée dans les termes de l'article 25 (I) sans faire appel aux périodes d'assurance accomplies sous la législation de l'autre État;
 

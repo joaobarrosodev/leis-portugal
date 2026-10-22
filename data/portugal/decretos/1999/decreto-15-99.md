@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/15/1999/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-1999-321676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:09:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd536d729a66618766b918de8e50a1ff651bcbb4e1102249d18cdabf381cdd2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5e2fd956318c6113c82bfbe2cc4d2370396fc16ef3b52248452a69e320580cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:09:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,33 @@ reuse:
 subjects:
 - Comissão Mista
 - Convenção
-- Cooperação Financeira
-- Cooperação Técnica
-- Portugal
-- Despesas de Deslocação
-- Instituto de Cooperação Científica e Tecnológica Internacional
-- Intercâmbio Académico
-- Propriedade Industrial
-- Ministério da Ciência e da Tecnologia
-- Modernização Tecnológica
-- Nova Delhi
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
-- Política de Investigação e Desenvolvimento
-- Propriedade Intelectual
+- Cooperação Financeira
+- Cooperação Técnica
+- Despesas de Deslocação
 - Índia
+- Instituto de Cooperação Científica e Tecnológica Internacional
+- Intercâmbio Académico
+- Ministério da Ciência e da Tecnologia
+- Modernização Tecnológica
+- Nova Delhi
+- Política de Investigação e Desenvolvimento
+- Portugal
+- Propriedade Industrial
+- Propriedade Intelectual
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:09:41Z'
   warnings: []
   errors: []
 ---
@@ -111,15 +111,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - José Mariano Rebelo Pires Gago.
 
-**Assinado em 4 de Maio de 1999.**
+Assinado em 4 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 1999.**
+Referendado em 12 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO DE COOPERAÇÃO CIENTÍFICA E TECNOLÓGICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA ÍNDIA
 
@@ -133,9 +133,7 @@ Reconhecendo a importância da cooperação bilateral para a expansão e fortale
 
 As Partes celebram o presente Acordo, nos termos constantes das disposições seguintes:
 
-Artigo I
-
-Objectivos do Acordo
+###### Artigo I — Objectivos do Acordo
 
 1 - O presente Acordo tem por objecto o desenvolvimento da cooperação científica e tecnológica entre as Partes Contratantes numa base de igualdade e benefício mútuo.
 
@@ -145,9 +143,7 @@ Objectivos do Acordo
 
 4 - As actividades de cooperação previstas no presente Acordo serão reguladas por normas e protocolos específicos a serem acordados.
 
-Artigo II
-
-Implementação do Acordo
+###### Artigo II — Implementação do Acordo
 
 A cooperação a que faz referência o artigo I incluirá:
 
@@ -155,7 +151,7 @@ a) Intercâmbio de informação e de documentação científica e tecnológica, 
 
 b) Intercâmbio de cientistas, investigadores e técnicos, com vista à preparação de projectos de investigação conjuntos, nomeadamente no quadro de programas multilaterais de apoio à investigação e desenvolvimento (I&D);
 
-c) Realização de projectos conjuntos de I&D;
+c) Realização de projectos conjuntos de I&D
 
 d) Promoção conjunta de conferências, seminários e outros eventos sobre temas de interesse comum;
 
@@ -165,9 +161,7 @@ f) Divulgação de resultados, científicos e tecnológicos, progressos no conhe
 
 g) Qualquer outra modalidade de cooperação científica e tecnológica requerida pelas circunstâncias e mutuamente acordada.
 
-Artigo III
-
-Encargos financeiros
+###### Artigo III — Encargos financeiros
 
 Os encargos decorrentes das actividades de cooperação estabelecidas no âmbito deste Acordo serão objecto de protocolos futuros e deverão respeitar as seguintes condições:
 
@@ -177,17 +171,13 @@ b) A repartição de encargos financeiros de casos especiais será regulada em p
 
 c) Os encargos financeiros serão suportados pelas Partes Contratantes.
 
-Artigo IV
-
-Propriedade intelectual e industrial
+###### Artigo IV — Propriedade intelectual e industrial
 
 1 - O acesso das Partes Contratantes aos benefícios das inovações tecnológicas e descobertas científicas que resultem das actividades de cooperação conduzidas no âmbito deste Acordo será regulado por protocolo próprio.
 
 2 - O regime de propriedade intelectual e industrial aplicável poderá ser regulado por um protocolo específico acordado entre as Partes.
 
-Artigo V
-
-Aplicação do Acordo
+###### Artigo V — Aplicação do Acordo
 
 1 - As entidades responsáveis pela implementação do Acordo são o Instituto de Cooperação Científica e Tecnológica Internacional, do Ministério da Ciência e da Tecnologia de Portugal, e o Departamento de Ciência e Tecnologia, do Ministério de Ciência e Tecnologia da Índia.
 
@@ -201,23 +191,19 @@ A Comissão Mista poderá elaborar o seu regulamento e poderá constituir subcom
 
 A Comissão Mista deverá programar e também preparar futuras acções de cooperação e explorar novas áreas susceptíveis de alargar o âmbito da cooperação científica e tecnológica.
 
-Artigo VI
-
-Resolução de diferendos
+###### Artigo VI — Resolução de diferendos
 
 1 - Qualquer diferendo que surja entre as Partes Contratantes resultante da aplicação ou interpretação deste Acordo será resolvido por via diplomática.
 
 2 - O presente Acordo não prejudica quaisquer direitos ou obrigações que decorram de outros acordos bilaterais ou multilaterais entre qualquer das Partes Contratantes e terceiros e não produzirá quaisquer efeitos sobre os direitos e obrigações das Partes Contratantes derivados de acordos e ou tratados internacionais a assinar no futuro pelas Partes.
 
-Artigo VII
-
-Duração e revisão
+###### Artigo VII — Duração e revisão
 
 1 - O presente Acordo entrará em vigor por troca de notas entre as Partes Contratantes dando conta da conclusão dos requisitos necessários pelos procedimentos internos para a sua entrada em vigor.
 
 2 - Este Acordo produz efeitos por um período de cinco anos e manter-se-á em vigor por sucessivos períodos de cinco anos, salvo se uma das Partes Contratantes comunicar por escrito e por via diplomática, pelo menos com seis meses de antecedência, a sua intenção de denunciar este Acordo.
 
-**Assinado em Nova Deli, no 3.º dia do mês de Dezembro de 1998, em duplicado, em português, inglês e hindi, sendo os textos igualmente autênticos. No caso de divergência de interpretação, o texto em inglês prevalece.**
+Assinado em Nova Deli, no 3.º dia do mês de Dezembro de 1998, em duplicado, em português, inglês e hindi, sendo os textos igualmente autênticos. No caso de divergência de interpretação, o texto em inglês prevalece.
 
 José Mariano Rebelo Pires Gago, Ministro da Ciência e da Tecnologia da República Portuguesa.
 

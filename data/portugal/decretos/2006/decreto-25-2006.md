@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/25/2006/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/25-2006-545403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1658e45acfc071efa87e8a6971a492f6b03ac621e02706b5642a6ad22ef32f8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c22f60822b012310900d4480b7ee94256701ef04aacd81e1661881561191ff91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Imóveis
-- Direito de Preferência
 - ÁREA Crítica de Recuperação e Reconversão Urbanística
-- Figueira da Foz
 - Autarquia Local
+- Direito de Preferência
+- Figueira da Foz
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:37Z'
   warnings: []
   errors: []
 ---
@@ -127,14 +139,14 @@ Compete à Câmara Municipal da Figueira da Foz promover, em colaboração com a
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2006. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia - Maria Isabel da Silva Pires de Lima.
 
-**Assinado em 14 de Novembro de 2006.**
+Assinado em 14 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Novembro de 2006.**
+Referendado em 16 de Novembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/23100/81818181.pdf))](https://files.diariodarepublica.pt/1s/2006/11/23100/81818181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/23100/81818181.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 303/1976, 3º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2900-(61) a 2900-(62)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30303/00610062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/925-1976-391211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:45:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fe1d5321942cfaaea2f90fa689775bd9dc181821214d2d4ed4e6bcf8ffe91d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35a1feed3788024de3029897da8f804cde66b89fa52704e52f10e2321eefc2eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:45:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estágio de Formação
+- Faculdade de Ciências
+- Licenciatura
 relationships:
 - type: amended_by
   target: pt:dre:517819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252989:por
+  label: "Aditado um nº 5 ao art. 3º pelo DR.35/77.30.05.1977.ME, DR.IS [125] de 30.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/35-1977-252989
+  date: '1977-05-30'
+- type: amended_by
+  target: pt:dre:326723:por
+  label: Aditado um nº 6 ao art. 3º do presente diploma, pelo(a) Decreto n.º 140/78 - Diário da República n.º 275/1978, Série
+    I de 1978-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/140-1978-326723
+  date: '1978-11-29'
+- type: cites
+  target: pt:dre:412192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517819:por
+  label: "Revogado pelo DEC LEI.43/2007.22.02.2007.ME, DR.IS [38] de 22.02.2007, sem prejuízo do disposto no art. 26º daquele\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2007-517819
+  date: '2007-02-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:45:02Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +134,7 @@ Nestes termos, considerando o disposto no n.º 1 do artigo 1.º do [Decreto-Lei 
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Os estágios pedagógicos das licenciaturas do ramo educacional das Faculdades de Ciências realizar-se-ão para os grupos a que a respectiva licenciatura dá acesso nos ensinos preparatório e secundário.
+Artigo 1.º - 1. Os estágios pedagógicos das licenciaturas do ramo educacional das Faculdades de Ciências realizar-se-ão para os grupos a que a respectiva licenciatura dá acesso nos ensinos preparatório e secundário.
 
 2. Os estágios referidos no número anterior têm lugar em estabelecimentos de ensino preparatório e do ensino secundário das cidades de Lisboa, Porto e Coimbra.
 
@@ -110,9 +142,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4. O despacho previsto no número antecedente fixará as localidades, sendo as despesas resultantes das deslocações do alunos estagiários suportadas pelo orçamento do Ministério da Educação e Investigação Científica.
 
-###### Art. 2.º O Ministro da Educação e Investigação Científica determinará anualmente, por despacho, o número de alunos que poderão ingressar nas diversas licenciaturas do ramo de formação educacional das Faculdades de Ciências, tendo em consideração as necessidades em quadros docentes.
+Art. 2.º O Ministro da Educação e Investigação Científica determinará anualmente, por despacho, o número de alunos que poderão ingressar nas diversas licenciaturas do ramo de formação educacional das Faculdades de Ciências, tendo em consideração as necessidades em quadros docentes.
 
-###### Art. 3.º - 1. Os alunos estagiários serão distribuídos em núcleos de estágio, cada um dos quais será orientado por um ou dois professores dos ensinos preparatório ou secundário.
+Art. 3.º - 1. Os alunos estagiários serão distribuídos em núcleos de estágio, cada um dos quais será orientado por um ou dois professores dos ensinos preparatório ou secundário.
 
 2. O núcleo de estágio a que se refere o número precedente é constituído por um professor universitário, pelo orientador ou orientadores de estágio e pelos respectivos estagiários.
 
@@ -120,7 +152,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4. No caso de o estágio se efectuar no ensino preparatório e quando as circunstâncias o exijam, para além do professor universitário a que se reportam os números anteriores poderá ser nomeado outro professor universitário, que será do grupo de disciplinas diferentes das específicas da licenciatura do aluno estagiário.
 
-###### Art. 4.º - 1. Em cada Faculdade de Ciências a planificação e coordenação de cada grupo docente de estágio cabem a uma comissão de estágio composta por:
+Art. 4.º - 1. Em cada Faculdade de Ciências a planificação e coordenação de cada grupo docente de estágio cabem a uma comissão de estágio composta por:
 
 a) Todos os professores universitários e orientadores de estágio ligados ao mesmo grupo nomeados pelas respectivas direcções-gerais;
 
@@ -130,32 +162,32 @@ b) Um representante dos alunos estagiários por cada núcleo.
 
 3. A comissão de estágio reúne obrigatoriamente antes do início do ano escolar.
 
-###### Art. 5.º - 1. Compete às Direcções-Gerais dos Ensinos Básico e Secundário a nomeação dos orientadores de estágio previstos neste diploma.
+Art. 5.º - 1. Compete às Direcções-Gerais dos Ensinos Básico e Secundário a nomeação dos orientadores de estágio previstos neste diploma.
 
 2. Cabe à Direcção-Geral do Ensino Superior nomear os professores universitários considerados necessários ao bom funcionamento dos estágios do ramo de formação educacional.
 
-###### Art. 6.º - 1. Os professores universitários e os orientadores responsáveis por cada núcleo de estágio têm direito à gratificação mensal de 2500$00, que é vencível pelos meses completos em que durar o estágio.
+Art. 6.º - 1. Os professores universitários e os orientadores responsáveis por cada núcleo de estágio têm direito à gratificação mensal de 2500$00, que é vencível pelos meses completos em que durar o estágio.
 
 2. As nomeações dos docentes referidos no número antecedente são feitas por conveniência urgente de serviço e serão objecto de diploma de provimento a visar pelo Tribunal de Contas.
 
-###### Art. 7.º - 1. O funcionamento dos estágios do ramo de formação educacional será regulado por portaria do Ministro da Educação e Investigação Científica, que aplicará aos mesmos, com as devidas adaptações, o previsto para o regime geral de estágios pedagógicos.
+Art. 7.º - 1. O funcionamento dos estágios do ramo de formação educacional será regulado por portaria do Ministro da Educação e Investigação Científica, que aplicará aos mesmos, com as devidas adaptações, o previsto para o regime geral de estágios pedagógicos.
 
 2. A portaria referida no númeroo anterior definirá igualmente os direitos e deveres dos alunos estagiários.
 
-###### Art. 8.º O regime de faltas dos alunos estagiários do ramo de formação educacional das Faculdades de Ciências é o previsto no artigo 10.º do [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril.
+Art. 8.º O regime de faltas dos alunos estagiários do ramo de formação educacional das Faculdades de Ciências é o previsto no artigo 10.º do [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril.
 
-###### Art. 9.º É aplicável para o ensino preparatório o disposto no [Decreto-Lei n.º 302/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1974-476349), de 5 de Julho, desde que o estágio do ramo de formação educacional de cada licenciatura seja efectuado naquele ramo de ensino.
+Art. 9.º É aplicável para o ensino preparatório o disposto no [Decreto-Lei n.º 302/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1974-476349), de 5 de Julho, desde que o estágio do ramo de formação educacional de cada licenciatura seja efectuado naquele ramo de ensino.
 
-###### Art. 10.º Os encargos resultantes da execução deste diploma serão suportados pela rubrica «Deslocações», relativamente ao disposto no n.º 4 do artigo 1.º, e por «Gratificações certas e permanentes», no que se refere ao artigo 6.º
+Art. 10.º Os encargos resultantes da execução deste diploma serão suportados pela rubrica «Deslocações», relativamente ao disposto no n.º 4 do artigo 1.º, e por «Gratificações certas e permanentes», no que se refere ao artigo 6.º
 
-###### Art. 11.º As dúvidas surgidas na execução deste decreto terão resolução por despacho do Ministro da Educação e Investigação Científica, a publicar no Diário da República.
+Art. 11.º As dúvidas surgidas na execução deste decreto terão resolução por despacho do Ministro da Educação e Investigação Científica, a publicar no Diário da República.
 
-###### Art. 12.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 12.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 30 de Dezembro de 1976.**
+Promulgado em 30 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

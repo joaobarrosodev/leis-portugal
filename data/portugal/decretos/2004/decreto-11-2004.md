@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/11/2004/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-2004-301784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 800e3724f7d774b32e651df387e7a2677466ebaef1cc8361e298d7c20a39ed39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3be42fb569efbca7d8e68efdc72ce91bbe75fe92933e64092c1868fec67bdffb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bolsa de Estudos
 - Bratislava
-- Juventude
 - Comunicação Social
 - Convenção
-- Educação
-- Portugal
-- Património Cultural
-- Intercâmbio Académico
-- Cooperação Tecnológica
 - Cooperação Científica
 - Cooperação Cultural
+- Cooperação Tecnológica
 - Cultura
-- Bolsa de Estudos
 - Desporto
+- Educação
+- Intercâmbio Académico
+- Juventude
+- Património Cultural
+- Portugal
 relationships: []
 article_structure:
   article_count: 20
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:26Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Nuno Albuquerque Morais Sarmento - José Luís Fazenda Arnaut Duarte - José David Gomes Justino - Maria da Graça Martins da Silva Carvalho - Pedro Manuel da Cruz Roseta.
 
-**Assinado em 19 de Abril de 2004.**
+Assinado em 19 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Abril de 2004.**
+Referendado em 22 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ESLOVACA SOBRE COOPERAÇÃO NOS DOMÍNIOS DA EDUCAÇÃO, DA CULTURA, DA CIÊNCIA E TECNOLOGIA, DA JUVENTUDE E DESPORTO E DA COMUNICAÇÃO SOCIAL.
 
@@ -272,10 +272,10 @@ Feito em Bratislava, em 1 de Julho de 2003, em dois exemplares originais, um em 
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/05/107a00/29062910.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/05/107a00/29062910.pdf)](https://files.diariodarepublica.pt/1s/2004/05/107a00/29062910.pdf)
 
 Pela República Eslovaca:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/05/107a00/29062910.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/05/107a00/29062910.pdf)](https://files.diariodarepublica.pt/1s/2004/05/107a00/29062910.pdf)
 
 [(ver texto em língua eslovaca no documento original)](https://files.diariodarepublica.pt/1s/2004/05/107a00/29062910.pdf)

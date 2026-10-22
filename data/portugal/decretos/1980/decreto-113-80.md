@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/113-1980-462415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68f4c3f8295cf27c41029f8ccf13a7201b4a9ae38559fe9a1e9633cee3a7908a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dec3b03868b3b7710b626247eef51b59e0494f6674239a124beab2fa9f2008dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério das Finanças e do Plano
+- Orçamento Geral do Estado
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:23Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +96,11 @@ Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diar
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 1005122 contos, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 1005122 contos, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24800/36153617.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24800/36153617.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24800/36153617.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
@@ -100,17 +108,17 @@ Receitas correntes:
 
 ... (Em contos)
 
-### Capítulo 06 «Venda de bens duradouros»:
+Capítulo 06 «Venda de bens duradouros»:
 
 Grupo 01 «Sector público»:
 
-###### Artigo 01 «Serviços gerais» ... 363122
+Artigo 01 «Serviços gerais» ... 363122
 
-### Capítulo 07 «Venda de serviços e bens não duradouros»:
+Capítulo 07 «Venda de serviços e bens não duradouros»:
 
 Grupo 10 «Diversos - Outros sectores»:
 
-###### Artigo 05 «Publicações e impressos»:
+Artigo 05 «Publicações e impressos»:
 
 «Serviços de educação» ... 25000
 
@@ -118,33 +126,33 @@ Receitas de capital:
 
 ... (Em contos)
 
-### Capítulo 15 «Contas de ordem»:
+Capítulo 15 «Contas de ordem»:
 
 Grupo 01 «Encargos Gerais da Nação»:
 
-###### Artigo 03 «Instituto Português de Cinema» ... 48000
+Artigo 03 «Instituto Português de Cinema» ... 48000
 
 Grupo 05 «Agricultura e Pescas»:
 
-###### Artigo 08 «Instituto Nacional de Investigação Agrária» ... 42000
+Artigo 08 «Instituto Nacional de Investigação Agrária» ... 42000
 
-###### Artigo 09 «Parque Nacional da Peneda-Gerês» ... 14000
+Artigo 09 «Parque Nacional da Peneda-Gerês» ... 14000
 
 Grupo 09 «Educação e Ciência»:
 
-###### Artigo 01 «Fundo de Fomento do Desporto» ... 50000
+Artigo 01 «Fundo de Fomento do Desporto» ... 50000
 
 Grupo 11 «Transportes e Comunicações»:
 
-###### Artigo 02 «Administração-Geral do Porto de Lisboa» ... 400000
+Artigo 02 «Administração-Geral do Porto de Lisboa» ... 400000
 
 Grupo 12 «Habitação e Obras Públicas»:
 
-###### Artigo 03 «Junta Autónoma de Estradas» ... 63000
+Artigo 03 «Junta Autónoma de Estradas» ... 63000
 
 ... 1005122
 
-###### Art. 3.º São autorizadas as seguintes alterações no orçamento privativo da:
+Art. 3.º São autorizadas as seguintes alterações no orçamento privativo da:
 
 Administração-Geral do Porto de Lisboa
 
@@ -222,35 +230,35 @@ Receitas correntes:
 
 ... (Em contos)
 
-### Capítulo 04 «Rendimentos da propriedade»:
+Capítulo 04 «Rendimentos da propriedade»:
 
 Grupo 10 «Rendas de terrenos - Outros Sectores» ... 7000
 
-### Capítulo 07 «Venda de serviços e bens não duradouros»:
+Capítulo 07 «Venda de serviços e bens não duradouros»:
 
 Grupo 07 «Rendas de bens duradouros - Outros sectores» ... 80000
 
 Grupo 10 «Diversos - Outros sectores»:
 
-###### Artigo 01 «Estacionamento de navios» ... 13000
+Artigo 01 «Estacionamento de navios» ... 13000
 
-###### Artigo 03 «Taxa de porto» ... 74000
+Artigo 03 «Taxa de porto» ... 74000
 
-###### Artigo 05 «Tráfego de mercadorias» ... 120000
+Artigo 05 «Tráfego de mercadorias» ... 120000
 
-###### Artigo 07 «Aparelhos elevatórios e transportadores terrestres» ... 14000
+Artigo 07 «Aparelhos elevatórios e transportadores terrestres» ... 14000
 
 Receitas de capital:
 
 ... (Em contos)
 
-### Capítulo 09 «Venda de bens de investimento»:
+Capítulo 09 «Venda de bens de investimento»:
 
 Grupo 18 «Maquinaria e equipamento - Outros sectores» ... 317
 
-### Capítulo 13 «Outras receitas de capital»:
+Capítulo 13 «Outras receitas de capital»:
 
-###### Artigo 01 «Receitas não enquadráveis nas rubricas anteriores»:
+Artigo 01 «Receitas não enquadráveis nas rubricas anteriores»:
 
 1 - «Saldo de gerência» ... 91683
 
@@ -258,8 +266,8 @@ Grupo 18 «Maquinaria e equipamento - Outros sectores» ... 317
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Adelino Manuel Lopes Amaro da Costa - Aníbal António Cavaco Silva - Vítor Pereira Crespo - António José Baptista Cardoso e Cunha - João Lopes Porto - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 15 de Outubro de 1980.**
+Promulgado em 15 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/36/1995/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1995-562268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2072d13d53e760c96438ba50e253df82d7e8512af8b98b9a210efec4da2d574c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ddfd7a46cb06a4b9c67da382bf4c90af64c52fc3871347af130d881e05ad3e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Brasília
-- Transporte Marítimo
-- Marinha Mercante
-- Convenção
-- Portugal
 - Brasil
+- Brasília
+- Convenção
+- Marinha Mercante
 - Navegação Marítima
+- Portugal
+- Transporte Marítimo
 relationships: []
 article_structure:
-  article_count: 5
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:52Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +94,19 @@ de 12 de Setembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Alteração ao Acordo entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil sobre Transporte e Navegação, assinado em Brasília em 10 de Outubro de 1994, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Alteração ao Acordo entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil sobre Transporte e Navegação, assinado em Brasília em 10 de Outubro de 1994, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1995. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - António Baptista Duarte Silva.
 
-**Assinado em 24 de Agosto de 1995.**
+Assinado em 24 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Agosto de 1995.**
+Referendado em 28 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Protocolo de Alteração ao Acordo entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil sobre Transporte e Navegação.
 
@@ -126,7 +126,7 @@ acordam no seguinte:
 
 Os artigos I, II, X, XII e XIV do Acordo são alterados como segue:
 
-Artigo I
+###### Artigo I
 
 1 - As Partes Contratantes promoverão a criação de condições que permitam aos respectivos armadores nacionais participarem de modo equitativo no transporte de mercadorias entre os portos dos dois países.
 
@@ -134,21 +134,21 @@ Artigo I
 
 3 - O disposto no n.º 1 deste artigo não limitará os direitos que assistem aos armadores comunitários relativamente às cargas que couberem aos armadores portugueses.
 
-Artigo II
+###### Artigo II
 
 As Partes Contratantes comprometem-se a promover a prática de fretes internacionalmente competitivos e a não recorrer a acções discriminatórias no que se refere às cargas a transportar.
 
-Artigo X
+###### Artigo X
 
 1 - Aos armadores que participam ou venham a participar no tráfego nos termos do presente Acordo cabe a respectiva organização, podendo estabelecer acordos de tarifas e serviços que viabilizem a obtenção de adequados padrões de eficiência, qualidade e regularidade da oferta de serviços marítimos entre os dois países, dos quais darão conhecimento às autoridades marítimas das Partes Contratantes.
 
 2 - Os armadores mencionados no número anterior submeterão ainda às autoridades competentes toda a informação e documentação relativa à sua participação no tráfego.
 
-Artigo XII
+###### Artigo XII
 
 As Partes Contratantes promoverão as diligências necessárias à rápida liquidação e transferência das importâncias resultantes do pagamento dos fretes aos armadores dos dois países.
 
-Artigo XIV
+###### Artigo XIV
 
 No presente Acordo as Partes Contratantes aceitam como autoridades marítimas competentes:
 
@@ -164,13 +164,13 @@ Para a República Federativa do Brasil, o Departamento da Marinha Mercante (DMM)
 
 São aditados ao Acordo os seguintes artigos:
 
-Artigo XII-A
+###### Artigo XII-A
 
 1 - As Partes Contratantes estabelecerão formas recíprocas de cooperação no domínio dos transportes marítimos, nomeadamente no âmbito da formação profissional, científica e técnica.
 
 2 - Os programas de cooperação, nos seus objectivos específicos, serão definidos em cada caso e por acordo das Partes Contratantes.
 
-Artigo XIII-A
+###### Artigo XIII-A
 
 O presente Acordo não impedirá, em qualquer caso, a aplicação das normas de direito internacional a que as Partes Contratantes se encontrem vinculadas e, em particular, as obrigações assumidas por Portugal em relação a outros Estados membros da União Europeia, em virtude do Tratado da União Europeia e demais regulamentação aplicável.
 

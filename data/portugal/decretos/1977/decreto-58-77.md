@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/58-1977-139768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b4e34005c6366b1adc52b993e2a75f93d21fcf1bd31ebde9d571f737034efd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfa50b576c785e2a8fa94257b2648978240cfb30e066dfa0e09929beb6e170b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cabo Verde
+- Comunicações
+- Convenção
+- Portugal
+- Serviço Postal
+relationships:
+- type: corrected_by
+  target: pt:dre:252457:por
+  label: Rectificado pela DECL.DD8330.02.06.1977.PCM, DR.IS [128] de 02.06.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-252457
+  date: '1977-06-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:44Z'
   warnings: []
   errors: []
 ---
@@ -87,21 +97,21 @@ de 19 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação no Domínio dos Serviços Postais e de Telecomunicações entre a República de Portugal e a República de Cabo Verde, assinado em 21 de Janeiro de 1977, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação no Domínio dos Serviços Postais e de Telecomunicações entre a República de Portugal e a República de Cabo Verde, assinado em 21 de Janeiro de 1977, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 24 de Março de 1977.**
+Assinado em 24 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo de Cooperação no Domínio dos Serviços Postais e de Telecomunicações entre a República de Portugal e a República de Cabo Verde
 
 Nos termos do Acordo Geral de Cooperação e Amizade estabelecido entre o Governo da República de Cabo Verde e o Governo da República de Portugal, as Partes Contratantes decidem concluir o seguinte Acordo sobre correios e telecomunicações:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Âmbito
 
@@ -119,7 +129,7 @@ Os serviços previstos no presente Acordo são, nomeadamente, os seguintes:
 
 2.2 - Serviços telefónicos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Acordos especiais
 
@@ -127,43 +137,43 @@ A execução dos serviços mencionados no artigo 1.º será objecto, quando nece
 
 Tais acordos especiais são considerados como parte integrante do presente Acordo e com a mesma validade.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Qualidade do serviço
 
 As Partes Contratantes procurarão assegurar serviços de boa qualidade e promoverão uma estreita colaboração para a prossecução deste objectivo.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Cooperação técnico-administrativa
 
 As Partes Contratantes procurarão desenvolver uma estreita cooperação técnico-administrativa entre os organismos que exploram os serviços postais e de telecomunicações, abrangendo os domínios do planeamento, da assistência técnica, da formação e aperfeiçoamento do pessoal e da assessoria no campo internacional, bem como a cedência ou empréstimo de equipamentos e outros materiais, com vista ao desenvolvimento dos serviços postais e de telecomunicações dos dois países.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Exploração pela Companhia Portuguesa Rádio Marconi de serviços de telecomunicações em Cabo Verde
 
 As actividades da Companhia Portuguesa Rádio Marconi em Cabo Verde serão reguladas em acordo a assinar pelo Governo da República de Cabo Verde e por aquela Companhia.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Transferência de divisas
 
 As Partes Contratantes efectuarão as transferências de divisas requeridas para a execução do presente Acordo.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Disposições transitórias
 
 Enquanto não entrarem em aplicação os acordos especiais referidos no artigo 2.º, os serviços actualmente existentes serão executados segundo as normas e as condições tarifárias em vigor.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Denúncia
 
 Qualquer das Partes Contratantes poderá denunciar o presente Acordo, bem como qualquer dos acordos especiais a que se refere o artigo 2.º; no entanto, a denúncia só se tornará efectiva expirado o prazo de um ano, a contar da data do aviso expedido pelo Governo de uma das Partes ao Governo da outra Parte.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Vigência
 

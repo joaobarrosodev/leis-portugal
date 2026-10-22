@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/43/1997/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43-1997-641996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d7e035681bd75c4cebc5cdd8333a5fd643abaedb4739bdf2bd4cf2a2cd8f0e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b6eaaab1ad65785599abc900e6ec5b73a06d894a9272ff917e1ec7680c9dd96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Copenhaga
 - Comunicação por Satélite
-- Intelsat
 - Comunicações
+- Convenção
+- Copenhaga
+- Intelsat
+- Portugal
 - Washington
 relationships: []
 article_structure:
-  article_count: 5
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:08Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +102,13 @@ Visto e aprovado em Conselho de Ministros de 6 de Março de 1997. - António Man
 
 Ratificado em 18 de de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Maio de 1997.**
+Referendado em 30 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 TEXT OF THE APPROVED AMENDMENT TO THE INTELSAT AGREEMENT TO IMPLEMENT MULTIPLE SIGNATORY ARRANGEMENTS
 
@@ -190,41 +190,31 @@ n) No Party or designated Signatory shall be required to withdraw from Intelsat 
 
 EMENDA AO ACORDO DA ORGANIZAÇÃO INTERNACIONAL DE TELECOMUNICAÇÕES POR SATÉLITE (INTELSAT) APROVADA NA 20.ª ASSEMBLEIA DE PARTES
 
-Artigo I
-
-Definições
+###### Artigo I — Definições
 
 É modificado o parágrafo g), que passa a ter a seguinte redacção:
 
 «g) Signatário significa uma Parte ou uma entidade de telecomunicações designada por uma Parte, que assinou o Acordo de Exploração e em relação ao qual este último entrou em vigor ou se lhe aplica provisoriamente;»
 
-Artigo II
-
-Estabelecimento da Intelsat
+###### Artigo II — Estabelecimento da Intelsat
 
 É modificado o parágrafo b), que passa a ter a seguinte redacção:
 
 «b) Cada Estado Parte assinará ou designará pelo menos uma entidade de telecomunicações, pública ou privada, para o efeito de assinar o Acordo de Exploração, que será concluído em conformidade com as disposições do presente Acordo e que deverá ficar aberto à assinatura ao mesmo tempo que o presente Acordo. As relações entre qualquer entidade de telecomunicações que actue na sua qualidade de Signatário e a Parte que a tiver designado reger-se-ão pela legislação nacional aplicável.»
 
-Artigo VIII
-
-Reunião de Signatários
+###### Artigo VIII — Reunião de Signatários
 
 É modificado o parágrafo e), que passa a ter a seguinte redacção:
 
 «e) O quórum para qualquer sessão da Reunião de Signatários será constituído por representantes de uma maioria dos Signatários. Cada Signatário terá direito a um voto. As decisões sobre questões de fundo serão tomadas por um voto favorável emitido por pelo menos dois terços dos Signatários cujos representantes estejam presentes e sejam votantes. As decisões sobre questões processuais serão aprovadas por um voto favorável emitido por maioria simples dos Signatários cujos representantes estejam presentes e sejam votantes. Os litígios sobre se uma questão específica é processual ou de fundo serão decididos por um voto favorável emitido por maioria simples dos Signatários cujos representantes estejam presentes e sejam votantes. Para o efeito de determinação de maiorias e de todas as votações, todos os Signatários designados por uma mesma Parte serão considerados em conjunto como um único Signatário.»
 
-Artigo IX
-
-Conselho de Governadores: composição e voto
+###### Artigo IX — Conselho de Governadores: composição e voto
 
 No parágrafo a) é introduzida uma quarta alínea, com a seguinte redacção:
 
 «iv) Não obstante as disposições precedentes, não haverá mais do que um Governador representando um ou mais dos Signatários designados por uma mesma Parte.»
 
-Artigo XVI
-
-Retirada
+###### Artigo XVI — Retirada
 
 São modificados os parágrafos d), e), f), g), k) e n), que passam a ter a seguinte redacção:
 

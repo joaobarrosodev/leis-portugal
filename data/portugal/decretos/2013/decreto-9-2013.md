@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/9/2013/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-2013-260880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7b029bc871f4c41d734e5ea11aedda69ef7a9e2bb71e847646b270492c9344b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5df71b028b38ad961f895e07d2a531ab7cdc161e27d39b2504819b72b7f404eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigação Científica e Tecnológica
-- Convenção
-- Portugal
-- Definição de Competências
-- Desenvolvimento Social
-- Turismo de Natureza
-- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Direcção Técnica
-- Espanha
-- Património Cultural
 - Comissão
-- Gestão dos Recursos
 - Conselho Consultivo
-- Proteção do Ambiente
-- PITT
-- Diversidade Biológica
+- Convenção
+- Definição de Competências
 - Desenvolvimento Económico
-- Protecção do Património
+- Desenvolvimento Social
+- Direcção Técnica
+- Diversidade Biológica
+- Espanha
+- Gestão dos Recursos
+- Investigação Científica e Tecnológica
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Património Cultural
 - Património Natural
+- PITT
 - Porto
+- Portugal
+- Proteção do Ambiente
+- Protecção do Património
+- Turismo de Natureza
 relationships:
 - type: cites
   target: celex:31979L0409
@@ -98,13 +98,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:04Z'
   warnings: []
   errors: []
 ---
@@ -123,15 +123,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 4 de abril de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Assinado em 24 de abril de 2013.**
+Assinado em 24 de abril de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de abril de 2013.**
+Referendado em 30 de abril de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA RELATIVO À CONSTITUIÇÃO DO PARQUE INTERNACIONAL TEJO-TAJO
 
@@ -281,7 +281,7 @@ Pela República Portuguesa, Maria da Assunção de Oliveira Cristas, Ministra da
 
 Pelo Reino de Espanha, Miguel Arias Cañete, Ministro da Agricultura, Alimentação e Meio Ambiente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08900/0276002765.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08900/0276002765.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08900/0276002765.pdf)
 
 ACUERDO DE COOPERACIÓN ENTRE LA REPÚBLICA PORTUGUESA Y EL REINO DE ESPAÑA, RELATIVO A LA CONSTITUCIÓN DEL PARQUE INTERNACIONAL TEJO-TAJO
 
@@ -457,4 +457,4 @@ Por la República Portuguesa, Maria da Assunção de Oliveira Cristas, Ministra 
 
 Por el Reino de España, Miguel Arias Cañete, Ministro de Agricultura, Alimentación y Medio Ambiente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/08900/0276002765.pdf))](https://files.diariodarepublica.pt/1s/2013/05/08900/0276002765.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/08900/0276002765.pdf)

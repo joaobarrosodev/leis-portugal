@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-1979-392608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:53:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 071fdb8e4bc50c8585da50329150092125248a9eecbee3f91e69ec3c4464d9a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92e89d43b8b4d401bda504217d8ce4aaa54bc07d5a86882a805e446449e49d5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:53:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto de Cultura Portuguesa
+- Quadro de Pessoal
+- Secretaria de Estado da Cultura
+relationships:
+- type: cites
+  target: pt:dre:434579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448522:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:53:40Z'
   warnings: []
   errors: []
 ---
@@ -90,20 +101,20 @@ Este ajustamento não representa, contudo, mais que a satisfação de uma necess
 
 Assim, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Instituto de Cultura Portuguesa deixa de depender do Ministério da Educação e Investigação Científica, ficando integrado na Secretaria de Estado da Cultura.
+Artigo 1.º O Instituto de Cultura Portuguesa deixa de depender do Ministério da Educação e Investigação Científica, ficando integrado na Secretaria de Estado da Cultura.
 
-###### Art. 2.º O pessoal do Instituto será o constante do quadro anexo ao [Decreto n.º 19/78](https://diariodarepublica.pt/dr/detalhe/decreto/19-1978-448522), de 10 de Fevereiro, devendo ser abatido igual número de lugares nos quadros únicos constantes dos mapas anexos ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
+Art. 2.º O pessoal do Instituto será o constante do quadro anexo ao [Decreto n.º 19/78](https://diariodarepublica.pt/dr/detalhe/decreto/19-1978-448522), de 10 de Fevereiro, devendo ser abatido igual número de lugares nos quadros únicos constantes dos mapas anexos ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
 
-###### Art. 3.º - 1 - O quadro de pessoal do Instituto será preenchido por funcionários dos quadros únicos dos órgãos e serviços centrais do Ministério da Educação e Investigação Científica, através de lista nominativa aprovada por despacho do Ministro da Educação e Investigação Científica e do Secretário de Estado da Cultura.
+Art. 3.º - 1 - O quadro de pessoal do Instituto será preenchido por funcionários dos quadros únicos dos órgãos e serviços centrais do Ministério da Educação e Investigação Científica, através de lista nominativa aprovada por despacho do Ministro da Educação e Investigação Científica e do Secretário de Estado da Cultura.
 
 2 - Na elaboração da lista a que se refere o número anterior será observado o disposto nos artigos 4.º e seguintes do [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
 
-###### Art. 4.º O presente diploma produz efeitos a partir do dia 1 de Janeiro de 1979, devendo todas as despesas do Instituto, a partir dessa data, ser pagas por verbas do orçamento da Secretaria de Estado da Cultura.
+Art. 4.º O presente diploma produz efeitos a partir do dia 1 de Janeiro de 1979, devendo todas as despesas do Instituto, a partir dessa data, ser pagas por verbas do orçamento da Secretaria de Estado da Cultura.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 22 de Janeiro de 1979.**
+Promulgado em 22 de Janeiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

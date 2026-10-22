@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/63-1980-470233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f626eca0f0361e69672b6dca59d024495f649d1926ac1c345660b53fa0ea3fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5015d81069107ff691e1ca0bcb3490710045668ef10035b8012f2a1d402dbc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Genebra
+- Normas de Trabalho
+- OIT
+- Portugal
+- Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:426761:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426761:por
+  label: "Estendida ao Território de Macau a aplicação da Convenção aprovada para ratificação pelo presente diploma, pelo\
+    \ DEC.170/99.1999.08.05.PR DR.IS [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/170-1999-426761
+  date: '1999-08-05'
+- type: amended_by
+  target: pt:dre:667174:por
+  label: "Tornada pública a aplicação a Macau da Convenção nº 144 da OIT aprovada para ratificação pelo presente diploma,\
+    \ pelo AV.168/99.1999.09.28.MNE, DR.IS-A [244] de 19/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/168-1999-667174
+  date: '1999-09-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:49Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +109,13 @@ de 2 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção n.º 144, relativa às consultas tripartidas destinadas a promover a execução das normas internacionais do trabalho, adoptada pela Conferência Internacional do Trabalho na sua 61.ª sessão, reunida em Genebra em 23 de Junho de 1976, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção n.º 144, relativa às consultas tripartidas destinadas a promover a execução das normas internacionais do trabalho, adoptada pela Conferência Internacional do Trabalho na sua 61.ª sessão, reunida em Genebra em 23 de Junho de 1976, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention 144
 

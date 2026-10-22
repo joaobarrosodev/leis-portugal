@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/07200/06000600.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/215-1976-500933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:41:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13ab86386a805067299b06de23a620906e2fb8d0add07dddc72b4f604ac9f9dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cf7b32b97ab97f5233ba929660bad334b3f3c92e96e3752e734e22f455934f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Formas de Provimento
+- Quadro de Pessoal
+- Secretaria de Estado da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:369823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:422447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:502637:por
+  label: Rectificado pela DECL.DD8715.10.04.1976.PCM, DR.IS [86] de 10.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-502637
+  date: '1976-04-10'
+- type: corrected_by
+  target: pt:dre:502176:por
+  label: Rectificado pela DECL.DD8803.26.04.1976.PCM, DR.IS [98] de 26.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-502176
+  date: '1976-04-26'
+- type: repealed_by
+  target: pt:dre:369823:por
+  label: "Revogado pelo DEC LEI.385/79.19.09.1979.PCM, DR.IS [217] de 19.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1979-369823
+  date: '1979-09-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:41:16Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +119,7 @@ Ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. O provimento do pessoal do quadro da Secretaria de Estado da Administração Pública será feito por nomeação provisória ou comissão de serviço durante o período de um ano.
+Artigo 1.º - 1. O provimento do pessoal do quadro da Secretaria de Estado da Administração Pública será feito por nomeação provisória ou comissão de serviço durante o período de um ano.
 
 2. Findo o prazo referido no número anterior, o funcionário:
 
@@ -106,20 +133,20 @@ b) Será exonerado ou regressará ao serviço de origem, conforme se trate de no
 
 5. Os funcionários de nomeação definitiva do antigo Secretariado da Administração Pública mantêm essa qualidade quando providos noutros lugares do quadro da Secretaria de Estado da Administração Pública.
 
-###### Art. 2.º - 1. O primeiro provimento dos lugares do quadro do pessoal da Secretaria de Estado da Administração Pública poderá ser feito directamente para qualquer das categorias, sem dependência do tempo de serviço anteriormente prestado.
+Art. 2.º - 1. O primeiro provimento dos lugares do quadro do pessoal da Secretaria de Estado da Administração Pública poderá ser feito directamente para qualquer das categorias, sem dependência do tempo de serviço anteriormente prestado.
 
 2. Os trabalhadores ao serviço daquela Secretaria de Estado (antigo Secretariado da Administração Pública) serão providos nos novos lugares mediante lista nominativa aprovada por despacho do respectivo Secretário de Estado, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário do Governo.
 
 3. No caso previsto no n.º 1 e sempre que se trate de pessoal que, à data da entrada em vigor do presente diploma, se encontre, a qualquer título, ao serviço da Secretaria de Estado, pode ser dispensado total ou parcialmente o requisito constante do n.º 1 do artigo 1.º deste diploma.
 
-###### Art. 3.º São revogados os artigos 12.º, 13.º e 19.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio.
+Art. 3.º São revogados os artigos 12.º, 13.º e 19.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio.
 
-###### Art. 4.º Este diploma entra em vigor na data da sua publicação.
+Art. 4.º Este diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa.
 
-**Promulgado em 15 de Março de 1976.**
+Promulgado em 15 de Março de 1976.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

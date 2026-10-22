@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/847-1976-407749
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:44:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a411c42693afe4aa968bd6dac700a194d6d7c368e71bfc850d59cf1b23298fe3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfce61c502fa10f328aabee559c5103de21d0b19926265b38e42b2a23f3baf5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:44:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cunhagem de Moeda
+- Imprensa Nacional-Casa da Moeda
+- Moeda
+- Rectificação de TIPO de Diploma
 relationships:
 - type: amended_by
   target: pt:dre:383006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492686:por
+  label: Declarado retificado o sumário e o título do presente diploma, que passa a constituir o Decreto-Lei 847/76, pelo(a)
+    Declaração - Diário da República n.º 3/1977, Série I de 1977-01-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-492686
+  date: '1977-01-05'
+- type: amended_by
+  target: pt:dre:383006:por
+  label: "Elevado o limite de emissão da moeda de 25$00 fixado no presente diploma, pelo DEC LEI.64/79.30.03.1979.MFP, DR.IS\
+    \ [75] de 30.03.19791979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1979-383006
+  date: '1979-03-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:44:37Z'
   warnings: []
   errors: []
 ---
@@ -98,24 +114,24 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado um novo tipo de moeda metálica por acordo entre o Estado e o Banco de Portugal, como valor facial de 25$00, fabricada em liga de cupro-níquel, na proporção de 75% de cobre e de 25 de níquel, a qual será serrilhada e terá o diâmetro de 26,25 mm e o peso de 8 g, com a tolerância de mais ou menos 2% em título e no peso.
+Artigo 1.º É criado um novo tipo de moeda metálica por acordo entre o Estado e o Banco de Portugal, como valor facial de 25$00, fabricada em liga de cupro-níquel, na proporção de 75% de cobre e de 25 de níquel, a qual será serrilhada e terá o diâmetro de 26,25 mm e o peso de 8 g, com a tolerância de mais ou menos 2% em título e no peso.
 
-###### Art. 2.º - 1. A nova moeda será cunhada pela Imprensa Nacional-Casa da Moeda, que, para o efeito de selecção do modelo da composição das respectivas faces, procederá à abertura de concurso público entre artistas nacionais.
+Art. 2.º - 1. A nova moeda será cunhada pela Imprensa Nacional-Casa da Moeda, que, para o efeito de selecção do modelo da composição das respectivas faces, procederá à abertura de concurso público entre artistas nacionais.
 
 2. A referida composição, embora livre, deverá conter obrigatoriamente os seguintes elementos: a legenda «República Portuguesa», a era da cunhagem em algarismos, o escudo nacional, ou a sua estilização e a designação do valor facial, também em algarismos.
 
 3. O modelo que vier a ser seleccionado pelo júri do concurso público será aprovado por diploma legal donde constará a respectiva descrição.
 
-###### Art. 3.º - 1. O limite da emissão para a moeda criada pelo presente diploma é de 1 milhão de contos.
+Art. 3.º - 1. O limite da emissão para a moeda criada pelo presente diploma é de 1 milhão de contos.
 
 2. As moedas de 25$00 serão postas a circular à medida que forem sendo fabricadas, mas a sua entrada em circulação não implica que o Banco de Portuga proceda de imediato à retirada das notas de 20$00, a qual se fará progressivamente, consoante as disponibilidades dessas espécies e as necessidades de circulação o aconselharem.
 
-###### Art. 4.º Ninguém pode ser obrigado a receber em qualquer pagamento mais de 1000$00 destas moedas,
+Art. 4.º Ninguém pode ser obrigado a receber em qualquer pagamento mais de 1000$00 destas moedas,
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 3 de Dezembro de 1976.**
+Promulgado em 3 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

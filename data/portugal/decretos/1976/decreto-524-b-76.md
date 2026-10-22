@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 155/1976, 1º Suplemento, Série I de 1976-07-05
   number: '155'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1476-(3) a 1476-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15501/00030003.pdf
 entry_into_force_dates: []
@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/524-b-1976-353920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f73e401ae7711097e53c98512c4fd9c1a77c84f0845afef67df728424bf2961
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 860585add9501f1650a19a414db978468e27c200d5a6ff52abcb783ce1c56706
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Portugal
+- Subsídio não Reembolsável
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:46Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 5 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Relativo a Um Subsídio não Reembolsável a Conceder pela República Portuguesa à República de Cabo Verde, assinado em 15 de Abril de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Relativo a Um Subsídio não Reembolsável a Conceder pela República Portuguesa à República de Cabo Verde, assinado em 15 de Abril de 1976, cujo texto vai anexo ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Ernesto Augusto de Melo Antunes - Vítor Manuel Ribeiro Constâncio.
 
-**Assinado em 1 de Julho de 1976.**
+Assinado em 1 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO RELATIVO A UM SUBSÍDIO NÃO REEMBOLSÁVEL A CONCEDER PELA REPÚBLICA PORTUGUESA À REPÚBLICA DE CABO VERDE.
 
@@ -105,11 +109,11 @@ Considerando a conveniência em regulamentar a execução dos compromissos entã
 
 O Governo da República Portuguesa e o Governo da República de Cabo Verde acordam no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O Governo da República Portuguesa remeterá ao Governo da República de Cabo Verde, no decurso do ano de 1976, a importância de 170000000$00, correspondente à parte ainda não utilizada do subsídio de 300000000$00 concedido em 1975 pelo Governo Português.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A importância a remeter pelo Governo Português, nos termos do artigo anterior, será utilizada para os seguintes fins:
 
@@ -117,7 +121,7 @@ A importância a remeter pelo Governo Português, nos termos do artigo anterior,
 
 2. O remanescente, na aquisição de bens e serviços de origem e com elevada participação portuguesa, disponíveis no mercado português, constantes da lista a acordar entre os Governos dos dois Estados.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 O presente Acordo entra em vigor na data da sua assinatura e durará até à materialização dos termos acordados.
 

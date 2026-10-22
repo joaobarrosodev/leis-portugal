@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/671-1975-309941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fceb9ef9b00ac37e3ea5f540b393ef32ee0cf8e0e1ffc83d21cdedad7ca4f12c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30771e1f01aae817d9273b5bca82dfbb1301461f855dae4dd82454870bc50062
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Lisboa
+- Portugal
+- Promoção Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:302316:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302316:por
+  label: "Mantido em vigor para a República Portuguesa e a para a Sérvia e Montenegro, o Acordo aprovado pelo presente diploma,\
+    \ pelo Acordo do DEC.10/2004.29.04.2004.MNE, DR.IS-A [101] de 29.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/10-2004-302316
+  date: '2004-04-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:44Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +102,15 @@ de 26 de Novembro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo entre o Governo da República Portuguesa e o Governo da República Federativa da Jugoslávia a respeito da Cooperação no Domínio do Turismo, assinado em Lisboa em 9 de Maio de 1975, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo entre o Governo da República Portuguesa e o Governo da República Federativa da Jugoslávia a respeito da Cooperação no Domínio do Turismo, assinado em Lisboa em 9 de Maio de 1975, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos - Ernesto Augusto de Melo Antunes.
 
-**Promulgado em 7 de Novembro de 1975.**
+Promulgado em 7 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACCORD ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE ET LE GOUVERNEMENT DE LA RÉPUBLIQUE SOCIALISTE FÉDÉRATIVE DE YOUGOSLAVIE CONCERNANT LA COOPÉRATION DANS LE DOMAINE DU TOURISME.
 

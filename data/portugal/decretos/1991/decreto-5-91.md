@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/1991/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-1991-495312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0915e0dd95523b6c89ed690f8ad3008e8ac055bf1e771d666019a117fdb611f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f25f5c36cc8f6217c7c98e6a0956644cfe9eaa020f7ad7c6702d910e040c01f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ subjects:
 - Bissau
 - Convenção
 - Cooperação Jurídica
-- Portugal
 - Faculdade de Direito
 - Guiné-Bissau
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:08Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 17 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação entre a República Portuguesa e a República da Guiné-Bissau, Adicional ao Acordo de Cooperação Jurídica. Relativo ao Apoio à Faculdade de Direito de Bissau, assinado em Bissau, em 22 de Julho de 1990, em dois exemplares originais, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Cooperação entre a República Portuguesa e a República da Guiné-Bissau, Adicional ao Acordo de Cooperação Jurídica. Relativo ao Apoio à Faculdade de Direito de Bissau, assinado em Bissau, em 22 de Julho de 1990, em dois exemplares originais, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 22 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 11 de Dezembro de 1990.**
+Assinado em 11 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Repúbica, MÁRIO SOARES.**
+O Presidente da Repúbica, MÁRIO SOARES.
 
-**Referendado em 16 de Dezembro de 1990.**
+Referendado em 16 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU, ADICIONAL AO ACORDO DE COOPERAÇÃO JURÍDICA RELATIVO AO APOIO À FACULDADE DE DIREITO DE BISSAU.
 

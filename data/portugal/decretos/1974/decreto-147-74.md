@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/147-1974-411828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcfe34683dc2e676e9c442c2f4259da786d48c83ae627362c340bd770f141eb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b31b1e0a1f21704882b68fefe45f4f0d1d3a34580311249abb684dbf822a4943
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:306646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:00Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +104,18 @@ Considerando ainda que o n.º 3 do artigo 2.º do referido [Decreto-Lei n.º 487
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São desafectados do domínio público marítimo os terrenos do estuário do rio Sado representados na planta anexa, limitados a norte pelo paralelo 38º 29' 10" N., a oeste pelo meridiano 8º 46' 42" W. de Greenwich, a leste pelo meridiano 8º 46' 21" W. de Greenwich e a sul pelo paralelo 38º 28' 15" N.
+Artigo 1.º São desafectados do domínio público marítimo os terrenos do estuário do rio Sado representados na planta anexa, limitados a norte pelo paralelo 38º 29' 10" N., a oeste pelo meridiano 8º 46' 42" W. de Greenwich, a leste pelo meridiano 8º 46' 21" W. de Greenwich e a sul pelo paralelo 38º 28' 15" N.
 
-###### Art. 2.º Os referidos terrenos, que serão destinados à implantação de uma unidade fabril de metalomecânica pesada, continuarão sob a jurisdição da Junta Autónoma do Porto de Setúbal, e quaisquer obras de estabelecimento ou complementares, ou ainda de futura ampliação ou modificação, não poderão neles ser executadas sem que os projectos hajam sido previamente aprovados pelo Ministro das Comunicações.
+Art. 2.º Os referidos terrenos, que serão destinados à implantação de uma unidade fabril de metalomecânica pesada, continuarão sob a jurisdição da Junta Autónoma do Porto de Setúbal, e quaisquer obras de estabelecimento ou complementares, ou ainda de futura ampliação ou modificação, não poderão neles ser executadas sem que os projectos hajam sido previamente aprovados pelo Ministro das Comunicações.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 30 de Março de 1974.**
+Promulgado em 30 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/08600/05190519.pdf))](https://files.diariodarepublica.pt/1s/1974/04/08600/05190519.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08600/05190519.pdf)
 
-**O Ministro das Finanças e da Coordenação Económica, Manuel Artur Cotta Agostinho Dias. - O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Finanças e da Coordenação Económica, Manuel Artur Cotta Agostinho Dias. - O Ministro das Comunicações, Rui Alves da Silva Sanches.

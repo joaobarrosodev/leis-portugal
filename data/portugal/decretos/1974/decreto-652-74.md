@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 272/1974, 1º Suplemento, Série I de 1974-11-22
   number: '272'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1440-(3) a 1440-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27201/00030004.pdf
 entry_into_force_dates: []
@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/652-1974-151690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:35:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8354c811a682421098982e2570dcec043fc7d7650cbc800e77f3a7948dbe5743
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbf0af1ba6bf4071d9775e81b20e7bf0d2387cd3ce66a281ff4146bf00e93c2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:35:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério da Saúde
+- Ministério das Finanças
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:35:48Z'
   warnings: []
   errors: []
 ---
@@ -88,29 +96,29 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 434266000$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no vigente orçamento do Ministério da Saúde:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 434266000$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no vigente orçamento do Ministério da Saúde:
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 14.º «Transferências - Sector público»:
+Artigo 14.º «Transferências - Sector público»:
 
 N.º 2 «Subsídio extraordinário para ser distribuído, mediante despacho ministerial, às instituições de saúde e assistência que dele careçam, para satisfação de encargos com remunerações a pessoal» ... 288251000$00
 
-###### Artigo 14.º-A «Transferências - Instituições particulares»:
+Artigo 14.º-A «Transferências - Instituições particulares»:
 
 N.º 1 «Subsídio extraordinário para ser distribuído, mediante despacho ministerial, às instituições de saúde e assistência que dele careçam, para satisfação de encargos com remunerações a pessoal» ... 92015000$00
 
-### Capítulo 4.º «Direcção-Geral de Saúde»:
+Capítulo 4.º «Direcção-Geral de Saúde»:
 
-###### Artigo 67.º «Transferências - Instituições particulares»:
+Artigo 67.º «Transferências - Instituições particulares»:
 
 N.º 1 «Estabelecimentos hospitalares»:
 
 Alínea 1 «Subsídios de cooperação às Misericórdias para sustentação dos seus hospitais e a outras instituições que mantêm estabelecimentos deste tipo» ... 18000000$00
 
-### Capítulo 5.º «Direcção-Geral dos Hospitais»:
+Capítulo 5.º «Direcção-Geral dos Hospitais»:
 
-###### Artigo 120.º «Transferências - Sector público»:
+Artigo 120.º «Transferências - Sector público»:
 
 N.º 1 «Estabelecimentos hospitalares»:
 
@@ -118,7 +126,7 @@ Alínea 1 «Comparticipação nos encargos de sustentação dos Hospitais Civis 
 
 Alínea 2 «Comparticipação nos encargos de sustentação do Centro Hospitalar das Caldas da Rainha, do Hospital de Joaquim Urbano, do Porto, dos hospitais distritais, dos serviços e centros de neurocirurgia e das comissões inter-hospitalares de Lisboa, Porto e Coimbra» ... 2500000$00
 
-###### Artigo 121.º «Transferências - Instituições particulares»:
+Artigo 121.º «Transferências - Instituições particulares»:
 
 N.º 1 «Estabelecimentos hospitalares»:
 
@@ -128,12 +136,12 @@ Alínea 2 «Subsídio de cooperação às Misericórdias para sustentação dos 
 
 ... 434266000$00
 
-###### Art. 2.º Para compensação dos créditos previstos no artigo anterior, é adicionada igual importância à verba descrita no capítulo 2.º, grupo 3, artigo 21.º «Imposto de transacções», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação dos créditos previstos no artigo anterior, é adicionada igual importância à verba descrita no capítulo 2.º, grupo 3, artigo 21.º «Imposto de transacções», do actual orçamento das receitas do Estado.
 
 Vasco dos Santos Gonçalves - Carlos Octávio Torres Cruz e Oliveira.
 
-**Promulgado em 19 de Novembro de 1974.**
+Promulgado em 19 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

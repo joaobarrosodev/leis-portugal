@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/05/12700/09060910.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/269-1973-422253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bdb2df9a3d74f5974e8acc8d9ec81cc92bf22018300e2d22a51737668bbfb0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4ffd1473fea23f4cc45f40baf18853871f170209882d40cc276cfcb162f0fdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Formas de Provimento
+- Orgânica
+- Secretariado da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:369823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:372637:por
+  label: "Determinado que as referências feitas ao Presidente do Conselho entendem-se feitas ao Ministério da Administração\
+    \ Interna no presente diploma pelo DEC LEI.745/74.27.12.1974.MAI, DG.IS [300] de 27.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/745-1974-372637
+  date: '1974-12-27'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:296991:por
+  label: "Revogado o nº 3 do art. 37º pelo DR.25/78.26.07.1978.MRA, DR.IS [170] de 26.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-1978-296991
+  date: '1978-07-26'
+- type: repealed_by
+  target: pt:dre:369823:por
+  label: "Revogado pelo DEC LEI.385/79.19.09.1979.PCM, DR.IS [217] de 19.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1979-369823
+  date: '1979-09-19'
 article_structure:
-  article_count: 1
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:48Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +128,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Secretariado da Administração Pública, adiante designado abreviadamente por Secretariado, é o órgão central incumbido de estudar, propor, coordenar e acompanhar a execução das medidas tendentes a promover sistematicamente o aperfeiçoamento e modernização da administração pública, de modo a permitir-lhe corresponder às exigências do desenvolvimento económico e social do País.
+Artigo 1.º O Secretariado da Administração Pública, adiante designado abreviadamente por Secretariado, é o órgão central incumbido de estudar, propor, coordenar e acompanhar a execução das medidas tendentes a promover sistematicamente o aperfeiçoamento e modernização da administração pública, de modo a permitir-lhe corresponder às exigências do desenvolvimento económico e social do País.
 
-###### Art. 2.º As atribuições do Secretariado, no âmbito da missão que lhe é confiada no artigo 1.º, exercem-se, fundamentalmente, nos seguintes domínios:
+Art. 2.º As atribuições do Secretariado, no âmbito da missão que lhe é confiada no artigo 1.º, exercem-se, fundamentalmente, nos seguintes domínios:
 
 a) Estrutura orgânica da Administração;
 
@@ -114,11 +150,13 @@ h) Relações da Administração com o público;
 
 i) Providências legislativas e regulamentares sobre as matérias referidas nas alíneas antecedentes.
 
-### CAPÍTULO II — SECÇÃO 1.ª
+### CAPÍTULO II
+
+#### SECÇÃO 1.ª
 
 Órgãos e serviços
 
-###### Art. 3.º - 1. O Secretariado é chefiado por um director, coadjuvado por um subdirector, e dispõe dos seguintes serviços:
+Art. 3.º - 1. O Secretariado é chefiado por um director, coadjuvado por um subdirector, e dispõe dos seguintes serviços:
 
 a) Direcção de Serviços de Organização e Equipamento;
 
@@ -130,7 +168,7 @@ d) Repartição Administrativa.
 
 2. O director do Secretariado será substituído nas suas faltas ou impedimentos pelo subdirector e este pelo director de serviços que for superiormente designado.
 
-###### Art. 4.º No exercício das suas atribuições, o Secretariado disporá ainda do apoio dos seguintes órgãos interdepartamentais:
+Art. 4.º No exercício das suas atribuições, o Secretariado disporá ainda do apoio dos seguintes órgãos interdepartamentais:
 
 a) Conselho Coordenador da Administração Pública;
 
@@ -140,13 +178,13 @@ c) Comissão Interministerial de Formação;
 
 d) Comissão Coordenadora dos Serviços Sociais.
 
-###### Art. 5.º O Secretariado estará representado no Conselho Superior da Acção Social, com vista a participar no estudo e promoção da equiparação progressiva dos regimes de segurança social dos sectores público e privado.
+Art. 5.º O Secretariado estará representado no Conselho Superior da Acção Social, com vista a participar no estudo e promoção da equiparação progressiva dos regimes de segurança social dos sectores público e privado.
 
 #### SECÇÃO 2.ª — Direcção de Serviços de Organização e Equipamento
 
-###### Art. 6.º A Direcção de Serviços de Organização e Equipamento é constituída pelas Divisões de Organização e de Equipamento.
+Art. 6.º A Direcção de Serviços de Organização e Equipamento é constituída pelas Divisões de Organização e de Equipamento.
 
-###### Art. 7.º Compete à Divisão de Organização estudar os aspectos gerais respeitantes ao aperfeiçoamento das estruturas administrativas e ao funcionamento dos serviços, nomeadamente:
+Art. 7.º Compete à Divisão de Organização estudar os aspectos gerais respeitantes ao aperfeiçoamento das estruturas administrativas e ao funcionamento dos serviços, nomeadamente:
 
 a) Propor critérios orientadores da criação e reorganização de serviços públicos e dar parecer sobre os projectos de diplomas legais que destas matérias se ocupem;
 
@@ -160,7 +198,7 @@ e) Proceder à elaboração de códigos comuns, a utilizar pela Administração 
 
 f) Realizar os estudos tendentes à regulamentação jurídica das questões ligadas ao tratamento automático da informação.
 
-###### Art. 8.º - 1. Compete à Divisão de Equipamento promover a definição de orientações gerais em matéria de instalação e equipamento dos serviços e particularmente no que respeita à introdução da informática no sector público.
+Art. 8.º - 1. Compete à Divisão de Equipamento promover a definição de orientações gerais em matéria de instalação e equipamento dos serviços e particularmente no que respeita à introdução da informática no sector público.
 
 2. Incumbe-lhe, nomeadamente:
 
@@ -176,9 +214,9 @@ e) Estabelecer normas gerais de exploração dos equipamentos.
 
 #### SECÇÃO 3.ª — Direcção de Serviços de Pessoal
 
-###### Art. 9.º A Direcção de Serviços de Pessoal é constituída pela Divisão dc Selecção, Formação e Carreiras e pela Divisão de Emprego e Remunerações.
+Art. 9.º A Direcção de Serviços de Pessoal é constituída pela Divisão dc Selecção, Formação e Carreiras e pela Divisão de Emprego e Remunerações.
 
-###### Art. 10.º - 1. Incumbe à Divisão de Selecção, Formação e Carreiras estudar as questões respeitantes à selecção e formação profissional dos servidores do Estado e à organização dos quadros do pessoal e carreiras dos funcionários.
+Art. 10.º - 1. Incumbe à Divisão de Selecção, Formação e Carreiras estudar as questões respeitantes à selecção e formação profissional dos servidores do Estado e à organização dos quadros do pessoal e carreiras dos funcionários.
 
 2. Compete-lhe, nomeadamente:
 
@@ -192,7 +230,7 @@ d) Lançar as bases de um registo central de pessoal, tendo em atenção o plane
 
 e) Assegurar a gestão do pessoal de quadros interministeriais que venham a ser criados, bem como a do pessoal do Secretariado.
 
-###### Art. 11.º - 1. À Divisão de Emprego e Remunerações incumbe estudar o aperfeiçoamento das condições gerais de prestação de trabalho na função pública e as matérias respeitantes à situação económica e social dos servidores do Estado.
+Art. 11.º - 1. À Divisão de Emprego e Remunerações incumbe estudar o aperfeiçoamento das condições gerais de prestação de trabalho na função pública e as matérias respeitantes à situação económica e social dos servidores do Estado.
 
 2. Compete-lhe, nomeadamente:
 
@@ -208,9 +246,11 @@ e) Propor o que tiver por conveniente, de acordo com estudos a efectuar, para a 
 
 f) Promover estudos de carácter geral acerca dos problemas de relações humanas na administração pública e colaborar na respectiva solução, com vista a proporcionar mais ampla satisfação pessoal dos funcionários e aumentar a contribuição destes para a eficiência do serviço.
 
-#### SECÇÃO 4.ª — Divisão de Documentação e Informação
+#### SECÇÃO 4.ª
 
-###### Art. 12.º Compete ao Serviço de Documentação Administrativa:
+##### Divisão de Documentação e Informação
+
+Art. 12.º Compete ao Serviço de Documentação Administrativa:
 
 a) Organizar a biblioteca e o centro de documentação administrativa, assegurando o tratamento de elementos bibliográficos e documentais em matérias de interesse genérico para a administração pública;
 
@@ -218,7 +258,7 @@ b) Manter o contacto com organismos congéneres com vista à mais ampla utiliza�
 
 c) Coligir o material a incluir no Boletim da Administração Pública, editado pelo Secretariado, e promover a sua regular publicação.
 
-###### Art. 13.º Compete ao Serviço de Informação Estatística:
+Art. 13.º Compete ao Serviço de Informação Estatística:
 
 a) Recolher, tratar, seleccionar e fornecer aos serviços do Secretariado as informações estatísticas com interesse para a realização dos estudos e trabalhos a seu cargo;
 
@@ -226,7 +266,7 @@ b) Promover, em estreito contacto com os órgãos do sistema estatístico nacion
 
 c) Organizar e manter em dia os ficheiros, registos e arquivos das informações referidas.
 
-###### Art. 14.º Compete ao Serviço de Informação e Relações Públicas:
+Art. 14.º Compete ao Serviço de Informação e Relações Públicas:
 
 a) Realizar estudos de carácter geral sobre problemas de relações públicas e sugerir providências tendentes ao aperfeiçoamento das relações entre a Administração e os administrados, com o fim de favorecer o esclarecimento destes e a sua colaboração nas actividades administrativas;
 
@@ -236,15 +276,15 @@ c) Suscitar e acolher as sugestões dos funcionários, dos órgãos de informaç
 
 d) Realizar adequada transmissão, para o exterior, da informação com interesse geral sobre administração pública e, de um modo geral, funcionar como serviço de acolhimento e informação do Secretariado.
 
-###### Art. 15.º Os serviços da Divisão de Documentação e Informação serão orientados pelos técnicos designados pelo director do Secretariado, ouvido o chefe da Divisão.
+Art. 15.º Os serviços da Divisão de Documentação e Informação serão orientados pelos técnicos designados pelo director do Secretariado, ouvido o chefe da Divisão.
 
 #### SECÇÃO 5.ª — Repartição Administrativa
 
-###### Art. 16.º - 1. A Repartição Administrativa compreende duas secções, sendo uma de serviços gerais e outra de contabilidade e economato.
+Art. 16.º - 1. A Repartição Administrativa compreende duas secções, sendo uma de serviços gerais e outra de contabilidade e economato.
 
 2. Uma das secções será dirigida pelo chefe de Repartição.
 
-###### Art. 17.º Compete à Secção de Serviços Gerais:
+Art. 17.º Compete à Secção de Serviços Gerais:
 
 a) Ocupar-se das operações referentes à administração do pessoal do Secretariado;
 
@@ -256,7 +296,7 @@ d) Assegurar o serviço de arquivo dos processos e do expediente geral;
 
 e) Prestar apoio administrativo aos órgãos referidos no artigo 5.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio.
 
-###### Art. 18.º Compete à Secção de Contabilidade e Economato:
+Art. 18.º Compete à Secção de Contabilidade e Economato:
 
 a) Assegurar a contabilidade do Secretariado;
 
@@ -264,7 +304,7 @@ b) Adquirir, registar e guardar o material.
 
 #### SECÇÃO 6.ª — Conselho Coordenador da Administração Pública
 
-###### Art. 19.º Compete ao Conselho Coordenador da Administração Pública:
+Art. 19.º Compete ao Conselho Coordenador da Administração Pública:
 
 a) Assegurar a ligação do Secretariado com os diversos Ministérios ou Secretarias de Estado;
 
@@ -274,9 +314,9 @@ c) Pronunciar-se sobre o programa anual de actividades do Secretariado e sobre o
 
 d) Emitir parecer sobre os assuntos de interesse geral para a administração pública que sejam submetidos à sua apreciação.
 
-###### Art. 20.º A presidência do Conselho Coordenador da Administração Pública cabe ao Presidente do Conselho de Ministros ou ao membro do Governo em quem este haja delegado competência para despachar os assuntos respeitantes ao Secretariado da Administração Pública.
+Art. 20.º A presidência do Conselho Coordenador da Administração Pública cabe ao Presidente do Conselho de Ministros ou ao membro do Governo em quem este haja delegado competência para despachar os assuntos respeitantes ao Secretariado da Administração Pública.
 
-###### Art. 21.º - 1. Fazem parte do Conselho:
+Art. 21.º - 1. Fazem parte do Conselho:
 
 a) O director do Secretariado da Administração Pública, a quem incumbe a vice-presidência do Conselho Coordenador;
 
@@ -306,19 +346,19 @@ l) Quatro representantes das actividades privadas, designadas pelas Corporaçõe
 
 4. As funções de secretário do Conselho serão exercidas pelo funcionário do Secretariado que for designado pelo director.
 
-###### Art. 22.º O Conselho funciona em sessões plenárias ou restritas, consoante as matérias a tratar, havendo, pelo menos, uma sessão plenária trimestral.
+Art. 22.º O Conselho funciona em sessões plenárias ou restritas, consoante as matérias a tratar, havendo, pelo menos, uma sessão plenária trimestral.
 
-###### Art. 23.º Os representantes do Ministério das Finanças e do Secretariado Técnico da Presidência do Conselho no Conselho Coordenador, ou os delegados que para o efeito designem, darão assídua colaboração ao Secretariado da Administração Pública, com vista a assegurar a eficaz ligação, esclarecimento e apoio quanto às matérias da competência dos respectivos departamentos.
+Art. 23.º Os representantes do Ministério das Finanças e do Secretariado Técnico da Presidência do Conselho no Conselho Coordenador, ou os delegados que para o efeito designem, darão assídua colaboração ao Secretariado da Administração Pública, com vista a assegurar a eficaz ligação, esclarecimento e apoio quanto às matérias da competência dos respectivos departamentos.
 
 #### SECÇÃO 7.ª — Comissão Interministerial de Informática
 
-###### Art. 24.º Compete à Comissão:
+Art. 24.º Compete à Comissão:
 
 a) Colaborar com o Secretariado na definição e execução das medidas de política da informática nos domínios da organização e funcionamento administrativos, do equipamento, do pessoal e das implicações legais e deontológicas da sua aplicação na administração pública;
 
 b) Promover a coordenação da actividade de todos os serviços de informática do sector público.
 
-###### Art. 25.º - 1. A Comissão é presidida pelo membro do Governo designado pelo Presidente do Conselho e tem a seguinte composição:
+Art. 25.º - 1. A Comissão é presidida pelo membro do Governo designado pelo Presidente do Conselho e tem a seguinte composição:
 
 a) O director do Secretariado da Administração Pública, a quem incumbe a vice-presidência;
 
@@ -344,7 +384,7 @@ i) Um representante dos Correios e Telecomunicações de Portugal.
 
 4. A Comissão será secretariada pelo chefe da Divisão de Equipamento da Direcção de Serviços de Organização e Equipamento do Secretariado.
 
-###### Art. 26.º - 1. A Comissão funcionará em sessões plenárias ou restritas, consoante as matérias a tratar.
+Art. 26.º - 1. A Comissão funcionará em sessões plenárias ou restritas, consoante as matérias a tratar.
 
 2. Poderão ser chamadas a colaborar com a Comissão ou assessorar os seus membros quaisquer entidades públicas ou privadas, quando se mostre útil o seu contributo ao estudo dos assuntos a tratar.
 
@@ -352,23 +392,23 @@ i) Um representante dos Correios e Telecomunicações de Portugal.
 
 #### SECÇÃO 8.ª — Comissão Interministerial de Formação
 
-###### Art. 27.º Compete à Comissão:
+Art. 27.º Compete à Comissão:
 
 a) Proceder ao estudo das questões respeitantes à selecção e formação dos servidores do Estado e propor, sobre a matéria, as medidas aconselháveis;
 
 b) Impulsionar e coordenar, para este fim, as actividades dos diversos sectores da Administração.
 
-###### Art. 28.º - 1. A Comissão é constituída pelo director do Secretariado, que presidirá, pelo director de Serviços de Pessoal e por representantes dos Ministérios com competência nos domínios do ensino e da formação escolar e extra-escolar, podendo ainda ser chamados a participar nas reuniões outros representantes de serviços públicos ou entidades particulares cuja intervenção possa ser de interesse para o esclarecimento das matérias a tratar.
+Art. 28.º - 1. A Comissão é constituída pelo director do Secretariado, que presidirá, pelo director de Serviços de Pessoal e por representantes dos Ministérios com competência nos domínios do ensino e da formação escolar e extra-escolar, podendo ainda ser chamados a participar nas reuniões outros representantes de serviços públicos ou entidades particulares cuja intervenção possa ser de interesse para o esclarecimento das matérias a tratar.
 
 2. As funções de secretário da Comissão serão exercidas pelo chefe da Divisão de Selecção, Formação e Carreiras da Direcção de Serviços de Pessoal do Secretariado.
 
-###### Art. 29.º A Comissão, que funciona em sessões plenárias ou restritas, terá a faculdade de criar grupos de trabalho, com a colaboração eventual de outras pessoas além dos seus membros.
+Art. 29.º A Comissão, que funciona em sessões plenárias ou restritas, terá a faculdade de criar grupos de trabalho, com a colaboração eventual de outras pessoas além dos seus membros.
 
 #### SECÇÃO 9.ª — Comissão Coordenadora dos Serviços Sociais
 
-###### Art. 30.º Compete à Comissão promover a coordenação dos serviços sociais, estimulando a sua associação e federação, em ordem a favorecer uma melhor gestão, reduzir gastos gerais e procurar uniformizar e ampliar os benefícios concedidos ao funcionalismo.
+Art. 30.º Compete à Comissão promover a coordenação dos serviços sociais, estimulando a sua associação e federação, em ordem a favorecer uma melhor gestão, reduzir gastos gerais e procurar uniformizar e ampliar os benefícios concedidos ao funcionalismo.
 
-###### Art. 31.º - 1. A Comissão é constituída pelo director do Secretariado, que presidirá, pelo director de Serviços de Pessoal e por representantes dos órgãos dirigentes dos serviços sociais dos diversos departamentos.
+Art. 31.º - 1. A Comissão é constituída pelo director do Secretariado, que presidirá, pelo director de Serviços de Pessoal e por representantes dos órgãos dirigentes dos serviços sociais dos diversos departamentos.
 
 2. A Comissão funciona em sessões plenárias ou restritas, podendo ser chamados a participar nas reuniões outros representantes de serviços públicos ou entidades particulares, especializadas nas matérias a tratar.
 
@@ -376,27 +416,27 @@ b) Impulsionar e coordenar, para este fim, as actividades dos diversos sectores 
 
 #### SECÇÃO 10.ª — Disposições diversas
 
-###### Art. 32.º - 1. Com vista à orientação e coordenação das actuações sectoriais relacionadas com o aperfeiçoamento e modernização da administração pública, o Secretariado manterá estreita ligação com as secretarias-gerais dos diversos departamentos ministeriais e com os órgãos que, noutros departamentos, se ocupem das questões respeitantes ao pessoal, à organização e funcionamento dos serviços, bem como às relações destes com o público.
+Art. 32.º - 1. Com vista à orientação e coordenação das actuações sectoriais relacionadas com o aperfeiçoamento e modernização da administração pública, o Secretariado manterá estreita ligação com as secretarias-gerais dos diversos departamentos ministeriais e com os órgãos que, noutros departamentos, se ocupem das questões respeitantes ao pessoal, à organização e funcionamento dos serviços, bem como às relações destes com o público.
 
 2. Para o efeito do disposto no número anterior, serão convocadas periodicamente reuniões com representantes dos referidos órgãos, no sentido de se obterem soluções uniformes e de aplicação geral para os problemas tratados.
 
 3. As deliberações tomadas nessas reuniões serão submetidas ao Presidente do Conselho, que sobre elas despachará.
 
-###### Art. 33.º Poderá também o pessoal dirigente e técnico do Secretariado visitar os serviços sectoriais competentes, no desempenho de uma acção orientadora e esclarecedora dos objectivos e actividades prosseguidos pelo órgão central, bem como para recolher informações ou proceder a estudos que interessem ao desempenho das suas atribuições.
+Art. 33.º Poderá também o pessoal dirigente e técnico do Secretariado visitar os serviços sectoriais competentes, no desempenho de uma acção orientadora e esclarecedora dos objectivos e actividades prosseguidos pelo órgão central, bem como para recolher informações ou proceder a estudos que interessem ao desempenho das suas atribuições.
 
-###### Art. 34.º Pode o Secretariado solicitar de quaisquer entidades, públicas ou privadas, os elementos de informação necessários ao cumprimento das suas atribuições e, para tal fim, corresponder-se livremente com elas, por qualquer via.
+Art. 34.º Pode o Secretariado solicitar de quaisquer entidades, públicas ou privadas, os elementos de informação necessários ao cumprimento das suas atribuições e, para tal fim, corresponder-se livremente com elas, por qualquer via.
 
-###### Art. 35.º - 1. Os vogais dos órgãos interdepartamentais referidos no artigo 5.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447) e os demais participantes nas suas reuniões ou em grupos de trabalho têm direito ao abono de senhas de presença, transportes e ajudas de custo, nos termos da lei.
+Art. 35.º - 1. Os vogais dos órgãos interdepartamentais referidos no artigo 5.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447) e os demais participantes nas suas reuniões ou em grupos de trabalho têm direito ao abono de senhas de presença, transportes e ajudas de custo, nos termos da lei.
 
 2. É aplicável igual regime aos participantes nas reuniões a que se refere o n.º 2 do artigo 32.º deste diploma.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 36.º - 1. Os lugares de director e subdirector serão providos por escolha do Presidente do Conselho, de entre diplomados com curso superior adequado e de reconhecida competência.
+Art. 36.º - 1. Os lugares de director e subdirector serão providos por escolha do Presidente do Conselho, de entre diplomados com curso superior adequado e de reconhecida competência.
 
 2. O provimento dos restantes lugares do Secretariado será feito pelo Presidente do Conselho, mediante proposta do director.
 
-###### Art. 37.º - 1. Os lugares de director de serviços, chefe de divisão, técnico de 2.ª classe e documentalista de 2.ª classe serão providos, por escolha, em indivíduos diplomados com curso superior adequado ao exercício das respectivas funções.
+Art. 37.º - 1. Os lugares de director de serviços, chefe de divisão, técnico de 2.ª classe e documentalista de 2.ª classe serão providos, por escolha, em indivíduos diplomados com curso superior adequado ao exercício das respectivas funções.
 
 2. O lugar de chefe de repartição será provido, por escolha do Presidente do Conselho, de entre diplomados com curso superior adequado ou chefes de secção do quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951, com mais de cinco anos de efectivo serviço nessa categoria e informação de serviço não inferior a Bom.
 
@@ -404,7 +444,7 @@ b) Impulsionar e coordenar, para este fim, as actividades dos diversos sectores 
 
 4. O período de estágio a que se refere o número anterior conta para os efeitos do n.º 2 do artigo 12.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447).
 
-###### Art. 38.º - 1. Os lugares de técnico especialista serão providos, mediante concurso documental, entre os candidatos que hajam alcançado um alto grau de preparação especializada e de experiência em matéria de organização, informática ou gestão de pessoal.
+Art. 38.º - 1. Os lugares de técnico especialista serão providos, mediante concurso documental, entre os candidatos que hajam alcançado um alto grau de preparação especializada e de experiência em matéria de organização, informática ou gestão de pessoal.
 
 2. O concurso referido no n.º 1 consistirá na apreciação do curriculum dos candidatos e de trabalhos da sua autoria, de índole técnica, relacionados com a natureza dos cargos a prover, que os candidatos deverão apresentar.
 
@@ -412,21 +452,21 @@ b) Impulsionar e coordenar, para este fim, as actividades dos diversos sectores 
 
 4. O júri será constituído pelas individualidades designadas pelo Presidente do Conselho, que aprovará, por portaria, a regulamentação do concurso.
 
-###### Art. 39.º - 1. Os lugares de técnico de 1.ª classe serão providos por escolha entre técnicos de 2.ª classe com um mínimo de três anos na categoria e informação de serviço não inferior a Bom.
+Art. 39.º - 1. Os lugares de técnico de 1.ª classe serão providos por escolha entre técnicos de 2.ª classe com um mínimo de três anos na categoria e informação de serviço não inferior a Bom.
 
 2. Os funcionários providos nos lugares de documentalista de 2.ª classe serão promovidos à 1.ª classe logo que neles completem três anos de bom e efectivo serviço.
 
-###### Art. 40.º - 1. Os lugares de técnico-auxiliar de 1.ª classe serão preenchidos, por escolha, entre técnicos-auxiliares de 2.ª classe com três anos nesta categoria e que possuam informação de serviço não inferior a Bom.
+Art. 40.º - 1. Os lugares de técnico-auxiliar de 1.ª classe serão preenchidos, por escolha, entre técnicos-auxiliares de 2.ª classe com três anos nesta categoria e que possuam informação de serviço não inferior a Bom.
 
 2. Os lugares de técnico-auxiliar de 2.ª classe serão providos, por escolha, de entre indivíduos que hajam concluído o 2.º ciclo do ensino liceal ou possuam
 
 habilitação equivalente.
 
-###### Art. 41.º No caso de informação de serviço de Muito bom durante dois anos consecutivos, o prazo mínimo de três anos referidos nos artigos 38.º, n.º 3, 39.º, n.º 1, e 40.º, n.º 1, é reduzido de um ano.
+Art. 41.º No caso de informação de serviço de Muito bom durante dois anos consecutivos, o prazo mínimo de três anos referidos nos artigos 38.º, n.º 3, 39.º, n.º 1, e 40.º, n.º 1, é reduzido de um ano.
 
-###### Art. 42.º O lugar de tradutor-correspondente será provido por concurso documental em indivíduo que possua a habilitação do 2.º ciclo do ensino liceal ou equiparada e fale e escreva correctamente duas ou mais línguas estrangeiras.
+Art. 42.º O lugar de tradutor-correspondente será provido por concurso documental em indivíduo que possua a habilitação do 2.º ciclo do ensino liceal ou equiparada e fale e escreva correctamente duas ou mais línguas estrangeiras.
 
-###### Art. 43.º - 1. Os lugares de chefe de secção serão providos, por escolha, em diplomados com curso superior adequado ou pelos institutos comerciais ou entre primeiros-oficiais pertencentes ao quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951, com mais de três anos de efectivo serviço na categoria e informação de serviço não inferior a Bom.
+Art. 43.º - 1. Os lugares de chefe de secção serão providos, por escolha, em diplomados com curso superior adequado ou pelos institutos comerciais ou entre primeiros-oficiais pertencentes ao quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951, com mais de três anos de efectivo serviço na categoria e informação de serviço não inferior a Bom.
 
 2. Os lugares de primeiro-oficial, segundo-oficial e terceiro-oficial e, bem assim, os de escriturário-dactilógrafo de 1.ª e 2.ª classes serão providos de acordo com a legislação aplicável ao quadro único referido no número anterior.
 
@@ -434,18 +474,18 @@ habilitação equivalente.
 
 4. Os lugares de contínuo e porteiro serão providos nos termos da lei geral.
 
-###### Art. 44.º - 1. Os lugares de secretário-recepcionista de 2.ª classe serão providos, por escolha, em indivíduos com o 2.º ciclo do ensino liceal ou habilitação equiparada.
+Art. 44.º - 1. Os lugares de secretário-recepcionista de 2.ª classe serão providos, por escolha, em indivíduos com o 2.º ciclo do ensino liceal ou habilitação equiparada.
 
 2. Ao fim de três anos de bom e efectivo serviço os funcionários providos nesses lugares serão promovidos a secretário-recepcionista de 1.ª classe.
 
-###### Art. 45.º - 1. As informações de serviço do pessoal do Secretariado serão estabelecidas anualmente com base nas apreciações feitas pelos superiores directos de cada funcionário e nos pareceres sobre elas emitidos pelos respectivos chefes, na conformidade dos critérios aprovados pelo Presidente do Conselho.
+Art. 45.º - 1. As informações de serviço do pessoal do Secretariado serão estabelecidas anualmente com base nas apreciações feitas pelos superiores directos de cada funcionário e nos pareceres sobre elas emitidos pelos respectivos chefes, na conformidade dos critérios aprovados pelo Presidente do Conselho.
 
 2. A informação de serviço de cada funcionário será dada a conhecer ao interessado.
 
 Marcello Caetano - João Mota Pereira de Campos - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 28 de Maio de 1973.**
+Promulgado em 28 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

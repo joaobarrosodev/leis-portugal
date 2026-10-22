@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/2012, 4º Suplemento, Série I de 2012-12-31
   number: '252'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7424-(303) a 7424-(304)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25204/0030300304.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/31-l/2012/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-l-2012-632417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:21:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6793840427c6a40ef2853b15bf5847fe3324cccb0c5c7f9fbd237bd01205c821
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07b60afe5398f7ec9196151a1db11cfe95af163b60870e4a316537f7d1119b7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:21:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ subjects:
 - BENS Classificados
 - Imóvel Classificado
 - Património Arqueológico
+- Património Arquitectónico
 - Património Cultural
+- Protecção do Património
 - Setúbal
 - Zona de Proteção
-- Património Arquitectónico
-- Protecção do Património
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/2011/12/05/p/dre
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:145271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:21:30Z'
   warnings: []
   errors: []
 ---
@@ -140,14 +152,14 @@ Ao abrigo do disposto no n.º 1 do artigo 28.º da [Lei n.º 107/2001](https://d
 
 Visto e aprovado em Conselho de Ministros de 6 de dezembro de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.
 
-**Assinado em 27 de dezembro de 2012.**
+Assinado em 27 de dezembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de dezembro de 2012.**
+Referendado em 28 de dezembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25204/0030300304.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25204/0030300304.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25204/0030300304.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/203a00/45834586.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/45/1997/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-1997-641127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd3a386e6f2c0be62834c2d889c8696f98d8350bab657abac10784de2c25c6d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d154fc237c86a5be4b4b856bb34950ab05d4c3f1ccbb9d0a85866ac4c26a165e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CE Países
-- Portugal
+- Dados Pessoais
 - Decisão CE
-- União Europeia
 - Nacional das Comunidades
 - Norma
-- Dados Pessoais
+- Portugal
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:899370945:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:899370945:por
+  label: Revogado, a partir de 1 de fevereiro de 2025, pelo(a) Decreto-Lei n.º 104/2024 - Diário da República n.º 238/2024,
+    Série I de 2024-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2024-899370945
+  date: '2024-12-09'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:10Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +110,15 @@ Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama.
 
-**Assinado em 15 de Julho de 1997.**
+Assinado em 15 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Julho de 1997.**
+Referendado em 18 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 DECISÃO DOS REPRESENTANTES DOS GOVERNOS DOS ESTADOS MEMBROS REUNIDOS NO CONSELHO DE 25 DE JUNHO DE 1996 RELATIVA À CRIAÇÃO DE UM TÍTULO DE VIAGEM PROVISÓRIO.
 
@@ -142,11 +148,11 @@ A presente decisão será publicada no Jornal Oficial das Comunidades Europeias.
 
 Feito no Luxemburgo, em 25 de Junho de 1996.
 
-**O Presidente:**
+O Presidente:
 
 M. Pinto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45834586.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45834586.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45834586.pdf)
 
 ## ANEXO II — Normas para a emissão do título de viagem provisório pelos Estados membros
 

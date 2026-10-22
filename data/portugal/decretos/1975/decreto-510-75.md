@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/510-1975-307263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d34ee382acc9b2e86f33dd2c6663e4c7838c33732408d9285758d6951b3e73b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21d797fcf21982ef15e42520d542b20b0509eac3f3f5d690d94b530b833f7a12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Consulado
+- Regulamento
+- Regulamento do Ministério dos Negócios Estrangeiros
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:56Z'
   warnings: []
   errors: []
 ---
@@ -87,14 +90,14 @@ de 20 de Setembro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo 1.º Quando circunstâncias locais assim o aconselharem, será posta à disposição dos gerentes dos postos consulares habitação condigna com a função que exercem.
+Artigo 1.º Quando circunstâncias locais assim o aconselharem, será posta à disposição dos gerentes dos postos consulares habitação condigna com a função que exercem.
 
-###### Art. 2.º Nos casos em que se verificar a hipótese prevista no artigo anterior, será aplicável ao arrendamento, mobilamento, apetrechamento e conservação dos edifícios o disposto nos §§ 1.º, 2.º, 4.º e 5.º do artigo 136.º, no artigo 137.º e no corpo do artigo 139.º, assim como nos seus §§ 2.º, 3.º e 4.º do Regulamento do Ministério dos Negócios Estrangeiros.
+Art. 2.º Nos casos em que se verificar a hipótese prevista no artigo anterior, será aplicável ao arrendamento, mobilamento, apetrechamento e conservação dos edifícios o disposto nos §§ 1.º, 2.º, 4.º e 5.º do artigo 136.º, no artigo 137.º e no corpo do artigo 139.º, assim como nos seus §§ 2.º, 3.º e 4.º do Regulamento do Ministério dos Negócios Estrangeiros.
 
 Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso - Ernesto Augusto de Melo Antunes.
 
-**Promulgado em 12 de Setembro de 1975.**
+Promulgado em 12 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

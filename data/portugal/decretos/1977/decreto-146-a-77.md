@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 265/1977, 2º Suplemento, Série I de 1977-11-16
   number: '265'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2750-(3) a 2750-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/26502/00030003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/146-a-1977-239610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ef30fadf1606b4b6c64bcd015041edde338865b682a845559799d5f4492e85b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6eeb1a10d182633e21d255ec5cc2850aa5212153c07a93a419575aff4f596c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:46:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exoneração
+- Governo I
+- Membros do Governo
+- Secretário de Estado
+- Secretário de Estado da Comunicação Social
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:46:00Z'
   warnings: []
   errors: []
 ---
@@ -84,10 +89,10 @@ validation:
 
 de 16 de Novembro
 
-**O Presidente da República decreta, nos termos da alínea g) do artigo 136.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea g) do artigo 136.º da Constituição, o seguinte:
 
 É exonerado, a seu pedido, sob proposta do Primeiro-Ministro, o Dr. José Maria Roque Lino do cargo de Secretário de Estado da Comunicação Social.
 
-**Assinado em 16 de Novembro de 1977.**
+Assinado em 16 de Novembro de 1977.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

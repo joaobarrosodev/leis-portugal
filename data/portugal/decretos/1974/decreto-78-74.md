@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/78-1974-412674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79392280782f56d7cb8ce12f7633b269e013518638655633f0b198aad7249b77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb5fd8f4b85a3e66138147f8bf8aade6bc71b889c10de30c985d5901b66f90aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo
+- Bruxelas
+- CEE
+- Comité Misto Portugal-cee
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:31Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +96,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado para ratificação o Acordo por troca de notas celebrado em 18 de Dezembro de 1973 entre os representantes do Conselho das Comunidades Europeias e da República Portuguesa, que introduz modificações nos Protocolos n.os 1, 6, 7 e 8 do Acordo entre a Comunidade Económica Europeia e a República Portuguesa.
+Artigo 1.º É aprovado para ratificação o Acordo por troca de notas celebrado em 18 de Dezembro de 1973 entre os representantes do Conselho das Comunidades Europeias e da República Portuguesa, que introduz modificações nos Protocolos n.os 1, 6, 7 e 8 do Acordo entre a Comunidade Económica Europeia e a República Portuguesa.
 
-###### Art. 2.º As modificações estabelecidas no referido Acordo por troca de notas, cujo texto vai anexo ao presente decreto, entrarão em vigor no dia seguinte à data da notificação, pelas Partes Contratantes, do cumprimento dos processos internos necessários para este fim.
+Art. 2.º As modificações estabelecidas no referido Acordo por troca de notas, cujo texto vai anexo ao presente decreto, entrarão em vigor no dia seguinte à data da notificação, pelas Partes Contratantes, do cumprimento dos processos internos necessários para este fim.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 20 de Fevereiro de 1974.**
+Assinado em 20 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Acordo por troca de notas relativo a certas modificações nos Protocolos n.os 1, 6, 7 e 8 do Acordo entre a Comunidade Económica Europeia e a República Portuguesa.
 
@@ -159,7 +164,7 @@ I. Protocolo n.º 1, relativo ao regime aplicável a certos produtos:
 
 Quando originários da Dinamarca e do Reino Unido, Portugal elimina os direitos de importação nas proporções e segundo o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf))](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf)
 
 II. Protocolo n.º 6, relativo ao regime especial aplicável às importações de veículos automóveis e à indústria da montagem em Portugal:
 
@@ -177,12 +182,12 @@ IV. Protocolo n.º 8, relativo ao regime aplicável a certos produtos agrícolas
 
 2. Para os produtos referidos nos artigos 1, 2 e 3, a Dinamarca e o Reino Unido eliminam progressivamente a diferença existente entre os direitos efectivamente aplicados em 1 de Janeiro de 1972 e os direitos que resultam da aplicação dos referidos artigos, segundo o ritmo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf))](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf)
 
 Em derrogação do calendário acima mencionado, o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf))](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf)
 
 aplicar-se-á aos produtos a seguir enumerados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf))](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/05200/03020304.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/14100/18001801.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1982-395305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca75dbaed445f9ae0b7f68aaa4d69c04330493e1a97de0a8b69d798bcbdb6da8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e59f90310a4d425d94a13cecc85de92d177d5e5ac85958ea0cdf7c4030d8543
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Inspecção Regional do Trabalho
+- Regionalização
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:299068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:47Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +119,11 @@ Nestes termos, ouvido o Governo Regional:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas para a Região Autónoma dos Açores as atribuições e competências que no âmbito da Inspecção do Trabalho estão cometidas naquela Região ao Ministério do Trabalho.
+Artigo 1.º São transferidas para a Região Autónoma dos Açores as atribuições e competências que no âmbito da Inspecção do Trabalho estão cometidas naquela Região ao Ministério do Trabalho.
 
-###### Art. 2.º São extintas as delegações da Inspecção do Trabalho sediadas na Região, transitando as suas atribuições e competências para o novo organismo a criar no âmbito da Região Autónoma dos Açores.
+Art. 2.º São extintas as delegações da Inspecção do Trabalho sediadas na Região, transitando as suas atribuições e competências para o novo organismo a criar no âmbito da Região Autónoma dos Açores.
 
-###### Art. 3.º - 1 - Os funcionários do Ministério do Trabalho adstritos aos serviços extintos e que desempenham funções na Região Autónoma dos Açores, qualquer que seja a sua forma de provimento, serão integrados, se o desejarem, no quadro de pessoal do novo organismo a criar, na mesma categoria ou, no caso de esta não existir, para categoria correspondente às funções desempenhadas e de acordo com as habilitações do funcionário e a que corresponda a mesma letra de vencimento ou, na sua ausência, letra de vencimento imediatamente superior.
+Art. 3.º - 1 - Os funcionários do Ministério do Trabalho adstritos aos serviços extintos e que desempenham funções na Região Autónoma dos Açores, qualquer que seja a sua forma de provimento, serão integrados, se o desejarem, no quadro de pessoal do novo organismo a criar, na mesma categoria ou, no caso de esta não existir, para categoria correspondente às funções desempenhadas e de acordo com as habilitações do funcionário e a que corresponda a mesma letra de vencimento ou, na sua ausência, letra de vencimento imediatamente superior.
 
 2 - A integração e a colocação previstas no n.º 1 deste artigo serão efectuadas independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República e no Jornal Oficial da Região Autónoma dos Açores.
 
@@ -116,26 +137,26 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - Os funcionários que venham a ser integrados no quadro da Inspecção do Trabalho da Região Autónoma dos Açores e que ao aposentarem-se pretendam fixar residência no continente manterão os direitos consignados no que concerne a transporte de pessoas e bens.
 
-###### Art. 4.º Os agentes que à data da entrada em vigor do presente diploma não possuam qualquer vínculo à função pública e exerçam funções nos serviços da Inspecção do Trabalho da Região gozam de preferência em eventual concurso de admissão para preenchimento de vagas no quadro do novo organismo, devendo esta regra constar do regulamento do concurso.
+Art. 4.º Os agentes que à data da entrada em vigor do presente diploma não possuam qualquer vínculo à função pública e exerçam funções nos serviços da Inspecção do Trabalho da Região gozam de preferência em eventual concurso de admissão para preenchimento de vagas no quadro do novo organismo, devendo esta regra constar do regulamento do concurso.
 
-###### Art. 5.º O Ministério do Trabalho prestará, na medida das suas possibilidades, apoio técnico aos serviços ora regionalizados, a solicitação expressa do Governo Regional.
+Art. 5.º O Ministério do Trabalho prestará, na medida das suas possibilidades, apoio técnico aos serviços ora regionalizados, a solicitação expressa do Governo Regional.
 
-###### Art. 6.º O património afecto aos serviços extintos, por força do disposto no artigo 2.º, transita para o Governo Regional, mediante simples inventário.
+Art. 6.º O património afecto aos serviços extintos, por força do disposto no artigo 2.º, transita para o Governo Regional, mediante simples inventário.
 
-###### Art. 7.º As formas de cooperação entre o Ministério do Trabalho e a Secretaria Regional do Trabalho serão definidas em protocolo.
+Art. 7.º As formas de cooperação entre o Ministério do Trabalho e a Secretaria Regional do Trabalho serão definidas em protocolo.
 
-###### Art. 8.º As atribuições dos serviços da Inspecção do Trabalho a criar na Região Autónoma dos Açores e as competências dos seus funcionários são as constantes do [Decreto-Lei n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348), de 21 de Março, e das suas eventuais alterações, ou reformulação, sem prejuízo das adaptações julgadas necessárias e decorrentes da regionalização agora efectuada.
+Art. 8.º As atribuições dos serviços da Inspecção do Trabalho a criar na Região Autónoma dos Açores e as competências dos seus funcionários são as constantes do [Decreto-Lei n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348), de 21 de Março, e das suas eventuais alterações, ou reformulação, sem prejuízo das adaptações julgadas necessárias e decorrentes da regionalização agora efectuada.
 
-###### Art. 9.º As despesas com serviços agora integrados serão garantidas pelo orçamento regional a partir de 1 de Janeiro de 1982.
+Art. 9.º As despesas com serviços agora integrados serão garantidas pelo orçamento regional a partir de 1 de Janeiro de 1982.
 
-###### Art. 10.º Ficam revogados os n.os 2, 3 e 4 do artigo 5.º e o n.º 3 do artigo 6.º do [Decreto-Lei n.º 243/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1978-299068), de 19 de Agosto.
+Art. 10.º Ficam revogados os n.os 2, 3 e 4 do artigo 5.º e o n.º 3 do artigo 6.º do [Decreto-Lei n.º 243/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1978-299068), de 19 de Agosto.
 
-###### Art. 11.º As dúvidas suscitadas pela aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma dos Açores e dos Ministros do Trabalho e da Reforma Administrativa, quando necessário, ouvido o Governo da Região.
+Art. 11.º As dúvidas suscitadas pela aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma dos Açores e dos Ministros do Trabalho e da Reforma Administrativa, quando necessário, ouvido o Governo da Região.
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1982. - Gonçalo Pereira Ribeiro Teles.
 
-**Promulgado em 6 de Junho de 1982.**
+Promulgado em 6 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

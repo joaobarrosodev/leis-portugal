@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 294/1978, 1º Suplemento, Série I de 1978-12-23
   number: '294'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2738-(1) a 2738-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29401/00010002.pdf
 entry_into_force_dates: []
@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/161-b-1978-331050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:49:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d80c51b3427f4ba2afeff11a66fd088ef7c8ac38d36626ea1db54af38d3e21f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c35bab38a40a53c808133cac499d07d8e58d2282e77742e3d0219b4106675e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Conselho Administrativo
+- Conselho da Revolução
+- Contrato
+- Direcção Geral do Material Naval
+- Forças Armadas
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:49:39Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +104,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção-Geral do Material Naval a celebrar um contrato para desenvolvimento e fornecimento de seis emissores HF 400 W pela importância de 9910000$00.
+Artigo 1.º É autorizado o conselho administrativo da Direcção-Geral do Material Naval a celebrar um contrato para desenvolvimento e fornecimento de seis emissores HF 400 W pela importância de 9910000$00.
 
-###### Art. 2.º O encargo resultante da execução do contrato referido não poderá em cada ano exceder as seguintes quantias:
+Art. 2.º O encargo resultante da execução do contrato referido não poderá em cada ano exceder as seguintes quantias:
 
 1978 - 5530 contos;
 
@@ -103,14 +114,14 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 1980 - 2920 contos.
 
-###### Art. 3.º A importância fixada para o ano seguinte será acrescida do saldo apurado no ano que lhe antecede.
+Art. 3.º A importância fixada para o ano seguinte será acrescida do saldo apurado no ano que lhe antecede.
 
-###### Art. 4.º A despesa de que trata o presente diploma constitui no ano de 1978 encargo da verba inscrita no cap. 05, div. 01, NR 19.00, do orçamento do Estado-Maior-General das Forças Armadas (orçamento suplementar de Defesa) e nos anos seguintes encargos de verba a inscrever no mesmo orçamento.
+Art. 4.º A despesa de que trata o presente diploma constitui no ano de 1978 encargo da verba inscrita no cap. 05, div. 01, NR 19.00, do orçamento do Estado-Maior-General das Forças Armadas (orçamento suplementar de Defesa) e nos anos seguintes encargos de verba a inscrever no mesmo orçamento.
 
 Visto e aprovado em Conselho da Revolução em 22 de Dezembro de 1978.
 
-**Promulgado em 22 de Dezembro de 1978.**
+Promulgado em 22 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

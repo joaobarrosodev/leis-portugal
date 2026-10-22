@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 175/1976, 1º Suplemento, Série I de 1976-07-28
   number: '175'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1764-(2) a 1764-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17501/00020002.pdf
 entry_into_force_dates: []
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/636-b-1976-275248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eae288786c743a65b2d3ef7198c0b0e6e5a5ed40486da1dfae44f8cabd23c518
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b990f86d633e57be4fa1b12531e16a0f7e9ea8c6d08208c634442e50be3961e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo I
+- Nomeação
+- Subsecretário de Estado da Administração Interna
+- Subsecretário de Estado do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:179347:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239470:por
+  label: Exonerado o Dr. Custódio da Almeida Simões, Subsecretário de Estado do Trabalho pelo(a) Decreto n.º 43-A/77 - Diário
+    da República n.º 71/1977, 1º Suplemento, Série I de 1977-03-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/43-a-1977-239470
+  date: '1977-03-25'
+- type: amended_by
+  target: pt:dre:239472:por
+  label: Exonerados João Soares Louro e José Achando Cabral dos cargos de Subsecretários de Estado, respectivamente, da Comunicação
+    Social e do Tesouro pelo(a) Decreto n.º 43-C/77 - Diário da República n.º 71/1977, 1º Suplemento, Série I de 1977-03-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/43-c-1977-239472
+  date: '1977-03-25'
+- type: amended_by
+  target: pt:dre:179347:por
+  label: Exonerado o tenente-coronel Hugo Ferdinando Gonçalves Rocha do cargo de Subsecretário de Estado da Administração
+    Interna, pelo(a) Decreto n.º 84-B/77 - Diário da República n.º 131/1977, 1º Suplemento, Série I de 1977-06-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/84-b-1977-179347
+  date: '1977-06-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:32Z'
   warnings: []
   errors: []
 ---
@@ -92,8 +114,8 @@ Usando da faculdade conferida pela alínea g) do artigo 136.º da Constituição
 
 Nomeio, sob proposta do Primeiro-Ministro, João Soares Louro, o major Hugo Ferdinando Gonçalves Rocha, José Achando Cabral, o engenheiro António Manuel Chambica Azevedo Gomes e o Dr. Custódio de Almeida Simões, respectivamente, Subsecretários de Estado da Comunicação Social, da Administração Interna, do Tesouro, das Florestas e do Trabalho.
 
-**Assinado em 28 de Julho de 1976.**
+Assinado em 28 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - Mário Soares.

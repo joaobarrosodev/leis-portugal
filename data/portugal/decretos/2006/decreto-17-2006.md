@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/17/2006/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-2006-357768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c000031257c7445c4c4342bbeffabad3e65b27485b18618e8455c9200454a0be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb3237c07935a56c04b5b90f49501f3b28b56e56a2aed2ade64fd6a0c43ef474
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - China
-- Pequim
+- Convenção
 - Cooperação Económica
+- Pequim
+- Portugal
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:28Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 27 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Manuel António Gomes de Almeida de Pinho.
 
-**Assinado em 1 de Junho de 2006.**
+Assinado em 1 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 6 de Junho de 2006.**
+Referendado em 6 de Junho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA POPULAR DA CHINA SOBRE COOPERAÇÃO ECONÓMICA.
 
@@ -204,11 +204,11 @@ Feito em Pequim aos 12 de Janeiro de 2005, em dois originais, nas línguas portu
 
 Pelo Governo da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf))](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf)
 
 Pelo Governo da República Popular da China:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf))](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf)
 
 [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf)
 
@@ -326,8 +326,8 @@ Done in Beijing on the 12th of January of 2005, in two originals, each containin
 
 For the Government of the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf))](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf)
 
 For the Government of the People's Republic of China:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf))](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/122a00/45324536.pdf)

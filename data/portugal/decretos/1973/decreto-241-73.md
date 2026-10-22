@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/241-1973-422067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ab990c40dc447330d04c043114ad3d683587a7dc500f1148d35d8664ac7428a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 613f147915e0eb8619614cdf64ef76496e1b4dcca555b39c50831a2ec0a930af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:296193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636242:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:31Z'
   warnings: []
   errors: []
 ---
@@ -87,32 +99,32 @@ de 16 de Maio
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 1.º e o n.º 2.º do artigo 3.º do [Decreto n.º 36583](https://diariodarepublica.pt/dr/detalhe/decreto/36583-1947-636242), de 11 de Novembro de 1947, passam a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º e o n.º 2.º do artigo 3.º do [Decreto n.º 36583](https://diariodarepublica.pt/dr/detalhe/decreto/36583-1947-636242), de 11 de Novembro de 1947, passam a ter a seguinte redacção:
 
-###### Artigo 1.º É concedida isenção da taxa de salvação nacional na importação do óleo mineral denominado «white spirit» sempre que o referido produto se destine ao fabrico de tintas, vernizes, resinas sintéticas, cera para soalhos e pomada para calçado e a sua importação se faça nas condições do presente diploma.
+Artigo 1.º É concedida isenção da taxa de salvação nacional na importação do óleo mineral denominado «white spirit» sempre que o referido produto se destine ao fabrico de tintas, vernizes, resinas sintéticas, cera para soalhos e pomada para calçado e a sua importação se faça nas condições do presente diploma.
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
 2.º Ao white spirit importado ao abrigo deste decreto deverão ser adicionados, no acto da importação, 5% de colofónia em pó ou 5% de aguarrás, se se destinar ao fabrico de tintas, 5% de colofónia em pó, se se destinar ao fabrico de vernizes ou de resinas sintéticas, e 5% de aguarrás, se se destinar ao fabrico de cera para soalhos ou de pomada para calçado.
 
-###### Art. 2.º O artigo 1.º e o n.º 2.º do artigo 3.º do [Decreto n.º 46389](https://diariodarepublica.pt/dr/detalhe/decreto/46389-1965-296193), de 14 de Junho de 1965, passam a ter a seguinte redacção:
+Art. 2.º O artigo 1.º e o n.º 2.º do artigo 3.º do [Decreto n.º 46389](https://diariodarepublica.pt/dr/detalhe/decreto/46389-1965-296193), de 14 de Junho de 1965, passam a ter a seguinte redacção:
 
-###### Artigo 1.º É concedida a isenção da taxa de salvação nacional na importação do óleo mineral de produção nacional denominado «nafta alifática» sempre que o referido produto se destine a ser utilizado como dissolvente na indústria de tintas e vernizes e nas indústrias de colas e de pneus.
+Artigo 1.º É concedida a isenção da taxa de salvação nacional na importação do óleo mineral de produção nacional denominado «nafta alifática» sempre que o referido produto se destine a ser utilizado como dissolvente na indústria de tintas e vernizes e nas indústrias de colas e de pneus.
 
 ...
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 2.º À nafta alifática importada ao abrigo deste decreto deverá ser adicionado, no acto da importação, 1% de dibutilftalato, quando se destinar à indústria de tinta e vernizes, ou 10% de uma solução composta de 20% de borracha natural em nafta alifática, quando se destinar à indústria de colas, ou uma solução composta de 700 g de resina Koreisina e 5 g de corante Waxoline purple AS por litro em nafta alifática como desnaturante a 2% em peso, quando se destinar à indústria de pneus.
 
-###### Art. 3.º Fica revogado o [Decreto n.º 42256](https://diariodarepublica.pt/dr/detalhe/decreto/42256-1959-423265), de 12 de Maio de 1959.
+Art. 3.º Fica revogado o [Decreto n.º 42256](https://diariodarepublica.pt/dr/detalhe/decreto/42256-1959-423265), de 12 de Maio de 1959.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 4 de Maio de 1973.**
+Promulgado em 4 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

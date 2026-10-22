@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16900/16011604.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/575-1976-430579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:43:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd21a9efa56a43b59cab33ceaace60bbadb61ae31d20a54176811dfe68717528
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b6cf73fc1e2889c412c25f6d050955b139b636e427f88e60296850efe5b6232
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:43:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia da República
+- Formas de Provimento
+- Orgânica
+- Presidente da Assembleia da República
+- Primeiro-ministro
+- Quadro de Pessoal
+- Secretaria Geral
+- Secretariado da Assembleia Constituinte
+- Secretário Geral
 relationships:
 - type: amended_by
   target: pt:dre:632220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409131:por
+  label: "Transferidos para o Presidente da Assembleia da República, os poderes relativamente à Secretaria-Geral da Assembleia\
+    \ da República, atribuídos pelo presente diploma, pelo DEC LEI.693/76.21.09.1976.PCM, DR.IS [222] de 21.09.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/693-1976-409131
+  date: '1976-09-21'
+- type: cites
+  target: pt:dre:159488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632220:por
+  label: "Revogado pelo LEI.32/77.25.05.1977.AR, DR.IS [121]Supl de 25.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-1977-632220
+  date: '1977-05-25'
 article_structure:
-  article_count: 1
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:43:15Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +138,11 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º É criada a Secretaria-Geral da Assembleia da República, que tem por objectivo prestar à mesma o apoio técnico, administrativo e qualquer outro julgado indispensável.
+Artigo 1.º É criada a Secretaria-Geral da Assembleia da República, que tem por objectivo prestar à mesma o apoio técnico, administrativo e qualquer outro julgado indispensável.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 2.º Para o desempenho das suas atribuições, a Secretaria-Geral disporá dos seguintes serviços:
+Art. 2.º Para o desempenho das suas atribuições, a Secretaria-Geral disporá dos seguintes serviços:
 
 a) Gabinete Técnico;
 
@@ -118,23 +150,23 @@ b) Serviços de Redacção;
 
 c) Serviços de Apoio Legislativo, com duas secções:
 
-#### Secção de Expediente Geral;
+Secção de Expediente Geral;
 
-#### Secção de Apoio das Comissões;
+Secção de Apoio das Comissões;
 
 d) Serviço de Informação e Relações Públicas;
 
 e) Serviços Administrativos, com três secções:
 
-#### Secção de Expediente e Pessoal;
+Secção de Expediente e Pessoal;
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Economato e Conservação;
+Secção de Economato e Conservação;
 
 f) Biblioteca, Arquivo e Museu Histórico-Bibliográfico.
 
-###### Art. 3.º Compete, especialmente:
+Art. 3.º Compete, especialmente:
 
 a) Ao Gabinete Técnico. - Prestar à Mesa e às comissões da Assembleia a assistência técnica para que seja solicitado; assistir aos Deputados na preparação das suas intervenções, e proceder a estudos e trabalhos de investigação necessários à referida assistência;
 
@@ -148,25 +180,25 @@ e) Aos Serviços Administrativos. - Assegurar o expediente geral, os serviços d
 
 f) À Biblioteca, Arquivo e Museu Histórico-Bibliográfico. - Pôr à disposição dos Deputados, para consulta, as colecções de legislação oficial, os livros e outras publicações em depósito; catalogar e conservar a documentação relativa às legislaturas findas, e seleccionar, guardar e conservar as espécies documentais e bibliográficas e, bem assim, os objectos de arte referentes à história do parlamentarismo português.
 
-###### Art. 4.º - 1. A Secretaria-Geral é dirigida pelo secretário-geral, a quem incumbe superintender em todos os serviços da Secretaria-Geral, submetendo a despacho do Primeiro-Ministro os assuntos que careçam de resolução superior.
+Art. 4.º - 1. A Secretaria-Geral é dirigida pelo secretário-geral, a quem incumbe superintender em todos os serviços da Secretaria-Geral, submetendo a despacho do Primeiro-Ministro os assuntos que careçam de resolução superior.
 
 2. O secretário-geral será substituído, nas suas faltas ou impedimentos, pelo chefe de serviços que, sob sua proposta, o Primeiro-Ministro designar.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 5.º - 1. A Secretaria-Geral disporá do pessoal constante do quadro publicado em anexo ao presente diploma.
+Art. 5.º - 1. A Secretaria-Geral disporá do pessoal constante do quadro publicado em anexo ao presente diploma.
 
 2. A organização interna dos serviços e a distribuição do pessoal serão determinadas por despacho do secretário-geral.
 
-###### Art. 6.º O secretário-geral será nomeado em comissão de serviço, por tempo indeterminado, pelo Primeiro-Ministro de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
+Art. 6.º O secretário-geral será nomeado em comissão de serviço, por tempo indeterminado, pelo Primeiro-Ministro de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
 
-###### Art. 7.º Os chefes dos serviços serão nomeados pelo Primeiro-Ministro, sob proposta do secretário-geral, ouvido o Presidente da Assembleia, de entre indivíduos habilitados com curso superior adequado ao desempenho das respectivas funções, devendo o chefe dos Serviços de Redacção ser licenciado em Direito e podendo o provimento dos restantes chefes dos serviços fazer-se também entre chefes de secção do quadro da Secretaria-Geral com três anos de bom e efectivo serviço.
+Art. 7.º Os chefes dos serviços serão nomeados pelo Primeiro-Ministro, sob proposta do secretário-geral, ouvido o Presidente da Assembleia, de entre indivíduos habilitados com curso superior adequado ao desempenho das respectivas funções, devendo o chefe dos Serviços de Redacção ser licenciado em Direito e podendo o provimento dos restantes chefes dos serviços fazer-se também entre chefes de secção do quadro da Secretaria-Geral com três anos de bom e efectivo serviço.
 
-###### Art. 8.º - 1. Os lugares de auditor serão providos por despacho do Primeiro-Ministro, sob proposta do Presidente da Assembleia, de entre licenciados com curso superior adequado ao exercício das funções.
+Art. 8.º - 1. Os lugares de auditor serão providos por despacho do Primeiro-Ministro, sob proposta do Presidente da Assembleia, de entre licenciados com curso superior adequado ao exercício das funções.
 
 2. Um dos auditores, habilitado com a licenciatura em Direito, poderá ser incumbido, por despacho do secretário-geral, de dirigir os Serviços de Redacção.
 
-###### Art. 9.º Por despacho do Primeiro-Ministro, mediante proposta do secretário-geral, serão providos os restantes lugares do quadro da Secretaria-Geral de harmonia com as condições seguintes:
+Art. 9.º Por despacho do Primeiro-Ministro, mediante proposta do secretário-geral, serão providos os restantes lugares do quadro da Secretaria-Geral de harmonia com as condições seguintes:
 
 a) Documentalista de 1.ª classe e bibliotecário-arquivista, de entre diplomados com curso superior e habilitados com o curso de bibliotecário-arquivista ou com o estágio de preparação técnica de bibliotecários, arquivistas e documentalistas;
 
@@ -186,7 +218,7 @@ h) Catalogadores, de entre indivíduos habilitados com o curso geral dos liceus 
 
 i) Escriturários-dactilógrafos, por concurso de prestação de provas, de entre indivíduos que possuam a escolaridade obrigatória como habilitação.
 
-###### Art. 10.º - 1. O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 10.º - 1. O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2. As nomeações efectuadas nos termos do número anterior, excepto a referida no artigo 6.º, terão carácter provisório durante dois anos, findos os quais os funcionários serão providos definitivamente, se tiverem revelado aptidão para os cargos, ou exonerados, no caso contrário.
 
@@ -194,29 +226,29 @@ i) Escriturários-dactilógrafos, por concurso de prestação de provas, de entr
 
 4. Se a nomeação recair em funcionário público ou administrativo, será feita em comissão de serviço pelo prazo de um ano, findo o qual o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou regressará ao serviço de origem, no caso contrário.
 
-###### Art. 11.º - 1. Poderá ser requisitado pessoal de outros serviços públicos para prestar serviço na Secretaria-Geral, por simples despacho do Primeiro-Ministro, com audiência prévia do Ministro do departamento a que pertencer o funcionário a requisitar.
+Art. 11.º - 1. Poderá ser requisitado pessoal de outros serviços públicos para prestar serviço na Secretaria-Geral, por simples despacho do Primeiro-Ministro, com audiência prévia do Ministro do departamento a que pertencer o funcionário a requisitar.
 
 2. As requisições efectuadas nos termos do número anterior dependerão do acordo do funcionário e darão lugar, passados seis meses, a abertura de vaga no serviço de origem, o qual poderá prover interinamente o respectivo lugar.
 
-###### Art. 12.º - 1. Quando circunstâncias especiais o exijam e para apoio aos serviços relacionados com a edição do Diário, poderá, durante o período de funcionamento da Assembleia da República, ser admitido pessoal eventual, em regime de tarefa, que possua preparação adequada ao exercício das funções e cujo número não exceda dez unidades.
+Art. 12.º - 1. Quando circunstâncias especiais o exijam e para apoio aos serviços relacionados com a edição do Diário, poderá, durante o período de funcionamento da Assembleia da República, ser admitido pessoal eventual, em regime de tarefa, que possua preparação adequada ao exercício das funções e cujo número não exceda dez unidades.
 
 A admissão deste pessoal efectivar-se-á sem qualquer outra formalidade que não seja a autorização do Primeiro-Ministro, observadas, no entanto, as normas sobre excedentes de pessoal na função pública.
 
 2. O pessoal eventual nas condições do n.º 1 será remunerado por sessão, com um abono de quantitativo a fixar por despacho do Primeiro-Ministro, ouvido o Ministro das Finanças.
 
-###### Art. 13.º Nos termos do artigo 184.º da Constituição da República Portuguesa, poderão ser requisitados ou temporariamente contratados especialista em número a determinar pelo Presidente da Assembleia.
+Art. 13.º Nos termos do artigo 184.º da Constituição da República Portuguesa, poderão ser requisitados ou temporariamente contratados especialista em número a determinar pelo Presidente da Assembleia.
 
-###### Art. 14.º Por despacho do Primeiro-Ministro, poderão ser estabelecidos horários especiais para alguns ou para a totalidade dos serviços que compõem a Secretaria-Geral, sem prejuízo da prestação de trinta e seis horas de trabalho semanal por cada um dos funcionários.
+Art. 14.º Por despacho do Primeiro-Ministro, poderão ser estabelecidos horários especiais para alguns ou para a totalidade dos serviços que compõem a Secretaria-Geral, sem prejuízo da prestação de trinta e seis horas de trabalho semanal por cada um dos funcionários.
 
 Não haverá lugar a qualquer remuneração por horas extraordinárias.
 
-###### Art. 15.º - 1. No intervalo das sessões, o pessoal da Secretaria-Geral que não for necessário para a realização dos trabalhos permanentes poderá ser destacado para prestar serviço em outros departamentos do Estado dependentes do Primeiro-Ministro.
+Art. 15.º - 1. No intervalo das sessões, o pessoal da Secretaria-Geral que não for necessário para a realização dos trabalhos permanentes poderá ser destacado para prestar serviço em outros departamentos do Estado dependentes do Primeiro-Ministro.
 
 2. O destacamento referido no número anterior não prejudica de qualquer forma a situação dos funcionários perante os serviços a que pertencem.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 16.º - 1. O primeiro provimento dos lugares criados pelo presente diploma poderá ser feito com:
+Art. 16.º - 1. O primeiro provimento dos lugares criados pelo presente diploma poderá ser feito com:
 
 a) O pessoal a que se refere o artigo 2.º do [Decreto-Lei n.º 39/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1975-159488), de 1 de Fevereiro;
 
@@ -234,26 +266,26 @@ b) Funcionários da mesma categoria ou equiparada, quando não reúnam o condici
 
 4. O pessoal referido na alínea a) do n.º 1 deste artigo manterá a situação prevista no artigo 2.º do Decerto-Lei n.º 39/75, de 1 de Fevereiro.
 
-###### Art. 17.º - 1. O pessoal dirigente com provimento definitivo que por força do presente diploma seja nomeado em comissão de serviço mantém os direitos adquiridos.
+Art. 17.º - 1. O pessoal dirigente com provimento definitivo que por força do presente diploma seja nomeado em comissão de serviço mantém os direitos adquiridos.
 
 2. Terminada a comissão de serviço a que se refere o número anterior, poderão os funcionários ser colocados em quaisquer serviços ou organismos dependentes da Presidência do Conselho de Ministros por simples despacho do Primeiro-Ministro.
 
-###### Art. 18.º Durante o ano de 1976 as despesas com a Secretaria-Geral da Assembleia da República serão pagas em conta das disponibilidades das correspondentes verbas inscritas no vigente orçamento de Encargos Gerais da Nação afectas ao Secretariado da Assembleia Constituinte, as quais poderão ser, se necessário, reforçadas.
+Art. 18.º Durante o ano de 1976 as despesas com a Secretaria-Geral da Assembleia da República serão pagas em conta das disponibilidades das correspondentes verbas inscritas no vigente orçamento de Encargos Gerais da Nação afectas ao Secretariado da Assembleia Constituinte, as quais poderão ser, se necessário, reforçadas.
 
-###### Art. 19.º A partir da data de entrada em vigor deste decreto é extinto o Secretariado da Assembleia Constituinte.
+Art. 19.º A partir da data de entrada em vigor deste decreto é extinto o Secretariado da Assembleia Constituinte.
 
-###### Art. 20.º Este diploma entra em vigor na data da publicação.
+Art. 20.º Este diploma entra em vigor na data da publicação.
 
 Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 7 de Julho de 1976.**
+Promulgado em 7 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/16900/16011604.pdf))](https://files.diariodarepublica.pt/1s/1976/07/16900/16011604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/16900/16011604.pdf)
 
-**O Primeiro-Ministro Interino, Vasco Fernando Leote de Almeida e Costa.**
+O Primeiro-Ministro Interino, Vasco Fernando Leote de Almeida e Costa.

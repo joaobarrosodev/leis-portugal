@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/535-1976-431441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de94e0ddc90d81dd39dfb815c4e44e087b701fc82d70bc78fa0bb41bb43e2a70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bb9efa3d608fb81732d2ae5c51081f6f69240bd4377de7b20728a9a7a2119bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Budapeste
+- Convenção
+- Cooperação Cultural
+- Hungria
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:55Z'
   warnings: []
   errors: []
 ---
@@ -87,87 +92,87 @@ de 8 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República Popular da Hungria, assinado em Budapeste em 14 de Janeiro de 1976, cujo texto em português vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República Popular da Hungria, assinado em Budapeste em 14 de Janeiro de 1976, cujo texto em português vai anexo ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Ernesto Augusto de Melo Antunes - Vítor Manuel Rodrigues Alves - António de Almeida Santos.
 
-**Assinado em 21 de Junho de 1976.**
+Assinado em 21 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO CULTURAL ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA POPULAR DA HUNGRIA.
 
 O Governo da República Portuguesa e o Governo da República Popular da Hungria, desejosos de desenvolver as relações de amizade entre os dois países e de favorecer a cooperação nos domínios da cultura, do ensino e das ciências, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Cada Parte Contratante facilitará a criação, nos seus estabelecimentos de ensino superior, de leitorados ou de cursos para o estudo da língua, literatura e história do outro país.
 
-ARTIGO II
+###### ARTIGO II
 
 Cada uma das Partes Contratantes esforçar-se-á por que seja apresentada uma imagem objectiva do outro país sempre que nos seus manuais dos vários graus ou níveis de ensino seja incluída matéria que a ele diga respeito.
 
-ARTIGO III
+###### ARTIGO III
 
 Para permitir um melhor conhecimento da história e da cultura dos dois povos, as Partes Contratantes encorajarão reciprocamente a tradução e edição de obras de autores portugueses e húngaros e a apresentação de peças de teatro e obras musicais portuguesas e húngaras.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As Partes Contratantes favorecerão o intercâmbio de artistas e de conjuntos artísticos dos dois países nos domínios do teatro, ópera, dança e música.
 
-ARTIGO V
+###### ARTIGO V
 
 Cada Parte Contratante favorecerá a apresentação dos filmes mais representativos do outro país, bem como a difusão de filmes ou outros meios áudio-visuais de carácter artístico, turístico, científico e de divulgação, numa base não comercial.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Partes Contratantes encorajarão a cooperação directa entre as emissoras de radiodifusão e televisão dos dois países.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As Partes Contratantes facilitarão as trocas de publicações e outra documentação sobre cultura, ensino, ciência e técnica entre os estabelecimentos de ensino, instituições científicas, bibliotecas e arquivos dos dois países.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As Partes Contratantes favorecerão reciprocamente a organização de exposições sobre arte, ensino e ciência, assim como de exposições de livros.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1. As Partes Contratantes concederão, anualmente e em regime de reciprocidade, bolsas de estudo destinadas a especialistas diplomados e a investigadores científicos, para efectuarem estudos e pesquisas, de curta ou longa duração, nos estabelecimentos culturais, de investigação e de ensino do outro país.
 
 2. As Partes Contratantes estabelecerão negociações para a fixação das condições de concurso, duração e financiamento das bolsas de estudo.
 
-ARTIGO X
+###### ARTIGO X
 
 Cada uma das Partes Contratantes facilitará o acesso de especialistas do outro país às suas instituições culturais e científicas, bibliotecas, arquivos e museus.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As Partes Contratantes facilitarão reciprocamente a participação de representantes da vida cultural, de professores e de cientistas nos congressos, colóquios e outros encontros organizados nos dois países.
 
-ARTIGO XII
+###### ARTIGO XII
 
 As Partes Contratantes concederão as facilidades alfandegárias necessárias à entrada no seu território de todo o material, não destinado a fins comerciais, que tenha por objectivo a realização das actividades decorrentes do presente Acordo.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 As Partes Contratantes encorajarão reciprocamente o estabelecimento de relações e de cooperação directa entre as instituições culturais, de ensino e científicas dos dois países. Para esse efeito, facilitarão as visitas e viagens de estudo mútuas de docentes universitários, especialistas, investigadores, estudantes e delegações.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 Para a salvaguarda do património nacional de cada país, as Partes Contratantes comprometem-se a impedir a saída e entrada de obras de arte ou de espécies documentais de valor histórico ou patrimonial e a fiscalizar e velar pela sua segurança enquanto as mesmas se encontrarem na situação de importação temporária, para os fins do presente Acordo.
 
-ARTIGO XV
+###### ARTIGO XV
 
 As Partes Contratantes encorajarão a cooperação entre as organizações de juventude dos dois países.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 As Partes Contratantes favorecerão o desenvolvimento das relações desportivas e turísticas dos dois países.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 1. Será constituída uma Comissão Mista Luso-Húngara encarregada de acompanhar a execução do presente Acordo e de elaborar os programas periódicos de intercâmbio.
 
@@ -175,11 +180,11 @@ ARTIGO XVII
 
 3. A Comissão Mista poderá criar subcomissões ou grupos de trabalho quando se considere necessária a realização de estudos especializados sobre as matérias constantes do presente Acordo. O resultado desses estudos será apresentado à Comissão Mista.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 A aplicação do presente Acordo será feita em conformidade com as leis e regulamentos em vigor nos dois países.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 1. Cada uma das Partes Contratantes notificará a outra do cumprimento das formalidades exigidas pela sua Constituição para a entrada em vigor do presente Acordo.
 

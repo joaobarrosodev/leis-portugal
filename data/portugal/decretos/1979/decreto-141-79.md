@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/141-1979-365739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3131f12fb9d4d655194fb53f9ba5e2835c504334c92477fe6999696c25eda31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19d860081c375c7a086af6aa9f569f880cc243163e3cc962996180b34ad22fb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- IMCO
+- Navegação Marítima
+- Portugal
 relationships: []
 article_structure:
-  article_count: 28
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 11
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:16Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 27 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovadas para ratificação as emendas feitas à Convenção Instituidora da Organização Marítima Consultiva Intergovernamental (IMCO), adoptadas pela Resolução A.358 na 9.ª assembleia geral da IMCO, de 14 de Novembro de 1975, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. São aprovadas para ratificação as emendas feitas à Convenção Instituidora da Organização Marítima Consultiva Intergovernamental (IMCO), adoptadas pela Resolução A.358 na 9.ª assembleia geral da IMCO, de 14 de Novembro de 1975, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 30 de Novembro de 1979.**
+Promulgado em 30 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Resolution A.358 (IX)
 
@@ -611,7 +615,7 @@ Novas partes VIII e IX
 
 Juntar as novas partes VIII e IX depois da parte VII actual, como se segue:
 
-# PARTE VIII — Comité Jurídico
+## PARTE VIII — Comité Jurídico
 
 ###### ARTIGO 33
 
@@ -641,7 +645,7 @@ O Comité Jurídico deve reunir-se pelo menos uma vez por ano. Deve eleger os se
 
 Apesar de algo em contrário nesta Convenção, sujeito, no entanto, às disposições do artigo 33, o Comité Jurídico, enquanto no exercício de funções que lhe tenham sido conferidas por ou em qualquer convenção internacional ou outro instrumento, deve submeter-se às disposições relevantes da convenção ou instrumento em questão, particularmente no que diz respeito às regras que governam o procedimento a ser seguido.
 
-# PARTE IX — Comité de Protecção ao Meio Marítimo
+## PARTE IX — Comité de Protecção ao Meio Marítimo
 
 ###### ARTIGO 38
 
@@ -683,37 +687,37 @@ As partes VIII a XVII actuais são alteradas para partes X a XIX
 
 Os artigos 33 a 63 são renumerados como artigos 43 a 73.
 
-###### Artigo 33 (renumerado como artigo 43)
+Artigo 33 (renumerado como artigo 43)
 
 Substituir o texto actual pelo que se segue:
 
 O Secretariado deve compreender o secretário-geral e todo o outro pessoal que a Organização necessitar. O secretário-geral deve ser o mais alto funcionário administrativo da Organização e deve, sob reserva das disposições do artigo 23, nomear o pessoal acima mencionado.
 
-###### Artigo 34 (renumerado como artigo 44)
+Artigo 34 (renumerado como artigo 44)
 
 Substituir o texto actual pelo que se segue:
 
 O Secretariado está encarregado de ter em ordem todos os arquivos necessários ao funcionamento da Organização e de preparar, centralizar e distribuir as notas, documentos, ordens do dia, processos verbais e informações necessárias ao trabalho da Organização.
 
-###### Artigo 38 (renumerado como artigo 48)
+Artigo 38 (renumerado como artigo 48)
 
 Substituir o texto actual pelo que se segue:
 
-**O Secretário-Geral assume quaisquer outras funções que lhe possam ser destinadas pela Convenção, a Assembleia ou o Conselho.**
+O Secretário-Geral assume quaisquer outras funções que lhe possam ser destinadas pela Convenção, a Assembleia ou o Conselho.
 
-###### Artigo 39 (renumerado como artigo 49)
+Artigo 39 (renumerado como artigo 49)
 
 Substituir o texto actual pelo que se segue:
 
 Cada Membro toma a seu cargo a remuneração, as despesas de deslocação e as outras despesas da sua delegação às reuniões convocadas pela Organização.
 
-###### Artigo 42 (renumerado como artigo 52)
+Artigo 42 (renumerado como artigo 52)
 
 Substituir o texto actual pelo que se segue:
 
 Qualquer Membro que não cumpra as suas obrigações financeiras para com a Organização no prazo de um ano, contado a partir da data do seu vencimento, não tem direito de voto nem na Assembleia, nem no Conselho, nem no Comité de Segurança Marítima, nem no Comité Jurídico e nem no Comité de Protecção ao Meio Marítimo; todavia, a Assembleia, se assim o desejar, pode derrogar essas disposições.
 
-###### Artigo 43 (renumerado como artigo 53)
+Artigo 43 (renumerado como artigo 53)
 
 Substituir o texto actual pelo que se segue:
 
@@ -725,13 +729,13 @@ b) As decisões são tomadas por uma maioria de votos dos Membros presentes e vo
 
 c) Para os fins da presente Convenção, a expressão «Membros presentes e votantes» significa «Membros presentes e exprimindo um voto afirmativo ou negativo». Os Membros que se abstêm são considerados como não votando.
 
-###### Artigo 52 (renumerado como artigo 62)
+Artigo 52 (renumerado como artigo 62)
 
 Substituir o texto actual pelo que se segue:
 
 Os textos dos projectos de emendas à Convenção são comunicados aos Membros pelo secretário-geral seis meses, pelo menos, antes de serem submetidos à apreciação da Assembleia. As emendas são adoptadas pela Assembleia por maioria de dois terços dos votos. Doze meses depois da sua aprovação pelos dois terços dos Membros da Organização, excluídos os Membros associados, cada emenda entra em vigor para todos os Membros, à excepção daqueles que, antes da sua entrada em vigor, tenham feito uma declaração nos termos da qual não aprovam a dita emenda. A Assembleia poderá decidir por maioria de dois terços no momento da adopção de uma emenda que esta é de uma natureza tal que todo o Membro que tenha feito a aludida declaração e que não tenha aceite a emenda num prazo de doze meses a contar da data da sua entrada em vigor deixará, ao terminar esse prazo, de ser parte da Convenção.
 
-###### Artigo 55 (renumerado como artigo 65)
+Artigo 55 (renumerado como artigo 65)
 
 Substituir o texto actual pelo que se segue:
 
@@ -741,22 +745,22 @@ Nenhuma disposição do presente artigo poderá ofender o direito de qualquer ó
 
 Dos artigos referidos devem constar as seguintes alterações:
 
-###### Artigo 6 - Substituir a referência ao artigo 57 para artigo 67;
+Artigo 6 - Substituir a referência ao artigo 57 para artigo 67;
 
-###### Artigo 7 - Substituir a referência ao artigo 57 para artigo 67;
+Artigo 7 - Substituir a referência ao artigo 57 para artigo 67;
 
-###### Artigo 8 - Substituir a referência ao artigo 57 para artigo 67;
+Artigo 8 - Substituir a referência ao artigo 57 para artigo 67;
 
-###### Artigo 9 - Substituir a referência ao artigo 58 para artigo 68;
+Artigo 9 - Substituir a referência ao artigo 58 para artigo 68;
 
 Artigos 53 e 54 (renumerados como artigos 63 e 64) - Substituir a referência ao artigo 52 para artigo 62;
 
-###### Artigo 56 (renumerado como artigo 66) - Substituir a referência ao artigo 55 para artigo 65;
+Artigo 56 (renumerado como artigo 66) - Substituir a referência ao artigo 55 para artigo 65;
 
-###### Artigo 58 (renumerado como artigo 68) - Substituir a referência na alínea d) ao artigo 57 para artigo 67;
+Artigo 58 (renumerado como artigo 68) - Substituir a referência na alínea d) ao artigo 57 para artigo 67;
 
-###### Artigo 59 (renumerado como artigo 69) - Substituir a referência na alínea b) ao artigo 58 para artigo 68:
+Artigo 59 (renumerado como artigo 69) - Substituir a referência na alínea b) ao artigo 58 para artigo 68:
 
-###### Artigo 60 (renumerado como artigo 70) - Substituir a referência ao artigo 57 para artigo 67.
+Artigo 60 (renumerado como artigo 70) - Substituir a referência ao artigo 57 para artigo 67.
 
-**O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz.**
+O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/4/2017/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2017-105750646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 575a9f8b846db899699f1fa9a1b507c1f027a23765ba3c5d03807401f85aeed5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9ceffa56fe4ee9e6b7ff7d5337ea0cdb1c44bab8add7d22b8559b7289ad591a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
 - Convenção
-- Portugal
-- Profissão Diplomática
-- Lisboa
+- Emprego
+- Família
 - Funcionário Diplomático
+- Lisboa
+- Moldova
 - Pessoal Consular
 - Pessoal Diplomático
-- Emprego
-- Moldova
+- Portugal
+- Profissão Diplomática
 relationships: []
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:30Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 3 de novembro de 2016. - António Luís Santos da Costa - Maria Teresa Gonçalves Ribeiro.
 
-**Assinado em 30 de novembro de 2016.**
+Assinado em 30 de novembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de dezembro de 2016.**
+Referendado em 22 de dezembro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA MOLDOVA SOBRE O EXERCÍCIO DE ATIVIDADES PROFISSIONAIS REMUNERADAS POR PARTE DOS DEPENDENTES DO PESSOAL DIPLOMÁTICO, ADMINISTRATIVO E TÉCNICO DAS MISSÕES DIPLOMÁTICAS E DOS POSTOS CONSULARES.
 
@@ -216,11 +216,11 @@ Feito em Lisboa, 16 de junho de 2016, em dois originais, em português, romeno e
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf))](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf)
 
 Pela República da Moldova:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf))](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF MOLDOVA ON THE EXERCISE OF A GAINFUL PROFESSIONAL ACTIVITY BY THE DEPENDANTS OF THE DIPLOMATIC, ADMINISTRATIVE AND TECHNICAL STAFF OF THE DIPLOMATIC MISSIONS AND CONSULAR POSTS.
 
@@ -348,8 +348,8 @@ Done, in duplicate, in Lisbon on the 16th of June 2016, in the Portuguese, Roman
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf))](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf)
 
 For the Republic of Moldova:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf))](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/01/00900/0040200406.pdf)

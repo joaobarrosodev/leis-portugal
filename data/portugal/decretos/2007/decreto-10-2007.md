@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/2007/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-2007-638163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4d9a43da08e21d6f43f9669bc6187a98bf8a47f3998e84cf51783dbbaa6a518
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 177965fd5e6c25ab5d53150037da26cb62118a00d97a46eb6e262a72068817f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Condução
+- Cabo Verde
 - Carta de Condução
 - Cidade da Praia
 - Convenção
 - Portugal
-- Cabo Verde
 relationships: []
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:43Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +105,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado.
 
-**Assinado em 17 de Maio de 2007.**
+Assinado em 17 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 21 de Maio de 2007.**
+Referendado em 21 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE PARA O RECONHECIMENTO DE TÍTULOS DE CONDUÇÃO
 
@@ -211,4 +211,4 @@ O presente Acordo pode ser objecto de revisão, por mútuo acordo, a pedido de q
 
 A Parte em cujo território o presente Acordo for assinado deve, no mais breve prazo possível após a sua entrada em vigor, submetê-lo para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar-lhe o número de registo atribuído.
 
-**Assinado na Cidade da Praia, em 29 de Março de 2007, em dois originais, na língua portuguesa, fazendo ambos igualmente fé.**
+Assinado na Cidade da Praia, em 29 de Março de 2007, em dois originais, na língua portuguesa, fazendo ambos igualmente fé.

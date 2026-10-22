@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/1993/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-1993-284533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24e22adf3e877ef36b7696a322954352c184357ab57d82a6002b1066f9b4a468
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ece6feba60eb5aae76a4a0a7d9fafb942f4ab27cf90511a70efafa699443187
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
 - Convenção
 - Portugal
-- Administração Local
 - São Tomé
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:20Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 4 de Janeiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação no Âmbito da Administração Local entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, assinado neste último país em 30 de Maio de 1992, cujo texto original segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Cooperação no Âmbito da Administração Local entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, assinado neste último país em 30 de Maio de 1992, cujo texto original segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1992. - Aníbal António Cavaco Silva - Duarte Ivo Cruz - José Manuel Nunes Liberato.
 
-**Assinado em 8 de Outubro de 1992.**
+Assinado em 8 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Outubro de 1992.**
+Referendado em 9 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 DECLARAÇÃO CONJUNTA
 

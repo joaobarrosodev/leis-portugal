@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/28/1997/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1997-366178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ebd6abea629535332f75a562a47c7b5a13eb4f67bb9793c62b65a917862c790
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b65b2d8d0792973aa1a528bfaf57356edf73af4bcd05eab15828fc63709356c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - Comunicação por Satélite
+- Convenção
 - Inmarsat
 - Londres
-relationships: []
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:382023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678444:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:55Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +108,13 @@ Visto e aprovado em Conselho de Ministros de 6 de Março de 1997. - António Man
 
 Ratificado em 18 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Maio de 1997.**
+Referendado em 30 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 AMENDMENTS TO THE CONVENTION ON THE INTERNATIONAL MARITIME SATELLITE ORGANIZATION (INMARSAT)
 
@@ -324,17 +332,13 @@ No artigo 32.º, o parágrafo 3 é substituído pelo texto seguinte:
 
 Acordo de Exploração da INMARSAT
 
-Artigo V
-
-Quotas-partes de investimento
+###### Artigo V — Quotas-partes de investimento
 
 No artigo V, o parágrafo 2 é substituído pelo texto seguinte:
 
 «2 - Para a determinação das quotas-partes de investimento, a utilização nos dois sentidos será dividida em duas partes iguais, uma parte correspondente à estação terrena móvel e a outra parte correspondente à zona terrestre. A parte correspondente ao navio, aeronave ou estação terrena móvel em terra onde o tráfego é originado ou ao qual se destina será atribuída ao Signatário designado pela Parte sob cuja autoridade o navio, aeronave ou estação terrena móvel em terra opera. A parte correspondente à zona terrestre onde o tráfego é originado ou à qual se destina será atribuída ao Signatário designado pela Parte em cujo território o tráfego é originado ou ao qual se destina. Contudo, quando, para qualquer Signatário, a relação entre as partes correspondentes à estação terrena móvel e as partes correspondentes à zona terrestre for superior a 20:1, ao referido Signatário será atribuída, se o tiver solicitado previamente ao Conselho, uma utilização equivalente ao dobro da parte correspondente à zona terrestre ou a uma quota-parte de investimento de 0,1% se esta representar um valor superior. Para os fins do presente parágrafo, serão consideradas navios as estruturas que operem no meio marítimo para as quais o Conselho tenha autorizado o acesso ao segmento espacial INMARSAT.»
 
-Artigo XIV
-
-Aprovação de estações terrenas
+###### Artigo XIV — Aprovação de estações terrenas
 
 No artigo XIV, o parágrafo 2 é substituído pelo texto seguinte:
 

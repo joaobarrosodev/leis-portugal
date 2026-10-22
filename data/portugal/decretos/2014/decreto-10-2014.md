@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/2014/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-2014-572128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2f0599b54ee317d186222ffdbe0b6a187284a3187954b8351d8df20e1c81eb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eff1d10a5a9d00830b0c70dd344249928c07ff990b55a2251903b310167f03e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Admissão de Estrangeiros
 - Convenção
+- CPLP
 - Estudante
 - Lisboa
-- CPLP
-- Admissão de Estrangeiros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/29/2012/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/29/2012/08/09/p/dre
+- type: cites
+  target: pt:dre:175291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:05Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +118,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 30 de janeiro de 2014. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Miguel Bento Martins Costa Macedo e Silva - Nuno Paulo de Sousa Arrobas Crato.
 
-**Assinado em 12 de março de 2014.**
+Assinado em 12 de março de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de março de 2014.**
+Referendado em 13 de março de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 Acordo sobre Concessão de Visto para Estudantes Nacionais dos Estados Membros da CPLP
 

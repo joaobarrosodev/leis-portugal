@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/40/1993/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/40-1993-665688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6ee4dd83a9ae991b0e5077686caa162ec68444e4b82b2d6d29a22ad014a6408
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80738d7bd0877808222c89a84d21d19d06f0f94e6d31b39bc870d94bd0c2a2c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,20 @@ subjects:
 - Alfândega
 - Assistência Mútua
 - Convenção
-- Portugal
 - Fraude Aduaneira
+- Portugal
 - Roma
 relationships: []
 article_structure:
-  article_count: 29
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:40Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +94,19 @@ de 4 de Novembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção entre a Bélgica, a República Federal da Alemanha, a França, a Itália, o Luxemburgo e os Países Baixos para Assistência Mútua entre as Respectivas Administrações Aduaneiras, incluindo o Protocolo Adicional e o Protocolo de Adesão da Grécia, assinada em Roma, em 7 de Setembro de 1967, cujo texto na versão autêntica em língua francesa e respectiva tradução em língua portuguesa segue em anexo ao presente decreto.
+Artigo único. É aprovada, para adesão, a Convenção entre a Bélgica, a República Federal da Alemanha, a França, a Itália, o Luxemburgo e os Países Baixos para Assistência Mútua entre as Respectivas Administrações Aduaneiras, incluindo o Protocolo Adicional e o Protocolo de Adesão da Grécia, assinada em Roma, em 7 de Setembro de 1967, cujo texto na versão autêntica em língua francesa e respectiva tradução em língua portuguesa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Durão Barroso.
 
 Ratificado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1993.**
+Referendado em 23 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION ENTRE LA BELGIQUE, LA RÉPUBLIQUE FÉDÉRALE D'ALLEMAGNE, LA FRANCE, L'ITALIE, LE LUXEMBOURG ET LES PAYS-BAS, POUR L'ASSISTANCE MUTUELLE ENTRE LES ADMINISTRATIONS DOUANIÈRES RESPECTIVES.
 
@@ -278,27 +278,27 @@ Pour le Gouvernement Belge:
 
 Voor de Bergische Regering:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Für die Regierung der Bundesrepublik Deutschland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Pour le Gouvernement Français:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Per il Governo Italiano:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Pour le Gouvernement Luxembourgeois:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Voor de Nederlandse Regering:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 PROTOCOLE ADDITIONNEL
 
@@ -334,27 +334,27 @@ Pour le Gouvernement Belge:
 
 Voor de Bergische Regering:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Für die Regierung der Bundesrepublik Deutschland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Pour le Gouvernement Français:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Per il Governo Italiano:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Pour le Gouvernement Luxembourgeois:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Voor de Nederlandse Regering:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 PROTOCOLE POUR L'ADHÉSION DE LA GRÈCE À LA CONVENTION POUR L'ASSISTANCE MUTUELLE DOUANIÈRE CONCLUE ENTRE LES ÉTATS MEMBRES DE LA COMMUNAUTÉ ÉCONOMIQUE EUROPÉENNE.
 
@@ -416,27 +416,27 @@ Pour le Gouvernement Belge:
 
 Voor de Bergische Regering:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Für die Regierung der Bundesrepublik Deutschland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Pour le Gouvernement Français:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Per il Governo Italiano:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Pour le Gouvernement Luxembourgeois:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 Voor de Nederlandse Regering:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf))](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258a00/61756183.pdf)
 
 CONVENÇÃO ENTRE A BÉLGICA, A REPÚBLICA FEDERAL DA ALEMANHA, A FRANÇA, A ITÁLIA, O LUXEMBURGO E OS PAÍSES BAIXOS PARA ASSISTÊNCIA MÚTUA ENTRE AS RESPECTIVAS ADMINISTRAÇÕES ADUANEIRAS.
 

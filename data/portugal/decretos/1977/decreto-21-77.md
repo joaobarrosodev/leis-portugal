@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/21-1977-141619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6d1251648c39f3e576cda7333c06ef1656e530718750492b197078585aae76d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbe173950325c6ad92cff2b5d382056489f06ff2056fd5e75b112fc967180ca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Emigração
+- França
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:121579606:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:121579606:por
+  label: Determinada a cessação da vigência do art. 37.º do Acordo entre o Governo Português e o Governo Francês relativo
+    à Imigração, à Situação e à Promoção Social dos Trabalhadores Portugueses e de Suas Famílias em França pelo(a) Decreto
+    n.º 9/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26, com a entrada em vigor do respetivo Acordo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/9-2019-121579606
+  date: '2019-03-26'
+- type: corrected_by
+  target: pt:dre:289217:por
+  label: "Rectificado e publicado o anexo IV (b) pela RECT.DD127.31.03.1977.PCM, DR.IS [76]3ºSupl de 31.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-289217
+  date: '1977-03-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:00Z'
   warnings: []
   errors: []
 ---
@@ -95,15 +111,15 @@ Considerando os princípios já acordados entre o Governo Português e o Governo
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo Português e o Governo Francês Relativo à Imigração, à Situação e à Promoção Social dos Trabalhadores Portugueses e de Suas Famílias em França, assinado em Lisboa em 11 de Janeiro de 1977, cujo texto em português se transcreve a seguir e que faz parte integrante do presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo Português e o Governo Francês Relativo à Imigração, à Situação e à Promoção Social dos Trabalhadores Portugueses e de Suas Famílias em França, assinado em Lisboa em 11 de Janeiro de 1977, cujo texto em português se transcreve a seguir e que faz parte integrante do presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 16 de Fevereiro de 1977.**
+Assinado em 16 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo entre o Governo Português e o Governo da República Francesa Relativo à Imigração, à Situação e à Promoção Social dos Trabalhadores Portugueses e de Suas Famílias em França.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 302/1977, 4º Suplemento, Série I de 1977-12-31
   number: '302'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3178-(51) a 3178-(53)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30204/00510053.pdf
 entry_into_force_dates: []
@@ -47,36 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/189-1977-404679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:46:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13ac4352040c5c1d76eb386e5d18b97fe739d90bc8a26e4906c4da81511bfc3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72c307e51124d307ae5171c0ff468e4997f4f59a963e02a806f446f321967bd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:46:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Gestão Financeira
+- Gestão Orçamental
+- Liquidação de Despesas
+- Pagamento
+relationships:
+- type: cites
+  target: pt:dre:141641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:447930:por
+  label: Retificado o art. 1.º do presente diploma pelo(a) Declaração - Diário da República n.º 19/1978, Série I de 1978-01-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-447930
+  date: '1978-01-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:46:41Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +117,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -159,9 +187,9 @@ Encargo do ano de 1976 respeitante a locação de bens dos serviços afectos à 
 
 ... 1158726$10
 
-###### Art. 2.º Fica igualmente autorizada a 1.ª Delegação da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta das dotações do actual orçamento da Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea do cap. 09, div. 01, C. E. 38.00 e cap. 1.º, div. 01, C. E. 38.00, do orçamento suplementar de Defesa - Infra-estruturas Comuns - Nato, a importância de 638051$50, dos anos de 1975 e 1976 e respeitante ao reembolso do imposto de transacção à firma Nova Organização de Obras Públicas e Cimento Armado, Lda.
+Art. 2.º Fica igualmente autorizada a 1.ª Delegação da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta das dotações do actual orçamento da Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea do cap. 09, div. 01, C. E. 38.00 e cap. 1.º, div. 01, C. E. 38.00, do orçamento suplementar de Defesa - Infra-estruturas Comuns - Nato, a importância de 638051$50, dos anos de 1975 e 1976 e respeitante ao reembolso do imposto de transacção à firma Nova Organização de Obras Públicas e Cimento Armado, Lda.
 
-###### Art. 3.º Ficam também autorizados a satisfazer as quantias seguidamente indicadas pelas verbas de despesas de anos findos, dos seus actuais orçamentos privativos, os seguintes serviços:
+Art. 3.º Ficam também autorizados a satisfazer as quantias seguidamente indicadas pelas verbas de despesas de anos findos, dos seus actuais orçamentos privativos, os seguintes serviços:
 
 Gabinete do Plano do Zambeze
 
@@ -193,8 +221,8 @@ Despesas dos anos de 1969 a 1976 referentes ao pagamento de descontos para a Cai
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Firmino Miguel - António Francisco Barroso de Sousa Gomes - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira - António Miguel Morais Barreto - Alfredo Jorge Nobre da Costa - Carlos Alberto da Mota Pinto - António Manuel Maldonado Gonelha - Mário Augusto Sottomayor Leal Cardia - Armando Bacelar - Emílio Rui da Veiga Peixoto Vilar - João Orlindo de Almeida Pina - Eduardo Ribeiro Pereira.
 
-**Promulgado em 31 de Dezembro de 1977.**
+Promulgado em 31 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

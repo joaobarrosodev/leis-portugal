@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/33/1995/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d539233488c6604107c58fd408ecca5a7d00f34aa297870cb9a6d4fdcab9e1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4673603743b7243d40fcd05bb480faac5497d1ccc60fb56cc92fa4c999cacb6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Berna
 - Convenção
 - Portugal
 - Segurança Social
-- Berna
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:506057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 30
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:51Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +94,17 @@ de 31 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Adicional à Convenção sobre Segurança Social entre Portugal e a Suíça, aprovada para ratificação pelo [Decreto n.º 30/76](https://diariodarepublica.pt/dr/detalhe/decreto/30-1976-506057), de 16 de Janeiro, assinado em Berna, a 11 de Maio de 1994, cujo texto original nas línguas portuguesa e francesa segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Adicional à Convenção sobre Segurança Social entre Portugal e a Suíça, aprovada para ratificação pelo [Decreto n.º 30/76](https://diariodarepublica.pt/dr/detalhe/decreto/30-1976-506057), de 16 de Janeiro, assinado em Berna, a 11 de Maio de 1994, cujo texto original nas línguas portuguesa e francesa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1995. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha.
 
-**Assinado em 8 de Agosto de 1995.**
+Assinado em 8 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1995.**
+Referendado em 10 de Agosto de 1995.
 
 Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.
 

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/56/2003/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/56-2003-423651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a78fdb0518c5d608f2daaed491a63c3943431350034654cdd6aacdb500ec647
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28c18ff71af2f4829e5b8cd55e138612d12dbb90cb96f7b17c46448df1c0e9e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
 - Convenção
-- Portugal
-- Lisboa
+- Família
 - Funcionário Diplomático
-- Pessoal Consular
+- Lisboa
 - Missão Diplomática
 - Pessoal Administrativo
 - Pessoal Auxiliar
+- Pessoal Consular
 - Pessoal de Chefia
 - Pessoal Diplomático
 - Pessoal Técnico
+- Portugal
 - Trabalho Remunerado
 - Turquia
 relationships: []
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:17Z'
   warnings: []
   errors: []
 ---
@@ -109,15 +109,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 6 de Novembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria da Graça Martins da Silva Carvalho - António José de Castro Bagão Félix.
 
-**Assinado em 25 de Novembro de 2003.**
+Assinado em 25 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Dezembro de 2003.**
+Referendado em 6 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA TURQUIA SOBRE O EMPREGO DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, ADMINISTRATIVO E TÉCNICO ENVIADOS OFICIALMENTE PELOS GOVERNOS DA REPÚBLICA PORTUGUESA E DA REPÚBLICA DA TURQUIA PARA SERVIREM, RESPECTIVAMENTE NA TURQUIA E EM PORTUGAL, NA EMBAIXADA, POSTOS CONSULARES E MISSÕES ACREDITADAS JUNTO DE ORGANIZAÇÕES INTERNACIONAIS.
 

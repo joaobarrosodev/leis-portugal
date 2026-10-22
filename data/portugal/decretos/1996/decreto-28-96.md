@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/28/1996/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1996-219675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 695a51142ff474b08cc0a73a549b5ab25821620721f7970b6290db2b79f05aba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3bedcaa7a06c28f0192ad107b01122a2b74905c25fc75b4292835141f8c7240
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Residência de Estrangeiros
+- Admissão de Estrangeiros
 - Convenção
-- Portugal
 - Funcionário Diplomático
 - Missão Diplomática
-- Pessoal Diplomático
 - Passaporte
+- Pessoal Diplomático
+- Portugal
+- Residência de Estrangeiros
 - Tunes
-- Admissão de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:321498:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:321498:por
+  label: "Rectificado pela DECL-RECT.15-B/96.1996.10.23.PCM, DR.IS-A [253]SUPL de 31/Out/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-b-1996-321498
+  date: '1996-10-23'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:23Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +115,15 @@ O disposto no Acordo referido no artigo anterior não dispensa o cumprimento pr�
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1996. - António Manuel de Carvalho Ferreira Vitorino - José Alberto Rebelo dos Reis Lamego - Alberto Bernardes Costa.
 
-**Assinado em 26 de Agosto de 1996.**
+Assinado em 26 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Agosto de 1996.**
+Referendado em 30 de Agosto de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO DE SUPRESSÃO DE VISTOS PARA TITULARES DE PASSAPORTES DIPLOMÁTICOS E DE SERVIÇO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA TUNISINA.
 
@@ -180,7 +185,7 @@ Pela República Tunisina:
 
 Habib Ben y Ahia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/214a00/32023204.pdf))](https://files.diariodarepublica.pt/1s/1996/09/214a00/32023204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/214a00/32023204.pdf)
 
 ACCORD DE SUPPRESSION DE VISA POUR LES DETENTEURS DE PASSEPORTS DIPLOMATIQUES ET DE SERVICE ENTRE LA REPUBLIQUE TUNISIENNE ET LA REPUBLIQUE PORTUGAISE.
 

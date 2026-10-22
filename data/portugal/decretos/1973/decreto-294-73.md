@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/294-1973-422807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeefcf6b13bbcdc86e27d1856c6264e0fc00fb9b2007b94a5c19b2de557c2424
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb2f32cbac6f8e1bede7a911506df304e393497cfc7c08cbdcf4456f720dc607
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:390609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668919:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:02Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +103,14 @@ Nestes termos, ao abrigo do artigo 7.º do [Decreto-Lei n.º 38884](https://diar
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os cursos de especialização obstétrica que são professados na escola de enfermagem do antigo Centro de Saúde e Assistência Materno-Infantil do Dr. Bissaia Barreto passam a ser professados na Escola de Enfermagem de Bissaia Barreto a partir do início do ano lectivo de 1973-1974.
+Artigo 1.º Os cursos de especialização obstétrica que são professados na escola de enfermagem do antigo Centro de Saúde e Assistência Materno-Infantil do Dr. Bissaia Barreto passam a ser professados na Escola de Enfermagem de Bissaia Barreto a partir do início do ano lectivo de 1973-1974.
 
-###### Art. 2.º É revogado o artigo 4.º do [Decreto n.º 47884](https://diariodarepublica.pt/dr/detalhe/decreto/47884-1967-390609), de 31 de Agosto de 1967.
+Art. 2.º É revogado o artigo 4.º do [Decreto n.º 47884](https://diariodarepublica.pt/dr/detalhe/decreto/47884-1967-390609), de 31 de Agosto de 1967.
 
 Marcello Caetano-Baltasar Leite Rebelo de Sousa - Alfredo Jorge Assis dos Santos.
 
-**Promulgado em 24 de Maio de 1973.**
+Promulgado em 24 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

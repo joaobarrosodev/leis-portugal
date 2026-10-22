@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/21/1993/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/21-1993-268421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f059c8b09ed0d44701977e4df0427c41d9613bd3df2223f992177e7aa7cc5d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75cefeb13248ca7c1cc0e167a1a8abb79e9cd2c509d430a05f6e4f015bceac63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- ONU
-- Diversidade Biológica
 - Conferência ONU
+- Convenção
+- Diversidade Biológica
+- ONU
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:106589745:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534631:por
+  label: "Estendida ao Território de Macau a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.138/99.1999.04.22.PR,\
+    \ DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/138-1999-534631
+  date: '1999-04-22'
+- type: amended_by
+  target: pt:dre:106589745:por
+  label: Aprovado o Protocolo de Nagoya sobre o acesso a recursos genéticos e a partilha justa e equitativa dos benefícios
+    provenientes da sua utilização relativo à Convenção sobre a Diversidade Biológica aprovada pelo presente Decreto, pelo(a)
+    Decreto n.º 7/2017 - Diário da República n.º 51/2017, Série I de 2017-03-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/7-2017-106589745
+  date: '2017-03-13'
 article_structure:
-  article_count: 66
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 65
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:24Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +108,19 @@ de 21 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção sobre a Diversidade Biológica, adoptada, em 20 de Maio de 1992, pelo Comité Intergovernamental de Negociação, instituído pela Assembleia Geral das Nações Unidas, e aberta à assinatura em 5 de Junho de 1992, na Conferência das Nações Unidas sobre Ambiente e Desenvolvimento, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção sobre a Diversidade Biológica, adoptada, em 20 de Maio de 1992, pelo Comité Intergovernamental de Negociação, instituído pela Assembleia Geral das Nações Unidas, e aberta à assinatura em 5 de Junho de 1992, na Conferência das Nações Unidas sobre Ambiente e Desenvolvimento, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1993. - Aníbal António Cavaco Silva - Domingos Manuel Martins Jerónimo - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 26 de Maio de 1993.**
+Promulgado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION ON BIOLOGICAL DIVERSITY
 
@@ -1331,7 +1344,7 @@ O secretariado a estabelecer pelo director executivo do Programa das Nações Un
 
 ###### Artigo 41.º — Depositário
 
-**O Secretário-Geral das Nações Unidas deverá assumir as funções de depositário desta Convenção e de qualquer protocolo.**
+O Secretário-Geral das Nações Unidas deverá assumir as funções de depositário desta Convenção e de qualquer protocolo.
 
 ###### Artigo 42.º — Textos autênticos
 
@@ -1349,7 +1362,9 @@ Rio de Janeiro, 5 de Junho de 1992.
 
 3 - Genomas e genes descritos e com importância social, científica ou económica.
 
-## ANEXO II — PARTE 1
+## ANEXO II
+
+## PARTE 1
 
 Arbitragem
 
@@ -1431,7 +1446,7 @@ A decisão final deverá ser acatada pelas Partes do diferendo, excepto se aquel
 
 Qualquer discordância que surja entre as Partes do diferendo sobre a interpretação ou execução da decisão final poderá ser submetida para decisão por qualquer das Partes ao tribunal arbitral que proferiu a decisão final.
 
-# PARTE 2 — Conciliação
+## PARTE 2 — Conciliação
 
 ###### Artigo 1.º
 

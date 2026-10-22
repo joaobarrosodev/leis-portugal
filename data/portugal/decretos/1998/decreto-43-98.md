@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/43/1998/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43-1998-234091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:09:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1b798c2d2560975d071929cf805d3ce869721582b4d2b2b1970c82c194d4fc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbe3e1b3bffd35a9cf13be5125b4c7eed26e60846179fcfbf0d1978d76965610
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:09:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Convenção
-- Portugal
-- Lisboa
 - Droga
+- Lisboa
+- Portugal
+- Produto Químico
 - Uruguai
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:09:16Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1998. - António Manuel de Oliveira Guterres - Francisco Manuel Seixas da Costa - José Eduardo Vera Cruz Jardim.
 
-**Assinado em 22 de Outubro de 1998.**
+Assinado em 22 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Outubro de 1998.**
+Referendado em 28 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONVÉNIO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA ORIENTAL DO URUGUAI PARA A PREVENÇÃO DO USO INDEVIDO E REPRESSÃO DO TRÁFICO ILÍCITO DE ESTUPEFACIENTES E SUBSTÂNCIAS PSICOTRÓPICAS E SEUS PRECURSORES E PRODUTOS QUÍMICOS ESSENCIAIS.
 
@@ -126,13 +126,13 @@ Conscientes da importância de desenvolverem uma colaboração recíproca para a
 
 acordam o seguinte:
 
-Artigo I
+###### Artigo I
 
 As Partes, com base no respeito pelas normas constitucionais, legais e regulamentares vigentes nos seus respectivos países, bem como pelos direitos inerentes à soberania de ambos os Estados, propõem-se harmonizar políticas e realizar programas para a educação e a prevenção do uso indevido de drogas, o tratamento e a reabilitação de toxicodependentes, o combate à produção e ao tráfico ilícito de estupefacientes e substâncias psicotrópicas, bem como os seus precursores e produtos químicos essenciais.
 
 As políticas e programas antes mencionados levarão em atenção as convenções internacionais em vigor para ambos os países.
 
-Artigo II
+###### Artigo II
 
 A cooperação a que se refere o presente Convénio compreenderá:
 
@@ -162,17 +162,17 @@ l) Assistência judicial recíproca sobre branqueamento de dinheiro e de activos
 
 m) Zelar pela rapidez dos procedimentos sempre que uma das Partes solicite à outra assistência jurídica, bem como as notificações e cartas rogatórias emitidas pelas autoridades judiciais no âmbito dos processos judiciais movidos contra traficantes individuais ou associados, ou contra quem viole as leis de combate ao uso indevido e ao tráfico ilícito de estupefacientes e de substâncias psicotrópicas, seus precursores e produtos químicos específicos, de acordo com o ordenamento jurídico de cada país.
 
-Artigo III
+###### Artigo III
 
 Para alcançar os objectivos e concretizar a coordenação de acções do presente Convénio, as Partes acordam criar uma Comissão Mista Luso-Uruguaia de Cooperação contra o Narcotráfico e a Toxicodependência, adiante denominada «a Comissão Mista».
 
-Artigo IV
+###### Artigo IV
 
 A Comissão Mista será integrada pelas autoridades competentes das Partes, que serão, pela República Portuguesa, a Polícia Judiciária, o Projecto VIDA - Programa Nacional de Prevenção da Toxicodependência -, o Gabinete de Planeamento e Coordenação do Combate à Droga e o Ministério dos Negócios Estrangeiros, que será a entidade coordenadora, e pela República Oriental do Uruguai, a Junta Nacional de Prevenção e Repressão do Tráfico Ilícito e Uso Abusivo de Drogas, e as demais que para tal efeito se designem.
 
 As autoridades competentes de ambas as Partes poderão solicitar às instituições públicas e privadas dos seus respectivos Estados cuja actividade esteja relacionada com a matéria do presente Convénio que prestem a assessoria especializada, a assistência e o apoio técnico havidos por convenientes.
 
-Artigo V
+###### Artigo V
 
 A Comissão Mista terá as seguintes atribuições:
 
@@ -192,15 +192,15 @@ No desempenho da sua função principal, a Comissão Mista levará a cabo outras
 
 Durante as reuniões, a Comissão Mista aprovará por mútuo acordo os seus relatórios e todas as suas recomendações e decisões.
 
-Artigo VI
+###### Artigo VI
 
 Para conhecimento das Partes, a Comissão Mista elaborará anualmente um relatório sobre a aplicação do presente Convénio, no qual contemplará o estado da cooperação ao nível das acções contra o narcotráfico e a toxicodependência.
 
-Artigo VII
+###### Artigo VII
 
 O presente Convénio entrará em vigor a partir da última data em que as Partes se comuniquem, por via diplomática, o cumprimento dos seus requisitos internos constitucionais para tal efeito.
 
-Artigo VIII
+###### Artigo VIII
 
 O presente Convénio terá uma vigência indefinida e poderá ser denunciado pelas Partes mediante notificação escrita, por via diplomática; a denúncia produzirá efeitos 90 dias após a data da notificação.
 

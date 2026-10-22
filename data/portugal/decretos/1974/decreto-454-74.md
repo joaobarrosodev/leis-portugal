@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/454-1974-473771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:34:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 214abffe853fa7fd048e88561b74109cf4f9492cca799166a3f8d35888804af8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57bb7b360ffc3aeec5ee936e98112164c7dacff0284b06982e8a15783d3ad5bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:34:39Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +96,19 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pela primeira parte do n.º 4.º do n.º 1 do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 15073945$90, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 15073945$90, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 17.º «Despesas comuns»:
+Capítulo 17.º «Despesas comuns»:
 
 Despesas militares em harmonia com compromissos tomados internacionalmente
 
-###### Artigo 566.º «Bens duradouros» ... 732590$20
+Artigo 566.º «Bens duradouros» ... 732590$20
 
 Forças militares extraordinárias no ultramar
 
-###### Artigo 577.º «Bens duradouros» ... 1396355$70
+Artigo 577.º «Bens duradouros» ... 1396355$70
 
 ... 2128945$90
 
@@ -108,19 +116,19 @@ Ministério das Obras Públicas
 
 Secretaria de Estado das Obras Públicas
 
-### Capítulo 7.º «Direcção-Geral dos Serviços Hidráulicos»:
+Capítulo 7.º «Direcção-Geral dos Serviços Hidráulicos»:
 
 Exploração e conservação de obras hidroagrícolas
 
-###### Artigo 144.º «Bens não duradouros», n.º 2 «Consumos de secretaria» ... 20000$00
+Artigo 144.º «Bens não duradouros», n.º 2 «Consumos de secretaria» ... 20000$00
 
-###### Artigo 145.º «Conservação e aproveitamento de bens» ... 1600000$00
+Artigo 145.º «Conservação e aproveitamento de bens» ... 1600000$00
 
 ... 1620000$00
 
 Ministério da Economia
 
-### Capítulo 40.º-A «Comissão de Apoio às Pequenas e Médias Empresas (artigo 15.º do [Decreto-Lei n.º 217/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620), de 27 de Maio, e despacho de 31 seguinte, publicado no Diário do Governo, 1.ª série, de 7 de Junho de 1974)»:
+Capítulo 40.º-A «Comissão de Apoio às Pequenas e Médias Empresas (artigo 15.º do [Decreto-Lei n.º 217/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620), de 27 de Maio, e despacho de 31 seguinte, publicado no Diário do Governo, 1.ª série, de 7 de Junho de 1974)»:
 
 Indústria
 
@@ -128,36 +136,36 @@ Apoio às pequenas e médias empresas
 
 Despesas correntes:
 
-###### Artigo 933.º-A «Outras despesas correntes»:
+Artigo 933.º-A «Outras despesas correntes»:
 
 N.º 1 «Diversas» ... 8000000$00
 
 Ministério das Corporações e Segurança Social
 
-### Capítulo 9.º «Despesas comuns»:
+Capítulo 9.º «Despesas comuns»:
 
-###### Artigo 168.º «Despesas de anos findos» ... 3325000$00
+Artigo 168.º «Despesas de anos findos» ... 3325000$00
 
 ... 15073945$90
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos da previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos da previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 5.º, grupo 1, artigo 88.º «Fundos autónomos» ... 11325000$00
+Capítulo 5.º, grupo 1, artigo 88.º «Fundos autónomos» ... 11325000$00
 
-### Capítulo 7.º, grupo 7, artigo 106.º «Serviços hidroagrícolas - Obras de fomento» ... 1620000$00
+Capítulo 7.º, grupo 7, artigo 106.º «Serviços hidroagrícolas - Obras de fomento» ... 1620000$00
 
-### Capítulo 14.º, artigo 164.º «Reposições não abatidas nos pagamentos» ... 2128945$90
+Capítulo 14.º, artigo 164.º «Reposições não abatidas nos pagamentos» ... 2128945$90
 
 ... 15073945$90
 
 Vasco dos Santos Gonçalves - Mário Firmino Miguel - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar - José Augusto Fernandes - José Inácio da Costa Martins.
 
-**Promulgado em 2 de Setembro de 1974.**
+Promulgado em 2 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

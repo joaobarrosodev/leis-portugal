@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/58-1980-470250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5156e6098da6fc4c2eb70de9e10aa09ecf7d2f09c256df2f9c2d451b36cec20f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52b5bf671e91f54a337a7310f5afb82d7a42660d6e6e0e737c7bd87550db404c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Documentação Administrativa
+- Modernização Administrativa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:44Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 1 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Europeia sobre a Obtenção no Estrangeiro de Informações e Provas em Matéria Administrativa, aberta para assinatura a 15 de Março de 1978, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção Europeia sobre a Obtenção no Estrangeiro de Informações e Provas em Matéria Administrativa, aberta para assinatura a 15 de Março de 1978, cujo texto original e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 8 de Julho de 1980.**
+Assinado em 8 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Convention européene sur l'obtention à l'étranger d'informations et de preuves on matière administrative
 
@@ -637,7 +641,7 @@ A pedido de qualquer dos Estados Contratantes ou após o terceiro ano que se seg
 
 ###### ARTIGO 29.º — Funções do depositário da Convenção
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados Membros do Conselho da Europa e todos os Estados que tenham aderido à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notificará os Estados Membros do Conselho da Europa e todos os Estados que tenham aderido à presente Convenção:
 
 a) De qualquer assinatura;
 

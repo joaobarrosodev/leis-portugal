@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-1980-475155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:55:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb2a83a6cdd1c57b79ce28a5b7412ccf57e4016392bc678dae7363df2b7763ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f068fb2213c4dfc67b9bcac2a7c9a2b02b48e40a24cd5ba7ae1c4f3f2b20e8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- Senegal
+- Turismo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:55:14Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 30 de Abril
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o protocolo adicional ao Acordo Comercial entre o Governo da República Portuguesa e o Governo da República do Senegal, assinado em Dacar, em 21 de Fevereiro de 1980, cujo texto em francês e respectiva tradução para português acompanham o presente Acordo.
+Artigo único. É aprovado o protocolo adicional ao Acordo Comercial entre o Governo da República Portuguesa e o Governo da República do Senegal, assinado em Dacar, em 21 de Fevereiro de 1980, cujo texto em francês e respectiva tradução para português acompanham o presente Acordo.
 
 Visto e aprovado em Conselho de Ministros em 1 de Abril de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
 
-**Assinado em 12 de Abril de 1980.**
+Assinado em 12 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Protocole additionnel à l'Accord commercial entre le Gouvernement de la République du Sénégal et le Gouvernement de la République portugaise.
 

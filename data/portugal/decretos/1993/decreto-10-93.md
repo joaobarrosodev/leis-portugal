@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/10/1993/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1993-638916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60b27433399675cbcd33c1d981b9963e8711f6eb3674e40cbfd91ed111084524
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ed787de63bc3cbd3c6c7fd501d8d4b03fcae5b2e097883536a27dbd7919eb5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Política de Solos
 - Propriedade do Estado
 - Rio Sado
-- Política de Solos
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:306646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411828:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:14Z'
   warnings: []
   errors: []
 ---
@@ -95,24 +103,24 @@ Assim:
 
 Nos termos do n.º 3 do artigo 5.º do [Decreto-Lei n.º 48784](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48784-1968-306646), de 21 de Dezembro de 1968, e da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Revertem para o domínio público do Estado os terrenos do estuário do rio Sado, representados na planta anexa, limitados a norte pelo paralelo 38º29'10''N., a oeste pelo meridiano 8º46'42''W. de Greenwich, a leste pelo meridiano 8º46'21''W. de Greenwich e a sul pelo paralelo 38º28'15''N.
+Artigo 1.º Revertem para o domínio público do Estado os terrenos do estuário do rio Sado, representados na planta anexa, limitados a norte pelo paralelo 38º29'10''N., a oeste pelo meridiano 8º46'42''W. de Greenwich, a leste pelo meridiano 8º46'21''W. de Greenwich e a sul pelo paralelo 38º28'15''N.
 
-###### Art. 2.º É revogado o [Decreto n.º 147/74](https://diariodarepublica.pt/dr/detalhe/decreto/147-1974-411828), de 11 de Abril.
+Art. 2.º É revogado o [Decreto n.º 147/74](https://diariodarepublica.pt/dr/detalhe/decreto/147-1974-411828), de 11 de Abril.
 
 Presidência do Conselho de Ministros, 8 de Fevereiro de 1993.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Assinado em 22 de Fevereiro de 1993.**
+Assinado em 22 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Fevereiro de 1993.**
+Referendado em 24 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Planta anexa a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/069b00/14471447.pdf))](https://files.diariodarepublica.pt/1s/1993/03/069b00/14471447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/069b00/14471447.pdf)

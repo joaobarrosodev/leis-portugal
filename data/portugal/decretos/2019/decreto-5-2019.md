@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/02/03300/0125601258.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/2019/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-2019-119622095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c154f86c85e5c859261ef69fedf70b87ad221c097dbf375a106a5a3bb1cab49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6a9ac77190ba95e50f6dd1c11db278ea8e704715331db496c7b2592eedce1f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Convenção
-- Portugal
-- Lisboa
 - Guiné-Bissau
+- Lisboa
+- Portugal
+- Turismo
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:20Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 31 de janeiro de 2019. - António Luís Santos da Costa - Ana Paula Baptista Grade Zacarias - Pedro Gramaxo de Carvalho Siza Vieira.
 
-**Assinado em 6 de fevereiro de 2019.**
+Assinado em 6 de fevereiro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de fevereiro de 2019.**
+Referendado em 11 de fevereiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU NO DOMÍNIO DO TURISMO
 
@@ -180,7 +180,7 @@ O presente Acordo entrará em vigor trinta dias após a data da receção da seg
 
 A Parte em cujo território o presente Acordo for assinado, submetê-lo-á para registo junto do Secretariado das Nações Unidas, imediatamente após a sua entrada em vigor, nos termos do artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar-lhe o número de registo atribuído.
 
-**Assinado em Lisboa, a 2 de março de 2016, em dois originais na língua portuguesa, fazendo ambos os textos igualmente fé.**
+Assinado em Lisboa, a 2 de março de 2016, em dois originais na língua portuguesa, fazendo ambos os textos igualmente fé.
 
 Pela República Portuguesa:
 
@@ -189,3 +189,5 @@ Manuel Caldeira Cabral, Ministro da Economia.
 Pela República da Guiné-Bissau:
 
 Malam Jaura, Ministro do Turismo e do Artesanato.
+
+112057363

@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/388-1976-426929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:42:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a084b85d7e91c3a5da6cfea87d570454dd4dbb8667663858a82bcfadcede5154
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27223648ffe6ac5a749bb2b8d9ef3acdddf4dd0f082016ddfac6b281f93178a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contravenção
+- Expropriação
+- Fiscalização
+- Fundo de Fomento da Habitação
+- Multa
+- Ordenamento do Território
+- Reserva Natural
+- Reserva Paisagística de Almada
+relationships:
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:42:05Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +104,9 @@ A potencialidade dos aluviões do vale para a cultura de regadio, a compartiment
 
 No seguimento da declaração de expropriação sistemática publicada no Diário do Governo, de 30 de Outubro de 1974 e usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Por força do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, é criada a reserva paisagística de Almada.
+Artigo 1.º Por força do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, é criada a reserva paisagística de Almada.
 
-###### Art. 2.º - 1. A área englobada na reserva é limitada:
+Art. 2.º - 1. A área englobada na reserva é limitada:
 
 A norte e poente - pela via rápida de Almada-Costa da Caparica.
 
@@ -104,7 +116,7 @@ A sul - pela estrada nacional n.º 10-1, na extensão que vai desde a via rápid
 
 2. Os limites da área descrita no número anterior vão demarcados na carta corográfica anexa ao presente decreto e que dele faz parte integrante.
 
-###### Art. 3.º - 1. O ordenamento da reserva será estabelecido num plano de ordenamento aprovado pelo Secretário de Estado do Ambiente.
+Art. 3.º - 1. O ordenamento da reserva será estabelecido num plano de ordenamento aprovado pelo Secretário de Estado do Ambiente.
 
 2. Fica desde já aprovada, para entrar em vigor com o presente decreto, a carta de zonamento de ele anexa, a qual tem por efeito estabelecer imperativamente a aptidão das diferentes áreas da reserva.
 
@@ -120,7 +132,7 @@ II - Se o acabamento das paredes for em reboco pintado, só poderá ser utilizad
 
 c) Edifícios e conjuntos arquitectónicos de interesse cultural. - Nestes edifícios e conjuntos arquitectónicos não poderão ser efectivadas quaisquer obras sem autorização da Secretaria de Estado do Ambiente, sem prejuízo das demais autorizações legalmente exigidas.
 
-###### Art. 4.º - 1. Fica dependente de autorização da Secretaria de Estado do Ambiente a realização dos seguintes trabalhos ou obras dentro da área da reserva ou quando com ela interfiram:
+Art. 4.º - 1. Fica dependente de autorização da Secretaria de Estado do Ambiente a realização dos seguintes trabalhos ou obras dentro da área da reserva ou quando com ela interfiram:
 
 a) Construção, reconstrução, ampliação ou demolição de edifícios ou outras instalações;
 
@@ -138,7 +150,7 @@ g) A plantação de povoamentos florestais.
 
 2. A autorização a que se refere o número anterior não dispensa quaisquer outros condicionamentos legalmente exigidos.
 
-###### Art. 5.º - 1. aplicável às obras e trabalhos efectuados com inobservância do preceituado no artigo anterior o disposto no artigo 5.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730).
+Art. 5.º - 1. aplicável às obras e trabalhos efectuados com inobservância do preceituado no artigo anterior o disposto no artigo 5.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730).
 
 2. Ficam sujeitas a expropriação todas as parcelas da área regulamentada como agrícola nas quais tenha havido a modificação do uso agrícola, com ou sem plano anteriormente aprovado.
 
@@ -150,7 +162,7 @@ g) A plantação de povoamentos florestais.
 
 6. São nulas as licenças municipais concedidas com violação do regime instituído neste diploma.
 
-###### Art. 6.º Constitui contravenção:
+Art. 6.º Constitui contravenção:
 
 a) A realização, total ou parcial, de quaisquer trabalhos, obras ou actividades na área da reserva ou que com ela interfiram, sem as competentes autorizações ou que sejam contrárias ao disposto neste diploma ou demais normas aplicáveis às condições impostas nos actos de autorização ou aos projectos aprovados;
 
@@ -166,7 +178,7 @@ f) A destruição de vegetação;
 
 g) O depósito de materiais ou qualquer outra alteração de relevo.
 
-###### Art. 7.º - 1. As contravenções previstas no artigo anterior são punidas com multas:
+Art. 7.º - 1. As contravenções previstas no artigo anterior são punidas com multas:
 
 a) De 1000$00 a 10000$00, as das alíneas a), b), d), g) e a instalação de locais de campismo prevista na alínea c);
 
@@ -176,24 +188,24 @@ c) De 200$00 a 1000$00, as das alíneas e) e f).
 
 2. A aplicação da multa pelas contravenções previstas nas alíneas a) e g) do artigo anterior não prejudica a obrigação de o infractor demolir as obras ou trabalhos efectuados, quando não sejam posteriormente autorizados.
 
-###### Art. 8.º - 1. As funções de polícia e fiscalização da reserva competem às autoridades com jurisdição na área da reserva.
+Art. 8.º - 1. As funções de polícia e fiscalização da reserva competem às autoridades com jurisdição na área da reserva.
 
 2. Os autos de notícia por infracção ao disposto no presente decreto serão levantados e processados nos termos dos artigos 166.º e 167.º do Código de Processo Penal.
 
 3. O produto das multas previstas no artigo anterior reverterá em favor da câmara municipal do concelho onde a infracção havia sido praticada.
 
-###### Art. 9.º Serão aprovados por portaria do Secretário de Estado do Ambiente os sinais indicativos de proibição, permissões e de condicionamento previsto neste decreto, para os quais não existam já modelos legalmente estabelecidos.
+Art. 9.º Serão aprovados por portaria do Secretário de Estado do Ambiente os sinais indicativos de proibição, permissões e de condicionamento previsto neste decreto, para os quais não existam já modelos legalmente estabelecidos.
 
-###### Art. 10.º As dúvidas suscitadas pelo presente decreto e pela carta de zonamento anexa serão resolvidas por despacho do Secretário de Estado do Ambiente.
+Art. 10.º As dúvidas suscitadas pelo presente decreto e pela carta de zonamento anexa serão resolvidas por despacho do Secretário de Estado do Ambiente.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - Eduardo Ribeiro Pereira - Artur Eduardo Brochado dos Santos Silva.
 
-**Promulgado em 3 de Maio de 1976.**
+Promulgado em 3 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/12100/11621164.pdf))](https://files.diariodarepublica.pt/1s/1976/05/12100/11621164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/12100/11621164.pdf)
 
-**O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.**
+O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.

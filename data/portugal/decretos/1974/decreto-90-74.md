@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 55/1974, 1º Suplemento, Série I de 1974-03-06
   number: '55'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 320-(25) a 320-(49)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/05501/00250049.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/90-1974-498283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a7e9777e79aaf610a1f9261c2fb62dad09f7ff9b123fedc6c97fb1f18c3b417
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80173eb0b28b501cf31f9c72dca8adbdad755138fddcd6a09505ad8c325f2290
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:52Z'
   warnings: []
   errors: []
 ---
@@ -101,23 +133,23 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação do Estado de Angola, um contrato de concessão, de acordo com o texto anexo ao presente decreto, com as sociedades afiliadas das Amerada Hess Corporation, Sun Oil International Inc. e Cities Service International Inc., para o efeito constituídas, nos termos do artigo 5.º do mesmo texto, que é aprovado para todos os efeitos, dele fica fazendo parte integrante e baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º - 1. É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação do Estado de Angola, um contrato de concessão, de acordo com o texto anexo ao presente decreto, com as sociedades afiliadas das Amerada Hess Corporation, Sun Oil International Inc. e Cities Service International Inc., para o efeito constituídas, nos termos do artigo 5.º do mesmo texto, que é aprovado para todos os efeitos, dele fica fazendo parte integrante e baixa assinado pelo Ministro do Ultramar.
 
 2. A concessão será dada às três citadas sociedades conjuntamente, de forma que cada uma adquira na mesma uma participação indivisa em todos os seus direitos, sujeitando-se solidariamente às inerentes obrigações.
 
 3. No prazo de noventa dias após a transferência mencionada no n.º 1 do artigo 5.º do texto anexo a este decreto, as sociedades submeterão à aprovação do Ministro do Ultramar acordo regulador das suas relações e operações.
 
-###### Art. 2.º O contrato de concessão deverá ser assinado dentro de sessenta dias, contados a partir da data da publicação deste decreto.
+Art. 2.º O contrato de concessão deverá ser assinado dentro de sessenta dias, contados a partir da data da publicação deste decreto.
 
-###### Art. 3.º Este decreto entra imediatamente em vigor.
+Art. 3.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 1 de Março de 1974.**
+Promulgado em 1 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - B. Rebelo de Sousa.
 
@@ -539,7 +571,7 @@ d) A formação e a especialização do pessoal português, nos termos do n.º 1
 
 7. Excepto nos casos devidamente justificados pelas sociedades, que mereçam acordo do Governo, considerar-se-á como poço comercial aquele que, nos ensaios de produção, se encontrar incluído nas condições seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/05501/00250049.pdf))](https://files.diariodarepublica.pt/1s/1974/03/05501/00250049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/05501/00250049.pdf)
 
 8. Quando não for tecnicamente viável ou económico efectuar testes por um período mínimo de vinte dias, pode ser autorizado um período menor, de acordo com a boa prática da indústria do petróleo.
 
@@ -843,7 +875,9 @@ g) Será autorizada a importância, a exportação e a permanência no territór
 
 3. As autoridades portuguesas facilitarão, na medida do possível, respeitados os interesses e a segurança nacionais, a entrada, permanência e saída dos territórios portugueses dos indivíduos de qualquer nacionalidade que as sociedades ou quaisquer entidades que com elas cooperem nas suas operações tenham admitido ou despedido.
 
-### CAPÍTULO VIII — ARTIGO 45.º
+### CAPÍTULO VIII
+
+###### ARTIGO 45.º
 
 Regime cambial
 
@@ -971,11 +1005,11 @@ Por cada múltiplo de 100000 barris diários - 60000 contos.
 
 1. As obrigações, direitos e poderes previstos neste contrato e nele atribuídos à administração pública, quando não inerentes ao exercício de direitos de soberania, poderão vir a ser, no todo ou em parte, transferidos para uma empresa ou organismo estatal ou sociedade de economia pública ou mista.
 
-**O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.**
+O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.
 
 ÁREA A QUE SE REFERE O N.º 1 DO ART. 2.º DO ARTICULADO ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/05501/00250049.pdf))](https://files.diariodarepublica.pt/1s/1974/03/05501/00250049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/05501/00250049.pdf)
 
 Texto do contrato de associação para a prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos fluidos entre as sociedades concessionárias ... e a sociedade estatal a que se refere e artigo 15 de contrato de concessão.
 
@@ -1233,4 +1267,4 @@ Em tudo que respeite à execução do disposto no presente acordo as duas partes
 
 Quaisquer informações obtidas por qualquer das partes e relativas às operações a que se refere o presente acordo serão consideradas confidenciais e não poderão ser divulgadas por nenhuma delas sem prévio acordo da outra e autorização expressa do Governo.
 
-**O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.**
+O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.

@@ -46,40 +46,147 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/146-1978-324735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:49:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61d8723fac3be0bcdcdc85f9d5001810ef7ae80be0897dbb98c29ba5b8414110
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a35db28aa15ee8811f7a35665f9e25ccd79501f240a622e999ff639074b8dc91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Promoção do Emprego
+- Direcção Geral do Emprego
+- Fundo de Desenvolvimento da Mão-de-obra
+- Gabinete de Gestão do Fundo de Desemprego
+- Ministério do Trabalho
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:378514:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:458412:por
+  label: "Alterado o quadro de pessoal do Fundo de Desenvolvimento da Mão-de-Obra, aprovado pelo presente diploma, pela PORT.977/80.13.11.1980.PCM,\
+    \ DR.IS [263] de 13.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/977-1980-458412
+  date: '1980-11-13'
+- type: amended_by
+  target: pt:dre:389425:por
+  label: "Alterados os quadros e as carreiras de pessoal da Direcção-Geral do Emprego, do Fundo de Desenvolvimento da Mão-de-Obra\
+    \ e do Gabinete de Gestão do Fundo de Desemprego constantes do decreto-Lei 47/78, de 21 de Março, na redacção do presente\
+    \ diploma, pela PORT.297/81.27.03.1981.MFP, DR.IS [72] de 27.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/297-1981-389425
+  date: '1981-03-27'
+- type: amended_by
+  target: pt:dre:579560:por
+  label: "Alterado o quadro de pessoal do Gabinete de Gestão do Fundo de Desemprego anexo ao presente diploma, pela PORT.630/81.23.07.1981.MFP,\
+    \ DR.IS [167] de 23.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/630-1981-579560
+  date: '1981-07-23'
+- type: amended_by
+  target: pt:dre:600279:por
+  label: "Alterado o quadro de pessoal aprovado, pela PORT.234/82.1982.02.24.MFP, DR.IS [45]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/234-1982-600279
+  date: '1982-02-04'
+- type: amended_by
+  target: pt:dre:392455:por
+  label: "Alterado o quadro de pessoal pela PORT.503/82.1982.05.17.MFP DR.IS [111]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-1982-392455
+  date: '1982-05-17'
+- type: amended_by
+  target: pt:dre:395310:por
+  label: "Alterados os quadros de pessoal pela PORT.620/82.1982.06.22.MFP DR.IS [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/620-1982-395310
+  date: '1982-06-22'
+- type: amended_by
+  target: pt:dre:395329:por
+  label: "Alterado o quadro de pessoal pela PORT.643/82.1982.06.28.MFP, DR.IS [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/643-1982-395329
+  date: '1982-06-28'
+- type: cites
+  target: pt:dre:155194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:392068:por
+  label: Rectificado pela DECL.DD7903.15.01.1979.PCM, DR.IS [12] de 15.01.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-392068
+  date: '1979-01-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:49:20Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +215,7 @@ Por esta via, que não impede futuras reestruturações de fundo, que se conside
 
 Nestes termos, ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, o Governo decreta, nos termos da alínea e) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Ministério do Trabalho, adiante designado MT, compreende, nos termos do artigo 9.º do [Decreto-Lei n.º 41-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-1978-414588), de 7 de Março, além dos órgãos e serviços referidos no artigo 3.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março, os seguintes:
+Artigo 1.º O Ministério do Trabalho, adiante designado MT, compreende, nos termos do artigo 9.º do [Decreto-Lei n.º 41-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-1978-414588), de 7 de Março, além dos órgãos e serviços referidos no artigo 3.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março, os seguintes:
 
 a) Direcção-Geral do Emprego, adiante designada DGE, a que se referem a alínea a) do n.º 1 do artigo 2.º e o artigo 18.º do [Decreto-Lei n.º 762/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/762-1974-256808), de 30 de Dezembro, com as atribuições e composição previstas no artigo 3.º e no n.º 1 do artigo 4.º do mesmo diploma;
 
@@ -118,21 +225,21 @@ c) Fundo de Desenvolvimento da Mão-de-Obra, adiante designado FDMO, criado pelo
 
 d) Gabinete de Gestão do Fundo de Desemprego, adiante designado GGFD, criado e dotado de autonomia administrativa e financeira nos termos do artigo 2.º do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), atrás aludido.
 
-###### Art. 2.º - 1 - Os quadros do pessoal da DGE, do FDMO e do GGFD passam a ter a composição constante dos mapas anexos ao presente diploma.
+Art. 2.º - 1 - Os quadros do pessoal da DGE, do FDMO e do GGFD passam a ter a composição constante dos mapas anexos ao presente diploma.
 
 2 - Os mapas referidos no número anterior fazem parte integrante do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), além dos previstos no n.º 1 do artigo 90.º do mesmo diploma.
 
 3 - Aos quadros aludidos no n.º 1 do presente artigo são aplicáveis as disposições relativas a contingentação e composição constantes do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349).
 
-###### Art. 3.º O recrutamento, provimento e promoção nos lugares dos quadros referidos no artigo 2.º são regulados pelas normas constantes do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), e do presente diploma.
+Art. 3.º O recrutamento, provimento e promoção nos lugares dos quadros referidos no artigo 2.º são regulados pelas normas constantes do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), e do presente diploma.
 
-###### Art. 4.º - 1 - Ao provimento dos lugares de director-geral previstos no presente diploma, director do GGFD, director do FDMO, adjunto do director do GGFD, director regional e chefe de delegação regional é aplicável o disposto no n.º 1 do artigo 96.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349).
+Art. 4.º - 1 - Ao provimento dos lugares de director-geral previstos no presente diploma, director do GGFD, director do FDMO, adjunto do director do GGFD, director regional e chefe de delegação regional é aplicável o disposto no n.º 1 do artigo 96.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349).
 
 2 - Os directores-gerais, director do GGFD e director do FDMO, a que alude o número anterior, são escolhidos pelo Ministro do Trabalho, nos termos previstos no n.º 3 do artigo 96.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349).
 
 3 - O adjunto do director do GGFD, os directores regionais e os chefes de delegação regional são providos de acordo com o estabelecido no n.º 4 do artigo 96.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349).
 
-###### Art. 5.º - 1 - Os cargos de directores de centro são providos, em comissão de serviço, por períodos renováveis de três anos, por escolha do Ministério do Trabalho, sob proposta dos titulares do cargo de que dependam, de entre funcionários das carreiras técnicas do FDMO e DGE com reconhecida competência e experiência profissional válida para o exercício das funções.
+Art. 5.º - 1 - Os cargos de directores de centro são providos, em comissão de serviço, por períodos renováveis de três anos, por escolha do Ministério do Trabalho, sob proposta dos titulares do cargo de que dependam, de entre funcionários das carreiras técnicas do FDMO e DGE com reconhecida competência e experiência profissional válida para o exercício das funções.
 
 2 - As propostas referidas no número anterior incidirão nas seguintes áreas de recrutamento:
 
@@ -142,9 +249,9 @@ b) Directores de centro de categoria correspondente à letra F, de entre funcion
 
 c) Directores de centro de categoria correspondente à letra G, de entre funcionários de categorias não inferiores à letra I.
 
-###### Art. 6.º Os lugares de chefe de repartição e de chefe de secção são providos, nos termos do disposto nos n.os 2 e 3 do artigo 99.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), sob proposta do director-geral do Emprego, do director do FDMO ou do director do GGFD, consoante o quadro a que pertençam e o serviço onde exerçam funções.
+Art. 6.º Os lugares de chefe de repartição e de chefe de secção são providos, nos termos do disposto nos n.os 2 e 3 do artigo 99.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), sob proposta do director-geral do Emprego, do director do FDMO ou do director do GGFD, consoante o quadro a que pertençam e o serviço onde exerçam funções.
 
-###### Art. 7.º O pessoal técnico de inspecção é recrutado pela seguinte forma:
+Art. 7.º O pessoal técnico de inspecção é recrutado pela seguinte forma:
 
 a) Inspectores técnicos-chefes - por concurso documental e avaliação curricular, de entre os inspectores técnicos principais com, pelo menos, seis anos de bom e efectivo serviço na categoria e que tenham revelado capacidade de concepção, coordenação e orientação;
 
@@ -154,13 +261,13 @@ c) Inspectores técnicos de 1.ª classe - por concurso documental e avaliação 
 
 d) Inspectores técnicos de 2.ª classe - por concurso documental e avaliação curricular, de entre funcionários dos quadros anexos ao presente diploma com licenciatura adequada e idoneidade técnica e profissional para o desempenho das funções e, na sua falta, de entre indivíduos estranhos aos quadros que reúnam as mesmas condições.
 
-###### Art. 8.º - 1 - Os médicos do trabalho são recrutados por concurso documental e avaliação curricular de entre os licenciados em Medicina e com o curso de Medicina do Trabalho ou equivalente.
+Art. 8.º - 1 - Os médicos do trabalho são recrutados por concurso documental e avaliação curricular de entre os licenciados em Medicina e com o curso de Medicina do Trabalho ou equivalente.
 
 2 - Os médicos do trabalho exercem funções a tempo parcial, correspondendo-lhes uma remuneração mensal calculada, nos termos da lei geral, sobre a categoria de técnico principal na base de um período mínimo de dez horas de trabalho semanal.
 
 3 - Os médicos do trabalho que exerçam funções a tempo pleno são providos em lugares da carreira de técnico.
 
-###### Art. 9.º Os conselheiros de orientação profissional são recrutados pela seguinte forma:
+Art. 9.º Os conselheiros de orientação profissional são recrutados pela seguinte forma:
 
 a) Conselheiros de orientação profissional assessores - por concurso documental e avaliação curricular, de entre os conselheiros de orientação profissional principais com, pelo menos, seis anos de bom e efectivo serviço na categoria e que tenham revelado capacidade de concepção, coordenação e orientação;
 
@@ -172,15 +279,15 @@ d) Conselheiros de orientação profissional de 2.ª classe - por provimento dos
 
 e) Conselheiros de orientação profissional estagiários - por concurso de provas de aptidão profissional, de entre os funcionários dos quadros do MT com licenciatura adequada à natureza específica das funções que irão desempenhar e de indivíduos a eles estranhos que reúnam as mesmas condições habilitacionais, com preferência pelos que possuam experiência profissional ligada ao mundo do trabalho, ao emprego, ao ensino, à sociologia ou psicologia.
 
-###### Art. 10.º - 1 - Os assessores de formação profissional são recrutados, por concurso documental e avaliação curricular, de entre os coordenadores de formação profissional com, pelo menos, seis anos de bom e efectivo serviço na categoria e que tenham revelado capacidade de concepção, coordenação e orientação.
+Art. 10.º - 1 - Os assessores de formação profissional são recrutados, por concurso documental e avaliação curricular, de entre os coordenadores de formação profissional com, pelo menos, seis anos de bom e efectivo serviço na categoria e que tenham revelado capacidade de concepção, coordenação e orientação.
 
 2 - Os coordenadores de formação profissional são recrutados, por concurso documental e avaliação curricular, de entre os técnicos de formação profissional principais habilitados com licenciatura adequada ao exercício das funções e com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
-###### Art. 11.º - 1 - Os técnicos de promoção assessores são recrutados, por concurso documental e avaliação curricular, de entre os técnicos de promoção coordenadores com, pelo menos, seis anos de bom e efectivo serviço na categoria e que tenham revelado capacidade de concepção, coordenação e orientação.
+Art. 11.º - 1 - Os técnicos de promoção assessores são recrutados, por concurso documental e avaliação curricular, de entre os técnicos de promoção coordenadores com, pelo menos, seis anos de bom e efectivo serviço na categoria e que tenham revelado capacidade de concepção, coordenação e orientação.
 
 2 - Os técnicos de promoção coordenadores são recrutados por concurso documental e avaliação curricular, de entre os promotores principais habilitados com licenciatura adequada ao exercício das funções e com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
-###### Art. 12.º Os técnicos de formação profissional são recrutados da seguinte forma:
+Art. 12.º Os técnicos de formação profissional são recrutados da seguinte forma:
 
 a) Técnicos de formação profissional principais - por concurso documental e avaliação curricular, de entre os técnicos de formação profissional de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -190,7 +297,7 @@ c) Técnicos de formação profissional de 2.ª classe - por provimento dos téc
 
 d) Técnicos de formação profissional estagiários - por concurso de provas de aptidão profissional, de entre os monitores de formação profissional e técnicos de emprego de categoria não inferior à letra J habilitados com um curso complementar do ensino secundário ou equivalente com, pelo menos, cinco anos de bom e efectivo serviço na categoria ou de entre os funcionários dos quadros do MT habilitados com curso superior adequado ou indivíduos a eles estranhos que possuam os mesmos requisitos habilitacionais.
 
-###### Art. 13.º Os promotores são recrutados da forma seguinte:
+Art. 13.º Os promotores são recrutados da forma seguinte:
 
 a) Promotores principais - por concurso documental e avaliação curricular, de entre os promotores de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -200,7 +307,7 @@ c) Promotores de 2.ª classe - por provimento dos promotores estagiários que te
 
 d) Promotores estagiários - por concurso de provas de aptidão profissional, de entre os técnicos de emprego e monitores de formação profissional de categoria não inferior à letra J habilitados com um curso complementar do ensino secundário ou equivalente com, pelo menos, cinco anos de bom e efectivo serviço na categoria ou de entre funcionários dos quadros do MT habilitados com curso superior adequado, ou de indivíduos a eles estranhos que possuam os mesmos requisitos habilitacionais.
 
-###### Art. 14.º O pessoal da inspecção fiscal é recrutado pela forma seguinte:
+Art. 14.º O pessoal da inspecção fiscal é recrutado pela forma seguinte:
 
 a) Inspectores principais - por concurso documental e avaliação curricular, de entre os inspectores de 1.ª classe habilitados com curso superior ou equiparado e com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -218,7 +325,7 @@ g) Subinspectores de 2.ª classe - de entre os subinspectores estagiários que t
 
 h) Subinspectores estagiários - por concurso documental, de entre funcionários do GGFD com mais de 21 anos de idade habilitados com o 2.º ciclo liceal ou equiparado e, na sua falta, indivíduos a ele estranhos que reúnam idênticos requisitos.
 
-###### Art. 15.º O pessoal técnico de serviço social é recrutado pela seguinte forma:
+Art. 15.º O pessoal técnico de serviço social é recrutado pela seguinte forma:
 
 a) Técnicos de serviço social principais - por concurso documental e avaliação curricular, de entre os técnicos de serviço social de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -226,13 +333,13 @@ b) Técnicos de serviço social de 1.ª classe - por concurso documental e avali
 
 c) Técnicos de serviço social de 2.ª classe - por concurso documental e avaliação curricular, de entre funcionários do Ministério do Trabalho e de indivíduos a ele estranhos habilitados com o curso superior de serviço social.
 
-###### Art. 16.º - 1 - O pessoal técnico fisioterapeuta é recrutado, por concurso documental e avaliação curricular, de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente e que possuam o curso de especialização profissional adequado, reconhecido pelo Ministério dos Assuntos Sociais.
+Art. 16.º - 1 - O pessoal técnico fisioterapeuta é recrutado, por concurso documental e avaliação curricular, de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente e que possuam o curso de especialização profissional adequado, reconhecido pelo Ministério dos Assuntos Sociais.
 
 2 - O acesso na carreira é feito, mediante concurso de provas práticas, de entre os funcionários da categoria imediatamente inferior com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
 3 - Os fisioterapeutas coordenadores são recrutados, por concurso documental e avaliação curricular, de entre os fisioterapeutas principais com, pelo menos, três anos de bom e efectivo serviço na categoria, habilitados com o curso complementar do ensino secundário ou equivalente e que hajam sido aprovados num curso especial complementar adequado às funções a que se destinam, de acordo com a legislação em vigor para os profissionais da saúde.
 
-###### Art. 17.º Os monitores de formação profissional são recrutados pela seguinte forma:
+Art. 17.º Os monitores de formação profissional são recrutados pela seguinte forma:
 
 a) Monitores de formação profissional principais - por concurso documental e avaliação curricular, de entre os monitores de formação profissional de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e que tenham revelado capacidade de iniciativa, coordenação e orientação;
 
@@ -242,7 +349,7 @@ c) Monitores de formação profissional de 2.ª classe - por provimento dos moni
 
 d) Monitores de formação profissional estagiários - por concurso de provas teóricas, práticas e de aptidão, de entre indivíduos habilitados com um curso de formação do ensino técnico profissional industrial, regulamentado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, ou curso equiparado, adequado à especialidade a que se destinam e com, pelo menos, cinco anos de experiência profissional, devidamente confirmada, na respectiva profissão.
 
-###### Art. 18.º - 1 - Os técnicos de emprego são recrutados pela seguinte forma:
+Art. 18.º - 1 - Os técnicos de emprego são recrutados pela seguinte forma:
 
 a) Técnicos de emprego principais - por concurso documental e avaliação curricular, de entre os técnicos de emprego especiais e de 1.ª classe com, pelo menos, três e seis anos de bom e efectivo serviço nas respectivas categorias e que tenham revelado capacidade de iniciativa, coordenação e orientação;
 
@@ -256,7 +363,7 @@ e) Técnicos de emprego estagiários - por concurso de provas de aptidão e de c
 
 2 - A nomeação de técnicos de emprego especiais só terá lugar se houver aproveitamento em estágio de seis meses que inclua um curso de formação profissional específico no domínio das técnicas de colocação e da adaptação entre os postos de trabalho e os indivíduos deficientes.
 
-###### Art. 19.º - 1 - Os enfermeiros do trabalho são recrutados pela seguinte forma:
+Art. 19.º - 1 - Os enfermeiros do trabalho são recrutados pela seguinte forma:
 
 a) Enfermeiros-chefes - por concurso documental e avaliação curricular, de entre os enfermeiros de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e que tenham revelado capacidade de coordenação e orientação;
 
@@ -266,11 +373,11 @@ c) Enfermeiros de 2.ª classe - por concurso documental e avaliação curricular
 
 2 - Quando se verificar a impossibilidade de recrutar para a carreira de enfermeiros do trabalho indivíduos habilitados com o curso de enfermagem geral, poderão recrutar-se, para a categoria de auxiliar de enfermagem, profissionais habilitados com o respectivo curso, até ao limite das vagas existentes na carreira de enfermagem.
 
-###### Art. 20.º - 1 - Os operadores de raios X industrial ingressam na categoria de 2.ª classe e serão recrutados por concurso de provas públicas, teóricas e práticas, de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado, e com, pelo menos, cinco anos de experiência profissional, devidamente comprovada, no domínio da soldadura.
+Art. 20.º - 1 - Os operadores de raios X industrial ingressam na categoria de 2.ª classe e serão recrutados por concurso de provas públicas, teóricas e práticas, de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado, e com, pelo menos, cinco anos de experiência profissional, devidamente comprovada, no domínio da soldadura.
 
 2 - O acesso às categorias de 1.ª classe e principal faz-se após cinco anos de bom e efectivo serviço nas categorias imediatamente inferiores.
 
-###### Art. 21.º Os desenhadores são recrutados da seguinte forma:
+Art. 21.º Os desenhadores são recrutados da seguinte forma:
 
 a) Desenhadores principais - por concurso documental e avaliação curricular, de entre desenhadores de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -280,7 +387,7 @@ c) Desenhadores de 2.ª classe - por concurso de provas escritas e práticas, de
 
 d) Praticantes de desenhador - por concurso documental, de entre indivíduos habilitados com a escolaridade obrigatória e o curso de desenhador ministrado nos centros de reabilitação profissional do MT com a duração de cinquenta e duas semanas.
 
-###### Art. 22.º Os operadores de registo de dados são recrutados da forma seguinte:
+Art. 22.º Os operadores de registo de dados são recrutados da forma seguinte:
 
 a) Monitores - por concurso documental e avaliação curricular, de entre os operadores de registo de dados de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -288,13 +395,13 @@ b) Operadores de registo de dados de 1.ª classe - por concurso documental e ava
 
 c) Operadores de registo de dados de 2.ª classe - por concurso de provas escritas e práticas, de entre indivíduos habilitados com o curso geral dos liceus ou equiparado, com formação complementar no domínio da informática e pertencentes aos quadros do FDMO ou do GGFD ou a eles estranhos, mas com preferência pelos primeiros.
 
-###### Art. 23.º - 1 - Os operadores de microfilmagem de 2.ª classe são recrutados, por concurso de provas escritas e práticas, de entre funcionários habilitados com o curso geral dos liceus ou equiparado e qualificação técnica adequada e, na sua falta, indivíduos estranhos aos quadros possuidores de iguais qualificações.
+Art. 23.º - 1 - Os operadores de microfilmagem de 2.ª classe são recrutados, por concurso de provas escritas e práticas, de entre funcionários habilitados com o curso geral dos liceus ou equiparado e qualificação técnica adequada e, na sua falta, indivíduos estranhos aos quadros possuidores de iguais qualificações.
 
 2 - Após cinco anos de bom e efectivo serviço serão providos na categoria imediata.
 
-###### Art. 24.º Nas carreiras de operadores de raios X industrial, operador de registo de dados e operador de microfilmagem poderá ser admitido, directamente, pessoal para lugares de acesso, nos termos previstos no artigo 104.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de entre indivíduos que satisfaçam os requisitos habilitacionais previstos para as respectivas carreiras.
+Art. 24.º Nas carreiras de operadores de raios X industrial, operador de registo de dados e operador de microfilmagem poderá ser admitido, directamente, pessoal para lugares de acesso, nos termos previstos no artigo 104.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de entre indivíduos que satisfaçam os requisitos habilitacionais previstos para as respectivas carreiras.
 
-###### Art. 25.º - 1 - Os encarregados são recrutados da seguinte forma:
+Art. 25.º - 1 - Os encarregados são recrutados da seguinte forma:
 
 a) Encarregado geral - de entre os encarregados dos respectivos quadros com, pelo menos, três anos de bom e efectivo serviço e que tenham revelado capacidade de coordenação e orientação;
 
@@ -306,23 +413,23 @@ a) Encarregado geral - existirá quando no respectivo sector de actividades se j
 
 b) Encarregado - existirá quando no respectivo sector de actividades se justificar a necessidade de dirigir e controlar grupos de trabalhadores com, pelo menos, dezanove profissionais.
 
-###### Art. 26.º - 1 - O recrutamento de pessoal operário especializado, qualificado e semiqualificado, é feito na categoria de ajudante, de entre indivíduos habilitados com a escolaridade obrigatória, segundo a idade.
+Art. 26.º - 1 - O recrutamento de pessoal operário especializado, qualificado e semiqualificado, é feito na categoria de ajudante, de entre indivíduos habilitados com a escolaridade obrigatória, segundo a idade.
 
 2 - Os ajudantes ingressarão na carreira respectiva após dois anos de bom e efectivo serviço.
 
 3 - O acesso dentro de cada carreira é feito mediante concurso de provas práticas, de entre os funcionários dos quadros respectivos de categoria imediatamente inferior com, pelo menos, três anos de bom e efectivo serviço nessa categoria.
 
-###### Art. 27.º - 1 - O recrutamento de aprendizes é feito de entre indivíduos com mais de 14 anos e menos de 18 anos de idade habilitados com a escolaridade obrigatória.
+Art. 27.º - 1 - O recrutamento de aprendizes é feito de entre indivíduos com mais de 14 anos e menos de 18 anos de idade habilitados com a escolaridade obrigatória.
 
 2 - Quando perfizerem 18 anos, os aprendizes ascenderão à categoria de ajudante, se tiverem obtido aproveitamento em concurso de provas práticas. Em caso contrário, passarão à categoria de praticante.
 
-###### Art. 28.º - 1 - O recrutamento de pessoal operário não qualificado é feito na categoria de praticante, de entre indivíduos habilitados com a escolaridade obrigatória, segundo a idade.
+Art. 28.º - 1 - O recrutamento de pessoal operário não qualificado é feito na categoria de praticante, de entre indivíduos habilitados com a escolaridade obrigatória, segundo a idade.
 
 2 - O praticante ascenderá à categoria de operário não qualificado de 2.ª classe após um ano de bom e efectivo serviço.
 
 3 - O acesso à categoria imediata fica condicionado à permanência de três anos na categoria de operário não qualificado de 2.ª classe.
 
-###### Art. 29.º As designações de operários especializados, qualificados e semiqualificados correspondem, nomeadamente, às seguintes profissões:
+Art. 29.º As designações de operários especializados, qualificados e semiqualificados correspondem, nomeadamente, às seguintes profissões:
 
 Operários especializados: ajustadores, electricistas de alta tensão, electricistas de automatismos, fresadores e torneiros mecânicos;
 
@@ -330,7 +437,7 @@ Operários qualificados: bate-chapas, canalizadores, carpinteiros de moldes, ele
 
 Operários semiqualificados: carpinteiros, cozinheiros, pedreiros e pintores de construção civil.
 
-###### Art. 30.º - 1 - O recrutamento de estagiários far-se-á sempre em função do número de vagas ocorridas nas categorias de ingresso da respectiva carreira.
+Art. 30.º - 1 - O recrutamento de estagiários far-se-á sempre em função do número de vagas ocorridas nas categorias de ingresso da respectiva carreira.
 
 2 - O estágio tem carácter probatório, duração de um ano e visa a formação e adaptação do candidato às funções para que foi recrutado.
 
@@ -354,50 +461,50 @@ b) A rescisão do contrato e a dispensa dos estagiários sem direito a qualquer 
 
 8 - O tempo de serviço prestado durante o período do estágio será contado para todos os efeitos legais, desde que não haja interrupção de serviço.
 
-###### Art. 31.º Os planos e programas das matérias a ministrar nos cursos previstos para as carreiras técnicas específicas do FDMO e do GGFD deverão constar de portaria do Ministro do Trabalho e do Secretário de Estado da Administração Pública.
+Art. 31.º Os planos e programas das matérias a ministrar nos cursos previstos para as carreiras técnicas específicas do FDMO e do GGFD deverão constar de portaria do Ministro do Trabalho e do Secretário de Estado da Administração Pública.
 
-###### Art. 32.º Os funcionários que se encontram a ministrar cursos de formação e reabilitação profissionais e os necessários ao seu bom funcionamento terão o horário estabelecido para os mesmos cursos.
+Art. 32.º Os funcionários que se encontram a ministrar cursos de formação e reabilitação profissionais e os necessários ao seu bom funcionamento terão o horário estabelecido para os mesmos cursos.
 
-###### Art. 33.º - 1 - Todo o pessoal que, pelas suas funções, esteja sujeito a acentuado depauperamento físico ou sensorial, nomeadamente operadores de raios X industrial, deverá ser sujeito a exame médico preventivo periódico de cinco em cinco anos, a partir dos 35 anos de idade e sempre que tal seja necessário ou requerido.
+Art. 33.º - 1 - Todo o pessoal que, pelas suas funções, esteja sujeito a acentuado depauperamento físico ou sensorial, nomeadamente operadores de raios X industrial, deverá ser sujeito a exame médico preventivo periódico de cinco em cinco anos, a partir dos 35 anos de idade e sempre que tal seja necessário ou requerido.
 
 2 - Em resultado dos exames referidos no número anterior e sob proposta médica, poderão os funcionários ser deslocados para o desempenho de outras funções compatíveis com o seu estado físico e aptidões.
 
-###### Art. 34.º Os tesoureiros dos quadros do FDMO e do GGFD têm direito a abono para falhas, nos termos da lei geral.
+Art. 34.º Os tesoureiros dos quadros do FDMO e do GGFD têm direito a abono para falhas, nos termos da lei geral.
 
 Disposições finais e transitórias
 
-###### Art. 35.º A DGPE continuará a dispor do director-geral e dos dois directores de serviços previstos no [Decreto-Lei n.º 762/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/762-1974-256808), de 30 de Dezembro.
+Art. 35.º A DGPE continuará a dispor do director-geral e dos dois directores de serviços previstos no [Decreto-Lei n.º 762/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/762-1974-256808), de 30 de Dezembro.
 
-###### Art. 36.º O pessoal ora integrado no quadro do FDMO, que se encontre em exercício de funções na GDE ou na DGPE, considera-se em regime de destacamento no serviço onde se encontra colocado.
+Art. 36.º O pessoal ora integrado no quadro do FDMO, que se encontre em exercício de funções na GDE ou na DGPE, considera-se em regime de destacamento no serviço onde se encontra colocado.
 
-###### Art. 37.º Aos funcionários que à data da entrada em vigor do presente diploma já possuam provimento definitivo em categorias que passam a ser providas em comissão de serviço ou que não constam dos quadros anexos a este diploma e que não possam ser integrados nas carreiras gerais e específicas nos mesmos previstas é aplicável o disposto no artigo 108.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349).
+Art. 37.º Aos funcionários que à data da entrada em vigor do presente diploma já possuam provimento definitivo em categorias que passam a ser providas em comissão de serviço ou que não constam dos quadros anexos a este diploma e que não possam ser integrados nas carreiras gerais e específicas nos mesmos previstas é aplicável o disposto no artigo 108.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349).
 
-###### Art. 38.º Ao pessoal dos quadros legais dos serviços aludidos no artigo 2.º que se encontre na situação de licença ilimitada é assegurado o lugar correspondente na carreira em que se integrar a respectiva categoria.
+Art. 38.º Ao pessoal dos quadros legais dos serviços aludidos no artigo 2.º que se encontre na situação de licença ilimitada é assegurado o lugar correspondente na carreira em que se integrar a respectiva categoria.
 
-###### Art. 39.º - 1 - O pessoal dos serviços aludidos no artigo 2.º que se encontra a exercer funções, a qualquer título, em outros órgãos da Administração Pública e que não for integrado nos quadros destes órgãos noventa dias após a entrada em vigor do presente diploma regressará obrigatoriamente, findo aquele prazo, ao respectivo serviço de origem, considerando-se transitória e automaticamente aumentado o quadro respectivo do número de lugares requeridos para o efeito.
+Art. 39.º - 1 - O pessoal dos serviços aludidos no artigo 2.º que se encontra a exercer funções, a qualquer título, em outros órgãos da Administração Pública e que não for integrado nos quadros destes órgãos noventa dias após a entrada em vigor do presente diploma regressará obrigatoriamente, findo aquele prazo, ao respectivo serviço de origem, considerando-se transitória e automaticamente aumentado o quadro respectivo do número de lugares requeridos para o efeito.
 
 2 - Os lugares acrescidos aos quadros por virtude do disposto neste artigo serão extintos assim que vagarem.
 
-###### Art. 40.º - 1 - O primeiro provimento do pessoal que à data da entrada em vigor do presente diploma se ache adstrito, a qualquer título, aos serviços referidos no artigo 2.º, far-se-á de acordo com as normas constantes dos artigos 113.º e 114.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349).
+Art. 40.º - 1 - O primeiro provimento do pessoal que à data da entrada em vigor do presente diploma se ache adstrito, a qualquer título, aos serviços referidos no artigo 2.º, far-se-á de acordo com as normas constantes dos artigos 113.º e 114.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349).
 
 2 - Ao pessoal referido no n.º 1 do presente artigo é assegurado o tratamento previsto no artigo 109.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349).
 
-###### Art. 41.º - 1 - Os encargos emergentes da publicação do presente diploma serão suportados pelo orçamento do FDMO, relativamente ao pessoal da DGE, DGPE e do FDMO, e pelo orçamento do GGFD, relativamente ao pessoal deste serviço.
+Art. 41.º - 1 - Os encargos emergentes da publicação do presente diploma serão suportados pelo orçamento do FDMO, relativamente ao pessoal da DGE, DGPE e do FDMO, e pelo orçamento do GGFD, relativamente ao pessoal deste serviço.
 
 2 - Nos termos do número anterior, o Orçamento Geral do Estado deixará de suportar os encargos com o pessoal que lhe estavam cometidos pelo n.º 1 do artigo 4.º do [Decreto-Lei n.º 44785](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44785-1962-155194), aplicável por força do disposto no artigo 16.º do [Decreto-Lei n.º 46731](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46731-1965-507846), de 9 de Dezembro de 1965, e artigo 2.º do [Decreto-Lei n.º 48336](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48336-1968-234521), de 16 de Abril de 1968, bem como pelo [Decreto-Lei n.º 762/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/762-1974-256808), de 30 de Dezembro.
 
-###### Art. 42.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 42.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Alfredo Jorge Nobre da Costa - José da Silva Lopes - António de Seixas da Costa Leal.
 
-**Promulgado em 24 de Novembro de 1978.**
+Promulgado em 24 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadros a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/28500/26192626.pdf))](https://files.diariodarepublica.pt/1s/1978/12/28500/26192626.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/28500/26192626.pdf)
 
-**O Ministro do Trabalho, António Seixas da Costa Leal.**
+O Ministro do Trabalho, António Seixas da Costa Leal.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/51/2003/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/51-2003-465254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e1027ef84a0380805c2f6cfc869946ffb0c8aa45b2e8a72d7b85d5dd7c2e6d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 071ca455f3079a002166d7d94b42ca8453fd9fb1507a3feb40f70ac55a9c95b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Radiocomunicações
-- Força Aérea
+- Comunicações
 - Convenção
-- Portugal
+- Força Aérea
+- Genebra
 - Marinha
 - ONU
-- Comunicações
+- Portugal
+- Radiocomunicações
 - Serviços Móvel Marítimo e de Radionavegação Aeronáutica em Ondas Hectometricas
-- Genebra
 - União Internacional das Telecomunicações
 relationships: []
 article_structure:
   article_count: 15
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:12Z'
   warnings: []
   errors: []
 ---
@@ -123,15 +123,15 @@ Portugal reserva-se o direito de tomar todas as medidas que possam ser considera
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva.
 
-**Assinado em 24 de Setembro de 2003.**
+Assinado em 24 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2003.**
+Referendado em 25 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ACORDO REGIONAL RELATIVO AOS SERVIÇOS MÓVEL MARÍTIMO E DE RADIONAVEGAÇÃO AERONÁUTICA EM ONDAS HECTOMÉTRICAS (REGIÃO 1).
 
@@ -211,7 +211,7 @@ f) Ao serviço de radiolocalização (n.º 484), após aplicação bem sucedida 
 
 ###### Artigo 4.º — Procedimento relativo às modificações dos planos
 
-#### Secção A - Considerações gerais
+Secção A - Considerações gerais
 
 4.1 - Quando um Membro Contratante propõe a introdução de uma modificação do plano:
 
@@ -225,7 +225,7 @@ d) Seja anular uma consignação de frequência a uma estação do serviço móv
 
 o seguinte procedimento deverá ser aplicado antes de qualquer notificação feita nos termos das disposições do artigo 12.º do Regulamento (v. o artigo 5.º do presente Acordo).
 
-#### Secção B - Procedimento relativo ao serviço móvel marítimo
+Secção B - Procedimento relativo ao serviço móvel marítimo
 
 Procedimento de modificação das características de uma consignação ou de colocação em funcionamento de uma nova consignação
 
@@ -263,7 +263,7 @@ b) Cujas consignações inscritas no ficheiro de referência internacional de fr
 
 4.16 - A consignação prevista pode, se o desacordo persistir, ser notificada nos termos do artigo 12.º do Regulamento. Contudo, serão aplicadas as disposições pertinentes do artigo 5.º do presente Acordo.
 
-#### Secção C - Procedimento relativo ao serviço de radionavegação aeronáutica
+Secção C - Procedimento relativo ao serviço de radionavegação aeronáutica
 
 Procedimento de modificação das características de uma consignação ou de colocação em funcionamento de uma nova consignação
 
@@ -297,7 +297,7 @@ Procedimento de modificação das características de uma consignação ou de co
 
 4.31 - A consignação prevista pode, se o desacordo persistir, ser notificada nos termos do artigo 12.º do Regulamento. Contudo, serão aplicadas as disposições pertinentes do artigo 5.º do presente Acordo.
 
-#### Secção D - Anulação de consignações
+Secção D - Anulação de consignações
 
 4.32 - Qualquer administração que pretenda anular uma consignação em qualquer dos planos, quer se trate ou não das consequências de uma modificação (por exemplo, uma mudança de frequência), deve informar imediatamente o IFRB. O Comité publica esta informação numa secção especial da sua circular semanal sob a forma de modificação do plano.
 
@@ -305,7 +305,7 @@ Procedimento de modificação das características de uma consignação ou de co
 
 4.34 - De três em três anos, o Comité consulta as administrações dos membros contratantes para chamar a atenção das mesmas para a recomendação n.º 7 e solicitar que suprimam as consignações constantes dos planos adoptados pela Conferência e que deixaram de ser necessárias. O Comité informa todos os Membros Contratantes dos resultados destas consultas.
 
-#### Secção E - Actualização e publicação dos planos
+Secção E - Actualização e publicação dos planos
 
 4.35 - O IFRB manterá actualizado um exemplar de referência dos planos que terá em conta a aplicação do procedimento descrito neste artigo. O IFRB elaborará periodicamente, para o efeito, documentos de recapitulação contendo as emendas introduzidas nos planos resultantes de modificações efectuadas de acordo com o procedimento do presente artigo, de adição de novas consignações nos termos do Acordo e de quaisquer anulações de que tenha sido informado o Comité.
 
@@ -477,7 +477,7 @@ Pela Dinamarca:
 
 B. Wedervang.
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)
+[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)
 
 Kjeld S. Laursen.
 
@@ -615,7 +615,7 @@ Cesar Charles Solamito.
 
 Pela Noruega:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)
+[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)
 
 Odd Andersen.
 
@@ -1261,7 +1261,7 @@ Pour le Danemark:
 
 B. Wedervang.
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)
+[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)
 
 Kjeld S. Laursen.
 
@@ -1399,7 +1399,7 @@ Cesar Charles Solamito.
 
 Pour la Norvège:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)
+[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)
 
 Odd Andersen.
 
@@ -1499,7 +1499,7 @@ B. Chirkov.
 
 Pour la République socialiste fédérative de Yougoslavie:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)
+[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)](https://files.diariodarepublica.pt/1s/2003/10/253a00/72707289.pdf)
 
 Protocole Final
 

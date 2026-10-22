@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/50/1992/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/50-1992-624264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8868773ec349894994574e30d8ea36585fba614e6aa4c9d263b32548812047da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f56ae41a91ae828a175f643e60cfc47683529f82a901412560263ec20c682584
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Espanha
+- Portugal
 - Segurança Rodoviária
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:09Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +90,19 @@ de 24 de Dezembro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo de Cooperação no Domínio da Segurança Rodoviária entre a República Portuguesa e o Reino de Espanha, assinado em Évora em 9 de Março de 1992, cujos textos originais nas línguas portuguesa e espanhola seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo de Cooperação no Domínio da Segurança Rodoviária entre a República Portuguesa e o Reino de Espanha, assinado em Évora em 9 de Março de 1992, cujos textos originais nas línguas portuguesa e espanhola seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Manuel Filipe Correia de Jesus.
 
-**Assinado em 24 de Novembro de 1992.**
+Assinado em 24 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Novembro de 1992.**
+Referendado em 25 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO DE COOPERAÇÃO NO DOMÍNIO DA SEGURANÇA RODOVIÁRIA
 
@@ -142,11 +142,11 @@ Feito em Évora aos 9 dias do mês de Março de 1992, em dois exemplares origina
 
 Pela República Portuguesa:
 
-**O Ministro da Administração Interna de Portugal, Manuel Dias Loureiro.**
+O Ministro da Administração Interna de Portugal, Manuel Dias Loureiro.
 
 Pelo Reino de Espanha:
 
-**O Ministro do Interior de Espanha, José Luis Corcuera Cuesta.**
+O Ministro do Interior de Espanha, José Luis Corcuera Cuesta.
 
 ## ANEXO I — Programa de acções conjuntas
 
@@ -184,4 +184,4 @@ A particularização do transporte de mercadorias, harmonizando a regulamentaç�
 
 Visa-se, fundamentalmente, a troca de experiências quanto à utilização de novas tecnologias nos âmbitos de controlo informático do trânsito e da sinalização variável, sem excluir outros campos que, entretanto, se revelem importantes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/296a00/59345936.pdf))](https://files.diariodarepublica.pt/1s/1992/12/296a00/59345936.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/296a00/59345936.pdf)

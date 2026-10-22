@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/456-1973-413464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96b39d624940e6ed699bf58d439b85ec2050d0416869d98dda1edbd993b417ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cc75417c8e85c6058983f0dd9bf3d8094915b8fb52db1fbdfb02f166ff59b93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:33Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +90,9 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Com vista à coordenação das actividades dos diferentes órgãos de segurança pública, é criado em Angola o Conselho Provincial de Segurança Pública, constituído, sob a presidência do secretário-geral, pelo director provincial da Direcção-Geral de Segurança, pelo director da Polícia Judiciária e pelo comandante-geral da Polícia de Segurança Pública de Angola.
+Artigo 1.º Com vista à coordenação das actividades dos diferentes órgãos de segurança pública, é criado em Angola o Conselho Provincial de Segurança Pública, constituído, sob a presidência do secretário-geral, pelo director provincial da Direcção-Geral de Segurança, pelo director da Polícia Judiciária e pelo comandante-geral da Polícia de Segurança Pública de Angola.
 
-###### Art. 2.º Competirá ao Conselho:
+Art. 2.º Competirá ao Conselho:
 
 a) Analisar as medidas de repressão da criminalidade ensaiadas na metrópole ou noutras províncias ultramarinas e estudar a sua adopção em Angola;
 
@@ -102,7 +102,7 @@ c) Definir prioridades no uso de medidas de repressão ou de luta contra a crimi
 
 d) Estudar outros assuntos, relativos à segurança pública, que o Governador-Geral submeta à sua apreciação.
 
-###### Art. 3.º - 1. O Conselho reunirá mensalmente, no gabinete do presidente, em dia e hora que este designará.
+Art. 3.º - 1. O Conselho reunirá mensalmente, no gabinete do presidente, em dia e hora que este designará.
 
 2. Poderão efectuar-se reuniões extraordinárias sempre que o presidente as considere necessárias, convocando especialmente os restantes membros.
 
@@ -110,10 +110,10 @@ d) Estudar outros assuntos, relativos à segurança pública, que o Governador-G
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Agosto de 1973.**
+Promulgado em 29 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

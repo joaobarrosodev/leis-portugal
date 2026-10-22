@@ -21,12 +21,12 @@ publication:
   reference: Diário do Governo n.º 229/1974, 2º Suplemento, Série I de 1974-10-01
   number: '229'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1166-(3) a 1166-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/22902/00030018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/507-a-1974-261173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:34:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dec6a93830da4b943af9ef72b2710f66b695ce8b142ce19adeedee786534342
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9df027b9b58251f59f6f6a4268fcbe980aa34e78c671cba4c328342e12ff6d6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Convenção
+- Cooperação Internacional
+- Genebra
+- Portugal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:268838:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:669282:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:268838:por
+  label: "Revogado pelo DEC.19/93.18.06.1993.MNE, DR.IS-A [141] de 18.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/19-1993-268838
+  date: '1993-06-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:34:55Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +107,17 @@ de 1 de Outubro
 
 Usando da faculdade conferida pelo n.º 1, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo o seguinte:
 
-###### Artigo único. São aprovados os regulamentos telegráfico e telefónico internacionais referidos no artigo 15 da Convenção Internacional das Telecomunicações, assinada em Montreux em 21 de Outubro de 1965 e aprovada pelo [Decreto-Lei n.º 48090](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48090-1967-669282), de 5 de Dezembro de 1967, cuja ratificação por parte de Portugal foi registada em 10 de Setembro de 1968 pelo Secretariado-Geral da União Internacional das Telecomunicações.
+Artigo único. São aprovados os regulamentos telegráfico e telefónico internacionais referidos no artigo 15 da Convenção Internacional das Telecomunicações, assinada em Montreux em 21 de Outubro de 1965 e aprovada pelo [Decreto-Lei n.º 48090](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48090-1967-669282), de 5 de Dezembro de 1967, cuja ratificação por parte de Portugal foi registada em 10 de Setembro de 1968 pelo Secretariado-Geral da União Internacional das Telecomunicações.
 
 Estes regulamentos, que seguem em anexo ao presente decreto e dele fazem parte integrante, foram assinados em Genebra em 11 de Abril de 1973 e substituem os de Genebra assinados em 29 de Novembro de 1958.
 
 Vasco dos Santos Gonçalves - Mário Soares - José Augusto Fernandes.
 
-**Promulgado em 19 de Setembro de 1974.**
+Promulgado em 19 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Regulamento Telegráfico
 
@@ -206,21 +221,21 @@ Uma Instrução é um Parecer (ou conjunto de Pareceres) elaborado pela C. C. I.
 
 19 10. (1) Sob reserva da aplicação das disposições dos artigos 39 e 49 da Convenção (Montreux, 1965), as administrações e as explorações particulares reconhecidas tomam as medidas necessárias para que seja concedida prioridade especial aos telegramas relativos à aplicação das disposições dos capítulos VI, VII e VIII da Carta das Nações Unidas, permutados, em caso de situação grave, entre as personalidades seguintes:
 
-**O presidente do Conselho de Segurança;**
+O presidente do Conselho de Segurança;
 
-**O presidente da assembleia geral;**
+O presidente da assembleia geral;
 
-**O secretário-geral das Nações Unidas;**
+O secretário-geral das Nações Unidas;
 
-**O presidente da Comissão do estado-maior;**
+O presidente da Comissão do estado-maior;
 
-**O presidente de uma subcomissão regional da Comissão do estado-maior;**
+O presidente de uma subcomissão regional da Comissão do estado-maior;
 
 Um representante no Conselho de Segurança ou na assembleia geral;
 
 Um membro da Comissão do estado-maior;
 
-**O presidente ou o secretário principal de uma comissão criada pelo Conselho de Segurança ou pela assembleia geral;**
+O presidente ou o secretário principal de uma comissão criada pelo Conselho de Segurança ou pela assembleia geral;
 
 Uma entidade encarregada de uma missão da Organização das Nações Unidas;
 
@@ -228,7 +243,7 @@ Um chefe de Estado;
 
 Um ministro membro de um governo;
 
-**O chefe administrativo de um território sob tutela designado como zona estratégica.**
+O chefe administrativo de um território sob tutela designado como zona estratégica.
 
 (2) Os telegramas a que se refere a alínea (1) acima, embora não classificados como telegramas de Estado, são considerados como telegramas de Estado.
 
@@ -324,7 +339,9 @@ Qualquer emenda a essas disposições ou qualquer nova disposição do Regulamen
 
 45 2. Todavia, nenhuma cláusula transferida em tais condições pela Conferência administrativa mundial das radiocomunicações marítimas e incorporada no Apêndice citado no n.º 44 poderia ser interpretada como emenda ou modificação de qualquer das cláusulas do presente Regulamento; em caso de incompatibilidade, o texto do Regulamento prevalece sobre as disposições dessa cláusula.
 
-###### ARTIGO 14 — Anexo e apêndices
+###### ARTIGO 14
+
+## Anexo e apêndices
 
 46 O Regulamento Telegráfico é completado pelo Anexo e Apêndices 1 e 2 que dele fazem parte integrante.
 
@@ -500,7 +517,7 @@ República do Vietname;
 
 República Socialista Federativa da Jugoslávia.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Pagamento dos saldos das contas
 
@@ -540,7 +557,7 @@ b) Ou a paridade-ouro da moeda escolhida, fixada unilateralmente pelo Governo ou
 
 Nota. - Quando a taxa de câmbio central for expressa em relação à moeda de um outro país membro do F. M. I. (esta moeda designada adiante por «a outra moeda»), a importância em moeda escolhida é determinada, numa primeira fase, por aplicação à importância expressa em francos-ouro da paridade (aprovada pelo F. M. I.) da outra moeda; depois, numa segunda fase, convertendo na moeda esco hida o resultado assim obtido. No caso em que não exista para a outra moeda paridade em vigor, aprovada pelo F. M. I., devem aplicar-se as disposições do parágrafo 6.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Secretariado-Geral - Comunicações recíprocas
 
@@ -930,7 +947,7 @@ República do Vietname;
 
 República Socialista Federativa da Jugoslávia.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Pagamento dos saldos das contas
 
@@ -970,7 +987,7 @@ b) Ou a paridade-ouro da moeda escolhida, fixada unilateralmente pelo Governo ou
 
 Nota. - Quando a taxa de câmbio central for expressa em relação à moeda de um outro país membro do F. M. I. (esta moeda designada adiante por «a outra moeda»), a importância da moeda escolhida é determinada, numa primeira fase, por aplicação à importância expressa em francos-ouro da paridade (aprovada pelo F. M. I.) da outra moeda; depois, numa segunda fase, convertendo na moeda escolhida o resultado assim obtido. No caso em que não exista para a outra moeda paridade em vigor, aprovada pelo F. M. I., devem aplicar-se as disposições do parágrafo 6.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Secretariado-Geral - Comunicações recíprocas
 

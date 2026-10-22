@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/39/1992/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-1992-259065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13a64493cf30be31cf2750321eea898a1b83f24c9ff03dfb3c31ac841dcc4076
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74b05555429995aa3523ed929c5102dd30a96bc2a47a6dc26d21b710a054a312
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,29 @@ reuse:
 subjects:
 - Autoridade Central
 - Convenção
-- Portugal
 - Instituto de Meteorologia
 - Londres
 - Montreal
 - Ozono
+- Portugal
 - Proteção do Ambiente
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:372061:por
+  label: "Tornado público a aplicação ao território de Macau, da Conveção aprovada para ratificação pelo presente diploma,\
+    \ pelo AV.91/99.1999.06.08.MNE DR.IS-A [151] DE 01/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/91-1999-372061
+  date: '1999-06-08'
 article_structure:
-  article_count: 9
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:55Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +101,19 @@ de 20 de Agosto
 
 Nos termos da alínea c) do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas, para ratificação, as emendas introduzidas ao Protocolo de Montreal sobre as Substâncias Que Empobrecem a Camada de Ozono, adoptadas na 2.ª Reunião das Partes Contratantes do Protocolo, que teve lugar em Londres, de 27 a 29 de Junho de 1990, cujo texto original em língua inglesa, e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. São aprovadas, para ratificação, as emendas introduzidas ao Protocolo de Montreal sobre as Substâncias Que Empobrecem a Camada de Ozono, adoptadas na 2.ª Reunião das Partes Contratantes do Protocolo, que teve lugar em Londres, de 27 a 29 de Junho de 1990, cujo texto original em língua inglesa, e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 2 de Julho de 1992. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - Carlos Alberto Diogo Soares Borrego.
 
 Ratificado em 27 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Julho de 1992.**
+Referendado em 28 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ANNEX I
 
@@ -429,13 +435,13 @@ ANNEX B
 
 Controlled substances
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf))](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf)
 
 ANNEX C
 
 Transitional substances
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf))](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf)
 
 Article 2: Entry into force
 
@@ -555,7 +561,7 @@ K - Artigo 2.º-C: Outros CFCs inteiramente halogenados
 
 Os seguintes parágrafos devem ser incluídos no presente Protocolo, como artigo 2.º-C:
 
-###### Artigo 2.º-C: Outros CFCs inteiramente halogenados
+Artigo 2.º-C: Outros CFCs inteiramente halogenados
 
 1 - Durante o período de 12 meses a partir de 1 de Janeiro de 1993 e, a partir daí, durante cada período de 12 meses, cada uma das Partes providenciará que o seu nível calculado de consumo de substâncias regulamentadas no grupo I do anexo B não exceda, anualmente, 80% do seu nível calculado de consumo de 1989. Cada Parte que produza uma ou várias destas substâncias providenciará, durante os mesmos períodos, que o seu nível calculado de produção de substâncias não exceda, anualmente, 80% do seu nível calculado de produção de 1989. Contudo, para dar resposta às necessidades internas fundamentais das Partes previstas no parágrafo 1 do artigo 5.º, o seu nível calculado de produção pode exceder esse limite num máximo de 10% do seu nível calculado de produção de 1989.
 
@@ -567,7 +573,7 @@ L - Artigo 2.º-D: Tetraclorometano de carbono
 
 Os seguintes parágrafos devem ser incluídos no Protocolo como artigo 2.º-D:
 
-###### Artigo 2.º-D: Tetraclorometano de carbono
+Artigo 2.º-D: Tetraclorometano de carbono
 
 1 - Durante o período de 12 meses a partir de 1 de Janeiro de 1995 e, a partir daí, durante cada período de 12 meses, cada uma das Partes providenciará que o seu nível calculado de consumo desta substância regulamentada no grupo II do anexo B não exceda, anualmente, 15% do seu nível calculado de consumo de 1989. Cada Parte que produza esta substância providenciará, durante os mesmos períodos, que o nível calculado de produção desta substância não exceda, anualmente, 15% do seu nível calculado de produção de 1989. Contudo, para dar resposta às necessidades internas fundamentais das Partes previstas no parágrafo 1 do artigo 5.º, o seu nível calculado de produção pode exceder esse limite num máximo de 10% do seu nível calculado de produção de 1989.
 
@@ -577,7 +583,7 @@ M - Artigo 2.º-E: 1,1,1-Tricloroetano (metil clorofórmio)
 
 Os seguintes parágrafos devem ser incluídos no Protocolo como artigo 2.º-E:
 
-###### Artigo 2.º-E: 1,1,1-Tricloroetano (metil clorofórmio)
+Artigo 2.º-E: 1,1,1-Tricloroetano (metil clorofórmio)
 
 1 - Durante o período de 12 meses a partir de 1 de Janeiro de 1993 e, a partir daí, durante cada período de 12 meses, cada uma das Partes providenciará que o seu nível calculado de consumo desta substância regulamentada no grupo III do anexo B não exceda, anualmente, o seu nível calculado de consumo de 1989. Cada Parte que produza esta substância providenciará, durante os mesmos períodos, que o seu nível calculado de produção desta substância não exceda, anualmente, o seu nível calculado de produção de 1989. Contudo, para dar resposta às necessidades internas fundamentais das Partes previstas no parágrafo 1 do artigo 5.º, o seu nível calculado de produção pode exceder esse limite num máximo de 10% do seu nível calculado de produção de 1989.
 
@@ -691,7 +697,7 @@ T - Artigo 10.º: Mecanismos financeiros
 
 O artigo 10.º do Protocolo deverá ser substituído pelo seguinte:
 
-###### Artigo 10.º: Mecanismos financeiros
+Artigo 10.º: Mecanismos financeiros
 
 1 - As Partes deverão estabelecer um mecanismo no sentido de providenciar cooperação financeira e técnica, incluindo a transferência de tecnologias, às Partes previstas no parágrafo 1 do artigo 5.º deste Protocolo para possibilitar o seu consentimento com as medidas de controlo publicadas nos artigos 2.º-A a 2.º-E do Protocolo. Os mecanismos, aos quais deverão ser adicionadas as contribuições com outras transferências financeiras das Partes previstas nesse parágrafo, deverão reunir concordância total no aumento de custos dessas Partes a fim de possibilitar a sua concordância com as medidas de controlo do Protocolo. Na reunião das Partes deverá ser decidida uma lista indicativa das categorias do aumento dos custos.
 
@@ -743,7 +749,7 @@ U - Artigo 10.º-A: Transferência de tecnologias
 
 O artigo seguinte deverá ser adicionado ao Protocolo como artigo 10.º-A.
 
-###### Artigo 10.º-A: Transferência de tecnologias
+Artigo 10.º-A: Transferência de tecnologias
 
 Cada Parte deverá empregar todas as medidas viáveis, em harmonia com os programas apoiados pelo mecanismo financeiro, para garantir:
 
@@ -773,11 +779,11 @@ Os anexos seguintes deverão ser adicionados ao Protocolo:
 
 ## ANEXO B — Substâncias regulamentadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf))](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf)
 
 ## ANEXO C — Substâncias a transitórias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf))](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/191a00/40634078.pdf)
 
 ###### Artigo 2.º: Entrada em vigor
 

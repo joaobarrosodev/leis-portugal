@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/79-1981-579277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6f9bea5ab47e7de6af82e487615db02023ac66169602c3c5c691b5fd8c1f718
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcea51949afac327b2a9ba13e46800c3c74decef99992de77ec1c3bf16d6d414
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Convenção
+- Modernização Administrativa
+- Política Pautal
+- Portugal
+- Quioto
 relationships:
 - type: amended_by
   target: pt:dre:575548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575548:por
+  label: "Alterada a Convenção Internacional para a Simplicação e a Harmonização dos Regimes Aduaneiros, aprovada, para adesão,\
+    \ pelo presente diploma, e substituídos os respectivos anexos, pela RES.10/2005.09.12.2004.AR, DR.IS-A [50] de 11.03.2005,\
+    \ que procede à sua republicação revista.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-2005-575548
+  date: '2004-12-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:28Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +103,15 @@ de 20 de Junho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, concluída em Kyoto em 18 de Maio de 1973, cujo texto em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para adesão, a Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, concluída em Kyoto em 18 de Maio de 1973, cujo texto em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 8 de Junho de 1981.**
+Assinado em 8 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONVENÇÃO INTERNACIONAL PARA A SIMPLIFICAÇÃO E HARMONIZAÇÃO DOS REGIMES ADUANEIROS
 
@@ -292,7 +305,7 @@ ii) Data em que expirar o prazo de nove meses referido no parágrafo 4 do presen
 
 ###### ARTIGO 18.º
 
-**O Secretário-Geral do Conselho notificará as Partes contratantes à presente Convenção, os Estados signatários, os Estados membros do Conselho que não são Partes contratantes à presente Convenção e o Secretário-Geral da Organização das Nações Unidas:**
+O Secretário-Geral do Conselho notificará as Partes contratantes à presente Convenção, os Estados signatários, os Estados membros do Conselho que não são Partes contratantes à presente Convenção e o Secretário-Geral da Organização das Nações Unidas:
 
 a) Das assinaturas, ratificações e adesões referidas no artigo 11.º da presente Convenção;
 
@@ -316,7 +329,9 @@ Em fé do que os abaixo assinados, para o efeito devidamente autorizados, assina
 
 Feita em Kyoto, em 18 de Maio de 1973, nas línguas francesa e inglesa, fazendo os dois textos igualmente fé, num só exemplar, que será depositado junto do Secretário-Geral do Conselho, o qual enviará cópias autenticadas a todos os Estados referidos no parágrafo 1 do artigo 11.º da presente Convenção.
 
-## ANEXO E.1 — Anexo relativo ao trânsito aduaneiro
+## ANEXO E.1
+
+## Anexo relativo ao trânsito aduaneiro
 
 Introdução
 
@@ -646,13 +661,13 @@ Informações relativas ao trânsito aduaneiro
 
 As autoridades aduaneiras esforçar-se-ão para que qualquer pessoa interessada possa obter sem dificuldade todas as informações úteis relativas ao trânsito aduaneiro.
 
-## APÊNDICE I AO ANEXO E.1
+APÊNDICE I AO ANEXO E.1
 
 Declaração de Mercadorias (Trânsito Aduaneiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/13900/13901428.pdf))](https://files.diariodarepublica.pt/1s/1981/06/13900/13901428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/13900/13901428.pdf)
 
-## APÊNDICE II
+APÊNDICE II
 
 Notas
 
@@ -752,7 +767,7 @@ O texto da declaração a figurar nesta casa pode ser modificado, se necessário
 
 As casas que figuram no verso da declaração de trânsito aduaneiro têm um mero carácter indicativo e deverão ser modificadas de acordo com as formalidades previstas no âmbito de um acordo bilateral ou multilateral sobre o trânsito aduaneiro.
 
-## APÊNDICE III
+APÊNDICE III
 
 Condições mínimas a que devem obedecer os selos aduaneiros
 
@@ -1368,7 +1383,7 @@ APPENDIX I TO ANNEX E.1
 
 Goods Declaration(Customs Transit)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/13900/13901428.pdf))](https://files.diariodarepublica.pt/1s/1981/06/13900/13901428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/13900/13901428.pdf)
 
 APPENDIX II
 
@@ -2082,7 +2097,7 @@ APPENDICE I À L'ANNEXE E.1
 
 Déclaration de Marchandises (Transit Douanier)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/13900/13901428.pdf))](https://files.diariodarepublica.pt/1s/1981/06/13900/13901428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/13900/13901428.pdf)
 
 APPENDICE II
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/132-1974-412191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a4487985a20a99348d0f6eb95ce7863769e19954b03563e1d702f5446a7ecfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 479ff73f52988ffa69ad899f3f9542421ff66f9ef6b88dd1d14c9ca3ebe1af1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:55Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +120,9 @@ Ouvidos os Governos-Gerais dos Estados de Angola e Moçambique;
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º São mantidos nos Estados de Angola e Moçambique os Institutos do Algodão, adiante designados simplesmente por «Institutos», organismos de coordenação económica dotados de personalidade jurídica e autonomia administrativa e financeira, nos termos do artigo 1.º do [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970), de 24 de Agosto de 1961, que passam a reger-se basicamente pelas disposições seguintes.
+Artigo 1.º São mantidos nos Estados de Angola e Moçambique os Institutos do Algodão, adiante designados simplesmente por «Institutos», organismos de coordenação económica dotados de personalidade jurídica e autonomia administrativa e financeira, nos termos do artigo 1.º do [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970), de 24 de Agosto de 1961, que passam a reger-se basicamente pelas disposições seguintes.
 
-###### Art. 2.º os Institutos têm por objectivos:
+Art. 2.º os Institutos têm por objectivos:
 
 1.º Orientar, disciplinar e fiscalizar as actividades relacionadas com o comércio e a exportação do algodão;
 
@@ -108,7 +132,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4.º Contribuir para o aumento da produção de algodão e promover a melhoria da sua qualidade.
 
-###### Art. 3.º Compete especialmente aos Institutos:
+Art. 3.º Compete especialmente aos Institutos:
 
 1.º Coordenar as actividades que se dediquem à produção e ao comércio do algodão;
 
@@ -134,15 +158,15 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 12.º Propor ao Governador-Geral a publicação de portarias fixando os preços mínimos de compra de algodão-caroço ao produtor, que vigorarão para todas as transacções de algodão ou conforme vier a ser regulamentado.
 
-###### Art. 4.º Os Institutos serão obrigatoriamente consultados pelas instâncias oficiais quanto aos assuntos que interessem às actividades económicas em que superintendem ou que estejam com elas relacionados.
+Art. 4.º Os Institutos serão obrigatoriamente consultados pelas instâncias oficiais quanto aos assuntos que interessem às actividades económicas em que superintendem ou que estejam com elas relacionados.
 
-###### Art. 5.º Os Institutos corresponder-se-ão directamente com todas as entidades oficiais do respectivo Estado, às quais solicitarão os esclarecimentos e colaboração de que carecerem.
+Art. 5.º Os Institutos corresponder-se-ão directamente com todas as entidades oficiais do respectivo Estado, às quais solicitarão os esclarecimentos e colaboração de que carecerem.
 
-###### Art. 6.º - 1. Os Governadores-Gerais aprovarão os regulamentos dos Institutos.
+Art. 6.º - 1. Os Governadores-Gerais aprovarão os regulamentos dos Institutos.
 
 2. Dos regulamentos constarão, em especial, o local da sede, a organização dos serviços, os quadros privativos do pessoal, as normas relativas à laboração das instalações de descaroçamento e à comercialização do algodão-caroço, algodão em rama e semente de algodão, tendo em vista um desenvolvimento equilibrado dos vários sectores da economia algodoeira.
 
-###### Art. 7.º Os Institutos exercem a sua acção através dos seguintes serviços:
+Art. 7.º Os Institutos exercem a sua acção através dos seguintes serviços:
 
 1) Serviços de Economia;
 
@@ -152,23 +176,23 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4) Serviços Comerciais.
 
-###### Art. 8.º - 1. Os Institutos têm um director, um director-adjunto e um inspector provincial, designados, sob proposta do Governador-Geral, nos termos dos artigos 6.º e 10.º, n.º 2, do [Decreto n.º 207/70](https://diariodarepublica.pt/dr/detalhe/decreto/207-1970-142287), de 12 de Maio, e com a categoria constante do mapa I anexo ao mesmo diploma.
+Art. 8.º - 1. Os Institutos têm um director, um director-adjunto e um inspector provincial, designados, sob proposta do Governador-Geral, nos termos dos artigos 6.º e 10.º, n.º 2, do [Decreto n.º 207/70](https://diariodarepublica.pt/dr/detalhe/decreto/207-1970-142287), de 12 de Maio, e com a categoria constante do mapa I anexo ao mesmo diploma.
 
 2. O inspector provincial está directamente subordinado ao Governador-Geral, aplicando-se-lhe, com a devida adaptação, o preceituado no artigo 61.º, §§ 3.º e 4.º, do [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), de 21 de Novembro de 1960.
 
-###### Art. 9.º Existirá também um conselho geral, que será constituído pelo director, que preside, e por quatro vogais de nomeação dos Governadores-Gerais, escolhidos de forma que estejam representados os sectores da produção e do comércio do algodão e as secretarias provinciais de economia ou do comércio e indústria e da agricultura.
+Art. 9.º Existirá também um conselho geral, que será constituído pelo director, que preside, e por quatro vogais de nomeação dos Governadores-Gerais, escolhidos de forma que estejam representados os sectores da produção e do comércio do algodão e as secretarias provinciais de economia ou do comércio e indústria e da agricultura.
 
-###### Art. 10.º - 1. O conselho geral reunir-se-á ordinariamente uma vez por mês e extraordinariamente quando for convocado por iniciativa do director do Instituto ou a pedido da maioria dos seus membros.
+Art. 10.º - 1. O conselho geral reunir-se-á ordinariamente uma vez por mês e extraordinariamente quando for convocado por iniciativa do director do Instituto ou a pedido da maioria dos seus membros.
 
 2. Os vogais terão direito a uma senha de presença de importância a fixar por despacho do Governador-Geral.
 
-###### Art. 11.º As deliberações do conselho geral serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
+Art. 11.º As deliberações do conselho geral serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
 
-###### Art. 12.º - 1. O director dirige o Instituto, coordena toda a sua actividade e submete directamente a despacho do Governador-Geral os assuntos que excedam a sua competência.
+Art. 12.º - 1. O director dirige o Instituto, coordena toda a sua actividade e submete directamente a despacho do Governador-Geral os assuntos que excedam a sua competência.
 
 2. Ao director-adjunto competirá coadjuvar o director no desempenho das funções que por este lhe forem cometidas e substituí-lo nas suas faltas ou impedimentos.
 
-###### Art. 13.º Compete especialmente ao director:
+Art. 13.º Compete especialmente ao director:
 
 1.º Representar o Instituto em juízo e fora dele;
 
@@ -186,7 +210,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 8.º Outorgar nos contratos a celebrar com o pessoal servidor e decidir sobre os mesmos contratos, quando isso seja da sua competência.
 
-###### Art. 14.º Incumbe ao conselho geral:
+Art. 14.º Incumbe ao conselho geral:
 
 1.º Propor ao director medidas reputadas convenientes à boa consecução dos fins do organismo;
 
@@ -200,7 +224,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 6.º Dar parecer sobre os empréstimos a contrair pelo Instituto nos termos do presente diploma.
 
-###### Art. 15.º Constituem receitas dos Institutos:
+Art. 15.º Constituem receitas dos Institutos:
 
 1.º As taxas sobre a produção e comercialização do algodão em rama e da semente de algodão;
 
@@ -222,29 +246,29 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 10.º Outros rendimentos provenientes de operações efectuadas de conta própria.
 
-###### Art. 16.º Poderá ainda constituir receita dos Institutos, por decisão dos Governadores-Gerais, o acréscimo do preço de venda, F. O. B. portos do respectivo Estado, do algodão em rama e da semente do algodão, relativamente ao que haja sido considerado no cálculo do preço de compra do algodão-caroço nos mercados.
+Art. 16.º Poderá ainda constituir receita dos Institutos, por decisão dos Governadores-Gerais, o acréscimo do preço de venda, F. O. B. portos do respectivo Estado, do algodão em rama e da semente do algodão, relativamente ao que haja sido considerado no cálculo do preço de compra do algodão-caroço nos mercados.
 
-###### Art. 17.º Os Governadores-Gerais fixarão o valor das taxas, ouvidos os Institutos.
+Art. 17.º Os Governadores-Gerais fixarão o valor das taxas, ouvidos os Institutos.
 
-###### Art. 18.º - 1. A taxa a incidir sobre cada quilograma de algodão em rama produzido não deverá exceder 10% do preço F. O. B/portos do respectivo Estado e será fixada pelos Governadores-Gerais.
+Art. 18.º - 1. A taxa a incidir sobre cada quilograma de algodão em rama produzido não deverá exceder 10% do preço F. O. B/portos do respectivo Estado e será fixada pelos Governadores-Gerais.
 
 2. Para efeitos de incidência da taxa, consideram-se os preços F. O. B. mínimos estabelecidos pelos Institutos no caso de fornecimento à indústria local e os preços F. O. B. dos contratos no caso de exportação.
 
-###### Art. 19.º - 1. O montante da taxa a incidir sobre a semente de algodão, cujo pagamento fica a cargo dos proprietários da mesma, será fixado pelos Governadores-Gerais, sob proposta fundamentada dos Institutos.
+Art. 19.º - 1. O montante da taxa a incidir sobre a semente de algodão, cujo pagamento fica a cargo dos proprietários da mesma, será fixado pelos Governadores-Gerais, sob proposta fundamentada dos Institutos.
 
 2. Nas exportações de semente de algodão para o estrangeiro esta taxa não deverá exceder 35% do valor F. O. B. respectivo.
 
 3. Quando a semente de algodão seja utilizada no espaço nacional pela indústria de óleos ou para outro fim que não a sementeira, a taxa a aplicar não deverá exceder 35% sobre o seu valor F. O. B.
 
-###### Art. 20.º As alfândegas procederão à cobrança das taxas sobre o algodão em rama e a semente de algodão exportados ou importados, devendo entregar as respectivas importâncias para crédito da conta do Instituto do Algodão no Instituto de Crédito de cada Estado, no prazo de quinze dias.
+Art. 20.º As alfândegas procederão à cobrança das taxas sobre o algodão em rama e a semente de algodão exportados ou importados, devendo entregar as respectivas importâncias para crédito da conta do Instituto do Algodão no Instituto de Crédito de cada Estado, no prazo de quinze dias.
 
-###### Art. 21.º Todas as importâncias pertencentes ao Instituto do Algodão serão depositadas à sua ordem, em conta corrente, no respectivo Instituto de Crédito do Estado.
+Art. 21.º Todas as importâncias pertencentes ao Instituto do Algodão serão depositadas à sua ordem, em conta corrente, no respectivo Instituto de Crédito do Estado.
 
-###### Art. 22.º Os Institutos ficam autorizados a realizar os empréstimos indispensáveis à realização dos seus fins, precedendo autorização dos Governadores-Gerais.
+Art. 22.º Os Institutos ficam autorizados a realizar os empréstimos indispensáveis à realização dos seus fins, precedendo autorização dos Governadores-Gerais.
 
-###### Art. 23.º Os financiamentos feitos pelos Institutos poderão constar de documentos escritos e autenticados nos próprios serviços.
+Art. 23.º Os financiamentos feitos pelos Institutos poderão constar de documentos escritos e autenticados nos próprios serviços.
 
-###### Art. 24.º - 1. É obrigatória a inscrição nos Institutos do Algodão das entidades singulares ou colectivas que exerçam qualquer das seguintes actividades:
+Art. 24.º - 1. É obrigatória a inscrição nos Institutos do Algodão das entidades singulares ou colectivas que exerçam qualquer das seguintes actividades:
 
 a) Produção de algodão cuja área de cultura ultrapasse o limite fixado em regulamento;
 
@@ -254,25 +278,25 @@ c) Indústria de descaroçamento e prensagem.
 
 2. As condições indispensáveis para as inscrições referidas no corpo do artigo serão estabelecidas em regulamento.
 
-###### Art. 25.º - 1. Todo o algodão produzido pelos agricultores não inscritos nos Institutos será vendido em mercados, conforme for regulamentado pelos Governadores-Gerais.
+Art. 25.º - 1. Todo o algodão produzido pelos agricultores não inscritos nos Institutos será vendido em mercados, conforme for regulamentado pelos Governadores-Gerais.
 
 2. A fiscalização dos mercados será da competência dos Institutos, que poderão solicitar o apoio da entidade que superintender na cultura e a intervenção das autoridades locais, sempre que o julguem necessário.
 
-###### Art. 26.º - 1. Só podem ser exportadores de algodão em rama e da semente de algodão, além dos Institutos, as associações de produtores, para o algodão por eles produzido, e os comerciantes como tal inscritos.
+Art. 26.º - 1. Só podem ser exportadores de algodão em rama e da semente de algodão, além dos Institutos, as associações de produtores, para o algodão por eles produzido, e os comerciantes como tal inscritos.
 
 2. Os serviços e organismos do Estado que produzam algodão para fins de investigação, de experimentação, de multiplicação de semente ou de divulgação poderão igualmente proceder às operações comerciais atribuídas aos Institutos ou recorrer aos serviços destes para o efeito.
 
-###### Art. 27.º - 1. A autorização para a instalação de novas fábricas de descaroçamento e prensagem é da competência dos Institutos, sem prejuízo do disposto na legislação do condicionamento industrial.
+Art. 27.º - 1. A autorização para a instalação de novas fábricas de descaroçamento e prensagem é da competência dos Institutos, sem prejuízo do disposto na legislação do condicionamento industrial.
 
 2. Pelas operações de descaroçamento e prensagem as fábricas cobrarão uma importância a fixar pelos Governadores-Gerais por proposta dos Institutos.
 
-###### Art. 28.º Os industriais de descaroçamento e prensagem ficam obrigados à desinfecção da semente de algodão que os serviços competentes mandarem reservar ou entregar para sementeiras, de acordo com as instruções deles dimanadas.
+Art. 28.º Os industriais de descaroçamento e prensagem ficam obrigados à desinfecção da semente de algodão que os serviços competentes mandarem reservar ou entregar para sementeiras, de acordo com as instruções deles dimanadas.
 
-###### Art. 29.º Os agricultores que descarocem o seu algodão de conta própria podem escolher a fábrica que melhor lhes convier, com prévia autorização do Instituto.
+Art. 29.º Os agricultores que descarocem o seu algodão de conta própria podem escolher a fábrica que melhor lhes convier, com prévia autorização do Instituto.
 
-###### Art. 30.º O algodão em rama e a semente de algodão necessários ao abastecimento das indústrias locais ser-lhes-ão assegurados pelas formas que, sob proposta dos Institutos, vierem a ser estabelecidas pelos Governadores-Gerais.
+Art. 30.º O algodão em rama e a semente de algodão necessários ao abastecimento das indústrias locais ser-lhes-ão assegurados pelas formas que, sob proposta dos Institutos, vierem a ser estabelecidas pelos Governadores-Gerais.
 
-###### Art. 31.º - 1. O não cumprimento das obrigações impostas por este diploma e seus regulamentos dá lugar à aplicação, pelos directores dos Institutos, das seguintes penalidades:
+Art. 31.º - 1. O não cumprimento das obrigações impostas por este diploma e seus regulamentos dá lugar à aplicação, pelos directores dos Institutos, das seguintes penalidades:
 
 a) Censura por escrito;
 
@@ -288,38 +312,38 @@ d) Proibição total do exercício da actividade no respectivo Estado.
 
 4. Nenhuma penalidade poderá ser imposta sem que se conheça da defesa tempestivamente apresentada e das provas com ela oferecidas.
 
-###### Art. 32.º - 1. No caso de aplicação das penalidades previstas no artigo anterior, caberá recurso para o Tribunal Administrativo.
+Art. 32.º - 1. No caso de aplicação das penalidades previstas no artigo anterior, caberá recurso para o Tribunal Administrativo.
 
 2. Das penalidades previstas na alínea b) do artigo anterior só caberá recurso depois de depositadas as multas, no prazo de oito dias a contar da data da recepção da notificação, que será acompanhada da respectiva guia para depósito no Instituto de Crédito.
 
 3. Aos comerciantes e industriais que não depositem as multas no prazo fixado no número anterior será suspensa a emissão de certificados até efectivarem o depósito, sem prejuízo da imediata actuação para cobrança coerciva pelas execuções fiscais.
 
-###### Art. 33.º Em caso de reincidência, as multas serão graduadas pelo dobro.
+Art. 33.º Em caso de reincidência, as multas serão graduadas pelo dobro.
 
-###### Art. 34.º Ficam isentos de direitos de importação e de quaisquer encargos aduaneiros os maquinismos, aparelhos, equipamentos de laboratório, produtos químicos, sementes de algodão e pesticidas importados pelos Institutos.
+Art. 34.º Ficam isentos de direitos de importação e de quaisquer encargos aduaneiros os maquinismos, aparelhos, equipamentos de laboratório, produtos químicos, sementes de algodão e pesticidas importados pelos Institutos.
 
-###### Art. 35.º Os agentes de fiscalização do Instituto do Algodão são considerados agentes de autoridade e levantarão autos das infracções, verificadas, fazendo apreensões, de acordo com o previsto nas normas legais e regulamentares aplicáveis.
+Art. 35.º Os agentes de fiscalização do Instituto do Algodão são considerados agentes de autoridade e levantarão autos das infracções, verificadas, fazendo apreensões, de acordo com o previsto nas normas legais e regulamentares aplicáveis.
 
-###### Art. 36.º Os funcionários do Instituto do Algodão em serviço de fiscalização gozarão de cartões de identidade, que deverão exibir quando, no desempenho das suas funções, tal lhes for exigido, e têm livre acesso aos campos de cultura, armazéns, fábricas e escritórios das entidades sujeitas à fiscalização e, bem assim, aos armazéns e demais instalações das alfândegas.
+Art. 36.º Os funcionários do Instituto do Algodão em serviço de fiscalização gozarão de cartões de identidade, que deverão exibir quando, no desempenho das suas funções, tal lhes for exigido, e têm livre acesso aos campos de cultura, armazéns, fábricas e escritórios das entidades sujeitas à fiscalização e, bem assim, aos armazéns e demais instalações das alfândegas.
 
-###### Art. 37.º - 1. Os produtores, comerciantes e industriais de algodão prestarão aos Institutos todas as informações de que estes carecerem para o bom desempenho das suas atribuições.
+Art. 37.º - 1. Os produtores, comerciantes e industriais de algodão prestarão aos Institutos todas as informações de que estes carecerem para o bom desempenho das suas atribuições.
 
 2. O director do Instituto do Algodão pode determinar exame à escrita de qualquer entidade sujeita à disciplina do Instituto, designando logo os peritos.
 
 3. O resultado do exame é absolutamente secreto e só pode ser usado quando constitua indício seguro de falta grave, para o efeito de aplicação da respectiva penalidade.
 
-###### Art. 38.º (transitório). Enquanto não se der total execução ao disposto no artigo 2.º do [Decreto n.º 48198](https://diariodarepublica.pt/dr/detalhe/decreto/48198-1968-241049), de 11 de Janeiro de 1968, continuarão os Institutos a desempenhar as actividades relacionadas com o fomento da cultura do algodoeiro.
+Art. 38.º (transitório). Enquanto não se der total execução ao disposto no artigo 2.º do [Decreto n.º 48198](https://diariodarepublica.pt/dr/detalhe/decreto/48198-1968-241049), de 11 de Janeiro de 1968, continuarão os Institutos a desempenhar as actividades relacionadas com o fomento da cultura do algodoeiro.
 
-###### Art. 39.º O presente diploma entrará em vigor no trigéssimo dia a contar da data de publicação nos Boletins Oficiais respectivos.
+Art. 39.º O presente diploma entrará em vigor no trigéssimo dia a contar da data de publicação nos Boletins Oficiais respectivos.
 
-###### Art. 40.º São revogados o [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970), de 24 de Agosto de 1961, o [Decreto-Lei n.º 45179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45179-1963-693412), de 5 de Agosto de 1963, e o [Decreto n.º 47739](https://diariodarepublica.pt/dr/detalhe/decreto/47739-1967-312786), de 31 de Maio de 1967, mas sem prejuízo do disposto, transitoriamente, no artigo 38.º
+Art. 40.º São revogados o [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970), de 24 de Agosto de 1961, o [Decreto-Lei n.º 45179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45179-1963-693412), de 5 de Agosto de 1963, e o [Decreto n.º 47739](https://diariodarepublica.pt/dr/detalhe/decreto/47739-1967-312786), de 31 de Maio de 1967, mas sem prejuízo do disposto, transitoriamente, no artigo 38.º
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 25 de Março de 1974.**
+Promulgado em 25 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - B. Rebelo de Sousa.

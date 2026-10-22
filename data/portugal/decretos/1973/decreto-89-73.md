@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/89-1973-684442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3faf7af8451d753361ec062d8fd8c422f69eff1b64772f43bbcbba313218aa7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 562904c4f013a07c5bea51d2c79ef9828ce70099d780072351e0d961ba3552c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688981:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:675035:por
+  label: "Rectificado o artigo 16.º pela RECT.DD323.03.04.1973.PC, DG.IS [79] de 03.04.1973\0\0"
+  source: null
+  date: '1973-04-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:32Z'
   warnings: []
   errors: []
 ---
@@ -92,35 +113,35 @@ Por motivo de urgência, nos termos do disposto no § 3.º do artigo 136.º da C
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. Nas conservatórias ou suas delegações em que existam livros em estado de deterioração que possa torná-los inúteis deverão os conservadores proceder imediatamente à sua transcrição para um livro do modelo correspondente, observando-se tanto quanto possível a disposição gráfica do original.
+Artigo 1.º - 1. Nas conservatórias ou suas delegações em que existam livros em estado de deterioração que possa torná-los inúteis deverão os conservadores proceder imediatamente à sua transcrição para um livro do modelo correspondente, observando-se tanto quanto possível a disposição gráfica do original.
 
 2. A transcrição manual ou mecânica do que constar dos livros só será necessária quando não for possível usar-se a reprodução do livro original através de qualquer processo de reprodução por fotocópia.
 
-###### Art. 2.º Nos casos em que for impossível usar-se a duplicação por fotocópia, as assinaturas e rubricas ilegíveis constantes do livro original serão como tal declaradas pelo conservador.
+Art. 2.º Nos casos em que for impossível usar-se a duplicação por fotocópia, as assinaturas e rubricas ilegíveis constantes do livro original serão como tal declaradas pelo conservador.
 
-###### Art. 3.º O conservador certificará, por termo na última página, que verificou a exactidão da transcrição e rubricará todas as folhas.
+Art. 3.º O conservador certificará, por termo na última página, que verificou a exactidão da transcrição e rubricará todas as folhas.
 
-###### Art. 4.º O livro será depois presente ao juiz da comarca, que mandará lavrar termo de apresentação e rubricará todas as folhas.
+Art. 4.º O livro será depois presente ao juiz da comarca, que mandará lavrar termo de apresentação e rubricará todas as folhas.
 
-###### Art. 5.º O livro original cuja permanência não seja necessária na conservatória ou na delegação, por ter sido reproduzido com observância das formalidades referidas nos artigos anteriores, será entregue no arquivo histórico mais próximo, integrado na área do distrito judicial respectivo, mas os livros das comarcas da Guiné e de Cabo Verde serão entregues no Arquivo Histórico Ultramarino.
+Art. 5.º O livro original cuja permanência não seja necessária na conservatória ou na delegação, por ter sido reproduzido com observância das formalidades referidas nos artigos anteriores, será entregue no arquivo histórico mais próximo, integrado na área do distrito judicial respectivo, mas os livros das comarcas da Guiné e de Cabo Verde serão entregues no Arquivo Histórico Ultramarino.
 
-###### Art. 6.º A reprodução dos livros a que se refere o presente diploma não dá origem ao pagamento de emolumentos e está isenta de imposto do selo.
+Art. 6.º A reprodução dos livros a que se refere o presente diploma não dá origem ao pagamento de emolumentos e está isenta de imposto do selo.
 
-###### Art. 7.º Os livros de assentos que não tenham sido oportunamente legalizados poderão sê-lo pelo juiz da comarca ou pelo ajudante do procurador da República em inspecção, desde que satisfaçam os restantes requisitos formais para a legalização, sem prejuízo da nulidade intrínseca de qualquer acto constante dos assentos.
+Art. 7.º Os livros de assentos que não tenham sido oportunamente legalizados poderão sê-lo pelo juiz da comarca ou pelo ajudante do procurador da República em inspecção, desde que satisfaçam os restantes requisitos formais para a legalização, sem prejuízo da nulidade intrínseca de qualquer acto constante dos assentos.
 
-###### Art. 8.º Na alínea c) do n.º 1 do artigo 25.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, a classificação mínima para os conservadores e notários poderem ser promovidos à classe imediata por ordem de antiguidade é a de Bom, mantendo-se os restantes requisitos para a promoção.
+Art. 8.º Na alínea c) do n.º 1 do artigo 25.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, a classificação mínima para os conservadores e notários poderem ser promovidos à classe imediata por ordem de antiguidade é a de Bom, mantendo-se os restantes requisitos para a promoção.
 
-###### Art. 9.º A competência dos Governadores das províncias ultramarinas fixada na alínea b) do artigo 89.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, deixa de carecer de confirmação dada em portaria ministerial.
+Art. 9.º A competência dos Governadores das províncias ultramarinas fixada na alínea b) do artigo 89.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, deixa de carecer de confirmação dada em portaria ministerial.
 
-###### Art. 10.º É criado mais um cartório notarial de 1.ª classe na comarca de Nova Lisboa.
+Art. 10.º É criado mais um cartório notarial de 1.ª classe na comarca de Nova Lisboa.
 
-###### Art. 11.º O actual cartório notarial da comarca de Nova Lisboa terá a designação de 1.º cartório notarial e o criado pelo artigo anterior será o 2.º cartório, funcionando em instalações separadas.
+Art. 11.º O actual cartório notarial da comarca de Nova Lisboa terá a designação de 1.º cartório notarial e o criado pelo artigo anterior será o 2.º cartório, funcionando em instalações separadas.
 
-###### Art. 12.º É criado um lugar de notário de 1.ª classe para o cartório notarial referido no artigo 10.º
+Art. 12.º É criado um lugar de notário de 1.ª classe para o cartório notarial referido no artigo 10.º
 
-###### Art. 13.º A Conservatória dos Registos da Comarca de Barlavento passa a ser de 1.ª classe.
+Art. 13.º A Conservatória dos Registos da Comarca de Barlavento passa a ser de 1.ª classe.
 
-###### Art. 14.º - 1. Quando o limite da comparticipação emolumentar garantido no n.º 3 do artigo 26.º do [Decreto n.º 462/72](https://diariodarepublica.pt/dr/detalhe/decreto/462-1972-686245), de 17 de Novembro, não seja atingido no termo do 1.º quadrimestre de cada ano pelos emolumentos contados nos processos, o Cofre Geral de Justiça integrará a diferença, o mesmo se fazendo nos quadrimestres seguintes em que ela continue a subsistir.
+Art. 14.º - 1. Quando o limite da comparticipação emolumentar garantido no n.º 3 do artigo 26.º do [Decreto n.º 462/72](https://diariodarepublica.pt/dr/detalhe/decreto/462-1972-686245), de 17 de Novembro, não seja atingido no termo do 1.º quadrimestre de cada ano pelos emolumentos contados nos processos, o Cofre Geral de Justiça integrará a diferença, o mesmo se fazendo nos quadrimestres seguintes em que ela continue a subsistir.
 
 2. Nos tribunais criminais e menores de competência especializada a que se aplique o regime do número anterior, enquanto não for publicado o novo Código das Custas Judiciais, não haverá a obrigação de depósito para a partilha a que se refere o n.º 3 do artigo 87.º do [Decreto n.º 352/72](https://diariodarepublica.pt/dr/detalhe/decreto/352-1972-688981), de 9 de Setembro, e o imposto de justiça cobrado nos respectivos processos terá o seguinte destino:
 
@@ -148,24 +169,24 @@ Participação emolumentar ... 60
 
 6. Relativamente aos tribunais administrativos e enquanto não for revista a sua organização, passa a ser aplicável o princípio estabelecido no número anterior para os provimentos futuros.
 
-###### Art. 15.º O § 11.º do artigo 639.º do Código de Processo Penal passa a ter a seguinte redacção:
+Art. 15.º O § 11.º do artigo 639.º do Código de Processo Penal passa a ter a seguinte redacção:
 
 § 11.º A multa e o imposto de justiça poderão, no todo ou em parte, ser pagos em prestações, cujo valor e prazos de pagamento serão fixados na decisão condenatória e posteriormente por despacho do juiz, desde que o réu assegure, por meio de fiança, nos termos do § 7.º ou dos artigos 304.º e seguintes, o pagamento devido, sendo cobradas com a primeira prestação as importâncias referidas no § único do artigo anterior.
 
 A falta de pagamento de qualquer prestação implicará a quebra da fiança.
 
-###### Art. 16.º As modificações e os avisos que, nos termos da portaria preambular do Código de Processo Civil, podem ser feitos pelo correio, se houver distribuição domiciliária, não se farão por essa via nas localidades em que, por força de preceito legal, se considere como entrega domiciliária o simples depósito da correspondência na caixa postal do destinatário.
+Art. 16.º As modificações e os avisos que, nos termos da portaria preambular do Código de Processo Civil, podem ser feitos pelo correio, se houver distribuição domiciliária, não se farão por essa via nas localidades em que, por força de preceito legal, se considere como entrega domiciliária o simples depósito da correspondência na caixa postal do destinatário.
 
-###### Art. 17.º Às notificações dos mandatários judiciais, quando tenham escritório na localidade onde funciona a sede do tribunal, ou quando nela tenham escolhido domicílio, é aplicável o disposto na segunda parte do n.º 3 do artigo 234.º do Código de Processo Civil.
+Art. 17.º Às notificações dos mandatários judiciais, quando tenham escritório na localidade onde funciona a sede do tribunal, ou quando nela tenham escolhido domicílio, é aplicável o disposto na segunda parte do n.º 3 do artigo 234.º do Código de Processo Civil.
 
-###### Art. 18.º É tornado extensivo ao ultramar o artigo 3.º do [Decreto n.º 251/71](https://diariodarepublica.pt/dr/detalhe/decreto/251-1971-644141), de 11 de Junho.
+Art. 18.º É tornado extensivo ao ultramar o artigo 3.º do [Decreto n.º 251/71](https://diariodarepublica.pt/dr/detalhe/decreto/251-1971-644141), de 11 de Junho.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 23 de Fevereiro de 1973.**
+Promulgado em 23 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

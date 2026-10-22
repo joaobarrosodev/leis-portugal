@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 297/1979, 2º Suplemento, Série I de 1979-12-27
   number: '297'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3366-(34) a 3366-(57)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf
 entry_into_force_dates: []
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/142-a-1979-147377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af6c534eee4ab862f6465a4a345a57a722918e0dbbdef1c1c6d5a0f044b08fe1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a5043b69c140e401216286027f202c40c832bf94cb39be6f91f180a628afdf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Circulação de Mercadorias
+- Convenção
+- Direitos Aduaneiros
+- Indústria Automóvel
+- Pauta Aduaneira
+- Portugal
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:311456:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311456:por
+  label: "Substituído o texto do § 1 do art. 4º do Protocolo Adicional ao Acordo, aprovado para ratificação pelo Dec 137/77,\
+    \ de 21-Out, modificado pelo art. 5º do Protocolo Complementar aprovado pelo presente diploma, pelo DEC.19/83.1983.03.01.MNE,\
+    \ DR.IS [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/19-1983-311456
+  date: '1983-03-01'
+- type: corrected_by
+  target: pt:dre:475341:por
+  label: Rectificado pela DECL.DD6919.07.05.1980.PCM, DR.IS [105] de 07.05.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-475341
+  date: '1980-05-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:52:17Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +110,15 @@ validation:
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Complementar ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia, de 22 de Julho de 1972, assinado em Bruxelas, em 19 de Dezembro de 1979, cujos textos, nas línguas portuguesa e francesa, acompanham o presente decreto.
+Artigo único. É aprovado o Protocolo Complementar ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia, de 22 de Julho de 1972, assinado em Bruxelas, em 19 de Dezembro de 1979, cujos textos, nas línguas portuguesa e francesa, acompanham o presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 21 de Dezembro de 1979.**
+Assinado em 21 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Protocole complémentaire à l'accord entre la Communauté Économique Européenne et la République portugaise
 
@@ -128,7 +148,7 @@ e) Les produits de l'annexe II du protocole à l'exception des produits figurant
 
 2 - Pour les produits ci-après de l'annexe II du protocole le Portugal, en cas d'application de l'article 6 du protocole peut, après une réduction de 10% du droit réintroduit, suspendre jusqu'au 31 décembre 1982 la poursuite du désarmement tarifaire.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 ARTICLE 3
 
@@ -144,7 +164,7 @@ ARTICLE 5
 
 1 - Pour le période allant du 1er janvier 1980 au 31 décembre 1983, les produits ci-après, originaires du Portugal, sont soumis à l'importation dans la Communauté dans sa composition originaire et en Irlande, à des plafonds annuels en exemption des droits de douane:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Dès qu'un plafond fixé pour l'importation d'un produit est atteint, la Communauté peut rétablir da perception des droits résiduels pour le produit en question jusqu'a la fin de l'année civile.
 
@@ -154,11 +174,11 @@ Dès qu'un plafond fixé pour l'importation d'un produit est atteint, la Communa
 
 Royaume-Uni
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Danemark
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Dès qu'un plafond fixé pour l'importation d'un produit est atteint, le Danemark et le Royaume-Uni peuvent rétablir la perception des droits résiduels pour le produit en question jusqu'à la fin de l'année civile.
 
@@ -172,7 +192,7 @@ ARTICLE 7
 
 Pour les produits ci-après, originaires du Portugal, les droits de douane à l'importation dans la communauté sont réduits dans les proportions indiquées pour chacun deux:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 ARTICLE 8
 
@@ -182,7 +202,7 @@ ARTICLE 9
 
 1 - Pour les produits ci-après, originaires du Portugal, les droits de douane à l'importation dans la Communauté sont réduits dans les proportions et dans les limites des contingents tarifaires communautaires annuels indiqués pour chacun deux:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 2 - L'admission des vins figurant au paragraphe 1 au bénéfice de contingents tarifaires est subordonnée au respect du prix de référence qui leur est applicable. Pour que ces vins puissent bénéficier des contingents tarifaires, les prix pratiqués à l'importation dans la Communauté doivent être, à tout moment, au moins égaux aux prix franco-frontière de référence de la Communauté.
 
@@ -208,7 +228,7 @@ ANNEXE
 
 Produits de la liste A de l'annexe D du Protocole n.º 1 à l'accord visés à l'article 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Protocole concernant le régime particulier applicable aux importations de voitures automobiles et a l'industrie de montage au Portugal.
 
@@ -232,7 +252,7 @@ ARTICLE 3
 
 Le Portugal ouvre annuellement des contingents à l'importation pour les voitures automobiles, originaires de la Communauté, d'un poids brut supérieur à 3500 kg (CBU), selon les modalités suivantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 ARTICLE 4
 
@@ -280,7 +300,7 @@ ANNEXE I
 
 Liste des contingents à l'importation visés à l'article 2, paragraphe 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 ANNEXE II
 
@@ -404,7 +424,7 @@ Ernâni Rodrigues Lopes
 
 ANNEXE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Lettre n.º 2
 
@@ -424,7 +444,7 @@ Brendan Dillon
 
 ANNEXE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Échange de lettres concernant les produits relevant du traité instituant la Communauté européenne du charbon et de l'acier.
 
@@ -498,7 +518,7 @@ e) Os produtos do anexo II do Protocolo Adicional, com excepção dos produtos q
 
 2 - Para os produtos do anexo II do Protocolo Adicional que se seguem, Portugal pode, em caso de aplicação do artigo 6.º do Protocolo Adicional, e após uma redução de 10% do direito reintroduzido, suspender, até 31 de Dezembro de 1982, o desarmamento pautal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 ###### ARTIGO 3.º
 
@@ -514,7 +534,7 @@ As Partes Contratantes examinarão, a partir do início de 1982 e de acordo com 
 
 1 - Para o período que decorre entre 1 de Janeiro de 1980 e 31 de Dezembro de 1983, os produtos originários de Portugal abaixo mencionados serão submetidos, aquando da importação na Comunidade na sua composição originária e na Irlanda, a plafonds anuais com isenção de direitos aduaneiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Desde que o plafond fixado para a importação de um produto seja atingido, a Comunidade poderá restabelecer a cobrança dos direitos residuais para o produto em causa até ao fim do ano civil em curso.
 
@@ -524,11 +544,11 @@ Desde que o plafond fixado para a importação de um produto seja atingido, a Co
 
 Reino Unido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Dinamarca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Desde que o plafond fixado para a importação de um produto seja atingido, a Dinamarca e o Reino Unido poderão restabelecer a cobrança dos direitos residuais para o produto em causa até ao fim do ano civil em curso.
 
@@ -542,7 +562,7 @@ Protocolo anexo estabelece o regime especial aplicável às importações de ve�
 
 Para os produtos originários de Portugal a seguir enumerados, os direitos de importação na Comunidade serão reduzidos nas proporções indicadas para cada um deles:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 ###### ARTIGO 8.º
 
@@ -552,7 +572,7 @@ Em relação aos preparados e conservas de sardinha, classificados na subposiç�
 
 1 - Para os produtos a seguir mencionados, originários de Portugal, os direitos de importação na Comunidade são reduzidos nas proporções e dentro dos limites dos contingentes pautais comunitários anuais indicados para cada um deles:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 2 - A admissão ao regime dos contingentes pautais dos vinhos que figuram no parágrafo 1 está subordinada ao respeito do preço de referência que lhe é aplicável. Para que esses vinhos possam beneficiar dos contingentes pautais, os preços praticados aquando da importação na Comunidade devem ser, em cada momento, pelo menos iguais aos preços franco-fronteira de referência da Comunidade.
 
@@ -576,7 +596,7 @@ O presente Protocolo é redigido, em exemplar duplo, em língua portuguesa, em l
 
 ## ANEXO — Produtos da lista A do anexo D do Protocolo n.º 1 do Acordo, referidos no artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Protocolo relativo ao regime especial aplicável às importações de veículos automóveis e à indústria de montagem em Portugal.
 
@@ -600,7 +620,7 @@ Cada marca mantém, todavia, o direito de beneficiar de um contingente mínimo d
 
 Portugal abre anualmente contingentes para a importação de veículos automóveis, de peso bruto superior a 3500 kg (CBU), originários da Comunidade, em conformidade com as modalidades seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 ###### ARTIGO 4.º
 
@@ -646,7 +666,7 @@ As quotas adicionais previstas nos artigos 5.º e 6.º não são acumuláveis.
 
 ## ANEXO I — Lista dos contingentes referidos no parágrafo 1 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 ## ANEXO II — Quotas de base por marcas do ano de 1979 previstas no parágrafo 1 do artigo 4.º
 
@@ -736,7 +756,7 @@ Em nome do Governo da República Portuguesa,
 
 Ernâni Rodrigues Lopes.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Carta n.º 2
 
@@ -754,7 +774,7 @@ Em nome do Conselho das Comunidades Europeias,
 
 Brendan Dillon.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29702/00340057.pdf)
 
 Troca de cartas relativa aos produtos abrangidos pelo Tratado que institui a Comunidade Europeia do Carvão e do Aço.
 

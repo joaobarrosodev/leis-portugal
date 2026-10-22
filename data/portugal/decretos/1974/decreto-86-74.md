@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/86-1974-412640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:36:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e866fda9722d0e33d9143e36c64ac89e04836167dc97ebe8eb1652a93d38cb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee7c53f34020766a05463c725c9dc18a8b999241431b37a49c2a00033141f897
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:36:50Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +86,15 @@ de 5 de Março
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a nova versão do artigo VI do Estatuto da Agência Internacional de Energia Atómica, adoptada pela XIV Conferência Geral realizada em Viena, em Setembro de 1970, cujo texto em francês e respectiva tradução para português vão em anexo ao presente decreto.
+Artigo único. É aprovada, para ratificação, a nova versão do artigo VI do Estatuto da Agência Internacional de Energia Atómica, adoptada pela XIV Conferência Geral realizada em Viena, em Setembro de 1970, cujo texto em francês e respectiva tradução para português vão em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 20 de Fevereiro de 1974.**
+Assinado em 20 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ARTICLE VI
 
@@ -146,9 +146,7 @@ C) Les Membres représentés au Conseil des gouverneurs en application de l'alin
 
 D) Les Membres représentés au Conseil des gouverneurs en application de l'alinéa A), 2, du présent article exercent leurs fonctions de la fin de la session annuelle ordinaire de la Conférence générale au cours de laquelle ils sont élus à la fin de la deuxième session annuelle ordinaire que la Conférence générale tient par la suite.
 
-ARTIGO VI
-
-Conselho de Governadores
+###### ARTIGO VI — Conselho de Governadores
 
 A) O Conselho de Governadores terá a seguinte composição:
 

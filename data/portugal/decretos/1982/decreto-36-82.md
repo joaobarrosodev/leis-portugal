@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1982-608221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a6c5dde08ac3406f4526917b981ffa9de58fb91d99ccb6a1644a6c7649a800b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1b1299950dc47197453b4152dbc492e9b5157ca11276899d11844f030ab9245
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperação Cultural
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:08Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +88,15 @@ de 27 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Cultural entre o Governo da República Portuguesa e o Governo da República da Zâmbia, assinado em Lusaka aos 2 de Dezembro de 1981, cujo texto em inglês vai anexo ao presente decreto assim como a correspondente tradução em português.
+Artigo único. É aprovado, para ratificação, o Acordo Cultural entre o Governo da República Portuguesa e o Governo da República da Zâmbia, assinado em Lusaka aos 2 de Dezembro de 1981, cujo texto em inglês vai anexo ao presente decreto assim como a correspondente tradução em português.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 24 de Fevereiro de 1982.**
+Assinado em 24 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CULTURAL AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF PORTUGAL AND THE GOVERNMENT OF THE REPUBLIC OF ZAMBIA.
 
@@ -186,11 +188,11 @@ ACORDO CULTURAL ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLI
 
 O Governo da República Portuguesa e o Governo da República da Zâmbia, a seguir designados como «Duas Partes», desejosos de fortalecer os laços de amizade entre os seus povos e de desenvolver as relações entre os 2 países nos domínios do ensino, da cultura e da ciência, com base no respeito recíproco dos princípios da soberania e da independência nacionais, da igualdade dos direitos e da não ingerência nos assuntos internos, decidiram firmar o presente Acordo:
 
-ARTIGO I
+###### ARTIGO I
 
 As Duas Partes encorajarão todas as actividades susceptíveis de contribuir para o melhor conhecimento das respectivas culturas e principais domínios de actividade artística, científica e educativa.
 
-ARTIGO II
+###### ARTIGO II
 
 As Duas Partes favorecerão o desenvolvimento das relações no domínio do ensino através:
 
@@ -200,19 +202,19 @@ b) De visitas recíprocas de professores de todos os graus de ensino, a fim de s
 
 c) Da divulgação e do estudo das línguas dos 2 países.
 
-ARTIGO III
+###### ARTIGO III
 
 As Duas Partes comprometem-se a estudar a possibilidade de criação de leitorados e cursos de Português em instituições de ensino e de cultura na República da Zâmbia.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Cada uma das Partes estudará a possibilidade de equivalência recíproca de títulos, graus e diplomas académicos ou científicos obtidos nos estabelecimentos de ensino da outra Parte.
 
-ARTIGO V
+###### ARTIGO V
 
 Cada uma das Partes compromete-se, nos limites da sua legislação interna, a proceder de maneira que os textos utilizados nos seus estabelecimentos de ensino oficial não contenham inexactidões no que se refere à História da outra Parte.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Duas Partes encorajarão o desenvolvimentos das relações recíprocas nos domínios cultural, artístico e científico, comprometendo-se para isso a:
 
@@ -224,23 +226,23 @@ c) Favorecer a organização de exposições de arte, concertos e audições mus
 
 d) Facilitar a cooperação entre as instituições de ensino especializadas, centros culturais e científicos, escolas de arte, museus, bibliotecas e arquivos.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Para a salvaguarda do património nacional de cada país, as Duas Partes comprometem-se a impedir a saída e entrada de obras de arte ou de espécies documentais de valor histórico ou patrimonial.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As Duas Partes favorecerão o intercâmbio nos domínios dos desportos e da educação física.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Cada uma das Partes estudará a possibilidade de conceder anualmente aos nacionais da outra Parte bolsas de estudo que lhes permitam realizar estudos ou estágios em centros culturais ou frequentar cursos de especialização em estabelecimentos de ensino superior ou equiparados.
 
-ARTIGO X
+###### ARTIGO X
 
 Com o fim de aplicar as disposições do presente Acordo, as Duas Partes estabelecerão periodicamente programas de intercâmbio nos domínios do ensino, da cultura e da ciência, definindo as actividades concretas a realizar e o modo mais adequado à respectiva efectivação.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1 - Para a consecução dos objectivos referidos no presente Acordo será constituída uma comissão mista que terá a seu cargo apresentar sugestões, recomendações e conselhos às Duas Partes.
 
@@ -250,11 +252,11 @@ ARTIGO XI
 
 4 - A comissão mista poderá igualmente convocar peritos para as reuniões na qualidade de assessores.
 
-ARTIGO XII
+###### ARTIGO XII
 
 O presente Acordo entrará em vigor a partir da data da troca definitiva dos instrumentos de ratificação entre as Duas Partes.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 O Acordo será válido pelo período de 5 anos, podendo ser renovado por períodos sucessivos de 2 anos e por recondução tácita, salvo se uma das Partes o denunciar, por escrito, pelo menos 6 meses antes da sua expiração.
 

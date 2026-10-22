@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/17/1993/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-1993-275860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b207745ee8f37a957581ae2def65ecff604f1e0267ed2a194b73deb3ef08c15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7836b5506fe4baab64dae174146dd35e65187a72e736b5198849dae3c6308fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixada
+- Brasil
 - Brasília
 - Cidadão Nacional
 - Consulado
 - Convenção
 - Cooperação Consular
-- Portugal
+- Embaixada
 - Grupo de Trabalho
-- Brasil
+- Portugal
 relationships: []
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:19Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +96,19 @@ de 14 de Maio
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil para a Constituição de Um Grupo de Cooperação Consular Luso-Brasileiro, assinado em Brasília a 7 de Maio de 1991, cuja versão autêntica segue em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil para a Constituição de Um Grupo de Cooperação Consular Luso-Brasileiro, assinado em Brasília a 7 de Maio de 1991, cuja versão autêntica segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1993. - Aníbal António Cavaco Silva - José Manuel de Morais Briosa e Gala.
 
-**Promulgado em 26 de Abril de 1993.**
+Promulgado em 26 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1993.**
+Referendado em 27 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL PARA A CONSTITUIÇÃO DE UM GRUPO DE COOPERAÇÃO CONSULAR LUSO-BRASILEIRO.
 

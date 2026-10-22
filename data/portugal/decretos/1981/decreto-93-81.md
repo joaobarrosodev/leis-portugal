@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/93-1981-579767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:58:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e465d2745721eb3d5337f7a9f1a118bd18051d15fba48d51416553670e8877bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0adcb1f37785e495d8cd8cc9c61e18f0f7a962bed55feb95b6da2ad5aff001e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:58:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Argélia
+- Convenção
+- Cooperação Económica
+- Cooperação Técnica
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:58:44Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 20 de Julho
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo da República Argelina Democrática e Popular, assinado em Lisboa aos 15 de Maio de 1981, cujos textos, em línguas portuguesa, árabe e francesa, acompanham o presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo da República Argelina Democrática e Popular, assinado em Lisboa aos 15 de Maio de 1981, cujos textos, em línguas portuguesa, árabe e francesa, acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Assinado em 8 de Julho de 1981.**
+Assinado em 8 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo da República Argelina Democrática e Popular.
 
@@ -107,37 +113,37 @@ Conscientes das vantagens recíprocas de tal cooperação e persuadidos de que a
 
 acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Para cumprir os objectivos do presente Acordo, as duas Partes Contratantes declaram a sua vontade de tentar, dentro de um espírito de igualdade e mútuas vantagens, garantir, tendo em conta os interesses económicos dos dois países, a cooperação económica e técnica, de modo a permitir a mais completa utilização das possibilidades que resultam do progresso das suas respectivas economias.
 
-ARTIGO II
+###### ARTIGO II
 
 A fim de atingir esses objectivos, as Partes Contratantes, reconhecendo a importância de que se reveste a cooperação económica e técnica para o desenvolvimento das suas relações económicas, favorecerão por todos os meios ao seu alcance o estabelecimento e o alargamento da cooperação entre as empresas, organizações económicas e instituições argelinas e portuguesas em diversos domínios e, em especial, na indústria, na agricultura, nos transportes, na engenharia, na pesca, no desenvolvimento técnico e na formação de quadros nos dois países, bem como nos mercados de terceiros países, tendo em conta as vantagens mútuas.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes favorecerão a conclusão de acordos específicos nos diferentes domínios e, principalmente, naqueles indicados no artigo anterior.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Dentro deste espírito e com o fim de facilitar a execução dos projectos resultantes da cooperação prevista no presente Acordo, as duas Partes Contratantes favorecerão as relações no plano económico, principalmente pela concessão das necessárias facilidades e autorizações administrativas, tendo em conta as leis e os regulamentos, assim como a política económica em vigor nos seus respectivos países.
 
-ARTIGO V
+###### ARTIGO V
 
 A cooperação prevista nos artigos I e II será posta em execução tendo em conta os planos de desenvolvimento de cada uma das Partes Contratantes.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Os pagamentos referentes às operações realizadas no âmbito do presente Acordo serão efectuados em divisas livremente convertíveis e de acordo com as leis e regulamentos em vigor em cada um dos dois países.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Para atingir os objectivos do presente Acordo, as Partes Contratantes acordam em criar uma comissão mista composta de representantes dos dois Governos, que se reunirá uma vez por ano ou sempre que uma ou outra das Partes Contratantes o requeira. Realizará as suas sessões alternadamente em Argel e em Lisboa.
 
 Para além das sessões da comissão mista, os contactos entre as duas Partes Contratantes serão assegurados por via diplomática normal.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 A comissão mista será encarregada de:
 
@@ -147,7 +153,7 @@ Estudar os problemas ocasionados pela execução do presente Acordo, bem como as
 
 Seguir o desenvolvimento das relações económicas, técnicas e industriais entre os dois países, tanto no plano bilateral como no plano multilateral, bem como formular as recomendações eventualmente necessárias a fim de melhorar quantitativamente e qualitativamente esta cooperação entre os dois países.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O presente Acordo entrará provisoriamente em vigor na data da sua assinatura, e definitivamente, logo que as duas Partes Contratantes forem mutuamente notificadas do cumprimento das formalidades constitucionais a elas inerentes. O Acordo será válido por um período de cinco anos. Passado este prazo, o presente Acordo será anualmente prorrogado por recondução tácita, se não for denunciado por escrito com um pré-aviso de seis meses antes da data da sua expiração.
 
@@ -163,7 +169,7 @@ Pelo Governo da República Argelina Democrática e Popular:
 
 (Assinatura ilegível.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16400/17831786.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16400/17831786.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16400/17831786.pdf)
 
 Accord de Coopération Économique et Technique entre le Gouvernement de la République Portugaise et le Gouvernment de la République Algérienne Démocratique et Populaire.
 

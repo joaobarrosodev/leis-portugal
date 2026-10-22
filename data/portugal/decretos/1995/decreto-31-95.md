@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/31/1995/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/31-1995-434621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4b440b06b9d16e89c8a2d30736dd4380a9d236cdb310db06d4c2f059064a713
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5092b8c23a69441788ccf57a8f213bbcc29326000990d5c9da77e51fdd20fbf1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Proteção dos Animais
 - Convenção
-- Portugal
+- Espécie Protegida
 - Europa
 - Londres
 - Morcego
+- Portugal
 - Proteção do Ambiente
-- Espécie Protegida
+- Proteção dos Animais
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:570682:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570682:por
+  label: "Aprovada a Emenda ao Acordo sobre a Conservação dos Morcegos na Europa pelo DEC.5/2014.29.01.2014.MNE\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/5-2014-570682
+  date: '2014-01-29'
 article_structure:
-  article_count: 1
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:51Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +104,17 @@ de 18 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para aceitação, o Acordo sobre a Conservação dos Morcegos na Europa, adoptado em Londres, em 10 de Agosto de 1991, cujas versões autênticas nas línguas inglesa, alemã e francesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para aceitação, o Acordo sobre a Conservação dos Morcegos na Europa, adoptado em Londres, em 10 de Agosto de 1991, cujas versões autênticas nas línguas inglesa, alemã e francesa e respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 1995. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia.
 
 Ratificado em 28 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Agosto de 1995.**
+Referendado em 1 de Agosto de 1995.
 
 Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.
 
@@ -271,7 +276,7 @@ The original of the Agreement, in English, French and German, each version being
 
 The Depositary shall inform all Range States and Regional Economic Integration Organisations of signatures, deposit of instruments of ratification, acceptance, approval or accession, entry into force of this Agreement, amendments thereto, reservations and notifications of denunciation.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/190a00/51775186.pdf))](https://files.diariodarepublica.pt/1s/1995/08/190a00/51775186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/190a00/51775186.pdf)
 
 ACCORD RELATIF A LA CONSERVATION DES CHAUVES-SOURIS EN EUROPE
 
@@ -447,9 +452,7 @@ Convictos de que a conclusão de um acordo para estas espécies beneficiará gra
 
 acordaram o seguinte:
 
-Artigo I
-
-Objectivo e interpretação
+###### Artigo I — Objectivo e interpretação
 
 Para os fins do presente Acordo:
 
@@ -465,9 +468,7 @@ e) «Partes» significa, exceptuando quando o contexto expressamente o indicar, 
 
 f) «Na Europa» significa o continente europeu.
 
-Artigo II
-
-Disposições gerais
+###### Artigo II — Disposições gerais
 
 1 - O presente Acordo é um acordo dentro do significado do parágrafo 3 do artigo IV da Convenção.
 
@@ -477,9 +478,7 @@ Disposições gerais
 
 4 - Os adequados apoios administrativo e financeiro para este Acordo deverão ser determinados pelas Partes, com consulta às Partes da Convenção.
 
-Artigo III
-
-Obrigações fundamentais
+###### Artigo III — Obrigações fundamentais
 
 1 - Cada Parte proibirá a captura deliberada, aprisionamento ou morte de morcegos, excepto quando sob autorização das respectivas autoridades competentes.
 
@@ -497,17 +496,13 @@ Obrigações fundamentais
 
 8 - Cada Parte deverá, sempre que achar apropriado e quando avaliar a utilização de pesticidas, considerar os seus efeitos potenciais nos morcegos, assim como deverá desenvolver esforços no sentido da substituição de tratamentos químicos da madeira, altamente tóxicos para os morcegos, por alternativas mais seguras.
 
-Artigo IV
-
-Implementação a nível nacional
+###### Artigo IV — Implementação a nível nacional
 
 1 - Cada Parte adoptará e fará cumprir as medidas legislativas e administrativas que possam ser necessárias para dar efeito a este Acordo.
 
 2 - As disposições do presente Acordo não afectarão de modo algum o direito das Partes em adoptar medidas mais restritas no que respeita à conservação dos morcegos.
 
-Artigo V
-
-Reuniões das Partes
+###### Artigo V — Reuniões das Partes
 
 1 - Efectuar-se-ão periodicamente reuniões entre as Partes deste Acordo. O Governo do Reino Unido convocará a primeira reunião das Partes do presente Acordo dentro do prazo de três anos após a data de entrada em vigor deste. As Partes do Acordo adoptarão regras de funcionamento das reuniões e regras financeiras, incluindo as provisões relativas ao orçamento e ao montante das contribuições para o período financeiro seguinte. Tais regras serão aprovadas por maioria de dois terços das Partes presentes e com direito de voto. Decisões no âmbito financeiro requererão maioria de três quartos das Partes presentes e com direito de voto.
 
@@ -519,15 +514,11 @@ Reuniões das Partes
 
 5 - As organizações de integração económica regional que sejam parte deste Acordo, e em assuntos da sua competência, exercem o seu direito de voto com um número de votos igual ao número dos seus Estados membros que são Partes do Acordo e presentes durante a votação. Uma organização de integração económica regional não pode exercer o seu direito de voto se os seus Estados membros o exercerem e vice-versa.
 
-Artigo VI
-
-Relatórios sobre a implementação
+###### Artigo VI — Relatórios sobre a implementação
 
 Cada Parte apresentará em cada reunião das Partes um relatório actualizado sobre a implementação deste Acordo. Este relatório deverá circular pelas Partes com uma antecedência não inferior a 90 dias da data do início da reunião oária.
 
-Artigo VII
-
-Modificações ao Acordo
+###### Artigo VII — Modificações ao Acordo
 
 1 - Este Acordo pode ode ser modificado em qualquer reunião das Partes.
 
@@ -537,21 +528,15 @@ Modificações ao Acordo
 
 4 - As modificações serão adoptadas por maioria de dois terços das Partes presentes e com direito de voto e entrarão em vigor para as Partes que as aceitaram 60 dias depois do depósito do quinto instrumento de aceitação da modificação junto do depositário. Subsequentemente, entrarão em vigor 30 dias após a entrega pela Parte ao depositário do seu instrumento de aceitação da modificação.
 
-Artigo VIII
-
-Reservas
+###### Artigo VIII — Reservas
 
 As cláusulas deste Acordo não serão sujeitas a reservas gerais; no entanto, um Estado da área de distribuição ou uma organização de integração económica regional, ao tornar-se numa das Partes, segundo os artigos X ou XI, pode introduzir uma reserva específica em relação a qualquer espécie particular de morcegos.
 
-Artigo IX
-
-Resolução dos diferendos
+###### Artigo IX — Resolução dos diferendos
 
 Qualquer diferendo que possa surgir entre as Partes no que respeita à interpretação ou aplicação das disposições deste Acordo será sujeito a negociação entre as Partes em causa.
 
-Artigo X
-
-Assinatura, ratificação, aceitação e aprovação
+###### Artigo X — Assinatura, ratificação, aceitação e aprovação
 
 O presente Acordo estará aberto para assinatura pelos Estados da área de distribuição ou organizações de integração económica regional que passarão a Partes pela:
 
@@ -563,27 +548,19 @@ Os instrumentos de ratificação, aceitação ou aprovação serão entregues ao
 
 O presente Acordo permanecerá aberto para assinatura até à data de entrada em vigor do mesmo.
 
-Artigo XI
-
-Adesão
+###### Artigo XI — Adesão
 
 O presente Acordo estará aberto à adesão de Estados da área de distribuição ou organizações de integração económica regional a partir da data de entrada em vigor do mesmo. Os instrumentos de adesão serão entregues ao depositário.
 
-Artigo XII
-
-Entrada em vigor
+###### Artigo XII — Entrada em vigor
 
 O presente Acordo entrará em vigor no 90.º dia após a data em que cinco Estados da área de distribuição passem a ser Partes do Acordo, segundo o estipulado no artigo X. Depois disso, entrará em vigor para um Estado signatário ou aderente no 30.º dia após o depósito do seu instrumento de ratificação, aceitação, aprovação ou adesão.
 
-Artigo XIII
-
-Denúncia e termo
+###### Artigo XIII — Denúncia e termo
 
 Qualquer das Partes pode denunciar em qualquer altura o presente acordo, através de notificação escrita ao depositário. A denúncia produzirá efeitos 12 meses após a recepção da notificação pelo depositário. O Acordo permanecerá válido por um período mínimo de 10 anos e posteriormente expirará na data em que as Partes sejam em número inferior a cinco.
 
-Artigo XIV
-
-Depositário
+###### Artigo XIV — Depositário
 
 O texto original do presente Acordo, nas línguas inglesa, francesa e alemã, sendo autêntica cada uma destas versões, é entregue ao Governo do Reino Unido, que é o depositário, que dele fornecerá cópias autenticadas a todos os Estados e a todas as organizações de integração económica regional que o tenham subscrito ou que tenham depositado um instrumento de ratificação, aceitação, aprovação ou adesão.
 

@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/2006/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-2006-203013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 028b185332d7b04fa8c0be3bc8b9652c5414da88287700ad201624bd49d6cf10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb7009d509e913b71f55883e279e7abe84974179a576102931fb730c06ab7ffe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,12 +71,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Marca
 - Fiscalização
+- Marca
 - Marca Registada
 - Metal Precioso
 - OURO
+- Portugal
 - Viena
 relationships:
 - type: cites
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/42/1992/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/42/1992/10/13/p/dre
+- type: cites
+  target: pt:dre:225810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667276:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:32Z'
   warnings: []
   errors: []
 ---
@@ -117,15 +129,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Luís Manuel Moreira de Campos e Cunha.
 
-**Assinado em 9 de Dezembro de 2005.**
+Assinado em 9 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Dezembro de 2005.**
+Referendado em 19 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 Convention on the control and marking of articles of precious metals
 
@@ -561,19 +573,19 @@ The following marks should be added in the table following article 4, paragraph 
 
 For platinum articles:
 
-[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
+[[[[[[[[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
 
 For gold articles:
 
-[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
+[[[[[[[[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
 
 For palladium articles (ver nota *):
 
-[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
+[[[[[[[[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
 
 For silver articles:
 
-[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
+[[[[[[[[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
 
 (nota *) Shall apply only after the entry into force of the amendment to article 2 of the Convention.
 
@@ -903,7 +915,7 @@ Para os artefactos de prata: ...
 
 (nota *) Aplicar-se-á apenas após a entrada em vigor da emenda ao artigo 2.º da Convenção.
 
-## Apêndice I
+Apêndice I
 
 Métodos de análise e outros métodos de exame
 
@@ -955,7 +967,7 @@ Método volumétrico utilizando cloreto de sódio ou brometo de potássio (docum
 
 (nota **) Em conformidade com a alteração efectuada pela corrigenda técnica 1:1994: «Cláusula 4.2: solução de brometo de potássio, c(KBr) = 0,1 mol/1».
 
-## Apêndice II
+Apêndice II
 
 Dimensões das marcas comuns de controlo
 
@@ -1001,18 +1013,18 @@ As marcas seguintes deverão ser adicionadas à tabela que obedece ao artigo 4.�
 
 Para artefactos de platina:
 
-[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
+[[[[[[[[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
 
 Para artefactos de ouro:
 
-[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
+[[[[[[[[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
 
 Para artefactos de paládio (*):
 
-[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
+[[[[[[[[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
 
 Para artefactos de prata:
 
-[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
+[[[[[[[[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)](https://files.diariodarepublica.pt/1s/2006/01/002a00/00340045.pdf)
 
 Aplicar-se-á apenas após a entrada em vigor da emenda ao artigo 2.º da Convenção.

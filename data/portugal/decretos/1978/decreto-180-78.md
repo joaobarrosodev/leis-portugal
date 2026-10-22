@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 299/1978, 7º Suplemento, Série I de 1978-12-30
   number: '299'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 2798-(122) a 2798-(123)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29907/01220123.pdf
 entry_into_force_dates: []
@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/180-1978-274212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:50:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d27891de333b93a251d5969e8b077c4be4a0f0cad97de6b493f50149a0881d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b30f189d009592d66497c5f71b85934522e9bf734473a18fd0a8427f048475d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Encargos Gerais da Nação
+- Gestão Orçamental
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:50:01Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +103,7 @@ Por se encontrarem abrangidas pelo disposto na parte final do artigo 7.º do [De
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das competentes verbas orçamentais de despesas de anos findos, as seguintes quantias:
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das competentes verbas orçamentais de despesas de anos findos, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -135,9 +149,9 @@ Ministério do Trabalho
 
 Encargos dos anos de 1975 a 1977 pertencentes ao Gabinete do Ministro, Secretaria-Geral, Direcção-Geral do Trabalho e das Relações Colectivas do Trabalho, da Promoção do Emprego e do Emprego, Gabinetes das Secretarias de Estado da População e Emprego e do Trabalho, Delegações de Aveiro, Beja, Braga, Bragança, Castelo Branco, Faro, Guarda, Leiria, Lisboa, Porto, Santarém, Setúbal, Viana do Castelo, Vila Real, Viseu e Vila França de Xira, Serviço de Informação Científica e Técnica e Gabinete de Estudos, Planeamento e Organização ... 2826083$80
 
-###### Art. 2.º Fica igualmente autorizada a 6.ª Delegação da Direcção-Geral da Contabilidade Pública a mandar satisfazer em conta da dotação consignada no cap. 70 «Despesas comuns», C. E. 44.06, do actual orçamento do Departamento da Marinha a quantia de 557114$30, resultante de despesas dos anos de 1972 e 1977.
+Art. 2.º Fica igualmente autorizada a 6.ª Delegação da Direcção-Geral da Contabilidade Pública a mandar satisfazer em conta da dotação consignada no cap. 70 «Despesas comuns», C. E. 44.06, do actual orçamento do Departamento da Marinha a quantia de 557114$30, resultante de despesas dos anos de 1972 e 1977.
 
-###### Art. 3.º Ficam também autorizados a satisfazer as quantias seguidamente indicadas pelas verbas de despesas de anos findos, dos seus actuais orçamentos privativos, os seguintes serviços:
+Art. 3.º Ficam também autorizados a satisfazer as quantias seguidamente indicadas pelas verbas de despesas de anos findos, dos seus actuais orçamentos privativos, os seguintes serviços:
 
 Gabinete de Estudos e Planeamento do Ministério da Educação e Cultura
 
@@ -161,8 +175,8 @@ Encargo do ano de 1977 ... 111532$00
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - José Alberto Loureiro dos Santos - Álvaro Pereira da Silva Leal Monjardino - António Gonçalves Ribeiro - Eduardo Henriques da Silva Correia - João Carlos Lopes Cardoso de Freitas Cruz - Apolinário José Barbosa da Cruz Vaz Portugal - Álvaro Roque de Pinho Bissaia Barreto - Abel Pinto Repolho Correia - Eusébio Marques de Carvalho - Luís Francisco Valente de Oliveira - Acácio Manuel Pereira Magro - José Ricardo Marques da Costa - João Orlindo Almeida Pina - Daniel Proença de Carvalho.
 
-**Promulgado em 30 de Dezembro de 1978.**
+Promulgado em 30 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

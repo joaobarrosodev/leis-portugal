@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/357-1973-421408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f638884b760f0f413e95b514190c719ff79e62ccaaba59f986bc785591cd1a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf566b8b8fafbf16a8a26fe5a475da8b647836ccbf9ce32434d57107e40dfb72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:199872:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:38Z'
   warnings: []
   errors: []
 ---
@@ -101,20 +105,20 @@ Por motivo de urgência, de harmonia com o § 3.º do artigo 136.º da Constitui
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Fica o Ministro do Ultramar autorizado a celebrar com a Diamul - Companhia Ultramarina de Diamantes, S. A. R. L., um adicional ao contrato de concessão, assinado em 12 de Janeiro de 1970, e em conformidade com as bases anexas ao [Decreto n.º 49071](https://diariodarepublica.pt/dr/detalhe/decreto/49071-1969-199872), de 20 de Junho de 1969, no qual se introduzirão as alterações decorrentes do presente decreto.
+Artigo 1.º Fica o Ministro do Ultramar autorizado a celebrar com a Diamul - Companhia Ultramarina de Diamantes, S. A. R. L., um adicional ao contrato de concessão, assinado em 12 de Janeiro de 1970, e em conformidade com as bases anexas ao [Decreto n.º 49071](https://diariodarepublica.pt/dr/detalhe/decreto/49071-1969-199872), de 20 de Junho de 1969, no qual se introduzirão as alterações decorrentes do presente decreto.
 
-###### Art. 2.º É prorrogado pelo prazo de um ano o período inicial de pesquisas, em regime de exclusivo, concedido à Diamul pela cláusula 6.ª do contrato referido no artigo anterior.
+Art. 2.º É prorrogado pelo prazo de um ano o período inicial de pesquisas, em regime de exclusivo, concedido à Diamul pela cláusula 6.ª do contrato referido no artigo anterior.
 
-###### Art. 3.º É autorizada à sociedade, durante o mencionado período de prorrogação dos direitos de pesquisa, a retenção da totalidade da área inicial definida na cláusula 1.ª do contrato de concessão.
+Art. 3.º É autorizada à sociedade, durante o mencionado período de prorrogação dos direitos de pesquisa, a retenção da totalidade da área inicial definida na cláusula 1.ª do contrato de concessão.
 
-###### Art. 4.º O adicional ao contrato de concessão autorizado pelo presente decreto deverá ser assinado no prazo de sessenta dias, a contar da publicação respectiva.
+Art. 4.º O adicional ao contrato de concessão autorizado pelo presente decreto deverá ser assinado no prazo de sessenta dias, a contar da publicação respectiva.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 6 de Julho de 1973.**
+Promulgado em 6 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

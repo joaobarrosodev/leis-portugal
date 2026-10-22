@@ -46,36 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/149-1975-161277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11753d35ef764069bce21edb08a695633c60c02f4224452536a4006f540be64f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7b10b64026872455438275383ed4cc1f9a8c208dee2c63d1fd57d67c117d796
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Nacional de Estatística
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445908:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:245513:por
+  label: Retificados os arts. 1.º e 2.º (este sobre revogação) pelo(a) Rectificação - Diário do Governo n.º 117/1975, 2º Suplemento,
+    Série I de 1975-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-245513
+  date: '1975-05-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:14Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +120,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Passam a ter a redacção a seguir indicada o n.º 1 do artigo 46.º, o artigo 47.º, o artigo 48.º, o n.º 2 do artigo 49.º, o artigo 51.º, o n.º 1 do artigo 56.º, o artigo 57.º, o artigo 60.º, o artigo 62.º, o artigo 68.º, a alínea b) do artigo 69.º e o artigo 71.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), de 25 de Agosto:
+Artigo 1.º Passam a ter a redacção a seguir indicada o n.º 1 do artigo 46.º, o artigo 47.º, o artigo 48.º, o n.º 2 do artigo 49.º, o artigo 51.º, o n.º 1 do artigo 56.º, o artigo 57.º, o artigo 60.º, o artigo 62.º, o artigo 68.º, a alínea b) do artigo 69.º e o artigo 71.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), de 25 de Agosto:
 
-###### Art. 46.º - 1. Os lugares de director de serviços, director e subdirector do Centro de Informática, chefe de divisão e analista-chefe serão providos, por escolha, de entre indivíduos com curso superior adequado ao exercício das respectivas funções, ou de entre indivíduos que não possuindo curso superior tenham uma preparação específica que os recomende especialmente para os lugares.
+Art. 46.º - 1. Os lugares de director de serviços, director e subdirector do Centro de Informática, chefe de divisão e analista-chefe serão providos, por escolha, de entre indivíduos com curso superior adequado ao exercício das respectivas funções, ou de entre indivíduos que não possuindo curso superior tenham uma preparação específica que os recomende especialmente para os lugares.
 
 2. O lugar de chefe de repartição será provido, por escolha do Primeiro-Ministro, de entre diplomados com curso superior adequado ou chefes de secção do quadro do Instituto com mais de cinco anos de efectivo serviço nessa categoria e informação de serviço não inferior a Bom.
 
-###### Art. 47.º O pessoal técnico e administrativo adiante designado será recrutado, por escolha, da forma seguinte:
+Art. 47.º O pessoal técnico e administrativo adiante designado será recrutado, por escolha, da forma seguinte:
 
 a) Os técnicos estatísticos principais, de entre técnicos estatísticos de 1.ª classe com informação de serviço não inferior a Bom e de entre diplomados com curso superior adequado e de reconhecida competência;
 
@@ -116,7 +144,7 @@ g) O tesoureiro de 2.ª classe, de entre funcionários administrativos com a hab
 
 h) Os telefonistas de 1.ª e 2.ª classes, de acordo com o [Decreto-Lei n.º 116/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1971-445908), de 2 de Abril.
 
-###### Art. 48.º O pessoal do Centro de Informática adiante indicado será recrutado por escolha, pela forma seguinte:
+Art. 48.º O pessoal do Centro de Informática adiante indicado será recrutado por escolha, pela forma seguinte:
 
 a) O programador principal e o analista de multiprogramação, de entre os programadores de multiprogramação e os analistas de sistemas;
 
@@ -140,7 +168,7 @@ j) Os mecânicos de 1.ª e 2.ª classes, de entre, respectivamente, os mecânico
 
 l) O mecânico de 3.ª classe, de entre indivíduos de idade não inferior a 18 anos habilitados com os cursos adequados das escolas técnicas ou, não os havendo, com o 2.º ciclo dos liceus ou habilitações equivalentes.
 
-###### Art. 49.º - 1. O pessoal da Direcção dos Serviços de Censos e Inquéritos adiante indicado será recrutado, por escolha, nos termos seguintes:
+Art. 49.º - 1. O pessoal da Direcção dos Serviços de Censos e Inquéritos adiante indicado será recrutado, por escolha, nos termos seguintes:
 
 a) Os supervisores de censos e inquéritos, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe e os agentes de censos e inquéritos de 2.ª classe, de entre, respectivamente, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe, os agentes de censos e inquéritos de 2.ª classe e os agentes de censos e inquéritos de 3.ª classe;
 
@@ -152,15 +180,15 @@ c) O topógrafo-chefe, de entre indivíduos de idade não inferior a 18 anos hab
 
 ...
 
-###### Art. 51.º A escolha será feita mediante despacho ministerial, tendo em conta a classificação dos cursos previstos no artigo 69.º, quando exigidos com vista à promoção, a antiguidade e, quando for caso disso, a aptidão para assumir responsabilidades de chefia.
+Art. 51.º A escolha será feita mediante despacho ministerial, tendo em conta a classificação dos cursos previstos no artigo 69.º, quando exigidos com vista à promoção, a antiguidade e, quando for caso disso, a aptidão para assumir responsabilidades de chefia.
 
 ...
 
-###### Art. 56.º - 1. Os lugares de chefes de secção serão providos, por escolha, de entre os técnicos auxiliares principais, primeiros-oficiais, técnicos auxiliares de 1.ª classe e primeiros-mecanógrafos do quadro com boa informação de serviço.
+Art. 56.º - 1. Os lugares de chefes de secção serão providos, por escolha, de entre os técnicos auxiliares principais, primeiros-oficiais, técnicos auxiliares de 1.ª classe e primeiros-mecanógrafos do quadro com boa informação de serviço.
 
 2. O lugar de chefe da Secção de Contabilidade e Tesouraria poderá ser provido nos termos do artigo 12.º do [Decreto-Lei n.º 32886](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32886-1943-398140), de 30 de Junho de 1943.
 
-###### Art. 57.º - 1. Os lugares de primeiro-oficial e de técnico auxiliar de 1.ª classe serão providos, por escolha, de entre os segundos-oficiais e os técnicos auxiliares de 2.ª classe, com aproveitamento no curso complementar de estatística a que se refere a alínea b) do n.º 1 do artigo 69.º
+Art. 57.º - 1. Os lugares de primeiro-oficial e de técnico auxiliar de 1.ª classe serão providos, por escolha, de entre os segundos-oficiais e os técnicos auxiliares de 2.ª classe, com aproveitamento no curso complementar de estatística a que se refere a alínea b) do n.º 1 do artigo 69.º
 
 2. Os lugares de técnico auxiliar de 2.ª classe serão providos, por escolha, de entre os técnicos auxiliares de 3.ª classe e os segundos-oficiais com aproveitamento no curso complementar de estatística a que se refere a alínea b) do n.º 1 do artigo 69.º
 
@@ -172,7 +200,7 @@ c) O topógrafo-chefe, de entre indivíduos de idade não inferior a 18 anos hab
 
 ...
 
-###### Art. 60.º - 1. O pessoal a contratar nos termos do artigo 28.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, será recrutado, por escolha, de entre indivíduos de idade não inferior a 18 anos e com as habilitações exigidas pela lei geral.
+Art. 60.º - 1. O pessoal a contratar nos termos do artigo 28.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, será recrutado, por escolha, de entre indivíduos de idade não inferior a 18 anos e com as habilitações exigidas pela lei geral.
 
 2. O pessoal a colocar nas delegações poderá ser recrutado, por escolha, pela forma seguinte:
 
@@ -182,11 +210,11 @@ b) Os chefes de delegação de 2.ª classe, de entre técnicos estatísticos de 
 
 ...
 
-###### Art. 62.º Os funcionários que exercem a chefia das delegações metropolitanas terão direito a uma gratificação mensal da importância que vier a ser fixada por despacho ministerial, ouvido o Ministério das Finanças.
+Art. 62.º Os funcionários que exercem a chefia das delegações metropolitanas terão direito a uma gratificação mensal da importância que vier a ser fixada por despacho ministerial, ouvido o Ministério das Finanças.
 
 ...
 
-###### Art. 68.º - 1. Os indivíduos admitidos ao abrigo do artigo 29.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, receberão as remunerações fixadas por despacho ministerial, de harmonia com os trabalhos de que forem encarregados, as quais não poderão ser superiores:
+Art. 68.º - 1. Os indivíduos admitidos ao abrigo do artigo 29.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, receberão as remunerações fixadas por despacho ministerial, de harmonia com os trabalhos de que forem encarregados, as quais não poderão ser superiores:
 
 a) Para os que sejam simples executantes, à correspondente à letra S do quadro do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969;
 
@@ -198,7 +226,7 @@ b) Para os restantes, à correspondente à letra L do mesmo quadro.
 
 4. As remunerações dos indivíduos admitidos nos termos do n.º 4 do artigo 35.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, serão iguais às dos funcionários que substituem e pagas pelas disponibilidades da verba do pessoal do quadro ou contratados além do quadro.
 
-###### Art. 69.º - 1. Para a preparação e aperfeiçoamento do seu pessoal organizará o Instituto, com a frequência conveniente, os seguintes cursos:
+Art. 69.º - 1. Para a preparação e aperfeiçoamento do seu pessoal organizará o Instituto, com a frequência conveniente, os seguintes cursos:
 
 a) Cursos elementares de estatística, destinados ao pessoal admitido nos termos do artigo 28.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data;
 
@@ -218,20 +246,20 @@ e) Cursos de preparação para censos e inquéritos, destinados a fornecer ao pe
 
 ...
 
-###### Art. 71.º Aos funcionários que, em especiais circunstâncias, desempenhem funções de direcção ou chefia que competem a cargo superior, poderão ser atribuídas gratificações mensais a fixar por despacho ministerial.
+Art. 71.º Aos funcionários que, em especiais circunstâncias, desempenhem funções de direcção ou chefia que competem a cargo superior, poderão ser atribuídas gratificações mensais a fixar por despacho ministerial.
 
-###### Art. 2.º É revogado o artigo 61.º, n.º 1, do Decreto n.º 429/73.
+Art. 2.º É revogado o artigo 61.º, n.º 1, do Decreto n.º 429/73.
 
-###### Art. 3.º A título excepcional, serão providos no lugar de terceiro-oficial e auxiliar técnico os actuais escriturários-dactilógrafos de 1.ª classe do quadro e além do quadro que, independentemente da idade e da habilitação, contem seis ou mais anos de bom e efectivo serviço até 31 de Dezembro de 1974.
+Art. 3.º A título excepcional, serão providos no lugar de terceiro-oficial e auxiliar técnico os actuais escriturários-dactilógrafos de 1.ª classe do quadro e além do quadro que, independentemente da idade e da habilitação, contem seis ou mais anos de bom e efectivo serviço até 31 de Dezembro de 1974.
 
-###### Art. 4.º Os actuais técnicos auxiliares principais que se encontrem a chefiar as delegações insulares e técnicos estagiários serão colocados, nesta data, respectivamente, como chefes de delegação de 2.ª classe e técnicos estatísticos de 2.ª classe, com dispensa de quaisquer formalidades, salvo anotação da nova situação pelo Tribunal de Contas.
+Art. 4.º Os actuais técnicos auxiliares principais que se encontrem a chefiar as delegações insulares e técnicos estagiários serão colocados, nesta data, respectivamente, como chefes de delegação de 2.ª classe e técnicos estatísticos de 2.ª classe, com dispensa de quaisquer formalidades, salvo anotação da nova situação pelo Tribunal de Contas.
 
-###### Art. 5.º A gratificação a que se refere o artigo 62.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803) manter-se-á até que se verifique o despacho previsto na nova redacção daquela disposição legal.
+Art. 5.º A gratificação a que se refere o artigo 62.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803) manter-se-á até que se verifique o despacho previsto na nova redacção daquela disposição legal.
 
 Vasco dos Santos Gonçalves - Joaquim Jorge Magalhães Mota - José da Silva Lopes.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

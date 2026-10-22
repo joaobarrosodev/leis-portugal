@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/1/1997/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-1997-302296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a172227d0012d3b68b39eb10574d0fb581bd7df3dd3271b9afc03a9eb26ecb3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfb691daf809fd4e15da98237877b348828c4d7b2d835e26fa451f38fce58119
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ subjects:
 - CE Países
 - Comunidade Europeia
 - Convenção
-- Portugal
+- Educação Pré-escolar
+- Ensino Primário
 - Equivalência de Habilitações Literárias
 - Escola Europeia
 - Estatuto
 - Estatuto Jurídico
-- Ensino Primário
-- Educação Pré-escolar
 - Luxemburgo
+- Portugal
 relationships: []
 article_structure:
   article_count: 35
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:07:39Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +105,13 @@ Visto e aprovado em Conselho de Ministros de 17 de Outubro de 1996. - António M
 
 Ratificado em 9 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Dezembro de 1996.**
+Referendado em 11 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONVENÇÃO RELATIVA AO ESTATUTO DAS ESCOLAS EUROPEIAS
 
@@ -335,7 +335,7 @@ A autoridade orçamental das Comunidades fixa o montante da contribuição comun
 
 ###### Artigo 14.º
 
-**O secretário-geral representa o conselho superior e dirige o secretariado no âmbito das disposições do estatuto do secretário-geral, previsto no n.º 1 do artigo 12.º O secretário-geral representa as escolas em juízo. O secretário-geral é responsável perante o conselho superior.**
+O secretário-geral representa o conselho superior e dirige o secretariado no âmbito das disposições do estatuto do secretário-geral, previsto no n.º 1 do artigo 12.º O secretário-geral representa as escolas em juízo. O secretário-geral é responsável perante o conselho superior.
 
 ### CAPÍTULO II — Os conselhos de inspecção
 
@@ -545,7 +545,7 @@ Pela Comunidade Europeia e pela Comunidade Europeia da Energia Atómica:
 
 Pela Comunidade Europeia do Carvão e do Aço:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/002a00/00180025.pdf))](https://files.diariodarepublica.pt/1s/1997/01/002a00/00180025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/002a00/00180025.pdf)
 
 ## ANEXO I
 
@@ -595,6 +595,6 @@ Língua neerlandesa;
 
 Língua portuguesa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/002a00/00180025.pdf))](https://files.diariodarepublica.pt/1s/1997/01/002a00/00180025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/002a00/00180025.pdf)
 
 O texto que precede é uma cópia autenticada do original da Convenção Relativa ao Estatuto das Escolas Europeias, assinada no Luxemburgo em vinte e um de Junho de mil novecentos e noventa e quatro e depositada nos arquivos do Governo do Grão-Ducado do Luxemburgo.

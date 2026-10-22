@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/13/2007/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-2007-636066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:18:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d38f6d757ec895b36f812c75414e3d944728488a30f9df3e88748e557167f41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 039dab45344bb5a9d05848f10312af32b8274c972d8df7e5020c7e386269a566
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:18:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Centro de Cooperação Policial e Aduaneira
 - Convenção
 - Cooperação Aduaneira
-- Centro de Cooperação Policial e Aduaneira
-- Cooperação Transfronteira
-- Portugal
-- Espanha
 - Cooperação Policial
+- Cooperação Transfronteira
+- Espanha
 - Évora
+- Portugal
 relationships: []
 article_structure:
   article_count: 24
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:18:47Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +103,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Rui Carlos Pereira - Alberto Bernardes Costa.
 
-**Assinado em 12 de Junho de 2007.**
+Assinado em 12 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 19 de Junho de 2007.**
+Referendado em 19 de Junho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA SOBRE COOPERAÇÃO TRANSFRONTEIRIÇA EM MATÉRIA POLICIAL E ADUANEIRA
 
@@ -389,10 +389,10 @@ Feito em Évora, aos 19 de Novembro de 2005, nas línguas portuguesa e castelhan
 
 Pela República Portuguesa:
 
-**O Ministro de Estado e da Administração Interna, António Costa.**
+O Ministro de Estado e da Administração Interna, António Costa.
 
 Pelo Reino de Espanha:
 
-**O Ministro do Interior, José António Alonso.**
+O Ministro do Interior, José António Alonso.
 
 [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2007/07/13400/44324439.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/25-1973-683231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc3291c61222d62b8b16b67b29a77362071eb59fe14b141466e39f4d592d0a6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63b52c18b0662d00b015fe22e7122aac2abfc43a006c0a36591f970ba7419d5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: pt:dre:502187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:659484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:36Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +109,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os n.os 1 e 2 do artigo 33.º, os n.os 1 e 2 do artigo 55.º e o n.º 1 do artigo 72.º do Regulamento Geral das Caixas Sindicais de Previdência, aprovado pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passam a ter a seguinte redacção:
+Artigo único. Os n.os 1 e 2 do artigo 33.º, os n.os 1 e 2 do artigo 55.º e o n.º 1 do artigo 72.º do Regulamento Geral das Caixas Sindicais de Previdência, aprovado pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passam a ter a seguinte redacção:
 
-###### Art. 33.º - 1. A concessão das prestações referidas no artigo anterior depende de os beneficiários haverem completado seis meses de inscrição e de, no caso de beneficiários activos e seus familiares, em nome daqueles haverem entrado contribuições correspondentes pelo menos a oito dias no decurso dos três meses anteriores ao da verificação da doença.
+Art. 33.º - 1. A concessão das prestações referidas no artigo anterior depende de os beneficiários haverem completado seis meses de inscrição e de, no caso de beneficiários activos e seus familiares, em nome daqueles haverem entrado contribuições correspondentes pelo menos a oito dias no decurso dos três meses anteriores ao da verificação da doença.
 
 2. Na falta de entrada de contribuições durante doze meses consecutivos, as prestações só voltarão a ser concedidas aos beneficiários activos e seus familiares passados seis meses sobre a data a que se reporta a primeira nova contribuição.
 
@@ -111,20 +119,20 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 55.º - 1. A concessão do subsídio depende de a beneficiária se encontrar inscrita seis meses antes da data real ou presumida do parto e de em seu nome haverem entrado contribuições correspondentes pelo menos a oito dias no decurso dos três meses anteriores àquele em que seja solicitada.
+Art. 55.º - 1. A concessão do subsídio depende de a beneficiária se encontrar inscrita seis meses antes da data real ou presumida do parto e de em seu nome haverem entrado contribuições correspondentes pelo menos a oito dias no decurso dos três meses anteriores àquele em que seja solicitada.
 
 2. É aplicável a este subsídio o preceituado nos n.os 2 e 3 do artigo 33.º
 
 ...
 
-###### Art. 72.º - 1. Os subsídios de nascimento e aleitação serão concedidos aos beneficiários com seis meses de inscrição à data do nascimento de cada filho que confira direito a abono de família.
+Art. 72.º - 1. Os subsídios de nascimento e aleitação serão concedidos aos beneficiários com seis meses de inscrição à data do nascimento de cada filho que confira direito a abono de família.
 
 2. ...
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 19 de Janeiro de 1973.**
+Promulgado em 19 de Janeiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/3/2019/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-2019-119236500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:24:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 550e5636fe576d10b1dcc7856337f11d423768ee0ff3438a1e629e0aef070223
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f1758126122c9abe7423d4c4b343628fc574ac75f1913dd830defb097807666
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:24:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
 subjects:
 - Acesso à Informação
 - Convenção
-- Portugal
 - Documentação Classificada
-- Segurança da Informação
 - KIEV
+- Portugal
+- Segurança da Informação
 - Ucrânia
 relationships: []
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:24:20Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 17 de janeiro de 2019. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques.
 
-**Assinado em 29 de janeiro de 2019.**
+Assinado em 29 de janeiro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de janeiro de 2019.**
+Referendado em 31 de janeiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A UCRÂNIA SOBRE PROTEÇÃO MÚTUA DE INFORMAÇÃO CLASSIFICADA
 
@@ -192,7 +192,7 @@ c) O acesso à Informação Classificada deverá restringir-se às pessoas que, 
 
 As Partes acordam, em conformidade com o respetivo Direito em vigor, que a equivalência das suas classificações de segurança nacionais é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf))](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)
 
 ###### Artigo 6.º — Processo de credenciação de segurança
 
@@ -220,11 +220,11 @@ c) As traduções e o número de cópias deverão ser limitados ao número neces
 
 d) Nos documentos traduzidos deverá ser aposta, na língua para a qual foram traduzidos, a indicação de que contêm Informação Classificada recebida da Parte Transmissora.
 
-2 - A Informação Classificada marcada como SECRETO/"[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf))](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" ou de grau superior apenas pode ser traduzida ou reproduzida mediante autorização escrita da Autoridade Nacional de Segurança da Parte Transmissora, de acordo com o respetivo Direito em vigor.
+2 - A Informação Classificada marcada como SECRETO/"[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" ou de grau superior apenas pode ser traduzida ou reproduzida mediante autorização escrita da Autoridade Nacional de Segurança da Parte Transmissora, de acordo com o respetivo Direito em vigor.
 
-3 - A Informação Classificada marcada como SECRETO/"[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf))](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" e de grau superior não pode ser destruída, devendo ser devolvida à Autoridade Nacional de Segurança da Parte Transmissora.
+3 - A Informação Classificada marcada como SECRETO/"[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" e de grau superior não pode ser destruída, devendo ser devolvida à Autoridade Nacional de Segurança da Parte Transmissora.
 
-4 - A Informação Classificada marcada com um grau até CONFIDENCIAL/"[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf))](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" deverá ser destruída de acordo com o respetivo Direito em vigor, de forma a impossibilitar a sua reconstrução total ou parcial.
+4 - A Informação Classificada marcada com um grau até CONFIDENCIAL/"[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" deverá ser destruída de acordo com o respetivo Direito em vigor, de forma a impossibilitar a sua reconstrução total ou parcial.
 
 5 - No caso de não ser possível proteger e devolver a Informação Classificada produzida ou transmitida em conformidade com o presente Acordo, a Informação Classificada deverá ser imediatamente destruída. A Parte Destinatária deverá notificar a Autoridade Nacional de Segurança da Parte Transmissora, com a maior brevidade possível, da destruição da Informação Classificada.
 
@@ -374,7 +374,7 @@ Pela Ucrânia:
 
 Oleg Frolov.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf))](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND UKRAINE ON MUTUAL PROTECTION OF CLASSIFIED INFORMATION
 
@@ -466,7 +466,7 @@ Equivalence of the National Security Classifications
 
 The Parties shall, with regard to their national legislation, adopt the following equivalency for their national security classifications:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf))](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)
 
 Article 6
 
@@ -500,11 +500,11 @@ c) the number of copies of translations and reproductions shall be limited to th
 
 d) the translations shall bear an appropriate note in the language of translation indicating that they contain Classified Information received from the Originating Party.
 
-2 - Classified Information marked as SECRETO/"[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf))](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" and above shall be translated or reproduced only upon written permission of the National Security Authority of the Originating Party in accordance with the respective national legislation.
+2 - Classified Information marked as SECRETO/"[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" and above shall be translated or reproduced only upon written permission of the National Security Authority of the Originating Party in accordance with the respective national legislation.
 
-3 - Classified Information marked as SECRETO/"[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf))](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" and above shall not be destroyed but shall be returned to the National Security Authority of the Originating Party.
+3 - Classified Information marked as SECRETO/"[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" and above shall not be destroyed but shall be returned to the National Security Authority of the Originating Party.
 
-4 - Classified Information marked up to CONFIDENCIAL/"[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf))](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" shall be destroyed in accordance with the respective national legislation, in such a manner as to eliminate its partial or total reconstruction.
+4 - Classified Information marked up to CONFIDENCIAL/"[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/02600/0097800988.pdf)" shall be destroyed in accordance with the respective national legislation, in such a manner as to eliminate its partial or total reconstruction.
 
 5 - If it is impossible to protect and return Classified Information transferred or created in accordance with this Agreement, the Classified Information shall be destroyed immediately. The Receiving Party shall notify the National Security Authority of the Originating Party about the destruction of the Classified Information as soon as possible.
 
@@ -675,3 +675,5 @@ António José Gameiro Marques.
 For Ukraine:
 
 Oleg Frolov.
+
+112031823

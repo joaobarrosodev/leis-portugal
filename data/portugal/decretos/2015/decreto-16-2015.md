@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17100/0676606773.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/16/2015/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-2015-70171991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35ecb9bc70990a997c3fde89282d11ff342c850de3292389771301116fdb8850
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdd6804df15a8b6c020cb8ad2409ed18238c53a628d7b6b2c680aebc15e897f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
+- Centro Internacional para a Formação Avançada em Ciências Fundamentais de Cientistas Oriundos dos Países de Língua Portuguesa
+- Convenção
+- CPLP
 - Formação Profissional
 - Investigação Científica e Tecnológica
-- Unesco
-- Convenção
+- Investigador
 - Portugal
-- CPLP
 - Qualificação Profissional
-- Centro Internacional para a Formação Avançada em Ciências Fundamentais de Cientistas Oriundos dos Países de Língua Portuguesa
+- Unesco
 relationships: []
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:39Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +104,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 16 de julho de 2015. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Nuno Paulo de Sousa Arrobas Crato.
 
-**Assinado em 27 de agosto de 2015.**
+Assinado em 27 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de setembro de 2015.**
+Referendado em 1 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA A EDUCAÇÃO, A CIÊNCIA E A CULTURA (UNESCO) RELATIVO AO ESTABELECIMENTO DE UM CENTRO INTERNACIONAL (CATEGORIA 2) SOB OS AUSPÍCIOS DA UNESCO PARA FORMAÇÃO AVANÇADA DE CIENTISTAS DOS PAÍSES DE LÍNGUA PORTUGUESA NO ÂMBITO DAS CIÊNCIAS FUNDAMENTAIS.
 

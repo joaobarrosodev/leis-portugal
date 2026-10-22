@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/16/1992/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-1992-171937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f6f902ab6d09679186acd2ca1b6d738872b60f35752493bb50bb3876ef7390f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f2841d52130887132d0219ff58549d68a6fed0b8a63ca328e2e6390bffce2cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ subjects:
 - ÁREA Crítica de Recuperação e Reconversão Urbanística
 - Beja
 - ZONA Degradada
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:35Z'
   warnings: []
   errors: []
 ---
@@ -97,22 +101,22 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Nos termos do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, de que faz parte integrante, situada no Bairro de João Barbeiro, na cidade de Beja, município de Beja.
+Artigo 1.º Nos termos do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, de que faz parte integrante, situada no Bairro de João Barbeiro, na cidade de Beja, município de Beja.
 
-###### Art. 2.º Compete à Câmara Municipal de Beja promover as acções e o processo de recuperação e reconversão urbanística da área referida no artigo anterior.
+Art. 2.º Compete à Câmara Municipal de Beja promover as acções e o processo de recuperação e reconversão urbanística da área referida no artigo anterior.
 
 Presidência do Conselho de Ministros, 27 de Janeiro de 1992.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Assinado em 10 de Fevereiro de 1992.**
+Assinado em 10 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Fevereiro de 1992.**
+Referendado em 17 de Fevereiro de 1992.
 
-**O Primeiro-Ministro Aníbal António Cavaco Silva.**
+O Primeiro-Ministro Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/059b00/12341235.pdf))](https://files.diariodarepublica.pt/1s/1992/03/059b00/12341235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/059b00/12341235.pdf)

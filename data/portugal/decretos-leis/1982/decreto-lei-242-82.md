@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1982-395317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f2634b37ab5b5d7f27e8b9c3ee46132693c7c246b731166527d2b7f543345ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b8a19f399475690557c41ad35d80644f11b0733603af603769f1bd426eafa48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emolumento
+- Registo Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:404371:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451817:por
+  label: "Alterado o artigo 27.º do Decreto-Lei n.º 54/75, de 12 de Fevereiro, com a redacção introduzida pelo artigo 1.º\
+    \ do presente diploma, pelo DEC LEI.217/83.25.05.1983.MJ, DR.IS [120] de 25.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-1983-451817
+  date: '1983-05-25'
+- type: amended_by
+  target: pt:dre:443686:por
+  label: "Substituída a tabela de emolumentos do registo de automóveis, pelo DEC LEI.397/83.02.11.1983.MJ, DR.IS [252] de\
+    \ 02.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/397-1983-443686
+  date: '1983-11-02'
+- type: amended_by
+  target: pt:dre:404371:por
+  label: "Alterado o art. 1.º do Dec Lei 54/75 de 12-Fev, na redacção do presente diploma, pelo DEC LEI.178-A/2005.28.10.2005.MJ,\
+    \ DR.IS-A [208-Supl] de 28.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-a-2005-404371
+  date: '2005-10-28'
+- type: cites
+  target: pt:dre:159881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448532:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:46Z'
   warnings: []
   errors: []
 ---
@@ -99,27 +128,27 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São alterados os artigos 1.º e 27.º do [Decreto-Lei n.º 54/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1975-159881), de 12 de Fevereiro, que passam a ter a seguinte redacção:
+Artigo 1.º São alterados os artigos 1.º e 27.º do [Decreto-Lei n.º 54/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1975-159881), de 12 de Fevereiro, que passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - O registo de automóveis tem essencialmente por fim individualizar os respectivos proprietários e, em geral, dar publicidade aos direitos inerentes aos veículos automóveis.
+Artigo 1.º - 1 - O registo de automóveis tem essencialmente por fim individualizar os respectivos proprietários e, em geral, dar publicidade aos direitos inerentes aos veículos automóveis.
 
 2 - O registo automóvel é submetido a tratamento automático, em colaboração com o Centro de Informática do Ministério da Justiça, com excepção da transmissão de créditos registados, do penhor, arresto ou penhora desses créditos e da cessão do grau de prioridade do registo da hipoteca.
 
-###### Art. 27.º - 1 - O nome ou denominação e a residência habitual ou sede do proprietário ou usufrutuário dos veículos automóveis registados e a matrícula destes são obrigatoriamente comunicados às direcções de viação em que os veículos estiverem matriculados e aos comandos da Polícia de Segurança Pública e da Brigada de Trânsito da Guarda Nacional Republicana da área onde o proprietário tiver a residência ou sede.
+Art. 27.º - 1 - O nome ou denominação e a residência habitual ou sede do proprietário ou usufrutuário dos veículos automóveis registados e a matrícula destes são obrigatoriamente comunicados às direcções de viação em que os veículos estiverem matriculados e aos comandos da Polícia de Segurança Pública e da Brigada de Trânsito da Guarda Nacional Republicana da área onde o proprietário tiver a residência ou sede.
 
 A comunicação será feita, sempre que possível, mediante a instalação de terminais nos respectivos serviços.
 
 2 - Mediante resolução do Conselho de Ministros pode ser autorizada a comunicação a outras entidades, públicas ou privadas, dos elementos referidos no número anterior ou de outros, desde que respeitem exclusivamente às características dos veículos e sem referência, neste caso, aos respectivos titulares.
 
-###### Art. 2.º A tabela de emolumentos do registo de automóveis anexa ao [Decreto-Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532), de 9 de Fevereiro, é substituída pela tabela anexa ao presente diploma.
+Art. 2.º A tabela de emolumentos do registo de automóveis anexa ao [Decreto-Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532), de 9 de Fevereiro, é substituída pela tabela anexa ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1982. - Francisco José Pereira Pinto Balsemão
 
-**Promulgado em 6 de Junho de 1982.**
+Promulgado em 6 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Tabela de emolumentos a que se refere o artigo 2.º do Decreto-Lei n.º 242/82, de 22 de Junho
 

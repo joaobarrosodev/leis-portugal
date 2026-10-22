@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/301-1974-476348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:33:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dbb509e5f1dae408dc8e56865e552e31e6be1b694165e14c6056f7fefe6383e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fcfe14cd1f377231026741c27797aa6fa8d9f76643bf63028f6fff5f4ad526e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:33:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:33:40Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +95,20 @@ Considerando a necessidade de se definirem as remunerações dos secretários e 
 
 Usando da faculdade conferida pelo n.º 4 do n.º 1 do artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, o Governo decreto e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Aos secretários-adjuntos dos Governadores-Gerais de Angola e de Moçambique e aos secretários dos mesmos Estados serão abonadas as remunerações que estavam fixadas, pela lei vigente, para os secretários provinciais.
+Artigo 1.º - 1. Aos secretários-adjuntos dos Governadores-Gerais de Angola e de Moçambique e aos secretários dos mesmos Estados serão abonadas as remunerações que estavam fixadas, pela lei vigente, para os secretários provinciais.
 
 2. Os subsecretários dos Estados de Angola e de Moçambique são incluídos, para efeitos de vencimentos, na categoria da letra C do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, devendo ser-lhes abonadas todas as remunerações acessórias a que, pela lei vigente, tenham direito os secretários dos mesmos Estados.
 
 3. O provimento dos lugares a que se referem os números anteriores é feito nos termos que se encontravam fixados na lei para o provimento dos lugares de secretário provincial.
 
-###### Art. 2.º Este decreto entra imediatamente em vigor.
+Art. 2.º Este decreto entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Francisco Sá Carneiro - António de Almeida Santos.
 
-**Promulgado em 27 de Junho de 1974.**
+Promulgado em 27 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - Almeida Santos.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/36/1993/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1993-668321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:05:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3c3b0dc2ffba7abd8139230256f17b837c7acc713b2e194fe8d36a2043bef75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a24f650934c92e62052897780e1b43bbb202b44589c31e6eb33907f05e9c293
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:05:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Meteorologia
 - Convenção
 - Cooperação Técnica
-- Portugal
+- Formação Profissional
 - Lisboa
+- Meteorologia
 - Palop
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:05:35Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +95,19 @@ de 14 de Outubro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo que estabelece as formas de cooperação conjunta da Organização Meteorológica Mundial e do Governo da República Portuguesa com os países africanos de língua oficial portuguesa no domínio da instrução e formação técnica do pessoal dos serviços meteorológicos destes países, assinado em Lisboa a 21 de Março de 1992, cuja versão autêntica em língua inglesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo que estabelece as formas de cooperação conjunta da Organização Meteorológica Mundial e do Governo da República Portuguesa com os países africanos de língua oficial portuguesa no domínio da instrução e formação técnica do pessoal dos serviços meteorológicos destes países, assinado em Lisboa a 21 de Março de 1992, cuja versão autêntica em língua inglesa e a respectiva tradução em língua portuguesa seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia.
 
-**Assinado em 29 de Setembro de 1993.**
+Assinado em 29 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Setembro de 1993.**
+Referendado em 2 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MEMORANDUM OF UNDERSTANDING BETWEEN THE GOVERNMENT OF THE PORTUGUESE REPUBLIC AND THE WORLD METEOROLOGICAL ORGANIZATION.
 
@@ -215,7 +215,7 @@ acordam no seguinte:
 
 11 - O presente Protocolo entrará em vigor à data da respectiva assinatura pela OMM e pelo Governo da República Portuguesa.
 
-**Assinado em Lisboa aos 21 dias do mês de Março de 1992, em dois exemplares originais nas línguas inglesa e francesa, que são línguas oficiais da OMM.**
+Assinado em Lisboa aos 21 dias do mês de Março de 1992, em dois exemplares originais nas línguas inglesa e francesa, que são línguas oficiais da OMM.
 
 Pelo Governo da República Portuguesa:
 

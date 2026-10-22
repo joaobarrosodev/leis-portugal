@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/78-1982-395913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:00:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eecfb62de012eb5306c520c6077d825fd75cd733da65271cd39d78f248a32242
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b00e2509324be014a9edff40e91c5f3f3845ec58969b1f7e2279d389b136151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Concurso de Habilitação
+- Ensino Superior
+- Instituto de Higiene e Medicina Tropical
+- Pessoal Docente
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474704:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:00:50Z'
   warnings: []
   errors: []
 ---
@@ -99,14 +125,14 @@ Assim, tendo em vista o [Decreto-Lei n.º 164/80](https://diariodarepublica.pt/d
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Art. 1.º Os professores auxiliares do Instituto de Higiene e Medicina Tropical aprovados no concurso de provas públicas, a que se refere o artigo 21.º do [Decreto n.º 206/73](https://diariodarepublica.pt/dr/detalhe/decreto/206-1973-422019), de 5 de Maio, podem ingressar e progredir na carreira docente do ensino superior a que se refere o [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, em condições de igualdade com os habilitados com o grau de doutor ou equivalente.
+Art. 1.º Os professores auxiliares do Instituto de Higiene e Medicina Tropical aprovados no concurso de provas públicas, a que se refere o artigo 21.º do [Decreto n.º 206/73](https://diariodarepublica.pt/dr/detalhe/decreto/206-1973-422019), de 5 de Maio, podem ingressar e progredir na carreira docente do ensino superior a que se refere o [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, em condições de igualdade com os habilitados com o grau de doutor ou equivalente.
 
-###### Art. 2.º Os professores extraordinários aprovados em concurso de provas públicas, nos termos do artigo 23.º do [Decreto n.º 206/73](https://diariodarepublica.pt/dr/detalhe/decreto/206-1973-422019), de 5 de Maio, ainda que com dispensa de prestação de provas ao abrigo do disposto no artigo 23.º do Decreto-Lei n.º 301/72, de 14 de Agosto, podem ingressar e progredir na carreira docente, a que se refere o artigo 1.º do presente diploma, em condições de igualdade com os habilitados com o título de agregado.
+Art. 2.º Os professores extraordinários aprovados em concurso de provas públicas, nos termos do artigo 23.º do [Decreto n.º 206/73](https://diariodarepublica.pt/dr/detalhe/decreto/206-1973-422019), de 5 de Maio, ainda que com dispensa de prestação de provas ao abrigo do disposto no artigo 23.º do Decreto-Lei n.º 301/72, de 14 de Agosto, podem ingressar e progredir na carreira docente, a que se refere o artigo 1.º do presente diploma, em condições de igualdade com os habilitados com o título de agregado.
 
 Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo.
 
-**Promulgado em 8 de Junho de 1982.**
+Promulgado em 8 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

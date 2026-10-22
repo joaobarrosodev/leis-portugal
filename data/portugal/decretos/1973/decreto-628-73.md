@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/628-1973-412026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8321536e675530a1af69dfdcfbc4f79d84bed730fb66b2ffcdf651731c8c9d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39b5a32aa2ed9b4f91286a78ada3859921533dc5301c7459aff1e4eb62209b13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:31:07Z'
   warnings: []
   errors: []
 ---
@@ -95,24 +95,24 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governa decreta e eu promulgo, para valor como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Governo da província de Macau a prestar aval à filial em Macau do The Hong Kong & Shanghai Banking Corporation para garantia de um empréstimo a contrair pela Companhia de Electricidade de Macau, S. A. R. L., até ao montante de 26 milhões de patacas e respectivos encargos.
+Artigo 1.º - 1. É autorizado o Governo da província de Macau a prestar aval à filial em Macau do The Hong Kong & Shanghai Banking Corporation para garantia de um empréstimo a contrair pela Companhia de Electricidade de Macau, S. A. R. L., até ao montante de 26 milhões de patacas e respectivos encargos.
 
 2. Os fundos mutuados destinam-se exclusivamente ao pagamento à Mitsubishi Corporation de três grupos de geradores de energia eléctrica movidos por turbinas a gás, de 15 MW cada uma.
 
-###### Art. 2.º O empréstimo vencerá o juro máximo de 9% ao ano, pagável mensalmente, e será amortizado em prestações iguais e trimestrais até à sua integral liquidação no prazo de cinco anos.
+Art. 2.º O empréstimo vencerá o juro máximo de 9% ao ano, pagável mensalmente, e será amortizado em prestações iguais e trimestrais até à sua integral liquidação no prazo de cinco anos.
 
-###### Art. 3.º - 1. Se a Companhia de Electricidade de Macau, S. A. R. L., reconhecer que não está habilitada a satisfazer os encargos de amortização e juros nas datas fixadas para o respectivo pagamento, dará do facto conhecimento ao Governo de Macau com a antecedência mínima de sessenta dias, independentemente das comunicações que deva fazer ao banco.
+Art. 3.º - 1. Se a Companhia de Electricidade de Macau, S. A. R. L., reconhecer que não está habilitada a satisfazer os encargos de amortização e juros nas datas fixadas para o respectivo pagamento, dará do facto conhecimento ao Governo de Macau com a antecedência mínima de sessenta dias, independentemente das comunicações que deva fazer ao banco.
 
 2. O Governo da província, no caso de os pagamentos não poderem ser feitos pela Companhia de Electricidade de Macau, S. A. R. L., abrirá os créditos necessários ao pagamento das importâncias em dívida à instituição de crédito mutuante.
 
-###### Art. 4.º A província de Macau gozará de privilégio creditório, nos termos dos artigos 735.º, n.º 2, 747.º, n.º 1, alínea a), e 748.º, n.º 1, alínea a), do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
+Art. 4.º A província de Macau gozará de privilégio creditório, nos termos dos artigos 735.º, n.º 2, 747.º, n.º 1, alínea a), e 748.º, n.º 1, alínea a), do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 16 de Novembro de 1973.**
+Promulgado em 16 de Novembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Macau. - B. Rebelo de Sousa.

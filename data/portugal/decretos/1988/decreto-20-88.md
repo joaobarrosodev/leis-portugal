@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-1988-370452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:01:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12f275ca2090a2edef9c65f45668ad881fc44bd3d3a7a8bb139fb8710a598178
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2750431840cac768e013d1884bcab8cd77aa523c97b5c49732f429b66943d220
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:01:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Montreal
+- Ozono
+- Portugal
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:115456105:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:259065:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 9.º, 10.º, 11.º, 17.º, 19.º e adita os arts. 2.ºA, 2.ºB, 2.ºC,\
+    \ 2.ºE e 10.ºA, bem como os anexos B e C ao protocolo aprovado para ratificação pelo presente diploma pela Emenda aprovada\
+    \ para ratificação pelo DEC.39/92.1992.08.20.MNE DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/39-1992-259065
+  date: '1992-08-20'
+- type: amended_by
+  target: pt:dre:349123:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 9.º, 10.º, 11.º, 17.º e o anexo C; Aditados os arts. 2.ºF,\
+    \ 2.ºG, 2.ºH e o anexo E ao protocolo aprovado para ratificação pelo presente diploma pela Emenda aprovada para ratificação\
+    \ pelo DEC.27/97.1997.06.04.MNE DR.IS-A [128]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/27-1997-349123
+  date: '1997-06-04'
+- type: amended_by
+  target: pt:dre:372066:por
+  label: "Tornada pública a aplicação ao território de Macau, da Convenção aprovado para ratificação pelo presente diploma,\
+    \ pelo AV.90/99.1999.06.08.MNE DR.IS-A [151] DE 01/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/90-1999-372066
+  date: '1999-06-08'
+- type: amended_by
+  target: pt:dre:424735:por
+  label: "Aprovadas as Emendas ao Protocolo pelo DEC.35/2002.2002.11.05.MNE, DR.IS-A [255]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/35-2002-424735
+  date: '2002-11-05'
+- type: amended_by
+  target: pt:dre:541039:por
+  label: "Aprovada a Emenda ao Protocolo de Montreal Relativo às Substâncias Que Empobrecem a Camada de Ozono, adoptada em\
+    \ Pequim em 3 de Dezembro de 1999, pelo DEC.9/2006.23.01.2006.MNE, DR.IS-A [16] de 23.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/9-2006-541039
+  date: '2006-01-23'
+- type: amended_by
+  target: pt:dre:115456105:por
+  label: Aprovada a Emenda ao Protocolo de Montreal, relativo às Substâncias que Empobrecem a Camada de Ozono, pelo(a) Decreto
+    n.º 16/2018 - Diário da República n.º 107/2018, Série I de 2018-06-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/16-2018-115456105
+  date: '2018-06-05'
 article_structure:
-  article_count: 21
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:01:26Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +132,19 @@ de 30 de Agosto
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo de Montreal, de 16 de Setembro de 1987, sobre as Substâncias que Empobrecem a Camada de Ozono, assim como o respectivo anexo A, cujos textos originais em inglês e respectivas traduções em português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Protocolo de Montreal, de 16 de Setembro de 1987, sobre as Substâncias que Empobrecem a Camada de Ozono, assim como o respectivo anexo A, cujos textos originais em inglês e respectivas traduções em português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 14 de Julho de 1988. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral.
 
 Ratificado em 8 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1988.**
+Referendado em 10 de Agosto de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MONTREAL PROTOCOL ON SUBSTANCES THAT DEPLETE THE OZONE LAYER
 
@@ -414,7 +456,7 @@ ANNEX A
 
 Controlled substances
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/20000/35623572.pdf))](https://files.diariodarepublica.pt/1s/1988/08/20000/35623572.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/20000/35623572.pdf)
 
 PROTOCOLO DE MONTREAL SOBRE AS SUBSTÂNCIAS QUE DETERIORAM A CAMADA DE OZONO
 
@@ -682,4 +724,4 @@ Feito em Montreal aos 16 dias do mês de Setembro de 1987.
 
 ## ANEXO A — Substâncias regulamentadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/20000/35623572.pdf))](https://files.diariodarepublica.pt/1s/1988/08/20000/35623572.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/20000/35623572.pdf)

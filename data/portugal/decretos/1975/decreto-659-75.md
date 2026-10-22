@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/659-1975-309754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41cb9f9f8898ab1be6eb825fce52028ae6bdc2e6c88eeb58b73a53e4747b846f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f45aec934f3d44773b7b40645834a027815b430adcdc39dbcd9102f325fcba0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Crédito Especial
+- Gestão Orçamental
+- Ministério das Finanças
+- Reforço de Verbas
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:37Z'
   warnings: []
   errors: []
 ---
@@ -88,47 +98,47 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 48857774$70, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 48857774$70, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado:
 
 Defesa Nacional
 
 Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
-### Capítulo 14.º «Despesas comuns»:
+Capítulo 14.º «Despesas comuns»:
 
 Despesas militares em harmonia com compromissos tomados internacionalmente
 
-###### Artigo 345.º «Bens duradouros» ... 390000$00
+Artigo 345.º «Bens duradouros» ... 390000$00
 
 Forças militares extraordinárias no ultramar
 
-###### Artigo 353.º «Remunerações em espécie» ... 5800000$00
+Artigo 353.º «Remunerações em espécie» ... 5800000$00
 
-###### Artigo 354.º «Previdência social»:
+Artigo 354.º «Previdência social»:
 
 N.º 5 «Outras despesas» ... 400000$00
 
-###### Artigo 357.º «Bens não duradouros» ... 1700000$00
+Artigo 357.º «Bens não duradouros» ... 1700000$00
 
-###### Artigo 358.º «Aquisição de serviços» ... 1400000$00
+Artigo 358.º «Aquisição de serviços» ... 1400000$00
 
 ... 9690000$00
 
 Ministério da Justiça
 
-### Capítulo 13.º «Contas de ordem»:
+Capítulo 13.º «Contas de ordem»:
 
-###### Artigo 594.º «Serviços prisionais» ... 6000000$00
+Artigo 594.º «Serviços prisionais» ... 6000000$00
 
 Ministério dos Assuntos Sociais
 
 Secretaria de Estado da Saúde
 
-### Capítulo 6.º «Direcção-Geral de Saúde»:
+Capítulo 6.º «Direcção-Geral de Saúde»:
 
 Direcção-Geral
 
-###### Artigo 88.º «Transferências - Sector público»:
+Artigo 88.º «Transferências - Sector público»:
 
 N.º 1 «Centros de saúde» ... 14405198$40
 
@@ -160,28 +170,28 @@ Alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assi
 
 ... 48857774$70
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumentos de previsão das seguintes receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumentos de previsão das seguintes receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 5.º, grupo 1, artigo 88.º «Serviços autónomos e empresas públicas» ... 33167774$70
+Capítulo 5.º, grupo 1, artigo 88.º «Serviços autónomos e empresas públicas» ... 33167774$70
 
-### Capítulo 14.º, artigo 162.º «Reposições não abatidas nos pagamentos» ... 390000$00
+Capítulo 14.º, artigo 162.º «Reposições não abatidas nos pagamentos» ... 390000$00
 
-### Capítulo 15.º, artigo 167.º «Serviços prisionais» ... 6000000$00
+Capítulo 15.º, artigo 167.º «Serviços prisionais» ... 6000000$00
 
 Receita extraordinária:
 
-### Capítulo 12.º, grupo 9, artigo 199.º «Crédito interno» ... 9300000$00
+Capítulo 12.º, grupo 9, artigo 199.º «Crédito interno» ... 9300000$00
 
 ... 48857774$70
 
 José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Jorge de Carvalho Sá Borges.
 
-**Promulgado em 7 de Novembro de 1975.**
+Promulgado em 7 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

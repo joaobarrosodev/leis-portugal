@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/02000/00880091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1975-159560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:37:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ed7e4d686bb39b12a7f53c18ff0fcc33aaf0e8db6e9e61e4097e18e949dfd89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9df66bbb2b698cbd5f8c40d77f7b4169ef8447729da9bd20d2aa4f291580c00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:37:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral do Comércio Externo
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:634691:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141810:por
+  label: "Dada nova redacção aos artigos 1.º, 6.º e 7.º, n.º 1 do artigo 12.º e nºs 2 e 3 do artigo 16.º, revogado o artigo\
+    \ 8.º e alterado o quadro de pessoal aprovado pelo presente diploma, pelo ]DR.15/77.14.02.1977.SECECE-MCT, DR.IS [45]\
+    \ de 23.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-1977-141810
+  date: '1977-02-14'
+- type: amended_by
+  target: pt:dre:460618:por
+  label: "Extinta a Comissão de Controlo do Comércio Externo, criada pelo Dec Lei 191/74 de 06-Mai, e transfere as suas atribuições\
+    \ para a Direcção Geral do Comércio Externo cujas atribuições e orgânica constam do presente diploma, pelo DEC LEI.387/80.20.09.1980.MCT,\
+    \ DR.IS [218] de 20.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-1980-460618
+  date: '1980-09-20'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585843:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:634691:por
+  label: Revogado pelo(a) Decreto-Lei n.º 86/93 - Diário da República n.º 65/1993, Série I-A de 1993-03-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-1993-634691
+  date: '1993-03-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:37:56Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +130,7 @@ Ao abrigo do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 540/74](http
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A Direcção-Geral do Comércio Externo, criada pelo [Decreto-Lei n.º 540/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1974-585843), de 12 de Outubro, é gerida por um director-geral e englobará os seguintes serviços:
+Artigo 1.º A Direcção-Geral do Comércio Externo, criada pelo [Decreto-Lei n.º 540/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1974-585843), de 12 de Outubro, é gerida por um director-geral e englobará os seguintes serviços:
 
 a) Direcção de Serviços de Estudos e Planeamento;
 
@@ -106,7 +144,7 @@ e) Divisão Administrativa e Financeira;
 
 f) Divisão de Documentação e Informação.
 
-###### Art. 2.º À Direcção de Serviços de Estudos e Planeamento compete, designadamente:
+Art. 2.º À Direcção de Serviços de Estudos e Planeamento compete, designadamente:
 
 a) Propor e realizar programas de estudo das determinantes da evolução do comércio externo nacional e da reorientação deste em função do melhor aproveitamento das potencialidades produtivas internas e das oportunidades de diversificação de mercados;
 
@@ -120,7 +158,7 @@ e) Manter ligações com a orgânica do planeamento em matéria de comércio ext
 
 f) Colaborar, quando solicitada, com as restantes direcções de serviços na realização de tarefas de estudo que caibam na competência destas.
 
-###### Art. 3.º À Direcção de Serviços da Integração Económica Europeia compete, designadamente:
+Art. 3.º À Direcção de Serviços da Integração Económica Europeia compete, designadamente:
 
 a) Estudar o processo de integração económica europeia e a concomitante elaboração e aplicação de orientações de política económica e avaliar da respectiva incidência sobre os interesses nacionais;
 
@@ -130,7 +168,7 @@ c) Preparar as tomadas de posição em matéria técnico-económica a apresentar
 
 d) Promover a participação activa do País nos trabalhos de órgãos técnicos das entidades designadas na alínea b) que apresentem particular interesse do ponto de vista do desenvolvimento das relações económicas e da cooperação com os países nelas integrados.
 
-###### Art. 4.º À Direcção de Serviços das Organizações Internacionais e das Relações Bilaterais compete, designadamente:
+Art. 4.º À Direcção de Serviços das Organizações Internacionais e das Relações Bilaterais compete, designadamente:
 
 a) Acompanhar as actividades em matéria económica das organizações internacionais de que o País é parte, designadamente as comissões e as agências especializadas da Organização das Nações Unidas e a Organização de Cooperação e Desenvolvimento Económicos, e preparar as tomadas de posição a apresentar nesse contexto, que serão submetidas à aprovação superior;
 
@@ -140,7 +178,7 @@ c) Estudar as possibilidades de desenvolvimento das relações comerciais entre 
 
 d) Estudar as demais hipóteses de desenvolvimento das relações económicas e da cooperação com outros países ou territórios, propor a adopção das iniciativas julgadas úteis para tal fim e submeter à aprovação superior as tomadas de posição em matéria técnico-económica em que elas se concretizem.
 
-###### Art. 5.º - 1. À Direcção de Serviços das Normas Reguladoras do Comércio Externo, por intermédio da Divisão de Licenciamento e Registo Prévio, compete executar o licenciamento e registo prévio das operações de importação, exportação e reexportação de mercadorias e coordenar a execução dessas mesmas operações por entidades a quem tenha sido delegada competência para tal.
+Art. 5.º - 1. À Direcção de Serviços das Normas Reguladoras do Comércio Externo, por intermédio da Divisão de Licenciamento e Registo Prévio, compete executar o licenciamento e registo prévio das operações de importação, exportação e reexportação de mercadorias e coordenar a execução dessas mesmas operações por entidades a quem tenha sido delegada competência para tal.
 
 2. Compete ainda à mesma Direcção de Serviços:
 
@@ -148,15 +186,15 @@ a) Participar na preparação das posições técnicas de negociação de acordo
 
 b) Estudar e propor as regulamentações que sirvam para obviar os efeitos nocivos sobre a economia do País de quaisquer práticas que infrinjam os princípios do comércio livre.
 
-###### Art. 6.º À Divisão Administrativa e Financeira compete a programação e a execução de toda a actividade da Direcção-Geral nos domínios administrativo e financeiro, em conformidade com o disposto na lei geral e com as normas específicas contidas neste diploma.
+Art. 6.º À Divisão Administrativa e Financeira compete a programação e a execução de toda a actividade da Direcção-Geral nos domínios administrativo e financeiro, em conformidade com o disposto na lei geral e com as normas específicas contidas neste diploma.
 
-###### Art. 7.º À Divisão de Documentação e Informação compete, designadamente:
+Art. 7.º À Divisão de Documentação e Informação compete, designadamente:
 
 a) Organizar e garantir o funcionamento das actividades de documentação necessárias ao pleno e correcto exercício da competência da Direcção-Geral, em ligação com as várias direcções de serviços e com órgãos de cooperação em matéria de documentação, nacionais ou estrangeiros;
 
 b) Organizar, com o apoio das várias direcções de serviços, actividades informativas regulares dirigidas aos restantes órgãos da Administração, às associações sócio-profissionais e ao público em geral sobre aspectos particularmente relevantes das relações económicas externas do País.
 
-###### Art. 8.º - 1. A Direcção-Geral do Comércio Externo disporá do pessoal constante do quadro publicado em anexo ao presente diploma.
+Art. 8.º - 1. A Direcção-Geral do Comércio Externo disporá do pessoal constante do quadro publicado em anexo ao presente diploma.
 
 2. O quadro referido no número antecedente poderá ser alterado por portaria dos Ministros das Finanças e da Economia.
 
@@ -164,17 +202,17 @@ b) Organizar, com o apoio das várias direcções de serviços, actividades info
 
 4. Um dos três inspectores superiores desempenhará funções correspondentes a subdirector-geral.
 
-###### Art. 9.º - 1. O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 9.º - 1. O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2. As nomeações feitas nos termos do número anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
 3. Quando o provimento dos lugares recair em funcionários provenientes de outros serviços do Estado ou de institutos públicos, o tempo de serviço neles prestado contará para efeitos de nomeação definitiva, desde que tenham exercido funções da mesma natureza, e quando assim não for, o prazo da nomeação provisória será reduzido a um ano.
 
-###### Art. 10.º O director-geral e os inspectores superiores serão nomeados pelo Ministro da Economia, por indicação do Secretário de Estado do Comércio Externo e Turismo, de entre licenciados com curso superior adequado ao desempenho das respectivas funções, com observância, no que respeita ao director-geral, do disposto no [Decreto-Lei n.º 49130](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49130-1969-199580), de 17 de Julho de 1969.
+Art. 10.º O director-geral e os inspectores superiores serão nomeados pelo Ministro da Economia, por indicação do Secretário de Estado do Comércio Externo e Turismo, de entre licenciados com curso superior adequado ao desempenho das respectivas funções, com observância, no que respeita ao director-geral, do disposto no [Decreto-Lei n.º 49130](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49130-1969-199580), de 17 de Julho de 1969.
 
-###### Art. 11.º Os directores de serviço e os chefes de divisão serão nomeados pelo Secretário de Estado do Comércio Externo e Turismo, sob proposta do director-geral, de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
+Art. 11.º Os directores de serviço e os chefes de divisão serão nomeados pelo Secretário de Estado do Comércio Externo e Turismo, sob proposta do director-geral, de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
 
-###### Art. 12.º - 1. Sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 540/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1974-585843), por despacho do Secretário de Estado do Comércio Externo e Turismo, mediante proposta do director-geral, serão providos os restantes lugares do quadro, de harmonia com as condições seguintes:
+Art. 12.º - 1. Sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 540/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1974-585843), por despacho do Secretário de Estado do Comércio Externo e Turismo, mediante proposta do director-geral, serão providos os restantes lugares do quadro, de harmonia com as condições seguintes:
 
 a) Técnicos principais e técnicos de 1.ª classe, por promoção, respectivamente, de técnicos de 1.ª e 2.ª classes com boas informações de serviço e as habilitações legais;
 
@@ -198,7 +236,7 @@ h) Escriturários-dactilógrafos, de entre indivíduos habilitados com o ciclo p
 
 4. O Secretário de Estado do Comércio Externo e Turismo poderá condicionar o provimento dos lugares do quadro à realização de concursos ou de cursos de promoção, de harmonia com as condições julgadas convenientes.
 
-###### Art. 13.º - 1. Quando se mostre indispensável, sob proposta do director-geral, o Secretário de Estado do Comércio Externo e Turismo poderá requisitar pessoal de outros serviços ou institutos públicos, a pagar por dotação especial para esse efeito inscrita no orçamento da Direcção-Geral.
+Art. 13.º - 1. Quando se mostre indispensável, sob proposta do director-geral, o Secretário de Estado do Comércio Externo e Turismo poderá requisitar pessoal de outros serviços ou institutos públicos, a pagar por dotação especial para esse efeito inscrita no orçamento da Direcção-Geral.
 
 2. Se a requisição cessar por decisão ministerial e não existir vaga no quadro donde o funcionário proceda, passará este a prestar serviço em qualquer organismo dependente do Ministério da Economia ou do departamento de origem, consoante decisão dos Ministros respectivos.
 
@@ -206,21 +244,21 @@ h) Escriturários-dactilógrafos, de entre indivíduos habilitados com o ciclo p
 
 4. O tempo de serviço prestado na Direcção-Geral pelos funcionários a que se refere este artigo contará, para todos os efeitos, como se tivesse sido prestado nos quadros a que pertencem, mantendo os mesmos, durante esse tempo, os respectivos direitos, incluindo os relativos à promoção.
 
-###### Art. 14.º - 1. Os funcionários do quadro da Direcção-Geral poderão ser mandados desempenhar, em comissão de serviço, por tempo indeterminado, funções correspondentes à sua categoria e especialidade noutros serviços do Estado, no País ou no estrangeiro, bem como em organizações internacionais.
+Art. 14.º - 1. Os funcionários do quadro da Direcção-Geral poderão ser mandados desempenhar, em comissão de serviço, por tempo indeterminado, funções correspondentes à sua categoria e especialidade noutros serviços do Estado, no País ou no estrangeiro, bem como em organizações internacionais.
 
 2. O tempo de serviço prestado pelos funcionários nas condições referidas no número anterior contará, para todos os efeitos, como se tivesse sido prestado no quadro da Direcção-Geral.
 
-###### Art. 15.º - 1. O Ministro da Economia poderá autorizar que seja contratado além dos quadros pessoal técnico ou administrativo, destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, com o acordo do Ministro das Finanças.
+Art. 15.º - 1. O Ministro da Economia poderá autorizar que seja contratado além dos quadros pessoal técnico ou administrativo, destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, com o acordo do Ministro das Finanças.
 
 2. Durante o prazo previsto no artigo 4.º do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro, aplicar-se-ão disposto naquele preceito.
 
-###### Art. 16.º - 1. Os primeiros provimentos dos lugares do quadro anexo a este diploma serão efectuados através de lista nominativa, nos termos do artigo 7.º do [Decreto-Lei n.º 540/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1974-585843).
+Art. 16.º - 1. Os primeiros provimentos dos lugares do quadro anexo a este diploma serão efectuados através de lista nominativa, nos termos do artigo 7.º do [Decreto-Lei n.º 540/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1974-585843).
 
 2. Sem prejuízo do disposto no número anterior, o preenchimento dos lugares do quadro técnico, sempre que possível, e do quadro administrativo, em todos os casos, será feito com pessoal proveniente de outros serviços ou institutos públicos e de organismos corporativos dependentes do Ministério.
 
 3. O pessoal referido no número anterior ingressará nos quadros da Direcção-Geral mediante lista ou listas nominativas aprovadas pelo Secretário de Estado do Comércio Externo e Turismo e anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.
 
-###### Art. 17.º - 1. A Direcção-Geral goza de autonomia administrativa.
+Art. 17.º - 1. A Direcção-Geral goza de autonomia administrativa.
 
 2. A Direcção-Geral disporá de um conselho administrativo constituído pelo director-geral, pelo chefe da Divisão Administrativa e Financeira e pelo director de serviços que for designado por despacho do Secretário de Estado do Comércio Externo e Turismo, sob proposta do director-geral.
 
@@ -228,20 +266,20 @@ h) Escriturários-dactilógrafos, de entre indivíduos habilitados com o ciclo p
 
 4. Poderá ser constituído um fundo de maneio de quantitativo a fixar por despacho do Secretário de Estado do Comércio Externo e Turismo, destinado ao pagamento directo de pequenas despesas.
 
-###### Art. 18.º As despesas resultantes da execução deste diploma podem ser satisfeitas de conta das sobras das dotações inscritas no Orçamento Geral do Estado para os serviços que, no todo ou em parte, se integram na Direcção-Geral ou pelas verbas inscritas especialmente para aquele fim.
+Art. 18.º As despesas resultantes da execução deste diploma podem ser satisfeitas de conta das sobras das dotações inscritas no Orçamento Geral do Estado para os serviços que, no todo ou em parte, se integram na Direcção-Geral ou pelas verbas inscritas especialmente para aquele fim.
 
-###### Art. 19.º As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por despacho do Ministro da Economia, com o acordo do Ministro das Finanças, quando estiverem em causa matéria de carácter financeiro ou regras de contabilidade pública.
+Art. 19.º As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por despacho do Ministro da Economia, com o acordo do Ministro das Finanças, quando estiverem em causa matéria de carácter financeiro ou regras de contabilidade pública.
 
 Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 17 de Janeiro de 1975.**
+Promulgado em 17 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 QUADRO ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/02000/00880091.pdf))](https://files.diariodarepublica.pt/1s/1975/01/02000/00880091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/02000/00880091.pdf)
 
-**O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.

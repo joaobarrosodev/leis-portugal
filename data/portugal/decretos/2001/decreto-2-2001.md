@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/2/2001/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-2001-313392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:11:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7892c6570ba0e984f8ae2ea7e30ffd7ffb10ff5b3944b840f6dc66ee22dbaca9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 512018abb41bace4faac6f2d13a9c8ad26116b0ea9bee304296dc99571307795
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:11:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito Marítimo
 - Convenção
-- Portugal
-- ONU
-- Recursos do Mar
-- Nova Iorque
-- Proteção do Ambiente
-- Peixe
+- Direito Marítimo
 - Diversidade Biológica
+- Nova Iorque
+- ONU
+- Peixe
+- Portugal
+- Proteção do Ambiente
+- Recursos do Mar
 relationships: []
 article_structure:
   article_count: 58
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:11:30Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +103,15 @@ Portugal assinala que, enquanto Estado membro da Comunidade Europeia, transferiu
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa.
 
-**Assinado em 8 de Janeiro de 2001.**
+Assinado em 8 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Janeiro de 2001.**
+Referendado em 11 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 AGREEMENT FOR THE IMPLEMENTATION OF THE PROVISIONS OF THE UNITED NATIONS CONVENTION ON THE LAW OF THE SEA OF 10 DECEMBER 1982 RELATING TO THE CONSERVATION AND MANAGEMENT OF STRADDLING FISH STOCKS AND HIGHLY MIGRATORY FISH STOCKS.
 
@@ -1065,7 +1065,7 @@ Afirmando que as matérias não reguladas pela Convenção ou pelo presente Acor
 
 acordaram no seguinte:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Termos utilizados e âmbito de aplicação
 
@@ -1107,7 +1107,7 @@ O presente Acordo tem por objectivo assegurar a conservação a longo prazo e a 
 
 Nenhuma disposição do presente Acordo prejudicará os direitos, a jurisdição e as obrigações dos Estados nos termos da Convenção. O presente Acordo será interpretado e aplicado no contexto da Convenção e da forma compatível com as suas disposições.
 
-# PARTE II — Conservação e gestão das populações de peixes transzonais e das populações de peixes altamente migradores
+## PARTE II — Conservação e gestão das populações de peixes transzonais e das populações de peixes altamente migradores
 
 ###### Artigo 5.º — Princípios gerais
 
@@ -1195,7 +1195,7 @@ f) Velarão por que tais medidas não tenham efeitos prejudiciais para o conjunt
 
 8 - Os Estados que pesquem no alto mar informarão regularmente os outros Estados interessados, quer directamente quer por intermédio das competentes organizações ou convénios sub-regionais ou regionais de gestão das pescarias, ou através de outros meios adequados, das medidas que tenham adoptado para regular as actividades dos navios arvorando a sua bandeira que pesquem tais populações no alto mar.
 
-# PARTE III
+## PARTE III
 
 Mecanismos de cooperação internacional respeitantes às populações de peixes transzonais e às populações de peixes altamente migradores.
 
@@ -1313,7 +1313,7 @@ Os Estados acordarão igualmente em medidas de acompanhamento, controlo, vigilâ
 
 2 - Nos termos do artigo 8.º, os Estados actuarão de boa fé e envidarão todos os esforços para acordar, o mais rapidamente possível, em medidas de conservação e de gestão a aplicar quando do exercício de operações de pesca na zona referida no n.º 1. Se não puderem acordar em tais medidas num prazo razoável, os Estados que pescam e o Estado costeiro aplicarão os n.os 4, 5 e 6 do artigo 7.º, relativos às medidas ou aos convénios provisórios, tendo em conta o n.º 1. Na pendência da adopção destas medidas ou convénios provisórios, os Estados interessados tomarão medidas para que os navios que arvoram a sua bandeira não se dediquem a pescarias susceptíveis de prejudicar as populações em causa.
 
-# PARTE IV — Não membros e não participantes
+## PARTE IV — Não membros e não participantes
 
 ###### Artigo 17.º — Não membros de organizações e não participantes em convénios
 
@@ -1325,7 +1325,7 @@ Os Estados acordarão igualmente em medidas de acompanhamento, controlo, vigilâ
 
 4 - Os Estados que sejam membros de tal organização ou participantes em tal convénio trocarão informações sobre as actividades dos navios de pesca arvorando bandeira de Estados que não sejam membros da organização nem participantes no convénio e exerçam a pesca das populações em questão. Além disso, adoptarão medidas, em conformidade com o presente Acordo e com o direito internacional, para dissuadir estes navios de desenvolver actividades prejudiciais para a eficácia das medidas sub-regionais ou regionais de conservação e de gestão.
 
-# PARTE V — Deveres do Estado de bandeira
+## PARTE V — Deveres do Estado de bandeira
 
 ###### Artigo 18.º — Deveres do Estado de bandeira
 
@@ -1369,7 +1369,7 @@ i) Regulamentação das actividades de pesca, para assegurar o cumprimento das m
 
 4 - Sempre que esteja em vigor um sistema acordado a nível sub-regional, regional ou mundial de acompanhamento, controlo a vigilância, os Estados velarão por que as medida por eles impostas aos navios arvorando a sua bandeira sejam compatíveis com tal sistema.
 
-# PARTE VI — Cumprimento e execução
+## PARTE VI — Cumprimento e execução
 
 ###### Artigo 19.º — Cumprimento e execução pelo Estado de bandeira
 
@@ -1507,7 +1507,7 @@ f) Facilitem o desembarque dos inspectores em condições seguras.
 
 4 - Nenhuma disposição do presente artigo prejudicará o exercício da soberania dos Estados nos portos do seu território, em conformidade com o direito internacional.
 
-# PARTE VII — Necessidades dos Estados em desenvolvimento
+## PARTE VII — Necessidades dos Estados em desenvolvimento
 
 ###### Artigo 24.º — Reconhecimento das necessidades especiais dos Estados em desenvolvimento
 
@@ -1547,7 +1547,7 @@ c) O acompanhamento, o controlo, a vigilância, o cumprimento e a execução da 
 
 2 - Os Estados e as organizações internacionais devem apoiar os Estados em desenvolvimento na criação de novas organizações ou convénios sub-regionais ou regionais de gestão das pescarias ou no reforço das organizações ou convénios existentes, para efeitos da conservação e da gestão das populações de peixes transzonais e populações de peixes altamente migradores.
 
-# PARTE VIII — Solução pacífica de controvérsias
+## PARTE VIII — Solução pacífica de controvérsias
 
 ###### Artigo 27.º — Obrigação de solucionar controvérsias por meios pacíficos
 
@@ -1585,7 +1585,7 @@ Sempre que uma controvérsia se prender com uma questão de índole técnica, os
 
 O n.º 3 do artigo 297.º da Convenção é igualmente aplicável ao presente Acordo.
 
-# PARTE IX — Estados não Partes no presente Acordo
+## PARTE IX — Estados não Partes no presente Acordo
 
 ###### Artigo 33.º — Estados não Partes no presente Acordo
 
@@ -1593,19 +1593,19 @@ O n.º 3 do artigo 297.º da Convenção é igualmente aplicável ao presente Ac
 
 2 - Os Estados Partes adoptarão medidas em conformidade com o presente Acordo e o direito internacional, com vista a dissuadir os navios arvorando bandeira de Estados não Partes de exercerem actividades prejudiciais para a aplicação efectiva do presente Acordo.
 
-# PARTE X — Boa fé e abuso de direito
+## PARTE X — Boa fé e abuso de direito
 
 ###### Artigo 34.º — Boa fé e abuso de direito
 
 Os Estados Partes devem cumprir de boa fé as obrigações contraídas nos termos do presente Acordo e exercer os direitos reconhecidos no presente Acordo de modo a não constituir abuso de direito.
 
-# PARTE XI — Responsabilidade
+## PARTE XI — Responsabilidade
 
 ###### Artigo 35.º — Responsabilidade
 
 Os Estados Partes são responsáveis, em conformidade com o direito internacional, pelos danos e perdas que lhes sejam imputáveis nos termos do presente Acordo.
 
-# PARTE XII — Conferência de revisão
+## PARTE XII — Conferência de revisão
 
 ###### Artigo 36.º — Conferência de revisão
 
@@ -1613,7 +1613,7 @@ Os Estados Partes são responsáveis, em conformidade com o direito internaciona
 
 2 - A conferência examinará e avaliará em que medida as disposições do presente Acordo se revelam adequadas e, se for caso disso, proporá meios para reforçar o seu conteúdo e métodos de aplicação, a fim de melhor responder a quaisquer problemas persistentes em matéria de conservação e de gestão das populações de peixes transzonais e das populações de peixes altamente migradores.
 
-# PARTE XIII — Disposições finais
+## PARTE XIII — Disposições finais
 
 ###### Artigo 37.º — Assinatura
 
@@ -1711,7 +1711,7 @@ c) Em caso de conflito entre as obrigações de uma organização internacional 
 
 ###### Artigo 49.º — Depositário
 
-**O Secretário-Geral das Nações Unidas é o depositário do presente Acordo e das emendas ou revisões a este.**
+O Secretário-Geral das Nações Unidas é o depositário do presente Acordo e das emendas ou revisões a este.
 
 ###### Artigo 50.º — Textos autênticos
 

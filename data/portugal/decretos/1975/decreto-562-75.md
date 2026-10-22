@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/562-1975-312240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:39:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50db3eacf95085d728f829ab0332a3355e0c82bd3a83d294c5ec41e2d685b8d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f04bf4d44685b8ab4e2124012c0516cbfd9cbe7582b94709f7abd1607d5cd293
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo
+- Convenção
+- Política de Cooperação
+- Política Económica
+- Portugal
+- Roménia
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:39:06Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +93,15 @@ de 2 de Outubro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Acordo de Cooperação Económica, Técnica e Científica a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia, assinado em Bucareste em 14 de Junho de 1975, cujo texto em português vai anexo ao presente decreto.
+Artigo único. É aprovado para ratificação o Acordo de Cooperação Económica, Técnica e Científica a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia, assinado em Bucareste em 14 de Junho de 1975, cujo texto em português vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Jorge Fernando Branco de Sampaio.
 
-**Assinado em 15 de Setembro de 1975.**
+Assinado em 15 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Acordo de Cooperação Económica, Técnica e Científica a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia.
 
@@ -117,43 +123,43 @@ Considerando que um acordo a longo prazo reforçará uma colaboração económic
 
 Acordam no seguinte:
 
-###### ARTIGO 1
+ARTIGO 1
 
 As Partes Contratantes adoptarão medidas destinadas a facilitar, alargar e diversificar a cooperação económica, técnica e científica entre os dois países.
 
-###### ARTIGO 2
+ARTIGO 2
 
 As trocas resultantes de acções de cooperação beneficiarão das vantagens previstas nas legislações dos dois países e no Acordo de Comércio a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia.
 
 As Partes Contratantes apoiarão e facilitarão a conclusão de contratos de cooperação económica, técnica e científica a longo prazo, tendo em vista que as trocas resultantes desses contratos beneficiem, na maior medida, das vantagens previstas nas respectivas legislações, particularmente das que se referem ao tráfico de aperfeiçoamento, à importação temporária com isenção de direitos, à utilização de portos e zonas francas e à simplificação de formalidades alfandegárias e administrativas.
 
-###### ARTIGO 3
+ARTIGO 3
 
 As Partes Contratantes concordam que existem possibilidades de cooperação nos seguintes domínios: agricultura, indústria e transportes.
 
 Quando da conclusão de projectos de cooperação e sua concretização, serão considerados o potencial económico dos dois países, os seus recursos e necessidades em matérias-primas, máquinas e equipamentos, processos técnicos, bens de consumo corrente, assim como as possibilidades de comercialização dos produtos obtidos em cooperação.
 
-###### ARTIGO 4
+ARTIGO 4
 
 As Partes Contratantes encorajarão a realização de projectos de cooperação económica, técnica e científica sob formas mutuamente vantajosas, incluindo as sociedades que venham a ser constituídas entre as empresas e as organizações dos dois países, em conformidade com as respectivas regulamentações em vigor.
 
-###### ARTIGO 5
+ARTIGO 5
 
 Ao abrigo das respectivas legislações, as Partes Contratantes empenhar-se-ão no desenvolvimento das relações de cooperação entre as autoridades competentes dos dois países no domínio dos transportes marítimos. Com este objectivo, essas autoridades manterão consultas recíprocas e permutarão informações, encorajando o desenvolvimento de contactos entre as respectivas empresas de navegação.
 
-###### ARTIGO 6
+ARTIGO 6
 
 Cada Parte Contratante adoptará medidas para favorecer a participação das empresas e organizações nacionais nas feiras e exposições internacionais que se realizem no território da outra Parte e procederá de maneira que sejam oferecidas as melhores condições para a participação das empresas e organizações da outra Parte Contratante nas manifestações similares a realizar no seu território.
 
-###### ARTIGO 7
+ARTIGO 7
 
 Os contratos de cooperação económica, técnica e científica entre os dois países poderão ser celebrados por pessoas jurídicas e físicas da República Portuguesa e por pessoas jurídicas da República Socialista da Roménia, para tal autorizadas, segundo as leis e regulamentos em vigor nos dois países.
 
-###### ARTIGO 8
+ARTIGO 8
 
 As Partes Contratantes acordaram que os pagamentos resultantes das operações realizadas no quadro do presente Acordo sejam efectuados em divisas livremente convertíveis e em conformidade com a regulamentação em vigor em cada país.
 
-###### ARTIGO 9
+ARTIGO 9
 
 A Comissão Mista Governamental Luso-Romena, constituída no âmbito do Acordo de Comércio a Longo Prazo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia, assinado em Bucareste em 14 de Junho de 1975, terá por missão, no domínio da colaboração económica entre os dois países:
 
@@ -163,13 +169,13 @@ b) Examinar as vias susceptíveis de facilitar a conclusão de contratos de coop
 
 c) Procurar as melhores soluções para os problemas eventualmente surgidos no decurso do desenvolvimento das relações económicas entre os dois países.
 
-###### ARTIGO 10
+ARTIGO 10
 
 O presente Acordo entrará em vigor na data da última notificação referente à sua ratificação pelas autoridades competentes de cada um dos países.
 
 O período de validade do presente Acordo é de cinco anos. Será automaticamente prorrogado por novos períodos de um ano, desde que não seja denunciado por escrito e notificado por via diplomática, até três meses antes da expiração do seu período de validade.
 
-###### ARTIGO 11
+ARTIGO 11
 
 Em caso de expiração do presente Acordo, as suas disposições continuarão a ser aplicadas às obrigações ainda não cumpridas e resultantes dos contratos de cooperação económica, técnica e científica concluídos durante o seu período de validade.
 

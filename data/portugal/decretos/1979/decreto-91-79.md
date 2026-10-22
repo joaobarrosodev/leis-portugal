@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/91-1979-378754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:54:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c42c46c6189b29ee29b69ba585cf8708be88cfbef5ade6a5ce0d989034c1aba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3578f721cd79b812aceb144984da1c74ffeece145d658720297d90e2bd28db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:54:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Direitos Aduaneiros
+- Importação
+- Mercadoria
+relationships:
+- type: cites
+  target: pt:dre:261928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:54:02Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +103,11 @@ Dessa situação resultam, em boa parte, demoras na informação dos processos, 
 
 Assim, nos termos da alínea c) do artigo 202.º da Constituição e usando da faculdade conferida pelo artigo 40.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O primeiro requerimento dirigido, consoante o disposto no n.º 2 do artigo 21.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, ao Ministro das Finanças e do Plano, a fim de ser obtido o benefício da isenção ou da redução dos direitos de importação de bens de equipamento, nos termos da alínea k) da base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, deverá conter os elementos de informação necessários à apreciação económica do empreendimento a que se refere e ser apresentado antes de iniciada a instalação, ampliação, reorganização ou reconversão da unidade industrial em que esses bens vão ser utilizados.
+Artigo 1.º - 1 - O primeiro requerimento dirigido, consoante o disposto no n.º 2 do artigo 21.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, ao Ministro das Finanças e do Plano, a fim de ser obtido o benefício da isenção ou da redução dos direitos de importação de bens de equipamento, nos termos da alínea k) da base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, deverá conter os elementos de informação necessários à apreciação económica do empreendimento a que se refere e ser apresentado antes de iniciada a instalação, ampliação, reorganização ou reconversão da unidade industrial em que esses bens vão ser utilizados.
 
 2 - Os requerimentos subsequentes destinados igualmente à obtenção do benefício da isenção ou redução dos direitos de importação de outros bens de equipamento para serem utilizados no mesmo empreendimento deverão ser apresentados antes de ser efectuado o desembaraço aduaneiro da mercadoria e indicar a data e a designação do serviço do Ministério da Indústria e Tecnologia onde foi entregue o requerimento a que alude o n.º 1.
 
-###### Art. 2.º O primeiro requerimento, além de obedecer ao disposto nos n.os 1, 3, 5 e 6 do artigo 23.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, deve ser acompanhado de memória descritiva e justificativa, contendo, quando possível, os seguintes elementos:
+Art. 2.º O primeiro requerimento, além de obedecer ao disposto nos n.os 1, 3, 5 e 6 do artigo 23.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, deve ser acompanhado de memória descritiva e justificativa, contendo, quando possível, os seguintes elementos:
 
 a) A localização do ou dos vários estabelecimentos fabris, seu endereço, telex e telefone;
 
@@ -119,20 +131,20 @@ j) O número de empregos, discriminados por administradores e directores, técni
 
 l) Balanços e contas de exploração, apurados e previsionais, nos mesmos períodos da alínea g).
 
-###### Art. 3.º As competências atribuídas pelo [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, ao Fundo de Fomento Industrial e à Direcção-Geral da Indústria Transformadora serão exercidas pelos serviços operativos do Ministério da Indústria e Tecnologia para os quais foram transferidas.
+Art. 3.º As competências atribuídas pelo [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, ao Fundo de Fomento Industrial e à Direcção-Geral da Indústria Transformadora serão exercidas pelos serviços operativos do Ministério da Indústria e Tecnologia para os quais foram transferidas.
 
-###### Art. 4.º No prazo de sessenta dias, a contar da entrada em vigor deste diploma, deverão os requerentes completar a instrução dos seus processos originados do primeiro requerimento, fornecendo todos os elementos previstos na lei, bem como os enunciados no artigo 2.º deste decreto, requerendo a junção dos documentos necessários e informando os serviços competentes da existência de outros requerimentos atinentes ao mesmo empreendimento.
+Art. 4.º No prazo de sessenta dias, a contar da entrada em vigor deste diploma, deverão os requerentes completar a instrução dos seus processos originados do primeiro requerimento, fornecendo todos os elementos previstos na lei, bem como os enunciados no artigo 2.º deste decreto, requerendo a junção dos documentos necessários e informando os serviços competentes da existência de outros requerimentos atinentes ao mesmo empreendimento.
 
-###### Art. 5.º - 1 - Não sendo dado cumprimento ao disposto no artigo anterior, dentro do prazo nele previsto, ou prorrogado conforme o número seguinte, os processos serão arquivados, comunicando-se o facto, por ofício, ao Ministério das Finanças e do Plano.
+Art. 5.º - 1 - Não sendo dado cumprimento ao disposto no artigo anterior, dentro do prazo nele previsto, ou prorrogado conforme o número seguinte, os processos serão arquivados, comunicando-se o facto, por ofício, ao Ministério das Finanças e do Plano.
 
 2 - Os requerentes podem, dentro do prazo previsto no artigo anterior, requerer à competente Direcção-Geral, com razoável justificação, a prorrogação daquele prazo pelo máximo de trinta dias.
 
-###### Art. 6.º Este decreto entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º Este decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Abril de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

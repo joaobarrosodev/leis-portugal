@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/39/1991/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-1991-659547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:03:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bb642b2e4a988dcc2d75f2a0c235b8afc69ebf9d366e424849e5605b2aaab33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a3b30c38799c03bd5f663b5be564bf921199cb7f3c382993b1fe20d1db8021a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Educação
-- Coreia do SUL
-- Portugal
 - Cooperação Cultural
+- Coreia do SUL
 - Desporto
+- Educação
+- Portugal
 relationships: []
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:03:58Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ de 19 de Junho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República da Coreia, assinado em Lisboa, a 21 de Novembro de 1990, cujas versões autênticas nas línguas portuguesa, inglesa e coreana seguem em anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República da Coreia, assinado em Lisboa, a 21 de Novembro de 1990, cujas versões autênticas nas línguas portuguesa, inglesa e coreana seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1991. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Roberto Artur da Luz Carneiro.
 
-**Assinado em 27 de Maio de 1991.**
+Assinado em 27 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Maio de 1991.**
+Referendado em 29 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO CULTURAL ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA COREIA
 
@@ -168,7 +168,7 @@ Pelo Governo da República Portuguesa:
 
 José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/138a00/31733176.pdf))](https://files.diariodarepublica.pt/1s/1991/06/138a00/31733176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/138a00/31733176.pdf)
 
 CULTURAL AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF PORTUGAL AND THE GOVERNMENT OF THE REPUBLIC OF KOREA.
 
@@ -232,4 +232,4 @@ José Manuel Durão Barroso.
 
 For the Government of the Republic of Korea:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/138a00/31733176.pdf))](https://files.diariodarepublica.pt/1s/1991/06/138a00/31733176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/138a00/31733176.pdf)

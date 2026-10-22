@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/5/1994/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-1994-521443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 401099c18382e110a5db0e4ff515f911bbfc5d5609fabcb7e262b13067b4a775
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea82313c212839b995d1791b8438df2e94d511aa8ef731c0d3c51b352827982e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
 subjects:
 - Convenção
 - Cooperação Financeira
-- Portugal
 - Marrocos
+- Portugal
 - Rabat
 relationships: []
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:25Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +91,19 @@ de 8 de Fevereiro
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Financeiro entre o Governo da República Portuguesa e o Governo do Reino de Marrocos, assinado em Rabat, a 7 de Junho de 1993, cujo texto original nas línguas portuguesa, árabe e francesa segue em anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Financeiro entre o Governo da República Portuguesa e o Governo do Reino de Marrocos, assinado em Rabat, a 7 de Junho de 1993, cujo texto original nas línguas portuguesa, árabe e francesa segue em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1993. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Durão Barroso - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Assinado em 6 de Janeiro de 1994.**
+Assinado em 6 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Janeiro de 1994.**
+Referendado em 14 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO FINANCEIRO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO REINO DE MARROCOS
 
@@ -165,7 +165,7 @@ Pelo Governo do Reino de Marrocos:
 
 Mohamed Berrada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/032a00/06170619.pdf))](https://files.diariodarepublica.pt/1s/1994/02/032a00/06170619.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/032a00/06170619.pdf)
 
 PROTOCOLE FINANCIER ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE ET LE GOUVERNEMENT DU ROYAUME DU MAROC.
 

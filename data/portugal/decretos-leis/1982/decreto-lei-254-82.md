@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/14700/18971900.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b7e27bbdbb22362ee77a27fefff23b2390fa0be027562aabba2fceb248ea872
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbd9ba84ccea72ca43ad82020d778f5a2a569d6588d814ab425367bd5ffeeecc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Regional de Saúde
+- Assistência Médica
+- Criação de Serviços
+- Ministério dos Assuntos Sociais
+- Orgânica
+- Regime de Instalação
+- Serviços de LUTA Antituberculosa
 relationships:
 - type: amended_by
   target: pt:dre:651705:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310980:por
+  label: "Aditado o artigo 16º-A pelo DEC LEI.73/83.07.02.1983.MAS, DR.IS [31] de 07.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1983-310980
+  date: '1983-02-07'
+- type: amended_by
+  target: pt:dre:384993:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória, do art. 17º, na parte em que revogou os art.s 18º a 61º\
+    \ e art.s 64º e 65º da Lei 56/79, de 15-Set, pelo AC.39/84.05.05.1984.TCS, DR.IS [104] de 05.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/39-1984-384993
+  date: '1984-05-05'
+- type: amended_by
+  target: pt:dre:401068:por
+  label: "Prorrogada, por mais 1 ano o regime de instalação fixado pelo artigo 7º pela PORT.874/84.24.11.1984.MS, DR.IS [273]\
+    \ de 24.11.1984\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/874-1984-401068
+  date: '1984-11-24'
+- type: amended_by
+  target: pt:dre:651705:por
+  label: "Extintas as Administrações Regionais de Saúde, criadas ao abrigo do presente diploma, transitando o pessoal e o\
+    \ património para as novas ARS, pelo DEC LEI.335/93.29.09.1993.MS, DR.IS-A [229] de 29.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-1993-651705
+  date: '1993-09-29'
+- type: cites
+  target: pt:dre:307618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:586006:por
+  label: "Revogado pelo DEC LEI.11/93.15.01.1993.MS, DR.IS-A [12] de 15.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-1993-586006
+  date: '1993-01-15'
 article_structure:
   article_count: 18
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:57Z'
   warnings: []
   errors: []
 ---
@@ -235,8 +286,8 @@ As dúvidas decorrentes da aplicação deste diploma serão resolvidas por despa
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 17 de Junho de 1982.**
+Promulgado em 17 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

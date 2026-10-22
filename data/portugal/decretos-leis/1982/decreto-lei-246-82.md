@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1982-395290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35a63a0d9d82f731a77d48b9ee63cd0c136d0513276a6ae4e2835bbb832031ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 315aee7a086e39bbd1fe1419cd076afdd0b065166014977c42b0c6d4a9ae513b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Artesanato
+- Marca
+relationships:
+- type: cites
+  target: pt:dre:574299:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394771:por
+  label: Rectificado o presente diploma pela DECL.DD6109.30.06.1982.PCM, DR.IS [159] de 13.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394771
+  date: '1982-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:49Z'
   warnings: []
   errors: []
 ---
@@ -94,32 +105,32 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado o símbolo de artesanato português, que constará de um selo a apor apenas em produtos reconhecidamente genuínos e de qualidade.
+Artigo 1.º É criado o símbolo de artesanato português, que constará de um selo a apor apenas em produtos reconhecidamente genuínos e de qualidade.
 
-###### Art. 2.º - 1 - A atribuição do símbolo de artesanato português compete à Comissão Executiva do Artesanato (CEA), sob proposta dos núcleos de apoio ao artesanato, de acordo com as regras gerais estabelecidas pelo Conselho Interministerial para o Artesanato (CIPA).
+Art. 2.º - 1 - A atribuição do símbolo de artesanato português compete à Comissão Executiva do Artesanato (CEA), sob proposta dos núcleos de apoio ao artesanato, de acordo com as regras gerais estabelecidas pelo Conselho Interministerial para o Artesanato (CIPA).
 
 2 - A venda do selo referido no artigo 1.º é da competência das comissões regionais de turismo.
 
 3 - O produto da venda dos selos com o símbolo de artesanato português constitui receita a distribuir, em partes iguais, pelas comissões regionais de turismo, pelo Fundo de Fomento Cultural e pelo CIPA.
 
-###### Art. 3.º - 1 - Aos artesãos cuja produção tenha merecido a atribuição do símbolo de artesanato português poderá ser concedido um certificado comprovativo pela CEA.
+Art. 3.º - 1 - Aos artesãos cuja produção tenha merecido a atribuição do símbolo de artesanato português poderá ser concedido um certificado comprovativo pela CEA.
 
 2 - O certificado mencionado no n.º 1 é atribuído a título gratuito.
 
-###### Art. 4.º - 1 - O símbolo de artesanato português constará de modelo próprio, de modo a poder ser aposto nos vários produtos, tendo em consideração a sua diversidade e características.
+Art. 4.º - 1 - O símbolo de artesanato português constará de modelo próprio, de modo a poder ser aposto nos vários produtos, tendo em consideração a sua diversidade e características.
 
 2 - O certificado referido no artigo 3.º constará igualmente de modelo próprio.
 
-###### Art. 5.º - 1 - A fixação dos valores do selo com o símbolo de artesanato português e dos regulamentos necessários à execução do presente decreto-lei será aprovada por portaria do membro do Governo encarregado do sector do turismo.
+Art. 5.º - 1 - A fixação dos valores do selo com o símbolo de artesanato português e dos regulamentos necessários à execução do presente decreto-lei será aprovada por portaria do membro do Governo encarregado do sector do turismo.
 
 2 - A CEA deverá propor no prazo máximo de 60 dias, a contar da entrada em vigor deste decreto-lei, aos membros do Governo referidos no número anterior os modelos do símbolo de artesanato português e do respectivo certificado.
 
-###### Art. 6.º As dúvidas suscitadas pela aplicação deste decreto-lei e dos seus regulamentos serão resolvidas por despacho individual ou conjunto dos membros do Governo referidos no artigo 5.º, na medida em que estiverem em causa matérias das respectivas competências.
+Art. 6.º As dúvidas suscitadas pela aplicação deste decreto-lei e dos seus regulamentos serão resolvidas por despacho individual ou conjunto dos membros do Governo referidos no artigo 5.º, na medida em que estiverem em causa matérias das respectivas competências.
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Junho de 1982.**
+Promulgado em 8 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

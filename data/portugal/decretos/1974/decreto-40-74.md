@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/40-1974-407363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:34:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7fdacf75bb0eaaca9f0e99250a6116fbe1193b597ad7df00d80418084c14f87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19c63eed222eb86517f39cb039f14f2233197c05d505a6239bd22dca8141dd8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:34:25Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +88,19 @@ Após cerca de três anos de vigência, verifica-se ser necessário actualizar o
 
 Nestes termos, usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado e posto em execução o novo Regulamento da Junta Nacional da Marinha Mercante, que faz parte integrante deste decreto.
+Artigo único. É aprovado e posto em execução o novo Regulamento da Junta Nacional da Marinha Mercante, que faz parte integrante deste decreto.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 30 de Janeiro de 1974.**
+Promulgado em 30 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Regulamento da Junta Nacional da Marinha Mercante
 
-###### Artigo 1.º - 1. A Junta Nacional da Marinha Mercante (J. N. M. M.) é constituída por:
+Artigo 1.º - 1. A Junta Nacional da Marinha Mercante (J. N. M. M.) é constituída por:
 
 Um presidente;
 
@@ -128,11 +128,11 @@ e) Conselho Administrativo;
 
 f) Delegações.
 
-###### Art. 2.º - 1. Ao secretário-geral, além da execução das tarefas que lhe sejam cometidas pelo presidente e vice-presidente, compete elaborar as actas das sessões da Junta.
+Art. 2.º - 1. Ao secretário-geral, além da execução das tarefas que lhe sejam cometidas pelo presidente e vice-presidente, compete elaborar as actas das sessões da Junta.
 
 2. O secretário-geral é directamente auxiliado no desempenho das suas funções por um adjunto.
 
-###### Art. 3.º - 1. Ao Núcleo de Planeamento e Estudos (N. P. E.), além das tarefas que lhe sejam superiormente cometidas, compete:
+Art. 3.º - 1. Ao Núcleo de Planeamento e Estudos (N. P. E.), além das tarefas que lhe sejam superiormente cometidas, compete:
 
 a) Assegurar a preparação e coordenação das actividades respeitantes aos planos de fomento do sector da marinha de comércio e controlar a sua execução;
 
@@ -162,7 +162,7 @@ d) Centro de Documentação e Informação;
 
 e) Biblioteca.
 
-###### Art. 4.º Existem cinco divisões, com as seguintes atribuições:
+Art. 4.º Existem cinco divisões, com as seguintes atribuições:
 
 a) 1.ª Divisão:
 
@@ -212,34 +212,34 @@ e) 5.ª Divisão:
 
 Elaborar a estatística da actividade da marinha de comércio nacional.
 
-###### Art. 5.º - 1. À Secretaria Central compete executar os serviços de expediente, registo e arquivo da correspondência, secretariado, registo e movimento de pessoal e outras tarefas, designadamente a elaboração de propostas, tendo em vista a melhoria das condições de trabalho e o bem-estar social dos funcionários da Junta.
+Art. 5.º - 1. À Secretaria Central compete executar os serviços de expediente, registo e arquivo da correspondência, secretariado, registo e movimento de pessoal e outras tarefas, designadamente a elaboração de propostas, tendo em vista a melhoria das condições de trabalho e o bem-estar social dos funcionários da Junta.
 
 2. A Secretaria Central é dirigida pelo adjunto do secretário-geral.
 
-###### Art. 6.º As divisões e a Secretaria Central compreenderão as secções consideradas necessárias.
+Art. 6.º As divisões e a Secretaria Central compreenderão as secções consideradas necessárias.
 
-###### Art. 7.º - 1. Ao conselho administrativo compete fiscalizar a aplicação das receitas, estudar os projectos de orçamentos e a conta de gerência de cada ano económico, aprovar o balanço anual, assinar os cheques e outros documentos relativos ao levantamento de fundos e todas as demais atribuições que lhe sejam conferidas por lei.
+Art. 7.º - 1. Ao conselho administrativo compete fiscalizar a aplicação das receitas, estudar os projectos de orçamentos e a conta de gerência de cada ano económico, aprovar o balanço anual, assinar os cheques e outros documentos relativos ao levantamento de fundos e todas as demais atribuições que lhe sejam conferidas por lei.
 
 2. O conselho administrativo é presidido pelo presidente da Junta e constituído, mais, pelo vice-presidente e pelo vogal que for designado por despacho do Ministro da Marinha.
 
-###### Art. 8.º - 1. Às delegações compete velar pelo cumprimento das decisões da Junta nas áreas da sua jurisdição, bem como exercer as atribuições que lhes sejam conferidas pelo presidente.
+Art. 8.º - 1. Às delegações compete velar pelo cumprimento das decisões da Junta nas áreas da sua jurisdição, bem como exercer as atribuições que lhes sejam conferidas pelo presidente.
 
 2. A criação de delegações e a nomeação de delegados carecem de prévia aprovação do Ministro da Marinha, dada por simples despacho, sob proposta da Junta.
 
-###### Art. 9.º Além do pessoal do quadro, a Junta Nacional da Marinha Mercante, mediante despacho do Ministro da Marinha, poderá:
+Art. 9.º Além do pessoal do quadro, a Junta Nacional da Marinha Mercante, mediante despacho do Ministro da Marinha, poderá:
 
 a) Contratar pessoal em regime de prestação de serviço (em tempo total ou parcial);
 
 b) Celebrar contratos para a realização de estudos, inquéritos ou outros trabalhos de carácter eventual que se mostrem necessários para o desempenho das funções da Junta.
 
-###### Art. 10.º De acordo com os programas de trabalho, poderão ser constituídos na Junta grupos de trabalho eventuais, com pessoal habilitado, designado para o efeito por despacho do Ministro da Marinha, o qual será remunerado por tarefa.
+Art. 10.º De acordo com os programas de trabalho, poderão ser constituídos na Junta grupos de trabalho eventuais, com pessoal habilitado, designado para o efeito por despacho do Ministro da Marinha, o qual será remunerado por tarefa.
 
-###### Art. 11.º A Junta poderá, em benefício do seu pessoal:
+Art. 11.º A Junta poderá, em benefício do seu pessoal:
 
 a) Instituir obras de carácter social e cultural;
 
 b) Organizar cursos de aperfeiçoamento profissional.
 
-###### Art. 12.º A J. N. M. M. elaborará os seus regulamentos internos, de harmonia com os princípios fixados neste Regulamento, e submetê-los-á à aprovação do Ministro da Marinha.
+Art. 12.º A J. N. M. M. elaborará os seus regulamentos internos, de harmonia com os princípios fixados neste Regulamento, e submetê-los-á à aprovação do Ministro da Marinha.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/40-1977-141182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:47:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce3c156d5c07e600f9d6534bc5aed644723a2c258f53fbf1bb7603b48e8722b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a80b62b843d1e5cd906a24b48d2fc4eef29337477282b943d5ae94811072c533
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- RDA
+- Transporte Aéreo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:47:20Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ de 15 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo de Portugal e o Governo da República Democrática Alemã relativo a Transporte Aéreo, assinado em Lisboa a 17 de Outubro de 1975, cujos textos em inglês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo de Portugal e o Governo da República Democrática Alemã relativo a Transporte Aéreo, assinado em Lisboa a 17 de Outubro de 1975, cujos textos em inglês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovada em Conselho de Ministro. - Mário Soares - José Manuel de Medeiros Ferreira.
 
-**Assinado em 21 de Fevereiro de 1977.**
+Assinado em 21 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO ENTRE O GOVERNO DE PORTUGAL E O GOVERNO DA REPÚBLICA DEMOCRÁTICA ALEMÃ RELATIVO A TRANSPORTE AÉREO.
 
@@ -262,7 +266,7 @@ O presente Acordo será firmado por um período de tempo indefinido. Poderá ser
 
 O presente Acordo deverá entrar em vigor na data da sua assinatura pelos plenipotenciários das Partes Contratantes.
 
-**Assinado em Lisboa a 17 de Outubro de 1975, em duplicado, em língua inglesa.**
+Assinado em Lisboa a 17 de Outubro de 1975, em duplicado, em língua inglesa.
 
 Pelo Governo de Portugal:
 
@@ -272,7 +276,7 @@ Pelo Governo da República Democrática Alemã:
 
 Volkmar Winkler, Vice-Ministro dos Transportes.
 
-## ANEXO AO ACORDO ENTRE O GOVERNO DA REPÚBLICA DEMOCRÁTICA ALEMÃ E O GOVERNO DE PORTUGAL SOBRE TRANSPORTES AÉREOS.
+ANEXO AO ACORDO ENTRE O GOVERNO DA REPÚBLICA DEMOCRÁTICA ALEMÃ E O GOVERNO DE PORTUGAL SOBRE TRANSPORTES AÉREOS.
 
 #### SECÇÃO I
 

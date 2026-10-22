@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/366-1973-421625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:28:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a48f3387f5f16dafb6fca40e8ab3f58578c3a3a10bd8ab81007ebc65d7d5d2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bb87ca49a25f6294dd8dd19aee9a6241d9cf716c65129a848c7da39d68338a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505055:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:28:44Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +99,9 @@ Tendo em vista o disposto no artigo 6.º do [Decreto-Lei n.º 48234](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Electricidade e Comunicações do Ministério da Marinha a celebrar contrato para a aquisição de um equipamento telegráfico automático para retransmissão de mensagens, até à importância de 21800000$00.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Electricidade e Comunicações do Ministério da Marinha a celebrar contrato para a aquisição de um equipamento telegráfico automático para retransmissão de mensagens, até à importância de 21800000$00.
 
-###### Art. 2.º - 1. O encargo resultante da aquisição referida no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
+Art. 2.º - 1. O encargo resultante da aquisição referida no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
 
 Em 1973 ... 8300000$00
 
@@ -103,12 +111,12 @@ Em 1975 ... 6900000$00
 
 2. O saldo apurado em cada ano será adicionado ao ano ou anos seguintes.
 
-###### Art. 3.º A despesa de que trata o presente diploma constitui encargo da verba «Encargos Gerais da Nação - Despesa extraordinária - Defesa Nacional - Despesas militares, em harmonia com compromissos tomados internacionalmente» inscrita e a inscrever em cada um dos referidos anos no artigo 2.º, n.º 1, deste diploma.
+Art. 3.º A despesa de que trata o presente diploma constitui encargo da verba «Encargos Gerais da Nação - Despesa extraordinária - Defesa Nacional - Despesas militares, em harmonia com compromissos tomados internacionalmente» inscrita e a inscrever em cada um dos referidos anos no artigo 2.º, n.º 1, deste diploma.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.
 
-**Promulgado em 9 de Julho de 1973.**
+Promulgado em 9 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

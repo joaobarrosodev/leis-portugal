@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/45/1991/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-1991-667946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:04:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7df5df147416237a29ae75e8a8f4b60e13c625633f38ce99789b73ffe3349126
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3eb05502faa79e8d2e9dbabcc38fb015146c7940d2aeca7d8628ae0879c40e1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Áustria
 - Convenção
 - Portugal
-- Áustria
 - Transporte
 - Transporte de Passageiros
 - Viena
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:04:06Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ de 6 de Julho
 
 Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - É rectificada a versão em língua portuguesa do n.º 1 do artigo 12.º do Acordo entre o Governo da República Portuguesa e o Governo da República Federal da Áustria Relativo ao Transporte Rodoviário Internacional de Passageiros e Mercadorias, assinado em Viena, em 18 de Abril de 1985, e aprovado pelo Decreto n.º 18/86, de 4 de Dezembro, sendo a sua nova redacção a seguinte:
+Artigo único. - 1 - É rectificada a versão em língua portuguesa do n.º 1 do artigo 12.º do Acordo entre o Governo da República Portuguesa e o Governo da República Federal da Áustria Relativo ao Transporte Rodoviário Internacional de Passageiros e Mercadorias, assinado em Viena, em 18 de Abril de 1985, e aprovado pelo Decreto n.º 18/86, de 4 de Dezembro, sendo a sua nova redacção a seguinte:
 
 Os veículos matriculados no território de qualquer das Partes Contratantes estão isentos dos impostos e das taxas que incidam sobre a exploração ou posse dos veículos a motor no território da outra Parte Contratante.
 
@@ -103,12 +103,12 @@ A isenção referida no n.º 1 não abrangerá os impostos ou as taxas sobre con
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro - Joaquim Martins Ferreira do Amaral.
 
-**Assinado em 19 de Junho de 1991.**
+Assinado em 19 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1991.**
+Referendado em 22 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

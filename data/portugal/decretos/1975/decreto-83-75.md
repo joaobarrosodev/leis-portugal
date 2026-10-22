@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/83-1975-160161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:40:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9210ebab6e2f49462717799034c73cd8c3777c18423746de736371fe4e7f69b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48b1bd506f2c56ea5add3093000b5b81a0f565134d29c0a2e70570789b7b834a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA NON Aedificandi
+- Medidas Preventivas
+- Ordenamento do Território
+- Plano de Urbanização
+- Política de Solos
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:141048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141048:por
+  label: "Prorrogado por mais um ano o prazo de vigência das medidas preventivas pelo DR.21/77.17.03.1977.MHUC, DR.IS [64]\
+    \ de 17.03.1977 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-1977-141048
+  date: '1977-03-17'
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:40:33Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +110,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Na área do concelho de Setúbal representada no mapa anexo e com os limites abaixo descritos, durante o prazo de dois anos, fica dependente de autorização do Fundo de Fomento da Habitação, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, à prática dos actos ou actividades seguintes:
+Artigo 1.º - 1. Na área do concelho de Setúbal representada no mapa anexo e com os limites abaixo descritos, durante o prazo de dois anos, fica dependente de autorização do Fundo de Fomento da Habitação, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, à prática dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos populacionais;
 
@@ -110,16 +126,16 @@ A área referida é limitada a norte e no sentido leste-oeste pelo limite sul da
 
 2. É aplicável às medidas preventivas a que se refere o número antecedente o disposto nos artigos 3.º a 5.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro.
 
-###### Art. 2.º O presente decreto entra imediatamente em vigor.
+Art. 2.º O presente decreto entra imediatamente em vigor.
 
 Vasco dos Santos Gonçalves - Manuel da Costa Brás - José Augusto Fernandes.
 
-**Promulgado em 10 de Fevereiro de 1975.**
+Promulgado em 10 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/04600/02930294.pdf))](https://files.diariodarepublica.pt/1s/1975/02/04600/02930294.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/04600/02930294.pdf)
 
-**O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.**
+O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes.

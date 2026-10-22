@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 302/1973, 1º Suplemento, Série I de 1973-12-31
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2568-(9) a 2568-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/30201/00090010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/728-1973-218104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ad5db57250e8801aa3caa57713b32296c76a32630772426a20250f5a9b9d71b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcdd050d00389c2f95461cdc9f533e0570793ba8d65d68ea41181a09f3368d29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:412011:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:07Z'
   warnings: []
   errors: []
 ---
@@ -89,12 +93,12 @@ Com fundamento no artigo 7.º do [Decreto-Lei n.º 617/73](https://diariodarepub
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. São aplicáveis aos servidores dos organismos considerados pessoas colectivas de utilidade pública administrativa dependentes dos Ministérios das Corporações e Segurança Social e da Saúde, dentro das disponibilidades financeiras de cada uma daquelas entidades, as disposições do [Decreto-Lei n.º 617/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/617-1973-412011), de 20 de Novembro.
+Artigo único. São aplicáveis aos servidores dos organismos considerados pessoas colectivas de utilidade pública administrativa dependentes dos Ministérios das Corporações e Segurança Social e da Saúde, dentro das disponibilidades financeiras de cada uma daquelas entidades, as disposições do [Decreto-Lei n.º 617/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/617-1973-412011), de 20 de Novembro.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Dias da Silva Pinto - Clemente Rogeiro.
 
-**Promulgado em 31 de Dezembro de 1973.**
+Promulgado em 31 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

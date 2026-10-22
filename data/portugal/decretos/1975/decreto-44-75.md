@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44-1975-159484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:38:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dfd8c202415809f4492f92a8fad90b7928a296a5b404cbb6fca8e823cb0154d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcbddfa796dde73c4c33b932d8ac425aead4730c2e5bec91f0508a982d1886a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:38:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:38:37Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +87,17 @@ de 1 de Fevereiro
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre os Governos da República Portuguesa e da União das Repúblicas Socialistas Soviéticas sobre Transportes Aéreos.
+Artigo único. É aprovado, para ratificação, o Acordo entre os Governos da República Portuguesa e da União das Repúblicas Socialistas Soviéticas sobre Transportes Aéreos.
 
 O Acordo agora aprovado para ratificação foi assinado em Lisboa, em 11 de Dezembro de 1974, e o respectivo texto em português vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Joaquim Jorge de Pinho Campinos.
 
-**Assinado em 24 de Janeiro de 1975.**
+Assinado em 24 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO ENTRE O GOVERNO DE PORTUGAL E O GOVERNO DA UNIÃO DAS REPÚBLICAS SOCIALISTAS SOVIÉTICAS SOBRE TRANSPORTES AÉREOS.
 
@@ -105,7 +105,7 @@ O Governo de Portugal e o Governo da União das Repúblicas Socialistas Soviéti
 
 Desejando favorecer o desenvolvimento dos transportes aéreos entre os dois países e prosseguir, o mais amplamente possível, na cooperação neste domínio, designaram para este efeito Representantes, que, devidamente autorizados, acordam nas disposições seguintes:
 
-###### ARTIGO 1
+ARTIGO 1
 
 1. Para os efeitos do presente Acordo os termos seguintes significam:
 
@@ -115,11 +115,11 @@ b) «Empresa designada» significa uma empresa de transporte aéreo que uma das 
 
 2. Os Anexos do presente Acordo serão considerados como sua parte integrante.
 
-###### ARTIGO 2
+ARTIGO 2
 
 Cada uma das Partes Contratantes concede à outra Parte Contratante os direitos referidos no presente Acordo para a exploração dos serviços aéreos internacionais regulares nas rotas especificadas no Anexo I do presente Acordo (daqui em diante designados por «serviços acordados» e «rotas especificadas»).
 
-###### ARTIGO 3
+ARTIGO 3
 
 1. A empresa designada por cada Parte Contratante gozará, enquanto explorar um serviço acordado numa rota especificada, dos seguintes direitos:
 
@@ -131,11 +131,11 @@ b) De escalas no território da outra Parte Contratante nos pontos indicados nas
 
 3. Todas as questões técnicas e comerciais relativas à realização dos voos das aeronaves e do transporte de passageiros, de carga e de correio nos serviços acordados, bem como todas as questões relativas à cooperação comercial, em especial as que se referem ao estabelecimento dos horários, das frequências dos voos, dos tipos de aeronaves, à prestação de serviços técnicos às aeronaves no solo, e à regulamentação financeira e contabilística, serão objecto de acordos directos entre as empresas designadas das Partes Contratantes, os quais, se necessário, serão submetidos à aprovação das autoridades aeronáuticas das Partes Contratantes.
 
-###### ARTIGO 4
+ARTIGO 4
 
 As disposições do artigo 3 não deverão ser entendidas como conferindo à empresa designada de uma Parte Contratante o direito de embarcar passageiros, correio e carga contra remuneração ou em regime de fretamento em vista ao seu transporte entre pontos situados no território da outra Parte Contratante.
 
-###### ARTIGO 5
+ARTIGO 5
 
 1. Cada Parte Contratante terá o direito de designar uma empresa de transporte aéreo para a exploração das serviços acordados nas rotas especificadas. A notificação desta designação será feita por escrito pela autoridade aeronáutica da Parte Contratante que tiver designado a empresa à autoridade aeronáutica da outra Parte Contratante.
 
@@ -147,7 +147,7 @@ As disposições do artigo 3 não deverão ser entendidas como conferindo à emp
 
 5. Quando a empresa tiver sido designada deste modo, poderá ela, em qualquer altura, iniciar a exploração dos serviços acordados, desde que esteja em vigor para o serviço de que se trate uma tarifa estabelecida de harmonia com as disposições do artigo 17 do presente Acordo.
 
-###### ARTIGO 6
+ARTIGO 6
 
 1. Cada Parte Contratante terá o direito de revogar a autorização de exploração, ou de suspender o exercício dos direitos especificados no artigo 3 do presente Acordo, por uma empresa designada pela outra Parte Contratante, ou ainda de sujeitar às condições que julgar necessárias o exercício daqueles direitos:
 
@@ -159,7 +159,7 @@ c) No caso de a empresa deixar de explorar os serviços acordados de harmonia co
 
 2. Salvo se a revogação, suspensão ou imposição das condições mencionadas no parágrafo 1 deste artigo forem necessárias para prevenir ulteriores infracções de leis ou regulamentos, tal direito apenas será exercido após consulta com a outra Parte Contratante.
 
-###### ARTIGO 7
+ARTIGO 7
 
 1. As aeronaves utilizadas nos serviços internacionais pela empresa de transporte aéreo designada por uma Parte Contratante, bem como o equipamento regular, fornecimento de combustíveis e lubrificantes e provisões de bordo (incluindo alimentos, bebidas e tabaco), serão isentos de direitos aduaneiros, emolumentos de inspecção e outros direitos ou impostos à chegada ao território da outra Parte Contratante, desde que tal equipamento e fornecimentos permaneçam a bordo das aeronaves até ao momento em que forem reexportados.
 
@@ -173,29 +173,29 @@ c) Os combustíveis e lubrificantes destinados ao abastecimento das aeronaves ut
 
 3. Caso as leis e regulamentos nacionais de cada Parte Contratante o exijam, os produtos referidos acima nos parágrafos 1 e 2 poderão ser colocados sob a vigilância ou o contrôle das alfândegas da referida Parte Contratante.
 
-###### ARTIGO 8
+ARTIGO 8
 
 Os equipamentos normais de bordo, bem como os produtos e provisões que se encontram a bordo das aeronaves de uma Parte Contratante, apenas poderão ser descarregados no território da outra Parte Contratante com o consentimento das suas autoridades aduaneiras. Em tal caso poderão ser colocados debaixo de vigilância das ditas autoridades até ao momento de serem reexportados ou de lhes ser dado outro destino de harmonia com os regulamentos aduaneiros.
 
-###### ARTIGO 9
+ARTIGO 9
 
 1. Com vista a assegurar a segurança dos voos nos serviços acordados, cada Parte Contratante, de acordo com a prática internacional, colocará à disposição das aeronaves da outra Parte Contratante os meios rádio, a sinalização luminosa e a informação meteorológica, bem como outros serviços necessários à realização destes voos. Cada Parte Contratante comunicará igualmente à outra Parte Contratante as informações sobre estes meios e fornecerá informações relativas aos aeródromos alternantes e aos aeródromos principais em que as aeronaves poderão aterrar, bem como o itinerário dos voos nos limites do seu território.
 
 2. As questões relacionadas com a segurança dos voos e a responsabilidade das Partes Contratantes em matéria da realização dos voos que serão da competência das autoridades aeronáuticas das Partes Contratantes, acham-se enumeradas no Anexo II do presente Acordo.
 
-###### ARTIGO 10
+ARTIGO 10
 
 1. Os passageiros, as bagagens e a carga em trânsito directo no território de uma Parte Contratante, desde que não saiam da zona do aeroporto que lhes é destinada nesse momento, só serão submetidos a um contrôle simplificado.
 
 2. As bagagens e a carga em trânsito directo serão isentas de direitos aduaneiros e de outros impostos similares.
 
-###### ARTIGO 11
+ARTIGO 11
 
 1. As leis e regulamentos de uma Parte Contratante relativos à entrada ou saída do seu território de aeronaves utilizadas em voos internacionais, ou relativos à exploração e à navegação das ditas aeronaves dentro dos limites do mesmo território, serão aplicados às aeronaves da empresa designada da outra Parte Contratante.
 
 2. As leis e regulamentos de uma Parte Contratante relativos à entrada, permanência ou saída dos passageiros, das tripulações, da carga e do correio, em especial os que se referem às formalidades de alfândega, de passaportes, de divisas e de sanidade, aplicar-se-ão dentro dos limites do mesmo território aos passageiros, tripulações, carga e correio transportados pelas aeronaves da empresa designada da outra Parte Contratante.
 
-###### ARTIGO 12
+ARTIGO 12
 
 1. As aeronaves da empresa designada por uma Parte Contratante, quando efectuam voos dentro dos limites do território da outra Parte Contratante, deverão ser portadoras de sinais de identificação do seu Estado e estar munidas de certificados de registo, de certificados de navegabilidade e outros documentos de bordo estabelecidos pelas autoridades aeronáuticas das Partes Contratantes, bem como de licenças para as instalações de rádio.
 
@@ -203,7 +203,7 @@ Os equipamentos normais de bordo, bem como os produtos e provisões que se encon
 
 3. Todos os documentos acima referidos emitidos ou reconhecidos como válidos por uma das Partes Contratantes serão reconhecidos no território da outra Parte Contratante.
 
-###### ARTIGO 13
+ARTIGO 13
 
 1. Será oferecido às empresas designadas justa e igual oportunidade de exploração dos serviços acordados entre os seus territórios. Na exploração destes serviços, a empresa designada de uma Parte Contratante deverá ter em consideração os interesses da empresa da outra Parte Contratante, de modo a não afectar indevidamente os serviços explorados por esta última nas rotas especificadas.
 
@@ -215,7 +215,7 @@ Os equipamentos normais de bordo, bem como os produtos e provisões que se encon
 
 5. No caso de a empresa designada de uma Parte Contratante usufruir de direitos de tráfego entre o território da outra Parte Contratante e pontos intermédios e/ou pontos além deste território numa rota especificada, as empresas designadas decidirão entre elas quanto à capacidade adicional a oferecer para além da capacidade estabelecida de harmonia com o parágrafo 3, tomando, contudo, em consideração as disposições dos parágrafos 1 e 2 do presente artigo. Este acordo será submetido à aprovação das autoridades aeronáuticas das Partes Contratantes.
 
-###### ARTIGO 14
+ARTIGO 14
 
 1. Em caso de aterragem forçada ou de qualquer outro acidente verificado com a aeronave de uma Parte Contratante no território da outra Parte Contratante, esta outra Parte Contratante tomará imediatamente todas as medidas necessárias para prestar assistência imediata à aeronave, aos membros da sua tripulação e aos passageiros e assegurará a integridade da aeronave, das bagagens, da carga e do correio que se achem a bordo desta aeronave.
 
@@ -223,11 +223,11 @@ Os equipamentos normais de bordo, bem como os produtos e provisões que se encon
 
 3. A Parte Contratante que conduzir o inquérito sobre o acidente informará a outra Parte Contratante dos seus resultados e fornecerá o relatório definitivo sobre o inquérito do acidente.
 
-###### ARTIGO 15
+ARTIGO 15
 
 As taxas e outros pagamentos relativos à utilização de cada aeroporto, incluindo as suas instalações, os meios técnicos e outros e os serviços, bem como todos os pagamentos relacionados com a utilização dos meios e serviços de navegação aérea e das comunicações, serão cobrados de acordo com as tarifas e escalões estabelecidos por cada uma das Partes Contratantes.
 
-###### ARTIGO 16
+ARTIGO 16
 
 1. Com vista à coordenação das questões comerciais e técnicas relativas à exploração dos serviços acordados, cada Parte Contratante concederá à empresa de transportes aéreos da outra Parte Contratante que explore efectivamente os serviços acordados o direito de manter os seus representantes e os seus assistentes nos pontos do seu território em que a empresa designada da outra Parte Contratante efectuar voos regulares.
 
@@ -235,7 +235,7 @@ As taxas e outros pagamentos relativos à utilização de cada aeroporto, inclui
 
 3. O número de pessoas das Representações escolhidas pela empresa designada entre os seus cidadãos será estabelecido por acordo entre as autoridades aeronáuticas das Partes Contratantes.
 
-###### ARTIGO 17
+ARTIGO 17
 
 1. As tarifas a aplicar pela empresa de uma Parte Contratante em relação a transportes com destino ou proveniência no território da outra Parte Contratante serão estabelecidas a níveis razoáveis, tendo em devida conta todos os elementos relevantes, especialmente custo de exploração, lucro razoável e tarifas aplicadas por outras empresas de transporte aéreo.
 
@@ -251,37 +251,37 @@ As taxas e outros pagamentos relativos à utilização de cada aeroporto, inclui
 
 7. Qualquer tarifa estabelecida em conformidade com o disposto no presente artigo continuará em vigor até ao estabelecimento de nova tarifa. A validade de uma tarifa não poderá, todavia, ser prorrogada em virtude deste parágrafo por período superior a doze meses, a contar da data em que deveria ter expirado.
 
-###### ARTIGO 18
+ARTIGO 18
 
 1. Cada Parte Contratante concede à empresa designada da outra Parte Contratante o direito de transferir para a sua sede social os excedentes das receitas sobre as despesas que essa empresa realize no seu território e que resultem da exploração dos serviços acordados. Estas quantias serão livremente transferidas e serão isentas de qualquer imposto ou qualquer outra restrição.
 
 2. O direito previsto no parágrafo precedente será exercido de harmonia com as disposições do acordo de pagamentos em vigor entre os dois países. Na ausência de disposições apropriadas de um tal acordo, as transferências serão efectuadas em divisas convertíveis e de harmonia com os procedimentos estabelecidos nos regulamentos nacionais aplicáveis.
 
-###### ARTIGO 19
+ARTIGO 19
 
 Com vista a assegurar uma estreita colaboração em todas as questões relativas à execução do presente Acordo, as autoridades aeronáuticas das Partes Contratantes consultar-se-ão de tempos a tempos.
 
-###### ARTIGO 20
+ARTIGO 20
 
 1. Qualquer diferendo que venha a surgir em consequência da interpretação ou da aplicação do presente Acordo ou dos seus Anexos será regulado por via de negociações directas entre as autoridades aeronáuticas das Partes Contratantes.
 
 2. Se as autoridades aeronáuticas não chegarem a um acordo, o diferendo será regulado por via diplomática.
 
-###### ARTIGO 21
+ARTIGO 21
 
 1. Se uma das Partes Contratantes desejar modificar as disposições do presente Acordo e dos seus Anexos, poderá solicitar a realização de consultas entre as autoridades aeronáuticas das duas Partes Contratantes com vista a eventuais modificações.
 
 2. Estas consultas iniciar-se-ão nos sessenta dias que se seguirem à data da recepção do pedido. As modificações do Acordo entrarão em vigor depois da sua aprovação por via diplomática. As modificações dos Anexos poderão ser efectuadas por acordo entre as autoridades aeronáuticas das Partes Contratantes.
 
-###### ARTIGO 22
+ARTIGO 22
 
 O presente Acordo e os seus Anexos considerar-se-ão como tendo sido harmonizados com qualquer acordo multilateral sobre o transporte aéreo que venha a obrigar as duas Partes Contratantes.
 
-###### ARTIGO 23
+ARTIGO 23
 
 Qualquer das Partes Contratantes poderá em qualquer altura notificar a outra Parte Contratante da sua intenção de denunciar o presente Acordo. O presente Acordo cessará de estar em vigor doze meses a contar da data da recepção da notificação da outra Parte Contratante, salvo se essa notificação vier a ser anulada de comum acordo antes de expirado aquele prazo.
 
-###### ARTIGO 24
+ARTIGO 24
 
 O presente Acordo entra provisoriamente em vigor a partir da data da sua assinatura e definitivamente a partir da data fixada por troca de notas diplomáticas que indiquem terem sido cumpridas todas as formalidades exigidas pela lei nacional de cada Parte Contratante.
 
@@ -295,7 +295,9 @@ Pelo Governo da União das Repúblicas Socialistas Soviéticas:
 
 Serguei Pavlov.
 
-## ANEXO I — SECÇÃO I
+## ANEXO I
+
+#### SECÇÃO I
 
 1. O Governo da União das Repúblicas Socialistas Soviéticas designa para a exploração dos serviços acordados nas rotas indicadas na secção II para as aeronaves soviéticas:
 

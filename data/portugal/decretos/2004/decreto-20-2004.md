@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/20/2004/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/20-2004-480296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:17:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ee311a09477433f963cc4d7ab938dee9b251cc61b0fdc82be490233c4d8f7a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4389da69d5736b001e71bca33369fdb0291df08b1888f80e256628995bc6600
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:17:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Poluição Atmosférica
 - Gotemburgo
 - Ozono
-- Proteção do Ambiente
+- Poluição Atmosférica
 - Poluição Transfronteiriça
-relationships: []
+- Portugal
+- Proteção do Ambiente
+relationships:
+- type: cites
+  target: pt:dre:471950:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:17:36Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +108,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 26 de Abril de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Luís Filipe Pereira - Amílcar Augusto Contel Martins Theias.
 
-**Assinado em 19 de Maio de 2004.**
+Assinado em 19 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Julho de 2004.**
+Referendado em 1 de Julho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 PROTOCOL TO THE 1979 CONVENTION ON LONG-RANGE TRANSBOUNDARY AIR POLLUTION TO ABATE ACIDIFICATION, EUTROPHICATION AND GROUND-LEVEL OZONE.
 
@@ -574,7 +578,7 @@ Emission ceilings
 
 The emission ceilings listed in the tables below relate to the provisions of article 3, paragraphs 1 and 10, of the present Protocol. The 1980 and 1990 emission levels and the percentage emission reductions listed are given for information purposes only.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 ANNEX III
 
@@ -610,7 +614,7 @@ While awaiting the development of CEN or ISO standards, national standards shall
 
 9 - Boilers and process heaters with a rated thermal input exceeding 50 MWth:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 11 - Claus plant: for plant that produces more than 50 Mg of sulphur a day:
 
@@ -680,11 +684,11 @@ While awaiting the development of CEN or ISO standards, national standards shall
 
 9 - Boilers and process heaters with a rated thermal input exceeding 50 MWth:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 10 - Onshore combustion turbines with a rated thermal input exceeding 50MWth: the NO(índice x) limit values expressed in mg/Nm3 (with an O(índice 2) content of 15%) are to be applied to a single turbine. The limit values in table 2 apply only above 70% load.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 B - Canada
 
@@ -854,7 +858,7 @@ b) For fugitive emissions of NMVOCs, the fugitive emission values set out below 
 
 8 - Storage and distribution of petrol:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 B - Canada
 
@@ -1030,7 +1034,7 @@ b) The reference point for emission reductions should correspond as closely as p
 
 a) The operator shall forward an emission reduction plan which includes in particular decreases in the average solvent content of the total input and/or increased efficiency in the use of solids to achieve a reduction of the total emissions from the installation to a given percentage of annual reference emissions, termed the target emission. This must be done in the following time frame:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 b) The annual reference emission is calculated as follows:
 
@@ -1038,7 +1042,7 @@ i) The total mass of solids in the quantity of coating and/or ink, varnish or ad
 
 ii) The annual reference emissions are calculated by multiplying the mass determined as in subparagraph i) by the appropriate factor listed in the table below. The competent authorities may adjust these factors for individual installations to reflect documented increased efficiency in the use of solids.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 iii) The target emission is equal to the annual reference emission multiplied by a percentage equal to:
 
@@ -1112,7 +1116,7 @@ Fuel quality
 
 8 - Environmental quality specifications for petrol and diesel are given in tables 8 to 11.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 B - Canada
 
@@ -1542,7 +1546,7 @@ Os anexos do presente Protocolo fazem parte integrante do Protocolo.
 
 ###### Artigo 16.º — Depositário
 
-**O Secretário-Geral da Organização das Nações Unidas exercerá as funções de depositário.**
+O Secretário-Geral da Organização das Nações Unidas exercerá as funções de depositário.
 
 ###### Artigo 17.º — Entrada em vigor
 
@@ -1604,7 +1608,7 @@ B - Partes da América do Norte
 
 Os tectos de emissão enumerados nos quadros seguintes dizem respeito às disposições dos n.os 1 e 10 do artigo 3.º do presente Protocolo. Os níveis de emissão de 1980 e 1990 e as percentagens de redução das emissões são apresentados no quadro com fins meramente informativos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 ## ANEXO III — Zona de gestão das emissões poluentes (ZGEP)
 
@@ -1634,7 +1638,7 @@ A - Partes com excepção do Canadá e dos Estados Unidos da América
 
 9 - Caldeiras e geradores de calor industriais com uma potência térmica nominal superior a 50 MW(índice th):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 11 - Unidades Claus - para as instalações que produzam mais de 50 Mg de enxofre por dia:
 
@@ -1698,11 +1702,11 @@ A - Partes com excepção do Canadá e dos Estados Unidos da América
 
 9 - As caldeiras e os geradores de calor industriais com uma potência térmica nominal superior a 50 MW(índice th):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 10 - Turbinas de combustão em terra com uma potência térmica nominal superior a 50 MW(índice th): os valores limite para os NO(índice x) expressos em mg/Nm3 (com um teor de O(índice 2) de 15%) devem ser aplicados a uma só turbina. Os valores limite que figuram no quadro n.º 2 só são aplicáveis quando a carga é superior a 70%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 B - Canadá
 
@@ -1870,7 +1874,7 @@ b) Em relação às emissões difusas de COVNM, os valores das emissões difusas
 
 8 - Armazenagem e distribuição de gasolina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 B - Canadá
 
@@ -1944,7 +1948,7 @@ t) Revestimentos poliméricos dos substratos de apoio de instalações - 40 CFR,
 
 (nota 1) - A monitorização deverá ser entendida como uma actividade global, incluindo a medição das emissões, o balanço de massas, etc. Pode ser realizada de forma contínua ou pontual.
 
-## APÊNDICE I
+APÊNDICE I
 
 Plano de gestão dos solventes
 
@@ -2026,7 +2030,7 @@ E = E1 + E2
 
 ii) Frequência - a determinação do volume de emissões difusas de COVNM pode ser efectuada através de um conjunto de medições breve mas completo, não tendo de ser até se proceder a alterações do equipamento.
 
-## APÊNDICE II
+APÊNDICE II
 
 Plano de redução
 
@@ -2046,7 +2050,7 @@ b) O valor de referência para a redução das emissões deve corresponder, na m
 
 a) O operador deve aplicar um plano de redução das emissões que inclua, nomeadamente, a redução do teor médio de solvente utilizado e ou uma maior eficiência na utilização dos sólidos, de modo a reduzir as emissões totais provenientes da instalação a uma determinada percentagem das emissões anuais de referência, designada objectivo de emissão. Tal deve efectuar-se de acordo com o seguinte calendário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 b) As emissões anuais de referência são calculadas do seguinte modo:
 
@@ -2054,7 +2058,7 @@ i) Determina-se a massa total de sólidos na quantidade total de revestimento e 
 
 ii) Calculam-se as emissões anuais de referência mediante a multiplicação da massa determinada na subalínea i) pelo factor específico que se apresenta no quadro infra. As autoridades competentes podem ajustar os factores em causa de modo a adaptá-los aos progressos em matéria de utilização eficiente de sólidos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 iii) O objectivo de emissão é calculado multiplicando a emissão anual de referência por uma determinada percentagem igual a:
 
@@ -2124,7 +2128,7 @@ Qualidade dos combustíveis
 
 8 - Nos quadros n.os 8 a 11 são apresentadas as especificações ambientais da gasolina e do gasóleo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf))](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/196a00/54575518.pdf)
 
 C - Canadá
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/15600/0470804710.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/27/2017/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/27-2017-108002089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:23:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51644b4ad2140de5c417152413000129b74680449170e9af132b11e21d23a635
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e414fdae1db7b0296b85a44a2d4d385cd2120ab092b47691d00df56042822d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:23:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - Armas e Munições
 - Armazenagem
-- Ministério da Defesa Nacional
 - Chefe do Estado Maior da Armada
 - Definição de Competências
 - Fiscalização
+- Governo XXI
 - Instalação Militar
-- Lisboa
 - Licenciamento
 - Licenciamento de Obras
-- Regime Jurídico
+- Lisboa
+- Ministério da Defesa Nacional
 - Ministro da Defesa Nacional
+- NATO
+- Regime Jurídico
 - Seixal
 - Servidão Militar
 - Sesimbra
-- Governo XXI
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693635:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:23:15Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +144,7 @@ O presente decreto procede à modificação da servidão militar relativa à zon
 
 Fica sujeita a servidão militar a zona confinante com o DMNL identificada na planta em anexo ao presente decreto e que dele faz parte integrante, definida pelos seguintes vértices de coordenadas retangulares no sistema de referência ETRS89/PT-TM06:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/08/15600/0470804710.pdf))](https://files.diariodarepublica.pt/1s/2017/08/15600/0470804710.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/08/15600/0470804710.pdf)
 
 ###### Artigo 3.º — Atividades sujeitas a autorização
 
@@ -240,18 +260,18 @@ b) Construções ou urbanizações já autorizadas, nos termos do [Decreto n.º 
 
 Visto e aprovado em Conselho de Ministro de 29 de junho de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Marcos da Cunha e Lorena Perestrello de Vasconcellos - Maria Constança Dias Urbano de Sousa - João Pedro Soeiro de Matos Fernandes.
 
-**Assinado em 2 de agosto de 2017.**
+Assinado em 2 de agosto de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de agosto de 2017.**
+Referendado em 7 de agosto de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se referem o artigo 2.º e o n.º 1 do artigo 8.º)
 
 Planta da área de servidão do Depósito de Munições NATO de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/08/15600/0470804710.pdf))](https://files.diariodarepublica.pt/1s/2017/08/15600/0470804710.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/08/15600/0470804710.pdf)

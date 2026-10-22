@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/119-1979-363118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:51:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 965c9f506fce0605b0d34956bc3eccd09eea49313321470f5ae2f0872b1bd4d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77ae974b08b5703a238b264a8461e63417aef2f8f93dc1427a1e97c58de82cc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:51:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Convenção
+- Cooperação Técnica
+- Portugal
+- Transporte Marítimo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:51:48Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 7 de Novembro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição Política, o seguinte:
 
-###### Artigo único. É aprovado o acordo de Cooperação no Domínio dos Transportes Marítimos entre a República Portuguesa e a República de Cabo Verde, assinado na cidade da Praia, em 6 de Dezembro de 1977, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o acordo de Cooperação no Domínio dos Transportes Marítimos entre a República Portuguesa e a República de Cabo Verde, assinado na cidade da Praia, em 6 de Dezembro de 1977, cujo texto vai anexo ao presente decreto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Assinado em 15 de Outubro de 1979.**
+Assinado em 15 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Acordo de Cooperação no Domínio dos Transportes Marítimos entre o Governo da República Portuguesa e o Governo da República de Cabo Verde.
 
@@ -107,11 +112,11 @@ Animados por um desejo comum de intensificar e harmonizar o intercâmbio comerci
 
 Decidem celebrar o seguinte Acordo:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 As Partes Contratantes concedem, reciprocamente, os direitos e as vantagens referidos neste Acordo, nos termos enunciados nos artigos seguintes.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Para efeitos do presente Acordo:
 
@@ -129,7 +134,7 @@ d) Embarcações de pesca.
 
 3 - A expressão «membro da tripulação» compreende o comandante e qualquer pessoa efectivamente empregada a bordo durante a viagem no exercício de funções ligadas à exploração do navio ou ao seu serviço e incluída no rol de matrícula.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 As Partes Contratantes adoptarão no comércio marítimo entre os seus países princípios de livre e leal concorrência.
 
@@ -145,7 +150,7 @@ d) Abster-se de toda a acção que possa trazer prejuízos à navegação marít
 
 e) Não dificultar a participação de navios de uma Parte Contratante no comércio entre os portos da outra Parte Contratante e os portos de terceiros países.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1 - Cada Parte Contratante concederá aos navios da outra Parte Contratante o tratamento de nação mais favorecida quando em viagens internacionais, no que respeita ao livre acesso aos portos, utilização de portos para embarque e desembarque de passageiros e cargas, pagamento de impostos de tonelagem e outros impostos e taxas, utilização de serviços destinados à navegação e exercício de operações comerciais normais.
 
@@ -161,17 +166,17 @@ d) Não se aplicará a situações abrangidas por disposições legais respeitan
 
 e) Não se aplicará às regalias que a República de Cabo Verde venha a conceder aos países africanos em vias de desenvolvimento.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 As Partes Contratantes adoptarão, dentro dos limites da lei e regulamentos portuários, todas as medidas apropriadas para facilitar e acelerar o tráfego marítimo, impedir demoras desnecessárias dos navios nos portos e acelerar e simplificar, tanto quanto possível, as formalidades administrativas, alfandegárias e sanitárias.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1 - Os documentos que certificam a nacionalidade dos navios, certificados de arqueação e outros documentos do navio emitidos ou reconhecidos por uma das Partes Contratantes serão reconhecidos também pela outra Parte.
 
 2 - O cálculo e a cobrança das taxas de navegação far-se-ão com base nos certificados de arqueação referidos no número anterior.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1 - As Partes Contratantes têm direitos iguais de participar no frete e no volume de cargas que compõem o conjunto das trocas comerciais entre os portos da República de Cabo Verde e da República Portuguesa.
 
@@ -179,29 +184,29 @@ As Partes Contratantes adoptarão, dentro dos limites da lei e regulamentos port
 
 3 - No caso de uma das Partes Contratantes não se encontrar em condições de efectuar o transporte de acordo com o estabelecido no n.º 1, cada Parte Contratante reserva-se o direito de recorrer ao meios que entender mais convenientes.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1 - Para a execução do presente Acordo, empresas de navegação cabo-verdianas e portuguesas, a designar pelas autoridades competentes, estabelecerão as formas mais adequadas para prestação de um serviço eficiente.
 
 2 - O acordado pelos armadores de ambos os países estará sujeito à aprovação das autoridades competentes respectivas, em conformidade com a legislação de cada Estado.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 As Partes Contratantes, através da subcomissão técnica prevista no artigo 22.º do presente Acordo, estudarão as taxas de fretes a praticar entre os portos da República de Cabo Verde e da República Portuguesa.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 As Partes Contratantes facilitarão a rápida liquidação e transferência das importâncias referentes aos fretes devidas aos armadores, em conformidade com as disposições que em ambos os Estados regulam os pagamentos recíprocos.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 O Estado Português cooperará, na medida das suas possibilidades, na organização do sector da marinha mercante da República de Cabo Verde, de harmonia com os princípios contidos no Acordo de Cooperação Científica e Técnica e no Acordo de Cooperação nos Domínios do Ensino e da Formação Profissional celebrados entre os Governos de Cabo Verde e de Portugal.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 O Estado Português prestará, nas condições a fixar por acordos especiais, a assistência técnica, no sector dos transportes marítimos, que o Governo de Cabo Verde considere necessária.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Cada Parte Contratante concederá aos portadores de documentos de identidade de marítimo emitidos pela autoridade competente da outra Parte Contratante os direitos estabelecidos nos artigos 15.º e 16.º do presente Acordo. Estes documentos são:
 
@@ -209,23 +214,23 @@ Para os marítimos dos navios da República de Cabo Verde - «cédula marítima�
 
 Para os marítimos dos navios da República Portuguesa - «cédula marítima» da República Portuguesa.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Aos possuidores dos documentos de identidade de marítimo especificados no artigo 13.º do presente Acordo é permitido, quando membros da tripulação de um navio de uma Parte Contratante, permanecer temporariamente em terra durante a estada do mesmo navio num porto da outra Parte Contratante, desde que figurem no rol de matrícula do navio e na lista entregue às autoridades do porto.
 
 Os membros da tripulação referidos, quando desembarquem ou embarquem num navio, ficam, contudo, sujeitos ao contrôle de fronteira e de alfândega em vigor naquele porto.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Aos possuidores dos documentos de identidade de marítimo especificados no artigo 14.º do presente Acordo é permitido entrar no território da outra Parte Contratante, ou através dele passar em trânsito, sempre que se dirijam para os seus navios, ou por qualquer outra razão, desde que aceite pelas autoridades dessa outra Parte Contratante.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1 - O disposto nos artigos 14.º e 15.º do presente Acordo não prejudica a aplicação das disposições legais respeitantes à entrada, permanência e saída de estrangeiros que vigorem no território das respectivas Partes Contratantes.
 
 2 - Cada Parte Contratante reserva-se o direito de impedir a entrada no seu território aos marítimos que considere indesejáveis.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 1 - As autoridades judiciais de uma das Partes Contratantes conhecerão das acções judiciais que possam vir a ser intentadas por membros da tripulação de um navio da outra Parte Contratante, notificando, para tanto, a autoridade consular ou diplomática competente desta Parte.
 
@@ -243,11 +248,11 @@ d) O procedimento for necessário para combater o comércio proibido de estupefa
 
 4 - O disposto nos n.os 2 e 3 deste artigo não afecta o direito de contrôle e investigação que as autoridades de cada Parte Contratante têm ao abrigo da sua legislação.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 As Partes Contratantes concedem isenção mútua de impostos que recaiam especificamente sobre receitas provenientes de fretes marítimos.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 1 - À tripulação e aos passageiros, bem como ao próprio navio e à sua carga, serão concedidas, em qualquer momento, ajuda e assistência na mesma medida em que o seriam a um navio desta última Parte.
 
@@ -255,7 +260,7 @@ As Partes Contratantes concedem isenção mútua de impostos que recaiam especif
 
 3 - Os navios acidentados, bem como as cargas transportadas, equipamento, aparelhagem, provisões ou outros artigos do navio, desde que não sejam cedidos para utilização, consumo, ou transaccionados no território da outra Parte Contratante, não serão sujeitos a direitos aduaneiros ou outros impostos de qualquer tipo lançados em função da importação.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 1 - Cada Parte Contratante responderá pelas compensações que resultarem de sentenças proferidas por um tribunal da outra Parte Contratante em acções civis relativas:
 
@@ -267,11 +272,11 @@ b) Ao transporte de passageiros ou de cargas.
 
 3 - Cada Parte Contratante garante no seu território a execução das sentenças civis dos tribunais da outra Parte em que estejam envolvidos os seus armadores.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 As Partes Contratantes comprometem-se a manter com regularidade contactos com vista à execução do presente Acordo, para o que será criada uma Comissão Mista que actuará no âmbito da Comissão Mista prevista no artigo 23.º do Acordo de Cooperação Científica e Técnica, e cuja composição será definida pelas autoridades competentes das Partes Contratantes.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 O presente Acordo entrará em vigor, provisoriamente, na data da sua assinatura e, definitivamente, na data da troca de notas confirmando a sua aprovação em conformidade com os requisitos constitucionais de ambos os países e manter-se-á vigente até doze meses depois da data em que qualquer Parte Contratante notifique a outra Parte do seu desejo de denunciar o Acordo.
 

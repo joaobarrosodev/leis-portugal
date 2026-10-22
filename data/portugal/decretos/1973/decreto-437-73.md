@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/437-1973-414001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:29:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d49545f6f82262849056f66458570bd7bb422b0819f59f6f936261194d88100
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e62daa1e52b08fd99921d9734c6d4336bd31497e4c9f0bc084d5185f9ba250f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:29:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:29:18Z'
   warnings: []
   errors: []
 ---
@@ -87,14 +87,14 @@ de 1 de Setembro
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º fixado em 5000$00 o rendimento anual assegurado à Junta de Freguesia de Sarzedo, concelho da Covilhã, como quota-parte no rendimento da exploração dos respectivos baldios.
+Artigo 1.º fixado em 5000$00 o rendimento anual assegurado à Junta de Freguesia de Sarzedo, concelho da Covilhã, como quota-parte no rendimento da exploração dos respectivos baldios.
 
-###### Art. 2.º O rendimento assegurado no artigo anterior já é devido em relação ao ano corrente.
+Art. 2.º O rendimento assegurado no artigo anterior já é devido em relação ao ano corrente.
 
 Marcello Caetano - Augusto Victor Coelho - José Eduardo Mendes Ferrão.
 
-**Promulgado em 17 de Agosto de 1973.**
+Promulgado em 17 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

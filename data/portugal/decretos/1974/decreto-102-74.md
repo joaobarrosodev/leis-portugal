@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 62/1974, 1º Suplemento, Série I de 1974-03-14
   number: '62'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 348-(8) a 348-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/06201/00080014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/102-1974-481677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:32:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a45c8a5236be05f0d81b3da6f555a0a88395d719e46036b605bcedc8c61b575
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c1af2a119b8b1b94b058df461f4ad89f300aa8c0ed518be957ea64f6f39896c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:32:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equipamento sob Pressão
+- Exportação
+- Importação
+- Licenciamento
+- Normas de Construção
+- Normas de Segurança
+- Regulamento
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:309372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:185521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481573:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO, COM EFEITOS A PARTIR DA DATA DE ENTRADA EM VIGOR DA PORT PREVISTA NO ART 2 DO DEC LEI 131/92 DE 06-JUL\
+    \ DR.IS-A [153], PELO REFERIDO DECRETO LEI\0ETO LEI"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-07-06'
+- type: repealed_by
+  target: pt:dre:309372:por
+  label: "Revogado, a partir de 29 de Novembro de 1999, pelo DEC LEI.211/99.1999.06.14.MECO,DR.IS-A [136].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1999-309372
+  date: '1999-06-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:32:39Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +131,7 @@ De harmonia com o disposto no [Decreto-Lei n.º 101/74](https://diariodarepublic
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. - 1. É aprovado o Regulamento de Recipientes sob Pressão anexo ao presente diploma.
+Artigo único. - 1. É aprovado o Regulamento de Recipientes sob Pressão anexo ao presente diploma.
 
 2. O Regulamento a que se refere o número precedente entra em vigor seis meses após a publicação deste decreto.
 
@@ -112,7 +139,7 @@ REGULAMENTO DE RECIPIENTES SOB PRESSÃO
 
 ### CAPÍTULO I — Domínio de aplicação
 
-###### Artigo 1.º - 1. O presente Regulamento aplica-se a todos os recipientes, incluindo tubagens e canalizações, destinados a conter um fluido (líquido, gás ou vapor) a pressão diferente da atmosférica, aos quais é dada a designação de «recipientes sob pressão» ou, simplesmente, «recipientes».
+Artigo 1.º - 1. O presente Regulamento aplica-se a todos os recipientes, incluindo tubagens e canalizações, destinados a conter um fluido (líquido, gás ou vapor) a pressão diferente da atmosférica, aos quais é dada a designação de «recipientes sob pressão» ou, simplesmente, «recipientes».
 
 2. Excluem-se da aplicação deste Regulamento:
 
@@ -154,7 +181,7 @@ PV é menor que 3.
 
 4. A exclusão prevista no número anterior deixará de produzir-se nos casos em que a cessação dela for determinada por despacho do Secretário de Estado da Indústria, publicado no Diário do Governo.
 
-###### Art. 2.º - 1. Para os efeitos deste Regulamento, entender-se-á:
+Art. 2.º - 1. Para os efeitos deste Regulamento, entender-se-á:
 
 a) Que P é o timbre do recipiente, ou seja, a pressão que, no funcionamento deste, não deve ser excedida;
 
@@ -164,11 +191,11 @@ b) Que V representa a capacidade total do recipiente em metros cúbicos.
 
 3. O quilograma-força por centímetro quadrado poderá ser utilizado enquanto as unidades do Sistema Internacional não tiverem sido aprovadas definitivamente pela normalização oficial portuguesa.
 
-###### Art. 3.º A importação, exportação, construção, reparação, instalação, utilização ou simples funcionamento de recipientes sob pressão fica dependente das autorizações e aprovações previstas neste Regulamento.
+Art. 3.º A importação, exportação, construção, reparação, instalação, utilização ou simples funcionamento de recipientes sob pressão fica dependente das autorizações e aprovações previstas neste Regulamento.
 
 ### CAPÍTULO II — Importação e exportação
 
-###### Art. 4.º - 1. Os pedidos de autorização de importação de recipientes sob pressão deverão ser instruídos com um certificado que garanta:
+Art. 4.º - 1. Os pedidos de autorização de importação de recipientes sob pressão deverão ser instruídos com um certificado que garanta:
 
 a) A construção em conformidade com um código aceite pela entidade oficial a quem competir o licenciamento;
 
@@ -180,13 +207,13 @@ b) A inspecção por organismo reconhecido pela mesma entidade oficial.
 
 4. As autorizações de importação serão concedidas sob parecer da entidade oficial a que se refere o n.º 1, e os despachos aduaneiros só poderão ser processados mediante a apresentação dessas autorizações.
 
-###### Art. 5.º - 1. A autorização de importação de recipientes sob pressão não dispensa a aprovação da respectiva construção.
+Art. 5.º - 1. A autorização de importação de recipientes sob pressão não dispensa a aprovação da respectiva construção.
 
 2. Para os efeitos do número anterior, o importador, nos trinta dias seguintes ao despacho de importação temporária, requererá à direcção-geral competente a realização dos ensaios e provas necessários.
 
 3. O importador tem trinta dias, a contar da data do certificado da aprovação a que se refere o n.º 1, para liquidar o bilhete de importação temporária ou para promover a reexportação do recipiente em causa, no caso de este não satisfazer às condições de construção, não podendo, em caso algum, o prazo de importação temporária exceder um ano, a contar da data da sua desalfandegação.
 
-###### Art. 6.º - 1. A exportação de recipientes de construção nacional depende da aprovação final da construção respectiva.
+Art. 6.º - 1. A exportação de recipientes de construção nacional depende da aprovação final da construção respectiva.
 
 2. A exportação de recipientes que hajam sido importados fica sujeita a autorização da entidade oficial competente.
 
@@ -194,7 +221,7 @@ b) A inspecção por organismo reconhecido pela mesma entidade oficial.
 
 #### SECÇÃO I — Aprovação da construção e reparações
 
-###### Art. 7.º A aprovação da construção ou reparação depende:
+Art. 7.º A aprovação da construção ou reparação depende:
 
 a) Da aprovação do projecto de construção ou reparação;
 
@@ -204,15 +231,15 @@ c) Da aprovação do contrôle exercido durante a construção ou a reparação;
 
 d) Da aprovação final da construção ou reparação.
 
-###### Art. 8.º Não serão aprovados os projectos de construção ou reparação que não obedeçam ao código de construção aceite pela entidade oficial competente e às prescrições do presente Regulamento.
+Art. 8.º Não serão aprovados os projectos de construção ou reparação que não obedeçam ao código de construção aceite pela entidade oficial competente e às prescrições do presente Regulamento.
 
-###### Art. 9.º - 1. A aprovação do projecto de construção de uma série terá o protótipo por objecto e seguirá, quanto a este, as regras do artigo anterior.
+Art. 9.º - 1. A aprovação do projecto de construção de uma série terá o protótipo por objecto e seguirá, quanto a este, as regras do artigo anterior.
 
 2. Entende-se por construção em série o fabrico simultâneo ou contínuo de recipientes que tenham em comum o projecto, os materiais, as características e o processo de fabrico, se este entendimento não for contrariado por determinações específicas do código de construção adoptado.
 
-###### Art. 10.º A aprovação dos esquemas de contrôle a efectuar durante a construção ou reparação não será concedida se eles se não conformarem com as indicações estabelecidas no código de construção adoptado no projecto da mesma construção ou reparação.
+Art. 10.º A aprovação dos esquemas de contrôle a efectuar durante a construção ou reparação não será concedida se eles se não conformarem com as indicações estabelecidas no código de construção adoptado no projecto da mesma construção ou reparação.
 
-###### Art. 11.º - 1. A aprovação do contrôle efectuado durante a construção ou reparação terá por base os elementos exigidos pelo código de construção aceite pela autoridade oficial competente.
+Art. 11.º - 1. A aprovação do contrôle efectuado durante a construção ou reparação terá por base os elementos exigidos pelo código de construção aceite pela autoridade oficial competente.
 
 2. Caso o código adoptado seja omisso, poderão exigir-se, total ou parcialmente, para efeitos de aprovação deste contrôle, os seguintes elementos:
 
@@ -228,7 +255,7 @@ e) Certificados de ensaios de provetes testemunho;
 
 f) Relatórios das inspecções.
 
-###### Art. 12.º A aprovação final da construção ou reparação basear-se-á nos resultados que se obtenham com:
+Art. 12.º A aprovação final da construção ou reparação basear-se-á nos resultados que se obtenham com:
 
 a) Radiografias ou aplicação de outras técnicas de inspecção não destrutiva, se houver lugar a esses ensaios;
 
@@ -236,7 +263,7 @@ b) A prova de pressão;
 
 c) As avaliações de deformações locais, se forem feitas.
 
-###### Art. 13.º - 1. A prova de pressão deve ser efectuada:
+Art. 13.º - 1. A prova de pressão deve ser efectuada:
 
 a) Com o recipiente nu de todo o revestimento, quando se trate da aprovação da construção;
 
@@ -244,7 +271,7 @@ b) Com o recipiente nu de qualquer revestimento na parte afectada pela reparaç�
 
 2. Independentemente da regra da alínea b) do número anterior, havendo motivo para suspeitar da segurança do recipiente, pode ser exigida a demolição, total ou parcial, do revestimento ou do maciço de alvenaria, para permitir a inspecção, e a abertura das portas de visita, para vistoria interior.
 
-###### Art. 14.º - 1. A pressão da prova será determinada:
+Art. 14.º - 1. A pressão da prova será determinada:
 
 a) No caso de aprovação da construção, de harmonia com o código de construção.
 
@@ -256,7 +283,7 @@ Na falta de indicação por parte do código, a pressão de prova será igual a 
 
 2. A pressão de prova será verificada com um manómetro padrão e manter-se-á pelo tempo necessário para se verificar se o recipiente permanece estanque e não apresenta fugas ou deformações permanentes apreciáveis.
 
-###### Art. 15.º - 1. A prova de pressão será hidráulica, podendo, contudo, ser pneumática, com ar ou outro gás conveniente, nos seguintes casos:
+Art. 15.º - 1. A prova de pressão será hidráulica, podendo, contudo, ser pneumática, com ar ou outro gás conveniente, nos seguintes casos:
 
 a) Quando os recipientes, pela sua concepção ou construção, não se prestem a ser cheios com um líquido;
 
@@ -266,15 +293,15 @@ b) Quando os recipientes, pelas suas condições de serviço, não admitam a exi
 
 3. Se o código de construção adoptado não estabelecer as condições em que deverá ser executada a prova pneumática, deverão ser seguidas as regras definidas pela entidade oficial competente.
 
-###### Art. 16.º - 1. Na ocasião da prova verificar-se-á o funcionamento dos dispositivos de segurança e se existem os restantes acessórios do recipiente.
+Art. 16.º - 1. Na ocasião da prova verificar-se-á o funcionamento dos dispositivos de segurança e se existem os restantes acessórios do recipiente.
 
 2. O timbre dos recipientes usados poderá, de acordo com o tempo de uso e o estado de conservação, ser reduzido pelo técnico que efectuar a prova de pressão.
 
-###### Art. 17.º - 1. O serviço oficial competente marcará, de acordo com o interessado, o dia e hora em que será efectuada a prova de pressão, remetendo as necessárias instruções.
+Art. 17.º - 1. O serviço oficial competente marcará, de acordo com o interessado, o dia e hora em que será efectuada a prova de pressão, remetendo as necessárias instruções.
 
 2. O interessado deve ter pessoal à disposição do funcionário do serviço oficial e preparará o recipiente para a prova de pressão ou, ainda, para a vistoria interior ou exterior, conforme as instruções recebidas do serviço oficial competente.
 
-###### Art. 18.º - 1. Para os efeitos de aplicação das disposições deste Regulamento, são consideradas reparações todos os trabalhos que constem de operações de soldadura, bem como os que possam afectar a segurança do recipiente.
+Art. 18.º - 1. Para os efeitos de aplicação das disposições deste Regulamento, são consideradas reparações todos os trabalhos que constem de operações de soldadura, bem como os que possam afectar a segurança do recipiente.
 
 2. As reparações poderão ser aprovadas temporariamente, antes de ter sido aprovado o projecto e o esquema de contrôle respectivos, se elas forem controladas e aprovadas por um organismo reconhecido.
 
@@ -282,11 +309,11 @@ b) Quando os recipientes, pelas suas condições de serviço, não admitam a exi
 
 #### SECÇÃO II — Órgãos de protecção
 
-###### Art. 19.º - 1. Os órgãos de protecção deverão satisfazer as condições indicadas no código de construção adoptado e a regulamentação técnica nacional.
+Art. 19.º - 1. Os órgãos de protecção deverão satisfazer as condições indicadas no código de construção adoptado e a regulamentação técnica nacional.
 
 2. Em qualquer caso, estes órgãos devem garantir as hipóteses de cálculo estabelecidas no projecto.
 
-###### Art. 20.º - 1. Os geradores de vapor deverão estar equipados com os seguintes órgãos de protecção:
+Art. 20.º - 1. Os geradores de vapor deverão estar equipados com os seguintes órgãos de protecção:
 
 a) Uma válvula de segurança, nos casos em que o gerador tiver menos de 50 m2 de superfície de aquecimento, ou duas válvulas, cada uma capaz de evacuar a quantidade máxima de vapor que pode ser produzido, nos restantes casos;
 
@@ -310,15 +337,15 @@ j) Uma válvula de purga permitindo uma boa eliminação dos sedimentos acumulad
 
 2. Quando condições particulares o justifiquem, pode a entidade oficial competente dispensar alguns dos órgãos de protecção indicados neste artigo ou autorizar a substituição deles por outros.
 
-###### Art. 21.º - 1. Não é permitido o uso de válvulas de segurança com diâmetro interior inferior a 15 mm.
+Art. 21.º - 1. Não é permitido o uso de válvulas de segurança com diâmetro interior inferior a 15 mm.
 
 2. Quando num gerador de vapor é instalado um sobreaquecedor integral, sem válvula, as válvulas de segurança montadas no sobreaquecedor podem ser consideradas como formando parte do equipamento do gerador, desde que pelo menos 75% da capacidade das válvulas de segurança seja colocada no próprio gerador.
 
 3. Um sobreaquecedor, reaquecedor ou economizador, instalado com uma válvula entre ele e o gerador de vapor, deve ser equipado com uma válvula de segurança apropriada, que não deve ser contada como formando parte da capacidade das válvulas de segurança do gerador de vapor.
 
-###### Art. 22.º O manómetro será aferido, nos termos legais, para o timbre do gerador de vapor em que seja colocado, devendo ser graduado, aproximadamente, até o dobro da pressão do timbre e nunca menos do que vez e meia essa pressão.
+Art. 22.º O manómetro será aferido, nos termos legais, para o timbre do gerador de vapor em que seja colocado, devendo ser graduado, aproximadamente, até o dobro da pressão do timbre e nunca menos do que vez e meia essa pressão.
 
-###### Art. 23.º - 1. Cada um dos tubos de nível de água aplicados em geradores de vapor deverá ser facilmente substituível e ter, próximo de si, um indicador ou traço que permita referenciar o nível abaixo do qual a água não deve descer.
+Art. 23.º - 1. Cada um dos tubos de nível de água aplicados em geradores de vapor deverá ser facilmente substituível e ter, próximo de si, um indicador ou traço que permita referenciar o nível abaixo do qual a água não deve descer.
 
 2. O nível referenciado nos termos do número precedente deverá situar-se 60 mm, pelo menos, acima do plano horizontal até ao qual as paredes sejam banhadas por gases de combustão que possam produzir sobreaquecimentos perigosos.
 
@@ -328,7 +355,7 @@ j) Uma válvula de purga permitindo uma boa eliminação dos sedimentos acumulad
 
 ### CAPÍTULO IV — Instalação
 
-###### Art. 24.º - 1. A instalação fixa de recipientes sob pressão fica sujeita a autorização prévia.
+Art. 24.º - 1. A instalação fixa de recipientes sob pressão fica sujeita a autorização prévia.
 
 2. O disposto neste artigo não abrange:
 
@@ -338,11 +365,11 @@ b) Outros recipientes em que o produto PV seja inferior a 15;
 
 c) Todas as tubagens.
 
-###### Art. 25.º - 1. A instalação de qualquer recipiente sujeitar-se-á, sem prejuízo do disposto no artigo seguinte, às prescrições que, para o efeito, se encontrarem estabelecidas em despacho do Secretário de Estado da Indústria.
+Art. 25.º - 1. A instalação de qualquer recipiente sujeitar-se-á, sem prejuízo do disposto no artigo seguinte, às prescrições que, para o efeito, se encontrarem estabelecidas em despacho do Secretário de Estado da Indústria.
 
 2. Na falta das prescrições referidas no número anterior, a entidade oficial competente fixará, em cada caso, as condições de segurança e de prevenção de incómodos para terceiros.
 
-###### Art. 26.º - 1. A instalação de qualquer gerador de vapor deverá fazer-se em local apropriado, suficientemente amplo para o serviço, com arejamento e iluminação adequados e dispondo de saídas fáceis e rápidas pelo menos em dois sentidos opostos.
+Art. 26.º - 1. A instalação de qualquer gerador de vapor deverá fazer-se em local apropriado, suficientemente amplo para o serviço, com arejamento e iluminação adequados e dispondo de saídas fáceis e rápidas pelo menos em dois sentidos opostos.
 
 2. Salvo o disposto no número seguinte, não será autorizada a instalação de geradores:
 
@@ -358,17 +385,17 @@ d) Nos casos em que não estiver assegurada uma distância mínima de 10 m entre
 
 ### CAPÍTULO V — Utilização
 
-###### Art. 27.º - 1. Os recipientes sob pressão de instalação fixa não poderão ser utilizados ou, de qualquer forma, postos em funcionamento sem que a respectiva instalação tenha sido aprovada em vistoria.
+Art. 27.º - 1. Os recipientes sob pressão de instalação fixa não poderão ser utilizados ou, de qualquer forma, postos em funcionamento sem que a respectiva instalação tenha sido aprovada em vistoria.
 
 2. A aprovação da instalação depende da conformidade desta com os termos da autorização a que se refere o artigo 24.º e dos resultados satisfatórios de uma prova de pressão.
 
-###### Art. 28.º - 1. Qualquer recipiente sob pressão deverá ser submetido às visitas e provas periódicas previstas neste Regulamento.
+Art. 28.º - 1. Qualquer recipiente sob pressão deverá ser submetido às visitas e provas periódicas previstas neste Regulamento.
 
 2. Não poderá ser utilizado ou, de algum modo, posto a funcionar o recipiente que não seja, nos prazos estabelecidos nos artigos seguintes, submetido às visitas e provas a que se refere o número precedente ou relativamente ao qual as mesmas visitas e provas não tenham resultado satisfatórias.
 
-###### Art. 29.º As visitas de inspecção destinam-se a verificar as condições de segurança dos recipientes e realizar-se-ão periodicamente, com intervalos que não excedam dois ou cinco anos, consoante se trate ou não de geradores de vapor ou de água sobreaquecida.
+Art. 29.º As visitas de inspecção destinam-se a verificar as condições de segurança dos recipientes e realizar-se-ão periodicamente, com intervalos que não excedam dois ou cinco anos, consoante se trate ou não de geradores de vapor ou de água sobreaquecida.
 
-###### Art. 30.º As provas de pressão devem ser renovadas:
+Art. 30.º As provas de pressão devem ser renovadas:
 
 a) Antes de findar o prazo de validade da última prova e, pelo menos, de dez em dez ou de cinco em cinco anos, conforme se trate de recipientes susceptíveis ou insusceptíveis de serem inspeccionados interiormente;
 
@@ -380,13 +407,13 @@ d) Quando houver motivo para suspeitar da segurança do recipiente;
 
 e) Se houver mudança de instalação.
 
-###### Art. 31.º O técnico que efectuar a prova de pressão fixará o prazo de validade dela, bem como os prazos dentro dos quais hão-de realizar-se as visitas previstas no artigo anterior.
+Art. 31.º O técnico que efectuar a prova de pressão fixará o prazo de validade dela, bem como os prazos dentro dos quais hão-de realizar-se as visitas previstas no artigo anterior.
 
-###### Art. 32.º As provas de pressão previstas nos artigos anteriores efectuar-se-ão de harmonia com as regras dos artigos 13.º a 17.º, com exclusão do disposto no n.º 1 do artigo 13.º e na alínea a) do n.º 1 do artigo 14.º
+Art. 32.º As provas de pressão previstas nos artigos anteriores efectuar-se-ão de harmonia com as regras dos artigos 13.º a 17.º, com exclusão do disposto no n.º 1 do artigo 13.º e na alínea a) do n.º 1 do artigo 14.º
 
 ### CAPÍTULO VI — Competências
 
-###### Art. 33.º - 1. São da competência da entidade oficial:
+Art. 33.º - 1. São da competência da entidade oficial:
 
 a) As aprovações a que se referem os artigos 7.º e 27.º;
 
@@ -400,7 +427,7 @@ c) A execução das provas de pressão previstas neste Regulamento.
 
 4. No caso de construções ou reparações executadas no estrangeiro, poderá a entidade oficial competente devolver ao organismo de contrôle para elas reconhecido a competência da alínea c) do n.º 1.
 
-###### Art. 34.º - 1. Para ser concedido o reconhecimento a um organismo de contrôle, para os fins previstos no n.º 3 do artigo anterior, relativamente a construções em território nacional, deverá o organismo interessado:
+Art. 34.º - 1. Para ser concedido o reconhecimento a um organismo de contrôle, para os fins previstos no n.º 3 do artigo anterior, relativamente a construções em território nacional, deverá o organismo interessado:
 
 a) Requerer o seu reconhecimento à entidade oficial que é competente para conceder a aprovação da qual esse organismo pretende ocupar-se;
 
@@ -414,9 +441,9 @@ d) Declarar que efectuará o contrôle das construções ou reparações para qu
 
 3. O reconhecimento será cancelado sempre que deixem de se verificar as condições necessárias à sua concessão.
 
-###### Art. 35.º Os agentes que realizarem as provas de pressão regulamentares deverão ter o curso de engenheiro mecânico, de engenheiro maquinista naval, de agente técnico de engenharia de máquinas e electrotecnia ou de oficial maquinista da marinha mercante.
+Art. 35.º Os agentes que realizarem as provas de pressão regulamentares deverão ter o curso de engenheiro mecânico, de engenheiro maquinista naval, de agente técnico de engenharia de máquinas e electrotecnia ou de oficial maquinista da marinha mercante.
 
-###### Art. 36.º - 1. As visitas periódicas a que se refere o artigo 28.º deverão ser realizadas por técnicos reconhecidos, para esse fim, pela entidade oficial competente.
+Art. 36.º - 1. As visitas periódicas a que se refere o artigo 28.º deverão ser realizadas por técnicos reconhecidos, para esse fim, pela entidade oficial competente.
 
 2. Para ser concedido o reconhecimento, o interessado deverá requerê-lo à entidade oficial competente e fazer a prova de que:
 
@@ -442,13 +469,13 @@ d) Dois anos como agente de provas de pressão num organismo oficial ou como té
 
 5. O reconhecimento será cancelado sempre que deixem de se verificar as condições necessárias à sua concessão.
 
-###### Art. 37.º - 1. A fiscalização do cumprimento das disposições deste Regulamento cumpre aos agentes das entidades oficiais competentes para o licenciamento dos actos a que se refere o artigo 3.º
+Art. 37.º - 1. A fiscalização do cumprimento das disposições deste Regulamento cumpre aos agentes das entidades oficiais competentes para o licenciamento dos actos a que se refere o artigo 3.º
 
 2. A competência estabelecida neste artigo será exercida em qualquer fase da construção, reparação ou utilização de recipientes.
 
 ### CAPÍTULO VII — Licenciamento da construção ou reparação
 
-###### Art. 38.º - 1. O requerimento para aprovação do projecto de construção ou de reparação deverá ser apresentado pela empresa construtora ou reparadora, em triplicado, sendo selado o original.
+Art. 38.º - 1. O requerimento para aprovação do projecto de construção ou de reparação deverá ser apresentado pela empresa construtora ou reparadora, em triplicado, sendo selado o original.
 
 2. O requerimento mencionará:
 
@@ -468,7 +495,7 @@ g) Número de recipientes iguais a construir ou a reparar.
 
 3. A aprovação requerida será concedida em duplicado do projecto de que se fará entrega ao requerente.
 
-###### Art. 39.º - 1. O projecto deve ser apresentado em triplicado, devidamente assinado e rubricado em todas as peças pelo técnico responsável, sendo selado o original.
+Art. 39.º - 1. O projecto deve ser apresentado em triplicado, devidamente assinado e rubricado em todas as peças pelo técnico responsável, sendo selado o original.
 
 2. Os projectos constarão de memória descritiva, nota de cálculo pormenorizada, desenhos e lista de peças.
 
@@ -482,7 +509,7 @@ c) Nos desenhos - vistas de conjunto e de pormenor que forem necessárias à com
 
 d) Na lista de peças - peças constituintes do recipiente, materiais respectivos e quantidades.
 
-###### Art. 40.º - 1. Terminada a construção ou reparação, a empresa construtora ou reparadora requererá à entidade oficial ou ao organismo de contrôle reconhecido a aprovação da construção ou reparação.
+Art. 40.º - 1. Terminada a construção ou reparação, a empresa construtora ou reparadora requererá à entidade oficial ou ao organismo de contrôle reconhecido a aprovação da construção ou reparação.
 
 2. O requerimento será instruído:
 
@@ -490,13 +517,13 @@ a) Com os elementos de apreciação referidos no artigo 11.º;
 
 b) Com um termo em que o técnico responsável declare que a construção ou reparação foi executada de acordo com o projecto aprovado.
 
-###### Art. 41.º - 1. A aprovação da construção ou reparação será certificada pela entidade oficial competente ou pelo organismo de contrôle reconhecido.
+Art. 41.º - 1. A aprovação da construção ou reparação será certificada pela entidade oficial competente ou pelo organismo de contrôle reconhecido.
 
 2. No caso de a aprovação ser concedida por um organismo de contrôle reconhecido, este deverá remeter cópia do certificado à entidade oficial competente para efeitos de registo.
 
 ### CAPÍTULO VIII — Licenciamento da instalação
 
-###### Art. 42.º - 1. O requerimento para autorização da instalação deve ser apresentado em duplicado, sendo selado o original.
+Art. 42.º - 1. O requerimento para autorização da instalação deve ser apresentado em duplicado, sendo selado o original.
 
 2. O requerimento mencionará:
 
@@ -512,7 +539,7 @@ e) Local da instalação do recipiente e seu destino específico.
 
 3. A autorização requerida será concedida no duplicado do projecto, que se devolverá ao requerente.
 
-###### Art. 43.º - 1. O projecto da instalação deve ser apresentado em duplicado, sendo selado o original.
+Art. 43.º - 1. O projecto da instalação deve ser apresentado em duplicado, sendo selado o original.
 
 2. O projecto constará:
 
@@ -526,7 +553,7 @@ d) Dos desenhos em planta e corte, à escala adequada, da casa ou sala onde se p
 
 ### CAPÍTULO IX — Licenciamento do funcionamento
 
-###### Art. 44.º O requerimento para aprovação da instalação e prova de pressão deverá conter:
+Art. 44.º O requerimento para aprovação da instalação e prova de pressão deverá conter:
 
 a) Nome ou denominação social e domicílio ou sede do requerente;
 
@@ -540,15 +567,15 @@ e) Entidade oficial que autorizou a instalação e data em que o fez;
 
 f) Entidade oficial ou organismo reconhecido que aprovou a construção e data em que o fez.
 
-###### Art. 45.º - 1. As renovações de vistoria e de prova de pressão serão requeridas pelo proprietário do recipiente à entidade oficial nos prazos estabelecidos neste Regulamento:
+Art. 45.º - 1. As renovações de vistoria e de prova de pressão serão requeridas pelo proprietário do recipiente à entidade oficial nos prazos estabelecidos neste Regulamento:
 
 2. A entidade oficial competente pode tomar a iniciativa de renovar a vistoria e prova de pressão em caso de suspeita de falta de segurança.
 
-###### Art. 46.º - 1. Do resultado satisfatório da vistoria e prova de pressão será passado um certificado e uma chapa de timbre, o primeiro para ficar patente no local da instalação do recipiente e a segunda para ser afixada no próprio corpo do recipiente.
+Art. 46.º - 1. Do resultado satisfatório da vistoria e prova de pressão será passado um certificado e uma chapa de timbre, o primeiro para ficar patente no local da instalação do recipiente e a segunda para ser afixada no próprio corpo do recipiente.
 
 2. Do certificado constará a identificação da instalação e do recipiente, a data da execução da vistoria e prova de pressão e a data em que caduca a sua validade.
 
-###### Art. 47.º - 1. As visitas periódicas a que se refere o artigo 28.º serão efectuadas com a aparelhagem adequada à verificação de espessuras e de outras medições que possam considerar-se necessárias.
+Art. 47.º - 1. As visitas periódicas a que se refere o artigo 28.º serão efectuadas com a aparelhagem adequada à verificação de espessuras e de outras medições que possam considerar-se necessárias.
 
 2. O técnico que realizar a visita periódica elaborará um relatório, do qual remeterá uma cópia à entidade oficial competente e outra ao proprietário do recipiente.
 
@@ -556,46 +583,46 @@ f) Entidade oficial ou organismo reconhecido que aprovou a construção e data e
 
 ### CAPÍTULO X — Sinistros
 
-###### Art. 48.º - 1. Quando ocorrer um sinistro num recipiente, não pode ser mudado o estado de coisas dele resultante antes da comparência do técnico do serviço oficial incumbido de averiguar as causas e levantar o respectivo auto.
+Art. 48.º - 1. Quando ocorrer um sinistro num recipiente, não pode ser mudado o estado de coisas dele resultante antes da comparência do técnico do serviço oficial incumbido de averiguar as causas e levantar o respectivo auto.
 
 2. O organismo de contrôle reconhecido que tenha aprovado a construção do recipiente sinistrado ou qualquer das suas reparações deverá remeter os respectivos projectos e restante documentação ao organismo oficial competente que tal solicitar.
 
-###### Art. 49.º No caso de se presumir ou averiguar que o sinistro foi devido a acto criminoso, será remetido um duplicado do auto ao agente do Ministério Público competente.
+Art. 49.º No caso de se presumir ou averiguar que o sinistro foi devido a acto criminoso, será remetido um duplicado do auto ao agente do Ministério Público competente.
 
 ### CAPÍTULO XI — Penalidades
 
-###### Art. 50.º A importação, exportação, construção ou reparação de recipientes em contravenção do disposto no artigo 3.º é punível de multa de valor igual a dez vezes a soma dos valores das taxas de aprovação do projecto e de aprovação da construção.
+Art. 50.º A importação, exportação, construção ou reparação de recipientes em contravenção do disposto no artigo 3.º é punível de multa de valor igual a dez vezes a soma dos valores das taxas de aprovação do projecto e de aprovação da construção.
 
-###### Art. 51.º - 1. A instalação de recipientes contrária ao preceituado no artigo 24.º é punível com multa de valor igual a dez vezes a taxa de autorização de instalação.
+Art. 51.º - 1. A instalação de recipientes contrária ao preceituado no artigo 24.º é punível com multa de valor igual a dez vezes a taxa de autorização de instalação.
 
 2. Quando se averiguar que não foi dado cumprimento às condições de instalação impostas nos termos dos artigos 25.º e 26.º ou de quaisquer outras que, visando os mesmos fins, posteriormente venham a ser estabelecidas pela entidade oficial competente, será cancelada a aprovação de instalação e de prova de pressão que tinham sido concedidas.
 
-###### Art. 52.º Ao proprietário do recipiente será aplicada multa de valor igual a dez vezes a taxa da prova de pressão pela contravenção dos artigos 27.º e 28.º
+Art. 52.º Ao proprietário do recipiente será aplicada multa de valor igual a dez vezes a taxa da prova de pressão pela contravenção dos artigos 27.º e 28.º
 
-###### Art. 53.º - 1. Àquele que calçar a válvula de segurança ou a sobrecarregar ou, por outros meios, impedir o seu funcionamento nas condições normais, será aplicada a multa no valor de cinco vezes a taxa de prova de pressão.
+Art. 53.º - 1. Àquele que calçar a válvula de segurança ou a sobrecarregar ou, por outros meios, impedir o seu funcionamento nas condições normais, será aplicada a multa no valor de cinco vezes a taxa de prova de pressão.
 
 2. A multa prevista no número anterior será de vinte vezes a taxa de prova de pressão, quando o contraventor faça parte do pessoal dirigente.
 
-###### Art. 54.º Àquele que inutilizar qualquer dos aparelhos de segurança do guarnecimento do recipiente será aplicada a multa no valor de dez vezes a taxa de prova de pressão.
+Art. 54.º Àquele que inutilizar qualquer dos aparelhos de segurança do guarnecimento do recipiente será aplicada a multa no valor de dez vezes a taxa de prova de pressão.
 
-###### Art. 55.º Àquele que arrancar ou inutilizar a chapa de timbre do recipiente será aplicada a multa de cinco vezes a taxa de prova de pressão.
+Art. 55.º Àquele que arrancar ou inutilizar a chapa de timbre do recipiente será aplicada a multa de cinco vezes a taxa de prova de pressão.
 
-###### Art. 56.º Nas reincidências as multas serão elevadas ao dobro.
+Art. 56.º Nas reincidências as multas serão elevadas ao dobro.
 
 ### CAPÍTULO XII — Disposições gerais e transitórias
 
-###### Art. 57.º Será imediatamente embargado o funcionamento de qualquer recipiente sob pressão quando se verificar que a sua construção não obedeceu ao projecto de construção aprovado.
+Art. 57.º Será imediatamente embargado o funcionamento de qualquer recipiente sob pressão quando se verificar que a sua construção não obedeceu ao projecto de construção aprovado.
 
-###### Art. 58.º Nas instalações existentes que não satisfaçam aos preceitos do presente Regulamento, os técnicos a quem compete a execução e fiscalização deverão promover soluções convenientes para salvaguardar a segurança do pessoal operário e do público, com o menor gravame possível para a indústria.
+Art. 58.º Nas instalações existentes que não satisfaçam aos preceitos do presente Regulamento, os técnicos a quem compete a execução e fiscalização deverão promover soluções convenientes para salvaguardar a segurança do pessoal operário e do público, com o menor gravame possível para a indústria.
 
-###### Art. 59.º As dúvidas sobre a interpretação e a execução deste Regulamento serão decididas por despacho do Secretário de Estado da Indústria.
+Art. 59.º As dúvidas sobre a interpretação e a execução deste Regulamento serão decididas por despacho do Secretário de Estado da Indústria.
 
-###### Art. 60.º Os modelos dos impressos para execução deste Regulamento serão estabelecidos pela entidade oficial competente.
+Art. 60.º Os modelos dos impressos para execução deste Regulamento serão estabelecidos pela entidade oficial competente.
 
 Marcello Caetano - Hermes Augusto dos Santos.
 
-**Promulgado em 13 de Março de 1974.**
+Promulgado em 13 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/19/1998/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-1998-485051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43af9abf2a4a6c9244dbb3c913bc22fb83162f5163a5c6d98e1ca2d559933a90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ab9d2ae8c043537075550d2f3e6d9f644f7161ca3ad8742ed26554ca2c7a9c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Londres
 - Poluição Marinha
 - Poluição pelos Navios
 - Poluição por Hidrocarbonetos
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:340260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:340260:por
+  label: "Alterado pelo DEC.20/2000.2000.08.11.MES DR.IS-B [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/20-2000-340260
+  date: '2000-08-11'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:45Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +108,15 @@ São aprovadas, para adesão, as emendas de 6 de Março de 1992 ao anexo I ao Pr
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Cardona Gomes Cravinho.
 
-**Assinado em 22 de Maio de 1998.**
+Assinado em 22 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Maio de 1998.**
+Referendado em 24 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ANNEX
 
@@ -299,7 +304,7 @@ Amendments to the record of construction and equipment for oil tankers (form B)
 
 The following new paragraph 5.8 is inserted after the existing paragraph 5.7:
 
-[(ver texto no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)
+[[(ver texto no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)
 
 ## ANEXO — Emendas ao anexo I da MARPOL 73/78
 
@@ -355,7 +360,7 @@ Em caso algum o valor de h deve ser inferior a 1,0 m.
 
 c) Zona do encolamento ou locais em que o encolamento não está claramente definido. - Quando as distâncias h e w são diferentes, a distância w deve ter preferência nos níveis que excedam 1,5 h, acima da linha de água zero, como se indica na fig. 1.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)
 
 d) Capacidade total dos tanques de lastro. - Em todos os navios-tanques que transportem petróleo bruto de porte bruto igual ou superior a 20000 t, e em todos os navios-tanques que transportem produtos refinados de porte bruto igual ou superior a 30000 t, a capacidade total dos tanques laterais, dos tanques de duplo fundo e dos tanques do pique à proa e do pique à ré não deve ser inferior à capacidade dos tanques de lastro segregado, determinada de acordo com as disposições da regra 13. Os tanques e espaços laterais e os do duplo fundo, utilizados para satisfazer os requisitos da regra 13, devem estar dispostos de uma maneira tão uniforme quanto possível ao longo da zona dos tanques de carga. A capacidade suplementar de lastro segregado, que tenha sido prevista para reduzir as tensões longitudinais de flexão da viga do navio, caimento, etc., podem ser colocadas em qualquer ponto do interior do navio.
 
@@ -389,7 +394,7 @@ c) A colocação dos tanques ou espaços laterais deve ser feita de acordo com o
 
 5 - Também podem ser aceites outros métodos de concepção e construção de navios-tanques como alternativa aos requisitos especificados no parágrafo 3, desde que estes métodos assegurem pelo menos o mesmo grau
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)
 
 de protecção contra a poluição por hidrocarbonetos em caso de abalroamento ou encalhe e que sejam aprovados, em princípio, pela Comissão de Protecção do Meio Marinho, tendo em conta as linhas de orientação elaboradas pela Organização.
 
@@ -413,7 +418,7 @@ h = B/15 (m), com um valor mínimo de 0,76 m
 
 na zona do encolamento, e, em locais sem uma definição clara do encolamento, a linha que define o limite dos tanques de carga deve ser paralela à linha de fundo chato de meio do navio, tal como é indicado na fig. 3; e
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)
 
 b) Estar equipados com tanques de carga concebidos de tal modo que a capacidade de cada um dos tanques de carga não ultrapasse 700 m3, a menos que os tanques ou espaços laterais estejam dispostos do modo indicado na alínea a) do parágrafo 3 e que a distância w seja igual a:
 
@@ -489,4 +494,4 @@ d) bi é a distância mínima entre o costado do navio e a antepara longitudinal
 
 Emendas ao relatório de construção e equipamento para navios petroleiros (formulário B)
 
-[(ver texto no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)
+[[(ver texto no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)](https://files.diariodarepublica.pt/1s/1998/07/157a00/30973103.pdf)

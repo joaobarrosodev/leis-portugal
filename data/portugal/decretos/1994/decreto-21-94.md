@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/21/1994/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/21-1994-229364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:06:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a238ab850628af5c76b54b167083b0b72a400eb889a635f145812abe510eae1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 173470e3d13133d8858d67ead2ccc8348e4068fa97ca47fd38a90ebb67c84444
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:06:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
 subjects:
 - Bucareste
 - Convenção
-- Cooperação Técnica
-- Portugal
 - Cooperação Científica
 - Cooperação Económica
 - Cooperação Industrial
+- Cooperação Técnica
+- Portugal
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:06:10Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1994. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - José Manuel Durão Barroso.
 
-**Assinado em 25 de Junho de 1994.**
+Assinado em 25 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Junho de 1994.**
+Referendado em 29 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA ROMÉNIA SOBRE A COOPERAÇÃO ECONÓMICA, INDUSTRIAL E TÉCNICO-CIENTÍFICA.
 
@@ -268,4 +268,4 @@ Formação e preparação de funcionários para a privatização do sector estat
 
 Turismo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/170a00/40964100.pdf))](https://files.diariodarepublica.pt/1s/1994/07/170a00/40964100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/170a00/40964100.pdf)

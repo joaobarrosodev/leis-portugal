@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/16/2014/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-2014-25343750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:22:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5560544f27c66600d9f227c509d8baf13146acf8a6e3fce1e3e67c3023771c6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ed9a4a8ba5b854c402d0938c67719f731f5b2043a3e28c96bb1eea19b4798c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:22:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Comunicação Social
 - Convenção
-- Política de Cooperação
-- Portugal
-- Indonésia
-- Cooperação Tecnológica
-- Jacarta
-- Política Cultural
 - Cooperação Científica
 - Cooperação Cultural
-- Política de Educação
+- Cooperação Tecnológica
 - Desporto
+- Indonésia
+- Jacarta
+- Política Cultural
+- Política de Cooperação
+- Política de Educação
+- Portugal
+- Turismo
 relationships: []
 article_structure:
   article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:22:10Z'
   warnings: []
   errors: []
 ---
@@ -114,15 +114,15 @@ Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 13 de março de 2014. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Nuno Paulo de Sousa Arrobas Crato.
 
-**Assinado em 16 de abril de 2014.**
+Assinado em 16 de abril de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de abril de 2014.**
+Referendado em 22 de abril de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA INDONÉSIA NAS ÁREAS DA EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, CULTURA, TURISMO, JUVENTUDE, DESPORTO E COMUNICAÇÃO SOCIAL.
 
@@ -382,7 +382,7 @@ Pela República da Indonésia:
 
 R. M. Marty M. Natalegawa, Ministro dos Negócios Estrangeiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/08800/0269802708.pdf))](https://files.diariodarepublica.pt/1s/2014/05/08800/0269802708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/08800/0269802708.pdf)
 
 CO-OPERATION AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE REPUBLIC OF INDONESIA IN THE FIELDS OF EDUCATION, SCIENCE AND TECHNOLOGY, CULTURE, TOURISM, YOUTH, SPORTS AND MASS MEDIA.
 

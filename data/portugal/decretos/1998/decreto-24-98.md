@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec/24/1998/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-1998-423603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1525fd8d5b0adf44c1fd6ec5e53a61d925a7d7113ab2ad8fc8378ab89d5829d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b345a6cfc67ad715aaad47ea6dd03cbf54cd07a235abd2342596a2193b6cfb5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cabo Verde
 - Cidade da Praia
+- Comissão
 - Convenção
 - Cooperação Cambial
-- Cooperação Financeira
-- Portugal
-- Comissão
-- Cabo Verde
-- Política Cambial
 - Cooperação Económica
+- Cooperação Financeira
+- Política Cambial
+- Portugal
 relationships: []
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:08:50Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +102,15 @@ São aprovados o Acordo de Cooperação Cambial entre a República Portuguesa e 
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco.
 
-**Assinado em 29 de Junho de 1998.**
+Assinado em 29 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Julho de 1998.**
+Referendado em 1 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO DE COOPERAÇÃO CAMBIAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE
 
@@ -158,11 +158,11 @@ Qualquer das Partes poderá denunciar o presente Acordo, devendo para tanto faze
 
 Cidade da Praia, 13 de Março de 1998.
 
-**O Ministro das Finanças de Portugal:**
+O Ministro das Finanças de Portugal:
 
 António Luciano Pacheco de Sousa Franco.
 
-**O Ministro da Coordenação Económica de Cabo Verde:**
+O Ministro da Coordenação Económica de Cabo Verde:
 
 António Gualberto do Rosário.
 
@@ -176,11 +176,11 @@ Até à entrada em funcionamento da Comissão do Acordo de Cooperação Cambial 
 
 Cidade da Praia, 13 de Março de 1998.
 
-**O Ministro das Finanças de Portugal:**
+O Ministro das Finanças de Portugal:
 
 António Luciano Pacheco de Sousa Franco.
 
-**O Ministro da Coordenação Económica de Cabo Verde:**
+O Ministro da Coordenação Económica de Cabo Verde:
 
 António Gualberto do Rosário.
 
@@ -220,11 +220,11 @@ A COMACC apresentará ao Ministro das Finanças de Portugal e ao Ministro da Coo
 
 Cidade da Praia, 13 de Março de 1998.
 
-**O Ministro das Finanças de Portugal:**
+O Ministro das Finanças de Portugal:
 
 António Luciano Pacheco de Sousa Franco.
 
-**O Ministro da Coordenação Económica de Cabo Verde:**
+O Ministro da Coordenação Económica de Cabo Verde:
 
 António Gualberto do Rosário.
 
@@ -274,11 +274,11 @@ Compete ao Ministério das Finanças e ao Banco de Portugal seleccionar os técn
 
 Cidade da Praia, 13 de Março de 1998.
 
-**O Ministro das Finanças de Portugal:**
+O Ministro das Finanças de Portugal:
 
 António Luciano Pacheco de Sousa Franco.
 
-**O Ministro da Coordenação Económica de Cabo Verde:**
+O Ministro da Coordenação Económica de Cabo Verde:
 
 António Gualberto do Rosário.
 
@@ -328,10 +328,10 @@ Para efeitos de interpretação e execução do presente acordo, será aplicado 
 
 Cidade da Praia, 13 de Março de 1998.
 
-**O Ministro das Finanças de Portugal:**
+O Ministro das Finanças de Portugal:
 
 António Luciano Pacheco de Sousa Franco.
 
-**O Ministro da Coordenação Económica de Cabo Verde:**
+O Ministro da Coordenação Económica de Cabo Verde:
 
 António Gualberto do Rosário.
